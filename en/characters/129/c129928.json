@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c129928",
+  "type": "character",
+  "name": "Andoliza Bread",
+  "original_name": "アンドリーザ・ブレッド",
+  "language": "en",
+  "source_language": "en",
+  "source": "US Secretary of State.",
+  "source_sha256": "c973121bea5e6ce413578be8e4536695e44326ad0c549fb7d6c0d274ff4f8a54",
+  "translation": "US Secretary of State.",
+  "vndb_url": "https://vndb.org/c129928"
+}

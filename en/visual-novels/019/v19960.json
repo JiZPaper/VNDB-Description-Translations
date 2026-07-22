@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19960",
+  "type": "visual_novel",
+  "name": "Tesy Birth Story",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A project developed by users of Pregchan board.",
+  "source_sha256": "7edc0f6a0a8ccb1347049ebec10e38328d15f4dbf86ca2f3eadab5c75e0ffa04",
+  "translation": "A project developed by users of Pregchan board.",
+  "vndb_url": "https://vndb.org/v19960"
+}

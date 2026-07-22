@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44296",
+  "type": "character",
+  "name": "Harvey",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jon P.E.T (Personal Electronic Trackers)  that monitors Jon's every move",
+  "source_sha256": "9f75118df5350e14bb1c7e02917d95a7a6b2f066d5c0844dc365500f1fd0c7d0",
+  "translation": "Jon P.E.T (Personal Electronic Trackers)  that monitors Jon's every move",
+  "vndb_url": "https://vndb.org/c44296"
+}

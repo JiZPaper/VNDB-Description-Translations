@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57161",
+  "type": "visual_novel",
+  "name": "Poka Tiho",
+  "original_name": "Пока Тихо",
+  "language": "en",
+  "source_language": "en",
+  "source": "Made for Anivisual Jam 1.",
+  "source_sha256": "a42151cf744f9d08580af062e1bf5e5a3675582b2a24fd27c70f6683b1cd963c",
+  "translation": "Made for Anivisual Jam 1.",
+  "vndb_url": "https://vndb.org/v57161"
+}

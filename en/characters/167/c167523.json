@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c167523",
+  "type": "character",
+  "name": "Leo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist. \n\nThe name of the character is customizable to whatever the player prefers.\n\nSome details of her backstory and her interests get determined, from a set list that you chose from, as the game progresses.",
+  "source_sha256": "28f26b709300b6a74f2663f8bb916e22af4b3eaae6f91333249e75b036d48018",
+  "translation": "The protagonist. \n\nThe name of the character is customizable to whatever the player prefers.\n\nSome details of her backstory and her interests get determined, from a set list that you chose from, as the game progresses.",
+  "vndb_url": "https://vndb.org/c167523"
+}

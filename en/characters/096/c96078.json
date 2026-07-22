@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96078",
+  "type": "character",
+  "name": "Harold",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The progenitor of all vampires.",
+  "source_sha256": "00560cac8e7b0851e9c476faa99098a24f59469d2e15c9b135093c61e48b5802",
+  "translation": "The progenitor of all vampires.",
+  "vndb_url": "https://vndb.org/c96078"
+}

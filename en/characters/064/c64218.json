@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64218",
+  "type": "character",
+  "name": "Amane Hiiragi",
+  "original_name": "周 柊",
+  "language": "en",
+  "source_language": "en",
+  "source": "A university student and member of a band.",
+  "source_sha256": "55bcd5487297b081ce6edd70764c879cb1835890cf09e10212e1a8902f10ec4b",
+  "translation": "A university student and member of a band.",
+  "vndb_url": "https://vndb.org/c64218"
+}

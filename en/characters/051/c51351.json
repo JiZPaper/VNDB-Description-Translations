@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51351",
+  "type": "character",
+  "name": "Kaul",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Blood Type: B+\nBirthplace: Thyne",
+  "source_sha256": "84ff50762bb5ab166335e1a0fde3771ecc616f6114b0fdc324e6c06a24dfdd20",
+  "translation": "Blood Type: B+\nBirthplace: Thyne",
+  "vndb_url": "https://vndb.org/c51351"
+}

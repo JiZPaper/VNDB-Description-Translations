@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123940",
+  "type": "character",
+  "name": "Sami",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is very athletic and strong.",
+  "source_sha256": "5725e572e56f946ea074d4f6ccbdccd08ae6fe9fac23ae9d8943eab070ac6aef",
+  "translation": "She is very athletic and strong.",
+  "vndb_url": "https://vndb.org/c123940"
+}

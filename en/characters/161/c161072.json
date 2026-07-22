@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161072",
+  "type": "character",
+  "name": "Pioner",
+  "original_name": "Пионер",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]A version of Semyon that became twisted due to being trapped in Sovyonok for an uncountable number of loops.[/spoiler]",
+  "source_sha256": "45ead080b5abcb08d683f980ba08c8ba2e2947777c715235441a423c199f0c72",
+  "translation": "[spoiler]A version of Semyon that became twisted due to being trapped in Sovyonok for an uncountable number of loops.[/spoiler]",
+  "vndb_url": "https://vndb.org/c161072"
+}

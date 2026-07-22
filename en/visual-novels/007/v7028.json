@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7028",
+  "type": "visual_novel",
+  "name": "Pia Carrot Toybox",
+  "original_name": "ぴあきゃろ TOYBOX",
+  "language": "en",
+  "source_language": "en",
+  "source": "Toybox is an assembly of a series of Pia Carrot-based mini games. It's a internet browser interface where you can explore various places or \"virtual sites\" and play games or look at CGs. \n\n[From [url=http://www.densetsu.com/display.php?id=196&style=alphabetical]animedensetsu[/url]]",
+  "source_sha256": "452ab96e01d9a5954f94c6903465804dc89d80fb9b5dc30df98a2d736b6e10d2",
+  "translation": "Toybox is an assembly of a series of Pia Carrot-based mini games. It's a internet browser interface where you can explore various places or \"virtual sites\" and play games or look at CGs. \n\n[From [url=http://www.densetsu.com/display.php?id=196&style=alphabetical]animedensetsu[/url]]",
+  "vndb_url": "https://vndb.org/v7028"
+}

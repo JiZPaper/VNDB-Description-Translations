@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c80382",
+  "type": "character",
+  "name": "Kanata",
+  "original_name": "カナタ",
+  "language": "en",
+  "source_language": "en",
+  "source": "An original character for the PS2 game.",
+  "source_sha256": "c88353eca2214819ad5cf9869a53c3766e3bcbbe8b9241dd761fa90ee0a1e353",
+  "translation": "An original character for the PS2 game.",
+  "vndb_url": "https://vndb.org/c80382"
+}

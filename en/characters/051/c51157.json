@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51157",
+  "type": "character",
+  "name": "Silver",
+  "original_name": "シルバ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The most feared magician.",
+  "source_sha256": "eac35c6671e837beff3b4a06579cddb85f7f74d119f1602e9a69105f1111d5f2",
+  "translation": "The most feared magician.",
+  "vndb_url": "https://vndb.org/c51157"
+}

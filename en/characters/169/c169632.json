@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169632",
+  "type": "character",
+  "name": "Bura",
+  "original_name": "ブラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious girl.",
+  "source_sha256": "2494bd2b56b0feee1481b5b6807c7974de98105a7d68747215b0508f7177f659",
+  "translation": "A mysterious girl.",
+  "vndb_url": "https://vndb.org/c169632"
+}

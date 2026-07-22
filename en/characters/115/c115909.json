@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115909",
+  "type": "character",
+  "name": "Dad",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Burrito's father.",
+  "source_sha256": "6a735706cc0088716492ac0b3eb651137a5cd2adaad7a429ead8aa52512846fe",
+  "translation": "Burrito's father.",
+  "vndb_url": "https://vndb.org/c115909"
+}

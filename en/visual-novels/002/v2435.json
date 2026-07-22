@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2435",
+  "type": "visual_novel",
+  "name": "Shishunki",
+  "original_name": "思春期",
+  "language": "en",
+  "source_language": "en",
+  "source": "The story of a young man and the many girls adopted into his family by his overzealous parents.",
+  "source_sha256": "c7b0d5c7aeface479639d57bfc629e61895d3543b6ce1109b01f8b81a3c80f85",
+  "translation": "The story of a young man and the many girls adopted into his family by his overzealous parents.",
+  "vndb_url": "https://vndb.org/v2435"
+}

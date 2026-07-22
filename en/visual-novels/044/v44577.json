@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44577",
+  "type": "visual_novel",
+  "name": "Kocchi Muite Luchino-san",
+  "original_name": "こっち向いてるきのさん",
+  "language": "en",
+  "source_language": "en",
+  "source": "A game where Norton tries to make the book-obsessed Luchino looks his way.\n\nIdentity V fangame.",
+  "source_sha256": "20cc106626504f666677697bdc6dc11eb270ede085fa01a2b47ca67aba4811d5",
+  "translation": "A game where Norton tries to make the book-obsessed Luchino looks his way.\n\nIdentity V fangame.",
+  "vndb_url": "https://vndb.org/v44577"
+}

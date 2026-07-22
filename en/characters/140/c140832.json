@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140832",
+  "type": "character",
+  "name": "Memoru",
+  "original_name": "メモル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Loukanen's wife",
+  "source_sha256": "730025439bb1a488c4e22a397f625f0c7f505d14fcdac149772df5a9037b32af",
+  "translation": "Loukanen's wife",
+  "vndb_url": "https://vndb.org/c140832"
+}

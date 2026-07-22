@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87975",
+  "type": "character",
+  "name": "Ved'ma",
+  "original_name": "Ведьма",
+  "language": "en",
+  "source_language": "en",
+  "source": "The witch who lives in the forest and sells potions.",
+  "source_sha256": "ff0f8a108246d837a5db2f0b694034ee39292633d600c85696ad97bd6ca81602",
+  "translation": "The witch who lives in the forest and sells potions.",
+  "vndb_url": "https://vndb.org/c87975"
+}

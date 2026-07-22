@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156252",
+  "type": "character",
+  "name": "Gran Dong",
+  "original_name": "동그란",
+  "language": "en",
+  "source_language": "en",
+  "source": "Your Demanding Boss",
+  "source_sha256": "36eb89d2bf1590a229ce4d73a4b4543190a081e3bbddc2ef8879423943d6febc",
+  "translation": "Your Demanding Boss",
+  "vndb_url": "https://vndb.org/c156252"
+}

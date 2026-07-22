@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141406",
+  "type": "character",
+  "name": "Becky",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A student at B&R.\n\nKnows Josy and Maya from highschool.",
+  "source_sha256": "549d023384192dcd6401746351f575d5861a20ab9a7896b2244b007ffa1e4539",
+  "translation": "A student at B&R.\n\nKnows Josy and Maya from highschool.",
+  "vndb_url": "https://vndb.org/c141406"
+}

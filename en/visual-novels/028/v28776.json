@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28776",
+  "type": "visual_novel",
+  "name": "Quickie: Hanami",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Spend a night with Sara or Victoria on a night out to see the Cherry blossoms...",
+  "source_sha256": "8c96c371e87c7e08006cc54aa96359d723acb3fa4480d5028942ab2a66700067",
+  "translation": "Spend a night with Sara or Victoria on a night out to see the Cherry blossoms...",
+  "vndb_url": "https://vndb.org/v28776"
+}

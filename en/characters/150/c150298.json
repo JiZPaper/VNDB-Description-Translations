@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150298",
+  "type": "character",
+  "name": "Me",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Loves to eat pizza. His hobby is playing video games.",
+  "source_sha256": "dbd1326387be6beb220d3b8716be0b94d756e078152cc85b717fba0e8bf94fe1",
+  "translation": "Loves to eat pizza. His hobby is playing video games.",
+  "vndb_url": "https://vndb.org/c150298"
+}

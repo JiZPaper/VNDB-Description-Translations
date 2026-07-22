@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55356",
+  "type": "visual_novel",
+  "name": "Sovjonok 20 let spustja",
+  "original_name": "Совёнок 20 лет спустя",
+  "language": "en",
+  "source_language": "en",
+  "source": "After getting out of Sovjonok, Semyon lives alone for a while. Suddenly, he gets an opportunity to get back into the camp, and he takes it.",
+  "source_sha256": "621490461ed8781f522290a832868ec11fdadcb26f6b73a4a067c40dbf69a59d",
+  "translation": "After getting out of Sovjonok, Semyon lives alone for a while. Suddenly, he gets an opportunity to get back into the camp, and he takes it.",
+  "vndb_url": "https://vndb.org/v55356"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43225",
+  "type": "visual_novel",
+  "name": "With Hermione",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are playing as Harry Potter in his final year at Hogwarts, you are finishing your education after the last Wizarding war.",
+  "source_sha256": "2af8508268e53641c132ba6322d9c0bd9e59d96f3f8891d4ae6e2be3cd67e624",
+  "translation": "You are playing as Harry Potter in his final year at Hogwarts, you are finishing your education after the last Wizarding war.",
+  "vndb_url": "https://vndb.org/v43225"
+}

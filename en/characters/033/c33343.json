@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33343",
+  "type": "character",
+  "name": "Chousen",
+  "original_name": "貂蝉",
+  "language": "en",
+  "source_language": "en",
+  "source": "Lu Bu's lover, she blindly trusts Lu Bu and worships her.\nShe's hostile toward Kan'u because Lu Bu is interested in her.",
+  "source_sha256": "58d4e74fbadc95d68d232e315a7ac512f3842f7a0370e59761b30e1d5b1f4bcd",
+  "translation": "Lu Bu's lover, she blindly trusts Lu Bu and worships her.\nShe's hostile toward Kan'u because Lu Bu is interested in her.",
+  "vndb_url": "https://vndb.org/c33343"
+}

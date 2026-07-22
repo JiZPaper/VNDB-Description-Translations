@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50665",
+  "type": "visual_novel",
+  "name": "Naneun Jasareul Gyeolsimhaetda",
+  "original_name": "나는 자살을 결심했다",
+  "language": "en",
+  "source_language": "en",
+  "source": "I don't want to live anymore,\nI think it would be better to die rather than live like this,\nAs I had such thoughts and stepped onto the rooftop of an apartment,\nThere, I met a young girl.",
+  "source_sha256": "a15187fbb732abd0f214e88dd7a27ee3450a5ac5da1d1d29c8d93eb4ed675c92",
+  "translation": "I don't want to live anymore,\nI think it would be better to die rather than live like this,\nAs I had such thoughts and stepped onto the rooftop of an apartment,\nThere, I met a young girl.",
+  "vndb_url": "https://vndb.org/v50665"
+}

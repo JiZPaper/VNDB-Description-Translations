@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9888",
+  "type": "visual_novel",
+  "name": "Happy Valentine's Day",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Valentine's Day collaboration work",
+  "source_sha256": "5e5332513272256354b84e92f37bbad7ba6af2fbd574129aaecbbc37207ac611",
+  "translation": "Valentine's Day collaboration work",
+  "vndb_url": "https://vndb.org/v9888"
+}

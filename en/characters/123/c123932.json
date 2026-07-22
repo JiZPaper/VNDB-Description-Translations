@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123932",
+  "type": "character",
+  "name": "Alex",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes: Being in the forest, action films and talking to people.",
+  "source_sha256": "cd66d85cf2aea27605d2aa39d8d18411efd6f55d9546031fe65e871c8d5b62b7",
+  "translation": "Likes: Being in the forest, action films and talking to people.",
+  "vndb_url": "https://vndb.org/c123932"
+}

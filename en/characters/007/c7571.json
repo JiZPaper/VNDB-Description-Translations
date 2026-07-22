@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c7571",
+  "type": "character",
+  "name": "Irene",
+  "original_name": "海音",
+  "language": "en",
+  "source_language": "en",
+  "source": "The only survivor of a sinking submarine.\nThey are Chinese-American.\nDue to the effects of artificial hibernation, she lost her memory.",
+  "source_sha256": "0c3bc593bf2dbc247bf57e303f6296969bbada7159a2c504e55834c92c0703a2",
+  "translation": "The only survivor of a sinking submarine.\nThey are Chinese-American.\nDue to the effects of artificial hibernation, she lost her memory.",
+  "vndb_url": "https://vndb.org/c7571"
+}

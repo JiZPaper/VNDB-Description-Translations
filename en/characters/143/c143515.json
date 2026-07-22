@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143515",
+  "type": "character",
+  "name": "Peter Prestley",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A candidate running against Mayor Vermeer in the upcoming election.",
+  "source_sha256": "f4b144ec09a42a78f8fb888ffba35729519f44556638372d37055124e76a8816",
+  "translation": "A candidate running against Mayor Vermeer in the upcoming election.",
+  "vndb_url": "https://vndb.org/c143515"
+}

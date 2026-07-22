@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21230",
+  "type": "visual_novel",
+  "name": "Herbalist - Day After",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Small fun fiction novel from one of game-designers of Moonworks Studio.",
+  "source_sha256": "c805abbd7578d21b2ab8a928fe5a9ba86fcbea9bb508ac5b3b25121bcd8547fd",
+  "translation": "Small fun fiction novel from one of game-designers of Moonworks Studio.",
+  "vndb_url": "https://vndb.org/v21230"
+}

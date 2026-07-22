@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60198",
+  "type": "character",
+  "name": "Farz Murphy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He's Vincent's friend.",
+  "source_sha256": "3b361c9b7b64bf25ae7627130fff7fbaec1ad35c99d3ebe19122aad06105800f",
+  "translation": "He's Vincent's friend.",
+  "vndb_url": "https://vndb.org/c60198"
+}

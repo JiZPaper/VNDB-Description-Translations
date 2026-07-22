@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148787",
+  "type": "character",
+  "name": "Albina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A golem created by Sabrina.",
+  "source_sha256": "c255ae9bb09eba3e6dea0822aae5fbac2c16bd312b603b1d172cadee69a87e81",
+  "translation": "A golem created by Sabrina.",
+  "vndb_url": "https://vndb.org/c148787"
+}

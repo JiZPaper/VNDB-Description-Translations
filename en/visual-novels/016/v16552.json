@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16552",
+  "type": "visual_novel",
+  "name": "Novel-show. Vypusk 0. Nemnogo o novellah i zhanrah",
+  "original_name": "Novel-show. Выпуск 0. Немного о новеллах и жанрах",
+  "language": "en",
+  "source_language": "en",
+  "source": "About visual Novels and genres",
+  "source_sha256": "bf61fb93875fb39df486c8c179eba8905e88d5316719bda2a5c5dd100ea5426c",
+  "translation": "About visual Novels and genres",
+  "vndb_url": "https://vndb.org/v16552"
+}

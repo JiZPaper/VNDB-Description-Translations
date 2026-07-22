@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94219",
+  "type": "character",
+  "name": "Eden",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A customer at Allegra's boutique. She is deaf and cannot lip read well.",
+  "source_sha256": "f9d3555a1ca72381fd29d2fb8232e88cd8944dad9c35ea8d3a1ca24966898765",
+  "translation": "A customer at Allegra's boutique. She is deaf and cannot lip read well.",
+  "vndb_url": "https://vndb.org/c94219"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95153",
+  "type": "character",
+  "name": "Ian",
+  "original_name": "イアン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader of the underworld casino.",
+  "source_sha256": "f36080e5a095e2271105dd617c7dd8d65d4b768f02c247f443bf81e53f370ba3",
+  "translation": "Leader of the underworld casino.",
+  "vndb_url": "https://vndb.org/c95153"
+}

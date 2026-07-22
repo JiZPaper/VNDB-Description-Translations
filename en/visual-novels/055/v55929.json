@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55929",
+  "type": "visual_novel",
+  "name": "Chuvak iz postala v Sovjonke",
+  "original_name": "Чувак из постала в Совёнке",
+  "language": "en",
+  "source_language": "en",
+  "source": "One time, the Postal Dude wanted to commit his favorite massacre, but he got hit on the head and woke up on a bus in \"Sovenok\".",
+  "source_sha256": "07fb85b80922bee449362a958a4218d3d4f2c720c9c52d560cd540513afe12ae",
+  "translation": "One time, the Postal Dude wanted to commit his favorite massacre, but he got hit on the head and woke up on a bus in \"Sovenok\".",
+  "vndb_url": "https://vndb.org/v55929"
+}

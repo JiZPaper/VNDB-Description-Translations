@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130496",
+  "type": "character",
+  "name": "Suzuta",
+  "original_name": "鈴田",
+  "language": "en",
+  "source_language": "en",
+  "source": "X-ray technician.",
+  "source_sha256": "b978bc55c8f8050a67dbd1dbe00a70dadff7644afc7b8dbf8293693a8003b024",
+  "translation": "X-ray technician.",
+  "vndb_url": "https://vndb.org/c130496"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25757",
+  "type": "character",
+  "name": "England",
+  "original_name": "イギリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A self-styled gentleman with an elegant manner and honor. \nIt seems he was a bit of a bad boy in his younger years.",
+  "source_sha256": "9b6efd2cad58dc63e55c20f630e51dd82855e235342ff40431934f2bb3bb6350",
+  "translation": "A self-styled gentleman with an elegant manner and honor. \nIt seems he was a bit of a bad boy in his younger years.",
+  "vndb_url": "https://vndb.org/c25757"
+}

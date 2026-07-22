@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c508",
+  "type": "character",
+  "name": "Sister Yoshizawa",
+  "original_name": "吉沢 先生",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sister Yoshizawa is a teacher at Ohbi Gakuen. While she seems strict, she is an understanding woman.\n[From [url=http://en.wikipedia.org/wiki/Kirakira_(visual_novel)]Wikipedia[/url]]",
+  "source_sha256": "99eaf08e947086da6b4ef1951eb7184939a0f0e432bf3df68bba0cd61d4b6cd4",
+  "translation": "Sister Yoshizawa is a teacher at Ohbi Gakuen. While she seems strict, she is an understanding woman.\n[From [url=http://en.wikipedia.org/wiki/Kirakira_(visual_novel)]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/c508"
+}

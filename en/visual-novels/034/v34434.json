@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34434",
+  "type": "visual_novel",
+  "name": "Len Burns Down A School",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Vocaloid Len Kagamine decides to commit arson.",
+  "source_sha256": "a07cbe448f22048b721316aec0719d6d1236860dadbeae6f975edd7408e54106",
+  "translation": "The Vocaloid Len Kagamine decides to commit arson.",
+  "vndb_url": "https://vndb.org/v34434"
+}

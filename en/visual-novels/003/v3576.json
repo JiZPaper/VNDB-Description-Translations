@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3576",
+  "type": "visual_novel",
+  "name": "Tokyo Kizoku",
+  "original_name": "東京貴族",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is the fan disc of [url=/v12053]Moon Shade[/url]. It included full-color booklet of size A5 with the game's disc.",
+  "source_sha256": "1fdfb5843cd083a53b5476c3e4d0d5e8afd6df6d247ea587a9ca982e61b92d93",
+  "translation": "This is the fan disc of [url=/v12053]Moon Shade[/url]. It included full-color booklet of size A5 with the game's disc.",
+  "vndb_url": "https://vndb.org/v3576"
+}

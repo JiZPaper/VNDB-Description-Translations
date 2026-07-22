@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55473",
+  "type": "character",
+  "name": "Aikawa Shuuji",
+  "original_name": "愛川 周二",
+  "language": "en",
+  "source_language": "en",
+  "source": "Vehicle Type: SW20 Toyota MR2\nPlate Number: Nakano (中野) 500 T 77-98",
+  "source_sha256": "5cbec81313f5add23da93cbafb5507bd6278922d4a328be7c8332a2ec76df796",
+  "translation": "Vehicle Type: SW20 Toyota MR2\nPlate Number: Nakano (中野) 500 T 77-98",
+  "vndb_url": "https://vndb.org/c55473"
+}

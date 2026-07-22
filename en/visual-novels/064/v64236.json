@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64236",
+  "type": "visual_novel",
+  "name": "Akai Yoru, Hoshi no Sasayaki o Kike PL†US",
+  "original_name": "紅い夜、星の囁きを聴け PL†US",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fandisc of Akai Yoru containing the soundtrack, a fanbook, wallpapers, and a bonus scenario.",
+  "source_sha256": "6c44e4b76744677aa5012650b21ba0e4cae972744b33b914afd9ebde3149059e",
+  "translation": "A fandisc of Akai Yoru containing the soundtrack, a fanbook, wallpapers, and a bonus scenario.",
+  "vndb_url": "https://vndb.org/v64236"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102861",
+  "type": "character",
+  "name": "Sheep",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A secretary",
+  "source_sha256": "4abebf31e05ef0bb607aadb5932a393475b8aae91a04577e778435f24f275e7f",
+  "translation": "A secretary",
+  "vndb_url": "https://vndb.org/c102861"
+}

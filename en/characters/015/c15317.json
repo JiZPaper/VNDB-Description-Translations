@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15317",
+  "type": "character",
+  "name": "Rin",
+  "original_name": "りん",
+  "language": "en",
+  "source_language": "en",
+  "source": "An older version of \"Rinrin\" from the Sister Princess game series by Stack, the parent company of 0verflow.",
+  "source_sha256": "c29cb330d45d9f46f398e33179a3aaebd20c64f17e3b760a4eba9cd80dc2a673",
+  "translation": "An older version of \"Rinrin\" from the Sister Princess game series by Stack, the parent company of 0verflow.",
+  "vndb_url": "https://vndb.org/c15317"
+}

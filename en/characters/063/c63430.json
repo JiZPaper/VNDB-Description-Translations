@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c63430",
+  "type": "character",
+  "name": "Assalamu",
+  "original_name": "アサラム",
+  "language": "en",
+  "source_language": "en",
+  "source": "A prison keeper watching the prisoners.",
+  "source_sha256": "d4693b4964a4d14b24f0258d63056173932212bd110dc5a97404e7ec5f00a5be",
+  "translation": "A prison keeper watching the prisoners.",
+  "vndb_url": "https://vndb.org/c63430"
+}

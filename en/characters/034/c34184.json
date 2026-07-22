@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34184",
+  "type": "character",
+  "name": "Sherlock Holmes",
+  "original_name": "シャーロック・ホームズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A rare great detective.\nAge unknown.\nHobby: Violin\nFavorite Food: Ale",
+  "source_sha256": "a94051f4052962678c8b79260468786b7db8a890e20bc3e2adf9e27fa4fbe68a",
+  "translation": "A rare great detective.\nAge unknown.\nHobby: Violin\nFavorite Food: Ale",
+  "vndb_url": "https://vndb.org/c34184"
+}

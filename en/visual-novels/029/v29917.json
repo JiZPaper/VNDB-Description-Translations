@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29917",
+  "type": "visual_novel",
+  "name": "Haunted House",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A very short visual novel about exploring a haunted house.\n\n[From [url=https://saitoki.itch.io/haunted-house]Itch.io[/url]]",
+  "source_sha256": "55af4f3676eb52b8b0a427c0caf9a0d8cf2e5a95040e9ace6f564f7a7c906b9f",
+  "translation": "A very short visual novel about exploring a haunted house.\n\n[From [url=https://saitoki.itch.io/haunted-house]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v29917"
+}

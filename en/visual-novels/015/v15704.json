@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15704",
+  "type": "visual_novel",
+  "name": "Important Game You Should Play",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a message from reality",
+  "source_sha256": "7fb5ab61cf9ada17b5521df558b4a129ef5a94c41c442793b72fd940c6cae400",
+  "translation": "This is a message from reality",
+  "vndb_url": "https://vndb.org/v15704"
+}

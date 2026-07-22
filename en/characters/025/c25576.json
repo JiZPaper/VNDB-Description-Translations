@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25576",
+  "type": "character",
+  "name": "Adachi Makoto",
+  "original_name": "安達 真",
+  "language": "en",
+  "source_language": "en",
+  "source": "Honjo's patient at AMC.",
+  "source_sha256": "169789494683c1710f056e57a7e17aa692c5bac0f0fb7c2811357907593037d1",
+  "translation": "Honjo's patient at AMC.",
+  "vndb_url": "https://vndb.org/c25576"
+}

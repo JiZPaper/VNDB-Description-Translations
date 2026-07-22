@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23500",
+  "type": "visual_novel",
+  "name": "Boku-tachi no Orusuban",
+  "original_name": "ぼくたちのおるすばん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Older brother brings his baby sister to play some games with his friends...",
+  "source_sha256": "ac0ed1dc4e28072395ed6de526fe725840e42d765b491b40192a570f5c650b64",
+  "translation": "Older brother brings his baby sister to play some games with his friends...",
+  "vndb_url": "https://vndb.org/v23500"
+}

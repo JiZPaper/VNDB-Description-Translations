@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99484",
+  "type": "character",
+  "name": "Big Boss",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Big Boss  is the central character of the Metal Gear series.",
+  "source_sha256": "e802e1abd2e6bdb0b70941e5833abb58dc484b842366f4bf8147b99d98974915",
+  "translation": "Big Boss  is the central character of the Metal Gear series.",
+  "vndb_url": "https://vndb.org/c99484"
+}

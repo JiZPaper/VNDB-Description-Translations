@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9062",
+  "type": "character",
+  "name": "Tango",
+  "original_name": "タンゴ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Talking automata and Agnes's masterpiece. Made from a birthday present. As such a high level automata, expends a high quantity of Ale, and spends much time sleeping.",
+  "source_sha256": "f3f86841c829d717790926bf9c7d72b70249baaaaf33a50eb9c2af1ebb573478",
+  "translation": "Talking automata and Agnes's masterpiece. Made from a birthday present. As such a high level automata, expends a high quantity of Ale, and spends much time sleeping.",
+  "vndb_url": "https://vndb.org/c9062"
+}

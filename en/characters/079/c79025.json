@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79025",
+  "type": "character",
+  "name": "Will",
+  "original_name": "ウィル",
+  "language": "en",
+  "source_language": "en",
+  "source": "The younger wolf brother.",
+  "source_sha256": "4ea4db15ac74975fb125150c38a11eb75406f06edee6059f05f1a2eb6ddb3aca",
+  "translation": "The younger wolf brother.",
+  "vndb_url": "https://vndb.org/c79025"
+}

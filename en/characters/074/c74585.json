@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c74585",
+  "type": "character",
+  "name": "Kalmia",
+  "original_name": "カルミア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Humpty Dumpty.",
+  "source_sha256": "4da0e451fa303ebd2c20405e53bde1c8af47c04c75388807a1d05c7eff9d0e67",
+  "translation": "Humpty Dumpty.",
+  "vndb_url": "https://vndb.org/c74585"
+}

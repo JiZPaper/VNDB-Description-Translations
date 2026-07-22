@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50892",
+  "type": "visual_novel",
+  "name": "Boku no Kokoro no Kizu",
+  "original_name": "僕の心の傷",
+  "language": "en",
+  "source_language": "en",
+  "source": "One day, protagonist Yuya Takahashi's classmate is found dead by suicide.\n\nHe then seeks revenge by killing those responsible for her suicide.",
+  "source_sha256": "0b0ee9874445ed2abe923198f7b08342d756f2af9b4aab90b17f4e447824ec71",
+  "translation": "One day, protagonist Yuya Takahashi's classmate is found dead by suicide.\n\nHe then seeks revenge by killing those responsible for her suicide.",
+  "vndb_url": "https://vndb.org/v50892"
+}

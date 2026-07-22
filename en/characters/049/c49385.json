@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c49385",
+  "type": "character",
+  "name": "Gill",
+  "original_name": "ギル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A hero of the former Union and the leader of the temple knights.\nHe's not related to [url=/c48839]Eve[/url] by blood, but he still has been watching over her as an older brother.",
+  "source_sha256": "e5904dcccca129c9f53d53e45f0909675339dbee420d9c97d7e916ed2b21f94c",
+  "translation": "A hero of the former Union and the leader of the temple knights.\nHe's not related to [url=/c48839]Eve[/url] by blood, but he still has been watching over her as an older brother.",
+  "vndb_url": "https://vndb.org/c49385"
+}

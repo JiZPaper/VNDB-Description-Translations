@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130744",
+  "type": "character",
+  "name": "Yokomizo Sango",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An inspector from Shizuoka Police.",
+  "source_sha256": "754a4cace977d93d514bf970a3c8b46d869b3888c362cf07f82837bf74aa4b3b",
+  "translation": "An inspector from Shizuoka Police.",
+  "vndb_url": "https://vndb.org/c130744"
+}

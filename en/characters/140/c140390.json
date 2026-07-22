@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140390",
+  "type": "character",
+  "name": "Mabel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She sells tickets at an amusement park.",
+  "source_sha256": "9ff23afc62a3b74b4b3240b323980fce4119020ee9b1e60dd62fb95675afbda9",
+  "translation": "She sells tickets at an amusement park.",
+  "vndb_url": "https://vndb.org/c140390"
+}

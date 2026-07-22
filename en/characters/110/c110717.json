@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110717",
+  "type": "character",
+  "name": "Chie",
+  "original_name": "ちえ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Chie has 3 different appearances (hairstyle, accessories, hair color, face expressions) and 3 personalities (interests, personality traits, speech style) based on the 13 choices made at the start of each playthrough, resulting in 9 available variations.",
+  "source_sha256": "f541a44d169f895f72d6b6776ac4c32de78a53809b731a74a1db38a32c421db5",
+  "translation": "Chie has 3 different appearances (hairstyle, accessories, hair color, face expressions) and 3 personalities (interests, personality traits, speech style) based on the 13 choices made at the start of each playthrough, resulting in 9 available variations.",
+  "vndb_url": "https://vndb.org/c110717"
+}

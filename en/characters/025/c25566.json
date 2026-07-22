@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25566",
+  "type": "character",
+  "name": "NEMO",
+  "original_name": "ネモ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Old style droid that has worked for AMC since it was founded.",
+  "source_sha256": "a76c351236089b792b1ef30641d016321d005312d846ec86d0d07e265da9a480",
+  "translation": "Old style droid that has worked for AMC since it was founded.",
+  "vndb_url": "https://vndb.org/c25566"
+}

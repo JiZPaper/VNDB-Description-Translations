@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134219",
+  "type": "character",
+  "name": "Kara",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Kari's sister.",
+  "source_sha256": "389bcd23d216ee39f604370d07fc383ff22c6e3b684fc5dea072332e712a8b01",
+  "translation": "Kari's sister.",
+  "vndb_url": "https://vndb.org/c134219"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15082",
+  "type": "visual_novel",
+  "name": "Usotsuki April",
+  "original_name": "嘘つきエイプリル",
+  "language": "en",
+  "source_language": "en",
+  "source": "April Fool's game.",
+  "source_sha256": "4d36273f0c9ce4552d444ed367f0a0ad4fb70e0e866831dee89425cf039e6631",
+  "translation": "April Fool's game.",
+  "vndb_url": "https://vndb.org/v15082"
+}

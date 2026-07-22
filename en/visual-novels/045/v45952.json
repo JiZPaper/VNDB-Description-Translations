@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45952",
+  "type": "visual_novel",
+  "name": "Daleko Stąd: Akt 1",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Visual novel with a detective theme.",
+  "source_sha256": "07b1e23dab86c6c669708ffe01f345dea7044a47604758ba18aefa17d7eed613",
+  "translation": "Visual novel with a detective theme.",
+  "vndb_url": "https://vndb.org/v45952"
+}

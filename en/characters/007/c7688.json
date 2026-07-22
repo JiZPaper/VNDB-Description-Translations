@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c7688",
+  "type": "character",
+  "name": "Alice",
+  "original_name": "アリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The school principal. She looks like a kid, but is actually very old.\nShe loves strawberry milk.",
+  "source_sha256": "ab5d083bf8bb94ad60533d116042ed25fdf7ad195ac1e61aece72914524b4b8d",
+  "translation": "The school principal. She looks like a kid, but is actually very old.\nShe loves strawberry milk.",
+  "vndb_url": "https://vndb.org/c7688"
+}

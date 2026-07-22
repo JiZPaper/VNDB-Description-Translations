@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55226",
+  "type": "visual_novel",
+  "name": "Yodaka no Hakoniwa",
+  "original_name": "よだかの箱庭",
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about a child who is loosely held captive by a young boy and somehow manages to get out.\n\n[Translated from [url=https://novelgame.jp/games/show/10903]Novelgame[/url]]",
+  "source_sha256": "cfd3c8792fe5d43e360e3e12bc4e3759900d59a6dc7c0f913a16f508c0a69bf3",
+  "translation": "A story about a child who is loosely held captive by a young boy and somehow manages to get out.\n\n[Translated from [url=https://novelgame.jp/games/show/10903]Novelgame[/url]]",
+  "vndb_url": "https://vndb.org/v55226"
+}

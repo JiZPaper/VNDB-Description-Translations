@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93442",
+  "type": "character",
+  "name": "Alice Brooks",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Alice has recently moved into another city, in order to study architecture.",
+  "source_sha256": "d4c5926eb60e04dfe12e81517ddd5abb6d509a31d693c0361a54ff2513d21bac",
+  "translation": "Alice has recently moved into another city, in order to study architecture.",
+  "vndb_url": "https://vndb.org/c93442"
+}

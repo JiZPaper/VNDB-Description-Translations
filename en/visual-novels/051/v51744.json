@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51744",
+  "type": "visual_novel",
+  "name": "Test Subject",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short VN in which you become a necromancer's test subject.",
+  "source_sha256": "2fd1e172fee4fc4547f2db816054afa103c5b1df4c0e2bb6397233a26d3384ee",
+  "translation": "A short VN in which you become a necromancer's test subject.",
+  "vndb_url": "https://vndb.org/v51744"
+}

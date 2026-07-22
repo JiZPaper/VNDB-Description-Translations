@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89575",
+  "type": "character",
+  "name": "Ruslan",
+  "original_name": "ルスラン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes: Nothing\nDislikes: Beans",
+  "source_sha256": "54ce3ca2ccc8d1f5c6c782394386f3c3cee379911b0ed96a132512181dc3f682",
+  "translation": "Likes: Nothing\nDislikes: Beans",
+  "vndb_url": "https://vndb.org/c89575"
+}

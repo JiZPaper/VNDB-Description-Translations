@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61930",
+  "type": "character",
+  "name": "Calanon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mage Adviser",
+  "source_sha256": "b59ec14d074cdae4e1449db2f4abf16e067e77efab9419dbee337648bd753cc4",
+  "translation": "Mage Adviser",
+  "vndb_url": "https://vndb.org/c61930"
+}

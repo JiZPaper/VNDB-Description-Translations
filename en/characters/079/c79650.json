@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79650",
+  "type": "character",
+  "name": "Lilina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lord Derayl's granddaughter.",
+  "source_sha256": "6574038d3ec5c1b0564e460ffe43a9218f43d199faca66c8f7beafb418203450",
+  "translation": "Lord Derayl's granddaughter.",
+  "vndb_url": "https://vndb.org/c79650"
+}

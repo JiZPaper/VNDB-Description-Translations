@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4703",
+  "type": "character",
+  "name": "Dora",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Don't call Dora the dwarf a thief, since she might be offended! She will join the group for the sake of adventure.",
+  "source_sha256": "ae680e6bd89f3b371abb8c5857ac77143e8bca1b4deb34b2dcc20937f074468a",
+  "translation": "Don't call Dora the dwarf a thief, since she might be offended! She will join the group for the sake of adventure.",
+  "vndb_url": "https://vndb.org/c4703"
+}

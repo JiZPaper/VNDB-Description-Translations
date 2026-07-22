@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159703",
+  "type": "character",
+  "name": "Venus",
+  "original_name": "ビーナス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A pedlar plying her trade on Fresno Street. She seems to make her money selling meagre little fireworks to children.\n\n[From in-game profile]",
+  "source_sha256": "8039533fc993934ccacd151fd60a6624a7b4ac9ed1764856d1642a22936f06ee",
+  "translation": "A pedlar plying her trade on Fresno Street. She seems to make her money selling meagre little fireworks to children.\n\n[From in-game profile]",
+  "vndb_url": "https://vndb.org/c159703"
+}

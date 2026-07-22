@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65730",
+  "type": "visual_novel",
+  "name": "Damashite Sukutte Kyouso-sama",
+  "original_name": "騙して救って教祖さま",
+  "language": "en",
+  "source_language": "en",
+  "source": "You visit a consultation session hosted by a religious organization. As you converse with a suspicious-looking male cult leader, you learn about happiness, family, and try to get to the bottom of what he might be hiding.",
+  "source_sha256": "cdd24631b6ebf533cd0497684c6ab9ca1e533f506fb7256b33a2627cd9a238f1",
+  "translation": "You visit a consultation session hosted by a religious organization. As you converse with a suspicious-looking male cult leader, you learn about happiness, family, and try to get to the bottom of what he might be hiding.",
+  "vndb_url": "https://vndb.org/v65730"
+}

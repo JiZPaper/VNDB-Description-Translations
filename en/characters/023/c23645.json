@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c23645",
+  "type": "character",
+  "name": "Niko Temple",
+  "original_name": "ニコ＝テンプル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hobbies: reading\nSkills: speed reading\nLikes: guessing culprit in mystery novels, fruits\nDislikes: bitter things\nWeakness: greasy things",
+  "source_sha256": "8432685c6d50986ba5d672dddc6dc3557c4b520d66cfeb970114baab3b53abbe",
+  "translation": "Hobbies: reading\nSkills: speed reading\nLikes: guessing culprit in mystery novels, fruits\nDislikes: bitter things\nWeakness: greasy things",
+  "vndb_url": "https://vndb.org/c23645"
+}

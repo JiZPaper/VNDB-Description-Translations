@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93263",
+  "type": "character",
+  "name": "Hatter",
+  "original_name": "帽子屋",
+  "language": "en",
+  "source_language": "en",
+  "source": "A faithful servant of Knight of Spades. He uses the hypnotism attack.",
+  "source_sha256": "d573eb90d6e5ee7101da8d5fc487f47c77094c4fe588d2198f7cb89ea068731e",
+  "translation": "A faithful servant of Knight of Spades. He uses the hypnotism attack.",
+  "vndb_url": "https://vndb.org/c93263"
+}

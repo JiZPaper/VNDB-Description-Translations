@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93479",
+  "type": "character",
+  "name": "John Redfern",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fan of Miss Terri Mysteries.",
+  "source_sha256": "cce35a36a6c04fb94d2f05595fe99b5128e803177abf452e7d70f5cb089e6e68",
+  "translation": "A fan of Miss Terri Mysteries.",
+  "vndb_url": "https://vndb.org/c93479"
+}

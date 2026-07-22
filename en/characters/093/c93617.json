@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93617",
+  "type": "character",
+  "name": "Firmin Richard",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A famous composter and conductor. His key works include \"Death of Hercules\" and he's a great admirer of Wagner.",
+  "source_sha256": "21aefe7bf93da4c8b9ab2a26f47dc3929efce27465ee63757cd61f31c7f35c51",
+  "translation": "A famous composter and conductor. His key works include \"Death of Hercules\" and he's a great admirer of Wagner.",
+  "vndb_url": "https://vndb.org/c93617"
+}

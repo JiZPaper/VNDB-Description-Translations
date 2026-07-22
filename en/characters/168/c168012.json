@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168012",
+  "type": "character",
+  "name": "SIBLLA",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Kaiju",
+  "source_sha256": "f62279783ec71585fff6df725c39a0060c2109bcc4eb8c84cfe35e5db94fefd8",
+  "translation": "Kaiju",
+  "vndb_url": "https://vndb.org/c168012"
+}

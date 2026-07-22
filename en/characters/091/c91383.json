@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91383",
+  "type": "character",
+  "name": "Jessica",
+  "original_name": "ジェシカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A cleric who worships the Goddess of Order.\n\nA master of holy magic, she became an adventurer to purge the world of evil and to provide healing to others.",
+  "source_sha256": "e55da037a3774585b8016c2a9559a9231630ea4e8b139255c9a63059f21b4086",
+  "translation": "A cleric who worships the Goddess of Order.\n\nA master of holy magic, she became an adventurer to purge the world of evil and to provide healing to others.",
+  "vndb_url": "https://vndb.org/c91383"
+}

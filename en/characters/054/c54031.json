@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c54031",
+  "type": "character",
+  "name": "Emilio Belmont",
+  "original_name": "エミリオ＝ベルモント",
+  "language": "en",
+  "source_language": "en",
+  "source": "A chamberlain.\nA servant that waits on [url=/c54024]Cain[/url] and the protagonist.\nHe has a composed and gentle personality and is loved by everyone.\nHe often listens to the protagonist's problems and gives advice.\n\n(CV.松 茸夫)",
+  "source_sha256": "7d685f1f64af3e9ae0d577d4ba8c559edda2f645453c189921399014f04bb99c",
+  "translation": "A chamberlain.\nA servant that waits on [url=/c54024]Cain[/url] and the protagonist.\nHe has a composed and gentle personality and is loved by everyone.\nHe often listens to the protagonist's problems and gives advice.\n\n(CV.松 茸夫)",
+  "vndb_url": "https://vndb.org/c54031"
+}

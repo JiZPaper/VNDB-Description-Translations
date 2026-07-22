@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152749",
+  "type": "character",
+  "name": "Tanaka",
+  "original_name": "田中",
+  "language": "en",
+  "source_language": "en",
+  "source": "Member of the Watos Troupe theater club.",
+  "source_sha256": "ebddebb8bda54929a6073fa56d1e27cdc3f392b43e57ed2a1fd21e0dcbadf8e2",
+  "translation": "Member of the Watos Troupe theater club.",
+  "vndb_url": "https://vndb.org/c152749"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40467",
+  "type": "character",
+  "name": "Alto",
+  "original_name": "アルト",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Hey, Everything's safe now.\"\n\nA hearty man, he acts as the protagonist's guardian.\nAt first glance he's inviting and friendly, but is seems he holds the key to something important.",
+  "source_sha256": "9da4d3ed05b139b0e093571e5721837b7311791a1529d4441edb4938df31947d",
+  "translation": "\"Hey, Everything's safe now.\"\n\nA hearty man, he acts as the protagonist's guardian.\nAt first glance he's inviting and friendly, but is seems he holds the key to something important.",
+  "vndb_url": "https://vndb.org/c40467"
+}

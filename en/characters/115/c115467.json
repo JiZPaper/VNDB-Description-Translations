@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115467",
+  "type": "character",
+  "name": "Fatso",
+  "original_name": "肥沙",
+  "language": "en",
+  "source_language": "en",
+  "source": "A detective in the Tsim Sha Tsui Police Department. He is a colleague of Lai, Wa Sam, and Chase.",
+  "source_sha256": "b0089cebd52535d39ce9171071231a571e542a168fb7e99fcbe1b48b146d9ae5",
+  "translation": "A detective in the Tsim Sha Tsui Police Department. He is a colleague of Lai, Wa Sam, and Chase.",
+  "vndb_url": "https://vndb.org/c115467"
+}

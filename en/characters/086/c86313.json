@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86313",
+  "type": "character",
+  "name": "Buddy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Partner Type: Horse\n\nSpecial Attack:\nSurprise enemies with incredible speed like a shooting star.\n\nFavorite Food: Hay\n\n[Official in-game description]",
+  "source_sha256": "cea4cc88ae6cd0988ee1fb2902cc9e4f65ed344e9a7fb748a958c84892a5bf63",
+  "translation": "Partner Type: Horse\n\nSpecial Attack:\nSurprise enemies with incredible speed like a shooting star.\n\nFavorite Food: Hay\n\n[Official in-game description]",
+  "vndb_url": "https://vndb.org/c86313"
+}

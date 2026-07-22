@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82180",
+  "type": "character",
+  "name": "Special Agent Dana",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The agent who provides Charles' clone with information.",
+  "source_sha256": "7c4fb92af83ef88dbeab4500ec21623c4df524937d9a068ec0867f704e620636",
+  "translation": "The agent who provides Charles' clone with information.",
+  "vndb_url": "https://vndb.org/c82180"
+}

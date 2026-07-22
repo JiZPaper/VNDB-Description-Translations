@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13202",
+  "type": "visual_novel",
+  "name": "Labuda",
+  "original_name": "Лабуда",
+  "language": "en",
+  "source_language": "en",
+  "source": "The story about certain magical girl from some Relatively Nothern Country far away.",
+  "source_sha256": "fa7760846e6055c0e7fb02ab1ca13dc72b61c75c92019e80791a48278bd2207d",
+  "translation": "The story about certain magical girl from some Relatively Nothern Country far away.",
+  "vndb_url": "https://vndb.org/v13202"
+}

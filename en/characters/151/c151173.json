@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c151173",
+  "type": "character",
+  "name": "Marnie",
+  "original_name": "マリィ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A dark-type Pokemon gym leader from Sword and Shield. She is famous in the Galar region and suffers from a fan club called \"Team Yell.\"",
+  "source_sha256": "42735773e80ac137e4082e6e697ef6e99da5b6f7d1245dbd38158dd859be7df1",
+  "translation": "A dark-type Pokemon gym leader from Sword and Shield. She is famous in the Galar region and suffers from a fan club called \"Team Yell.\"",
+  "vndb_url": "https://vndb.org/c151173"
+}

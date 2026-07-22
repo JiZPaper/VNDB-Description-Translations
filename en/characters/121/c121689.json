@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c121689",
+  "type": "character",
+  "name": "Magnagarde",
+  "original_name": "マグナガルド",
+  "language": "en",
+  "source_language": "en",
+  "source": "A butler who serves [url=/c79157]Soron Anshe[/url]'s house. Magnagarde also used to be married to [url=/c121686]Tasha[/url].",
+  "source_sha256": "dce0391764fdd6536d66518f723877d3a502037e2ee92517675f1dec8ff209b6",
+  "translation": "A butler who serves [url=/c79157]Soron Anshe[/url]'s house. Magnagarde also used to be married to [url=/c121686]Tasha[/url].",
+  "vndb_url": "https://vndb.org/c121689"
+}

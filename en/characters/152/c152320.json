@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152320",
+  "type": "character",
+  "name": "Ken",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are playing as Ken, a guy who recently lost his low-paying job and has no choice but to move in with an older family friend.",
+  "source_sha256": "4da349dade5221d8b8e7d8f4664cf118bb3118e1a48db3cc4580c9fd221e1b32",
+  "translation": "You are playing as Ken, a guy who recently lost his low-paying job and has no choice but to move in with an older family friend.",
+  "vndb_url": "https://vndb.org/c152320"
+}

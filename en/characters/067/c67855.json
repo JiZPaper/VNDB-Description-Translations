@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c67855",
+  "type": "character",
+  "name": "Lady Liberty",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A \"Cosplayer\" of the Statue of Liberty.",
+  "source_sha256": "d2775b84984d7072bff11432a5b6a438a122b77a64c882fbba26594d543813ab",
+  "translation": "A \"Cosplayer\" of the Statue of Liberty.",
+  "vndb_url": "https://vndb.org/c67855"
+}

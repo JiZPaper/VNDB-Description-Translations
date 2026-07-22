@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c142204",
+  "type": "character",
+  "name": "Theo Dore",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Host of the Radio from Beyond.",
+  "source_sha256": "9499e5dccf0c4fc818861738ad232de092445c484b3dda47d79a29f42d69feb5",
+  "translation": "Host of the Radio from Beyond.",
+  "vndb_url": "https://vndb.org/c142204"
+}

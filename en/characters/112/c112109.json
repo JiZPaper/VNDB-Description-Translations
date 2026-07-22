@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112109",
+  "type": "character",
+  "name": "Catherine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A middle-aged woman from a wealthy family. She lives in a spacious home with her husband and has only passing familiarity with Dickon, who doesn't know her at all.",
+  "source_sha256": "30b43387dbe5011eac38d0ee86b95a93a4bd195365e77290b7f318da408557d4",
+  "translation": "A middle-aged woman from a wealthy family. She lives in a spacious home with her husband and has only passing familiarity with Dickon, who doesn't know her at all.",
+  "vndb_url": "https://vndb.org/c112109"
+}

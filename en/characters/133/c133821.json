@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133821",
+  "type": "character",
+  "name": "Yukimaru",
+  "original_name": "ゆきまる",
+  "language": "en",
+  "source_language": "en",
+  "source": "Someone from somewhere far away, who can be met in a dream at 4 AM.\nHe appears in several worlds and works by Charon, playing several roles.",
+  "source_sha256": "b4ac6c1f00526871780b8d5ea3afe3d69fe1b44671e4109b37762e750fc834d4",
+  "translation": "Someone from somewhere far away, who can be met in a dream at 4 AM.\nHe appears in several worlds and works by Charon, playing several roles.",
+  "vndb_url": "https://vndb.org/c133821"
+}

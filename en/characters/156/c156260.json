@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156260",
+  "type": "character",
+  "name": "Kusumi Natsu",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A nurse working at Nishikata Hospital.",
+  "source_sha256": "c148ae5ade85abf0eb7007249200bd77c433a6574897846494a18870aed74dd1",
+  "translation": "A nurse working at Nishikata Hospital.",
+  "vndb_url": "https://vndb.org/c156260"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30116",
+  "type": "character",
+  "name": "Chika",
+  "original_name": "智香",
+  "language": "en",
+  "source_language": "en",
+  "source": "A teacher at Minori's school.",
+  "source_sha256": "5ee8778b1eff426fb02d4996cf1c5c4bd58ca7177f830d8f110bcd48abc70500",
+  "translation": "A teacher at Minori's school.",
+  "vndb_url": "https://vndb.org/c30116"
+}

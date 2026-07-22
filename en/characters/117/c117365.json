@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117365",
+  "type": "character",
+  "name": "Emma",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Emma is one of Meilin's patient. Her mother died in a car crash when sha was only six years old. She suffers from panic attacks, which have gotten much worse since her classmate Alex died in a car accident two month ago.",
+  "source_sha256": "4c29994fcea151a5e4398294eee1dfb156a9e6b7abe6ea4f39e67d2b936c2188",
+  "translation": "Emma is one of Meilin's patient. Her mother died in a car crash when sha was only six years old. She suffers from panic attacks, which have gotten much worse since her classmate Alex died in a car accident two month ago.",
+  "vndb_url": "https://vndb.org/c117365"
+}

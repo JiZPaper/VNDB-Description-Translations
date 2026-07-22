@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93700",
+  "type": "character",
+  "name": "Elizabeth",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Eileen and Eve's mother.",
+  "source_sha256": "014dbd62214322b295ef7814fb19c908dddbe2e09cf5dfea24d0ec78bbca35fb",
+  "translation": "Eileen and Eve's mother.",
+  "vndb_url": "https://vndb.org/c93700"
+}

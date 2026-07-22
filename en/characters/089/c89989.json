@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89989",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The nameable male protagonist. His grandfather left him a house in the woods. He accidentally gains minor magical powers.",
+  "source_sha256": "39e1f8c29d8f9cbffc4d0d98d471eeb7aee835e1408c60cc3d1f8c66b5293ecc",
+  "translation": "The nameable male protagonist. His grandfather left him a house in the woods. He accidentally gains minor magical powers.",
+  "vndb_url": "https://vndb.org/c89989"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143180",
+  "type": "character",
+  "name": "Willow",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Ethan's older sister.\nHer real name is Cedar, but Ethan calls her Cedey.[/spoiler]",
+  "source_sha256": "dcdb22251346faece181b892506c3987f3e97b76e3d0000552577d5cbe416a92",
+  "translation": "[spoiler]Ethan's older sister.\nHer real name is Cedar, but Ethan calls her Cedey.[/spoiler]",
+  "vndb_url": "https://vndb.org/c143180"
+}

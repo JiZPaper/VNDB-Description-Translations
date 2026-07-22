@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21353",
+  "type": "visual_novel",
+  "name": "Shihori Escape",
+  "original_name": "しほりエスケープ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kitarou wakes up in his house, dazed and confused about his current situation. He wanders around his house, collecting scraps of paper and remembering a girl named Shihori. As he progresses, he slowly realizes that there's something sinister going on.",
+  "source_sha256": "997b76b6e4e788c1e246f77350c3ad0e34746854199ac84cff1ee8232048c4de",
+  "translation": "Kitarou wakes up in his house, dazed and confused about his current situation. He wanders around his house, collecting scraps of paper and remembering a girl named Shihori. As he progresses, he slowly realizes that there's something sinister going on.",
+  "vndb_url": "https://vndb.org/v21353"
+}

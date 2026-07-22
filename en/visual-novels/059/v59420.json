@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59420",
+  "type": "visual_novel",
+  "name": "Cezary",
+  "original_name": "ツェザリ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short romance story set in a magic school about Cezary, the rumored eccentric senior on campus, and the female student who ends up becoming his assistant.",
+  "source_sha256": "8777c19fd21302faf0180866f6e5c68f65e461e4a167583f5bb8c6a7455c5d87",
+  "translation": "A short romance story set in a magic school about Cezary, the rumored eccentric senior on campus, and the female student who ends up becoming his assistant.",
+  "vndb_url": "https://vndb.org/v59420"
+}

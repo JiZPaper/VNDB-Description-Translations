@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c18585",
+  "type": "character",
+  "name": "Homer",
+  "original_name": "ホーマー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A BOI agent who tries to recruit Gian as an informant.",
+  "source_sha256": "280736ece445650eb19b3c00467f321eb58119e6915cb89e00bf547b5a59a152",
+  "translation": "A BOI agent who tries to recruit Gian as an informant.",
+  "vndb_url": "https://vndb.org/c18585"
+}

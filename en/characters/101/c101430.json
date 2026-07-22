@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101430",
+  "type": "character",
+  "name": "Emma",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bubbly stuffed sheep. She belongs to a boy named Tobias who lives in Munich.",
+  "source_sha256": "7ec1b555ed71b6c89c79ce3687fd32520661aa52c59402f0d22590adec6697e4",
+  "translation": "A bubbly stuffed sheep. She belongs to a boy named Tobias who lives in Munich.",
+  "vndb_url": "https://vndb.org/c101430"
+}

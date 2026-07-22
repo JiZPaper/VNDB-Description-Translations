@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159530",
+  "type": "character",
+  "name": "Kate",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Johhny's mother.",
+  "source_sha256": "6b70bffc5c32415e6f4b06ffa92538295fe4037df0d0791d264e40d9a59bf005",
+  "translation": "Johhny's mother.",
+  "vndb_url": "https://vndb.org/c159530"
+}

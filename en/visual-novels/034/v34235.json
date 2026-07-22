@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34235",
+  "type": "visual_novel",
+  "name": "Something Borrowed",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You start working as a trainee in a talent agency. Your half-sister Eve is a member of a popular brand. Eve and her agent, Jackson, suspect that someone is plotting against her.\n\n[From in-app]",
+  "source_sha256": "c72aee6d2326cdae4022238e71bff19a48eb41bd8bf506a0f899c30bbbab4eaa",
+  "translation": "You start working as a trainee in a talent agency. Your half-sister Eve is a member of a popular brand. Eve and her agent, Jackson, suspect that someone is plotting against her.\n\n[From in-app]",
+  "vndb_url": "https://vndb.org/v34235"
+}

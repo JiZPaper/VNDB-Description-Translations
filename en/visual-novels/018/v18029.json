@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18029",
+  "type": "visual_novel",
+  "name": "Chocolat",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You wake up in the morning, but you feel that something is odd. You meet a companion with the same problem, and with his -totally uneffective- help, you try to find a solution to get your life back.",
+  "source_sha256": "744ff532c1f1efdf5987ca6e79b1b9b72411b4de823de35f21734b89587ef65e",
+  "translation": "You wake up in the morning, but you feel that something is odd. You meet a companion with the same problem, and with his -totally uneffective- help, you try to find a solution to get your life back.",
+  "vndb_url": "https://vndb.org/v18029"
+}

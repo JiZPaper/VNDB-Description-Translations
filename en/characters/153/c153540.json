@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153540",
+  "type": "character",
+  "name": "Miller",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A ghost who really likes cheating at board games.",
+  "source_sha256": "8a28139f6617d5297c49bc79d3df81ef0737f8a3ae412e588fe74ef359740c3f",
+  "translation": "A ghost who really likes cheating at board games.",
+  "vndb_url": "https://vndb.org/c153540"
+}

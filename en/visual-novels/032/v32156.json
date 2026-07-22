@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32156",
+  "type": "visual_novel",
+  "name": "Weekend Lollygagging",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are playing as a Tom, who came to his classmate Melory, to do homework.",
+  "source_sha256": "e17fa1f1e4cdc1c276da0b04f8e113e746849d1ffb9bf3216ebd1025b95ad2d1",
+  "translation": "You are playing as a Tom, who came to his classmate Melory, to do homework.",
+  "vndb_url": "https://vndb.org/v32156"
+}

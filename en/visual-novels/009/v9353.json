@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9353",
+  "type": "visual_novel",
+  "name": "The Vestibule",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Made in 72 hours for Ludum Dare 22, The Vestibule is a visual novel adventure/mystery game about the chance encounters made by the main character, Gale, on a voyage by train for the holidays. By interacting with the other passengers on the train, you can help them or hinder them from making realizations about themselves. And maybe, in the process, you can learn something about yourself, too.",
+  "source_sha256": "92eaac9f34eac07d61f3fa61811ca4a9cb24eec61842b189e9d3ec82ee0e8bbf",
+  "translation": "Made in 72 hours for Ludum Dare 22, The Vestibule is a visual novel adventure/mystery game about the chance encounters made by the main character, Gale, on a voyage by train for the holidays. By interacting with the other passengers on the train, you can help them or hinder them from making realizations about themselves. And maybe, in the process, you can learn something about yourself, too.",
+  "vndb_url": "https://vndb.org/v9353"
+}

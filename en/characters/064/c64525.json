@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64525",
+  "type": "character",
+  "name": "Jane Cargen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the possible selectable protagonists.",
+  "source_sha256": "0bb33d4d3dbf1400742453e04233692b52da6ec87de1a6c84c0edf802f863404",
+  "translation": "One of the possible selectable protagonists.",
+  "vndb_url": "https://vndb.org/c64525"
+}

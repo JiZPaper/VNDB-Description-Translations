@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95678",
+  "type": "character",
+  "name": "Ifrit",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mystery man with a few words beings you out of the palace. He calls himself a messenger and is waiting for you to spin an interesting tale.",
+  "source_sha256": "48908b4874d3ce542969ac63ea1fe2e308e4a7502e6b4731913cc5a8ae878b6f",
+  "translation": "A mystery man with a few words beings you out of the palace. He calls himself a messenger and is waiting for you to spin an interesting tale.",
+  "vndb_url": "https://vndb.org/c95678"
+}

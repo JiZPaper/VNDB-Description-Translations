@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c138225",
+  "type": "character",
+  "name": "Sister Maria",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sister Maria is a nun at the local church. She lives in the women's shelter behind the church.",
+  "source_sha256": "65cf4fe4b85829ea868f493818e433453970256cc180f6167fb66da6daca5c4c",
+  "translation": "Sister Maria is a nun at the local church. She lives in the women's shelter behind the church.",
+  "vndb_url": "https://vndb.org/c138225"
+}

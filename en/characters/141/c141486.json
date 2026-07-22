@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141486",
+  "type": "character",
+  "name": "Steve",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's former co-worker.\n\nworks at a minimart owned by his father.",
+  "source_sha256": "4a56a7dd44db09189c808a8f10e103d9f063c5184416a7bd3248bd8bf445ce5b",
+  "translation": "The protagonist's former co-worker.\n\nworks at a minimart owned by his father.",
+  "vndb_url": "https://vndb.org/c141486"
+}

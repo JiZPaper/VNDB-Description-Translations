@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13480",
+  "type": "visual_novel",
+  "name": "The Witch's Scissors",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short ghost story.",
+  "source_sha256": "2300b2f4a30f9d48d806cf56b26329f40db89c4547def74772a699e1cacf6925",
+  "translation": "A short ghost story.",
+  "vndb_url": "https://vndb.org/v13480"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77801",
+  "type": "character",
+  "name": "Jisoo",
+  "original_name": "지수",
+  "language": "en",
+  "source_language": "en",
+  "source": "A black cat who is one of Heejung's pets.",
+  "source_sha256": "35ee66775898b42b6467fe898267084f5d299436247afdf54851248b0e629bbe",
+  "translation": "A black cat who is one of Heejung's pets.",
+  "vndb_url": "https://vndb.org/c77801"
+}

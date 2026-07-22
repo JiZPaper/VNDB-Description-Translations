@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82592",
+  "type": "character",
+  "name": "Jan",
+  "original_name": "ジャン",
+  "language": "en",
+  "source_language": "en",
+  "source": "The local baker.\nShe makes all of her baked goods by hand. No magical hijinks!",
+  "source_sha256": "bcbff7f624a8ab435adf578199f3696640904c32c028492fbdad3b9b119a55b5",
+  "translation": "The local baker.\nShe makes all of her baked goods by hand. No magical hijinks!",
+  "vndb_url": "https://vndb.org/c82592"
+}

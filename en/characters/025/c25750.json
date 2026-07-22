@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25750",
+  "type": "character",
+  "name": "Italy",
+  "original_name": "イタリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "A kind boy who loves pasta, pizza, and girls.",
+  "source_sha256": "ade0a93ee679ab206b5ad5b34551e87d973635463a547e103baa8e1a7d0e060e",
+  "translation": "A kind boy who loves pasta, pizza, and girls.",
+  "vndb_url": "https://vndb.org/c25750"
+}

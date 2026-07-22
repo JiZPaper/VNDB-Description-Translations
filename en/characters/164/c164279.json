@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c164279",
+  "type": "character",
+  "name": "Lyon's Father",
+  "original_name": "リオンパパ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Lyon's father.",
+  "source_sha256": "0ab59793534bb4cb23dc1c8002424d2ecba4a2eefe6ebe480c21106fa64d202d",
+  "translation": "Lyon's father.",
+  "vndb_url": "https://vndb.org/c164279"
+}

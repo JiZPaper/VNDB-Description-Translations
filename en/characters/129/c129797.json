@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c129797",
+  "type": "character",
+  "name": "Shaun",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A pathologist at Molecula Corp. He's friendly but a bit of a weirdo. Not much is known about him.",
+  "source_sha256": "37e97e822bb9b165c04fee79110b01d10ded7d1668e8f24c94c87119b5080f10",
+  "translation": "A pathologist at Molecula Corp. He's friendly but a bit of a weirdo. Not much is known about him.",
+  "vndb_url": "https://vndb.org/c129797"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c59969",
+  "type": "character",
+  "name": "Zaar",
+  "original_name": "ザール",
+  "language": "en",
+  "source_language": "en",
+  "source": "An adept specialized in archery.\nHe often works with Ana and Cathim.",
+  "source_sha256": "4c1e2e2215a03d741cc0d2aff816612aedfd55d4551c7111efb0dbec4511ff9f",
+  "translation": "An adept specialized in archery.\nHe often works with Ana and Cathim.",
+  "vndb_url": "https://vndb.org/c59969"
+}

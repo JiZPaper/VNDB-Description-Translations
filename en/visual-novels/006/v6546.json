@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6546",
+  "type": "visual_novel",
+  "name": "Gakkou no Kaidan DS",
+  "original_name": "学校の怪談DS",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on the anime of the same name, a friend has dissappeared mysteriously.",
+  "source_sha256": "66c995c3377c00f1a3650ba79ab9d1f1ab2d12a98b453adb1e400659269dac2d",
+  "translation": "Based on the anime of the same name, a friend has dissappeared mysteriously.",
+  "vndb_url": "https://vndb.org/v6546"
+}

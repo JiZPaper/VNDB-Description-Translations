@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5283",
+  "type": "visual_novel",
+  "name": "Kagome",
+  "original_name": "かごめ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A browser-based Flash visual novel.",
+  "source_sha256": "fb6588b87451af7d710e63b89a42c8f7c9e9a25cdfaa27be56e619062d0e69a9",
+  "translation": "A browser-based Flash visual novel.",
+  "vndb_url": "https://vndb.org/v5283"
+}

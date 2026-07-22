@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30824",
+  "type": "character",
+  "name": "Lop",
+  "original_name": "ロップ",
+  "language": "en",
+  "source_language": "en",
+  "source": "His contractor is Darkness.\nA spirit whose power is to control time.",
+  "source_sha256": "bf0f6fd812d8461f8af03de5f5c79ecb54c023d383478bf432f92b3a1506c286",
+  "translation": "His contractor is Darkness.\nA spirit whose power is to control time.",
+  "vndb_url": "https://vndb.org/c30824"
+}

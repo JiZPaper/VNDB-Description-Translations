@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c46758",
+  "type": "character",
+  "name": "Father",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's father who dedicated most of his life to his career, putting his work before family.",
+  "source_sha256": "feccf8ea02f867a84871379c1e228c622ed1b10be879a877d31f94770ece6649",
+  "translation": "The protagonist's father who dedicated most of his life to his career, putting his work before family.",
+  "vndb_url": "https://vndb.org/c46758"
+}

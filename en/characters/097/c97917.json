@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97917",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An individual who, after a long day, decided to go to sleep. Has a good memory and can remember the bedroom even with the eyes closed.",
+  "source_sha256": "ae68a1f425e7065602cc0ec477f2c2873c2790a318348672f22c08bd8dadaa5e",
+  "translation": "An individual who, after a long day, decided to go to sleep. Has a good memory and can remember the bedroom even with the eyes closed.",
+  "vndb_url": "https://vndb.org/c97917"
+}

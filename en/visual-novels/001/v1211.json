@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1211",
+  "type": "visual_novel",
+  "name": "Miharu - Alto Another Story",
+  "original_name": "みはる あるとアナザーストーリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Features Miharu, who was a secondary character in Alto",
+  "source_sha256": "4e1eb9dafb98e4e84374183f867ab96943bbbf8246121587671c5b89b9e99532",
+  "translation": "Features Miharu, who was a secondary character in Alto",
+  "vndb_url": "https://vndb.org/v1211"
+}

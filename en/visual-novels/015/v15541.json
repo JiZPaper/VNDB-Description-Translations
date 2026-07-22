@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15541",
+  "type": "visual_novel",
+  "name": "Natsu no Sora o Mou Ichido",
+  "original_name": "夏の空をもう一度",
+  "language": "en",
+  "source_language": "en",
+  "source": "Final Fantasy 7 Cid x Vincent adventure game.",
+  "source_sha256": "41dcae503f227394f9e5daad1d3b399870a8956fc82a783b48ffe44435cf41c1",
+  "translation": "Final Fantasy 7 Cid x Vincent adventure game.",
+  "vndb_url": "https://vndb.org/v15541"
+}

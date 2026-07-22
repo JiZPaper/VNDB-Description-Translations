@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166832",
+  "type": "character",
+  "name": "Donna",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Donna is a news castor.",
+  "source_sha256": "5f298d5898a2ee963c6899b7cd64201b5c7f881037b5f9ab566f673f903ddd6d",
+  "translation": "Donna is a news castor.",
+  "vndb_url": "https://vndb.org/c166832"
+}

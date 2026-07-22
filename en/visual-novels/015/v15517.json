@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15517",
+  "type": "visual_novel",
+  "name": "The Tattooer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Expanded encounter with Ryuuhou, with one good end (the same as the original game) and three bad ends.",
+  "source_sha256": "4e3e09e377f4deaa0faf8e99c26e5e9acdb6de14bef4699b66d01639fc902dff",
+  "translation": "Expanded encounter with Ryuuhou, with one good end (the same as the original game) and three bad ends.",
+  "vndb_url": "https://vndb.org/v15517"
+}

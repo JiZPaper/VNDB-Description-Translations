@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93639",
+  "type": "character",
+  "name": "Asilana",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young elf who works for the Caller.\n\n[spoiler]She is actually the Caller's daughter.[/spoiler]",
+  "source_sha256": "924f71ff7c30046eff1c1710c31ce7af95bb27f472cee5401f0e1694c74d69ca",
+  "translation": "A young elf who works for the Caller.\n\n[spoiler]She is actually the Caller's daughter.[/spoiler]",
+  "vndb_url": "https://vndb.org/c93639"
+}

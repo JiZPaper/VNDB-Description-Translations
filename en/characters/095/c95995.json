@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95995",
+  "type": "character",
+  "name": "Red Riding Hood",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The main character of the game. Lives with Wolf.",
+  "source_sha256": "439cdb4f10854aca5f9212c5e6f984b755f2f3487645112fd7635ffdeae2f2ce",
+  "translation": "The main character of the game. Lives with Wolf.",
+  "vndb_url": "https://vndb.org/c95995"
+}

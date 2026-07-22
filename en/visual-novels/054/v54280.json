@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54280",
+  "type": "visual_novel",
+  "name": "Syndromedia's Dracula",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "After Mina Murray is reunited with her childhood friends Jonathan and Lucy Harker, they are all invited on a cruise to Transylvania with a mysterious man named Count Dracula.",
+  "source_sha256": "97065029bd44b0e2f6d253d84f7d65e335dbdd3229c1868a4c537ac77c8cc8c5",
+  "translation": "After Mina Murray is reunited with her childhood friends Jonathan and Lucy Harker, they are all invited on a cruise to Transylvania with a mysterious man named Count Dracula.",
+  "vndb_url": "https://vndb.org/v54280"
+}

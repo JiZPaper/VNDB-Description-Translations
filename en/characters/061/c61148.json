@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61148",
+  "type": "character",
+  "name": "Sunny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Magic Instructor.",
+  "source_sha256": "706b431fa7667f1e8a074ef9ff4ce5feec512954c0dedecd7546305338608110",
+  "translation": "The Magic Instructor.",
+  "vndb_url": "https://vndb.org/c61148"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120611",
+  "type": "character",
+  "name": "Kuma",
+  "original_name": "クマ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A quick-tempered bear-boy living in the mountains.",
+  "source_sha256": "9a5c1d73d0628f94eebf518ac5322f740fcae01f46091285ed0246ae8938be28",
+  "translation": "A quick-tempered bear-boy living in the mountains.",
+  "vndb_url": "https://vndb.org/c120611"
+}

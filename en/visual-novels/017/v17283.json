@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17283",
+  "type": "visual_novel",
+  "name": "Bishoujo o Jouzu ni Niku Benki ni Suru Houhou",
+  "original_name": "美少女を上手に肉便器にする方法",
+  "language": "en",
+  "source_language": "en",
+  "source": "Visual novel adaptation of chapters 1-11 of the web novel.",
+  "source_sha256": "a042315096f3554bcca27ad2b0a68eb27bc13edc0079e70c70eefe8f942d749e",
+  "translation": "Visual novel adaptation of chapters 1-11 of the web novel.",
+  "vndb_url": "https://vndb.org/v17283"
+}

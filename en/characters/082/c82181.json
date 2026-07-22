@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82181",
+  "type": "character",
+  "name": "Charles Denton",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The actual president of the United States. He was injured in a terrorist attack.",
+  "source_sha256": "462e2ee33de6773555336ecfa6349b8e562be6fbbbb457d112e05bafcf498fbc",
+  "translation": "The actual president of the United States. He was injured in a terrorist attack.",
+  "vndb_url": "https://vndb.org/c82181"
+}

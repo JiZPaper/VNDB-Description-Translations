@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61538",
+  "type": "visual_novel",
+  "name": "Lost in Yomori",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious flying girl lures you into the forest of Yomori, where many humans have gotten lost and missing! Will you follow her, or accept the help of a similar bystander?",
+  "source_sha256": "50ae945834d72fc0423ea33da65d25b43cd39c2a3076bd3ca8be5ed75a5e8604",
+  "translation": "A mysterious flying girl lures you into the forest of Yomori, where many humans have gotten lost and missing! Will you follow her, or accept the help of a similar bystander?",
+  "vndb_url": "https://vndb.org/v61538"
+}

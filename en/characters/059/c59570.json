@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c59570",
+  "type": "character",
+  "name": "Oyaji",
+  "original_name": "オヤジー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious creature that came from another world. It speaks with a Kansai dialect.",
+  "source_sha256": "148b9e39880e2ab91001a33c66140d1b7e495e37101e1e5f16d43db06b0a9c2b",
+  "translation": "A mysterious creature that came from another world. It speaks with a Kansai dialect.",
+  "vndb_url": "https://vndb.org/c59570"
+}

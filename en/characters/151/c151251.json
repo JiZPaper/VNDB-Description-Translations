@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c151251",
+  "type": "character",
+  "name": "Soldier",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Bart's men working under him.",
+  "source_sha256": "35e971d7e95bdf54f964d8024100fa7b032b7bd2578351e64a726c72478ee5a4",
+  "translation": "One of Bart's men working under him.",
+  "vndb_url": "https://vndb.org/c151251"
+}

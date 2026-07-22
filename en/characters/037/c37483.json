@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37483",
+  "type": "character",
+  "name": "The Athlete",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A cousin on your estranged mother's side of the family. You haven't seen him in years, but... is he really the sort who can keep a secret?\nPursuable?: No\n\n[From the [url=http://ladykillerinabind.com/]Official Website[/url]]",
+  "source_sha256": "b5c34b6b6c54e8d286fd0326091532155c60548912f9203e6ec886ed4704b707",
+  "translation": "A cousin on your estranged mother's side of the family. You haven't seen him in years, but... is he really the sort who can keep a secret?\nPursuable?: No\n\n[From the [url=http://ladykillerinabind.com/]Official Website[/url]]",
+  "vndb_url": "https://vndb.org/c37483"
+}

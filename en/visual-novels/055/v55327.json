@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55327",
+  "type": "visual_novel",
+  "name": "Ja najdu tebja!",
+  "original_name": "Я найду тебя!",
+  "language": "en",
+  "source_language": "en",
+  "source": "Alternative good ending for Semyon and Alisa.",
+  "source_sha256": "0821398c70a4f15b3c95a3325942be2f57e0016a2aa6f3ea17e8e948a285c61f",
+  "translation": "Alternative good ending for Semyon and Alisa.",
+  "vndb_url": "https://vndb.org/v55327"
+}

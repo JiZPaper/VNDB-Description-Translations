@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c3732",
+  "type": "character",
+  "name": "Coco",
+  "original_name": "ココ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A child-like doll that lives in Moosgrun with Cero.\nUnlike Bell, she has visible ball joints and a wind-up key on her back, giving her the appearance of a real doll.\nCoco acts in a very childish manner and usually shortens long names.",
+  "source_sha256": "67f8833fd04370058b081862f9b96de12de82290d22db4ae926540fe6fd52808",
+  "translation": "A child-like doll that lives in Moosgrun with Cero.\nUnlike Bell, she has visible ball joints and a wind-up key on her back, giving her the appearance of a real doll.\nCoco acts in a very childish manner and usually shortens long names.",
+  "vndb_url": "https://vndb.org/c3732"
+}

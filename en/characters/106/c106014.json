@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106014",
+  "type": "character",
+  "name": "Magpie",
+  "original_name": "マグパイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I'll wait a hundred years for you to see what you're doing to me.\"\n\nA friendly reaper.",
+  "source_sha256": "918c962fade67375985e201a733429b742c666e36a30e285e85f7582ca66d250",
+  "translation": "\"I'll wait a hundred years for you to see what you're doing to me.\"\n\nA friendly reaper.",
+  "vndb_url": "https://vndb.org/c106014"
+}

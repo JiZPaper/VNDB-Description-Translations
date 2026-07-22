@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94542",
+  "type": "character",
+  "name": "Blake",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A worker at the amusement park.",
+  "source_sha256": "cb3914c0d79dd5a93e51bd45ae6340d1a69c90085ff075cfa56cd29ccef41565",
+  "translation": "A worker at the amusement park.",
+  "vndb_url": "https://vndb.org/c94542"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24580",
+  "type": "visual_novel",
+  "name": "Breakdown",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A college freshman has an emotional breakdown shortly after arriving at his dorm and meeting his roommate and neighbors.",
+  "source_sha256": "27993208c79a721f1629070ba5357f32a02688758f07e5c36816634b12745d21",
+  "translation": "A college freshman has an emotional breakdown shortly after arriving at his dorm and meeting his roommate and neighbors.",
+  "vndb_url": "https://vndb.org/v24580"
+}

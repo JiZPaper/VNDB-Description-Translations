@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13217",
+  "type": "visual_novel",
+  "name": "Vixen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel created for Ludum Dare 25 (Theme: You are the Villain). You play as a student who decides the new girl in class is her rival.",
+  "source_sha256": "e8be55fde2aa98719f05965b0212c402511816bf686d3b2e61049151e57db6a9",
+  "translation": "A short visual novel created for Ludum Dare 25 (Theme: You are the Villain). You play as a student who decides the new girl in class is her rival.",
+  "vndb_url": "https://vndb.org/v13217"
+}

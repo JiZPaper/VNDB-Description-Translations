@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29777",
+  "type": "character",
+  "name": "Lilith Loveheart",
+  "original_name": "リリス・ラブハート",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Western Youkai\"\nRace: Succubus",
+  "source_sha256": "19b336485d21a8f1d81fae7c1c5b0cdf5fea3d65ced511418d5ff34c7739b4cc",
+  "translation": "\"Western Youkai\"\nRace: Succubus",
+  "vndb_url": "https://vndb.org/c29777"
+}

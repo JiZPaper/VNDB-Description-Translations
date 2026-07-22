@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30360",
+  "type": "visual_novel",
+  "name": "Xing Yuan Luren - Star Wish Traveler",
+  "original_name": "星愿旅人 - Star wish traveler",
+  "language": "en",
+  "source_language": "en",
+  "source": "One day in 2030, a falling flash engulfed the world.\n\nThe young man receives a revelation from the gods and travels to an alien world of swords and magic.",
+  "source_sha256": "9af986c9467e2b51edb01044c388079f879c7e276f29fc22e7af0a1ee6947532",
+  "translation": "One day in 2030, a falling flash engulfed the world.\n\nThe young man receives a revelation from the gods and travels to an alien world of swords and magic.",
+  "vndb_url": "https://vndb.org/v30360"
+}

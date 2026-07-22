@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122529",
+  "type": "character",
+  "name": "Alice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A researcher with Ladyfair. V1's appearance is based on her.",
+  "source_sha256": "e04401fdc52b1dbd8278f11b2d209aa0a9127961e5e940f7ca0032025333f7bc",
+  "translation": "A researcher with Ladyfair. V1's appearance is based on her.",
+  "vndb_url": "https://vndb.org/c122529"
+}

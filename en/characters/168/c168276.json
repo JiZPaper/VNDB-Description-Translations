@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168276",
+  "type": "character",
+  "name": "Claire",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The woman who raised [url=/c168041]Blake[/url] with his father.",
+  "source_sha256": "2906b8c954713e2375b659a126384dd64ca85287a48d63d43e89ebaa76af0876",
+  "translation": "The woman who raised [url=/c168041]Blake[/url] with his father.",
+  "vndb_url": "https://vndb.org/c168276"
+}

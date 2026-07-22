@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61592",
+  "type": "character",
+  "name": "Jessica",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A popular girl at the university Ashley attends.",
+  "source_sha256": "107c4f6b29cb4bf003171bbd7b8cd81abf707b592b7d1e1cf641ec73db80eebe",
+  "translation": "A popular girl at the university Ashley attends.",
+  "vndb_url": "https://vndb.org/c61592"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91024",
+  "type": "character",
+  "name": "Nobu",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ikuro's buddy.",
+  "source_sha256": "abf5449b9249d01584f381ba3ba848c2b28a81e7317638bfa9786ae06d03fc7b",
+  "translation": "Ikuro's buddy.",
+  "vndb_url": "https://vndb.org/c91024"
+}

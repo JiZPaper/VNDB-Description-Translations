@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136241",
+  "type": "character",
+  "name": "Dr. Johnson",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Susan's doctor. His prognosis on her is grim.",
+  "source_sha256": "937c91909a882b67655a15940f0f74950db4647d57d221e8b2d82851ed0894d1",
+  "translation": "Susan's doctor. His prognosis on her is grim.",
+  "vndb_url": "https://vndb.org/c136241"
+}

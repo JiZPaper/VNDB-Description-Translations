@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89327",
+  "type": "character",
+  "name": "Gamou Makiko",
+  "original_name": "蒲生 マキコ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A-TO's manager.",
+  "source_sha256": "655285f35ea932df857afa62ff0dbc1d1fb1bea68a3ae3609d9e1cac435c6264",
+  "translation": "A-TO's manager.",
+  "vndb_url": "https://vndb.org/c89327"
+}

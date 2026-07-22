@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15656",
+  "type": "character",
+  "name": "Oda Kaito",
+  "original_name": "織田 海人",
+  "language": "en",
+  "source_language": "en",
+  "source": "Lead singer of EDEN.",
+  "source_sha256": "87faebaf89f7616ed0f1996317de3f7f143b7465edb0d3239ba8da16f95ef5da",
+  "translation": "Lead singer of EDEN.",
+  "vndb_url": "https://vndb.org/c15656"
+}

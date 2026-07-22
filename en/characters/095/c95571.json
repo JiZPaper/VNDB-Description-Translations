@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95571",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A second-year student at Seikou Gakuen High School. She is in the same class as Kashii.",
+  "source_sha256": "174bd2cd5182648bebcfe9423a9c3e9b3ea6f324f3ff72a3b2bc76509056760c",
+  "translation": "A second-year student at Seikou Gakuen High School. She is in the same class as Kashii.",
+  "vndb_url": "https://vndb.org/c95571"
+}

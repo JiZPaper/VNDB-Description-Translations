@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c31190",
+  "type": "character",
+  "name": "Mint",
+  "original_name": "ミント",
+  "language": "en",
+  "source_language": "en",
+  "source": "Grown Mint, in her Cool-type form.",
+  "source_sha256": "9481ee096d47b183ea780d1469c602accd3d1b50721312cd3ecef0c93ec1bdea",
+  "translation": "Grown Mint, in her Cool-type form.",
+  "vndb_url": "https://vndb.org/c31190"
+}

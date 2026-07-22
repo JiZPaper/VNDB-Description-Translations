@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79639",
+  "type": "character",
+  "name": "Pierre",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Lentz' friends.",
+  "source_sha256": "e684ae394e12a8947cd73339265c133b669709622ccf08a6cde72f08cdaab50a",
+  "translation": "One of Lentz' friends.",
+  "vndb_url": "https://vndb.org/c79639"
+}

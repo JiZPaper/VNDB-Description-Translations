@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15669",
+  "type": "visual_novel",
+  "name": "Honki ni Shite wa Ikenai Uranai",
+  "original_name": "本気にしてはいけない占い",
+  "language": "en",
+  "source_language": "en",
+  "source": "A joke fortune-telling game.",
+  "source_sha256": "3f85e2a42799b97efa56a5bc471ff43ff490643e071796377991a0723de3f4c8",
+  "translation": "A joke fortune-telling game.",
+  "vndb_url": "https://vndb.org/v15669"
+}

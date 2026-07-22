@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32400",
+  "type": "visual_novel",
+  "name": "A Steamy Conversation",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel about two female friends talking about Becky's romantic life and how to \"bake\" desserts.",
+  "source_sha256": "a5659ed715ec5a54189d15aeb9906a03af46939ae505f284d8548625a22bbba1",
+  "translation": "A short visual novel about two female friends talking about Becky's romantic life and how to \"bake\" desserts.",
+  "vndb_url": "https://vndb.org/v32400"
+}

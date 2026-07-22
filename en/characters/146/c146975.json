@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146975",
+  "type": "character",
+  "name": "Imena",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She appears to the hero in a dream.",
+  "source_sha256": "26a740e448bbe75f8cf71cbb29184535c1d2940e90a0074920672af584d29b2c",
+  "translation": "She appears to the hero in a dream.",
+  "vndb_url": "https://vndb.org/c146975"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88399",
+  "type": "character",
+  "name": "Claudia Buchanan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A flight attendant, who's married to Marcello. Depending on what you checked in the \"Preferences\" menu, she can be your mother. She's also Katelyn's sister.",
+  "source_sha256": "b55f067bc641a4f2861768a23c16d770925212e439445770391d844ec5e949e9",
+  "translation": "A flight attendant, who's married to Marcello. Depending on what you checked in the \"Preferences\" menu, she can be your mother. She's also Katelyn's sister.",
+  "vndb_url": "https://vndb.org/c88399"
+}

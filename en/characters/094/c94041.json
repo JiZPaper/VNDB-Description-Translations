@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94041",
+  "type": "character",
+  "name": "Koma",
+  "original_name": "小真",
+  "language": "en",
+  "source_language": "en",
+  "source": "A good student, but bad at learning new languages.",
+  "source_sha256": "030538214862d5d6c7e74b506d12614c556a26c39507a7ae3003e717c3c3b402",
+  "translation": "A good student, but bad at learning new languages.",
+  "vndb_url": "https://vndb.org/c94041"
+}

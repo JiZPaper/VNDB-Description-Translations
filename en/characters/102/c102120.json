@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102120",
+  "type": "character",
+  "name": "Buzz",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Buzz lives in Wisconsin, where he owns and operates a gun store. Has a wife named Christa.",
+  "source_sha256": "bc1149b34ca5dbf36c5503275b82f5f93c6c6b42441afde8961bfa19effa72fc",
+  "translation": "Buzz lives in Wisconsin, where he owns and operates a gun store. Has a wife named Christa.",
+  "vndb_url": "https://vndb.org/c102120"
+}

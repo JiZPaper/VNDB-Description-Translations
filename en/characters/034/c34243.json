@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34243",
+  "type": "character",
+  "name": "Dad",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Our father.",
+  "source_sha256": "da443de581a7b822fcc888b611725e20a5c6eb3f2ccb4c8f7bdc4d0bf59496b2",
+  "translation": "Our father.",
+  "vndb_url": "https://vndb.org/c34243"
+}

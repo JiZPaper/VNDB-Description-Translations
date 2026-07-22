@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81577",
+  "type": "character",
+  "name": "Alain",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A weird guy, hanging around the school.",
+  "source_sha256": "d2217f3b7a8d9d54b6bdbcd1c4cc5dfa42fbc7a68b4ad9818fbee01f6bca2143",
+  "translation": "A weird guy, hanging around the school.",
+  "vndb_url": "https://vndb.org/c81577"
+}

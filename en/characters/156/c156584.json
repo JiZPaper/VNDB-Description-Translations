@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156584",
+  "type": "character",
+  "name": "John le Carré",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He appears as a celebrity guest to help the live-action Mario and Luigi write literature.",
+  "source_sha256": "a5ebbbbe1832df52138db0446271f5b1ad2ce92225ad238da37cef0cb14f8428",
+  "translation": "He appears as a celebrity guest to help the live-action Mario and Luigi write literature.",
+  "vndb_url": "https://vndb.org/c156584"
+}

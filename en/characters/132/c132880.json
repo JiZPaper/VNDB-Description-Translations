@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132880",
+  "type": "character",
+  "name": "Adele",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Adele is an employee of the Solvalley Library. She's a girl of few words and very discreet. She's passionate about literature and her financial condition is not the best, so she lives in the library itself.",
+  "source_sha256": "5b004d59dd1cee5177b208f84012e42d075c6d4701ce4ec1f653cb60efaeca08",
+  "translation": "Adele is an employee of the Solvalley Library. She's a girl of few words and very discreet. She's passionate about literature and her financial condition is not the best, so she lives in the library itself.",
+  "vndb_url": "https://vndb.org/c132880"
+}

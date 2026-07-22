@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30255",
+  "type": "visual_novel",
+  "name": "André Ventura Dating Simulator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Dating sim with André Ventura",
+  "source_sha256": "2aba6f86c405cde50c327d9fb88c417dcb3012d37407e8b235a756ac76eb8cb7",
+  "translation": "Dating sim with André Ventura",
+  "vndb_url": "https://vndb.org/v30255"
+}

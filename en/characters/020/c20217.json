@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20217",
+  "type": "character",
+  "name": "Nami",
+  "original_name": "ナミ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Heat mode: G cup\nHobbies: Talking with animals, painting (portraits), hunting (gathering shellfish)\nLikes: Getting excited\nDislikes: Thunder",
+  "source_sha256": "fe874d973b3d8c9d9e39e1bbf6b6a3b30c08737606941182e9d95ae33c0cb2de",
+  "translation": "Heat mode: G cup\nHobbies: Talking with animals, painting (portraits), hunting (gathering shellfish)\nLikes: Getting excited\nDislikes: Thunder",
+  "vndb_url": "https://vndb.org/c20217"
+}

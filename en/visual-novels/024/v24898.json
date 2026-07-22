@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24898",
+  "type": "visual_novel",
+  "name": "Sennin Choushi Monogatari",
+  "original_name": "仙人町市物語",
+  "language": "en",
+  "source_language": "en",
+  "source": "A series of short stories for NTT's DoCoMo, KDDI's au or SoftBank mobile systems.",
+  "source_sha256": "f8557bb916a8d3fafc55efc9ab6df32ccd9d34b915f0f83470ce27e732fd3796",
+  "translation": "A series of short stories for NTT's DoCoMo, KDDI's au or SoftBank mobile systems.",
+  "vndb_url": "https://vndb.org/v24898"
+}

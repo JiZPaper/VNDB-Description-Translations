@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116674",
+  "type": "character",
+  "name": "Walter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The proprietor of Beeston's haberdashery.",
+  "source_sha256": "146a5d8694db9dc95699f6061a8af19f6ef0d6802fe62800a0cd67c1babab900",
+  "translation": "The proprietor of Beeston's haberdashery.",
+  "vndb_url": "https://vndb.org/c116674"
+}

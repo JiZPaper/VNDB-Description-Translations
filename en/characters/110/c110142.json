@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110142",
+  "type": "character",
+  "name": "Aria",
+  "original_name": "アリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious girl who the protagonist sees in her dreams.",
+  "source_sha256": "537b70358c396b9c3c6cbeb051a35f853b4ec7110d88ccde02a0c434063a4d57",
+  "translation": "A mysterious girl who the protagonist sees in her dreams.",
+  "vndb_url": "https://vndb.org/c110142"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25919",
+  "type": "visual_novel",
+  "name": "Slava Administratsii!",
+  "original_name": "Слава Администрации!",
+  "language": "en",
+  "source_language": "en",
+  "source": "Speed Addict extra.",
+  "source_sha256": "e53b14d13a1fb3ab7de6a3542bb1fd6f5530f50bc64c2f8f103d71814b70a754",
+  "translation": "Speed Addict extra.",
+  "vndb_url": "https://vndb.org/v25919"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12081",
+  "type": "visual_novel",
+  "name": "Airs",
+  "original_name": "Airs (エアーズ)",
+  "language": "en",
+  "source_language": "en",
+  "source": "Set in a distant future where everyone is connected through a network called Airs, the protagonist lives an average life with his clubmates until a transfer student arrives.",
+  "source_sha256": "53f98485dac255c30e4342f8af52efdb8908684ee338f68bc83b1acb627f80c7",
+  "translation": "Set in a distant future where everyone is connected through a network called Airs, the protagonist lives an average life with his clubmates until a transfer student arrives.",
+  "vndb_url": "https://vndb.org/v12081"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100204",
+  "type": "character",
+  "name": "Nicolas",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An assassin hired by [url=/c100202]Hansberg[/url]. He tried to kill [url=/c100203]Aleksei[/url], his partner, but he was shot just before he could pull the trigger.",
+  "source_sha256": "a4fa53d46732792daa83cbd262ace449b71131f62245e586955fcef267549c1b",
+  "translation": "An assassin hired by [url=/c100202]Hansberg[/url]. He tried to kill [url=/c100203]Aleksei[/url], his partner, but he was shot just before he could pull the trigger.",
+  "vndb_url": "https://vndb.org/c100204"
+}

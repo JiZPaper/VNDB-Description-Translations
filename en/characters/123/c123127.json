@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123127",
+  "type": "character",
+  "name": "Janu?",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A version of Janu who claims to be the original Janu.",
+  "source_sha256": "9be1eda8198dadf890ee4035d4bba7bf56f257d3da84503d979904bbf9729ef6",
+  "translation": "A version of Janu who claims to be the original Janu.",
+  "vndb_url": "https://vndb.org/c123127"
+}

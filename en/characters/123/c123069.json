@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123069",
+  "type": "character",
+  "name": "Nikolay",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A coach of all aquatic sports at a gym.",
+  "source_sha256": "3e084bfc2d1ce4dfdea2b9d51399caceab53372e366fb42c7f66e77a6c1def44",
+  "translation": "A coach of all aquatic sports at a gym.",
+  "vndb_url": "https://vndb.org/c123069"
+}

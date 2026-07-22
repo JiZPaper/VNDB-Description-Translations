@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166252",
+  "type": "character",
+  "name": "Tarou Goldsmith",
+  "original_name": "タロウ・ゴールドスミス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Interior Engineer\n\nAn interior engineer responsible for the ship's computer systems.\nAlthough highly skilled, he lacks communication skills and relies on Russell's help to interact with the crew.",
+  "source_sha256": "f3f73da4db26dfc2dcef4ddca4ef772262c22c4cdb695b4c59efc57ecbe3ab69",
+  "translation": "The Interior Engineer\n\nAn interior engineer responsible for the ship's computer systems.\nAlthough highly skilled, he lacks communication skills and relies on Russell's help to interact with the crew.",
+  "vndb_url": "https://vndb.org/c166252"
+}

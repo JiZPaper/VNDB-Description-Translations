@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62738",
+  "type": "visual_novel",
+  "name": "Yuehua",
+  "original_name": "月华",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Gintama otome fan game.",
+  "source_sha256": "ffff870cc19169ca31d13391266ff3356149cc30c68fd2d2e77eadca14dc473f",
+  "translation": "A Gintama otome fan game.",
+  "vndb_url": "https://vndb.org/v62738"
+}

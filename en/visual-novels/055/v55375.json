@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55375",
+  "type": "visual_novel",
+  "name": "Golosa",
+  "original_name": "Голоса",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sergey, in a completely unknown way, got on the same bus as Semyon. Waking up in \"Sovenok\", he discovers that an unknown voice has appeared in his head. The unexpected guest teases the hero and gives orders. Will you listen to him, or will you follow your own path? The choice is yours.",
+  "source_sha256": "8c7399b4bc02a204682c812c43162f587463bea571dbbc5ced33715b857d07b3",
+  "translation": "Sergey, in a completely unknown way, got on the same bus as Semyon. Waking up in \"Sovenok\", he discovers that an unknown voice has appeared in his head. The unexpected guest teases the hero and gives orders. Will you listen to him, or will you follow your own path? The choice is yours.",
+  "vndb_url": "https://vndb.org/v55375"
+}

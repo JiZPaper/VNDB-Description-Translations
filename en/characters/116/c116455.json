@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116455",
+  "type": "character",
+  "name": "Trinity",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bar waitress.",
+  "source_sha256": "49fb2618f929e3cc10917dc631e6a208c1fe6b6835ff293c8fbeaa14f37690dc",
+  "translation": "A bar waitress.",
+  "vndb_url": "https://vndb.org/c116455"
+}

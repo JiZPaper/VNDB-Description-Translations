@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c68412",
+  "type": "character",
+  "name": "El Mofus",
+  "original_name": "エール・モフス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The daughter of Rance and Crook Mofus.",
+  "source_sha256": "b1c77cb56eb9d646beb4e3681c0c12d8320c89147c3af7b6bb76646fcdd695ff",
+  "translation": "The daughter of Rance and Crook Mofus.",
+  "vndb_url": "https://vndb.org/c68412"
+}

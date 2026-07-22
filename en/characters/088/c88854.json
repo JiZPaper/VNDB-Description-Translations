@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88854",
+  "type": "character",
+  "name": "Rain",
+  "original_name": "レイン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Species: Witch",
+  "source_sha256": "2b88447732c8f087d886c1783267614b513d573d75ba82c251cdcb097cf3f15a",
+  "translation": "Species: Witch",
+  "vndb_url": "https://vndb.org/c88854"
+}

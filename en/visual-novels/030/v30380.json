@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30380",
+  "type": "visual_novel",
+  "name": "Anon's Nice Day",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Originally a 4chan copypasta with branching paths, a visual novel describing a day in Anon's life.",
+  "source_sha256": "ac6e0a17919b33588a4f4bc5a9f3575802ae6b8726625562d5acd2f2a4bc22bd",
+  "translation": "Originally a 4chan copypasta with branching paths, a visual novel describing a day in Anon's life.",
+  "vndb_url": "https://vndb.org/v30380"
+}

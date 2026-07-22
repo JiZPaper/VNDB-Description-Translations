@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c128313",
+  "type": "character",
+  "name": "\"Mother\"",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious woman living in the Sugita mansion.",
+  "source_sha256": "e74c5c4b36cbce5da48f5dc577f932deffd8cc2b4eb5d8e68f02004ecaec0e9f",
+  "translation": "A mysterious woman living in the Sugita mansion.",
+  "vndb_url": "https://vndb.org/c128313"
+}

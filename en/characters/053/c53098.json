@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53098",
+  "type": "character",
+  "name": "City Mayor",
+  "original_name": "市長",
+  "language": "en",
+  "source_language": "en",
+  "source": "He is Ayame's father.",
+  "source_sha256": "b239a6d4304006d639d6cc35cc32ad1e1e0459992e853e0fa7482dce0aaf9847",
+  "translation": "He is Ayame's father.",
+  "vndb_url": "https://vndb.org/c53098"
+}

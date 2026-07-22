@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56981",
+  "type": "visual_novel",
+  "name": "Naruto Trainer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You take on the role of a young ninja whose village was recently attacked. Sent to the Hidden Leaf Village to continue your training, you must hone your skills, uncover the truth about your family's fate, and seek out those responsible for the destruction of your home.",
+  "source_sha256": "5186ac3dec026552ef696e9d1274199756f28c91f04a6e4dc3428eae97eaf1f5",
+  "translation": "You take on the role of a young ninja whose village was recently attacked. Sent to the Hidden Leaf Village to continue your training, you must hone your skills, uncover the truth about your family's fate, and seek out those responsible for the destruction of your home.",
+  "vndb_url": "https://vndb.org/v56981"
+}

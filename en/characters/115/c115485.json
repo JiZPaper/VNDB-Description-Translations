@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115485",
+  "type": "character",
+  "name": "Master Ma",
+  "original_name": "馬軍師父",
+  "language": "en",
+  "source_language": "en",
+  "source": "Instructor of martial arts at The Web assassin school.",
+  "source_sha256": "5b6d15b5d31f72e33f778d42b507386d4d2e253242c2f09c514784c386ba4863",
+  "translation": "Instructor of martial arts at The Web assassin school.",
+  "vndb_url": "https://vndb.org/c115485"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17085",
+  "type": "visual_novel",
+  "name": "Space Case",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Friends, crushes, favors… and you stuck in the middle. What could go wrong?",
+  "source_sha256": "ad5fbe1fb545a48d62a73f892db1abe0aedff5cee572db338a1ff7fd23c5041f",
+  "translation": "Friends, crushes, favors… and you stuck in the middle. What could go wrong?",
+  "vndb_url": "https://vndb.org/v17085"
+}

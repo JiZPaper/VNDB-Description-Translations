@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97083",
+  "type": "character",
+  "name": "Mincer",
+  "original_name": "ミンサー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Student number: 3614",
+  "source_sha256": "4573b8ea07d271cf7aaf3c56539fd4b81657edb38a7cb58f16faf13b4aab0580",
+  "translation": "Student number: 3614",
+  "vndb_url": "https://vndb.org/c97083"
+}

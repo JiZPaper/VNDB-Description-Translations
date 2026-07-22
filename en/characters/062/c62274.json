@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62274",
+  "type": "character",
+  "name": "Huan Yin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Age: 100+\nFood: Tang Yuan\nInterest: Culinary",
+  "source_sha256": "aa1133198fcdac88d8b0916e9ee55c437b5bbac10f308314beb075680e1585ee",
+  "translation": "Age: 100+\nFood: Tang Yuan\nInterest: Culinary",
+  "vndb_url": "https://vndb.org/c62274"
+}

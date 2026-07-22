@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89556",
+  "type": "character",
+  "name": "Grasse Hotz",
+  "original_name": "グラス・ホッズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Steadfast Soldier\n\nRoy's valet.\n\nIndulgence: Meat\nPastime: Polishing silverware, polishing his sword\n\n[From the English app \"Court of Darkness\"]",
+  "source_sha256": "dc51627a6caef8a8bea2953482570d46ee0b3482bcc957b4d5ac1190509443f8",
+  "translation": "The Steadfast Soldier\n\nRoy's valet.\n\nIndulgence: Meat\nPastime: Polishing silverware, polishing his sword\n\n[From the English app \"Court of Darkness\"]",
+  "vndb_url": "https://vndb.org/c89556"
+}

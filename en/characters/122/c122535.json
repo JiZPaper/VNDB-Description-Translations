@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122535",
+  "type": "character",
+  "name": "Julie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She works in a book shop.",
+  "source_sha256": "37ef9b2482b689e9eb670fc98ad8e2504bf51c8467ad9465f6d01e266993816f",
+  "translation": "She works in a book shop.",
+  "vndb_url": "https://vndb.org/c122535"
+}

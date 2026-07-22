@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170491",
+  "type": "character",
+  "name": "Grandpa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's grandpa. He owns a farm in the countryside.",
+  "source_sha256": "cea7b3042e7cb9ed4a29870170e2160a5af06af5fb866cd5afed23becfc52634",
+  "translation": "The protagonist's grandpa. He owns a farm in the countryside.",
+  "vndb_url": "https://vndb.org/c170491"
+}

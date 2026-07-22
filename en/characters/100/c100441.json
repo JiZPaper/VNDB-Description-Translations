@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100441",
+  "type": "character",
+  "name": "Toby",
+  "original_name": "Тоби",
+  "language": "en",
+  "source_language": "en",
+  "source": "*Occupation: schoolboy\n\n*Hobbies: None of your business (Why are you asking?)\n\n\"What else do you want? I looked, go on!\"",
+  "source_sha256": "127b75d46f63dceed4447349d1af5fd2534a86748dced1d01eb8542dbc4bcf44",
+  "translation": "*Occupation: schoolboy\n\n*Hobbies: None of your business (Why are you asking?)\n\n\"What else do you want? I looked, go on!\"",
+  "vndb_url": "https://vndb.org/c100441"
+}

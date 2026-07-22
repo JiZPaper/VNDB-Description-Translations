@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170859",
+  "type": "character",
+  "name": "Albrecht",
+  "original_name": "アルブレヒト",
+  "language": "en",
+  "source_language": "en",
+  "source": "The coachman and servant of [url=/c170848]Ratnesh[/url].",
+  "source_sha256": "511bd5f847ffc17544a86e65ae0e200a3290a4d1ccc3f2fdae3fc36d3ce34b11",
+  "translation": "The coachman and servant of [url=/c170848]Ratnesh[/url].",
+  "vndb_url": "https://vndb.org/c170859"
+}

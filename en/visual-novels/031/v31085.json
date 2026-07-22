@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31085",
+  "type": "visual_novel",
+  "name": "Chimi Chara Psycho-Pass",
+  "original_name": "ちみキャラさいこぱす",
+  "language": "en",
+  "source_language": "en",
+  "source": "Short ADV visual novels bundled with the Psycho-Pass BD releases, featuring the characters in fully-voiced comedic situations.",
+  "source_sha256": "8f0401ebcae627a1cbc01e5ea77126dc24507c4e040417acf11b696099ec895d",
+  "translation": "Short ADV visual novels bundled with the Psycho-Pass BD releases, featuring the characters in fully-voiced comedic situations.",
+  "vndb_url": "https://vndb.org/v31085"
+}

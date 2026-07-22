@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37679",
+  "type": "visual_novel",
+  "name": "Yuezhuo: Moye zhi Sha Nvjing Pian",
+  "original_name": "鸑鷟：摩耶之纱 女警篇",
+  "language": "en",
+  "source_language": "en",
+  "source": "An independent story with close relation to the plot of YueZhuo: Moye Zhi Sha.",
+  "source_sha256": "ab42951989150764bece6b99b5d3379018b094876dabab144235c4ba8ce3424b",
+  "translation": "An independent story with close relation to the plot of YueZhuo: Moye Zhi Sha.",
+  "vndb_url": "https://vndb.org/v37679"
+}

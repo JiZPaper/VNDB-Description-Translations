@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53644",
+  "type": "visual_novel",
+  "name": "Intergalactic Bound",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A cozy dating sim set in the STAR WARS: Jedi Survivor universe.",
+  "source_sha256": "a079a5906a00fcf1222be84ab54c0a9628e1eb9a188e04e3a54723ddb1a3e542",
+  "translation": "A cozy dating sim set in the STAR WARS: Jedi Survivor universe.",
+  "vndb_url": "https://vndb.org/v53644"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1753",
+  "type": "visual_novel",
+  "name": "Crimson Royale ~Circumstances to Serve a Noble~",
+  "original_name": "クリムゾン・ロワイヤル～Circumstances to serve a noble～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Append disc to Crimson Empire.",
+  "source_sha256": "b307aa15d6748e133601a4e64bb6fcc5b3ea5e77d351d94ac5a40b9bed7e40ce",
+  "translation": "Append disc to Crimson Empire.",
+  "vndb_url": "https://vndb.org/v1753"
+}

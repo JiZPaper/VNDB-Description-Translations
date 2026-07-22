@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105004",
+  "type": "character",
+  "name": "Sally Mae",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She works in a strip club.",
+  "source_sha256": "da7e9f0396efab90520167831ffa2a4d14338b6f32a3818257921437111fcea6",
+  "translation": "She works in a strip club.",
+  "vndb_url": "https://vndb.org/c105004"
+}

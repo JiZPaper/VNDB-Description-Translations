@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53011",
+  "type": "visual_novel",
+  "name": "Horsementween",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel about some friends celebrating Halloween (for the first time).\n\n[From [url=https://ghostleif.itch.io/horsementween]itch.io[/url]]",
+  "source_sha256": "664c6158856893b2a01e7f2e4430dd81dcf5186be36dcc6ba259649c9ded8f09",
+  "translation": "A short visual novel about some friends celebrating Halloween (for the first time).\n\n[From [url=https://ghostleif.itch.io/horsementween]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v53011"
+}

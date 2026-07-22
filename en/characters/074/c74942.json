@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c74942",
+  "type": "character",
+  "name": "Haruna",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nemu's mother.",
+  "source_sha256": "e600a2996e618646c86c6f0252e9fdd8f1726238510aaddd9ba7ef3065a3b7b1",
+  "translation": "Nemu's mother.",
+  "vndb_url": "https://vndb.org/c74942"
+}

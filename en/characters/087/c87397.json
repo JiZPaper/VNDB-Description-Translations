@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87397",
+  "type": "character",
+  "name": "Guard",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "They're guards of the prefect of Molgrey.",
+  "source_sha256": "364bf716a1f4bea76711e47a3ef29f36c4e7f136ea79fdd276d44c0c8474740e",
+  "translation": "They're guards of the prefect of Molgrey.",
+  "vndb_url": "https://vndb.org/c87397"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60262",
+  "type": "character",
+  "name": "Steve",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A shifty older man who apparently travels internationally as a documentarian or film-maker. He seems to prefer keeping things vague.",
+  "source_sha256": "214c75a4a9561dbeb4775fd2f854737028461903591bc2b41ef80996e47abf8a",
+  "translation": "A shifty older man who apparently travels internationally as a documentarian or film-maker. He seems to prefer keeping things vague.",
+  "vndb_url": "https://vndb.org/c60262"
+}

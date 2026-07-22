@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122714",
+  "type": "character",
+  "name": "Star Shiver",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Star Sight's father.",
+  "source_sha256": "71f6cfbb84ab861225c1569d4f5105bbf18ac1d2549452ffb898c7d36f815881",
+  "translation": "Star Sight's father.",
+  "vndb_url": "https://vndb.org/c122714"
+}

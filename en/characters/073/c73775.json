@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73775",
+  "type": "character",
+  "name": "Charlemagne",
+  "original_name": "シャルルマーニュ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The emperor who founded the Holy Roman Empire.\n\n[spoiler]\nHe and Karl der Große are two versions of the same person.[/spoiler]",
+  "source_sha256": "31b74ebbd4acaef3ad6927a413ce9fb05b61af3355cabab26ea1ad00b353ce65",
+  "translation": "The emperor who founded the Holy Roman Empire.\n\n[spoiler]\nHe and Karl der Große are two versions of the same person.[/spoiler]",
+  "vndb_url": "https://vndb.org/c73775"
+}

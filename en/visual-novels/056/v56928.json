@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56928",
+  "type": "visual_novel",
+  "name": "Blue Hour",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about an alchemist and a werewolf who wandered into a long-forgotten land shrouded in blue mist and fell into a deep slumber.",
+  "source_sha256": "05b26d486b41a7bb2792080b5182ae06e63c018fc2e9f9adf5c67bebf71a742f",
+  "translation": "A story about an alchemist and a werewolf who wandered into a long-forgotten land shrouded in blue mist and fell into a deep slumber.",
+  "vndb_url": "https://vndb.org/v56928"
+}

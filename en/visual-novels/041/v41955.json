@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41955",
+  "type": "visual_novel",
+  "name": "How's Things?",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short narrative about life.",
+  "source_sha256": "0d69770a9c33c7d488a9fc5998041f2f7a05bd8f0cb6acc9bb8015b9bf53a015",
+  "translation": "A short narrative about life.",
+  "vndb_url": "https://vndb.org/v41955"
+}

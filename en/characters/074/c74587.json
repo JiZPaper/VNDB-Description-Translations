@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c74587",
+  "type": "character",
+  "name": "Stella",
+  "original_name": "ステラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious person with the name of \"Joker\".",
+  "source_sha256": "863189e65ba8a447c76cc2daa0f27e9ff9bdf3c323f4f7d568a648d0df4926db",
+  "translation": "A mysterious person with the name of \"Joker\".",
+  "vndb_url": "https://vndb.org/c74587"
+}

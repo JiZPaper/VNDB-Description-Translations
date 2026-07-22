@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58964",
+  "type": "visual_novel",
+  "name": "Cvetochnye strasti",
+  "original_name": "Цветочные страсти",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on APVILart's comics.",
+  "source_sha256": "6d99915c6c85d522b2a781ccdd68f39a11c6ec699d1e5a6fe1542b52c61e1857",
+  "translation": "Based on APVILart's comics.",
+  "vndb_url": "https://vndb.org/v58964"
+}

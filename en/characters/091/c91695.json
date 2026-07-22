@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91695",
+  "type": "character",
+  "name": "Michael Von",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Michael is a worker who just moved from a distant city. He was lost when he arrived in the city of Lavendaria.",
+  "source_sha256": "3af04ad567d5a3d99ff58421ca9a5678c739afe97d1b344fa246b7a68c8776de",
+  "translation": "Michael is a worker who just moved from a distant city. He was lost when he arrived in the city of Lavendaria.",
+  "vndb_url": "https://vndb.org/c91695"
+}

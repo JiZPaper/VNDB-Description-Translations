@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122772",
+  "type": "character",
+  "name": "Ron Weasley",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Slytherin's Quidditch seeker.",
+  "source_sha256": "0581e7a7922464b8b9b57d7eb4a8657e7bcf64c7f0ebc5c456835d4bbb89aacd",
+  "translation": "Slytherin's Quidditch seeker.",
+  "vndb_url": "https://vndb.org/c122772"
+}

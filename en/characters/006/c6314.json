@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c6314",
+  "type": "character",
+  "name": "Liviera",
+  "original_name": "リヴィエラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ritice's big sister.",
+  "source_sha256": "84b1fcf4176c61e4c2d881d9fa42bc40b4706c4ff0c7cd4c7424d20fe6c2734b",
+  "translation": "Ritice's big sister.",
+  "vndb_url": "https://vndb.org/c6314"
+}

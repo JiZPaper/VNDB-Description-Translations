@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116849",
+  "type": "character",
+  "name": "Vermillion Eye",
+  "original_name": "ヴァーミリオンアイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A small robot born from the remains of the Crimson Eye.",
+  "source_sha256": "bad688c9803f8a1760fab8d34c2a37ff35648b67f8cb3aff3a41892b387c9296",
+  "translation": "A small robot born from the remains of the Crimson Eye.",
+  "vndb_url": "https://vndb.org/c116849"
+}

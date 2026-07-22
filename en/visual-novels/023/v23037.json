@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23037",
+  "type": "visual_novel",
+  "name": "Our Time",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An Fan-Fiction DDLC Game where you can date Monika.",
+  "source_sha256": "198ab022752b2cb46aaa74f49e4f6b481dc55ea6327deac01e7d4e40a78753c1",
+  "translation": "An Fan-Fiction DDLC Game where you can date Monika.",
+  "vndb_url": "https://vndb.org/v23037"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29311",
+  "type": "visual_novel",
+  "name": "My Girlfriend's Amnesia DLC",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Despite being called DLC, this is a standalone sequel that takes place after the events of the gentleman ending from the main game.",
+  "source_sha256": "ac94d7fd68041723466736aca95ed508caab2a71331ecd2eb8cc78bc4675f827",
+  "translation": "Despite being called DLC, this is a standalone sequel that takes place after the events of the gentleman ending from the main game.",
+  "vndb_url": "https://vndb.org/v29311"
+}

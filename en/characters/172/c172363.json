@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172363",
+  "type": "character",
+  "name": "Barista",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Barista at coffee shop.",
+  "source_sha256": "c8e1943710efe22b9fae51d52557a64438a2d94a5997a372b9be76efd1ededff",
+  "translation": "Barista at coffee shop.",
+  "vndb_url": "https://vndb.org/c172363"
+}

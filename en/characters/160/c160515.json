@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160515",
+  "type": "character",
+  "name": "Igraine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Morgan and Arthur's mother.",
+  "source_sha256": "6125e5842b8d576e5d1ca155448a229bd04c6fe2dc0ecb70c99c848bfc3b3856",
+  "translation": "Morgan and Arthur's mother.",
+  "vndb_url": "https://vndb.org/c160515"
+}

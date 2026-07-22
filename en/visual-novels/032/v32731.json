@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32731",
+  "type": "visual_novel",
+  "name": "Sweet One Room",
+  "original_name": "スイートワンルーム",
+  "language": "en",
+  "source_language": "en",
+  "source": "It's almost over, the story of two people.\nThis is the story of a small world, just the two of us.\nIt will end soon; although small.",
+  "source_sha256": "fd37dbe3adaf8c998178324bd8bcc4cc9af5f120a9f11d83b5788f0fbe4b913f",
+  "translation": "It's almost over, the story of two people.\nThis is the story of a small world, just the two of us.\nIt will end soon; although small.",
+  "vndb_url": "https://vndb.org/v32731"
+}

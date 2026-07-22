@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115482",
+  "type": "character",
+  "name": "Ken",
+  "original_name": "廬",
+  "language": "en",
+  "source_language": "en",
+  "source": "Client of Francis.\nHe is having trouble with Dog Head.",
+  "source_sha256": "66c5fd1a25cfae052ecdba2f8a5b406c314bdbff9e7de77ae0a1d6839b84ec5e",
+  "translation": "Client of Francis.\nHe is having trouble with Dog Head.",
+  "vndb_url": "https://vndb.org/c115482"
+}

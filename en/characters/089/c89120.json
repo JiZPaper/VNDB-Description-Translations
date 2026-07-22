@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89120",
+  "type": "character",
+  "name": "God",
+  "original_name": "カミサマ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious voice that communicates with Aoi through her cellphone.",
+  "source_sha256": "81bec54125a223785e88c242ee1d23db66a5bc2b325c15d7f4aa1e5e881815dc",
+  "translation": "A mysterious voice that communicates with Aoi through her cellphone.",
+  "vndb_url": "https://vndb.org/c89120"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48377",
+  "type": "character",
+  "name": "Lärm",
+  "original_name": "レルム",
+  "language": "en",
+  "source_language": "en",
+  "source": "Gerald's familiar, a boy that could fit in your palm.\nHe talks often in place of the quiet protagonist.",
+  "source_sha256": "ee30d9ed3e01cc490c86b7ef0064826b4ab3519f340a92bcc10b9a9dd4d6f915",
+  "translation": "Gerald's familiar, a boy that could fit in your palm.\nHe talks often in place of the quiet protagonist.",
+  "vndb_url": "https://vndb.org/c48377"
+}

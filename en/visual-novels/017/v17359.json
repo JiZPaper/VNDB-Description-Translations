@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17359",
+  "type": "visual_novel",
+  "name": "Amor y Chocolates",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A South Park Kenny/Butters fan game.",
+  "source_sha256": "c615fef3caec10305e68b77b3071e2f276df541192b91850d43ce3863292d0fe",
+  "translation": "A South Park Kenny/Butters fan game.",
+  "vndb_url": "https://vndb.org/v17359"
+}

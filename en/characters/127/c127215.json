@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127215",
+  "type": "character",
+  "name": "Major Fährmann",
+  "original_name": "フェールマン少佐",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Stasi Berlin faction’s second in command.",
+  "source_sha256": "20b608f9672a2c6b064ebeaefedfa2151b8f951eeded25d3d1f3bb640f215d98",
+  "translation": "The Stasi Berlin faction’s second in command.",
+  "vndb_url": "https://vndb.org/c127215"
+}

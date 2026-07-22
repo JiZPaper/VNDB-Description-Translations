@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123207",
+  "type": "character",
+  "name": "Marvolo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A summoner that is partners Jade and Melton.",
+  "source_sha256": "52a9f6b5309b9639d12235c1aab3fbd07fb145f6d3ab0e962efda18182adf820",
+  "translation": "A summoner that is partners Jade and Melton.",
+  "vndb_url": "https://vndb.org/c123207"
+}

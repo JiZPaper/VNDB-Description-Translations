@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c63896",
+  "type": "character",
+  "name": "Granny",
+  "original_name": "Бабка",
+  "language": "en",
+  "source_language": "en",
+  "source": "She is very strange",
+  "source_sha256": "61dbe1783fa6181f8fc2cb1d7599cd0fd67014e6e822ee5fdd95cb202d69f257",
+  "translation": "She is very strange",
+  "vndb_url": "https://vndb.org/c63896"
+}

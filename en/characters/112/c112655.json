@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112655",
+  "type": "character",
+  "name": "Iona",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A native of Fior who Ciel saved.",
+  "source_sha256": "f85db1817df40bf98cdd14711bbadda492cb15b906775fd87643c0cb467779cf",
+  "translation": "A native of Fior who Ciel saved.",
+  "vndb_url": "https://vndb.org/c112655"
+}

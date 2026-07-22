@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100725",
+  "type": "character",
+  "name": "Underling",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Servants of the overlord, widely considered to be very untrustworthy.\n\n[From [url=https://badendtheater.carrd.co/#cast]official site[/url]]",
+  "source_sha256": "b2acd82b9a0b41406ba9d24aeb4ddda70d1433ba330a463b37772e2b41fbbd51",
+  "translation": "Servants of the overlord, widely considered to be very untrustworthy.\n\n[From [url=https://badendtheater.carrd.co/#cast]official site[/url]]",
+  "vndb_url": "https://vndb.org/c100725"
+}

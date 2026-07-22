@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122242",
+  "type": "character",
+  "name": "Colgate",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The pony that presents the protagonist with choices at the beginning of the game.",
+  "source_sha256": "f0d9e8c59d637092e76f6cae5b9f96974ef8f8da7a83b283f675b59f0752aa20",
+  "translation": "The pony that presents the protagonist with choices at the beginning of the game.",
+  "vndb_url": "https://vndb.org/c122242"
+}

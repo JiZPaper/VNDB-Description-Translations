@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100639",
+  "type": "character",
+  "name": "Penelope",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She works in the library.",
+  "source_sha256": "a917bacc34824e16f8b4609149dabe78f302e9c5b6e3d1656fc49cbaddd277e0",
+  "translation": "She works in the library.",
+  "vndb_url": "https://vndb.org/c100639"
+}

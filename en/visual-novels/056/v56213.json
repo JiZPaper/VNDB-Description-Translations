@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56213",
+  "type": "visual_novel",
+  "name": "Strange House",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fangame centered around Lavi and Yu Kanda on a mission to hunt akuma and their journey home.",
+  "source_sha256": "9d4e01d17333e6a3b47d3b4aede35a3360da83766a00278c8d583234126def4c",
+  "translation": "A fangame centered around Lavi and Yu Kanda on a mission to hunt akuma and their journey home.",
+  "vndb_url": "https://vndb.org/v56213"
+}

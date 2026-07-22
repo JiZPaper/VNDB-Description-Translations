@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41451",
+  "type": "visual_novel",
+  "name": "Winter Café",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This game is about a cozy winter café where people of different backgrounds meet. \n\n[From [url=https://morgis.itch.io/winter-caf]Itch.io[/url]]\n\nMade for Winter Visual Novel Jam 2022.",
+  "source_sha256": "1a44715291029da30e471332bc0c5339ef6714f5a741dbc3c660a0a0fa8d3732",
+  "translation": "This game is about a cozy winter café where people of different backgrounds meet. \n\n[From [url=https://morgis.itch.io/winter-caf]Itch.io[/url]]\n\nMade for Winter Visual Novel Jam 2022.",
+  "vndb_url": "https://vndb.org/v41451"
+}

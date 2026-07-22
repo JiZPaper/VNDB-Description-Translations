@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93173",
+  "type": "character",
+  "name": "Salum",
+  "original_name": "サルム",
+  "language": "en",
+  "source_language": "en",
+  "source": "A reticent bodyguard who travels with Pooka.",
+  "source_sha256": "bb5ae4843f5f81741982b42e90aff462893870633c6df94b120c27677bd3002f",
+  "translation": "A reticent bodyguard who travels with Pooka.",
+  "vndb_url": "https://vndb.org/c93173"
+}

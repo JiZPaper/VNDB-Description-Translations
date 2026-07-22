@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c63630",
+  "type": "character",
+  "name": "Ellie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is a biology major, and has no siblings.",
+  "source_sha256": "184abd98742f35a159b31aae29404821f197214c05af984a725fdbeead5d5d90",
+  "translation": "She is a biology major, and has no siblings.",
+  "vndb_url": "https://vndb.org/c63630"
+}

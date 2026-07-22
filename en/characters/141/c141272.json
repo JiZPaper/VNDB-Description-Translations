@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141272",
+  "type": "character",
+  "name": "Kakinuma",
+  "original_name": "柿沼",
+  "language": "en",
+  "source_language": "en",
+  "source": "Manager of a jewelry store in Dogenzaka.",
+  "source_sha256": "6694a80a37ee5376ad3801c9c88d041c37998ce96ff2153d6fc519a78ace49f6",
+  "translation": "Manager of a jewelry store in Dogenzaka.",
+  "vndb_url": "https://vndb.org/c141272"
+}

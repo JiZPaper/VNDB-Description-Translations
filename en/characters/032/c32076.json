@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c32076",
+  "type": "character",
+  "name": "Veridadia",
+  "original_name": "ベリダディア",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the heroines in Kai's scenario.",
+  "source_sha256": "e95c8b58711a9344460fe9eab3fe2d23a10071df69f1d494b3d803b9c22a0e46",
+  "translation": "One of the heroines in Kai's scenario.",
+  "vndb_url": "https://vndb.org/c32076"
+}

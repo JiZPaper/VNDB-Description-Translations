@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42166",
+  "type": "character",
+  "name": "Kosuzu",
+  "original_name": "こすず",
+  "language": "en",
+  "source_language": "en",
+  "source": "Handles quests for the adventurers in Gigai no Alruna.\nHidden extra boss in Izumo 4.\nResponsible for youkai breeding and training in Meguru Sekai.",
+  "source_sha256": "3a61338f02a4130911959aab89faf30d826491e848a236c61059c45174d4ee92",
+  "translation": "Handles quests for the adventurers in Gigai no Alruna.\nHidden extra boss in Izumo 4.\nResponsible for youkai breeding and training in Meguru Sekai.",
+  "vndb_url": "https://vndb.org/c42166"
+}

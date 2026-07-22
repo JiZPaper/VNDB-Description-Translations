@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93525",
+  "type": "character",
+  "name": "???",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mailman that delivers the box with pearls to Nova.",
+  "source_sha256": "9ccc154000de5e2b41c6d743899c5d201a117ebd76fc07b1a35fd65148c27cf6",
+  "translation": "A mailman that delivers the box with pearls to Nova.",
+  "vndb_url": "https://vndb.org/c93525"
+}

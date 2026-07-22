@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40391",
+  "type": "character",
+  "name": "Norma East",
+  "original_name": "ノーマ・イースト",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hobbies: Playing with children\nLikes: Cute things, cats, blood\nDislikes: Nothing in particular",
+  "source_sha256": "a32abaffcf062156a5e24bc78cc72ce218359f4517fc17c611d905c63b097a3b",
+  "translation": "Hobbies: Playing with children\nLikes: Cute things, cats, blood\nDislikes: Nothing in particular",
+  "vndb_url": "https://vndb.org/c40391"
+}

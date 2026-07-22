@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20989",
+  "type": "character",
+  "name": "Clara",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An athletic girl who loves the big city.\n\n[From [url=https://en.wikipedia.org/wiki/The_Flower_Shop]Wikipedia[/url]]",
+  "source_sha256": "8d54bb443ae0e4ba1b554c1813a8d9317333d7abddb66079caa6ecd1245b0a44",
+  "translation": "An athletic girl who loves the big city.\n\n[From [url=https://en.wikipedia.org/wiki/The_Flower_Shop]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/c20989"
+}

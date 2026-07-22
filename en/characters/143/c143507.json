@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143507",
+  "type": "character",
+  "name": "Kent",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A photographer from out-of-town.",
+  "source_sha256": "5b249dd722adb589fdea3331378df3f30914af592e32be83770922f23cd36472",
+  "translation": "A photographer from out-of-town.",
+  "vndb_url": "https://vndb.org/c143507"
+}

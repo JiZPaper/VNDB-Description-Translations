@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55112",
+  "type": "visual_novel",
+  "name": "Gretel no Honkai",
+  "original_name": "グレーテルの本懐",
+  "language": "en",
+  "source_language": "en",
+  "source": "A comic-like visual novel, expressing a new story based on the fairy tale “Hansel and Gretel”.",
+  "source_sha256": "56f69c59e2265e8ba24eac5af3ab51802bb09c84975d28d175eca21877faffc5",
+  "translation": "A comic-like visual novel, expressing a new story based on the fairy tale “Hansel and Gretel”.",
+  "vndb_url": "https://vndb.org/v55112"
+}

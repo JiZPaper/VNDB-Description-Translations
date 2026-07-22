@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22523",
+  "type": "visual_novel",
+  "name": "UVAO Project 2017 Rebuild",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Short visual novel based on Uvao Forever (https://vndb.org/v3452) resourses and original story about Uvao-tan.",
+  "source_sha256": "64ea1744b93d4fc12d3550229163d4d2fef34af314eff01b8f5af60279451d8d",
+  "translation": "Short visual novel based on Uvao Forever (https://vndb.org/v3452) resourses and original story about Uvao-tan.",
+  "vndb_url": "https://vndb.org/v22523"
+}

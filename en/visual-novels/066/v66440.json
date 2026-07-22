@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66440",
+  "type": "visual_novel",
+  "name": "Akkord",
+  "original_name": "Аккорд",
+  "language": "en",
+  "source_language": "en",
+  "source": "Continues and reimagines the story of [url=/v66439]Lish Perevodchik?[/url]",
+  "source_sha256": "9769985c30ca8fd62c8ff858e7da3825bcd382ca237e68451887b67bfbbb6390",
+  "translation": "Continues and reimagines the story of [url=/v66439]Lish Perevodchik?[/url]",
+  "vndb_url": "https://vndb.org/v66440"
+}

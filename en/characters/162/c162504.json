@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162504",
+  "type": "character",
+  "name": "The Mother",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "the AI ruling over the city",
+  "source_sha256": "1586ae6e820504a0ff2d425a186f7bc7ae58b9524fcd63fec4dd5511d364cadf",
+  "translation": "the AI ruling over the city",
+  "vndb_url": "https://vndb.org/c162504"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15574",
+  "type": "character",
+  "name": "Grob",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Goblin sorcerer.",
+  "source_sha256": "2e72716cd16483f60b9b0913a2e816c1a03615a86705010de5dcebfa62e18c41",
+  "translation": "Goblin sorcerer.",
+  "vndb_url": "https://vndb.org/c15574"
+}

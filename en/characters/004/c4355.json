@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4355",
+  "type": "character",
+  "name": "Chie",
+  "original_name": "チエ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Female \"Guerilla War\" activist.",
+  "source_sha256": "86824c5ac7c6e36c7d4bea6d73a0e9a970337056392350d4ff97fc054fdd56b6",
+  "translation": "Occupation: Female \"Guerilla War\" activist.",
+  "vndb_url": "https://vndb.org/c4355"
+}

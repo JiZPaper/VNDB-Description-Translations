@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156453",
+  "type": "character",
+  "name": "Takagi",
+  "original_name": "喬木",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kuroenji Household's Butler",
+  "source_sha256": "ee1ca2498f393357583aa93aca85a3bc3964288b95a24dd39ce58bd01525ce70",
+  "translation": "Kuroenji Household's Butler",
+  "vndb_url": "https://vndb.org/c156453"
+}

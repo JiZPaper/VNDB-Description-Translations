@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134032",
+  "type": "character",
+  "name": "Mikiteru",
+  "original_name": "ミキテル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A villager.",
+  "source_sha256": "17d9d214804bd69b8d76152935ae86e85f1baae104f7c5dc1aa887e9e54374a8",
+  "translation": "A villager.",
+  "vndb_url": "https://vndb.org/c134032"
+}

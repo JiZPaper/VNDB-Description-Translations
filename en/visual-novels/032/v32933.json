@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32933",
+  "type": "visual_novel",
+  "name": "Momotype",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The monotype, an off-shoot virtual pet, is being play-tested by members of your company. You have been selected.\n\nAn experimental, retro take on tamogotchi-lite games. Will you fulfill Momo's needs or does he need something greater?\n\n[From [url=https://store.steampowered.com/app/1822190/]Steam[/url]]",
+  "source_sha256": "80da58b08f3a81b77cc3920f49da3ee61db1f7e6530c2c06b17e769b0dc5bbfe",
+  "translation": "The monotype, an off-shoot virtual pet, is being play-tested by members of your company. You have been selected.\n\nAn experimental, retro take on tamogotchi-lite games. Will you fulfill Momo's needs or does he need something greater?\n\n[From [url=https://store.steampowered.com/app/1822190/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v32933"
+}

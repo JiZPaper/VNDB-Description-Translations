@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15201",
+  "type": "visual_novel",
+  "name": "ThisArmor Kaisetsu 8 Shuunen Kinen Game",
+  "original_name": "ThisArmor開設8周年記念ゲーム",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short game to commemorate ThisArmor's eighth anniversary.",
+  "source_sha256": "ab72a927daae46b027da406541d4d5b7568d556a0ec80f2061e92677ca1aafbf",
+  "translation": "A short game to commemorate ThisArmor's eighth anniversary.",
+  "vndb_url": "https://vndb.org/v15201"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127945",
+  "type": "character",
+  "name": "Hijyoushoku/Emergency Rations",
+  "original_name": "非常食",
+  "language": "en",
+  "source_language": "en",
+  "source": "A sort of pig that accompanies and helps Marco. Intended to serve her emergency meal, but has more of a pet or mascot role.",
+  "source_sha256": "803a77194bb44703542aca7d278a611a84db2146a2003642aecbf1bfb4f4bec2",
+  "translation": "A sort of pig that accompanies and helps Marco. Intended to serve her emergency meal, but has more of a pet or mascot role.",
+  "vndb_url": "https://vndb.org/c127945"
+}

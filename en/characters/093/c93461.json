@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93461",
+  "type": "character",
+  "name": "Bobby Price",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The new, young host of a late night talk show.",
+  "source_sha256": "b474391d24549e1333ecfcac59a34314d90f7e8dcfa4a656e25159e64031170e",
+  "translation": "The new, young host of a late night talk show.",
+  "vndb_url": "https://vndb.org/c93461"
+}

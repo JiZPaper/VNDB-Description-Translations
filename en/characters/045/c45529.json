@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45529",
+  "type": "character",
+  "name": "Li Bai",
+  "original_name": "李柏",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ming Ming's henchman.\nHis face is always covered and he uses a voice distorter.\nHis weapon of choice are two hatchets.",
+  "source_sha256": "bb06e9968a04a11cb8d3486d3cfa3c879197b0fcfd90f62f66848fce6018a93f",
+  "translation": "Ming Ming's henchman.\nHis face is always covered and he uses a voice distorter.\nHis weapon of choice are two hatchets.",
+  "vndb_url": "https://vndb.org/c45529"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c27002",
+  "type": "character",
+  "name": "Yazawa Saki",
+  "original_name": "矢沢 沙貴",
+  "language": "en",
+  "source_language": "en",
+  "source": "Liked foods: avocado, caviar\nDisliked foods: natto, harusame\nInterests: writing lyrics, composing music\nFavorite musician: The Rolling Stones\nFavorite author: Murakami Ryuu",
+  "source_sha256": "ad577941880d147a366c91eadff2e0618a58fc7d9ce6f7213d2691b0e9251e51",
+  "translation": "Liked foods: avocado, caviar\nDisliked foods: natto, harusame\nInterests: writing lyrics, composing music\nFavorite musician: The Rolling Stones\nFavorite author: Murakami Ryuu",
+  "vndb_url": "https://vndb.org/c27002"
+}

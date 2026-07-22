@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115900",
+  "type": "character",
+  "name": "Dux",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A news club member dragged along for Digrat's \"scoops\".",
+  "source_sha256": "9a44c9530672721cac4057ba94f8b3b15a5d7348640e41805e8f9c76622e6623",
+  "translation": "A news club member dragged along for Digrat's \"scoops\".",
+  "vndb_url": "https://vndb.org/c115900"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65143",
+  "type": "character",
+  "name": "Angel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Catherine's boss at the café where she works.",
+  "source_sha256": "5cf7cc6eade7d30d03a25c297ce8f4e3d30b1a4e26f6549c1a69e11b7ea65256",
+  "translation": "Catherine's boss at the café where she works.",
+  "vndb_url": "https://vndb.org/c65143"
+}

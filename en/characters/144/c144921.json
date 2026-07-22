@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c144921",
+  "type": "character",
+  "name": "Tempesta",
+  "original_name": "テンペスタ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Witch of Mayhem.",
+  "source_sha256": "a682be2c5a9448f056d0c68f3c8fc174a90968c1348ad1c1b5af9bcd50c7f3f8",
+  "translation": "Witch of Mayhem.",
+  "vndb_url": "https://vndb.org/c144921"
+}

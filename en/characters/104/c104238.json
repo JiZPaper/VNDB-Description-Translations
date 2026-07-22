@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c104238",
+  "type": "character",
+  "name": "Mr. Yamada",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "PE Teacher at Satoshi and Tsugumi high school.",
+  "source_sha256": "30bfb0fb7255de9ac5742ec28c75a99ae3026b98f273a7b1e5271a194aecfcc8",
+  "translation": "PE Teacher at Satoshi and Tsugumi high school.",
+  "vndb_url": "https://vndb.org/c104238"
+}

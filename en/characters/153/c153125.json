@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153125",
+  "type": "character",
+  "name": "Oz Aston",
+  "original_name": "오즈 에스턴",
+  "language": "en",
+  "source_language": "en",
+  "source": "Skill: Chain ice formation",
+  "source_sha256": "23527ae382b2614d10931e5ebb6a51e821ef6e91182fa612ba96179ff8001bdd",
+  "translation": "Skill: Chain ice formation",
+  "vndb_url": "https://vndb.org/c153125"
+}

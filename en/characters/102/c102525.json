@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102525",
+  "type": "character",
+  "name": "Mike",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of Devil's Eyes.",
+  "source_sha256": "16e2c04a1677d1c62cccde15a583c5c0317aca712777ad4d815e26eb8c2bd228",
+  "translation": "The protagonist of Devil's Eyes.",
+  "vndb_url": "https://vndb.org/c102525"
+}

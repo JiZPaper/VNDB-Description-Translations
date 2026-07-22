@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122904",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Here for counselling.",
+  "source_sha256": "809c0931c7e7337dfd80a7903ae980b901de82beccfaad276ba71352dedddda5",
+  "translation": "Here for counselling.",
+  "vndb_url": "https://vndb.org/c122904"
+}

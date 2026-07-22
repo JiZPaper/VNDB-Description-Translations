@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16622",
+  "type": "visual_novel",
+  "name": "Starry Night",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jean and Armin are stranded after school during a blizzard.\n\nAn \"Attack on Titan\" Jean/Armin fan game.",
+  "source_sha256": "2d9d862525124667fbf704204911f9c82464d21deb0ba978eaf73e7320b3079e",
+  "translation": "Jean and Armin are stranded after school during a blizzard.\n\nAn \"Attack on Titan\" Jean/Armin fan game.",
+  "vndb_url": "https://vndb.org/v16622"
+}

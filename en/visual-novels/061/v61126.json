@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61126",
+  "type": "visual_novel",
+  "name": "Vibes",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "It's just vibes dude.",
+  "source_sha256": "10ffbfc6d8269fb795612e180609c602e1be59ce3e811436ad3423e8c2ddf6f9",
+  "translation": "It's just vibes dude.",
+  "vndb_url": "https://vndb.org/v61126"
+}

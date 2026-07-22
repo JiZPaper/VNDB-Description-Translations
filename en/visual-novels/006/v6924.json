@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6924",
+  "type": "visual_novel",
+  "name": "Anaheim Girl's Love Story",
+  "original_name": "アナハイム・ガールズ・ラブストーリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A girls' love story between two Anaheim Electronics engineers.\n\nIt also chronicles the development and construction of the fourth unit in the Gundam Development Project (GP-04 Gerbera), and its subsequent alteration into the Gerbera Tetra as seen in the \"Gundam 0083: Stardust Memories\" anime.",
+  "source_sha256": "8bf08188b874c1ecea420236e880a46019f6ebfd904ab1f9c2876aa53a3e2f45",
+  "translation": "A girls' love story between two Anaheim Electronics engineers.\n\nIt also chronicles the development and construction of the fourth unit in the Gundam Development Project (GP-04 Gerbera), and its subsequent alteration into the Gerbera Tetra as seen in the \"Gundam 0083: Stardust Memories\" anime.",
+  "vndb_url": "https://vndb.org/v6924"
+}

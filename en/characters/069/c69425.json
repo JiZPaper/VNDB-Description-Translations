@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c69425",
+  "type": "character",
+  "name": "Wakamiya Kaho",
+  "original_name": "若宮 花帆",
+  "language": "en",
+  "source_language": "en",
+  "source": "A nurse working at the Yamashina hospital.",
+  "source_sha256": "ffc3c4e183fef6e07675e8dd9c38a762c5b0f51a5bb96875c4ead5e861a6e157",
+  "translation": "A nurse working at the Yamashina hospital.",
+  "vndb_url": "https://vndb.org/c69425"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96102",
+  "type": "character",
+  "name": "Narrator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The heiress of an ancient magical family.\nShe has a camera that can take pictures of the past.\n\n\"I feign no hypotheses.\"",
+  "source_sha256": "dbcf86562db1f8911872fd929d0ef2b6074500a81939b88b8d465a76e233ab2f",
+  "translation": "The heiress of an ancient magical family.\nShe has a camera that can take pictures of the past.\n\n\"I feign no hypotheses.\"",
+  "vndb_url": "https://vndb.org/c96102"
+}

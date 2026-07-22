@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c63758",
+  "type": "character",
+  "name": "Galinn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Manager at the café where Shinji works and an information broker on the side.",
+  "source_sha256": "a39926a54e9e0c6954833bc79e634e1e34cdaf83a66b47fed44ce7fc8dfa574d",
+  "translation": "Manager at the café where Shinji works and an information broker on the side.",
+  "vndb_url": "https://vndb.org/c63758"
+}

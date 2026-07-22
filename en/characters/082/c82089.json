@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82089",
+  "type": "character",
+  "name": "Mazaal",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Kamilla's coworkers.",
+  "source_sha256": "042b833533f39dc75ba45e92ca22135ccdaafbf8c2b12ad1b86497b29d5210d6",
+  "translation": "One of Kamilla's coworkers.",
+  "vndb_url": "https://vndb.org/c82089"
+}

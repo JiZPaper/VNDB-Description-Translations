@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c85500",
+  "type": "character",
+  "name": "Caspian",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An aloof, mysterious water elemental.",
+  "source_sha256": "ba7445ad3b2b0f38676607be95efbdf8c2b17f91bb039e55d0a0adcf9b4d6c72",
+  "translation": "An aloof, mysterious water elemental.",
+  "vndb_url": "https://vndb.org/c85500"
+}

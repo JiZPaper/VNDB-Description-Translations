@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c5162",
+  "type": "character",
+  "name": "Galileo",
+  "original_name": "ガリレオ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on Galileo Galilei. In prison, she is conducting research to prove her theory.\n\n\"Shut up! The Earth still moves!\"",
+  "source_sha256": "b2cab369da242fd01fc3a62baf95aa3f277c50f6ba9373af79e34104693a9ef5",
+  "translation": "Based on Galileo Galilei. In prison, she is conducting research to prove her theory.\n\n\"Shut up! The Earth still moves!\"",
+  "vndb_url": "https://vndb.org/c5162"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55724",
+  "type": "character",
+  "name": "Lisa Vixen",
+  "original_name": "リサ＝ヴィクセン",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Real name: Maria Alferov (マリア・アルフェロフ), nickname: Masha (マーシャ)[/spoiler]",
+  "source_sha256": "8115c85af376c87e8d81368e73b461378ad98215f090b89e16032349d3a3fbaa",
+  "translation": "[spoiler]Real name: Maria Alferov (マリア・アルフェロフ), nickname: Masha (マーシャ)[/spoiler]",
+  "vndb_url": "https://vndb.org/c55724"
+}

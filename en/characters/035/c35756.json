@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35756",
+  "type": "character",
+  "name": "Rani Kapell",
+  "original_name": "ラーニ・カペル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sonar officer of Urudiana.",
+  "source_sha256": "ca3d6bb1f2dad59e81d0a3a812fb46fb68ea9b138c364a6d1097ea595576d124",
+  "translation": "Sonar officer of Urudiana.",
+  "vndb_url": "https://vndb.org/c35756"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161865",
+  "type": "character",
+  "name": "Luna",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Finn's wife",
+  "source_sha256": "50f64e187db473d454ccf0185e97523c08c7625fa1d69576cfa885e78547f4fc",
+  "translation": "Finn's wife",
+  "vndb_url": "https://vndb.org/c161865"
+}

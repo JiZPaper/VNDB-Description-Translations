@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81175",
+  "type": "character",
+  "name": "Emmy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Juliet's half-sister.[/spoiler]",
+  "source_sha256": "e98c2465a1b33960412701194b11b9d3e87df067f821bb1fa33e3e5d685b7593",
+  "translation": "[spoiler]Juliet's half-sister.[/spoiler]",
+  "vndb_url": "https://vndb.org/c81175"
+}

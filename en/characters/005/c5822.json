@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c5822",
+  "type": "character",
+  "name": "Flora",
+  "original_name": "フローラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the Belle's alarm clock dolls.\n\n [spoiler]She was created by Rein's crush, Doll engineer Rooth.[/spoiler]",
+  "source_sha256": "fa568706bfc5c1171fa2d2d40af890bcf3536fec76f935152feb9f6ad4f7bad9",
+  "translation": "One of the Belle's alarm clock dolls.\n\n [spoiler]She was created by Rein's crush, Doll engineer Rooth.[/spoiler]",
+  "vndb_url": "https://vndb.org/c5822"
+}

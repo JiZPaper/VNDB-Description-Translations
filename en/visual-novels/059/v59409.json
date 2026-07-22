@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59409",
+  "type": "visual_novel",
+  "name": "Haison Shoujo Bangai ~Kagome Shuui~",
+  "original_name": "廃村少女 番外 ～籠愛拾遺～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Epilogue spin-off for Kagome's route.",
+  "source_sha256": "5af8388fd44519300c769090ee06b5fbdb777d4c2a995b9f5076cb4acb0bb48b",
+  "translation": "Epilogue spin-off for Kagome's route.",
+  "vndb_url": "https://vndb.org/v59409"
+}

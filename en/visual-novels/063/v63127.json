@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63127",
+  "type": "visual_novel",
+  "name": "Kinseino Eki, nite",
+  "original_name": "菫青乃駅、にて",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"...The train has left.\"\n\nYou're left behind on the station platform.\n\nEveryone else has boarded the train and gone away.\n\nThere are people and vending machines at the station.\n\nTwo hours until the next train arrives.\n\n--Now what should I do?",
+  "source_sha256": "c0f91c7f56f23039aa4c421f2257f1232b61903d236e611224184ede3fb7c868",
+  "translation": "\"...The train has left.\"\n\nYou're left behind on the station platform.\n\nEveryone else has boarded the train and gone away.\n\nThere are people and vending machines at the station.\n\nTwo hours until the next train arrives.\n\n--Now what should I do?",
+  "vndb_url": "https://vndb.org/v63127"
+}

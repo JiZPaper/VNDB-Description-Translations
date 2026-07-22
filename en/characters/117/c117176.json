@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117176",
+  "type": "character",
+  "name": "angle",
+  "original_name": "天使",
+  "language": "en",
+  "source_language": "en",
+  "source": "a bad girl",
+  "source_sha256": "d7445bc7282e663e6967eac721a3c8361b45707dbf228d6fece88048f33932cd",
+  "translation": "a bad girl",
+  "vndb_url": "https://vndb.org/c117176"
+}

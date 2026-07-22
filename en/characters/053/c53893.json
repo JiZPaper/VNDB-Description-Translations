@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53893",
+  "type": "character",
+  "name": "Sir Sand",
+  "original_name": "ザント卿",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the Generals of Edellant Kingdom.\n\nザント(Zanto) -> Sand (German)",
+  "source_sha256": "97f3e3fa372408743db511c331da66fcbbf1c1cd4cebc4705df4f5201e3925c9",
+  "translation": "One of the Generals of Edellant Kingdom.\n\nザント(Zanto) -> Sand (German)",
+  "vndb_url": "https://vndb.org/c53893"
+}

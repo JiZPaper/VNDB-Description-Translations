@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17607",
+  "type": "visual_novel",
+  "name": "Meg and Roy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Short story about a couple's weekend getaway.",
+  "source_sha256": "64f2c1f2f1e01b976d4e3f2990c9c260cc75c95e674fabb81b2bd0275f7e6c04",
+  "translation": "Short story about a couple's weekend getaway.",
+  "vndb_url": "https://vndb.org/v17607"
+}

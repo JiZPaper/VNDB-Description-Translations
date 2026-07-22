@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172029",
+  "type": "character",
+  "name": "Woman",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Woman in club",
+  "source_sha256": "a9ed680bd8fb47476bc67dbb95f31fceb3d11c33aa20dbacf9df9c94d6882c29",
+  "translation": "Woman in club",
+  "vndb_url": "https://vndb.org/c172029"
+}

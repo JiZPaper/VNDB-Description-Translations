@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112189",
+  "type": "character",
+  "name": "Sophia Lundgren",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Abel van Doren's personal assistant.",
+  "source_sha256": "9bb6f1de69d64f35190c963c7e6a25d02921decf24211f583b9ede2c6d6a21f4",
+  "translation": "Abel van Doren's personal assistant.",
+  "vndb_url": "https://vndb.org/c112189"
+}

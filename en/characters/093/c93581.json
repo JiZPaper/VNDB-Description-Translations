@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93581",
+  "type": "character",
+  "name": "Jose",
+  "original_name": "ジョゼ",
+  "language": "en",
+  "source_language": "en",
+  "source": "He is the butler that works at the Twilight Hotel.",
+  "source_sha256": "a84529f042b411f8559f1e09d2974113cf17c7aefa277d1e7aa0c4f1323214a8",
+  "translation": "He is the butler that works at the Twilight Hotel.",
+  "vndb_url": "https://vndb.org/c93581"
+}

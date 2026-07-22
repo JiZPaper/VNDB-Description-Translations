@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24312",
+  "type": "visual_novel",
+  "name": "Kenka Banchou Otome 2nd Rumble!!",
+  "original_name": "喧嘩番長 乙女 2nd Rumble!!",
+  "language": "en",
+  "source_language": "en",
+  "source": "The sequel of the original game of Kenka Bancho Otome. It will added with a new Character at Shishiku Academy.",
+  "source_sha256": "0829a46a3db4b21121ee032b8363c980a380e565c9bc766e573dd4299b373ca7",
+  "translation": "The sequel of the original game of Kenka Bancho Otome. It will added with a new Character at Shishiku Academy.",
+  "vndb_url": "https://vndb.org/v24312"
+}

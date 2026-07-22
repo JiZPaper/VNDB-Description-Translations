@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101935",
+  "type": "character",
+  "name": "Sukemasa",
+  "original_name": "資正",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Izumi family's dog.",
+  "source_sha256": "f2a6e511b6e51e20d7174840663a93bc03026a603b788b672eec695e520e3241",
+  "translation": "The Izumi family's dog.",
+  "vndb_url": "https://vndb.org/c101935"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98159",
+  "type": "character",
+  "name": "Rato Coriander",
+  "original_name": "ラトー・コリアンダー",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist from the original game, now a teacher.",
+  "source_sha256": "dd2376a3018ec9253d686aedac721b1d664559243d27004b69488db810482652",
+  "translation": "The protagonist from the original game, now a teacher.",
+  "vndb_url": "https://vndb.org/c98159"
+}

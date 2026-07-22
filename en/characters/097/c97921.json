@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97921",
+  "type": "character",
+  "name": "Miss Lynn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The principal of the school.",
+  "source_sha256": "3ad750cb9f2f33ca1d3969fa62ec673a30c6d337a325f0b0b0a9c027ce7641fb",
+  "translation": "The principal of the school.",
+  "vndb_url": "https://vndb.org/c97921"
+}

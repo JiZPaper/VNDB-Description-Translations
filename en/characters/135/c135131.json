@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135131",
+  "type": "character",
+  "name": "BAR Master",
+  "original_name": "BARのマスター",
+  "language": "en",
+  "source_language": "en",
+  "source": "The bartender working at the favorite bar of the protagonist.\n\n[Translated from [url=https://enoshima210.work/2021/06/05/mfa/]Official Site[/url]]",
+  "source_sha256": "d226cb8501ff3fff08cb8894676c11a0e2c79b794452b46398fb051fa12d0869",
+  "translation": "The bartender working at the favorite bar of the protagonist.\n\n[Translated from [url=https://enoshima210.work/2021/06/05/mfa/]Official Site[/url]]",
+  "vndb_url": "https://vndb.org/c135131"
+}

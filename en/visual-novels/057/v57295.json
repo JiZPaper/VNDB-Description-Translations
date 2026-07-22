@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57295",
+  "type": "visual_novel",
+  "name": "Brillianty",
+  "original_name": "Бриллианты",
+  "language": "en",
+  "source_language": "en",
+  "source": "Made for Anivisual Jam 2.",
+  "source_sha256": "52ac4cfac5375edd661eca1a3aa4768f1d9522f2a594a53ec68d01a29412437d",
+  "translation": "Made for Anivisual Jam 2.",
+  "vndb_url": "https://vndb.org/v57295"
+}

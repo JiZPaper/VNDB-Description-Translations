@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c78114",
+  "type": "character",
+  "name": "Mr. Suzuki",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Suzu's father is a quiet and serious man who works as a bureaucrat.",
+  "source_sha256": "7e1a67dc81a8ac3fb0751bc1eda072294d5e57a29d074fc37011b038950e447f",
+  "translation": "Suzu's father is a quiet and serious man who works as a bureaucrat.",
+  "vndb_url": "https://vndb.org/c78114"
+}

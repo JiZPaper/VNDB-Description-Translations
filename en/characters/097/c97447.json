@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97447",
+  "type": "character",
+  "name": "Legionary",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Soldier of Doronium.",
+  "source_sha256": "0a31129fbca3be883da7d30592ba8a62c1abf9c7eca25a06def46da8d59861dd",
+  "translation": "Soldier of Doronium.",
+  "vndb_url": "https://vndb.org/c97447"
+}

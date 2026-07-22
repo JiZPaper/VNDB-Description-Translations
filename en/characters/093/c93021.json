@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93021",
+  "type": "character",
+  "name": "Katya",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Katya is a young girl living on a colony in the restricted zone",
+  "source_sha256": "28782976e71f460c2e136a0b7ce262902fad125176de6c715fedd31df93a6dfe",
+  "translation": "Katya is a young girl living on a colony in the restricted zone",
+  "vndb_url": "https://vndb.org/c93021"
+}

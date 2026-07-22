@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16795",
+  "type": "visual_novel",
+  "name": "Fatal[e]",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mating sim with perilous paramours.\n\nCreated for [url=http://itch.io/jam/gxdev]GXDev[/url].",
+  "source_sha256": "35294b9505baabf2dd97f6da06514d6b75c2f2eb62715411e453303e7f6d3654",
+  "translation": "A mating sim with perilous paramours.\n\nCreated for [url=http://itch.io/jam/gxdev]GXDev[/url].",
+  "vndb_url": "https://vndb.org/v16795"
+}

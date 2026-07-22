@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43450",
+  "type": "visual_novel",
+  "name": "Kinda Tall",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel about a big girl with her big problems",
+  "source_sha256": "d54aeae3d1d0db4efe57b4518eb1a0e4dc2a9c1203cb64358ae5fc56a9b37946",
+  "translation": "A visual novel about a big girl with her big problems",
+  "vndb_url": "https://vndb.org/v43450"
+}

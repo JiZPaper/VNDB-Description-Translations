@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99152",
+  "type": "character",
+  "name": "Theodore",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's grandfather.",
+  "source_sha256": "859ea7b68f5bf956823b1ea1e4c67e819328073a88b547f01779b40dff7d4f21",
+  "translation": "The protagonist's grandfather.",
+  "vndb_url": "https://vndb.org/c99152"
+}

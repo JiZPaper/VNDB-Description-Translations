@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c5362",
+  "type": "character",
+  "name": "Nanai",
+  "original_name": "ナナイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl who works in the town flower shop.",
+  "source_sha256": "1f56ca03e000e1e93af3499c71892dc8a3caca9b35a3d99882c2fa8b60fd5bb3",
+  "translation": "A girl who works in the town flower shop.",
+  "vndb_url": "https://vndb.org/c5362"
+}

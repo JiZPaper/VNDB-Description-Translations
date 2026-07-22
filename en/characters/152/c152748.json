@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152748",
+  "type": "character",
+  "name": "Suwa-sensei",
+  "original_name": "諏訪先生",
+  "language": "en",
+  "source_language": "en",
+  "source": "Guidance counselor at Houjou High School.",
+  "source_sha256": "6d2d78b0167e51177ddb1fa6415886387e4ea6329db6f119471d57ee21b589b3",
+  "translation": "Guidance counselor at Houjou High School.",
+  "vndb_url": "https://vndb.org/c152748"
+}

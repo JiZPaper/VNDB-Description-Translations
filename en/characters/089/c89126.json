@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89126",
+  "type": "character",
+  "name": "Rin",
+  "original_name": "リン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious girl who [url=/c89123]Masayuki[/url] ocasionally runs into.",
+  "source_sha256": "ccb186c457ac87f2abc409636bacaf5213fc62fc7836a7273444056f7dc0c0f0",
+  "translation": "A mysterious girl who [url=/c89123]Masayuki[/url] ocasionally runs into.",
+  "vndb_url": "https://vndb.org/c89126"
+}

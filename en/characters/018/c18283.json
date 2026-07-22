@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c18283",
+  "type": "character",
+  "name": "Erin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sybelle's assistant.",
+  "source_sha256": "2f727e3892335759033a4b31d2cdc1f451aed0071481013571d7ec0093f0ae51",
+  "translation": "Sybelle's assistant.",
+  "vndb_url": "https://vndb.org/c18283"
+}

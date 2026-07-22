@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55819",
+  "type": "visual_novel",
+  "name": "Danganronpa Minus",
+  "original_name": "단간론파 마이너스",
+  "language": "en",
+  "source_language": "en",
+  "source": "Video game version of Danganronpa Minus by DefaultName, originally a Korean novel/fanfiction inspired by both the original Danganronpa: Trigger Happy Havoc and fangame Danganronpa Another ~Another Despair Academy~.",
+  "source_sha256": "5f5f2b3b49d81654344dff4c640689d900f242f91f8cdb54abaa064cdd552476",
+  "translation": "Video game version of Danganronpa Minus by DefaultName, originally a Korean novel/fanfiction inspired by both the original Danganronpa: Trigger Happy Havoc and fangame Danganronpa Another ~Another Despair Academy~.",
+  "vndb_url": "https://vndb.org/v55819"
+}

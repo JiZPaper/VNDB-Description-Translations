@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168735",
+  "type": "character",
+  "name": "The Lady",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The lady of the manor",
+  "source_sha256": "0e14c9b826cce5015996028c3a52400e38999b6a6de65817c4ab31f6af621e3f",
+  "translation": "The lady of the manor",
+  "vndb_url": "https://vndb.org/c168735"
+}

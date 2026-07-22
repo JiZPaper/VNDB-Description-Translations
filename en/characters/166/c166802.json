@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166802",
+  "type": "character",
+  "name": "Charles House",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Regional sales executive for Global Office Supplies.",
+  "source_sha256": "54e6fac69dbb9f5554679364aa1ae6ff20d2b57fb9c2b3e6eea66fb315216383",
+  "translation": "Regional sales executive for Global Office Supplies.",
+  "vndb_url": "https://vndb.org/c166802"
+}

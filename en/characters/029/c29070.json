@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29070",
+  "type": "character",
+  "name": "Marco Lagrange",
+  "original_name": "マルコ・ラグランジュ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Instrument: Violin",
+  "source_sha256": "fb7cf9f6792ca32ba2e290e9a212edc0f42fa826cb8ab3ea28e39a99310f9233",
+  "translation": "Instrument: Violin",
+  "vndb_url": "https://vndb.org/c29070"
+}

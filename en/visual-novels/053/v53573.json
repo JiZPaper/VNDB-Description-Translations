@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53573",
+  "type": "visual_novel",
+  "name": "The Cockpit",
+  "original_name": "ザ・コクピット",
+  "language": "en",
+  "source_language": "en",
+  "source": "An interactive manga based on Matsumoto Reiji's Battlefield manga. It was released as part of a series of interactive manga called MangaRom",
+  "source_sha256": "47323e1550c5e773ca922986d53415c4f2d2266ecd8e0db51aef7e72edf70c33",
+  "translation": "An interactive manga based on Matsumoto Reiji's Battlefield manga. It was released as part of a series of interactive manga called MangaRom",
+  "vndb_url": "https://vndb.org/v53573"
+}

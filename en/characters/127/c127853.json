@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127853",
+  "type": "character",
+  "name": "Shadow",
+  "original_name": "影",
+  "language": "en",
+  "source_language": "en",
+  "source": "A presence that disturbs the school island which is manipulated by Minami.",
+  "source_sha256": "35e9d2208c5e40b8fb79c734f8063c6673f75afd09900219f11fbd5507feacb7",
+  "translation": "A presence that disturbs the school island which is manipulated by Minami.",
+  "vndb_url": "https://vndb.org/c127853"
+}

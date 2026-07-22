@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17187",
+  "type": "visual_novel",
+  "name": "Hareta Hi no Sora",
+  "original_name": "晴れた日の空",
+  "language": "en",
+  "source_language": "en",
+  "source": "Is there a bond that is stronger than blood?",
+  "source_sha256": "1389a26b1535196cd880fcf91e3fef99432e160eeedc2e506c7700f04f910915",
+  "translation": "Is there a bond that is stronger than blood?",
+  "vndb_url": "https://vndb.org/v17187"
+}

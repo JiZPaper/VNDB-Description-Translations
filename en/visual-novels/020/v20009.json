@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20009",
+  "type": "visual_novel",
+  "name": "Dumb 2",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Dumi wakes to a familiar voice in an unfamiliar world. With Alice and May at his side, he must survive seven days in a place shaped by human dreams – and human lies.",
+  "source_sha256": "55cabbbfcdece154fd45778c3d00e4dd3ec49f2ed13e630bf6efe0a813482b54",
+  "translation": "Dumi wakes to a familiar voice in an unfamiliar world. With Alice and May at his side, he must survive seven days in a place shaped by human dreams – and human lies.",
+  "vndb_url": "https://vndb.org/v20009"
+}

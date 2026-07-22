@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11853",
+  "type": "visual_novel",
+  "name": "The Cards Never Lie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Cards Never Lie is a mystery predicated by lies and sustained by them. Solve the crime using your fake psychic powers and some old-fashioned snooping.\n\n[From [url=http://www.ludumdare.com/compo/ludum-dare-25/?action=preview&uid=14557]Ludum Dare[/url]]",
+  "source_sha256": "5c46a1842e059645221f3f9c10434c07975185ace93a145ff4af3b60b9684afa",
+  "translation": "The Cards Never Lie is a mystery predicated by lies and sustained by them. Solve the crime using your fake psychic powers and some old-fashioned snooping.\n\n[From [url=http://www.ludumdare.com/compo/ludum-dare-25/?action=preview&uid=14557]Ludum Dare[/url]]",
+  "vndb_url": "https://vndb.org/v11853"
+}

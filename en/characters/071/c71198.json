@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71198",
+  "type": "character",
+  "name": "Honda",
+  "original_name": "本田",
+  "language": "en",
+  "source_language": "en",
+  "source": "Line cook at the Minami-Suetsugu branch of the Goodies restaurant.",
+  "source_sha256": "6e265d2b12192828a880c311b3a35b23df2db409b716a182ee810c4d4d427049",
+  "translation": "Line cook at the Minami-Suetsugu branch of the Goodies restaurant.",
+  "vndb_url": "https://vndb.org/c71198"
+}

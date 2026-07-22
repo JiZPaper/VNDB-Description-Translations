@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c777",
+  "type": "character",
+  "name": "Elliot March",
+  "original_name": "エリオット＝マーチ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Elliot is the March Hare, although he himself believes that he is actually a dog. He is the second-in-command at the Hatter's mansion and is very loyal to Blood.",
+  "source_sha256": "75c1f9045cb6328667750f066850372729eddfad4aa08fb53e47ea07109e1a1d",
+  "translation": "Elliot is the March Hare, although he himself believes that he is actually a dog. He is the second-in-command at the Hatter's mansion and is very loyal to Blood.",
+  "vndb_url": "https://vndb.org/c777"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137468",
+  "type": "character",
+  "name": "Rex",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]His real name is Randall.[/spoiler]",
+  "source_sha256": "548ed2e9e10e4d6ed168dc70390f14cbdb5edca080099e48f4693dca545e4d84",
+  "translation": "[spoiler]His real name is Randall.[/spoiler]",
+  "vndb_url": "https://vndb.org/c137468"
+}

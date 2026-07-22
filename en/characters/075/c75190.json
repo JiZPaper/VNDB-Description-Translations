@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75190",
+  "type": "character",
+  "name": "Restaurant Owner",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A character that you can buy food from.",
+  "source_sha256": "907cc3f793d559a1d7c71165b0ea50bd4090f7eb9b78e1e28399fa765da216e9",
+  "translation": "A character that you can buy food from.",
+  "vndb_url": "https://vndb.org/c75190"
+}

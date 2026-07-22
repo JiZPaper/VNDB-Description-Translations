@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15566",
+  "type": "character",
+  "name": "Trouble",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An inferno hound adopted as a pet.",
+  "source_sha256": "bb8475c22436ff6c7dacb31649a8f553052ba7fa1c579db9814bad6dc196264d",
+  "translation": "An inferno hound adopted as a pet.",
+  "vndb_url": "https://vndb.org/c15566"
+}

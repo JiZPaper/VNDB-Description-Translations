@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c3308",
+  "type": "character",
+  "name": "Saetta",
+  "original_name": "サエッタ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Waitress at Daughter Daughter Tea House.",
+  "source_sha256": "879b9551f0c5f172b4c55ab4ac86341e137606dee4910ac1e065d229a7afb831",
+  "translation": "Waitress at Daughter Daughter Tea House.",
+  "vndb_url": "https://vndb.org/c3308"
+}

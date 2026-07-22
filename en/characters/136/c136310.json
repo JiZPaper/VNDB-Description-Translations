@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136310",
+  "type": "character",
+  "name": "Irene Ziegler",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ship's doctor",
+  "source_sha256": "1603a07967580e1ab72effedf1b5f5f95c557913a774cc46ce0a7b11c038addc",
+  "translation": "Ship's doctor",
+  "vndb_url": "https://vndb.org/c136310"
+}

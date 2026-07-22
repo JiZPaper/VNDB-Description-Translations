@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120641",
+  "type": "character",
+  "name": "Granny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The sole inhabitant of a destroyed village.",
+  "source_sha256": "c01e10d862de746112d6120a0fb9bbc9c8fdf0caaeb759c86f2f9c23ff05e59f",
+  "translation": "The sole inhabitant of a destroyed village.",
+  "vndb_url": "https://vndb.org/c120641"
+}

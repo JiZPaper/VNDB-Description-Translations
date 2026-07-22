@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159735",
+  "type": "character",
+  "name": "James",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A kind but strange boy who lives in an abandoned warehouse. He takes a keen interest in Terry.",
+  "source_sha256": "1278f11991903fbe2f45ed37cc15f9acebb433c01cd45fdefc9526ef0fa831ff",
+  "translation": "A kind but strange boy who lives in an abandoned warehouse. He takes a keen interest in Terry.",
+  "vndb_url": "https://vndb.org/c159735"
+}

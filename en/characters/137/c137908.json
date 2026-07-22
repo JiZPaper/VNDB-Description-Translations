@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137908",
+  "type": "character",
+  "name": "Gerdea",
+  "original_name": "ゲルデア",
+  "language": "en",
+  "source_language": "en",
+  "source": "A tentacle monster summoned by Daidasu.",
+  "source_sha256": "ce7ecf57fb256b2e59c9c1700faf1ab425c61e01d8a05abb94f29c8b7fdf34a2",
+  "translation": "A tentacle monster summoned by Daidasu.",
+  "vndb_url": "https://vndb.org/c137908"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115493",
+  "type": "character",
+  "name": "Big B",
+  "original_name": "大Ｂ",
+  "language": "en",
+  "source_language": "en",
+  "source": "He is an executive of the Red Flower Society.\nHe makes a lot of money by raising land.",
+  "source_sha256": "ce9300e24cbfa917b7376be8513df95ea36bc7874b277764f895fe961671b2d1",
+  "translation": "He is an executive of the Red Flower Society.\nHe makes a lot of money by raising land.",
+  "vndb_url": "https://vndb.org/c115493"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42224",
+  "type": "visual_novel",
+  "name": "Garf's House",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Garf invited you to his house! It'd simply be rude not to come.\n\n[From [url=https://steezey-swag.itch.io/garfs-house]Itch.io[/url]]",
+  "source_sha256": "a11298c32a9123498ee919f6b42c5d51904a4a796eb1aed61d2dc8d184f319f1",
+  "translation": "Garf invited you to his house! It'd simply be rude not to come.\n\n[From [url=https://steezey-swag.itch.io/garfs-house]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v42224"
+}

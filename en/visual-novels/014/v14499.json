@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14499",
+  "type": "visual_novel",
+  "name": "Dancing Queen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A narrative experiment about integration, group behaviours and hypocrisy.",
+  "source_sha256": "b047a1699441aa216cb9c87610b0756484f4d7d4424eae75572a32eab8104076",
+  "translation": "A narrative experiment about integration, group behaviours and hypocrisy.",
+  "vndb_url": "https://vndb.org/v14499"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139303",
+  "type": "character",
+  "name": "Priest",
+  "original_name": "司铎",
+  "language": "en",
+  "source_language": "en",
+  "source": "Main character",
+  "source_sha256": "38d420dd0e8d6398a0e397e01da0e1d7395ed2079a844b207cd17ebf8e5496fb",
+  "translation": "Main character",
+  "vndb_url": "https://vndb.org/c139303"
+}

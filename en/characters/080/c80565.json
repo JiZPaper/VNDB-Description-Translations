@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c80565",
+  "type": "character",
+  "name": "Cernunnos",
+  "original_name": "ケルヌンノス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Legendary weapon magically turned into a stuffed toy.",
+  "source_sha256": "995c02a96695c4b1547bb528b6cb1d45fc59676ea424366a1fd1632f8cc36a52",
+  "translation": "Legendary weapon magically turned into a stuffed toy.",
+  "vndb_url": "https://vndb.org/c80565"
+}

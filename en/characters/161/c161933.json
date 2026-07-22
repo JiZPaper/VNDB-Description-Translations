@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161933",
+  "type": "character",
+  "name": "Ashley",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mike's girlfriend, a Fabricator Operator.",
+  "source_sha256": "42ead0849edbba45d7b236bab4ff30069ced6e387ac91b7c61c82ca21cac971c",
+  "translation": "Mike's girlfriend, a Fabricator Operator.",
+  "vndb_url": "https://vndb.org/c161933"
+}

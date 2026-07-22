@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97403",
+  "type": "character",
+  "name": "Genshin",
+  "original_name": "玄信",
+  "language": "en",
+  "source_language": "en",
+  "source": "The priest of Kagura Temple, where Kiku was buried.",
+  "source_sha256": "8f56728ecadc1bdad602823ba7b1294e309e28a613143c5d5bb352ff5221d377",
+  "translation": "The priest of Kagura Temple, where Kiku was buried.",
+  "vndb_url": "https://vndb.org/c97403"
+}

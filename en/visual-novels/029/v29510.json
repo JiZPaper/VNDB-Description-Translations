@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29510",
+  "type": "visual_novel",
+  "name": "Ophelia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A horror visual novel about a girl and her best friend.",
+  "source_sha256": "ede877b4a007a287fe993e80f9ac81b923126d8c2d85449dde960321177c3205",
+  "translation": "A horror visual novel about a girl and her best friend.",
+  "vndb_url": "https://vndb.org/v29510"
+}

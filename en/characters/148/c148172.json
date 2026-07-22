@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148172",
+  "type": "character",
+  "name": "Autumn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your neighbor Autumn...\n\n[In game description]",
+  "source_sha256": "3a3f82da7ee352e340a2c444a0b9e98033c65f1e371f22f692615d4f46f3107a",
+  "translation": "Your neighbor Autumn...\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c148172"
+}

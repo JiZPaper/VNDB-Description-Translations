@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9444",
+  "type": "character",
+  "name": "Baldanders",
+  "original_name": "バルトアンデルス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on a creature from a Germanic myth [url=http://en.wikipedia.org/wiki/Baldanders]of the same name[/url].",
+  "source_sha256": "d15a4fb6c971a5ca0f2678a60ecd7abdf0a56ecc90cd0ca9305549dc2aecf220",
+  "translation": "Based on a creature from a Germanic myth [url=http://en.wikipedia.org/wiki/Baldanders]of the same name[/url].",
+  "vndb_url": "https://vndb.org/c9444"
+}

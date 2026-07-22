@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c138163",
+  "type": "character",
+  "name": "Nicole",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Owns a clothing store.\n\nExtremely competitive.\n\nBest friend to Valeria.",
+  "source_sha256": "851a261d9ff48960455016f525211a152b02227d12bd3ec819d0edc93e33dd9a",
+  "translation": "Owns a clothing store.\n\nExtremely competitive.\n\nBest friend to Valeria.",
+  "vndb_url": "https://vndb.org/c138163"
+}

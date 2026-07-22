@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86500",
+  "type": "character",
+  "name": "Winged Rabbit",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Magical creatures native to Gedonelune. They are known to be very shy and skittish.",
+  "source_sha256": "31aaa5be63d8638cd153c3d04a35cb9cf62890925d60536d4a84502a6936ad47",
+  "translation": "Magical creatures native to Gedonelune. They are known to be very shy and skittish.",
+  "vndb_url": "https://vndb.org/c86500"
+}

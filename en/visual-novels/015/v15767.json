@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15767",
+  "type": "visual_novel",
+  "name": "The Day After",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Created for [url=http://www.ludumdare.com/compo/ludum-dare-29/?action=preview]Ludum Dare 29[/url].\n\nThe game is in [url=http://caryoscelus.github.io/projects/]post-LD development[/url] at the moment. It is recommended to wait until further versions are published.",
+  "source_sha256": "f4a51ead37eb0e3681cc15a524a4f46ea175bcb1ee0959be7f7bf6810a3498a0",
+  "translation": "Created for [url=http://www.ludumdare.com/compo/ludum-dare-29/?action=preview]Ludum Dare 29[/url].\n\nThe game is in [url=http://caryoscelus.github.io/projects/]post-LD development[/url] at the moment. It is recommended to wait until further versions are published.",
+  "vndb_url": "https://vndb.org/v15767"
+}

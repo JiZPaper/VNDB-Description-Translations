@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1096",
+  "type": "visual_novel",
+  "name": "Himemiko",
+  "original_name": "姫巫女",
+  "language": "en",
+  "source_language": "en",
+  "source": "Returning home after having studied late into the night at the library, Honoka is suddenly attacked by demonic creatures. Forced to fight back to survive, she's pulled into a violent war between maidens and demons.",
+  "source_sha256": "b9dd04eda3255c61cc7908736a0d7c7b007e073f395a23d7975630de1f88a911",
+  "translation": "Returning home after having studied late into the night at the library, Honoka is suddenly attacked by demonic creatures. Forced to fight back to survive, she's pulled into a violent war between maidens and demons.",
+  "vndb_url": "https://vndb.org/v1096"
+}

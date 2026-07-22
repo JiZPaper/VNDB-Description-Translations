@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c6120",
+  "type": "character",
+  "name": "Mikihara-sensei",
+  "original_name": "三木原先生",
+  "language": "en",
+  "source_language": "en",
+  "source": "Homeroom teacher for class 2D.\nLikes: Famous views (Especially waterfalls)\nTeaches Modern Japanese.",
+  "source_sha256": "a913451da20cfcfaba7771619fe0ddedb7b78296c5e64b3adfec052fda138e6c",
+  "translation": "Homeroom teacher for class 2D.\nLikes: Famous views (Especially waterfalls)\nTeaches Modern Japanese.",
+  "vndb_url": "https://vndb.org/c6120"
+}

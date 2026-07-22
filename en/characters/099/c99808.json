@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99808",
+  "type": "character",
+  "name": "Mouse",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A nervous detective, Mouse is always fiddling with his glasses, He's a fan of murder mystery novels.",
+  "source_sha256": "262fece1f2e27e9d88baa6a77677665178445bb6b88e5da791672e3f3caf0ce2",
+  "translation": "A nervous detective, Mouse is always fiddling with his glasses, He's a fan of murder mystery novels.",
+  "vndb_url": "https://vndb.org/c99808"
+}

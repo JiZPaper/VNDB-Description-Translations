@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12805",
+  "type": "character",
+  "name": "Old Man",
+  "original_name": "じじい",
+  "language": "en",
+  "source_language": "en",
+  "source": "[url=/c12803]Suzaku[/url]'s grandfather.",
+  "source_sha256": "8485ad2b5a8fdab31128a4c305b26d0e4015580fa02c7a25a0ea502df623e5d5",
+  "translation": "[url=/c12803]Suzaku[/url]'s grandfather.",
+  "vndb_url": "https://vndb.org/c12805"
+}

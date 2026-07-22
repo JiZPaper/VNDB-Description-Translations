@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c26451",
+  "type": "character",
+  "name": "Cruz",
+  "original_name": "クルス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Gatekeeper of the Church.\nHe guards the gate and takes care of the flowers and trees on the church grounds. He believes his mission is to create a place for relaxation and refreshment.\nSince Eve came to the Church, he's started acting a bit knightly.",
+  "source_sha256": "617d8422b924cf07cf325d0916efad534533ce571d9db851aa1b1a22eea3996c",
+  "translation": "Gatekeeper of the Church.\nHe guards the gate and takes care of the flowers and trees on the church grounds. He believes his mission is to create a place for relaxation and refreshment.\nSince Eve came to the Church, he's started acting a bit knightly.",
+  "vndb_url": "https://vndb.org/c26451"
+}

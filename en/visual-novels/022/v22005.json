@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22005",
+  "type": "visual_novel",
+  "name": "The Awesome Trolls",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are an adventurer. You and you friend, Aesop and Gada, go to explore a mysterious forest, but one day Aesop is missing. You are Gada is now going to rescue him from the danger.\n\n[From [url=https://oice.com/story/dfe87d7ddeae4cb0aff63dd1e5cef775]Official site[/url]]",
+  "source_sha256": "08c46cb329406e9ac8159741599e50959e3b5c1ef884fdd305b5590eab6c4fab",
+  "translation": "You are an adventurer. You and you friend, Aesop and Gada, go to explore a mysterious forest, but one day Aesop is missing. You are Gada is now going to rescue him from the danger.\n\n[From [url=https://oice.com/story/dfe87d7ddeae4cb0aff63dd1e5cef775]Official site[/url]]",
+  "vndb_url": "https://vndb.org/v22005"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25581",
+  "type": "character",
+  "name": "Righthelm",
+  "original_name": "ライトヘルム",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mysterious President of the Sideroid Company.",
+  "source_sha256": "1c7a6f210741f1f08928c62b5fda45514692a6fb4d97f41f4a15c4abaa1ae8ba",
+  "translation": "Mysterious President of the Sideroid Company.",
+  "vndb_url": "https://vndb.org/c25581"
+}

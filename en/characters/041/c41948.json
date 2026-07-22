@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41948",
+  "type": "character",
+  "name": "Shadow Ax",
+  "original_name": "シャドウAX",
+  "language": "en",
+  "source_language": "en",
+  "source": "A minor criminal, code-name 'Onslaught Shadow Ax'. He wields a giant ax and teams up with Scrapper.",
+  "source_sha256": "97e3d8ef686c6685d4f6b378a2074354e80229332d6e6a4d29d149b9555e7a2d",
+  "translation": "A minor criminal, code-name 'Onslaught Shadow Ax'. He wields a giant ax and teams up with Scrapper.",
+  "vndb_url": "https://vndb.org/c41948"
+}

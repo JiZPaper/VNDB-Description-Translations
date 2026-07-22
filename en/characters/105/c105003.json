@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105003",
+  "type": "character",
+  "name": "Naomi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Melissa's co-worker.",
+  "source_sha256": "0c168fb0cae91ade11997b2bc616c1625af06d425a4e6f58f5919107f5595345",
+  "translation": "Melissa's co-worker.",
+  "vndb_url": "https://vndb.org/c105003"
+}

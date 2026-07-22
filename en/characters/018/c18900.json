@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c18900",
+  "type": "character",
+  "name": "Donna Violette",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The main character who is supposedly the Messiah.",
+  "source_sha256": "3f4fbeef373c7610b7f6c0fa11d6433114588f1230d53145e44661520e67da91",
+  "translation": "The main character who is supposedly the Messiah.",
+  "vndb_url": "https://vndb.org/c18900"
+}

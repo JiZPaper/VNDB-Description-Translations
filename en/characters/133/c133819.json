@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133819",
+  "type": "character",
+  "name": "Mark",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mark is [url=/c133793]Linda[/url]'s husband and [url=/c132863]Cammy[/url]'s cousin.",
+  "source_sha256": "74a37b062e61fc77b3a87c4c300f65b88d9894d63699505450bbf83cd80f13fb",
+  "translation": "Mark is [url=/c133793]Linda[/url]'s husband and [url=/c132863]Cammy[/url]'s cousin.",
+  "vndb_url": "https://vndb.org/c133819"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33922",
+  "type": "character",
+  "name": "Rusty Ruuan",
+  "original_name": "ラスティ・ルーアン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Liked food: Sweet things\nDisliked food: Vegetables and milk among many others\nHobbies: Researching new things\nSkills: Performing suspicious experiments",
+  "source_sha256": "a8d5ccff3917ea71a95a55e9a0026cabffe69cc7e722406796e387e1e216a793",
+  "translation": "Liked food: Sweet things\nDisliked food: Vegetables and milk among many others\nHobbies: Researching new things\nSkills: Performing suspicious experiments",
+  "vndb_url": "https://vndb.org/c33922"
+}

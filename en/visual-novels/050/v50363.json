@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50363",
+  "type": "visual_novel",
+  "name": "31st March, Midnight",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel about a game developer working in a studio late at night.",
+  "source_sha256": "7bbc74cdd8e0f10b810e76b190bdfc05041b99bec4fd220c88bdc6eaff125453",
+  "translation": "A visual novel about a game developer working in a studio late at night.",
+  "vndb_url": "https://vndb.org/v50363"
+}

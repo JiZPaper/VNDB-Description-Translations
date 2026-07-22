@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c14533",
+  "type": "character",
+  "name": "Toudou Shouichirou",
+  "original_name": "藤堂 庄一郎",
+  "language": "en",
+  "source_language": "en",
+  "source": "Residence: An apartment near the bar (7th floor).\nNationality: Japan.\nWeapon: H&K MP5.",
+  "source_sha256": "b97ce70ab35669ef949738a1d47875b8858e978fcf6f6111e391ac046a664a5e",
+  "translation": "Residence: An apartment near the bar (7th floor).\nNationality: Japan.\nWeapon: H&K MP5.",
+  "vndb_url": "https://vndb.org/c14533"
+}

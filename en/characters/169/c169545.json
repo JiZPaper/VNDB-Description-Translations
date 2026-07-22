@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169545",
+  "type": "character",
+  "name": "Laura",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A student who picks up an orb that fell from space on her way to school, and as a result has her clothes dissolve.",
+  "source_sha256": "7f2b6727fef9c351e8d34ffc4753d8ff885ccc16ada09c63efccf3fd70c5e3b2",
+  "translation": "A student who picks up an orb that fell from space on her way to school, and as a result has her clothes dissolve.",
+  "vndb_url": "https://vndb.org/c169545"
+}

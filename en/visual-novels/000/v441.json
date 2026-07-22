@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v441",
+  "type": "visual_novel",
+  "name": "Gift ~Niji-Iro Stories~",
+  "original_name": "Gift～にじいろストーリーズ～",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is the fandisc for the original Gift.",
+  "source_sha256": "1c90dd0095e5f77c7e036c51bb02865b78f0c394a6bca7eea526f9e21c2b6753",
+  "translation": "This is the fandisc for the original Gift.",
+  "vndb_url": "https://vndb.org/v441"
+}

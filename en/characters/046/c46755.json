@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c46755",
+  "type": "character",
+  "name": "Guard Robot",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A robot that is patrolling the junkyard, which is the property of K Robotics Co., Ltd.\n\n[spoiler]Robot's real name is Andrew, named after Andrew Warner who is an entrepreneur who helps startups by running a site where proven entrepreneurs teach.\n\nHe used to be a high-end model in his time, whose job was to escort important individuals.[/spoiler]",
+  "source_sha256": "01b7e29e5669e3cb3c64ac2ed2118976edab3671e36a15b8c2208dd33068906d",
+  "translation": "A robot that is patrolling the junkyard, which is the property of K Robotics Co., Ltd.\n\n[spoiler]Robot's real name is Andrew, named after Andrew Warner who is an entrepreneur who helps startups by running a site where proven entrepreneurs teach.\n\nHe used to be a high-end model in his time, whose job was to escort important individuals.[/spoiler]",
+  "vndb_url": "https://vndb.org/c46755"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15126",
+  "type": "visual_novel",
+  "name": "Romancing In The Dark",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jake wakes up in a dark world. In this world there are other denizens. Can Jake trust Sally to get him out of this dark world?",
+  "source_sha256": "f061d95412bee30e1d6dede565d76c39c8c8043c5d01a47148e74bca246aa232",
+  "translation": "Jake wakes up in a dark world. In this world there are other denizens. Can Jake trust Sally to get him out of this dark world?",
+  "vndb_url": "https://vndb.org/v15126"
+}

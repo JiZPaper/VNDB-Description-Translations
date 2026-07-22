@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60803",
+  "type": "visual_novel",
+  "name": "A Hymn in Blood",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are the hero chosen by the Sun Goddess Solaine, destined to save your village from the undead lich. Choose your own path to take: Will you kill the lich and save your village? Or will you question the destiny you have been given?\n\n[From [url=https://bubblesharks-studio.itch.io/a-hymn-in-blood]itch.io[/url]]",
+  "source_sha256": "5e19ae2496cdd1cb50be6ca9dc0246e290832bfc57683fe4d6814585bda617fc",
+  "translation": "You are the hero chosen by the Sun Goddess Solaine, destined to save your village from the undead lich. Choose your own path to take: Will you kill the lich and save your village? Or will you question the destiny you have been given?\n\n[From [url=https://bubblesharks-studio.itch.io/a-hymn-in-blood]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v60803"
+}

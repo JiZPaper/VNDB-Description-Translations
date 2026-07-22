@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44079",
+  "type": "character",
+  "name": "Guard 2",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Second of the security guards who arrest Yuri.",
+  "source_sha256": "67e3fcfb3c9fcb74c22a60356380342eaf190dc4c2cf8d2a7c8dbf3174bd266d",
+  "translation": "Second of the security guards who arrest Yuri.",
+  "vndb_url": "https://vndb.org/c44079"
+}

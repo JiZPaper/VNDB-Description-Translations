@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33989",
+  "type": "visual_novel",
+  "name": "GRAY",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a very strange story about a little robot that wakes in a very strange place with a very strange purpose. Everything that surrounds him is really dangerous. He doesn't know why, but something inside is telling him that he should overcome all these traps...\nBut why is he doing this? He doesn't understand what is going on until he gets in a bar.\nNow he is not a robot anymore...",
+  "source_sha256": "b1819d2290c894e5371de3d4c238a1499ec9acc2b044e5d3e5e2b48767a835fc",
+  "translation": "This is a very strange story about a little robot that wakes in a very strange place with a very strange purpose. Everything that surrounds him is really dangerous. He doesn't know why, but something inside is telling him that he should overcome all these traps...\nBut why is he doing this? He doesn't understand what is going on until he gets in a bar.\nNow he is not a robot anymore...",
+  "vndb_url": "https://vndb.org/v33989"
+}

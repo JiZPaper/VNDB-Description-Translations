@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19132",
+  "type": "character",
+  "name": "Nigihaya",
+  "original_name": "ニギハヤ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Azumi's boss.",
+  "source_sha256": "7d622b7f94f5f101ad08d60954e6c6d801f02130a55988626d71c1ac4ed9d4e1",
+  "translation": "Azumi's boss.",
+  "vndb_url": "https://vndb.org/c19132"
+}

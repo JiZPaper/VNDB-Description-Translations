@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79008",
+  "type": "character",
+  "name": "Yang Ying",
+  "original_name": "杨颖",
+  "language": "en",
+  "source_language": "en",
+  "source": "Math teacher at Yingnan High School.",
+  "source_sha256": "1432155b4afd0a1b3dc2f5f3b1363ed13357b1079a5a2667bce5f4728cb1c547",
+  "translation": "Math teacher at Yingnan High School.",
+  "vndb_url": "https://vndb.org/c79008"
+}

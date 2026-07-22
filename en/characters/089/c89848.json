@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89848",
+  "type": "character",
+  "name": "Jupiter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A laidback teen who performs well in class and sports but always falls just short of expectations.",
+  "source_sha256": "741b085490ecc8ae0b99c71a8a0a782c02bfd810012e79e810bac8d880f0b6d0",
+  "translation": "A laidback teen who performs well in class and sports but always falls just short of expectations.",
+  "vndb_url": "https://vndb.org/c89848"
+}

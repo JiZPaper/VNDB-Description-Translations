@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c26640",
+  "type": "character",
+  "name": "Bakken Loader",
+  "original_name": "バッケンローダー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cast of Momotarou",
+  "source_sha256": "913a171f31f8cf018f9511b21b41f90910510a4e7340316416561979280f96fb",
+  "translation": "Cast of Momotarou",
+  "vndb_url": "https://vndb.org/c26640"
+}

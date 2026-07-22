@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c50877",
+  "type": "character",
+  "name": "Nishikura Keiko",
+  "original_name": "西倉 圭子",
+  "language": "en",
+  "source_language": "en",
+  "source": "Keiko's a singer in a high-class club; she's elegant and sophisticated.  Surely she couldn't have any interest in an average nobody like you?",
+  "source_sha256": "93b8b000a7e722ebe8b6ca0a1cb2d4ad954b9bef4e36c8332cbbe9c9d7c80402",
+  "translation": "Keiko's a singer in a high-class club; she's elegant and sophisticated.  Surely she couldn't have any interest in an average nobody like you?",
+  "vndb_url": "https://vndb.org/c50877"
+}

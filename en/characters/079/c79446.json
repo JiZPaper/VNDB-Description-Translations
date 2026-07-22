@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79446",
+  "type": "character",
+  "name": "Old Man",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An old man the protagonist meets at the bar.",
+  "source_sha256": "59fa8442d70e139248f3919f91d9dfd709266578db2b9046c54b34c00d3985f7",
+  "translation": "An old man the protagonist meets at the bar.",
+  "vndb_url": "https://vndb.org/c79446"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c49102",
+  "type": "character",
+  "name": "Rico",
+  "original_name": "リコ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A princess from a certain country. Cute.",
+  "source_sha256": "7ab87b7c4e086a1d5a464c897523561f34a338409b076db33af787ed90ba8aaf",
+  "translation": "A princess from a certain country. Cute.",
+  "vndb_url": "https://vndb.org/c49102"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39142",
+  "type": "visual_novel",
+  "name": "Nani Shite mo Ii Ko",
+  "original_name": "ナニシテモイイコ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A shady stranger introduces depressed protagonist to a shadier secret club where the patrons can interact in various ways with child-shaped \"dolls\".",
+  "source_sha256": "c6b7acb8a8bdf9ee93aa8f896ec208149ef96a2b205e6ded9a73d0dd6f759fa2",
+  "translation": "A shady stranger introduces depressed protagonist to a shadier secret club where the patrons can interact in various ways with child-shaped \"dolls\".",
+  "vndb_url": "https://vndb.org/v39142"
+}

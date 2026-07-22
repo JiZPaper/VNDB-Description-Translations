@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50286",
+  "type": "visual_novel",
+  "name": "Doll Verse",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A collaboration of 3D and AI.",
+  "source_sha256": "5578fc3271841546468bd4ead89c021ef9eba8b0cacf79818f8e76ae183b46fe",
+  "translation": "A collaboration of 3D and AI.",
+  "vndb_url": "https://vndb.org/v50286"
+}

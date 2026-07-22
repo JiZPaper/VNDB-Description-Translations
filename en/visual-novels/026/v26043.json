@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26043",
+  "type": "visual_novel",
+  "name": "Anna: Christmas Gift",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short companion visual novel to developer's main project \"Anna: Exiting Affection\".",
+  "source_sha256": "e8b6e92a560ebabf4eda133dbe8e707529f5ad4afd028ccf52b2001d6744c77b",
+  "translation": "A short companion visual novel to developer's main project \"Anna: Exiting Affection\".",
+  "vndb_url": "https://vndb.org/v26043"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c107322",
+  "type": "character",
+  "name": "Rowena Wry",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The stern housekeeper of Hatton Manor.",
+  "source_sha256": "fb9618f06fce284ad33cfefe8ee7fcf77170ffe14b1c1c0490f70a416444ba02",
+  "translation": "The stern housekeeper of Hatton Manor.",
+  "vndb_url": "https://vndb.org/c107322"
+}

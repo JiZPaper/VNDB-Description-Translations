@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c118578",
+  "type": "character",
+  "name": "Ubi",
+  "original_name": "우비",
+  "language": "en",
+  "source_language": "en",
+  "source": "A little girl I met in the rainy world.\n\nThere's something mysterious about her.\n\n[From in-game character description]",
+  "source_sha256": "c65823f85e8d583135f9e1542cd53dca7772500254b734715f4b80ee8f3c6e52",
+  "translation": "A little girl I met in the rainy world.\n\nThere's something mysterious about her.\n\n[From in-game character description]",
+  "vndb_url": "https://vndb.org/c118578"
+}

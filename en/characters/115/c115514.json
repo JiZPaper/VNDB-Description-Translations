@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115514",
+  "type": "character",
+  "name": "Joe",
+  "original_name": "祖",
+  "language": "en",
+  "source_language": "en",
+  "source": "A rookie police officer in the Tsim Sha Tsui Police Station.\nFatso's colleague.",
+  "source_sha256": "a038a1ddda7f9f0ba35a87cf9f2ca31c16f76d03b7bfe1972ddea812114c1e8e",
+  "translation": "A rookie police officer in the Tsim Sha Tsui Police Station.\nFatso's colleague.",
+  "vndb_url": "https://vndb.org/c115514"
+}

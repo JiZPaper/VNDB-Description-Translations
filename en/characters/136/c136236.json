@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136236",
+  "type": "character",
+  "name": "Stray Cat",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A stray cat living alone in the city. They live off of food scraps and are curious about the world around them, taking note of interesting humans and animals alike. Most of their knowledge about the area is limited to the city park.",
+  "source_sha256": "0a9144f91c5b094562bf6f5946894f7aa3099f181b16d0341c7c96b3f00af03a",
+  "translation": "A stray cat living alone in the city. They live off of food scraps and are curious about the world around them, taking note of interesting humans and animals alike. Most of their knowledge about the area is limited to the city park.",
+  "vndb_url": "https://vndb.org/c136236"
+}

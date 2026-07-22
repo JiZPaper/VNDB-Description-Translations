@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57100",
+  "type": "visual_novel",
+  "name": "The Romance Theorem",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A non-linear narrative game examining fragments of a relationship. Either stay together forever, or don't - it's all up to you.\n\n[From [url=https://arrozdesigns.itch.io/the-romance-theorem]Itch.io[/url]]",
+  "source_sha256": "4524a8322bf70ed439da47cef95fe6bd8f9cc80294c19d42d6309fb555e83702",
+  "translation": "A non-linear narrative game examining fragments of a relationship. Either stay together forever, or don't - it's all up to you.\n\n[From [url=https://arrozdesigns.itch.io/the-romance-theorem]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v57100"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41479",
+  "type": "character",
+  "name": "Dinah Malloy",
+  "original_name": "ディナ・マロイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Dinah Malloy is a reporter who Interviews Wilhelm.",
+  "source_sha256": "e610c62612b7b2ca19821411a96923576613da387f80ee0a0e7f9ee8178b7cc3",
+  "translation": "Dinah Malloy is a reporter who Interviews Wilhelm.",
+  "vndb_url": "https://vndb.org/c41479"
+}

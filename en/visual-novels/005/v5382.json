@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5382",
+  "type": "visual_novel",
+  "name": "Flan-chan Ufufu Days",
+  "original_name": "フランちゃんウフフDays",
+  "language": "en",
+  "source_language": "en",
+  "source": "Visual novel featuring Flandre Scarlet from Touhou.",
+  "source_sha256": "2f8df26952dc2b72ce78d169ab83f544fce396252ca94b2aa83f52a4c4d61918",
+  "translation": "Visual novel featuring Flandre Scarlet from Touhou.",
+  "vndb_url": "https://vndb.org/v5382"
+}

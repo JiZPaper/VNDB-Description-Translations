@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c26052",
+  "type": "character",
+  "name": "Shopkeeper",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of the shop that Damon usually buys his nails from.",
+  "source_sha256": "3b646aa85eb6d007cc16ca8120506ed4d7c9e2c9313b888b1884580771bf3db9",
+  "translation": "The owner of the shop that Damon usually buys his nails from.",
+  "vndb_url": "https://vndb.org/c26052"
+}

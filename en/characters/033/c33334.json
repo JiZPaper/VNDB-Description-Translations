@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33334",
+  "type": "character",
+  "name": "Sousou",
+  "original_name": "曹操",
+  "language": "en",
+  "source_language": "en",
+  "source": "A military commander who distinguished himself at a young age.\nHe holds an ambition to conquer the continent.",
+  "source_sha256": "9cda67d030413a656a84b409c5a641a16e7c1aefb713da27aa5715de86b5416f",
+  "translation": "A military commander who distinguished himself at a young age.\nHe holds an ambition to conquer the continent.",
+  "vndb_url": "https://vndb.org/c33334"
+}

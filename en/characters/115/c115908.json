@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115908",
+  "type": "character",
+  "name": "Mom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Burrito's mother.",
+  "source_sha256": "d6fe27d97cce757916d94ed49620c72bca412c68b5c42082e7c9f83977ebb1a3",
+  "translation": "Burrito's mother.",
+  "vndb_url": "https://vndb.org/c115908"
+}

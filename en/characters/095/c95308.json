@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95308",
+  "type": "character",
+  "name": "Misa",
+  "original_name": "ミサ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Born in 2031.",
+  "source_sha256": "5aa5b9bd978124b9a32870347df6b55c1e5f5f406533a236934d5a949d548c8f",
+  "translation": "Born in 2031.",
+  "vndb_url": "https://vndb.org/c95308"
+}

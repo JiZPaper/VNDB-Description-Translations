@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89611",
+  "type": "character",
+  "name": "Oki",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "I wonder why there's a name prompt in the VN",
+  "source_sha256": "a841a33155bbbd8479b710d8c19cbfd84a1d94ae16c63884da0c2062248c650a",
+  "translation": "I wonder why there's a name prompt in the VN",
+  "vndb_url": "https://vndb.org/c89611"
+}

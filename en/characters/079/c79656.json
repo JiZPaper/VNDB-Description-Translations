@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79656",
+  "type": "character",
+  "name": "Iria",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young apprentice magician.",
+  "source_sha256": "7b3faccda9e4024d2e17e0f504a04d83972a2ad188ea2c44e1875c972d56ef54",
+  "translation": "A young apprentice magician.",
+  "vndb_url": "https://vndb.org/c79656"
+}

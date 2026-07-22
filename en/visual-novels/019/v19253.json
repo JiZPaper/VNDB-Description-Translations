@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19253",
+  "type": "visual_novel",
+  "name": "Brutus: A Shoujo Visual Novel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A tongue-in-cheek fantasy adventure starring characters from the Brutus comic.",
+  "source_sha256": "58f10c61a75e682bb7ae9c8b8b0d30aa082c02b77b5afe3951e93887cd34152f",
+  "translation": "A tongue-in-cheek fantasy adventure starring characters from the Brutus comic.",
+  "vndb_url": "https://vndb.org/v19253"
+}

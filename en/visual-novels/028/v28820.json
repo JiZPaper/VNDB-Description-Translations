@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28820",
+  "type": "visual_novel",
+  "name": "Eclair's House",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "My name is Eclair! I am a little sick.\nThat's serious.A ghost appears in my house.\nWhat should I do? Help me!\nThere is no choice but to kill.:D",
+  "source_sha256": "7d017debc9b93fad2128f9d02c2f4764c2fd42d9fd072a5b66c425d0aa458885",
+  "translation": "My name is Eclair! I am a little sick.\nThat's serious.A ghost appears in my house.\nWhat should I do? Help me!\nThere is no choice but to kill.:D",
+  "vndb_url": "https://vndb.org/v28820"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37815",
+  "type": "visual_novel",
+  "name": "Paradise Mayday",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short game about some silly little guys on vacation.",
+  "source_sha256": "6eaa05a1b61edac0edb3fae168a84c50d2848ebe9a95a53fb4c155d251c27232",
+  "translation": "A short game about some silly little guys on vacation.",
+  "vndb_url": "https://vndb.org/v37815"
+}

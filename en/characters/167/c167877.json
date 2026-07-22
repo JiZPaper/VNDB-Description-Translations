@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c167877",
+  "type": "character",
+  "name": "Mabel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Owns a pet cat.",
+  "source_sha256": "f188ff4a3eeb51dd9d7e2ba60696667639fab31f7164e335a90191ff7de48d6a",
+  "translation": "Owns a pet cat.",
+  "vndb_url": "https://vndb.org/c167877"
+}

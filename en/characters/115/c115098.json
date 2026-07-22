@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115098",
+  "type": "character",
+  "name": "Koko",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A monster woman who saves Seiichi and offers him shelter for the night.",
+  "source_sha256": "5d97109ed47b0d13af7c1e1f7426e5922ae61e90312897c5b674b71f3f4db5bd",
+  "translation": "A monster woman who saves Seiichi and offers him shelter for the night.",
+  "vndb_url": "https://vndb.org/c115098"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133456",
+  "type": "character",
+  "name": "Steffy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "she is [url=/c133455]Ben[/url] fiancée. She does not get along with [url=/c133454]Harry[/url].",
+  "source_sha256": "4738e72f76f1738f8368c772f0390ed25829c79d894fb57b3b52a32b4cdd4764",
+  "translation": "she is [url=/c133455]Ben[/url] fiancée. She does not get along with [url=/c133454]Harry[/url].",
+  "vndb_url": "https://vndb.org/c133456"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43938",
+  "type": "visual_novel",
+  "name": "helpme.exe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "helpme.exe is a psychological horror game.\n\n[From [url=https://rrankonishgames.itch.io/helpme]Itch.io[/url]]",
+  "source_sha256": "a92b86861ea1ac63612dcb05324a0d3dca2d5d43f73d3ada6e1c1a0ce7e803c5",
+  "translation": "helpme.exe is a psychological horror game.\n\n[From [url=https://rrankonishgames.itch.io/helpme]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43938"
+}

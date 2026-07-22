@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12836",
+  "type": "visual_novel",
+  "name": "Anonymous0",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A gifted artist lacks the confidence to share his work under his real name.",
+  "source_sha256": "fd05c55395c977cd8731c8ad5781791020d93b0e4eb9cff1799040fddf108ced",
+  "translation": "A gifted artist lacks the confidence to share his work under his real name.",
+  "vndb_url": "https://vndb.org/v12836"
+}

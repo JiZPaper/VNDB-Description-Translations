@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123851",
+  "type": "character",
+  "name": "Sturmund Drang",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He's with the FBI.",
+  "source_sha256": "86aab92effea95d3697b1d8511daa4ac6e0c9a8d9fbfdd113ff334199be06123",
+  "translation": "He's with the FBI.",
+  "vndb_url": "https://vndb.org/c123851"
+}

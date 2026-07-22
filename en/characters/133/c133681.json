@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133681",
+  "type": "character",
+  "name": "Tom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is a college student who recently moved in with his younger sister in a new apartment after his grandmother died.",
+  "source_sha256": "d49e860606670893a2dd24a3960bb1d1b6bdef8b082998358afe555e7383e309",
+  "translation": "He is a college student who recently moved in with his younger sister in a new apartment after his grandmother died.",
+  "vndb_url": "https://vndb.org/c133681"
+}

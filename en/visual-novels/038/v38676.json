@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38676",
+  "type": "visual_novel",
+  "name": "Neuro Horror",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Psychological horror in format of a visual novel, created using a neural network.\n\n[From [url=https://store.steampowered.com/app/2142860/]Steam[/url]]",
+  "source_sha256": "517921f23480ed6c9dfd4081e4b9cfe8d2b3176d4b848cfe7023f98b97d7a326",
+  "translation": "Psychological horror in format of a visual novel, created using a neural network.\n\n[From [url=https://store.steampowered.com/app/2142860/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v38676"
+}

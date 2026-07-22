@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c1023",
+  "type": "character",
+  "name": "Sakurazuka Kaoru",
+  "original_name": "桜塚 カオル",
+  "language": "en",
+  "source_language": "en",
+  "source": "The female version of Kaoru.",
+  "source_sha256": "c65d38cfcdcc4262122fd0a82e07cf8222d6967c2f6e2b44baed32f4fa6ae044",
+  "translation": "The female version of Kaoru.",
+  "vndb_url": "https://vndb.org/c1023"
+}

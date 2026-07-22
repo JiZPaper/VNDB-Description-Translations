@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120220",
+  "type": "character",
+  "name": "The Demon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A cowardly creature who is (reluctantly) possessing Mordred.  Unlike most demons, he seems to have a soft spot for humanity.",
+  "source_sha256": "9d33718bef28686d5908771f224ac499de9267588581dc13118aea28ba65aa01",
+  "translation": "A cowardly creature who is (reluctantly) possessing Mordred.  Unlike most demons, he seems to have a soft spot for humanity.",
+  "vndb_url": "https://vndb.org/c120220"
+}

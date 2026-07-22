@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c151907",
+  "type": "character",
+  "name": "Uramoshi's mother",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "If he misbehaves, punish him by not giving him food.",
+  "source_sha256": "d0d63be413b2b7b827ad07a1047fdd0810c22b4b8c1c9fa430ff8efbc1fd528a",
+  "translation": "If he misbehaves, punish him by not giving him food.",
+  "vndb_url": "https://vndb.org/c151907"
+}

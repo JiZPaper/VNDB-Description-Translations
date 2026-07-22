@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99809",
+  "type": "character",
+  "name": "Nell",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nell is a rookie detective. Though she had received extensive training, she signed up for the contest the same day she got her detective badge.",
+  "source_sha256": "81d90009ba534154a1442bdbe8cb8e3ea3856a6a65b7abb17ee72d1876a08a79",
+  "translation": "Nell is a rookie detective. Though she had received extensive training, she signed up for the contest the same day she got her detective badge.",
+  "vndb_url": "https://vndb.org/c99809"
+}

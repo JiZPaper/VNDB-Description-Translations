@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47154",
+  "type": "character",
+  "name": "Ivan Rodriguez",
+  "original_name": "イワン・ロドリゲス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ivan is an air surfer who often competes in tournaments.",
+  "source_sha256": "7906d9c2bf1571ca165579b4252def7fffa2cb68ffe5f2d8b32eafadeeb7ef7f",
+  "translation": "Ivan is an air surfer who often competes in tournaments.",
+  "vndb_url": "https://vndb.org/c47154"
+}

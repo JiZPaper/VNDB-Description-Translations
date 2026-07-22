@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99772",
+  "type": "character",
+  "name": "Evil Sorcerer",
+  "original_name": "悪い魔法使い",
+  "language": "en",
+  "source_language": "en",
+  "source": "Evil Sorcerer who are rumored exist in Yugahara long ago",
+  "source_sha256": "af5b7cb8b752e2cd65cff615e6ff61aa90ff0d74afbd16d4c6c2331dc10de57b",
+  "translation": "Evil Sorcerer who are rumored exist in Yugahara long ago",
+  "vndb_url": "https://vndb.org/c99772"
+}

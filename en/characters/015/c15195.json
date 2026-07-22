@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15195",
+  "type": "character",
+  "name": "Testament",
+  "original_name": "裁定者",
+  "language": "en",
+  "source_language": "en",
+  "source": "Myserious vampire-hunting monsters that appear in Foggybottom.",
+  "source_sha256": "e85794f91444f0ef069790c5eaf78d4c115d4fc814ed20e5e68f4886a8046449",
+  "translation": "Myserious vampire-hunting monsters that appear in Foggybottom.",
+  "vndb_url": "https://vndb.org/c15195"
+}

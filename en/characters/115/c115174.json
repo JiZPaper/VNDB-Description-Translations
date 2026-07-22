@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115174",
+  "type": "character",
+  "name": "Boss Ting",
+  "original_name": "老板",
+  "language": "en",
+  "source_language": "en",
+  "source": "He is the manager of Show Club NASA and an executive of the Red Flower Society.\nHe consults Yeung Kwun about the arrest of his employee, Panther.",
+  "source_sha256": "b1424f320b4a7bf8ce6fbebb2bff340465ec899a7dfbc0f5604cfa189e805d62",
+  "translation": "He is the manager of Show Club NASA and an executive of the Red Flower Society.\nHe consults Yeung Kwun about the arrest of his employee, Panther.",
+  "vndb_url": "https://vndb.org/c115174"
+}

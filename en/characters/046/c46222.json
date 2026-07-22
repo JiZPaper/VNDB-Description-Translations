@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c46222",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "An ordinary student turned into a ferret by Elma's magic.",
+  "source_sha256": "53403f29ba7db8e545d562586d2364774345bc20873cd77a7b46a6476bd79864",
+  "translation": "An ordinary student turned into a ferret by Elma's magic.",
+  "vndb_url": "https://vndb.org/c46222"
+}

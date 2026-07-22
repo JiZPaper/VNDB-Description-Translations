@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16999",
+  "type": "visual_novel",
+  "name": "Hat Films Dating Sim",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel featuring members of the Yogscast, a group of LetsPlayers on YouTube.",
+  "source_sha256": "0a769046f765df75b26d29ffffb06da3237f8b026b728f6a201389694be01dca",
+  "translation": "A short visual novel featuring members of the Yogscast, a group of LetsPlayers on YouTube.",
+  "vndb_url": "https://vndb.org/v16999"
+}

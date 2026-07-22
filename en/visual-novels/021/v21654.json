@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21654",
+  "type": "visual_novel",
+  "name": "Mezon Seikoku ~Koi no Suimenbana~",
+  "original_name": "めぞん星刻～恋の水面華～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Saint Seiya fan Otome simulation game.",
+  "source_sha256": "3326fb24c14b64530ecbbee2bdb7daadc84369b5acf505e4660d84769bc88c0f",
+  "translation": "A Saint Seiya fan Otome simulation game.",
+  "vndb_url": "https://vndb.org/v21654"
+}

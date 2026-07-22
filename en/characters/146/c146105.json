@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146105",
+  "type": "character",
+  "name": "Madame Rose",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mature stripper at the Pink Rose's VIP Lounge.",
+  "source_sha256": "029a6ea2503f670d7e12dfcbdfcaad836254931aeec8f4f5fa34d0b671cf1a0c",
+  "translation": "A mature stripper at the Pink Rose's VIP Lounge.",
+  "vndb_url": "https://vndb.org/c146105"
+}

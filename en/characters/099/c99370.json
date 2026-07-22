@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99370",
+  "type": "character",
+  "name": "Mom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Luke's mother",
+  "source_sha256": "5b3f40d2cbc28ca6c5cc4ff44dadf43d2e39e77d0ff6cbdafb2703adc7d037d3",
+  "translation": "Luke's mother",
+  "vndb_url": "https://vndb.org/c99370"
+}

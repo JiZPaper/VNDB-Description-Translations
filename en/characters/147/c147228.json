@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c147228",
+  "type": "character",
+  "name": "Laura",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Cameo character from Max's Life.",
+  "source_sha256": "48fd539ce8c6b3993a07319bb06d1b160efc3fc629c065f6e9b3b0062e540711",
+  "translation": "Cameo character from Max's Life.",
+  "vndb_url": "https://vndb.org/c147228"
+}

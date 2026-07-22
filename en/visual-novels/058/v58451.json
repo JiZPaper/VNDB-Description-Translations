@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58451",
+  "type": "visual_novel",
+  "name": "I Wanna Make A Dragon Game",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel about wanting to make a dragon game!",
+  "source_sha256": "b4ed509c329b1a474d3dd4afa5c900e231108ac521ea42a3528ee865562ab1a6",
+  "translation": "A short visual novel about wanting to make a dragon game!",
+  "vndb_url": "https://vndb.org/v58451"
+}

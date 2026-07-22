@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35733",
+  "type": "character",
+  "name": "Okiyo",
+  "original_name": "おキヨ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Magazine Editor",
+  "source_sha256": "b9894f3db9f2dd2753aae0b5110efee73663004851db729ccc5eb2e11f57c44d",
+  "translation": "Occupation: Magazine Editor",
+  "vndb_url": "https://vndb.org/c35733"
+}

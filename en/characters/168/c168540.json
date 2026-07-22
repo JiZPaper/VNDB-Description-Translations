@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168540",
+  "type": "character",
+  "name": "Nanami",
+  "original_name": "ナナミ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious woman who refuses to acknowledge Kogoro's work.",
+  "source_sha256": "d2e34e33b57565bceea593f38c2dadd58d111088c10feb835a23f4d16004808a",
+  "translation": "A mysterious woman who refuses to acknowledge Kogoro's work.",
+  "vndb_url": "https://vndb.org/c168540"
+}

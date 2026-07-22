@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37635",
+  "type": "character",
+  "name": "Thor Megingyoruzu",
+  "original_name": "トール・メギンギョルズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Norse God of Thunder",
+  "source_sha256": "edd80cfbe3f4a6a7ed8e41611321438affe9ca242805b90d76f3cdc6c977e2a3",
+  "translation": "Norse God of Thunder",
+  "vndb_url": "https://vndb.org/c37635"
+}

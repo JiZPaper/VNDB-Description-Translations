@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113040",
+  "type": "character",
+  "name": "Wisteria Dryad",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the three dryads that can appear at the end.",
+  "source_sha256": "ce81fd791720183c1cac56146aceb068bbcf8961ead4bcf4cf899b978123b699",
+  "translation": "One of the three dryads that can appear at the end.",
+  "vndb_url": "https://vndb.org/c113040"
+}

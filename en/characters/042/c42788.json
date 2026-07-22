@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42788",
+  "type": "character",
+  "name": "Gerhart",
+  "original_name": "ゲアハルト",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cardinal of the Sharia cult.",
+  "source_sha256": "7623c1282cd904d76c28f9c5fc72695a86e5e2eb4c82bd715b30e18232a7c2fb",
+  "translation": "Cardinal of the Sharia cult.",
+  "vndb_url": "https://vndb.org/c42788"
+}

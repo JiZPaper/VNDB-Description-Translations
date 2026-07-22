@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98775",
+  "type": "character",
+  "name": "Steve",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A person from Evelyn's clique of friends. He owns a fake I.D which he and Evelyn uses to buy beer.",
+  "source_sha256": "9a84e1eba29c6495dac1a18af15d7bc13d3d77927020eb500f2daed9bf5fd81b",
+  "translation": "A person from Evelyn's clique of friends. He owns a fake I.D which he and Evelyn uses to buy beer.",
+  "vndb_url": "https://vndb.org/c98775"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15613",
+  "type": "visual_novel",
+  "name": "Happy Class",
+  "original_name": "ハッピークラス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short and linear horror sound novel.\n\n\"Hey, do you know about the happy class?\"\n\n[Translated from [url=http://t-o-k.sakura.ne.jp/yuugi/s/happyshool.htm]official site[/url].]",
+  "source_sha256": "ee3b23f637d429114a30911dd3969f4d5277e5d51c0bc2cf1f25be6b8ea6052f",
+  "translation": "A short and linear horror sound novel.\n\n\"Hey, do you know about the happy class?\"\n\n[Translated from [url=http://t-o-k.sakura.ne.jp/yuugi/s/happyshool.htm]official site[/url].]",
+  "vndb_url": "https://vndb.org/v15613"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124372",
+  "type": "character",
+  "name": "Bethany",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Richard's physical therapist.",
+  "source_sha256": "69cb3d649811566f51ff9c734b6974ea212661220e361bfbbeae58da1a0e0567",
+  "translation": "Richard's physical therapist.",
+  "vndb_url": "https://vndb.org/c124372"
+}

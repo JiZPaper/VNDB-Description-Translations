@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49940",
+  "type": "visual_novel",
+  "name": "Higanjima",
+  "original_name": "彼岸島",
+  "language": "en",
+  "source_language": "en",
+  "source": "PSP visual novel based on the manga series Higanjima.\nYou play as main character Akira on the search for your missing brother. Along with your partners on the mysterious Higan Island, danger in form of blood-sucking vampires awaits you.",
+  "source_sha256": "ff1e9990b6755c8aa3b8a7e86816880db4858ce351784e716eaaa4ff082f4f69",
+  "translation": "PSP visual novel based on the manga series Higanjima.\nYou play as main character Akira on the search for your missing brother. Along with your partners on the mysterious Higan Island, danger in form of blood-sucking vampires awaits you.",
+  "vndb_url": "https://vndb.org/v49940"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98188",
+  "type": "character",
+  "name": "Mary",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mary is a biochemical engineering major. She's a very studious student. She works part-time in the university book store.",
+  "source_sha256": "c0256a476308fdcb1e754677c68dad18d225c99c704b2ae792c3f6fa1aa880aa",
+  "translation": "Mary is a biochemical engineering major. She's a very studious student. She works part-time in the university book store.",
+  "vndb_url": "https://vndb.org/c98188"
+}

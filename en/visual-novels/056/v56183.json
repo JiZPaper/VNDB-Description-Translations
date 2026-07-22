@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56183",
+  "type": "visual_novel",
+  "name": "House Call",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Adult Visual Novel about Josefin getting a house call by the doctor.",
+  "source_sha256": "64140355c9ddd0e101579e77a744a5a819ee310218ca9ce7d5ffa686fb837e65",
+  "translation": "Adult Visual Novel about Josefin getting a house call by the doctor.",
+  "vndb_url": "https://vndb.org/v56183"
+}

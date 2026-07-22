@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106003",
+  "type": "character",
+  "name": "Robin",
+  "original_name": "ロビン",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I am aware that the people in the village dislike it, but I have no intention of improving it.\"\n\nA young man who runs an orphanage where children may live freely.",
+  "source_sha256": "0762e65bd59b9e3b3b54e20aaf3a9be695890f4d87d46a47aefedf76062cec26",
+  "translation": "\"I am aware that the people in the village dislike it, but I have no intention of improving it.\"\n\nA young man who runs an orphanage where children may live freely.",
+  "vndb_url": "https://vndb.org/c106003"
+}

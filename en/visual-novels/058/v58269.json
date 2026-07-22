@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58269",
+  "type": "visual_novel",
+  "name": "The Arcana: A Detective Tale",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You, Dr. Julian, and Master Asra are summoned to the palace to solve the mystery of the Count’s death.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "918ff3e23c255f743b6bd03eb058e5219643aad6a79b556858d5c32337fcb7cc",
+  "translation": "You, Dr. Julian, and Master Asra are summoned to the palace to solve the mystery of the Count’s death.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "vndb_url": "https://vndb.org/v58269"
+}

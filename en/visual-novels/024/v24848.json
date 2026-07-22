@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24848",
+  "type": "visual_novel",
+  "name": "Poison Apple",
+  "original_name": "포이즌 애플",
+  "language": "en",
+  "source_language": "en",
+  "source": "Always, always, lonely.\nIn this small, narrow school world, you have always been alone, and you\nhave never been ashamed of being alone.",
+  "source_sha256": "c40707ebfb3d9abb7bc2235396546217030f7076ce1b87f5761a28cb19e38c9d",
+  "translation": "Always, always, lonely.\nIn this small, narrow school world, you have always been alone, and you\nhave never been ashamed of being alone.",
+  "vndb_url": "https://vndb.org/v24848"
+}

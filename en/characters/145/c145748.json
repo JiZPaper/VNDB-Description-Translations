@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145748",
+  "type": "character",
+  "name": "Eugene Pulpo",
+  "original_name": "ユージン・プルポ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A knight belonging to the Royal Knights.\nHe is skilled, but tends to compare himself to others.",
+  "source_sha256": "306a8be1b00d4b1b4532a6e8436aeec507e52a8b50d3698a0f510df5f0fbe318",
+  "translation": "A knight belonging to the Royal Knights.\nHe is skilled, but tends to compare himself to others.",
+  "vndb_url": "https://vndb.org/c145748"
+}

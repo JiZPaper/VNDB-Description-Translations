@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18251",
+  "type": "visual_novel",
+  "name": "Idol Project",
+  "original_name": "アイドル・プロジェクト",
+  "language": "en",
+  "source_language": "en",
+  "source": "In Idol Project, the player takes a role of a young man named Takashi, who works for a company called Mobius, an agency whose goal is to turn young Japanese girls into famous singers. The game can be qualified as simulation: the main gameplay focus is on finding young talents and helping them to become famous. There is also a strong RPG element in the game. Takashi and his recruited \"stars\" gain levels according to their success. Takashi also has two other parameters, \"Power\" and \"HP\". \"Power\" is Takashi's stamina, which depletes regularly and can be restored with food, sleep, medicine, etc. \"HP\" in this game is the amount of work stress the protagonist has. Too much HP will require him to \"release the stress\" by various means - for example visiting a brothel.\n\n[From [url=http://www.mobygames.com/game/idol-project]Mobygames[/url]]",
+  "source_sha256": "ca482ac5715b23e95e8909eaef7607937a28b0d9def60ac6d494b41a29ad5d65",
+  "translation": "In Idol Project, the player takes a role of a young man named Takashi, who works for a company called Mobius, an agency whose goal is to turn young Japanese girls into famous singers. The game can be qualified as simulation: the main gameplay focus is on finding young talents and helping them to become famous. There is also a strong RPG element in the game. Takashi and his recruited \"stars\" gain levels according to their success. Takashi also has two other parameters, \"Power\" and \"HP\". \"Power\" is Takashi's stamina, which depletes regularly and can be restored with food, sleep, medicine, etc. \"HP\" in this game is the amount of work stress the protagonist has. Too much HP will require him to \"release the stress\" by various means - for example visiting a brothel.\n\n[From [url=http://www.mobygames.com/game/idol-project]Mobygames[/url]]",
+  "vndb_url": "https://vndb.org/v18251"
+}

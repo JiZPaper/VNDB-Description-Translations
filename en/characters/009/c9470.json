@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9470",
+  "type": "character",
+  "name": "Gadjah Mada",
+  "original_name": "ガジャ・マダ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on a real military leader of the Majapahit Kingdom, [url=http://en.wikipedia.org/wiki/Gajah_Mada]Gajah Mada[/url].",
+  "source_sha256": "0c022cc2e0a04c6ffdb2ccf208470ffd8d8978596535beb781cbeb00607f02f5",
+  "translation": "Based on a real military leader of the Majapahit Kingdom, [url=http://en.wikipedia.org/wiki/Gajah_Mada]Gajah Mada[/url].",
+  "vndb_url": "https://vndb.org/c9470"
+}

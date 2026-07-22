@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35802",
+  "type": "character",
+  "name": "Chihiro",
+  "original_name": "チヒロ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A host who doesn't talk much and just listens to the customers worries.",
+  "source_sha256": "4acd469f645ce9c9193f3f4a3de7265d22e96025e822da3398a3bf9ed591ee6e",
+  "translation": "A host who doesn't talk much and just listens to the customers worries.",
+  "vndb_url": "https://vndb.org/c35802"
+}

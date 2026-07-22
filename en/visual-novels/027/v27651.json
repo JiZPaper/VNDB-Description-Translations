@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27651",
+  "type": "visual_novel",
+  "name": "Control",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Two voices are giving you polar opposite directions - literally. They both claim they want to help you escape.\n\nThe catch?\n\nBoth of them want to kill you.\n\nUse the voices against each other to survive and regain your freedom.",
+  "source_sha256": "30bcac9bd8c48e30d61e930bab4f0797b52ed592339561ef4fd5f99bed6f97f7",
+  "translation": "Two voices are giving you polar opposite directions - literally. They both claim they want to help you escape.\n\nThe catch?\n\nBoth of them want to kill you.\n\nUse the voices against each other to survive and regain your freedom.",
+  "vndb_url": "https://vndb.org/v27651"
+}

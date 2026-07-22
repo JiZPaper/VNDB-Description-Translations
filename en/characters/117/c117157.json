@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117157",
+  "type": "character",
+  "name": "Fred",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lizzy's boss at the workshop.",
+  "source_sha256": "c4edf2ba9ad1e5ec32f3676ef5c2a31fc41046e147ba0058631ac944ba64881c",
+  "translation": "Lizzy's boss at the workshop.",
+  "vndb_url": "https://vndb.org/c117157"
+}

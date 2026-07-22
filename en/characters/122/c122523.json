@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122523",
+  "type": "character",
+  "name": "Carrot Bun",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An employee at Hayburger™ burgers and fries.",
+  "source_sha256": "88cf8dfdbefa4e6adbd66ca1e3c5eea588bde74306e464966942fdb93076caa0",
+  "translation": "An employee at Hayburger™ burgers and fries.",
+  "vndb_url": "https://vndb.org/c122523"
+}

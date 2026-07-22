@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131602",
+  "type": "character",
+  "name": "Princess",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The titular Princess, found chained in the basement of a cabin in the woods.\n\nYour goal is to slay her. Otherwise, she'll bring about the end of the world.",
+  "source_sha256": "74090041e188cdd494e205f8ea1d970f68623931faff3a41347aac30c5747dc9",
+  "translation": "The titular Princess, found chained in the basement of a cabin in the woods.\n\nYour goal is to slay her. Otherwise, she'll bring about the end of the world.",
+  "vndb_url": "https://vndb.org/c131602"
+}

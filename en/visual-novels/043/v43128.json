@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43128",
+  "type": "visual_novel",
+  "name": "my son, charlie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "How will you raise your son as a single father?",
+  "source_sha256": "2bb8c6ea4af8366183a2bdf23d777470897e2e77594022077444061d68d7bd8b",
+  "translation": "How will you raise your son as a single father?",
+  "vndb_url": "https://vndb.org/v43128"
+}

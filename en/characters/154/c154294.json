@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154294",
+  "type": "character",
+  "name": "Liza",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "School coach",
+  "source_sha256": "54fed8d484e5fee7c5809c81a9b6fb35c2068425038988c009f70370982c9d81",
+  "translation": "School coach",
+  "vndb_url": "https://vndb.org/c154294"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100622",
+  "type": "character",
+  "name": "Principal",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Hazuki's father and the principal of Kazana academy.",
+  "source_sha256": "d28d3946dc9a1de0a29c183d8b3162a0c8e4d906e689d0dd30807aaf29399e31",
+  "translation": "Hazuki's father and the principal of Kazana academy.",
+  "vndb_url": "https://vndb.org/c100622"
+}

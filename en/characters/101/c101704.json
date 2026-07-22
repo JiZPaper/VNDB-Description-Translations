@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101704",
+  "type": "character",
+  "name": "Sophia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Daughter of [url=/c101701]Lorraine[/url]\nSister of [url=/c101705]Protagonist[/url].",
+  "source_sha256": "88f79379d1e073a0a8a4f0861457311dbfc209d8e7fba873f76265efa82ae545",
+  "translation": "Daughter of [url=/c101701]Lorraine[/url]\nSister of [url=/c101705]Protagonist[/url].",
+  "vndb_url": "https://vndb.org/c101704"
+}

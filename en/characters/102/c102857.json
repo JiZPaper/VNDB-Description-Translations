@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102857",
+  "type": "character",
+  "name": "Bunny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A police officer",
+  "source_sha256": "7232bb0a29fbd033a6d45cf41909e5cc6357ff6a58d6a04a50eb2b53824725f9",
+  "translation": "A police officer",
+  "vndb_url": "https://vndb.org/c102857"
+}

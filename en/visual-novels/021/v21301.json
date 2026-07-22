@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21301",
+  "type": "visual_novel",
+  "name": "Emily is Away Too",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Emily is Away Too is an interactive story set in an old instant messenger. Message both Emily and Evelyn as you determine the outcome of your senior year. Extend the story past the chat window with youtube links, facebook profiles and file transfers. And most importantly, change your text color to lime green so everyone knows you're the coolest kid in school.\n\n[From [url=http://emilyisaway.com/presskit/]official website[/url]]",
+  "source_sha256": "8360cbec3b97862cf21aebb70f8b49b387cdce432eeb5cc59c164c0b0c700779",
+  "translation": "Emily is Away Too is an interactive story set in an old instant messenger. Message both Emily and Evelyn as you determine the outcome of your senior year. Extend the story past the chat window with youtube links, facebook profiles and file transfers. And most importantly, change your text color to lime green so everyone knows you're the coolest kid in school.\n\n[From [url=http://emilyisaway.com/presskit/]official website[/url]]",
+  "vndb_url": "https://vndb.org/v21301"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120642",
+  "type": "character",
+  "name": "Lady",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A madam at the local brothel.",
+  "source_sha256": "ce11473e19b973f5109ff23f21f5233b6799b43ab128a9a5fe3d18b2e25728f8",
+  "translation": "A madam at the local brothel.",
+  "vndb_url": "https://vndb.org/c120642"
+}

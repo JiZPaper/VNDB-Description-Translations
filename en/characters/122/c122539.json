@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122539",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is the main hero involved in a competition to get a job at the research facility where his mother works.",
+  "source_sha256": "76e0b4caab4af639e8b878ad62d1144eb5dccf00b11502ec800426ca07913497",
+  "translation": "He is the main hero involved in a competition to get a job at the research facility where his mother works.",
+  "vndb_url": "https://vndb.org/c122539"
+}

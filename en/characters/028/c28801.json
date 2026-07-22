@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28801",
+  "type": "character",
+  "name": "Topen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mole like creatures that dig into canyon walls, looking for treasure. They are greedy by nature, but can be swayed into helping, for a price.",
+  "source_sha256": "303bfcd0aedc6273f8c8cff0acc3c4db612c569ffb2a6a68ff2c8d5f4109b8ef",
+  "translation": "Mole like creatures that dig into canyon walls, looking for treasure. They are greedy by nature, but can be swayed into helping, for a price.",
+  "vndb_url": "https://vndb.org/c28801"
+}

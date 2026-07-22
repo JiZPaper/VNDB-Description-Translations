@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141511",
+  "type": "character",
+  "name": "Carla",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Friend of Jill\n\nJeff's girlfriend",
+  "source_sha256": "0db8f47a9cf3483119cfd79a011d18c930a820507943fa18cbd6e86409712946",
+  "translation": "Friend of Jill\n\nJeff's girlfriend",
+  "vndb_url": "https://vndb.org/c141511"
+}

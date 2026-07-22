@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9463",
+  "type": "character",
+  "name": "Parzival",
+  "original_name": "騎士パルジファル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on a knight from the Arthurian legend, [url=http://en.wikipedia.org/wiki/Percival]Percival[/url], or Parzival in the German Arthurian literature. \nParzival (this character) has a [url=/c9464]daughter[/url] called [url=http://en.wikipedia.org/wiki/Lohengrin]Lohengrin[/url], who is named after Parzival's son in the German Arthurian literature, who was also a knight of the round table.",
+  "source_sha256": "7a92421e09da88e3462a0a5087a8bf7fee294f808c8b2799b7ba09834f51d94f",
+  "translation": "Based on a knight from the Arthurian legend, [url=http://en.wikipedia.org/wiki/Percival]Percival[/url], or Parzival in the German Arthurian literature. \nParzival (this character) has a [url=/c9464]daughter[/url] called [url=http://en.wikipedia.org/wiki/Lohengrin]Lohengrin[/url], who is named after Parzival's son in the German Arthurian literature, who was also a knight of the round table.",
+  "vndb_url": "https://vndb.org/c9463"
+}

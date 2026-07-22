@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73587",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist, also a customizable character, represents the player directly in My Very Own Lith, and may interact with Lith in many ways, depending on the story branch they choose to go down.",
+  "source_sha256": "877a9182a514cf776764bc38ae239f635bff26464778edc79b47086dee5165da",
+  "translation": "The protagonist, also a customizable character, represents the player directly in My Very Own Lith, and may interact with Lith in many ways, depending on the story branch they choose to go down.",
+  "vndb_url": "https://vndb.org/c73587"
+}

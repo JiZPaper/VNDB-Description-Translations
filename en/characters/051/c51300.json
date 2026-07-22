@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51300",
+  "type": "character",
+  "name": "Akira",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mobita's grandfather.",
+  "source_sha256": "ba65a6ffbd510dc4cee1899dc2e08256b680064ca7c5a88801631d4b641f4d14",
+  "translation": "Mobita's grandfather.",
+  "vndb_url": "https://vndb.org/c51300"
+}

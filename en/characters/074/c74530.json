@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c74530",
+  "type": "character",
+  "name": "Trino",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A soldato of the DeLuca family, tasked with protecting Luna and Gracie.",
+  "source_sha256": "4288a3039e9c2293b4cc874d8b075b28bdbda477425ff1d99676b02f44884c3d",
+  "translation": "A soldato of the DeLuca family, tasked with protecting Luna and Gracie.",
+  "vndb_url": "https://vndb.org/c74530"
+}

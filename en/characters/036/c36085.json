@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36085",
+  "type": "character",
+  "name": "Byakuen",
+  "original_name": "白艶",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Human \nOccupation: Samurai",
+  "source_sha256": "b9406f27e2d933f2f42860801b635af7afc14c36c20bc85eeb57d30d602d7221",
+  "translation": "Race: Human \nOccupation: Samurai",
+  "vndb_url": "https://vndb.org/c36085"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15580",
+  "type": "character",
+  "name": "Raven",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Witch hunter.",
+  "source_sha256": "a09f7c8f79c1326a936cda341b50d2e52e8166f8a397f6278d99d8e10202d0ec",
+  "translation": "Witch hunter.",
+  "vndb_url": "https://vndb.org/c15580"
+}

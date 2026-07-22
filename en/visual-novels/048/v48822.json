@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48822",
+  "type": "visual_novel",
+  "name": "Sempre",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "After getting trapped in the elevator, four unsuspecting people are challenged in attempts to escape. Alroy, the protagonist, feels this situation may be something more than just a broken elevator.",
+  "source_sha256": "17f703b16c160ba5e25d6a546a4a47570462c3dff4ec66d5ffd8f60e2c9eebec",
+  "translation": "After getting trapped in the elevator, four unsuspecting people are challenged in attempts to escape. Alroy, the protagonist, feels this situation may be something more than just a broken elevator.",
+  "vndb_url": "https://vndb.org/v48822"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115532",
+  "type": "character",
+  "name": "Francine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Francine is the store manager of \"Seven Square\", the local convenience store in the Burbs. She takes her job seriously and doesn't tolerate unprofessional behaviour from other employees.",
+  "source_sha256": "1e8a1d3139ec20dee1c9a0fcff65726f95da92d4de2170fdb1a05a2c8ffabbaf",
+  "translation": "Francine is the store manager of \"Seven Square\", the local convenience store in the Burbs. She takes her job seriously and doesn't tolerate unprofessional behaviour from other employees.",
+  "vndb_url": "https://vndb.org/c115532"
+}

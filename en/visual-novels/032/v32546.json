@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32546",
+  "type": "visual_novel",
+  "name": "The Guild of Thieves",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Guild of Thieves is an interactive fiction game by Magnetic Scrolls first published by Rainbird in 1987. The game takes place in Kerovnia like the previous game The Pawn.\n\n[From Wikipedia].",
+  "source_sha256": "62d06b1a5dd0bb64e32334893e6f3da12fce9ca2a3c58ce48a6719a25e9278fe",
+  "translation": "The Guild of Thieves is an interactive fiction game by Magnetic Scrolls first published by Rainbird in 1987. The game takes place in Kerovnia like the previous game The Pawn.\n\n[From Wikipedia].",
+  "vndb_url": "https://vndb.org/v32546"
+}

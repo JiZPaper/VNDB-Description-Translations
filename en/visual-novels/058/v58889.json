@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58889",
+  "type": "visual_novel",
+  "name": "Ane wa Ikkyuu Kenchikushi ~Ikenai Kouzou Sekkei~",
+  "original_name": "姉は一級建築士 ～イケない構造設計～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel developed by 2ch's /vip/ board loosely based off of the [url=https://en.wikipedia.org/wiki/Architectural_forgery_in_Japan]2005 Japanese architectural forgery scandal[/url]. Development ceased in 2009.",
+  "source_sha256": "0499379fee943c43ff6eb583d7ba2b138c9c82a85294e7cc02672b557bb49f7a",
+  "translation": "A visual novel developed by 2ch's /vip/ board loosely based off of the [url=https://en.wikipedia.org/wiki/Architectural_forgery_in_Japan]2005 Japanese architectural forgery scandal[/url]. Development ceased in 2009.",
+  "vndb_url": "https://vndb.org/v58889"
+}

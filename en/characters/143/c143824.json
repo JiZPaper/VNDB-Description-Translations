@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143824",
+  "type": "character",
+  "name": "Beatrix",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader of the Redbreasts.\n\n[In game description]",
+  "source_sha256": "fc190bbf778f9648cd2338e514ab78d950ed81db4551d9cdcd78984746d42293",
+  "translation": "Leader of the Redbreasts.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c143824"
+}

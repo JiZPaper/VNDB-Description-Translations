@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47250",
+  "type": "character",
+  "name": "Takahashi Makoto",
+  "original_name": "高橋 誠",
+  "language": "en",
+  "source_language": "en",
+  "source": "Television producer.",
+  "source_sha256": "a752fee08e49a037e69e21ee378531590caf3e03dde1925939562b4fea353652",
+  "translation": "Television producer.",
+  "vndb_url": "https://vndb.org/c47250"
+}

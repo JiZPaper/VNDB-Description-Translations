@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60203",
+  "type": "character",
+  "name": "A.E.D.",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A battle priest that fights demons.",
+  "source_sha256": "b7fca0ee395a97cfd6aeb9c542f8513e6e6ef70aede73f6f97b95980b2b4be04",
+  "translation": "A battle priest that fights demons.",
+  "vndb_url": "https://vndb.org/c60203"
+}

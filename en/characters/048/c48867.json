@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48867",
+  "type": "character",
+  "name": "Rukis",
+  "original_name": "ルキス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Musical instrument: Flute.",
+  "source_sha256": "bb0518c451d4c2897063065b62ea1507b8c0c5e24e89f094f255beb77be214e7",
+  "translation": "Musical instrument: Flute.",
+  "vndb_url": "https://vndb.org/c48867"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148237",
+  "type": "character",
+  "name": "York",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Rune's cat. A normal cat that enjoys eating & sleeping.",
+  "source_sha256": "9e3793c75b37fb65777ffbbfb6bb040b6bb69f89b76e434332247e39104e15c6",
+  "translation": "Rune's cat. A normal cat that enjoys eating & sleeping.",
+  "vndb_url": "https://vndb.org/c148237"
+}

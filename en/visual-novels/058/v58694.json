@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58694",
+  "type": "visual_novel",
+  "name": "Vspomnit' vsjo",
+  "original_name": "Вспомнить всё",
+  "language": "en",
+  "source_language": "en",
+  "source": "What do you do if your life starts with a clean slate?\nIf you remember neither your parents, nor your friends, nor your favorite song?\nWill you be able to start a new life, or will you choose to Remember everything?",
+  "source_sha256": "d12cc57ec9c5e0510ba581885a2a8b6508b3f38cf3cf96940337c40ea061b67e",
+  "translation": "What do you do if your life starts with a clean slate?\nIf you remember neither your parents, nor your friends, nor your favorite song?\nWill you be able to start a new life, or will you choose to Remember everything?",
+  "vndb_url": "https://vndb.org/v58694"
+}

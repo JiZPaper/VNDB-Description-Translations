@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21015",
+  "type": "character",
+  "name": "Diana",
+  "original_name": "ダイアナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Pilot of CAT Bomber 2",
+  "source_sha256": "d0fff53c05287c662ef2a21d9747e733c0596d9148abfd1a592244b9e058d34b",
+  "translation": "Pilot of CAT Bomber 2",
+  "vndb_url": "https://vndb.org/c21015"
+}

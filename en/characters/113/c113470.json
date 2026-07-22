@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113470",
+  "type": "character",
+  "name": "Rita",
+  "original_name": "リタ",
+  "language": "en",
+  "source_language": "en",
+  "source": "She is an agent of VGN.",
+  "source_sha256": "51d173344142d1c111bee7140e1ca999200852b3e413b3fa65fcb4273cf0d90c",
+  "translation": "She is an agent of VGN.",
+  "vndb_url": "https://vndb.org/c113470"
+}

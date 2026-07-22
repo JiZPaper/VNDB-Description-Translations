@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16555",
+  "type": "visual_novel",
+  "name": "My Lightly Pony: Den' Sogrevajuschego Ochaga",
+  "original_name": "My Lightly Pony: День Согревающего Очага",
+  "language": "en",
+  "source_language": "en",
+  "source": "The story follows a day in the life of unicorn Lily Lightly in festive Canterlot.",
+  "source_sha256": "8e885ecff8c718b0dfb3811ce68986cbd388016a00055996e94085af07878219",
+  "translation": "The story follows a day in the life of unicorn Lily Lightly in festive Canterlot.",
+  "vndb_url": "https://vndb.org/v16555"
+}

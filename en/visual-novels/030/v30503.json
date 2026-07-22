@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30503",
+  "type": "visual_novel",
+  "name": "Donkey Kong's Revenge",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a visual novel where you play as Donkey Kong and try and plan a murder and get away with it.\n\n[From [url=https://www.glorioustrainwrecks.com/node/10944]Glorious Trainwrecks[/url]]",
+  "source_sha256": "f38c70e50ec578bb3d51643925cbacc96d56b119b26e2aad79a0be1a675d99c9",
+  "translation": "This is a visual novel where you play as Donkey Kong and try and plan a murder and get away with it.\n\n[From [url=https://www.glorioustrainwrecks.com/node/10944]Glorious Trainwrecks[/url]]",
+  "vndb_url": "https://vndb.org/v30503"
+}

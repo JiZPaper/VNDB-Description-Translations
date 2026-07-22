@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c775",
+  "type": "character",
+  "name": "Alice Liddell",
+  "original_name": "アリス＝リデル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Alice is a down-to-earth, rational person. However, ever since her first love ended up falling for her much more refined and perfect older sister, Alice has lost her belief in true love.",
+  "source_sha256": "21241c4288e068ca35bd1bbbfbc142cad4d7c7186cc6e0523ce6dd6b88a232a8",
+  "translation": "Alice is a down-to-earth, rational person. However, ever since her first love ended up falling for her much more refined and perfect older sister, Alice has lost her belief in true love.",
+  "vndb_url": "https://vndb.org/c775"
+}

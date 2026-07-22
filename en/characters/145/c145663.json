@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145663",
+  "type": "character",
+  "name": "Mr. Hugeface",
+  "original_name": "大きい顔",
+  "language": "en",
+  "source_language": "en",
+  "source": "A giant being trying to capture the protagonist.",
+  "source_sha256": "4f5165b6b776ccd6ee9ea5bceaea1520bbeb7cf533925135d2d11b56970b83a2",
+  "translation": "A giant being trying to capture the protagonist.",
+  "vndb_url": "https://vndb.org/c145663"
+}

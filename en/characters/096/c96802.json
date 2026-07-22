@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96802",
+  "type": "character",
+  "name": "One-eyed Rider",
+  "original_name": "隻眼のライダー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Her true name is [spoiler][url=https://en.wikipedia.org/wiki/Jan_%C5%BDi%C5%BEka]Jan Žižka[/url] summoned with the body of Artoria Pendragon.[/spoiler]",
+  "source_sha256": "b3742301480c81785b0c9505f6f50a6e1b8d53f40221fbfa1ddcad873a5bd571",
+  "translation": "Her true name is [spoiler][url=https://en.wikipedia.org/wiki/Jan_%C5%BDi%C5%BEka]Jan Žižka[/url] summoned with the body of Artoria Pendragon.[/spoiler]",
+  "vndb_url": "https://vndb.org/c96802"
+}

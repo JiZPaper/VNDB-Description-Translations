@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16549",
+  "type": "visual_novel",
+  "name": "Trick and Treat",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A group of friends explore the forest when something attacks, leaving the protagonist at the mercy of the unknown.",
+  "source_sha256": "6fe0629d0cff51c83ee59c00c497d4832bc58adeec2afc7cdd16cc68155d6818",
+  "translation": "A group of friends explore the forest when something attacks, leaving the protagonist at the mercy of the unknown.",
+  "vndb_url": "https://vndb.org/v16549"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25637",
+  "type": "visual_novel",
+  "name": "Ce qu'il advint de Nana",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Nana is 16, she's been missing. They found a corpse by the side of the road. Marie, her sister, doesn't believe it's Nana. Because there's this red journal, with all those teenage secrets written in an unknown language.\"",
+  "source_sha256": "396bb8b96f3a79b521c43acd8eaa2fdca24c7a69a03984ce50878a6cddca370a",
+  "translation": "\"Nana is 16, she's been missing. They found a corpse by the side of the road. Marie, her sister, doesn't believe it's Nana. Because there's this red journal, with all those teenage secrets written in an unknown language.\"",
+  "vndb_url": "https://vndb.org/v25637"
+}

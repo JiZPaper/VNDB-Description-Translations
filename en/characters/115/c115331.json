@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115331",
+  "type": "character",
+  "name": "Man",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A ribbon salesman.",
+  "source_sha256": "6fed24f0f598b75f05514907af42b9baf960a62f21694b41af1e27bb97dc6288",
+  "translation": "A ribbon salesman.",
+  "vndb_url": "https://vndb.org/c115331"
+}

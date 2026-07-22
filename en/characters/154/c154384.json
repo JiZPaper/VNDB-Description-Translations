@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154384",
+  "type": "character",
+  "name": "Alison",
+  "original_name": "アリスン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A bright and dependable older sister-like nun.",
+  "source_sha256": "1151e058c4bd8027477cc5f145b821dd1f09600a2a28a02dd37d96e12644b3d5",
+  "translation": "A bright and dependable older sister-like nun.",
+  "vndb_url": "https://vndb.org/c154384"
+}

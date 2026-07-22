@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37714",
+  "type": "visual_novel",
+  "name": "Chi Tu Yangguang Ban",
+  "original_name": "赤途阳光版",
+  "language": "en",
+  "source_language": "en",
+  "source": "Remake of [url=/v37713]Qianfu: Chi Tu[/url]. Most of the real person photographs are replaced and the negative description in the original work is eliminated to make the main theme more positive.",
+  "source_sha256": "ca32f71a2d04201d99ba83b12b26c113101ca063b2c626338949a9cb060dcfe0",
+  "translation": "Remake of [url=/v37713]Qianfu: Chi Tu[/url]. Most of the real person photographs are replaced and the negative description in the original work is eliminated to make the main theme more positive.",
+  "vndb_url": "https://vndb.org/v37714"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64002",
+  "type": "character",
+  "name": "Ren",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mercenary from the old war. A victim of chemical experimentation, she suffers from violent hallucinations and mental disorders.",
+  "source_sha256": "a57c26354cbae356a3ecc390991c31445a90964fb405075d4196f13d9acc74db",
+  "translation": "A mercenary from the old war. A victim of chemical experimentation, she suffers from violent hallucinations and mental disorders.",
+  "vndb_url": "https://vndb.org/c64002"
+}

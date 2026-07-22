@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62408",
+  "type": "visual_novel",
+  "name": "Kozaky: Vijna z nechystju",
+  "original_name": "Козаки: Війна з нечистю",
+  "language": "en",
+  "source_language": "en",
+  "source": "Nikolay and Stepan are back one last time.",
+  "source_sha256": "0ee243c8658d536cc35c21de1ae2d2213ffa250d13b7434ce7786ec6db6c91cd",
+  "translation": "Nikolay and Stepan are back one last time.",
+  "vndb_url": "https://vndb.org/v62408"
+}

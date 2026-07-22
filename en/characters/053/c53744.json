@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53744",
+  "type": "character",
+  "name": "Rock Rabbiton",
+  "original_name": "ロック・ラビトン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist turned into stuffed toy by mysterious curse.",
+  "source_sha256": "a945e5523837343a38fbf8724346d484d3fb702a40a7bd4c08d6c07df901d611",
+  "translation": "Protagonist turned into stuffed toy by mysterious curse.",
+  "vndb_url": "https://vndb.org/c53744"
+}

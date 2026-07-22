@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c18797",
+  "type": "character",
+  "name": "Mysterious Young Man",
+  "original_name": "謎の青年",
+  "language": "en",
+  "source_language": "en",
+  "source": "The man who takes care of the protagonist, but won't give his name.",
+  "source_sha256": "300620ddfbbe0522b281dfe517ddbd0fff8a9ab3ed4fed89787f0ddc1b48ad65",
+  "translation": "The man who takes care of the protagonist, but won't give his name.",
+  "vndb_url": "https://vndb.org/c18797"
+}

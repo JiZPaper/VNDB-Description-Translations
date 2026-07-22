@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73892",
+  "type": "character",
+  "name": "Adolf Hitler",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A German politician and dictator who initiated World War 2, invaded Poland, and caused the Holocaust.",
+  "source_sha256": "cf04af7222198c02f3e67f1f8901c47212ef1d1ad13881c0613d2145e31699bd",
+  "translation": "A German politician and dictator who initiated World War 2, invaded Poland, and caused the Holocaust.",
+  "vndb_url": "https://vndb.org/c73892"
+}

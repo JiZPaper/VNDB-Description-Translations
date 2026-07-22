@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61012",
+  "type": "visual_novel",
+  "name": "Anton i pel'meni",
+  "original_name": "Антон и пельмени",
+  "language": "en",
+  "source_language": "en",
+  "source": "A story of Anton boiling pelmeni.",
+  "source_sha256": "116451e27f25aa6279a9466670c04364c3b37c6e6a08e5c1a2d3eeb355a92b90",
+  "translation": "A story of Anton boiling pelmeni.",
+  "vndb_url": "https://vndb.org/v61012"
+}

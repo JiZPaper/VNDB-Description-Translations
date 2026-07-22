@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133520",
+  "type": "character",
+  "name": "Sister",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The stepsister of the protagonist.",
+  "source_sha256": "56fb4971fda988d35ebc6ec1f3ada07f61ed74352ee58ff4f4057fcb3b9e95d4",
+  "translation": "The stepsister of the protagonist.",
+  "vndb_url": "https://vndb.org/c133520"
+}

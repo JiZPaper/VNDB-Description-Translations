@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22113",
+  "type": "visual_novel",
+  "name": "Davy Jones Dating Simulator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Brazilian dating simulator of the YouTuber Davy Jones.",
+  "source_sha256": "f76c921189f5fd32485e0823654a19eaf4a551c692038b70898ec843f8ba5b27",
+  "translation": "A Brazilian dating simulator of the YouTuber Davy Jones.",
+  "vndb_url": "https://vndb.org/v22113"
+}

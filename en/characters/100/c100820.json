@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100820",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A boy that lives underground after an apocalyptic event. He usually have some strange dreams about the surface.",
+  "source_sha256": "15cf96157e74d37388a7396dbda80a74e460cafc3441632631ffa2ead388d7a4",
+  "translation": "A boy that lives underground after an apocalyptic event. He usually have some strange dreams about the surface.",
+  "vndb_url": "https://vndb.org/c100820"
+}

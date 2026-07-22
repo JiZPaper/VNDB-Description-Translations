@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42934",
+  "type": "visual_novel",
+  "name": "Adachi Dating Simulator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A stupid meme game made as a joke.",
+  "source_sha256": "50ba1a533057166c64b5ed00c914472aa99386f360addd6d542d788e5209a7dd",
+  "translation": "A stupid meme game made as a joke.",
+  "vndb_url": "https://vndb.org/v42934"
+}

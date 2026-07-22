@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20939",
+  "type": "visual_novel",
+  "name": "The Senpai",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Seinfeld visual novel.\n\nGeorge endeavors to get his senpai to notice him, Jerry tries to help. A childhood friend confesses to Elaine. Kramer makes a remarkable discovery in an abandoned warehouse.",
+  "source_sha256": "ce6026a44e2e0366935876a6628b8514d277ab157f2b7ec17ba693ae312d133d",
+  "translation": "A Seinfeld visual novel.\n\nGeorge endeavors to get his senpai to notice him, Jerry tries to help. A childhood friend confesses to Elaine. Kramer makes a remarkable discovery in an abandoned warehouse.",
+  "vndb_url": "https://vndb.org/v20939"
+}

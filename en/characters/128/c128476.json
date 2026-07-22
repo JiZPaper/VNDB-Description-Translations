@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c128476",
+  "type": "character",
+  "name": "Luna",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Luna, one of the Mafia heads, can influence emotions.",
+  "source_sha256": "6ce704aacde7f500188a7f6ee0d1d1a86f8a57d5a385399e4e939b408024ea6e",
+  "translation": "Luna, one of the Mafia heads, can influence emotions.",
+  "vndb_url": "https://vndb.org/c128476"
+}

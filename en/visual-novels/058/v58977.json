@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58977",
+  "type": "visual_novel",
+  "name": "Flutter Love",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short otome game about Minna, a new transfer student who begins receiving letters from her deceased father.\n\n[From [url=https://teammochi.itch.io/flutterlove]Itch.io[/url]]",
+  "source_sha256": "87fc819d147c665c95837bdf0919585cd3e75aae21aa5fc0faea02dedc7e0e80",
+  "translation": "A short otome game about Minna, a new transfer student who begins receiving letters from her deceased father.\n\n[From [url=https://teammochi.itch.io/flutterlove]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v58977"
+}

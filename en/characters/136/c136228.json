@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136228",
+  "type": "character",
+  "name": "Georgia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Met at the local Night Club.\n\n[In game description]",
+  "source_sha256": "cb5f376047e9c45869b1e8389110c52338e9f4f423cac329642d90f15cc0b3dd",
+  "translation": "Met at the local Night Club.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c136228"
+}

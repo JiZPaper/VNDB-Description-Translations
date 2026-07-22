@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18250",
+  "type": "visual_novel",
+  "name": "Fruit Cocktail",
+  "original_name": "フルーツ・カクテル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A stripping card game with three opponents.\n\n[From [url=https://vndbreview.blogspot.com/2017/04/vn-of-year-1989.html]vndbreview[/url]]",
+  "source_sha256": "641af46df77485f44c519b8fcbac7d21d01e068ed51b778b81c85c4bf1c080be",
+  "translation": "A stripping card game with three opponents.\n\n[From [url=https://vndbreview.blogspot.com/2017/04/vn-of-year-1989.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v18250"
+}

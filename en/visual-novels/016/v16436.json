@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16436",
+  "type": "visual_novel",
+  "name": "Suki Desu Suzuki-kun!! 4nin no Suzuki-kun",
+  "original_name": "好きです鈴木くん!! 4人の鈴木くん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on the manga by Gou Ikeyamada.\n\nThe player can choose to play as either Chihiro or Sayaka. The game follows an original story not present in the manga, where the main cast visits a vacation villa on summer holidays and encounter two other Suzukis.",
+  "source_sha256": "4d1f77771ff9dfad5d6aea8c521de6b4e3ae03abeda257535b655b5c0a8d5a01",
+  "translation": "Based on the manga by Gou Ikeyamada.\n\nThe player can choose to play as either Chihiro or Sayaka. The game follows an original story not present in the manga, where the main cast visits a vacation villa on summer holidays and encounter two other Suzukis.",
+  "vndb_url": "https://vndb.org/v16436"
+}

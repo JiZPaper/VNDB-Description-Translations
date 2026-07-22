@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42439",
+  "type": "visual_novel",
+  "name": "Tsvetik-Semitsvetik",
+  "original_name": "Цветик-Семицветик",
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel based on the fairy tail \"Rainbow Flower\" of [url=https://en.wikipedia.org/wiki/Valentin_Kataev]V.Kataev[/url].",
+  "source_sha256": "ac81b08980c485876853eb70df54850c4ea2a0ec026d8e72fb6b8c4e0b3e36b6",
+  "translation": "A visual novel based on the fairy tail \"Rainbow Flower\" of [url=https://en.wikipedia.org/wiki/Valentin_Kataev]V.Kataev[/url].",
+  "vndb_url": "https://vndb.org/v42439"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115497",
+  "type": "character",
+  "name": "Rose",
+  "original_name": "ローズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Nightclub diva. She has a secret crush on Francis.",
+  "source_sha256": "bf9cac2e57616ad4623b0ada381017e300e64ac46ad32db5dc5369f472f41a31",
+  "translation": "Nightclub diva. She has a secret crush on Francis.",
+  "vndb_url": "https://vndb.org/c115497"
+}

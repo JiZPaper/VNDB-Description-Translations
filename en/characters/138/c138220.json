@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c138220",
+  "type": "character",
+  "name": "Rebecca",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Technology enthusiast.\nShe tries to create a video game.\n\n[In game description]",
+  "source_sha256": "82a47b33e7887f3f67c5f7235414e24c690937594379499a0d0b8618e1777f88",
+  "translation": "Technology enthusiast.\nShe tries to create a video game.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c138220"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100091",
+  "type": "character",
+  "name": "Hotel Manager",
+  "original_name": "支配人",
+  "language": "en",
+  "source_language": "en",
+  "source": "Birthday: Unknown \nAges: Unknown \nTall: 190cm\nHobbies: Imagining Cabakura (hostess club)\nFavorite food: beer/cakes\nLeast favorite food: Wasabi \n\n[From in-game character profile]",
+  "source_sha256": "d4b8c9fb7c9c98b6f3aaed4ce69ce9bd136c329aad0dfad8bef2fe8e15570091",
+  "translation": "Birthday: Unknown \nAges: Unknown \nTall: 190cm\nHobbies: Imagining Cabakura (hostess club)\nFavorite food: beer/cakes\nLeast favorite food: Wasabi \n\n[From in-game character profile]",
+  "vndb_url": "https://vndb.org/c100091"
+}

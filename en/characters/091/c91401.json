@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91401",
+  "type": "character",
+  "name": "Maid-chan",
+  "original_name": "メイドちゃん",
+  "language": "en",
+  "source_language": "en",
+  "source": "A doll-like zombie maid created by her master’s experiments, stitched together from corpses and given a soul.\nHer arms tend to pop off when she carries heavy things.",
+  "source_sha256": "710c867c877c19d0a6ddec334b34a286d67f38c21da6d4eaf86334c146837acc",
+  "translation": "A doll-like zombie maid created by her master’s experiments, stitched together from corpses and given a soul.\nHer arms tend to pop off when she carries heavy things.",
+  "vndb_url": "https://vndb.org/c91401"
+}

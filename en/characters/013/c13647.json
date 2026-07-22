@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c13647",
+  "type": "character",
+  "name": "Kamil",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Main hero this game. He is young and likes computer games.",
+  "source_sha256": "8d89c2102ed0bb45ae6b7b0bf99d923dec5a8d9487e0fc84d9b96fca2c254514",
+  "translation": "Main hero this game. He is young and likes computer games.",
+  "vndb_url": "https://vndb.org/c13647"
+}

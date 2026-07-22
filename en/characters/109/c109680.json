@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c109680",
+  "type": "character",
+  "name": "Nora",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Maria's babysitter.",
+  "source_sha256": "acef6a7d3e722fa0520c9bbc9a7a7fe506ffdf6f4e3291273ba1f1ae3b7984cb",
+  "translation": "Maria's babysitter.",
+  "vndb_url": "https://vndb.org/c109680"
+}

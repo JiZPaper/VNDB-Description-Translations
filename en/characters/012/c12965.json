@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12965",
+  "type": "character",
+  "name": "Aeron",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fellow troll.\n\nThis character does not have a route.",
+  "source_sha256": "d327643bc4eb98430835d456a58707ce0428c2d05c798d0e9c934aa9e5e9caa2",
+  "translation": "A fellow troll.\n\nThis character does not have a route.",
+  "vndb_url": "https://vndb.org/c12965"
+}

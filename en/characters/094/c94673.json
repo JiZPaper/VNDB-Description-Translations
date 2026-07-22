@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94673",
+  "type": "character",
+  "name": "The Director",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious figure met after achieving a Good End in Volume 14 of Pesterquest.",
+  "source_sha256": "01e1adf88fea513c1c9607cbcc2f33639697a1549aad8e72c57ad07012badf96",
+  "translation": "A mysterious figure met after achieving a Good End in Volume 14 of Pesterquest.",
+  "vndb_url": "https://vndb.org/c94673"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c164878",
+  "type": "character",
+  "name": "Theodore",
+  "original_name": "テオドア",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the Velvet Room attendants. \nHe is the younger brother of [url=/c52191]Elizabeth[/url] and [url=/c53702]Margaret[/url], and the older brother of Lavenza.",
+  "source_sha256": "7589548c34b091af8e1b460e3d4e1ddb11a671195ed92cbba29346ea534342c2",
+  "translation": "One of the Velvet Room attendants. \nHe is the younger brother of [url=/c52191]Elizabeth[/url] and [url=/c53702]Margaret[/url], and the older brother of Lavenza.",
+  "vndb_url": "https://vndb.org/c164878"
+}

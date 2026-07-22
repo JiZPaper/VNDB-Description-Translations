@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15965",
+  "type": "visual_novel",
+  "name": "Honey Attend",
+  "original_name": "ハニーattend",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short Mori/Honey romance.",
+  "source_sha256": "4acdcdcdd7dc6a36a92d8f350410f68b91111c885ab1cabdd385615f8ddd15a8",
+  "translation": "A short Mori/Honey romance.",
+  "vndb_url": "https://vndb.org/v15965"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97082",
+  "type": "character",
+  "name": "Matsuri",
+  "original_name": "マツリ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Matsuri is [spoiler]one of the terminals of Mart Mk. 2 Type L[/spoiler]",
+  "source_sha256": "596c8e705999579bb18868746b4c5491e34ee5f45918676db979f064c140b4e0",
+  "translation": "Matsuri is [spoiler]one of the terminals of Mart Mk. 2 Type L[/spoiler]",
+  "vndb_url": "https://vndb.org/c97082"
+}

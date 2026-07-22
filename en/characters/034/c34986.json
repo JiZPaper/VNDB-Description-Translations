@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34986",
+  "type": "character",
+  "name": "Fine",
+  "original_name": "フィネ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A bandit girl who lives in the World of Green.",
+  "source_sha256": "05fc1d35b27f658eb2f5a165702cb5235fa679f80569f133fb9c40044ce4dbee",
+  "translation": "A bandit girl who lives in the World of Green.",
+  "vndb_url": "https://vndb.org/c34986"
+}

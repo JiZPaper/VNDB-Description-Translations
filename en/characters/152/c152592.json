@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152592",
+  "type": "character",
+  "name": "Fernweh",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The first Great Terror you encounter, they reside in the CHASM",
+  "source_sha256": "834a63d9a659c0f6fe2cfd75bcbb0993b069e9cefcfbe17606aa0e0df2d152ec",
+  "translation": "The first Great Terror you encounter, they reside in the CHASM",
+  "vndb_url": "https://vndb.org/c152592"
+}

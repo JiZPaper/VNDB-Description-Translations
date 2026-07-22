@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30012",
+  "type": "character",
+  "name": "Deviser",
+  "original_name": "ディバイザー",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Hm, How interesting. I'll allow you to come closer.\"\n\n[url=/c29970]Yuuji's[/url] Substance partner.\nA Substance that acts like an emperor and feels like he needs to control everything.\nHe thinks that everything on the world is his, but he still considers his comrades very important.",
+  "source_sha256": "dde63868caf6f07e958bad071027636fd6dc1a92d918422ba4a27a28325185ad",
+  "translation": "\"Hm, How interesting. I'll allow you to come closer.\"\n\n[url=/c29970]Yuuji's[/url] Substance partner.\nA Substance that acts like an emperor and feels like he needs to control everything.\nHe thinks that everything on the world is his, but he still considers his comrades very important.",
+  "vndb_url": "https://vndb.org/c30012"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116758",
+  "type": "character",
+  "name": "Engine Spirit 20305",
+  "original_name": "機関精霊 20305",
+  "language": "en",
+  "source_language": "en",
+  "source": "An Engine Spirit, a type of Monster born from the Engine Factories.",
+  "source_sha256": "16043a86ce93f4a34c80f0dded5192152e9bbde40d9bea4b9eacff5a6c96517d",
+  "translation": "An Engine Spirit, a type of Monster born from the Engine Factories.",
+  "vndb_url": "https://vndb.org/c116758"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15203",
+  "type": "visual_novel",
+  "name": "ThisArmor Kaisetsu 10 Shuunen Kinen Game",
+  "original_name": "ThisArmor開設10周年記念ゲーム",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short game to commemorate ThisArmor's tenth anniversary.",
+  "source_sha256": "25a8a3b3b73001be4b283be68b70276eb52d8d77e77aff5ea968ee30f82d3b13",
+  "translation": "A short game to commemorate ThisArmor's tenth anniversary.",
+  "vndb_url": "https://vndb.org/v15203"
+}

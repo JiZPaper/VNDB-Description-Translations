@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55021",
+  "type": "character",
+  "name": "Rhiannon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Scherza's witch consular.",
+  "source_sha256": "65a8c0dc6ccf4ef241ecf9d99dbe6ce47f97ff5939a42c3b451e20f883237e13",
+  "translation": "Scherza's witch consular.",
+  "vndb_url": "https://vndb.org/c55021"
+}

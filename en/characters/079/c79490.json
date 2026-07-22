@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79490",
+  "type": "character",
+  "name": "Sigma",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An android, the Soloss' crew found floating in space.",
+  "source_sha256": "ce6fea3126505cf93e02bd2e5a847338bfb5ff82673b19268066c8cbd0b5f976",
+  "translation": "An android, the Soloss' crew found floating in space.",
+  "vndb_url": "https://vndb.org/c79490"
+}

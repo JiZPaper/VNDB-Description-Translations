@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64001",
+  "type": "character",
+  "name": "Kes",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Guard captain of Northon, a small fortress standing between the borders of Baria and Antares.",
+  "source_sha256": "49bf7b388ca8f42d9441f032473f67ef596798f9daee31998585fe32a6d96b6a",
+  "translation": "Guard captain of Northon, a small fortress standing between the borders of Baria and Antares.",
+  "vndb_url": "https://vndb.org/c64001"
+}

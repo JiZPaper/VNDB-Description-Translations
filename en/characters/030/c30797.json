@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30797",
+  "type": "character",
+  "name": "Yuzuha",
+  "original_name": "柚子葉",
+  "language": "en",
+  "source_language": "en",
+  "source": "Miko",
+  "source_sha256": "c2779065f5adddd81733dc1825f15291be117c4c8fae29ca140658a64743eb23",
+  "translation": "Miko",
+  "vndb_url": "https://vndb.org/c30797"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170759",
+  "type": "character",
+  "name": "Jonah Second",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A detective who works with Ava Weston.",
+  "source_sha256": "6fffaa2fc539a90b94ee8703e431c5b5f77c0c004650201de8b3a302a2b2325e",
+  "translation": "A detective who works with Ava Weston.",
+  "vndb_url": "https://vndb.org/c170759"
+}

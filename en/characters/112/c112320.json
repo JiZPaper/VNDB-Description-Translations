@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112320",
+  "type": "character",
+  "name": "Eyrn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The innkeeper at a hotel in Sid Caeham.",
+  "source_sha256": "d2b01244eaee6e806c3a71767a305b1c427612bc3ab173059bee54bb286834bf",
+  "translation": "The innkeeper at a hotel in Sid Caeham.",
+  "vndb_url": "https://vndb.org/c112320"
+}

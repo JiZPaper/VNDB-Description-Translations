@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44075",
+  "type": "character",
+  "name": "Julia",
+  "original_name": "ジュリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Julia is Ken's mother[/spoiler].",
+  "source_sha256": "607058be63e31c2832a44d29d2b550f8067e4a4f7065e4e9ca9284dc9359a47b",
+  "translation": "[spoiler]Julia is Ken's mother[/spoiler].",
+  "vndb_url": "https://vndb.org/c44075"
+}

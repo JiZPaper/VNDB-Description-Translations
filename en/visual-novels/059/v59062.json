@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59062",
+  "type": "visual_novel",
+  "name": "TOUQI",
+  "original_name": "頭七",
+  "language": "en",
+  "source_language": "en",
+  "source": "As a new member of the Xifeng Magazine, your task is to investigate the connections between posts on Xifeng's forum as assigned by the editor-in-chief. When necessary, you will need to conduct on-site explorations to uncover the secrets hidden behind the posts.",
+  "source_sha256": "7601b6fd341f97191507be889909591484868ad1f2c001f645525659f8fcbd5d",
+  "translation": "As a new member of the Xifeng Magazine, your task is to investigate the connections between posts on Xifeng's forum as assigned by the editor-in-chief. When necessary, you will need to conduct on-site explorations to uncover the secrets hidden behind the posts.",
+  "vndb_url": "https://vndb.org/v59062"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61726",
+  "type": "character",
+  "name": "Health Frust",
+  "original_name": "ヘルスフラスト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A monster created by Dr. Alc.\nHe threatens people by forcing them to exercise\n\n[Translated from the [url=https://www.alicesoft.com/escalayer/echara.html]official site[/url]]",
+  "source_sha256": "54e6bc849d8703f962afb52c3c110c1797d5b1c811fe73a4486aebbf9b2770d4",
+  "translation": "A monster created by Dr. Alc.\nHe threatens people by forcing them to exercise\n\n[Translated from the [url=https://www.alicesoft.com/escalayer/echara.html]official site[/url]]",
+  "vndb_url": "https://vndb.org/c61726"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32795",
+  "type": "visual_novel",
+  "name": "Muv-Luv Alternative Chronicles: Kokuhaku",
+  "original_name": "マブラヴ オルタネイティヴ クロニクルズ 告白",
+  "language": "en",
+  "source_language": "en",
+  "source": "A side story exploring [url=/c160]Isumi Michiru[/url]'s years as a cadet.",
+  "source_sha256": "18262997ab1d43125666b85c3cc9e38fe700e46b31073421fc1f13234cfbb364",
+  "translation": "A side story exploring [url=/c160]Isumi Michiru[/url]'s years as a cadet.",
+  "vndb_url": "https://vndb.org/v32795"
+}

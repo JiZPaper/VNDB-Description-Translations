@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29839",
+  "type": "visual_novel",
+  "name": "Mukougawa no Reisetsu",
+  "original_name": "むこうがわの礼節",
+  "language": "en",
+  "source_language": "en",
+  "source": "TGF2016 winner.",
+  "source_sha256": "a66cd00a2fffa43c9afda25d38c3c0e8f0fcc54e65446a1b0cb6838bc3836473",
+  "translation": "TGF2016 winner.",
+  "vndb_url": "https://vndb.org/v29839"
+}

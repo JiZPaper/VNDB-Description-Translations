@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36566",
+  "type": "visual_novel",
+  "name": "Mermaid Monogatari",
+  "original_name": "マーメイド物語",
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about a mermaid.\n\n[Translated from [url=https://novelgame.jp/games/show/366]NovelGame[/url]]",
+  "source_sha256": "5a877d6c622686b1df6eea0c4333dda884c22e0aaf8a6ec236a551693aa0276d",
+  "translation": "A story about a mermaid.\n\n[Translated from [url=https://novelgame.jp/games/show/366]NovelGame[/url]]",
+  "vndb_url": "https://vndb.org/v36566"
+}

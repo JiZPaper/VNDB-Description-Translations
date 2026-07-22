@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96147",
+  "type": "character",
+  "name": "Phinny",
+  "original_name": "フィニー",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the headmaster's familiars.",
+  "source_sha256": "393a0afb8af7e5d754bc4281ac58070d30da9ecacb63527248980ea5f555f0d2",
+  "translation": "One of the headmaster's familiars.",
+  "vndb_url": "https://vndb.org/c96147"
+}

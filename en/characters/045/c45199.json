@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45199",
+  "type": "character",
+  "name": "Makkara",
+  "original_name": "マッカーラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the Four Heavenly Kings.\nWeapon: Iron Fan",
+  "source_sha256": "65641ac6cc20b437a6fb7a837b4cb17f0969fdccb2db5c01246ddfab01da0df9",
+  "translation": "One of the Four Heavenly Kings.\nWeapon: Iron Fan",
+  "vndb_url": "https://vndb.org/c45199"
+}

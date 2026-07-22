@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99156",
+  "type": "character",
+  "name": "Jacob",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A serial killer who wants to ask a series of question to the player and decide if he will murder them or set them free.",
+  "source_sha256": "010b95f7dd9197994c11cbee089363c49178c56069842e6ff8032fa8382d8f15",
+  "translation": "A serial killer who wants to ask a series of question to the player and decide if he will murder them or set them free.",
+  "vndb_url": "https://vndb.org/c99156"
+}

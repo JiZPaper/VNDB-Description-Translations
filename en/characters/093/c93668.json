@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93668",
+  "type": "character",
+  "name": "Georgie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The human form of Georgie.",
+  "source_sha256": "dbe077bd587acea8969e9e649e413ef627638b4fb5e1de1ee3952c32f9b6f987",
+  "translation": "The human form of Georgie.",
+  "vndb_url": "https://vndb.org/c93668"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172170",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Protagonist has gotten a Windows 3.1 computer to play his favorite PC Games.\nSo the first thing he Downloads:\nLara Simulator",
+  "source_sha256": "674853ee27cb6662f035e494084364eecefa7db1cc46077384a7d5d3e07f0415",
+  "translation": "The Protagonist has gotten a Windows 3.1 computer to play his favorite PC Games.\nSo the first thing he Downloads:\nLara Simulator",
+  "vndb_url": "https://vndb.org/c172170"
+}

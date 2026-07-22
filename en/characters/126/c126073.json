@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126073",
+  "type": "character",
+  "name": "The Operator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious entity residing within the Backrooms and communicating through the phones.",
+  "source_sha256": "0dbafdf8db4cfbe1280316cb384d819cdeb4fbb69b1a6a055348b2637fb64432",
+  "translation": "A mysterious entity residing within the Backrooms and communicating through the phones.",
+  "vndb_url": "https://vndb.org/c126073"
+}

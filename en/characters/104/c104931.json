@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c104931",
+  "type": "character",
+  "name": "Maya",
+  "original_name": "Майя",
+  "language": "en",
+  "source_language": "en",
+  "source": "Shimon's nurse.",
+  "source_sha256": "925952b42d6b302e8e108df9111a3cac090bfdf8f7bfefc64f1b5d21c785f690",
+  "translation": "Shimon's nurse.",
+  "vndb_url": "https://vndb.org/c104931"
+}

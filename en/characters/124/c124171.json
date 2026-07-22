@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124171",
+  "type": "character",
+  "name": "The Gravedigger",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This young woman is a gravedigger living alone in a village ravaged by the plague.",
+  "source_sha256": "6007e799715f70f61562faf82cf68c6f36615b466dfbe22abb508407c75060ec",
+  "translation": "This young woman is a gravedigger living alone in a village ravaged by the plague.",
+  "vndb_url": "https://vndb.org/c124171"
+}

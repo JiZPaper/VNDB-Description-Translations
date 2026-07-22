@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155171",
+  "type": "character",
+  "name": "Holz",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A character in DuelVerse video game.",
+  "source_sha256": "c1abf6b815f20be98fbb27ed91f9b9a77ae87e15e419e97fcbcb0666703ace46",
+  "translation": "A character in DuelVerse video game.",
+  "vndb_url": "https://vndb.org/c155171"
+}

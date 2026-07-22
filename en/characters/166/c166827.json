@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166827",
+  "type": "character",
+  "name": "Loretta",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A cashier at the gas station. She's in a relationship with Jax.",
+  "source_sha256": "6eafe8848e4e2e73bdec47cce8468e6d55dd25011e0cc599b66e1db320e1a3ba",
+  "translation": "A cashier at the gas station. She's in a relationship with Jax.",
+  "vndb_url": "https://vndb.org/c166827"
+}

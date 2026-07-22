@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93679",
+  "type": "character",
+  "name": "Nix",
+  "original_name": "ニクス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The headmaster, Lou's familiar, a large bird.",
+  "source_sha256": "8d77aab7cc6f9d60f642f083086195a3ed7b50a8a7db3c34cdad804172e9862b",
+  "translation": "The headmaster, Lou's familiar, a large bird.",
+  "vndb_url": "https://vndb.org/c93679"
+}

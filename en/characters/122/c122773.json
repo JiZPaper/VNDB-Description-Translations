@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122773",
+  "type": "character",
+  "name": "Hermione Granger",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Harry's friend, since they're in the same dorm.",
+  "source_sha256": "124e7c0c91ae2aeae8cb1351dfd0b72aa23483daf60813c6419ca3af9e9b12cd",
+  "translation": "Harry's friend, since they're in the same dorm.",
+  "vndb_url": "https://vndb.org/c122773"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32014",
+  "type": "visual_novel",
+  "name": "Dance to the Top",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A world-famous dance competition awaits, with your crush and idol as your mentor! The competition will be hot and hungry. Can you handle the heat and Dance to the Top?",
+  "source_sha256": "27a98f5478697609fdb91625de2022e7e67bd20ae8199e6999150c4e4840267f",
+  "translation": "A world-famous dance competition awaits, with your crush and idol as your mentor! The competition will be hot and hungry. Can you handle the heat and Dance to the Top?",
+  "vndb_url": "https://vndb.org/v32014"
+}

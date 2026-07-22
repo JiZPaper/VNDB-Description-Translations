@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75188",
+  "type": "character",
+  "name": "VA School Receptionist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This character can be paid to increase characterization, technique, or singing.",
+  "source_sha256": "a6c7764437376e19796d4e45d6349986801a0514fc0172df9d6007be25760a23",
+  "translation": "This character can be paid to increase characterization, technique, or singing.",
+  "vndb_url": "https://vndb.org/c75188"
+}

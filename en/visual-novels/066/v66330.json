@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66330",
+  "type": "visual_novel",
+  "name": "Kanon In Heaven",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "no",
+  "source_sha256": "9390298f3fb0c5b160498935d79cb139aef28e1c47358b4bbba61862b9c26e59",
+  "translation": "no",
+  "vndb_url": "https://vndb.org/v66330"
+}

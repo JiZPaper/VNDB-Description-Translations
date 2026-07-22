@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51501",
+  "type": "character",
+  "name": "Mitarashi Yaneko",
+  "original_name": "みたらし・やねこ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A relaxed and laid back girl.\nShe works at a bakery.\nShe easily becomes depressed and quickly compares herself to others.",
+  "source_sha256": "72b2efbae27f9e59824a378931f1693f37644e0bff8a633e877c3d1b0bf7d77d",
+  "translation": "A relaxed and laid back girl.\nShe works at a bakery.\nShe easily becomes depressed and quickly compares herself to others.",
+  "vndb_url": "https://vndb.org/c51501"
+}

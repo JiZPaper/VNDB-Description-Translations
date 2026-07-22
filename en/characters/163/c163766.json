@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163766",
+  "type": "character",
+  "name": "Danielle",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A teacher at Stocklingburg University.",
+  "source_sha256": "e2cf10ba2e6b62a81fe0f708c6030daf0fbee7113388bbcbb711a116a9a097dd",
+  "translation": "A teacher at Stocklingburg University.",
+  "vndb_url": "https://vndb.org/c163766"
+}

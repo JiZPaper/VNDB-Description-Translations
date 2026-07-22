@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c782",
+  "type": "character",
+  "name": "Ace",
+  "original_name": "エース",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ace is a knight at the castle. He is always smiling and laughing, even when disposing of the countless assassins sent for him each day. He has an awful sense of direction.",
+  "source_sha256": "b2fe5d79d8bd1df3367552456b24612ba47ae7218aad3ef90d95a09f0f2b5815",
+  "translation": "Ace is a knight at the castle. He is always smiling and laughing, even when disposing of the countless assassins sent for him each day. He has an awful sense of direction.",
+  "vndb_url": "https://vndb.org/c782"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96455",
+  "type": "character",
+  "name": "Iijima",
+  "original_name": "イイジマ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A regular customer of the bar \"Roost\". He owns a small grocery store.",
+  "source_sha256": "a38268cc41ce7e362145f8171afece7baf8bfe52b5e626904cbf419c09c60272",
+  "translation": "A regular customer of the bar \"Roost\". He owns a small grocery store.",
+  "vndb_url": "https://vndb.org/c96455"
+}

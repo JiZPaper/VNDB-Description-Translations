@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58481",
+  "type": "visual_novel",
+  "name": "Gravity Files",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a Parody game of the animated series Gravity Falls.\nWill you go deep into the mysteries of the town, meet girls, and discover what's beneath it?​",
+  "source_sha256": "65fe7a234f42bd8437f33cc5b6dd28cdedf85219e6d5082bd31bc0625291a43d",
+  "translation": "This is a Parody game of the animated series Gravity Falls.\nWill you go deep into the mysteries of the town, meet girls, and discover what's beneath it?​",
+  "vndb_url": "https://vndb.org/v58481"
+}

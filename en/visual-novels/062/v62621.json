@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62621",
+  "type": "visual_novel",
+  "name": "Mi nombre es Leo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Leo wakes up in an unfamiliar place, unable to remember anything about what the future holds.\n\n[Translated from [url=https://lazec.itch.io/mi-nombre-es-leo]Itch.io[/url]]",
+  "source_sha256": "8c9692fb6e72ea424a0eb1b6593045802d426f07463aa79844796d74450c5a7a",
+  "translation": "Leo wakes up in an unfamiliar place, unable to remember anything about what the future holds.\n\n[Translated from [url=https://lazec.itch.io/mi-nombre-es-leo]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v62621"
+}

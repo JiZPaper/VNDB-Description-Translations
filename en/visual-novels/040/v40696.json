@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40696",
+  "type": "visual_novel",
+  "name": "Guest",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel based on the song Guest by Gavin Castleton.\n\n[Edited from [url=https://beepsalt.itch.io/guest]Itch.io[/url]]",
+  "source_sha256": "3fc4d6e9e5ca2412d013e6d164d970313a7c9a042f54fdb0aee3212bb5ce2622",
+  "translation": "A short visual novel based on the song Guest by Gavin Castleton.\n\n[Edited from [url=https://beepsalt.itch.io/guest]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v40696"
+}

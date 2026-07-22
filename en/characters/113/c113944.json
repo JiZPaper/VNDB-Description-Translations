@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113944",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of Floating Flowers. While the base name is Alex, it can be changed.",
+  "source_sha256": "3e07750afc380524dcb696123ac9a0dca5e6d213aa2a5b6ed1b39d29b046493a",
+  "translation": "The protagonist of Floating Flowers. While the base name is Alex, it can be changed.",
+  "vndb_url": "https://vndb.org/c113944"
+}

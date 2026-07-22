@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c109389",
+  "type": "character",
+  "name": "Adam",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Adam is a friend of the protagonist. He enjoys spending his time in a casino. He is a very weird person and appears in every single TV show.",
+  "source_sha256": "46ca463be774259bde03948ef1b88dd6f0913144d48151fb0df29e03c68c83df",
+  "translation": "Adam is a friend of the protagonist. He enjoys spending his time in a casino. He is a very weird person and appears in every single TV show.",
+  "vndb_url": "https://vndb.org/c109389"
+}

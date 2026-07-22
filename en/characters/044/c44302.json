@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44302",
+  "type": "character",
+  "name": "Monochrome",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An unknown being messing with your fate.",
+  "source_sha256": "0ef19dbcf43a3cce316919d0c4c62a58bd006ba8f33c18ee8d0407b02d310301",
+  "translation": "An unknown being messing with your fate.",
+  "vndb_url": "https://vndb.org/c44302"
+}

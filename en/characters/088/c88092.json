@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88092",
+  "type": "character",
+  "name": "Teddy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Amy's teddy bear. His personality is a product of her delusions.",
+  "source_sha256": "aedc1e3bb3f8b3bfd71c0ea63f7a61252010920047aff0b1ac88484fd2995cd2",
+  "translation": "Amy's teddy bear. His personality is a product of her delusions.",
+  "vndb_url": "https://vndb.org/c88092"
+}

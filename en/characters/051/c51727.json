@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51727",
+  "type": "character",
+  "name": "Absalom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The master of the cathedral",
+  "source_sha256": "e1d7bc744f049d6383cf22ea6ed9a519c280eccebfa0a82ba219df373c87885a",
+  "translation": "The master of the cathedral",
+  "vndb_url": "https://vndb.org/c51727"
+}

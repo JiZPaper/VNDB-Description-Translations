@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122720",
+  "type": "character",
+  "name": "Oregano",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Runs a spice stall of the same name.",
+  "source_sha256": "bc0f3a8a4ddc96fb3468e03ddcdc4c5976d4e92675609c18c65b8387606fab71",
+  "translation": "Runs a spice stall of the same name.",
+  "vndb_url": "https://vndb.org/c122720"
+}

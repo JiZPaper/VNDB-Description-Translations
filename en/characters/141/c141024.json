@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141024",
+  "type": "character",
+  "name": "Mom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nam's mother.",
+  "source_sha256": "a5c0a6a2062178cac177a532eed39824c39b4fe46aa867734f01d5d3d1295178",
+  "translation": "Nam's mother.",
+  "vndb_url": "https://vndb.org/c141024"
+}

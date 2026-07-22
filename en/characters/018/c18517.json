@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c18517",
+  "type": "character",
+  "name": "Michelangelo",
+  "original_name": "ミケランジェロ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A PS Vita exclusive character. Based on Michelangelo di Lodovico Buonarroti Simoni, who was an Italian sculptor, painter, architect, poet, and engineer of the High Renaissance who exerted an unparalleled influence on the development of Western art.",
+  "source_sha256": "955dfe73cd0b85924674f922f8df69e2b239df7e84d04469371cf9131982d283",
+  "translation": "A PS Vita exclusive character. Based on Michelangelo di Lodovico Buonarroti Simoni, who was an Italian sculptor, painter, architect, poet, and engineer of the High Renaissance who exerted an unparalleled influence on the development of Western art.",
+  "vndb_url": "https://vndb.org/c18517"
+}

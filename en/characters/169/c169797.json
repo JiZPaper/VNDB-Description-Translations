@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169797",
+  "type": "character",
+  "name": "Diana",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A photographer who specialises in lingerie photoshoots.",
+  "source_sha256": "99dd3a78b1395df24cf2ee89d9e3dee4a041be3adb2a1ef784618c69efff0b36",
+  "translation": "A photographer who specialises in lingerie photoshoots.",
+  "vndb_url": "https://vndb.org/c169797"
+}

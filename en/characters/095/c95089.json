@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95089",
+  "type": "character",
+  "name": "Mai",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mai is a beautiful, talented pianist. And a caring mother.",
+  "source_sha256": "2c4485695903a4b789528157ba07b98835fee561c4de57cb10fa922f93edf128",
+  "translation": "Mai is a beautiful, talented pianist. And a caring mother.",
+  "vndb_url": "https://vndb.org/c95089"
+}

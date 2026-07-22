@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95626",
+  "type": "character",
+  "name": "Tabibito",
+  "original_name": "旅人",
+  "language": "en",
+  "source_language": "en",
+  "source": "He is on a long journey in search of his beloved.",
+  "source_sha256": "4106c1f4e25af28b384217717c7b3c55a6c0014e344e79e61331f1c3f47777c7",
+  "translation": "He is on a long journey in search of his beloved.",
+  "vndb_url": "https://vndb.org/c95626"
+}

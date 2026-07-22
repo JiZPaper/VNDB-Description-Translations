@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65566",
+  "type": "visual_novel",
+  "name": "Mortie College",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Help Mor10 and Ashley survive college",
+  "source_sha256": "dad2ad8fd4082539723176491734fc53f2a7eade1df84dafd6eedefd8141b7fb",
+  "translation": "Help Mor10 and Ashley survive college",
+  "vndb_url": "https://vndb.org/v65566"
+}

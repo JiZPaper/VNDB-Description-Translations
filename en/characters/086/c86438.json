@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86438",
+  "type": "character",
+  "name": "Honda Haru",
+  "original_name": "本田 ハル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Manager of the inn on Twilight Island.",
+  "source_sha256": "509269b7c3d99cd97ccb461c7d013ca25b0b761a030158352035e2e192f63669",
+  "translation": "Manager of the inn on Twilight Island.",
+  "vndb_url": "https://vndb.org/c86438"
+}

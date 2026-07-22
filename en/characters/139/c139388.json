@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139388",
+  "type": "character",
+  "name": "Alice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A catgirl who was sent by Elena's auntie to keep Elena company.",
+  "source_sha256": "b2c8a8e4c66734ad52b6b4efd26092eaba120a0e82f24400a2cf980fb2c2be75",
+  "translation": "A catgirl who was sent by Elena's auntie to keep Elena company.",
+  "vndb_url": "https://vndb.org/c139388"
+}

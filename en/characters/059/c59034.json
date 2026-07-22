@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c59034",
+  "type": "character",
+  "name": "Ilumina",
+  "original_name": "イルミナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A spirit that controls the moon.",
+  "source_sha256": "d11af32ca2e8c1501d7d01b613effb52e7d243a9310550f680c07e9d8c0e4ebf",
+  "translation": "A spirit that controls the moon.",
+  "vndb_url": "https://vndb.org/c59034"
+}

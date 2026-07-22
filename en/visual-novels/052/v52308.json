@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52308",
+  "type": "visual_novel",
+  "name": "Sailor Fuku Senki",
+  "original_name": "セーラー服戦記",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist turns into a monster at night and must hunt virgins for survival.",
+  "source_sha256": "2ae153be216925742ec53566185a4b7973aa79f3b884db461be53a4a8102f177",
+  "translation": "The protagonist turns into a monster at night and must hunt virgins for survival.",
+  "vndb_url": "https://vndb.org/v52308"
+}

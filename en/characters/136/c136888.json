@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136888",
+  "type": "character",
+  "name": "Admiral Dupont",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Affiliation: USF (Admiral)\nLocation: Gregorian Cluster\nRelationship: Superior\nPersonnel File: Admiral Dupont is on active duty, assigned to War College and Military Communication and Signal Intelligence.\nStrengths: Tactics, Intimidation, Cunning, Aggressive.\nWeaknesses: Ambitious, Impatient, Beauraucratic, Corruptible\n\n[In game description]",
+  "source_sha256": "8ff8e5a1fde83c916cf491ef83ab4a429fe189a17006be873ba67a7d48e40527",
+  "translation": "Affiliation: USF (Admiral)\nLocation: Gregorian Cluster\nRelationship: Superior\nPersonnel File: Admiral Dupont is on active duty, assigned to War College and Military Communication and Signal Intelligence.\nStrengths: Tactics, Intimidation, Cunning, Aggressive.\nWeaknesses: Ambitious, Impatient, Beauraucratic, Corruptible\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c136888"
+}

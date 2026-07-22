@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15932",
+  "type": "character",
+  "name": "Tokura Sonoka",
+  "original_name": "十倉 想乃香",
+  "language": "en",
+  "source_language": "en",
+  "source": "Librarian at Kako Library. She often helps [url=/c6258]Ethan[/url] by looking up articles.\n\n[from [url=https://en.wikipedia.org/wiki/Time_Hollow]wikipedia[/url]]",
+  "source_sha256": "5077bca244f5df880c21582fac000de51d076a5f5521c3cf269bfe76c8a0ad99",
+  "translation": "Librarian at Kako Library. She often helps [url=/c6258]Ethan[/url] by looking up articles.\n\n[from [url=https://en.wikipedia.org/wiki/Time_Hollow]wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/c15932"
+}

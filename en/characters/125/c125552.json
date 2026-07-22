@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125552",
+  "type": "character",
+  "name": "Taylor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Gargoyle, who has sworn to protect your family for generations, whether you like it or not.",
+  "source_sha256": "bcb05e3b45c786e7c6b2dd5e5daef9bcb3cd8f133009f4585a1eeb45407df327",
+  "translation": "A Gargoyle, who has sworn to protect your family for generations, whether you like it or not.",
+  "vndb_url": "https://vndb.org/c125552"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89166",
+  "type": "character",
+  "name": "Amaya Kashiwagi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The ship's engineer and maintenance worker.",
+  "source_sha256": "b7e36611429cfcfc75bbb3c3331c50d6fc7fd70d2acb4aeac89b8201b8d70927",
+  "translation": "The ship's engineer and maintenance worker.",
+  "vndb_url": "https://vndb.org/c89166"
+}

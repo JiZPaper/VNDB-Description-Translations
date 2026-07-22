@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22491",
+  "type": "visual_novel",
+  "name": "Gaytective",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as a detective who gets hired by a rich lady to find out which of her party guests are gay. Please do not take this game too seriously.",
+  "source_sha256": "b8acd9891a008c7073fcd49e858f48d2d82f3313e5751cc8e0e44baad1378f4e",
+  "translation": "You play as a detective who gets hired by a rich lady to find out which of her party guests are gay. Please do not take this game too seriously.",
+  "vndb_url": "https://vndb.org/v22491"
+}

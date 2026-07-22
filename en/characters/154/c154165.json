@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154165",
+  "type": "character",
+  "name": "Zakat",
+  "original_name": "ザカート",
+  "language": "en",
+  "source_language": "en",
+  "source": "A knight with blood of a foreign noble. He has travelled far and wide, and boasts a large range of knowledge.",
+  "source_sha256": "5ca769abe183d014d12ea851eacb3e6038969088b3045ed2572a792afdc8ab23",
+  "translation": "A knight with blood of a foreign noble. He has travelled far and wide, and boasts a large range of knowledge.",
+  "vndb_url": "https://vndb.org/c154165"
+}

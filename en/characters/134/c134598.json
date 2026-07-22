@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134598",
+  "type": "character",
+  "name": "Drunk",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Removed after the rework.",
+  "source_sha256": "d9fc773d26429806ac4efa6ba3324ad7be431d6573854f5974830636e08ce378",
+  "translation": "Removed after the rework.",
+  "vndb_url": "https://vndb.org/c134598"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100396",
+  "type": "character",
+  "name": "Scarlett",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A charming scientist with a penchant for destruction.",
+  "source_sha256": "292180fa12af496b2bbff8fde6fa823c3539efc415a4998300c7f2a8c823c695",
+  "translation": "A charming scientist with a penchant for destruction.",
+  "vndb_url": "https://vndb.org/c100396"
+}

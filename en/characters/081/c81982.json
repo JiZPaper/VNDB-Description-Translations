@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81982",
+  "type": "character",
+  "name": "Widas",
+  "original_name": "ウィダス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A young man from Juarez and a companion of Arnes.",
+  "source_sha256": "bcb10f1630bf7e0d16e2e042490be70b1fc2fefca80c62cd17b906539bc05ed9",
+  "translation": "A young man from Juarez and a companion of Arnes.",
+  "vndb_url": "https://vndb.org/c81982"
+}

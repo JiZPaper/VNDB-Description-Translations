@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86450",
+  "type": "character",
+  "name": "Child",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The child who falls into a deep coma after losing her soul.",
+  "source_sha256": "8dbc7189cf1b68d3303608e14f385e695a9fdf8e5335fea39bbb2cd598e06cbd",
+  "translation": "The child who falls into a deep coma after losing her soul.",
+  "vndb_url": "https://vndb.org/c86450"
+}

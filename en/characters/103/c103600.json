@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103600",
+  "type": "character",
+  "name": "Erato",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The dryad and guardian of the Kingswood.",
+  "source_sha256": "31d5bb41927004018ce469ef252f636681809475c0394eeaf587c12214b1c0f5",
+  "translation": "The dryad and guardian of the Kingswood.",
+  "vndb_url": "https://vndb.org/c103600"
+}

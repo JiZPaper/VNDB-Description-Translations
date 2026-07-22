@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133221",
+  "type": "character",
+  "name": "Dr. Iris Seidel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Medical Officer of the Despina",
+  "source_sha256": "b6ddea5d5bb608e4c7bb246682056be91fe13556fa6736da90cbdfe12ae09565",
+  "translation": "Medical Officer of the Despina",
+  "vndb_url": "https://vndb.org/c133221"
+}

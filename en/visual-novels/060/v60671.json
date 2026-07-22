@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60671",
+  "type": "visual_novel",
+  "name": "The Classroom Where Tomorrow Never Comes",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Classroom Where Tomorrow Never Comes is a short atmospheric visual novel about memory, grief, and the quiet moments we try to hold onto.",
+  "source_sha256": "a18ac7312b8e603dc08ae4c215d0c71e410db82a927c4718739a814beeb12a6b",
+  "translation": "The Classroom Where Tomorrow Never Comes is a short atmospheric visual novel about memory, grief, and the quiet moments we try to hold onto.",
+  "vndb_url": "https://vndb.org/v60671"
+}

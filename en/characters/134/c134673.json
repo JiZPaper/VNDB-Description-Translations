@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134673",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The player character, a newly-recruited member of the Hunters Association. She was a survivor of a Wanderer attack fourteen years ago that left her Evol destabilized, leaving her with unknown potential.",
+  "source_sha256": "e1d26f68328bec81d8a9d458b5222577184fbeee0a3dec50fc511087585a12e6",
+  "translation": "The player character, a newly-recruited member of the Hunters Association. She was a survivor of a Wanderer attack fourteen years ago that left her Evol destabilized, leaving her with unknown potential.",
+  "vndb_url": "https://vndb.org/c134673"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23599",
+  "type": "visual_novel",
+  "name": "The Noroi no Game",
+  "original_name": "THE 呪いのゲーム",
+  "language": "en",
+  "source_language": "en",
+  "source": "A horror sound novel that combines narration on-screen with full motion video segments.",
+  "source_sha256": "766ba8b526659f730f50ee0338133a5dbbfe23b1130385e1b87ed591ffbc4d2d",
+  "translation": "A horror sound novel that combines narration on-screen with full motion video segments.",
+  "vndb_url": "https://vndb.org/v23599"
+}

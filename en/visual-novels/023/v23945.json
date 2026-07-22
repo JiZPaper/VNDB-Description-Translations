@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23945",
+  "type": "visual_novel",
+  "name": "Love Hina Party",
+  "original_name": "ラブひなパーティー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Includes anime scenes in the endings.",
+  "source_sha256": "402936fda568c0f753d223d5cf0e9bbfa9b821d2d4f86fd1dc1a2d519e4e9217",
+  "translation": "Includes anime scenes in the endings.",
+  "vndb_url": "https://vndb.org/v23945"
+}

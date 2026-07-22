@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60850",
+  "type": "visual_novel",
+  "name": "Amaneku Tenshi ni Yakusoku o",
+  "original_name": "あまねく天使に約束を",
+  "language": "en",
+  "source_language": "en",
+  "source": "Indie visual novel project for Hololive talent Amane Kanata.",
+  "source_sha256": "3c992a391e7cf3f2195ea1bcc7fb4084de05125e605d2e3b784249922db9ca5e",
+  "translation": "Indie visual novel project for Hololive talent Amane Kanata.",
+  "vndb_url": "https://vndb.org/v60850"
+}

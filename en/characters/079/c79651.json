@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79651",
+  "type": "character",
+  "name": "Anton",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Rosy's pet merman.",
+  "source_sha256": "4be7333d366d98b95aaa47aab7327b50e85477a6780447113e20e03689741a6d",
+  "translation": "Rosy's pet merman.",
+  "vndb_url": "https://vndb.org/c79651"
+}

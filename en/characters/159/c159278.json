@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159278",
+  "type": "character",
+  "name": "G'narg",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Keychee told you about G'narg who runs the Zilker bar, always a good place to gain knowledge",
+  "source_sha256": "99ff2d53e5bb875f655c87a4ee9903bf0457fbf3f1aa2998d9d4cdf12b7fc773",
+  "translation": "Keychee told you about G'narg who runs the Zilker bar, always a good place to gain knowledge",
+  "vndb_url": "https://vndb.org/c159278"
+}

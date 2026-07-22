@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c52551",
+  "type": "character",
+  "name": "Narita Kisara",
+  "original_name": "成田 きさら",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Licensed Practical Nurse.\nHobbies: Watching movies.\nLikes: Spicy food.\nDislikes: Insects.",
+  "source_sha256": "356c47838c521e94bdcc9fba64b8222e9e375a9b48e1528d26ee21ee7e10d476",
+  "translation": "Occupation: Licensed Practical Nurse.\nHobbies: Watching movies.\nLikes: Spicy food.\nDislikes: Insects.",
+  "vndb_url": "https://vndb.org/c52551"
+}

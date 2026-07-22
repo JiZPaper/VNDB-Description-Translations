@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64091",
+  "type": "visual_novel",
+  "name": "Kokuhaku",
+  "original_name": "告白",
+  "language": "en",
+  "source_language": "en",
+  "source": "You are an art teacher at a girls' school, and you've chosen the school's most popular girl as your model for an art competition. However, you're not sure if she'll agree to be your model. Whether you win the competition and become friends with her depends entirely on you.\n\n[Translated from TAKERU Press 1996-10/11]",
+  "source_sha256": "fe7f05d6a9e7ebd6c85759fe4dff482c4c9be544f04a3f11a61ee8dd4e79690f",
+  "translation": "You are an art teacher at a girls' school, and you've chosen the school's most popular girl as your model for an art competition. However, you're not sure if she'll agree to be your model. Whether you win the competition and become friends with her depends entirely on you.\n\n[Translated from TAKERU Press 1996-10/11]",
+  "vndb_url": "https://vndb.org/v64091"
+}

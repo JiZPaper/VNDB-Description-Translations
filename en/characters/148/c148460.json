@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148460",
+  "type": "character",
+  "name": "Shirai Katana",
+  "original_name": "白井 カタナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Participant of the Toushin Tournament.",
+  "source_sha256": "66b91ae3f82c9c395f2b7b5c5ebba6b54dd286fe7d2170cdecb23fb91ecfc202",
+  "translation": "Participant of the Toushin Tournament.",
+  "vndb_url": "https://vndb.org/c148460"
+}

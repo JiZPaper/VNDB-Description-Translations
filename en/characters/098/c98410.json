@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98410",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A postgrad student who's just gotten a job at the swanky Café Milan.",
+  "source_sha256": "ea0c81bc615eab3b8f01510e897972cdfe965ad177b17e2b540f880b75610807",
+  "translation": "A postgrad student who's just gotten a job at the swanky Café Milan.",
+  "vndb_url": "https://vndb.org/c98410"
+}

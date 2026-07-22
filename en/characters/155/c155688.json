@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155688",
+  "type": "character",
+  "name": "Alexander",
+  "original_name": "Александр",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mysterious private detective.",
+  "source_sha256": "837efd29f2a9fe99f9c1c53ead44d4c9bfbce866e9cacd060c7a39e576998564",
+  "translation": "Mysterious private detective.",
+  "vndb_url": "https://vndb.org/c155688"
+}

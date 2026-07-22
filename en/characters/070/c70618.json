@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70618",
+  "type": "character",
+  "name": "Yuzu",
+  "original_name": "ユズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cat breed: Red-tabby",
+  "source_sha256": "ddd1e85b3e12ec125c17defa9601a8da346da794bb2b234e53a3df8935d39d92",
+  "translation": "Cat breed: Red-tabby",
+  "vndb_url": "https://vndb.org/c70618"
+}

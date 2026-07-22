@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169641",
+  "type": "character",
+  "name": "Adam",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Samus's AI partner, who helps her investigate. She communicates with him through terminals.",
+  "source_sha256": "e7455f18fb4e2080ce37b52bf45e9ec69b736cd21327d601b9da951f8151ef87",
+  "translation": "Samus's AI partner, who helps her investigate. She communicates with him through terminals.",
+  "vndb_url": "https://vndb.org/c169641"
+}

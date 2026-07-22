@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12279",
+  "type": "character",
+  "name": "Iwai Erika",
+  "original_name": "岩井 エリカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Her favorite food: Coca Cola.\nHer disliked food: [url=http://en.wikipedia.org/wiki/Hijiki]Hijiki[/url].\nHer class year: 4th.",
+  "source_sha256": "022b5b8b7c3be2a86149133d0d9ee7ebdd03fdda263482b34a43746687a0f7f2",
+  "translation": "Her favorite food: Coca Cola.\nHer disliked food: [url=http://en.wikipedia.org/wiki/Hijiki]Hijiki[/url].\nHer class year: 4th.",
+  "vndb_url": "https://vndb.org/c12279"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25372",
+  "type": "character",
+  "name": "Hawk Shaw",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Hawk Shaw is a detective that [url=/c25366]Regeria[/url] interrogates in the courtroom.\n\n[spoiler]He offers a bribe to Regeria to throw her case, and the player can choose whether to accept or not.[/spoiler]",
+  "source_sha256": "cfd7cadae1fdb9f2d6c5ace38e9b30e21f89a89ba84d25d9b84b432646542136",
+  "translation": "Hawk Shaw is a detective that [url=/c25366]Regeria[/url] interrogates in the courtroom.\n\n[spoiler]He offers a bribe to Regeria to throw her case, and the player can choose whether to accept or not.[/spoiler]",
+  "vndb_url": "https://vndb.org/c25372"
+}

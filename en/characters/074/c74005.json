@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c74005",
+  "type": "character",
+  "name": "Abel",
+  "original_name": "アベル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A dollmaker.",
+  "source_sha256": "606b64e39cbc3b6407df8b36eff546033f1511a139f2442cfb84374b03f9549d",
+  "translation": "A dollmaker.",
+  "vndb_url": "https://vndb.org/c74005"
+}

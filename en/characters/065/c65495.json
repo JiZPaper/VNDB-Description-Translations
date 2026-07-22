@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65495",
+  "type": "character",
+  "name": "Little",
+  "original_name": "リトル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A white-haired, mysterious girl.",
+  "source_sha256": "c6b1096737d0ff7a24b04921c5bdb99a53e7b1a8fb0aa107943a7e603e089ea4",
+  "translation": "A white-haired, mysterious girl.",
+  "vndb_url": "https://vndb.org/c65495"
+}

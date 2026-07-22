@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c164541",
+  "type": "character",
+  "name": "Komachi",
+  "original_name": "こまち",
+  "language": "en",
+  "source_language": "en",
+  "source": "A maiko(apprentice) works at a ochaya(teahouses) in Gion.",
+  "source_sha256": "008395ff26e024ea1639e3a1a6202a254c419406d7c7d4724b72dd05a67a83ca",
+  "translation": "A maiko(apprentice) works at a ochaya(teahouses) in Gion.",
+  "vndb_url": "https://vndb.org/c164541"
+}

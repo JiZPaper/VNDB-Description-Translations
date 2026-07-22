@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115878",
+  "type": "character",
+  "name": "Burrito",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A new student at Twitch academy transferring in at an odd time.",
+  "source_sha256": "2d99b4a43b5457a618f29a60ed6e2b16b937cf66531c95056b2d15ef50517e73",
+  "translation": "A new student at Twitch academy transferring in at an odd time.",
+  "vndb_url": "https://vndb.org/c115878"
+}

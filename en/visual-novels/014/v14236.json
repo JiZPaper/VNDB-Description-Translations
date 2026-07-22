@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14236",
+  "type": "visual_novel",
+  "name": "Shingeki no Kyojin: Kuinaki Sentaku",
+  "original_name": "進撃の巨人 悔いなき選択",
+  "language": "en",
+  "source_language": "en",
+  "source": "It is a story about Erwin and Levi's respective pasts.",
+  "source_sha256": "bbd3d99ca720f354bf6394c282bf62db8410592931932faaf30fe32c2ad070e6",
+  "translation": "It is a story about Erwin and Levi's respective pasts.",
+  "vndb_url": "https://vndb.org/v14236"
+}

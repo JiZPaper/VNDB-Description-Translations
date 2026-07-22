@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100085",
+  "type": "character",
+  "name": "Friend",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the protagonist's friend who likes to play Smash with his pals.",
+  "source_sha256": "aa6099d111ce41adc88ab456597bbf12daa1bbf642d470a1098e0f75cedfbe8c",
+  "translation": "One of the protagonist's friend who likes to play Smash with his pals.",
+  "vndb_url": "https://vndb.org/c100085"
+}

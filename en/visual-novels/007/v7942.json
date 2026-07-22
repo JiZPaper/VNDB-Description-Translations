@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7942",
+  "type": "visual_novel",
+  "name": "Pink Carnations",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Hikari is a high school girl studying for her exams. Her life changes course when one day she falls asleep next to aquarium.",
+  "source_sha256": "6ee34cedae519b3ce4d0490e5cdaf0b69d08b9bd39725d5154994fa8dbddddb0",
+  "translation": "Hikari is a high school girl studying for her exams. Her life changes course when one day she falls asleep next to aquarium.",
+  "vndb_url": "https://vndb.org/v7942"
+}

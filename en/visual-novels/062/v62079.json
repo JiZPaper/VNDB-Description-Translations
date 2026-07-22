@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62079",
+  "type": "visual_novel",
+  "name": "lost stars",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Clara's lost something.\n\n[From [url=https://63choux.itch.io/lost-stars]itch.io[/url]]",
+  "source_sha256": "979f53232d0997a6a6f31dff65ff9dee80d21619043acb4437c2a77c1fe63a73",
+  "translation": "Clara's lost something.\n\n[From [url=https://63choux.itch.io/lost-stars]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v62079"
+}

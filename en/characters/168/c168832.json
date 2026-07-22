@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168832",
+  "type": "character",
+  "name": "Randal Anderson (Human)",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The true, human form of Randal.",
+  "source_sha256": "be8ff7323d64e4954257897d351ed9423864ac2525075a14aea3b06ae2faee57",
+  "translation": "The true, human form of Randal.",
+  "vndb_url": "https://vndb.org/c168832"
+}

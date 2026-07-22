@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10062",
+  "type": "visual_novel",
+  "name": "HE -Tozasareta Kuukan-",
+  "original_name": "ＨＥ-閉ざされた空間-",
+  "language": "en",
+  "source_language": "en",
+  "source": "Seven people are trapped in an elevator. Whatever will they do?",
+  "source_sha256": "b68ec144efb1d3fc68ff63ba027a73b77275e113605fe0c0880802aaeab769cd",
+  "translation": "Seven people are trapped in an elevator. Whatever will they do?",
+  "vndb_url": "https://vndb.org/v10062"
+}

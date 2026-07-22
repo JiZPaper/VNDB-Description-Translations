@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29095",
+  "type": "visual_novel",
+  "name": "Meet Me at Dawn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mystery visual novel with some spicy romance on the side.",
+  "source_sha256": "a9eb5391bc364a067eb7777793daa138e5a39e0258b16808b20fca70b2982923",
+  "translation": "A mystery visual novel with some spicy romance on the side.",
+  "vndb_url": "https://vndb.org/v29095"
+}

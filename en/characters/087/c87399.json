@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87399",
+  "type": "character",
+  "name": "Daemonic Soldier",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The soldiers of Boobshire.",
+  "source_sha256": "075320a8722414371bab50cdb1761c7740f710acc9001cfc38488f75d2b7fac8",
+  "translation": "The soldiers of Boobshire.",
+  "vndb_url": "https://vndb.org/c87399"
+}

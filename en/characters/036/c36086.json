@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36086",
+  "type": "character",
+  "name": "Chronos Seikuroa",
+  "original_name": "クロノス・セイクロア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Fezaria Seraph\nOccupation: Enchanter",
+  "source_sha256": "08cc7705d0a581d5deb2381b970d5432c0fb9bf182db2779a74052d5a7be1710",
+  "translation": "Race: Fezaria Seraph\nOccupation: Enchanter",
+  "vndb_url": "https://vndb.org/c36086"
+}

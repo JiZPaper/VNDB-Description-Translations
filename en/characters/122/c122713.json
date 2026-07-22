@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122713",
+  "type": "character",
+  "name": "Star Spark",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Star Sight's mother.",
+  "source_sha256": "d089242e9aaec9de804870f1d8dbd8c59cf04149677e9e268ff03f30ebcc2d51",
+  "translation": "Star Sight's mother.",
+  "vndb_url": "https://vndb.org/c122713"
+}

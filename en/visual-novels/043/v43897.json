@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43897",
+  "type": "visual_novel",
+  "name": "Admirari",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Horror visual novel inspired by Wonderland.\n\n[From [url=https://sueneki.itch.io/admiraridemo]Itch.io[/url]]",
+  "source_sha256": "920dec7f3849816c95569f5db4d1a50330bd7c280eab5aae62f340e2f45838b0",
+  "translation": "Horror visual novel inspired by Wonderland.\n\n[From [url=https://sueneki.itch.io/admiraridemo]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43897"
+}

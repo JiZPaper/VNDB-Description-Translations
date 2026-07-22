@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30663",
+  "type": "visual_novel",
+  "name": "Fuyu no Ame to Haru no Niji",
+  "original_name": "冬の雨と春の虹",
+  "language": "en",
+  "source_language": "en",
+  "source": "Just before closing, a girl visited the cafe.\nShe lost her memory and didn't know why she came here.",
+  "source_sha256": "4b965a08e0d2fba3b85e51e99ef4b8f7e1395bb7e4b41645ae1a836a88390fbd",
+  "translation": "Just before closing, a girl visited the cafe.\nShe lost her memory and didn't know why she came here.",
+  "vndb_url": "https://vndb.org/v30663"
+}

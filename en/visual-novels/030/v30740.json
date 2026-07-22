@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30740",
+  "type": "visual_novel",
+  "name": "Kame to Usagi",
+  "original_name": "亀とうさぎ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kameoka Satoshi, a a first year high school student, fell of a roof. He survived the accident but the fall reminds him of something he had forgotten.",
+  "source_sha256": "fd672ca484d085cc39e57afafadc60bf6f0c558975f96cf1a8874c150617d30a",
+  "translation": "Kameoka Satoshi, a a first year high school student, fell of a roof. He survived the accident but the fall reminds him of something he had forgotten.",
+  "vndb_url": "https://vndb.org/v30740"
+}

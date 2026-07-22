@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66374",
+  "type": "visual_novel",
+  "name": "D.C.5 to 4 ~Da Capo 5 to 4~ Luminous Memories",
+  "original_name": "D.C.5 to 4 ～ダ・カーポ5トゥ4～ ルミナスメモリーズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fandisk for Da Capo 4 and Da Capo 5.",
+  "source_sha256": "19dfa1e1f388773224a6126b9a057b92d6fc82eaf9a1e50c704fd51ca392ee34",
+  "translation": "A fandisk for Da Capo 4 and Da Capo 5.",
+  "vndb_url": "https://vndb.org/v66374"
+}

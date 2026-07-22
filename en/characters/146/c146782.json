@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146782",
+  "type": "character",
+  "name": "Nacht Ragnard",
+  "original_name": "ナクト・ラグナード",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of the game. He enters the tournament to learn about the disappearance of his father.",
+  "source_sha256": "10f4b65263b656c7d2f037eb6cd0f28ee8db952a9f3cf48fb7786dc695ea012e",
+  "translation": "The protagonist of the game. He enters the tournament to learn about the disappearance of his father.",
+  "vndb_url": "https://vndb.org/c146782"
+}

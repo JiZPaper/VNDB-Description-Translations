@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c56477",
+  "type": "character",
+  "name": "Ruth Ali",
+  "original_name": "ルース＝エイリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A tavern bartender who knows a lot of information.",
+  "source_sha256": "60e32a72f58f64a65d7d64bcb0f0ba36e4e3305088be5b27d60fc2f62b9bc809",
+  "translation": "A tavern bartender who knows a lot of information.",
+  "vndb_url": "https://vndb.org/c56477"
+}

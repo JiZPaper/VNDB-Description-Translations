@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139615",
+  "type": "character",
+  "name": "Celeste",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Friend of Samantha",
+  "source_sha256": "6c349980435e07c29efae700759f8375d654a64d4429894d3c05b47ced6c1ec4",
+  "translation": "Friend of Samantha",
+  "vndb_url": "https://vndb.org/c139615"
+}

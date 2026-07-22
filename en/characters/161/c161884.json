@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161884",
+  "type": "character",
+  "name": "Emily Glover",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your missing sister. You believed the The Smiling Doctor took her.",
+  "source_sha256": "a8ebb1a0f0c3407c9d91468db65183681b345956b4bd2c816b99281e2fab71b0",
+  "translation": "Your missing sister. You believed the The Smiling Doctor took her.",
+  "vndb_url": "https://vndb.org/c161884"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113258",
+  "type": "character",
+  "name": "Dr. Roberts",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Abby's therapist who informs her that she must go back and face her trauma.",
+  "source_sha256": "f289f5e6276c9c1682226bb121f4d136bbfb7d9e9c11904f6fa157f3e54f2cdc",
+  "translation": "Abby's therapist who informs her that she must go back and face her trauma.",
+  "vndb_url": "https://vndb.org/c113258"
+}

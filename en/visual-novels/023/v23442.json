@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23442",
+  "type": "visual_novel",
+  "name": "Sakurayuki",
+  "original_name": "さくらゆき",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fangame based on NekoNekoSoft's Mizuiro.",
+  "source_sha256": "02088d217a7fe746fc78a5ca90c2813340874a022b0e462284cb649ea28c7211",
+  "translation": "A fangame based on NekoNekoSoft's Mizuiro.",
+  "vndb_url": "https://vndb.org/v23442"
+}

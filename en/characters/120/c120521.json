@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120521",
+  "type": "character",
+  "name": "Lucy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A tired trans woman just trying her best to survive day-to-day.",
+  "source_sha256": "e6b2168ef10add275a79f9dd871b3a83a935e33b1220576b1f4f13b462707eb1",
+  "translation": "A tired trans woman just trying her best to survive day-to-day.",
+  "vndb_url": "https://vndb.org/c120521"
+}

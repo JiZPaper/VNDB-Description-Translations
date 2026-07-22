@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11256",
+  "type": "visual_novel",
+  "name": "Air Maid",
+  "original_name": "AIRメイド",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fan-fiction VN featuring A*r characters.",
+  "source_sha256": "697b8928e5b1748afc8aa41bd130974aa6626d34cc69a6535beb81f3865ca765",
+  "translation": "A fan-fiction VN featuring A*r characters.",
+  "vndb_url": "https://vndb.org/v11256"
+}

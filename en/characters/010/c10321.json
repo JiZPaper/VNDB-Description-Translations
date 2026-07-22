@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c10321",
+  "type": "character",
+  "name": "Elysia",
+  "original_name": "エリュシア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Proud elf swordsman who serves under Shaharl.",
+  "source_sha256": "37b87a6cc4ae6ba8f41c6006355b22cd06060cb5513299c978da55738017acec",
+  "translation": "Proud elf swordsman who serves under Shaharl.",
+  "vndb_url": "https://vndb.org/c10321"
+}

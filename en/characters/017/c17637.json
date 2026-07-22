@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17637",
+  "type": "character",
+  "name": "Luke Triton",
+  "original_name": "ルーク・トライトン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Luke Triton is the self-proclaimed apprentice of Professor Layton and follows him everywhere to assist him on his investigations. \n\n[From [url=http://aceattorney.wikia.com/wiki/Luke_Triton]Ace Attorney Wiki[/url]]",
+  "source_sha256": "3edf2352c4828ea27d144499d88649b7d69d63d63ea27516882999edac12ed4a",
+  "translation": "Luke Triton is the self-proclaimed apprentice of Professor Layton and follows him everywhere to assist him on his investigations. \n\n[From [url=http://aceattorney.wikia.com/wiki/Luke_Triton]Ace Attorney Wiki[/url]]",
+  "vndb_url": "https://vndb.org/c17637"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122699",
+  "type": "character",
+  "name": "Rover",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader of the diamond dogs.",
+  "source_sha256": "dd3d477a3f898f1319ceb143ba173f2898b49cfa191345bf93f8a39c303ef2a5",
+  "translation": "Leader of the diamond dogs.",
+  "vndb_url": "https://vndb.org/c122699"
+}

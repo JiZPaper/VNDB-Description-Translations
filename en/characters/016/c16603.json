@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c16603",
+  "type": "character",
+  "name": "Ryuuhou",
+  "original_name": "竜峰",
+  "language": "en",
+  "source_language": "en",
+  "source": "A tattoo artist known for his intricate designs.",
+  "source_sha256": "74ee7eacfac08ef8ebcbd350da5b867663389cb8476db725a3852bdad46b3a2a",
+  "translation": "A tattoo artist known for his intricate designs.",
+  "vndb_url": "https://vndb.org/c16603"
+}

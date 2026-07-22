@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79105",
+  "type": "character",
+  "name": "Rena",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Rena is now helping Lisa with her housing project in Episode 3.",
+  "source_sha256": "fa0caffdb52894f7d4a65bb9a9ac4b6bbe16280f9c9cbb5fd41544665f6292d3",
+  "translation": "Rena is now helping Lisa with her housing project in Episode 3.",
+  "vndb_url": "https://vndb.org/c79105"
+}

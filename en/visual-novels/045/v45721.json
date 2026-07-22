@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45721",
+  "type": "visual_novel",
+  "name": "Wish Us Luck",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play three characters: a down-on-his-luck driver addicted to gambling; a young actress who can’t make ends meet; a soccer star encumbered by the pressure of fame. Three strangers struggling to thrive on an eventful day. Their fates, intertwined by the puzzling cogs of chance. A minor choice you make for one may produce dire consequences to the others.\n\nReady to make hard choices? Good luck.",
+  "source_sha256": "2f1652a1e111e37653cf7f13b31ec29fd04eb69f62f6a5aa9a4be3c1cc5f2ba3",
+  "translation": "You play three characters: a down-on-his-luck driver addicted to gambling; a young actress who can’t make ends meet; a soccer star encumbered by the pressure of fame. Three strangers struggling to thrive on an eventful day. Their fates, intertwined by the puzzling cogs of chance. A minor choice you make for one may produce dire consequences to the others.\n\nReady to make hard choices? Good luck.",
+  "vndb_url": "https://vndb.org/v45721"
+}

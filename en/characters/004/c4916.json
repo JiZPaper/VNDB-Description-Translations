@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4916",
+  "type": "character",
+  "name": "Troll",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The troll who hounts the Nettestadt town. Although he never hurted anybody, people are still afraid of him.",
+  "source_sha256": "066b106e3cf045ccaf4356903298faac8dde9864068931cd06aa56a2062928f6",
+  "translation": "The troll who hounts the Nettestadt town. Although he never hurted anybody, people are still afraid of him.",
+  "vndb_url": "https://vndb.org/c4916"
+}

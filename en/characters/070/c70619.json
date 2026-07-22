@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70619",
+  "type": "character",
+  "name": "Ku-Nyan",
+  "original_name": "くーにゃん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cat breed: Tortoiseshell cat",
+  "source_sha256": "7e5856348363a0322b648d5c967b37b5e2ee91df7b71b4a96d6916e0c1fb7029",
+  "translation": "Cat breed: Tortoiseshell cat",
+  "vndb_url": "https://vndb.org/c70619"
+}

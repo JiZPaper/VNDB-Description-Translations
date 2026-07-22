@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90830",
+  "type": "character",
+  "name": "Sanych",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A police officer working in town of Radchenko. Most of misteries of this town are just moving along Sanych.",
+  "source_sha256": "595c635efdececca584ae020678429240b6cff35c41558dfe286bc730dfe1fd6",
+  "translation": "A police officer working in town of Radchenko. Most of misteries of this town are just moving along Sanych.",
+  "vndb_url": "https://vndb.org/c90830"
+}

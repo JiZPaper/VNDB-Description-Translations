@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59800",
+  "type": "visual_novel",
+  "name": "Escapegoat ~Azuma Eiji no Enzai~",
+  "original_name": "エスケープゴート ～吾妻衛士の冤罪～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A suspense mystery game about a man falsely accused of murder, who must flee from the police while uncovering the truth behind the case.",
+  "source_sha256": "df3f4a86a46acfbca13b27c7251f333f811c89459e36272c15b70c6c0abafa65",
+  "translation": "A suspense mystery game about a man falsely accused of murder, who must flee from the police while uncovering the truth behind the case.",
+  "vndb_url": "https://vndb.org/v59800"
+}

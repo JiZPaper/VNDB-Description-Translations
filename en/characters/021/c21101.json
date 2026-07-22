@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21101",
+  "type": "character",
+  "name": "Tom",
+  "original_name": "トム",
+  "language": "en",
+  "source_language": "en",
+  "source": "Tom is a thief, that is simply bad at his job.  He and Jerry often make grand plans about robberies, that never seem to work.",
+  "source_sha256": "e2cb9b327ce5ef2c0e6e8ec8dd72c655ed7e3d4beb7c1974e654d1eec5c50612",
+  "translation": "Tom is a thief, that is simply bad at his job.  He and Jerry often make grand plans about robberies, that never seem to work.",
+  "vndb_url": "https://vndb.org/c21101"
+}

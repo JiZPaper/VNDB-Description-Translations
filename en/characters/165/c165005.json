@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165005",
+  "type": "character",
+  "name": "Instructor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The first person Julie meets with as part of the program she enrolled in to improve herself.",
+  "source_sha256": "8a1e9b05948ec3edfb20f1cbaacb6e5615ff8acd72a7be98c80e0d632e547907",
+  "translation": "The first person Julie meets with as part of the program she enrolled in to improve herself.",
+  "vndb_url": "https://vndb.org/c165005"
+}

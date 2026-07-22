@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c7032",
+  "type": "character",
+  "name": "Kimura Mirai",
+  "original_name": "木村 未来",
+  "language": "en",
+  "source_language": "en",
+  "source": "Elevator operator at a shopping mall.",
+  "source_sha256": "19e7accb703c6633592db9992595ab2d53a4e364e68cf4aa3eec10cdd07ee89b",
+  "translation": "Elevator operator at a shopping mall.",
+  "vndb_url": "https://vndb.org/c7032"
+}

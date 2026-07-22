@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30162",
+  "type": "character",
+  "name": "Jude",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A worker who works with Elise at the factory.",
+  "source_sha256": "2e4c6c885eb27cc58097cbf6ed24e7bee23dcdb82162fb9d4b26b65e5a43c197",
+  "translation": "A worker who works with Elise at the factory.",
+  "vndb_url": "https://vndb.org/c30162"
+}

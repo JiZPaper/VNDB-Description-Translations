@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c69481",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nameable, so anything shorter than 13 characters. Default name is Protagonist.",
+  "source_sha256": "2c1f1629c5b787e99dc734fcd388d9dadf772f5a0591c290d206785db116c534",
+  "translation": "Nameable, so anything shorter than 13 characters. Default name is Protagonist.",
+  "vndb_url": "https://vndb.org/c69481"
+}

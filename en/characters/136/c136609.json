@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136609",
+  "type": "character",
+  "name": "Lye",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Member of Flower faction",
+  "source_sha256": "3dc5ac4ef8f01f9dab36323480e70d915773f51c40a7c3c031beff19e9a55032",
+  "translation": "Member of Flower faction",
+  "vndb_url": "https://vndb.org/c136609"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93641",
+  "type": "character",
+  "name": "Makoto",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The ambassador sent by the king to make peace with the elves.",
+  "source_sha256": "cf01cb3c56c9bae9eb4ea08a0fb38d2ae46d75dc51104f384705c3230e67511e",
+  "translation": "The ambassador sent by the king to make peace with the elves.",
+  "vndb_url": "https://vndb.org/c93641"
+}

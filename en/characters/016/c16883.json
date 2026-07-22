@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c16883",
+  "type": "character",
+  "name": "Octavia",
+  "original_name": "オクタヴィア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Bridget's servant familiar.",
+  "source_sha256": "52ee22a0687d24308416516b5ea9cf276d1815cb62705b25a52530cb57bc6d6e",
+  "translation": "Bridget's servant familiar.",
+  "vndb_url": "https://vndb.org/c16883"
+}

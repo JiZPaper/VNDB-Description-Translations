@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45845",
+  "type": "visual_novel",
+  "name": "A Train Mystery",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "In the game, you play a detective tasked with solving the murder of a famous film critic. There are three suspects: the Actress, the Banker, and the Understudy. You must interrogate each of them, choosing your questions carefully, and at the end make your accusation.\n\n[From [url=https://adrian-clayton.itch.io/a-train-mystery]Itch.io[/url]]",
+  "source_sha256": "1bd9b9cd3d72f989519653f7aa4ffccc90246ff68e29d14666a646f104fa9214",
+  "translation": "In the game, you play a detective tasked with solving the murder of a famous film critic. There are three suspects: the Actress, the Banker, and the Understudy. You must interrogate each of them, choosing your questions carefully, and at the end make your accusation.\n\n[From [url=https://adrian-clayton.itch.io/a-train-mystery]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v45845"
+}

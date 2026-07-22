@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26011",
+  "type": "visual_novel",
+  "name": "KID Mix Section ~Character Collection~",
+  "original_name": "KIDミックスセクション キャラクターコレクション",
+  "language": "en",
+  "source_language": "en",
+  "source": "There's been a bug that has invaded four KID games and mixed the worlds up! With the help of a tiny AI called Aine, the main character will have to help the heroines get their worlds back.",
+  "source_sha256": "e05ebfead30f89008483b240f0b6b7f4e9b8dc3a5d65f4585cf7aba2e63924df",
+  "translation": "There's been a bug that has invaded four KID games and mixed the worlds up! With the help of a tiny AI called Aine, the main character will have to help the heroines get their worlds back.",
+  "vndb_url": "https://vndb.org/v26011"
+}

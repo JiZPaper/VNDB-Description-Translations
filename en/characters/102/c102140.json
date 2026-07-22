@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102140",
+  "type": "character",
+  "name": "Mr Bumblebee",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mr Bumblebee is a doll in a shape of a hedgehog. During Mel's childhood it was her imaginary friend... or was it?",
+  "source_sha256": "a50374f5f1383e51df21e54e19f1db2e1a1b53ece6c922a5b59ce6ca68b3a7ff",
+  "translation": "Mr Bumblebee is a doll in a shape of a hedgehog. During Mel's childhood it was her imaginary friend... or was it?",
+  "vndb_url": "https://vndb.org/c102140"
+}

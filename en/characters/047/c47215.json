@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47215",
+  "type": "character",
+  "name": "Narrator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This game has some voiced narration.",
+  "source_sha256": "82e7392dd6b845a3e781fac146a725e37bb904aa86ccabe4ae1c91354dcdf289",
+  "translation": "This game has some voiced narration.",
+  "vndb_url": "https://vndb.org/c47215"
+}

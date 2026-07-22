@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170490",
+  "type": "character",
+  "name": "Kyle",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An old man who's your grandpa's neighbor.",
+  "source_sha256": "4dcb9bbf51e25039f4f49883160577f71b325aaf573a637c7d6bad32286159ba",
+  "translation": "An old man who's your grandpa's neighbor.",
+  "vndb_url": "https://vndb.org/c170490"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106220",
+  "type": "character",
+  "name": "Abigail Shavell",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Franks adopted daughter.",
+  "source_sha256": "856e97d5f3898b74973f1a6cbb9915634824a425bf1cafc06fceeff694fb6f37",
+  "translation": "Franks adopted daughter.",
+  "vndb_url": "https://vndb.org/c106220"
+}

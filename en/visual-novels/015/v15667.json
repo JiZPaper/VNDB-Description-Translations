@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15667",
+  "type": "visual_novel",
+  "name": "Houchou-san Help Me",
+  "original_name": "包丁さんへるぷみぃ",
+  "language": "en",
+  "source_language": "en",
+  "source": "In order to unlock the \"Start\" button on the menu and main story of this game, you must first solve the bonus content part.",
+  "source_sha256": "2e3dc6508bc71130a4e093030ab818d111b18cf1bdf70e751158879a3544d0d4",
+  "translation": "In order to unlock the \"Start\" button on the menu and main story of this game, you must first solve the bonus content part.",
+  "vndb_url": "https://vndb.org/v15667"
+}

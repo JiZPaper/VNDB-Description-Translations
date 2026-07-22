@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65076",
+  "type": "character",
+  "name": "Sheldon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A rich student at the Princeton University.",
+  "source_sha256": "afba33174bce0e6e6d68f0ac4fb76ea01f5c1e221907013439d17ed35b901c5b",
+  "translation": "A rich student at the Princeton University.",
+  "vndb_url": "https://vndb.org/c65076"
+}

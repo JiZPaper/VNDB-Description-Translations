@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103503",
+  "type": "character",
+  "name": "Elise",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sophie's Mother",
+  "source_sha256": "d61049f00ec1d84339c8a0061a6faae6be7bfe3e578b79b0e74eb0081c611517",
+  "translation": "Sophie's Mother",
+  "vndb_url": "https://vndb.org/c103503"
+}

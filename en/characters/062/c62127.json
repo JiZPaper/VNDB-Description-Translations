@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62127",
+  "type": "character",
+  "name": "Katsura Kosuzu",
+  "original_name": "桂 小鈴",
+  "language": "en",
+  "source_language": "en",
+  "source": "Teaches Chemistry.",
+  "source_sha256": "e90a2bebb812e570fcf2c3b3ee00d340417f8fc1c3e97c064bfcd6d3024744f3",
+  "translation": "Teaches Chemistry.",
+  "vndb_url": "https://vndb.org/c62127"
+}

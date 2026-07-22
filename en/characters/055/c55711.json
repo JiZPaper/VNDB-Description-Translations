@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55711",
+  "type": "character",
+  "name": "Doctor",
+  "original_name": "医者",
+  "language": "en",
+  "source_language": "en",
+  "source": "The doctor that cares for those injured from vigorous training.\n\nHe often carries suspicious medicines and tries to sell them at bargain prices as a ruse to having them tested.",
+  "source_sha256": "fef228ea9a759669ab3e173d586c4e3c3dea08a4c8a054665391d747b88a355a",
+  "translation": "The doctor that cares for those injured from vigorous training.\n\nHe often carries suspicious medicines and tries to sell them at bargain prices as a ruse to having them tested.",
+  "vndb_url": "https://vndb.org/c55711"
+}

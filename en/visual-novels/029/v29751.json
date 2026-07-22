@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29751",
+  "type": "visual_novel",
+  "name": "Court of Madness",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Attend a masquerade party to investigate rumours and gather evidence for the court case at the end of the night. Research project at Aalborg University in Denmark.",
+  "source_sha256": "ae127c44f46cba47cede9a4fbe42852c736da45a1bd4b7951e2dae7fca622068",
+  "translation": "Attend a masquerade party to investigate rumours and gather evidence for the court case at the end of the night. Research project at Aalborg University in Denmark.",
+  "vndb_url": "https://vndb.org/v29751"
+}

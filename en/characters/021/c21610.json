@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21610",
+  "type": "character",
+  "name": "Shadow",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The strange entity who guides Blaire through the Void Stream.",
+  "source_sha256": "80efb3d732ff5762fdd224d561033d8294e810a2052da8697d17f69ea4b2b4ee",
+  "translation": "The strange entity who guides Blaire through the Void Stream.",
+  "vndb_url": "https://vndb.org/c21610"
+}

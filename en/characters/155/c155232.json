@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155232",
+  "type": "character",
+  "name": "Lily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "DLC Pack 4 Heroine",
+  "source_sha256": "9f23b12d5d541bc87f3c3cc51f6442cc199fdfa0efd8379a34c21dedeb19b0c7",
+  "translation": "DLC Pack 4 Heroine",
+  "vndb_url": "https://vndb.org/c155232"
+}

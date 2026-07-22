@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20961",
+  "type": "visual_novel",
+  "name": "Maria no Ichinichi",
+  "original_name": "マリアの一日",
+  "language": "en",
+  "source_language": "en",
+  "source": "A brief story about one day in the life of Maria after the events of [url=https://vndb.org/v19681]Kane no Tame ni Kane wa Naru[/url].",
+  "source_sha256": "25cb0f5764b382578bf81b525483f8b8d9241144b2e66e7b8014741fe1bdd20d",
+  "translation": "A brief story about one day in the life of Maria after the events of [url=https://vndb.org/v19681]Kane no Tame ni Kane wa Naru[/url].",
+  "vndb_url": "https://vndb.org/v20961"
+}

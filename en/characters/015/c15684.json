@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15684",
+  "type": "character",
+  "name": "Gabrielle",
+  "original_name": "ガブリエル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Neon's servant.",
+  "source_sha256": "375bf0752f94fe0d43fa8c37a126cb347ca8162074567331a232ddacf877fd5e",
+  "translation": "Neon's servant.",
+  "vndb_url": "https://vndb.org/c15684"
+}

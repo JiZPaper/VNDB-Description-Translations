@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v105",
+  "type": "visual_novel",
+  "name": "Killer Queen",
+  "original_name": "キラークイーン",
+  "language": "en",
+  "source_language": "en",
+  "source": "13 players are locked inside an abandoned building, each with a PDA representing a playing card from A to K and a collar device set around their necks. Each of the 13 PDAs correspond to a different set of objectives, and if a player doesn't fulfill their PDA's objectives in 72 hours, their collar will explode. \n\nNo one knows who has which PDA, and players are at a disadvantage if they proceed alone. But in this deadly game filled with mistrust and paranoia, who can you trust...?\n\n[From [url=https://web.archive.org/web/20141213020916/http://lemniscatranslations.wordpress.com:80/killer-queen/]Lemnisca Translations Website[/url]]",
+  "source_sha256": "ff36529037f4977eb8bf01831936d0ea99c336e0058b8286bb91506cfa74fe23",
+  "translation": "13 players are locked inside an abandoned building, each with a PDA representing a playing card from A to K and a collar device set around their necks. Each of the 13 PDAs correspond to a different set of objectives, and if a player doesn't fulfill their PDA's objectives in 72 hours, their collar will explode. \n\nNo one knows who has which PDA, and players are at a disadvantage if they proceed alone. But in this deadly game filled with mistrust and paranoia, who can you trust...?\n\n[From [url=https://web.archive.org/web/20141213020916/http://lemniscatranslations.wordpress.com:80/killer-queen/]Lemnisca Translations Website[/url]]",
+  "vndb_url": "https://vndb.org/v105"
+}

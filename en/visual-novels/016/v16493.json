@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16493",
+  "type": "visual_novel",
+  "name": "WHITE ALBUM2 Mini After Story",
+  "original_name": "WHITE ALBUM2 ミニアフターストーリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "White Album 2 fandisk featuring after-stories for the Kazusa and Setsuna routes of the original game:\n\n- The Way Back to Happiness: Follows Kazusa's true ending.\n\n- The Way Towards Happiness: Follows Setsuna’s true ending.",
+  "source_sha256": "80e8f49c38b21886fbf2e965c8ace35b496ef769d141d80c7002b252e193f6a3",
+  "translation": "White Album 2 fandisk featuring after-stories for the Kazusa and Setsuna routes of the original game:\n\n- The Way Back to Happiness: Follows Kazusa's true ending.\n\n- The Way Towards Happiness: Follows Setsuna’s true ending.",
+  "vndb_url": "https://vndb.org/v16493"
+}

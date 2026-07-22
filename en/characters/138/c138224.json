@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c138224",
+  "type": "character",
+  "name": "Father Peters",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Father Peters is a priest at the local church.",
+  "source_sha256": "79714b32c986f7e91b3790d6dcb4735fcf063d779282cfa79fca74496c077487",
+  "translation": "Father Peters is a priest at the local church.",
+  "vndb_url": "https://vndb.org/c138224"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115798",
+  "type": "character",
+  "name": "Melody",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A character from one of Mike's favorite games, written into existence in Serenity temporarily.",
+  "source_sha256": "6a64b0bdfe00d94d1eadb01d22a046ebfd45b7d3ef420039486f438b5a2c9e6e",
+  "translation": "A character from one of Mike's favorite games, written into existence in Serenity temporarily.",
+  "vndb_url": "https://vndb.org/c115798"
+}

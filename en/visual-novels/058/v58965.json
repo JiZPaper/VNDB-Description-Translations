@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58965",
+  "type": "visual_novel",
+  "name": "Pervaja smena",
+  "original_name": "Первая смена",
+  "language": "en",
+  "source_language": "en",
+  "source": "Made for 100 Flowers Jam.",
+  "source_sha256": "d7f188d8e25b15d26bbcc11a1628646a7ecb6ac1de130261ea48980857d6e3dd",
+  "translation": "Made for 100 Flowers Jam.",
+  "vndb_url": "https://vndb.org/v58965"
+}

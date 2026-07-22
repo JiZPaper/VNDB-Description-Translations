@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44259",
+  "type": "character",
+  "name": "Polish 7TP",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Polish light tank, everybody always forgets she is around.",
+  "source_sha256": "9e06dab03d8879a0306fcb9ec566cef57aa84c8c146226c9d5f30f9d169e78dc",
+  "translation": "A Polish light tank, everybody always forgets she is around.",
+  "vndb_url": "https://vndb.org/c44259"
+}

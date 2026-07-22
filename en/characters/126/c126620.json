@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126620",
+  "type": "character",
+  "name": "Elijah",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A priest on board of the Sea Harlot.",
+  "source_sha256": "dd54ccfda8ccee7984b8eaf7f67df170498c72c2c939dc51f011fb57dcc77d92",
+  "translation": "A priest on board of the Sea Harlot.",
+  "vndb_url": "https://vndb.org/c126620"
+}

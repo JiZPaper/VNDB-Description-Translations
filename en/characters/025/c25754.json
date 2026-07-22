@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25754",
+  "type": "character",
+  "name": "Nihon",
+  "original_name": "日本",
+  "language": "en",
+  "source_language": "en",
+  "source": "A reserved youth who is no good at asserting himself.",
+  "source_sha256": "212049c619813c9b78ebfaa599ee09be7d6aa3725a495a86accbe86c432aa0b0",
+  "translation": "A reserved youth who is no good at asserting himself.",
+  "vndb_url": "https://vndb.org/c25754"
+}

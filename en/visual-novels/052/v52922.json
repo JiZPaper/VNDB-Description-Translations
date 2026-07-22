@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52922",
+  "type": "visual_novel",
+  "name": "Welcome to Halloween Candytown",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You enter \"Halloween Candytown\" a magical world full of candy and sweet candied villagers. Will you find a way home safely, or be trapped in this sweet candied world forever?\n\n[Edited from [url=https://en.yorubox.eu/welcome-to-halloween-candytown/]official website[/url]]",
+  "source_sha256": "39773f349b2b9609bd583bba4dc3e5beeb3ed6c212fb32f7e429198add4458f8",
+  "translation": "You enter \"Halloween Candytown\" a magical world full of candy and sweet candied villagers. Will you find a way home safely, or be trapped in this sweet candied world forever?\n\n[Edited from [url=https://en.yorubox.eu/welcome-to-halloween-candytown/]official website[/url]]",
+  "vndb_url": "https://vndb.org/v52922"
+}

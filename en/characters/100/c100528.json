@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100528",
+  "type": "character",
+  "name": "George",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bartender who worked as such for many years. At first he was a little clumsy, breaking glasses during his first year on the job, but now he knows how to prepare cocktails correctly and learned how to observe and analyze his customers.",
+  "source_sha256": "a1e1147699aa7bc32f958fb987fbf4340b41d36db069afb9cf298324f89c9488",
+  "translation": "A bartender who worked as such for many years. At first he was a little clumsy, breaking glasses during his first year on the job, but now he knows how to prepare cocktails correctly and learned how to observe and analyze his customers.",
+  "vndb_url": "https://vndb.org/c100528"
+}

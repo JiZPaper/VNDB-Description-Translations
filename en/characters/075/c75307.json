@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75307",
+  "type": "character",
+  "name": "Roxanne",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A female inhabitant of an abandoned building, where Janna finds a place to stay.",
+  "source_sha256": "c787e5f1490829ab8ab1e8f1ec9b6b3a1d69c19e073b668511a0acb0d6d0cc28",
+  "translation": "A female inhabitant of an abandoned building, where Janna finds a place to stay.",
+  "vndb_url": "https://vndb.org/c75307"
+}

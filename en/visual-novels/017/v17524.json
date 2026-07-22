@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17524",
+  "type": "visual_novel",
+  "name": "The Crane Lady",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Crane's Return of a Favor.",
+  "source_sha256": "6e96a0a8c3383bb002369a90b24823d587abbb1b5b1a17c2aa931b97bea0b566",
+  "translation": "Crane's Return of a Favor.",
+  "vndb_url": "https://vndb.org/v17524"
+}

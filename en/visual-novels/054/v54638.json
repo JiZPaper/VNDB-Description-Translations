@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54638",
+  "type": "visual_novel",
+  "name": "A Town Called Tool",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A magical journey that leads people to give into their desires and question their trust of others, while an unseen shadow threatens their future.",
+  "source_sha256": "1d7ca359ab2ab4e50372605957182e180eb7b81c5c5d9b6be65881cf0b5531cc",
+  "translation": "A magical journey that leads people to give into their desires and question their trust of others, while an unseen shadow threatens their future.",
+  "vndb_url": "https://vndb.org/v54638"
+}

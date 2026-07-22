@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c171927",
+  "type": "character",
+  "name": "Judy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "School's therapist",
+  "source_sha256": "e772aa3a400303539b1f1332636fd71393c63bf9946956bda878e4be8789d974",
+  "translation": "School's therapist",
+  "vndb_url": "https://vndb.org/c171927"
+}

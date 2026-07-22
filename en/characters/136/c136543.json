@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136543",
+  "type": "character",
+  "name": "Ollie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Ollie is playing with birds. They love Ollie. Look, look!\"\n\nLikes: Colorful things, Cute things, Playing with animals\nDislike: Dark places, Cruelty",
+  "source_sha256": "af1fab19bbc0c5a03658d23d50e69756970a9ede251a537d56852d9fa73a2493",
+  "translation": "\"Ollie is playing with birds. They love Ollie. Look, look!\"\n\nLikes: Colorful things, Cute things, Playing with animals\nDislike: Dark places, Cruelty",
+  "vndb_url": "https://vndb.org/c136543"
+}

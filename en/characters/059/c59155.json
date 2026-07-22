@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c59155",
+  "type": "character",
+  "name": "Peggy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Peggy is main editor of the school newspaper.\n\nLikes: searching for scoops\nDislikes: depending on someone else",
+  "source_sha256": "9ae555235fa421d8927658e352213d821e3009567d901e483669dae10b804dfc",
+  "translation": "Peggy is main editor of the school newspaper.\n\nLikes: searching for scoops\nDislikes: depending on someone else",
+  "vndb_url": "https://vndb.org/c59155"
+}

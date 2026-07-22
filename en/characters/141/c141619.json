@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141619",
+  "type": "character",
+  "name": "Lady Shira",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Kamala's personal assistant.",
+  "source_sha256": "93446c439d3aac327c576bdfdec416e0c10f4ca382c4dd794ed35ae02e4aeb3f",
+  "translation": "Kamala's personal assistant.",
+  "vndb_url": "https://vndb.org/c141619"
+}

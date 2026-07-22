@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c107773",
+  "type": "character",
+  "name": "Maskeguy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious character very mistrustful about his past.",
+  "source_sha256": "8c05f03854ed89696fcb4c58fc0552e6842c70582ca8c55b42e43cdd67f2b10a",
+  "translation": "A mysterious character very mistrustful about his past.",
+  "vndb_url": "https://vndb.org/c107773"
+}

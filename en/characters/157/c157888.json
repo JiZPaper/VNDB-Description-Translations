@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c157888",
+  "type": "character",
+  "name": "Hayley",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Hayley is Alex's best friend",
+  "source_sha256": "77cb7730e00d16713e81435349eea653795c9478fe677c8ada97cacfb5834cc1",
+  "translation": "Hayley is Alex's best friend",
+  "vndb_url": "https://vndb.org/c157888"
+}

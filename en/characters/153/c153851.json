@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153851",
+  "type": "character",
+  "name": "Peeker",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Peeker is a mysterious creature that watches from the shadows. Her identity is unknown...",
+  "source_sha256": "eb4c9ac95dab74173b64d8ef4410a929a47a7000edb66c8501cbe4abdd2272eb",
+  "translation": "The Peeker is a mysterious creature that watches from the shadows. Her identity is unknown...",
+  "vndb_url": "https://vndb.org/c153851"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c6071",
+  "type": "character",
+  "name": "Shady Character",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A local shifty-looking lowlife with a loose lip and a penchant for drinking.",
+  "source_sha256": "82ca4e48eba9faea7ec0bb2cf1191c902a96d16b412258c79bab6d6e6caa207f",
+  "translation": "A local shifty-looking lowlife with a loose lip and a penchant for drinking.",
+  "vndb_url": "https://vndb.org/c6071"
+}

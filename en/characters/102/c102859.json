@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102859",
+  "type": "character",
+  "name": "Snake",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An artist and teacher",
+  "source_sha256": "d18ba167f9acbc250c28e763cf9866f997e4564bf6a19f4bc4c864c912b6b4fa",
+  "translation": "An artist and teacher",
+  "vndb_url": "https://vndb.org/c102859"
+}

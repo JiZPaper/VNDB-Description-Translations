@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123560",
+  "type": "character",
+  "name": "Kouji",
+  "original_name": "宏治",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist from the research center.",
+  "source_sha256": "6b0babdefbc8f689ca771c8eab010eb6dd9f8bbed18f18d1dce9e435998b055a",
+  "translation": "The protagonist from the research center.",
+  "vndb_url": "https://vndb.org/c123560"
+}

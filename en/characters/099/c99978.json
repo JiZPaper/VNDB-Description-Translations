@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99978",
+  "type": "character",
+  "name": "John's Dad",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "John's father. He is an ordinary office worker who loves baking.",
+  "source_sha256": "adec085e4e9ffd5ebbcab0ad471f67f47b45b69e2a94114e828fea0d1c422941",
+  "translation": "John's father. He is an ordinary office worker who loves baking.",
+  "vndb_url": "https://vndb.org/c99978"
+}

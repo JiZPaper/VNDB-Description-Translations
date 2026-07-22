@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41672",
+  "type": "character",
+  "name": "Tiana Lumiere",
+  "original_name": "ティアナ＝リュミエール",
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes: Rice balls, cooking, crossword puzzles\nDislikes: Arrogant people, making lots of promises",
+  "source_sha256": "eaa19040e7d8efcf53d43e668d7ac3c7c1126f679b5e4ef1dc3d63d58d81db71",
+  "translation": "Likes: Rice balls, cooking, crossword puzzles\nDislikes: Arrogant people, making lots of promises",
+  "vndb_url": "https://vndb.org/c41672"
+}

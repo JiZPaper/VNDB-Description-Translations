@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99911",
+  "type": "character",
+  "name": "Rustle",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "When Detective Rustle isn't rearranging his deck of cards, he's busy waxing his head.",
+  "source_sha256": "fa2ad7ff66575bd05bb3747512540f378e0f92e09bb5a7a4fed90792b7501115",
+  "translation": "When Detective Rustle isn't rearranging his deck of cards, he's busy waxing his head.",
+  "vndb_url": "https://vndb.org/c99911"
+}

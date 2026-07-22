@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20920",
+  "type": "character",
+  "name": "Anzai",
+  "original_name": "安西",
+  "language": "en",
+  "source_language": "en",
+  "source": "A new butler at the Kamishiro residence.",
+  "source_sha256": "c80019debcf9f8b8a117b332ad4a843bb1f712e1bae1b0186081d97aed77c990",
+  "translation": "A new butler at the Kamishiro residence.",
+  "vndb_url": "https://vndb.org/c20920"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54213",
+  "type": "visual_novel",
+  "name": "Sargasso",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual short story with interaction, Sargasso immerses you in a stranding afloat on the mysterious Sargasso Sea with three potentially dangerous characters onboard. There may or may not be a monster in the seaweed. Your only goal is to survive.",
+  "source_sha256": "c994883d6a4373c03dde49cee7c9c2c872b308db081e56575465af1dfbc42cc3",
+  "translation": "A visual short story with interaction, Sargasso immerses you in a stranding afloat on the mysterious Sargasso Sea with three potentially dangerous characters onboard. There may or may not be a monster in the seaweed. Your only goal is to survive.",
+  "vndb_url": "https://vndb.org/v54213"
+}

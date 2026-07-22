@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150869",
+  "type": "character",
+  "name": "???",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The master mind of the Escape room",
+  "source_sha256": "4c8200d5eadf3f789fac388405ff0a09a2aa09bdce6066c724e79d8d3472da63",
+  "translation": "The master mind of the Escape room",
+  "vndb_url": "https://vndb.org/c150869"
+}

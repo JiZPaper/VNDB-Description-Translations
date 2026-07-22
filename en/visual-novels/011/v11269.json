@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11269",
+  "type": "visual_novel",
+  "name": "Amagami Chotto Omake Gekijou",
+  "original_name": "アマガミ ちょっとおまけ劇場",
+  "language": "en",
+  "source_language": "en",
+  "source": "Amagami Fandisc for PC. Consists of 6 parts. Each part contains several scenarios about one or two of the heroines or the sub-heroines.",
+  "source_sha256": "94bd3b85e6c0ebff21dafe2b017f689ae44629055e15df103f9a5e17e5588b9d",
+  "translation": "Amagami Fandisc for PC. Consists of 6 parts. Each part contains several scenarios about one or two of the heroines or the sub-heroines.",
+  "vndb_url": "https://vndb.org/v11269"
+}

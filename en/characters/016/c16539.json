@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c16539",
+  "type": "character",
+  "name": "Ronalus Eckert",
+  "original_name": "ロナウス＝エッカート",
+  "language": "en",
+  "source_language": "en",
+  "source": "Has sub events, but no love end.",
+  "source_sha256": "dfe778824dab2881c2db531da800e73a5a2f65f022e64061a3b89352eeed4289",
+  "translation": "Has sub events, but no love end.",
+  "vndb_url": "https://vndb.org/c16539"
+}

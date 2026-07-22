@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19623",
+  "type": "character",
+  "name": "Sekihata-sensei",
+  "original_name": "関端先生",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kei's schoolteacher and father of Rin",
+  "source_sha256": "93d483e5cfca8e3a2f4fda11867b68ef4a005016a5c9608d98fa26522cd98cc3",
+  "translation": "Kei's schoolteacher and father of Rin",
+  "vndb_url": "https://vndb.org/c19623"
+}

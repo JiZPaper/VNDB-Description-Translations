@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28685",
+  "type": "visual_novel",
+  "name": "ChinQue III",
+  "original_name": "チンクエIII",
+  "language": "en",
+  "source_language": "en",
+  "source": "Final title in the ChinQue series.",
+  "source_sha256": "1caf5152aa68f5aa6938d01267dbd1159f78e7a51fb0a6fe806949ac8af8774c",
+  "translation": "Final title in the ChinQue series.",
+  "vndb_url": "https://vndb.org/v28685"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61550",
+  "type": "visual_novel",
+  "name": "Shuuten",
+  "original_name": "終天",
+  "language": "en",
+  "source_language": "en",
+  "source": "In that world, tomorrow will never come again.\nSomeday, somewhere, the end of an ordinary world.",
+  "source_sha256": "95db2ef33065bea414191a14f7e2199841c98484976a278646be3e31b001a125",
+  "translation": "In that world, tomorrow will never come again.\nSomeday, somewhere, the end of an ordinary world.",
+  "vndb_url": "https://vndb.org/v61550"
+}

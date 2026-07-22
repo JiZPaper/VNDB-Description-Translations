@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140299",
+  "type": "character",
+  "name": "Marina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A novice hucow.",
+  "source_sha256": "30616f0c113fe82fd2c9bc821cc7b2eef70239ca59eec2e9f0f73461f133f552",
+  "translation": "A novice hucow.",
+  "vndb_url": "https://vndb.org/c140299"
+}

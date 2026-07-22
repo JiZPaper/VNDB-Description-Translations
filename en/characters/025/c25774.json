@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25774",
+  "type": "character",
+  "name": "Greece",
+  "original_name": "ギリシャ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A philosophical youth who has a strange atmosphere.",
+  "source_sha256": "ab835da82e23477bbdd5b275168205783963517ac11770f62cc649fda5071d6a",
+  "translation": "A philosophical youth who has a strange atmosphere.",
+  "vndb_url": "https://vndb.org/c25774"
+}

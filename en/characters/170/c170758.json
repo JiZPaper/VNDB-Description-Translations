@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170758",
+  "type": "character",
+  "name": "Alex Sterling",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A defense attorney, somehow involved in every case in the story.",
+  "source_sha256": "3a62b35905457c655968e874c747b05fe9a3df540f04b1c4a024abc7943d46b9",
+  "translation": "A defense attorney, somehow involved in every case in the story.",
+  "vndb_url": "https://vndb.org/c170758"
+}

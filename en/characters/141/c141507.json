@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141507",
+  "type": "character",
+  "name": "Andy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Olivia's boyfriend",
+  "source_sha256": "2bf809d4f9dc333ae376f02165a4ed908f6baa5599295f82eff7015a21b7f557",
+  "translation": "Olivia's boyfriend",
+  "vndb_url": "https://vndb.org/c141507"
+}

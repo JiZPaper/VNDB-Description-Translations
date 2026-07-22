@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106168",
+  "type": "character",
+  "name": "Jackie",
+  "original_name": "ジャッキー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Beagle\nProtagonist's dog",
+  "source_sha256": "064792c6fd63927925f30b936f47d9a91c596b291959196c2d1750ee1e7109c3",
+  "translation": "Race: Beagle\nProtagonist's dog",
+  "vndb_url": "https://vndb.org/c106168"
+}

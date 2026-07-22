@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65690",
+  "type": "character",
+  "name": "Rudolf Oak",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Profession: Restaurant Owner\nFavorite Place: His Restaurant\n\nA restaurant owner who seems mature and reliable.\nHe takes his job so seriously that he looks like a totally different person when at work.\nYou may want to work at his restaurant to find out more!",
+  "source_sha256": "bfc11a3cfdd6f622ff5fa62d66bf6b8b7d718b0fac8b72409ce848aa4f5bde0e",
+  "translation": "Profession: Restaurant Owner\nFavorite Place: His Restaurant\n\nA restaurant owner who seems mature and reliable.\nHe takes his job so seriously that he looks like a totally different person when at work.\nYou may want to work at his restaurant to find out more!",
+  "vndb_url": "https://vndb.org/c65690"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40441",
+  "type": "visual_novel",
+  "name": "Watashi wa Umi Desu.",
+  "original_name": "私は海です。",
+  "language": "en",
+  "source_language": "en",
+  "source": "I am the sea.\nI will accept everything.\nLet me show you my love.",
+  "source_sha256": "c95388b3eb746195085b00bdb6391976113407e993da442418b04c49fdf9e0e9",
+  "translation": "I am the sea.\nI will accept everything.\nLet me show you my love.",
+  "vndb_url": "https://vndb.org/v40441"
+}

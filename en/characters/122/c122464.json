@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122464",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A person that goes into the woods.",
+  "source_sha256": "6560f2505a3f6c007afacadf13eb87ea00ce3e9703f37547d078448088b26654",
+  "translation": "A person that goes into the woods.",
+  "vndb_url": "https://vndb.org/c122464"
+}

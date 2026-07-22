@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102134",
+  "type": "character",
+  "name": "Josh",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Josh is a close friend of Ryan. He is in love with Trish.",
+  "source_sha256": "6abea71ff6a738e9267f428dcf174a7118597746b6927a0ef115da4e98638966",
+  "translation": "Josh is a close friend of Ryan. He is in love with Trish.",
+  "vndb_url": "https://vndb.org/c102134"
+}

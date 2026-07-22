@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38401",
+  "type": "character",
+  "name": "Raclot",
+  "original_name": "ラクロ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Is it alright to observe me so closely, it doesn't give you any benefit at all right?\"\nAttendant to the prince of the White Country.\nHe's a powerful magician.",
+  "source_sha256": "3fd544d515f718b627692519e6eeac88c720a0b76791c3a91d7ddaba67fbc4e7",
+  "translation": "\"Is it alright to observe me so closely, it doesn't give you any benefit at all right?\"\nAttendant to the prince of the White Country.\nHe's a powerful magician.",
+  "vndb_url": "https://vndb.org/c38401"
+}

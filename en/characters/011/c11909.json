@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11909",
+  "type": "character",
+  "name": "Steve",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Steve is a ghost hunter.",
+  "source_sha256": "89c4e6c65a9671b998b08d75d79456a003d584aa9b53b8ce23840a1b05e6e73b",
+  "translation": "Steve is a ghost hunter.",
+  "vndb_url": "https://vndb.org/c11909"
+}

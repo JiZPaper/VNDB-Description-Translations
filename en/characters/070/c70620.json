@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70620",
+  "type": "character",
+  "name": "Kotarou",
+  "original_name": "コタロウ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cat breed: Brown Tabby",
+  "source_sha256": "84399bc29169e5d1ab08715451f3899cf3ed55874f4a81e92fab2631e9b57a0a",
+  "translation": "Cat breed: Brown Tabby",
+  "vndb_url": "https://vndb.org/c70620"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94105",
+  "type": "character",
+  "name": "Naru",
+  "original_name": "ナル",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Hello! I just came to play\"",
+  "source_sha256": "7671fd6cdab4a56ef5edcdd5f698a2c7bf6a4143fd66233586181e79b5515032",
+  "translation": "\"Hello! I just came to play\"",
+  "vndb_url": "https://vndb.org/c94105"
+}

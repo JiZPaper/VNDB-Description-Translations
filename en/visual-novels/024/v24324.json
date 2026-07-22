@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24324",
+  "type": "visual_novel",
+  "name": "The Suiri ~IT Tantei: 18 no Jikenbo~",
+  "original_name": "THE 推理 〜IT探偵：18の事件簿〜",
+  "language": "en",
+  "source_language": "en",
+  "source": "D3 Publisher's saga of budget-price police investigation games.",
+  "source_sha256": "592bc140327e2c10326f96beeedc636ae70c15eee840ec95f07e14c2ce43e603",
+  "translation": "D3 Publisher's saga of budget-price police investigation games.",
+  "vndb_url": "https://vndb.org/v24324"
+}

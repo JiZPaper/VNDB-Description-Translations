@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101393",
+  "type": "character",
+  "name": "Yurid Yo-yo",
+  "original_name": "ユリド 悠々",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Huan Cat",
+  "source_sha256": "d49f7fcf9e0c3ec79a4e78bce81884a66b6460874a964c44f3b7fd9f0d8f2ea6",
+  "translation": "Race: Huan Cat",
+  "vndb_url": "https://vndb.org/c101393"
+}

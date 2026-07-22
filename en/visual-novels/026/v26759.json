@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26759",
+  "type": "visual_novel",
+  "name": "Lily Is Calling",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A cute fox girl is calling you!! She seems nice...",
+  "source_sha256": "652454ae13fcfd2f0a333402689274f5f72efd453402722313757068c14cc464",
+  "translation": "A cute fox girl is calling you!! She seems nice...",
+  "vndb_url": "https://vndb.org/v26759"
+}

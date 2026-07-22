@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95592",
+  "type": "character",
+  "name": "Bill Kuzmich",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A charming smooth-talker who was born in Russia and works alongside you in cryptanalysis. Once you get to know him, you find his bravado is all for show.",
+  "source_sha256": "1c501ddfeb5a554fc1a14dd77d73ef8a189d0e6cf3b28d6bb2fc5279049db118",
+  "translation": "A charming smooth-talker who was born in Russia and works alongside you in cryptanalysis. Once you get to know him, you find his bravado is all for show.",
+  "vndb_url": "https://vndb.org/c95592"
+}

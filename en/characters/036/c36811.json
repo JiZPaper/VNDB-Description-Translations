@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36811",
+  "type": "character",
+  "name": "Galileo Melancholy",
+  "original_name": "ガリレオ＝メランコリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Doctor of the royal court.",
+  "source_sha256": "2944ec35e169a8ae9f2742bc3dfd727d9823b853592d10ba657e0a38052c1110",
+  "translation": "Doctor of the royal court.",
+  "vndb_url": "https://vndb.org/c36811"
+}

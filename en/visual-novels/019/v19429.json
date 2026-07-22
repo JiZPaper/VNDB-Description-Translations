@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19429",
+  "type": "visual_novel",
+  "name": "Harry Potter and the Transformency Spell",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Harry Potter fangame taking place after the Wizarding War, when Harry, Ron, Hermione, and Draco return to Hogwarts to catch up on their last year's lessons.",
+  "source_sha256": "a80b3e0312466349825fbad71f13ba5b9b114222256514d075ba71d1a85e167a",
+  "translation": "A Harry Potter fangame taking place after the Wizarding War, when Harry, Ron, Hermione, and Draco return to Hogwarts to catch up on their last year's lessons.",
+  "vndb_url": "https://vndb.org/v19429"
+}

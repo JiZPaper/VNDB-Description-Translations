@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131102",
+  "type": "character",
+  "name": "Nifuyu",
+  "original_name": "ニフユ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mysterious person that appears in front of Shiibas home.",
+  "source_sha256": "903e03ce6a81cd3219bf78ff5dee6bcdc81aa1f0759ac7925b53555fda11676d",
+  "translation": "Mysterious person that appears in front of Shiibas home.",
+  "vndb_url": "https://vndb.org/c131102"
+}

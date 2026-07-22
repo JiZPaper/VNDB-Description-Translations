@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c43308",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A nameable protagonist of unknown gender, selected as a member of the Accelerated Class in Fuji Academy. His/her chosen discipline is philosophy.",
+  "source_sha256": "652436d55a8b2fe038d8a33c56fca9aa535e6aacaa688440ff8d3ca1f04df021",
+  "translation": "A nameable protagonist of unknown gender, selected as a member of the Accelerated Class in Fuji Academy. His/her chosen discipline is philosophy.",
+  "vndb_url": "https://vndb.org/c43308"
+}

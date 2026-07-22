@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c171998",
+  "type": "character",
+  "name": "Zuri",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bob's secretary.\n\nSuri's twin sister.",
+  "source_sha256": "c3de2fd39db77c1fbba7521d5ecd26d0570987155ac1c218dac8bcc9f15d5ebd",
+  "translation": "Bob's secretary.\n\nSuri's twin sister.",
+  "vndb_url": "https://vndb.org/c171998"
+}

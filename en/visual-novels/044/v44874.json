@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44874",
+  "type": "visual_novel",
+  "name": "Ever Green Melody",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Do you remember the song you played for me?\n\nIt was called...\n\n[b]Ever Green Melody[/b].\n\n[Translated from [url=https://web.archive.org/web/20050313074344fw_/http://harmony.whitesnow.jp/game/egm-introduce.html]official website[/url]]",
+  "source_sha256": "aba3ab34f9d2e4ee4a684a329eea2ead8fe8f37247384ff3e47b9fb6e955e58e",
+  "translation": "Do you remember the song you played for me?\n\nIt was called...\n\n[b]Ever Green Melody[/b].\n\n[Translated from [url=https://web.archive.org/web/20050313074344fw_/http://harmony.whitesnow.jp/game/egm-introduce.html]official website[/url]]",
+  "vndb_url": "https://vndb.org/v44874"
+}

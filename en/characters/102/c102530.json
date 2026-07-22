@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102530",
+  "type": "character",
+  "name": "Coin",
+  "original_name": "コイン",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the \"Suits\". Able to control people's emotions.",
+  "source_sha256": "d81ffa081475b004c3c06aae94ad35fc9ecdf4d2c0eefb949ce401fea00feb6f",
+  "translation": "One of the \"Suits\". Able to control people's emotions.",
+  "vndb_url": "https://vndb.org/c102530"
+}

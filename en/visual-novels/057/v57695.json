@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57695",
+  "type": "visual_novel",
+  "name": "Lukomor'e",
+  "original_name": "Лукоморье",
+  "language": "en",
+  "source_language": "en",
+  "source": "Made for Indicator Jam.",
+  "source_sha256": "fbd5459315d59ef8aeef37a6011925e02a5750248e7bc80a9c3a1b2ab4c05be3",
+  "translation": "Made for Indicator Jam.",
+  "vndb_url": "https://vndb.org/v57695"
+}

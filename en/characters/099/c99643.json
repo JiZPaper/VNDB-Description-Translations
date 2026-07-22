@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99643",
+  "type": "character",
+  "name": "The Goblins",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Costumers of the Inn.",
+  "source_sha256": "d369fa11743b0d97e77afaec2b56aadf2405b6002417d2aaa376f967b39dfca9",
+  "translation": "Costumers of the Inn.",
+  "vndb_url": "https://vndb.org/c99643"
+}

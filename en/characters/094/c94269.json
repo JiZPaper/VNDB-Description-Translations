@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94269",
+  "type": "character",
+  "name": "Mom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Iris' mom who will occasionally ask for her help around the house, but otherwise lets her do her own thing.",
+  "source_sha256": "000524dc2754f00a1d79d69899d19c56d0c8bec40525b8ecb650c7c21733b76e",
+  "translation": "Iris' mom who will occasionally ask for her help around the house, but otherwise lets her do her own thing.",
+  "vndb_url": "https://vndb.org/c94269"
+}

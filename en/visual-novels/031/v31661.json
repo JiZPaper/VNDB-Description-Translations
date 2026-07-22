@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31661",
+  "type": "visual_novel",
+  "name": "Danganronpa Another ~Tto Hanaui Jeolmang Hagwon~",
+  "original_name": "단간론파 어나더 ~또 하나의 절망학원~",
+  "language": "en",
+  "source_language": "en",
+  "source": "Danganronpa: Another ~Another Despair Academy~ is a Korean fangame developed by LINUJ (린유즈) using RPG Maker 2000.",
+  "source_sha256": "58460e1254300f215638e9e69a0777a46fdc3bad15ab0c2f4c3e55b4dd0d4b8e",
+  "translation": "Danganronpa: Another ~Another Despair Academy~ is a Korean fangame developed by LINUJ (린유즈) using RPG Maker 2000.",
+  "vndb_url": "https://vndb.org/v31661"
+}

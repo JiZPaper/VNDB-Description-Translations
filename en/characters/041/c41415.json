@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41415",
+  "type": "character",
+  "name": "Ispada",
+  "original_name": "イスパーダ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A popular member of ORACLE who looks after his comrades.\nHis hobby is cooking so he's responsible for everything in the kitchen.\nA kind big-brotherly guy.",
+  "source_sha256": "8260169d5342c5db2034d4c4c382d1b89605ed3372dafcbeb3c206e1c2eee3da",
+  "translation": "A popular member of ORACLE who looks after his comrades.\nHis hobby is cooking so he's responsible for everything in the kitchen.\nA kind big-brotherly guy.",
+  "vndb_url": "https://vndb.org/c41415"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18215",
+  "type": "visual_novel",
+  "name": "Teito Taisen",
+  "original_name": "帝都大戦",
+  "language": "en",
+  "source_language": "en",
+  "source": "Adaptation of the eponymous movie.",
+  "source_sha256": "534c3032dd555fed042138f4a126bc04a44a6532f421968d56f5d14ec7d08d74",
+  "translation": "Adaptation of the eponymous movie.",
+  "vndb_url": "https://vndb.org/v18215"
+}

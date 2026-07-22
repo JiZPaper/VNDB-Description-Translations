@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45993",
+  "type": "character",
+  "name": "Shizuka",
+  "original_name": "静",
+  "language": "en",
+  "source_language": "en",
+  "source": "Female Warrior",
+  "source_sha256": "d10f58ebacb4651500d12c8754e8f8634b74d8e450db412ad3ffef749f812603",
+  "translation": "Female Warrior",
+  "vndb_url": "https://vndb.org/c45993"
+}

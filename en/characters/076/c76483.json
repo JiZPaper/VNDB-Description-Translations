@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76483",
+  "type": "character",
+  "name": "Mr. Tank",
+  "original_name": "マーンタンク",
+  "language": "en",
+  "source_language": "en",
+  "source": "A juice tank monster.\nAttacks using the myriad juices he stores inside his body.",
+  "source_sha256": "4a4b8fc44929d014cc9014f07c46d74e19e5f69abd83a97ed49b83c29fb19e3a",
+  "translation": "A juice tank monster.\nAttacks using the myriad juices he stores inside his body.",
+  "vndb_url": "https://vndb.org/c76483"
+}

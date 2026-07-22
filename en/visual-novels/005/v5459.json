@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5459",
+  "type": "visual_novel",
+  "name": "Space Freeters! ~Amakakeru Ginga no Otome-tachi~",
+  "original_name": "Space Freeters!　〜天駆ける銀河の乙女たち〜",
+  "language": "en",
+  "source_language": "en",
+  "source": "A story of three \"Runners\" exploring space: Lana, the pilot, Kurumi, the engineer, and Mariko, the copilot.",
+  "source_sha256": "9d380c0aabba489dfc04d7c607ffba5f3107f27d1550c0c0066a9e1c127b1dbf",
+  "translation": "A story of three \"Runners\" exploring space: Lana, the pilot, Kurumi, the engineer, and Mariko, the copilot.",
+  "vndb_url": "https://vndb.org/v5459"
+}

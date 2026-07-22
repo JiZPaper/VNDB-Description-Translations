@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75421",
+  "type": "character",
+  "name": "Whitlock",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Whitlock is the leader of the Technocrats.",
+  "source_sha256": "ec5f2ff3f6d55e3204a6670d115ea8f668a47c6db65dcc4151e0ebac5b7ed08a",
+  "translation": "Whitlock is the leader of the Technocrats.",
+  "vndb_url": "https://vndb.org/c75421"
+}

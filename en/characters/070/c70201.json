@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70201",
+  "type": "character",
+  "name": "Randy Hooke",
+  "original_name": "ランディ・フック",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Lester's lackeys.",
+  "source_sha256": "44d315c19e52c4f0b04780ba9d440f6b4f37e0bfb859be53257c9885e8274f44",
+  "translation": "One of Lester's lackeys.",
+  "vndb_url": "https://vndb.org/c70201"
+}

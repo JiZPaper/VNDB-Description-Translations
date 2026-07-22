@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30551",
+  "type": "visual_novel",
+  "name": "Naked Ambition",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Following the king's death, the commoner Maria must help her friend Princess Collette gain the support of the Regency Council over her rival, Prince Adelin, so that Collette can become queen.",
+  "source_sha256": "6b07153e2b75b60c78144318d872bbaf5e4ea0abe3cf8bb5bdba63908130fd52",
+  "translation": "Following the king's death, the commoner Maria must help her friend Princess Collette gain the support of the Regency Council over her rival, Prince Adelin, so that Collette can become queen.",
+  "vndb_url": "https://vndb.org/v30551"
+}

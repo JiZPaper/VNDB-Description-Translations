@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30167",
+  "type": "visual_novel",
+  "name": "Play Dead!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about a band, their junky, broken down van, an abandoned house, and a surprisingly lively dead dog.",
+  "source_sha256": "26c5d8c432ab6cdc2827f32110d40aceb00c7b1de48679f76ef065f8f938b5bd",
+  "translation": "A story about a band, their junky, broken down van, an abandoned house, and a surprisingly lively dead dog.",
+  "vndb_url": "https://vndb.org/v30167"
+}

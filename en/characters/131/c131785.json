@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131785",
+  "type": "character",
+  "name": "Old man",
+  "original_name": "じじい",
+  "language": "en",
+  "source_language": "en",
+  "source": "An old man nobody knows anything about.\nHe seems to run into Sayoko wherever she goes with the expressed purpose of harassing her. He largely ignores all ghosts except for her.\nYou are usually able to smell him before you can even see him.",
+  "source_sha256": "b11ca2c9e76e7bbb53e726c4cd414be0e14909dc8b0423f3ac4b4f04627f2bef",
+  "translation": "An old man nobody knows anything about.\nHe seems to run into Sayoko wherever she goes with the expressed purpose of harassing her. He largely ignores all ghosts except for her.\nYou are usually able to smell him before you can even see him.",
+  "vndb_url": "https://vndb.org/c131785"
+}

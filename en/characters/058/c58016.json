@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c58016",
+  "type": "character",
+  "name": "Rebecca",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Temperament:\n- Cheerful \n- Affectionate\n- Mischievous",
+  "source_sha256": "b1fdb7b237258d83c3e815a97aabf861c3f2bc5cabbd915e220f1938374ea85c",
+  "translation": "Temperament:\n- Cheerful \n- Affectionate\n- Mischievous",
+  "vndb_url": "https://vndb.org/c58016"
+}

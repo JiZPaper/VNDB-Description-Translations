@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61346",
+  "type": "visual_novel",
+  "name": "Gomi no Machi wa Amamoyou",
+  "original_name": "ゴミの町は雨模様",
+  "language": "en",
+  "source_language": "en",
+  "source": "You awoke to find yourself in a town littered with trash, in which you meet a boy named Wakaba and a creature named Lee. Having lost your memory, you set out with the two to recover it.\n\n[Translated from [url=https://novelgame.jp/games/show/12938]Novelgame[/url]]",
+  "source_sha256": "3973148e474fc402c2029ddcdfd01a0469868ee13ff8f3cf84c0e9f314173679",
+  "translation": "You awoke to find yourself in a town littered with trash, in which you meet a boy named Wakaba and a creature named Lee. Having lost your memory, you set out with the two to recover it.\n\n[Translated from [url=https://novelgame.jp/games/show/12938]Novelgame[/url]]",
+  "vndb_url": "https://vndb.org/v61346"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38322",
+  "type": "character",
+  "name": "Ashley",
+  "original_name": "アシュレイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Female dragon knight of the Varuuda race.",
+  "source_sha256": "1cb00843a391f0a20279a0fd2a3e55988aaf7a0fde53634ae63f4fe4586136b3",
+  "translation": "Female dragon knight of the Varuuda race.",
+  "vndb_url": "https://vndb.org/c38322"
+}

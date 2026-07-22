@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70973",
+  "type": "character",
+  "name": "Anna Maverick",
+  "original_name": "アンナ＝マーベリック",
+  "language": "en",
+  "source_language": "en",
+  "source": "Right-handed\nHobby: Reading\nLoves: Her older sister, candy\nHates: Exercise\nFavorite Color: Red",
+  "source_sha256": "51955a04b945a6c358c778972a55f943034d300fc148887e76dc1c72ca6a13a8",
+  "translation": "Right-handed\nHobby: Reading\nLoves: Her older sister, candy\nHates: Exercise\nFavorite Color: Red",
+  "vndb_url": "https://vndb.org/c70973"
+}

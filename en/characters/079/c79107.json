@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79107",
+  "type": "character",
+  "name": "Eagle",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A talented young man in the investment world.",
+  "source_sha256": "c940ccfa50c162254a32d8076bca8ba5b4ca38bdd3cfdc601ef64eb1239b58ad",
+  "translation": "A talented young man in the investment world.",
+  "vndb_url": "https://vndb.org/c79107"
+}

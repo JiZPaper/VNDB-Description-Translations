@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22824",
+  "type": "visual_novel",
+  "name": "Doki Doki School Club",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Doki Doki Literature Club fan game.",
+  "source_sha256": "0121cd48c5292ccdc9808a00ca83fcce3c16405c7bd128b7a26c02b3206c8f37",
+  "translation": "A Doki Doki Literature Club fan game.",
+  "vndb_url": "https://vndb.org/v22824"
+}

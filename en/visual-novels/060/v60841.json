@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60841",
+  "type": "visual_novel",
+  "name": "Malen'kij Mir",
+  "original_name": "Маленький Мир",
+  "language": "en",
+  "source_language": "en",
+  "source": "Siblings Lesha and Diana are close, but separated by miles.\nEvery day, they face difficulties in their cold, unfriendly cities, and their connection is maintained only through video calls.\nWill they learn to appreciate each other in a new way after going through a series of dramatic events?",
+  "source_sha256": "81e55d476944376584796d8162816ebda4bc815ed60bc192406bd149d9dfd7d6",
+  "translation": "Siblings Lesha and Diana are close, but separated by miles.\nEvery day, they face difficulties in their cold, unfriendly cities, and their connection is maintained only through video calls.\nWill they learn to appreciate each other in a new way after going through a series of dramatic events?",
+  "vndb_url": "https://vndb.org/v60841"
+}

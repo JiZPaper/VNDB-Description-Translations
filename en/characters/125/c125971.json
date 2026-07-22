@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125971",
+  "type": "character",
+  "name": "Jonas",
+  "original_name": "ヨナス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Jonas is a merchant and Taylor's old friend.",
+  "source_sha256": "3cda1a7f7bd85a2c1c2591d852c7259a432f0815c016528f12dcdd25ff4dc702",
+  "translation": "Jonas is a merchant and Taylor's old friend.",
+  "vndb_url": "https://vndb.org/c125971"
+}

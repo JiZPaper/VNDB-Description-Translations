@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98288",
+  "type": "character",
+  "name": "Horikawa Nami",
+  "original_name": "堀川 奈美",
+  "language": "en",
+  "source_language": "en",
+  "source": "Nami is an innkeeper in Leazas who helps Rance find a place to stay during his quest to rescue Hikari.",
+  "source_sha256": "29867af135a588b6f66657b487708f36f5e557c35ad13dc7ee1d1ac2f6e9073b",
+  "translation": "Nami is an innkeeper in Leazas who helps Rance find a place to stay during his quest to rescue Hikari.",
+  "vndb_url": "https://vndb.org/c98288"
+}

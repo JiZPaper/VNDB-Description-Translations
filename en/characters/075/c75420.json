@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75420",
+  "type": "character",
+  "name": "Mechataur",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Mechataur is the mechanical guardian of the Technocrat's labyrinth.",
+  "source_sha256": "e86d3044299453d592867ca5d8c51ceb364709befa3e7d4e1f0e44da07d5a84a",
+  "translation": "The Mechataur is the mechanical guardian of the Technocrat's labyrinth.",
+  "vndb_url": "https://vndb.org/c75420"
+}

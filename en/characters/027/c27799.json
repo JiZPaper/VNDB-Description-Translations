@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c27799",
+  "type": "character",
+  "name": "Rune Zhevitz",
+  "original_name": "ルーン・ゼヴィツ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The original Rune.",
+  "source_sha256": "b2862a3155a89af1e342b21c24826515fcb1042871983bfc04f31e1d308597f9",
+  "translation": "The original Rune.",
+  "vndb_url": "https://vndb.org/c27799"
+}

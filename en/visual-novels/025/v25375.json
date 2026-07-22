@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25375",
+  "type": "visual_novel",
+  "name": "Cantabile Recipe",
+  "original_name": "칸타빌레 레시피",
+  "language": "en",
+  "source_language": "en",
+  "source": "Team HC Project No. 12",
+  "source_sha256": "928ee29b14973b11529a3985c98fde1a336883cb3cf0bf9486a109c24758ad54",
+  "translation": "Team HC Project No. 12",
+  "vndb_url": "https://vndb.org/v25375"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115469",
+  "type": "character",
+  "name": "Doctor Wu",
+  "original_name": "医師",
+  "language": "en",
+  "source_language": "en",
+  "source": "A doctor who runs a private clinic for underworld organizations.",
+  "source_sha256": "9ade34f7efadecdd6767b3d35fff693d82f1ff0a6f53a489dc108882428dda4d",
+  "translation": "A doctor who runs a private clinic for underworld organizations.",
+  "vndb_url": "https://vndb.org/c115469"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100191",
+  "type": "character",
+  "name": "Lando",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Landon's character.\n\nA lost, sweet boy. He is in the same dead end as you. Or so, he says.",
+  "source_sha256": "546dea522c9ba73a4a753871581461a8860f8643ed3bfc8b452e4985faae1914",
+  "translation": "Landon's character.\n\nA lost, sweet boy. He is in the same dead end as you. Or so, he says.",
+  "vndb_url": "https://vndb.org/c100191"
+}

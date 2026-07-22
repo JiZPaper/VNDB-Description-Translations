@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130502",
+  "type": "character",
+  "name": "Yuuki",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The AI system I built for the Mariana Orphanage, base on the Universal Key (U-key) door greeter program, hence his name Yuuki. Yuuki's functions are still limited by the original program, as he only perceives commands as doors to be opened and closed.\n\n[In game description]",
+  "source_sha256": "2cd76d0c8b256eb257c4f92725f7e82687bdeb805c133ec1bc78a89391f8ed15",
+  "translation": "The AI system I built for the Mariana Orphanage, base on the Universal Key (U-key) door greeter program, hence his name Yuuki. Yuuki's functions are still limited by the original program, as he only perceives commands as doors to be opened and closed.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c130502"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87137",
+  "type": "character",
+  "name": "Miss James",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is the math teacher at the University.",
+  "source_sha256": "cae7e76baa24e79ec0ca2d7130ae747e764980acc64dd1c6948af57ad2cf13ce",
+  "translation": "She is the math teacher at the University.",
+  "vndb_url": "https://vndb.org/c87137"
+}

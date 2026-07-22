@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44257",
+  "type": "character",
+  "name": "ISU-152",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Russian tank, and the leader of the Newspaper Club, 'Pravda'.",
+  "source_sha256": "abbb7ef24dad31aaa1a25da17d22ca45f0020d716a048cb1194ab8f6db3fa422",
+  "translation": "A Russian tank, and the leader of the Newspaper Club, 'Pravda'.",
+  "vndb_url": "https://vndb.org/c44257"
+}

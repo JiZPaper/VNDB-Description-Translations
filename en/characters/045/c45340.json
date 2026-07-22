@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45340",
+  "type": "character",
+  "name": "Camus Pfalzgraf von Silvaner Luneburg",
+  "original_name": "カミユ・パァルツグラーフ・フォン・ジルヴァーナー・リューネブルク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Star Sign: Virgo\nClub: Gardening\n\nThe youngest son of a count. He loves flowers.\nHe's weak but has a mysterious power to predict the future so he was raised without leaving his mansion.\nHe's a distant relative of [url=/c45331]Ludwig[/url].",
+  "source_sha256": "bff694cf9ab19c054688db1291901bb5870db0f261d47e44da0fc459a44aab94",
+  "translation": "Star Sign: Virgo\nClub: Gardening\n\nThe youngest son of a count. He loves flowers.\nHe's weak but has a mysterious power to predict the future so he was raised without leaving his mansion.\nHe's a distant relative of [url=/c45331]Ludwig[/url].",
+  "vndb_url": "https://vndb.org/c45340"
+}

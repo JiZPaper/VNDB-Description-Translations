@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40400",
+  "type": "character",
+  "name": "Camilla",
+  "original_name": "カミラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hobbies: Walking around while eating sweets\nLikes: Sweet things, beautiful things\nDislikes: Things that have no aesthetic sense",
+  "source_sha256": "b4725f4e3feabd86a9c3d4f9f43628e62cda3f27e9b35d23965b9012199aedf5",
+  "translation": "Hobbies: Walking around while eating sweets\nLikes: Sweet things, beautiful things\nDislikes: Things that have no aesthetic sense",
+  "vndb_url": "https://vndb.org/c40400"
+}

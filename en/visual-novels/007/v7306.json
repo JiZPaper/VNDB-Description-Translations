@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7306",
+  "type": "visual_novel",
+  "name": "Connection",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl, constantly wandering in search for her place, her connection to the world.",
+  "source_sha256": "f7a54687310786e1da4d7e3701211448847534913f7e051112ab5d4f1214e300",
+  "translation": "A girl, constantly wandering in search for her place, her connection to the world.",
+  "vndb_url": "https://vndb.org/v7306"
+}

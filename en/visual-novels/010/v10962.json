@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10962",
+  "type": "visual_novel",
+  "name": "Mind Control",
+  "original_name": "マインドコントろ～る",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist does bad things to a hypnotized young girl.",
+  "source_sha256": "ee8a21ab8ba3607f24c32b7d508db9a84b465a88bd38e1a643c3db606d71e237",
+  "translation": "The protagonist does bad things to a hypnotized young girl.",
+  "vndb_url": "https://vndb.org/v10962"
+}

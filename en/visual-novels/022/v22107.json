@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22107",
+  "type": "visual_novel",
+  "name": "Killing Stalking: Missing",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Fan game based on the manhwa [url=https://en.wikipedia.org/wiki/Killing_Stalking_(manhwa)]Killing Stalking[/url].",
+  "source_sha256": "ea5c4aa830f3702ea73b0a50cb6d6a1cea909f7410d815675bf6231c9b5d64fe",
+  "translation": "Fan game based on the manhwa [url=https://en.wikipedia.org/wiki/Killing_Stalking_(manhwa)]Killing Stalking[/url].",
+  "vndb_url": "https://vndb.org/v22107"
+}

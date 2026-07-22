@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c2434",
+  "type": "character",
+  "name": "Dr. Suteki",
+  "original_name": "素敵 医師",
+  "language": "en",
+  "source_language": "en",
+  "source": "He will join Wakame Group if you can't take over Senri two months after attacking.",
+  "source_sha256": "2702af9495f2f8e5b734805c4ebeceb9a7f53d12cb73d26cb5dda9a6c37b0dc6",
+  "translation": "He will join Wakame Group if you can't take over Senri two months after attacking.",
+  "vndb_url": "https://vndb.org/c2434"
+}

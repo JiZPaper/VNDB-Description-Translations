@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c18257",
+  "type": "character",
+  "name": "Onii-san",
+  "original_name": "お兄さん",
+  "language": "en",
+  "source_language": "en",
+  "source": "A stranger who asks Nishida some very personal questions. He also gives the player hints for how to get certain routes.",
+  "source_sha256": "643a1abc16ae7c540c239d4c3ea7e0cd249c3320e7769a384d068c804fe3cb2a",
+  "translation": "A stranger who asks Nishida some very personal questions. He also gives the player hints for how to get certain routes.",
+  "vndb_url": "https://vndb.org/c18257"
+}

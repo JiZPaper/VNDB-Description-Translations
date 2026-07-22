@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v399",
+  "type": "visual_novel",
+  "name": "Minikiss ~Tsuyokiss Fan Disc~",
+  "original_name": "みにきす　～つよきすファンディスク～",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a fan disc of \"Tsuyokiss\", featuring new scenarios and mini games.\n\n[Edited from Himeya Shop]",
+  "source_sha256": "66c1b1530ac0a7e4483ee4d44f168d7fc74e339a7378d027a193af2a7625a176",
+  "translation": "This is a fan disc of \"Tsuyokiss\", featuring new scenarios and mini games.\n\n[Edited from Himeya Shop]",
+  "vndb_url": "https://vndb.org/v399"
+}

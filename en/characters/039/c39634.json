@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39634",
+  "type": "character",
+  "name": "Vulture",
+  "original_name": "ヴァルチャー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Hunter that hunts other Hunters.\nShe monitors Hunters, and when one seems to be deviating from their duties she purges them.",
+  "source_sha256": "f61c3704ff2eab5b5ea78176a12c5ddb25a8590ba271e26f413cdf01bf606c3d",
+  "translation": "A Hunter that hunts other Hunters.\nShe monitors Hunters, and when one seems to be deviating from their duties she purges them.",
+  "vndb_url": "https://vndb.org/c39634"
+}

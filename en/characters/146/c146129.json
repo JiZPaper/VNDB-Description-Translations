@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146129",
+  "type": "character",
+  "name": "Valzira",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Valzira is a powerful and snide witch, living isolated in the swamp. An air of mystery surrounds her, and she holds only disdain for you and your pursuits. Be wary of the threat she poses.",
+  "source_sha256": "447d97308d6f93f46d4f7ec3ae5d481d7c62685b7610a2e6e8a88f307cacaa0b",
+  "translation": "Valzira is a powerful and snide witch, living isolated in the swamp. An air of mystery surrounds her, and she holds only disdain for you and your pursuits. Be wary of the threat she poses.",
+  "vndb_url": "https://vndb.org/c146129"
+}

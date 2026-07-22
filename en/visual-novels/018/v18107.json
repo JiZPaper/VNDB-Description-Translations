@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18107",
+  "type": "visual_novel",
+  "name": "Moshimo no Hanashi",
+  "original_name": "もしもの話",
+  "language": "en",
+  "source_language": "en",
+  "source": "Story about the events after Abel's true ending in \"Masakaba 2-kai no Kadobeya\".",
+  "source_sha256": "61e8a2a8ab86372bd230f6708e2dd1f52055a0a14cc7a6dc099da86dd0df2871",
+  "translation": "Story about the events after Abel's true ending in \"Masakaba 2-kai no Kadobeya\".",
+  "vndb_url": "https://vndb.org/v18107"
+}

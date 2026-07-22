@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40777",
+  "type": "character",
+  "name": "Brother",
+  "original_name": "兄",
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist's older brother.",
+  "source_sha256": "7eb4ac546b886219fe559db00276a2c6f86de1cffd5660b34fa5f5eebf296f85",
+  "translation": "Protagonist's older brother.",
+  "vndb_url": "https://vndb.org/c40777"
+}

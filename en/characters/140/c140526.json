@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140526",
+  "type": "character",
+  "name": "Rouge",
+  "original_name": "ルージュ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Part of the crew on the ship called neptune, she has expertize on weapons and ship maintenance.",
+  "source_sha256": "7427e93a93a551d9c41fdb2bccf1db49b9644e256a52b30ac45813417b6ee49d",
+  "translation": "Part of the crew on the ship called neptune, she has expertize on weapons and ship maintenance.",
+  "vndb_url": "https://vndb.org/c140526"
+}

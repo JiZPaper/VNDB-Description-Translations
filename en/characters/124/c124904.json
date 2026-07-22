@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124904",
+  "type": "character",
+  "name": "Elvira",
+  "original_name": "エルヴィラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the witches.",
+  "source_sha256": "08c7d5b5e5b5ba9c02a22fc477fb4064d0fdb2bafacd4f2c55054f8e1729bd5b",
+  "translation": "One of the witches.",
+  "vndb_url": "https://vndb.org/c124904"
+}

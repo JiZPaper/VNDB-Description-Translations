@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c59502",
+  "type": "character",
+  "name": "Nao",
+  "original_name": "直",
+  "language": "en",
+  "source_language": "en",
+  "source": "An average, if a bit timid, elementary school student who gets roped into exploring an abandoned hospital.",
+  "source_sha256": "745423cb8c87c74d5da266e651761dad95f908cc5e95fe664cedc0615c43144e",
+  "translation": "An average, if a bit timid, elementary school student who gets roped into exploring an abandoned hospital.",
+  "vndb_url": "https://vndb.org/c59502"
+}

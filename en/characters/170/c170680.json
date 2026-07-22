@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170680",
+  "type": "character",
+  "name": "Zoe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A woman who accidentally locks herself out from her house without any clothes.",
+  "source_sha256": "251b0c308c43ef0bb02dc550c1657a7ea8dd8d288c353305e8851875793d7e4c",
+  "translation": "A woman who accidentally locks herself out from her house without any clothes.",
+  "vndb_url": "https://vndb.org/c170680"
+}

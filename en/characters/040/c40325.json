@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40325",
+  "type": "character",
+  "name": "Thomas Kohl",
+  "original_name": "トーマス・コール",
+  "language": "en",
+  "source_language": "en",
+  "source": "Affiliation: EUG\nPost: President\nBirthplace: America (Mississippi)\n\nThe president of the EUG. \nHe never acted as a solider, but he's clever and resourceful.\nHowever he's not very good at seeing the big picture militarily.",
+  "source_sha256": "10aa8d46956a5f875f4594e871416c9c63c3d0c7c747cc076417a54b34e46c01",
+  "translation": "Affiliation: EUG\nPost: President\nBirthplace: America (Mississippi)\n\nThe president of the EUG. \nHe never acted as a solider, but he's clever and resourceful.\nHowever he's not very good at seeing the big picture militarily.",
+  "vndb_url": "https://vndb.org/c40325"
+}

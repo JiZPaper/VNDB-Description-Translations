@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13701",
+  "type": "visual_novel",
+  "name": "Maranda",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Final Fantasy VI fanfic.",
+  "source_sha256": "0de7d2ba88f34c9f5f48b0d7dc986cd3297160c1ea8909a3e5c87257d0aea39b",
+  "translation": "A Final Fantasy VI fanfic.",
+  "vndb_url": "https://vndb.org/v13701"
+}

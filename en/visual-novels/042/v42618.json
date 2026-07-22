@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42618",
+  "type": "visual_novel",
+  "name": "Kryzalis Progranyh Sniv",
+  "original_name": "Кризаліс Програних Снів",
+  "language": "en",
+  "source_language": "en",
+  "source": "A guy who has lost his memory wakes up in a mysterious superstructure that has survived the end of the world. Its inhabitants play mahjong with each other to save themselves from oblivion. There, he will search for his memories, the reasons for the death of the past world, and hope for the future.",
+  "source_sha256": "3962d6bc4ab859dd2c439c4f0e956827b9d021247246424b4fc1797fe66c2aa0",
+  "translation": "A guy who has lost his memory wakes up in a mysterious superstructure that has survived the end of the world. Its inhabitants play mahjong with each other to save themselves from oblivion. There, he will search for his memories, the reasons for the death of the past world, and hope for the future.",
+  "vndb_url": "https://vndb.org/v42618"
+}

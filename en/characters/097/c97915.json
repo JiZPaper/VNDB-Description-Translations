@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97915",
+  "type": "character",
+  "name": "Monster",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The criature that talks with the protagonist, looking for someone that could recognise it. Although it has a male voice it doesn't have any apparent male or female \"body\", changing it's form depending on the choices made.",
+  "source_sha256": "1121deaedd24cef2b877e76efd298886527dc339cfdb23d184f627d464da22da",
+  "translation": "The criature that talks with the protagonist, looking for someone that could recognise it. Although it has a male voice it doesn't have any apparent male or female \"body\", changing it's form depending on the choices made.",
+  "vndb_url": "https://vndb.org/c97915"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100033",
+  "type": "character",
+  "name": "Ms. Highsmith",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Judge presiding over the case between Sophie and her mother.",
+  "source_sha256": "7341354c31df8cce5e9560dde33e31b89dc69dd739711279b4ffff35d4cccf8a",
+  "translation": "Judge presiding over the case between Sophie and her mother.",
+  "vndb_url": "https://vndb.org/c100033"
+}

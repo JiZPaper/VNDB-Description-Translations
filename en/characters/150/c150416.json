@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150416",
+  "type": "character",
+  "name": "The Valkyrie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mythical hero from the other world whom slayed Diablo.",
+  "source_sha256": "e6ee43ecd3e2920dfa39675f71deee664a631bf6d6014979b00541c9422d41cd",
+  "translation": "A mythical hero from the other world whom slayed Diablo.",
+  "vndb_url": "https://vndb.org/c150416"
+}

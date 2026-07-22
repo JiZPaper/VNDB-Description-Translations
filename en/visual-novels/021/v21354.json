@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21354",
+  "type": "visual_novel",
+  "name": "666laboratory",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "As a newly hired psychologist, you spend seven days counseling an 8-year-old girl called Io.",
+  "source_sha256": "0af27cb6c810e6258ce3cb99253cb4018bd0b0847b6a7436805d703df8c58752",
+  "translation": "As a newly hired psychologist, you spend seven days counseling an 8-year-old girl called Io.",
+  "vndb_url": "https://vndb.org/v21354"
+}

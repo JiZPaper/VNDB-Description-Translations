@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88165",
+  "type": "character",
+  "name": "Tony",
+  "original_name": "トニー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A bartender at Lurunia.\nHe's very friendly and quickly opens up to the protagonist, and he gets worried for her.\nHe has a side that enjoys teasing.\nHe loves gossip and is a good source of information.",
+  "source_sha256": "1cc77beacf5ea01789268d8955dfa725cfdee0831b6ec27005de34d2a2210d27",
+  "translation": "A bartender at Lurunia.\nHe's very friendly and quickly opens up to the protagonist, and he gets worried for her.\nHe has a side that enjoys teasing.\nHe loves gossip and is a good source of information.",
+  "vndb_url": "https://vndb.org/c88165"
+}

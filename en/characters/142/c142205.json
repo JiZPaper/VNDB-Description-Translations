@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c142205",
+  "type": "character",
+  "name": "Mark",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A little boy.",
+  "source_sha256": "d25e8f79fc693ad5fb2688ca2cff3aecdb36fca2386bb72a53830b8c26af7350",
+  "translation": "A little boy.",
+  "vndb_url": "https://vndb.org/c142205"
+}

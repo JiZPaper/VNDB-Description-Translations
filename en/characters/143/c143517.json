@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143517",
+  "type": "character",
+  "name": "Fighter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fighter in the local amateur MMA tournament.",
+  "source_sha256": "0787ccb9e635b43932bae38f578a088cc4c962d4f7416ad0cff99a0c32b99217",
+  "translation": "A fighter in the local amateur MMA tournament.",
+  "vndb_url": "https://vndb.org/c143517"
+}

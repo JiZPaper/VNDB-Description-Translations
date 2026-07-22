@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77365",
+  "type": "character",
+  "name": "Toto",
+  "original_name": "トト",
+  "language": "en",
+  "source_language": "en",
+  "source": "An AI created by [url=/c50424]Momo[/url].",
+  "source_sha256": "08eabb593d20fb2c34950b61052a219c7248a33510a0637e017a49ae4f4174ad",
+  "translation": "An AI created by [url=/c50424]Momo[/url].",
+  "vndb_url": "https://vndb.org/c77365"
+}

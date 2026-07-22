@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c3315",
+  "type": "character",
+  "name": "Cookie",
+  "original_name": "くっきー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mischievous ferret that is always near Rino.",
+  "source_sha256": "12cdd968fe0344fd99597fa530c8db77a3547b40994c68941f4627a2900a972e",
+  "translation": "A mischievous ferret that is always near Rino.",
+  "vndb_url": "https://vndb.org/c3315"
+}

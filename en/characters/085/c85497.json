@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c85497",
+  "type": "character",
+  "name": "Lux",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your best friend since childhood and a light elemental.",
+  "source_sha256": "a83bf098cf775bb6bc2beab4f80fd8e3609273cc5dbbed4b456ffebc0c459071",
+  "translation": "Your best friend since childhood and a light elemental.",
+  "vndb_url": "https://vndb.org/c85497"
+}

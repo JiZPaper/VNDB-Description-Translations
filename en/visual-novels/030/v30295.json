@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30295",
+  "type": "visual_novel",
+  "name": "Ichikoi",
+  "original_name": "一恋",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Destined love begins in an instant―\"\n\nA short otome game with 4 suitors.",
+  "source_sha256": "a075530ecc9c477bc8d3fbd47fa6f6cd852270ff96b006a5b85a2981c9f007c1",
+  "translation": "\"Destined love begins in an instant―\"\n\nA short otome game with 4 suitors.",
+  "vndb_url": "https://vndb.org/v30295"
+}

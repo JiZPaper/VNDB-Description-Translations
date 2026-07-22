@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87014",
+  "type": "character",
+  "name": "Shu Shu",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Fenrir’s pet dog.",
+  "source_sha256": "c9bc91ea7ffa53cc7971580314d160dec5d492a23916ee5c2bd1403afc237add",
+  "translation": "Fenrir’s pet dog.",
+  "vndb_url": "https://vndb.org/c87014"
+}

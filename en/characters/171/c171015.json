@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c171015",
+  "type": "character",
+  "name": "Biker Boy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A regular customer. BB is calm, polite, and treats ordinary conversations with unsettling seriousness. He's hard to read, but something tells you there's a reason for that.",
+  "source_sha256": "9f26bf92ba9111860bf5f6a8adcb34cc728f0b7c0de2f5fca290d3db57d6dd65",
+  "translation": "A regular customer. BB is calm, polite, and treats ordinary conversations with unsettling seriousness. He's hard to read, but something tells you there's a reason for that.",
+  "vndb_url": "https://vndb.org/c171015"
+}

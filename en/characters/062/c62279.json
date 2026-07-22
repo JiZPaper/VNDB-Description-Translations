@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62279",
+  "type": "character",
+  "name": "Kyndle",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The lone survivor of the destruction of the SS Spirit. The player can choose what her role on the ship was prior to the accident: mechanical engineer, journalist, medical doctor, archivist, or cartographer.",
+  "source_sha256": "cb37985ea97f62112d8ebec357efc9a09a9087a5378890f5c1ca3462fea3f98f",
+  "translation": "The lone survivor of the destruction of the SS Spirit. The player can choose what her role on the ship was prior to the accident: mechanical engineer, journalist, medical doctor, archivist, or cartographer.",
+  "vndb_url": "https://vndb.org/c62279"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73730",
+  "type": "character",
+  "name": "Mr. Gargano",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A physical trainer at the Burgaw Sports Complex.",
+  "source_sha256": "2c225c5986369753cecac6031f8e7864c7ff1126da2599c4983ccfe93eb50205",
+  "translation": "A physical trainer at the Burgaw Sports Complex.",
+  "vndb_url": "https://vndb.org/c73730"
+}

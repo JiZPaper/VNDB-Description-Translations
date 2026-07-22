@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9611",
+  "type": "character",
+  "name": "Chie",
+  "original_name": "チエ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A chair that was turned into a girl.",
+  "source_sha256": "32de7cbebfad0b99327b45a150d48f2c40118e931998523e4945e6877561bda3",
+  "translation": "A chair that was turned into a girl.",
+  "vndb_url": "https://vndb.org/c9611"
+}

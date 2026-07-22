@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c32887",
+  "type": "character",
+  "name": "Arthur",
+  "original_name": "アーサー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Currently resides with QD.",
+  "source_sha256": "1748c105861b4d46a4ae5170b63f46c5ac817c37efbdbb0eeebda2fc85e3e565",
+  "translation": "Currently resides with QD.",
+  "vndb_url": "https://vndb.org/c32887"
+}

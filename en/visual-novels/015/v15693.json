@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15693",
+  "type": "visual_novel",
+  "name": "Mozart's Name Day: Fourth",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The fourth installment of \"Mozart's Name Day - Halloween stories for music lovers.\"\n\nA man takes his wife to a magic show where nothing is what it seems.",
+  "source_sha256": "45055651292a805bcc6c2699bb1b1fc6abdf55d266bc984dc2192c413427bf02",
+  "translation": "The fourth installment of \"Mozart's Name Day - Halloween stories for music lovers.\"\n\nA man takes his wife to a magic show where nothing is what it seems.",
+  "vndb_url": "https://vndb.org/v15693"
+}

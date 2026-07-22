@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87015",
+  "type": "character",
+  "name": "Cherry",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A stray cat who is Loki’s friend.",
+  "source_sha256": "8b7c4c4189e638a34c071ef6a7e63c21abe39b8dca7e1f3bb6253cd67d062c54",
+  "translation": "A stray cat who is Loki’s friend.",
+  "vndb_url": "https://vndb.org/c87015"
+}

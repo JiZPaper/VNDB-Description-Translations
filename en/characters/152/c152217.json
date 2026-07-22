@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152217",
+  "type": "character",
+  "name": "Clover",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An Alchemist and toolmaker.",
+  "source_sha256": "303fc4383771c9dc5ebaea48dbb2294b0a349adc15c6be5c6be5d8912e9b812e",
+  "translation": "An Alchemist and toolmaker.",
+  "vndb_url": "https://vndb.org/c152217"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61335",
+  "type": "character",
+  "name": "KING-CORE",
+  "original_name": "キングコア",
+  "language": "en",
+  "source_language": "en",
+  "source": "He is vicious criminal, that was sentenced to 800 years in prison for over 125 brutal crimes.",
+  "source_sha256": "b1e961f94348227688a03d67a62de6c790673554e917afbe43cc4e11c9c8bf45",
+  "translation": "He is vicious criminal, that was sentenced to 800 years in prison for over 125 brutal crimes.",
+  "vndb_url": "https://vndb.org/c61335"
+}

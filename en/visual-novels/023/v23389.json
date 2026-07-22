@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23389",
+  "type": "visual_novel",
+  "name": "Save Love",
+  "original_name": "Сохранив любовь",
+  "language": "en",
+  "source_language": "en",
+  "source": "A remake of a story made by Yuri Tomin in 1963.\n\nThe boy returns home after a series of adventures. His sister meets him.",
+  "source_sha256": "6bf269413f28c40a34642af880f707ce449a625f0fd971551427756c30873dde",
+  "translation": "A remake of a story made by Yuri Tomin in 1963.\n\nThe boy returns home after a series of adventures. His sister meets him.",
+  "vndb_url": "https://vndb.org/v23389"
+}

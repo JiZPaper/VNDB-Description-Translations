@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40181",
+  "type": "character",
+  "name": "Helene",
+  "original_name": "エレーヌ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Philippe's fiancee.",
+  "source_sha256": "066f13a34be13827e9f96fc663272e12c80c210055b5adddace0a590f2483389",
+  "translation": "Philippe's fiancee.",
+  "vndb_url": "https://vndb.org/c40181"
+}

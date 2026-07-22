@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19550",
+  "type": "character",
+  "name": "Lumina Lumion",
+  "original_name": "ルミナ＝ルミオン",
+  "language": "en",
+  "source_language": "en",
+  "source": "An apprentice alchemist.",
+  "source_sha256": "64fa67579dedcc7accae958b08391d9f40131a1eef2560453e36f869cd94a946",
+  "translation": "An apprentice alchemist.",
+  "vndb_url": "https://vndb.org/c19550"
+}

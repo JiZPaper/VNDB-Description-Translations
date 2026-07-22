@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50903",
+  "type": "visual_novel",
+  "name": "The Awakened",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Amaruq has just woken up in the hospital with his head bandaged, and is about to see the world in a whole new way.\n\n[From Itch.io]",
+  "source_sha256": "25ad750cad4acdcaeb8fdf1d538e176ab37a8ac385671250762beaa89c61dd1c",
+  "translation": "Amaruq has just woken up in the hospital with his head bandaged, and is about to see the world in a whole new way.\n\n[From Itch.io]",
+  "vndb_url": "https://vndb.org/v50903"
+}

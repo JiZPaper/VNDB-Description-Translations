@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27144",
+  "type": "visual_novel",
+  "name": "Yamamura Misa Suspense: Kyoto Hana no Misshitsu Satsujin Jiken",
+  "original_name": "山村美紗サスペンス 京都花の密室殺人事件",
+  "language": "en",
+  "source_language": "en",
+  "source": "The second game in the Yamamura Misa Suspense series, also featuring American detective Catherine as its protagonist.",
+  "source_sha256": "c81e59e3e504eaa155f10f5a10974e93cdc7304522aa0ce2b6de8302a72c52a2",
+  "translation": "The second game in the Yamamura Misa Suspense series, also featuring American detective Catherine as its protagonist.",
+  "vndb_url": "https://vndb.org/v27144"
+}

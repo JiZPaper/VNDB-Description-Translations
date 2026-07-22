@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89692",
+  "type": "character",
+  "name": "Takei",
+  "original_name": "武井",
+  "language": "en",
+  "source_language": "en",
+  "source": "A bully who torments Takuji.",
+  "source_sha256": "ccc68a381c627f0857558c61fcd90f299c71d82925dc05765a11ed1fada07596",
+  "translation": "A bully who torments Takuji.",
+  "vndb_url": "https://vndb.org/c89692"
+}

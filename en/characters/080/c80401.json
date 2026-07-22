@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c80401",
+  "type": "character",
+  "name": "Parasol Woman",
+  "original_name": "日傘女",
+  "language": "en",
+  "source_language": "en",
+  "source": "A tall, man-eating youkai that has recently become famous.",
+  "source_sha256": "62523eb2e6a5213a55cd8e60e193172e06a9644dfe8de3e36140512269ff6824",
+  "translation": "A tall, man-eating youkai that has recently become famous.",
+  "vndb_url": "https://vndb.org/c80401"
+}

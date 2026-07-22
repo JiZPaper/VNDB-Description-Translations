@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36090",
+  "type": "character",
+  "name": "Ekidona",
+  "original_name": "エキドナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Purometia \nOccupation: Canon Ruler",
+  "source_sha256": "de98be52509778f3184b4b4e1b35f74c74a0701d855ca27fd4893dbdeb536f63",
+  "translation": "Race: Purometia \nOccupation: Canon Ruler",
+  "vndb_url": "https://vndb.org/c36090"
+}

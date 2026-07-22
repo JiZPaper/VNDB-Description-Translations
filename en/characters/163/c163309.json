@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163309",
+  "type": "character",
+  "name": "Doctor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A medical professional. Around 60 years old, previously a skilled pianist. Before the war began, he used to be an \"esteemed presence in all sorts of cultural events\". Is well-read and intelligent.",
+  "source_sha256": "bc530f6d9ed3dd3aab84d19365a87cfc9dd55526b528c80b09c680901839b7ee",
+  "translation": "A medical professional. Around 60 years old, previously a skilled pianist. Before the war began, he used to be an \"esteemed presence in all sorts of cultural events\". Is well-read and intelligent.",
+  "vndb_url": "https://vndb.org/c163309"
+}

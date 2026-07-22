@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c147652",
+  "type": "character",
+  "name": "Benjamin Franklin",
+  "original_name": "ベンジャミン・フランクリン",
+  "language": "en",
+  "source_language": "en",
+  "source": "An inventor.\n\nBenjamin Franklin's unique ideas have brought various benefits to the USA.\n\n\"Good! The town was reduced to ashes, but the overall result is a positive one!\"",
+  "source_sha256": "3eb5090f12fb684764f6515882e218324681c116577990bf9514012e31971fb0",
+  "translation": "An inventor.\n\nBenjamin Franklin's unique ideas have brought various benefits to the USA.\n\n\"Good! The town was reduced to ashes, but the overall result is a positive one!\"",
+  "vndb_url": "https://vndb.org/c147652"
+}

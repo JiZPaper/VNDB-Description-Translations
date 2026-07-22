@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c54822",
+  "type": "character",
+  "name": "Beatrice Ariestate",
+  "original_name": "ベアトリス・アリエステート",
+  "language": "en",
+  "source_language": "en",
+  "source": "Princess of Neo Ariecia.\nLikes: Gelato\nDislikes: Larvae insects\nHobbies: Astronomy, Reading",
+  "source_sha256": "0fa4e60c89a6aee22ed23792878a437e55a25e3feefc82b50c2de859b8c815a6",
+  "translation": "Princess of Neo Ariecia.\nLikes: Gelato\nDislikes: Larvae insects\nHobbies: Astronomy, Reading",
+  "vndb_url": "https://vndb.org/c54822"
+}

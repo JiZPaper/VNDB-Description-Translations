@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29127",
+  "type": "character",
+  "name": "Mugen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Producer of creamed corn.",
+  "source_sha256": "fde2996a0682336167ea0ed75a380bca354119147a83554bae5fea8fb5d6ff03",
+  "translation": "Producer of creamed corn.",
+  "vndb_url": "https://vndb.org/c29127"
+}

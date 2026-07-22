@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92507",
+  "type": "character",
+  "name": "Loki",
+  "original_name": "ロキ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of the riddari force tasked with slaying the shadows in Asgard. He remains locked up in a dungeon for reasons unknown, though.",
+  "source_sha256": "7ae10195a4e9cdd545b57d5b77fa1bf0a3e1c17c0f9ed7da64a6249555f4af05",
+  "translation": "A member of the riddari force tasked with slaying the shadows in Asgard. He remains locked up in a dungeon for reasons unknown, though.",
+  "vndb_url": "https://vndb.org/c92507"
+}

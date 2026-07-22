@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25776",
+  "type": "character",
+  "name": "Canada",
+  "original_name": "カナダ",
+  "language": "en",
+  "source_language": "en",
+  "source": "He doesn't have a strong presence. Whenever he stands out he gets mistaken for America.",
+  "source_sha256": "11617d5b158639a661fbb853d67a04e55283b61b9ec779bd25fb500730ba16fc",
+  "translation": "He doesn't have a strong presence. Whenever he stands out he gets mistaken for America.",
+  "vndb_url": "https://vndb.org/c25776"
+}

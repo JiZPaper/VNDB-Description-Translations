@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156057",
+  "type": "character",
+  "name": "CTONE-3",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "CTONE-3, mysterious being within your head",
+  "source_sha256": "1f09c6eabe8765f9081a757465b2c23548b8e52fcd524db19a2435c327ab77d1",
+  "translation": "CTONE-3, mysterious being within your head",
+  "vndb_url": "https://vndb.org/c156057"
+}

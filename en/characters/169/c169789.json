@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169789",
+  "type": "character",
+  "name": "Mike",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A restaurant manager and an associate of [url=/c169817]Vincent Marchetti[/url]. [url=/c169892]Drea[/url] is his girlfriend.",
+  "source_sha256": "c7c7b2552d1181d241668733b6fb746b16f8eb5bb9f634825f335fdfeb3f4b9c",
+  "translation": "A restaurant manager and an associate of [url=/c169817]Vincent Marchetti[/url]. [url=/c169892]Drea[/url] is his girlfriend.",
+  "vndb_url": "https://vndb.org/c169789"
+}

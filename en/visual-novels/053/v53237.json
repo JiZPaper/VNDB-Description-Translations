@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53237",
+  "type": "visual_novel",
+  "name": "Muv-Luv Alternative in Eurofront DUTY -LOST ARCADIA-",
+  "original_name": "マブラヴ オルタネイティヴ イン ユーロフロント DUTY -LOST ARCADIA-",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sequel to Schwarzesmarken, taking place in the Euro Front Setting.",
+  "source_sha256": "a3d2c2b1a3d8f96920aaad2006da7c2659de97856842482833363525bc6f4d89",
+  "translation": "Sequel to Schwarzesmarken, taking place in the Euro Front Setting.",
+  "vndb_url": "https://vndb.org/v53237"
+}

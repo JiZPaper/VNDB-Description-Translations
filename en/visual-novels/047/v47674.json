@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47674",
+  "type": "visual_novel",
+  "name": "Doukyuusei 2 Special Disc",
+  "original_name": "同級生2 スペシャルディスク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Contains:\n* Sotsugyousei, a mini adventure where Sanshirou-senpai is the main character\n* Narusawake no Isouro, a mini adventure parodying Doukyuusei 2\n* Mahaato-san no corner",
+  "source_sha256": "33830ae8584068ec8d90484bac0a9818ad7b14537d692895ba423f7bdf1a206b",
+  "translation": "Contains:\n* Sotsugyousei, a mini adventure where Sanshirou-senpai is the main character\n* Narusawake no Isouro, a mini adventure parodying Doukyuusei 2\n* Mahaato-san no corner",
+  "vndb_url": "https://vndb.org/v47674"
+}

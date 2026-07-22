@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16966",
+  "type": "visual_novel",
+  "name": "Teddy&Ozzie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short story about Teddy the bear and Ozzie the koala from Animal Crossing.",
+  "source_sha256": "425904c90dffcb045c4f02ab55534083b08af9b70424026e09fb691b973f6d50",
+  "translation": "A short story about Teddy the bear and Ozzie the koala from Animal Crossing.",
+  "vndb_url": "https://vndb.org/v16966"
+}

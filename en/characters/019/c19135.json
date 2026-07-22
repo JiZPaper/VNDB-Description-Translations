@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19135",
+  "type": "character",
+  "name": "Kamo Wataru",
+  "original_name": "賀茂朗",
+  "language": "en",
+  "source_language": "en",
+  "source": "A young businessman who runs a modeling agency.",
+  "source_sha256": "df90959cf02eb1a284bf142a6cc03eafe8cb7d94c61ee4c54565ee10f0d3fc43",
+  "translation": "A young businessman who runs a modeling agency.",
+  "vndb_url": "https://vndb.org/c19135"
+}

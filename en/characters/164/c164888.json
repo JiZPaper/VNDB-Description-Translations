@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c164888",
+  "type": "character",
+  "name": "Trevor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is the Mayor of the town.\n\n[spoiler]He is also one of the leaders of [b]Nightmare[/b]. His job within the organization is to manage the workforce and maintain connections with other politicians.[/spoiler]",
+  "source_sha256": "08b6143bf18844aeeed3f69fe753c05f1c6e74529c89ed8d14f806929a15fb18",
+  "translation": "He is the Mayor of the town.\n\n[spoiler]He is also one of the leaders of [b]Nightmare[/b]. His job within the organization is to manage the workforce and maintain connections with other politicians.[/spoiler]",
+  "vndb_url": "https://vndb.org/c164888"
+}

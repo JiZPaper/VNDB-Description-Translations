@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124101",
+  "type": "character",
+  "name": "Asakura",
+  "original_name": "麻倉",
+  "language": "en",
+  "source_language": "en",
+  "source": "The goalie for Akane's lacrosse team.",
+  "source_sha256": "371f68341c433344ea66ce2b023e20337fc939fcab774216dc968e7f017f853a",
+  "translation": "The goalie for Akane's lacrosse team.",
+  "vndb_url": "https://vndb.org/c124101"
+}

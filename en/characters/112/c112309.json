@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112309",
+  "type": "character",
+  "name": "Cohen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Cohen is Shilo's client. He's very strict.",
+  "source_sha256": "f9c610963b82c2a016cee7af2b2d2276c0b25799100fc37a883fce6cc2397fb6",
+  "translation": "Cohen is Shilo's client. He's very strict.",
+  "vndb_url": "https://vndb.org/c112309"
+}

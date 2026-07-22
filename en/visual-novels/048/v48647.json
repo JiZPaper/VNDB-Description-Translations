@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48647",
+  "type": "visual_novel",
+  "name": "One More Time",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about a wife trying to save her husband from repeatedly dying.",
+  "source_sha256": "0ea7ff3424fca498305e0b8170bcd3a6768c0d3c86ec5b7198821cae03161a5a",
+  "translation": "A story about a wife trying to save her husband from repeatedly dying.",
+  "vndb_url": "https://vndb.org/v48647"
+}

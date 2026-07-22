@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134183",
+  "type": "character",
+  "name": "Kari",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The woman the protagonist finds already living in his apartment.",
+  "source_sha256": "bd25aecb796de381cc2b2f9cb2b4bf54b520849ad28300b72233d3379e9961d9",
+  "translation": "The woman the protagonist finds already living in his apartment.",
+  "vndb_url": "https://vndb.org/c134183"
+}

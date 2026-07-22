@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c31697",
+  "type": "character",
+  "name": "Sodom",
+  "original_name": "ソドム",
+  "language": "en",
+  "source_language": "en",
+  "source": "A small robot that Natsu made.",
+  "source_sha256": "0d6bd10ebadc544e2cecccc9536e199d5c6652af5eb9463b66d6ec08af77aee4",
+  "translation": "A small robot that Natsu made.",
+  "vndb_url": "https://vndb.org/c31697"
+}

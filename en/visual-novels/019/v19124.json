@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19124",
+  "type": "visual_novel",
+  "name": "Gakuen Alice ~KiraKira★Memory Kiss~",
+  "original_name": "学園アリス ～きらきら★メモリーキッス～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A original story based on the anime.",
+  "source_sha256": "93fa27e1c4ff2582222d93df9382820ebedbd17d42860a5106d75fd6b9ecee72",
+  "translation": "A original story based on the anime.",
+  "vndb_url": "https://vndb.org/v19124"
+}

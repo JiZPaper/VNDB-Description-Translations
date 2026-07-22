@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124170",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Her name is revealed at the end of the game to be Rosette; she naively made a contract with a witch, and throughout the game suffers fatal consequences for it thrice and then thrice once more.[/spoiler]",
+  "source_sha256": "19825c5212549061fbd1c1e7a8f2b905a854778f206b4e342109cd960b452695",
+  "translation": "[spoiler]Her name is revealed at the end of the game to be Rosette; she naively made a contract with a witch, and throughout the game suffers fatal consequences for it thrice and then thrice once more.[/spoiler]",
+  "vndb_url": "https://vndb.org/c124170"
+}

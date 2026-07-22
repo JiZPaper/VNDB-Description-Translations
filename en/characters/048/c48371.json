@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48371",
+  "type": "character",
+  "name": "Conrad Bathory",
+  "original_name": "コンラッド・バートリ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A priest dispatched from the central church while working for the inquisition.\nCool and collected, he doesn't show his emotions much.",
+  "source_sha256": "627ba0b85c0d4e99fa92ed7758aa30ff78ea2a55debf11e75521cb65d4eb2673",
+  "translation": "A priest dispatched from the central church while working for the inquisition.\nCool and collected, he doesn't show his emotions much.",
+  "vndb_url": "https://vndb.org/c48371"
+}

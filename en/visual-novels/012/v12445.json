@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12445",
+  "type": "visual_novel",
+  "name": "Hakuouki Kaikoroku",
+  "original_name": "薄桜鬼 懐古録",
+  "language": "en",
+  "source_language": "en",
+  "source": "A collection of short stories about Chizuru and her relationship to the men of the Shinsengumi.",
+  "source_sha256": "6819ac44574040ca738556b6217c68043d99f3b4dbea4f5df8de15b51bf0cb45",
+  "translation": "A collection of short stories about Chizuru and her relationship to the men of the Shinsengumi.",
+  "vndb_url": "https://vndb.org/v12445"
+}

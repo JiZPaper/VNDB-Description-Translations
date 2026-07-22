@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95952",
+  "type": "character",
+  "name": "Peyton",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A friendly merchant, and a member of the Regency Council.",
+  "source_sha256": "ccabf4bec34ec6cd6450f8ad0294cc0b8ade1fe03be7c9fbab457794fd1ac10a",
+  "translation": "A friendly merchant, and a member of the Regency Council.",
+  "vndb_url": "https://vndb.org/c95952"
+}

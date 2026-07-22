@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62",
+  "type": "visual_novel",
+  "name": "Manatsu no Kagerou",
+  "original_name": "真夏のかげろう",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kasumi’s just a lazy schoolgirl who wants to go shopping with her friends. So why are they acting so nervously around her today?",
+  "source_sha256": "598e018059d4785eb083ba20a8438b5efee6603767cc2fe6e8d431e0903165d1",
+  "translation": "Kasumi’s just a lazy schoolgirl who wants to go shopping with her friends. So why are they acting so nervously around her today?",
+  "vndb_url": "https://vndb.org/v62"
+}

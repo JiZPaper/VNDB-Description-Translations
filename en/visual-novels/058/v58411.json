@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58411",
+  "type": "visual_novel",
+  "name": "Sunrider Legends Tactics",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Sunrider series returns in a new fantasy universe! Both new and returning players can embark on this adventure on the high seas. Become a naval captain in the age of sail and command your fleet in tactical turn-based battles.",
+  "source_sha256": "a4a3a9ab875504d7b4fe16250f6b1332bc56cd399d82dcd6a5612acd5ddbe3c9",
+  "translation": "The Sunrider series returns in a new fantasy universe! Both new and returning players can embark on this adventure on the high seas. Become a naval captain in the age of sail and command your fleet in tactical turn-based battles.",
+  "vndb_url": "https://vndb.org/v58411"
+}

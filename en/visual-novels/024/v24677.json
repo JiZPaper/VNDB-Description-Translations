@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24677",
+  "type": "visual_novel",
+  "name": "Tsuzuku Sekai to Wakarebana",
+  "original_name": "続く世界と別れ花",
+  "language": "en",
+  "source_language": "en",
+  "source": "A boy attends the funeral of his fiancé.",
+  "source_sha256": "088a891c61104eb8e717354194fa8f5ce90f0046d75ff82677a9391446da5a14",
+  "translation": "A boy attends the funeral of his fiancé.",
+  "vndb_url": "https://vndb.org/v24677"
+}

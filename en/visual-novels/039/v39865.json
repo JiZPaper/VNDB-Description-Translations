@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39865",
+  "type": "visual_novel",
+  "name": "Talk With You ~Onna no Ko to Ohanashi Suru Game~",
+  "original_name": "Talk With You～おんなのことおはなしするゲーム～",
+  "language": "en",
+  "source_language": "en",
+  "source": "It's really just a game where you talk with a girl.\nLet's choose a topic and have fun talking with her.\n\n[Translated from [url=https://freegame-mugen.jp/simulation/game_10457.html]Freegame-mugen[/url]]",
+  "source_sha256": "0c093af78442f16b0ff4c5b1fa09ad5897e3001a059b3a3e2c39f3c3d91f728d",
+  "translation": "It's really just a game where you talk with a girl.\nLet's choose a topic and have fun talking with her.\n\n[Translated from [url=https://freegame-mugen.jp/simulation/game_10457.html]Freegame-mugen[/url]]",
+  "vndb_url": "https://vndb.org/v39865"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137909",
+  "type": "character",
+  "name": "Guard",
+  "original_name": "番人",
+  "language": "en",
+  "source_language": "en",
+  "source": "Keeper of the forest entrance to the Blood Swastika organization's hideout.",
+  "source_sha256": "04858b2ad139daf544061390992e52501275b6ce6b5415792d0b9871d9c97252",
+  "translation": "Keeper of the forest entrance to the Blood Swastika organization's hideout.",
+  "vndb_url": "https://vndb.org/c137909"
+}

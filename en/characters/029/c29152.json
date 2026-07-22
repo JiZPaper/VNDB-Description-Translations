@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29152",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist of Tokimeki Memorial 4.",
+  "source_sha256": "6c988169fa038efcb0bb2ea97d71e2ff2a58f8b8b14511570a47b813009c6e6d",
+  "translation": "Protagonist of Tokimeki Memorial 4.",
+  "vndb_url": "https://vndb.org/c29152"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64223",
+  "type": "character",
+  "name": "Sakurai Shigure",
+  "original_name": "櫻井 時雨",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's home tutor.",
+  "source_sha256": "586e702d362a5267a231120a1e56b0c4f6a401f1b510b10f306a294ba6a6180a",
+  "translation": "The protagonist's home tutor.",
+  "vndb_url": "https://vndb.org/c64223"
+}

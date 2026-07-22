@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159549",
+  "type": "character",
+  "name": "Sandra",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mother of Harry and Maya.",
+  "source_sha256": "0aba649b081f60a7daf95e103e055a22b666ac7037d3bf4156f7c3b1e600fbe0",
+  "translation": "Mother of Harry and Maya.",
+  "vndb_url": "https://vndb.org/c159549"
+}

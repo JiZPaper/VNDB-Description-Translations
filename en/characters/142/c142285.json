@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c142285",
+  "type": "character",
+  "name": "Aunt Faye",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Caretaker of protagonist",
+  "source_sha256": "9b68ab5a0bcc9b9176ac7718525cadfa804498ac5b4bcc834ab5177d6be844b9",
+  "translation": "Caretaker of protagonist",
+  "vndb_url": "https://vndb.org/c142285"
+}

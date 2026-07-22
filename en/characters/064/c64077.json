@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64077",
+  "type": "character",
+  "name": "Tanu",
+  "original_name": "たぬぅ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A tanuki that lives in the Tsukimiya's house.",
+  "source_sha256": "705302978ff1e5aa2c011d12b7e23c30ecfbb5e86d098307da15c9652fd0364f",
+  "translation": "A tanuki that lives in the Tsukimiya's house.",
+  "vndb_url": "https://vndb.org/c64077"
+}

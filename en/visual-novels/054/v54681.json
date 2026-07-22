@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54681",
+  "type": "visual_novel",
+  "name": "Kono Subarashii Sekai ni Shukufuku o! Fantastic Days",
+  "original_name": "この素晴らしい世界に祝福を！ファンタスティックデイズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Offline versions of the same-titled gacha game.",
+  "source_sha256": "0f6241cab4cf1986032b1013b4b3863aa777da34bf6aeafcdcc2258b2442c2ff",
+  "translation": "Offline versions of the same-titled gacha game.",
+  "vndb_url": "https://vndb.org/v54681"
+}

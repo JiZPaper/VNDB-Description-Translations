@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44961",
+  "type": "visual_novel",
+  "name": "Enigma",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An AI-generated detective visual novel.",
+  "source_sha256": "02608e9297e3518a0d549131b7be5867c77965507b43b91172459f58f31241da",
+  "translation": "An AI-generated detective visual novel.",
+  "vndb_url": "https://vndb.org/v44961"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160019",
+  "type": "character",
+  "name": "Hassan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Vocalist",
+  "source_sha256": "ccad79328e125ca5e4d70eead33ca7de3fad23c8e75c84c592361e6c82d367ee",
+  "translation": "Vocalist",
+  "vndb_url": "https://vndb.org/c160019"
+}

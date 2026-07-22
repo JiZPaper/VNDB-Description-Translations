@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15453",
+  "type": "visual_novel",
+  "name": "Hotaru Yuki",
+  "original_name": "ほたるゆき",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fourth project by Milk Cat",
+  "source_sha256": "2f250e35d44290c267f917a4ce244150873b26b145586a54cb148c630daed926",
+  "translation": "Fourth project by Milk Cat",
+  "vndb_url": "https://vndb.org/v15453"
+}

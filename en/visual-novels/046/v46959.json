@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46959",
+  "type": "visual_novel",
+  "name": "I Have Hired This Anime Girl to Talk to You",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel in which a girl named Claire is stuck in code.",
+  "source_sha256": "8f22bb5a975872af90f9a7aba44ed8da52124f2c08557df6732da957691d13cc",
+  "translation": "A short visual novel in which a girl named Claire is stuck in code.",
+  "vndb_url": "https://vndb.org/v46959"
+}

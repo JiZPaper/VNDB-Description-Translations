@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98814",
+  "type": "character",
+  "name": "Natasha",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Natasha is an unattractive member of Ice Flame.",
+  "source_sha256": "bddfcf2d958d1767038c976df0d694066cc38c8b8b7906cd70290193510d0e12",
+  "translation": "Natasha is an unattractive member of Ice Flame.",
+  "vndb_url": "https://vndb.org/c98814"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95759",
+  "type": "character",
+  "name": "Hero",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The faithful knight of Lady Slitting.",
+  "source_sha256": "be2070e735ea627d92fc7755e9be5f46edcd05ff80c0e738f3216e048aed5f0e",
+  "translation": "The faithful knight of Lady Slitting.",
+  "vndb_url": "https://vndb.org/c95759"
+}

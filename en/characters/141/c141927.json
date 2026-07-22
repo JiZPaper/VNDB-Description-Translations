@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141927",
+  "type": "character",
+  "name": "John",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of the game, whose life changes after he installs the WifeSpy app.\n\nHe is married to Valerie and has a son Edwin from a previous relationship.\n\nHe is a brother to Mark and a step-brother to Lana.",
+  "source_sha256": "e3fb2d402642c8da163adb37ed3036aebb13b04edc0d3027c091b8b0b8e957be",
+  "translation": "The protagonist of the game, whose life changes after he installs the WifeSpy app.\n\nHe is married to Valerie and has a son Edwin from a previous relationship.\n\nHe is a brother to Mark and a step-brother to Lana.",
+  "vndb_url": "https://vndb.org/c141927"
+}

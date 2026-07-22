@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37214",
+  "type": "visual_novel",
+  "name": "eggs for you",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An egg game about an egg man giving eggs to the eggless.\nEggs are hard work. Remember to take breaks!\n\n[From [url=https://littlerat.itch.io/eggs-for-you]Itch.io[/url]]",
+  "source_sha256": "2306ce42cbe791bf34c56af6c2a27f977bca3944e4d312bcd56e3880ba0db70e",
+  "translation": "An egg game about an egg man giving eggs to the eggless.\nEggs are hard work. Remember to take breaks!\n\n[From [url=https://littlerat.itch.io/eggs-for-you]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v37214"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45855",
+  "type": "visual_novel",
+  "name": "Drown With Me",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mermaid has an encounter with some pirates.",
+  "source_sha256": "1c5a648909d41a2f3e68bad438d4c5f8335308474b32f2455ff305b00327ed94",
+  "translation": "A mermaid has an encounter with some pirates.",
+  "vndb_url": "https://vndb.org/v45855"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c104932",
+  "type": "character",
+  "name": "Shimon",
+  "original_name": "Шимон",
+  "language": "en",
+  "source_language": "en",
+  "source": "A dying old man.",
+  "source_sha256": "c4465cc67e7a3743b122877ad1dd622c524a232b7b7ee600fd82a101c58c979f",
+  "translation": "A dying old man.",
+  "vndb_url": "https://vndb.org/c104932"
+}

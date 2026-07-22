@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123883",
+  "type": "character",
+  "name": "Alan",
+  "original_name": "アラン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Uniconian man who's being treated at the church.",
+  "source_sha256": "3ab18d696a0db6f7c049d5008d7a0bc4ea6a34b945afcc593b978eb18bd4a3b7",
+  "translation": "Uniconian man who's being treated at the church.",
+  "vndb_url": "https://vndb.org/c123883"
+}

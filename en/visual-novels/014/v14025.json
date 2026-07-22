@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14025",
+  "type": "visual_novel",
+  "name": "Duette",
+  "original_name": "Duette～デュエット～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A doujin game based on Key's \"Kanon\", with Sayuri Kurata as main character. Can use the original game's BGM if its disc is played at the same time.",
+  "source_sha256": "26a5ea73e1db9b65047d482a3ed042af6b0e742158b821d73b11ab722eb924ad",
+  "translation": "A doujin game based on Key's \"Kanon\", with Sayuri Kurata as main character. Can use the original game's BGM if its disc is played at the same time.",
+  "vndb_url": "https://vndb.org/v14025"
+}

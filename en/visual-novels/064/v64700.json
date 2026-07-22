@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64700",
+  "type": "visual_novel",
+  "name": "Meikuru! Welcome to Happy Maid Life!! Erisu Mini Scenario",
+  "original_name": "めいくるッ! Welcome to Happy Maid Life!! 恵理栖ミニシナリオ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mini Scenario of Erisu.",
+  "source_sha256": "abf9dc6e714d9eb93a9ee74dd781e8c30e36334ae0f3ab73bdf8a5c2fc467467",
+  "translation": "Mini Scenario of Erisu.",
+  "vndb_url": "https://vndb.org/v64700"
+}

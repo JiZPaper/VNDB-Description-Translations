@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76537",
+  "type": "character",
+  "name": "John Green",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The player's boyfriend after divorcing Marcus",
+  "source_sha256": "47084a97401256f2ea64728c4c7aaea0efdfc812238f6ce8c91be5d7ed3cd91e",
+  "translation": "The player's boyfriend after divorcing Marcus",
+  "vndb_url": "https://vndb.org/c76537"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115660",
+  "type": "character",
+  "name": "The Fisherman",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious old fisherman living in Grumville.",
+  "source_sha256": "22cb88745ab42f2561ce491cf5cba9215251c42746eb44b9cbbbe54818f67e88",
+  "translation": "A mysterious old fisherman living in Grumville.",
+  "vndb_url": "https://vndb.org/c115660"
+}

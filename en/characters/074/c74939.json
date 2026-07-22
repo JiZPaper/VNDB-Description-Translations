@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c74939",
+  "type": "character",
+  "name": "Kile",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A high school student, and the lead singer of a popular boy band.",
+  "source_sha256": "e2452b5ef1cface963f62b0eaeef2a5d7f9de422b8d92eb61b311ce408f141e8",
+  "translation": "A high school student, and the lead singer of a popular boy band.",
+  "vndb_url": "https://vndb.org/c74939"
+}

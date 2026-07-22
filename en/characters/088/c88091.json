@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88091",
+  "type": "character",
+  "name": "Hans Bianchi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An untrustworthy business partner who seeks to take advantage of the Gallos.",
+  "source_sha256": "0a04800a5b1858c7491d60513f026b51d644ccef69694d3c9f84a42dbfcfb0bf",
+  "translation": "An untrustworthy business partner who seeks to take advantage of the Gallos.",
+  "vndb_url": "https://vndb.org/c88091"
+}

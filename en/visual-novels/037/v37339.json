@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37339",
+  "type": "visual_novel",
+  "name": "Bloody Footprints",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Very short horror visual novel.\n\n[From [url=https://shoujodev.itch.io/bloody-footprints]Itch.io[/url]]",
+  "source_sha256": "f099438505103392d4e70c2984efe13679e18be0fb4f83a678b80a2a73f6d6ce",
+  "translation": "Very short horror visual novel.\n\n[From [url=https://shoujodev.itch.io/bloody-footprints]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v37339"
+}

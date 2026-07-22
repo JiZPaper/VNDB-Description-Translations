@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25830",
+  "type": "visual_novel",
+  "name": "Randosel wa Tenshi no Tsubasa",
+  "original_name": "ランドセルは天使の翼",
+  "language": "en",
+  "source_language": "en",
+  "source": "La Mer is a small restaurant located in a countryside near the sea.",
+  "source_sha256": "29f94d8b000fef1df8f74a4dda21ddfa2c8167aad7e2305759482074ee277aef",
+  "translation": "La Mer is a small restaurant located in a countryside near the sea.",
+  "vndb_url": "https://vndb.org/v25830"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c3325",
+  "type": "character",
+  "name": "Ramune",
+  "original_name": "ラムネ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Waitress at Mix Juice.",
+  "source_sha256": "af2e16f610111bcf02b996680f16ef654f4054cdf8eac1b1f264c1dbc6953c34",
+  "translation": "Waitress at Mix Juice.",
+  "vndb_url": "https://vndb.org/c3325"
+}

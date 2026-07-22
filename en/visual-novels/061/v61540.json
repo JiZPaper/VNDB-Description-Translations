@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61540",
+  "type": "visual_novel",
+  "name": "Red Means Evil",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You came to the forest of Yomori to slay a mysterious unicorn. Face the consequences.",
+  "source_sha256": "43a9c2f7073bb18b5e314f7e868c9e424c3d2ecda7a0a5551e773dfc5cc451ed",
+  "translation": "You came to the forest of Yomori to slay a mysterious unicorn. Face the consequences.",
+  "vndb_url": "https://vndb.org/v61540"
+}

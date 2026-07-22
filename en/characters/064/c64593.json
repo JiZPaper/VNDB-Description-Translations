@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64593",
+  "type": "character",
+  "name": "Joyce",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The cheerful AI companion, whose only wish is to make Teal happy.\n\nEven if they can be a bit pushy at times, Joyce only wants your best!\n\n[From [url=http://boyslaughplus.moe/todo-today]official website[/url]]\n\nJoyce's gender (male, female, or non-binary) depends on the answers the player gives during the Bell Tech survey.",
+  "source_sha256": "bb66f2bb573882a464f6075951b428e35f23194b202155a810b92d561bd21593",
+  "translation": "The cheerful AI companion, whose only wish is to make Teal happy.\n\nEven if they can be a bit pushy at times, Joyce only wants your best!\n\n[From [url=http://boyslaughplus.moe/todo-today]official website[/url]]\n\nJoyce's gender (male, female, or non-binary) depends on the answers the player gives during the Bell Tech survey.",
+  "vndb_url": "https://vndb.org/c64593"
+}

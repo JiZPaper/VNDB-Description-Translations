@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15403",
+  "type": "visual_novel",
+  "name": "Kokuhaku Yuugi",
+  "original_name": "告白遊戯",
+  "language": "en",
+  "source_language": "en",
+  "source": "Prototype version of \"Koibito Yuugi.\"",
+  "source_sha256": "3ae86e4c3119e2a20483cbd1906a4d1e816b4806f6199a2fe557618d9aad513e",
+  "translation": "Prototype version of \"Koibito Yuugi.\"",
+  "vndb_url": "https://vndb.org/v15403"
+}

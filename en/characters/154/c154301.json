@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154301",
+  "type": "character",
+  "name": "Jack",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist",
+  "source_sha256": "af8b33e83fec2f52bb6b9b3bae637ff01ee878e0f56542c9eb338d4d07b047b0",
+  "translation": "Protagonist",
+  "vndb_url": "https://vndb.org/c154301"
+}

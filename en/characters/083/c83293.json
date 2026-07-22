@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c83293",
+  "type": "character",
+  "name": "Huctari",
+  "original_name": "ヒュクタリ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fusion of Hughes, Saxo and Sawatari",
+  "source_sha256": "53e46cd83e9de753a68947782737219dfb61fca23ad691b67c938900690d20be",
+  "translation": "Fusion of Hughes, Saxo and Sawatari",
+  "vndb_url": "https://vndb.org/c83293"
+}

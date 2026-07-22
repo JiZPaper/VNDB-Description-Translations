@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99780",
+  "type": "character",
+  "name": "Catscratcher",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Despite his name, Catscratcher does not scratch cats. Cats scratch him, which is the origin of his cool scar.",
+  "source_sha256": "65384ee009bd937a762bc416ee2ba89ca20b61f36ff709531d112431a8574d7a",
+  "translation": "Despite his name, Catscratcher does not scratch cats. Cats scratch him, which is the origin of his cool scar.",
+  "vndb_url": "https://vndb.org/c99780"
+}

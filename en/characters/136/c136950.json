@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136950",
+  "type": "character",
+  "name": "Roy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Another representative of the hero's company.",
+  "source_sha256": "f12b4609d71a5afb2645ad61ebe0c82235965e40c514bf40a7c3912618bdbc8f",
+  "translation": "Another representative of the hero's company.",
+  "vndb_url": "https://vndb.org/c136950"
+}

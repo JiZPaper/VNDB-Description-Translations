@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c114248",
+  "type": "character",
+  "name": "Karl",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A guard outside Lord Hammerdick's dungeon.",
+  "source_sha256": "587365e7b5f67100971e6811672c63b034fb29df77c27dba250b33cb21f14207",
+  "translation": "A guard outside Lord Hammerdick's dungeon.",
+  "vndb_url": "https://vndb.org/c114248"
+}

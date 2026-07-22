@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24458",
+  "type": "visual_novel",
+  "name": "Natsukoi ~Natsuyasumi, Koizumi no Heya ni Ikimashita. Sakubun!?~",
+  "original_name": "なつこい ～夏休み、古泉の部屋に行きました。作文っ!?～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Itsuki x Kyon fangame for Suzumiya Haruhi no Yuuutsu.",
+  "source_sha256": "0335fb9c21c55008ea05e582ee4c1933f44999f48ee4a1ad3de2cb5f2a13be06",
+  "translation": "Itsuki x Kyon fangame for Suzumiya Haruhi no Yuuutsu.",
+  "vndb_url": "https://vndb.org/v24458"
+}

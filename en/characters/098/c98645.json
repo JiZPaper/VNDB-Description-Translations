@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98645",
+  "type": "character",
+  "name": "Jesse",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nameable protagonist, defaults to \"Jesse\" if you don't choose one.",
+  "source_sha256": "8f582f36e2f5f14b9a0cf97bf1bf12e64e7eb6269958ac5353863dca6f2aa5a1",
+  "translation": "Nameable protagonist, defaults to \"Jesse\" if you don't choose one.",
+  "vndb_url": "https://vndb.org/c98645"
+}

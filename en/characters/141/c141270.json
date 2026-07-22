@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141270",
+  "type": "character",
+  "name": "Ebihara Mariko",
+  "original_name": "エビ原 マリ子",
+  "language": "en",
+  "source_language": "en",
+  "source": "Prop manager for \"Dokusou Saizensen\".",
+  "source_sha256": "db11de2962c90ab2e3fbf24fd4617e2a5d7e66d357dda8186e5250375df16636",
+  "translation": "Prop manager for \"Dokusou Saizensen\".",
+  "vndb_url": "https://vndb.org/c141270"
+}

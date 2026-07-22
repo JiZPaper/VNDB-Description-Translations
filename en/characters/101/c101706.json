@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101706",
+  "type": "character",
+  "name": "Kimberly",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The hero's boss. She is usually angry and yelling a lot.",
+  "source_sha256": "96dba8c06a51e11fc3b364734fd1c930133dc47c02ee62dd4b64a03e0f7f4a81",
+  "translation": "The hero's boss. She is usually angry and yelling a lot.",
+  "vndb_url": "https://vndb.org/c101706"
+}

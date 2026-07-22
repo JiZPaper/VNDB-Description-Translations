@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97136",
+  "type": "character",
+  "name": "Alfred Weasley",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Elisabeth's butler.",
+  "source_sha256": "1bcf59521f2133b035273f58b20d881f57f68304417369cc0fe71da4ea2f6772",
+  "translation": "Elisabeth's butler.",
+  "vndb_url": "https://vndb.org/c97136"
+}

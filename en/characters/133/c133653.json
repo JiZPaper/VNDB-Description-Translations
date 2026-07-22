@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133653",
+  "type": "character",
+  "name": "Izumi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A super popular idol.",
+  "source_sha256": "20fbd4f98a292cc37b51fb6922562fb014c33d09e4c1ea83f3c68aefa6ca68a3",
+  "translation": "A super popular idol.",
+  "vndb_url": "https://vndb.org/c133653"
+}

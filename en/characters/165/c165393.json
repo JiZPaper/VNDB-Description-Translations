@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165393",
+  "type": "character",
+  "name": "Uncle Vadjya",
+  "original_name": "Дядя Вадя",
+  "language": "en",
+  "source_language": "en",
+  "source": "A typical \"skuf\" who is happy to hire someone to do a job for free, without delving into the context of the problem.",
+  "source_sha256": "27ad8fcbf27b3e652c558fcdc4f7a1c55bd204da556f3f75562ba62e373fa0e0",
+  "translation": "A typical \"skuf\" who is happy to hire someone to do a job for free, without delving into the context of the problem.",
+  "vndb_url": "https://vndb.org/c165393"
+}

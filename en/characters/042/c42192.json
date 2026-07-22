@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42192",
+  "type": "character",
+  "name": "Liz",
+  "original_name": "リズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Itinerant merchant saved by Airi.\nRepays the favour by staying at Fis' mansion and selling items to Airi for her dungeon expeditions.",
+  "source_sha256": "fd7fe06d8a3995625de576c7d78715e824d9e49b6326ba1ae75e4e3bc5c27ca6",
+  "translation": "Itinerant merchant saved by Airi.\nRepays the favour by staying at Fis' mansion and selling items to Airi for her dungeon expeditions.",
+  "vndb_url": "https://vndb.org/c42192"
+}

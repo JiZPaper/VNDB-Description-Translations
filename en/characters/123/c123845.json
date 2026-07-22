@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123845",
+  "type": "character",
+  "name": "Miranda Warren",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A small-town sheriff looking for redemption.",
+  "source_sha256": "a42fc400a726a6d5eff7220507d4b49477acb9f4c46344fdad33f8befc2a6d07",
+  "translation": "A small-town sheriff looking for redemption.",
+  "vndb_url": "https://vndb.org/c123845"
+}

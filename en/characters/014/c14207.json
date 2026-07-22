@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c14207",
+  "type": "character",
+  "name": "Zaado Kashizu",
+  "original_name": "ザード・カシズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Wolf Tribe",
+  "source_sha256": "0f502b00f96f2ef5f7c2886d07e94d991e44c315e8883f0c01d0f277be7ebc9e",
+  "translation": "Race: Wolf Tribe",
+  "vndb_url": "https://vndb.org/c14207"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13263",
+  "type": "visual_novel",
+  "name": "You Are a Senpai",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dating game parody in which you are the stereotypical shoujo manga senpai.",
+  "source_sha256": "e4f800d6c70edd4b003effe4dd94a0c051483a2d00e0006cbae79d3cb31f2784",
+  "translation": "A dating game parody in which you are the stereotypical shoujo manga senpai.",
+  "vndb_url": "https://vndb.org/v13263"
+}

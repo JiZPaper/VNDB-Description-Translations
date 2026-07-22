@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c1321",
+  "type": "character",
+  "name": "Daisy",
+  "original_name": "デイジー",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist, nicknamed \"Daisy\" by Himeko.",
+  "source_sha256": "71edb540fb8f28c8af7d479896b4b6aeb563ac64d26cd1b398fa7fe933599a38",
+  "translation": "The protagonist, nicknamed \"Daisy\" by Himeko.",
+  "vndb_url": "https://vndb.org/c1321"
+}

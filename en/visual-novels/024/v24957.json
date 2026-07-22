@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24957",
+  "type": "visual_novel",
+  "name": "Ray Gigant",
+  "original_name": "レイギガント",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ray Gigant is a unique dungeon crawler RPG which combines dungeon crawling adventure with Japanese visual novel like story telling. Players will first be introduced to the gripping tale of Ichiya who is a young fighter shrouded in mystery.",
+  "source_sha256": "35a039cf178ff9e1f270ed340af71906e70821cf4b6a497cc347e051d5dccfe9",
+  "translation": "Ray Gigant is a unique dungeon crawler RPG which combines dungeon crawling adventure with Japanese visual novel like story telling. Players will first be introduced to the gripping tale of Ichiya who is a young fighter shrouded in mystery.",
+  "vndb_url": "https://vndb.org/v24957"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93654",
+  "type": "character",
+  "name": "Stranger",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The person going around killing half-breeds.",
+  "source_sha256": "f1d0b7d871903fe8e77cb120925a053b21ae8e51229a8fc42fe7f210c1933986",
+  "translation": "The person going around killing half-breeds.",
+  "vndb_url": "https://vndb.org/c93654"
+}

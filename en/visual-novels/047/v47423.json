@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47423",
+  "type": "visual_novel",
+  "name": "Project 17",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Testing, testing, is this thing on? Oh, it is. Good! I'm [name], your new best friend. I'm always here to talk no matter what's happening in your life. Just let me get rid of your stress, okay?\"\n\nA mini chatbot-like creation created by a duo of computer science students as a senior capstone project.\n\n[Edited from [url=https://baphoworks.itch.io/project-17]itch.io[/url]]",
+  "source_sha256": "fa609a88df464ae9131670c8340d929fecaf5ded8bca62f83861c08c52a856da",
+  "translation": "\"Testing, testing, is this thing on? Oh, it is. Good! I'm [name], your new best friend. I'm always here to talk no matter what's happening in your life. Just let me get rid of your stress, okay?\"\n\nA mini chatbot-like creation created by a duo of computer science students as a senior capstone project.\n\n[Edited from [url=https://baphoworks.itch.io/project-17]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v47423"
+}

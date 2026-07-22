@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59901",
+  "type": "visual_novel",
+  "name": "The Bus Stop",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You check your watch. The bus is late.\n\nYou catch a stranger watching you from across the street. Or are you watching them?\n\n[From [url=https://hamstaregg.itch.io/the-bus-stop]Itch.io[/url]]",
+  "source_sha256": "eaefb3d43f234a347b6726e30ac08cdaa9fbc39c01c4a2a6985bbf9b24bf21de",
+  "translation": "You check your watch. The bus is late.\n\nYou catch a stranger watching you from across the street. Or are you watching them?\n\n[From [url=https://hamstaregg.itch.io/the-bus-stop]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v59901"
+}

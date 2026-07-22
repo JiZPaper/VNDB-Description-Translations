@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70621",
+  "type": "character",
+  "name": "Shed",
+  "original_name": "シェド",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cat breed: Sand Cat",
+  "source_sha256": "a00665bf98051df0e65fab99a480f01b0e544e23f90abedcc5077a6d94c1b30c",
+  "translation": "Cat breed: Sand Cat",
+  "vndb_url": "https://vndb.org/c70621"
+}

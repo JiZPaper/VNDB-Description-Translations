@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17126",
+  "type": "visual_novel",
+  "name": "Scones and Go",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Arthur is having his friends over for tea, and he needs your help to bake scones!",
+  "source_sha256": "ea2e1b21e16b38fa135c839d68fbd01fa84bcf42b727bd9ffd0564d745132c56",
+  "translation": "Arthur is having his friends over for tea, and he needs your help to bake scones!",
+  "vndb_url": "https://vndb.org/v17126"
+}

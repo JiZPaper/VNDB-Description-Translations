@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123650",
+  "type": "character",
+  "name": "Laplace's Demon",
+  "original_name": "ラプラスの魔",
+  "language": "en",
+  "source_language": "en",
+  "source": "Instance of Laplace's Demon in NOMAD Rozen Maiden continuation, which is also used in TAITO Visual Novels.\nThe \"rabbit\" behind the whole Alice Game.",
+  "source_sha256": "0291ec3bf4bec54606a63a2bd83c12b37dccb2b3ba1690a26b9819ee9e736be2",
+  "translation": "Instance of Laplace's Demon in NOMAD Rozen Maiden continuation, which is also used in TAITO Visual Novels.\nThe \"rabbit\" behind the whole Alice Game.",
+  "vndb_url": "https://vndb.org/c123650"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c74713",
+  "type": "character",
+  "name": "Karen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Favorite undies: Silk\nFavorite season: Summer\nHobby: Tennis\nFavorite color: Purple",
+  "source_sha256": "6ce93c43268344f076ecadcfaf7c24f46666ab2b58600373e17f86521cab0b7b",
+  "translation": "Favorite undies: Silk\nFavorite season: Summer\nHobby: Tennis\nFavorite color: Purple",
+  "vndb_url": "https://vndb.org/c74713"
+}

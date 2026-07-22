@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45491",
+  "type": "visual_novel",
+  "name": "The Town with Only You and Me",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Town with only You and Me is a simple point and click game that is about an artificial intelligence reacting to a girl named Aisleen and her background stories.",
+  "source_sha256": "8a5dae1b45f797dcb2c611123ef5cc165bd94923a4908ddd562e65eddd19dd6b",
+  "translation": "The Town with only You and Me is a simple point and click game that is about an artificial intelligence reacting to a girl named Aisleen and her background stories.",
+  "vndb_url": "https://vndb.org/v45491"
+}

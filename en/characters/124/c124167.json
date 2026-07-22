@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124167",
+  "type": "character",
+  "name": "Nao",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nao is a young man who works in net security.",
+  "source_sha256": "684e07dba5e970ebc8444c676f89d013f5f2717d38d4c670ab68b279bd294e13",
+  "translation": "Nao is a young man who works in net security.",
+  "vndb_url": "https://vndb.org/c124167"
+}

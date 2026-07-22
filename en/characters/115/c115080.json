@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115080",
+  "type": "character",
+  "name": "OJ",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A policeman belonging to the Mong Kok Police Station.\nHe is also a regular customer at a game center in Sham Shui Po.",
+  "source_sha256": "cff757a3e33d3c2372250a6b6c182d226e94e6a5c5522d4a50abd52e1f4aecd2",
+  "translation": "A policeman belonging to the Mong Kok Police Station.\nHe is also a regular customer at a game center in Sham Shui Po.",
+  "vndb_url": "https://vndb.org/c115080"
+}

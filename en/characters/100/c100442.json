@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100442",
+  "type": "character",
+  "name": "Tim",
+  "original_name": "Тим",
+  "language": "en",
+  "source_language": "en",
+  "source": "*Occupation: schoolboy\n\n*Hobbies\n  -Extreme Sports (Expect fractures)\n  -Imitation of Seth\n\n\"I'll call my brother now, he'll kick your ass!\"",
+  "source_sha256": "9b9c5aa9926d2934a3bce5df2f859bbc652c7c9907513924789b204712822da7",
+  "translation": "*Occupation: schoolboy\n\n*Hobbies\n  -Extreme Sports (Expect fractures)\n  -Imitation of Seth\n\n\"I'll call my brother now, he'll kick your ass!\"",
+  "vndb_url": "https://vndb.org/c100442"
+}

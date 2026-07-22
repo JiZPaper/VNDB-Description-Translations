@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61402",
+  "type": "character",
+  "name": "Zem Aria",
+  "original_name": "ゼム・アーリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Patty's father.",
+  "source_sha256": "e5e3c545764461da46a9e04179fcc2cb79ab80f08529a1906f82c061fbca2ed2",
+  "translation": "Patty's father.",
+  "vndb_url": "https://vndb.org/c61402"
+}

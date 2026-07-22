@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126762",
+  "type": "character",
+  "name": "Veledi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The hero helps her when she is injured by giving her a healing salve.",
+  "source_sha256": "bdd5832c5e6a115ba17485eba2701934beddf0ebffbcad6fe68b40d74aa5c7ad",
+  "translation": "The hero helps her when she is injured by giving her a healing salve.",
+  "vndb_url": "https://vndb.org/c126762"
+}

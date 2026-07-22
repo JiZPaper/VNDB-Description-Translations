@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110055",
+  "type": "character",
+  "name": "Luke",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Carol's boyfriend",
+  "source_sha256": "03ae60d9375f241de91a8753abe48df5bda21bc8be16830dbdfe6346f3a0379c",
+  "translation": "Carol's boyfriend",
+  "vndb_url": "https://vndb.org/c110055"
+}

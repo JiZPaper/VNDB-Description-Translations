@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140773",
+  "type": "character",
+  "name": "Wilhelm",
+  "original_name": "ヴィルヘルム",
+  "language": "en",
+  "source_language": "en",
+  "source": "A humble traveler looking to win Ôedo's Gozenjiai.",
+  "source_sha256": "47f18973d87f98e4e730ed2afae0afabddba2a929d98acd4dbf8c59ac0432297",
+  "translation": "A humble traveler looking to win Ôedo's Gozenjiai.",
+  "vndb_url": "https://vndb.org/c140773"
+}

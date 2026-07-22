@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43640",
+  "type": "visual_novel",
+  "name": "The 3 a.m. Bus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are a bus driver who is nearing the end of your shift. It is currently 3 a.m. and you still have a few stops to make before you can call it a day.\n\n[From [url=https://fireaid.itch.io/the-3-am-bus]Itch.io[/url]]",
+  "source_sha256": "4afd2b7d8cd746013bf28a8f311d9ba7e2fd9ddbc25cfbe63d31611bff8d0edb",
+  "translation": "You are a bus driver who is nearing the end of your shift. It is currently 3 a.m. and you still have a few stops to make before you can call it a day.\n\n[From [url=https://fireaid.itch.io/the-3-am-bus]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43640"
+}

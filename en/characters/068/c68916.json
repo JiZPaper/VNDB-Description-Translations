@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c68916",
+  "type": "character",
+  "name": "Koumori",
+  "original_name": "コーモリ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Roko's familiar.",
+  "source_sha256": "006ab751fb04a09568fa6ca822d1fd205dcf6bf9a54788501f0714bc2727250e",
+  "translation": "Roko's familiar.",
+  "vndb_url": "https://vndb.org/c68916"
+}

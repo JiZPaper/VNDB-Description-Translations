@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90469",
+  "type": "character",
+  "name": "Satoshi's Mother",
+  "original_name": "聡司の母親",
+  "language": "en",
+  "source_language": "en",
+  "source": "Satoshi's mother who left him on the island.",
+  "source_sha256": "d41482ebabf995805c7a8778807c1e29ca3faa823a1574586fb9bf3d5562bb6e",
+  "translation": "Satoshi's mother who left him on the island.",
+  "vndb_url": "https://vndb.org/c90469"
+}

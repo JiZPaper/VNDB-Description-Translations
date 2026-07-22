@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95834",
+  "type": "character",
+  "name": "Ghost",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A ghost that appears in the elevator",
+  "source_sha256": "acc1bc51d5f014b2f947b588f868e1aab42abe7530825fd04e277322d4d5863f",
+  "translation": "A ghost that appears in the elevator",
+  "vndb_url": "https://vndb.org/c95834"
+}

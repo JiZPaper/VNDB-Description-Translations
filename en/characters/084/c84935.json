@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84935",
+  "type": "character",
+  "name": "Mom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Alex's mother.",
+  "source_sha256": "9d7af2c6d6c6005cfcf3855565ddecd8301881c24d827b2c65378952854a5ad3",
+  "translation": "Alex's mother.",
+  "vndb_url": "https://vndb.org/c84935"
+}

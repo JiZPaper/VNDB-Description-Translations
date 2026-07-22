@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170722",
+  "type": "character",
+  "name": "Customizable",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An office worker sent to Gensokyo.",
+  "source_sha256": "f97bcad02e362aeb2d56c318f3e81e58d9e1a1c25faa24f69beabee4e8ffe601",
+  "translation": "An office worker sent to Gensokyo.",
+  "vndb_url": "https://vndb.org/c170722"
+}

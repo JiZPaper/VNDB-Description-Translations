@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98185",
+  "type": "character",
+  "name": "Professor Kent",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Professor Kent is the head of the botany program at the university.",
+  "source_sha256": "7f84a56f368c8caf02da35a88fec3b9c52a69d17d953e10e7c68176f6b250933",
+  "translation": "Professor Kent is the head of the botany program at the university.",
+  "vndb_url": "https://vndb.org/c98185"
+}

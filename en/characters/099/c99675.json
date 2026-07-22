@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99675",
+  "type": "character",
+  "name": "You",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist who where returning to the laundromat to retrieve the clothes left in the dryer during a outage in a rainy day.",
+  "source_sha256": "fa5eb4aa70ae45755a6d37d458088788d433b69c0e1ad210324513b292b9f74e",
+  "translation": "The protagonist who where returning to the laundromat to retrieve the clothes left in the dryer during a outage in a rainy day.",
+  "vndb_url": "https://vndb.org/c99675"
+}

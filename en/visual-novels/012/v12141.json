@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12141",
+  "type": "visual_novel",
+  "name": "Toki no Kizuna Hanayui Tsuzuri",
+  "original_name": "十鬼の絆 花結綴り",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fandisc for the original Toki no Kizuna, featuring after stories for all of the guys set after the end of the original game as well as routes for Yachiyo and Shiyuu.\n\nThere is also an omake that's set sometime during the original game\nas well as an extended epilogue to a certain ending from Senkimaru's route.",
+  "source_sha256": "bac36d544e2c0dcd4738bbd700c9ca5c35592f084f20642dc34e7835f53a01c5",
+  "translation": "A fandisc for the original Toki no Kizuna, featuring after stories for all of the guys set after the end of the original game as well as routes for Yachiyo and Shiyuu.\n\nThere is also an omake that's set sometime during the original game\nas well as an extended epilogue to a certain ending from Senkimaru's route.",
+  "vndb_url": "https://vndb.org/v12141"
+}

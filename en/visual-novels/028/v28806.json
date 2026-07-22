@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28806",
+  "type": "visual_novel",
+  "name": "Tsui no Sora Remake",
+  "original_name": "終ノ空 remake",
+  "language": "en",
+  "source_language": "en",
+  "source": "A remake of Tsui no Sora included in the 10th anniversary Subarashiki Hibi package, including a fully rewritten script that is 1.5 times the size of the original and a \"whole new work of its own\".",
+  "source_sha256": "d10a5a481978bdebe7014bf00d2ae626059ac3415dff76ba80559d4504e3b672",
+  "translation": "A remake of Tsui no Sora included in the 10th anniversary Subarashiki Hibi package, including a fully rewritten script that is 1.5 times the size of the original and a \"whole new work of its own\".",
+  "vndb_url": "https://vndb.org/v28806"
+}

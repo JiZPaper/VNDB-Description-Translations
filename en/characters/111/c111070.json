@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c111070",
+  "type": "character",
+  "name": "Oswald",
+  "original_name": "Освальд",
+  "language": "en",
+  "source_language": "en",
+  "source": "Oswald is one of the orphans held captive by the Master who managed to escape from their locked rooms after a malfunction caused by sabotage.",
+  "source_sha256": "def8d24ebf175e77f3db1ed60035acd1f7044a64cd090bd3534cae647096eaee",
+  "translation": "Oswald is one of the orphans held captive by the Master who managed to escape from their locked rooms after a malfunction caused by sabotage.",
+  "vndb_url": "https://vndb.org/c111070"
+}

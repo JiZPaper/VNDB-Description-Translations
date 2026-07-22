@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20955",
+  "type": "character",
+  "name": "Reiner Muller",
+  "original_name": "ライナー・ミュラー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A British spy born in Germany, he fell into Zhores' ''Sweet Trap'' and lost some vital information. The British government chewed him out for that, and now he's in hot water.",
+  "source_sha256": "d138ec3a5c2b8647e966d4662122ac2137a25976bfd19d321d545e0e2abd71d3",
+  "translation": "A British spy born in Germany, he fell into Zhores' ''Sweet Trap'' and lost some vital information. The British government chewed him out for that, and now he's in hot water.",
+  "vndb_url": "https://vndb.org/c20955"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82591",
+  "type": "character",
+  "name": "Mayor",
+  "original_name": "町長",
+  "language": "en",
+  "source_language": "en",
+  "source": "The mayor of the town.\nShe loves her citizens, but sometimes they can be a handfull.",
+  "source_sha256": "31a5f150ed50ee0e4fe68120aaaa547174e77fdbf9edb67f2d47574ad3227093",
+  "translation": "The mayor of the town.\nShe loves her citizens, but sometimes they can be a handfull.",
+  "vndb_url": "https://vndb.org/c82591"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91731",
+  "type": "character",
+  "name": "Moe",
+  "original_name": "もえ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist's estranged younger sister.",
+  "source_sha256": "e14e11d94c198ae54d6627e2bfaecd532ee42ca7739d2941eb11939046544e3f",
+  "translation": "Protagonist's estranged younger sister.",
+  "vndb_url": "https://vndb.org/c91731"
+}

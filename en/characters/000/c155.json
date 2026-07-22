@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155",
+  "type": "character",
+  "name": "Irma Thesleff",
+  "original_name": "イルマ・テスレフ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A teacher from Finland.",
+  "source_sha256": "ac674e7c2ac44d213da81cc8e5d3eed3108044a392a86c30e7e195965bb46b0b",
+  "translation": "A teacher from Finland.",
+  "vndb_url": "https://vndb.org/c155"
+}

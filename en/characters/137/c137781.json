@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137781",
+  "type": "character",
+  "name": "Palmer Skies",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sage’s cousin.",
+  "source_sha256": "8da10fad25cd3a1471f5108dc323b435399b719ad0bdf6a2a1b1d8dcd1ad9038",
+  "translation": "Sage’s cousin.",
+  "vndb_url": "https://vndb.org/c137781"
+}

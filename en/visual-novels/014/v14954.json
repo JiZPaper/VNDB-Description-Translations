@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14954",
+  "type": "visual_novel",
+  "name": "Romance Detective",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short story about a detective who solves crimes of passion alongside her partner, Romance Cop.",
+  "source_sha256": "dc4cb48414aff69382d89e88fb0dffd460b3422d21115d0a1d03e741261ca947",
+  "translation": "A short story about a detective who solves crimes of passion alongside her partner, Romance Cop.",
+  "vndb_url": "https://vndb.org/v14954"
+}

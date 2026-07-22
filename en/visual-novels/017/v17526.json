@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17526",
+  "type": "visual_novel",
+  "name": "Mountain Pigeon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A stubborn boy who doesn't listen to his father.",
+  "source_sha256": "2473ee91be3d4ffc0987ff781af5977146551649ab7724e161ba7f7a9ccdd2bd",
+  "translation": "A stubborn boy who doesn't listen to his father.",
+  "vndb_url": "https://vndb.org/v17526"
+}

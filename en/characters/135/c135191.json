@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135191",
+  "type": "character",
+  "name": "Lisa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A woman going from one man to the next because her husband doesn't pay her any attention.",
+  "source_sha256": "e5b2997cd6098f4789e45a3b15551a67fb2feddafadffe4b476bc046e7ef967d",
+  "translation": "A woman going from one man to the next because her husband doesn't pay her any attention.",
+  "vndb_url": "https://vndb.org/c135191"
+}

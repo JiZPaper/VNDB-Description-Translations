@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136292",
+  "type": "character",
+  "name": "John Silver",
+  "original_name": "ジョン・シルバー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A main character in the 1st main quest's episode 3 \"Treasure Island Story Zone\".",
+  "source_sha256": "1d91f6964fbbb89e61195d45a435420dffec7ed21854c8472dd8b7f573827208",
+  "translation": "A main character in the 1st main quest's episode 3 \"Treasure Island Story Zone\".",
+  "vndb_url": "https://vndb.org/c136292"
+}

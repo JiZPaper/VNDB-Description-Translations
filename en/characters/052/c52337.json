@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c52337",
+  "type": "character",
+  "name": "Shy",
+  "original_name": "内気",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the personality choices.\nA gentle, polite, and serious girl that is a little indecisive.",
+  "source_sha256": "65790ef4fbf8ff0ac0303d79ec1d52b3ab74581415e8ec5eaa40b8bfb7b52a8d",
+  "translation": "One of the personality choices.\nA gentle, polite, and serious girl that is a little indecisive.",
+  "vndb_url": "https://vndb.org/c52337"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53104",
+  "type": "character",
+  "name": "Wallace",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The teacher for Water-type classes.\n\nWallace was first introduced in Pokémon Alpha Sapphire and Pokémon Omega Ruby versions.",
+  "source_sha256": "8b40740f1864aa26047217d0e05ca2a4164da2b5a41ccce5278339027a83445a",
+  "translation": "The teacher for Water-type classes.\n\nWallace was first introduced in Pokémon Alpha Sapphire and Pokémon Omega Ruby versions.",
+  "vndb_url": "https://vndb.org/c53104"
+}

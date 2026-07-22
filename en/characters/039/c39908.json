@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39908",
+  "type": "character",
+  "name": "Johann Revenhart",
+  "original_name": "ヨハン・レーヴェンハルト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A traveler that came to town recently.\nHe's apparently on a journey to see the world and is currently staying at Fonk's restaurant.",
+  "source_sha256": "dbc15934c6365ebf3284c7973f8a7a648dc955c16f0b21e868fc21457af50629",
+  "translation": "A traveler that came to town recently.\nHe's apparently on a journey to see the world and is currently staying at Fonk's restaurant.",
+  "vndb_url": "https://vndb.org/c39908"
+}

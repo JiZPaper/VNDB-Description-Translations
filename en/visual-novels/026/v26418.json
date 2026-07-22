@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26418",
+  "type": "visual_novel",
+  "name": "Ren'ai, Karichaimashita - Emi & Hasumi Mini After Story",
+  "original_name": "恋愛、借りちゃいました 絵未＆八純 ミニアフターストーリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "FD for Emi After and Hasumi After\n\nNew route with both Hasumi and Emi.",
+  "source_sha256": "a1cf40c4e5bb5ccc6fb07faa045adbb25d37ad55540be5328bce98fa05f2d993",
+  "translation": "FD for Emi After and Hasumi After\n\nNew route with both Hasumi and Emi.",
+  "vndb_url": "https://vndb.org/v26418"
+}

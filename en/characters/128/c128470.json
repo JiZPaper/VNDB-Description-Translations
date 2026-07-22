@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c128470",
+  "type": "character",
+  "name": "Lily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lily, born in a lab, queen of flames and sarcasm.",
+  "source_sha256": "35d085e177b45729246cd8c0fc0f5085474221d926b4286419e3215cbf115b70",
+  "translation": "Lily, born in a lab, queen of flames and sarcasm.",
+  "vndb_url": "https://vndb.org/c128470"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48860",
+  "type": "character",
+  "name": "Fiena Leneabit",
+  "original_name": "フィーナ=レネアビット",
+  "language": "en",
+  "source_language": "en",
+  "source": "Musical instrument: Harp (small).",
+  "source_sha256": "469786f63fee0226f24ccadbe58ecf9f5e8cbe6153e8915ef76691c821509683",
+  "translation": "Musical instrument: Harp (small).",
+  "vndb_url": "https://vndb.org/c48860"
+}

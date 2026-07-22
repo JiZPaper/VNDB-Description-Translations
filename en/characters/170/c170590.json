@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170590",
+  "type": "character",
+  "name": "Zeus",
+  "original_name": "ゼウス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The supreme deity of the Greek pantheon.",
+  "source_sha256": "d9991adbb385c4595e1ba08081417fa5d347b46d3ac8792b5e922e72fdb614f7",
+  "translation": "The supreme deity of the Greek pantheon.",
+  "vndb_url": "https://vndb.org/c170590"
+}

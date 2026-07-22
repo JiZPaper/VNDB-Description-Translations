@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77534",
+  "type": "character",
+  "name": "Goon",
+  "original_name": "Wan",
+  "language": "en",
+  "source_language": "en",
+  "source": "A leader of a school Starcraft: Brood War clan.",
+  "source_sha256": "e170e02b22966beb123d9ca2d11f7785631a6b00d6888c2fc1eb4453292ad63d",
+  "translation": "A leader of a school Starcraft: Brood War clan.",
+  "vndb_url": "https://vndb.org/c77534"
+}

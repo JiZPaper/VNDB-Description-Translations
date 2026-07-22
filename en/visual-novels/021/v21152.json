@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21152",
+  "type": "visual_novel",
+  "name": "Harry Potter and the Mysterious Thief",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Three years passed after Hogwarts. Harry is working as an Auror and he has to team up with Draco Malfoy to work on the Mysterious Thiefs case.",
+  "source_sha256": "4ef7e87aa2d33ce72e7a9a4d4d16969127928b6dcda805d9298171959a9a7434",
+  "translation": "Three years passed after Hogwarts. Harry is working as an Auror and he has to team up with Draco Malfoy to work on the Mysterious Thiefs case.",
+  "vndb_url": "https://vndb.org/v21152"
+}

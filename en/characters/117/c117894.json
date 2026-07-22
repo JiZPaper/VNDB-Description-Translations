@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117894",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You, the player.",
+  "source_sha256": "e9b0ea2da4a37ea139960cec4209f9595f1318ef2aaf0fdd96dc72288b7b01bf",
+  "translation": "You, the player.",
+  "vndb_url": "https://vndb.org/c117894"
+}

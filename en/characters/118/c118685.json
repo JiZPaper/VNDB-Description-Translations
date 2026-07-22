@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c118685",
+  "type": "character",
+  "name": "Sasha Bar",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A vuvlan officer",
+  "source_sha256": "0d92ac919b4f70e00bfbd07432885ee74a1a2937689dc34eae2a27845e6751f2",
+  "translation": "A vuvlan officer",
+  "vndb_url": "https://vndb.org/c118685"
+}

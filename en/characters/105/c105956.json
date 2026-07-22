@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105956",
+  "type": "character",
+  "name": "Kite",
+  "original_name": "カイト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A train salesperson who is always sleeping.",
+  "source_sha256": "f9ef552d094df74bbba909e091d852659ed8ae0b814ccc20b466d8614bbd3e16",
+  "translation": "A train salesperson who is always sleeping.",
+  "vndb_url": "https://vndb.org/c105956"
+}

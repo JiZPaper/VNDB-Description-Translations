@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54413",
+  "type": "visual_novel",
+  "name": "a short break",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Have a short chat with your coworker!\n\n[From [url=https://cowboy-starshine.itch.io/short-break]Itch.io[/url].]",
+  "source_sha256": "bd6e4577a48725767d49b12a60195d93a291d25ae620b93bab30da16484f6903",
+  "translation": "Have a short chat with your coworker!\n\n[From [url=https://cowboy-starshine.itch.io/short-break]Itch.io[/url].]",
+  "vndb_url": "https://vndb.org/v54413"
+}

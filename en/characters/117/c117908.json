@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117908",
+  "type": "character",
+  "name": "Olera",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The \"witch\" living in the Tower.",
+  "source_sha256": "4afb70b5e1581f167fce887f44e0dbe13145c52cfb6535820e433f7c4225902d",
+  "translation": "The \"witch\" living in the Tower.",
+  "vndb_url": "https://vndb.org/c117908"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15105",
+  "type": "visual_novel",
+  "name": "Walkure Romanze Re:tell",
+  "original_name": "ワルキューレロマンツェRe:tell",
+  "language": "en",
+  "source_language": "en",
+  "source": "Announced as a series of append stories. The first installment focuses on Noel and Ayako. The second installment focuses on Celia and Akane.",
+  "source_sha256": "3af78371ff233af584c05acbbe321d1b501c62b3bc788746ef3963f28b7ddfa7",
+  "translation": "Announced as a series of append stories. The first installment focuses on Noel and Ayako. The second installment focuses on Celia and Akane.",
+  "vndb_url": "https://vndb.org/v15105"
+}

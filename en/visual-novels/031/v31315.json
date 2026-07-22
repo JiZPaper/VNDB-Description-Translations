@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31315",
+  "type": "visual_novel",
+  "name": "Vampire Queen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You live in the North of Elyria where a vampire King and his family sit on the Elyrian throne. You're sold to King Vladimir, and you'll be a servant to Prince Zachariah.",
+  "source_sha256": "2b7c837ba34db122e4f2a52b89d572c8169114fc153424109a7ca85628ae930e",
+  "translation": "You live in the North of Elyria where a vampire King and his family sit on the Elyrian throne. You're sold to King Vladimir, and you'll be a servant to Prince Zachariah.",
+  "vndb_url": "https://vndb.org/v31315"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7607",
+  "type": "visual_novel",
+  "name": "Happy Bell Lovex2 Honeymoon",
+  "original_name": "はぴベルラヴ×2ハネムーン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Includes a quiz game, a \"visual story\" (NVL style visual novel), and six minigames.",
+  "source_sha256": "bfc7f721d2373ce181c30738245b4eddb69bfa79f97fa3f39e538068f4df74cf",
+  "translation": "Includes a quiz game, a \"visual story\" (NVL style visual novel), and six minigames.",
+  "vndb_url": "https://vndb.org/v7607"
+}

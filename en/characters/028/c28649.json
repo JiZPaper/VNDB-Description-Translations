@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28649",
+  "type": "character",
+  "name": "Sakurai Risa",
+  "original_name": "桜井 理沙",
+  "language": "en",
+  "source_language": "en",
+  "source": "Job: Accounting Department\nHobby: Nail Art\nLikes: Anything Cute\nDislikes: Gross Things, Bugs",
+  "source_sha256": "b8164015d9a8886b5d7dd75670ae5eadc66e4e8ef70d710ce111657808f69fcc",
+  "translation": "Job: Accounting Department\nHobby: Nail Art\nLikes: Anything Cute\nDislikes: Gross Things, Bugs",
+  "vndb_url": "https://vndb.org/c28649"
+}

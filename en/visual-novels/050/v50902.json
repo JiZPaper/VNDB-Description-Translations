@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50902",
+  "type": "visual_novel",
+  "name": "My inner shadow",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel trying to give a view into the thoughts and doubts of a person affected by mental illnesses, like depression, borderline or anxiety.\n\n[From [url=https://tinykobl.itch.io/my-inner-shadow-demo]Itch.io[/url]]",
+  "source_sha256": "072d581837b0ab52e9748af0e789b7245dd9bcaad66fff98483de7e9285ab073",
+  "translation": "A visual novel trying to give a view into the thoughts and doubts of a person affected by mental illnesses, like depression, borderline or anxiety.\n\n[From [url=https://tinykobl.itch.io/my-inner-shadow-demo]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v50902"
+}

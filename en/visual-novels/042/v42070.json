@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42070",
+  "type": "visual_novel",
+  "name": "Pathologic. Vizual'naja novella.",
+  "original_name": "Pathologic. Визуальная новелла.",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fan project to create a visual novel based on the game \"[url=https://en.wikipedia.org/wiki/Pathologic]Pathologic[/url]\".",
+  "source_sha256": "174c995af534d178ff19d1cac8969c29d3f8bec2534b4994b4e6f458bdd38790",
+  "translation": "A fan project to create a visual novel based on the game \"[url=https://en.wikipedia.org/wiki/Pathologic]Pathologic[/url]\".",
+  "vndb_url": "https://vndb.org/v42070"
+}

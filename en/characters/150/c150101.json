@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150101",
+  "type": "character",
+  "name": "Nurse Chan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A shady medical practitioner that Goro's friend-of-a-friend knows.",
+  "source_sha256": "f5a6804bc636081e1a47563dfcba308c457d4529234d7d12c80b819d8e730e06",
+  "translation": "A shady medical practitioner that Goro's friend-of-a-friend knows.",
+  "vndb_url": "https://vndb.org/c150101"
+}

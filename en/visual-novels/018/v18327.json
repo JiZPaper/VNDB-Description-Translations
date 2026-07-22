@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18327",
+  "type": "visual_novel",
+  "name": "Albedo Sphaera",
+  "original_name": "아르베도 스페라",
+  "language": "en",
+  "source_language": "en",
+  "source": "Suddenly a strange girl called Amori shows up in your phone. She looks like a 2D character but claims to be a human.",
+  "source_sha256": "bf4ea2b8679a35aafab7b1fd3efc40f8080401a2d68d00cd2fcc29e384bdedf5",
+  "translation": "Suddenly a strange girl called Amori shows up in your phone. She looks like a 2D character but claims to be a human.",
+  "vndb_url": "https://vndb.org/v18327"
+}

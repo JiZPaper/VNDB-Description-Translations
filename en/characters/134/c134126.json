@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134126",
+  "type": "character",
+  "name": "Dr. Kathy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Simulation role: Aegis Health Officer\nOccupation: Doctor",
+  "source_sha256": "c91348e3a0a02d3271799e14d2051e0b94ea576ef7b0c9288b6777648fd60a01",
+  "translation": "Simulation role: Aegis Health Officer\nOccupation: Doctor",
+  "vndb_url": "https://vndb.org/c134126"
+}

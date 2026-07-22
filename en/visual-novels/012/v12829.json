@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12829",
+  "type": "visual_novel",
+  "name": "Dark Carnival",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "They said the carnival was different after dark. I wanted to see if that was true. But which attraction should I visit first?\n\n [From [url=http://games.renpy.org/game/darkcarnival.shtml]Ren'Py Games List[/url]]",
+  "source_sha256": "c81e12a39cd23b8b206e1287c25e0d435fe15627a341bb5e7314a3f9593fe1be",
+  "translation": "They said the carnival was different after dark. I wanted to see if that was true. But which attraction should I visit first?\n\n [From [url=http://games.renpy.org/game/darkcarnival.shtml]Ren'Py Games List[/url]]",
+  "vndb_url": "https://vndb.org/v12829"
+}

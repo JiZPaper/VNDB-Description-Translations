@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40259",
+  "type": "character",
+  "name": "Luda Grefind",
+  "original_name": "ルダ・グレフィンド",
+  "language": "en",
+  "source_language": "en",
+  "source": "[url=/c40250]Alfred[/url]'s gun.",
+  "source_sha256": "c67d5b24949a98c8392dd4a6286475dbfaf04bb64d792f02ffa45ebf4b14e26c",
+  "translation": "[url=/c40250]Alfred[/url]'s gun.",
+  "vndb_url": "https://vndb.org/c40259"
+}

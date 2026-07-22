@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37248",
+  "type": "visual_novel",
+  "name": "Blood of the Covenant",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You meet someone in a chilly alleyway at night.\n\n[From [url=https://opheliaveu.itch.io/blood-of-the-covenant]Itch.io[/url]]",
+  "source_sha256": "d6c5e4c9616d0341ca8eeb559d31b8f422a55dda036bbc9cf5b82d972cf82a64",
+  "translation": "You meet someone in a chilly alleyway at night.\n\n[From [url=https://opheliaveu.itch.io/blood-of-the-covenant]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v37248"
+}

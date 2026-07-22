@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38790",
+  "type": "visual_novel",
+  "name": "Boo-Dunnit!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "There's been a murder! Can you decide on a culprit in this Halloween themed mystery?\n\n[From [url=https://bugaboggle.itch.io/boodunnit]Itch.io[/url]]",
+  "source_sha256": "715d140f63f716ecda43d9726c48eeeb72f7aefdd473da4b07899f0e72427db0",
+  "translation": "There's been a murder! Can you decide on a culprit in this Halloween themed mystery?\n\n[From [url=https://bugaboggle.itch.io/boodunnit]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v38790"
+}

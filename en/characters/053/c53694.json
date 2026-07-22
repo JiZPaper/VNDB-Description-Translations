@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53694",
+  "type": "character",
+  "name": "Gart",
+  "original_name": "ガート",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Your desire or lack thereof is irrelevant. The decision has already been made.\"\n\nOne of the servants at the Sweet Clown castle, a calm and mysterious man.\nHe doesn't often express his emotions, making it difficult to know what he's thinking.\nHe's in charge of cooking at the castle.",
+  "source_sha256": "b172a116c12275dec320e7f4c6c8e312c39c3db7d761469e6f8c0e021a2863bf",
+  "translation": "\"Your desire or lack thereof is irrelevant. The decision has already been made.\"\n\nOne of the servants at the Sweet Clown castle, a calm and mysterious man.\nHe doesn't often express his emotions, making it difficult to know what he's thinking.\nHe's in charge of cooking at the castle.",
+  "vndb_url": "https://vndb.org/c53694"
+}

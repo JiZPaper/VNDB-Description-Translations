@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92823",
+  "type": "character",
+  "name": "Kevin Sterling",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A college student majoring in fashion.",
+  "source_sha256": "763e997f6364e8546832c73b4d850ce5565b8ca05a0d20583e145534247ffbf2",
+  "translation": "A college student majoring in fashion.",
+  "vndb_url": "https://vndb.org/c92823"
+}

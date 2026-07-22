@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98302",
+  "type": "character",
+  "name": "Seer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A powerful celestial creature who can forsee the future. \nShe's hunting Kisabel down.",
+  "source_sha256": "abd62d7b97da6d15cc6452515b6ce6725cfc566c6a2fb8edcdf17ae13194c086",
+  "translation": "A powerful celestial creature who can forsee the future. \nShe's hunting Kisabel down.",
+  "vndb_url": "https://vndb.org/c98302"
+}

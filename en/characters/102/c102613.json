@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102613",
+  "type": "character",
+  "name": "Sandra",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Laura's mother",
+  "source_sha256": "77660b641f2ca049264677d74dfbb30aa162f3e94bf06911ba14ec618c4f3a3c",
+  "translation": "Laura's mother",
+  "vndb_url": "https://vndb.org/c102613"
+}

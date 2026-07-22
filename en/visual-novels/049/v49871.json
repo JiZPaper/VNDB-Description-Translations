@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49871",
+  "type": "visual_novel",
+  "name": "Limin Inc.",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Welcome to Limin Inc.",
+  "source_sha256": "5c7bf3736a7f139e9a68069a6fff1063519fca5668e9881b3718f71fb662da78",
+  "translation": "Welcome to Limin Inc.",
+  "vndb_url": "https://vndb.org/v49871"
+}

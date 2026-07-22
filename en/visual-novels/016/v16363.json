@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16363",
+  "type": "visual_novel",
+  "name": "Oji-san to Issho",
+  "original_name": "おじさんと一緒",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short game where you talk to your uncle.\nThe conversation contents will change according to your choices.",
+  "source_sha256": "b02163d2d026985282bf9cac3d888b16c3e37b939de02c1697e40856c98b2058",
+  "translation": "A short game where you talk to your uncle.\nThe conversation contents will change according to your choices.",
+  "vndb_url": "https://vndb.org/v16363"
+}

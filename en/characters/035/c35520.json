@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35520",
+  "type": "character",
+  "name": "Senju Kannon",
+  "original_name": "千手 観音",
+  "language": "en",
+  "source_language": "en",
+  "source": "Her name literally means bodhisattva.",
+  "source_sha256": "40ee915c0d7215588c8a59a30d57a4dc1d49d93c8276d1e85c98e33b86a72168",
+  "translation": "Her name literally means bodhisattva.",
+  "vndb_url": "https://vndb.org/c35520"
+}

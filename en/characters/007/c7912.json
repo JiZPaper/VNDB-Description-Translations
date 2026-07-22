@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c7912",
+  "type": "character",
+  "name": "Kouno Nanae",
+  "original_name": "河野 奈々枝",
+  "language": "en",
+  "source_language": "en",
+  "source": "Character type: Bus guide.",
+  "source_sha256": "7299de4771a6abb83b699d3b4a6749fb65433594f68b854f4a4884b8a2b1d761",
+  "translation": "Character type: Bus guide.",
+  "vndb_url": "https://vndb.org/c7912"
+}

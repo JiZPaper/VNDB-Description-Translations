@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95107",
+  "type": "character",
+  "name": "Araceli",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She has a scarf.",
+  "source_sha256": "3cd1bfd47558900598e07b35ef6871c9b199903118a9a06dde69fbf421f6b783",
+  "translation": "She has a scarf.",
+  "vndb_url": "https://vndb.org/c95107"
+}

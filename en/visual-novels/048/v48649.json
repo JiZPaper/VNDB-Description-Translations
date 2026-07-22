@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48649",
+  "type": "visual_novel",
+  "name": "FruLife Mafia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short story about how a guy got to play virtual Mafia with VTubers. The game was created as part of a competition from FruLive.",
+  "source_sha256": "c720e62a56eef03af7a64aaa4bbcbb2cb6d7edece4651e2d166a80ee4d6ee3bc",
+  "translation": "A short story about how a guy got to play virtual Mafia with VTubers. The game was created as part of a competition from FruLive.",
+  "vndb_url": "https://vndb.org/v48649"
+}

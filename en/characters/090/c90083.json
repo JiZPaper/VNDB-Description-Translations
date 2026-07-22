@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90083",
+  "type": "character",
+  "name": "Amaterasu",
+  "original_name": "アマテラス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Goddess of the Sun sleeping within Ikimizu Spring on Tennyo Island.",
+  "source_sha256": "b1de05ee64affcf627fe5e2052ba8d9091cd3f7ad76d6901fd1e4fcb0ec23c7e",
+  "translation": "The Goddess of the Sun sleeping within Ikimizu Spring on Tennyo Island.",
+  "vndb_url": "https://vndb.org/c90083"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81892",
+  "type": "character",
+  "name": "Paku",
+  "original_name": "パク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ruruho's pet dog.",
+  "source_sha256": "1ff13508d86e6ddac15d9116ca1c4db6efa6a6d077aebe0ba08f698d7c20f718",
+  "translation": "Ruruho's pet dog.",
+  "vndb_url": "https://vndb.org/c81892"
+}

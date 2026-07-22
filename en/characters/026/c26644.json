@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c26644",
+  "type": "character",
+  "name": "Grimlock's Subordinates",
+  "original_name": "グリムロックの部下",
+  "language": "en",
+  "source_language": "en",
+  "source": "Apprentices of the Witch Guild assisting Grimlock.",
+  "source_sha256": "f484d2805bf2699a9b121ac75c987ee87e330b3d239f4558bc38b77864f0b56c",
+  "translation": "Apprentices of the Witch Guild assisting Grimlock.",
+  "vndb_url": "https://vndb.org/c26644"
+}

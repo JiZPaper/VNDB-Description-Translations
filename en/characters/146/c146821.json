@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146821",
+  "type": "character",
+  "name": "Lorelei",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Daughter of General Arannis.\n\nCalypso's lady-in-waiting",
+  "source_sha256": "929cf8535027a9234e71bda037fbfa46e2d48aa748ad17c9f7855b2a6ab484b3",
+  "translation": "Daughter of General Arannis.\n\nCalypso's lady-in-waiting",
+  "vndb_url": "https://vndb.org/c146821"
+}

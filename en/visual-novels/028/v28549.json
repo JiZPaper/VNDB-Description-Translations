@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28549",
+  "type": "visual_novel",
+  "name": "Insidious",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "I wake up on a dark, abandoned island. I can feel immediately that something is very, very wrong. But will I last long enough to discover what it is?",
+  "source_sha256": "97dc32067b686a4e007ec86644bf486fb90b913fffc79dcb9042620e807b7ace",
+  "translation": "I wake up on a dark, abandoned island. I can feel immediately that something is very, very wrong. But will I last long enough to discover what it is?",
+  "vndb_url": "https://vndb.org/v28549"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c67136",
+  "type": "character",
+  "name": "Gerald",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Arnold's friend.",
+  "source_sha256": "853487917322dfda8e2b06b6f4cbc76cb5eadf22d4e70704ecddc3a4b13d6955",
+  "translation": "Arnold's friend.",
+  "vndb_url": "https://vndb.org/c67136"
+}

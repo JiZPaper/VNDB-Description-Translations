@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36345",
+  "type": "visual_novel",
+  "name": "Route 100",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your passenger wakes up during your drive down Route 100.\n\n[From [url=https://undefeatedvn.itch.io/route-100]Itch.io[/url]]",
+  "source_sha256": "ecfdaea8ba3dca29c761dbc9ec8c3c0fb9e3250cff693bc5eae10294c686951b",
+  "translation": "Your passenger wakes up during your drive down Route 100.\n\n[From [url=https://undefeatedvn.itch.io/route-100]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v36345"
+}

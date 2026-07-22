@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89216",
+  "type": "character",
+  "name": "Layla",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You may customize her name. However, her default name is Layla.",
+  "source_sha256": "fd0d713600f6ca957397d28eff60588ea1a5ebcbeaf33446a496ada47202d648",
+  "translation": "You may customize her name. However, her default name is Layla.",
+  "vndb_url": "https://vndb.org/c89216"
+}

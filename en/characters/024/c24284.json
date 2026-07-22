@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c24284",
+  "type": "character",
+  "name": "Torii Gokura",
+  "original_name": "鳥井 ゴクラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Elite League Master\nHobbies: Aroma\nSkills: Magic Tricks, Dancing\nWeakness: Worms",
+  "source_sha256": "6129832e71687a6064b292a74cee85a084ffc82754a4cf1b26a97bf591fcfa78",
+  "translation": "Occupation: Elite League Master\nHobbies: Aroma\nSkills: Magic Tricks, Dancing\nWeakness: Worms",
+  "vndb_url": "https://vndb.org/c24284"
+}

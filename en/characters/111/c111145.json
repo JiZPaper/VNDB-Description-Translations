@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c111145",
+  "type": "character",
+  "name": "Sirius",
+  "original_name": "シリウス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A dog that Natsuhiko and Mashiro found as children.",
+  "source_sha256": "ac1793120934107b9c40c93258a409f2c3f3968a53996c629bb18b9488c933e1",
+  "translation": "A dog that Natsuhiko and Mashiro found as children.",
+  "vndb_url": "https://vndb.org/c111145"
+}

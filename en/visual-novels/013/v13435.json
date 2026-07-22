@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13435",
+  "type": "visual_novel",
+  "name": "Next Dream",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Kotetsu fantasizes about Barnaby.",
+  "source_sha256": "42aed45d2cb2fb9bae1911284943d0706c6562ee430a6cb81cf415c4b35fb5b5",
+  "translation": "Kotetsu fantasizes about Barnaby.",
+  "vndb_url": "https://vndb.org/v13435"
+}

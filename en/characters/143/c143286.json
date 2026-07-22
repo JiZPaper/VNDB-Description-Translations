@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143286",
+  "type": "character",
+  "name": "Clerk Clara",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A friendly and kind shop clerk. She joins [url=/c143276]Flippy[/url]'s \"Silly Street Crew\" and becomes a close ally to him. \n\n[spoiler][url=/c143297]Cleff[/url] attempts to kill Clara, whether or not he is successful is dependent on the choices the player makes. If he is not successful, she attempts to kill him in self defense but [url=/c143302]Coach Z[/url] lands the killing blow to prevent her from being executed. After this, she becomes noticeably more depressed and gloomy, harboring guilt over Coach Z's sacrifice that saved her life.[/spoiler]",
+  "source_sha256": "d17b48f12950bb028dcc5402d78b783d41fef22af6b1e95b528c0bb26cabf155",
+  "translation": "A friendly and kind shop clerk. She joins [url=/c143276]Flippy[/url]'s \"Silly Street Crew\" and becomes a close ally to him. \n\n[spoiler][url=/c143297]Cleff[/url] attempts to kill Clara, whether or not he is successful is dependent on the choices the player makes. If he is not successful, she attempts to kill him in self defense but [url=/c143302]Coach Z[/url] lands the killing blow to prevent her from being executed. After this, she becomes noticeably more depressed and gloomy, harboring guilt over Coach Z's sacrifice that saved her life.[/spoiler]",
+  "vndb_url": "https://vndb.org/c143286"
+}

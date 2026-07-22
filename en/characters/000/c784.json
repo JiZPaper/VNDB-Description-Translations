@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c784",
+  "type": "character",
+  "name": "Mary Gowland",
+  "original_name": "メリー＝ゴーランド",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mary Gowland owns the amusement park \"Marquis\". He prefers to be called by his last name, and plays the violin. He has no musical sense at all and is tone-deaf, however.",
+  "source_sha256": "9275fa53b507d04e7bf2db9e5c2ca893d5db544faaac6a59f797cf804b0418e7",
+  "translation": "Mary Gowland owns the amusement park \"Marquis\". He prefers to be called by his last name, and plays the violin. He has no musical sense at all and is tone-deaf, however.",
+  "vndb_url": "https://vndb.org/c784"
+}

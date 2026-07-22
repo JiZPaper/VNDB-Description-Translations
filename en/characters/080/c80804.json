@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c80804",
+  "type": "character",
+  "name": "Uehara",
+  "original_name": "ウエハラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious man hired by the Heinous Crimes Unit.",
+  "source_sha256": "d494bfd253a29ff84c8a53ecd75a9b7e3201364c1600e8ba1f918c16c95b6a11",
+  "translation": "A mysterious man hired by the Heinous Crimes Unit.",
+  "vndb_url": "https://vndb.org/c80804"
+}

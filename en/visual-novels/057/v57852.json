@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57852",
+  "type": "visual_novel",
+  "name": "Marked by the Mafia!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You've woken up with the Mafia, and they recognize your mysterious birthmark.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "29f00d4613489b9d7c5452c8365eb80907b4ce95e47ef7532a8f04f23849d1da",
+  "translation": "You've woken up with the Mafia, and they recognize your mysterious birthmark.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "vndb_url": "https://vndb.org/v57852"
+}

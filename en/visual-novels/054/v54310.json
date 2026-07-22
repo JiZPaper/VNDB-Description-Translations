@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54310",
+  "type": "visual_novel",
+  "name": "Memory of Souls",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "https://www.memoryofsouls.fr",
+  "source_sha256": "187430f701ea18a5ca4de829edb9e3efc9ece43dedaf2d2e09308141cb9c7338",
+  "translation": "https://www.memoryofsouls.fr",
+  "vndb_url": "https://vndb.org/v54310"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103521",
+  "type": "character",
+  "name": "Mary Sloth",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bob's wife. At the start of the game she leaves for a week, and entrusts the care of the kids to her husband.",
+  "source_sha256": "ff7bb53ffbaa5919a50ac0efdbb817564698897891119ca483c2f7b194b681c3",
+  "translation": "Bob's wife. At the start of the game she leaves for a week, and entrusts the care of the kids to her husband.",
+  "vndb_url": "https://vndb.org/c103521"
+}

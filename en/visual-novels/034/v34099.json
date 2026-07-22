@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34099",
+  "type": "visual_novel",
+  "name": "Zhongli Hangout Event",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This game uses ingame screenshots mixed with official art and sounds.",
+  "source_sha256": "d8da858a73a03492ebc8450df4df85b8bdfed10dc91bf11d43b4755ae9fbb70f",
+  "translation": "This game uses ingame screenshots mixed with official art and sounds.",
+  "vndb_url": "https://vndb.org/v34099"
+}

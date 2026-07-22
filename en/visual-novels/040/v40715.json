@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40715",
+  "type": "visual_novel",
+  "name": "Clive",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Clive is a short visual novel about someone who's trying to survive after a breakup, but complicated by the fact that he must evacuate town.\n\n[From [url=https://mykanthrope.itch.io/clive]Itch.io[/url]]",
+  "source_sha256": "b2606bbeeefc870638f5a74a708a41c72e90599305f771dd805969ff7863cb5c",
+  "translation": "Clive is a short visual novel about someone who's trying to survive after a breakup, but complicated by the fact that he must evacuate town.\n\n[From [url=https://mykanthrope.itch.io/clive]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v40715"
+}

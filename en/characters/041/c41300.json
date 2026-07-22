@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41300",
+  "type": "character",
+  "name": "Ex-President",
+  "original_name": "前会長",
+  "language": "en",
+  "source_language": "en",
+  "source": "Former student council president.",
+  "source_sha256": "e4ddc6b1c2260c0bc949f303531585c3297a604e1dbd17ab7c07c18545608d20",
+  "translation": "Former student council president.",
+  "vndb_url": "https://vndb.org/c41300"
+}

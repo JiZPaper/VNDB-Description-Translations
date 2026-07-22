@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64",
+  "type": "character",
+  "name": "Melvin Bernard",
+  "original_name": "メルヴィン・ベルナード",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cleric Melvin Bernard is the former pupil and current partner of [url=/c63]Cleric Bartholomew Tirelli[/url].\n\nWhile clerics normally work solo, Tirelli and Bernard have an unseen duo combat method and their monthly case clearance rate is one of the highest among their peers. He recently attained the rank of Master in Gun Kata.",
+  "source_sha256": "cb34725330825844c2369122289f7eb500cab2c6a8111282309cf2b5206601c3",
+  "translation": "Cleric Melvin Bernard is the former pupil and current partner of [url=/c63]Cleric Bartholomew Tirelli[/url].\n\nWhile clerics normally work solo, Tirelli and Bernard have an unseen duo combat method and their monthly case clearance rate is one of the highest among their peers. He recently attained the rank of Master in Gun Kata.",
+  "vndb_url": "https://vndb.org/c64"
+}

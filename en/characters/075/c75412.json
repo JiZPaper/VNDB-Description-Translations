@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75412",
+  "type": "character",
+  "name": "M",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious mage living in the Dark Streets.",
+  "source_sha256": "6ccf213c8d09133a17733f45d2cc2bd49c15e6403ebfb74cb9f7b587fbf3a9ec",
+  "translation": "A mysterious mage living in the Dark Streets.",
+  "vndb_url": "https://vndb.org/c75412"
+}

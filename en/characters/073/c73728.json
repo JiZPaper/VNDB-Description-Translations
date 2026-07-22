@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73728",
+  "type": "character",
+  "name": "Yuki",
+  "original_name": "ゆき",
+  "language": "en",
+  "source_language": "en",
+  "source": "Age: 2-3\nOccupation: Snow Fairy",
+  "source_sha256": "6d9c715f7a6ed65095606625bd9e57ae5e95f86062e3afd15b0c314aaae496dc",
+  "translation": "Age: 2-3\nOccupation: Snow Fairy",
+  "vndb_url": "https://vndb.org/c73728"
+}

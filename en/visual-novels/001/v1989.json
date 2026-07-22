@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1989",
+  "type": "visual_novel",
+  "name": "Enmaku",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A story where two ninjas of two hostile clans meet in a forest. What will they do and how will their relationship change under the circumstances they will get into?",
+  "source_sha256": "19319e6d0b05ccb309e2a48b58893487cebefca6721c8af0d91f75f6f88359b6",
+  "translation": "A story where two ninjas of two hostile clans meet in a forest. What will they do and how will their relationship change under the circumstances they will get into?",
+  "vndb_url": "https://vndb.org/v1989"
+}

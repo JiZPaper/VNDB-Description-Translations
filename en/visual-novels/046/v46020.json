@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46020",
+  "type": "visual_novel",
+  "name": "In The Dark",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are lost in a cave, your lamp has shattered and you must rely on your other senses to make your way to the exit.\n\n[from [url=https://judithan.itch.io/in-the-dark]itch.io[/url]]",
+  "source_sha256": "50ae5c8529ac1ecf6079f75392d5cdbd3ad5aa49d1c2a8b439a90ddac898b11b",
+  "translation": "You are lost in a cave, your lamp has shattered and you must rely on your other senses to make your way to the exit.\n\n[from [url=https://judithan.itch.io/in-the-dark]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v46020"
+}

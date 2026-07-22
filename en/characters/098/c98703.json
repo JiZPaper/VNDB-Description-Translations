@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98703",
+  "type": "character",
+  "name": "Mia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mia is the Mechanic who works at the Garage and fixes up the car.",
+  "source_sha256": "b392496c6eb1ff7bbe6b3778684668c4ab072b3bd21692bf6cb744a834d509e9",
+  "translation": "Mia is the Mechanic who works at the Garage and fixes up the car.",
+  "vndb_url": "https://vndb.org/c98703"
+}

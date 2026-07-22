@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21508",
+  "type": "character",
+  "name": "Jake Cloud",
+  "original_name": "ジェイク・クラウド",
+  "language": "en",
+  "source_language": "en",
+  "source": "Age: 30 years old (?).\nNationality: American and Hispanic.",
+  "source_sha256": "66499b4244d7e45ff2a10522b297d4665e6c1fc1629c4c0026a2ebf04dabe721",
+  "translation": "Age: 30 years old (?).\nNationality: American and Hispanic.",
+  "vndb_url": "https://vndb.org/c21508"
+}

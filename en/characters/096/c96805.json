@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96805",
+  "type": "character",
+  "name": "Shelock Holmes",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An egotistical detective who calls himself \"The Ace Detective\".",
+  "source_sha256": "5a0870b2875f7881bfa79d98648aa72c095c9628fdefa3c2fd13e8b6deaf3ad0",
+  "translation": "An egotistical detective who calls himself \"The Ace Detective\".",
+  "vndb_url": "https://vndb.org/c96805"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21602",
+  "type": "visual_novel",
+  "name": "Shuumatsu no Trival -After Dark-",
+  "original_name": "終末のトリヴァール -After Dark-",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sequel of [url=/v19117]Shuumatsu no Trival[/url].",
+  "source_sha256": "960bea34bf2a9bf7e7e483953a63ed07a7815b9b752da5659a4b6600428f1982",
+  "translation": "Sequel of [url=/v19117]Shuumatsu no Trival[/url].",
+  "vndb_url": "https://vndb.org/v21602"
+}

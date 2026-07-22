@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c184",
+  "type": "character",
+  "name": "Tadokoro",
+  "original_name": "田所",
+  "language": "en",
+  "source_language": "en",
+  "source": "Admiral Tadokoro, captain of the battleship Yamato of Japanese Navy.",
+  "source_sha256": "b538a788b74de5c9e99c16ff6b50f0208dfc313df4dbe46b682715c9f4921e22",
+  "translation": "Admiral Tadokoro, captain of the battleship Yamato of Japanese Navy.",
+  "vndb_url": "https://vndb.org/c184"
+}

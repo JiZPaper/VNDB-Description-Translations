@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81108",
+  "type": "character",
+  "name": "Satoshi",
+  "original_name": "サトシ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A hidden character based on the actual Matsuda Satoshi that can be unlocked if certain requirements are met.",
+  "source_sha256": "612a29e5301319ee95fd832dab98a3560725c25ceaa9ce58ef1f45befdfe2e2a",
+  "translation": "A hidden character based on the actual Matsuda Satoshi that can be unlocked if certain requirements are met.",
+  "vndb_url": "https://vndb.org/c81108"
+}

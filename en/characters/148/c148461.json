@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148461",
+  "type": "character",
+  "name": "Bacon",
+  "original_name": "ベーコン",
+  "language": "en",
+  "source_language": "en",
+  "source": "[url=/c123592]Azami[/url]'s insect.",
+  "source_sha256": "4b7db9f84b521260a411fe072d211bb0c41929a03281ae3b1251fe4943c1f5be",
+  "translation": "[url=/c123592]Azami[/url]'s insect.",
+  "vndb_url": "https://vndb.org/c148461"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124139",
+  "type": "character",
+  "name": "Furnell",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A receptionist in Xuna's castle. Originally from Earth.",
+  "source_sha256": "6cd0e968e532b7509aa0cec6b4bbde952a650cb19c1a0336c0c8a4736fa7a806",
+  "translation": "A receptionist in Xuna's castle. Originally from Earth.",
+  "vndb_url": "https://vndb.org/c124139"
+}

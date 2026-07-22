@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c18592",
+  "type": "character",
+  "name": "Pomect",
+  "original_name": "ポメクト",
+  "language": "en",
+  "source_language": "en",
+  "source": "Pomect's name is a combination of the words \"Connect\" and \"Pomeranian\". Pomect is a talking robot/stuffed toy; it adds \"~po\" at the end of every sentence it says.",
+  "source_sha256": "86777fcc822b1c8047a492b90ef0a3eff4dd003d66b9ec0404b2799a54010d28",
+  "translation": "Pomect's name is a combination of the words \"Connect\" and \"Pomeranian\". Pomect is a talking robot/stuffed toy; it adds \"~po\" at the end of every sentence it says.",
+  "vndb_url": "https://vndb.org/c18592"
+}

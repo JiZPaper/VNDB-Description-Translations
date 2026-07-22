@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91363",
+  "type": "character",
+  "name": "Gibier",
+  "original_name": "ジビエ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A cheerful foreigner who loves meat.\n\n[spoiler]She's been raised in a vegan household, and her body didn't get all the necessary nutrients. As such, she grew up to be sickly.[/spoiler]",
+  "source_sha256": "5504cdc0f7d1ce1a5058a56cb838a8ba65811b3116f97bc1a4ba0e67e392f44e",
+  "translation": "A cheerful foreigner who loves meat.\n\n[spoiler]She's been raised in a vegan household, and her body didn't get all the necessary nutrients. As such, she grew up to be sickly.[/spoiler]",
+  "vndb_url": "https://vndb.org/c91363"
+}

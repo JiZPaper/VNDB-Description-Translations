@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25229",
+  "type": "visual_novel",
+  "name": "BOYS BE... 2nd Season",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on the second manga under the BOYS BE... name.",
+  "source_sha256": "56ba82f1b077051c392315e5350220dc9c7fbf7850030911cbae2e3bf945e698",
+  "translation": "Based on the second manga under the BOYS BE... name.",
+  "vndb_url": "https://vndb.org/v25229"
+}

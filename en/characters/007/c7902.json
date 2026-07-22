@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c7902",
+  "type": "character",
+  "name": "Xiaolong",
+  "original_name": "小龍",
+  "language": "en",
+  "source_language": "en",
+  "source": "Character type: (Chinese) Foreign student.",
+  "source_sha256": "6e29926e9eefb237d0e6c3372e014f19e15bdf833d3a159ee3d4c2530f533876",
+  "translation": "Character type: (Chinese) Foreign student.",
+  "vndb_url": "https://vndb.org/c7902"
+}

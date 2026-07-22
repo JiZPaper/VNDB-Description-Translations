@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32574",
+  "type": "visual_novel",
+  "name": "Shiwasu no Okina SEISO 2",
+  "original_name": "師走の翁SEISO-2",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a voiced game that colors and animates 2 doujin manga",
+  "source_sha256": "90592a0a83addb9255a3b0ffcbad93248f5a840748d01f7ae4310c743954c7a1",
+  "translation": "This is a voiced game that colors and animates 2 doujin manga",
+  "vndb_url": "https://vndb.org/v32574"
+}

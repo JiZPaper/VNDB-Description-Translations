@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79211",
+  "type": "character",
+  "name": "Dan Steiner",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "CEO of a small real estate company in Lunar City.",
+  "source_sha256": "397c61ebd09c555853265ee234165ed9d5084c14afa9fdbcb6529aa9e7dc3906",
+  "translation": "CEO of a small real estate company in Lunar City.",
+  "vndb_url": "https://vndb.org/c79211"
+}

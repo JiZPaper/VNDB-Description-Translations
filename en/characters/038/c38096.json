@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38096",
+  "type": "character",
+  "name": "Enishi",
+  "original_name": "縁",
+  "language": "en",
+  "source_language": "en",
+  "source": "Weapon: Scythe\nAttribute: Earth",
+  "source_sha256": "ae421105646d2462d06fd2c2b49816bb47399adf381e3d90657a7cb17c637186",
+  "translation": "Weapon: Scythe\nAttribute: Earth",
+  "vndb_url": "https://vndb.org/c38096"
+}

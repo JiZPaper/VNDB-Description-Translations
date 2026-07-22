@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87911",
+  "type": "character",
+  "name": "Bill",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A photography student at Oat Pi University.",
+  "source_sha256": "510bcabd5e37bd7f56a84f93abc095781358b7061967a6e9d73150526680b2ab",
+  "translation": "A photography student at Oat Pi University.",
+  "vndb_url": "https://vndb.org/c87911"
+}

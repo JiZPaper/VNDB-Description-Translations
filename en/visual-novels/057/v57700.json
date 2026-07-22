@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57700",
+  "type": "visual_novel",
+  "name": "Aloe",
+  "original_name": "Алоэ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Made for MikroRenO 2021.",
+  "source_sha256": "6d4bf58a2d430f51736fd55785c530f9b7fc7f40f2a7ce53455e126723180d29",
+  "translation": "Made for MikroRenO 2021.",
+  "vndb_url": "https://vndb.org/v57700"
+}

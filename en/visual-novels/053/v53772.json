@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53772",
+  "type": "visual_novel",
+  "name": "Barrel of Time",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An absurd NovemBear 2024 Furry Visual Novel Jam.",
+  "source_sha256": "310a3f4871b8a470e0e3606ddea3aa14cb81d8d56343b3d51fc8f06a4cfe0467",
+  "translation": "An absurd NovemBear 2024 Furry Visual Novel Jam.",
+  "vndb_url": "https://vndb.org/v53772"
+}

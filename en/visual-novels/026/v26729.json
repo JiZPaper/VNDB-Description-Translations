@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26729",
+  "type": "visual_novel",
+  "name": "Speak Lies",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You downloaded a totally not suspicious program from the Internet, which turns out to be a messaging app. Delighted, and full of hope for the possibility of finally making a friend, you click connect.\n\nInstead, you bear witness to a suicide and are forced to participate in a ritual.\n\n[Edited from the [url=https://speaklies.silentclowns.co/]official website[/url]]",
+  "source_sha256": "8cb1126d591bb1a21142a719bf541aacffde29a86de41b05633545f4198e77aa",
+  "translation": "You downloaded a totally not suspicious program from the Internet, which turns out to be a messaging app. Delighted, and full of hope for the possibility of finally making a friend, you click connect.\n\nInstead, you bear witness to a suicide and are forced to participate in a ritual.\n\n[Edited from the [url=https://speaklies.silentclowns.co/]official website[/url]]",
+  "vndb_url": "https://vndb.org/v26729"
+}

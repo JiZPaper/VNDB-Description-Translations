@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12915",
+  "type": "visual_novel",
+  "name": "Bacon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Pokemon parody.",
+  "source_sha256": "6626fb953aaf0c447ecf300d1a7a2c74dd41b238d287e30975444be8e6c238a8",
+  "translation": "A Pokemon parody.",
+  "vndb_url": "https://vndb.org/v12915"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34242",
+  "type": "character",
+  "name": "Mr. Frog",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The frog who lives in the pond of our house.",
+  "source_sha256": "3edec2830b534cc68b1a690f6be35c7ab9f1ae26d0a52a02051d3741092a6bad",
+  "translation": "The frog who lives in the pond of our house.",
+  "vndb_url": "https://vndb.org/c34242"
+}

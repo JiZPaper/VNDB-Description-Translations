@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99632",
+  "type": "character",
+  "name": "Gunther",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of the Adelaide Inn and Mira's husband.",
+  "source_sha256": "ead80d0cfe883e33d254483d2572a7ba3b8950386bb838d57c872fe31087bb56",
+  "translation": "Owner of the Adelaide Inn and Mira's husband.",
+  "vndb_url": "https://vndb.org/c99632"
+}

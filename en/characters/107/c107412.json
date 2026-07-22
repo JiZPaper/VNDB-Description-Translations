@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c107412",
+  "type": "character",
+  "name": "Tanpopo",
+  "original_name": "タンポポ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mina's pet.",
+  "source_sha256": "2cc29e5b9c50c417c45308884202fa239700d2adb0397bba63898f38929603e2",
+  "translation": "Mina's pet.",
+  "vndb_url": "https://vndb.org/c107412"
+}

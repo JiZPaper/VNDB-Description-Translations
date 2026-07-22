@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103520",
+  "type": "character",
+  "name": "Bob Sloth",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of the game. Married with four children.",
+  "source_sha256": "1590f60e52e4ea5d915f031b2d0a3a950ec87bad29e36bb5236ef639bf32f9cc",
+  "translation": "The protagonist of the game. Married with four children.",
+  "vndb_url": "https://vndb.org/c103520"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c49403",
+  "type": "character",
+  "name": "Staedtler",
+  "original_name": "ステッドラー",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the enemy Night Flyer Note commanders.",
+  "source_sha256": "72a6c3fe80806c86bfc36842769614a2d3a3e78b67f69298d2ea47963bf47c64",
+  "translation": "One of the enemy Night Flyer Note commanders.",
+  "vndb_url": "https://vndb.org/c49403"
+}

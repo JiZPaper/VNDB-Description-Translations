@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15406",
+  "type": "visual_novel",
+  "name": "Diaries of the Doomguy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This photo-journal was found in a demon-infested lab on Phobos. It contains the Doomguy's last thoughts, most of which are, not surprisingly, pretty close to that Doom Comic!\n\n[From [url=http://www.glorioustrainwrecks.com/node/760]Glorious Trainwrecks[/url]]",
+  "source_sha256": "a78f17b2869b21b94943d8aaab4498d8a3be4e616a171d9e018dc9c6e7f4f244",
+  "translation": "This photo-journal was found in a demon-infested lab on Phobos. It contains the Doomguy's last thoughts, most of which are, not surprisingly, pretty close to that Doom Comic!\n\n[From [url=http://www.glorioustrainwrecks.com/node/760]Glorious Trainwrecks[/url]]",
+  "vndb_url": "https://vndb.org/v15406"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15512",
+  "type": "visual_novel",
+  "name": "Planet Eater",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"You see, said the God to the humans, you’re not all that important.\"",
+  "source_sha256": "91b76aed5c0b4734e7585fdb2f174189b4d0cb52c7d1c757047afa452516cbea",
+  "translation": "\"You see, said the God to the humans, you’re not all that important.\"",
+  "vndb_url": "https://vndb.org/v15512"
+}

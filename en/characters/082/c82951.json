@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82951",
+  "type": "character",
+  "name": "The Dragon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A notorious assassin.",
+  "source_sha256": "eea0d9c3f200d99fb3023d30a708b0154ae5882d55ab86d65dbece9021c8dc09",
+  "translation": "A notorious assassin.",
+  "vndb_url": "https://vndb.org/c82951"
+}

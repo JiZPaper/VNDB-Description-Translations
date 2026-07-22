@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95569",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An office worker in her first year of working life. She and Natsu share the same hometown and went to high school and college together, but she moved to Tokyo for work. She is currently living alone in an apartment in Tokyo.",
+  "source_sha256": "0114fcc0f19caba0bea2b2a7992935445f0074a913dff352f12bb98b38fa9adb",
+  "translation": "An office worker in her first year of working life. She and Natsu share the same hometown and went to high school and college together, but she moved to Tokyo for work. She is currently living alone in an apartment in Tokyo.",
+  "vndb_url": "https://vndb.org/c95569"
+}

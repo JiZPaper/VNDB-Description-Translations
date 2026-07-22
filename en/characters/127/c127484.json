@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127484",
+  "type": "character",
+  "name": "Sorbet",
+  "original_name": "ソルベ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Lucie's daughter.",
+  "source_sha256": "ea1b242b93e0e697d2a9e6c8ae7006784dfe6592ebeb722d647008dd8c2ac4c2",
+  "translation": "Lucie's daughter.",
+  "vndb_url": "https://vndb.org/c127484"
+}

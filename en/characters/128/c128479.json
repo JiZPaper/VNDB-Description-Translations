@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c128479",
+  "type": "character",
+  "name": "Sam",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sam, the dutiful administrator for the inquisitors, hates chimeras and worships Hestia.",
+  "source_sha256": "c73e1c6421ec497f88d631260f14bd35ac18e670df8e910d9c6c81474e473fac",
+  "translation": "Sam, the dutiful administrator for the inquisitors, hates chimeras and worships Hestia.",
+  "vndb_url": "https://vndb.org/c128479"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10884",
+  "type": "visual_novel",
+  "name": "Yuna Yuma",
+  "original_name": "ゆなゆま",
+  "language": "en",
+  "source_language": "en",
+  "source": "Yuna and Yuma are sisters with good imagination. They are often daydreaming about having a \"special\" relationship.",
+  "source_sha256": "614368874b05a1be2cad91e0bdf10b22b396efafa451f7a3186b73518dcc738b",
+  "translation": "Yuna and Yuma are sisters with good imagination. They are often daydreaming about having a \"special\" relationship.",
+  "vndb_url": "https://vndb.org/v10884"
+}

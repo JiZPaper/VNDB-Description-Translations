@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2465",
+  "type": "visual_novel",
+  "name": "The Stolen Diamond Ring",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as Katharine, a young woman invited to her friend's engagement party. \nThe atmosphere is getting awkward during dinner and worse yet, the next morning the pink diamond engagement ring is missing! While a bitter ex-boyfriend is an obvious first suspect, everyone in this close circle of friends and relatives seems to have something to hide.",
+  "source_sha256": "548d462135e28e7ab39cac4c41f838fd7b10efc56e873940d92770ec71851bbd",
+  "translation": "You play as Katharine, a young woman invited to her friend's engagement party. \nThe atmosphere is getting awkward during dinner and worse yet, the next morning the pink diamond engagement ring is missing! While a bitter ex-boyfriend is an obvious first suspect, everyone in this close circle of friends and relatives seems to have something to hide.",
+  "vndb_url": "https://vndb.org/v2465"
+}

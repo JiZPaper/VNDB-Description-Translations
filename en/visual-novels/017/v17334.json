@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17334",
+  "type": "visual_novel",
+  "name": "White World",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A boy and his sister must survive alone in a snowy world.",
+  "source_sha256": "5b42c8d8e46a000d07d1cc13ff1c28b15084ba9746e419357945ea0174e1c109",
+  "translation": "A boy and his sister must survive alone in a snowy world.",
+  "vndb_url": "https://vndb.org/v17334"
+}

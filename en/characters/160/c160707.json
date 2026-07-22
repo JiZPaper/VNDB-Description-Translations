@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160707",
+  "type": "character",
+  "name": "Rex",
+  "original_name": "レックス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Special Evolution Tyrannosaurus rex that was created at Ryugu.",
+  "source_sha256": "29c50de842f5dafb1e5ec742942873931e4f42209d9a7b138f9d15f158f08c13",
+  "translation": "A Special Evolution Tyrannosaurus rex that was created at Ryugu.",
+  "vndb_url": "https://vndb.org/c160707"
+}

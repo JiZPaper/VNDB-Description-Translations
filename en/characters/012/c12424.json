@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12424",
+  "type": "character",
+  "name": "Doctor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A skilled man when it comes to human psychology. His mission is to be Jones' psychological aid, and provide guidance in his journey to trying to win Eve's heart. His methods are slightly questionable, but he has a degree in something. That should be enough incentive to make Jones listen to him.",
+  "source_sha256": "c36c2de382ce08baf61deef78b77171434590f915a8bd6dc1a9fb06abb27f8e1",
+  "translation": "A skilled man when it comes to human psychology. His mission is to be Jones' psychological aid, and provide guidance in his journey to trying to win Eve's heart. His methods are slightly questionable, but he has a degree in something. That should be enough incentive to make Jones listen to him.",
+  "vndb_url": "https://vndb.org/c12424"
+}

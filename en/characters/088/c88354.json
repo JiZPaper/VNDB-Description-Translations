@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88354",
+  "type": "character",
+  "name": "Dracula",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An ancient vampire who claims Jessenia made a pact to marry him.",
+  "source_sha256": "f38ca6d71c754187b23eed4504561f108efab6445f61214cbcdb06a0dc8d0d24",
+  "translation": "An ancient vampire who claims Jessenia made a pact to marry him.",
+  "vndb_url": "https://vndb.org/c88354"
+}

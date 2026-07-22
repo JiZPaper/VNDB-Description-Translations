@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73650",
+  "type": "character",
+  "name": "Sam",
+  "original_name": "サム",
+  "language": "en",
+  "source_language": "en",
+  "source": "A homeless guy who hangs out in Central Park with Mario.\n\n[spoiler]He's actually the current mayor of New York, Samuel.[/spoiler]",
+  "source_sha256": "aa27fe1012f39fa0ab632c8cb74f35a3c41bf7f97b651a8b25e829f833f1a11e",
+  "translation": "A homeless guy who hangs out in Central Park with Mario.\n\n[spoiler]He's actually the current mayor of New York, Samuel.[/spoiler]",
+  "vndb_url": "https://vndb.org/c73650"
+}

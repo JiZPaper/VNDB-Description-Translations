@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52738",
+  "type": "visual_novel",
+  "name": "Ganymede, by Lucian",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Short VN based on the Dialogues of the Gods, by Lucian, specifically the dialogue \"Ganymede and Zeus\".",
+  "source_sha256": "549d3c67e7b0662a14442da43782a6af4315fc54893725328afa3aba07957059",
+  "translation": "Short VN based on the Dialogues of the Gods, by Lucian, specifically the dialogue \"Ganymede and Zeus\".",
+  "vndb_url": "https://vndb.org/v52738"
+}

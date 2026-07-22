@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153127",
+  "type": "character",
+  "name": "Nein Beck",
+  "original_name": "나인 벡",
+  "language": "en",
+  "source_language": "en",
+  "source": "Skill: Coordinate-based object transmission",
+  "source_sha256": "015dbbed6c71e39fe5e0b6170b48d8588d7fa440feb5756d1d5a49717349202b",
+  "translation": "Skill: Coordinate-based object transmission",
+  "vndb_url": "https://vndb.org/c153127"
+}

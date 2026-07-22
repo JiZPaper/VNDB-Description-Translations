@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21906",
+  "type": "character",
+  "name": "Mags",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Crime boss.",
+  "source_sha256": "7ede711455093e06af5a276d79c0588ca2fb84d2a685535d1fc469a4e627669e",
+  "translation": "Crime boss.",
+  "vndb_url": "https://vndb.org/c21906"
+}

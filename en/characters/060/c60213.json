@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60213",
+  "type": "character",
+  "name": "Nyagomaru",
+  "original_name": "ニャゴマル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A cat fairy. About 80 years old.\nHobby: Eating tours around the neighborhood\nSpecialty: Escaping",
+  "source_sha256": "64b08e089177ce385d5c8993b77605b48f607080f8ede71ddac8edd9751b3053",
+  "translation": "A cat fairy. About 80 years old.\nHobby: Eating tours around the neighborhood\nSpecialty: Escaping",
+  "vndb_url": "https://vndb.org/c60213"
+}

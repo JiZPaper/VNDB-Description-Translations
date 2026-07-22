@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11498",
+  "type": "visual_novel",
+  "name": "Loco Locca",
+  "original_name": "ロコロッカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "I am at unfamiliar tower.\nWhy am I here? I should have been at the monastery.\nWhile I was confused, a teddy bear calling himself agent of god gave me a hint.\nYes, I remembered. I came here to exorcise the Demon.\n\n[translated from official website]",
+  "source_sha256": "544f29b4c2965545bb3cc55e294dbfbbf346202f17a194bed0d95ad3e7753b85",
+  "translation": "I am at unfamiliar tower.\nWhy am I here? I should have been at the monastery.\nWhile I was confused, a teddy bear calling himself agent of god gave me a hint.\nYes, I remembered. I came here to exorcise the Demon.\n\n[translated from official website]",
+  "vndb_url": "https://vndb.org/v11498"
+}

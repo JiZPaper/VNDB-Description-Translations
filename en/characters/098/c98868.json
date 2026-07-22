@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98868",
+  "type": "character",
+  "name": "Jeff",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Emily's boyfriend.",
+  "source_sha256": "d192520787e57269b407c2c0851f46b9f0d968b17c0f7bb419fa3d9ddfb468f4",
+  "translation": "Emily's boyfriend.",
+  "vndb_url": "https://vndb.org/c98868"
+}

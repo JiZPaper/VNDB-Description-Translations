@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67324",
+  "type": "visual_novel",
+  "name": "The Communist Manifesto ~ A Visual Novel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The visual novel adaptation of The Communist Manifesto by Karl Marx and Friedrich Engels. Experience the Manifesto in a conversational style for the first time and fully customize your reading.",
+  "source_sha256": "a51ce11f758efc5d9dd3b71f0d11d0cb6a8e43b0f409556925999b28e70e47d0",
+  "translation": "The visual novel adaptation of The Communist Manifesto by Karl Marx and Friedrich Engels. Experience the Manifesto in a conversational style for the first time and fully customize your reading.",
+  "vndb_url": "https://vndb.org/v67324"
+}

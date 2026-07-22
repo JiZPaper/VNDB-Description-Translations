@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55062",
+  "type": "character",
+  "name": "Lycoris",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Her real identity is Wisteria, [url=/c55061]Lycoris[/url]'s lover.[/spoiler]",
+  "source_sha256": "fec4ac9ae3f68a13c3ed23f5173548346dc3d34f7a5013081dba548b093f0b69",
+  "translation": "[spoiler]Her real identity is Wisteria, [url=/c55061]Lycoris[/url]'s lover.[/spoiler]",
+  "vndb_url": "https://vndb.org/c55062"
+}

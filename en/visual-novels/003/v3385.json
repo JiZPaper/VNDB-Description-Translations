@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3385",
+  "type": "visual_novel",
+  "name": "Back to the Daily Life",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An online visual novel by Project Lips.",
+  "source_sha256": "8409981a97ac05f2d83a65d19fbf8a7cb16985150242fbf16e6be70259b9a0bc",
+  "translation": "An online visual novel by Project Lips.",
+  "vndb_url": "https://vndb.org/v3385"
+}

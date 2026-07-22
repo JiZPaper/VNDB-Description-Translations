@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15373",
+  "type": "visual_novel",
+  "name": "Koi Suru! Brother-kun",
+  "original_name": "恋する！ Brotherくん",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short game about love... and Brother brand printers.",
+  "source_sha256": "31e1957f318788c5b2d78c03cefbeb53f1147e223c774daae61815939d2ae885",
+  "translation": "A short game about love... and Brother brand printers.",
+  "vndb_url": "https://vndb.org/v15373"
+}

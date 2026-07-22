@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50614",
+  "type": "visual_novel",
+  "name": "Go-toubun no Hanayome: Gotopazu Story 2nd",
+  "original_name": "五等分の花嫁 ごとぱずストーリー 2nd",
+  "language": "en",
+  "source_language": "en",
+  "source": "The continuation visual novel version of the franchise's online puzzle game. \nContains 23 Gotopazu's original event stories and as well the visual novel adaptation of anime's second season.",
+  "source_sha256": "6380ec64e75df5832e96f85512dc990e4a3756cf75cf01854c4c548f0fd00d78",
+  "translation": "The continuation visual novel version of the franchise's online puzzle game. \nContains 23 Gotopazu's original event stories and as well the visual novel adaptation of anime's second season.",
+  "vndb_url": "https://vndb.org/v50614"
+}

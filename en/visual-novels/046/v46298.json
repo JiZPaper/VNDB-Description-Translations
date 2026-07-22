@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46298",
+  "type": "visual_novel",
+  "name": "Lost in the woods",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You enter a mysterious forest and encounter a strange boy while trying to leave. \n\nWill you be able to find your way out?\n\n[from [url=https://shadoli.itch.io/lost-in-the-woods]itch.io[/url]]",
+  "source_sha256": "9f4c856f2a1763c7f4acdd3d3b17e646b066f8f670836444a295fb913a47c931",
+  "translation": "You enter a mysterious forest and encounter a strange boy while trying to leave. \n\nWill you be able to find your way out?\n\n[from [url=https://shadoli.itch.io/lost-in-the-woods]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v46298"
+}

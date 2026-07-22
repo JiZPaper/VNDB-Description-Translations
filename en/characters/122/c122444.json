@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122444",
+  "type": "character",
+  "name": "Oaxa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An alien come to invade earth.",
+  "source_sha256": "d4157eb3569b60ef54a1bee1148eda2efc4d46839ffa0b620468c6b702a9f403",
+  "translation": "An alien come to invade earth.",
+  "vndb_url": "https://vndb.org/c122444"
+}

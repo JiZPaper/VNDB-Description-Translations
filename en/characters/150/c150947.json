@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150947",
+  "type": "character",
+  "name": "Pill",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A hallucination who begs Manson not to take his medication.",
+  "source_sha256": "e5bf3fb3a586ea38c5a190af5124c17e53e524935673e9e517230ca3baaa649b",
+  "translation": "A hallucination who begs Manson not to take his medication.",
+  "vndb_url": "https://vndb.org/c150947"
+}

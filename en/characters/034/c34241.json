@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34241",
+  "type": "character",
+  "name": "Elder Poppy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the elder hares of the town",
+  "source_sha256": "259eaff463a23462927fe47e24e4875768d3243fa926f61d06fa528fa75d8524",
+  "translation": "One of the elder hares of the town",
+  "vndb_url": "https://vndb.org/c34241"
+}

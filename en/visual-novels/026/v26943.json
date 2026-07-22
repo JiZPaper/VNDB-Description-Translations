@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26943",
+  "type": "visual_novel",
+  "name": "Brownie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Someone you know dies a strange death, and there is a monster whom only you are able to see. What was supposed to be a simple visit to a classmate’s house changes your life forever.",
+  "source_sha256": "5e203956b47eafc520f8c935e594e1a933175e0855e8e9760e3210ae1a3c23f8",
+  "translation": "Someone you know dies a strange death, and there is a monster whom only you are able to see. What was supposed to be a simple visit to a classmate’s house changes your life forever.",
+  "vndb_url": "https://vndb.org/v26943"
+}

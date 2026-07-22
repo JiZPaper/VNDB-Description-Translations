@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1509",
+  "type": "visual_novel",
+  "name": "Mahjong",
+  "original_name": "麻雀",
+  "language": "en",
+  "source_language": "en",
+  "source": "As the title implies, the game focuses on Mahjong and was released in celebration NekoNeko's 5th anniversary.",
+  "source_sha256": "c012a2ccf7224e0131186f58ec77b8b5b87bf811037b53b0c6dfe870c07da19d",
+  "translation": "As the title implies, the game focuses on Mahjong and was released in celebration NekoNeko's 5th anniversary.",
+  "vndb_url": "https://vndb.org/v1509"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96033",
+  "type": "character",
+  "name": "Hitokado Fumiyomi",
+  "original_name": "一角 史詠",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Unicorn",
+  "source_sha256": "3d38c3f6c40cd9da59ff6ac52382485addb01dc96029818c62a42d7697fef390",
+  "translation": "Race: Unicorn",
+  "vndb_url": "https://vndb.org/c96033"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c147746",
+  "type": "character",
+  "name": "Bob",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lisa's father and Stephani's husband.",
+  "source_sha256": "fa3216129dde70409feda0e7dc83101d7283b96f9711276cde0b9b26c4ad04bd",
+  "translation": "Lisa's father and Stephani's husband.",
+  "vndb_url": "https://vndb.org/c147746"
+}

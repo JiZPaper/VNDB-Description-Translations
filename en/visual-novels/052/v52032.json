@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52032",
+  "type": "visual_novel",
+  "name": "HeartWare",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "HeartWare is an interactive visual novel that invites players into a captivating story centered around Iris. The game explores her journey as she seeks meaningful connections and a sense of purpose.\n\n[From [url=https://store.steampowered.com/app/3105050/]Steam[/url]]",
+  "source_sha256": "cce63ade3a5d3e89eacce067ef591d607c3d57ec04ecafd90a32be86cd22f677",
+  "translation": "HeartWare is an interactive visual novel that invites players into a captivating story centered around Iris. The game explores her journey as she seeks meaningful connections and a sense of purpose.\n\n[From [url=https://store.steampowered.com/app/3105050/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v52032"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55714",
+  "type": "character",
+  "name": "Dark Blacksmith",
+  "original_name": "魔鍛冶師",
+  "language": "en",
+  "source_language": "en",
+  "source": "A blacksmith living in the city near the castle.\n\nShe is skilled with strengthening weapons with magic, and can also enchant weapons with special powers through the use of Magic Seals.",
+  "source_sha256": "9ff4f330508a7f91dab1da5f9297d7a071505b222681f2033b6dea29e858c954",
+  "translation": "A blacksmith living in the city near the castle.\n\nShe is skilled with strengthening weapons with magic, and can also enchant weapons with special powers through the use of Magic Seals.",
+  "vndb_url": "https://vndb.org/c55714"
+}

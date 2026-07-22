@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169886",
+  "type": "character",
+  "name": "Axel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A corrupt prison guard.",
+  "source_sha256": "58b161c5d3a4a37a3ba8092aa162cbfde792b4a47a349e1087d437b7fe6cf965",
+  "translation": "A corrupt prison guard.",
+  "vndb_url": "https://vndb.org/c169886"
+}

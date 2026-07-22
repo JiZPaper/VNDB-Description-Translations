@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3184",
+  "type": "visual_novel",
+  "name": "Kazoku Keikaku ~Soshite Mata Kazoku Keikaku o~",
+  "original_name": "家族計画 〜そしてまた家族計画を〜",
+  "language": "en",
+  "source_language": "en",
+  "source": "Continuation of the Matsuri end of Kazoku Keikaku.",
+  "source_sha256": "799b0ced6c52992b8e673abf00e154180688765313d18bf292c3fef3c5777ee6",
+  "translation": "Continuation of the Matsuri end of Kazoku Keikaku.",
+  "vndb_url": "https://vndb.org/v3184"
+}

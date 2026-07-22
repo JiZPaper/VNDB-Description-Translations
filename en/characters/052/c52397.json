@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c52397",
+  "type": "character",
+  "name": "Igarashi Shou",
+  "original_name": "五十嵐 将",
+  "language": "en",
+  "source_language": "en",
+  "source": "A young baseball superstar.",
+  "source_sha256": "24ae048e61c2604934b80a550bad9a527216a7cdfed59d3ca19bee24ec4c27ef",
+  "translation": "A young baseball superstar.",
+  "vndb_url": "https://vndb.org/c52397"
+}

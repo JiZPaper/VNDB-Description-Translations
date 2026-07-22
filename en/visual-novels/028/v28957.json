@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28957",
+  "type": "visual_novel",
+  "name": "The Outong",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You're just an ordinary man, who wants to become an adventurer and take revenge for your parents. Sadly you're too weak, but everything changes after you get a very strong magic power.",
+  "source_sha256": "7bce927cf96655f99acc017b2bb8eeea9d77d54de38b75f9292a92382a784f06",
+  "translation": "You're just an ordinary man, who wants to become an adventurer and take revenge for your parents. Sadly you're too weak, but everything changes after you get a very strong magic power.",
+  "vndb_url": "https://vndb.org/v28957"
+}

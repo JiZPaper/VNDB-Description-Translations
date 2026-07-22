@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c54315",
+  "type": "character",
+  "name": "Kyara",
+  "original_name": "伽羅",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Monk\nStrong Point: Cooking\nWeak Point: Fighting\nShirogane's younger sister.",
+  "source_sha256": "d4504b10867e2227422248b8cbd764003bb252f6d4a595a86fe4d9a5cc3d7f18",
+  "translation": "Occupation: Monk\nStrong Point: Cooking\nWeak Point: Fighting\nShirogane's younger sister.",
+  "vndb_url": "https://vndb.org/c54315"
+}

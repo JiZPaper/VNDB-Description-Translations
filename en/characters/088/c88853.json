@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88853",
+  "type": "character",
+  "name": "Julia",
+  "original_name": "ユリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Species: Zombie\nThe protagonist's grandmother.\nShe's a noisy worrywart.",
+  "source_sha256": "7c3d3e815356d9b7ef86b05212806186d31bb88e401bc7525971b4ba4f73997b",
+  "translation": "Species: Zombie\nThe protagonist's grandmother.\nShe's a noisy worrywart.",
+  "vndb_url": "https://vndb.org/c88853"
+}

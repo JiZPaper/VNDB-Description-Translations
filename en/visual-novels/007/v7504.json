@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7504",
+  "type": "visual_novel",
+  "name": "Untitled",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One day, a cat is at your door. You talk with him about life.",
+  "source_sha256": "707756a32b0fec410e7a5a23b604a7bf9add40f0901cc573cc332eeb902ea098",
+  "translation": "One day, a cat is at your door. You talk with him about life.",
+  "vndb_url": "https://vndb.org/v7504"
+}

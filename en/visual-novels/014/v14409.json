@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14409",
+  "type": "visual_novel",
+  "name": "Natsu☆Bisu",
+  "original_name": "なつ☆びす",
+  "language": "en",
+  "source_language": "en",
+  "source": "DRAMAtical Murder fan work featuring Virus x Aoba, Trip x Aoba, and Sei x Aoba.",
+  "source_sha256": "0c9a266d29a49797db150dd16c94c66505b14ae0878c1674c6e724bfe4a5c543",
+  "translation": "DRAMAtical Murder fan work featuring Virus x Aoba, Trip x Aoba, and Sei x Aoba.",
+  "vndb_url": "https://vndb.org/v14409"
+}

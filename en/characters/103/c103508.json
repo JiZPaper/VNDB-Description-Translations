@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103508",
+  "type": "character",
+  "name": "Laura",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nina's friend",
+  "source_sha256": "29853aa5d2f6c7cbc5d51018ccd0275b1942b5490844fe7439c2b6b959bb216f",
+  "translation": "Nina's friend",
+  "vndb_url": "https://vndb.org/c103508"
+}

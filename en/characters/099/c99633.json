@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99633",
+  "type": "character",
+  "name": "Mira",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gunther's wife and co-owner of the Adelaide Inn.",
+  "source_sha256": "82039c76f9c710321a3fd142b7b757005c7de95f4980f1fe8624510b246041d3",
+  "translation": "Gunther's wife and co-owner of the Adelaide Inn.",
+  "vndb_url": "https://vndb.org/c99633"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6110",
+  "type": "visual_novel",
+  "name": "Meimeimei!",
+  "original_name": "めいめいめい!",
+  "language": "en",
+  "source_language": "en",
+  "source": "A relative of yours died, and you inherit his countryside mansion/café, which are run by maids.",
+  "source_sha256": "75bda99cba7fa255c84c24667d2cd5efbc8889b4b918a69f23b926b90b5de223",
+  "translation": "A relative of yours died, and you inherit his countryside mansion/café, which are run by maids.",
+  "vndb_url": "https://vndb.org/v6110"
+}

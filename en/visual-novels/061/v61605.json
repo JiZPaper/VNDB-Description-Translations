@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61605",
+  "type": "visual_novel",
+  "name": "How to use El Shaddai Official Asset",
+  "original_name": "エルシャダイ公式素材の使い方",
+  "language": "en",
+  "source_language": "en",
+  "source": "Offical El Shaddai asset tutorial for Tadasu Novel Maker, written by Sawaki Takeyasu the creator of El Shaddai.",
+  "source_sha256": "49bc53801a62aabcb9ffeff77d64c3a53b7fcc0388918bcafbd2d8223a103829",
+  "translation": "Offical El Shaddai asset tutorial for Tadasu Novel Maker, written by Sawaki Takeyasu the creator of El Shaddai.",
+  "vndb_url": "https://vndb.org/v61605"
+}

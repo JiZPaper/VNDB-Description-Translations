@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40481",
+  "type": "visual_novel",
+  "name": "Gangrel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You wake up alone, in a field, highly confused.\n\n[From [url=https://mirta000.itch.io/gangrel]Itch.io[/url]]\n\nThis game is a parody of Vampire: The Masquerade.",
+  "source_sha256": "5acccb74e6d84e84068781bf317c5aadcc333337d033814835e25483fbdc88b6",
+  "translation": "You wake up alone, in a field, highly confused.\n\n[From [url=https://mirta000.itch.io/gangrel]Itch.io[/url]]\n\nThis game is a parody of Vampire: The Masquerade.",
+  "vndb_url": "https://vndb.org/v40481"
+}

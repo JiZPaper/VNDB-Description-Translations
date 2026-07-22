@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29782",
+  "type": "visual_novel",
+  "name": "Igyou Byoutou SILENCE OF THE DAMNED",
+  "original_name": "異形病棟 SILENCE OF THE DAMNED",
+  "language": "en",
+  "source_language": "en",
+  "source": "Melice is a nurse working in the closed ward. The world where she is now is like a never-ending nightmare and she must escape from there.",
+  "source_sha256": "a8507b5d333e92464d784a62039b0406caad297db750147ae30082f6522b7589",
+  "translation": "Melice is a nurse working in the closed ward. The world where she is now is like a never-ending nightmare and she must escape from there.",
+  "vndb_url": "https://vndb.org/v29782"
+}

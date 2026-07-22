@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40103",
+  "type": "character",
+  "name": "Usagi's Mama",
+  "original_name": "兎姫ママ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Usagi's mother.",
+  "source_sha256": "4ccc0c0ff7fdf08b5fa0d5b444ebfb399bff05cc29ae7c6100b6800a356d59b1",
+  "translation": "Usagi's mother.",
+  "vndb_url": "https://vndb.org/c40103"
+}

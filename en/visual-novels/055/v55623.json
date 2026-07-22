@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55623",
+  "type": "visual_novel",
+  "name": "Five Dates at Freddy's",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "First day on the job. Freddy smiles, Foxy greets me like a pirate, and Bonnie flirts shamelessly. Who should I follow on my tour?",
+  "source_sha256": "968c22dc2e4147b2145cd6817ca0464496bff1cbb1296cce683353262380a302",
+  "translation": "First day on the job. Freddy smiles, Foxy greets me like a pirate, and Bonnie flirts shamelessly. Who should I follow on my tour?",
+  "vndb_url": "https://vndb.org/v55623"
+}

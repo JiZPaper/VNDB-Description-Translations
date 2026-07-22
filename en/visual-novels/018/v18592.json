@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18592",
+  "type": "visual_novel",
+  "name": "KimiNozo Duelist",
+  "original_name": "君のぞデュエリスト",
+  "language": "en",
+  "source_language": "en",
+  "source": "The spirit of Hotaru asks high-schooler Takayuki to save his future self from a parallel world by using the power of the Rumbling Angel trading card game.",
+  "source_sha256": "e07418c8c91cd6ef11315a80767ca918f29af592e1b0825ed8b782b28b305c49",
+  "translation": "The spirit of Hotaru asks high-schooler Takayuki to save his future self from a parallel world by using the power of the Rumbling Angel trading card game.",
+  "vndb_url": "https://vndb.org/v18592"
+}

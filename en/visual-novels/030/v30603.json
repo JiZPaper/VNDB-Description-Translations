@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30603",
+  "type": "visual_novel",
+  "name": "Aso-BD Dokidoki Taikenban!",
+  "original_name": "あそＢＤどきどきたいけんばん！",
+  "language": "en",
+  "source_language": "en",
+  "source": "A free promotional Blu-Ray disc designed to promote the Aso-BD line. Includes a Kud Wafter trial and a Saya no Uta demo video, as well as a short, fully voiced story featuring the mascot of the line, Aono Rei aka Blue Luminous.",
+  "source_sha256": "d6b2363c700b82d5c5890aa4bf531f3b66a274217fa1c68586c0bd922b37d917",
+  "translation": "A free promotional Blu-Ray disc designed to promote the Aso-BD line. Includes a Kud Wafter trial and a Saya no Uta demo video, as well as a short, fully voiced story featuring the mascot of the line, Aono Rei aka Blue Luminous.",
+  "vndb_url": "https://vndb.org/v30603"
+}

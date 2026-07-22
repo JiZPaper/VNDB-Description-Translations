@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65897",
+  "type": "visual_novel",
+  "name": "Let Me Tell You Some Stories",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Let Me Tell You Some Stories is a collection of small stories.",
+  "source_sha256": "2f0ee66898e38407891369d3096c16e33bb3b46de86567a0ad50107a7678c61d",
+  "translation": "Let Me Tell You Some Stories is a collection of small stories.",
+  "vndb_url": "https://vndb.org/v65897"
+}

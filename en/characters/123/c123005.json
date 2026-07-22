@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123005",
+  "type": "character",
+  "name": "The Founder",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The mysterious man who created Eternum.\n\nCEO of Ulysses Company.\n\nNot much is known about him.",
+  "source_sha256": "a76c92b5089694b0d9c0fdee705021a88e18faebe79afb07bc28b90bea5788ab",
+  "translation": "The mysterious man who created Eternum.\n\nCEO of Ulysses Company.\n\nNot much is known about him.",
+  "vndb_url": "https://vndb.org/c123005"
+}

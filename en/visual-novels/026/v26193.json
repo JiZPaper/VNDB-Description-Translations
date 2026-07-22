@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26193",
+  "type": "visual_novel",
+  "name": "D no Tansaku",
+  "original_name": "Dの探索",
+  "language": "en",
+  "source_language": "en",
+  "source": "Gamebook-style novel searching for a dragon.",
+  "source_sha256": "84fe67aed509f02a9693021e05b57101647a45c19b4a01c2c83031a4e11bd2a9",
+  "translation": "Gamebook-style novel searching for a dragon.",
+  "vndb_url": "https://vndb.org/v26193"
+}

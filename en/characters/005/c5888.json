@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c5888",
+  "type": "character",
+  "name": "HMX-13 \"Serio\"",
+  "original_name": "HMX-13“セリオ”",
+  "language": "en",
+  "source_language": "en",
+  "source": "Developed and tested alongside Multi, instead of having a variety of emotions Serio can access and download data from a satellite, having thus available a wide range of skills.",
+  "source_sha256": "947c8b3188d671f11a8b1074401cb79942cfba591c91372b6d4503e52d211a7a",
+  "translation": "Developed and tested alongside Multi, instead of having a variety of emotions Serio can access and download data from a satellite, having thus available a wide range of skills.",
+  "vndb_url": "https://vndb.org/c5888"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165145",
+  "type": "character",
+  "name": "Jenny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Miles' wife.",
+  "source_sha256": "992df66e5ffe93f424ff712c953d86c3302406d91f629fdd900f37d36eaffab1",
+  "translation": "Miles' wife.",
+  "vndb_url": "https://vndb.org/c165145"
+}

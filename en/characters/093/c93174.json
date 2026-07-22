@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93174",
+  "type": "character",
+  "name": "Pooka",
+  "original_name": "プーカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A cheerful chipmunk familiar who travels with [url=/c93173]Salum[/url].",
+  "source_sha256": "58d3daba7d0368d8da97ffa38e02ecdf5340f1fb3337f392c542d5ae8397fd32",
+  "translation": "A cheerful chipmunk familiar who travels with [url=/c93173]Salum[/url].",
+  "vndb_url": "https://vndb.org/c93174"
+}

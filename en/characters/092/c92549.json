@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92549",
+  "type": "character",
+  "name": "Tanuki",
+  "original_name": "たぬき",
+  "language": "en",
+  "source_language": "en",
+  "source": "The one responsible for the curse of the protagonist.",
+  "source_sha256": "155becb258c83fc0c532aa9cc20484cc9a45727c04c09528137ee81fae8bb41f",
+  "translation": "The one responsible for the curse of the protagonist.",
+  "vndb_url": "https://vndb.org/c92549"
+}

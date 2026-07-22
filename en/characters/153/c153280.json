@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153280",
+  "type": "character",
+  "name": "Mythril Rudger",
+  "original_name": "미스릴 루드거",
+  "language": "en",
+  "source_language": "en",
+  "source": "Skill: Severance protection",
+  "source_sha256": "34e437291b82b9d484aca4f297963c6efe129b556d5938cc08ebb186df876368",
+  "translation": "Skill: Severance protection",
+  "vndb_url": "https://vndb.org/c153280"
+}

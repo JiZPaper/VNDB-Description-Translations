@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c72390",
+  "type": "character",
+  "name": "Bartender",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A cyborg running a vintage-styled bar. Loves listening in on his customers stories.",
+  "source_sha256": "716efe5206c891889b7dc4bde0013f69bb8a168f5ee909a1604025f55aebd77d",
+  "translation": "A cyborg running a vintage-styled bar. Loves listening in on his customers stories.",
+  "vndb_url": "https://vndb.org/c72390"
+}

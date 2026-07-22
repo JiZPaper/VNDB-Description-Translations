@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140177",
+  "type": "character",
+  "name": "Veronica",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A teacher at the college.",
+  "source_sha256": "ab9a0ae6904609d0fd8750fa2171157e23a78aab6d02f57ca30b344229e7be10",
+  "translation": "A teacher at the college.",
+  "vndb_url": "https://vndb.org/c140177"
+}

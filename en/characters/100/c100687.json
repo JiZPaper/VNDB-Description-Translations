@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100687",
+  "type": "character",
+  "name": "Charlie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Shannon’s friend",
+  "source_sha256": "4ed450825e953e29578a86e8693bad733cb1355eab7ab416d72d7e16e1289dc5",
+  "translation": "Shannon’s friend",
+  "vndb_url": "https://vndb.org/c100687"
+}

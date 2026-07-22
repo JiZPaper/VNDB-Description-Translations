@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24906",
+  "type": "visual_novel",
+  "name": "Dressing Room",
+  "original_name": "DRESSING_ROOM",
+  "language": "en",
+  "source_language": "en",
+  "source": "You are a customer of a certain cafe. \nWhile your coffee is being poured, you find a gamebook in a bookshelf.\n\nRead the book and lead the protagonist to the end of the story.\n\n[From [url=http://www.dlsite.com/ecchi-eng/work/=/product_id/RE241227.html]DLsite English[/url]]",
+  "source_sha256": "02a3c16898dfe70f14ff4b61eff95e76e88852380acecde21cac729f79bb985e",
+  "translation": "You are a customer of a certain cafe. \nWhile your coffee is being poured, you find a gamebook in a bookshelf.\n\nRead the book and lead the protagonist to the end of the story.\n\n[From [url=http://www.dlsite.com/ecchi-eng/work/=/product_id/RE241227.html]DLsite English[/url]]",
+  "vndb_url": "https://vndb.org/v24906"
+}

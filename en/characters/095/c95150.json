@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95150",
+  "type": "character",
+  "name": "Arana",
+  "original_name": "アラナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Aaron's adopted sister.",
+  "source_sha256": "20ef05920a66257b9fdabdcc8e3601c77c2c99cad49ded0a7282665f3f42159e",
+  "translation": "Aaron's adopted sister.",
+  "vndb_url": "https://vndb.org/c95150"
+}

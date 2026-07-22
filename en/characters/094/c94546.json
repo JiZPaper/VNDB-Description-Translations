@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94546",
+  "type": "character",
+  "name": "Sophie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of the magic store where Leia can synthesize materials.",
+  "source_sha256": "ea35c3ac40db479bc84f54ddfd0b5da6a71d82d0c1235337ecfd2b694da03b65",
+  "translation": "The owner of the magic store where Leia can synthesize materials.",
+  "vndb_url": "https://vndb.org/c94546"
+}

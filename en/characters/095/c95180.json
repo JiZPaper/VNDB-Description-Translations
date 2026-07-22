@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95180",
+  "type": "character",
+  "name": "Amy Breckenridge",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The daughter of Logan and Molly.",
+  "source_sha256": "d1ffe0dbb4546a2054b3ae5ce5db4e9fda3e2ccbcd60c05eedfddaa327e7c188",
+  "translation": "The daughter of Logan and Molly.",
+  "vndb_url": "https://vndb.org/c95180"
+}

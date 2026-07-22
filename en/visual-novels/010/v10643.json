@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10643",
+  "type": "visual_novel",
+  "name": "Ura DOA ~Kasumi, Kunoichi Mongoku Emaki & DOA Survival~",
+  "original_name": "裏・DOA ～霞、くノ一悶獄絵巻&DOAサバイバル～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A D.O.A. fan-fiction doujin.",
+  "source_sha256": "41e04ba6bba58ea2c6805fa39034d668f33537bb81af26f656f731bcfcf29b0b",
+  "translation": "A D.O.A. fan-fiction doujin.",
+  "vndb_url": "https://vndb.org/v10643"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31030",
+  "type": "visual_novel",
+  "name": "Kanyan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A doujin game by BABEL in which the girls of Kanon grow cat ears.",
+  "source_sha256": "b5f92f12491dd233d7702273acf04d57616e8e4a37ebcdaf2c300393b99c0bde",
+  "translation": "A doujin game by BABEL in which the girls of Kanon grow cat ears.",
+  "vndb_url": "https://vndb.org/v31030"
+}

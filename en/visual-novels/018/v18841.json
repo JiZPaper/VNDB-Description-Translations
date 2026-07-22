@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18841",
+  "type": "visual_novel",
+  "name": "The Little Match Girl",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An adaptation of Hans Christian Andersen's Christmas tale.",
+  "source_sha256": "cd4f861e7d67b1f1985ede2cdcb8d4c2bf521e2ea6a294b2269df0a6b7043486",
+  "translation": "An adaptation of Hans Christian Andersen's Christmas tale.",
+  "vndb_url": "https://vndb.org/v18841"
+}

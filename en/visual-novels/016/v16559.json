@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16559",
+  "type": "visual_novel",
+  "name": "Gakuen Handsome: Restaurant",
+  "original_name": "学園ハンサム Restaurant",
+  "language": "en",
+  "source_language": "en",
+  "source": "Gakuen Handsome side story in which the characters try to find the best gourmet food in their prefecture.",
+  "source_sha256": "211c9ff10eb879981509aef2ee0d9e14c9b181c9fa3774987fe8e44eedcfcbba",
+  "translation": "Gakuen Handsome side story in which the characters try to find the best gourmet food in their prefecture.",
+  "vndb_url": "https://vndb.org/v16559"
+}

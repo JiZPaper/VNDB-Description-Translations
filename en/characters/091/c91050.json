@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91050",
+  "type": "character",
+  "name": "Mae",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A doorkeeper of Iruro's residential block.",
+  "source_sha256": "643ccd1d33ca4bbe2243619a356b1acb2b6d7ecc7494b12f125314da6f23c375",
+  "translation": "A doorkeeper of Iruro's residential block.",
+  "vndb_url": "https://vndb.org/c91050"
+}

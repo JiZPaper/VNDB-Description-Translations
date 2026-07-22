@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c6800",
+  "type": "character",
+  "name": "Yukihara Setsuna",
+  "original_name": "雪原 刹那",
+  "language": "en",
+  "source_language": "en",
+  "source": "An Ainu ninja miko from Hokkaido.",
+  "source_sha256": "05042f62aece2577b4fb37ed924349307eabf7858c8a0a3b9bbc6271cb1ad23c",
+  "translation": "An Ainu ninja miko from Hokkaido.",
+  "vndb_url": "https://vndb.org/c6800"
+}

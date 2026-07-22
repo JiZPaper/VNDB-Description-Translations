@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82037",
+  "type": "character",
+  "name": "James",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The butler of the Spencer mansion.",
+  "source_sha256": "1a8ee5fcbb5925593fdf78f1ee617fa55eb7d3e459adebf0b787dbb86d02d2c2",
+  "translation": "The butler of the Spencer mansion.",
+  "vndb_url": "https://vndb.org/c82037"
+}

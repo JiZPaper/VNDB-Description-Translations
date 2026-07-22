@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42806",
+  "type": "visual_novel",
+  "name": "Another Bookmark",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A doujinshi-game based on the manga \"Tohboe Bookmark!\".",
+  "source_sha256": "69bad2887767ee3ff540540865f48bf8c6e1ee8b1b5c706bf52896a442e9a4d6",
+  "translation": "A doujinshi-game based on the manga \"Tohboe Bookmark!\".",
+  "vndb_url": "https://vndb.org/v42806"
+}

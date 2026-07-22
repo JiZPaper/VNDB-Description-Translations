@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89879",
+  "type": "character",
+  "name": "Jami",
+  "original_name": "ジャミ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The boss of the \"Jami bandits\" that appears in Lake Blue.",
+  "source_sha256": "dbf0d5e10774fcd01abb139dc205fd0c54098b100ad1923038b58ff4025ad323",
+  "translation": "The boss of the \"Jami bandits\" that appears in Lake Blue.",
+  "vndb_url": "https://vndb.org/c89879"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c111312",
+  "type": "character",
+  "name": "Lucy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "- Wife of [url=/c111313]Richard[/url].\n- Mother of [url=/c110702]Annie[/url].",
+  "source_sha256": "5c1284def4776a5de3b0c4a97c920f14ab694620e41433b35d15dede33231645",
+  "translation": "- Wife of [url=/c111313]Richard[/url].\n- Mother of [url=/c110702]Annie[/url].",
+  "vndb_url": "https://vndb.org/c111312"
+}

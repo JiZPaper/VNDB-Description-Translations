@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41491",
+  "type": "character",
+  "name": "Robert Douglas",
+  "original_name": "ルーベルト ダグラス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The President of Almerica.\n\nRobert is based on Stephen Arnold Douglas, who was a U.S. representative, a U.S. senator, and the Democratic Party nominee for president in the 1860 election, losing to Republican Abraham Lincoln.",
+  "source_sha256": "fb1797e54c7875d4c41691089081164ce632ba2a1e3f1fe411c9dd1377913f83",
+  "translation": "The President of Almerica.\n\nRobert is based on Stephen Arnold Douglas, who was a U.S. representative, a U.S. senator, and the Democratic Party nominee for president in the 1860 election, losing to Republican Abraham Lincoln.",
+  "vndb_url": "https://vndb.org/c41491"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20108",
+  "type": "visual_novel",
+  "name": "Sny v Raskaljonnoj Pustyne",
+  "original_name": "Сны в раскалённой пустыне",
+  "language": "en",
+  "source_language": "en",
+  "source": "Gravity Falls fan game.",
+  "source_sha256": "61da9965afdcb858b69716024034b07bf60b4f96557e581478b013764398b4f3",
+  "translation": "Gravity Falls fan game.",
+  "vndb_url": "https://vndb.org/v20108"
+}

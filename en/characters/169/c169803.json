@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169803",
+  "type": "character",
+  "name": "Andrew",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The employer of the [url=/c169868]Protagonist[/url] at the café.",
+  "source_sha256": "0704cdf8822c1b121b011b3ef8cc507e650a5228c60655d795b71dac0ad816d2",
+  "translation": "The employer of the [url=/c169868]Protagonist[/url] at the café.",
+  "vndb_url": "https://vndb.org/c169803"
+}

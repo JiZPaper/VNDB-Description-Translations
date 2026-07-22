@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61914",
+  "type": "visual_novel",
+  "name": "Tamajishuu",
+  "original_name": "珠時雨",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fairy tale-style story about a man who deceived people to collect money and goods, and a mermaid.",
+  "source_sha256": "f5cdf2f216573941c28b7303ea3f32a6ace293e13abf0079536606ca91af66cd",
+  "translation": "A fairy tale-style story about a man who deceived people to collect money and goods, and a mermaid.",
+  "vndb_url": "https://vndb.org/v61914"
+}

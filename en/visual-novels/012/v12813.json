@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12813",
+  "type": "visual_novel",
+  "name": "Maqhaal Ḍaai'uun",
+  "original_name": "مقهى الضائعون",
+  "language": "en",
+  "source_language": "en",
+  "source": "An Arabic short visual novel. You are lost, you don't remember who you are, but you find yourself at a cafe in the middle of a forest... Can the waitress help you remember?\n\n[From [url=http://games.renpy.org/game/who_am_i.shtml]Ren'Py Games List[/url]]",
+  "source_sha256": "9558018d8fddc80b83d78726486ceb693ca0387464033eb248b6bf0c3efc86df",
+  "translation": "An Arabic short visual novel. You are lost, you don't remember who you are, but you find yourself at a cafe in the middle of a forest... Can the waitress help you remember?\n\n[From [url=http://games.renpy.org/game/who_am_i.shtml]Ren'Py Games List[/url]]",
+  "vndb_url": "https://vndb.org/v12813"
+}

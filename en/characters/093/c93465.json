@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93465",
+  "type": "character",
+  "name": "Bella",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your middle sister doesn't seem to be all that happy with your arrival, but maybe you can change her mind (or force her to)?",
+  "source_sha256": "62e935f6f981300e7a452a000df809fe4abcd2ce697055f1aa28bd2c06165052",
+  "translation": "Your middle sister doesn't seem to be all that happy with your arrival, but maybe you can change her mind (or force her to)?",
+  "vndb_url": "https://vndb.org/c93465"
+}

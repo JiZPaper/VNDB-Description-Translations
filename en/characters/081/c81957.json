@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81957",
+  "type": "character",
+  "name": "Morn",
+  "original_name": "モルン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A florist who loves growing flowers and trees, and even designs and maintains gardens.",
+  "source_sha256": "e2788c7939dbc81db9e060b4506c30f8b50ad3f20937bc14f28e1d020a2722a1",
+  "translation": "A florist who loves growing flowers and trees, and even designs and maintains gardens.",
+  "vndb_url": "https://vndb.org/c81957"
+}

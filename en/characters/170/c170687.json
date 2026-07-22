@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170687",
+  "type": "character",
+  "name": "Sarah 2.0",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A robot developed by Ada based on Sarah's appearance and personality.",
+  "source_sha256": "39bfc68fdd57d220cce71570c4a59eacba3aa030a2ee6af1d8faffa887825cdf",
+  "translation": "A robot developed by Ada based on Sarah's appearance and personality.",
+  "vndb_url": "https://vndb.org/c170687"
+}

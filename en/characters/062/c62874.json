@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62874",
+  "type": "character",
+  "name": "Artoria",
+  "original_name": "アルトリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the 16 playable servants in Fate/Extella.",
+  "source_sha256": "2c0b0fbcff98082f99bc8a3317a5e99e8adda4ce1315978e63a8840457f3228e",
+  "translation": "One of the 16 playable servants in Fate/Extella.",
+  "vndb_url": "https://vndb.org/c62874"
+}

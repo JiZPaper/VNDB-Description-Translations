@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137907",
+  "type": "character",
+  "name": "Demon Bull",
+  "original_name": "魔牛",
+  "language": "en",
+  "source_language": "en",
+  "source": "A demon beast summoned by Daidasu.",
+  "source_sha256": "4f9abd671a40b5969687d7914e138899495d6103d9b9bbd3ea685121d7a49eb4",
+  "translation": "A demon beast summoned by Daidasu.",
+  "vndb_url": "https://vndb.org/c137907"
+}

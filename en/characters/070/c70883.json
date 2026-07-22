@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70883",
+  "type": "character",
+  "name": "Matthew",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Daniel's classmate.",
+  "source_sha256": "5415d2a59fea03e0b1118af4eaba677d68415f492d08f28166879325bdcc6733",
+  "translation": "Daniel's classmate.",
+  "vndb_url": "https://vndb.org/c70883"
+}

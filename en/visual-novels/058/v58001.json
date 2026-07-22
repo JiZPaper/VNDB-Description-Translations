@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58001",
+  "type": "visual_novel",
+  "name": "You:Me",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short conversation between two long-standing friends regarding life, work, and companionship. Oh, and robots as well.\n\n[From [url=https://lemonink.itch.io/youme]itch.io[/url]]",
+  "source_sha256": "5a3d3650978c78181eb050c7c689b203e81b61dfc12bb9df8cddbfdf4723aa87",
+  "translation": "A short conversation between two long-standing friends regarding life, work, and companionship. Oh, and robots as well.\n\n[From [url=https://lemonink.itch.io/youme]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v58001"
+}

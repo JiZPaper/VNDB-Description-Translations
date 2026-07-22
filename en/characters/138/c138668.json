@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c138668",
+  "type": "character",
+  "name": "Ryoji Kuroi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A professor at Narukawa University. He is conducting operational experiments for the resource-sharing community network \"Narukawa Network,\" supported by the Shimazu Group.",
+  "source_sha256": "4b629c577cf01cee08596492e7c688cff1d82bad1230c6a1c693b9f29518ad50",
+  "translation": "A professor at Narukawa University. He is conducting operational experiments for the resource-sharing community network \"Narukawa Network,\" supported by the Shimazu Group.",
+  "vndb_url": "https://vndb.org/c138668"
+}

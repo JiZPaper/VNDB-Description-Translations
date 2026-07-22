@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155690",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You had the unfortunate luck of meeting Strade at a local pub when you were just trying to get out of the pouring rain. You're now stuck in his basement and probably won't live to see outside of it.",
+  "source_sha256": "9a496ce9d9a9dc803e9dea647b3e214265780e29b83680026a4785c4ebc02dc6",
+  "translation": "You had the unfortunate luck of meeting Strade at a local pub when you were just trying to get out of the pouring rain. You're now stuck in his basement and probably won't live to see outside of it.",
+  "vndb_url": "https://vndb.org/c155690"
+}

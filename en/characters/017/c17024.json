@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17024",
+  "type": "character",
+  "name": "Leo",
+  "original_name": "レオ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Keiichi's dalmatian",
+  "source_sha256": "b2105deb66afc60f8f100d0833f8c38b0de126d3fb701f27d39a9f153610f242",
+  "translation": "Keiichi's dalmatian",
+  "vndb_url": "https://vndb.org/c17024"
+}

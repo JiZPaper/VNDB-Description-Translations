@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125023",
+  "type": "character",
+  "name": "Panda Lion",
+  "original_name": "パンダライオン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A costume worn by the student council members.",
+  "source_sha256": "a8618a9677c529f35725ee7ef4751ea14bfda0a7d59799791f0dd79127b67256",
+  "translation": "A costume worn by the student council members.",
+  "vndb_url": "https://vndb.org/c125023"
+}

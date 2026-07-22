@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21016",
+  "type": "character",
+  "name": "Misato Simon",
+  "original_name": "ミサト・シモン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Pilot of CAT Torpedo 4",
+  "source_sha256": "9f81d146174729e67abd25a96aad4bc9698260e777365a1f6b46dfe080bdf6dd",
+  "translation": "Pilot of CAT Torpedo 4",
+  "vndb_url": "https://vndb.org/c21016"
+}

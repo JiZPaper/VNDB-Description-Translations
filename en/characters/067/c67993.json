@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c67993",
+  "type": "character",
+  "name": "Tillie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Tillie is a girl who says she's a famous acrobat.",
+  "source_sha256": "f728e56ea052195020e2d9340d47ec5500e5e09a70bf12e9379c7120dce26963",
+  "translation": "Tillie is a girl who says she's a famous acrobat.",
+  "vndb_url": "https://vndb.org/c67993"
+}

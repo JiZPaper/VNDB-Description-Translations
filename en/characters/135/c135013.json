@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135013",
+  "type": "character",
+  "name": "Evette",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of the Capital Guard.",
+  "source_sha256": "4edfd53eb9659e23ae6029f7c3ca9c45d07f2697874c9d3dfbdfc10d68d1404b",
+  "translation": "A member of the Capital Guard.",
+  "vndb_url": "https://vndb.org/c135013"
+}

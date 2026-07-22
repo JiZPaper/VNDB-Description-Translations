@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137666",
+  "type": "character",
+  "name": "Sweetheart",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Default name is Yua if the player picks the feminine appearance and Yuu if the player picks the masculine appearance.",
+  "source_sha256": "b841684dd25e8d3358594997a754f9bad1b95f42e725bdeb1957322a07544f9b",
+  "translation": "Default name is Yua if the player picks the feminine appearance and Yuu if the player picks the masculine appearance.",
+  "vndb_url": "https://vndb.org/c137666"
+}

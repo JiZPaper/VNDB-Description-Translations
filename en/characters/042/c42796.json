@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42796",
+  "type": "character",
+  "name": "Henry Simons",
+  "original_name": "ヘンリー＝シモンズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Sir Leonard, Take care again today.\"\n\n[url=/c42791]Leonard's[/url] butler. The only servant the Berkeley family has left.\nA kind and faithful person.",
+  "source_sha256": "5c2797576da3bb8ad390fdaa4d8484e1541b33a4c1f135791544d6ea98c0cef9",
+  "translation": "\"Sir Leonard, Take care again today.\"\n\n[url=/c42791]Leonard's[/url] butler. The only servant the Berkeley family has left.\nA kind and faithful person.",
+  "vndb_url": "https://vndb.org/c42796"
+}

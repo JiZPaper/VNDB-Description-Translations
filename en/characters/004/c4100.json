@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4100",
+  "type": "character",
+  "name": "Saitou Tamaki",
+  "original_name": "西藤 環",
+  "language": "en",
+  "source_language": "en",
+  "source": "A psychiatrist at the hospital owned by the Kuchiki family.\n\n[spoiler]His real name is Rokushiki Makoto. He committed a string of serial murders in 1950, in which Reiji's fiancee was one of the victims.[/spoiler]",
+  "source_sha256": "d5f3ac0c6b5bcc69775aeb1ceedcab3e7cfded8afade37c29dd72232d816eccf",
+  "translation": "A psychiatrist at the hospital owned by the Kuchiki family.\n\n[spoiler]His real name is Rokushiki Makoto. He committed a string of serial murders in 1950, in which Reiji's fiancee was one of the victims.[/spoiler]",
+  "vndb_url": "https://vndb.org/c4100"
+}

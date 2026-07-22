@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25521",
+  "type": "character",
+  "name": "Helle",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A minotaur bartender at Hunter's Bar.",
+  "source_sha256": "f3ec90857ca4d487d337a70eb3912b96047bac7ca4f18899daa22d0f2d850db0",
+  "translation": "A minotaur bartender at Hunter's Bar.",
+  "vndb_url": "https://vndb.org/c25521"
+}

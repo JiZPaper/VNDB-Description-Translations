@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150550",
+  "type": "character",
+  "name": "Warren Hilts",
+  "original_name": "ウォーレン・ヒルツ",
+  "language": "en",
+  "source_language": "en",
+  "source": "David Jones' Bodyguard.",
+  "source_sha256": "c4b6266b550dc9e867d715578f5dd60d9a3e9dc0a1315134f8c7b9957069750c",
+  "translation": "David Jones' Bodyguard.",
+  "vndb_url": "https://vndb.org/c150550"
+}

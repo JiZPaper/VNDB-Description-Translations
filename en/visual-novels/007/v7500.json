@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7500",
+  "type": "visual_novel",
+  "name": "Despair Witch",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Satoru is a wizard who stays in human world for magic training. Here he meets a girl who is a wizard as well and he decides to make her his slave...",
+  "source_sha256": "2a130df188693db732e310dd5f8865db261f864d02008233823b18a70c93605c",
+  "translation": "Satoru is a wizard who stays in human world for magic training. Here he meets a girl who is a wizard as well and he decides to make her his slave...",
+  "vndb_url": "https://vndb.org/v7500"
+}

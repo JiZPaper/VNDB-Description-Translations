@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33374",
+  "type": "character",
+  "name": "Helios",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Helios is the newest fighter aboard the starship Kepler. He joins an Alliance surveillance team with [url=/c33377]Selene[/url], his newly-assigned navigator.",
+  "source_sha256": "05dbc2ff1d1db220e91acdb387b69b3f1b3b0c7d08c0c60af7a83d5da3aece75",
+  "translation": "Helios is the newest fighter aboard the starship Kepler. He joins an Alliance surveillance team with [url=/c33377]Selene[/url], his newly-assigned navigator.",
+  "vndb_url": "https://vndb.org/c33374"
+}

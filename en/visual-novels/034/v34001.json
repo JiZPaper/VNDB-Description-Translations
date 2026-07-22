@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34001",
+  "type": "visual_novel",
+  "name": "Ii Otoko no Jouzu na Kaikata",
+  "original_name": "イイオトコの上手な買い方",
+  "language": "en",
+  "source_language": "en",
+  "source": "Seiji, the leader of an idol group, is approached by a TV producer.\n\n\"I'll make you a star but there is one condition...\"",
+  "source_sha256": "43ea958d0753c8284c7ecc394df72ca55aeaa016e7224e3c94ce531722280700",
+  "translation": "Seiji, the leader of an idol group, is approached by a TV producer.\n\n\"I'll make you a star but there is one condition...\"",
+  "vndb_url": "https://vndb.org/v34001"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13305",
+  "type": "visual_novel",
+  "name": "Everlove",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Everlove is a narrative game of romance and mystery where each choice you make builds your character and brings you closer to one of your four possible romantic liaisons. In solving the complex mystery of who killed your father, will you find love?",
+  "source_sha256": "6334fa7a4fdc41445eab78b8848159d55956451200669568fa3680ac7dd8b78e",
+  "translation": "Everlove is a narrative game of romance and mystery where each choice you make builds your character and brings you closer to one of your four possible romantic liaisons. In solving the complex mystery of who killed your father, will you find love?",
+  "vndb_url": "https://vndb.org/v13305"
+}

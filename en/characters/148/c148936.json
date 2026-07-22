@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148936",
+  "type": "character",
+  "name": "Alfred",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Catherine's husband.",
+  "source_sha256": "59c66f9333d1e92ebfb0ba4e18188fea8d628e27de2751f31caef0be3dc0c65d",
+  "translation": "Catherine's husband.",
+  "vndb_url": "https://vndb.org/c148936"
+}

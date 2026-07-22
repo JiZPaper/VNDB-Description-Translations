@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38844",
+  "type": "character",
+  "name": "Mark Jones",
+  "original_name": "マーク・ジョーンズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The son of a movie company president.\nThe school resident's playboy, he always carries a smile on his face, but he seems to be hiding something behind it.",
+  "source_sha256": "1c61dbabd4a201949d8a6985f7f987d3b6595cfa8c7b9f05c9214c0ec62cc04e",
+  "translation": "The son of a movie company president.\nThe school resident's playboy, he always carries a smile on his face, but he seems to be hiding something behind it.",
+  "vndb_url": "https://vndb.org/c38844"
+}

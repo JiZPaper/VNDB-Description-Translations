@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116363",
+  "type": "character",
+  "name": "Hospital Director",
+  "original_name": "院長",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]The director of Hoshizora hospital and [url=/c91359]Noir[/url]'s father[/spoiler]",
+  "source_sha256": "91b9aac56f65a4ffff43449069747696e8c0dd03387595c66f8cb18bbb825fe2",
+  "translation": "[spoiler]The director of Hoshizora hospital and [url=/c91359]Noir[/url]'s father[/spoiler]",
+  "vndb_url": "https://vndb.org/c116363"
+}

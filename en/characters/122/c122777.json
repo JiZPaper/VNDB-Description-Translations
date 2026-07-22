@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122777",
+  "type": "character",
+  "name": "Lord Voldemort",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A lord of darkness.",
+  "source_sha256": "a7d4fb731868ea02c6584b4f8a53dca38c5122eb2a2afbb6a0104266a7f24816",
+  "translation": "A lord of darkness.",
+  "vndb_url": "https://vndb.org/c122777"
+}

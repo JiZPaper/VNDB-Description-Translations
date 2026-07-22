@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134777",
+  "type": "character",
+  "name": "Fredic",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Merchant that likes to tell tall tales while drinking",
+  "source_sha256": "8c16c2e19f674d0d2edec845e224e5888c540dc5f0a2c528a84dca74c0d6f67f",
+  "translation": "Merchant that likes to tell tall tales while drinking",
+  "vndb_url": "https://vndb.org/c134777"
+}

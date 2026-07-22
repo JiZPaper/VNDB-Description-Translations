@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113871",
+  "type": "character",
+  "name": "Klaus Revia",
+  "original_name": "クラウス・レヴィア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Klaus is the current King of Revia.",
+  "source_sha256": "1449d481140eca4a587c0456e35f176d9de57c4936fb0661062cb03177f733dd",
+  "translation": "Klaus is the current King of Revia.",
+  "vndb_url": "https://vndb.org/c113871"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64101",
+  "type": "character",
+  "name": "The Moon Lord",
+  "original_name": "月の主",
+  "language": "en",
+  "source_language": "en",
+  "source": "Former member of Juuni Hitoe.",
+  "source_sha256": "3b4d97b5ba5e47272b4b1111c88cc4aa807ecec5fd020883dc635a461513d91f",
+  "translation": "Former member of Juuni Hitoe.",
+  "vndb_url": "https://vndb.org/c64101"
+}

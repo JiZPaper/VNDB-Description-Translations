@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154684",
+  "type": "character",
+  "name": "Sev",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sev is a soon-to-be medical graduate.",
+  "source_sha256": "4683048fcd192d9b006c3d587dbede95e3963e8d9b4aa56833abbbd31a547ed5",
+  "translation": "Sev is a soon-to-be medical graduate.",
+  "vndb_url": "https://vndb.org/c154684"
+}

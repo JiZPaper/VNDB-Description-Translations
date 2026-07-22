@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37901",
+  "type": "character",
+  "name": "Ichirou",
+  "original_name": "一郎",
+  "language": "en",
+  "source_language": "en",
+  "source": "An orphan in an orphanage in Seattle.",
+  "source_sha256": "fd9c546675e1ba11d4a7a4e6fa27d43327bcccb4946be8a0a5fdb82611ffab86",
+  "translation": "An orphan in an orphanage in Seattle.",
+  "vndb_url": "https://vndb.org/c37901"
+}

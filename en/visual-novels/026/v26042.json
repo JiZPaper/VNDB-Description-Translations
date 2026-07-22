@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26042",
+  "type": "visual_novel",
+  "name": "A New Life",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An extended epilogue to Alanna's ending.",
+  "source_sha256": "aa7be0f166432eb493f398e3340cc7ef27a3c4dfb67f4e73e34bb5c6869dfd07",
+  "translation": "An extended epilogue to Alanna's ending.",
+  "vndb_url": "https://vndb.org/v26042"
+}

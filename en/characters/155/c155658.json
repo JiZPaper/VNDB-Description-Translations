@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155658",
+  "type": "character",
+  "name": "Elder",
+  "original_name": "長老",
+  "language": "en",
+  "source_language": "en",
+  "source": "The elder of the witch's village. Marie's grandmother.",
+  "source_sha256": "b58f21796a82802a98e59618fa67e6c1ff7fd9857258e02127bc1ed723f5553c",
+  "translation": "The elder of the witch's village. Marie's grandmother.",
+  "vndb_url": "https://vndb.org/c155658"
+}

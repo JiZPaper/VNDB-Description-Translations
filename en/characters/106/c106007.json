@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106007",
+  "type": "character",
+  "name": "Astaroth",
+  "original_name": "アスタロト",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Please give my best regards. I'm doing fine.\"\n\nThe highest demon.",
+  "source_sha256": "3eddf0548e9bc6d090b3d52fd8e9b1778e8b6c885b13293107783cd475e87398",
+  "translation": "\"Please give my best regards. I'm doing fine.\"\n\nThe highest demon.",
+  "vndb_url": "https://vndb.org/c106007"
+}

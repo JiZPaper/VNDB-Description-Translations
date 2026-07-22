@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c626",
+  "type": "character",
+  "name": "Hoodie Guy",
+  "original_name": "パーカー男",
+  "language": "en",
+  "source_language": "en",
+  "source": "A shadowy dude trailing Kazuki and co. for some reason.",
+  "source_sha256": "eeddc335887dd4d148d67774acf3109469c7d4a8c3abe318c6062f19b0d260db",
+  "translation": "A shadowy dude trailing Kazuki and co. for some reason.",
+  "vndb_url": "https://vndb.org/c626"
+}

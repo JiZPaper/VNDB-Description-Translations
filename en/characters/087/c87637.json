@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87637",
+  "type": "character",
+  "name": "Fan Club President",
+  "original_name": "ファンクラブ会長",
+  "language": "en",
+  "source_language": "en",
+  "source": "President of the unofficial [url=/c80441]Aotsuki Takane[/url] Fan Club.",
+  "source_sha256": "cf60671a7c5821600f1eaab35088ff81fc0d4aa428e556aaec5620de9816621e",
+  "translation": "President of the unofficial [url=/c80441]Aotsuki Takane[/url] Fan Club.",
+  "vndb_url": "https://vndb.org/c87637"
+}

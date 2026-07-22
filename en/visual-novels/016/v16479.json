@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16479",
+  "type": "visual_novel",
+  "name": "Mix Ore",
+  "original_name": "みっくすおれ",
+  "language": "en",
+  "source_language": "en",
+  "source": "After an accident, the protagonist Kantarou finds himself on a hospital bed, devoided of his memories. The story then branches, depending on choices, slowly shedding light on the protagonist background.",
+  "source_sha256": "d782c4ac40401c2beb833d57d181c8382f1f8c75df164107c92561e4d68c899d",
+  "translation": "After an accident, the protagonist Kantarou finds himself on a hospital bed, devoided of his memories. The story then branches, depending on choices, slowly shedding light on the protagonist background.",
+  "vndb_url": "https://vndb.org/v16479"
+}

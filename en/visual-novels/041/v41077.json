@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41077",
+  "type": "visual_novel",
+  "name": "Lost: Chapter II",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A sequel to a previous Genshin Impact Dottore visual novel.",
+  "source_sha256": "dc6ef180c0d0a7c2105a8b83d73aaa05a5d259754b2e9a23ce4f818271f705e8",
+  "translation": "A sequel to a previous Genshin Impact Dottore visual novel.",
+  "vndb_url": "https://vndb.org/v41077"
+}

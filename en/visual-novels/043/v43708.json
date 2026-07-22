@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43708",
+  "type": "visual_novel",
+  "name": "Watashi no Otomodachi",
+  "original_name": "わたしのおともだち",
+  "language": "en",
+  "source_language": "en",
+  "source": "In a village surrounded by a forest, a girl ignores her mom's warning and goes out into the forest to play.\n\n\"What do you wanna do today?\"\n\n[Translated from [url=https://web.archive.org/web/20130129093059/http://o0escapism0o.web.fc2.com/myf/top.html]official website[/url]]",
+  "source_sha256": "58269aeb17e8b1495a50d6c32d7ed534c50c7084bc0053c9b2877c2581acb5db",
+  "translation": "In a village surrounded by a forest, a girl ignores her mom's warning and goes out into the forest to play.\n\n\"What do you wanna do today?\"\n\n[Translated from [url=https://web.archive.org/web/20130129093059/http://o0escapism0o.web.fc2.com/myf/top.html]official website[/url]]",
+  "vndb_url": "https://vndb.org/v43708"
+}

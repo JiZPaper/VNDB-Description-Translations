@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22563",
+  "type": "visual_novel",
+  "name": "O Espectro de Bongcheon-Dong",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short Brazilian horror VN in RPG Maker VX Ace, based on the original webtoon by [url=http://comic.naver.com/webtoon/detail.nhn?titleId=350217&no=31]Horang[/url], which is itself based on a Korean urban legend and supposed \"true personal accounts\".",
+  "source_sha256": "5027055bf2e22f86baad231a5e68f45e7e23478a330e3d9d9fdd6d1ab0471114",
+  "translation": "A short Brazilian horror VN in RPG Maker VX Ace, based on the original webtoon by [url=http://comic.naver.com/webtoon/detail.nhn?titleId=350217&no=31]Horang[/url], which is itself based on a Korean urban legend and supposed \"true personal accounts\".",
+  "vndb_url": "https://vndb.org/v22563"
+}

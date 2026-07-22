@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135101",
+  "type": "character",
+  "name": "Three Little Pigs",
+  "original_name": "三匹のこぶた",
+  "language": "en",
+  "source_language": "en",
+  "source": "The main antagonists of the event \"It's the Beast's Turn!\".\n\nA trio of carpenter pigs who instigate conflict between the musicians of Bremen.",
+  "source_sha256": "257b5c143f1a69078a1b6b79f1dc9a4fd5bdf97cf7fab874902543004325ebf5",
+  "translation": "The main antagonists of the event \"It's the Beast's Turn!\".\n\nA trio of carpenter pigs who instigate conflict between the musicians of Bremen.",
+  "vndb_url": "https://vndb.org/c135101"
+}

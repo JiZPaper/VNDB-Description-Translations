@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110262",
+  "type": "character",
+  "name": "Girl 5",
+  "original_name": "少女５",
+  "language": "en",
+  "source_language": "en",
+  "source": "The girl behind door #5 at Maison Rolita.",
+  "source_sha256": "e901dd79d8b0e4acdfaa36642288837875803b7f4ec22688564c5cc6a0c7bef8",
+  "translation": "The girl behind door #5 at Maison Rolita.",
+  "vndb_url": "https://vndb.org/c110262"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124258",
+  "type": "character",
+  "name": "Lucas",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Marcus' best friend.",
+  "source_sha256": "7d5c5acb42f401d2623c48c1af0cc38f040f92e8f4583bdbafe07ef46454db68",
+  "translation": "Marcus' best friend.",
+  "vndb_url": "https://vndb.org/c124258"
+}

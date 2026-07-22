@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112103",
+  "type": "character",
+  "name": "Unknown",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Producer's secretary.",
+  "source_sha256": "025cf4eff296f27614143f11293cad7f198b60aed7b748d2ca1e3adf41b1c3cd",
+  "translation": "The Producer's secretary.",
+  "vndb_url": "https://vndb.org/c112103"
+}

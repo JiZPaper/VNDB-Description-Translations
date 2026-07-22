@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102379",
+  "type": "character",
+  "name": "Rudolph",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The child version of Rudolph",
+  "source_sha256": "d4c26ab460600916a59ace6e0786c17e2f54fa342c23765acadc5adf0f85a4e7",
+  "translation": "The child version of Rudolph",
+  "vndb_url": "https://vndb.org/c102379"
+}

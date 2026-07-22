@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c111021",
+  "type": "character",
+  "name": "Amelia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Accalia's maid.",
+  "source_sha256": "065516cbcec4a91cf2317fbc985d4e8a5d6f2dd18cefabd8b04fc89b42ed4757",
+  "translation": "Accalia's maid.",
+  "vndb_url": "https://vndb.org/c111021"
+}

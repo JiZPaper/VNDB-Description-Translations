@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140530",
+  "type": "character",
+  "name": "Moulin",
+  "original_name": "ムーラン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of the crew on the ship called Neptune, serving as an operator.",
+  "source_sha256": "d51194ba42af881fa3148c97ca4074985c7b8b2842db46c372e421e491f100fa",
+  "translation": "A member of the crew on the ship called Neptune, serving as an operator.",
+  "vndb_url": "https://vndb.org/c140530"
+}

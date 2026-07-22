@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133524",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He wakes up in a strange land full of giants, and except for his name, he does not remember who he is and how he ended up in this strange land.",
+  "source_sha256": "41c38acafbae3d61dd4657826db4ddc12c9ea292c754b25f0c1a21797fca34d9",
+  "translation": "He wakes up in a strange land full of giants, and except for his name, he does not remember who he is and how he ended up in this strange land.",
+  "vndb_url": "https://vndb.org/c133524"
+}

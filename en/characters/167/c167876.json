@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c167876",
+  "type": "character",
+  "name": "Valeria",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A guard.",
+  "source_sha256": "5669f5dacc83c8695995f23131a17c334b67e07aac48b66ca38ca786287924f6",
+  "translation": "A guard.",
+  "vndb_url": "https://vndb.org/c167876"
+}

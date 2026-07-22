@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95526",
+  "type": "character",
+  "name": "Master",
+  "original_name": "マスター",
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of Cafe Estacion. He has a gentle demeanor and uses honorifics with everyone. He always looks after his employees.",
+  "source_sha256": "fca15c932e125ae43f9f920a9ba9c814e86c94c35f22c2fb9531b6c0e5bc0bee",
+  "translation": "The owner of Cafe Estacion. He has a gentle demeanor and uses honorifics with everyone. He always looks after his employees.",
+  "vndb_url": "https://vndb.org/c95526"
+}

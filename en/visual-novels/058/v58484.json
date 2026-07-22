@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58484",
+  "type": "visual_novel",
+  "name": "Better Be Kid",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nath's tough growing-up adventures in the slums.",
+  "source_sha256": "7d0012f1f0c7e449922a1a8c9be910ce0147949f0418169e7d34086620ad44c1",
+  "translation": "Nath's tough growing-up adventures in the slums.",
+  "vndb_url": "https://vndb.org/v58484"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134527",
+  "type": "character",
+  "name": "Jade",
+  "original_name": "제이드",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Squalus Merchant and the head of a secret guild.",
+  "source_sha256": "f60fec8c87d46ffe6d4efabbbc9a50638453129a15838a3bebe00578b04e0180",
+  "translation": "A Squalus Merchant and the head of a secret guild.",
+  "vndb_url": "https://vndb.org/c134527"
+}

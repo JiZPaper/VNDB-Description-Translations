@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c111314",
+  "type": "character",
+  "name": "Terry",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Husband of [url=/c110910]Sara[/url].",
+  "source_sha256": "b76b295e51c23f068d688a02ad2eb8db13a381cffe8dbf26214571ab6f4501f3",
+  "translation": "Husband of [url=/c110910]Sara[/url].",
+  "vndb_url": "https://vndb.org/c111314"
+}

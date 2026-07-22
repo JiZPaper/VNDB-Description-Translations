@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99325",
+  "type": "character",
+  "name": "Tad Lords",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The CEO of Manticore Video. He also directs all of the movies the studio makes.",
+  "source_sha256": "5de627f5ddb7e8547d477eb6c80cb919ffaf8e0429e86d4f8f9ca7bcf5aa9815",
+  "translation": "The CEO of Manticore Video. He also directs all of the movies the studio makes.",
+  "vndb_url": "https://vndb.org/c99325"
+}

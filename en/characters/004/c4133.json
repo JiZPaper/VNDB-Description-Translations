@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4133",
+  "type": "character",
+  "name": "Carlisle McDougall",
+  "original_name": "カーライル・マクドガル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Famous detective from England, sister of Cliff McDougall.",
+  "source_sha256": "6bbfb39d6409c6166a3db4f2a24066947a226afcd4f5c88fb828f3d8f92b293e",
+  "translation": "Famous detective from England, sister of Cliff McDougall.",
+  "vndb_url": "https://vndb.org/c4133"
+}

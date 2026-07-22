@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58467",
+  "type": "visual_novel",
+  "name": "Fate/Install",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Fate/Stay Night Fangame that takes place in an Alternate Universe and revolves around Gilgamesh",
+  "source_sha256": "c0441fdf48706005fcf55994e7f075693c49f0272156e6beec8a610b6db69928",
+  "translation": "A Fate/Stay Night Fangame that takes place in an Alternate Universe and revolves around Gilgamesh",
+  "vndb_url": "https://vndb.org/v58467"
+}

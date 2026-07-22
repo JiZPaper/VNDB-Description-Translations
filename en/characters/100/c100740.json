@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100740",
+  "type": "character",
+  "name": "Superman Costume",
+  "original_name": "スーパーマンのおじさん",
+  "language": "en",
+  "source_language": "en",
+  "source": "A man dressed like Superman.\n\n[spoiler]Ex-member of the Israelite special forces, now member of a criminal organization that kidnaps kids victim of abuse. Real name: Zan Karavan[/spoiler]",
+  "source_sha256": "c6f533038ff4b8b7cf6d7f6a5c03dae55cd70be9f637916089ef39ddea82d985",
+  "translation": "A man dressed like Superman.\n\n[spoiler]Ex-member of the Israelite special forces, now member of a criminal organization that kidnaps kids victim of abuse. Real name: Zan Karavan[/spoiler]",
+  "vndb_url": "https://vndb.org/c100740"
+}

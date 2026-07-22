@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141541",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Recently rejected by a teacher, the game begins with the protagonist speaking with an academic counselor.",
+  "source_sha256": "8a4d46a5c1a259c16a7883794014852056be96807a5040def9d2028890079380",
+  "translation": "Recently rejected by a teacher, the game begins with the protagonist speaking with an academic counselor.",
+  "vndb_url": "https://vndb.org/c141541"
+}

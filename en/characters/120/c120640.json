@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120640",
+  "type": "character",
+  "name": "Chief",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A chief of the village Otto and his sister reside in.",
+  "source_sha256": "a0783fc7d678149afba87b9ad73fa9c5177af0f1ae30fc4fdbafbda64c24899a",
+  "translation": "A chief of the village Otto and his sister reside in.",
+  "vndb_url": "https://vndb.org/c120640"
+}

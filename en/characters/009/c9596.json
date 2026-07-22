@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9596",
+  "type": "character",
+  "name": "Medica",
+  "original_name": "メディカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A first aid kit that was turned into a girl.",
+  "source_sha256": "e7924818193c3ab0ef066998989654e2207beeb2f81f34c7b7157fecaff8be19",
+  "translation": "A first aid kit that was turned into a girl.",
+  "vndb_url": "https://vndb.org/c9596"
+}

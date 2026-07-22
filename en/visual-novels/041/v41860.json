@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41860",
+  "type": "visual_novel",
+  "name": "Harvest Of Love",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Graphic adventure where you need to get along with three plants so they give you their consent to harvest them.",
+  "source_sha256": "80b86b20f30621c75a56dfee7eec8e4a4fba448dc2deea28aa2224b3c4b0a7e6",
+  "translation": "Graphic adventure where you need to get along with three plants so they give you their consent to harvest them.",
+  "vndb_url": "https://vndb.org/v41860"
+}

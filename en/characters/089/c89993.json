@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89993",
+  "type": "character",
+  "name": "Lily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bunny woman who runs the village bookstore and tinkers in alchemy.",
+  "source_sha256": "1e7b204d8be6ae638f5b763f9d55bc98ff5df14c05a226ade092871863e6a19b",
+  "translation": "Bunny woman who runs the village bookstore and tinkers in alchemy.",
+  "vndb_url": "https://vndb.org/c89993"
+}

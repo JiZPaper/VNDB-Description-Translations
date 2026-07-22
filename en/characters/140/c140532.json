@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140532",
+  "type": "character",
+  "name": "Yuki-Sensei",
+  "original_name": "結城先生",
+  "language": "en",
+  "source_language": "en",
+  "source": "The teacher of the protagonist at his highschool.",
+  "source_sha256": "ce352d210fc50dc742b178442b28e19c53653230452a320b88040fd28ade5f83",
+  "translation": "The teacher of the protagonist at his highschool.",
+  "vndb_url": "https://vndb.org/c140532"
+}

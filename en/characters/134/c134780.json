@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134780",
+  "type": "character",
+  "name": "Goriath",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Imperial Executor of Geinvrik.",
+  "source_sha256": "d29c914444ba19a2f19f7ba01690c97b6701a6806a921b7777fbd445f857dea4",
+  "translation": "Imperial Executor of Geinvrik.",
+  "vndb_url": "https://vndb.org/c134780"
+}

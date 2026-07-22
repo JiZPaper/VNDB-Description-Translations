@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159765",
+  "type": "character",
+  "name": "Val",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A waitress at a French restaurant.",
+  "source_sha256": "4d4177a60fcbf928b5256965e30e7fe0310501ef90303157c10b8aaa14626dfc",
+  "translation": "A waitress at a French restaurant.",
+  "vndb_url": "https://vndb.org/c159765"
+}

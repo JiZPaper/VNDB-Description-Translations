@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87083",
+  "type": "character",
+  "name": "Chutney",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sirius’s pet raccoon.",
+  "source_sha256": "a3a1d1eeedc1e9972eef3693dfaf97718ac371f4eb054ad8f1508303bab5117a",
+  "translation": "Sirius’s pet raccoon.",
+  "vndb_url": "https://vndb.org/c87083"
+}

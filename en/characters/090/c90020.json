@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90020",
+  "type": "character",
+  "name": "Ves",
+  "original_name": "ヴェス",
+  "language": "en",
+  "source_language": "en",
+  "source": "An insectian - half human, half insect. Ves is the queen the \"bees\" living in the mountains near the city of Vice.",
+  "source_sha256": "2d00ab3ec50c446a15c83241d725524f3bee936f56d31e0312db0f8d8ad86620",
+  "translation": "An insectian - half human, half insect. Ves is the queen the \"bees\" living in the mountains near the city of Vice.",
+  "vndb_url": "https://vndb.org/c90020"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117051",
+  "type": "character",
+  "name": "Sam Jenkins",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A freshman who’s trying to figure out his place in the world.",
+  "source_sha256": "aa7cf54a3e260932c56ba0ae53e334bfd4ceb00b58f84f51867f5fa295258bdd",
+  "translation": "A freshman who’s trying to figure out his place in the world.",
+  "vndb_url": "https://vndb.org/c117051"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20224",
+  "type": "visual_novel",
+  "name": "It's OK: Tacos",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short yuri VN made for Yuri Jam 2016. About love and tacos.\n\n[From [url=https://breakfastparty.itch.io/oktacos]itch.io[/url]]",
+  "source_sha256": "bb0f1a90b031eaed26596338e376be8c5e5591039ae8fa35c948dd691c260370",
+  "translation": "A short yuri VN made for Yuri Jam 2016. About love and tacos.\n\n[From [url=https://breakfastparty.itch.io/oktacos]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v20224"
+}

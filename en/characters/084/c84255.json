@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84255",
+  "type": "character",
+  "name": "Iris",
+  "original_name": "イリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Age: Unknown (about 150 years old).",
+  "source_sha256": "d05e1c13353cbbb197b64b2dcfaba7cd68df2a7121b13f49e4688b8ef507f4a2",
+  "translation": "Age: Unknown (about 150 years old).",
+  "vndb_url": "https://vndb.org/c84255"
+}

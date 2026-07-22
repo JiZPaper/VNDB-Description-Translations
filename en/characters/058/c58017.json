@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c58017",
+  "type": "character",
+  "name": "Caterina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Temperament:\n- Modest\n- She is a thoughtful person and this kind of feature allows her to solve any kind of problems\n- Quite the opposite if compared to her sister Rebecca",
+  "source_sha256": "ac8ecd7d601d04593835fb55fe82a29cdb0c9ff1914180ffecafabe280c7697a",
+  "translation": "Temperament:\n- Modest\n- She is a thoughtful person and this kind of feature allows her to solve any kind of problems\n- Quite the opposite if compared to her sister Rebecca",
+  "vndb_url": "https://vndb.org/c58017"
+}

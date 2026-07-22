@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96610",
+  "type": "character",
+  "name": "Chancellor Septim",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Septim is the chancellor of Vieira. He follows the regent's orders with a deadly efficiency. But now that a new Emperor is about to be crowned, to whom will his loyalty belong?",
+  "source_sha256": "fefac02d98fcd2a43aa5939116e0c51373070a57f8de2d7da9aebdd75975425f",
+  "translation": "Septim is the chancellor of Vieira. He follows the regent's orders with a deadly efficiency. But now that a new Emperor is about to be crowned, to whom will his loyalty belong?",
+  "vndb_url": "https://vndb.org/c96610"
+}

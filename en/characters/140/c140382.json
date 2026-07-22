@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140382",
+  "type": "character",
+  "name": "Cat",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A beautiful cat that I found in a cardboard box on the street and am now looking after.\n\n[In game description]",
+  "source_sha256": "fa0f005ae5eabd03e26c2720d5b953b2bc1d3ece1525a7ba1a4abec84ad456ae",
+  "translation": "A beautiful cat that I found in a cardboard box on the street and am now looking after.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c140382"
+}

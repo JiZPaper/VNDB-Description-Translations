@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131962",
+  "type": "character",
+  "name": "Hans von Tensberg",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The science camp's astronomy teacher.\n\nHe is Sylvia's father.",
+  "source_sha256": "873ce292e9d7f714e1cf4434dca2c57ec69670dfb6ce8f61326f6fe8be324d7b",
+  "translation": "The science camp's astronomy teacher.\n\nHe is Sylvia's father.",
+  "vndb_url": "https://vndb.org/c131962"
+}

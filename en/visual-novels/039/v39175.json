@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39175",
+  "type": "visual_novel",
+  "name": "Hinkon Souseiki He is poor",
+  "original_name": "貧困創世紀 He is poor",
+  "language": "en",
+  "source_language": "en",
+  "source": "MN2's first game, a submission to the ASCII Entertainment Software Contest.",
+  "source_sha256": "4f7e0b3d5365d0ad41e47ce15267a4a272f26888c76b46d76234bfee16d7e7eb",
+  "translation": "MN2's first game, a submission to the ASCII Entertainment Software Contest.",
+  "vndb_url": "https://vndb.org/v39175"
+}

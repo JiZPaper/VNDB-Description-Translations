@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c68408",
+  "type": "character",
+  "name": "Akari",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Rin's roommate.",
+  "source_sha256": "7259ac2fbbfcd60758a0ca8b4ba27751c045edef50423b869d5f4af558ce30a5",
+  "translation": "Rin's roommate.",
+  "vndb_url": "https://vndb.org/c68408"
+}

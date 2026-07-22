@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81169",
+  "type": "character",
+  "name": "Misty Tistella",
+  "original_name": "ミスティー・ティステラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mother of the protagonist.\nUpbeat and a little domineering.\nTalks the most in the Tistella family.",
+  "source_sha256": "3356c897e03d66685e5eceed9c4e28750c7e299ca4833ce6d6d518d0b44abc00",
+  "translation": "Mother of the protagonist.\nUpbeat and a little domineering.\nTalks the most in the Tistella family.",
+  "vndb_url": "https://vndb.org/c81169"
+}

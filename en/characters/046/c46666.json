@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c46666",
+  "type": "character",
+  "name": "Rene",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A servant in Lord Sandor's estate.",
+  "source_sha256": "c915cde8b19218251257775176b3faf7b722a26ca9ec4ffb7702b16d51bb2993",
+  "translation": "A servant in Lord Sandor's estate.",
+  "vndb_url": "https://vndb.org/c46666"
+}

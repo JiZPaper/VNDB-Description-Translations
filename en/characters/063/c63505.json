@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c63505",
+  "type": "character",
+  "name": "Professor Yang",
+  "original_name": "杨教授",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fictionalized version of [url=https://en.wikipedia.org/wiki/Yang_Yongxin]Yang Yongxin[/url].",
+  "source_sha256": "855603dab7b2f53ee4151d2433caf6a2a7948442ae9fba0182e4c92245fbdb0b",
+  "translation": "Fictionalized version of [url=https://en.wikipedia.org/wiki/Yang_Yongxin]Yang Yongxin[/url].",
+  "vndb_url": "https://vndb.org/c63505"
+}

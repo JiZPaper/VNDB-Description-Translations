@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1516",
+  "type": "visual_novel",
+  "name": "pXt",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short concept piece based around using only freely available resources. Tells the love story of Pyramus and Thisbe, which is a part of [url=http://en.wikipedia.org/wiki/Pyramus_and_Thisbe]Roman mythology[/url].",
+  "source_sha256": "6e5b116cadbc80c12a488da7fd578c12f62f96af57fa98274b032fcd3abc81ae",
+  "translation": "A short concept piece based around using only freely available resources. Tells the love story of Pyramus and Thisbe, which is a part of [url=http://en.wikipedia.org/wiki/Pyramus_and_Thisbe]Roman mythology[/url].",
+  "vndb_url": "https://vndb.org/v1516"
+}

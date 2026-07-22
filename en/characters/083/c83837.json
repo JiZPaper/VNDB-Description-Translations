@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c83837",
+  "type": "character",
+  "name": "Professor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Muki's teacher at the Critical institute.",
+  "source_sha256": "6f7ac19a848d28b7e5b4d15baa97f44fa314459bed98ce4d20c00b7f0ef5e49e",
+  "translation": "Muki's teacher at the Critical institute.",
+  "vndb_url": "https://vndb.org/c83837"
+}

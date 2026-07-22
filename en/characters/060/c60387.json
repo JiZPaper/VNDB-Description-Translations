@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60387",
+  "type": "character",
+  "name": "Olivia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes: Inventing\nDislikes: Meddlers",
+  "source_sha256": "9037de821fb16e1efa75208713c3f6c3562195c9bf69a43e0d28f66600684633",
+  "translation": "Likes: Inventing\nDislikes: Meddlers",
+  "vndb_url": "https://vndb.org/c60387"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10672",
+  "type": "visual_novel",
+  "name": "Paradise Lost",
+  "original_name": "パラダイス・ロスト",
+  "language": "en",
+  "source_language": "en",
+  "source": "An ordinary high school student, Michiru Chino.\nOne Valentine's day, a friend who took a rest from a cold asked me to deliver chocolates...",
+  "source_sha256": "b056d5c4912922ea1b198299480c6bf2b2b3b05fd2b17c6ea64a8e7b5c07d66d",
+  "translation": "An ordinary high school student, Michiru Chino.\nOne Valentine's day, a friend who took a rest from a cold asked me to deliver chocolates...",
+  "vndb_url": "https://vndb.org/v10672"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148789",
+  "type": "character",
+  "name": "Alexis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mia's younger sister.",
+  "source_sha256": "18959f6956a98a026f57b4ad7c351359aedbe57509969fdf091922d9acdff069",
+  "translation": "Mia's younger sister.",
+  "vndb_url": "https://vndb.org/c148789"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131100",
+  "type": "character",
+  "name": "Aya",
+  "original_name": "あや",
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of the coffee shop where Kazuya likes to spend his mornings.",
+  "source_sha256": "14a919a764b79937ec2506f11b6fedbb9bdeb0bfcf262a4f58311a4bd6c92c81",
+  "translation": "The owner of the coffee shop where Kazuya likes to spend his mornings.",
+  "vndb_url": "https://vndb.org/c131100"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39102",
+  "type": "character",
+  "name": "Rapunzel de Turm",
+  "original_name": "ラプンツェル＝ド＝トゥルム",
+  "language": "en",
+  "source_language": "en",
+  "source": "A world famous phantom thief who steals state secrets and sells them to other countries.\nIt seems he's an old acquaintance of Bremen and has known the protagonist since she was young.",
+  "source_sha256": "ad1a84aeb73424bea42f032de64bc8a8b540d2951ae8c7d1bd926e5b5fc83593",
+  "translation": "A world famous phantom thief who steals state secrets and sells them to other countries.\nIt seems he's an old acquaintance of Bremen and has known the protagonist since she was young.",
+  "vndb_url": "https://vndb.org/c39102"
+}

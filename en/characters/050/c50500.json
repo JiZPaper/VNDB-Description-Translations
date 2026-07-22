@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c50500",
+  "type": "character",
+  "name": "Josh",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's brother. He works as a chef at a New York City restaurant.",
+  "source_sha256": "a1020d956b87ce6c40044cfa50db00f44fa6b0b2788e5107e157ab23244f78ec",
+  "translation": "The protagonist's brother. He works as a chef at a New York City restaurant.",
+  "vndb_url": "https://vndb.org/c50500"
+}

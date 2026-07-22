@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44077",
+  "type": "character",
+  "name": "Bookshop Clerk",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A clerk at the bookshop where Yuri met Ichirou.",
+  "source_sha256": "4cd23aa0f5f7e7a92378f2ec2c1d03fcefff0d1c125be4464e7c021a3a223761",
+  "translation": "A clerk at the bookshop where Yuri met Ichirou.",
+  "vndb_url": "https://vndb.org/c44077"
+}

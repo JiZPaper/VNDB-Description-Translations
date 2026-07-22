@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17521",
+  "type": "visual_novel",
+  "name": "Zhizn' so Starshej Sestroj",
+  "original_name": "Жизнь со cтаршей cестрой",
+  "language": "en",
+  "source_language": "en",
+  "source": "The main character moves to live with his older sister Rangiku. He recently transferred to a local school, where a new life and new acquaintances await him.",
+  "source_sha256": "92889f08a053a67dd0b50b6035396fa89a125f0363b0f926f5ef1c2e701425bf",
+  "translation": "The main character moves to live with his older sister Rangiku. He recently transferred to a local school, where a new life and new acquaintances await him.",
+  "vndb_url": "https://vndb.org/v17521"
+}

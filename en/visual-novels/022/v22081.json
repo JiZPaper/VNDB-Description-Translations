@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22081",
+  "type": "visual_novel",
+  "name": "Paramedium: A Noise in the Attic",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "What's more dangerous, the living or the dead?\nSpend the night as a Paramedium Cleric and see if you have what it takes to survive.\n\n[From the [url=https://www.aglstudioart.com/paramedium]official website[/url]]",
+  "source_sha256": "05487c45566d195607c6fede591ea981d659e276d191a53bf6170033ed2cc357",
+  "translation": "What's more dangerous, the living or the dead?\nSpend the night as a Paramedium Cleric and see if you have what it takes to survive.\n\n[From the [url=https://www.aglstudioart.com/paramedium]official website[/url]]",
+  "vndb_url": "https://vndb.org/v22081"
+}

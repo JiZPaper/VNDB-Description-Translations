@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82602",
+  "type": "character",
+  "name": "Spain",
+  "original_name": "スペイン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Spain is a cheerful man, though clueless at times.",
+  "source_sha256": "4ab2b22342f4a620dc0c1bf77614a142a7d5c0fbeb468ce59fffc908bc910f9b",
+  "translation": "Spain is a cheerful man, though clueless at times.",
+  "vndb_url": "https://vndb.org/c82602"
+}

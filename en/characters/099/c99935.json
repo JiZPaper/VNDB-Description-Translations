@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99935",
+  "type": "character",
+  "name": "Chiyo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Shoma's cousin who lives in a nearby apartment.",
+  "source_sha256": "2825bcb74745403fc8df7821a24cec07b646daa0c12706233bde40de1931098a",
+  "translation": "Shoma's cousin who lives in a nearby apartment.",
+  "vndb_url": "https://vndb.org/c99935"
+}

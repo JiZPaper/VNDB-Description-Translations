@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c129824",
+  "type": "character",
+  "name": "Police chief",
+  "original_name": "警部",
+  "language": "en",
+  "source_language": "en",
+  "source": "Works to maintain peace and order in town.\nYou can find him patrolling the streets every day. His sluggish speech makes him sound just as unmotivated as he looks, but he actually takes his job very seriously.\nHe insists that he's a police chief, but whether or not police ranks are even a thing at all in this town is a mystery.",
+  "source_sha256": "91e570547c1583de291e41a0e36f24f64359f6aecd2380075252c9ca8859ed5f",
+  "translation": "Works to maintain peace and order in town.\nYou can find him patrolling the streets every day. His sluggish speech makes him sound just as unmotivated as he looks, but he actually takes his job very seriously.\nHe insists that he's a police chief, but whether or not police ranks are even a thing at all in this town is a mystery.",
+  "vndb_url": "https://vndb.org/c129824"
+}

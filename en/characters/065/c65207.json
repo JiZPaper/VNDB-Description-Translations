@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65207",
+  "type": "character",
+  "name": "Prophet",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mad homeless man at the park, who seems to know a few things about vampires.",
+  "source_sha256": "5acdd4e3e9b02e76f711a30b604e70c3a3cf743d41a61c651ac4e42a3139021a",
+  "translation": "A mad homeless man at the park, who seems to know a few things about vampires.",
+  "vndb_url": "https://vndb.org/c65207"
+}

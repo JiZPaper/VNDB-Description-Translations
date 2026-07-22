@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160931",
+  "type": "character",
+  "name": "Captain Edric",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A longtime AEGIS agent, now retired from field work and doing his best to keep the agency from falling apart.",
+  "source_sha256": "8294a759255b78e631ff80fa0d64b5a827e3665e65a2ff5dc12d5a42affbae4a",
+  "translation": "A longtime AEGIS agent, now retired from field work and doing his best to keep the agency from falling apart.",
+  "vndb_url": "https://vndb.org/c160931"
+}

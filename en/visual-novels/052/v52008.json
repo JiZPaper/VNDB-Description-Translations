@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52008",
+  "type": "visual_novel",
+  "name": "Youguan Qingzi Chulian De Gushi",
+  "original_name": "有关青子初恋的故事",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fan-made visual novel adaptation",
+  "source_sha256": "f3ae63baf2b51da52efa6f8882db42eee51df1386ad733e8a7fe7a096c3c06d0",
+  "translation": "A fan-made visual novel adaptation",
+  "vndb_url": "https://vndb.org/v52008"
+}

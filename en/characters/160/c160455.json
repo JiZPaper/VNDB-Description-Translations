@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160455",
+  "type": "character",
+  "name": "Melody",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jeff's girlfriend",
+  "source_sha256": "bbda7406753b046b052d5ada916d6680cadc606dad7ba7e892028d2dcb58dca1",
+  "translation": "Jeff's girlfriend",
+  "vndb_url": "https://vndb.org/c160455"
+}

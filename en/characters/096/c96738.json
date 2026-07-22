@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96738",
+  "type": "character",
+  "name": "The Girl",
+  "original_name": "소녀",
+  "language": "en",
+  "source_language": "en",
+  "source": "She met the protagonist at the crosswalk.\nAs a ghost no one else can see her except the protagonist.",
+  "source_sha256": "5527863081db5318305ffa3fa5a60db96de354eebd9213dbdaa6c8258a3fef77",
+  "translation": "She met the protagonist at the crosswalk.\nAs a ghost no one else can see her except the protagonist.",
+  "vndb_url": "https://vndb.org/c96738"
+}

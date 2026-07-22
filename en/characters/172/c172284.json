@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172284",
+  "type": "character",
+  "name": "Lauren",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lisa's friend.",
+  "source_sha256": "b42a1e0e80173e85f04fd83dd75d9cf40e63b9724152be61c982f5e354ee1cd8",
+  "translation": "Lisa's friend.",
+  "vndb_url": "https://vndb.org/c172284"
+}

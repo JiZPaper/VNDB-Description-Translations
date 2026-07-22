@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c66851",
+  "type": "character",
+  "name": "The Prince",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The crown prince and son of the king.",
+  "source_sha256": "4ad90afb393571ddbda56380badbd30ebb11e21f3fe9ad891bd00b718c123481",
+  "translation": "The crown prince and son of the king.",
+  "vndb_url": "https://vndb.org/c66851"
+}

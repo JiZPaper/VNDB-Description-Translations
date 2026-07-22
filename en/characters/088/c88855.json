@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88855",
+  "type": "character",
+  "name": "Olivia",
+  "original_name": "オリヴィア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Species: Mermaid\nThe first mermaid student in 200 years.\nShe's beautiful and graceful.",
+  "source_sha256": "5c4dd0155f3a789f1075c3bc2f08138cc605ef0a3ed5538a7b93c3df9bc0c287",
+  "translation": "Species: Mermaid\nThe first mermaid student in 200 years.\nShe's beautiful and graceful.",
+  "vndb_url": "https://vndb.org/c88855"
+}

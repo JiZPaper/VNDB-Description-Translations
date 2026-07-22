@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c69024",
+  "type": "character",
+  "name": "Monicules",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The leader of the club",
+  "source_sha256": "e18bd60d1f2171438ba08775e99cc6ef301a00699cad0558feac7b2b9d16a7a3",
+  "translation": "The leader of the club",
+  "vndb_url": "https://vndb.org/c69024"
+}

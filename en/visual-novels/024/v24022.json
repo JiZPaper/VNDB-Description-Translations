@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24022",
+  "type": "visual_novel",
+  "name": "Atla's Game",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is just me learning how to code.\n\n[From [url=https://tealice.itch.io/practice-game] itch.io[/url]]",
+  "source_sha256": "c36b372b7917b1836954f840ddc36593895e38093bab737d5170dd97252cff75",
+  "translation": "This is just me learning how to code.\n\n[From [url=https://tealice.itch.io/practice-game] itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v24022"
+}

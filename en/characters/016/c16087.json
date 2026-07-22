@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c16087",
+  "type": "character",
+  "name": "Arma Jeanne du Plessis de Richelieu",
+  "original_name": "アルマ・ジャンヌ・デュ・プレシー・ド・リシュリュー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Special skill: Ideas\nHobby: Tea Party\nLikes: Beautiful things\nDislikes: Things that are not beautiful",
+  "source_sha256": "7be5b7007bd73ff02c684103031c98d32f35c28869f31a8c60135e4ba3c3f85e",
+  "translation": "Special skill: Ideas\nHobby: Tea Party\nLikes: Beautiful things\nDislikes: Things that are not beautiful",
+  "vndb_url": "https://vndb.org/c16087"
+}

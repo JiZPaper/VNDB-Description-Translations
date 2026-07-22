@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141513",
+  "type": "character",
+  "name": "Gina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Student at B&R.\n\nA \"dorm girl\"",
+  "source_sha256": "399e8661b316a3602097e9d0759bf80b5731d654609ddea3e3fb709a88fd81b2",
+  "translation": "Student at B&R.\n\nA \"dorm girl\"",
+  "vndb_url": "https://vndb.org/c141513"
+}

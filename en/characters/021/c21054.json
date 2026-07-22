@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21054",
+  "type": "character",
+  "name": "Senpai",
+  "original_name": "先輩",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kaori's boyfriend.",
+  "source_sha256": "7cbc6b64bf20215e35dfa107b7372953bba206a43ef2356031a2e35846410209",
+  "translation": "Kaori's boyfriend.",
+  "vndb_url": "https://vndb.org/c21054"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25635",
+  "type": "visual_novel",
+  "name": "Maitetsu - Last Run!!",
+  "original_name": "まいてつ Last Run!!",
+  "language": "en",
+  "source_language": "en",
+  "source": "A revamped version of the original Maitetsu, including content from both the original game and the consumer ports as well as sequels to all the routes, doubling the content of the original game and counting more than 2 million words in the text.",
+  "source_sha256": "ebeeec048659879565b969e7ac2a37d9a27ab5c376718c3d64d2d54a927ed30c",
+  "translation": "A revamped version of the original Maitetsu, including content from both the original game and the consumer ports as well as sequels to all the routes, doubling the content of the original game and counting more than 2 million words in the text.",
+  "vndb_url": "https://vndb.org/v25635"
+}

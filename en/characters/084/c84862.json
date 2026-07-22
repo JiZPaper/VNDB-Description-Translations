@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84862",
+  "type": "character",
+  "name": "Milk",
+  "original_name": "ミルク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Feline species: Unknown\n\nShe's all grown up half a year after she was last seen.",
+  "source_sha256": "733af9c63f81d12ba951cfc02ded28e9905d51eb71ff4e40976bbaba52953515",
+  "translation": "Feline species: Unknown\n\nShe's all grown up half a year after she was last seen.",
+  "vndb_url": "https://vndb.org/c84862"
+}

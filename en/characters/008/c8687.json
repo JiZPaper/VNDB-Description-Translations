@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8687",
+  "type": "character",
+  "name": "Maila",
+  "original_name": "メイラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Standard e-mail software (標準メールソフト).",
+  "source_sha256": "f495f8fe27b166f81ab101956efd83cb1fa334734d6f6d9c93e180594bc5ffb2",
+  "translation": "Standard e-mail software (標準メールソフト).",
+  "vndb_url": "https://vndb.org/c8687"
+}

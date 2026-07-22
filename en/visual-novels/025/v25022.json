@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25022",
+  "type": "visual_novel",
+  "name": "Cuntswell Academy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "CA continues the further adventures of the main character from Sister, Sister, Sister, named and controlled by you,\nas he attends college and interacts with his professors as well as his fellow classmates and their friends and family.",
+  "source_sha256": "ac46f3e76712a490331e6e1e75d85fa5adc178abf577a71d4e5806e634521179",
+  "translation": "CA continues the further adventures of the main character from Sister, Sister, Sister, named and controlled by you,\nas he attends college and interacts with his professors as well as his fellow classmates and their friends and family.",
+  "vndb_url": "https://vndb.org/v25022"
+}

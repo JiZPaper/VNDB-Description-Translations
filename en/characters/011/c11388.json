@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11388",
+  "type": "character",
+  "name": "Guardy",
+  "original_name": "ガーディ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A golem that Abells guild find in the abandoned city in depths of labyrinth fighting against monsters. Seems to posses some degree of self-awarness.",
+  "source_sha256": "948d04162a5a91b0712c937bfded24405375a6db9e474a3c0ff8399e57179e2f",
+  "translation": "A golem that Abells guild find in the abandoned city in depths of labyrinth fighting against monsters. Seems to posses some degree of self-awarness.",
+  "vndb_url": "https://vndb.org/c11388"
+}

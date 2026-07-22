@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99729",
+  "type": "character",
+  "name": "Heroine",
+  "original_name": "女主角",
+  "language": "en",
+  "source_language": "en",
+  "source": "Role: Princess of the Pepsilla Kingdom\nSpecialities: Magic, swordsmanship\nWeapon: Silver sword\nLikes: Hunting, spending time with family, desserts\nDislikes: Social etiquette, arrogant nobility\nIntroduction: Originally a carefree princess, she took over kingship following the death of her father and older brother.",
+  "source_sha256": "2474c64c5867128fffe549260019cfe7bb81f84278f49859bf02693b1d5d6aff",
+  "translation": "Role: Princess of the Pepsilla Kingdom\nSpecialities: Magic, swordsmanship\nWeapon: Silver sword\nLikes: Hunting, spending time with family, desserts\nDislikes: Social etiquette, arrogant nobility\nIntroduction: Originally a carefree princess, she took over kingship following the death of her father and older brother.",
+  "vndb_url": "https://vndb.org/c99729"
+}

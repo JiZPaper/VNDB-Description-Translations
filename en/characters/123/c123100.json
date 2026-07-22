@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123100",
+  "type": "character",
+  "name": "Balbus Bundledore",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The headmaster of Warthogs School of Witchcraft and Wizardry.",
+  "source_sha256": "26a28f4f023cf44bd0c59f0d52570e118299dfc672873c3d685c40c3a08fa0cc",
+  "translation": "The headmaster of Warthogs School of Witchcraft and Wizardry.",
+  "vndb_url": "https://vndb.org/c123100"
+}

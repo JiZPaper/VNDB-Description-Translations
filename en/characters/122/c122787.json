@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122787",
+  "type": "character",
+  "name": "Patter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A new mail carrier in the neighborhood.\n\nThey/Them.",
+  "source_sha256": "a81859de1a18d072c37468dddd99d1b5befeeaa2b5b3d0f8f5cffbfa5f352c70",
+  "translation": "A new mail carrier in the neighborhood.\n\nThey/Them.",
+  "vndb_url": "https://vndb.org/c122787"
+}

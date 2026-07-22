@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10622",
+  "type": "visual_novel",
+  "name": "Tsumugi-sama no Hanamuko Choukyou Nikki",
+  "original_name": "つむぎ様の花婿調教日記",
+  "language": "en",
+  "source_language": "en",
+  "source": "Written by the writer of the Nurse no Obenkyou series, centering around one of its heroines, Tsumugi, after she won a popularity poll.",
+  "source_sha256": "95fe3edc55bdaa9966ac3930044fe43429c7d2d956524e258acf8f1d23fc60b0",
+  "translation": "Written by the writer of the Nurse no Obenkyou series, centering around one of its heroines, Tsumugi, after she won a popularity poll.",
+  "vndb_url": "https://vndb.org/v10622"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c54347",
+  "type": "character",
+  "name": "Roy",
+  "original_name": "ロイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A herbalist who is on a journey. A good person who can't say \"no\" if asked. He doesn't stay long in one place.",
+  "source_sha256": "22f0a0e26830972aab754c3e0e5fdf0ec8d186d67aaa4539e48ae968c47e3da5",
+  "translation": "A herbalist who is on a journey. A good person who can't say \"no\" if asked. He doesn't stay long in one place.",
+  "vndb_url": "https://vndb.org/c54347"
+}

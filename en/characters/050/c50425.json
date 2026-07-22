@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c50425",
+  "type": "character",
+  "name": "Ai",
+  "original_name": "アイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A self-proclaimed run-away-from-home girl, she lives far away from the school dormitory.",
+  "source_sha256": "baa1c784f97093c8219a03d4493e9088dc34b14060b8019a3b41d0718c23313b",
+  "translation": "A self-proclaimed run-away-from-home girl, she lives far away from the school dormitory.",
+  "vndb_url": "https://vndb.org/c50425"
+}

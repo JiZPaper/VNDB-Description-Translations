@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100411",
+  "type": "character",
+  "name": "Thistle",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A cheerful workaholic warlock/witch who gives Sigurn shelter.",
+  "source_sha256": "8c37c266ccfbf5af7e27b7880a11247c1ecfda4a9260fd589db1faea9a0dd505",
+  "translation": "A cheerful workaholic warlock/witch who gives Sigurn shelter.",
+  "vndb_url": "https://vndb.org/c100411"
+}

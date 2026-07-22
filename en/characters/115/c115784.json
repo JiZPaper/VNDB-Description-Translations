@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115784",
+  "type": "character",
+  "name": "Mike",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of Serenity and the last dream writer.\n\nDefault name is Mike.",
+  "source_sha256": "d6eaa49529ba20b0f8bc057a6591b03eb1f7638790d23e017c48cf11b249e7ef",
+  "translation": "The protagonist of Serenity and the last dream writer.\n\nDefault name is Mike.",
+  "vndb_url": "https://vndb.org/c115784"
+}

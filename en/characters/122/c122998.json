@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122998",
+  "type": "character",
+  "name": "Axel Bardot",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Son of William and Priscilla Bardot.\n\nAlex's brother.",
+  "source_sha256": "ab58f9db315bfa9de19f8527b6b9e371ab794e35c7f5e766a91fe05f76f30fc6",
+  "translation": "Son of William and Priscilla Bardot.\n\nAlex's brother.",
+  "vndb_url": "https://vndb.org/c122998"
+}

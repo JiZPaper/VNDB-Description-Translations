@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c85499",
+  "type": "character",
+  "name": "Rowan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A cheerful, sporty earth elemental.",
+  "source_sha256": "0b5d23d4b86a831e362a059c1d9cc188268bf89960e79ba0875f4bc4ed6d32c9",
+  "translation": "A cheerful, sporty earth elemental.",
+  "vndb_url": "https://vndb.org/c85499"
+}

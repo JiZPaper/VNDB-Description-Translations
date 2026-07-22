@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88852",
+  "type": "character",
+  "name": "Robin",
+  "original_name": "ロビン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Species: Mummy\nThe school nurse.\nThey're calm and collected and treats everybody equally.",
+  "source_sha256": "51d57f21345fa9967f7ad83725607b2e1408b5e79a91c6c01dfa4fb94ea65313",
+  "translation": "Species: Mummy\nThe school nurse.\nThey're calm and collected and treats everybody equally.",
+  "vndb_url": "https://vndb.org/c88852"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141008",
+  "type": "character",
+  "name": "Nora Jenkins",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Chemistry Teacher at B&R.",
+  "source_sha256": "adf46d4eabe34a32bbb9b8470e4ea463a1b523bf37b0b20d93f76d778c495af3",
+  "translation": "Chemistry Teacher at B&R.",
+  "vndb_url": "https://vndb.org/c141008"
+}

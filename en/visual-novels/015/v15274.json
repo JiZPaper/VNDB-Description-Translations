@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15274",
+  "type": "visual_novel",
+  "name": "Liar Liar",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Yukari's finds out that her boyfriend is cheating on her with her own sister and tries to kill him.",
+  "source_sha256": "c43949391460651cf65ad0f542d82db4e583924a64972ff6a0813a0291401946",
+  "translation": "Yukari's finds out that her boyfriend is cheating on her with her own sister and tries to kill him.",
+  "vndb_url": "https://vndb.org/v15274"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159648",
+  "type": "character",
+  "name": "5 Gou",
+  "original_name": "5ゴウ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The 5th juror for the trial of Albert Harebrayne.",
+  "source_sha256": "b03eb0dad8b7ebb6fb714294253508e32057f39f910643509a8cc61d1563242a",
+  "translation": "The 5th juror for the trial of Albert Harebrayne.",
+  "vndb_url": "https://vndb.org/c159648"
+}

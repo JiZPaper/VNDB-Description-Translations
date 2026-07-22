@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105838",
+  "type": "character",
+  "name": "Minerva",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sophia's mentor.",
+  "source_sha256": "74595ef365e7b247f187cda287683d61cbd03497fd14c3467a15aa234cef1100",
+  "translation": "Sophia's mentor.",
+  "vndb_url": "https://vndb.org/c105838"
+}

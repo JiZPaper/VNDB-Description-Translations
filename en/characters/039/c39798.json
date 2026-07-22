@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39798",
+  "type": "character",
+  "name": "Gerda",
+  "original_name": "ゲルダ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious woman found in the Cattleya Pharmacy.\nShe acts tough but in reality she's so timid she couldn't hurt a fly, she has good reflexes though.\nShe's especially bad with mice.",
+  "source_sha256": "bc90649cbcbeac840abe40fa6d27c950940f7fb0b8ffb6a5b1b11a7aa63c85e4",
+  "translation": "A mysterious woman found in the Cattleya Pharmacy.\nShe acts tough but in reality she's so timid she couldn't hurt a fly, she has good reflexes though.\nShe's especially bad with mice.",
+  "vndb_url": "https://vndb.org/c39798"
+}

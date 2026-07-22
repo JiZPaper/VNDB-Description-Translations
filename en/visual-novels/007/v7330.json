@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7330",
+  "type": "visual_novel",
+  "name": "Ewe of the Falklands",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are a pacifist sheep trying to stop the Falklands War in the 1980s.",
+  "source_sha256": "65f715f88e4a4b6c2bcd0afb6f24ee82311ac19ef7722d28d7ed94f9ce51a4bd",
+  "translation": "You are a pacifist sheep trying to stop the Falklands War in the 1980s.",
+  "vndb_url": "https://vndb.org/v7330"
+}

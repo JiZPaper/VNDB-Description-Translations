@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66781",
+  "type": "visual_novel",
+  "name": "Extra Pepperoni",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A pizza order goes wrong. Can you please your customer?\n\n[From [url=https://www.newgrounds.com/portal/view/677899]Newgrounds[/url]]",
+  "source_sha256": "ecf6d8f2ad765c18efef547794baa34f6cdd42cdadd0470e4fd47c327cbc1c42",
+  "translation": "A pizza order goes wrong. Can you please your customer?\n\n[From [url=https://www.newgrounds.com/portal/view/677899]Newgrounds[/url]]",
+  "vndb_url": "https://vndb.org/v66781"
+}

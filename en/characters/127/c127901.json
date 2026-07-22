@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127901",
+  "type": "character",
+  "name": "Yuurei",
+  "original_name": "幽霊",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ghost of a little girl",
+  "source_sha256": "d40c3b14f11e2ea5af76a43b074ec3dab270b477f16d2310993c0206f7c452e1",
+  "translation": "Ghost of a little girl",
+  "vndb_url": "https://vndb.org/c127901"
+}

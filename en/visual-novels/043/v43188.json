@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43188",
+  "type": "visual_novel",
+  "name": "Zero",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on the author's dream.",
+  "source_sha256": "27ea5d1d2f0a98416ed61e379e266a725bd0dfe816c7944293e3e9ab837ada8f",
+  "translation": "Based on the author's dream.",
+  "vndb_url": "https://vndb.org/v43188"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25363",
+  "type": "visual_novel",
+  "name": "Dilan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on Indonesian novel of the same name by Pidi Baiq.",
+  "source_sha256": "ec4eb1dd8dcd5f0a9d0ce6bbc97427dae85eaff544a95d791810fbb80551bf22",
+  "translation": "Based on Indonesian novel of the same name by Pidi Baiq.",
+  "vndb_url": "https://vndb.org/v25363"
+}

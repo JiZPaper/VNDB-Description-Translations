@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134187",
+  "type": "character",
+  "name": "Cassie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An assistant to Lois.",
+  "source_sha256": "aa87ce92b134de208a4a538d056a2e7393a8942fbd6e181d3200d03888437547",
+  "translation": "An assistant to Lois.",
+  "vndb_url": "https://vndb.org/c134187"
+}

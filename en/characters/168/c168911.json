@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168911",
+  "type": "character",
+  "name": "Miki",
+  "original_name": "ミキ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Freelance debugger belonging to the \"Debug Room\" in the game \"World\".",
+  "source_sha256": "e1d6419b3897b9f51060aefd91713aedfbd0ded02b975a529fcafb8c69d53218",
+  "translation": "Freelance debugger belonging to the \"Debug Room\" in the game \"World\".",
+  "vndb_url": "https://vndb.org/c168911"
+}

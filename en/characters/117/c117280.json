@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117280",
+  "type": "character",
+  "name": "Mouse",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Pumpkin's friend and comrade in the Fairy Tale's world.",
+  "source_sha256": "9f41ee1ca3df0b8cf2e93580fd4c084d71b77d2430d6cb74e8cb30ade29b15de",
+  "translation": "Pumpkin's friend and comrade in the Fairy Tale's world.",
+  "vndb_url": "https://vndb.org/c117280"
+}

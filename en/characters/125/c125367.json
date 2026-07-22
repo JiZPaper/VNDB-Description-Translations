@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125367",
+  "type": "character",
+  "name": "Mercury",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Scientist from another spaceship",
+  "source_sha256": "3df18a505a1b4a8d81b83725741bfffcc838dabca29a16d65bb288d58504095d",
+  "translation": "Scientist from another spaceship",
+  "vndb_url": "https://vndb.org/c125367"
+}

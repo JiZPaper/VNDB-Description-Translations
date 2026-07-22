@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37008",
+  "type": "visual_novel",
+  "name": "Kekka no Nazo",
+  "original_name": "血華の謎",
+  "language": "en",
+  "source_language": "en",
+  "source": "An all-ages version of [url=/v6899]Bloody Romance[/url] that is considered lost media by many.",
+  "source_sha256": "2b41ca3323abbe91444e784bd515105c3b4592d390a55dcda9941dcbd08ac26d",
+  "translation": "An all-ages version of [url=/v6899]Bloody Romance[/url] that is considered lost media by many.",
+  "vndb_url": "https://vndb.org/v37008"
+}

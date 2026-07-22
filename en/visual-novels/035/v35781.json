@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35781",
+  "type": "visual_novel",
+  "name": "Preludio a una batalla",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Game created as a university project during a 5 weeks course, based on the Spanish book \"La conquista de los dioses\" written by Aurora Carranza.",
+  "source_sha256": "f94abaa3f9bd242f3f9d4152404fffb80363404f7b659992576c855ff5b7a20c",
+  "translation": "Game created as a university project during a 5 weeks course, based on the Spanish book \"La conquista de los dioses\" written by Aurora Carranza.",
+  "vndb_url": "https://vndb.org/v35781"
+}

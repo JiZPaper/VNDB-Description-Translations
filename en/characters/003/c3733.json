@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c3733",
+  "type": "character",
+  "name": "Starship Jeremiah",
+  "original_name": "航宙船ヱレミヤ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Another starship created by [url=/c3720]Qoo[/url].",
+  "source_sha256": "e38dabde562e3032249eecf46cc850ccdf373046f8d3f6f027895cdc8bce7e3f",
+  "translation": "Another starship created by [url=/c3720]Qoo[/url].",
+  "vndb_url": "https://vndb.org/c3733"
+}

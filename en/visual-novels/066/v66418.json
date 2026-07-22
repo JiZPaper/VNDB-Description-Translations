@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66418",
+  "type": "visual_novel",
+  "name": "The Pizza Man",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A game about you delivering a pizza, but the woman you are delivering to wants extra salami. The entire game's script is told in rhymes.",
+  "source_sha256": "27f42d4703e8652861e6cf57061e19cd51d45549e24d51e8019ae552ecd793e6",
+  "translation": "A game about you delivering a pizza, but the woman you are delivering to wants extra salami. The entire game's script is told in rhymes.",
+  "vndb_url": "https://vndb.org/v66418"
+}

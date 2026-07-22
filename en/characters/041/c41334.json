@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41334",
+  "type": "character",
+  "name": "Old Man Al",
+  "original_name": "アル爺",
+  "language": "en",
+  "source_language": "en",
+  "source": "A friend of [url=/c41304]Rowe's[/url].\nHe's interested in the protagonist and her song magic.\nHis illness is getting worse however...",
+  "source_sha256": "3ba3db0eb9109f252bbf8dc0a65393378172ef3ba12f8d63894271038d50eb82",
+  "translation": "A friend of [url=/c41304]Rowe's[/url].\nHe's interested in the protagonist and her song magic.\nHis illness is getting worse however...",
+  "vndb_url": "https://vndb.org/c41334"
+}

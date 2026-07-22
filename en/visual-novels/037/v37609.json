@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37609",
+  "type": "visual_novel",
+  "name": "Kronii is Hungry",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a fan game of hololive en. You can meet 16 hololive characters in this game.\n\n[From the [url=https://play.google.com/store/apps/details?id=com.rcol.kroniiis]fan game page on Google Play[/url]]",
+  "source_sha256": "99022f5f5bdad0456deeee46c405303a3127e12fa63d965fea4f4e029df2e33a",
+  "translation": "This is a fan game of hololive en. You can meet 16 hololive characters in this game.\n\n[From the [url=https://play.google.com/store/apps/details?id=com.rcol.kroniiis]fan game page on Google Play[/url]]",
+  "vndb_url": "https://vndb.org/v37609"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65688",
+  "type": "visual_novel",
+  "name": "A very Unique Date",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A parody otome game",
+  "source_sha256": "af74f61eabf0a63723cde7d5f3d4c8f85407b200b24d14bafafbe7d4089dfd37",
+  "translation": "A parody otome game",
+  "vndb_url": "https://vndb.org/v65688"
+}

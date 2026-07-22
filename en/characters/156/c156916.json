@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156916",
+  "type": "character",
+  "name": "Karl",
+  "original_name": "Карл",
+  "language": "en",
+  "source_language": "en",
+  "source": "The nickname \"Tabouret\" comes from the name of the Tourette syndrome, which Karl suffers from.",
+  "source_sha256": "af0a7825232bf847622b1e152783f760e777ba9474867da15cb41776b33a5e9d",
+  "translation": "The nickname \"Tabouret\" comes from the name of the Tourette syndrome, which Karl suffers from.",
+  "vndb_url": "https://vndb.org/c156916"
+}

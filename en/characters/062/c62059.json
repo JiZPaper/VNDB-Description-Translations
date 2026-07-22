@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62059",
+  "type": "character",
+  "name": "Alpha",
+  "original_name": "アルファ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Born in 2027.",
+  "source_sha256": "1fc0b1afdb097c3084ee9e736fcf77cd12c6daef6967407f01c41686ad8eeed0",
+  "translation": "Born in 2027.",
+  "vndb_url": "https://vndb.org/c62059"
+}

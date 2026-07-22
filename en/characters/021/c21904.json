@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21904",
+  "type": "character",
+  "name": "Red Herring",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Runs a newspaper stand.",
+  "source_sha256": "81a4a0e0811357f7ea36c4b7b4f12f2c9cd802f192da69e79f14c5aa5732d4b9",
+  "translation": "Runs a newspaper stand.",
+  "vndb_url": "https://vndb.org/c21904"
+}

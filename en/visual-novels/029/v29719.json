@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29719",
+  "type": "visual_novel",
+  "name": "Project Short Tales",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A collection of short non-canonical side stories to \"Project Hot Wife\".",
+  "source_sha256": "7f593d3164acb458d247be1a70764df7ae2f0a4c90ac617b3a30a008b60df182",
+  "translation": "A collection of short non-canonical side stories to \"Project Hot Wife\".",
+  "vndb_url": "https://vndb.org/v29719"
+}

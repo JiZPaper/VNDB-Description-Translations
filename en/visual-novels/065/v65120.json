@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65120",
+  "type": "visual_novel",
+  "name": "Lost Reverie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as Jonathan — a detective burdened by a past he cannot remember and a wound that shattered his mind, awakening fragments of forgotten memories. At the center of the story lies the investigation of a brutal massacre in a residential district, one that quickly grows into something far greater than an ordinary criminal case.",
+  "source_sha256": "ca1251625b4e925596704326cf55ea127ac140c5b70df1d7292970af260a1938",
+  "translation": "You play as Jonathan — a detective burdened by a past he cannot remember and a wound that shattered his mind, awakening fragments of forgotten memories. At the center of the story lies the investigation of a brutal massacre in a residential district, one that quickly grows into something far greater than an ordinary criminal case.",
+  "vndb_url": "https://vndb.org/v65120"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48375",
+  "type": "character",
+  "name": "Balazs von Ishtvaan",
+  "original_name": "バラージュ・フォン・イシュトヴァーン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A noble with a dirtied soul.\nThe motive behind his actions is unknown, but he continues to slaughter people.",
+  "source_sha256": "b44a6616b70000ec797d3590c0ac60e327a6040ea3cfc25f4e2527ebcf6b3a33",
+  "translation": "A noble with a dirtied soul.\nThe motive behind his actions is unknown, but he continues to slaughter people.",
+  "vndb_url": "https://vndb.org/c48375"
+}

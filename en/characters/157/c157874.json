@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c157874",
+  "type": "character",
+  "name": "Maya",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Maya is a high school student. She loves music and plays basketball. She hates grunge music and hardly plays video games.",
+  "source_sha256": "af61e636b44c4f3954243837ab6cc4adeec61ab6b42905b5ca722c6d81d8ed51",
+  "translation": "Maya is a high school student. She loves music and plays basketball. She hates grunge music and hardly plays video games.",
+  "vndb_url": "https://vndb.org/c157874"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133522",
+  "type": "character",
+  "name": "Cousin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's step-cousin.",
+  "source_sha256": "76480a281cdd0902dc9e1907a24206b93b3abb7c8b86c83673d9cc0028f3fa86",
+  "translation": "The protagonist's step-cousin.",
+  "vndb_url": "https://vndb.org/c133522"
+}

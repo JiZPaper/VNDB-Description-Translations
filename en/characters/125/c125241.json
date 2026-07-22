@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125241",
+  "type": "character",
+  "name": "Mermaid Merchant",
+  "original_name": "商人マーメイド",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mermaid selling strange and unappetizing sea food at her stall in Port Natalia. Her business isn't doing too well right now and she's looking to expand her menu.",
+  "source_sha256": "b39da340a29c5a736be61758cf0caa4c6ae10e9ac719fedeab2fdcddd49fb3f9",
+  "translation": "A mermaid selling strange and unappetizing sea food at her stall in Port Natalia. Her business isn't doing too well right now and she's looking to expand her menu.",
+  "vndb_url": "https://vndb.org/c125241"
+}

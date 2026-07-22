@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87013",
+  "type": "character",
+  "name": "Stone",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Luka’s pet hamster.",
+  "source_sha256": "43297cc82fb9324f28dc4187f0d8dde258ba806cf63a4655c0747836b32c03dd",
+  "translation": "Luka’s pet hamster.",
+  "vndb_url": "https://vndb.org/c87013"
+}

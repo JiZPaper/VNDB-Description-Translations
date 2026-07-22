@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155138",
+  "type": "character",
+  "name": "Middle-Aged Man",
+  "original_name": "中年男",
+  "language": "en",
+  "source_language": "en",
+  "source": "A neighbor. [url=/c155139]Elderly Shop Owner[/url]'s son.",
+  "source_sha256": "dcaad5b88bc524f38bbfcb4fa1c303c7399421db01691c382ad117a0aedb81ad",
+  "translation": "A neighbor. [url=/c155139]Elderly Shop Owner[/url]'s son.",
+  "vndb_url": "https://vndb.org/c155138"
+}

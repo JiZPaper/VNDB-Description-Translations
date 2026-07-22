@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c171951",
+  "type": "character",
+  "name": "Saleswoman",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Saleswoman at Sex Shop",
+  "source_sha256": "e9e773dc3daef0b920e927a25965a0d415b2346418834a2ee64b47590cca7bd8",
+  "translation": "Saleswoman at Sex Shop",
+  "vndb_url": "https://vndb.org/c171951"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145746",
+  "type": "character",
+  "name": "Osser Woodland",
+  "original_name": "オッサー・ウッドランド",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Witch of the West may look sloppy, but he's actually clever.\nHe lives a carefree life, never letting anyone find out what he really thinks.",
+  "source_sha256": "9f4fd613d90dd7bc253312636dffc1700a5f2ca462718ef022ae849c2a0a12d0",
+  "translation": "The Witch of the West may look sloppy, but he's actually clever.\nHe lives a carefree life, never letting anyone find out what he really thinks.",
+  "vndb_url": "https://vndb.org/c145746"
+}

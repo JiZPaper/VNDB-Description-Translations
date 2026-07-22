@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12695",
+  "type": "visual_novel",
+  "name": "Elis Priblizhaetsja",
+  "original_name": "Элис приближается",
+  "language": "en",
+  "source_language": "en",
+  "source": "Alice, Neko-girl who arrived on Earth, and the main character met with her. This is a test story.",
+  "source_sha256": "fde2a4502afc7f053aba3eb1f2a562a6cf2bb392ce5aa157b3f33fe2612f16ab",
+  "translation": "Alice, Neko-girl who arrived on Earth, and the main character met with her. This is a test story.",
+  "vndb_url": "https://vndb.org/v12695"
+}

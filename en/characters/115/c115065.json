@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115065",
+  "type": "character",
+  "name": "Sunny",
+  "original_name": "サニー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A burlesque dancer working at the show club NASA.\nHe sees and hears Panther's suspicious behavior.",
+  "source_sha256": "ea7d2e7a4e4158a24c1f10855a738a86d830a9afbe86a292089d5b205b98c4d3",
+  "translation": "A burlesque dancer working at the show club NASA.\nHe sees and hears Panther's suspicious behavior.",
+  "vndb_url": "https://vndb.org/c115065"
+}

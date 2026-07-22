@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c564",
+  "type": "character",
+  "name": "Memory Collector",
+  "original_name": "思い出コレクター",
+  "language": "en",
+  "source_language": "en",
+  "source": "An enigmatic existence who the young child Yamato encountered at a Shinto shrine. Offered a contract to grant any wish in exchange for memories.",
+  "source_sha256": "406373d01398f62cdc5df5279710a21971b055a039074e5fd1c3c4388b133c4a",
+  "translation": "An enigmatic existence who the young child Yamato encountered at a Shinto shrine. Offered a contract to grant any wish in exchange for memories.",
+  "vndb_url": "https://vndb.org/c564"
+}

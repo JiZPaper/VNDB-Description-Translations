@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101555",
+  "type": "character",
+  "name": "Hikari",
+  "original_name": "ひかり",
+  "language": "en",
+  "source_language": "en",
+  "source": "Karen's manager.",
+  "source_sha256": "aadcc50ad4c6b4c10ae0a73707062f4e4c1ef3d1f053d0e12f51c0d4c05538d1",
+  "translation": "Karen's manager.",
+  "vndb_url": "https://vndb.org/c101555"
+}

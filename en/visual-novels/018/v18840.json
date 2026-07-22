@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18840",
+  "type": "visual_novel",
+  "name": "Quantum Break",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A protagonist is woken in the middle of the night and directed by a mysterious stranger to save the world.",
+  "source_sha256": "fc67834b3f8b2b9986bd092a42031102005f6d57f425ead377b46fcf0edc3566",
+  "translation": "A protagonist is woken in the middle of the night and directed by a mysterious stranger to save the world.",
+  "vndb_url": "https://vndb.org/v18840"
+}

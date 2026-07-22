@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169714",
+  "type": "character",
+  "name": "Fae",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She was a bartender at The Living Heart Bar in DayCity.",
+  "source_sha256": "9d29dac02ccac8ce97400d9e7e4adcbfcd608ab65753268eed7f179b0dd228a1",
+  "translation": "She was a bartender at The Living Heart Bar in DayCity.",
+  "vndb_url": "https://vndb.org/c169714"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10799",
+  "type": "visual_novel",
+  "name": "Fujinomiya Asuka no XX",
+  "original_name": "藤ノ宮あすかの××",
+  "language": "en",
+  "source_language": "en",
+  "source": "An adult parody of The Melancholy of Haruhi Suzumiya.",
+  "source_sha256": "a5c0bcddaa550c17e990e373841801e942911f1cd8f0b544d439f08bd187f410",
+  "translation": "An adult parody of The Melancholy of Haruhi Suzumiya.",
+  "vndb_url": "https://vndb.org/v10799"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25122",
+  "type": "character",
+  "name": "Enshou Honsho",
+  "original_name": "袁紹 本初",
+  "language": "en",
+  "source_language": "en",
+  "source": "Weapon: Chinese Sword",
+  "source_sha256": "7dc94b593406725bcf2abc4ca8fa33c6e2859c415201ea7325aef68110178567",
+  "translation": "Weapon: Chinese Sword",
+  "vndb_url": "https://vndb.org/c25122"
+}

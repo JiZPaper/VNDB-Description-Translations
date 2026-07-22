@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1502",
+  "type": "visual_novel",
+  "name": "Code Geass ~Hangyaku no Lelouch~ Lost Colors",
+  "original_name": "コードギアス 反逆のルルーシュ　LOST COLORS",
+  "language": "en",
+  "source_language": "en",
+  "source": "The story begins after episode 8 of the anime. you play as Rai, another young boy with a geass ability, who ends up at Ashford Academy after losing his memories.",
+  "source_sha256": "82ae4d71ea66e94eb3dd87e76e10b1ef6263b134334de72a509d96c95a8c36d3",
+  "translation": "The story begins after episode 8 of the anime. you play as Rai, another young boy with a geass ability, who ends up at Ashford Academy after losing his memories.",
+  "vndb_url": "https://vndb.org/v1502"
+}

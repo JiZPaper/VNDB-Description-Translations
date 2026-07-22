@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89868",
+  "type": "character",
+  "name": "Lesti",
+  "original_name": "レスティ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of a bar at Lake Blue.",
+  "source_sha256": "4dcc56075f007b8546b2df61a72f401cc90177135852a6ac228cd06683ac8ca0",
+  "translation": "The owner of a bar at Lake Blue.",
+  "vndb_url": "https://vndb.org/c89868"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21256",
+  "type": "character",
+  "name": "Owner",
+  "original_name": "オーナー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Around 50 years old.",
+  "source_sha256": "9c7f602ae1918dc9699e1a4192eae2cc7be117df5bc3f3cb2fb709fb1154fc2d",
+  "translation": "Around 50 years old.",
+  "vndb_url": "https://vndb.org/c21256"
+}

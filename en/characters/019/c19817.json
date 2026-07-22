@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19817",
+  "type": "character",
+  "name": "Hinageshi",
+  "original_name": "雛罌粟",
+  "language": "en",
+  "source_language": "en",
+  "source": "A hypnosis researcher.",
+  "source_sha256": "b95fec946c97d6c1e1776d8cb3c07026222d12d355e85de8491fa806c601cdae",
+  "translation": "A hypnosis researcher.",
+  "vndb_url": "https://vndb.org/c19817"
+}

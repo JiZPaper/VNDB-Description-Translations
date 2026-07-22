@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76482",
+  "type": "character",
+  "name": "Sir Mixatron",
+  "original_name": "Sir.ミキサーサ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A juice mixer monster.\nAttacks with the various drills attached to his six arms.",
+  "source_sha256": "4e735d62bf9d02280eeef0f4e82965bfeb822520a37f90554517230203b565fe",
+  "translation": "A juice mixer monster.\nAttacks with the various drills attached to his six arms.",
+  "vndb_url": "https://vndb.org/c76482"
+}

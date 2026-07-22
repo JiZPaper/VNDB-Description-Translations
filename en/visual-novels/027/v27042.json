@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27042",
+  "type": "visual_novel",
+  "name": "The Last Sacrifice -Forbidden Ties-",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Vampires, Dhampirs, and humans...These three races are forbidden to intermingle in this world.",
+  "source_sha256": "ddc06498200fa1c5a3b57fff1e16aff671068be472a64af8632f63ec5c135231",
+  "translation": "Vampires, Dhampirs, and humans...These three races are forbidden to intermingle in this world.",
+  "vndb_url": "https://vndb.org/v27042"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112110",
+  "type": "character",
+  "name": "Sister Agnes",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The priestess of the local church. Primarily appears in New Game Plus.",
+  "source_sha256": "54bc4f9406f52ad61d98af42b214690ca95f00af6e509115cca24394b68c9ed2",
+  "translation": "The priestess of the local church. Primarily appears in New Game Plus.",
+  "vndb_url": "https://vndb.org/c112110"
+}

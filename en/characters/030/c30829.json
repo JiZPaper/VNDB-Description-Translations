@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30829",
+  "type": "character",
+  "name": "Father Efrem",
+  "original_name": "エフレム神父",
+  "language": "en",
+  "source_language": "en",
+  "source": "A priest who leads the exorcist squad.",
+  "source_sha256": "2a609e83988f38dc237968d4d823ef92b21209e7468c91b40293ab5042067e74",
+  "translation": "A priest who leads the exorcist squad.",
+  "vndb_url": "https://vndb.org/c30829"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84907",
+  "type": "character",
+  "name": "Maggie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Vic's daughter.",
+  "source_sha256": "604f715877043ec4facd2ede2d77e5c939ece7bcf05b06b3caf43dc6bb634222",
+  "translation": "Vic's daughter.",
+  "vndb_url": "https://vndb.org/c84907"
+}

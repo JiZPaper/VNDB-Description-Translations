@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62441",
+  "type": "character",
+  "name": "Sorcerer",
+  "original_name": "ソ一サラ一",
+  "language": "en",
+  "source_language": "en",
+  "source": "A witch who conducts magical experiments within the dungeon.\nShe treats adventurers as guinea pigs and throws them out after draining their magical power, but she does this out of an eagerness for research, not any particular malice. However, she gets very angry when someone interrupts her work.",
+  "source_sha256": "b25714065309e887545ca020939fa8220bf1491eb79df9f6db7ec566a94ef642",
+  "translation": "A witch who conducts magical experiments within the dungeon.\nShe treats adventurers as guinea pigs and throws them out after draining their magical power, but she does this out of an eagerness for research, not any particular malice. However, she gets very angry when someone interrupts her work.",
+  "vndb_url": "https://vndb.org/c62441"
+}

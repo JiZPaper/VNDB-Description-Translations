@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14143",
+  "type": "visual_novel",
+  "name": "NOeSIS -Utau Kage no Gikyoku-",
+  "original_name": "NOeSIS 歌う影の戯曲",
+  "language": "en",
+  "source_language": "en",
+  "source": "A continuation of NOeSIS UKA",
+  "source_sha256": "7186c453cbee1a14adc3a60a6459be9368697e754f351b0677ea43a2c1f0dda4",
+  "translation": "A continuation of NOeSIS UKA",
+  "vndb_url": "https://vndb.org/v14143"
+}

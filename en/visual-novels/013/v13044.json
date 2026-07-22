@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13044",
+  "type": "visual_novel",
+  "name": "London Noir",
+  "original_name": "LONDON NOIR -倫敦ノワール-",
+  "language": "en",
+  "source_language": "en",
+  "source": "L and Light investigate a series of deaths in London that may be related to Kira.",
+  "source_sha256": "e6c6698ae92bea5887435bf01b3de9648143eae27e6428b7a390a6a12f174fee",
+  "translation": "L and Light investigate a series of deaths in London that may be related to Kira.",
+  "vndb_url": "https://vndb.org/v13044"
+}

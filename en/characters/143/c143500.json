@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143500",
+  "type": "character",
+  "name": "Jenthe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dog that belongs to one of Emma's friends.",
+  "source_sha256": "a9f47334a060ba2e9840f973269ed7c12dbf0c4d846a88f4879bfe7fa176da01",
+  "translation": "A dog that belongs to one of Emma's friends.",
+  "vndb_url": "https://vndb.org/c143500"
+}

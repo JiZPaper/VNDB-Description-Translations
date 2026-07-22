@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19837",
+  "type": "character",
+  "name": "Marina Bayside Arena",
+  "original_name": "マリーナ・ベイサイドアリーナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Student council Vice President.",
+  "source_sha256": "73e1137e05ae59f6204eedacaf11a297e134a3300e023b6484dddc36af036c35",
+  "translation": "Student council Vice President.",
+  "vndb_url": "https://vndb.org/c19837"
+}

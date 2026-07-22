@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63145",
+  "type": "visual_novel",
+  "name": "Ánh dương",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Base on short story \"Song of the Sunny Spot\" in collection \"Zoo\" of author Otsuichi",
+  "source_sha256": "c8ca6438f2af4c95db8512b0a5d308d95a12f31ec42a96404c41e21358191ef9",
+  "translation": "Base on short story \"Song of the Sunny Spot\" in collection \"Zoo\" of author Otsuichi",
+  "vndb_url": "https://vndb.org/v63145"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c158144",
+  "type": "character",
+  "name": "Susanna",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ballet dancer",
+  "source_sha256": "da1b52c37d93f7d34a72009ad34903146e354b1e385080c3d21742b9b13dfe29",
+  "translation": "Ballet dancer",
+  "vndb_url": "https://vndb.org/c158144"
+}

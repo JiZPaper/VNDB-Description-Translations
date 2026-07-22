@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c164395",
+  "type": "character",
+  "name": "Ryan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is Max's best friend. They have known each other since they were children.",
+  "source_sha256": "708b2a8e121a697d15f086a9f3a89fb87e329d626992e19aa726760d506acf36",
+  "translation": "He is Max's best friend. They have known each other since they were children.",
+  "vndb_url": "https://vndb.org/c164395"
+}

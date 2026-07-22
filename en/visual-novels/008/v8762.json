@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8762",
+  "type": "visual_novel",
+  "name": "Atlantia",
+  "original_name": "アトランティア",
+  "language": "en",
+  "source_language": "en",
+  "source": "A journalist from the Fame magazine, along with a photographer, is sent on the maiden voyage of the luxury cruise ship Atlantia. The assignment is to get an interview from the sheikh of Harrout -- the owner of the ship.\n\nAboard, several sudden explosions rock the ship, and a voice from the announcement system tells: We are sinking! Get to the lifeboats immediately!",
+  "source_sha256": "c3533e3f192cc537ef38a9aa123f2d2b59b1baeb74cc00c46384547be63d7e94",
+  "translation": "A journalist from the Fame magazine, along with a photographer, is sent on the maiden voyage of the luxury cruise ship Atlantia. The assignment is to get an interview from the sheikh of Harrout -- the owner of the ship.\n\nAboard, several sudden explosions rock the ship, and a voice from the announcement system tells: We are sinking! Get to the lifeboats immediately!",
+  "vndb_url": "https://vndb.org/v8762"
+}

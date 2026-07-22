@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133386",
+  "type": "character",
+  "name": "Vincent",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is a photographer at the studio where [url=/c133330]Faye[/url] and [url=/c133361]Nicole[/url] work.",
+  "source_sha256": "20c577c4a745b2cefa25790f60b04d5c5ad577682da416dde04e2124ee5f138c",
+  "translation": "He is a photographer at the studio where [url=/c133330]Faye[/url] and [url=/c133361]Nicole[/url] work.",
+  "vndb_url": "https://vndb.org/c133386"
+}

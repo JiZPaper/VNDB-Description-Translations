@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93580",
+  "type": "character",
+  "name": "Carl",
+  "original_name": "カール",
+  "language": "en",
+  "source_language": "en",
+  "source": "He is the gardener for the Twilight Hotel.",
+  "source_sha256": "9c2a0064ecc1dbd2fd54374bb8a6d4937ed0a5acad0c19e2d5bef9fb6fddb5d1",
+  "translation": "He is the gardener for the Twilight Hotel.",
+  "vndb_url": "https://vndb.org/c93580"
+}

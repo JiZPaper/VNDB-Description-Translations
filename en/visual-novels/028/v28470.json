@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28470",
+  "type": "visual_novel",
+  "name": "Love Change: Christmas Bonus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short bonus game set just before the events of \"Love Change\".",
+  "source_sha256": "4e46375526ab6c21d068ed3d6e3be18a11d802887709fea819364ab9ad3ed0c8",
+  "translation": "A short bonus game set just before the events of \"Love Change\".",
+  "vndb_url": "https://vndb.org/v28470"
+}

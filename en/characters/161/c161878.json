@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161878",
+  "type": "character",
+  "name": "Tom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sarah's husband.",
+  "source_sha256": "576d473d57eee3a871fd69abe1119775b24e0e6768a914b66166659e7c12cfda",
+  "translation": "Sarah's husband.",
+  "vndb_url": "https://vndb.org/c161878"
+}

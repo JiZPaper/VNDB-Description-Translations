@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35705",
+  "type": "character",
+  "name": "Itsuki",
+  "original_name": "一樹",
+  "language": "en",
+  "source_language": "en",
+  "source": "A serious and uptight -- hard to read technical book.\nHe can't be checked out, a reference book for in library use only.",
+  "source_sha256": "8e4128145ce0f459d1842dcd9a59503f2134d64481037508e82bcbd05f818ccb",
+  "translation": "A serious and uptight -- hard to read technical book.\nHe can't be checked out, a reference book for in library use only.",
+  "vndb_url": "https://vndb.org/c35705"
+}

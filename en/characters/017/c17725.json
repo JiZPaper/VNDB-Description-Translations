@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17725",
+  "type": "character",
+  "name": "Rick",
+  "original_name": "リック",
+  "language": "en",
+  "source_language": "en",
+  "source": "Late 20s or early 30s.",
+  "source_sha256": "438a26b6a04db48de417406b596ef7893e0bcc4996ae23488167b07ae99b125d",
+  "translation": "Late 20s or early 30s.",
+  "vndb_url": "https://vndb.org/c17725"
+}

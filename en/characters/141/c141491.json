@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141491",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I will?! Conquer the world?!\"\n\nThis is you. GO CONQUER THE WORLD!",
+  "source_sha256": "bee7eda2dbb5211dc3a2ce84813d3c79e608664b3fc2d37afd0782672d9c14ca",
+  "translation": "\"I will?! Conquer the world?!\"\n\nThis is you. GO CONQUER THE WORLD!",
+  "vndb_url": "https://vndb.org/c141491"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95964",
+  "type": "character",
+  "name": "John Johnson",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A frustrated salaryman who studies the occult in order to summon a demon.",
+  "source_sha256": "d8a5f962c878597bc2e1b513bea7bcbfc150f9241b6cac1229fafda671fde5a9",
+  "translation": "A frustrated salaryman who studies the occult in order to summon a demon.",
+  "vndb_url": "https://vndb.org/c95964"
+}

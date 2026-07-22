@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50146",
+  "type": "visual_novel",
+  "name": "Ruined",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A furry visual novel about catastrophe, separation, and reunion.\n\n[From [url=https://monolize.itch.io/ruined]Itch.io[/url]]",
+  "source_sha256": "2f340e803a36ec834fba60dc307dc944e46405a880ec781da2d65892fb03129f",
+  "translation": "A furry visual novel about catastrophe, separation, and reunion.\n\n[From [url=https://monolize.itch.io/ruined]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v50146"
+}

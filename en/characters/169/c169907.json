@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169907",
+  "type": "character",
+  "name": "Nurse",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A nurse who cares for [url=/c169906]Marge[/url].",
+  "source_sha256": "da3813e18bfe1ff03553f3134b343158f3b5060fa33d01ef3c734c647be51a4f",
+  "translation": "A nurse who cares for [url=/c169906]Marge[/url].",
+  "vndb_url": "https://vndb.org/c169907"
+}

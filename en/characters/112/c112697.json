@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112697",
+  "type": "character",
+  "name": "Violet",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Iris' mother who died during labor.",
+  "source_sha256": "3a5a6519ee6d402d799946a667d7f444f15d242847a2f83cfafbbf976dc4b325",
+  "translation": "Iris' mother who died during labor.",
+  "vndb_url": "https://vndb.org/c112697"
+}

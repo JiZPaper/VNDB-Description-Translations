@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21014",
+  "type": "character",
+  "name": "Jody",
+  "original_name": "ジョディ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Pilot of CAT Torpedo 3",
+  "source_sha256": "19c4c33462bf09e3989b2bcaed3e73fce4ac60961a36501f87075200d04a6fdd",
+  "translation": "Pilot of CAT Torpedo 3",
+  "vndb_url": "https://vndb.org/c21014"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162746",
+  "type": "character",
+  "name": "Mulk",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Thulkan representative of the Galactic Council",
+  "source_sha256": "06fce131bec1cae6f7a3bf32fed5171188bcdd807562ed0d57ba5d9f3a2bb3c0",
+  "translation": "Thulkan representative of the Galactic Council",
+  "vndb_url": "https://vndb.org/c162746"
+}

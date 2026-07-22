@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32938",
+  "type": "visual_novel",
+  "name": "Rance 4 Option Disc",
+  "original_name": "ランスIV オプションディスク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Option and hint disc for Rance 4",
+  "source_sha256": "91db160d843db4db4b1004f1f52957c8ee0ffb72d06f9cdd422a2c845f945aef",
+  "translation": "Option and hint disc for Rance 4",
+  "vndb_url": "https://vndb.org/v32938"
+}

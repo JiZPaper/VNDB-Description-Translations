@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19459",
+  "type": "character",
+  "name": "Hattori Ninosuke",
+  "original_name": "服部 弐乃助",
+  "language": "en",
+  "source_language": "en",
+  "source": "The former student council president, currently in hiding.\n\nStats: luck 1 / intelligence 3 / popularity 1 / special ability 5 / physical strength 4 / influence 0\nSpecial Skill: ninjutsu",
+  "source_sha256": "1889e1ae3cdf87545cb7a3ec64eab645c14461e493e462441bb7067ed12ae7ee",
+  "translation": "The former student council president, currently in hiding.\n\nStats: luck 1 / intelligence 3 / popularity 1 / special ability 5 / physical strength 4 / influence 0\nSpecial Skill: ninjutsu",
+  "vndb_url": "https://vndb.org/c19459"
+}

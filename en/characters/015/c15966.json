@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15966",
+  "type": "character",
+  "name": "Fey",
+  "original_name": "フィー",
+  "language": "en",
+  "source_language": "en",
+  "source": "300 year old cat thief and partner in crime.",
+  "source_sha256": "97d5152ec385a9b627bd37f8ca2b33d6c81280c6993c5e50faefea1802682301",
+  "translation": "300 year old cat thief and partner in crime.",
+  "vndb_url": "https://vndb.org/c15966"
+}

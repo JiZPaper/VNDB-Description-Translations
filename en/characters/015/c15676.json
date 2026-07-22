@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15676",
+  "type": "character",
+  "name": "Mrs. Robinson",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Christina's mother.",
+  "source_sha256": "62fbaf4ef622b047e4009e61eff1be60674019e73d6714e67b7dedf02981b759",
+  "translation": "Christina's mother.",
+  "vndb_url": "https://vndb.org/c15676"
+}

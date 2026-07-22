@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c78903",
+  "type": "character",
+  "name": "Tajima",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The bassist in Yagami's band.",
+  "source_sha256": "64be94ac6a56aeaf015081fbd0a12966ddc71bef18d42452454a014a9cfb40c9",
+  "translation": "The bassist in Yagami's band.",
+  "vndb_url": "https://vndb.org/c78903"
+}

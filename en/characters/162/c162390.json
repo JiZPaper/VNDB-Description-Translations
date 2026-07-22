@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162390",
+  "type": "character",
+  "name": "Martin",
+  "original_name": "マーティン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A boy who wants to become a clerk and is in training.",
+  "source_sha256": "f4edc5a4378f6b581e32d60fdf0c7e11367728a7bd8b2afc4dcad2b19dcd323c",
+  "translation": "A boy who wants to become a clerk and is in training.",
+  "vndb_url": "https://vndb.org/c162390"
+}

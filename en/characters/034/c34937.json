@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34937",
+  "type": "character",
+  "name": "Akazukin",
+  "original_name": "赤ずきん",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Hold on tightly! It's dangerous you know!\"",
+  "source_sha256": "3407eecc5689a9f9495b8fa39714c442271dae7c1ac71bb712e6edc95891ac96",
+  "translation": "\"Hold on tightly! It's dangerous you know!\"",
+  "vndb_url": "https://vndb.org/c34937"
+}

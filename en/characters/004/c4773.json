@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4773",
+  "type": "character",
+  "name": "Unknown",
+  "original_name": "?",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mystery man.",
+  "source_sha256": "f23c52ecf851650b4b5b47c2aa0e5e780df2a3a665cf5d341914557558192334",
+  "translation": "Mystery man.",
+  "vndb_url": "https://vndb.org/c4773"
+}

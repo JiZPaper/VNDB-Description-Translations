@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169647",
+  "type": "character",
+  "name": "Federation agent",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An agent from the Galactic Federation, who contacts Samus about the distress signal on Planet XR-699. [spoiler]He works on a plan for the Federation to humiliate Samus after her act of insubordination when she chose to destroy the X parasites in Metroid Fusion.[spoiler]",
+  "source_sha256": "36a76cadcb25889bd447645e13754802ada939b35a3351f6da64010bf6980975",
+  "translation": "An agent from the Galactic Federation, who contacts Samus about the distress signal on Planet XR-699. [spoiler]He works on a plan for the Federation to humiliate Samus after her act of insubordination when she chose to destroy the X parasites in Metroid Fusion.[spoiler]",
+  "vndb_url": "https://vndb.org/c169647"
+}

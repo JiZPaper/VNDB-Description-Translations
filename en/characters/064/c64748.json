@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64748",
+  "type": "character",
+  "name": "David Hasselhoff",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Worldwide Celebrity!",
+  "source_sha256": "19d3b6913d0960b26a7f27fe3855d8674e6941ddf9515d298041f8ff9668aa6a",
+  "translation": "Worldwide Celebrity!",
+  "vndb_url": "https://vndb.org/c64748"
+}

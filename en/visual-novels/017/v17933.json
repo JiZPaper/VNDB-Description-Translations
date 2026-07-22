@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17933",
+  "type": "visual_novel",
+  "name": "Our War Everlasting",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A kinetic novel (sort of like mix between a picture book and a game) about two soldiers who face the horrors of war and must learn to deal with the consequences together.",
+  "source_sha256": "3794bc1fdce0eeb5950aa1f5b6721317b982c842b3ef7bf8c6d7839c5ff2ab4d",
+  "translation": "A kinetic novel (sort of like mix between a picture book and a game) about two soldiers who face the horrors of war and must learn to deal with the consequences together.",
+  "vndb_url": "https://vndb.org/v17933"
+}

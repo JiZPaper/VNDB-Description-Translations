@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59470",
+  "type": "visual_novel",
+  "name": "RJVN",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel adaptation of Shakespeare’s Romeo and Juliet.",
+  "source_sha256": "8e9b2eb1a3a974fa1b2718052b0a2f56753b478eeafc9627f5fd72f7dad8f3f5",
+  "translation": "A visual novel adaptation of Shakespeare’s Romeo and Juliet.",
+  "vndb_url": "https://vndb.org/v59470"
+}

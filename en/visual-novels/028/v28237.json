@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28237",
+  "type": "visual_novel",
+  "name": "Samurai Blade - Love or Die",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Unexpectedly attacked by Shogun, you lost your parents...\n12 years later...\nThe time of revenge has come!\nStart your adventure with the strongest samurai by your side.",
+  "source_sha256": "273f194969a9a2ff9d97972c49f70e2d1ce700ac1ed65582d5d232f019fbbb4e",
+  "translation": "Unexpectedly attacked by Shogun, you lost your parents...\n12 years later...\nThe time of revenge has come!\nStart your adventure with the strongest samurai by your side.",
+  "vndb_url": "https://vndb.org/v28237"
+}

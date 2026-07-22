@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117683",
+  "type": "character",
+  "name": "Oo-obasan",
+  "original_name": "大おばさん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Suzuka's caretaker.",
+  "source_sha256": "9907444ac6e9d35ec8cfb531491b87131220cb0baf0286b01195cc36d41a824c",
+  "translation": "Suzuka's caretaker.",
+  "vndb_url": "https://vndb.org/c117683"
+}

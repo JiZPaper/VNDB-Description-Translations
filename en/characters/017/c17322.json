@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17322",
+  "type": "character",
+  "name": "Amaryllis",
+  "original_name": "アマリリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A thief.",
+  "source_sha256": "ac38f05480198b0d52f4180b20d32498864e5e4e42d1848e74b1df023303632a",
+  "translation": "A thief.",
+  "vndb_url": "https://vndb.org/c17322"
+}

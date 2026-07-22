@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57537",
+  "type": "visual_novel",
+  "name": "Amfracti",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel in which you, in the role of a medical school sophomore, finally get your chance to shine by investigating a mysterious and terminal disease called Amfracti. Your job is to discuss the disease with affected patients and hopefully find out how to cure them.\n\n[From [url=https://fofonos.itch.io/amfracti]Itch.io[/url]]",
+  "source_sha256": "067c5956d3e0a49861eaba74e04c221083577a609e23579551ef34961247ebbc",
+  "translation": "A visual novel in which you, in the role of a medical school sophomore, finally get your chance to shine by investigating a mysterious and terminal disease called Amfracti. Your job is to discuss the disease with affected patients and hopefully find out how to cure them.\n\n[From [url=https://fofonos.itch.io/amfracti]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v57537"
+}

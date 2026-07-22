@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19626",
+  "type": "character",
+  "name": "Amy Walker",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ben Young’s nurse at Memorial Hospital.",
+  "source_sha256": "2cc677909c602206ba6252db9101dab85b5701bdfddcd728beec7879078e55f3",
+  "translation": "Ben Young’s nurse at Memorial Hospital.",
+  "vndb_url": "https://vndb.org/c19626"
+}

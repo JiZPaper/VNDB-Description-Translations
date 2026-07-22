@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28601",
+  "type": "character",
+  "name": "Glumdalclitch",
+  "original_name": "グラムダルクリッチ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A naive country girl; one of the palace servants.",
+  "source_sha256": "b175d3ae46c73bdf00809733ed251ae0578765d86842ce30fc322130d2f90daa",
+  "translation": "A naive country girl; one of the palace servants.",
+  "vndb_url": "https://vndb.org/c28601"
+}

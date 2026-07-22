@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25523",
+  "type": "character",
+  "name": "Vincent",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The librarian, who runs the town library and investigates crimes.",
+  "source_sha256": "71453fa2dbe545054c4691567cb4fd2e474ada537b3b2d125b96a7b3438a0487",
+  "translation": "The librarian, who runs the town library and investigates crimes.",
+  "vndb_url": "https://vndb.org/c25523"
+}

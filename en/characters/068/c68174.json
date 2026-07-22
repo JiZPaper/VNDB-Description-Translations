@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c68174",
+  "type": "character",
+  "name": "Chromie",
+  "original_name": "クロミェ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A young man who resides in Enles land.",
+  "source_sha256": "92ba8ddf7c93a0ff6b934a3232489b366cd872a6950564c68740fdf05f4f1259",
+  "translation": "A young man who resides in Enles land.",
+  "vndb_url": "https://vndb.org/c68174"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c83602",
+  "type": "character",
+  "name": "Student",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A student at the school.\nHe doesn't like adults too much, but he's still a good kid at heart,",
+  "source_sha256": "1c1e5789b7452c2982f0069249bd0e84e518b519ea1326029eafc0b05cd8255b",
+  "translation": "A student at the school.\nHe doesn't like adults too much, but he's still a good kid at heart,",
+  "vndb_url": "https://vndb.org/c83602"
+}

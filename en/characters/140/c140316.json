@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140316",
+  "type": "character",
+  "name": "Marcus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Abigail's cousin.",
+  "source_sha256": "cf887afffa7c93803955b1b20ea5f17dd4b95531bf567eeb603678bc51878530",
+  "translation": "Abigail's cousin.",
+  "vndb_url": "https://vndb.org/c140316"
+}

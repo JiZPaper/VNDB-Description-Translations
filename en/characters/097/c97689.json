@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97689",
+  "type": "character",
+  "name": "Saffron Leja",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A low-rank scout assigned to serve the main character.\nAccording to Laceaga, she doesn't always follow orders.",
+  "source_sha256": "dec782046b551ab804daefa7ee217c0e595c0377c2b275141c07094ab04a1494",
+  "translation": "A low-rank scout assigned to serve the main character.\nAccording to Laceaga, she doesn't always follow orders.",
+  "vndb_url": "https://vndb.org/c97689"
+}

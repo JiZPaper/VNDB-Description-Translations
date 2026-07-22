@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82088",
+  "type": "character",
+  "name": "Olog",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Kamilla's older brother and supervisor.",
+  "source_sha256": "c02a1aa12cb1942f2693288de0cf4e85f3bd6849b3f9b264baf421cfd0f790bd",
+  "translation": "Kamilla's older brother and supervisor.",
+  "vndb_url": "https://vndb.org/c82088"
+}

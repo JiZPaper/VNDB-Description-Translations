@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c50509",
+  "type": "character",
+  "name": "Lilan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Main character; Amnesiac girl who tries to remember her past.",
+  "source_sha256": "961df59411b45a8cd367a7ea1828dce06919a2f4a5aa24bbc1af0717d8d1be8a",
+  "translation": "Main character; Amnesiac girl who tries to remember her past.",
+  "vndb_url": "https://vndb.org/c50509"
+}

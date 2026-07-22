@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14027",
+  "type": "visual_novel",
+  "name": "Fest Trip",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The story focuses on a guy on way to Animefest which takes place in Brno.",
+  "source_sha256": "5665aac35e53f350f2c95a26e38db8003f8bbcdd7d0f33839d44dc76e02c84b7",
+  "translation": "The story focuses on a guy on way to Animefest which takes place in Brno.",
+  "vndb_url": "https://vndb.org/v14027"
+}

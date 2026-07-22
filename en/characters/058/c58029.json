@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c58029",
+  "type": "character",
+  "name": "Noin",
+  "original_name": "ノイン",
+  "language": "en",
+  "source_language": "en",
+  "source": "?? years old.\nLikes: Spicy Food\nDislikes: Meat/Fish",
+  "source_sha256": "38ef22a027d760240106fc7e2696b453ad0fd113896d03a23447b01a824329eb",
+  "translation": "?? years old.\nLikes: Spicy Food\nDislikes: Meat/Fish",
+  "vndb_url": "https://vndb.org/c58029"
+}

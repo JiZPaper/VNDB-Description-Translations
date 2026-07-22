@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c119152",
+  "type": "character",
+  "name": "Gin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The critical thinker. Could be a good ally...or a strong opponent.",
+  "source_sha256": "ea1b66fd8d1e0e68c6183ee1311583165bb86c380d6d384a45fb796d6a3e9f67",
+  "translation": "The critical thinker. Could be a good ally...or a strong opponent.",
+  "vndb_url": "https://vndb.org/c119152"
+}

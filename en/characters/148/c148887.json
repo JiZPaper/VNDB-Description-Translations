@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148887",
+  "type": "character",
+  "name": "Cron",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A robot that works in a farm near Rune's apartment.",
+  "source_sha256": "31d1f362a1854f88675328a853033477e07013223b3452fcbf0387f9c5763813",
+  "translation": "A robot that works in a farm near Rune's apartment.",
+  "vndb_url": "https://vndb.org/c148887"
+}

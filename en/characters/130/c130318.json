@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130318",
+  "type": "character",
+  "name": "Wendy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl that Eileen meets and befriends. Helps her find a partner for the dance.",
+  "source_sha256": "d0edcc7407236bae132a6b9616209dcb45bcc19a319948e5a94c2e708f395eef",
+  "translation": "A girl that Eileen meets and befriends. Helps her find a partner for the dance.",
+  "vndb_url": "https://vndb.org/c130318"
+}

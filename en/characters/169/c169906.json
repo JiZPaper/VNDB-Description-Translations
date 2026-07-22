@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169906",
+  "type": "character",
+  "name": "Marge",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The mother of [url=/c169866]Greg[/url]. She is in the hospital battling cancer.",
+  "source_sha256": "66f0705cb7df841cc7a7233c161bec87f3da35f65707ffd155aea7a978c9fa37",
+  "translation": "The mother of [url=/c169866]Greg[/url]. She is in the hospital battling cancer.",
+  "vndb_url": "https://vndb.org/c169906"
+}

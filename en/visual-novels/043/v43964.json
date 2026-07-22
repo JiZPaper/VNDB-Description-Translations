@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43964",
+  "type": "visual_novel",
+  "name": "LOOP THE LOOP Side Story",
+  "original_name": "LOOP THE LOOP サイドストーリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a collection of official side stories from the LOOP THE LOOP series.\nThey include details about each character's past that couldn't be fully depicted in the main story, and behind-the-scenes stories seen from another character's perspective.\n\n[Translated from [url=https://sweetampoule.sakura.ne.jp/ltl_side.html]Official Site[/url]]",
+  "source_sha256": "9ff3e011889cdce714ae74b25069d412012577a44623413fe102c80cc559a30f",
+  "translation": "This is a collection of official side stories from the LOOP THE LOOP series.\nThey include details about each character's past that couldn't be fully depicted in the main story, and behind-the-scenes stories seen from another character's perspective.\n\n[Translated from [url=https://sweetampoule.sakura.ne.jp/ltl_side.html]Official Site[/url]]",
+  "vndb_url": "https://vndb.org/v43964"
+}

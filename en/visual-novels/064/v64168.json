@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64168",
+  "type": "visual_novel",
+  "name": "Kiko the ghost",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A game with a ghost named Kiko",
+  "source_sha256": "288ec2a2c80184c5b08d2a11415295d5f88d34f329311f9a7a7988958b9de7a9",
+  "translation": "A game with a ghost named Kiko",
+  "vndb_url": "https://vndb.org/v64168"
+}

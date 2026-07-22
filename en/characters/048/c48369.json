@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48369",
+  "type": "character",
+  "name": "Mary",
+  "original_name": "メアリ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A nun in the village.\nShe was raised as part of the church, but she's lost her memories of her childhood.",
+  "source_sha256": "dd0b0f181de1d2a40c8f47f1f0d68677d0e5294119b28dc8f5d279d687d19450",
+  "translation": "A nun in the village.\nShe was raised as part of the church, but she's lost her memories of her childhood.",
+  "vndb_url": "https://vndb.org/c48369"
+}

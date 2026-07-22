@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39094",
+  "type": "character",
+  "name": "Bandit",
+  "original_name": "山賊",
+  "language": "en",
+  "source_language": "en",
+  "source": "The leader of a gang of brigands that ran a protection racket against Animato's village. Later he was forced into the army under Grandi's command.",
+  "source_sha256": "2375098ff36a77c3ecf9cf0f3924b5220c226528a68be4cc6e7e5e8085f1340e",
+  "translation": "The leader of a gang of brigands that ran a protection racket against Animato's village. Later he was forced into the army under Grandi's command.",
+  "vndb_url": "https://vndb.org/c39094"
+}

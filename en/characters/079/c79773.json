@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79773",
+  "type": "character",
+  "name": "Yukari",
+  "original_name": "ゆかり",
+  "language": "en",
+  "source_language": "en",
+  "source": "Age: 32-33",
+  "source_sha256": "ab5f51f73c62c8b8463d00c8f3a4ce7bdfa2e04e948ca572baf20e4333afddd1",
+  "translation": "Age: 32-33",
+  "vndb_url": "https://vndb.org/c79773"
+}

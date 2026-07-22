@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40640",
+  "type": "character",
+  "name": "Drop Rust",
+  "original_name": "ドロップ＝ルスト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A magician in Atlas's party.\nHe worked seriously hard to be a magician and has a large thirst for knowledge about many subjects.\nHe hates being treated like a child because of his looks and height.",
+  "source_sha256": "acc15d6fcd58542c5a6adf7a2d382f247280a593847bb5d7343d96846cbebb7c",
+  "translation": "A magician in Atlas's party.\nHe worked seriously hard to be a magician and has a large thirst for knowledge about many subjects.\nHe hates being treated like a child because of his looks and height.",
+  "vndb_url": "https://vndb.org/c40640"
+}

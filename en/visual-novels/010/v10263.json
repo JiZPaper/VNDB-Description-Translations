@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10263",
+  "type": "visual_novel",
+  "name": "Private Garden",
+  "original_name": "プライベートガーデン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A puzzle game where you move blocks to form an image of a guy or a girl using all the blocks. Easy as it sounds, there is little space given to move the blocks and if any block slips off the platform, you have to try again. \n\n[Edited from [url=http://www.densetsu.com/display.php?id=203&style=alphabetical]animedensetsu[/url]]",
+  "source_sha256": "a5657df8f0a39ed447be79f3d2f14ad7c3467ca7ef7160359c9ad2d42300af2b",
+  "translation": "A puzzle game where you move blocks to form an image of a guy or a girl using all the blocks. Easy as it sounds, there is little space given to move the blocks and if any block slips off the platform, you have to try again. \n\n[Edited from [url=http://www.densetsu.com/display.php?id=203&style=alphabetical]animedensetsu[/url]]",
+  "vndb_url": "https://vndb.org/v10263"
+}

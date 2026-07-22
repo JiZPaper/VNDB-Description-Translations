@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c32529",
+  "type": "character",
+  "name": "Ostinard",
+  "original_name": "オスティナード",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Machinery\n\nLutriche's loyal servant. A relic of the pre-historic civilization. He was repaired by Lutriche and given a magic orb to act as his power source.",
+  "source_sha256": "800ce0109d2033db5119164b62baddf14aaf041408c68931a4bbe978c5434136",
+  "translation": "Race: Machinery\n\nLutriche's loyal servant. A relic of the pre-historic civilization. He was repaired by Lutriche and given a magic orb to act as his power source.",
+  "vndb_url": "https://vndb.org/c32529"
+}

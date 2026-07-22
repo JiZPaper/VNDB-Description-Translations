@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c157043",
+  "type": "character",
+  "name": "Nidome",
+  "original_name": "ニドメ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Another spectator who helps Natsume out.",
+  "source_sha256": "ec3578e18a94fe6ee54dfbdd973d0db5113971cb83e5787ba66be8c1c2ecc46f",
+  "translation": "Another spectator who helps Natsume out.",
+  "vndb_url": "https://vndb.org/c157043"
+}

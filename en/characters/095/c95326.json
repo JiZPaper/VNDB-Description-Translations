@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95326",
+  "type": "character",
+  "name": "Touya",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Craft club president.",
+  "source_sha256": "f2679995eba087bc6f17dabf41edd1687941cf667259a2d744631f1c598e4874",
+  "translation": "Craft club president.",
+  "vndb_url": "https://vndb.org/c95326"
+}

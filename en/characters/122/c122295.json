@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122295",
+  "type": "character",
+  "name": "Willow",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Resident of the Holloway house.",
+  "source_sha256": "6cade3dc4463c708f8e48cb0cbabdc97edce7304e48cc219a7df065fe434f038",
+  "translation": "Resident of the Holloway house.",
+  "vndb_url": "https://vndb.org/c122295"
+}

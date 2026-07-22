@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36768",
+  "type": "character",
+  "name": "Oswald",
+  "original_name": "オズワルド",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's teacher and an old friend of Clemens'.",
+  "source_sha256": "9325b3a4dfea011b53e4ed7768c616b616358f96b360ecd8d9dcea10cf6f4343",
+  "translation": "The protagonist's teacher and an old friend of Clemens'.",
+  "vndb_url": "https://vndb.org/c36768"
+}

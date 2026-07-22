@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51864",
+  "type": "visual_novel",
+  "name": "Today",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "It was a beautiful day in May, \nbut not for long.\n\n[From [url=https://seirzen.itch.io/today]itch.io[/url]]",
+  "source_sha256": "46de9679370707fa688fc9caff9b7a488a9108a73a4d28f21a5100e91abcd810",
+  "translation": "It was a beautiful day in May, \nbut not for long.\n\n[From [url=https://seirzen.itch.io/today]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v51864"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141912",
+  "type": "character",
+  "name": "MechanicalMech",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Pronouns: they/she",
+  "source_sha256": "0066ddf4197e90226d755dd838d5b2ce36f2b5ad7f1666b7f1be56dc4e235adc",
+  "translation": "Pronouns: they/she",
+  "vndb_url": "https://vndb.org/c141912"
+}

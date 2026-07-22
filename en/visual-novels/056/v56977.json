@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56977",
+  "type": "visual_novel",
+  "name": "Koisuru Kusuriya-san",
+  "original_name": "恋するくすりやさん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Herbalist simulation and visual novel hybrid, starring Siris from our game Hippoboar Rancher!",
+  "source_sha256": "1e6ac8eb041ec93d3b792b251340c73b8f9e7fedd8cd1268ce787f2bccebfce6",
+  "translation": "Herbalist simulation and visual novel hybrid, starring Siris from our game Hippoboar Rancher!",
+  "vndb_url": "https://vndb.org/v56977"
+}

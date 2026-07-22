@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162631",
+  "type": "character",
+  "name": "Blugg",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Thulkan mercenary",
+  "source_sha256": "92ba0281c8e278f3ae0d7bb16e630d2e9c67a512455fba5a7c9a13ec7df7552a",
+  "translation": "Thulkan mercenary",
+  "vndb_url": "https://vndb.org/c162631"
+}

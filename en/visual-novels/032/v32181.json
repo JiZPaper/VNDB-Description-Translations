@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32181",
+  "type": "visual_novel",
+  "name": "Jailbreak",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A guy tries to escape from prison.",
+  "source_sha256": "2682f580e09a7507daea35110a03eb5bc1389543af1c7e18aa38787e4c9eb643",
+  "translation": "A guy tries to escape from prison.",
+  "vndb_url": "https://vndb.org/v32181"
+}

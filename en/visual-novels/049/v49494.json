@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49494",
+  "type": "visual_novel",
+  "name": "Bu Shuangxiu Jiu Qushi",
+  "original_name": "不双修就去世",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a text adventure game that combines the gameplay of desktop pets and mini-games. You can advance the plot by clicking on the dialogue, or play mini-games to accumulate values to trigger new plots, and you can also cultivate your favorite characters by hanging up.\n\n[From [url=https://store.steampowered.com/app/2190290]Steam[/url]]",
+  "source_sha256": "606a3b5b948d031e3048fd91400f8c31d74542fb2362aaa07106cfb0cac58765",
+  "translation": "This is a text adventure game that combines the gameplay of desktop pets and mini-games. You can advance the plot by clicking on the dialogue, or play mini-games to accumulate values to trigger new plots, and you can also cultivate your favorite characters by hanging up.\n\n[From [url=https://store.steampowered.com/app/2190290]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v49494"
+}

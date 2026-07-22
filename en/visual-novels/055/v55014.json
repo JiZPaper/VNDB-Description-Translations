@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55014",
+  "type": "visual_novel",
+  "name": "Camp Pinewood Remix",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Remake of [url=/v36750]Camp Pinewood[/url].",
+  "source_sha256": "0a9cad678fc31d6b42aa15438eb67dd38cb8220071a4bb338977ec9d262f4460",
+  "translation": "Remake of [url=/v36750]Camp Pinewood[/url].",
+  "vndb_url": "https://vndb.org/v55014"
+}

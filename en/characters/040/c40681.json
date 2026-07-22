@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40681",
+  "type": "character",
+  "name": "Koutenken",
+  "original_name": "哮天犬",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's familiar.\nUsually he's fluffy, but when it's time for fighting he changes to battle mode.",
+  "source_sha256": "60d19d392dcfe4f66a43c043020630a6f8877b6b802c42bb8149ebfe65aa0915",
+  "translation": "The protagonist's familiar.\nUsually he's fluffy, but when it's time for fighting he changes to battle mode.",
+  "vndb_url": "https://vndb.org/c40681"
+}

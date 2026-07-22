@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71097",
+  "type": "character",
+  "name": "Domina",
+  "original_name": "ドミナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Manages the tavern and inn in the City of Dusk.",
+  "source_sha256": "bf75bc7edc3d38f451b72913d055d389f049fbd80446e4d29bd68ed6f8750e88",
+  "translation": "Manages the tavern and inn in the City of Dusk.",
+  "vndb_url": "https://vndb.org/c71097"
+}

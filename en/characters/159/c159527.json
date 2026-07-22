@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159527",
+  "type": "character",
+  "name": "Heather",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Karl's girlfriend.",
+  "source_sha256": "dcac2508964e5d33af6dbad952deece1a0cd519b6f71708462e2990b037b2a2d",
+  "translation": "Karl's girlfriend.",
+  "vndb_url": "https://vndb.org/c159527"
+}

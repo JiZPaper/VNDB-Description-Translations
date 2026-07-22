@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95671",
+  "type": "character",
+  "name": "Houshou Tetsuya",
+  "original_name": "宝生 哲也",
+  "language": "en",
+  "source_language": "en",
+  "source": "Neurosurgeon",
+  "source_sha256": "0c3963c5d81e8ba000633cc2d48bbd9aa3922f39d13f145e461843bb10ad76ac",
+  "translation": "Neurosurgeon",
+  "vndb_url": "https://vndb.org/c95671"
+}

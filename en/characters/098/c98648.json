@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98648",
+  "type": "character",
+  "name": "Clerk",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Friendly clerk at the town's general store.",
+  "source_sha256": "9906427b7d5205b34ff9a96bb2cb1d6e4a63b0a9b71802336b721eaf968c0a23",
+  "translation": "Friendly clerk at the town's general store.",
+  "vndb_url": "https://vndb.org/c98648"
+}

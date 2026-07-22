@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75306",
+  "type": "character",
+  "name": "Ronald",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A male inhabitant of an abandoned building, where Janna finds a place to stay.",
+  "source_sha256": "8c0458d0054ea1c256f483b1f0b35835c9365a693f77ecf26bbf7bcdde10fd05",
+  "translation": "A male inhabitant of an abandoned building, where Janna finds a place to stay.",
+  "vndb_url": "https://vndb.org/c75306"
+}

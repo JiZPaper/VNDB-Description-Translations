@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93400",
+  "type": "character",
+  "name": "Blue-purple hair woman",
+  "original_name": "青紫の髪女性",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious woman that [url=/c91246]Alice[/url] encounters in the public bathhouse.\nShe seems to be quite knowledgeable regarding [url=/c91246]Alice[/url]'s current condition.",
+  "source_sha256": "1da95558a0b7921a18087e812362ee5354b6ddba25f8be8fe982be476403cd96",
+  "translation": "A mysterious woman that [url=/c91246]Alice[/url] encounters in the public bathhouse.\nShe seems to be quite knowledgeable regarding [url=/c91246]Alice[/url]'s current condition.",
+  "vndb_url": "https://vndb.org/c93400"
+}

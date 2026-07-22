@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168007",
+  "type": "character",
+  "name": "Kayama Kaiji",
+  "original_name": "華山 快児",
+  "language": "en",
+  "source_language": "en",
+  "source": "Taxi Driver",
+  "source_sha256": "61ada1a0a1f3d8bb2f27e8d10b4787fb477efa3c56a76bbdc65fbace7e7ce70d",
+  "translation": "Taxi Driver",
+  "vndb_url": "https://vndb.org/c168007"
+}

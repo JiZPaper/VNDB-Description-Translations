@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12951",
+  "type": "visual_novel",
+  "name": "Tsukikagerou -Senshuu Renka-",
+  "original_name": "月陽炎 -千秋恋歌-",
+  "language": "en",
+  "source_language": "en",
+  "source": "Tsukikagerou's fandisc. Requires the original game to be installed.\n\nIncludes 2 side stories, 2 new songs, a new character voice system, mini-games and desktop accessories.",
+  "source_sha256": "7bedb76376a2998123a8cc3fb8f9290668f8932afc8615c7580d7287e6d1a278",
+  "translation": "Tsukikagerou's fandisc. Requires the original game to be installed.\n\nIncludes 2 side stories, 2 new songs, a new character voice system, mini-games and desktop accessories.",
+  "vndb_url": "https://vndb.org/v12951"
+}

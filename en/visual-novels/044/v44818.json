@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44818",
+  "type": "visual_novel",
+  "name": "A Day With Nino",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Quintessential Quintuplets fan game.",
+  "source_sha256": "5997c369bbd19968f2342f6b051527c357be5911358817878039ae5ed653fc9d",
+  "translation": "A Quintessential Quintuplets fan game.",
+  "vndb_url": "https://vndb.org/v44818"
+}

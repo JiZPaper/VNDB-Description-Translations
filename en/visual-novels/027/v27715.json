@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27715",
+  "type": "visual_novel",
+  "name": "Atashi no Farm.",
+  "original_name": "あたしのふぁーむ。",
+  "language": "en",
+  "source_language": "en",
+  "source": "Save the farm from being sold to aristocrats",
+  "source_sha256": "b024fafc663d1e8881950948e3eb37e8a30d5f715b2e534e9f6c5f5628cd45c0",
+  "translation": "Save the farm from being sold to aristocrats",
+  "vndb_url": "https://vndb.org/v27715"
+}

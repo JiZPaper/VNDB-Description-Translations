@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60202",
+  "type": "character",
+  "name": "Ashe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young reaper.",
+  "source_sha256": "0fe9825a7c517036b3d7c314670bb8cf5dbfa310ee0c97b1b2801deb1a32f531",
+  "translation": "A young reaper.",
+  "vndb_url": "https://vndb.org/c60202"
+}

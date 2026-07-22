@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13383",
+  "type": "visual_novel",
+  "name": "Shadows In The Darkness",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A kinetic freeform poem.",
+  "source_sha256": "6131212b759c6dfa4bc24c64968cd3f7634ce9d0e145812351427fc40959f085",
+  "translation": "A kinetic freeform poem.",
+  "vndb_url": "https://vndb.org/v13383"
+}

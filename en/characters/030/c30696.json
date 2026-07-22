@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30696",
+  "type": "character",
+  "name": "Nerthus",
+  "original_name": "ネルトス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Named after Nerthus the sister of [url=https://en.wikipedia.org/wiki/Njörðr]Njörðr[/url]",
+  "source_sha256": "7e54b64dcc2a659425a741620a93de7fe173b554cd0aaad5d7ce84b29d0e7101",
+  "translation": "Named after Nerthus the sister of [url=https://en.wikipedia.org/wiki/Njörðr]Njörðr[/url]",
+  "vndb_url": "https://vndb.org/c30696"
+}

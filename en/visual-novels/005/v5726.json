@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5726",
+  "type": "visual_novel",
+  "name": "Sentimental Gensoukyou",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One day, Morichika Rinnosuke receives a mysterious letter. It contains only one word: \"Boredom\". He then sets out to find out who is behind this.",
+  "source_sha256": "f31852bf070becd086b066c51f7805e7731dda07f20a830d87c57b9db7c9df56",
+  "translation": "One day, Morichika Rinnosuke receives a mysterious letter. It contains only one word: \"Boredom\". He then sets out to find out who is behind this.",
+  "vndb_url": "https://vndb.org/v5726"
+}

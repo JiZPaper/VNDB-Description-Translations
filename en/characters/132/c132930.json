@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132930",
+  "type": "character",
+  "name": "Lady at Insem",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Member of staff at Insem, the governmental organization responsible for the management of births.",
+  "source_sha256": "aa4fa8dac03cccce9f529653206ab8de01c5b7ba069e9417c20bb9bb1f0d98ef",
+  "translation": "Member of staff at Insem, the governmental organization responsible for the management of births.",
+  "vndb_url": "https://vndb.org/c132930"
+}

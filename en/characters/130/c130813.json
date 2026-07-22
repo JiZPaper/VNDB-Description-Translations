@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130813",
+  "type": "character",
+  "name": "Kuruma",
+  "original_name": "車",
+  "language": "en",
+  "source_language": "en",
+  "source": "A male school teacher.",
+  "source_sha256": "a02376342fa30445f11bdbcdc49a4b66a06d463b04b0b5b68cc43939f3558f55",
+  "translation": "A male school teacher.",
+  "vndb_url": "https://vndb.org/c130813"
+}

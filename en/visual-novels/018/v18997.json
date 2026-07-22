@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18997",
+  "type": "visual_novel",
+  "name": "Akahon! Prototype IA",
+  "original_name": "あかほん! プロトタイプIA",
+  "language": "en",
+  "source_language": "en",
+  "source": "Exam preparation, learn vector math",
+  "source_sha256": "0ef4e64ebd3a15b1e1dc35dc950204f8d1311ab5bd4d1399f1f807a516231e65",
+  "translation": "Exam preparation, learn vector math",
+  "vndb_url": "https://vndb.org/v18997"
+}

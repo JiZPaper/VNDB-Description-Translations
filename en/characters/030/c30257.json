@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30257",
+  "type": "character",
+  "name": "D'Artagnan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The bassist in Jed's band.",
+  "source_sha256": "34dc2be953cf0327f15e64a8ed92196b640bc0fb02e9ab24879af527b6fcb6c9",
+  "translation": "The bassist in Jed's band.",
+  "vndb_url": "https://vndb.org/c30257"
+}

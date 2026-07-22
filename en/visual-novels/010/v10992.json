@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10992",
+  "type": "visual_novel",
+  "name": "Biniku no Kaori - Bangai Hen",
+  "original_name": "媚肉の香り 番外編",
+  "language": "en",
+  "source_language": "en",
+  "source": "Contains two extra stories - \"Ritsuko's sigh\" and \"Yuki's scent\".",
+  "source_sha256": "fb855c851b9e3b449574f0c4f1b72a21c720a2a328f3cad1b4e7955ef86a3b1b",
+  "translation": "Contains two extra stories - \"Ritsuko's sigh\" and \"Yuki's scent\".",
+  "vndb_url": "https://vndb.org/v10992"
+}

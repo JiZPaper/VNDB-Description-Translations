@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91836",
+  "type": "character",
+  "name": "Alice",
+  "original_name": "アリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fairy Tale: Alice in Wonderland\n\n[From [url=https://play.google.com/store/apps/details?id=info.otomedou.fwe.anotherprinceEn&hl=en_US&gl=US]Google Play[/url]]",
+  "source_sha256": "81c762b3acaa321fe2141c0e967aa8d91eab35148deaa1e923ac7c87b35f0296",
+  "translation": "Fairy Tale: Alice in Wonderland\n\n[From [url=https://play.google.com/store/apps/details?id=info.otomedou.fwe.anotherprinceEn&hl=en_US&gl=US]Google Play[/url]]",
+  "vndb_url": "https://vndb.org/c91836"
+}

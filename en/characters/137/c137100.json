@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137100",
+  "type": "character",
+  "name": "Angela",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is [url=https://vndb.org/c137065]Jennifer[/url]'s co-worker",
+  "source_sha256": "c4c4fd6878bf58af3573d55ff6c22db20d4f6202ea306994a1cb564fe9075ab8",
+  "translation": "She is [url=https://vndb.org/c137065]Jennifer[/url]'s co-worker",
+  "vndb_url": "https://vndb.org/c137100"
+}

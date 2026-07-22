@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20494",
+  "type": "visual_novel",
+  "name": "Mitsugoto",
+  "original_name": "密事",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Touken Ranbu fanfiction game.",
+  "source_sha256": "b97807183c554df5878c7d3997e521449acaa08e647a49db21b65eefc4f1122e",
+  "translation": "A Touken Ranbu fanfiction game.",
+  "vndb_url": "https://vndb.org/v20494"
+}

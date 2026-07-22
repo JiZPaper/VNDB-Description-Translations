@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65069",
+  "type": "character",
+  "name": "Mr. Walker",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A state senator and Mr. Wright's client.",
+  "source_sha256": "d892db0912c00da1f1c7c5e3d4dd7c2a7c8fb9a14c91e654baa29bfde1963e5e",
+  "translation": "A state senator and Mr. Wright's client.",
+  "vndb_url": "https://vndb.org/c65069"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70915",
+  "type": "character",
+  "name": "Abeno Yasuna",
+  "original_name": "阿部野 やすな",
+  "language": "en",
+  "source_language": "en",
+  "source": "Student in Takamichi's class.",
+  "source_sha256": "3b57ec707d4f34b451de778538daef0375e536dc87e7ab88664d377097264712",
+  "translation": "Student in Takamichi's class.",
+  "vndb_url": "https://vndb.org/c70915"
+}

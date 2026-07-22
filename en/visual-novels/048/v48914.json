@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48914",
+  "type": "visual_novel",
+  "name": "GREEN ~Akizora no Screen~ Gaiden Greenhorn",
+  "original_name": "GREEN～秋空のスクリーン～ 外伝 GREENHORN",
+  "language": "en",
+  "source_language": "en",
+  "source": "Official side story of GREEN ~Akizora no Screen~, with Mariko as the main heroine.",
+  "source_sha256": "f7402e0d08d7db87c14bea2b941de424222eaa08bc8e9748afbaf46acd04cc78",
+  "translation": "Official side story of GREEN ~Akizora no Screen~, with Mariko as the main heroine.",
+  "vndb_url": "https://vndb.org/v48914"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4698",
+  "type": "visual_novel",
+  "name": "DS Dengeki Bunko ADV: Baccano!",
+  "original_name": "DS電撃文庫ADV バッカーノ!",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on the two Grand Punk Railroad light novels, the game recounts the events aboard the Flying Pussyfoot train from multiple perspectives.The player's goal is to help the passengers arrive safely in New York City by selecting the correct choices. The game can conclude with one of about fifty scenarios, depending on the player's decisions.\n\nfrom Wikipedia",
+  "source_sha256": "c12fc626e2ceb9b23f4d05ecc9a2cec9ae40cbb6d1f4e847f49ce232222cc098",
+  "translation": "Based on the two Grand Punk Railroad light novels, the game recounts the events aboard the Flying Pussyfoot train from multiple perspectives.The player's goal is to help the passengers arrive safely in New York City by selecting the correct choices. The game can conclude with one of about fifty scenarios, depending on the player's decisions.\n\nfrom Wikipedia",
+  "vndb_url": "https://vndb.org/v4698"
+}

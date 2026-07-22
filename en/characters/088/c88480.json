@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88480",
+  "type": "character",
+  "name": "Victoria",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A university student that works as a part-time sports instructor. A possible romance option for Sophie.",
+  "source_sha256": "33839c97c344b73188ebdf806ecc076aeb0865774bbf05417bb0046f66d0f655",
+  "translation": "A university student that works as a part-time sports instructor. A possible romance option for Sophie.",
+  "vndb_url": "https://vndb.org/c88480"
+}

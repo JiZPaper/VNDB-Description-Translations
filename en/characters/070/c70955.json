@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70955",
+  "type": "character",
+  "name": "Gumslag",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A pirate ogre.",
+  "source_sha256": "dd5b6f53d1a380e7a1f8f4942f1b588b7dc22ea9e662052d0a2883de530895e1",
+  "translation": "A pirate ogre.",
+  "vndb_url": "https://vndb.org/c70955"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97815",
+  "type": "character",
+  "name": "Xander",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A powerful and mysterious mage working with the enemies of the king Frederick.",
+  "source_sha256": "a3997cfa68b4b5bac6b7fc2ed19ce5e34a224a64e2a6b93e9e38ae94c9e873ac",
+  "translation": "A powerful and mysterious mage working with the enemies of the king Frederick.",
+  "vndb_url": "https://vndb.org/c97815"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91761",
+  "type": "character",
+  "name": "Jackson Brown",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young man who had big dreams.",
+  "source_sha256": "94d22174191bd5f000074dc8b602d43743f008fd9d77f0ec331ce0c3308e7d64",
+  "translation": "A young man who had big dreams.",
+  "vndb_url": "https://vndb.org/c91761"
+}

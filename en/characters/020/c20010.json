@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20010",
+  "type": "character",
+  "name": "Law Yuelung",
+  "original_name": "ロウ・ユエルン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Chinese Needle Doctor of unknown age and gender.",
+  "source_sha256": "e54eae772c489a3e36effe1b14de4e8316327b3677f9bfbd89df99ee09a5c619",
+  "translation": "Chinese Needle Doctor of unknown age and gender.",
+  "vndb_url": "https://vndb.org/c20010"
+}

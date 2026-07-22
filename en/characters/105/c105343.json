@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105343",
+  "type": "character",
+  "name": "Sara",
+  "original_name": "サラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A young woman raised like a pearl by her father, the religious leader of the city.",
+  "source_sha256": "db585500566059421aabf2ac783077bd659442fb5150006a5b1e16f2675fc3ea",
+  "translation": "A young woman raised like a pearl by her father, the religious leader of the city.",
+  "vndb_url": "https://vndb.org/c105343"
+}

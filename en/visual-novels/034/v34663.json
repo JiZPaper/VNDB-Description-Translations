@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34663",
+  "type": "visual_novel",
+  "name": "Bridge Encounter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short story about talking to strangers.\n\n[From [url=https://omure.itch.io/bridge]itch.io[/url]]",
+  "source_sha256": "4fc05cfe0617d0f0217f95dda8bdc1d16211b7631e24ffebfd8f3a3f03ba92ae",
+  "translation": "A short story about talking to strangers.\n\n[From [url=https://omure.itch.io/bridge]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v34663"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51725",
+  "type": "character",
+  "name": "The Monk",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mysterious spirit of The Cathedral",
+  "source_sha256": "25c7f44b2cd2e67ae5a502647b61f51478fa51b6689ef93a27be08822629d4ca",
+  "translation": "Mysterious spirit of The Cathedral",
+  "vndb_url": "https://vndb.org/c51725"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42932",
+  "type": "visual_novel",
+  "name": "Baka Chan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A project made for a university assignment in 2021.\n\n[From [url=https://yehormisko.itch.io/baka-chan]Itch.io[/url]]",
+  "source_sha256": "e78ccfcd1e0db714062b688fd31a3cfccc190b8cd7d51fab305b4d2480711c5e",
+  "translation": "A project made for a university assignment in 2021.\n\n[From [url=https://yehormisko.itch.io/baka-chan]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v42932"
+}

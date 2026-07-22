@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48825",
+  "type": "visual_novel",
+  "name": "Winter Date",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Go on a winter themed date.",
+  "source_sha256": "3be47617d0fd686a68909b3d3e2374406a6846101ef0ddc25f3877cc0053b6f5",
+  "translation": "Go on a winter themed date.",
+  "vndb_url": "https://vndb.org/v48825"
+}

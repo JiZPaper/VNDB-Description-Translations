@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5377",
+  "type": "visual_novel",
+  "name": "Satorin Love Chu!",
+  "original_name": "さとりんらぶちゅ!",
+  "language": "en",
+  "source_language": "en",
+  "source": "Visual novel featuring Komeiji Satori from Touhou.",
+  "source_sha256": "ed7e41d80e1571480d8ffaa8ee4649c3d71d5b1258089e85ddb9a8ed6fa8410f",
+  "translation": "Visual novel featuring Komeiji Satori from Touhou.",
+  "vndb_url": "https://vndb.org/v5377"
+}

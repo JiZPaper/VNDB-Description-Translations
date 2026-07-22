@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65594",
+  "type": "visual_novel",
+  "name": "Metroid: ENF",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bounty hunter Samus Aran receives a request from the Galactic Federation to investigate a distress signal from an abandoned research facility on Planet XR-699, and is in return promised a pardon for her insubordination when she eliminated the X parasites during the events of Metroid Fusion.",
+  "source_sha256": "c3e1dc8487dbc6625db38d50821da4fa07c0e1d718ead945629bafa05e42b200",
+  "translation": "Bounty hunter Samus Aran receives a request from the Galactic Federation to investigate a distress signal from an abandoned research facility on Planet XR-699, and is in return promised a pardon for her insubordination when she eliminated the X parasites during the events of Metroid Fusion.",
+  "vndb_url": "https://vndb.org/v65594"
+}

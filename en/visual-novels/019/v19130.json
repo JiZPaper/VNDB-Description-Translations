@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19130",
+  "type": "visual_novel",
+  "name": "Translucent",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short story about a girl who meets people while she spends her summer vacations in a port.",
+  "source_sha256": "4a9d9c0a2ad92a699aeda8d53e91e3c644f3b2d16f32024478c597b4837cded4",
+  "translation": "A short story about a girl who meets people while she spends her summer vacations in a port.",
+  "vndb_url": "https://vndb.org/v19130"
+}

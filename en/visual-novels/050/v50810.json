@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50810",
+  "type": "visual_novel",
+  "name": "Little Man",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A man with a poor childhood tries his best to overcome and forget, but nightmares pursue them, and he feels he needs to do something, by finding an artifact that will give him a chance to fix his life and bring him a lot of fun.",
+  "source_sha256": "3a90a086a41e437fac330a41f452adca361cf7b4978ceecd3887bdfffdf85229",
+  "translation": "A man with a poor childhood tries his best to overcome and forget, but nightmares pursue them, and he feels he needs to do something, by finding an artifact that will give him a chance to fix his life and bring him a lot of fun.",
+  "vndb_url": "https://vndb.org/v50810"
+}

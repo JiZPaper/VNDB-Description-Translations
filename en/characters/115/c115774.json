@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115774",
+  "type": "character",
+  "name": "Rase",
+  "original_name": "レイス",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Original name assigned to the clone: \"Erase\", changed to \"Rase\" by eliminating the first syllable[/spoiler]",
+  "source_sha256": "4a4e54f9ecdf3c98ac0af8652b2255b1fbb412dd33e0477d619ba63f6b29d332",
+  "translation": "[spoiler]Original name assigned to the clone: \"Erase\", changed to \"Rase\" by eliminating the first syllable[/spoiler]",
+  "vndb_url": "https://vndb.org/c115774"
+}

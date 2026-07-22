@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161501",
+  "type": "character",
+  "name": "Research Institute Director",
+  "original_name": "研究所長",
+  "language": "en",
+  "source_language": "en",
+  "source": "An unnamed scientist who works on a secret weapon for Rokuhara in a hidden laboratory beneath Enoshima.",
+  "source_sha256": "ed490324e8dd074f372d0b47c418a53eec3e523d70d16951245dd427dc777e4a",
+  "translation": "An unnamed scientist who works on a secret weapon for Rokuhara in a hidden laboratory beneath Enoshima.",
+  "vndb_url": "https://vndb.org/c161501"
+}

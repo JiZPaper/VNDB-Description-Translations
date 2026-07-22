@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51982",
+  "type": "character",
+  "name": "Ninomiya Kimie",
+  "original_name": "二之宮 君枝",
+  "language": "en",
+  "source_language": "en",
+  "source": "The director of Ninomiya Hospital.",
+  "source_sha256": "c12af12b3f2350509a4f37e6eae68404c5e78cdf85805aed566cd5b671a34cec",
+  "translation": "The director of Ninomiya Hospital.",
+  "vndb_url": "https://vndb.org/c51982"
+}

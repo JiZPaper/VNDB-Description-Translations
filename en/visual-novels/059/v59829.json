@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59829",
+  "type": "visual_novel",
+  "name": "Selenite no Kodoku",
+  "original_name": "セレナイトの孤独",
+  "language": "en",
+  "source_language": "en",
+  "source": "A super short story about a summer NEET and an aquarium.",
+  "source_sha256": "59b063d237cb8a51f12845861756562e3fb124d319ea6e63043030a38fc80fe7",
+  "translation": "A super short story about a summer NEET and an aquarium.",
+  "vndb_url": "https://vndb.org/v59829"
+}

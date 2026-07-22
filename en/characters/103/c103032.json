@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103032",
+  "type": "character",
+  "name": "Alice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Twin sister to [url=/c103033]Alyssa[/url].",
+  "source_sha256": "ce30a9364f77c31c3d31f62837f81a3f4c2e4a8eab48ad8c0a5914a8acf4efe5",
+  "translation": "Twin sister to [url=/c103033]Alyssa[/url].",
+  "vndb_url": "https://vndb.org/c103032"
+}

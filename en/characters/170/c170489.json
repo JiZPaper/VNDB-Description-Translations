@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170489",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A nameable protagonist who's gender can be set to male or female. After a drowning incident, they moved from the city to their grandpa's farm for the summer.",
+  "source_sha256": "9f22a28e8e66489474ed461a303632103f61611d262c7f225bad2fd84ff5951d",
+  "translation": "A nameable protagonist who's gender can be set to male or female. After a drowning incident, they moved from the city to their grandpa's farm for the summer.",
+  "vndb_url": "https://vndb.org/c170489"
+}

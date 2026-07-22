@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150867",
+  "type": "character",
+  "name": "Barry Gardens",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fellow patient in the Ward. He suffers from anterograde amnesia, preventing him from remembering any recent events.\n\nIn Agatha's Agony, it is revealed to been caused by a tractor injury.",
+  "source_sha256": "11f10c18570427e74aa122c226833cc1f0a90d518a64afe2ccebf636ede39e79",
+  "translation": "A fellow patient in the Ward. He suffers from anterograde amnesia, preventing him from remembering any recent events.\n\nIn Agatha's Agony, it is revealed to been caused by a tractor injury.",
+  "vndb_url": "https://vndb.org/c150867"
+}

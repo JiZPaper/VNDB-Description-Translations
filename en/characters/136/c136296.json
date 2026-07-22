@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136296",
+  "type": "character",
+  "name": "Mr.Suit",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Real name: Jackson[/spoiler]",
+  "source_sha256": "546ac38de64a1fd04e07b39e5d3928a6ccb3db8b068f84caaeeb5b36142b9817",
+  "translation": "[spoiler]Real name: Jackson[/spoiler]",
+  "vndb_url": "https://vndb.org/c136296"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100611",
+  "type": "character",
+  "name": "Minai Haito",
+  "original_name": "御薬袋 ハイト",
+  "language": "en",
+  "source_language": "en",
+  "source": "Minai Haito is a student of Yusei Junior High School's class 2-1. He is an avid idol fan, and often skips class to attend live events.",
+  "source_sha256": "c9790d15942b61723e6bd268504ab607808dca248cf8a5365243e152f23bc604",
+  "translation": "Minai Haito is a student of Yusei Junior High School's class 2-1. He is an avid idol fan, and often skips class to attend live events.",
+  "vndb_url": "https://vndb.org/c100611"
+}

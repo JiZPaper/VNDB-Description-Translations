@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65492",
+  "type": "visual_novel",
+  "name": "First Date",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "First Date is a short story about a guy who returns to his hometown.\nHe meets a shy girl and takes her on a date that quickly gets hot and heavy.",
+  "source_sha256": "c5c921cf0a95a86644ab3d2103549d7d21345c62c0bff326e9da29c5902cd3ea",
+  "translation": "First Date is a short story about a guy who returns to his hometown.\nHe meets a shy girl and takes her on a date that quickly gets hot and heavy.",
+  "vndb_url": "https://vndb.org/v65492"
+}

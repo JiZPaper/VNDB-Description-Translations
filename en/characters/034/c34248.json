@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34248",
+  "type": "character",
+  "name": "Kindergarten director",
+  "original_name": "園長",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Director of Arisa's kindergarten.",
+  "source_sha256": "7f91cdd4ce0083539515f70b94f06b299fb2e70912da4301b70c82f9629701ca",
+  "translation": "The Director of Arisa's kindergarten.",
+  "vndb_url": "https://vndb.org/c34248"
+}

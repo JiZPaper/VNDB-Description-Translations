@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97445",
+  "type": "character",
+  "name": "Cerberus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Twin brother of Cerberos.",
+  "source_sha256": "ae3ed18c3ab66890c1fb86c16ac6ddd4dccfdd740d0625f5d33712ff6daccd34",
+  "translation": "Twin brother of Cerberos.",
+  "vndb_url": "https://vndb.org/c97445"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88858",
+  "type": "character",
+  "name": "King",
+  "original_name": "キング",
+  "language": "en",
+  "source_language": "en",
+  "source": "Job: Bartender\nBirthplace: France\nHobby: Collecting Wineglasses, Making Original Cocktails\nImportant Thing: Her little brother, Her pet cat Maron\nLikes: Vegetables, Wine\nHates: Indecent People\nSpecial Skill: Billiards",
+  "source_sha256": "8a347f942952319eba0f0e22449d6d22ad8b4242b5b7401b007df83cdb2fff5c",
+  "translation": "Job: Bartender\nBirthplace: France\nHobby: Collecting Wineglasses, Making Original Cocktails\nImportant Thing: Her little brother, Her pet cat Maron\nLikes: Vegetables, Wine\nHates: Indecent People\nSpecial Skill: Billiards",
+  "vndb_url": "https://vndb.org/c88858"
+}

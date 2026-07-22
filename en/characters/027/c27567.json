@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c27567",
+  "type": "character",
+  "name": "Vinfred Forlow",
+  "original_name": "Винфред Лоу",
+  "language": "en",
+  "source_language": "en",
+  "source": "A jeweller who crafts jewellery for nobles.",
+  "source_sha256": "11f58b6565cfb53fae004a513a5cdc8123e7ce32b89c73b44f23cbf2fe397264",
+  "translation": "A jeweller who crafts jewellery for nobles.",
+  "vndb_url": "https://vndb.org/c27567"
+}

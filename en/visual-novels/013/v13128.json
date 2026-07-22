@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13128",
+  "type": "visual_novel",
+  "name": "Alt+Happiness",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Persona 4 parody, with focus on Adachi in which he becomes Dojima's wife.",
+  "source_sha256": "7b1d7d8ad57873b62e952fb05759dda541346ae355f25232622abb85f1bdd6e6",
+  "translation": "A Persona 4 parody, with focus on Adachi in which he becomes Dojima's wife.",
+  "vndb_url": "https://vndb.org/v13128"
+}

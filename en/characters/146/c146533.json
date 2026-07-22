@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146533",
+  "type": "character",
+  "name": "Hanako",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Friend of the MC who recently passed away",
+  "source_sha256": "dac2ae7d108510c203e1a013e012b7146f43b69bd0517c2facce02546cc3acf3",
+  "translation": "Friend of the MC who recently passed away",
+  "vndb_url": "https://vndb.org/c146533"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16662",
+  "type": "visual_novel",
+  "name": "Densetsu no Emma to Dragon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Emma wakes to find her town on fire!  What does she do now?\n\nCreated for Global Game Jam 2015.",
+  "source_sha256": "3c219784f443edb9d02c206c70d202424bd3e289de5b164ccd9f5fbadb19f949",
+  "translation": "Emma wakes to find her town on fire!  What does she do now?\n\nCreated for Global Game Jam 2015.",
+  "vndb_url": "https://vndb.org/v16662"
+}

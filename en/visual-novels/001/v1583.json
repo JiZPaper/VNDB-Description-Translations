@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1583",
+  "type": "visual_novel",
+  "name": "Wrigglui",
+  "original_name": "リグルイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Game centers around Wriggle Nightbug of Touhou fandom.",
+  "source_sha256": "56c7f0beb7fccb5f808930336dd2f5a48d641eb5de926b7e9a103ba5e114a331",
+  "translation": "Game centers around Wriggle Nightbug of Touhou fandom.",
+  "vndb_url": "https://vndb.org/v1583"
+}

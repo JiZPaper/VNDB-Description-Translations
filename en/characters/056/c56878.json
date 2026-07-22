@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c56878",
+  "type": "character",
+  "name": "Nai",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "President of the Devtalk club.",
+  "source_sha256": "be3eefcdccca5444059d1f4202da1979f4efad7f28583d4ecae4e705c76d2cb4",
+  "translation": "President of the Devtalk club.",
+  "vndb_url": "https://vndb.org/c56878"
+}

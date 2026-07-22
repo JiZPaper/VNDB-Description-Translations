@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15832",
+  "type": "visual_novel",
+  "name": "A Lonely Cat",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A cat adjusts to life without his caretakers around.  \n\n[From [url=http://bassnovel.com/games.php?t=name&cid=mia558]BASSNovel[/url]]",
+  "source_sha256": "871647e96e288f0626b902611d72d405533a173c3f0487d999b309349e1fd8bf",
+  "translation": "A cat adjusts to life without his caretakers around.  \n\n[From [url=http://bassnovel.com/games.php?t=name&cid=mia558]BASSNovel[/url]]",
+  "vndb_url": "https://vndb.org/v15832"
+}

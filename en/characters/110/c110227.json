@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110227",
+  "type": "character",
+  "name": "Sayuri",
+  "original_name": "サユリ",
+  "language": "en",
+  "source_language": "en",
+  "source": "An android modeled after the protagonist's fiancee Sayuri.",
+  "source_sha256": "ef421f5381a7a2181951b7abbf1f501fc7a37bf3c90e2b7631c1da38142727b4",
+  "translation": "An android modeled after the protagonist's fiancee Sayuri.",
+  "vndb_url": "https://vndb.org/c110227"
+}

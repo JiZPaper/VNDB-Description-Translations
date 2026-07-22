@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75525",
+  "type": "character",
+  "name": "Ink",
+  "original_name": "インク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cat breed: Maine Coon",
+  "source_sha256": "6bb58ffbeb880b204388f17b69860ff67dc8710ba6c5df73853fac915b0ab5bb",
+  "translation": "Cat breed: Maine Coon",
+  "vndb_url": "https://vndb.org/c75525"
+}

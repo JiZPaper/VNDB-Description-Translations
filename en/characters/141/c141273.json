@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141273",
+  "type": "character",
+  "name": "Kujirai",
+  "original_name": "鯨井",
+  "language": "en",
+  "source_language": "en",
+  "source": "A detective at the Shibuya Central Police Station.",
+  "source_sha256": "1bff93d4db109a8ae8cbbfdc1b05ee3dbbf34537abb7bdd523bfad283d5fd9d0",
+  "translation": "A detective at the Shibuya Central Police Station.",
+  "vndb_url": "https://vndb.org/c141273"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15216",
+  "type": "visual_novel",
+  "name": "Scratch",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A game of extreme teen angst!\n\nCreated for [url=http://www.ludumdare.com/compo/2014/04/23/welcome-to-ludum-dare-29er/]Ludum Dare 29[/url].",
+  "source_sha256": "65d18cb7c6cf283f7420146e963d9f492a552b83ccb5d558be967d54af926af0",
+  "translation": "A game of extreme teen angst!\n\nCreated for [url=http://www.ludumdare.com/compo/2014/04/23/welcome-to-ludum-dare-29er/]Ludum Dare 29[/url].",
+  "vndb_url": "https://vndb.org/v15216"
+}

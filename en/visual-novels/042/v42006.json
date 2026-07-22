@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42006",
+  "type": "visual_novel",
+  "name": "Scaramouche Wanderer Date",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Date simulator with Scaramouch Wanderer.",
+  "source_sha256": "774d7f24bd0be05bc77ff2db7a130b92c9787dbc210e99e239cf1e66e956c9eb",
+  "translation": "Date simulator with Scaramouch Wanderer.",
+  "vndb_url": "https://vndb.org/v42006"
+}

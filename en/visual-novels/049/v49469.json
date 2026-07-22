@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49469",
+  "type": "visual_novel",
+  "name": "A Companion",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A very short visual novel about a person who finds something.\n\n[From [url=https://emergencybattle.itch.io/a-companion]Itch.io[/url]]",
+  "source_sha256": "cfcb436c4d5a0fd701477d6453856671bf15ee6b6f1539a9a4c0179a994a89db",
+  "translation": "A very short visual novel about a person who finds something.\n\n[From [url=https://emergencybattle.itch.io/a-companion]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v49469"
+}

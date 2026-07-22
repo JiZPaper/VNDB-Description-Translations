@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120849",
+  "type": "character",
+  "name": "Moris",
+  "original_name": "モーリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "He's Alan's boss and gives him orders in a restaurant or through mail.",
+  "source_sha256": "d461e668bdb5dd472bcf03f273f4d69cf38ef3d0b63cd3df28ab9059503524b9",
+  "translation": "He's Alan's boss and gives him orders in a restaurant or through mail.",
+  "vndb_url": "https://vndb.org/c120849"
+}

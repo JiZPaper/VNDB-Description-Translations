@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16395",
+  "type": "visual_novel",
+  "name": "Kimi to Boku to Kireigoto",
+  "original_name": "きみとぼくときれいごと",
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about Shintarou, an average student, and his best friend Akino.",
+  "source_sha256": "72ea07797cf767af640d60cafb99c084459b972763a74a33287da13b54e7aa41",
+  "translation": "A story about Shintarou, an average student, and his best friend Akino.",
+  "vndb_url": "https://vndb.org/v16395"
+}

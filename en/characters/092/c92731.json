@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92731",
+  "type": "character",
+  "name": "Cora Danvers",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An eccentric woman living alone in an old cottage near the sea.",
+  "source_sha256": "026c403b1609508bfade5b482138fcafb0f468018605066327c735a396b4e747",
+  "translation": "An eccentric woman living alone in an old cottage near the sea.",
+  "vndb_url": "https://vndb.org/c92731"
+}

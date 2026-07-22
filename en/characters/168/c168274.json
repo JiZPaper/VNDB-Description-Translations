@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168274",
+  "type": "character",
+  "name": "Lambchop",
+  "original_name": "ラムチョップ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Head butler of the Grand Palace.\n\nPrincess Guinevere's loyal and capable servant.\n\nHe always carries a detailed notebook of visitors with him.",
+  "source_sha256": "114ab751966567423e39ec39332c66669de1487a7752dbee8f425ea38894e687",
+  "translation": "Head butler of the Grand Palace.\n\nPrincess Guinevere's loyal and capable servant.\n\nHe always carries a detailed notebook of visitors with him.",
+  "vndb_url": "https://vndb.org/c168274"
+}

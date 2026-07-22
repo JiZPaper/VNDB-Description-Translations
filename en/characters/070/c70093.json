@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70093",
+  "type": "character",
+  "name": "Gasparo",
+  "original_name": "ガスパロ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Luce's father.",
+  "source_sha256": "b890cedae15566dbe908aca343483fec50b45d0418a25ec2f25da0ead675c523",
+  "translation": "Luce's father.",
+  "vndb_url": "https://vndb.org/c70093"
+}

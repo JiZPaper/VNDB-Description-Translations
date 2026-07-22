@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123886",
+  "type": "character",
+  "name": "Nicholas Oldman",
+  "original_name": "ニコラス オールドマンと",
+  "language": "en",
+  "source_language": "en",
+  "source": "He's the priest of the church.",
+  "source_sha256": "b2167fba9b9e081635e70ebd3d812cee6691f1976bfd5eb1fc33028466a0be67",
+  "translation": "He's the priest of the church.",
+  "vndb_url": "https://vndb.org/c123886"
+}

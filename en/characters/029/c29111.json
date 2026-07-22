@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29111",
+  "type": "character",
+  "name": "Ken",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "His house burns down.",
+  "source_sha256": "8a0b2f95d81ec93906272f435f798aa48b8d55655aa176b5d4a40be843ddb8d9",
+  "translation": "His house burns down.",
+  "vndb_url": "https://vndb.org/c29111"
+}

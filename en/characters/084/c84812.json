@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84812",
+  "type": "character",
+  "name": "Bob Miststück",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ground engineer serving on the Intrepid. Ex-infantry.",
+  "source_sha256": "736a75879a2e1008306a0fed2f3c8704335d46d83a623f396bd7d30c45992864",
+  "translation": "Ground engineer serving on the Intrepid. Ex-infantry.",
+  "vndb_url": "https://vndb.org/c84812"
+}

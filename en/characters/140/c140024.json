@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140024",
+  "type": "character",
+  "name": "Angel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A front desk secretary at a modeling agency.",
+  "source_sha256": "64fc97d65572ecfa5edaf52f71a5598b55e5dfca4a65a72d90e96ba41934039b",
+  "translation": "A front desk secretary at a modeling agency.",
+  "vndb_url": "https://vndb.org/c140024"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96199",
+  "type": "character",
+  "name": "Harry Cromwell",
+  "original_name": "ハル＝クロムウェル",
+  "language": "en",
+  "source_language": "en",
+  "source": "The book-smart butler.",
+  "source_sha256": "9b96cf2cbc6c33a642f499554fa78dfc06fc3331a1bf3b80a072805aba177891",
+  "translation": "The book-smart butler.",
+  "vndb_url": "https://vndb.org/c96199"
+}

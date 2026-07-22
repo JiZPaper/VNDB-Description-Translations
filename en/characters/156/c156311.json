@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156311",
+  "type": "character",
+  "name": "Ann",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The camp gym coach",
+  "source_sha256": "851d1dc3ea0d93a6751da664d634f4e8f02d8545a1a5efa9500496fa89f51c45",
+  "translation": "The camp gym coach",
+  "vndb_url": "https://vndb.org/c156311"
+}

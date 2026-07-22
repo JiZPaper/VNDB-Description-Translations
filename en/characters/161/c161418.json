@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161418",
+  "type": "character",
+  "name": "Afollyon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A strange magical girl who doesn't want to fight.",
+  "source_sha256": "259009f23544f6ec8350987221983b34511d6779ef8ffb49ca84a301b90ea788",
+  "translation": "A strange magical girl who doesn't want to fight.",
+  "vndb_url": "https://vndb.org/c161418"
+}

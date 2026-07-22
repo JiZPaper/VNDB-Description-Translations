@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4130",
+  "type": "character",
+  "name": "Lee Weiding",
+  "original_name": "李 魏丁",
+  "language": "en",
+  "source_language": "en",
+  "source": "B class detective from China.",
+  "source_sha256": "5e640cc35a03b7c1e440f2879cc3eb5ce175be5b1c6b1f67c01e5fe666e55925",
+  "translation": "B class detective from China.",
+  "vndb_url": "https://vndb.org/c4130"
+}

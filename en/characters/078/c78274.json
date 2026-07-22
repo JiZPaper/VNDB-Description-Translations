@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c78274",
+  "type": "character",
+  "name": "Cosette",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I'm gonna run this place one day.\"",
+  "source_sha256": "c6fd57e24c64c3ea84c74c06e6216a11f417dad5646992311c1de39dccec87b5",
+  "translation": "\"I'm gonna run this place one day.\"",
+  "vndb_url": "https://vndb.org/c78274"
+}

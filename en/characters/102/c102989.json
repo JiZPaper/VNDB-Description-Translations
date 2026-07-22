@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102989",
+  "type": "character",
+  "name": "Leah",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Leah is actually [i]Nightingale[/i], an informant. She enjoys putting herself into dangerous situations. [/spoiler]",
+  "source_sha256": "0c9b29a24219ebafed7bc70ea58c9c697fdf3bd1a8fe499798ada80b0e410a97",
+  "translation": "[spoiler]Leah is actually [i]Nightingale[/i], an informant. She enjoys putting herself into dangerous situations. [/spoiler]",
+  "vndb_url": "https://vndb.org/c102989"
+}

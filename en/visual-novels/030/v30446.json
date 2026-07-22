@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30446",
+  "type": "visual_novel",
+  "name": "James White Simulator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The game tells us about the average day in the life of our protagonist, James White, who is based off of the game's creator James Cage White.",
+  "source_sha256": "73360fa61711e8bdd4c2504b6e93af2fda1af95683c144c8782a31c5634d518b",
+  "translation": "The game tells us about the average day in the life of our protagonist, James White, who is based off of the game's creator James Cage White.",
+  "vndb_url": "https://vndb.org/v30446"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19962",
+  "type": "visual_novel",
+  "name": "Love Live! Visual Novel Project",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Imagine a world where you help μ's save Otonokizaka High School by dating the girl of your choice. And yes, they'll be your schoolmates.",
+  "source_sha256": "f41cf3f529235788673d69a998b61977384b61a8a0f5614a97daced363087f80",
+  "translation": "Imagine a world where you help μ's save Otonokizaka High School by dating the girl of your choice. And yes, they'll be your schoolmates.",
+  "vndb_url": "https://vndb.org/v19962"
+}

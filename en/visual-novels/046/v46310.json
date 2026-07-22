@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46310",
+  "type": "visual_novel",
+  "name": "Ayaka-chan High Kick",
+  "original_name": "綾香ちゃんハイキック",
+  "language": "en",
+  "source_language": "en",
+  "source": "toheart's fan game",
+  "source_sha256": "ba054b714803f3cd7ea5acbc63e7567edab9e3023715ccafbc09797f5728d17f",
+  "translation": "toheart's fan game",
+  "vndb_url": "https://vndb.org/v46310"
+}

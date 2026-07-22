@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99668",
+  "type": "character",
+  "name": "Yazawa",
+  "original_name": "矢沢",
+  "language": "en",
+  "source_language": "en",
+  "source": "Anzu's pet kitten. She claims it's her emergency food.",
+  "source_sha256": "532483d170d6bb2513822de533b77daa317cd3968e6fae75795473f0bf7831cd",
+  "translation": "Anzu's pet kitten. She claims it's her emergency food.",
+  "vndb_url": "https://vndb.org/c99668"
+}

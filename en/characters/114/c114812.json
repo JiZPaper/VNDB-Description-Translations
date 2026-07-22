@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c114812",
+  "type": "character",
+  "name": "Scarecrow",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A scarecrow brought to life by Amarinthe's magic.",
+  "source_sha256": "9a7606a3aa367a0da524e531b3280c12d81f9a6554bd48a5773babfc3f71ebd5",
+  "translation": "A scarecrow brought to life by Amarinthe's magic.",
+  "vndb_url": "https://vndb.org/c114812"
+}

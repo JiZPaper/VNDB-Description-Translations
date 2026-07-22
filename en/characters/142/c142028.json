@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c142028",
+  "type": "character",
+  "name": "Ruby",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"To help jump-start her life, Ruby temporarily joined the traveling entertainers.\"",
+  "source_sha256": "dcc90b553dcdbc8f4b0509fc269c26f0b8017cf3da8b6744cdfdde8dc41fb1ef",
+  "translation": "\"To help jump-start her life, Ruby temporarily joined the traveling entertainers.\"",
+  "vndb_url": "https://vndb.org/c142028"
+}

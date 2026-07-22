@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c58026",
+  "type": "character",
+  "name": "Vincent Kasper",
+  "original_name": "ヴィンセント=キャスパー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes: Soft Food\nDislikes: Spicy Food",
+  "source_sha256": "41ae2a678cf6a471d951591dea597da5a1b7a5d8ef2588f1418aa7355821067e",
+  "translation": "Likes: Soft Food\nDislikes: Spicy Food",
+  "vndb_url": "https://vndb.org/c58026"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48195",
+  "type": "character",
+  "name": "Tigg",
+  "original_name": "ティグ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kia's German Shepherd.",
+  "source_sha256": "3eb762aae17128e9dd45f17430b9b0d75bfa35f825bbc353bfef07127b760052",
+  "translation": "Kia's German Shepherd.",
+  "vndb_url": "https://vndb.org/c48195"
+}

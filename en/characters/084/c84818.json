@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84818",
+  "type": "character",
+  "name": "Trisha Jones",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Geologist on Ophion.",
+  "source_sha256": "a64d9060104781b83a48495d17ac82836b819169a8029ad70fd339fbd89023fc",
+  "translation": "Geologist on Ophion.",
+  "vndb_url": "https://vndb.org/c84818"
+}

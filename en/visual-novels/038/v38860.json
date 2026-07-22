@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38860",
+  "type": "visual_novel",
+  "name": "Maximum Days ~The Final Chapter~",
+  "original_name": "マキシマムデイズ～The Final Chapter～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Follows the events of Rikka's route from Maximum Days.",
+  "source_sha256": "fca14b508baa77dfc2c79e366a4c97077d446049ea3c15c1e06acaa440b3c819",
+  "translation": "Follows the events of Rikka's route from Maximum Days.",
+  "vndb_url": "https://vndb.org/v38860"
+}

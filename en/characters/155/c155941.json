@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155941",
+  "type": "character",
+  "name": "Braxton",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A student at Nicole's school.",
+  "source_sha256": "24a579af558982c6d0ab60b4bdee9b24f3694e1c3a8c32dd610ad4e13eb318db",
+  "translation": "A student at Nicole's school.",
+  "vndb_url": "https://vndb.org/c155941"
+}

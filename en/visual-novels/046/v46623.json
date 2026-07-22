@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46623",
+  "type": "visual_novel",
+  "name": "Maybe The Riding Hood Tale",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A retelling of a famous tale (or maybe not).",
+  "source_sha256": "6a87ab4ef1960389ed8b361d67f711b432ef8836adf949f6baf1b4598d851305",
+  "translation": "A retelling of a famous tale (or maybe not).",
+  "vndb_url": "https://vndb.org/v46623"
+}

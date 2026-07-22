@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133523",
+  "type": "character",
+  "name": "Grandma",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's step-grandma.",
+  "source_sha256": "ce05f180f6b17a6c66de284608386ee0ecfdb8cbe4889240b6d279f9b5c7ddb5",
+  "translation": "The protagonist's step-grandma.",
+  "vndb_url": "https://vndb.org/c133523"
+}

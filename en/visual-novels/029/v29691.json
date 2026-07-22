@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29691",
+  "type": "visual_novel",
+  "name": "Midnight's Fall",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A superhero corruption story.",
+  "source_sha256": "c7f664adee6cbfc1344285cdb4ab8e66edb84cca94a388cf3762dbced9179657",
+  "translation": "A superhero corruption story.",
+  "vndb_url": "https://vndb.org/v29691"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c144667",
+  "type": "character",
+  "name": "Mr. Gap",
+  "original_name": "隙間の男",
+  "language": "en",
+  "source_language": "en",
+  "source": "He appears anywhere as long as there is a reasonable gap.",
+  "source_sha256": "dd89926109c241a3ac92f999b21701df9567f414cf64d3accba9da17c4432b0a",
+  "translation": "He appears anywhere as long as there is a reasonable gap.",
+  "vndb_url": "https://vndb.org/c144667"
+}

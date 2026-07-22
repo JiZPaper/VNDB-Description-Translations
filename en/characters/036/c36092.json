@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36092",
+  "type": "character",
+  "name": "Cleo Rada",
+  "original_name": "クレオ・ラーダ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Dark Elf \nOccupation: Marioneita",
+  "source_sha256": "d6b0c6106efbdeb230ac514b82a63ac60a4a903a0f1972e048038eadda21cb67",
+  "translation": "Race: Dark Elf \nOccupation: Marioneita",
+  "vndb_url": "https://vndb.org/c36092"
+}

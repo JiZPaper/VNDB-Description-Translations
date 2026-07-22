@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c7008",
+  "type": "character",
+  "name": "Nogami Saho",
+  "original_name": "野上 沙穂",
+  "language": "en",
+  "source_language": "en",
+  "source": "Security guard.",
+  "source_sha256": "123d68fb5b55bd4a7d11c7584c3eec841b571e332deb7f8b876a398fccab281e",
+  "translation": "Security guard.",
+  "vndb_url": "https://vndb.org/c7008"
+}

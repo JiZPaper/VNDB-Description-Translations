@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30156",
+  "type": "character",
+  "name": "Zero",
+  "original_name": "ゼロ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A top secret member of the J Guardians.",
+  "source_sha256": "2c4d2c282bfc725896682ca9969ff2999d295cba8f16b720016a2277fa96fb87",
+  "translation": "A top secret member of the J Guardians.",
+  "vndb_url": "https://vndb.org/c30156"
+}

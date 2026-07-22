@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4111",
+  "type": "visual_novel",
+  "name": "Digital: A Love Story",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short VN presented almost entirely through BBS conversations.",
+  "source_sha256": "a490aab8d287939ce79c992339b1831e1f56286cdde3c43c31bb1aa296cb5294",
+  "translation": "A short VN presented almost entirely through BBS conversations.",
+  "vndb_url": "https://vndb.org/v4111"
+}

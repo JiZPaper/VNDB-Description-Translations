@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95095",
+  "type": "character",
+  "name": "Osakabe",
+  "original_name": "忍壁",
+  "language": "en",
+  "source_language": "en",
+  "source": "Guardian of the twins.",
+  "source_sha256": "ce54be31f62abfad8c4cee1ccb413a96532364886ddd278d0f23131d2248b99e",
+  "translation": "Guardian of the twins.",
+  "vndb_url": "https://vndb.org/c95095"
+}

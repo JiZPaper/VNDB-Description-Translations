@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96837",
+  "type": "character",
+  "name": "Robert Shallow",
+  "original_name": "ロバート・シャロー",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]His true name is actually [url=https://en.wikipedia.org/wiki/Dagonet]Dagonet[/url].[spoiler]",
+  "source_sha256": "eb9f251e703560c5078f8bcb39ef39d86b9aa70a156a353be34a6c2d4bf87d87",
+  "translation": "[spoiler]His true name is actually [url=https://en.wikipedia.org/wiki/Dagonet]Dagonet[/url].[spoiler]",
+  "vndb_url": "https://vndb.org/c96837"
+}

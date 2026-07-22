@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c32660",
+  "type": "character",
+  "name": "General Pucchi",
+  "original_name": "ジェネラル・プッチ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Damn impertinent youths! Don't 'waa' at me!!!\"\nGeneral of the \"Kingdom Knights\", Kingdom's only military organization.\nHe bears some resentment towards Prime Minister Sharon.",
+  "source_sha256": "5a00960ad6d16cc240b148ac3e5c3f5b1e33dfc362d506ffb026e32e70790754",
+  "translation": "\"Damn impertinent youths! Don't 'waa' at me!!!\"\nGeneral of the \"Kingdom Knights\", Kingdom's only military organization.\nHe bears some resentment towards Prime Minister Sharon.",
+  "vndb_url": "https://vndb.org/c32660"
+}

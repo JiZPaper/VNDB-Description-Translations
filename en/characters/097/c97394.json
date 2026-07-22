@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97394",
+  "type": "character",
+  "name": "Archer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An archer of Doronium.",
+  "source_sha256": "f36db802fe267301dc3af0644b9ca64e52e0522cb837ab5e3ad91f6be28b6750",
+  "translation": "An archer of Doronium.",
+  "vndb_url": "https://vndb.org/c97394"
+}

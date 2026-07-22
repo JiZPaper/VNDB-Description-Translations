@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c144516",
+  "type": "character",
+  "name": "Mr. Scarletella",
+  "original_name": "赤い傘の男",
+  "language": "en",
+  "source_language": "en",
+  "source": "A tall apparition with a red umbrella and trench coat who chases the protagonist.",
+  "source_sha256": "bd524da9d21a1a9170b8107e63977491fb6030d4b288161c7bc4686554c0aa47",
+  "translation": "A tall apparition with a red umbrella and trench coat who chases the protagonist.",
+  "vndb_url": "https://vndb.org/c144516"
+}

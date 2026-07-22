@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96160",
+  "type": "character",
+  "name": "Lawyer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Maia's lawyer",
+  "source_sha256": "231bd27cf6fca64e7c7f7b6618c93c64d8e67ef46667637ebda93ad34a772311",
+  "translation": "Maia's lawyer",
+  "vndb_url": "https://vndb.org/c96160"
+}

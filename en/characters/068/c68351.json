@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c68351",
+  "type": "character",
+  "name": "Daisuke Chiba",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The star player of the Tokyo FC soccer team.",
+  "source_sha256": "09eb73bd49f7b1e7b2e26f32f05cba87f25e6e772d7c24a3ffe9b751b26585da",
+  "translation": "The star player of the Tokyo FC soccer team.",
+  "vndb_url": "https://vndb.org/c68351"
+}

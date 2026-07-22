@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87640",
+  "type": "character",
+  "name": "Kloun",
+  "original_name": "クルーン",
+  "language": "en",
+  "source_language": "en",
+  "source": "An enigmatic jester who grants Salthe a chance to return to life from the liminal stage. Professes to be Salthe's friend, but never drops a theatrical facade.",
+  "source_sha256": "105f7b88c6e989199b702550542177ca035e3f9ae5391132535579c6e1d42b2d",
+  "translation": "An enigmatic jester who grants Salthe a chance to return to life from the liminal stage. Professes to be Salthe's friend, but never drops a theatrical facade.",
+  "vndb_url": "https://vndb.org/c87640"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88098",
+  "type": "character",
+  "name": "Rufus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dog that Ronnie finds.",
+  "source_sha256": "e8eca5340a0f7567e0d3f6ff565fc7939dbe9f990e4300b86f42e520c8047d8e",
+  "translation": "A dog that Ronnie finds.",
+  "vndb_url": "https://vndb.org/c88098"
+}

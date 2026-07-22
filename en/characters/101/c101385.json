@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101385",
+  "type": "character",
+  "name": "Elise",
+  "original_name": "エリーゼ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A female naval officer who tries to destroy the pirates.\nShe is sincere, capable, and stoic.\nShe hates pirates who behave according to their desires.",
+  "source_sha256": "7e71ce65fcde5a37a416cbf5f2f7f81702c2ef5cb78dde5708b35a66cda02ebe",
+  "translation": "A female naval officer who tries to destroy the pirates.\nShe is sincere, capable, and stoic.\nShe hates pirates who behave according to their desires.",
+  "vndb_url": "https://vndb.org/c101385"
+}

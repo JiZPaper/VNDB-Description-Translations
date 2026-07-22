@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90354",
+  "type": "character",
+  "name": "Nameable Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The customizable protagonist you can play as.\nHe's a nice guy, right?",
+  "source_sha256": "fa1997d1b58cadb1503ad588a59da138d613e182bbdf68cc78297c1ba1a211ce",
+  "translation": "The customizable protagonist you can play as.\nHe's a nice guy, right?",
+  "vndb_url": "https://vndb.org/c90354"
+}

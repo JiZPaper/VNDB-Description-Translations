@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c56394",
+  "type": "character",
+  "name": "Radius",
+  "original_name": "レディアス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Alfredo's older brother.",
+  "source_sha256": "37d48cbf68f4df2f468fae259201656093b5097ce8d7ed04dbd2bf3d89741fcc",
+  "translation": "Alfredo's older brother.",
+  "vndb_url": "https://vndb.org/c56394"
+}

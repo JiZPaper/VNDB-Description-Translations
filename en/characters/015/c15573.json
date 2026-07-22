@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15573",
+  "type": "character",
+  "name": "Khan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Alpha Golem.",
+  "source_sha256": "b353ab07c9581dc2f20f08915b1ed583766eb28730143da3049a72219095b1cc",
+  "translation": "Alpha Golem.",
+  "vndb_url": "https://vndb.org/c15573"
+}

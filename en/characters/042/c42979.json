@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42979",
+  "type": "character",
+  "name": "Sakurai Souichirou",
+  "original_name": "櫻井 宗一郎",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist who is able to see when somebody lies. As player, you're able to see the lies via red stylized text.",
+  "source_sha256": "310d05b6c8beae7918ac2c7cf8ed1becc275ea335a8d1514265b31d4e45948ae",
+  "translation": "The protagonist who is able to see when somebody lies. As player, you're able to see the lies via red stylized text.",
+  "vndb_url": "https://vndb.org/c42979"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110005",
+  "type": "character",
+  "name": "Nia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A talented author.",
+  "source_sha256": "9833230708c46db9396b1b1ad40e0a6af601e20895d1d2fc8f0672f144865764",
+  "translation": "A talented author.",
+  "vndb_url": "https://vndb.org/c110005"
+}

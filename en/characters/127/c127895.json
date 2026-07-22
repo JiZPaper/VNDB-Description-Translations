@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127895",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]The protagonist of the unlockable Saiki route.[/spoiler]",
+  "source_sha256": "032a6641b92635483f5bee27b4d0705623c1cc6001699c8da9cde90bdda42963",
+  "translation": "[spoiler]The protagonist of the unlockable Saiki route.[/spoiler]",
+  "vndb_url": "https://vndb.org/c127895"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103527",
+  "type": "character",
+  "name": "Kiko",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A maid Katherine hired to prepare food, after Mary leaves.",
+  "source_sha256": "d365ab4366b451d2f613744ede407553b7a6b9a86afa62398b2c63c689f63593",
+  "translation": "A maid Katherine hired to prepare food, after Mary leaves.",
+  "vndb_url": "https://vndb.org/c103527"
+}

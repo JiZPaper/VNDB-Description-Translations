@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66401",
+  "type": "visual_novel",
+  "name": "Istoriya Fox'a",
+  "original_name": "История Fox'a",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is the story of a 17-year-old reclusive student named Vladislav. One day, he ends up in the Sovyonok camp. What adventures await him there?\n\n[Translated from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1501629077]Steam[/url]]",
+  "source_sha256": "9ddcd8a9b2dcef0513da690c97aecd9153ce08d67b6c301b017e4a0fd4cc12cb",
+  "translation": "This is the story of a 17-year-old reclusive student named Vladislav. One day, he ends up in the Sovyonok camp. What adventures await him there?\n\n[Translated from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1501629077]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v66401"
+}

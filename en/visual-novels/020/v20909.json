@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20909",
+  "type": "visual_novel",
+  "name": "Makoto Mobius",
+  "original_name": "まことメビウス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Watarou, the main character, and Makoto, the girl who sits next to him, are classmates who have never really spoken to each other.\nOne day, Makoto suddenly passes away.\nWatarou uses Mobius’ help to try and save her, but…",
+  "source_sha256": "9777fd203274eddfec5cb2574b69ca68e1135ea55f2c6fe1af54b7359ec8414d",
+  "translation": "Watarou, the main character, and Makoto, the girl who sits next to him, are classmates who have never really spoken to each other.\nOne day, Makoto suddenly passes away.\nWatarou uses Mobius’ help to try and save her, but…",
+  "vndb_url": "https://vndb.org/v20909"
+}

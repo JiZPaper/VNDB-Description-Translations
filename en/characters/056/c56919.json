@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c56919",
+  "type": "character",
+  "name": "Sally Hawkins",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sally is [url=https://vndb.org/c56920]Robin[/url]'s wife. Their marriage is under strain.",
+  "source_sha256": "2e911200e0f70716e28d0026a80aa022cd62a4091fc7890d3e69626aa22b2b85",
+  "translation": "Sally is [url=https://vndb.org/c56920]Robin[/url]'s wife. Their marriage is under strain.",
+  "vndb_url": "https://vndb.org/c56919"
+}

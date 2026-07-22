@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c1919",
+  "type": "character",
+  "name": "Katou Aoi",
+  "original_name": "加藤 あおい",
+  "language": "en",
+  "source_language": "en",
+  "source": "Favorite Food: Fruits, vegetables.\nDisliked Food: Meat.\nWorks at: Hotel, indoor pool.",
+  "source_sha256": "36dfce9ef2af502dbfa2d365cd2321b0c8334f623d5fce5f8cfc4bdf4b9d28ac",
+  "translation": "Favorite Food: Fruits, vegetables.\nDisliked Food: Meat.\nWorks at: Hotel, indoor pool.",
+  "vndb_url": "https://vndb.org/c1919"
+}

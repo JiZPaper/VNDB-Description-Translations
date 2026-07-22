@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96806",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The captain of the ship.",
+  "source_sha256": "dbf7a740ea0dbdd3e5f152691a37d1e1af02b3a456aad5b925cf5037c2be6441",
+  "translation": "The captain of the ship.",
+  "vndb_url": "https://vndb.org/c96806"
+}

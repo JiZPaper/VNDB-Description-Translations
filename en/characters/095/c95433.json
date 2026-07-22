@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95433",
+  "type": "character",
+  "name": "Blanca",
+  "original_name": "ブランカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Vanilla's familiar.",
+  "source_sha256": "fcbf25259042209c1e197a613587822b5022e5f029c3a6aa74526594fe821828",
+  "translation": "Vanilla's familiar.",
+  "vndb_url": "https://vndb.org/c95433"
+}

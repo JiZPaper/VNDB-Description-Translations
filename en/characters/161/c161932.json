@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161932",
+  "type": "character",
+  "name": "Mike",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist. \nAshley's boyfriend, an engineer.",
+  "source_sha256": "d965b8b07a56b4d97f99408bb4e87eefe682ea16febb33d9dd68c322d6e2a470",
+  "translation": "The protagonist. \nAshley's boyfriend, an engineer.",
+  "vndb_url": "https://vndb.org/c161932"
+}

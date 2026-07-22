@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25944",
+  "type": "visual_novel",
+  "name": "Strange Nights",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Strange Nights is visual novel based on Life is Strange, where you assume the role of Mark Jefferson, a photography teacher at Blackwell Academy.",
+  "source_sha256": "1870141262b214e3bf85333b92d70c7aba2ff0efd3488ac302beecb74b7ba0a9",
+  "translation": "Strange Nights is visual novel based on Life is Strange, where you assume the role of Mark Jefferson, a photography teacher at Blackwell Academy.",
+  "vndb_url": "https://vndb.org/v25944"
+}

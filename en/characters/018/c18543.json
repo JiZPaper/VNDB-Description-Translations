@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c18543",
+  "type": "character",
+  "name": "Sakuraba Alice",
+  "original_name": "桜庭 アリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Alice is the heavy-drinking mother of Yoshimi.",
+  "source_sha256": "d3da9d7ebb81cc91c9f62e35d9d7eafa63dba8d0ae18a37eb24379e5fbcd5a87",
+  "translation": "Alice is the heavy-drinking mother of Yoshimi.",
+  "vndb_url": "https://vndb.org/c18543"
+}

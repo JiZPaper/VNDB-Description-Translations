@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96811",
+  "type": "character",
+  "name": "Saber",
+  "original_name": "セイバー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Her true name is [spoiler][url=https://en.wikipedia.org/wiki/Emperor_Guangwu_of_Han]Liu Xiu[/url][/spoiler]",
+  "source_sha256": "86286939e83abf29df9d065322d3267ae06f419ba95bf42f10d3d2d1533bbfed",
+  "translation": "Her true name is [spoiler][url=https://en.wikipedia.org/wiki/Emperor_Guangwu_of_Han]Liu Xiu[/url][/spoiler]",
+  "vndb_url": "https://vndb.org/c96811"
+}

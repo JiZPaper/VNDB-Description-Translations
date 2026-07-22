@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c121812",
+  "type": "character",
+  "name": "Vin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A sorceress that takes Amber in and teaches her.",
+  "source_sha256": "7303fdf22f5b4cb3f3b54e539271fb79415114f6f5d292ba729790d2edb41d25",
+  "translation": "A sorceress that takes Amber in and teaches her.",
+  "vndb_url": "https://vndb.org/c121812"
+}

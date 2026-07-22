@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100110",
+  "type": "character",
+  "name": "Elisa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gunther and Mira's daughter.",
+  "source_sha256": "f4c95bbe508cacf2cab2eb188dcc443d4b63105b9c3a3e4cc017b1bc975e8e3f",
+  "translation": "Gunther and Mira's daughter.",
+  "vndb_url": "https://vndb.org/c100110"
+}

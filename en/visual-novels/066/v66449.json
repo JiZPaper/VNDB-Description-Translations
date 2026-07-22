@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66449",
+  "type": "visual_novel",
+  "name": "Novaya zhizn v novom godu",
+  "original_name": "Новая жизнь в новом году",
+  "language": "en",
+  "source_language": "en",
+  "source": "A small New Year's story.",
+  "source_sha256": "29973e15096ea1bff9fa30d186e498eda91b74f38dbe658c5b68c4ced5d3a21e",
+  "translation": "A small New Year's story.",
+  "vndb_url": "https://vndb.org/v66449"
+}

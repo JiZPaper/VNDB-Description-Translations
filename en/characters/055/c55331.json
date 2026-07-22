@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55331",
+  "type": "character",
+  "name": "Bordeaux",
+  "original_name": "ボルドー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Tsuya's master",
+  "source_sha256": "0b5bd3c5e5a409ed68bd29d1920b04fbd1cf3e6dc17d180e102381326ba1e4f0",
+  "translation": "Tsuya's master",
+  "vndb_url": "https://vndb.org/c55331"
+}

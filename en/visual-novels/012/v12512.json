@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12512",
+  "type": "visual_novel",
+  "name": "Isogashii Hito no Tame no Koumakyou Extra",
+  "original_name": "忙しい人のためのこうまきょうEXTRA",
+  "language": "en",
+  "source_language": "en",
+  "source": "Extra story for [url=/v3192]Isogashii Hito no Tame no Koumakyou[/url], with side gags and a Q&A segment.",
+  "source_sha256": "2657f31edd361a852d572da94991350e9f1741f6350cc12242eb6109076c5477",
+  "translation": "Extra story for [url=/v3192]Isogashii Hito no Tame no Koumakyou[/url], with side gags and a Q&A segment.",
+  "vndb_url": "https://vndb.org/v12512"
+}

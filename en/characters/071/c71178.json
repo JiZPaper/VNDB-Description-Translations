@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71178",
+  "type": "character",
+  "name": "Noise Cransis",
+  "original_name": "ノイズ＝クランシス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Right-handed\nHobby: Strength training\nLoves: Cheesecake\nHates: Bell pepper\nFavorite Color: Blue",
+  "source_sha256": "de5c5d2add6e4d2df63faddccf9b8b17b69d8db8fa4bd08152d119c85e6367ff",
+  "translation": "Right-handed\nHobby: Strength training\nLoves: Cheesecake\nHates: Bell pepper\nFavorite Color: Blue",
+  "vndb_url": "https://vndb.org/c71178"
+}

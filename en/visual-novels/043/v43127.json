@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43127",
+  "type": "visual_novel",
+  "name": "Atsushi Dating Sim",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Date BSD dreamboat Atsushi Nakajima!!",
+  "source_sha256": "f7af6a1c86957be0426a9f694042daba826e7e12918bfb0e67a5a7d901e88b0c",
+  "translation": "Date BSD dreamboat Atsushi Nakajima!!",
+  "vndb_url": "https://vndb.org/v43127"
+}

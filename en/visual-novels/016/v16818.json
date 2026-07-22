@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16818",
+  "type": "visual_novel",
+  "name": "0008 The Story",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This Visual Novel tells a story in which the reader must decide for themselves whether it is true or false ...",
+  "source_sha256": "cdd0f5b4dd7eb2bcb68d08498ce9334cd195132ee354b39ea1740001593a9ca2",
+  "translation": "This Visual Novel tells a story in which the reader must decide for themselves whether it is true or false ...",
+  "vndb_url": "https://vndb.org/v16818"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18011",
+  "type": "visual_novel",
+  "name": "Hooked",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "When Jay tries to fish, he catches more than just fish.",
+  "source_sha256": "32dab0fbffbd3a48d97225d88f1393b461b8346ac9699253589615fed179dd6d",
+  "translation": "When Jay tries to fish, he catches more than just fish.",
+  "vndb_url": "https://vndb.org/v18011"
+}

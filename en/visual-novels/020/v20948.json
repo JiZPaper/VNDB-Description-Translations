@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20948",
+  "type": "visual_novel",
+  "name": "Chook and Sosig",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Say hello to Chook and Sosig! They are friendly and they like you!\n\nThey want to solve mysteries and you can help them nose around the Neighbourhood.",
+  "source_sha256": "d83cb9c0fe3a0ca3d13881e9e711b6ba5b2d4243abe895bcd15f4fd0a5e6f78e",
+  "translation": "Say hello to Chook and Sosig! They are friendly and they like you!\n\nThey want to solve mysteries and you can help them nose around the Neighbourhood.",
+  "vndb_url": "https://vndb.org/v20948"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c164153",
+  "type": "character",
+  "name": "Hanna von Rauss",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader of the von Rauss Clan.",
+  "source_sha256": "bb77237b32609441d285d2138b11676cbe1a00855d4b41448d5e90eceafae2c5",
+  "translation": "Leader of the von Rauss Clan.",
+  "vndb_url": "https://vndb.org/c164153"
+}

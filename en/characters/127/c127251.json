@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127251",
+  "type": "character",
+  "name": "Souma Shin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A famous music producer with a bad reputation.",
+  "source_sha256": "1da4f38c88dc163018203c8413e8635c6d6ce1bfcdca464ef65a25464cc0673e",
+  "translation": "A famous music producer with a bad reputation.",
+  "vndb_url": "https://vndb.org/c127251"
+}

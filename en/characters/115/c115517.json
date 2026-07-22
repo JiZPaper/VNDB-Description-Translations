@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115517",
+  "type": "character",
+  "name": "Robin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The leader of Teen Titans.",
+  "source_sha256": "8c79272951356fd5a3ce883ee5edc544a25442ab96ef327ca6c1b5f31b55ca0c",
+  "translation": "The leader of Teen Titans.",
+  "vndb_url": "https://vndb.org/c115517"
+}

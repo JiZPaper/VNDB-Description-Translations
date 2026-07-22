@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57699",
+  "type": "visual_novel",
+  "name": "Na nervah",
+  "original_name": "На нервах",
+  "language": "en",
+  "source_language": "en",
+  "source": "Made for Anivisual Jam 4.",
+  "source_sha256": "4521f585bd065a6aa052574e65d92671d237d72904d425fbdf34bc04078fd66e",
+  "translation": "Made for Anivisual Jam 4.",
+  "vndb_url": "https://vndb.org/v57699"
+}

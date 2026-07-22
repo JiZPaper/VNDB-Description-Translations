@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c144534",
+  "type": "character",
+  "name": "Mr. Hood",
+  "original_name": "フードの男",
+  "language": "en",
+  "source_language": "en",
+  "source": "A friendly person passing by. The inside of his hood is pitch black.",
+  "source_sha256": "30e9a0ab2cebfc25eaa7b6a2f925f5813c0f1f33f2aa87f19fab366641927f82",
+  "translation": "A friendly person passing by. The inside of his hood is pitch black.",
+  "vndb_url": "https://vndb.org/c144534"
+}

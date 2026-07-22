@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162391",
+  "type": "character",
+  "name": "Chloe",
+  "original_name": "クロエ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A boy accompanying Martin in his travels.",
+  "source_sha256": "4aa8f6f4985f0a3973e75eca0f4abaa35e0a9ce3e7d655e6257961932f6b54c5",
+  "translation": "A boy accompanying Martin in his travels.",
+  "vndb_url": "https://vndb.org/c162391"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c59613",
+  "type": "character",
+  "name": "Iris",
+  "original_name": "アイリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Star Sign: Pisces",
+  "source_sha256": "7074ff8f48d8cf90738701d7ed5f27f1ec56fe5965fa501b3c4080f3c8a1c8ed",
+  "translation": "Star Sign: Pisces",
+  "vndb_url": "https://vndb.org/c59613"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20481",
+  "type": "visual_novel",
+  "name": "Dead Frontier: Outbreak",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "During the zombie outbreak a man must survive long enough to return home and be reunited with his wife.",
+  "source_sha256": "5dfff95ff832b51d4e90b8acbc6271776c1519f3fdfb8e6ca508353c171bb566",
+  "translation": "During the zombie outbreak a man must survive long enough to return home and be reunited with his wife.",
+  "vndb_url": "https://vndb.org/v20481"
+}

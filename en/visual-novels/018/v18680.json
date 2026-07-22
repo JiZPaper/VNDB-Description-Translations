@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18680",
+  "type": "visual_novel",
+  "name": "Laque",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "If you knew that she would die for you would you avoid meeting her?",
+  "source_sha256": "3f19d9c002dce6abd13fa475b7539d96977e4849ba96e85f8b56e8d49b01651c",
+  "translation": "If you knew that she would die for you would you avoid meeting her?",
+  "vndb_url": "https://vndb.org/v18680"
+}

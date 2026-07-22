@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32178",
+  "type": "visual_novel",
+  "name": "Bard Quest",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "In an unlikely turn of events, a simple bard becomes appointed the head dragon slayer of the kingdom.\n\n[Paraphrased from the visual novel].",
+  "source_sha256": "7775c53a8e59e1d2f8bacebe72d60c5251934aadc49a0505d0fd12eb3b8f7533",
+  "translation": "In an unlikely turn of events, a simple bard becomes appointed the head dragon slayer of the kingdom.\n\n[Paraphrased from the visual novel].",
+  "vndb_url": "https://vndb.org/v32178"
+}

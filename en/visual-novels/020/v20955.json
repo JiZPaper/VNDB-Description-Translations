@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20955",
+  "type": "visual_novel",
+  "name": "Yuuwaku Office Ren'ai-ka",
+  "original_name": "ゆうわくオフィス恋愛課",
+  "language": "en",
+  "source_language": "en",
+  "source": "In the vein of Tokimeki Memorial, the game follows the protagonist's love affairs inside an average Japanese company.",
+  "source_sha256": "bcb94f4a3052932af6305a3d05ca16aa8303e33178c1c9aa00c98183e18362cd",
+  "translation": "In the vein of Tokimeki Memorial, the game follows the protagonist's love affairs inside an average Japanese company.",
+  "vndb_url": "https://vndb.org/v20955"
+}

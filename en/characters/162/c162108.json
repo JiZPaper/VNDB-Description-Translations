@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162108",
+  "type": "character",
+  "name": "Cleo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Simulation role: Heart - Assistant\nOccupation: Zhine's Assistant",
+  "source_sha256": "2cbef0163d101526051ad8dde7c9a0673cfc9f096836fa9b9074212728f62e92",
+  "translation": "Simulation role: Heart - Assistant\nOccupation: Zhine's Assistant",
+  "vndb_url": "https://vndb.org/c162108"
+}

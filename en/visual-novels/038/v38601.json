@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38601",
+  "type": "visual_novel",
+  "name": "Hitomaka-sensei",
+  "original_name": "ヒトマカセンセイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about the protagonist investigating rumors about his classmate, by request of his teacher who always relies on him.",
+  "source_sha256": "1c35267d4b126b33cf72607fb8404ef4b717c54511604fa53aac5a7d8d6ba1ed",
+  "translation": "A story about the protagonist investigating rumors about his classmate, by request of his teacher who always relies on him.",
+  "vndb_url": "https://vndb.org/v38601"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c68761",
+  "type": "character",
+  "name": "El Mofus",
+  "original_name": "エール・モフス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The son of Rance and Crook Mofus.",
+  "source_sha256": "db77ef0494690148cb07be6d4b95dee283e8a7dd5e442a395ae78771fc6ca219",
+  "translation": "The son of Rance and Crook Mofus.",
+  "vndb_url": "https://vndb.org/c68761"
+}

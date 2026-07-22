@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12037",
+  "type": "visual_novel",
+  "name": "Saint Estella Gakuin no Shichinin no Majo",
+  "original_name": "聖エステラ学院の七人の魔女",
+  "language": "en",
+  "source_language": "en",
+  "source": "This game is about Yukito, an orphan who enters a high school that specializes in educating children for wealthy families in need of an heir for adoption.   There, rumours about 'witches' fill the halls, and students vanish on a regular basis.  Just what awaits Yukito in his new environment?",
+  "source_sha256": "d93174fd26cb6ae9b37b199d0558db21b0114e62b3b8100917faf729da89b455",
+  "translation": "This game is about Yukito, an orphan who enters a high school that specializes in educating children for wealthy families in need of an heir for adoption.   There, rumours about 'witches' fill the halls, and students vanish on a regular basis.  Just what awaits Yukito in his new environment?",
+  "vndb_url": "https://vndb.org/v12037"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131961",
+  "type": "character",
+  "name": "Mr. Young",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The physics teacher at the science camp.",
+  "source_sha256": "61c3ebe154ed37baf93bd4579e16452dbedbbb0615e0ceee69eae9ab3e0ba52a",
+  "translation": "The physics teacher at the science camp.",
+  "vndb_url": "https://vndb.org/c131961"
+}

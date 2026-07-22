@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49671",
+  "type": "visual_novel",
+  "name": "Last Supper",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You get out of work, one night, and you get hungry. You found this restaurant, where this waiter, Joshua, works here. Do you want to get close to him?\n\n[From [url=https://mad-nyx.itch.io/last-supper]Itch.io[/url]]",
+  "source_sha256": "6129a766e16e0d84ea15e8f08a167654d24db4f2f2f1a471df8bd010dae1bacd",
+  "translation": "You get out of work, one night, and you get hungry. You found this restaurant, where this waiter, Joshua, works here. Do you want to get close to him?\n\n[From [url=https://mad-nyx.itch.io/last-supper]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v49671"
+}

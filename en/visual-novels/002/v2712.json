@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2712",
+  "type": "visual_novel",
+  "name": "Pachi Pachi Circuit ~Yappa Race Queen wa \"Hayai Otoko\" ga Suki na wake yo~",
+  "original_name": "ぱちぱちサーキット ～やっぱレースクイーンは「速い男」が好きな訳よ～",
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as Junichi, the top driver of team AINOS, as he aims to win the championship.\n\nGameplay is turn-based \"racing\". Every turn you pick an angle and lob the car a few inches closer to the finish line.",
+  "source_sha256": "345c2a3f45f57fc7169452def6f650dbdb023335e56583fc6d2279a769eb9b52",
+  "translation": "You play as Junichi, the top driver of team AINOS, as he aims to win the championship.\n\nGameplay is turn-based \"racing\". Every turn you pick an angle and lob the car a few inches closer to the finish line.",
+  "vndb_url": "https://vndb.org/v2712"
+}

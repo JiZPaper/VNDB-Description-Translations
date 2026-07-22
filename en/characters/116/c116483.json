@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116483",
+  "type": "character",
+  "name": "Aurora",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The personified AI of the starship Aurora.",
+  "source_sha256": "1b6166943e96b0cd9f0fff38ac127825112d8983ae127d0761565a009f3ff0d0",
+  "translation": "The personified AI of the starship Aurora.",
+  "vndb_url": "https://vndb.org/c116483"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113876",
+  "type": "character",
+  "name": "Daan Maes",
+  "original_name": "ダアン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Daan is Tino's cousin. He works as a valet. He doesn't currently have a master, but he is aiming to be Lynt's valet.",
+  "source_sha256": "459df15893470ddf1828dac2f411e238db2e85f8fbe84be193c61465fcbf479a",
+  "translation": "Daan is Tino's cousin. He works as a valet. He doesn't currently have a master, but he is aiming to be Lynt's valet.",
+  "vndb_url": "https://vndb.org/c113876"
+}

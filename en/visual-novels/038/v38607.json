@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38607",
+  "type": "visual_novel",
+  "name": "EggO",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel where you have to take care of an egg.",
+  "source_sha256": "6b6f90f51c3f9fabd60598c977929b94c7094afbfd71001eb07797b36842ad15",
+  "translation": "A visual novel where you have to take care of an egg.",
+  "vndb_url": "https://vndb.org/v38607"
+}

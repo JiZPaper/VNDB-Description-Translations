@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c157347",
+  "type": "character",
+  "name": "Rin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A cat that lives in a hospital.",
+  "source_sha256": "a07d4dce280af3edd4e3550f72c3b29c4f9b4c69ebe4cb6a27300f4ea332d859",
+  "translation": "A cat that lives in a hospital.",
+  "vndb_url": "https://vndb.org/c157347"
+}

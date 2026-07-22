@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159702",
+  "type": "character",
+  "name": "Gossip",
+  "original_name": "ゴシップ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A pedlar plying his trade on Fresno Street. He seems to make his money selling interesting items of news to passers-by.\n\n[From in-game profile]",
+  "source_sha256": "54e86f4463eff0643a8ca5205d0cb07153ebd6c340a276c72de6c200543aef27",
+  "translation": "A pedlar plying his trade on Fresno Street. He seems to make his money selling interesting items of news to passers-by.\n\n[From in-game profile]",
+  "vndb_url": "https://vndb.org/c159702"
+}

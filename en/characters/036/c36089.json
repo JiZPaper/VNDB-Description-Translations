@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36089",
+  "type": "character",
+  "name": "Shiera",
+  "original_name": "シエラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Purometia \nOccupation: Vanguard",
+  "source_sha256": "d658213a4477abeef41b1dde9ecd0b8deac01c4155c6f165a4cd4f3582d8db9f",
+  "translation": "Race: Purometia \nOccupation: Vanguard",
+  "vndb_url": "https://vndb.org/c36089"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27491",
+  "type": "visual_novel",
+  "name": "Suzumiya Haruhi no Heiretsu",
+  "original_name": "涼宮ハルヒの並列",
+  "language": "en",
+  "source_language": "en",
+  "source": "During summer holidays, Haruhi wins a ticket to a luxury cruise and invites the whole SOS Brigade to board with her.",
+  "source_sha256": "e9b610e7f0ea72b384c6c54fae9d97a145acf138f044d0c7e2f51ee30f371903",
+  "translation": "During summer holidays, Haruhi wins a ticket to a luxury cruise and invites the whole SOS Brigade to board with her.",
+  "vndb_url": "https://vndb.org/v27491"
+}

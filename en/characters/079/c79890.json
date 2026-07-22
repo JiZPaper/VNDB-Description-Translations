@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79890",
+  "type": "character",
+  "name": "Edward Abberline",
+  "original_name": "エドワード・アバーライン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A butler who has been in the service of the Straus family for more than 30 years.",
+  "source_sha256": "52af40dddce694eb2582e81c52d2ff0c755b6803a63116b5a0e97774ac04fbd0",
+  "translation": "A butler who has been in the service of the Straus family for more than 30 years.",
+  "vndb_url": "https://vndb.org/c79890"
+}

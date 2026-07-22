@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c26634",
+  "type": "character",
+  "name": "Grimlock",
+  "original_name": "グリムロック",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cast of Cinderella's witch",
+  "source_sha256": "32ed2eea11d40bc6a103d7b831a60441f86ee3a413b2c510a7dc7e6abde81551",
+  "translation": "Cast of Cinderella's witch",
+  "vndb_url": "https://vndb.org/c26634"
+}

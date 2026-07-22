@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41722",
+  "type": "character",
+  "name": "Serika",
+  "original_name": "セリカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Bandits stole her rosary.",
+  "source_sha256": "cd9ecc46da6ff8840f5dec92168f2d20ef206379b197c0af84d874a1e3ad0a56",
+  "translation": "Bandits stole her rosary.",
+  "vndb_url": "https://vndb.org/c41722"
+}

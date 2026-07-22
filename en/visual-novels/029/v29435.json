@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29435",
+  "type": "visual_novel",
+  "name": "Miharai - Novel Edition",
+  "original_name": "神祓 ～ミハライ～ ノベル版",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is the novel version of the simulation RPG Miharai's first chapter Amagasa.",
+  "source_sha256": "94fe1fadfab3e94a3636b376c1af2d0d74a2c81331a99377d5648a1ba9713faa",
+  "translation": "This is the novel version of the simulation RPG Miharai's first chapter Amagasa.",
+  "vndb_url": "https://vndb.org/v29435"
+}

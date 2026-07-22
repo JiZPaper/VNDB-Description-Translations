@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153354",
+  "type": "character",
+  "name": "Lysandra",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The canon protagonist. Most flavor choices are disabled if you choose to play as her.",
+  "source_sha256": "5039eb82d5e422336c55ca1610adbbe063a027c0acf6af5163e1e9d2e718ccb7",
+  "translation": "The canon protagonist. Most flavor choices are disabled if you choose to play as her.",
+  "vndb_url": "https://vndb.org/c153354"
+}

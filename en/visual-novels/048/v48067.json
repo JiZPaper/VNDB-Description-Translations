@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48067",
+  "type": "visual_novel",
+  "name": "Bad End Nightmare",
+  "original_name": "バッドエンドナイトメア",
+  "language": "en",
+  "source_language": "en",
+  "source": "A bad end route of series \"Snow Dome wa Yume o Miru ka?\".",
+  "source_sha256": "a1e3463cefa90cdf02411c5eb7188256f11a293569904606d7ca535e047dbd8d",
+  "translation": "A bad end route of series \"Snow Dome wa Yume o Miru ka?\".",
+  "vndb_url": "https://vndb.org/v48067"
+}

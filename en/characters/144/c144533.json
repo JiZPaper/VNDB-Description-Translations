@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c144533",
+  "type": "character",
+  "name": "Mr. Chopped",
+  "original_name": "生首",
+  "language": "en",
+  "source_language": "en",
+  "source": "An expressive and talkative decapitated head.",
+  "source_sha256": "01d30572d9635ae414e82b57b0feed2d79d80ffd21da2eebe07204b6388d4f75",
+  "translation": "An expressive and talkative decapitated head.",
+  "vndb_url": "https://vndb.org/c144533"
+}

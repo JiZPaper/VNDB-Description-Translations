@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120080",
+  "type": "character",
+  "name": "Capyguarda",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An aloof capybara guard who's not very good at their job.",
+  "source_sha256": "787fdae41ec27543e6920c7a299928d8b567202ab559879fdb9e93dcd0a1b520",
+  "translation": "An aloof capybara guard who's not very good at their job.",
+  "vndb_url": "https://vndb.org/c120080"
+}

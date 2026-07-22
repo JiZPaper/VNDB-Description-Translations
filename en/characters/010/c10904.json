@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c10904",
+  "type": "character",
+  "name": "Shion",
+  "original_name": "シオン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Another prisoner at the same jail as [url=/c10893]Guys[/url]. Shion is a hidden character, and can only be encountered by making a sequence of specific choices. Shion was imprisoned for manslaughter- accidentally dropping a toolbox on a friend's head. Guys describes Shion as being \"like the sun\"- cheerful and always \"brightly\" smiling.",
+  "source_sha256": "27088089a71e08978603a83ac14fbe3422ceb384e181a31dcb01c5f60c16a5d4",
+  "translation": "Another prisoner at the same jail as [url=/c10893]Guys[/url]. Shion is a hidden character, and can only be encountered by making a sequence of specific choices. Shion was imprisoned for manslaughter- accidentally dropping a toolbox on a friend's head. Guys describes Shion as being \"like the sun\"- cheerful and always \"brightly\" smiling.",
+  "vndb_url": "https://vndb.org/c10904"
+}

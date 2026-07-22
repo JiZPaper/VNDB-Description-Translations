@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105715",
+  "type": "character",
+  "name": "Urumu",
+  "original_name": "ウルム",
+  "language": "en",
+  "source_language": "en",
+  "source": "Heroine",
+  "source_sha256": "f77639e85168016d11c78bbbcc5cc5b796df86308fec0324fe37d66e55de4316",
+  "translation": "Heroine",
+  "vndb_url": "https://vndb.org/c105715"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130914",
+  "type": "character",
+  "name": "Edward Noah",
+  "original_name": "エドワード・ノア",
+  "language": "en",
+  "source_language": "en",
+  "source": "An agent for the Bureau of Investigations.\nWorks with Bill Sullivan to investigate the incident that transpired aboard the \"Flying Pussyfoot.\"",
+  "source_sha256": "018fd684e212e712f712b43a98a2095d17d5bf389b41a6e4d5ae2471d992c0ca",
+  "translation": "An agent for the Bureau of Investigations.\nWorks with Bill Sullivan to investigate the incident that transpired aboard the \"Flying Pussyfoot.\"",
+  "vndb_url": "https://vndb.org/c130914"
+}

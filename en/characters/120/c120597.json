@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120597",
+  "type": "character",
+  "name": "Belgios",
+  "original_name": "ベルジオス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A librarian who found the \"Glass Princess\" fairy tale book while cleaning.",
+  "source_sha256": "e6a008947a75a5773d4b5f821e0370f41b5fdf82150d22661c027f58c8b8553b",
+  "translation": "A librarian who found the \"Glass Princess\" fairy tale book while cleaning.",
+  "vndb_url": "https://vndb.org/c120597"
+}

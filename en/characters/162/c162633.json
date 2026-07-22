@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162633",
+  "type": "character",
+  "name": "Libby the Librarian",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Librarian on the planet Tollorix",
+  "source_sha256": "c777497b60acdf2a3c370ac102fa37e23dd218553f0fbe6aa501456caf6a7558",
+  "translation": "Librarian on the planet Tollorix",
+  "vndb_url": "https://vndb.org/c162633"
+}

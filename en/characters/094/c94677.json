@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94677",
+  "type": "character",
+  "name": "Roost Manager",
+  "original_name": "ルースト店長",
+  "language": "en",
+  "source_language": "en",
+  "source": "[i]\"Welcome.\"[/i]\n\nA quiet, mysterious man who runs Towa's favorite bar. Likes to collect paintings and other works of art and display them on the premises.\n\n[From the digital manual included with r59230]",
+  "source_sha256": "85f4a17331a671c7f42fdabf2a0c7a2c7c884b5ddd827e30ed4d1f75baeeb3a8",
+  "translation": "[i]\"Welcome.\"[/i]\n\nA quiet, mysterious man who runs Towa's favorite bar. Likes to collect paintings and other works of art and display them on the premises.\n\n[From the digital manual included with r59230]",
+  "vndb_url": "https://vndb.org/c94677"
+}

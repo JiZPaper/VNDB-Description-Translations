@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33202",
+  "type": "character",
+  "name": "Flora",
+  "original_name": "フローラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Lily's friend.",
+  "source_sha256": "4f6b842d164c52de417e0bddfc56649413e49704466db6dd6334d7a538ecc112",
+  "translation": "Lily's friend.",
+  "vndb_url": "https://vndb.org/c33202"
+}

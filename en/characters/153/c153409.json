@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153409",
+  "type": "character",
+  "name": "Shopkeeper",
+  "original_name": "店長",
+  "language": "en",
+  "source_language": "en",
+  "source": "The manager of the restaurant \"Bass Burger\", where the main character and [url=/c29236]Ashiya Suzuka[/url] work part-time.",
+  "source_sha256": "c31dee5ecaefb1dc6ad9c494ec7f69da5f26d1bc4f3dbdd9180c40765c0d0618",
+  "translation": "The manager of the restaurant \"Bass Burger\", where the main character and [url=/c29236]Ashiya Suzuka[/url] work part-time.",
+  "vndb_url": "https://vndb.org/c153409"
+}

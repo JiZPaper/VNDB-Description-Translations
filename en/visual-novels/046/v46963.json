@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46963",
+  "type": "visual_novel",
+  "name": "Danganronpa 64",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A hack based on the Danganronpa series, including many of the gameplay mechanics of said series. Includes some character-likes from Danganronpa 1",
+  "source_sha256": "2580fd3ef04bf4ae7b4b988371c108efab718abf3f45dfb1203e814196ee8ec3",
+  "translation": "A hack based on the Danganronpa series, including many of the gameplay mechanics of said series. Includes some character-likes from Danganronpa 1",
+  "vndb_url": "https://vndb.org/v46963"
+}

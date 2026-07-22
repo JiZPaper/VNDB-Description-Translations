@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24186",
+  "type": "visual_novel",
+  "name": "NekoNeko Fan Disc 4",
+  "original_name": "ねこねこファンディスク４",
+  "language": "en",
+  "source_language": "en",
+  "source": "Includes short stories from NekoNeko Soft's previous works.",
+  "source_sha256": "f9d4e49a0aa7458a8f475a221c9703b35ae6b88411dba1346813d24ba4528c3b",
+  "translation": "Includes short stories from NekoNeko Soft's previous works.",
+  "vndb_url": "https://vndb.org/v24186"
+}

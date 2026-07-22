@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8936",
+  "type": "character",
+  "name": "Gray",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is a musician getting ready for his first concert appearance.",
+  "source_sha256": "bb916b838e35629e366eb0512cf8095d72dd9e5d7a8240b2db0ae535ae6d7f54",
+  "translation": "He is a musician getting ready for his first concert appearance.",
+  "vndb_url": "https://vndb.org/c8936"
+}

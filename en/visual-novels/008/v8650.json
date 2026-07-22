@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8650",
+  "type": "visual_novel",
+  "name": "Maria ni Sasageru Ballade",
+  "original_name": "マリアに捧げるバラード",
+  "language": "en",
+  "source_language": "en",
+  "source": "In \"Ballade For Maria\", you control Jake Snipes, a detective from New York. Recently, terrible murders have been happening at a number of cities in the United States. An unknown killer seeks out women, brutally murders and mutilates them. As Jake investigates a missing person case for an actress he met at a party, the string of murders reaches his very city.\n\n[Heavily modified from Moby Games]",
+  "source_sha256": "9f6fdece6badd66fea59921e0141529c55d3cc94e964f1804568c0b395f7deaf",
+  "translation": "In \"Ballade For Maria\", you control Jake Snipes, a detective from New York. Recently, terrible murders have been happening at a number of cities in the United States. An unknown killer seeks out women, brutally murders and mutilates them. As Jake investigates a missing person case for an actress he met at a party, the string of murders reaches his very city.\n\n[Heavily modified from Moby Games]",
+  "vndb_url": "https://vndb.org/v8650"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89613",
+  "type": "character",
+  "name": "Sakifan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "mikotohimemiya",
+  "source_sha256": "4930fb55c16786158f6eb4850203eef351aaa6df82266f23305e63f214746124",
+  "translation": "mikotohimemiya",
+  "vndb_url": "https://vndb.org/c89613"
+}

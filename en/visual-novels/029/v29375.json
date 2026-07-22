@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29375",
+  "type": "visual_novel",
+  "name": "Locked In",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Locked In is a two-player visual novel simulating the breakdown of a marriage during lockdown.\n\n[From [url=https://store.steampowered.com/app/1415480/]Steam[/url]]",
+  "source_sha256": "61f3c8dda860772668be4475358badb8d054b398d7b5c117ee6a1aa479932d6b",
+  "translation": "Locked In is a two-player visual novel simulating the breakdown of a marriage during lockdown.\n\n[From [url=https://store.steampowered.com/app/1415480/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v29375"
+}

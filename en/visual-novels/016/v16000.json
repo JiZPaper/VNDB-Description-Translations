@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16000",
+  "type": "visual_novel",
+  "name": "Mirror",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your window is a mirror to another world -- and another you.\n\nCreated for [url=http://www.ludumdare.com/compo/ludum-dare-30/?action=preview]Ludum Dare 30[/url] (theme: Connected Worlds).",
+  "source_sha256": "2b87bba9a144308871ee1ed74d5740a08234de8cab756f9cc10c34e5f1dfc3b9",
+  "translation": "Your window is a mirror to another world -- and another you.\n\nCreated for [url=http://www.ludumdare.com/compo/ludum-dare-30/?action=preview]Ludum Dare 30[/url] (theme: Connected Worlds).",
+  "vndb_url": "https://vndb.org/v16000"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137906",
+  "type": "character",
+  "name": "Commander",
+  "original_name": "指令長",
+  "language": "en",
+  "source_language": "en",
+  "source": "A middle-aged man who's in charge of the Blood Swastika's hideout.",
+  "source_sha256": "ddf6cb3d29ecc89d6768551803d2c5372df092fb790c03bda8fe42713b509422",
+  "translation": "A middle-aged man who's in charge of the Blood Swastika's hideout.",
+  "vndb_url": "https://vndb.org/c137906"
+}

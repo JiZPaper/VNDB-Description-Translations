@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112267",
+  "type": "character",
+  "name": "Mrs Jones",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A parishioner of the local church and the grandmother of Billie. She lost her husband not so long ago and goes to church to ease her loneliness.",
+  "source_sha256": "cdb5559b12bac05f3b4f19b7b0eb9d80842783f5b9c6e79d63cd62059fec52ea",
+  "translation": "A parishioner of the local church and the grandmother of Billie. She lost her husband not so long ago and goes to church to ease her loneliness.",
+  "vndb_url": "https://vndb.org/c112267"
+}

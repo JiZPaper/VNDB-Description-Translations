@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79440",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl who goes around town chats with people, and tries to find true love with someone.",
+  "source_sha256": "91fed5168882263cc4100ee5b1a3965f3c77b3c781e82306c78e04598eb71c9f",
+  "translation": "A girl who goes around town chats with people, and tries to find true love with someone.",
+  "vndb_url": "https://vndb.org/c79440"
+}

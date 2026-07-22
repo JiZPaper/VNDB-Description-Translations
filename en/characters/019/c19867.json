@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19867",
+  "type": "character",
+  "name": "Iljimae",
+  "original_name": "일지매",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Robin Hood in Hanyang. \n\nBorn in 1768.",
+  "source_sha256": "d85b7988107ee0e2cf6cc66006985a2f50f8c3d4758b0cb7f2f1cb370d16dd3e",
+  "translation": "The Robin Hood in Hanyang. \n\nBorn in 1768.",
+  "vndb_url": "https://vndb.org/c19867"
+}

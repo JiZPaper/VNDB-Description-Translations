@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101325",
+  "type": "character",
+  "name": "Valery",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Her name is Rosa.[/spoiler]",
+  "source_sha256": "d93c47347d14c3f2d778dba1a921d61db5e57afd94ae5f1879d58e217ef1dd05",
+  "translation": "[spoiler]Her name is Rosa.[/spoiler]",
+  "vndb_url": "https://vndb.org/c101325"
+}

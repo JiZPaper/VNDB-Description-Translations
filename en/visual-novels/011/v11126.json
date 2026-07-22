@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11126",
+  "type": "visual_novel",
+  "name": "NekoNeko Soft Okaeshi CD 3",
+  "original_name": "ねこねこソフト　おかえしＣＤ３",
+  "language": "en",
+  "source_language": "en",
+  "source": "A collection of short stories.",
+  "source_sha256": "9b3097be6ccf0c14c167265459cfe0b19a2f9208c2b1c09f9484baa00b96a8c3",
+  "translation": "A collection of short stories.",
+  "vndb_url": "https://vndb.org/v11126"
+}

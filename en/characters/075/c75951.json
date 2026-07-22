@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75951",
+  "type": "character",
+  "name": "Mother",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Rosa's mother. She knows what's best for her daughter.",
+  "source_sha256": "1258813301fccee0f8c39f144656c83b6c7448a63964c9cc4237b78763d4f267",
+  "translation": "Rosa's mother. She knows what's best for her daughter.",
+  "vndb_url": "https://vndb.org/c75951"
+}

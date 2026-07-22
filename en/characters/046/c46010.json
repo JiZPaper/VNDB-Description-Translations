@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c46010",
+  "type": "character",
+  "name": "Leia",
+  "original_name": "レイア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fighting Princess",
+  "source_sha256": "76b237f6e8b6dcf742c9abacbe14454124037c2e751a7d70805cf839bd3ec4fb",
+  "translation": "Fighting Princess",
+  "vndb_url": "https://vndb.org/c46010"
+}

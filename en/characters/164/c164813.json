@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c164813",
+  "type": "character",
+  "name": "Kraken",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A carnivorous shapeshifter. Sometimes a voracious monster; sometimes a boyish prankster.",
+  "source_sha256": "2b9120da7b94c1ca7d96e58c771824cb355564b4ae05d0a0febf3b4c500b7da2",
+  "translation": "A carnivorous shapeshifter. Sometimes a voracious monster; sometimes a boyish prankster.",
+  "vndb_url": "https://vndb.org/c164813"
+}

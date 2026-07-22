@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89278",
+  "type": "character",
+  "name": "Father",
+  "original_name": "父",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mizuki and Yuki's father",
+  "source_sha256": "edf6604709737ac0d7bbec80a5aa2b2a7e316b285ee4e28fd40c297e79a74cc5",
+  "translation": "Mizuki and Yuki's father",
+  "vndb_url": "https://vndb.org/c89278"
+}

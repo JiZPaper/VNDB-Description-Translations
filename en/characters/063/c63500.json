@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c63500",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "Randomized default name.",
+  "source_sha256": "15441a9013fd5bc410ffa0ddf8a92a0de0a9a4cce20de57995093e81b03414b9",
+  "translation": "Randomized default name.",
+  "vndb_url": "https://vndb.org/c63500"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25522",
+  "type": "character",
+  "name": "Alin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A wolf bartender at Hunter's Bar.",
+  "source_sha256": "14d0b76d9054dda0d112c615ef14c9ef7b89410c08e8fc6f98b481d7916f089e",
+  "translation": "A wolf bartender at Hunter's Bar.",
+  "vndb_url": "https://vndb.org/c25522"
+}

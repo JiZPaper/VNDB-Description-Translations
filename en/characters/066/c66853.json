@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c66853",
+  "type": "character",
+  "name": "Vi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Snow Birdling who lives in the mountains.",
+  "source_sha256": "8472559fbeff6e1032f950777ea272ca3a70fd1cdbc7069a979884884a789efa",
+  "translation": "A Snow Birdling who lives in the mountains.",
+  "vndb_url": "https://vndb.org/c66853"
+}

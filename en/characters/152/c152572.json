@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152572",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A character for you to watch the story through. There's nothing else to say about them. What else could I possibly say.",
+  "source_sha256": "1242aa48c7cd1b6afdfb9c8824d3b4656c3c383e1a7bebfa1ca0111406f671f8",
+  "translation": "A character for you to watch the story through. There's nothing else to say about them. What else could I possibly say.",
+  "vndb_url": "https://vndb.org/c152572"
+}

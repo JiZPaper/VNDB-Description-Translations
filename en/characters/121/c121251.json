@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c121251",
+  "type": "character",
+  "name": "Violet",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A teen girl struggling with her mental health.",
+  "source_sha256": "82edaa185796c252621ee1b7fa47eca3e761d1f4a7af51c02a412b5491686d81",
+  "translation": "A teen girl struggling with her mental health.",
+  "vndb_url": "https://vndb.org/c121251"
+}

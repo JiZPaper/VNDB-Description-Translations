@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9034",
+  "type": "character",
+  "name": "James Bratt",
+  "original_name": "ジェームズ・ブラット",
+  "language": "en",
+  "source_language": "en",
+  "source": "President of \"TD\", the company which publishes the book \"MUSE\".\n\n[Translated from the [url=http://www.ray-software.net/magauta/index.html#2]official website[/url]]",
+  "source_sha256": "a1bf639028639fa5ca37d6fdfa18860f2f35df3a56b452238a52178763b876a6",
+  "translation": "President of \"TD\", the company which publishes the book \"MUSE\".\n\n[Translated from the [url=http://www.ray-software.net/magauta/index.html#2]official website[/url]]",
+  "vndb_url": "https://vndb.org/c9034"
+}

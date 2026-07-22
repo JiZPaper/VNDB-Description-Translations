@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113858",
+  "type": "character",
+  "name": "Jay",
+  "original_name": "ジェイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Dia's valet.",
+  "source_sha256": "939e23a57de34c3cc6d23ff1c2f517ea9f738e5e36ac8aea792f3b94c0a52939",
+  "translation": "Dia's valet.",
+  "vndb_url": "https://vndb.org/c113858"
+}

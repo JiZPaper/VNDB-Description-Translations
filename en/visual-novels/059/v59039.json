@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59039",
+  "type": "visual_novel",
+  "name": "Yoshikawa Project",
+  "original_name": "吉川企画（仮）",
+  "language": "en",
+  "source_language": "en",
+  "source": "Marmalade's 20th anniversary game.",
+  "source_sha256": "a646bde40761a72b6f42b0f71e500353797020fee8754e6193504c0ad0bf5454",
+  "translation": "Marmalade's 20th anniversary game.",
+  "vndb_url": "https://vndb.org/v59039"
+}

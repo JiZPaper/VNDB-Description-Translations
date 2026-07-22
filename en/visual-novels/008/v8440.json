@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8440",
+  "type": "visual_novel",
+  "name": "Scared Rider Xechs Stardust Lovers",
+  "original_name": "スカーレッドライダーゼクス STARDUST LOVERS",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fandisc of Scarlet Rider Xechs.\nTakes place between Track 05 and Track 08 of the original story.",
+  "source_sha256": "cbba3c92efc2676e053cb42e59b2977895ceb4299f52024a89223df1c3e881b8",
+  "translation": "Fandisc of Scarlet Rider Xechs.\nTakes place between Track 05 and Track 08 of the original story.",
+  "vndb_url": "https://vndb.org/v8440"
+}

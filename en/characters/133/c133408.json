@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133408",
+  "type": "character",
+  "name": "Eleanor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The pirate queen",
+  "source_sha256": "760d6afdafe9c2f14831341eb81cf00112f603cdc43f094c0d0c53882fe05c7e",
+  "translation": "The pirate queen",
+  "vndb_url": "https://vndb.org/c133408"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136507",
+  "type": "character",
+  "name": "Goyou",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A virus buster, whose role is to protect the PC. Has a serious personality, and spends most of the game searching through files with Agape in order to find and eliminate Agape's source.",
+  "source_sha256": "523e62997202bf4702a54e35503250a082143dac8934b449366018278aefc475",
+  "translation": "A virus buster, whose role is to protect the PC. Has a serious personality, and spends most of the game searching through files with Agape in order to find and eliminate Agape's source.",
+  "vndb_url": "https://vndb.org/c136507"
+}

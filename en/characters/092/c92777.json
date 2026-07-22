@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92777",
+  "type": "character",
+  "name": "Rebecca",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Anna's older sister, she is Carl's girlfriend.",
+  "source_sha256": "432ec0b64501023080eb41c636d9cdb1805ebd18d2d5e697799fa928b85f714a",
+  "translation": "Anna's older sister, she is Carl's girlfriend.",
+  "vndb_url": "https://vndb.org/c92777"
+}

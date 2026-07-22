@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161529",
+  "type": "character",
+  "name": "Ginny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Cleric at the local church of Lirey.",
+  "source_sha256": "54baca75351e470bbbe6857a5d6c31ea6333bcc51a39ca4f4b0622dc2196eb4b",
+  "translation": "Cleric at the local church of Lirey.",
+  "vndb_url": "https://vndb.org/c161529"
+}

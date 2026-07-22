@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44336",
+  "type": "visual_novel",
+  "name": "Rain Moka",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel about making coffee on a rainy day. \n\n[From [url=https://tiimeblitz.itch.io/rain-moka]Itch.io[/url]]",
+  "source_sha256": "cb3fd498c3e20651dc2035a381d0c519da5c6bad1cbc1c4f8e5b3cf2ade7759e",
+  "translation": "A short visual novel about making coffee on a rainy day. \n\n[From [url=https://tiimeblitz.itch.io/rain-moka]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v44336"
+}

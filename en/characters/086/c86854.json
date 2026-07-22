@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86854",
+  "type": "character",
+  "name": "Satomi Otsuka",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your homeroom teacher at the academy.",
+  "source_sha256": "f47b32d2d468613adf2d07c9d88d0b8362030a629e38d8d88eb33fb291b855e3",
+  "translation": "Your homeroom teacher at the academy.",
+  "vndb_url": "https://vndb.org/c86854"
+}

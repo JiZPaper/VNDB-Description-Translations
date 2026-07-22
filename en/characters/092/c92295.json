@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92295",
+  "type": "character",
+  "name": "Kornel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A gracious man with a German accent, who protests illegal logging of the forest.",
+  "source_sha256": "57fcd3512a48ff1a90f47175f1f4c5e6c292e5966611bded7af685098c32d47f",
+  "translation": "A gracious man with a German accent, who protests illegal logging of the forest.",
+  "vndb_url": "https://vndb.org/c92295"
+}

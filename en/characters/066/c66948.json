@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c66948",
+  "type": "character",
+  "name": "Turing",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Turing is an experimental ROM independently developed by Hayden Webber and is believed to be the first machine sapient. The events of Read Only Memories revolve around the disappearance of their creator and their actions following it.",
+  "source_sha256": "08bffffd4918d49ac1f3fc207ddad80f238ac55f2b356c6d1d5cb1e8866c654e",
+  "translation": "Turing is an experimental ROM independently developed by Hayden Webber and is believed to be the first machine sapient. The events of Read Only Memories revolve around the disappearance of their creator and their actions following it.",
+  "vndb_url": "https://vndb.org/c66948"
+}

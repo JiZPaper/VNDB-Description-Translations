@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25252",
+  "type": "visual_novel",
+  "name": "The Musume♥ Ikusei Simulation ~Otou-san to Issho~",
+  "original_name": "THE 娘♥育成シミュレーション 〜お父さんといっしょ〜",
+  "language": "en",
+  "source_language": "en",
+  "source": "The player has to raise a baby girl until adulthood, in the vein of the Princess Maker games.",
+  "source_sha256": "099712a6bfbb9afcd58c105ec8be30cf1b14079726ec8aa9bc9183d62dd1182b",
+  "translation": "The player has to raise a baby girl until adulthood, in the vein of the Princess Maker games.",
+  "vndb_url": "https://vndb.org/v25252"
+}

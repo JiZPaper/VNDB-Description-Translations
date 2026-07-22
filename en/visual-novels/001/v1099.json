@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1099",
+  "type": "visual_novel",
+  "name": "Secret Game ~Killer Queen~",
+  "original_name": "シークレットゲーム~Killer Queen~",
+  "language": "en",
+  "source_language": "en",
+  "source": "Remake of the doujin VN, Killer Queen, with a greatly expanded story.\n\n13 people are locked inside an abandoned building, none of them remember how they got there. Each has a PDA representing a playing card from A to K and a collar device locked around their necks. Each of the 13 PDAs correspond to a different set of objectives ranging from simply surviving to eliminating everyone else. If a player fails to fulfill their PDA's objective within 72 hours or breaks any of the game's rules, their collar will activate and they will die.",
+  "source_sha256": "d50ee515ddb367d636c38aa1283ac07019ed15acd758f1306e80e15e412ee03f",
+  "translation": "Remake of the doujin VN, Killer Queen, with a greatly expanded story.\n\n13 people are locked inside an abandoned building, none of them remember how they got there. Each has a PDA representing a playing card from A to K and a collar device locked around their necks. Each of the 13 PDAs correspond to a different set of objectives ranging from simply surviving to eliminating everyone else. If a player fails to fulfill their PDA's objective within 72 hours or breaks any of the game's rules, their collar will activate and they will die.",
+  "vndb_url": "https://vndb.org/v1099"
+}

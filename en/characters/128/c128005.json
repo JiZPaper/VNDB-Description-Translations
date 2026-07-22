@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c128005",
+  "type": "character",
+  "name": "Guest",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious person who seems to have a lot of influence in the underground of River City",
+  "source_sha256": "af29ff4879a432f51b58a26946cff315eb5351f186329adee927b83e90c123b5",
+  "translation": "A mysterious person who seems to have a lot of influence in the underground of River City",
+  "vndb_url": "https://vndb.org/c128005"
+}

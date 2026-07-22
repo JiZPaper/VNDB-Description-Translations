@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155799",
+  "type": "character",
+  "name": "Lucy",
+  "original_name": "ルーシー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A beautiful elf.\n\nShe is respected by her people as a great magician. She is intelligent and curious. Her inquisitive nature makes her friendly.",
+  "source_sha256": "81b30777f2d48cb69573a54f2254b1545d9632942817288e4527a53995a173aa",
+  "translation": "A beautiful elf.\n\nShe is respected by her people as a great magician. She is intelligent and curious. Her inquisitive nature makes her friendly.",
+  "vndb_url": "https://vndb.org/c155799"
+}

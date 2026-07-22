@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48451",
+  "type": "character",
+  "name": "Sylvi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A well-read, albeit inexperienced, magician from the Elven Metropolis.",
+  "source_sha256": "b5ec6623ce9652bf487d43aad1a3f421a8a7073a8c639fbd0abdc23f49d18579",
+  "translation": "A well-read, albeit inexperienced, magician from the Elven Metropolis.",
+  "vndb_url": "https://vndb.org/c48451"
+}

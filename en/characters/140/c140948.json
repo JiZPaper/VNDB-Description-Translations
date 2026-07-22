@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140948",
+  "type": "character",
+  "name": "Max",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Max is main protagonist of Sanatorium",
+  "source_sha256": "fedc5d582cb1b997bb859969a272b223dbb01c549233e124a7c5b5e97ac43fcf",
+  "translation": "Max is main protagonist of Sanatorium",
+  "vndb_url": "https://vndb.org/c140948"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42112",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "2nd year high school student.\nHobby: Talking\nAn honest person with no prejudices that treats everybody equally.\nShe has a curious personality and is actually a bit meddling.\nA girl with a strong core who can be a bit shrewd.",
+  "source_sha256": "eccf1e55b52fe20feb61e6a177fa8d99f229eca578819653efad8c57bd21c297",
+  "translation": "2nd year high school student.\nHobby: Talking\nAn honest person with no prejudices that treats everybody equally.\nShe has a curious personality and is actually a bit meddling.\nA girl with a strong core who can be a bit shrewd.",
+  "vndb_url": "https://vndb.org/c42112"
+}

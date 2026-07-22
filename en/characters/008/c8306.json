@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8306",
+  "type": "character",
+  "name": "Xiao Yan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Food: Pork Buns\nInterests: Cooking & Fortune telling",
+  "source_sha256": "9bd041db37967a02fd9be6c87897d748bec8a7b82764d44fc97881d0fbbcd696",
+  "translation": "Food: Pork Buns\nInterests: Cooking & Fortune telling",
+  "vndb_url": "https://vndb.org/c8306"
+}

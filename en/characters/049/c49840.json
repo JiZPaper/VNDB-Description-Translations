@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c49840",
+  "type": "character",
+  "name": "Falke",
+  "original_name": "ファルケ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Punch: 3.5t / Kick: 10t / Jump: 15m (Next Ignition)",
+  "source_sha256": "f6efe1bcbc8ba8d7a4010d534e7d16ff8e8f5c747ae777e052bcbc11586ad947",
+  "translation": "Punch: 3.5t / Kick: 10t / Jump: 15m (Next Ignition)",
+  "vndb_url": "https://vndb.org/c49840"
+}

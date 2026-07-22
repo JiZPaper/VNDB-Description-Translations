@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27571",
+  "type": "visual_novel",
+  "name": "Rick and Morty - A Way Back Home",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a visual novel based on the TV series [i]Rick and Morty[/i].",
+  "source_sha256": "1484810c74a3e41f8ff63fb10315c76cbe54e6ed686f6f123b6a1d3c2a65ef21",
+  "translation": "This is a visual novel based on the TV series [i]Rick and Morty[/i].",
+  "vndb_url": "https://vndb.org/v27571"
+}

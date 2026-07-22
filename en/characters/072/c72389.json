@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c72389",
+  "type": "character",
+  "name": "Mabel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A client of Antonio's former workplace.",
+  "source_sha256": "290129ce025481405597bef4de425341b502307dee6aba4383508fa3f00f8cdb",
+  "translation": "A client of Antonio's former workplace.",
+  "vndb_url": "https://vndb.org/c72389"
+}

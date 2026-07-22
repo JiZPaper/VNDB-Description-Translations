@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64161",
+  "type": "visual_novel",
+  "name": "ANOPSIA",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A qualia subdued by Howling Stars.\n\nFeaturing select tracks from Yume Nikki, which belong to Kikiyama.",
+  "source_sha256": "7e3e4118498196f6c66240858ff343e933bcb05df682c9c612cfd436bf362561",
+  "translation": "A qualia subdued by Howling Stars.\n\nFeaturing select tracks from Yume Nikki, which belong to Kikiyama.",
+  "vndb_url": "https://vndb.org/v64161"
+}

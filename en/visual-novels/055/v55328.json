@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55328",
+  "type": "visual_novel",
+  "name": "Nastojaschij detektiv",
+  "original_name": "Настоящий детектив",
+  "language": "en",
+  "source_language": "en",
+  "source": "This mod tells the story of a detective who is investigating a missing person case.",
+  "source_sha256": "27ba302a3a1b1330227be51c152d5d2640ca1645d8f364e9fc1fb1354ede2156",
+  "translation": "This mod tells the story of a detective who is investigating a missing person case.",
+  "vndb_url": "https://vndb.org/v55328"
+}

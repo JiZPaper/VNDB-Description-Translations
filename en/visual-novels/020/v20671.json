@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20671",
+  "type": "visual_novel",
+  "name": "Animal Magnetism ~Pochi no Daisuki~",
+  "original_name": "あにまる・まぐねてぃずむ～ぽちのだいすき～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Pochi is left alone by her owner. How will she cope with her newfound desperation?",
+  "source_sha256": "7a9cff60f0c9d1a545d365e36c0c8ba3c0924e43edbe7f6464193f49b52ec971",
+  "translation": "Pochi is left alone by her owner. How will she cope with her newfound desperation?",
+  "vndb_url": "https://vndb.org/v20671"
+}

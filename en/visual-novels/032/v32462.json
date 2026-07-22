@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32462",
+  "type": "visual_novel",
+  "name": "Persimmon Bloom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "On a day without any plans, and nowhere you need to be, you decide to take a walk and explore a new part of the city.\nAfter rows of stores and restaurants that seem out of your budget, you find yourself before a simple cafe, \"Persimmon Bloom\"...\n\n[From in-game introduction]",
+  "source_sha256": "37e3cb396caee9edf9e574f4cb60544d0906dc43764ef0c814b4b519355ba1e2",
+  "translation": "On a day without any plans, and nowhere you need to be, you decide to take a walk and explore a new part of the city.\nAfter rows of stores and restaurants that seem out of your budget, you find yourself before a simple cafe, \"Persimmon Bloom\"...\n\n[From in-game introduction]",
+  "vndb_url": "https://vndb.org/v32462"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106165",
+  "type": "character",
+  "name": "Yumi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Aiko's sister",
+  "source_sha256": "17340f1310ff800f1e5d1a019d264227673578eed92f622c16228a36fc783d01",
+  "translation": "Aiko's sister",
+  "vndb_url": "https://vndb.org/c106165"
+}

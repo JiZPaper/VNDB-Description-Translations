@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41332",
+  "type": "character",
+  "name": "Rose",
+  "original_name": "ローズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A female swordsman with the Deek family.",
+  "source_sha256": "084e61e552a7ede02ad2bf99bcbd11d909efccb1e9b4c8a83ae2a4e99e43b54b",
+  "translation": "A female swordsman with the Deek family.",
+  "vndb_url": "https://vndb.org/c41332"
+}

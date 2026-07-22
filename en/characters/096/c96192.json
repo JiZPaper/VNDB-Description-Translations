@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96192",
+  "type": "character",
+  "name": "Alec",
+  "original_name": "アレク",
+  "language": "en",
+  "source_language": "en",
+  "source": "The headstrong waiter.",
+  "source_sha256": "4c0269c4d6dde4a181b8f5a34f244634f9a7ad39e194fcb5758123bb844c59f8",
+  "translation": "The headstrong waiter.",
+  "vndb_url": "https://vndb.org/c96192"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156589",
+  "type": "character",
+  "name": "Sashimi",
+  "original_name": "刺身",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sashimi is [url=/c21354]Aoba Kyousuke[/url]'s neighbor's dog (Chihuahua).",
+  "source_sha256": "88e37693d58bc357190286aa274b26feecdb4799e3900d32bbd2b2cfd64b2db8",
+  "translation": "Sashimi is [url=/c21354]Aoba Kyousuke[/url]'s neighbor's dog (Chihuahua).",
+  "vndb_url": "https://vndb.org/c156589"
+}

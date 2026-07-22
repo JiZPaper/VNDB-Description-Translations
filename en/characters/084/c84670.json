@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84670",
+  "type": "character",
+  "name": "Lucille",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lucille is Julien's girlfriend. She's nice but impatient and short-tempered.",
+  "source_sha256": "8b7efa6eb52b024a05a209cf12dc74327a61e4a2cdc26a47f4a7fc38a881a488",
+  "translation": "Lucille is Julien's girlfriend. She's nice but impatient and short-tempered.",
+  "vndb_url": "https://vndb.org/c84670"
+}

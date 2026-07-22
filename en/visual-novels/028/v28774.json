@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28774",
+  "type": "visual_novel",
+  "name": "Quickie: Victoria",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visit to the university pool develops into an unexpected dramatic event...",
+  "source_sha256": "7d1ba0a6b5862af80dfc86e44a93fe4a1c3f58e789b1783ff9fb86398997d807",
+  "translation": "A visit to the university pool develops into an unexpected dramatic event...",
+  "vndb_url": "https://vndb.org/v28774"
+}

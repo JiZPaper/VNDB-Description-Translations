@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c546",
+  "type": "character",
+  "name": "Lang Scrope",
+  "original_name": "ラング・スクロープ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fione's trusted vice-captain of the \"Wing Hunters\".",
+  "source_sha256": "580863ae4ff4899a26f4a132b0ab834c37cc74e2c4c1f3964013d6952bb9873e",
+  "translation": "Fione's trusted vice-captain of the \"Wing Hunters\".",
+  "vndb_url": "https://vndb.org/c546"
+}

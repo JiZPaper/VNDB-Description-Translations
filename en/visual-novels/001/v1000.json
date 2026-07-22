@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1000",
+  "type": "visual_novel",
+  "name": "Noel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Emanon, an organization run by special military forces. The protagonist is their top soldier, nicknamed the God of Death, her name is Noel. She is given a new mission, protecting a girl attending a prestigious academy for women while remaining undercover. To accomplish this, she infiltrates the school posing as a new student.",
+  "source_sha256": "00fd4c2df7d2eed896f0a10d4b0a0b45a7b8a895d69a84068a14b5d42d6a1d8f",
+  "translation": "Emanon, an organization run by special military forces. The protagonist is their top soldier, nicknamed the God of Death, her name is Noel. She is given a new mission, protecting a girl attending a prestigious academy for women while remaining undercover. To accomplish this, she infiltrates the school posing as a new student.",
+  "vndb_url": "https://vndb.org/v1000"
+}

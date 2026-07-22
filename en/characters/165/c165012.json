@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165012",
+  "type": "character",
+  "name": "Aviva",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Junior Interspecies Crime Officer.",
+  "source_sha256": "60feb6aef027c340a39803a7d108e9b82e63ed6a3e14ebdce70b9afd8f95d99d",
+  "translation": "A Junior Interspecies Crime Officer.",
+  "vndb_url": "https://vndb.org/c165012"
+}

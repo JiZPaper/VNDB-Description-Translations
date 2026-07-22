@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c16278",
+  "type": "character",
+  "name": "Semyon's Father",
+  "original_name": "Отец Семёна",
+  "language": "en",
+  "source_language": "en",
+  "source": "Semyon's father is mentioned only in 2009 demo of game.",
+  "source_sha256": "2d5f76a3c0c51e72503536bea27b0022b9cc519d344751351ca687a62f17dbf0",
+  "translation": "Semyon's father is mentioned only in 2009 demo of game.",
+  "vndb_url": "https://vndb.org/c16278"
+}

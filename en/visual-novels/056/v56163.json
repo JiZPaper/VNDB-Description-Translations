@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56163",
+  "type": "visual_novel",
+  "name": "The Virus Game HALLOWEEN",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Halloween special of The Virus Game",
+  "source_sha256": "d6b501ff16143b3b66ddfc25f9b3b6f22a6914d8efe02ebb3b573b2193ac8209",
+  "translation": "Halloween special of The Virus Game",
+  "vndb_url": "https://vndb.org/v56163"
+}

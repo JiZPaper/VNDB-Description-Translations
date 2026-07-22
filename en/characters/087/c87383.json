@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87383",
+  "type": "character",
+  "name": "Shaharl",
+  "original_name": "シャハル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A strange kid that appears for Ruin sometimes.",
+  "source_sha256": "3b870c52d57ca6282e2b40dc2d648608ca880591b2ccc13b4abe04823dea069d",
+  "translation": "A strange kid that appears for Ruin sometimes.",
+  "vndb_url": "https://vndb.org/c87383"
+}

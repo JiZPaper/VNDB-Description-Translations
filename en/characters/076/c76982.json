@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76982",
+  "type": "character",
+  "name": "Maxwell",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Brian's pet.",
+  "source_sha256": "a5e82c6ce23ca8681d1f188f22718267d1e1f115d890044ef941c3e54329abb2",
+  "translation": "Brian's pet.",
+  "vndb_url": "https://vndb.org/c76982"
+}

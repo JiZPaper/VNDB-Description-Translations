@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24102",
+  "type": "visual_novel",
+  "name": "Kono Mama",
+  "original_name": "このまま",
+  "language": "en",
+  "source_language": "en",
+  "source": "The story of a strange talkative girl in a hospital.\n\n[Translated from the [url=https://www.freem.ne.jp/win/game/18265]official site[/url]]",
+  "source_sha256": "545e5703ea465051888de12810ffd36fa11f183ba0fa0938b671e3e2bed9e722",
+  "translation": "The story of a strange talkative girl in a hospital.\n\n[Translated from the [url=https://www.freem.ne.jp/win/game/18265]official site[/url]]",
+  "vndb_url": "https://vndb.org/v24102"
+}

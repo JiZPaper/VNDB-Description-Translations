@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81959",
+  "type": "character",
+  "name": "Tiki",
+  "original_name": "ティキ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of a thieves' guild that accepts jobs from Lengalt. After attempting to leave the organization and being caught and beaten by her fellow guild members, she is rescued by Landis.",
+  "source_sha256": "f3b3df6778c2d6012782789fd1ddc2a86512451f270e7cfc56948c0e8f01748e",
+  "translation": "A member of a thieves' guild that accepts jobs from Lengalt. After attempting to leave the organization and being caught and beaten by her fellow guild members, she is rescued by Landis.",
+  "vndb_url": "https://vndb.org/c81959"
+}

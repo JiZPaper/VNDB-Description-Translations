@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29931",
+  "type": "character",
+  "name": "Miri",
+  "original_name": "ミリィ",
+  "language": "en",
+  "source_language": "en",
+  "source": "NPC of the game \"World\". She is helping Aki in his adventures.",
+  "source_sha256": "4bcef37123ec221412c12fcda7d1d64d65442d4c63ce700579de2d5a3a4922cc",
+  "translation": "NPC of the game \"World\". She is helping Aki in his adventures.",
+  "vndb_url": "https://vndb.org/c29931"
+}

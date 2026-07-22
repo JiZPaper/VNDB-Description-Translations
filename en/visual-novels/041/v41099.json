@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41099",
+  "type": "visual_novel",
+  "name": "Tushu Guan de Jiaoluo",
+  "original_name": "图书馆的角落",
+  "language": "en",
+  "source_language": "en",
+  "source": "Two dragons do something naughty while studying magic in the library.",
+  "source_sha256": "63669d1bddad51e6a11ca1a4bcc19d7171fb89f42d231b847881c5b1aa57483e",
+  "translation": "Two dragons do something naughty while studying magic in the library.",
+  "vndb_url": "https://vndb.org/v41099"
+}

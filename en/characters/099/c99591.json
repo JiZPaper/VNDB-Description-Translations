@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99591",
+  "type": "character",
+  "name": "Lamia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An artificial intelligence created to talk and identify people with mental issues and help them in their recovery/treatment.",
+  "source_sha256": "1eea6c16602f1c9b5deb0963c5d47292229f34d61e9753fa6cc756d5e0e3174c",
+  "translation": "An artificial intelligence created to talk and identify people with mental issues and help them in their recovery/treatment.",
+  "vndb_url": "https://vndb.org/c99591"
+}

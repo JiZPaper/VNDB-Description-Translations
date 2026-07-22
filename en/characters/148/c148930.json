@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148930",
+  "type": "character",
+  "name": "Michael",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Son of Catherine.\nBrother of Emily and Arthur.",
+  "source_sha256": "20310360df3a0211a8b2fb78c6a689a65add5cdba25925f7e714aad2a02da7c9",
+  "translation": "Son of Catherine.\nBrother of Emily and Arthur.",
+  "vndb_url": "https://vndb.org/c148930"
+}

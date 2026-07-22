@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123509",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Got disfigured and then immured.",
+  "source_sha256": "e5d33a40e3774b4f64d6dc8b09c0442252f3c0dd8800e4d3ea69cbc27e9516e3",
+  "translation": "Got disfigured and then immured.",
+  "vndb_url": "https://vndb.org/c123509"
+}

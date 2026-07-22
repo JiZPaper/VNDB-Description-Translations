@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124901",
+  "type": "character",
+  "name": "Seraphim",
+  "original_name": "セラフィム",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the \"Intelligent Angels.\"",
+  "source_sha256": "4d474ff2419f295621371c5884d4ab317efe1d57dfd02df3c2e8211d4e1f10cd",
+  "translation": "One of the \"Intelligent Angels.\"",
+  "vndb_url": "https://vndb.org/c124901"
+}

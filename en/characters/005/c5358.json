@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c5358",
+  "type": "character",
+  "name": "Erna",
+  "original_name": "エルナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sigurd's wife.",
+  "source_sha256": "40ae491e3220d6cddb7e33aef591e5fac98f9cea37c6017d7aed0dfa48297fcf",
+  "translation": "Sigurd's wife.",
+  "vndb_url": "https://vndb.org/c5358"
+}

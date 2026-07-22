@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137664",
+  "type": "character",
+  "name": "Lisa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The daughter of your secretary Rebecca.",
+  "source_sha256": "33d6c4d8955817e479d50b57f008a7fd95d0463cc4b5964c301d7a0e5cc0397b",
+  "translation": "The daughter of your secretary Rebecca.",
+  "vndb_url": "https://vndb.org/c137664"
+}

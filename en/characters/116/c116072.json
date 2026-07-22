@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116072",
+  "type": "character",
+  "name": "Dr. Harris",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Kim family doctor.",
+  "source_sha256": "5e713d313d356237a6ae6bd8b360b356dbddf159c497ce65a34cc0bbb37363df",
+  "translation": "The Kim family doctor.",
+  "vndb_url": "https://vndb.org/c116072"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98682",
+  "type": "character",
+  "name": "Raphael",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the seven Archangels whose main focus is healing.",
+  "source_sha256": "57f9feb92d42ca635d5fb8cdfa161c371109804bd3d390f026e12dedee2c28af",
+  "translation": "One of the seven Archangels whose main focus is healing.",
+  "vndb_url": "https://vndb.org/c98682"
+}

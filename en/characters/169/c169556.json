@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169556",
+  "type": "character",
+  "name": "Macro",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Seems to be John's boss.",
+  "source_sha256": "a3a592dfae6c9b9dca69565191b18048598760de6262f5ffd4e358dbbba73583",
+  "translation": "Seems to be John's boss.",
+  "vndb_url": "https://vndb.org/c169556"
+}

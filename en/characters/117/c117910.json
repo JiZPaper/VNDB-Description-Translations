@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117910",
+  "type": "character",
+  "name": "Mog",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The 2nd guardian of the Tower.",
+  "source_sha256": "4486fecbf5c8a607169e11de7d7450abd706eff3193364bccbb1f06cce44ad19",
+  "translation": "The 2nd guardian of the Tower.",
+  "vndb_url": "https://vndb.org/c117910"
+}

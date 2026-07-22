@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64924",
+  "type": "visual_novel",
+  "name": "YKMET: Lawrence",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Loosely based on Lawrence's path in Boyfriend to Death 2.",
+  "source_sha256": "b2e02a3101ba13e53327542ee9e62df9e36279420cfaeaf24e32c7798026ff50",
+  "translation": "Loosely based on Lawrence's path in Boyfriend to Death 2.",
+  "vndb_url": "https://vndb.org/v64924"
+}

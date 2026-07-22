@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45924",
+  "type": "character",
+  "name": "Raven",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your homeroom teacher, the person who blackmails you into joining several clubs.",
+  "source_sha256": "c5df27f38385832abb88b5285aecb36fecd4d27584e04c97e04109b7ec56ae79",
+  "translation": "Your homeroom teacher, the person who blackmails you into joining several clubs.",
+  "vndb_url": "https://vndb.org/c45924"
+}

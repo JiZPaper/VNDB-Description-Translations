@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9047",
+  "type": "visual_novel",
+  "name": "Umineko no Naku Koro ni Hane",
+  "original_name": "うみねこのなく頃に羽",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fandisc containing additional TIPS and a message from Ryukishi07.\n\nIncludes two side stories:\n- Jessica and the Killer Electric Fan\n- Forgery no.XXX",
+  "source_sha256": "41f0d5691f8b4ece4512e59232b872342c5407f78d409fab19879bee2d2abcfb",
+  "translation": "Fandisc containing additional TIPS and a message from Ryukishi07.\n\nIncludes two side stories:\n- Jessica and the Killer Electric Fan\n- Forgery no.XXX",
+  "vndb_url": "https://vndb.org/v9047"
+}

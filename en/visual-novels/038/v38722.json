@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38722",
+  "type": "visual_novel",
+  "name": "Glubinka",
+  "original_name": "Глубинка",
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel about detectives investigating crimes in the gloomy post-Soviet outback.",
+  "source_sha256": "815c8f07bff7569cfc3c7b75c9096303882691127435fea8786a0b9c863cde34",
+  "translation": "A visual novel about detectives investigating crimes in the gloomy post-Soviet outback.",
+  "vndb_url": "https://vndb.org/v38722"
+}

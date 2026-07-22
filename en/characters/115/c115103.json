@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115103",
+  "type": "character",
+  "name": "Miroku",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Koko's strange, yet oddly helpful neighbour.",
+  "source_sha256": "1a3a1c100df5bb201346af3696e35d2029d7030916f263ca9c32821734ccf4de",
+  "translation": "Koko's strange, yet oddly helpful neighbour.",
+  "vndb_url": "https://vndb.org/c115103"
+}

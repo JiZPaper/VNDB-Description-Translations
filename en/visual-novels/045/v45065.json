@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45065",
+  "type": "visual_novel",
+  "name": "EMAIL",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual horror experience.\n\n[From [url=https://wiakor.itch.io/email]Itch.io[/url]]",
+  "source_sha256": "3684a169f4cb63a0f70f0fc3ef9333d2310c2012bab5ffc40a765db02b4e52d1",
+  "translation": "A short visual horror experience.\n\n[From [url=https://wiakor.itch.io/email]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v45065"
+}

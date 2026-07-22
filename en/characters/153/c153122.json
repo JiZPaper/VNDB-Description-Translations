@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153122",
+  "type": "character",
+  "name": "Jean Henry Houdin",
+  "original_name": "장 헨리 후딘",
+  "language": "en",
+  "source_language": "en",
+  "source": "Skill: High velocity object propulsion",
+  "source_sha256": "a2bc80bc906622dfd1140ae4a715550c2571d8f7cc6ad829e35636040012411b",
+  "translation": "Skill: High velocity object propulsion",
+  "vndb_url": "https://vndb.org/c153122"
+}

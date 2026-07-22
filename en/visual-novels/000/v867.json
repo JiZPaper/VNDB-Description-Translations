@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v867",
+  "type": "visual_novel",
+  "name": "Lakeside Sunset",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "In the past, a promise was made.\nIn the present, you are waiting.\nWhat was the promise? Who was it made to? And most importantly...will it be fulfilled?",
+  "source_sha256": "b24cdf1ba8f5e614522890b3d199e23dd23bb401f75691c23cfc301d7b79af73",
+  "translation": "In the past, a promise was made.\nIn the present, you are waiting.\nWhat was the promise? Who was it made to? And most importantly...will it be fulfilled?",
+  "vndb_url": "https://vndb.org/v867"
+}

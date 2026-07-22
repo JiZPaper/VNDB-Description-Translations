@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105961",
+  "type": "character",
+  "name": "Stardust Night",
+  "original_name": "糖星夜",
+  "language": "en",
+  "source_language": "en",
+  "source": "A gloomy suspicious person who appeared in the middle of the night.",
+  "source_sha256": "df01dd54b60ddce80dca2e2b8ac68e5d9eba796a349e2da435734a297bef8053",
+  "translation": "A gloomy suspicious person who appeared in the middle of the night.",
+  "vndb_url": "https://vndb.org/c105961"
+}

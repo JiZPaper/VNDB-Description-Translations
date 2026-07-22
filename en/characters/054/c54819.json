@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c54819",
+  "type": "character",
+  "name": "Cradle",
+  "original_name": "クレイドル",
+  "language": "en",
+  "source_language": "en",
+  "source": "The AI who follows [url=/c48267]Eve[/url] around. He's responsible for keeping the whole Neosphere functioning.",
+  "source_sha256": "4f03ae84d18e4c1316ef5f134ce5897d1749d84b7f4b5ad28479c33ba9af86e4",
+  "translation": "The AI who follows [url=/c48267]Eve[/url] around. He's responsible for keeping the whole Neosphere functioning.",
+  "vndb_url": "https://vndb.org/c54819"
+}

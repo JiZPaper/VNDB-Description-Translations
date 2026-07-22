@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7564",
+  "type": "visual_novel",
+  "name": "One Lazy Saturday",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A sort of short KN themed around a guy and his roommate's day.",
+  "source_sha256": "aa03d9e5e559fff9a0ff8387e600542b2eb6fb450917ebefd4684fc063ed4c08",
+  "translation": "A sort of short KN themed around a guy and his roommate's day.",
+  "vndb_url": "https://vndb.org/v7564"
+}

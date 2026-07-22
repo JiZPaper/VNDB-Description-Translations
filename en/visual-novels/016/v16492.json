@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16492",
+  "type": "visual_novel",
+  "name": "A Tsundere Carol",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Tsundere Christmas Carol is a heartwarming story posted every Christmas Eve to 4chan's /a/ since 2011.\n\n[From [url=https://github.com/bibanon/a-tsundere-christmas-carol]GitHub[/url]]",
+  "source_sha256": "ab693c63e2971f0e1ff7e5036c16c6052abaded3c3984c75b2ef48197f86d1da",
+  "translation": "A Tsundere Christmas Carol is a heartwarming story posted every Christmas Eve to 4chan's /a/ since 2011.\n\n[From [url=https://github.com/bibanon/a-tsundere-christmas-carol]GitHub[/url]]",
+  "vndb_url": "https://vndb.org/v16492"
+}

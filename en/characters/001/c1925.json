@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c1925",
+  "type": "character",
+  "name": "Iizuka Kanoko",
+  "original_name": "飯塚 カノコ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Favorite Food: Apples, pears.\nDisliked Food: Spicy food, cucumbers.\nWorks at: Imported products shop, Japanese restaurant.",
+  "source_sha256": "ddc0041f3364dc4616c52a04445df677b2a41b38eb5fa3297300d6919fa7494d",
+  "translation": "Favorite Food: Apples, pears.\nDisliked Food: Spicy food, cucumbers.\nWorks at: Imported products shop, Japanese restaurant.",
+  "vndb_url": "https://vndb.org/c1925"
+}

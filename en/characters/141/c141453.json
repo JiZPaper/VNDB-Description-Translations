@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141453",
+  "type": "character",
+  "name": "Gotou",
+  "original_name": "ゴトー",
+  "language": "en",
+  "source_language": "en",
+  "source": "The leader of Gotou Faction.",
+  "source_sha256": "037dd4a3e83133bf409ecd2748274c152582e844997e4fb2c0b632061484746b",
+  "translation": "The leader of Gotou Faction.",
+  "vndb_url": "https://vndb.org/c141453"
+}

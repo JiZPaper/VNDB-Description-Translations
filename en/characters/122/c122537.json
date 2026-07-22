@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122537",
+  "type": "character",
+  "name": "Seraphine",
+  "original_name": "V3",
+  "language": "en",
+  "source_language": "en",
+  "source": "An AI program in the guise of a young woman.",
+  "source_sha256": "dd9a5f7f3f463bcd06c17963d7b99b98e17752c9d95e510df9fd0edfb4986ac8",
+  "translation": "An AI program in the guise of a young woman.",
+  "vndb_url": "https://vndb.org/c122537"
+}

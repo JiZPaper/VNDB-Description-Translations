@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93514",
+  "type": "character",
+  "name": "Logan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The local ruffian with bad manners and a reputation for aggression and stealing.",
+  "source_sha256": "9c557257eea71aa401bf6112e1b4ef801c988dc4aa076442f6fd4191c6a7fd28",
+  "translation": "The local ruffian with bad manners and a reputation for aggression and stealing.",
+  "vndb_url": "https://vndb.org/c93514"
+}

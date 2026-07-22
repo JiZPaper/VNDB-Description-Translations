@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63799",
+  "type": "visual_novel",
+  "name": "Sneakers",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A shitpost based on the Sneakers O'Toole bit from Family Guy.",
+  "source_sha256": "cab911b3116954b8829ed3cba0b721b8cef77d67f7e42c9bfa4aed6d94a5fa92",
+  "translation": "A shitpost based on the Sneakers O'Toole bit from Family Guy.",
+  "vndb_url": "https://vndb.org/v63799"
+}

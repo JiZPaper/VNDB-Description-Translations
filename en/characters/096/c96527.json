@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96527",
+  "type": "character",
+  "name": "Old Man Herk",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Old man from Apollo's village.",
+  "source_sha256": "3214ff350efb21f5111289adc337ae7901f724ca5d065e92b3c99fdc722d6e20",
+  "translation": "Old man from Apollo's village.",
+  "vndb_url": "https://vndb.org/c96527"
+}

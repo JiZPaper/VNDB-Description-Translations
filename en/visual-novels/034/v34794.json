@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34794",
+  "type": "visual_novel",
+  "name": "Midnight Train: Going Anywhere",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Pudding takes a commute and chats with a passenger.\n\n[From [url=https://strateaux.itch.io/]Itch.io[/url]]",
+  "source_sha256": "451cf0fa4382159f8aa5dae69a7fadb32ce4c332db1e5c740c2a5f8be8b2cbf5",
+  "translation": "Pudding takes a commute and chats with a passenger.\n\n[From [url=https://strateaux.itch.io/]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v34794"
+}

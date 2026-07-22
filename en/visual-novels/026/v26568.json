@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26568",
+  "type": "visual_novel",
+  "name": "Gyakuten Touhou 3",
+  "original_name": "逆転東方3",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sequel to [url=/v26567]Gyakuten Touhou 2[/url] with five new cases.",
+  "source_sha256": "7f53c4461f4d3d27e09a03ca3a5d6a158bc450daf94da9fee09e137b1688b673",
+  "translation": "Sequel to [url=/v26567]Gyakuten Touhou 2[/url] with five new cases.",
+  "vndb_url": "https://vndb.org/v26568"
+}

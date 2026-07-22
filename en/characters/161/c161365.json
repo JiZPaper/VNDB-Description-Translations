@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161365",
+  "type": "character",
+  "name": "Gunhild",
+  "original_name": "グンヒルド",
+  "language": "en",
+  "source_language": "en",
+  "source": "Corrupted form of Gunhild.",
+  "source_sha256": "b6f35b4ebf2aa98fe961baa9eb91eb07305816a742597b0e2528548590062ef6",
+  "translation": "Corrupted form of Gunhild.",
+  "vndb_url": "https://vndb.org/c161365"
+}

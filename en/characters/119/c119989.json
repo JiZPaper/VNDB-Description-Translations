@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c119989",
+  "type": "character",
+  "name": "Annabelle",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The town's resident nun. She and Camielle do not like each other.",
+  "source_sha256": "f8eda7d5e158c7747beb0aa566a4431927a1063bc30b4c3f33c5002069bc0cf5",
+  "translation": "The town's resident nun. She and Camielle do not like each other.",
+  "vndb_url": "https://vndb.org/c119989"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166587",
+  "type": "character",
+  "name": "Owl-Nia-Ibis",
+  "original_name": "アウル＝ニア＝アイビス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Job: Mage\nOrigin: Magic City Arkham\n\nA theoretical mage, she excels at offensive magic and analysis, and is the brains of the party.\nShe tends to be very particular about things, and this particularity is especially reflected in her cooking.\nShe has a strong interest in salt and herbs, and keeps several of her favorite seasonings in stock.",
+  "source_sha256": "4296aa2d160c1b80f31d6d79e58979810b306cf811fef0e9aad18c232d9eafdb",
+  "translation": "Job: Mage\nOrigin: Magic City Arkham\n\nA theoretical mage, she excels at offensive magic and analysis, and is the brains of the party.\nShe tends to be very particular about things, and this particularity is especially reflected in her cooking.\nShe has a strong interest in salt and herbs, and keeps several of her favorite seasonings in stock.",
+  "vndb_url": "https://vndb.org/c166587"
+}

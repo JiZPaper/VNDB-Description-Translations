@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c6839",
+  "type": "character",
+  "name": "Tsuzuri Kanata",
+  "original_name": "綴 カナタ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Applying the [url=https://vndb.org/r78813]Otoko no Ko patch[/url] will turn Kanata into a male.",
+  "source_sha256": "e37067de3ff5f5dc109ed1470fa4ff9f9ec790df5a417c48c1db7ad7780f17a7",
+  "translation": "Applying the [url=https://vndb.org/r78813]Otoko no Ko patch[/url] will turn Kanata into a male.",
+  "vndb_url": "https://vndb.org/c6839"
+}

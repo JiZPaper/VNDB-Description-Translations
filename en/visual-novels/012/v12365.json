@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12365",
+  "type": "visual_novel",
+  "name": "Hello Kitten's Paradise",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dating game in which you can date Tumblr user hellokittysparadise, aka Racheal.",
+  "source_sha256": "4abd2d049064a13bd353549f44db6bb5b7bfa4e208d3abc0cfa3c09d02668dce",
+  "translation": "A dating game in which you can date Tumblr user hellokittysparadise, aka Racheal.",
+  "vndb_url": "https://vndb.org/v12365"
+}

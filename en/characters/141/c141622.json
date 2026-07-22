@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141622",
+  "type": "character",
+  "name": "Marshal Flinkman",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader of the army in Beatrice's country.",
+  "source_sha256": "33ea6fd50a9e22e4a56df02aa220f7ad6675e132f5ed9f02af0de1286da84d70",
+  "translation": "Leader of the army in Beatrice's country.",
+  "vndb_url": "https://vndb.org/c141622"
+}

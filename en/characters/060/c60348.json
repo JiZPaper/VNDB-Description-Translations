@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60348",
+  "type": "character",
+  "name": "Leon Poker",
+  "original_name": "レオン＝ポーカー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A real estate agent.\nHobby: Reading",
+  "source_sha256": "b8eee9a2beaf8262bdfc9b893afb516e9eae15c7db1fb4828e4b9d78a7cddf06",
+  "translation": "A real estate agent.\nHobby: Reading",
+  "vndb_url": "https://vndb.org/c60348"
+}

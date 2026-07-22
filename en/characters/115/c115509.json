@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115509",
+  "type": "character",
+  "name": "Recruit",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A person that finds themselves in the world of Teen Titans.",
+  "source_sha256": "4c507c7f89c30dba0272dfa538d4dff7b2d519ad6ef00eb59d98a282c992ec7b",
+  "translation": "A person that finds themselves in the world of Teen Titans.",
+  "vndb_url": "https://vndb.org/c115509"
+}

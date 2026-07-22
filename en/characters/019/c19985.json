@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19985",
+  "type": "character",
+  "name": "Paula Deen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A friendly Southern cook who's obsessed with butter.",
+  "source_sha256": "9786c05392f0b346a698cc9e0ce1c793e11e5542e02912ec7394170884c61674",
+  "translation": "A friendly Southern cook who's obsessed with butter.",
+  "vndb_url": "https://vndb.org/c19985"
+}

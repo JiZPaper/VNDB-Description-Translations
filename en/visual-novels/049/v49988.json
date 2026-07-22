@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49988",
+  "type": "visual_novel",
+  "name": "Cat Life",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Experience the life of a stray cat trying to find the right home.\n\n[From [url=https://sparkshifter.itch.io/cat-life]Itch.io[/url]]",
+  "source_sha256": "0e9ce669d0f68cccddc392f1ba0dce903d75d2252b33db3dd64d9943b6e3a2b1",
+  "translation": "Experience the life of a stray cat trying to find the right home.\n\n[From [url=https://sparkshifter.itch.io/cat-life]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v49988"
+}

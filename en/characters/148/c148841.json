@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148841",
+  "type": "character",
+  "name": "Tamara",
+  "original_name": "Тамара",
+  "language": "en",
+  "source_language": "en",
+  "source": "She is the manager of the perfume shop",
+  "source_sha256": "4b312399094e09ec8573a6bc903cf7e4fefc9d6277b7459489762f2ede452f31",
+  "translation": "She is the manager of the perfume shop",
+  "vndb_url": "https://vndb.org/c148841"
+}

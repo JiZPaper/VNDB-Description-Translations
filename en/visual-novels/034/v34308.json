@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34308",
+  "type": "visual_novel",
+  "name": "ChloeVely",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Chloe finds herself trapped in a white room accompanied by another person.",
+  "source_sha256": "767fe85c255677d5a479105efa0862568e9dbb687187767eab8b93e31df3e30f",
+  "translation": "Chloe finds herself trapped in a white room accompanied by another person.",
+  "vndb_url": "https://vndb.org/v34308"
+}

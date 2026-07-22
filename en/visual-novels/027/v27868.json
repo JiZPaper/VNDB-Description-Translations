@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27868",
+  "type": "visual_novel",
+  "name": "Down By the Lake",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A murder in the campground…\nWill you be able to find the culprit?\n\n[From official site]",
+  "source_sha256": "1e4daf0e4226631f12d13c1d297269cdf44b213386e79ff68414996289189a27",
+  "translation": "A murder in the campground…\nWill you be able to find the culprit?\n\n[From official site]",
+  "vndb_url": "https://vndb.org/v27868"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44540",
+  "type": "character",
+  "name": "Dullahan",
+  "original_name": "デュラハン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Faction: Asmodian\nSkill: Dark Miasma (Kuroi Shouki)\nArtist: [url=/s5690]sian[/url]\nCard: [url=https://s.vndb.org/sf/15/93215.jpg]AS 5 Stars EX[/url]",
+  "source_sha256": "0f1269a364f26c3fcca05706d0a5719e7467f54e384ca690776c4b30efa3310d",
+  "translation": "Faction: Asmodian\nSkill: Dark Miasma (Kuroi Shouki)\nArtist: [url=/s5690]sian[/url]\nCard: [url=https://s.vndb.org/sf/15/93215.jpg]AS 5 Stars EX[/url]",
+  "vndb_url": "https://vndb.org/c44540"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c147793",
+  "type": "character",
+  "name": "Mike",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of Heaven's Door",
+  "source_sha256": "1669ce02bd65e7e2feebdbf3cb27fcdd9e139056a96b40a17d84904658dc15e2",
+  "translation": "The owner of Heaven's Door",
+  "vndb_url": "https://vndb.org/c147793"
+}

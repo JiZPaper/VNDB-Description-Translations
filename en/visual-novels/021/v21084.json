@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21084",
+  "type": "visual_novel",
+  "name": "The Diary",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Diary is a spin-off of the horror visual novel game, The Letter. Join Rebecca Gales and Ashton Frey in their childhood adventures!",
+  "source_sha256": "4513e7cafd5e7400c91dc2f7f1c120aa9a0130e36a28329183670ec80bcd3959",
+  "translation": "The Diary is a spin-off of the horror visual novel game, The Letter. Join Rebecca Gales and Ashton Frey in their childhood adventures!",
+  "vndb_url": "https://vndb.org/v21084"
+}

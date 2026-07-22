@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127301",
+  "type": "character",
+  "name": "Lupin III",
+  "original_name": "ルパン三世",
+  "language": "en",
+  "source_language": "en",
+  "source": "Lupin III is the world's most wanted gentleman thief and the grandson of Arsène Lupin. Having been caught by Inspector Zenigata for once, he figures he could use his charm to distract the smitten detective just long enough to plan his escape.",
+  "source_sha256": "087d5c7bb9cfa1da8c8d9f20f0c9a3a2a13a63e075ad829c3f958ecfb4faf70d",
+  "translation": "Lupin III is the world's most wanted gentleman thief and the grandson of Arsène Lupin. Having been caught by Inspector Zenigata for once, he figures he could use his charm to distract the smitten detective just long enough to plan his escape.",
+  "vndb_url": "https://vndb.org/c127301"
+}

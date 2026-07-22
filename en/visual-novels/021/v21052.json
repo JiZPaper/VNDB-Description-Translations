@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21052",
+  "type": "visual_novel",
+  "name": "Hey, Sis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Andy has been kicked out of the house by his parents and decided to move in with his sister Kate, until he finds other accommodations.",
+  "source_sha256": "50cf37911159e0a703922a018e326a1006c3012bc7b693651a81a915e2bfca06",
+  "translation": "Andy has been kicked out of the house by his parents and decided to move in with his sister Kate, until he finds other accommodations.",
+  "vndb_url": "https://vndb.org/v21052"
+}

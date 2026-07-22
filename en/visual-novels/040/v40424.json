@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40424",
+  "type": "visual_novel",
+  "name": "Sweet Memories",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Precocious pre-teen Devon learns about sex.",
+  "source_sha256": "3e7fbd2993db23ea3ee3160ea1ead921de025f79c7fdcf9d2e28f1a566c4465d",
+  "translation": "Precocious pre-teen Devon learns about sex.",
+  "vndb_url": "https://vndb.org/v40424"
+}

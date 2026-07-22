@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99599",
+  "type": "character",
+  "name": "Hardvin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Weidendorf's city guard. Under Naymann's instructions, he is told to protect Sophie.",
+  "source_sha256": "14555680bf1b5d53f3cb512a1e78fa6439e9f5666c447ef2424dfcf03e53c756",
+  "translation": "Weidendorf's city guard. Under Naymann's instructions, he is told to protect Sophie.",
+  "vndb_url": "https://vndb.org/c99599"
+}

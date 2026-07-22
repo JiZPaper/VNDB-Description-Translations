@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117345",
+  "type": "character",
+  "name": "Lara",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Amy's best friend.",
+  "source_sha256": "0dfe012eeaf5149af15c232f5e6fda85341b948cd1cba34a0876ebd5beca4ba7",
+  "translation": "Amy's best friend.",
+  "vndb_url": "https://vndb.org/c117345"
+}

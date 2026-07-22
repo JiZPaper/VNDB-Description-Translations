@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1507",
+  "type": "visual_novel",
+  "name": "NekoNeko Fan Disc",
+  "original_name": "ねこねこファンディスク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Contains omake (bonus) material related to NekoNeko's earlier games.",
+  "source_sha256": "eda566e5c219988be1588ca678d258723bd50c6d8465435c35d9d3c6c54dbca0",
+  "translation": "Contains omake (bonus) material related to NekoNeko's earlier games.",
+  "vndb_url": "https://vndb.org/v1507"
+}

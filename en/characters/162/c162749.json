@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162749",
+  "type": "character",
+  "name": "Infernus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Demian representative of the Galactic Council",
+  "source_sha256": "a2ebc2c75d74859069ef530465fcdb1a6a9726a915fb02f9dc14f2ba4798a631",
+  "translation": "Demian representative of the Galactic Council",
+  "vndb_url": "https://vndb.org/c162749"
+}

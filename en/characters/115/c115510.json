@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115510",
+  "type": "character",
+  "name": "Taxi Driver",
+  "original_name": "的士司機",
+  "language": "en",
+  "source_language": "en",
+  "source": "The cab driver who picked up Lung and Yen.\nHe cooperates with Lai because he is a former detective.",
+  "source_sha256": "0e7d8b91df44b9cb15405fe829f7c8a5c4b63f2732680e084d17d6f457f784fd",
+  "translation": "The cab driver who picked up Lung and Yen.\nHe cooperates with Lai because he is a former detective.",
+  "vndb_url": "https://vndb.org/c115510"
+}

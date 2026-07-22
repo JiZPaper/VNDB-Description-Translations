@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141556",
+  "type": "character",
+  "name": "Prince",
+  "original_name": "王子",
+  "language": "en",
+  "source_language": "en",
+  "source": "--The white prince with eyes filled with sorrow.",
+  "source_sha256": "4d1d01e4cad0042ad80dd281e1bfa62e78a0bddb1904f41e171c8bd24a51096b",
+  "translation": "--The white prince with eyes filled with sorrow.",
+  "vndb_url": "https://vndb.org/c141556"
+}

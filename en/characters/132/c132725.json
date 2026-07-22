@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132725",
+  "type": "character",
+  "name": "Fisk",
+  "original_name": "Фиск",
+  "language": "en",
+  "source_language": "en",
+  "source": "He's a simple, plain-spoken beastman with whom it's easy to find common ground! He looks like a scruffy adventurer dealt a bad hand by life, but I don't know anything about his past.",
+  "source_sha256": "d8e05ca29a9455029c93d44b0cb68f6876d75e6a91cd7629939519dac6f4e7c3",
+  "translation": "He's a simple, plain-spoken beastman with whom it's easy to find common ground! He looks like a scruffy adventurer dealt a bad hand by life, but I don't know anything about his past.",
+  "vndb_url": "https://vndb.org/c132725"
+}

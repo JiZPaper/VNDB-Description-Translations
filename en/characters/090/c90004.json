@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90004",
+  "type": "character",
+  "name": "Gale",
+  "original_name": "ゲイル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Masked swordsman who acts according to the orders of the evil priest Arachne.",
+  "source_sha256": "7b82616d36c473b73003610d54b44821df5c694334cbc78ce6e4354731fd95cc",
+  "translation": "Masked swordsman who acts according to the orders of the evil priest Arachne.",
+  "vndb_url": "https://vndb.org/c90004"
+}

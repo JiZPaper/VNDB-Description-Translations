@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27281",
+  "type": "visual_novel",
+  "name": "Mil Kaigan de Asobo!",
+  "original_name": "ミル海岸であそぼ！",
+  "language": "en",
+  "source_language": "en",
+  "source": "Puyo Puyo Fever fangame.",
+  "source_sha256": "8d8b972f11acbf204c1391cc496538c5ed4e84fba68284caf54b9a2010f89bcb",
+  "translation": "Puyo Puyo Fever fangame.",
+  "vndb_url": "https://vndb.org/v27281"
+}

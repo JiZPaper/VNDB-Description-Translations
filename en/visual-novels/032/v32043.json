@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32043",
+  "type": "visual_novel",
+  "name": "Kusatta Kajitsu -Rotten Fruit-",
+  "original_name": "腐った果実-Rotten Fruit-",
+  "language": "en",
+  "source_language": "en",
+  "source": "A black-clad man meets a girl surrounded by light.",
+  "source_sha256": "d1672b1caac59b34683e57d1ce0a20315cbe7498a5740d3525bb0ad101dde39b",
+  "translation": "A black-clad man meets a girl surrounded by light.",
+  "vndb_url": "https://vndb.org/v32043"
+}

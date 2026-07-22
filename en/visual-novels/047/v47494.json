@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47494",
+  "type": "visual_novel",
+  "name": "Blood and Tea",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Serve some very special drinks to a very special guest.\n\n[From [url=https://maho-anpu.itch.io/blood-and-tea]itch.io[/url]]",
+  "source_sha256": "95a3fd1878bcf9776117c76118d62a2c59507185373f134052cdbab0a65c3453",
+  "translation": "Serve some very special drinks to a very special guest.\n\n[From [url=https://maho-anpu.itch.io/blood-and-tea]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v47494"
+}

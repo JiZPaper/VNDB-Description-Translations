@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13752",
+  "type": "visual_novel",
+  "name": "Som'thin' Short",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are an exchange student at a school full of strange girls.",
+  "source_sha256": "a4575756198f42e1f212b5e3957fd69854e366aaae4aaf2f12d6a0582a416f4b",
+  "translation": "You are an exchange student at a school full of strange girls.",
+  "vndb_url": "https://vndb.org/v13752"
+}

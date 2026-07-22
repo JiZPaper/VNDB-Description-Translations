@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40717",
+  "type": "visual_novel",
+  "name": "Mystique Express",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Love, Life, and Samosas",
+  "source_sha256": "fff7541b04a670cc7b3b0578d1e8ee51a9e7f74281d8829c95e125d57f32b5d7",
+  "translation": "Love, Life, and Samosas",
+  "vndb_url": "https://vndb.org/v40717"
+}

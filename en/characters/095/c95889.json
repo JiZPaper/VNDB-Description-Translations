@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95889",
+  "type": "character",
+  "name": "Carlo Mazza",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Executive Chef",
+  "source_sha256": "d50f7f9fc6b2bd07c91462ad1afdffda9b0bbf835e7fb8c882352bc150055ba0",
+  "translation": "Executive Chef",
+  "vndb_url": "https://vndb.org/c95889"
+}

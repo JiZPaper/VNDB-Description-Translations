@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99642",
+  "type": "character",
+  "name": "The Elf",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Bard's sister.",
+  "source_sha256": "63e15931db1fa104e236d3cd7ce6f2f633fae305d5218aeec8f7d9dbbdab2d3e",
+  "translation": "The Bard's sister.",
+  "vndb_url": "https://vndb.org/c99642"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60391",
+  "type": "visual_novel",
+  "name": "Verdades Incompletas",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You’ve died, and your three friends visit your home. One of them may have killed you. Investigate, explore each room, and listen as they reveal fragments of truth.\n\n[From [url=https://eternodev.itch.io/verdades-incompletas]Itch.io[/url]]",
+  "source_sha256": "23ece0282658a539e6655d28791cf9cc22035643f3c1e74068cf757a190e2980",
+  "translation": "You’ve died, and your three friends visit your home. One of them may have killed you. Investigate, explore each room, and listen as they reveal fragments of truth.\n\n[From [url=https://eternodev.itch.io/verdades-incompletas]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v60391"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35874",
+  "type": "visual_novel",
+  "name": "Lost Sea",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "In Lost Sea you play the role of Yon - who wakes up without his memories in a strange place.",
+  "source_sha256": "4c9369f8751c5dfa8d5419ba1904879c43628c18864f601badf5636689357eee",
+  "translation": "In Lost Sea you play the role of Yon - who wakes up without his memories in a strange place.",
+  "vndb_url": "https://vndb.org/v35874"
+}

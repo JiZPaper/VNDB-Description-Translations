@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35471",
+  "type": "character",
+  "name": "Fujimori Tetta",
+  "original_name": "藤盛 鉄太",
+  "language": "en",
+  "source_language": "en",
+  "source": "Chef",
+  "source_sha256": "a9464b40959db15724a8600cc7d6b663f56a65e953b3db6b076a677a2d305d40",
+  "translation": "Chef",
+  "vndb_url": "https://vndb.org/c35471"
+}

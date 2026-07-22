@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84932",
+  "type": "character",
+  "name": "Alex (male form)",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nameable protagonist (default name: Alex). He ends up experiencing strange transformations, after the most recent Emily's invention didn't work as expected.\n\nNote: For the purpose of convenience, this entry applies to all cases where Alex is still biologically male, even if other physical changes occur.",
+  "source_sha256": "4712101daa0c733edb1b9c00acee75119172faa10f6c5be44b4447a9b40a5133",
+  "translation": "Nameable protagonist (default name: Alex). He ends up experiencing strange transformations, after the most recent Emily's invention didn't work as expected.\n\nNote: For the purpose of convenience, this entry applies to all cases where Alex is still biologically male, even if other physical changes occur.",
+  "vndb_url": "https://vndb.org/c84932"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10061",
+  "type": "visual_novel",
+  "name": "ValentaIN: Ore ga Valentine da!!",
+  "original_name": "バレンタIN 俺がバレンタインだ!!",
+  "language": "en",
+  "source_language": "en",
+  "source": "Barnaby and Kotetsu are lovers. They had been happy, but then, they had a fight. Can they reconcile in time for their first Valentine's Day?",
+  "source_sha256": "6af8afb258fa38666e3ef12e60e800a13fe60996c339fae91a68a44d75afe8a4",
+  "translation": "Barnaby and Kotetsu are lovers. They had been happy, but then, they had a fight. Can they reconcile in time for their first Valentine's Day?",
+  "vndb_url": "https://vndb.org/v10061"
+}

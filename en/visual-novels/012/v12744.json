@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12744",
+  "type": "visual_novel",
+  "name": "Li'l Red",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fairy tale, loosely based on the story of Little Red Riding Hood.",
+  "source_sha256": "bde0f950aec32caff0de2c33015c9042a34b243bb25de4a31fe2a7798f39d8a2",
+  "translation": "A fairy tale, loosely based on the story of Little Red Riding Hood.",
+  "vndb_url": "https://vndb.org/v12744"
+}

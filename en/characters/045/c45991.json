@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45991",
+  "type": "character",
+  "name": "Akari",
+  "original_name": "あかり",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fighting Miko",
+  "source_sha256": "01d71bb9d68bfd676f6ffb9f8cd3ae3bb821a7dde3ce03755509448443b114e5",
+  "translation": "Fighting Miko",
+  "vndb_url": "https://vndb.org/c45991"
+}

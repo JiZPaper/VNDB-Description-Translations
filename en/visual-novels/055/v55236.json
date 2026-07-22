@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55236",
+  "type": "visual_novel",
+  "name": "Secret Garden",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You wake up in a garden, unable to remember what happened. but you receive an invitation to a tea party—set to take place in seven days.\n\n[From [url=https://deliygarden.itch.io/secret-garden]itch.io[/url]]",
+  "source_sha256": "582f6ef532b279a4d9a62831e9fdcf92d14809a4c23a137b735586f68df21a16",
+  "translation": "You wake up in a garden, unable to remember what happened. but you receive an invitation to a tea party—set to take place in seven days.\n\n[From [url=https://deliygarden.itch.io/secret-garden]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v55236"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170685",
+  "type": "character",
+  "name": "Kiri",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The lab's artificial intelligence.",
+  "source_sha256": "8123590c1cd4dd449d5bb96860294f5049e7fb9c35ac34e24613d5b31c3a91ba",
+  "translation": "The lab's artificial intelligence.",
+  "vndb_url": "https://vndb.org/c170685"
+}

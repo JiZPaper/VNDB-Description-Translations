@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146979",
+  "type": "character",
+  "name": "Mike",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The hero's uncle, with whom he lives.",
+  "source_sha256": "f170a943541dab1ff56d81e10d68875bca2e8c4f6c6b3ef1fd5a3066a00396bb",
+  "translation": "The hero's uncle, with whom he lives.",
+  "vndb_url": "https://vndb.org/c146979"
+}

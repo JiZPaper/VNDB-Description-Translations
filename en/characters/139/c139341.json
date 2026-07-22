@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139341",
+  "type": "character",
+  "name": "Barnabas",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Has some type of handicap and cannot walk. Likes books about adventurers.\n\nWard of Solah.\n\n[In game description]",
+  "source_sha256": "baff77eed74ffedd6b1bb0e2c94aede96746633cb44d2992c733b190db0dc250",
+  "translation": "Has some type of handicap and cannot walk. Likes books about adventurers.\n\nWard of Solah.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c139341"
+}

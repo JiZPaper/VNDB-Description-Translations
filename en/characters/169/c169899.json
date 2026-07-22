@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169899",
+  "type": "character",
+  "name": "Lorenzo Abruzzi Sr.",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The father of [url=/c169816]Lorenzo Abruzzi Jr.[/url].",
+  "source_sha256": "a12c07c09d4f3072e63d1f621513d7485efd64828319bb7007c972403b8c2fa2",
+  "translation": "The father of [url=/c169816]Lorenzo Abruzzi Jr.[/url].",
+  "vndb_url": "https://vndb.org/c169899"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c59567",
+  "type": "character",
+  "name": "Penpen",
+  "original_name": "ペンペン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A personified pen case who always look energetic.",
+  "source_sha256": "e6928c53b8af2f093fc0cb3abb622ccacc851bf375f38deb34b5cb64150e1854",
+  "translation": "A personified pen case who always look energetic.",
+  "vndb_url": "https://vndb.org/c59567"
+}

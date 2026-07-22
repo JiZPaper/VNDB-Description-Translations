@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141684",
+  "type": "character",
+  "name": "Franklin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Tyrone's friend.",
+  "source_sha256": "5aa6c242a23ee2d0eb708f5284245615082ed237d6a466c4de28a1aba1938a96",
+  "translation": "Tyrone's friend.",
+  "vndb_url": "https://vndb.org/c141684"
+}

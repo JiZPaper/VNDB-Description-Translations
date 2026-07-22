@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25734",
+  "type": "visual_novel",
+  "name": "Date a Clima!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An air conditioner romance.",
+  "source_sha256": "007c5ac35e38d0dc43c07114dd77768fd5efc73da59b6bc3c6a632187e97628d",
+  "translation": "An air conditioner romance.",
+  "vndb_url": "https://vndb.org/v25734"
+}

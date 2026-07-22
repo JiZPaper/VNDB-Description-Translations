@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75526",
+  "type": "character",
+  "name": "Willow",
+  "original_name": "ウィロウ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cat breed: Scottish Fold",
+  "source_sha256": "c433ddcb97816ad578108e46c075e2899d9fdc7596645e70d09c7f7003828c37",
+  "translation": "Cat breed: Scottish Fold",
+  "vndb_url": "https://vndb.org/c75526"
+}

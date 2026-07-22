@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93392",
+  "type": "character",
+  "name": "Lisa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Maya's friend.",
+  "source_sha256": "5901734b01b11c6bbd760ba10af88ead3deebb4253675cda40c166ca3be0945d",
+  "translation": "Maya's friend.",
+  "vndb_url": "https://vndb.org/c93392"
+}

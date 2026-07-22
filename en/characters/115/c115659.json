@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115659",
+  "type": "character",
+  "name": "Duane",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Grumville Library's security guard.",
+  "source_sha256": "09688e2ed720697559ce20845873f548852984cf5aeb73629126a62a22cbda79",
+  "translation": "Grumville Library's security guard.",
+  "vndb_url": "https://vndb.org/c115659"
+}

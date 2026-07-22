@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153273",
+  "type": "character",
+  "name": "Zad Vering",
+  "original_name": "쟈드 베링",
+  "language": "en",
+  "source_language": "en",
+  "source": "Skill: Pattern-based coordinate interpretation",
+  "source_sha256": "60787c4f215c6ff767f58ff4138212fcfc55bb8577f0401f830f542f337e148b",
+  "translation": "Skill: Pattern-based coordinate interpretation",
+  "vndb_url": "https://vndb.org/c153273"
+}

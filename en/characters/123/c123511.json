@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123511",
+  "type": "character",
+  "name": "Elder Sister",
+  "original_name": "姐姐",
+  "language": "en",
+  "source_language": "en",
+  "source": "Died in an accident.",
+  "source_sha256": "7010c2616e6423f7eae9785e49a315618bb892569a95686c8bfbac4b877856d9",
+  "translation": "Died in an accident.",
+  "vndb_url": "https://vndb.org/c123511"
+}

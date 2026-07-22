@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21999",
+  "type": "character",
+  "name": "Haron",
+  "original_name": "ハロン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mi Shuran's  mascot robot",
+  "source_sha256": "8fd35c8e24acf217316056f9c50e00438f708392d515cd2de385d10958b9e88a",
+  "translation": "Mi Shuran's  mascot robot",
+  "vndb_url": "https://vndb.org/c21999"
+}

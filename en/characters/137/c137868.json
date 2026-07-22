@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137868",
+  "type": "character",
+  "name": "Yisnna",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is the librarian of Allesterra.",
+  "source_sha256": "0bd87d27401443fd26f37653c9c94f0868df1bf658c68cb0996488ab2b8077ac",
+  "translation": "She is the librarian of Allesterra.",
+  "vndb_url": "https://vndb.org/c137868"
+}

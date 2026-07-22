@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42599",
+  "type": "character",
+  "name": "Sevastius",
+  "original_name": "セヴァスティウス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sashiane's butler",
+  "source_sha256": "c1475ef20c5f0a93dda683e5f7e7133c39b12345c8b5bb61c2038b95b38a0475",
+  "translation": "Sashiane's butler",
+  "vndb_url": "https://vndb.org/c42599"
+}

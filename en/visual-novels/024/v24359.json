@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24359",
+  "type": "visual_novel",
+  "name": "Jessica O'Neil's Apocalypse Chronicles",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This a parallel universe, where a virus outbreak is turning people into monsters and where a journalist has to learn how to kick some ass in order to save her own.",
+  "source_sha256": "0b49e03d7470baae3972a2de31d361454d01089fc6e9082e00c2d762fbe82a70",
+  "translation": "This a parallel universe, where a virus outbreak is turning people into monsters and where a journalist has to learn how to kick some ass in order to save her own.",
+  "vndb_url": "https://vndb.org/v24359"
+}

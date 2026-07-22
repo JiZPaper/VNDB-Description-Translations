@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102122",
+  "type": "character",
+  "name": "Dani",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Dani is one of Klaudia and Trish's friends.",
+  "source_sha256": "798deeed4845db24157c47b75b3add7b38339cb5486db1ab4a0bbe89ccf84477",
+  "translation": "Dani is one of Klaudia and Trish's friends.",
+  "vndb_url": "https://vndb.org/c102122"
+}

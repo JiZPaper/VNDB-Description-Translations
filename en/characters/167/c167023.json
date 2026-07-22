@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c167023",
+  "type": "character",
+  "name": "Kate",
+  "original_name": "Кейт",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kate - A smart girl, who unfortunately lost her arm as a result of shelling.",
+  "source_sha256": "38640bbdfaa464a260aba479b5f92e8fbe213e4190321cc0f711e7c2932a0ec4",
+  "translation": "Kate - A smart girl, who unfortunately lost her arm as a result of shelling.",
+  "vndb_url": "https://vndb.org/c167023"
+}

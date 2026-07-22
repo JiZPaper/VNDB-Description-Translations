@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115474",
+  "type": "character",
+  "name": "Boss Ting",
+  "original_name": "老板",
+  "language": "en",
+  "source_language": "en",
+  "source": "An officer of the Red Flower Society.\nHe runs a show club.",
+  "source_sha256": "cc7200e902f50f171f9faf3271c9fed2b0247f1a0f83a340f60307b79617cc20",
+  "translation": "An officer of the Red Flower Society.\nHe runs a show club.",
+  "vndb_url": "https://vndb.org/c115474"
+}

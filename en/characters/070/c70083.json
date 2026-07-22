@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70083",
+  "type": "character",
+  "name": "Takahashi Kana",
+  "original_name": "高橋 加南",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hobby: Going to the aquarium\nLikes: Jiggly food like jelly or tapioca.\nDislikes: Carbonated drinks",
+  "source_sha256": "41cb483e209712f50d776e08d86cc34a8178e43e18985fbc42cdd2f1612b7592",
+  "translation": "Hobby: Going to the aquarium\nLikes: Jiggly food like jelly or tapioca.\nDislikes: Carbonated drinks",
+  "vndb_url": "https://vndb.org/c70083"
+}

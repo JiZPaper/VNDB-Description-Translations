@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92008",
+  "type": "character",
+  "name": "Nargess",
+  "original_name": "ナルゲス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A black eunuch who serves Farida.",
+  "source_sha256": "2bde1d7ed034852fc9b3480a44b59efcaa77716cfd13d6ef0f4438249d3dc651",
+  "translation": "A black eunuch who serves Farida.",
+  "vndb_url": "https://vndb.org/c92008"
+}

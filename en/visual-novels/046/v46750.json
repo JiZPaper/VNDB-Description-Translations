@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46750",
+  "type": "visual_novel",
+  "name": "Lab Rats",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The game centers around the corruption and seduction of the women that you, the player, associate with over the course of a summer term working as a lab assistant.",
+  "source_sha256": "714e61115c9946e9668a87e78b7fb3351511a52a2b10f8bd885dc1a20248eae4",
+  "translation": "The game centers around the corruption and seduction of the women that you, the player, associate with over the course of a summer term working as a lab assistant.",
+  "vndb_url": "https://vndb.org/v46750"
+}

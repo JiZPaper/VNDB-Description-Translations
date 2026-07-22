@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145771",
+  "type": "character",
+  "name": "Kiriko",
+  "original_name": "切子",
+  "language": "en",
+  "source_language": "en",
+  "source": "A regular guest at the Tasogare Hotel’s bar.\nA monkey born in hell.\nHe’s clever and friendly towards humans.\nHis hobby is reading.",
+  "source_sha256": "e9bb235b54c9767d44d5602c28e553bbbd426509854098ebce545da1b9436f16",
+  "translation": "A regular guest at the Tasogare Hotel’s bar.\nA monkey born in hell.\nHe’s clever and friendly towards humans.\nHis hobby is reading.",
+  "vndb_url": "https://vndb.org/c145771"
+}

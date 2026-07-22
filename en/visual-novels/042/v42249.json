@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42249",
+  "type": "visual_novel",
+  "name": "The Golden Boy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Golden Boy is about the lives of three boys and their loved ones.\nTheir paths will intertwine in the most crazy ways.",
+  "source_sha256": "fbd8217c8b68f07b2a76bf7fd8218d2704208730307c61ed6db1f5c9bfe500ef",
+  "translation": "The Golden Boy is about the lives of three boys and their loved ones.\nTheir paths will intertwine in the most crazy ways.",
+  "vndb_url": "https://vndb.org/v42249"
+}

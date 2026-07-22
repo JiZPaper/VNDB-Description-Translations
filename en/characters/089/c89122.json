@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89122",
+  "type": "character",
+  "name": "Hatsune Miku",
+  "original_name": "初音 ミク",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious girl who suddenly came out from [url=/c89123]Masayuki[/url]'s computer. She has amnesia and just remembers her name and the fact that she is a vocaloid.",
+  "source_sha256": "149afe327d77e30930ef215f5770a06645109c1b98cd10d77b5521e6e7db6343",
+  "translation": "A mysterious girl who suddenly came out from [url=/c89123]Masayuki[/url]'s computer. She has amnesia and just remembers her name and the fact that she is a vocaloid.",
+  "vndb_url": "https://vndb.org/c89122"
+}

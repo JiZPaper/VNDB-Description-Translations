@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48223",
+  "type": "character",
+  "name": "Clemont",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Clemont was first introduced in Pokémon X and Pokémon Y versions.",
+  "source_sha256": "09727961c50ebd0dcb6f07d8884a3a00b1eca83c44e77a598505143aa5fd2e32",
+  "translation": "Clemont was first introduced in Pokémon X and Pokémon Y versions.",
+  "vndb_url": "https://vndb.org/c48223"
+}

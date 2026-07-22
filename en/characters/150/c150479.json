@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150479",
+  "type": "character",
+  "name": "Chen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Student at B&R",
+  "source_sha256": "ac19b780adf68d08de7f8c29699d9b36e7469d1a1d39e372f135ad8162143122",
+  "translation": "Student at B&R",
+  "vndb_url": "https://vndb.org/c150479"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46836",
+  "type": "visual_novel",
+  "name": "NaturesCry",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a little tale about a druid with a big task.",
+  "source_sha256": "e19baba367d2ad0a8dd4dca466d2de7c4f881832d44840d78d6a5510666b7bff",
+  "translation": "This is a little tale about a druid with a big task.",
+  "vndb_url": "https://vndb.org/v46836"
+}

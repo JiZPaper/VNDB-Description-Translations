@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32789",
+  "type": "visual_novel",
+  "name": "Muv-Luv Alternative Chronicles: Saitan",
+  "original_name": "マブラヴ オルタネイティヴ クロニクルズ 再誕",
+  "language": "en",
+  "source_language": "en",
+  "source": "A side-story included in the third volume of Muv-Luv Alternative Chronicles, with Silvio Orlandi as the protagonist.",
+  "source_sha256": "e1477a679eef9edc0ce5647d1d0b9ae06892417924b1db7c3e5b5d76f37a8942",
+  "translation": "A side-story included in the third volume of Muv-Luv Alternative Chronicles, with Silvio Orlandi as the protagonist.",
+  "vndb_url": "https://vndb.org/v32789"
+}

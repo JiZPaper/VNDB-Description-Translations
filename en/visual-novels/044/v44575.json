@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44575",
+  "type": "visual_novel",
+  "name": "MiniLuchi-chan Ikusei Nikki",
+  "original_name": "ミニルキちゃん育成日記",
+  "language": "en",
+  "source_language": "en",
+  "source": "Game where you play as Norton and raise a Mini Luchino.\n\nIdentity V fangame.",
+  "source_sha256": "983dd0d4b3be44951bc854cfd70f4328500072527dafa1e93348d3c67cbc7751",
+  "translation": "Game where you play as Norton and raise a Mini Luchino.\n\nIdentity V fangame.",
+  "vndb_url": "https://vndb.org/v44575"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c14265",
+  "type": "character",
+  "name": "Fahrul",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The resident of Paseban village, close friend of Tito",
+  "source_sha256": "8cbf73fae1d37f50f71ff88ac06bc748c6ffa50c5c65ded6eab37d1e37493656",
+  "translation": "The resident of Paseban village, close friend of Tito",
+  "vndb_url": "https://vndb.org/c14265"
+}

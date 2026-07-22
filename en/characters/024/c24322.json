@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c24322",
+  "type": "character",
+  "name": "Kan'u Unchou",
+  "original_name": "関羽 雲長",
+  "language": "en",
+  "source_language": "en",
+  "source": "Weapon: Broadsword",
+  "source_sha256": "4af891fb2b94fbd78fe30c030bf523e1ce928f09e2b9d8e391d5c1eb3b8b5b33",
+  "translation": "Weapon: Broadsword",
+  "vndb_url": "https://vndb.org/c24322"
+}

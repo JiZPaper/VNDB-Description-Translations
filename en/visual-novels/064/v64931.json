@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64931",
+  "type": "visual_novel",
+  "name": "DollMaker",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A reimagining of Sano's path from Boyfriend to Death.",
+  "source_sha256": "10c4fb8482767b7ef625f155d642340f17d21db35a4186dc5221e1767ff5f72f",
+  "translation": "A reimagining of Sano's path from Boyfriend to Death.",
+  "vndb_url": "https://vndb.org/v64931"
+}

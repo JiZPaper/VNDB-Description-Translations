@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89194",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of the name, who can be named by the player.",
+  "source_sha256": "33bb63b3a2e66799bf99d1606235fe53794d44e3e676d906fec4c14bed214b70",
+  "translation": "The protagonist of the name, who can be named by the player.",
+  "vndb_url": "https://vndb.org/c89194"
+}

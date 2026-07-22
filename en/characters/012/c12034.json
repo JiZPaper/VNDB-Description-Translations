@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12034",
+  "type": "character",
+  "name": "Alice",
+  "original_name": "アリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Alice is Koji's doctor.",
+  "source_sha256": "7bcacd29e327bb412ec3a5247b5d361cc082f845a38ff6c204e146d818bce743",
+  "translation": "Alice is Koji's doctor.",
+  "vndb_url": "https://vndb.org/c12034"
+}

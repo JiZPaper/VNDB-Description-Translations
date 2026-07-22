@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124366",
+  "type": "character",
+  "name": "Nelle",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ava's sister.",
+  "source_sha256": "6e76083a093b40f43f5446ff171594c5a689525fbbc49990aa2ef2d8ffc42331",
+  "translation": "Ava's sister.",
+  "vndb_url": "https://vndb.org/c124366"
+}

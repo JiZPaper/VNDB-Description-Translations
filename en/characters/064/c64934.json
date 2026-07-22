@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64934",
+  "type": "character",
+  "name": "Marcus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist's best friend.",
+  "source_sha256": "d9939e52559dc629731695c04af0c812616e81995e458571105c6c617fd3074b",
+  "translation": "Protagonist's best friend.",
+  "vndb_url": "https://vndb.org/c64934"
+}

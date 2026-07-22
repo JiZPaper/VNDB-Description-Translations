@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15432",
+  "type": "visual_novel",
+  "name": "Carol Louis's Adventure",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Carol is on his mission to save the mayor.\n\n[From [url=http://gamejolt.com/games/adventure/carol-louis-s-adventure/27931/]Game Jolt[/url]]",
+  "source_sha256": "0ad8a6b88673a89801d68624a5951005a533207e5d645c9f88b26ff666a1886e",
+  "translation": "Carol is on his mission to save the mayor.\n\n[From [url=http://gamejolt.com/games/adventure/carol-louis-s-adventure/27931/]Game Jolt[/url]]",
+  "vndb_url": "https://vndb.org/v15432"
+}

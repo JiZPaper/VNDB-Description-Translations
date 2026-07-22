@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58729",
+  "type": "visual_novel",
+  "name": "NOKTJURN",
+  "original_name": "НОКТЮРН",
+  "language": "en",
+  "source_language": "en",
+  "source": "Made for Anivisual Jam #1.",
+  "source_sha256": "5cb9c385eb073e28307bf8a7c35808a8b92a90ccb7598a2f0a882142c5105e2d",
+  "translation": "Made for Anivisual Jam #1.",
+  "vndb_url": "https://vndb.org/v58729"
+}

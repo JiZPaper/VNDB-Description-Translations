@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137912",
+  "type": "character",
+  "name": "Man B",
+  "original_name": "男B",
+  "language": "en",
+  "source_language": "en",
+  "source": "A man cruising for hookups with his friend.",
+  "source_sha256": "b04351a140a7087a18097150ab450dadcec71ed7027938ee098804321221f656",
+  "translation": "A man cruising for hookups with his friend.",
+  "vndb_url": "https://vndb.org/c137912"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75319",
+  "type": "character",
+  "name": "Main Guard",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is a phenomenal strategist and leads the army. Obsessed with glory.\n\n\"A sword and a shield, that's all I need\"\n\nStrengths: Fighting\n\nWeaknesses: Seduction",
+  "source_sha256": "79c858deaabcdef08372e9718c8e8785335947c27c4f285b892bf7b690045477",
+  "translation": "He is a phenomenal strategist and leads the army. Obsessed with glory.\n\n\"A sword and a shield, that's all I need\"\n\nStrengths: Fighting\n\nWeaknesses: Seduction",
+  "vndb_url": "https://vndb.org/c75319"
+}

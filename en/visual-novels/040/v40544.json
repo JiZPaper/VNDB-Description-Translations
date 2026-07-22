@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40544",
+  "type": "visual_novel",
+  "name": "Your Lucky Charm",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your Lucky Charm is a slice-of-life dating sim about the power of community.\n\n[From [url=https://noasdev.itch.io/your-lucky-charm]Itch.io[/url]]",
+  "source_sha256": "da6dbf23c7e8b6905db531f9867e8fa92616d4a6bf6e89746ccaefde37083540",
+  "translation": "Your Lucky Charm is a slice-of-life dating sim about the power of community.\n\n[From [url=https://noasdev.itch.io/your-lucky-charm]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v40544"
+}

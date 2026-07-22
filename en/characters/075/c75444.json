@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75444",
+  "type": "character",
+  "name": "Gramps",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Amber's grandfather. Only appears in Goofball Mode.",
+  "source_sha256": "a1c6ce51e0db4b0c52aa0d4dc44890bb785a7dd4cbec1de62b0837756ede3be9",
+  "translation": "Amber's grandfather. Only appears in Goofball Mode.",
+  "vndb_url": "https://vndb.org/c75444"
+}

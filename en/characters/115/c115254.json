@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115254",
+  "type": "character",
+  "name": "The Man",
+  "original_name": "男",
+  "language": "en",
+  "source_language": "en",
+  "source": "A man lost in a snowstorm.",
+  "source_sha256": "0933c825a1833d621a75aadb6c845dc52c6efc872ce2c931008ee1f747a752bd",
+  "translation": "A man lost in a snowstorm.",
+  "vndb_url": "https://vndb.org/c115254"
+}

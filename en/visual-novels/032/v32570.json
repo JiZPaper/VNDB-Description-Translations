@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32570",
+  "type": "visual_novel",
+  "name": "LINDA",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a voiced game that colors and animates 4 doujin manga",
+  "source_sha256": "00de7d815ecfe5d7b9a01fc980289aa21074ba9ea4b6f8f864baffef0fcb4fdd",
+  "translation": "This is a voiced game that colors and animates 4 doujin manga",
+  "vndb_url": "https://vndb.org/v32570"
+}

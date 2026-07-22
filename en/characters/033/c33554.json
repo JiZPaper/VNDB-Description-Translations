@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33554",
+  "type": "character",
+  "name": "Joou",
+  "original_name": "女王",
+  "language": "en",
+  "source_language": "en",
+  "source": "The host of the whole battle event.",
+  "source_sha256": "415790966da4545610c08d1de9c6d4d19fa7ce96da3f45dbc738924acf864963",
+  "translation": "The host of the whole battle event.",
+  "vndb_url": "https://vndb.org/c33554"
+}

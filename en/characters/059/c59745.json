@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c59745",
+  "type": "character",
+  "name": "Iris",
+  "original_name": "イリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Iris as a teenager",
+  "source_sha256": "25a46604591b65158edc207dcf9907b915021d4c90bd033965540c32f4fc4035",
+  "translation": "Iris as a teenager",
+  "vndb_url": "https://vndb.org/c59745"
+}

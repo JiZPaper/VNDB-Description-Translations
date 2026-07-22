@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c46648",
+  "type": "character",
+  "name": "Kuruse",
+  "original_name": "来瀬",
+  "language": "en",
+  "source_language": "en",
+  "source": "Game only character",
+  "source_sha256": "33b256912da2a60b3dadf5be18603053347d4396c7004b4493f95a5216b845ed",
+  "translation": "Game only character",
+  "vndb_url": "https://vndb.org/c46648"
+}

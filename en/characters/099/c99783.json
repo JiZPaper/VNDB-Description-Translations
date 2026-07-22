@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99783",
+  "type": "character",
+  "name": "Conver",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Game-master Conver, a.k.a. \"The Fifth\" is a Game-master who oversees the other Game-masters. He created the contest.",
+  "source_sha256": "6777aab495ae404c0048401fa4b915c79c90ecf2844e0d3fa45f543cd1a447be",
+  "translation": "Game-master Conver, a.k.a. \"The Fifth\" is a Game-master who oversees the other Game-masters. He created the contest.",
+  "vndb_url": "https://vndb.org/c99783"
+}

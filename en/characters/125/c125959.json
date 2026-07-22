@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125959",
+  "type": "character",
+  "name": "Club Member",
+  "original_name": "部員",
+  "language": "en",
+  "source_language": "en",
+  "source": "Acquainted with [url=/c84947]Yasuda Nagi[/url].",
+  "source_sha256": "501a9b3269bc6c652356986ee6df7077a660cc78516d5a780d039fceefa0b369",
+  "translation": "Acquainted with [url=/c84947]Yasuda Nagi[/url].",
+  "vndb_url": "https://vndb.org/c125959"
+}

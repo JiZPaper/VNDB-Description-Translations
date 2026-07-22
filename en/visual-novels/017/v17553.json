@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17553",
+  "type": "visual_novel",
+  "name": "Kazehime Hakudaku",
+  "original_name": "風姫白濁",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fanfiction for Seiken Densetsu 3.",
+  "source_sha256": "6f904f8559c33632be77bdcb291ec47edfcaf10c5ed9393cc9fdb78ed42783f9",
+  "translation": "Fanfiction for Seiken Densetsu 3.",
+  "vndb_url": "https://vndb.org/v17553"
+}

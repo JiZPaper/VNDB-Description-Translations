@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8066",
+  "type": "character",
+  "name": "Sayori",
+  "original_name": "さより",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sayori is a maid at Hayami Mansion. She always looks unhappy, and that worries the protagonist. Hopefully getting to know each other will help her.",
+  "source_sha256": "a0e2fe0caa4a3b16386e3de2db191c75198680692015c0c196e59d7ea35ba4c4",
+  "translation": "Sayori is a maid at Hayami Mansion. She always looks unhappy, and that worries the protagonist. Hopefully getting to know each other will help her.",
+  "vndb_url": "https://vndb.org/c8066"
+}

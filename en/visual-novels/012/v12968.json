@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12968",
+  "type": "visual_novel",
+  "name": "Kako ~Recall the past~",
+  "original_name": "過去 ～Recall the past～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A high school student is forced to recall his sexual assault.",
+  "source_sha256": "821457be1ba89a0cc78010407579b3d929caace42661462c76a01b76d01510de",
+  "translation": "A high school student is forced to recall his sexual assault.",
+  "vndb_url": "https://vndb.org/v12968"
+}

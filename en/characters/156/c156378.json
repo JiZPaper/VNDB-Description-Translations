@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156378",
+  "type": "character",
+  "name": "Ivy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ivy works at the boutique clothing shop in town.",
+  "source_sha256": "8752b4c825a9defaab895b77a4532f462b97bde881e801f90ddbad0fdf4a5c6e",
+  "translation": "Ivy works at the boutique clothing shop in town.",
+  "vndb_url": "https://vndb.org/c156378"
+}

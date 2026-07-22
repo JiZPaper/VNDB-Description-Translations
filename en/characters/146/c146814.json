@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146814",
+  "type": "character",
+  "name": "Steve",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of the local arcade. Thinks (knows) aliens are real.\n\n[In-game description]",
+  "source_sha256": "a25204741f0777c02d42a5e8461c03df13bd997ef2afdda0ffc8ef872600052b",
+  "translation": "Owner of the local arcade. Thinks (knows) aliens are real.\n\n[In-game description]",
+  "vndb_url": "https://vndb.org/c146814"
+}

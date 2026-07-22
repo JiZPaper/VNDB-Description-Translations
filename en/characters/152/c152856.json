@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152856",
+  "type": "character",
+  "name": "Homeroom Teacher",
+  "original_name": "担任教師",
+  "language": "en",
+  "source_language": "en",
+  "source": "Homeroom teacher for Haruki and Kazusa's class at Houjou High School.",
+  "source_sha256": "14305d76d1fa6435af403d150516a41ce5d32e1aca5c594a4d5ff6ceaca5ca11",
+  "translation": "Homeroom teacher for Haruki and Kazusa's class at Houjou High School.",
+  "vndb_url": "https://vndb.org/c152856"
+}

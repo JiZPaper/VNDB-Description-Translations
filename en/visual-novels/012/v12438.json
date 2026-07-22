@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12438",
+  "type": "visual_novel",
+  "name": "Sangoku Rensenki ~Otome no Heihou!~ Omoide Gaeshi",
+  "original_name": "三国恋戦記 ～オトメの兵法!～ 思いでがえし",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Fandisc with after stories.",
+  "source_sha256": "f60b5f2aa42a24a519577368fe32e4e4a38d1d817cc5b20b65bf93d774921b46",
+  "translation": "A Fandisc with after stories.",
+  "vndb_url": "https://vndb.org/v12438"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58257",
+  "type": "visual_novel",
+  "name": "Night Shift",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Welcome to the night crew. You’re not sure how you got here, but somehow, your soul was sold to the FC. Now you’re forced to work in retail for all eternity.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "46ef66a429f92fca2d2731807a2a119cc7c1d6b4e967b6592a7ce69d70369d6a",
+  "translation": "Welcome to the night crew. You’re not sure how you got here, but somehow, your soul was sold to the FC. Now you’re forced to work in retail for all eternity.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "vndb_url": "https://vndb.org/v58257"
+}

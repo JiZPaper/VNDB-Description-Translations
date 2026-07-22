@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17445",
+  "type": "character",
+  "name": "Northbrook",
+  "original_name": "ノースブルック",
+  "language": "en",
+  "source_language": "en",
+  "source": "A wizard.",
+  "source_sha256": "e6b76762ba106361911a0d7e73b89bc1cd3ef04a1260450e40ce1fd78ba46de8",
+  "translation": "A wizard.",
+  "vndb_url": "https://vndb.org/c17445"
+}

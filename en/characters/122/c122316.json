@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122316",
+  "type": "character",
+  "name": "Samara",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Santa's favorite elf. His duty is to fill the list of naughty and nice people for Santa Claus.\n\n[Edited from in-game description]",
+  "source_sha256": "92fd433f2d1edaf134bd0a992f6105c08c3c1bc0f275f32d311e2afca6680b91",
+  "translation": "Santa's favorite elf. His duty is to fill the list of naughty and nice people for Santa Claus.\n\n[Edited from in-game description]",
+  "vndb_url": "https://vndb.org/c122316"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8981",
+  "type": "visual_novel",
+  "name": "Never Land",
+  "original_name": "Never Land ～ネバーランド～",
+  "language": "en",
+  "source_language": "en",
+  "source": "You are Jimmy, a child of Never Land which is an island of magic and fantasy. You are always accompanied by May, a small nymph, and you can fly in the air. Never Land is a world of children who can dream.\n\nOne day a boss of pirates gets a magic wand that has the power to transform anything. You set out to restore the status quo.",
+  "source_sha256": "b91a50486e925a2e362094dc4fc6b9cc3d04eaaea2bd61c1c02edf816b19e891",
+  "translation": "You are Jimmy, a child of Never Land which is an island of magic and fantasy. You are always accompanied by May, a small nymph, and you can fly in the air. Never Land is a world of children who can dream.\n\nOne day a boss of pirates gets a magic wand that has the power to transform anything. You set out to restore the status quo.",
+  "vndb_url": "https://vndb.org/v8981"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169544",
+  "type": "character",
+  "name": "Vert",
+  "original_name": "ベール",
+  "language": "en",
+  "source_language": "en",
+  "source": "The CPU of Leanbox",
+  "source_sha256": "6f9ec11733d5eaffc4fd910d662cb690f1f9b66bb12cf57d7c55f2a1e87c99e1",
+  "translation": "The CPU of Leanbox",
+  "vndb_url": "https://vndb.org/c169544"
+}

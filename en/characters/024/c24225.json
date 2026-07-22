@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c24225",
+  "type": "character",
+  "name": "Estoria",
+  "original_name": "エストリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Princess of Nordland Kingdom.",
+  "source_sha256": "5633332c151c71b5688243313f1fb46f7af130243ad6b8eb038010b7448830fa",
+  "translation": "Princess of Nordland Kingdom.",
+  "vndb_url": "https://vndb.org/c24225"
+}

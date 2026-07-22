@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112342",
+  "type": "character",
+  "name": "Prim",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Prim is Ashe's adopted daughter. She seems bright and not afraid of anything. Ashe raised her well.\n\n[From in-game description]",
+  "source_sha256": "648ce8db1bb8d59ee69b33449fbcdef8d0153860e53fec41f3d984468cc28a96",
+  "translation": "Prim is Ashe's adopted daughter. She seems bright and not afraid of anything. Ashe raised her well.\n\n[From in-game description]",
+  "vndb_url": "https://vndb.org/c112342"
+}

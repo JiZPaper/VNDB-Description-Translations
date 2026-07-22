@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21053",
+  "type": "character",
+  "name": "Mrs. Nagawa",
+  "original_name": "奈川",
+  "language": "en",
+  "source_language": "en",
+  "source": "Yukari's mother.",
+  "source_sha256": "cb713fac7b570ab99fd837105551d4cdbb0fa80af1f7b9db7c4d39ec94a31752",
+  "translation": "Yukari's mother.",
+  "vndb_url": "https://vndb.org/c21053"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55301",
+  "type": "visual_novel",
+  "name": "Sora no Baroque BugBug Append Ban",
+  "original_name": "虚空のバロック BugBugアペンド版",
+  "language": "en",
+  "source_language": "en",
+  "source": "A side story bundled with BugBug 25th Append H Disk Part 4. It doesn't require the original game.",
+  "source_sha256": "031a94bf49cd8f0d1f2a73b288f3cab19edea17fdf582b00218eee31e4873741",
+  "translation": "A side story bundled with BugBug 25th Append H Disk Part 4. It doesn't require the original game.",
+  "vndb_url": "https://vndb.org/v55301"
+}

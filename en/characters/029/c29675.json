@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29675",
+  "type": "character",
+  "name": "Cromwell Neeson",
+  "original_name": "クロムウェル・ニーソン",
+  "language": "en",
+  "source_language": "en",
+  "source": "An English Tailor from London.",
+  "source_sha256": "b0e8a7c4435fe2a45034a54e69fcdf60bed08ec731aaf3e719470ea73f22b13d",
+  "translation": "An English Tailor from London.",
+  "vndb_url": "https://vndb.org/c29675"
+}

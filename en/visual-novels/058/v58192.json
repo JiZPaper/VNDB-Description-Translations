@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58192",
+  "type": "visual_novel",
+  "name": "Outside the Elevator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You're trying to get to work, but the elevator stops. A man tries to help you out, but something about him seems off.\n\n[From [url=https://marrowed-yuu.itch.io/outside-the-elevator]Itch.io[/url]]",
+  "source_sha256": "f5e9f44b730e4846007fd592240f6c6d95f36abd38452e9ab6e097d51ddef4eb",
+  "translation": "You're trying to get to work, but the elevator stops. A man tries to help you out, but something about him seems off.\n\n[From [url=https://marrowed-yuu.itch.io/outside-the-elevator]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v58192"
+}

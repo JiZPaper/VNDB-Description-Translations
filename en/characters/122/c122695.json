@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122695",
+  "type": "character",
+  "name": "Hoover Sweeps",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A janitor working for a rich client.",
+  "source_sha256": "2e97079d687f7e090c4956c044ffc44262682eaa0cd228d38089c9be6c1f81b7",
+  "translation": "A janitor working for a rich client.",
+  "vndb_url": "https://vndb.org/c122695"
+}

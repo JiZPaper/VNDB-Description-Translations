@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c111310",
+  "type": "character",
+  "name": "Harold",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "- Father of [url=/c104739]Mia[/url].\n- Husband of [url=/c110909]Helen[/url].",
+  "source_sha256": "f1c153fa1803a323479fe191f0b5fca945e26196d1f364148b92dc71eaa17959",
+  "translation": "- Father of [url=/c104739]Mia[/url].\n- Husband of [url=/c110909]Helen[/url].",
+  "vndb_url": "https://vndb.org/c111310"
+}

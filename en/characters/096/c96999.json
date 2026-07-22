@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96999",
+  "type": "character",
+  "name": "Alice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The mansion's owner.",
+  "source_sha256": "2db08ddeec0bba3702a1ef730219a76d6bb7de3928868f21f0c0c67cd763a9d7",
+  "translation": "The mansion's owner.",
+  "vndb_url": "https://vndb.org/c96999"
+}

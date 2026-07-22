@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59236",
+  "type": "visual_novel",
+  "name": "Simuljator ustalosti",
+  "original_name": "Симулятор усталости",
+  "language": "en",
+  "source_language": "en",
+  "source": "A simulator of sad flirting and drunken heart-to-heart talks.",
+  "source_sha256": "372d44e88c4d4fc6febb01c496ce1107ae4507021659888ee414853787201e22",
+  "translation": "A simulator of sad flirting and drunken heart-to-heart talks.",
+  "vndb_url": "https://vndb.org/v59236"
+}

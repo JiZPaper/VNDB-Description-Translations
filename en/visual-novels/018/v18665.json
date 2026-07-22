@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18665",
+  "type": "visual_novel",
+  "name": "Escape",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Robert Fairs wakes up in a bedroom he doesn't recognize with no recollection of the last day. Soon he founds that he's trapped somewhere dangerous and mysterious. Can he escape?\n\nDeveloped by Asylum Jam 2013.",
+  "source_sha256": "e008af8fce09492935a3c62c321794bd2bdd91150dc048fb066091e99b243d88",
+  "translation": "Robert Fairs wakes up in a bedroom he doesn't recognize with no recollection of the last day. Soon he founds that he's trapped somewhere dangerous and mysterious. Can he escape?\n\nDeveloped by Asylum Jam 2013.",
+  "vndb_url": "https://vndb.org/v18665"
+}

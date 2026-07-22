@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26196",
+  "type": "visual_novel",
+  "name": "Niji no Kujira",
+  "original_name": "虹のくじら",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Hey. Is this seat a magical seat? Can you see the rainbow whale?\"",
+  "source_sha256": "bb6905eaff4d4bbb8c888f9b0dc1a1acdd8df562e0a76ccb79edc5eda4fd44e2",
+  "translation": "\"Hey. Is this seat a magical seat? Can you see the rainbow whale?\"",
+  "vndb_url": "https://vndb.org/v26196"
+}

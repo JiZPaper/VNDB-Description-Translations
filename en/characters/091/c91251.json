@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91251",
+  "type": "character",
+  "name": "Jack",
+  "original_name": "ジャック",
+  "language": "en",
+  "source_language": "en",
+  "source": "An alien from Andromeda.",
+  "source_sha256": "a6ac1b8b3e04a3a21eebc77f2af0f0edffc09d247aa3154ac7c22964326c7b77",
+  "translation": "An alien from Andromeda.",
+  "vndb_url": "https://vndb.org/c91251"
+}

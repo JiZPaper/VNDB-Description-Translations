@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110007",
+  "type": "character",
+  "name": "Mom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lucia's mother.",
+  "source_sha256": "cffeac5ab3ce0c36fd17103ad605e7073475e59ef95d8e02deb2bdcd41e8f619",
+  "translation": "Lucia's mother.",
+  "vndb_url": "https://vndb.org/c110007"
+}

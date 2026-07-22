@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92420",
+  "type": "character",
+  "name": "Risuko",
+  "original_name": "リス子",
+  "language": "en",
+  "source_language": "en",
+  "source": "Precise Height: 15.6 cm\nOccupation: Care Animoroid (Nursing assistant robot shaped like an animal)\nHobbies: Counting Pi\nLikes: Acorns\nDislikes: Water, rough treatment.",
+  "source_sha256": "37b0b9c590e7a6183a2c777a79598116d947fc0112492250e31778e80c9991f1",
+  "translation": "Precise Height: 15.6 cm\nOccupation: Care Animoroid (Nursing assistant robot shaped like an animal)\nHobbies: Counting Pi\nLikes: Acorns\nDislikes: Water, rough treatment.",
+  "vndb_url": "https://vndb.org/c92420"
+}

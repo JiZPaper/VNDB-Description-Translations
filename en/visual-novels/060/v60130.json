@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60130",
+  "type": "visual_novel",
+  "name": "For Love and Glory",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You must win the tournament, and only the perfect noble match will lead to glory.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "db0d3de2b7c4e250c27c5bb1d88a89719058dcd7cef3412639ef4c9b2568823a",
+  "translation": "You must win the tournament, and only the perfect noble match will lead to glory.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "vndb_url": "https://vndb.org/v60130"
+}

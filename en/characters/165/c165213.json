@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165213",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The young cadet asked to join the Imperial Assault Troupee.",
+  "source_sha256": "a17ba982a2a2bd22c4e6530aeaa58d5cf29c0c02a86b51392b0773b4267aba50",
+  "translation": "The young cadet asked to join the Imperial Assault Troupee.",
+  "vndb_url": "https://vndb.org/c165213"
+}

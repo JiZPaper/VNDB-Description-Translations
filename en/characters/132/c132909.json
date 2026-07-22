@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132909",
+  "type": "character",
+  "name": "Samantha",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Samantha is [url=/c132892]Tatiana[/url]'s mother, she is a very religious woman who tries her best to secure the future for her not very bright daughter.",
+  "source_sha256": "c0c724e9bcc8761c2481bcba80cd1873b3993692a6949d8bd4bf90b08163fb72",
+  "translation": "Samantha is [url=/c132892]Tatiana[/url]'s mother, she is a very religious woman who tries her best to secure the future for her not very bright daughter.",
+  "vndb_url": "https://vndb.org/c132909"
+}

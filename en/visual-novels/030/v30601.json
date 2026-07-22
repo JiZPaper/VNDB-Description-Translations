@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30601",
+  "type": "visual_novel",
+  "name": "Yotsuba Struck -Spring-",
+  "original_name": "よつばstruck -spring-",
+  "language": "en",
+  "source_language": "en",
+  "source": "The main character joins a female theatre company.",
+  "source_sha256": "449b884c28c01962214395340d8afad538e7bd639fe8133339b8fa6be4cea333",
+  "translation": "The main character joins a female theatre company.",
+  "vndb_url": "https://vndb.org/v30601"
+}

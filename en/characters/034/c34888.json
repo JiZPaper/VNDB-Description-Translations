@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34888",
+  "type": "character",
+  "name": "Galahad",
+  "original_name": "ガラハッド",
+  "language": "en",
+  "source_language": "en",
+  "source": "She has never lost a battle, and boasts such unrivaled strength that she can defeat even the most formidable enemies of the Round Table Knights without a single scratch.",
+  "source_sha256": "bf5c3dbd369af9c9850fa66bed77d3df29619d75392afe3f5e317600ec5264bc",
+  "translation": "She has never lost a battle, and boasts such unrivaled strength that she can defeat even the most formidable enemies of the Round Table Knights without a single scratch.",
+  "vndb_url": "https://vndb.org/c34888"
+}

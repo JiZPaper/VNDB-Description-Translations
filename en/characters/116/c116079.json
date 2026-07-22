@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116079",
+  "type": "character",
+  "name": "Tech",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A technician working with Dr. Shipley.",
+  "source_sha256": "280c0dbe828ada9d2ad8d5933a2b0b4a3f73552bf6568892392cf2e1e4ac0d53",
+  "translation": "A technician working with Dr. Shipley.",
+  "vndb_url": "https://vndb.org/c116079"
+}

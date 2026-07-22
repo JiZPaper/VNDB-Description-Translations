@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51888",
+  "type": "visual_novel",
+  "name": "Holly's Metafood",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Made for Visual Noble Challenge 1.",
+  "source_sha256": "8acf10922c1fec1446b1a3cb9d184362b7129ca73539f32fb159a6decf545eef",
+  "translation": "Made for Visual Noble Challenge 1.",
+  "vndb_url": "https://vndb.org/v51888"
+}

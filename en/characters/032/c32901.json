@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c32901",
+  "type": "character",
+  "name": "Burst",
+  "original_name": "バースト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Saint of the Church of Mother Eve.",
+  "source_sha256": "1e01885c706219814d155f717e43b909adef4f633de77cc68a5d765cef024077",
+  "translation": "A Saint of the Church of Mother Eve.",
+  "vndb_url": "https://vndb.org/c32901"
+}

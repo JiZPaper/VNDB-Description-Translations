@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90077",
+  "type": "character",
+  "name": "Sealed Raiju",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A sealed raiju that is released in Kurou's Book II.",
+  "source_sha256": "f199a0a45d04e2cf475a6cbf58f17d4d5d11a5b1b2aabeabdb144c9a19168e50",
+  "translation": "A sealed raiju that is released in Kurou's Book II.",
+  "vndb_url": "https://vndb.org/c90077"
+}

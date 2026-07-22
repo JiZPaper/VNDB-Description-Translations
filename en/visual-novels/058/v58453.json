@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58453",
+  "type": "visual_novel",
+  "name": "Hello Wolf",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "After killing two rams in the forest, the wolf of Green Park attempts to catch one final lamb.\n\n[From [url=https://vibing-eagle.itch.io/hello-wolf]Itch.io[/url]]",
+  "source_sha256": "549b2c3f56b220163e879bba0857821023ad76958c5a717efdc8a5ed8e6b2241",
+  "translation": "After killing two rams in the forest, the wolf of Green Park attempts to catch one final lamb.\n\n[From [url=https://vibing-eagle.itch.io/hello-wolf]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v58453"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15455",
+  "type": "visual_novel",
+  "name": "The Cafe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Help Nora on her next spy mission.\n\n[From [url=http://waffrus.deviantart.com/art/The-Cafe-Game-456523508]DeviantArt[/url]]",
+  "source_sha256": "1b57357468edeae6b2345d4d379a5f46de23f7bf63db2e9f60fc1f2a9d474cbf",
+  "translation": "Help Nora on her next spy mission.\n\n[From [url=http://waffrus.deviantart.com/art/The-Cafe-Game-456523508]DeviantArt[/url]]",
+  "vndb_url": "https://vndb.org/v15455"
+}

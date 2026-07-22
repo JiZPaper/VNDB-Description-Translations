@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c13948",
+  "type": "character",
+  "name": "Shiratori Shizuka",
+  "original_name": "白鳥 静香",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hobbies: Cleaning.\nSpecial skill: Washing, cleaning.\nStore name: \"Ken-chan's Laundry\".",
+  "source_sha256": "6ab0115292a4c0f3e9de968ca2ce878d9a264b4e053c8c5e27e108b8e41764fb",
+  "translation": "Hobbies: Cleaning.\nSpecial skill: Washing, cleaning.\nStore name: \"Ken-chan's Laundry\".",
+  "vndb_url": "https://vndb.org/c13948"
+}

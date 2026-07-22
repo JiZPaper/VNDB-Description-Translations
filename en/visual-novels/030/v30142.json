@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30142",
+  "type": "visual_novel",
+  "name": "Utsuro Sekai no Hakuchuumu",
+  "original_name": "うつろ世界の白昼夢",
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl who lost her memory wakes up in a strange world.",
+  "source_sha256": "a1f6bc9775970242e7288cb4fefb77282b8b03a2c55ffc766cfbc37b901929fc",
+  "translation": "A girl who lost her memory wakes up in a strange world.",
+  "vndb_url": "https://vndb.org/v30142"
+}

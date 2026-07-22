@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28302",
+  "type": "visual_novel",
+  "name": "The Lighthouse of Sao Bento do Oeste",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mystery visual novel for the Sega Saturn about Renne, a detective who travels to the small town of São Bento do Oeste to investigate the mysterious disappearance of a couple at the city’s lighthouse.",
+  "source_sha256": "bf9ea98cad43dd58debb0724ce54fd230467cd335b95bb755b7e6705d3767316",
+  "translation": "A mystery visual novel for the Sega Saturn about Renne, a detective who travels to the small town of São Bento do Oeste to investigate the mysterious disappearance of a couple at the city’s lighthouse.",
+  "vndb_url": "https://vndb.org/v28302"
+}

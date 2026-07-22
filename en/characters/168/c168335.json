@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168335",
+  "type": "character",
+  "name": "Eve",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Eve 25 years in the past, when she was homeless.",
+  "source_sha256": "597ec2c58097c32d354713bc2093fb48189521f4f4bb0451fa8492900a876227",
+  "translation": "Eve 25 years in the past, when she was homeless.",
+  "vndb_url": "https://vndb.org/c168335"
+}

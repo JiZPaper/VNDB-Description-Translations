@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127838",
+  "type": "character",
+  "name": "Luke",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Leilani's friend and Daisy's twin brother",
+  "source_sha256": "e0422ed65545608c4d6af0a0750192e6fb9e3a977f0ed42349a25c02655f8d48",
+  "translation": "Leilani's friend and Daisy's twin brother",
+  "vndb_url": "https://vndb.org/c127838"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c56389",
+  "type": "character",
+  "name": "Flora",
+  "original_name": "フローラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Princess of the Rose Kingdom.",
+  "source_sha256": "bd6d18761063ab185d1590beffbfaaa8d11d5fc7c0074b5a6bdae55bbf3024b4",
+  "translation": "Princess of the Rose Kingdom.",
+  "vndb_url": "https://vndb.org/c56389"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131668",
+  "type": "character",
+  "name": "Llama",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A cute innocent and fluffy llama.",
+  "source_sha256": "e099db41ecaf86199658c022ec23de9810bd76bf5d64c3353428a0ebc28538ab",
+  "translation": "A cute innocent and fluffy llama.",
+  "vndb_url": "https://vndb.org/c131668"
+}

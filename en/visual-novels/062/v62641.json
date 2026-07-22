@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62641",
+  "type": "visual_novel",
+  "name": "Kuukyo na Boku wa Nani o Miru.",
+  "original_name": "空虚な僕は何を見る。",
+  "language": "en",
+  "source_language": "en",
+  "source": "You have lost sight of yourself.\nYou no longer know who you are.\n\nYou find yourself lost in a strange space, where you meet a group of unique inhabitants.\n\nAs you talk to them, you may remember who you are.\nMake choices where there is no right answer.\n\nWho are you?\nCould it be...",
+  "source_sha256": "4bbd91c2569d9d51f005cf0697883f907662c5aa2f82d9c89e7a014a22930491",
+  "translation": "You have lost sight of yourself.\nYou no longer know who you are.\n\nYou find yourself lost in a strange space, where you meet a group of unique inhabitants.\n\nAs you talk to them, you may remember who you are.\nMake choices where there is no right answer.\n\nWho are you?\nCould it be...",
+  "vndb_url": "https://vndb.org/v62641"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61728",
+  "type": "character",
+  "name": "Joy Frust",
+  "original_name": "ジョイフラスト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A monster created by Dr. Arc.\nHe threatens people with aggressive solicitations to play games.\n\n[Translated from the [url=https://www.alicesoft.com/escalayer/echara.html]official site[/url]]",
+  "source_sha256": "0eb02cce2fa4af4604857b831712853e0951bdde57dceea7a02d0388fa622c77",
+  "translation": "A monster created by Dr. Arc.\nHe threatens people with aggressive solicitations to play games.\n\n[Translated from the [url=https://www.alicesoft.com/escalayer/echara.html]official site[/url]]",
+  "vndb_url": "https://vndb.org/c61728"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49139",
+  "type": "visual_novel",
+  "name": "Reverse Falls",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Reverse Falls is a visual novel, with some elements of point and click and mini-games. You follow the adventures of Pacifica and Gideon as they are trying to reveal the mysteries of Reverse.\n\n[From [url=https://site.reversefalls.com/faq]Official FAQ[/url]]",
+  "source_sha256": "6bb814ba4e17520fabf3c89cf6cad707fb0539dd534e3bc26274204d40140d24",
+  "translation": "Reverse Falls is a visual novel, with some elements of point and click and mini-games. You follow the adventures of Pacifica and Gideon as they are trying to reveal the mysteries of Reverse.\n\n[From [url=https://site.reversefalls.com/faq]Official FAQ[/url]]",
+  "vndb_url": "https://vndb.org/v49139"
+}

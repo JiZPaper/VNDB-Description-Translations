@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53769",
+  "type": "visual_novel",
+  "name": "Yet Another First Day",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short story, slice-of-life visual novel created for the NovemBear 2024 Furry Visual Novel Jam.",
+  "source_sha256": "3460491d92e05e364d14b8a71ae357c186ae2f2aecdc41ac6b6497a492e1b2b1",
+  "translation": "A short story, slice-of-life visual novel created for the NovemBear 2024 Furry Visual Novel Jam.",
+  "vndb_url": "https://vndb.org/v53769"
+}

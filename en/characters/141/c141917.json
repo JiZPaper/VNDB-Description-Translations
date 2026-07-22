@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141917",
+  "type": "character",
+  "name": "Milton",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bartender at Cloud Nine's VIP lounge",
+  "source_sha256": "f25d31b2ef9eee768c4f6ec7946b2b3488f495bee50738e0c0b987e0fee17470",
+  "translation": "Bartender at Cloud Nine's VIP lounge",
+  "vndb_url": "https://vndb.org/c141917"
+}

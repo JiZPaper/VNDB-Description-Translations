@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134328",
+  "type": "character",
+  "name": "Tilly",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A stewardess on the hero's private jet.",
+  "source_sha256": "6b177e1d868675e0593bb1d3b1f29c2a121b17fa3464010c9b6753b5e4543d67",
+  "translation": "A stewardess on the hero's private jet.",
+  "vndb_url": "https://vndb.org/c134328"
+}

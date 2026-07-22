@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91270",
+  "type": "character",
+  "name": "Long’er",
+  "original_name": "龍兒",
+  "language": "en",
+  "source_language": "en",
+  "source": "Personification of Xiaolongbao steamed buns.",
+  "source_sha256": "855fa8ad00a039421a839ccaa0d1e53eaaba1072e9514ea52a1502beb0110b8f",
+  "translation": "Personification of Xiaolongbao steamed buns.",
+  "vndb_url": "https://vndb.org/c91270"
+}

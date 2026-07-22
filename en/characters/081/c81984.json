@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81984",
+  "type": "character",
+  "name": "Zeltov",
+  "original_name": "ゼルトフ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Claire's grandfather.",
+  "source_sha256": "bc3ffa00f72ab348e0430a8a5e0b92e2ff7d9f78f6c05490a2ebd1cc1e9e18bf",
+  "translation": "Claire's grandfather.",
+  "vndb_url": "https://vndb.org/c81984"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86528",
+  "type": "character",
+  "name": "Pochi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Partner Type: Dog\n\nSpecial Attack: Bite\nContinuously bites vital spots, gradually weakening the enemy.\n\nFavorite Food: Rice Cakes\n\n[Official in-game description]",
+  "source_sha256": "41fdcf84675c998ce45eebf4baeebdcf23b47f9f486702baf947a664dc31241a",
+  "translation": "Partner Type: Dog\n\nSpecial Attack: Bite\nContinuously bites vital spots, gradually weakening the enemy.\n\nFavorite Food: Rice Cakes\n\n[Official in-game description]",
+  "vndb_url": "https://vndb.org/c86528"
+}

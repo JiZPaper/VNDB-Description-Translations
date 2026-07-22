@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15543",
+  "type": "visual_novel",
+  "name": "TCAST - LHF",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short kinetic novel inspired by [url=http://vndb.org/v7304]That Cheap and Sacred Thing[/url].",
+  "source_sha256": "49a7707d7152a9fd77503341f596e76e6a1ba9c01efebd0c78f9525decce45f4",
+  "translation": "A short kinetic novel inspired by [url=http://vndb.org/v7304]That Cheap and Sacred Thing[/url].",
+  "vndb_url": "https://vndb.org/v15543"
+}

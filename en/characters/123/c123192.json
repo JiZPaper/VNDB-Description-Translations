@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123192",
+  "type": "character",
+  "name": "Saishu",
+  "original_name": "最首",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mysterious character following the protagonist to every dream scenario.",
+  "source_sha256": "d05a0ccb8edbdf792fc94d2eb85f91280376b3ab0527aac0025a99a40fa3551a",
+  "translation": "Mysterious character following the protagonist to every dream scenario.",
+  "vndb_url": "https://vndb.org/c123192"
+}

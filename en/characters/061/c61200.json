@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61200",
+  "type": "character",
+  "name": "VTVN",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Japanese pronunciation of this name is roughly based on \"Beethoven\"",
+  "source_sha256": "0be7e67f49762a58316fbea49e6d7959ebe35f3b6d207747f77d23a24d9e236c",
+  "translation": "The Japanese pronunciation of this name is roughly based on \"Beethoven\"",
+  "vndb_url": "https://vndb.org/c61200"
+}

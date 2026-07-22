@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c7312",
+  "type": "character",
+  "name": "Medes",
+  "original_name": "メデス",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Human form of the white stuffed cat that the [url=/c7309]Nameless Child[/url] always carries with her.[/spoiler]",
+  "source_sha256": "72cd0222c962eb36395147594bcce745a40bacf50d1bd5d876150218d32d132e",
+  "translation": "[spoiler]Human form of the white stuffed cat that the [url=/c7309]Nameless Child[/url] always carries with her.[/spoiler]",
+  "vndb_url": "https://vndb.org/c7312"
+}

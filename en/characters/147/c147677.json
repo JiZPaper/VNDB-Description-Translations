@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c147677",
+  "type": "character",
+  "name": "Aimu",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A galactic slime woman.",
+  "source_sha256": "4d8c4986672d13028d9414cd6ec206efad2bae14fee689676c2213741c6f9f19",
+  "translation": "A galactic slime woman.",
+  "vndb_url": "https://vndb.org/c147677"
+}

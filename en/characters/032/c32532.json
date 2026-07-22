@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c32532",
+  "type": "character",
+  "name": "Largreia",
+  "original_name": "ラルグレイア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Angel\n\nAn angel protecting the seal under the Divine Enforcer's orders. She is a low-ranking angel, but excels at sealing magic. She was chosen to be a guardian because of her loyalty.",
+  "source_sha256": "5e2b9df000b40499ba8a28cc147e78b184ad9f7aaf12154b120db8ba794c2274",
+  "translation": "Race: Angel\n\nAn angel protecting the seal under the Divine Enforcer's orders. She is a low-ranking angel, but excels at sealing magic. She was chosen to be a guardian because of her loyalty.",
+  "vndb_url": "https://vndb.org/c32532"
+}

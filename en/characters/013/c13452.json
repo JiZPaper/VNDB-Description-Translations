@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c13452",
+  "type": "character",
+  "name": "Lena Buttiriskaya",
+  "original_name": "レナ・ブッティリスカヤ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Birthplace: Russia.\nAffiliation: Regimental commander of SERR14.\nRank: Brigadier General.",
+  "source_sha256": "be13a586a909ac17ef9a57186520e837c3bcef0e2be5497a5ed1db2a0f8fb814",
+  "translation": "Birthplace: Russia.\nAffiliation: Regimental commander of SERR14.\nRank: Brigadier General.",
+  "vndb_url": "https://vndb.org/c13452"
+}

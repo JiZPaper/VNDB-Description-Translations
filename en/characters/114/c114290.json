@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c114290",
+  "type": "character",
+  "name": "Citizen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the [url=/c114289]oracle's[/url] many followers. After Hesperides leaves the town promising to break the oracle's prophecy, she visits the oracle at her temple.",
+  "source_sha256": "59422f5a48ca42c334f7e96eda36a9537fe752f2058fad67444dea420c735f55",
+  "translation": "One of the [url=/c114289]oracle's[/url] many followers. After Hesperides leaves the town promising to break the oracle's prophecy, she visits the oracle at her temple.",
+  "vndb_url": "https://vndb.org/c114290"
+}

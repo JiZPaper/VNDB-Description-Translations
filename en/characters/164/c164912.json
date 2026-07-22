@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c164912",
+  "type": "character",
+  "name": "Otis Arkins",
+  "original_name": "オーティス・アーキンズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "From: Mobile Suit V Gundam\nOne of the League Militaire mechanics. A gentle man, he supported Romero, the leader of the group.",
+  "source_sha256": "8f1f91f9243ac5192fa5a0e03fa874493e0ea8f31f484ebaeec4da1b87474ec7",
+  "translation": "From: Mobile Suit V Gundam\nOne of the League Militaire mechanics. A gentle man, he supported Romero, the leader of the group.",
+  "vndb_url": "https://vndb.org/c164912"
+}

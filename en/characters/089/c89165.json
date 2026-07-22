@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89165",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nameable protagonist. First and/or last name can be left blank, in which case other characters will address you as 'blank' with honorifics.",
+  "source_sha256": "fa9ad3f48e160d9a22e1492e499602112a6e5b54771c175a7d46e22ef873aa8f",
+  "translation": "Nameable protagonist. First and/or last name can be left blank, in which case other characters will address you as 'blank' with honorifics.",
+  "vndb_url": "https://vndb.org/c89165"
+}

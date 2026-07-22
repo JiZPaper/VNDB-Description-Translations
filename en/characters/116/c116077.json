@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116077",
+  "type": "character",
+  "name": "Dr. Li",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An infectious diseases doctor.",
+  "source_sha256": "4b937808b39317b022e76ff34dc51f38a429f154de14e9d0e43e7d86cbe09fb4",
+  "translation": "An infectious diseases doctor.",
+  "vndb_url": "https://vndb.org/c116077"
+}

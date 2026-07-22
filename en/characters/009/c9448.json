@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9448",
+  "type": "character",
+  "name": "Admiral Alexander Mensicob",
+  "original_name": "アレクサンドル・メンシコフ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on a real Prince of the Russian Empire, [url=http://en.wikipedia.org/wiki/Aleksandr_Danilovich_Menshikov]Aleksandr Danilovich Menshikov[/url].",
+  "source_sha256": "492a1c3397047cd7953b639992eb987f6795b65491d499aa8682b793d20f678b",
+  "translation": "Based on a real Prince of the Russian Empire, [url=http://en.wikipedia.org/wiki/Aleksandr_Danilovich_Menshikov]Aleksandr Danilovich Menshikov[/url].",
+  "vndb_url": "https://vndb.org/c9448"
+}

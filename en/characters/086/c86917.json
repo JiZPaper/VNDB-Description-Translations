@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86917",
+  "type": "character",
+  "name": "Ralph",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Partner Type: Frog\n\nSpecial Attack: Water Pistol\nA small water drop is shot with great force at the enemy's weak point.\n\nFavorite Food: Earthworms\n\n[Official in-game description]",
+  "source_sha256": "f7ebd56861125bde9f00a08d8ab297014bf671b99658a17136a08ca0641fe93c",
+  "translation": "Partner Type: Frog\n\nSpecial Attack: Water Pistol\nA small water drop is shot with great force at the enemy's weak point.\n\nFavorite Food: Earthworms\n\n[Official in-game description]",
+  "vndb_url": "https://vndb.org/c86917"
+}

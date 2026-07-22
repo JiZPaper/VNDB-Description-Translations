@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25168",
+  "type": "character",
+  "name": "Slurpy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mark's goldfish.",
+  "source_sha256": "68b6812b23264eb83033f2f6c38be5622e19467ee21114ce80734a239c7352e8",
+  "translation": "Mark's goldfish.",
+  "vndb_url": "https://vndb.org/c25168"
+}

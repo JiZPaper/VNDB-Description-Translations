@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29248",
+  "type": "visual_novel",
+  "name": "Private Investigator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "John, the protagonist of Vampire Lips, is missing! Play as Daryl to investigate John's disappearance. You might discover more secrets than you expected.​",
+  "source_sha256": "8e6a7294d41c0c96051f2908eb84e94b1a87045f38a937aeec332fe455207cd1",
+  "translation": "John, the protagonist of Vampire Lips, is missing! Play as Daryl to investigate John's disappearance. You might discover more secrets than you expected.​",
+  "vndb_url": "https://vndb.org/v29248"
+}

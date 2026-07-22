@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c80901",
+  "type": "character",
+  "name": "NAMI",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Birthdate: August 30th, 1991",
+  "source_sha256": "c6d628873d1f744408def351bc702b1c5a87c14abc9b6fce102b0c3b4038e49f",
+  "translation": "Birthdate: August 30th, 1991",
+  "vndb_url": "https://vndb.org/c80901"
+}

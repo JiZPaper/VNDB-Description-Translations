@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c3330",
+  "type": "character",
+  "name": "Eclair",
+  "original_name": "エクレア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Waitress of Candy House.",
+  "source_sha256": "67c9868516cc762bd20fe04ec5cdbd251d1ceb313b8190d39c775f45ef227a81",
+  "translation": "Waitress of Candy House.",
+  "vndb_url": "https://vndb.org/c3330"
+}

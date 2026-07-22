@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122465",
+  "type": "character",
+  "name": "Strawberry",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A strawberry witch that lives in the forest.",
+  "source_sha256": "6e15d98868de4e8dfa3eb5b5eadedd49f1323309f878cff359fc5b533779ffbf",
+  "translation": "A strawberry witch that lives in the forest.",
+  "vndb_url": "https://vndb.org/c122465"
+}

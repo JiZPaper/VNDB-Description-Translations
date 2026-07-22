@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48399",
+  "type": "visual_novel",
+  "name": "Burning Memory",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sam wakes up in a strange hotel room, with no memory of how he got there. As he explores the town, he starts to realize that something is deeply wrong - and he must uncover the mystery before it's too late.",
+  "source_sha256": "46fabee947a6def02102047f96b1e67882c7b7093e17bd3341e70dec8a3932da",
+  "translation": "Sam wakes up in a strange hotel room, with no memory of how he got there. As he explores the town, he starts to realize that something is deeply wrong - and he must uncover the mystery before it's too late.",
+  "vndb_url": "https://vndb.org/v48399"
+}

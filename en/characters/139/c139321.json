@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139321",
+  "type": "character",
+  "name": "Geralt",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bailiff of Glenval.\n\n[In game description]",
+  "source_sha256": "03d48a61ee8a19edc97dd520e183684d093edac4dfd38d1fdc54743a06a31a55",
+  "translation": "Bailiff of Glenval.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c139321"
+}

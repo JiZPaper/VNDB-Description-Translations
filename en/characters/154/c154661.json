@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154661",
+  "type": "character",
+  "name": "Vivian",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A student in the hero's class.",
+  "source_sha256": "469a9695f0816cbf0598a3c3f825de7b9ccea38a655cf909aebc16e1bdb318b1",
+  "translation": "A student in the hero's class.",
+  "vndb_url": "https://vndb.org/c154661"
+}

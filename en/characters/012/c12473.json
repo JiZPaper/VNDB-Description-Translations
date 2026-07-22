@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12473",
+  "type": "character",
+  "name": "Mink",
+  "original_name": "ミンク",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Do you understand your position?\"\n\nA hardened street fighter, willing to do whatever it takes to achieve his goal.\n\n[From the digital manual included with r76424]",
+  "source_sha256": "998835bc56c96355ae4872439d28818fedf7d9b584da67d6d91fff2cad69629e",
+  "translation": "\"Do you understand your position?\"\n\nA hardened street fighter, willing to do whatever it takes to achieve his goal.\n\n[From the digital manual included with r76424]",
+  "vndb_url": "https://vndb.org/c12473"
+}

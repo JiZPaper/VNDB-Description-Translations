@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140391",
+  "type": "character",
+  "name": "Miss Cleo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fortune teller at an amusement park.",
+  "source_sha256": "344225ff87d94d17ba9d73e07a96458f18741209d07a3ee8ed7e345c3b7729ae",
+  "translation": "A fortune teller at an amusement park.",
+  "vndb_url": "https://vndb.org/c140391"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c185",
+  "type": "character",
+  "name": "Iguchi",
+  "original_name": "井口",
+  "language": "en",
+  "source_language": "en",
+  "source": "Admiral Iguchi, captain of the battleship Musashi of Japanese Navy.",
+  "source_sha256": "1f6e00d92fe7d6f21d3a109b93bc649aa179b5076272f4f380aaa276b9a435c9",
+  "translation": "Admiral Iguchi, captain of the battleship Musashi of Japanese Navy.",
+  "vndb_url": "https://vndb.org/c185"
+}

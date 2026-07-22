@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c16181",
+  "type": "character",
+  "name": "Kuramoto Kenshou",
+  "original_name": "蔵本顕彰",
+  "language": "en",
+  "source_language": "en",
+  "source": "Japanese businessman.",
+  "source_sha256": "19bfe93f4d6c5f4b75fd6b3e9cfc69b64d220915ea1d1f53962471c25e2eeead",
+  "translation": "Japanese businessman.",
+  "vndb_url": "https://vndb.org/c16181"
+}

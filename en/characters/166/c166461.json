@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166461",
+  "type": "character",
+  "name": "Vanessa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Works as a telemarketer.",
+  "source_sha256": "fc258e995bf489dfbbde1bd2d6d76d35b77b966d6f89c6388200a04d92301e40",
+  "translation": "Works as a telemarketer.",
+  "vndb_url": "https://vndb.org/c166461"
+}

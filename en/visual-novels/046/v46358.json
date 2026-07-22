@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46358",
+  "type": "visual_novel",
+  "name": "Mystical Milk Mayhem",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A witch goes on a quest to buy some milk.",
+  "source_sha256": "55fa769d710030602d3494d0af7c45d1bcb54483e1527d20dd0e20fdbc4730d4",
+  "translation": "A witch goes on a quest to buy some milk.",
+  "vndb_url": "https://vndb.org/v46358"
+}

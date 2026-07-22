@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110136",
+  "type": "character",
+  "name": "Matoi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "(The player can choose the gender of this character at the beginning of the game: male, female or non-binary).\n\nMatoi is the protagonist's next-door neighbor. They know each other since they were born. And their mothers have been best friends even before that.",
+  "source_sha256": "ff1aa344b03c1645890fca80440e0a43858f649e5716ce2ab8a930786755ce53",
+  "translation": "(The player can choose the gender of this character at the beginning of the game: male, female or non-binary).\n\nMatoi is the protagonist's next-door neighbor. They know each other since they were born. And their mothers have been best friends even before that.",
+  "vndb_url": "https://vndb.org/c110136"
+}

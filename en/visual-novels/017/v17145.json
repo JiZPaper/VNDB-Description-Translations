@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17145",
+  "type": "visual_novel",
+  "name": "A Standard Mission",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Two rival Contractors, mercenary spies-for-hire, cross paths during a mission where they are hunting for the same target.\n\nCreated for NaNoRenO 2015.",
+  "source_sha256": "ec9dab31cb38d2d7ac2a8f633ce41ed105895ebe1bb4f4376f75bbd24df041d0",
+  "translation": "Two rival Contractors, mercenary spies-for-hire, cross paths during a mission where they are hunting for the same target.\n\nCreated for NaNoRenO 2015.",
+  "vndb_url": "https://vndb.org/v17145"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19293",
+  "type": "character",
+  "name": "Kanai",
+  "original_name": "カナイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Weapon: iron pipe.",
+  "source_sha256": "426ceb762d8c4a507e91a2c379efb0271216604b17c74a65bdcd920d101d4a42",
+  "translation": "Weapon: iron pipe.",
+  "vndb_url": "https://vndb.org/c19293"
+}

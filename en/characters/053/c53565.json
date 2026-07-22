@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53565",
+  "type": "character",
+  "name": "Laura",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bernd's little sister.",
+  "source_sha256": "53dc367c1312abc340f45bbabea0f30031b2989b17e518654a0fd22c4baadfa7",
+  "translation": "Bernd's little sister.",
+  "vndb_url": "https://vndb.org/c53565"
+}

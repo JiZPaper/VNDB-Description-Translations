@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23980",
+  "type": "visual_novel",
+  "name": "Communist Mario",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A joke.\n\n[From [url=https://hobbnits.itch.io/communist-mario-for-windows] itch.io[/url]]",
+  "source_sha256": "4e38a55186247a51b7b35062af3e561154bfa07aab49f194911728708f8d9780",
+  "translation": "A joke.\n\n[From [url=https://hobbnits.itch.io/communist-mario-for-windows] itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v23980"
+}

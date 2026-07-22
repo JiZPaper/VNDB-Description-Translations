@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82603",
+  "type": "character",
+  "name": "Romano",
+  "original_name": "ロマノ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Romano appears to be tougher than his younger brother, but he's just as cowardly.",
+  "source_sha256": "03a74817879bcfab3856c2d34b0ac1893beda7b230eba5d16be764ca731944dc",
+  "translation": "Romano appears to be tougher than his younger brother, but he's just as cowardly.",
+  "vndb_url": "https://vndb.org/c82603"
+}

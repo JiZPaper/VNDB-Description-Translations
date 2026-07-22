@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c66288",
+  "type": "character",
+  "name": "Sarah",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I don't date losers!\nAlso, I don't dance.\"",
+  "source_sha256": "25a232ba07a419b5bec7489361eeb72fc7f4cf842e6bb8d0a4eeb7721cec8ec8",
+  "translation": "\"I don't date losers!\nAlso, I don't dance.\"",
+  "vndb_url": "https://vndb.org/c66288"
+}

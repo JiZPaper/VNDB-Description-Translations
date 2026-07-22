@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47216",
+  "type": "character",
+  "name": "Fortune Teller",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Fortune teller whom Gillian can encounter in Alton Plaza.",
+  "source_sha256": "2c4b28042bb39ca749233cb858308a33b438568f7ee063a18610009eb11efd08",
+  "translation": "Fortune teller whom Gillian can encounter in Alton Plaza.",
+  "vndb_url": "https://vndb.org/c47216"
+}

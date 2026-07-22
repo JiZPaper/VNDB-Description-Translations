@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95307",
+  "type": "character",
+  "name": "Nana",
+  "original_name": "七七",
+  "language": "en",
+  "source_language": "en",
+  "source": "Metarou's next-door neighbor.",
+  "source_sha256": "2b66476369b18a71c4999f9fe02b86bfd9a220c3c7a14ba7f731ead3b3940ba9",
+  "translation": "Metarou's next-door neighbor.",
+  "vndb_url": "https://vndb.org/c95307"
+}

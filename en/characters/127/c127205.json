@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127205",
+  "type": "character",
+  "name": "Eiseihei",
+  "original_name": "衛生兵",
+  "language": "en",
+  "source_language": "en",
+  "source": "A medic in the Nationale Volksarmee's 500th Jaeger Corps.",
+  "source_sha256": "12f2cc8e84e769d097d035251c52c05ea0be6965a5e94cc692abc2b8e39fad6c",
+  "translation": "A medic in the Nationale Volksarmee's 500th Jaeger Corps.",
+  "vndb_url": "https://vndb.org/c127205"
+}

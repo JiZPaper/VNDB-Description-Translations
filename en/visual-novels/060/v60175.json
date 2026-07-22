@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60175",
+  "type": "visual_novel",
+  "name": "Shinso no Yamai",
+  "original_name": "深窓の病",
+  "language": "en",
+  "source_language": "en",
+  "source": "An exploration-based adventure game in which the main characters, Yayo and Hiwana, wander into a dream world and search for the abyss to end the dream.",
+  "source_sha256": "3d077d50cfb5c461f028091d7018d8e62ec873dac7fe97407de8cf5aeaa7d88f",
+  "translation": "An exploration-based adventure game in which the main characters, Yayo and Hiwana, wander into a dream world and search for the abyss to end the dream.",
+  "vndb_url": "https://vndb.org/v60175"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49870",
+  "type": "visual_novel",
+  "name": "Golden Rose",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You awaken and you are hungry.\n\n[From [url=https://leafletgames.itch.io/golden-rose]Itch.io[/url]]",
+  "source_sha256": "02c2f53a4d86065b2d646cdd552d5be8439de931ee408a66d041a59804f4b56f",
+  "translation": "You awaken and you are hungry.\n\n[From [url=https://leafletgames.itch.io/golden-rose]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v49870"
+}

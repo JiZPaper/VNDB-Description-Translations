@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39163",
+  "type": "visual_novel",
+  "name": "Inazuma Kyoushi & Onna Kyoushi: Densetsu no Kyoudan Tate",
+  "original_name": "稲妻教師＆女教師　伝説の教壇の盾",
+  "language": "en",
+  "source_language": "en",
+  "source": "A crossover between the Onna Kyoushi and Thunderbolt series.",
+  "source_sha256": "e9cf28df388d3d4ca483266d05e02b35fd359b72ca9eea51dc4b82ada24cdf83",
+  "translation": "A crossover between the Onna Kyoushi and Thunderbolt series.",
+  "vndb_url": "https://vndb.org/v39163"
+}

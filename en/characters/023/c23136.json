@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c23136",
+  "type": "character",
+  "name": "Tsukuyomi",
+  "original_name": "ツクヨミ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Attribute: Water",
+  "source_sha256": "a1f6674fde7b0c60cf676e6b6e1f6048dca52f64296048a0be00922d9353d4d0",
+  "translation": "Attribute: Water",
+  "vndb_url": "https://vndb.org/c23136"
+}

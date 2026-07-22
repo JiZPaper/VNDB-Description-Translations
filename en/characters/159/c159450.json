@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159450",
+  "type": "character",
+  "name": "Sarah",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Alan's coworker.",
+  "source_sha256": "0426f0c92130ccef3667b987111ce6fb51eb312fe625f8d2fff027124d1ba932",
+  "translation": "Alan's coworker.",
+  "vndb_url": "https://vndb.org/c159450"
+}

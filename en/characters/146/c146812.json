@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146812",
+  "type": "character",
+  "name": "Theodore Wilburn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Owns a toy store in the mall.\n\n[In-game description]",
+  "source_sha256": "a51c0fd7eca539c666a63b4ab7535711e191c36ed3b4835f61c0b937cb6c1f6b",
+  "translation": "Owns a toy store in the mall.\n\n[In-game description]",
+  "vndb_url": "https://vndb.org/c146812"
+}

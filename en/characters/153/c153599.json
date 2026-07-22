@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153599",
+  "type": "character",
+  "name": "Baba Tamara",
+  "original_name": "Баба Тамара",
+  "language": "en",
+  "source_language": "en",
+  "source": "An old homeless woman with a face \"mutilated by life and alcohol.\" She is dressed in rags and wears an old headscarf on her head. She speaks mockingly, with a rustic accent.",
+  "source_sha256": "3c08953c39d7ed697f9420cd3d6b9d08dedf698b3e0530cf9421b5f678319d89",
+  "translation": "An old homeless woman with a face \"mutilated by life and alcohol.\" She is dressed in rags and wears an old headscarf on her head. She speaks mockingly, with a rustic accent.",
+  "vndb_url": "https://vndb.org/c153599"
+}

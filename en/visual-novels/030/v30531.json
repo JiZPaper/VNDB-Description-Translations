@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30531",
+  "type": "visual_novel",
+  "name": "Lara's Escape",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lara Croft attempts to escape from a yacht.",
+  "source_sha256": "c150bb4bd2495d6ed148d812fe055135ec0817cc0fb8474ae91ff693eeeb98c7",
+  "translation": "Lara Croft attempts to escape from a yacht.",
+  "vndb_url": "https://vndb.org/v30531"
+}

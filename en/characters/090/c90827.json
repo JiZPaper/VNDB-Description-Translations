@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90827",
+  "type": "character",
+  "name": "Executive",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A main hero of this story",
+  "source_sha256": "0bc36d9ca9b9466bf1e97e6cc2e61c1bdfd20e400be2a4e415179807f7306162",
+  "translation": "A main hero of this story",
+  "vndb_url": "https://vndb.org/c90827"
+}

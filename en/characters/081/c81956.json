@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81956",
+  "type": "character",
+  "name": "Carrera",
+  "original_name": "カレラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "An employee at an accessory shop.",
+  "source_sha256": "add668eb6b27775c0d561ae5f911883e072b5f766c891a2cd22def6639c58dc4",
+  "translation": "An employee at an accessory shop.",
+  "vndb_url": "https://vndb.org/c81956"
+}

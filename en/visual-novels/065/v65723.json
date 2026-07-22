@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65723",
+  "type": "visual_novel",
+  "name": "NZ78",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "NZ78 is a short atmospheric sci-fi visual novel set in New Zealand in 2078. After overseas communication suddenly stops, ordinary explanations begin to fail, and the country is forced to confront an impossible situation. The story is told through text and ink-wash style images, with simple page navigation rather than action gameplay.",
+  "source_sha256": "baefeb88ce69645dd1fcd0a6583e3f461fb427b3be788f3e222cd4cc72348d59",
+  "translation": "NZ78 is a short atmospheric sci-fi visual novel set in New Zealand in 2078. After overseas communication suddenly stops, ordinary explanations begin to fail, and the country is forced to confront an impossible situation. The story is told through text and ink-wash style images, with simple page navigation rather than action gameplay.",
+  "vndb_url": "https://vndb.org/v65723"
+}

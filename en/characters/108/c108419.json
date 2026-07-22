@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c108419",
+  "type": "character",
+  "name": "Shion",
+  "original_name": "シオン",
+  "language": "en",
+  "source_language": "en",
+  "source": "She is an exotic and skilled swordsman from the East.\nShe is calm and quiet.\nShe is guarding the sword that is the key to sealing Marion.",
+  "source_sha256": "ab0ccf85c6063a61fe17586c1f7b4218ce46b0125fbc98a3cf1154d68953b96f",
+  "translation": "She is an exotic and skilled swordsman from the East.\nShe is calm and quiet.\nShe is guarding the sword that is the key to sealing Marion.",
+  "vndb_url": "https://vndb.org/c108419"
+}

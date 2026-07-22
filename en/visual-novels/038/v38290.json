@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38290",
+  "type": "visual_novel",
+  "name": "BLUE",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Fruits of Dreams and Forgotten Monsters\"",
+  "source_sha256": "9fef151a6f8494fd46891a9153ef9c04c1bd29047ce8f1c3c6337f19b471ebb3",
+  "translation": "\"Fruits of Dreams and Forgotten Monsters\"",
+  "vndb_url": "https://vndb.org/v38290"
+}

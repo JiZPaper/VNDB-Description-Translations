@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97688",
+  "type": "character",
+  "name": "Chandler Maseros",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A low-rank scout assigned to serve the main character.\nAccording to Laceaga, he is afraid of fire.",
+  "source_sha256": "dd2c303e9a15fcdc53b4d7c48996db28c8731838b99aae6e070bcc1fe17ebd5e",
+  "translation": "A low-rank scout assigned to serve the main character.\nAccording to Laceaga, he is afraid of fire.",
+  "vndb_url": "https://vndb.org/c97688"
+}

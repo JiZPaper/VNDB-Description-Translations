@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161879",
+  "type": "character",
+  "name": "Sarah",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Tom's wife.",
+  "source_sha256": "5b0cb08342e869e9b7ea3fb2a165b623fcab13ecd5b64878aa2d169585064077",
+  "translation": "Tom's wife.",
+  "vndb_url": "https://vndb.org/c161879"
+}

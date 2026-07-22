@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12268",
+  "type": "character",
+  "name": "Zepar",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Zepar is the co-host of Total Seacat Island.",
+  "source_sha256": "42f29f4f95e7f35ff1bbf449c58d7f45dae9ec1ac675238bb25b048903b9b58a",
+  "translation": "Zepar is the co-host of Total Seacat Island.",
+  "vndb_url": "https://vndb.org/c12268"
+}

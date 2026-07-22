@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92299",
+  "type": "character",
+  "name": "Guard 357",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A guard in the Sultan's palace.",
+  "source_sha256": "44e9d852d8731ca7950676b2d3e3900227d54ae31989586e43ec94ee1422cdb4",
+  "translation": "A guard in the Sultan's palace.",
+  "vndb_url": "https://vndb.org/c92299"
+}

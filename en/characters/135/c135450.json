@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135450",
+  "type": "character",
+  "name": "Cinderella",
+  "original_name": "シンデレラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A main character in the 1st main quest's episode 1 \"Cinderella Story Zone\".",
+  "source_sha256": "835b06676042f34364f41d696b2bb4f7f9c5f0ed34b5021a493c60bef6c4ce73",
+  "translation": "A main character in the 1st main quest's episode 1 \"Cinderella Story Zone\".",
+  "vndb_url": "https://vndb.org/c135450"
+}

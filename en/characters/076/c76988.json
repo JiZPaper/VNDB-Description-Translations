@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76988",
+  "type": "character",
+  "name": "Tora",
+  "original_name": "とら",
+  "language": "en",
+  "source_language": "en",
+  "source": "[url=/c70208]Hotaru's[/url] animal companion",
+  "source_sha256": "8510f94e602c664d665dc102aecef568729b904b21e2a3a73ef3b3747cb49243",
+  "translation": "[url=/c70208]Hotaru's[/url] animal companion",
+  "vndb_url": "https://vndb.org/c76988"
+}

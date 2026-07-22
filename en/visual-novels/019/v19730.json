@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19730",
+  "type": "visual_novel",
+  "name": "Dance Trips",
+  "original_name": "ダンストリップス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Collaboration between Otomate and voice actor Kenjiro Tsuda. This will be Otomate's first mobile game centering on a dance group.",
+  "source_sha256": "3f1da1d5d040ad93360b41ceed730ec253521aaece9adef10669e91323371fb2",
+  "translation": "Collaboration between Otomate and voice actor Kenjiro Tsuda. This will be Otomate's first mobile game centering on a dance group.",
+  "vndb_url": "https://vndb.org/v19730"
+}

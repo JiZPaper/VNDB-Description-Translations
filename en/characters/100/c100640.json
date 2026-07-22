@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100640",
+  "type": "character",
+  "name": "Shuu",
+  "original_name": "シュウ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Character of Okuri Inu scenario.",
+  "source_sha256": "85e9900b1cd9ad424333ee1d25bd5dd49317853136441b48c2cf9d8c4a7da9e0",
+  "translation": "Character of Okuri Inu scenario.",
+  "vndb_url": "https://vndb.org/c100640"
+}

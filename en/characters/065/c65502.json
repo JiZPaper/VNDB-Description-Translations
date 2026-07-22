@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65502",
+  "type": "character",
+  "name": "Revash",
+  "original_name": "レヴァーシュ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The king's loyal servant and a chivalrous warrior. He sees the King as a god-like figure and obeys the King's every order.  \nDespite being a skilful swordsman, he doesn't like violence and avoids conflicts as much as possible.",
+  "source_sha256": "1104d246689b287d5ed01ebdbe0fffe8943bad36f5f91b9d3a567e6e37f998ee",
+  "translation": "The king's loyal servant and a chivalrous warrior. He sees the King as a god-like figure and obeys the King's every order.  \nDespite being a skilful swordsman, he doesn't like violence and avoids conflicts as much as possible.",
+  "vndb_url": "https://vndb.org/c65502"
+}

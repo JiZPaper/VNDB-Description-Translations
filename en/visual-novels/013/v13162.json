@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13162",
+  "type": "visual_novel",
+  "name": "Morok",
+  "original_name": "Морок",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short KN in the atmosphere of Gogol \"Evenings.\" \n\n[From [url=http://games.renpy.org/game/morok.shtml]Ren'Py Games List[/url]]",
+  "source_sha256": "6930ef52b9d5611d90a69035e7387ea54278d0aeb53428b609042df677090d3c",
+  "translation": "A short KN in the atmosphere of Gogol \"Evenings.\" \n\n[From [url=http://games.renpy.org/game/morok.shtml]Ren'Py Games List[/url]]",
+  "vndb_url": "https://vndb.org/v13162"
+}

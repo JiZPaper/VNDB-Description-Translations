@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99793",
+  "type": "character",
+  "name": "Haney",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Greeter is a mysterious person who works for the Game-master.\nShe is responsible for other things besides greeting, however.",
+  "source_sha256": "7fa5de99c4dc223ffe3379422b04d711e6b35906c47272d5d01cccd9700ad5dc",
+  "translation": "The Greeter is a mysterious person who works for the Game-master.\nShe is responsible for other things besides greeting, however.",
+  "vndb_url": "https://vndb.org/c99793"
+}

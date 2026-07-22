@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100661",
+  "type": "character",
+  "name": "Cats",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Two stray cats that are living in Leaf's house.",
+  "source_sha256": "bffd9565b53abf223cd2f4e43dc58f91fc3865076fcfe01359de6c0d18fa9506",
+  "translation": "Two stray cats that are living in Leaf's house.",
+  "vndb_url": "https://vndb.org/c100661"
+}

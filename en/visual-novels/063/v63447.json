@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63447",
+  "type": "visual_novel",
+  "name": "Orfej: Eho Aida",
+  "original_name": "Орфей: Эхо Аида",
+  "language": "en",
+  "source_language": "en",
+  "source": "Orpheus and Eurydice — a retelling of the classic Greek myth. Orpheus descends into the Underworld to bring back his wife, but Hades sets a condition: perform for him. Features a rhythm minigame, a temptation system, and 3 endings.",
+  "source_sha256": "9f2c4b0452ad43dbd43bc482e406e981995037ed195e94eee48557627ea0dc82",
+  "translation": "Orpheus and Eurydice — a retelling of the classic Greek myth. Orpheus descends into the Underworld to bring back his wife, but Hades sets a condition: perform for him. Features a rhythm minigame, a temptation system, and 3 endings.",
+  "vndb_url": "https://vndb.org/v63447"
+}

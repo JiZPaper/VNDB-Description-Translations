@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170735",
+  "type": "character",
+  "name": "Tikvah",
+  "original_name": "ティクヴァ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Tikvah is a dove that always accompanies Galatea.\n\n[From [url=https://farapo.jp/en/]farapo.jp[/url]]",
+  "source_sha256": "72e2c1ac468fd44feb2007431d97df0cc087058748ad306d634c74f3fd4ae97b",
+  "translation": "Tikvah is a dove that always accompanies Galatea.\n\n[From [url=https://farapo.jp/en/]farapo.jp[/url]]",
+  "vndb_url": "https://vndb.org/c170735"
+}

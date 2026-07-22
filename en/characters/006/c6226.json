@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c6226",
+  "type": "character",
+  "name": "Demerara Orendain",
+  "original_name": "デメララ・オレンダイン",
+  "language": "en",
+  "source_language": "en",
+  "source": "HP: 1000\nAttack: 600\nDefense: 280\n\nWorks as a maid for [url=/c6225]Ascension[/url], who she looks after like a mother and enjoys teasing at times. She is a lamia.",
+  "source_sha256": "214bd4e74f09a7eab5c75e07e691d7255f7435a21fc70182bc5c38ebe4befc59",
+  "translation": "HP: 1000\nAttack: 600\nDefense: 280\n\nWorks as a maid for [url=/c6225]Ascension[/url], who she looks after like a mother and enjoys teasing at times. She is a lamia.",
+  "vndb_url": "https://vndb.org/c6226"
+}

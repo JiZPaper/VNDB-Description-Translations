@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9805",
+  "type": "character",
+  "name": "Prime Minister",
+  "original_name": "総理",
+  "language": "en",
+  "source_language": "en",
+  "source": "Prime Minister of Japan. Real name is unknown.",
+  "source_sha256": "d30fe8a55455e02848017d89a84f0088965abaa32df9ea15d929b65e00317dae",
+  "translation": "Prime Minister of Japan. Real name is unknown.",
+  "vndb_url": "https://vndb.org/c9805"
+}

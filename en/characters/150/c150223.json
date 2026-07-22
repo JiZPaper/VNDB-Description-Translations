@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150223",
+  "type": "character",
+  "name": "Shoujo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young girl the protagonist meets by accident when commuting to work. Her name is never specified.",
+  "source_sha256": "12b5ba969c2d0c95e7da0a8b1cfcaa208676aece09eca39bc63ff5a905923fc0",
+  "translation": "A young girl the protagonist meets by accident when commuting to work. Her name is never specified.",
+  "vndb_url": "https://vndb.org/c150223"
+}

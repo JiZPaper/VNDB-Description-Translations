@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29147",
+  "type": "character",
+  "name": "Sakura's mother",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gave birth at 16",
+  "source_sha256": "01f122fb7e4bec26cab92da23c06bc07b06e758c331a057274b5d70af4f0fcd3",
+  "translation": "Gave birth at 16",
+  "vndb_url": "https://vndb.org/c29147"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60711",
+  "type": "character",
+  "name": "Doran",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Duke Doran is the lord of Raeve Keep and Rosaria.",
+  "source_sha256": "42760e917b19054a984449e0b4f3799dc9d21a4d60eb09cf61e206d9fa5fd47d",
+  "translation": "Duke Doran is the lord of Raeve Keep and Rosaria.",
+  "vndb_url": "https://vndb.org/c60711"
+}

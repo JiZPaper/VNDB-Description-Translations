@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29681",
+  "type": "character",
+  "name": "Zephyrus",
+  "original_name": "ゼピュロス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Age unknown.",
+  "source_sha256": "bd61130234471c29b8e9e5ee4a3166ad9422405bdb2921149b27cae63701d421",
+  "translation": "Age unknown.",
+  "vndb_url": "https://vndb.org/c29681"
+}

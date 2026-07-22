@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c445",
+  "type": "character",
+  "name": "Tatewaki",
+  "original_name": "帯刀",
+  "language": "en",
+  "source_language": "en",
+  "source": "Chieri's butler and pilot.",
+  "source_sha256": "189f125eb358b1907f5d45de4cc06035199ec5ec4ca3ff14441f79bcb3e9b7ab",
+  "translation": "Chieri's butler and pilot.",
+  "vndb_url": "https://vndb.org/c445"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161372",
+  "type": "character",
+  "name": "Platière",
+  "original_name": "プラティエ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Corrupted form of Platière.",
+  "source_sha256": "bd13bf488fbb083e35d006b03966fde00bd9fd70662ba74dbb8528ad4bf9afde",
+  "translation": "Corrupted form of Platière.",
+  "vndb_url": "https://vndb.org/c161372"
+}

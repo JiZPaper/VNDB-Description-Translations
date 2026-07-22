@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51604",
+  "type": "visual_novel",
+  "name": "Le Cœur à Gauche",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The time is now!\nAs you're wallowing in despair, you receive an unexpected call to join an action group of the Left Union.\nThere, you meet passionate activists, some more charming than others... Review the political program and discover the one that speaks to your heart with \"Le Cœur à Gauche\"!",
+  "source_sha256": "9ac0888cffe5d95456f5d907e3f526711f507431dd01cb42548ef251f23dd01d",
+  "translation": "The time is now!\nAs you're wallowing in despair, you receive an unexpected call to join an action group of the Left Union.\nThere, you meet passionate activists, some more charming than others... Review the political program and discover the one that speaks to your heart with \"Le Cœur à Gauche\"!",
+  "vndb_url": "https://vndb.org/v51604"
+}

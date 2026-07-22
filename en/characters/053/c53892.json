@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53892",
+  "type": "character",
+  "name": "Sir Felsen",
+  "original_name": "フェルゼン卿",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the Generals of Edellant Kingdom.\n\nフェルゼン(Feruzen) -> Felsen (German)",
+  "source_sha256": "aace755594c8874df6a91ebf93af60cc1e44b493c6e2e7e2e504d110b1281146",
+  "translation": "One of the Generals of Edellant Kingdom.\n\nフェルゼン(Feruzen) -> Felsen (German)",
+  "vndb_url": "https://vndb.org/c53892"
+}

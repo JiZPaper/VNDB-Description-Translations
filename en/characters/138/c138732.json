@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c138732",
+  "type": "character",
+  "name": "Horse in a coat",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An erratic horse in a coat who was the original hero of the game before Virus arrived.",
+  "source_sha256": "bc3945729609f52c9153f64394d2e11ae09481b688cfcddb7938c8aa43479e3e",
+  "translation": "An erratic horse in a coat who was the original hero of the game before Virus arrived.",
+  "vndb_url": "https://vndb.org/c138732"
+}

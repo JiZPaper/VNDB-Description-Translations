@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63062",
+  "type": "visual_novel",
+  "name": "Yumegami",
+  "original_name": "夢神",
+  "language": "en",
+  "source_language": "en",
+  "source": "A New Year's minigame about the God of Dreams and his servant.",
+  "source_sha256": "a1e39fd422f73ff7fd25f184ac0086fa624b22c947d16ed7e3cdfc3e76661a54",
+  "translation": "A New Year's minigame about the God of Dreams and his servant.",
+  "vndb_url": "https://vndb.org/v63062"
+}

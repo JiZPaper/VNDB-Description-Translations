@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22229",
+  "type": "visual_novel",
+  "name": "The Rapture of Nina Hartrova",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel that follows the adventures and mishaps of a patron of the Opera house and his \"prey\", a whimsical ballerina.",
+  "source_sha256": "52dcada61b37608b54f1a1c71136815012c589baea879c6ace21eb5917a66fad",
+  "translation": "A visual novel that follows the adventures and mishaps of a patron of the Opera house and his \"prey\", a whimsical ballerina.",
+  "vndb_url": "https://vndb.org/v22229"
+}

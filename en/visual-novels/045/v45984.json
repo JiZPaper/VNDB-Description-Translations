@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45984",
+  "type": "visual_novel",
+  "name": "Naz",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Would you throw away your pride?",
+  "source_sha256": "54b07740aeabf819c357c42b082cbd7162ff818b406fafe67b5dd2f1902f8401",
+  "translation": "Would you throw away your pride?",
+  "vndb_url": "https://vndb.org/v45984"
+}

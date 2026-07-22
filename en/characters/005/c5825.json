@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c5825",
+  "type": "character",
+  "name": "Fabio Grey",
+  "original_name": "ファビオ·グレイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Famous theatrical actor. Quite eccentric man outside the scene.",
+  "source_sha256": "49b2ccb08b46b722476d8ea087de0eba40c12276a01992bfdaa574cc31bfd154",
+  "translation": "Famous theatrical actor. Quite eccentric man outside the scene.",
+  "vndb_url": "https://vndb.org/c5825"
+}

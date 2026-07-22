@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23001",
+  "type": "visual_novel",
+  "name": "Sayurin no Tantei na Hibi",
+  "original_name": "さゆりんの探偵な日々",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Doujin game based on Kanon/ONE about Kurata Sayuri and her Detective days.",
+  "source_sha256": "9483161cedb73d9d4d2a5fe812eb15bd455a6fe5ec8addaea90badface3c8410",
+  "translation": "A Doujin game based on Kanon/ONE about Kurata Sayuri and her Detective days.",
+  "vndb_url": "https://vndb.org/v23001"
+}

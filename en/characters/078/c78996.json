@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c78996",
+  "type": "character",
+  "name": "Ivan Carles",
+  "original_name": "イヴァン・カルル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Star Sign: Leo\nHobby: Cooking",
+  "source_sha256": "82e57f2b665d0f64ee6fe8ab2ed19624add22653ab3b0b3360ac439c00fc8c5b",
+  "translation": "Star Sign: Leo\nHobby: Cooking",
+  "vndb_url": "https://vndb.org/c78996"
+}

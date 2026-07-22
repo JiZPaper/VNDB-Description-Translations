@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140949",
+  "type": "character",
+  "name": "Emily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "role: Patient\ndisability: Left leg above knee amputee \nbio: Emily is a spirited young woman who lost her leg in a motorcycle accident. Despite her initial shyness and uncertainty, she is determined to regain her independence and confidence. Her journey with [mc] at the rehabilitation center is filled with challenges and breakthroughs as she learns to navigate her new reality.",
+  "source_sha256": "fdab5542f0b188e16fe5c4f06974315847a10ebc59d1c78d44f202a549c5729c",
+  "translation": "role: Patient\ndisability: Left leg above knee amputee \nbio: Emily is a spirited young woman who lost her leg in a motorcycle accident. Despite her initial shyness and uncertainty, she is determined to regain her independence and confidence. Her journey with [mc] at the rehabilitation center is filled with challenges and breakthroughs as she learns to navigate her new reality.",
+  "vndb_url": "https://vndb.org/c140949"
+}

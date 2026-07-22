@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60389",
+  "type": "character",
+  "name": "Captain Zoe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes: Treasure!\nDislikes: Losing to Katsu",
+  "source_sha256": "51a859d67ad0561248ef61c9339effc6b7ace8d8357b7c3cdb8d118fcf22a7bb",
+  "translation": "Likes: Treasure!\nDislikes: Losing to Katsu",
+  "vndb_url": "https://vndb.org/c60389"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36443",
+  "type": "visual_novel",
+  "name": "Kyouizon Paranoia",
+  "original_name": "共依存パラノイア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Listen to the stories of inpatients at the hospital.\n\n[From [url=https://www.freem.ne.jp/win/game/22347]Freem![/url]]",
+  "source_sha256": "62d2ac4f95a20c9adcd9d3ae4801e871457a38345103b54a86527ec7267cb3ca",
+  "translation": "Listen to the stories of inpatients at the hospital.\n\n[From [url=https://www.freem.ne.jp/win/game/22347]Freem![/url]]",
+  "vndb_url": "https://vndb.org/v36443"
+}

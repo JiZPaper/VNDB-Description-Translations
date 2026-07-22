@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32095",
+  "type": "visual_novel",
+  "name": "Yandere-teki x Nichijou Gokko",
+  "original_name": "ヤンデレ的×日常ごっこ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Small novel about yandere relationship.",
+  "source_sha256": "8ab6c1908bf3bf0fd3036e44787b2c35816bab44adcffe0aa7d7238c9ec0157b",
+  "translation": "Small novel about yandere relationship.",
+  "vndb_url": "https://vndb.org/v32095"
+}

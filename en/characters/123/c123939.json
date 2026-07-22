@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123939",
+  "type": "character",
+  "name": "Lina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is Jenny's best friend.",
+  "source_sha256": "f3acfb532fa993ba7fa78b45d84a9ae24eee830c7635e8f134e56385aece1518",
+  "translation": "She is Jenny's best friend.",
+  "vndb_url": "https://vndb.org/c123939"
+}

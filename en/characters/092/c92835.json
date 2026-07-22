@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92835",
+  "type": "character",
+  "name": "Edvard",
+  "original_name": "Эдвард",
+  "language": "en",
+  "source_language": "en",
+  "source": "Clive's uncle and guardian.",
+  "source_sha256": "2e881bcd63a430ce290997a71c5c29c8404610bcc07da9b560e0ff4c122ea19b",
+  "translation": "Clive's uncle and guardian.",
+  "vndb_url": "https://vndb.org/c92835"
+}

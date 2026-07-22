@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11196",
+  "type": "visual_novel",
+  "name": "Inaka de Shiyou! Kyoto Hen ~Boku to Imouto-tachi no Miko Biyori~",
+  "original_name": "田舎でシよう！京都編～ボクと妹たちの巫女日和～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short story about cute girls speaking in Kansai dialect.",
+  "source_sha256": "ca3bbd9b573fceabc7049dafa9b61bc77d259d7e6a29f2cf95c31c520f43ac18",
+  "translation": "A short story about cute girls speaking in Kansai dialect.",
+  "vndb_url": "https://vndb.org/v11196"
+}

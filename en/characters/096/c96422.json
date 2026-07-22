@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96422",
+  "type": "character",
+  "name": "Vantaa",
+  "original_name": "バンター",
+  "language": "en",
+  "source_language": "en",
+  "source": "Edward's Butler.",
+  "source_sha256": "2e8c60569e3d721a227abbfdd668427aab17b45d625759a99504821c59ced832",
+  "translation": "Edward's Butler.",
+  "vndb_url": "https://vndb.org/c96422"
+}

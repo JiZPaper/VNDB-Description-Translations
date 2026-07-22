@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28264",
+  "type": "visual_novel",
+  "name": "Fata Morgana no Yakata: Gendai-hen",
+  "original_name": "ファタモルガーナの館 現代編",
+  "language": "en",
+  "source_language": "en",
+  "source": "A sequel featuring the central cast members reincarnated in the present day.",
+  "source_sha256": "8e27a801bb5a6e6a3dceca643111c57dc51947b440f6c1ead1ce20b1282fa412",
+  "translation": "A sequel featuring the central cast members reincarnated in the present day.",
+  "vndb_url": "https://vndb.org/v28264"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76481",
+  "type": "character",
+  "name": "The Mangler",
+  "original_name": "卍カッター",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fruit cutter monster.\nAttacks using his steel wires to tie up or whip his foes.",
+  "source_sha256": "d4dd140462b34201f0c1e1f13ab8860f3891480ff367ea4e45f91f40ec9d1878",
+  "translation": "A fruit cutter monster.\nAttacks using his steel wires to tie up or whip his foes.",
+  "vndb_url": "https://vndb.org/c76481"
+}

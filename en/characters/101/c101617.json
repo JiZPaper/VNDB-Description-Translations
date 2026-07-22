@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101617",
+  "type": "character",
+  "name": "The Professor",
+  "original_name": "博士",
+  "language": "en",
+  "source_language": "en",
+  "source": "Eve’s creator. Found as a headless corpse upon the main character’s awakening.\n\n[From [url=https://store.steampowered.com/app/1630450/]Steam[/url]]",
+  "source_sha256": "e1c933a5875bcbf8df7dec3c7f2da9195bfe32e0d22eeb6d12ce3ca0ef01685b",
+  "translation": "Eve’s creator. Found as a headless corpse upon the main character’s awakening.\n\n[From [url=https://store.steampowered.com/app/1630450/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/c101617"
+}

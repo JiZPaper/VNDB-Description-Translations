@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c149783",
+  "type": "character",
+  "name": "Kindaichi Kousuke",
+  "original_name": "金田一 耕助",
+  "language": "en",
+  "source_language": "en",
+  "source": "Private detective.\nEstablished a detective agency after receiving monetary support. Has provided solutions to a number of different cases.",
+  "source_sha256": "0c6af763344b4c28f27d859db83afbfff096e5550961c411e948085a29982411",
+  "translation": "Private detective.\nEstablished a detective agency after receiving monetary support. Has provided solutions to a number of different cases.",
+  "vndb_url": "https://vndb.org/c149783"
+}

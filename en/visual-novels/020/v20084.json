@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20084",
+  "type": "visual_novel",
+  "name": "Adventures in Research!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Adventures in Research! is an interactive choose-your-own-adventure game that introduces information literacy concepts to university students. Concepts covered include: creating a research question, evaluating sources, database searching, plagiarism, and tips on presenting information. The game is divided into six Acts, and each Act focuses on one or two topics.\n\nYou play as a student (entering a name of your choice) working on a research paper for your class over the course of a month.",
+  "source_sha256": "1ae3b4d74a618e63228f8f66320f42637f9d283e3f5e02a9fe4be9cf3299cd0c",
+  "translation": "Adventures in Research! is an interactive choose-your-own-adventure game that introduces information literacy concepts to university students. Concepts covered include: creating a research question, evaluating sources, database searching, plagiarism, and tips on presenting information. The game is divided into six Acts, and each Act focuses on one or two topics.\n\nYou play as a student (entering a name of your choice) working on a research paper for your class over the course of a month.",
+  "vndb_url": "https://vndb.org/v20084"
+}

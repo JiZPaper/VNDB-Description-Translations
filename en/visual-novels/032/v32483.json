@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32483",
+  "type": "visual_novel",
+  "name": "Cubed Heist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your cube friend has invited you to breakfast to talk about her boring life in the city, and what she’s going to do to change that.\n\n[From [url=https://mintburrow.itch.io/cubella]Itch.io[/url]]",
+  "source_sha256": "aef55b6bbf01789974a27fd731b5fb1017401d75cf934e101382fea842e8cdae",
+  "translation": "Your cube friend has invited you to breakfast to talk about her boring life in the city, and what she’s going to do to change that.\n\n[From [url=https://mintburrow.itch.io/cubella]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v32483"
+}

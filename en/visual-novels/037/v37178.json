@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37178",
+  "type": "visual_novel",
+  "name": "Teenage Dirtbag",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The story centers around a group of California high school students through the perspective of Miles, an antisocial and mentally ill boy whose only bright spot in life is his crush, Michael.",
+  "source_sha256": "065a37043039e5b9245f5b1f669f23b0035577b349a965574735e66567ab9c8c",
+  "translation": "The story centers around a group of California high school students through the perspective of Miles, an antisocial and mentally ill boy whose only bright spot in life is his crush, Michael.",
+  "vndb_url": "https://vndb.org/v37178"
+}

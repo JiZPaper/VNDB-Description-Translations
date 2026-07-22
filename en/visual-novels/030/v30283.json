@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30283",
+  "type": "visual_novel",
+  "name": "Beniiro no Yoake",
+  "original_name": "紅色の夜明け",
+  "language": "en",
+  "source_language": "en",
+  "source": "Vampire ―― the generic name for a bloodsucker.",
+  "source_sha256": "2e7c15e1ffe1939aecf6d00041240f003a176ada7a6c19c1bcd68911234f00e6",
+  "translation": "Vampire ―― the generic name for a bloodsucker.",
+  "vndb_url": "https://vndb.org/v30283"
+}

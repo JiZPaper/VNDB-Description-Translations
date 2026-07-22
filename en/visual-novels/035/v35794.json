@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35794",
+  "type": "visual_novel",
+  "name": "Astra's Garden",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Astra's Garden is an idle game where you grow plants to make medicine for your customers.\n\n[From [url=https://nomnomnami.itch.io/astras-garden]itch.io[/url]]",
+  "source_sha256": "fe2de8cc435fc6a322097827249fa19e77b9dc9698f79ad99edf95bb947a1050",
+  "translation": "Astra's Garden is an idle game where you grow plants to make medicine for your customers.\n\n[From [url=https://nomnomnami.itch.io/astras-garden]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v35794"
+}

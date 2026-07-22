@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155939",
+  "type": "character",
+  "name": "Coach Colby",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The gym teacher at Nicole's school.",
+  "source_sha256": "3da8a4e0d38ed3e562b63ffa4bc751ef41440f09b3b3ac62fba77f3806946cad",
+  "translation": "The gym teacher at Nicole's school.",
+  "vndb_url": "https://vndb.org/c155939"
+}

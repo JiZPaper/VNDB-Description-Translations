@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169535",
+  "type": "character",
+  "name": "Eve",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's aunt.",
+  "source_sha256": "d64ecd5479766f524733553759d5056fa62555b23b583ea213d8cc768ceb5f46",
+  "translation": "The protagonist's aunt.",
+  "vndb_url": "https://vndb.org/c169535"
+}

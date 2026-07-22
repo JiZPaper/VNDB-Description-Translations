@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32242",
+  "type": "visual_novel",
+  "name": "NyanNyan Typhoon",
+  "original_name": "娘々台風",
+  "language": "en",
+  "source_language": "en",
+  "source": "A story-driven undressing mahjong game, typical of the early 90s.",
+  "source_sha256": "92e05104f7c9fc73b5a88dfacfe4d3755291297587795955a0ee23f353e53f9b",
+  "translation": "A story-driven undressing mahjong game, typical of the early 90s.",
+  "vndb_url": "https://vndb.org/v32242"
+}

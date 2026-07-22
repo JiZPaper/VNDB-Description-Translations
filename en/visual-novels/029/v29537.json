@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29537",
+  "type": "visual_novel",
+  "name": "Midlife Crisis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You take on the role of a successful middle aged man who is starting to feel the years slip by.",
+  "source_sha256": "ef20b50eb16e533d964fe2e9adbdc6c2d3e838cb9a26085a5907dea9c6b1f600",
+  "translation": "You take on the role of a successful middle aged man who is starting to feel the years slip by.",
+  "vndb_url": "https://vndb.org/v29537"
+}

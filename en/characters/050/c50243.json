@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c50243",
+  "type": "character",
+  "name": "Hansel",
+  "original_name": "ヘンゼル",
+  "language": "en",
+  "source_language": "en",
+  "source": "The son of a poor wood-cutter, a kind older brother.\nAfter being stranded in the middle of the forest he realizes he is the only one who can protect his little sister and he encourages her.",
+  "source_sha256": "adb8907af760547c7305307012164fa9ff5327449b7493744f1fb5955f3d9038",
+  "translation": "The son of a poor wood-cutter, a kind older brother.\nAfter being stranded in the middle of the forest he realizes he is the only one who can protect his little sister and he encourages her.",
+  "vndb_url": "https://vndb.org/c50243"
+}

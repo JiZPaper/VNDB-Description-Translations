@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c74914",
+  "type": "character",
+  "name": "Kamijou Seiichi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The producer of the idol group, Quasar.",
+  "source_sha256": "e2458d6f784473d20d3b778828c027d2575df8c87b5e8e37596ef15e7d6bab3f",
+  "translation": "The producer of the idol group, Quasar.",
+  "vndb_url": "https://vndb.org/c74914"
+}

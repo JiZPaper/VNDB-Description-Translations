@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19453",
+  "type": "character",
+  "name": "Kasahara Tomo",
+  "original_name": "笠原 智友",
+  "language": "en",
+  "source_language": "en",
+  "source": "A slacker who sleeps through his classes and always skips track club. He seems to be very smart, but uninterested in applying himself.\n\nStats: luck 3 / intelligence 3 / popularity 3 / special ability 3 / physical strength 3 / influence 3\nSpecial Skill: sprinting",
+  "source_sha256": "072dae3cf20257719fef24306c394071767327cea13f54f3ea2a92b80db630eb",
+  "translation": "A slacker who sleeps through his classes and always skips track club. He seems to be very smart, but uninterested in applying himself.\n\nStats: luck 3 / intelligence 3 / popularity 3 / special ability 3 / physical strength 3 / influence 3\nSpecial Skill: sprinting",
+  "vndb_url": "https://vndb.org/c19453"
+}

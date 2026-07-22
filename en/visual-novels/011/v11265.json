@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11265",
+  "type": "visual_novel",
+  "name": "Episode: Ave Maria ~Alphabet Children~",
+  "original_name": "Episode: Ave Maria ～アルファベット　チルドレン～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Additional Scenario Disc for JQV that covers Natalia's character history.",
+  "source_sha256": "f5874cb3f8946ab97116fc23aba2f52a0b8eda959ec62aa99bf9802968c44494",
+  "translation": "Additional Scenario Disc for JQV that covers Natalia's character history.",
+  "vndb_url": "https://vndb.org/v11265"
+}

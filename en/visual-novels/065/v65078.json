@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65078",
+  "type": "visual_novel",
+  "name": "Rat Cranium",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A jaded detective spends his days handling routine investigations. But as strange clues begin appearing in case after case, he starts tracing the outlines of an urban legend lurking beneath the city. To uncover the truth, he will have to confront it directly and risk everything.",
+  "source_sha256": "ba44276b8b6ca187e69c8e88d596d2dcd11241b19171f3a3b00bfe62921e2421",
+  "translation": "A jaded detective spends his days handling routine investigations. But as strange clues begin appearing in case after case, he starts tracing the outlines of an urban legend lurking beneath the city. To uncover the truth, he will have to confront it directly and risk everything.",
+  "vndb_url": "https://vndb.org/v65078"
+}

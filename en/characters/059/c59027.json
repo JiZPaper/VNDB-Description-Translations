@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c59027",
+  "type": "character",
+  "name": "Flash",
+  "original_name": "フラッシュ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A spirit that controls lightning.",
+  "source_sha256": "06a4ef895e3460bc5704887f32cf96fc9caea36af6ad3d661e35ff0099a3f701",
+  "translation": "A spirit that controls lightning.",
+  "vndb_url": "https://vndb.org/c59027"
+}

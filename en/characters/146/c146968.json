@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146968",
+  "type": "character",
+  "name": "Billie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Plays guitar in Ruby's band",
+  "source_sha256": "dee4d255521a2e1d3eca6caf0f5bb9e271f54e7b9f1dca2b45486342f75c294e",
+  "translation": "Plays guitar in Ruby's band",
+  "vndb_url": "https://vndb.org/c146968"
+}

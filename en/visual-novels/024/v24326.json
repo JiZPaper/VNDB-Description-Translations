@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24326",
+  "type": "visual_novel",
+  "name": "Otoko no Tame no Bible The Yuujou Adventure -Hotaru Soul-",
+  "original_name": "漢のためのバイブル THE 友情アドベンチャー-炎多留・魂-",
+  "language": "en",
+  "source_language": "en",
+  "source": "Consumer remake of Hotaru II, removing all allusions to gay romance and focusing on a story of friendship between men.",
+  "source_sha256": "dda1da96596a3a0c107d919281bbe26dcc3072fd278353b34db3e6b7d5d53b22",
+  "translation": "Consumer remake of Hotaru II, removing all allusions to gay romance and focusing on a story of friendship between men.",
+  "vndb_url": "https://vndb.org/v24326"
+}

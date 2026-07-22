@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162310",
+  "type": "character",
+  "name": "Captain Heart",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An actress well known for playing the super heroine Captain Heart.",
+  "source_sha256": "c40bfa3901471edf375669b77442caeed81bec10a96a36e134ef083245f02841",
+  "translation": "An actress well known for playing the super heroine Captain Heart.",
+  "vndb_url": "https://vndb.org/c162310"
+}

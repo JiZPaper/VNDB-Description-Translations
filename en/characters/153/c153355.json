@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153355",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The customizable protagonist.",
+  "source_sha256": "4a008d88df467187acfcdae108a143dad51b169a6fb223a511c3532cdd3c7f08",
+  "translation": "The customizable protagonist.",
+  "vndb_url": "https://vndb.org/c153355"
+}

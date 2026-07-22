@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15570",
+  "type": "character",
+  "name": "Krul",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Barbarian warrior.",
+  "source_sha256": "f978059c6d4f91196092542e349c6a6b59a3c33d10db69a67a6aa36de6e97449",
+  "translation": "Barbarian warrior.",
+  "vndb_url": "https://vndb.org/c15570"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131101",
+  "type": "character",
+  "name": "Tomoyo",
+  "original_name": "智代",
+  "language": "en",
+  "source_language": "en",
+  "source": "A boyish girl who paints portraits on the streets.",
+  "source_sha256": "39724a2eaf7bc033074e0ef3fc216258d11185ff94b5a7812b5d70dc343b5495",
+  "translation": "A boyish girl who paints portraits on the streets.",
+  "vndb_url": "https://vndb.org/c131101"
+}

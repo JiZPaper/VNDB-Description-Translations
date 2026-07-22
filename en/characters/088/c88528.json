@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88528",
+  "type": "character",
+  "name": "Gala",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gala is a pacifist werewolf. He works in the hospital nearby as a hospital admin. He is good friends with Hyde.",
+  "source_sha256": "9037b8bc0e4fe81a77ca2b093f6409ba1280815ec4ab2f0c347352012269b356",
+  "translation": "Gala is a pacifist werewolf. He works in the hospital nearby as a hospital admin. He is good friends with Hyde.",
+  "vndb_url": "https://vndb.org/c88528"
+}

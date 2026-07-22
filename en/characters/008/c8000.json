@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8000",
+  "type": "character",
+  "name": "Shimizu Madoka",
+  "original_name": "清水 円",
+  "language": "en",
+  "source_language": "en",
+  "source": "Character type: Campaign girl.",
+  "source_sha256": "fef10e6f044c0d632a9cd7f7fa21d3bdb9d73ffec97828958b94b17c6745d8df",
+  "translation": "Character type: Campaign girl.",
+  "vndb_url": "https://vndb.org/c8000"
+}

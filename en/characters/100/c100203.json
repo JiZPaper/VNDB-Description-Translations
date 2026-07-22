@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100203",
+  "type": "character",
+  "name": "Aleksei",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An assassin hired by [url=/c100202]Hansberg[/url] and a lone wolf who doesn't trust anyone and prefers to work alone.",
+  "source_sha256": "13b9bb8c15bee1e0b2d2417eb0f8e0741f4942ce698589427315d52a07779393",
+  "translation": "An assassin hired by [url=/c100202]Hansberg[/url] and a lone wolf who doesn't trust anyone and prefers to work alone.",
+  "vndb_url": "https://vndb.org/c100203"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c14740",
+  "type": "character",
+  "name": "Shiina",
+  "original_name": "椎名",
+  "language": "en",
+  "source_language": "en",
+  "source": "A flirt the protagonist encounters at the beach.",
+  "source_sha256": "7d5e6075b0fe696a7fdfe2f836db5f18bc05ed08559577db25fb3fd38b66ec0f",
+  "translation": "A flirt the protagonist encounters at the beach.",
+  "vndb_url": "https://vndb.org/c14740"
+}

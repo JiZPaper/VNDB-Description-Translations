@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c22697",
+  "type": "character",
+  "name": "Ojiji",
+  "original_name": "おジジ",
+  "language": "en",
+  "source_language": "en",
+  "source": "He is Haruna's grandfather.",
+  "source_sha256": "ccf0c841029ceec1194a1410ef04ecc7123535ec3c0959ff85c2093b98fa15ab",
+  "translation": "He is Haruna's grandfather.",
+  "vndb_url": "https://vndb.org/c22697"
+}

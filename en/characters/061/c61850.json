@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61850",
+  "type": "character",
+  "name": "Gardienne",
+  "original_name": "Гардин",
+  "language": "en",
+  "source_language": "en",
+  "source": "Eldarya MC",
+  "source_sha256": "bd21af89d796301c78c217f8215c37374007f9e905fc95db60d70a5ce15a5990",
+  "translation": "Eldarya MC",
+  "vndb_url": "https://vndb.org/c61850"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106005",
+  "type": "character",
+  "name": "Wren",
+  "original_name": "レン",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Long walks are quick. It's fun to talk to you.\"\n\nA selfish reaper.",
+  "source_sha256": "cba2144d55fceaa6e46cbe785d14b77533797633fb8d59ec571f88db5c27bfe1",
+  "translation": "\"Long walks are quick. It's fun to talk to you.\"\n\nA selfish reaper.",
+  "vndb_url": "https://vndb.org/c106005"
+}

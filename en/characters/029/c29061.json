@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29061",
+  "type": "character",
+  "name": "Jean Felix Vallaud",
+  "original_name": "ジャン・フェリックス・ヴァロー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Instrument: Viola",
+  "source_sha256": "fce46077ad393965d99aeeeb8da9c221c4cbca1b60f6224a4552cc5f323ec76d",
+  "translation": "Instrument: Viola",
+  "vndb_url": "https://vndb.org/c29061"
+}

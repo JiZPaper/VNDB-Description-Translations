@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22418",
+  "type": "visual_novel",
+  "name": "Uzumaki ~Denshi Kaiki Hen~",
+  "original_name": "うずまき ～電視怪奇篇～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel adaptation of Junji Ito's 1998 horror manga, Uzumaki, for the Bandai Wonderswan.",
+  "source_sha256": "94fb9634ff774026f5fac233e2b8258dbfd109bddf0ee52f8a896e250f1de660",
+  "translation": "A visual novel adaptation of Junji Ito's 1998 horror manga, Uzumaki, for the Bandai Wonderswan.",
+  "vndb_url": "https://vndb.org/v22418"
+}

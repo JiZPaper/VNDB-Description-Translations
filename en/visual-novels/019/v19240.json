@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19240",
+  "type": "visual_novel",
+  "name": "DokiDoki Chihiro Paradise",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fanfiction visual novel featuring Naegi Makoto and Chihiro Fujisaki from Dangan Ronpa.",
+  "source_sha256": "7fe32ed2b58c33ecb2cf8a3f66e12a80aa037d9382df8f4169e60cf1bad08661",
+  "translation": "A fanfiction visual novel featuring Naegi Makoto and Chihiro Fujisaki from Dangan Ronpa.",
+  "vndb_url": "https://vndb.org/v19240"
+}

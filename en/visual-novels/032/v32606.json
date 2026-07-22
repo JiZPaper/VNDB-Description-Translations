@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32606",
+  "type": "visual_novel",
+  "name": "Shin'ya Haikai no Tame no Ongaku - beats to relax/stray to",
+  "original_name": "深夜徘徊のための音楽 beats to relax/stray to",
+  "language": "en",
+  "source_language": "en",
+  "source": "A tale of gloomy siblings strolling through the midnight streets, engaging in trivial small talk.",
+  "source_sha256": "8db4cd09d87f94f21ebb1854fd2f26192571e8a3e102bb96cc2d379ec34fdda2",
+  "translation": "A tale of gloomy siblings strolling through the midnight streets, engaging in trivial small talk.",
+  "vndb_url": "https://vndb.org/v32606"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c1301",
+  "type": "character",
+  "name": "Ri Koumei",
+  "original_name": "李 光明",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Chinese exchange student who works part time at a construction site on campus.\n\n(Only capturable with [url=/c1304]Momoe[/url])",
+  "source_sha256": "7faf3c0ced676286f7d22488be6579a5dd609f98346fe2283f013ed39731729e",
+  "translation": "A Chinese exchange student who works part time at a construction site on campus.\n\n(Only capturable with [url=/c1304]Momoe[/url])",
+  "vndb_url": "https://vndb.org/c1301"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17529",
+  "type": "visual_novel",
+  "name": "An Owl and a Crow",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A crow wakes up with an unexpected surprise.",
+  "source_sha256": "a4605186e1b083b1882a693eabb8a0bea43e7f2d94a18837832849d9dd5d639f",
+  "translation": "A crow wakes up with an unexpected surprise.",
+  "vndb_url": "https://vndb.org/v17529"
+}

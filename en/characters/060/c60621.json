@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60621",
+  "type": "character",
+  "name": "Hermes",
+  "original_name": "エルメス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kino's talking motorbike.",
+  "source_sha256": "69c68f02a2b72e050af8c8de6b4ad921d7282528f6408396420c8d54dd58a4b0",
+  "translation": "Kino's talking motorbike.",
+  "vndb_url": "https://vndb.org/c60621"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115255",
+  "type": "character",
+  "name": "Sarasa",
+  "original_name": "さらさ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious woman who offers the protagonist shelter.",
+  "source_sha256": "dc8500cf7238e706b3c0bbca919df1bff7d4888c9a9ef7d0b0ad6fe5a0996fd0",
+  "translation": "A mysterious woman who offers the protagonist shelter.",
+  "vndb_url": "https://vndb.org/c115255"
+}

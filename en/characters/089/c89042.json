@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89042",
+  "type": "character",
+  "name": "Emily, the talking kettle",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A talking kettle.  Claims to be able to make someone's day very lucky.",
+  "source_sha256": "fe1f9eb6f677d82809dbb29c49e34b388252f774a08e9e5116cf68452b547a5a",
+  "translation": "A talking kettle.  Claims to be able to make someone's day very lucky.",
+  "vndb_url": "https://vndb.org/c89042"
+}

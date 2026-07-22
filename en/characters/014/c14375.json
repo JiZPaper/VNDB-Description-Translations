@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c14375",
+  "type": "character",
+  "name": "Trip",
+  "original_name": "トリップ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Yoohoo,  Aoba!\"\n\nThe second of the gangster pair. Though they look similar, they aren't twins.\n\n[From the digital manual included with r76424]",
+  "source_sha256": "0c7b5777aef1f10745c0f045890cd1df481796196997faad8b1b9c4f8dafa60c",
+  "translation": "\"Yoohoo,  Aoba!\"\n\nThe second of the gangster pair. Though they look similar, they aren't twins.\n\n[From the digital manual included with r76424]",
+  "vndb_url": "https://vndb.org/c14375"
+}

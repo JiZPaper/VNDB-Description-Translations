@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160825",
+  "type": "character",
+  "name": "Shou yi",
+  "original_name": "兽医",
+  "language": "en",
+  "source_language": "en",
+  "source": "The forensic doctor hired by the police station has a name that means veterinarian.",
+  "source_sha256": "e017c554e083d6f85f26e8590abf01da070ccca63e796f225f2a63ee7694d97f",
+  "translation": "The forensic doctor hired by the police station has a name that means veterinarian.",
+  "vndb_url": "https://vndb.org/c160825"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77221",
+  "type": "character",
+  "name": "Julia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nate's cousin",
+  "source_sha256": "46ac81161a9c22b458c241ce8dcc3e14e32fc93bf502ecd10216c279f0627b4a",
+  "translation": "Nate's cousin",
+  "vndb_url": "https://vndb.org/c77221"
+}

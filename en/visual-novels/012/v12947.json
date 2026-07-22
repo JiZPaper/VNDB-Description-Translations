@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12947",
+  "type": "visual_novel",
+  "name": "Question",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ciel promises a reward to the winner of a trivia contest -- but he doesn't expect Sebastian to ask for something like this!",
+  "source_sha256": "ef279b0f9f1322ea296241646fe6dbeeb3f6e8fa873559fe8d9fb76068831da1",
+  "translation": "Ciel promises a reward to the winner of a trivia contest -- but he doesn't expect Sebastian to ask for something like this!",
+  "vndb_url": "https://vndb.org/v12947"
+}

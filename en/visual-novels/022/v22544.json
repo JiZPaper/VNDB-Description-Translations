@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22544",
+  "type": "visual_novel",
+  "name": "A Salem Witch Trial",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "When a murdered family is discovered in 17th Century Salem, at the height of a witch hysteria, people start to suspect something supernatural to blame. An atmospheric murder mystery. Connect the evidence and see if you can deduce the secrets behind the mystery.",
+  "source_sha256": "e0ac10104efa6898e26c2cc2b71972a0439127e552c217396c030ab264442015",
+  "translation": "When a murdered family is discovered in 17th Century Salem, at the height of a witch hysteria, people start to suspect something supernatural to blame. An atmospheric murder mystery. Connect the evidence and see if you can deduce the secrets behind the mystery.",
+  "vndb_url": "https://vndb.org/v22544"
+}

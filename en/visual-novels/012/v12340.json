@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12340",
+  "type": "visual_novel",
+  "name": "ALTOR",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An unofficial, fan-made game based on the successful shounen anime and manga series, Katekyo Hitman Reborn.",
+  "source_sha256": "41ac2ae2622bd440055595750172db4a6485946171704c35f5819dc2452bccce",
+  "translation": "An unofficial, fan-made game based on the successful shounen anime and manga series, Katekyo Hitman Reborn.",
+  "vndb_url": "https://vndb.org/v12340"
+}

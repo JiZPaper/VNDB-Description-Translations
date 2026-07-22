@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c26638",
+  "type": "character",
+  "name": "Dr. Siren",
+  "original_name": "Dr.サイレーン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cast of Little Mermaid",
+  "source_sha256": "3a32c6eb6a0ca690b882eec3ae53a661da959b3359682b8e16aa23a4a5104d8a",
+  "translation": "Cast of Little Mermaid",
+  "vndb_url": "https://vndb.org/c26638"
+}

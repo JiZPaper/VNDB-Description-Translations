@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102860",
+  "type": "character",
+  "name": "Horse",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A construction contractor",
+  "source_sha256": "703fb7c02fe20d18c59c2cdc6fc643a328e1f47d88a319d2935464abcc197806",
+  "translation": "A construction contractor",
+  "vndb_url": "https://vndb.org/c102860"
+}

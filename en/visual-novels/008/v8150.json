@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8150",
+  "type": "visual_novel",
+  "name": "Candy Stripe  ~Minarai Tenshi~",
+  "original_name": "Candy Stripe ～みならい 天使～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Set on a hospital, where the protagonist is a doctor and interacts with the nurses there.",
+  "source_sha256": "af0b6fffc532efac3686d032819d51ffb5f0da407652f4c84238df68c8c121f4",
+  "translation": "Set on a hospital, where the protagonist is a doctor and interacts with the nurses there.",
+  "vndb_url": "https://vndb.org/v8150"
+}

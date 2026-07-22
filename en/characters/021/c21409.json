@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21409",
+  "type": "character",
+  "name": "Boss",
+  "original_name": "ボス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The main character is never illustrated as speaking and is never given a name, mostly interacting through Yasu.",
+  "source_sha256": "e28b31d565027d48a55e1327f23680e9e0851846b0ee8cdf1d23adcef0e41356",
+  "translation": "The main character is never illustrated as speaking and is never given a name, mostly interacting through Yasu.",
+  "vndb_url": "https://vndb.org/c21409"
+}

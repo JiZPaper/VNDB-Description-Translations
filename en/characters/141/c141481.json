@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141481",
+  "type": "character",
+  "name": "Eugene",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of the Tri-Beta Fraternity.",
+  "source_sha256": "8fbd1068e97f37fb6481270df6b8b9d54e406692ab05cb2d7ffcf00a27eac56e",
+  "translation": "A member of the Tri-Beta Fraternity.",
+  "vndb_url": "https://vndb.org/c141481"
+}

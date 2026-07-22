@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169772",
+  "type": "character",
+  "name": "Onyx Dragon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dragon stuck deep in the code of the computer",
+  "source_sha256": "65439be61be6474aba81030c751b016c9d83ca7199031cf413b4bef05694cda6",
+  "translation": "A dragon stuck deep in the code of the computer",
+  "vndb_url": "https://vndb.org/c169772"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148934",
+  "type": "character",
+  "name": "Emily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Daughter of Catherine.\nSister of Michael and Arthur.",
+  "source_sha256": "96e719151787a43c6d0a0d18e7bbcd4d28ead063a014cb52c960c8edb86bae6a",
+  "translation": "Daughter of Catherine.\nSister of Michael and Arthur.",
+  "vndb_url": "https://vndb.org/c148934"
+}

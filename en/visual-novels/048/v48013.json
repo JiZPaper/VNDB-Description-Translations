@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48013",
+  "type": "visual_novel",
+  "name": "Dokidoki DOATEC Adventure",
+  "original_name": "どきどきDOATECアドベンチャー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fan-fiction using characters from the Dead or Alive series.",
+  "source_sha256": "2b54368f8048bc2c1f24075129d334d073beacf7a5674e5447df388f9c4848ad",
+  "translation": "A fan-fiction using characters from the Dead or Alive series.",
+  "vndb_url": "https://vndb.org/v48013"
+}

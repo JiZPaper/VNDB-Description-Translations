@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165089",
+  "type": "character",
+  "name": "Kane",
+  "original_name": "ケイン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A wandering adventurer.",
+  "source_sha256": "95e9a4d0682eccb40517ab27ec551c1c71515d63ec8158c047b0e256bd77352f",
+  "translation": "A wandering adventurer.",
+  "vndb_url": "https://vndb.org/c165089"
+}

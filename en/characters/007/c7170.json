@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c7170",
+  "type": "character",
+  "name": "Nemoto",
+  "original_name": "根本",
+  "language": "en",
+  "source_language": "en",
+  "source": "The manager of the club where Ai is tricked to work.",
+  "source_sha256": "3e3920a0dacaa4f7dd1b50a393d996b48cd6e31083a2c794b85d588b6a70b959",
+  "translation": "The manager of the club where Ai is tricked to work.",
+  "vndb_url": "https://vndb.org/c7170"
+}

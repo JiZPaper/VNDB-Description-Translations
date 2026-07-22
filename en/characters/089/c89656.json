@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89656",
+  "type": "character",
+  "name": "Pitaya",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young girl who claims to be a fairy.",
+  "source_sha256": "1e1e6810c6158d9b996cd06af72273ef11620b2bbe4b6836fd9341f0e2a26a36",
+  "translation": "A young girl who claims to be a fairy.",
+  "vndb_url": "https://vndb.org/c89656"
+}

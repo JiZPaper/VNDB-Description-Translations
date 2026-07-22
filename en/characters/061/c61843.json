@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61843",
+  "type": "character",
+  "name": "Roy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A corrupt policeman with ties to Mr. Wright.",
+  "source_sha256": "2609feaa7afe9c3954b5cc5bafc88f8a716ae1ab35e1fdfd0f93e2ca9550b29b",
+  "translation": "A corrupt policeman with ties to Mr. Wright.",
+  "vndb_url": "https://vndb.org/c61843"
+}

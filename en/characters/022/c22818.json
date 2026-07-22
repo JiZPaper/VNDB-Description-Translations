@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c22818",
+  "type": "character",
+  "name": "Amane Shiori",
+  "original_name": "天音 しおり",
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes: books, movies\nDislikes: spicy food",
+  "source_sha256": "8320d5e82fe3869c8f76af0c6c79ff7dba75bafe961c1c9479386549f498341f",
+  "translation": "Likes: books, movies\nDislikes: spicy food",
+  "vndb_url": "https://vndb.org/c22818"
+}

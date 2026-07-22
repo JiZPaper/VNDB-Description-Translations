@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47092",
+  "type": "visual_novel",
+  "name": "Queen on Fire",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A medieval game about a Queen who will be put to the flame. You, the player, will choose her choices!\n\n[From [url=https://miss-pharos.itch.io/queen-on-fire-demo]itch.io[/url]]",
+  "source_sha256": "7d943de1fbe2cbe75c9d9502884002dfc818526f77124ec7bfb9596650bc540e",
+  "translation": "A medieval game about a Queen who will be put to the flame. You, the player, will choose her choices!\n\n[From [url=https://miss-pharos.itch.io/queen-on-fire-demo]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v47092"
+}

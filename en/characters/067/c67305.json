@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c67305",
+  "type": "character",
+  "name": "Buchou",
+  "original_name": "部長",
+  "language": "en",
+  "source_language": "en",
+  "source": "The club president.",
+  "source_sha256": "197319fd5f1639999c6365f12dce270a2da763a3f835d39d10fafca65035f805",
+  "translation": "The club president.",
+  "vndb_url": "https://vndb.org/c67305"
+}

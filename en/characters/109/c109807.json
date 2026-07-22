@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c109807",
+  "type": "character",
+  "name": "Janitor",
+  "original_name": "Дворник",
+  "language": "en",
+  "source_language": "en",
+  "source": "A janitor in the town.\n\nHe often speaks to [url=https://vndb.org/c109805]Albert[/url], being his important source of information.",
+  "source_sha256": "5ea689685e81758148f4aa78461c1244563292660e130642af8eb8c2338f5777",
+  "translation": "A janitor in the town.\n\nHe often speaks to [url=https://vndb.org/c109805]Albert[/url], being his important source of information.",
+  "vndb_url": "https://vndb.org/c109807"
+}

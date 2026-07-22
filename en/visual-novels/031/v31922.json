@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31922",
+  "type": "visual_novel",
+  "name": "Shutout Play",
+  "original_name": "셧아웃 플레이",
+  "language": "en",
+  "source_language": "en",
+  "source": "You gave up on sports after an accident and vowed to focus only on your studies after you transfer. But you make an impression on Si-eon Park, captain and main catcher of the baseball team. The captain keeps asking you to be a pitcher. The main pitcher is wary yet helpful. The cleanup hitter is strangely interested in you. Can you safely make it to graduation?\n\n[From in-app]",
+  "source_sha256": "910bf664961b5a0d6918cf2a6c6f06e7e275fa8a1dc97c23b8325aa278a56fb4",
+  "translation": "You gave up on sports after an accident and vowed to focus only on your studies after you transfer. But you make an impression on Si-eon Park, captain and main catcher of the baseball team. The captain keeps asking you to be a pitcher. The main pitcher is wary yet helpful. The cleanup hitter is strangely interested in you. Can you safely make it to graduation?\n\n[From in-app]",
+  "vndb_url": "https://vndb.org/v31922"
+}

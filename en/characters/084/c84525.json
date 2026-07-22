@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84525",
+  "type": "character",
+  "name": "Alys",
+  "original_name": "アリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]The witch that is the 'reader' of the story, and has control over how the story in the diary plays out.[/spoiler]",
+  "source_sha256": "84d975515e8640579c9d96e859e1c268e3403e7a10aca043799f172b5860b4ff",
+  "translation": "[spoiler]The witch that is the 'reader' of the story, and has control over how the story in the diary plays out.[/spoiler]",
+  "vndb_url": "https://vndb.org/c84525"
+}

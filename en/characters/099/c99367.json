@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99367",
+  "type": "character",
+  "name": "Luke",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist\n\n[spoiler]Player selects nameable \"persona\" that acts as Luke's suicidal thoughts throughout the story. Point-of-view is from both this persona and Luke.[/spoiler]",
+  "source_sha256": "2603e7a56d46af4a4f74cc2addd282202f40a8192982ce748030cdd6e0f33059",
+  "translation": "Protagonist\n\n[spoiler]Player selects nameable \"persona\" that acts as Luke's suicidal thoughts throughout the story. Point-of-view is from both this persona and Luke.[/spoiler]",
+  "vndb_url": "https://vndb.org/c99367"
+}

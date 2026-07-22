@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112260",
+  "type": "character",
+  "name": "Barbie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Dr. Johnson's receptionist. She dreams of becoming an actress but things aren't working out that well.",
+  "source_sha256": "5bbb85ee6ab5cb12d9997317683b02b984b35ed8344123ebd32cca477245741e",
+  "translation": "Dr. Johnson's receptionist. She dreams of becoming an actress but things aren't working out that well.",
+  "vndb_url": "https://vndb.org/c112260"
+}

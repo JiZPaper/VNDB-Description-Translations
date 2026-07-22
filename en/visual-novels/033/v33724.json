@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33724",
+  "type": "visual_novel",
+  "name": "Cranston Manor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The player must invade a mansion that was occupied by a millionaire and steal the sixteen treasures that are inside of it.\n\n[From [url=https://en.wikipedia.org/wiki/Cranston_Manor]Wikipedia[/url]]",
+  "source_sha256": "645a2e3c14a4129871f1f696769d166bd4772a822b7054736c2f3c30dfe4bbe9",
+  "translation": "The player must invade a mansion that was occupied by a millionaire and steal the sixteen treasures that are inside of it.\n\n[From [url=https://en.wikipedia.org/wiki/Cranston_Manor]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/v33724"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97230",
+  "type": "character",
+  "name": "Masshiro",
+  "original_name": "真白",
+  "language": "en",
+  "source_language": "en",
+  "source": "A woman with memory loss.",
+  "source_sha256": "2f068a4c96be660272ce0d74168b9bca836806cc666ce99bbafb0a10a97ca837",
+  "translation": "A woman with memory loss.",
+  "vndb_url": "https://vndb.org/c97230"
+}

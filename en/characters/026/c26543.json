@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c26543",
+  "type": "character",
+  "name": "Peddler",
+  "original_name": "行商人",
+  "language": "en",
+  "source_language": "en",
+  "source": "A peddler who sells items to Sayo on certain days.\n\n[From [url=https://sites.google.com/site/ikuseinikki/characters]Twin Project[/url]]",
+  "source_sha256": "42bd0f3ed67f2d7b874620dd0e06dcf1d4eafe7e211c552087fd25fc619181ef",
+  "translation": "A peddler who sells items to Sayo on certain days.\n\n[From [url=https://sites.google.com/site/ikuseinikki/characters]Twin Project[/url]]",
+  "vndb_url": "https://vndb.org/c26543"
+}

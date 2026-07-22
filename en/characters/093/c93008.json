@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93008",
+  "type": "character",
+  "name": "Silvia",
+  "original_name": "シルヴィア",
+  "language": "en",
+  "source_language": "en",
+  "source": "The girl Elsia wants to befriend with.",
+  "source_sha256": "5d5dd3af744c5a8af632a2bf3a592a5980f700c30a266ecb31274fde019b9719",
+  "translation": "The girl Elsia wants to befriend with.",
+  "vndb_url": "https://vndb.org/c93008"
+}

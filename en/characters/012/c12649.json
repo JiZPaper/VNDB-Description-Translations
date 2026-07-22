@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12649",
+  "type": "character",
+  "name": "Arte Lasmoon",
+  "original_name": "アルテ・ラスムーン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Knight.\nLikes: Reading, animals, training of swordsmanship.\nDislikes: People who sacrifice themselves without concerning about others' feelings, spicy food.",
+  "source_sha256": "91882923bb2de49bddc9ac463e20b0df21c37f9412ed3eeb6235482b3dc9a642",
+  "translation": "Occupation: Knight.\nLikes: Reading, animals, training of swordsmanship.\nDislikes: People who sacrifice themselves without concerning about others' feelings, spicy food.",
+  "vndb_url": "https://vndb.org/c12649"
+}

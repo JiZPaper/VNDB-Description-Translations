@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42380",
+  "type": "visual_novel",
+  "name": "Posylka",
+  "original_name": "Посылка",
+  "language": "en",
+  "source_language": "en",
+  "source": "This fan game is based on the lore of the character 'Anna Amur Tiger'. In this game you have to deliver a package to Anna! Find out where the tiger is hiding! Deliver the package and don't stop until you succeed. Remember, nothing is what it seems...\n\n[From [url=https://store.steampowered.com/app/2266580/]Steam[/url]]",
+  "source_sha256": "05ae35324e4fc7d11262eb179a45487a92cdbc2cc46b6eec901a1709fd61589b",
+  "translation": "This fan game is based on the lore of the character 'Anna Amur Tiger'. In this game you have to deliver a package to Anna! Find out where the tiger is hiding! Deliver the package and don't stop until you succeed. Remember, nothing is what it seems...\n\n[From [url=https://store.steampowered.com/app/2266580/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v42380"
+}

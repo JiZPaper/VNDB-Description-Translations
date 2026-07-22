@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c5560",
+  "type": "character",
+  "name": "Himemiya",
+  "original_name": "ひめみや",
+  "language": "en",
+  "source_language": "en",
+  "source": "A miko who protects Monobeno from harm.",
+  "source_sha256": "2b1ac0fb565d66c167fe66955868fa7afa7c82b0239e575eaa0c0d74e1904fbb",
+  "translation": "A miko who protects Monobeno from harm.",
+  "vndb_url": "https://vndb.org/c5560"
+}

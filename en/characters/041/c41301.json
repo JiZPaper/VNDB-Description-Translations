@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41301",
+  "type": "character",
+  "name": "Mana",
+  "original_name": "マナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl who grew up in an orphanage, she has the power to use magic with her singing voice.\nShe may look weak but she has a strong will.",
+  "source_sha256": "005fb0c2fcce863f3863760f1281c68693de93fdebf950b81f1a14eef27acfb3",
+  "translation": "A girl who grew up in an orphanage, she has the power to use magic with her singing voice.\nShe may look weak but she has a strong will.",
+  "vndb_url": "https://vndb.org/c41301"
+}

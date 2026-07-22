@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88445",
+  "type": "character",
+  "name": "Mrs. Edwards",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Walt's mother.",
+  "source_sha256": "34369977fdffe982bd8f90cd3232beff179d9c427608b2f23c29b4d5fd2ef637",
+  "translation": "Walt's mother.",
+  "vndb_url": "https://vndb.org/c88445"
+}

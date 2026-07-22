@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12828",
+  "type": "visual_novel",
+  "name": "Amnesia - Diary Novel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a short Kinetic Novel about my boring real life misadventures. It was made to help me remember my life in a interesting way. Yay. \n\n[From [url=http://games.renpy.org/game/diarynovel.shtml]Ren'Py Games List[/url]]",
+  "source_sha256": "8ad6612d71ac5f23306424aa251c2a446d77bb5616900e48ecb6b06cc605df42",
+  "translation": "This is a short Kinetic Novel about my boring real life misadventures. It was made to help me remember my life in a interesting way. Yay. \n\n[From [url=http://games.renpy.org/game/diarynovel.shtml]Ren'Py Games List[/url]]",
+  "vndb_url": "https://vndb.org/v12828"
+}

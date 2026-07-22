@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76479",
+  "type": "character",
+  "name": "Peach",
+  "original_name": "ピーチ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A stout-hearted heroine.\nOne of the Fruity Rangers, an entirely secret organization.",
+  "source_sha256": "5f4963935f2d9e222ec07baece052bffb54039178cbc73ae8e13900f3bbc81e4",
+  "translation": "A stout-hearted heroine.\nOne of the Fruity Rangers, an entirely secret organization.",
+  "vndb_url": "https://vndb.org/c76479"
+}

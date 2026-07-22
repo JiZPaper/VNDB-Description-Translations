@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99653",
+  "type": "character",
+  "name": "The Witch",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A witch that visits the Inn.",
+  "source_sha256": "30c3b01afe1d0cfa4603b1f98292cdd144c3c6e4cd6feba74b1938fff1825b37",
+  "translation": "A witch that visits the Inn.",
+  "vndb_url": "https://vndb.org/c99653"
+}

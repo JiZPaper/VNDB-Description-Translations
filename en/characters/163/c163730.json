@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163730",
+  "type": "character",
+  "name": "Catherine",
+  "original_name": "Екатерина",
+  "language": "en",
+  "source_language": "en",
+  "source": "Catherine is the prosecutor in charge of Constantine’s case during the court proceedings.",
+  "source_sha256": "c7dae65b4ec3e64eea53db6c24063b31552d2f26778f90c469898de5c00aafe7",
+  "translation": "Catherine is the prosecutor in charge of Constantine’s case during the court proceedings.",
+  "vndb_url": "https://vndb.org/c163730"
+}

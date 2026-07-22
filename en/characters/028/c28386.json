@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28386",
+  "type": "character",
+  "name": "Lau",
+  "original_name": "劉",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Chinese nobleman.",
+  "source_sha256": "897783cbebc0f9887049506c7b9c42e6722544fba5f09a4b87789f9a68b9d70c",
+  "translation": "A Chinese nobleman.",
+  "vndb_url": "https://vndb.org/c28386"
+}

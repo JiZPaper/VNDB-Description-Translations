@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99650",
+  "type": "character",
+  "name": "The Quart",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A customer of the Inn.",
+  "source_sha256": "fe44e959c9837bf54696ffa00d06ace199da0a15864fdae1dddaea11ef816f7b",
+  "translation": "A customer of the Inn.",
+  "vndb_url": "https://vndb.org/c99650"
+}

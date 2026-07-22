@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19158",
+  "type": "visual_novel",
+  "name": "Tsuki to Coffee",
+  "original_name": "月と珈琲",
+  "language": "en",
+  "source_language": "en",
+  "source": "While her uncle is off studying, the protagonist Sayano takes over his coffee shop. She hires a university student to work part time, and just the two of them start working at the shop together.",
+  "source_sha256": "adea60e4eea4250b1248a3c13fa5fff05515bade2ba437c5d1545057bcc2f19a",
+  "translation": "While her uncle is off studying, the protagonist Sayano takes over his coffee shop. She hires a university student to work part time, and just the two of them start working at the shop together.",
+  "vndb_url": "https://vndb.org/v19158"
+}

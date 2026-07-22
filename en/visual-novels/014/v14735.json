@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14735",
+  "type": "visual_novel",
+  "name": "A Catastrophic Date",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A comedy dating game created for MiniLD 48.",
+  "source_sha256": "304c5bb2da22d396ee112a3ab36bf7425e9556a08a8b000fbe613ec8c272ff75",
+  "translation": "A comedy dating game created for MiniLD 48.",
+  "vndb_url": "https://vndb.org/v14735"
+}

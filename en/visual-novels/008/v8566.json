@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8566",
+  "type": "visual_novel",
+  "name": "Ayumi-chan Monogatari Jisshaban",
+  "original_name": "あゆみちゃん物語 実写版",
+  "language": "en",
+  "source_language": "en",
+  "source": "Remake of Ayumi-chan Monogatari using real photos.",
+  "source_sha256": "cf0d076146dfc178e273d4198175a051d0536c837f858426a72c6bf130088f78",
+  "translation": "Remake of Ayumi-chan Monogatari using real photos.",
+  "vndb_url": "https://vndb.org/v8566"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26965",
+  "type": "visual_novel",
+  "name": "Date Adventure",
+  "original_name": "デートアドベンチャー",
+  "language": "en",
+  "source_language": "en",
+  "source": "An adventure game that progresses in the form of text questions.",
+  "source_sha256": "bcb0b8eca9decf8f6580c97bbeafa14a498eebe19c9c2a16b5ce933e18f1b7cd",
+  "translation": "An adventure game that progresses in the form of text questions.",
+  "vndb_url": "https://vndb.org/v26965"
+}

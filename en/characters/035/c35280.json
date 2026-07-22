@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35280",
+  "type": "character",
+  "name": "Lucy Valentine",
+  "original_name": "루시 발렌타인",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Helping People. This is what Lucy lives for.\"\n\nA robot found in a dumpsite, with an emotional expression module which makes it seem human.\n\n[From [url=http://www.mvizlab.com/]Official Website[/url]]",
+  "source_sha256": "e82ca50da0f0175f2e6b97e7fdae317db46e6163aa27ec8509105d1e234f152f",
+  "translation": "\"Helping People. This is what Lucy lives for.\"\n\nA robot found in a dumpsite, with an emotional expression module which makes it seem human.\n\n[From [url=http://www.mvizlab.com/]Official Website[/url]]",
+  "vndb_url": "https://vndb.org/c35280"
+}

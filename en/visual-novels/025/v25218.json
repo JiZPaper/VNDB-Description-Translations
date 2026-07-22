@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25218",
+  "type": "visual_novel",
+  "name": "Monsters of the Sea 3",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nino teams up with an apprentice magician Iria to continue his search for Emilia.",
+  "source_sha256": "75018dd8e0058d61168390f91e4503b2a9ad65002b1844b90001e513911c91e6",
+  "translation": "Nino teams up with an apprentice magician Iria to continue his search for Emilia.",
+  "vndb_url": "https://vndb.org/v25218"
+}

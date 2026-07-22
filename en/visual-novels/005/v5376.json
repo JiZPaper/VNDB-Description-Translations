@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5376",
+  "type": "visual_novel",
+  "name": "Majo no Chouritsu",
+  "original_name": "魔女の調律",
+  "language": "en",
+  "source_language": "en",
+  "source": "Visual novel featuring Patchouli Knowledge from Touhou.",
+  "source_sha256": "abc03dcf5b56ad5728b9d6fc3826594acc2e93795d7851d46cab19d6ce3bfb4b",
+  "translation": "Visual novel featuring Patchouli Knowledge from Touhou.",
+  "vndb_url": "https://vndb.org/v5376"
+}

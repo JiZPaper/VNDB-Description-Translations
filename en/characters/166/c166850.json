@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166850",
+  "type": "character",
+  "name": "Silas",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A sarcastic and introverted guy who's emotionally avoidant.",
+  "source_sha256": "792ac5fdf527f06b462c35d97c8bcb7cb944022bc590e1829b017eeb12764eca",
+  "translation": "A sarcastic and introverted guy who's emotionally avoidant.",
+  "vndb_url": "https://vndb.org/c166850"
+}

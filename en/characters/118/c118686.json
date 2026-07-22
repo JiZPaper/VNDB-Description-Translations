@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c118686",
+  "type": "character",
+  "name": "Na'A",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The leader of a colony of humans that the Federation has relocated.",
+  "source_sha256": "62f18d2b30e8cfe2ad988bab23ea7db6eb677e34ab5a8cb4e3e56c9b3e32a6f4",
+  "translation": "The leader of a colony of humans that the Federation has relocated.",
+  "vndb_url": "https://vndb.org/c118686"
+}

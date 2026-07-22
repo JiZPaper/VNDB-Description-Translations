@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130814",
+  "type": "character",
+  "name": "Principal",
+  "original_name": "学園長",
+  "language": "en",
+  "source_language": "en",
+  "source": "Principal of protagonist's school.",
+  "source_sha256": "2bf8bc3f1f536a6396a4beb79eae838f74b943b15658b65ae64af38e809c1244",
+  "translation": "Principal of protagonist's school.",
+  "vndb_url": "https://vndb.org/c130814"
+}

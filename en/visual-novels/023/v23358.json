@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23358",
+  "type": "visual_novel",
+  "name": "Strawberry Daiquiri",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An unnamed and soft-spoken bartender listens in on stories from Antonio, a man with a cybernetic eye, and Orion, a new face at his vintage-styled bar.",
+  "source_sha256": "a94cfeae7473c532909f1dc16170bd9d6fb86f2982492c32b7be3d5eccfdea5f",
+  "translation": "An unnamed and soft-spoken bartender listens in on stories from Antonio, a man with a cybernetic eye, and Orion, a new face at his vintage-styled bar.",
+  "vndb_url": "https://vndb.org/v23358"
+}

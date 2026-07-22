@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44279",
+  "type": "visual_novel",
+  "name": "The White Snake",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The White Snake is a narrative game based on Chinese traditional story White Snake.\n\n[From https://www.cloudareayin.com/copy-of-4-castle]",
+  "source_sha256": "81b24456c17048e0b0562f6efc65b749560ea72fd6dad615698addc0fac43ea3",
+  "translation": "The White Snake is a narrative game based on Chinese traditional story White Snake.\n\n[From https://www.cloudareayin.com/copy-of-4-castle]",
+  "vndb_url": "https://vndb.org/v44279"
+}

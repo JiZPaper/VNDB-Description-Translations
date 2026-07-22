@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120533",
+  "type": "character",
+  "name": "Saya",
+  "original_name": "サヤ",
+  "language": "en",
+  "source_language": "en",
+  "source": "An orphan in the care of the church. She's taciturn and avoids human contact; no one knows her past.",
+  "source_sha256": "3ca36a7b889b22527ac63e05c86a780dea1d8c3e11047149cd6f28dd43e05fb7",
+  "translation": "An orphan in the care of the church. She's taciturn and avoids human contact; no one knows her past.",
+  "vndb_url": "https://vndb.org/c120533"
+}

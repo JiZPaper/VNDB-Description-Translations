@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115602",
+  "type": "character",
+  "name": "Anna",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "MC's Neighbor",
+  "source_sha256": "f61aa92b68802837abe215c26ea6572546d9ad06582a8e5c7fb815365ea44bb6",
+  "translation": "MC's Neighbor",
+  "vndb_url": "https://vndb.org/c115602"
+}

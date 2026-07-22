@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8285",
+  "type": "character",
+  "name": "Egger",
+  "original_name": "エッガー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A master gunsmith, who can craft any weapon you like, but only if you are a capable gunslinger.",
+  "source_sha256": "30b869bc025a0c9ecd03bc31f8ee9c55f44db1052cc4bd2809ee303f49c9c7c9",
+  "translation": "A master gunsmith, who can craft any weapon you like, but only if you are a capable gunslinger.",
+  "vndb_url": "https://vndb.org/c8285"
+}

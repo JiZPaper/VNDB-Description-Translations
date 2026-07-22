@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145982",
+  "type": "character",
+  "name": "Uoy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Her name is always the reverse of whatever the player inputs for the protagonist's name.",
+  "source_sha256": "bd3739f1e9b193ce3be7d3a262535df16d6e7ef330e69ca037e38b7401a810b8",
+  "translation": "Her name is always the reverse of whatever the player inputs for the protagonist's name.",
+  "vndb_url": "https://vndb.org/c145982"
+}

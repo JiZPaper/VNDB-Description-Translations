@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25515",
+  "type": "character",
+  "name": "Lillian",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Fictionalized version of the poet [url=http://en.wikipedia.org/wiki/William_Wordsworth]William Wordsworth[/url].[/spoiler]",
+  "source_sha256": "bc6c8c5a8556e22a71caa5af24d01275836bbbd5483ab303d0c3f04963c232db",
+  "translation": "[spoiler]Fictionalized version of the poet [url=http://en.wikipedia.org/wiki/William_Wordsworth]William Wordsworth[/url].[/spoiler]",
+  "vndb_url": "https://vndb.org/c25515"
+}

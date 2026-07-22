@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56432",
+  "type": "visual_novel",
+  "name": "Homeward Bound",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Homeward Bound is an interactive, post-apocalyptic survival novel with RPG elements and over 2000 pages of branching narrative. Told entirely in the second person, the story puts you in the shoes of a survivor navigating a world torn apart by a zombie outbreak, moral collapse, and the fading memory of what it means to be human.",
+  "source_sha256": "43341b5e65512dc905f1974099092a4dc80ea395eb1aa4fd4e706ed18288604d",
+  "translation": "Homeward Bound is an interactive, post-apocalyptic survival novel with RPG elements and over 2000 pages of branching narrative. Told entirely in the second person, the story puts you in the shoes of a survivor navigating a world torn apart by a zombie outbreak, moral collapse, and the fading memory of what it means to be human.",
+  "vndb_url": "https://vndb.org/v56432"
+}

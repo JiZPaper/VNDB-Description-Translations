@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97905",
+  "type": "character",
+  "name": "Si-jae",
+  "original_name": "시재",
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist, affected by \"blindness\" which prevents him from seeing holograms",
+  "source_sha256": "24e1c17ea4cdb778a6c634324834748bf9acc72b71ed879c18dbc6a47fba6323",
+  "translation": "Protagonist, affected by \"blindness\" which prevents him from seeing holograms",
+  "vndb_url": "https://vndb.org/c97905"
+}

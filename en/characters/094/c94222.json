@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94222",
+  "type": "character",
+  "name": "Olive",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An escort at Lucien's agency.",
+  "source_sha256": "56c39cf84448d1afb3cf0fe0fdbb50994519cf6513f59fb7edabbebf91b87989",
+  "translation": "An escort at Lucien's agency.",
+  "vndb_url": "https://vndb.org/c94222"
+}

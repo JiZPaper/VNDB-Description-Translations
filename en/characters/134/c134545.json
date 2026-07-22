@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134545",
+  "type": "character",
+  "name": "Monsters",
+  "original_name": "モンスターたち",
+  "language": "en",
+  "source_language": "en",
+  "source": "Monsters in this world.\nEach of them live modestly and happily in their own habitats.\nBut they are becoming food for the [url=/c134434]Superior Boy[/url].",
+  "source_sha256": "06c6b46c8f636ef860f5b5dd7ae3c89d6689cda9c2dea6f866f8921d098cd620",
+  "translation": "Monsters in this world.\nEach of them live modestly and happily in their own habitats.\nBut they are becoming food for the [url=/c134434]Superior Boy[/url].",
+  "vndb_url": "https://vndb.org/c134545"
+}

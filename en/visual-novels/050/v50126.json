@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50126",
+  "type": "visual_novel",
+  "name": "A Ruffian Story",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short, kinetic visual novel celebrating the impact FUWAMOCO have had on so many Ruffians' lives, featuring contributions from the community.",
+  "source_sha256": "7657a954bccb87745a5f247b3afd78b386adb9b565732237afb5b8411270035e",
+  "translation": "A short, kinetic visual novel celebrating the impact FUWAMOCO have had on so many Ruffians' lives, featuring contributions from the community.",
+  "vndb_url": "https://vndb.org/v50126"
+}

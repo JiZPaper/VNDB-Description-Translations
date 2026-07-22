@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46812",
+  "type": "visual_novel",
+  "name": "Eksperimentirovanie",
+  "original_name": "Экспериментирование",
+  "language": "en",
+  "source_language": "en",
+  "source": "A linear visual novel about five short stories, unrelated at first glance.\n\n[From [url=https://store.steampowered.com/app/2517870/]Steam[/url]]",
+  "source_sha256": "e25cb2c7397edafdf8548265ca0a12ebf3176a6ae0a99b95a8361abc174c8daf",
+  "translation": "A linear visual novel about five short stories, unrelated at first glance.\n\n[From [url=https://store.steampowered.com/app/2517870/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v46812"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14942",
+  "type": "visual_novel",
+  "name": "Specie to Chimera",
+  "original_name": "スピーシーとキマイラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The main protagonist was dispatched by a public works company to help restore a zoo that was once forced to shut down due to financial troubles.",
+  "source_sha256": "4dc2b3c370ee07bd7a1f4ac44429f9c13bc8efb78d7be69136b3328f586756c6",
+  "translation": "The main protagonist was dispatched by a public works company to help restore a zoo that was once forced to shut down due to financial troubles.",
+  "vndb_url": "https://vndb.org/v14942"
+}

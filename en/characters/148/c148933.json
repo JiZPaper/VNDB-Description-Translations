@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148933",
+  "type": "character",
+  "name": "Martin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nora's son.",
+  "source_sha256": "ea2a75fa0f1541d43ad4d7fbf61c8687c297870f3d2bd1257a57241db04f344c",
+  "translation": "Nora's son.",
+  "vndb_url": "https://vndb.org/c148933"
+}

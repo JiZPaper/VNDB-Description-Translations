@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15837",
+  "type": "character",
+  "name": "Edward",
+  "original_name": "エドワード",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mecha pilot and the protagonist who lost his memory.",
+  "source_sha256": "90c5c27f724a5178da932ac3b2080dfa9d0a60d5c14e1f8dd4ea092d60c2fcca",
+  "translation": "A mecha pilot and the protagonist who lost his memory.",
+  "vndb_url": "https://vndb.org/c15837"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145773",
+  "type": "character",
+  "name": "Kuromame",
+  "original_name": "黒豆",
+  "language": "en",
+  "source_language": "en",
+  "source": "A black bird.\nIt is small and cute.",
+  "source_sha256": "cc5b35dff0ed20a0d1bb8abe680f7c8bf1f4bea03ed29bace1aadcb4c3737393",
+  "translation": "A black bird.\nIt is small and cute.",
+  "vndb_url": "https://vndb.org/c145773"
+}

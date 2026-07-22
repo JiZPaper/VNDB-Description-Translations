@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91861",
+  "type": "character",
+  "name": "Rin",
+  "original_name": "リン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Rin's virtual avatar.",
+  "source_sha256": "32d5f0684e47faf0b89003b9ff5e54d4709a7811c6cba300c113e30b18f4a03b",
+  "translation": "Rin's virtual avatar.",
+  "vndb_url": "https://vndb.org/c91861"
+}

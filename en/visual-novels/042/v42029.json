@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42029",
+  "type": "visual_novel",
+  "name": "Gin no Eclipse",
+  "original_name": "銀のエクリプス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A remake of Fanatica for PlayStation 2, with almost all CGs and sprites completely redrawn, a rewritten scenario in a first-person view, with changes in endings and main plot points and new voice acting.",
+  "source_sha256": "6b098dea6423fc6e7d01f353668987bf7d5525bf4d3d8b992b6996ca23113528",
+  "translation": "A remake of Fanatica for PlayStation 2, with almost all CGs and sprites completely redrawn, a rewritten scenario in a first-person view, with changes in endings and main plot points and new voice acting.",
+  "vndb_url": "https://vndb.org/v42029"
+}

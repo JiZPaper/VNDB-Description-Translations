@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13870",
+  "type": "visual_novel",
+  "name": "Ariard -Shounen Alice- Under the rose",
+  "original_name": "Ariard-少年アリス- Under the rose",
+  "language": "en",
+  "source_language": "en",
+  "source": "Contains routes for Jack and the King, minigames, and afterstories for the other characters.",
+  "source_sha256": "0081625b2cea3554c952a9fc2164a296cc043655f591a828c486df7e46141a34",
+  "translation": "Contains routes for Jack and the King, minigames, and afterstories for the other characters.",
+  "vndb_url": "https://vndb.org/v13870"
+}

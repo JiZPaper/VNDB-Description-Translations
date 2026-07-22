@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c10687",
+  "type": "character",
+  "name": "Edward Watson",
+  "original_name": "エドワード・ワトスン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A character from the London chapter. \n\nHobby: Sewing.\nFavorite food: Strawberry.\nHated food: Oily foods.\nAffiliation: Class 1-B, detective club.",
+  "source_sha256": "ca7c467c553b6a7eb8958770fc24be86f8d115657a8a6f63a0d5c5eb2f8bb47f",
+  "translation": "A character from the London chapter. \n\nHobby: Sewing.\nFavorite food: Strawberry.\nHated food: Oily foods.\nAffiliation: Class 1-B, detective club.",
+  "vndb_url": "https://vndb.org/c10687"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c147750",
+  "type": "character",
+  "name": "Carla",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The headmistress of the hero's school.",
+  "source_sha256": "e9d06476606c42f0f7ac825993ab395491ac7fca2119313c434508d944704fc2",
+  "translation": "The headmistress of the hero's school.",
+  "vndb_url": "https://vndb.org/c147750"
+}

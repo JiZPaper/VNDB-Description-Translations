@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95996",
+  "type": "character",
+  "name": "Wolf",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An apathetic wolf who lives with Red.",
+  "source_sha256": "366721c2e409c38990c4188b0e0840ccb209e5b92bf570b99f49c7373eb7d1c0",
+  "translation": "An apathetic wolf who lives with Red.",
+  "vndb_url": "https://vndb.org/c95996"
+}

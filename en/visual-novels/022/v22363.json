@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22363",
+  "type": "visual_novel",
+  "name": "Christmas Tale",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Christmas tale - it's a short choice-based visual novel about two days before Christmas.\n\nYou will decide which choice to make, hoping it somehow will change your life.\n\n[From [url=http://store.steampowered.com/app/765400/]Steam[/url]]",
+  "source_sha256": "5af333e8b6217c1af150a278ffaff0037ffcf2c8cca4d89b6df158bfcc4a4bc8",
+  "translation": "Christmas tale - it's a short choice-based visual novel about two days before Christmas.\n\nYou will decide which choice to make, hoping it somehow will change your life.\n\n[From [url=http://store.steampowered.com/app/765400/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v22363"
+}

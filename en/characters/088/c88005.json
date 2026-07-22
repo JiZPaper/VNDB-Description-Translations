@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88005",
+  "type": "character",
+  "name": "Odin",
+  "original_name": "オーディン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Odin's final form.\n\nWeapon names: Gungnir (spear); Huginn, Muninn, Geri, Freki (blades)",
+  "source_sha256": "5732a15f0e47a4a5b28cd32eda7ab44d0d41507fccbf0a3f32727065fe88ea51",
+  "translation": "Odin's final form.\n\nWeapon names: Gungnir (spear); Huginn, Muninn, Geri, Freki (blades)",
+  "vndb_url": "https://vndb.org/c88005"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21522",
+  "type": "visual_novel",
+  "name": "Omokage Railback - Episode Hachi: Deiki no Tsuki",
+  "original_name": "面影レイルバック・エピソード捌　泥亀の月",
+  "language": "en",
+  "source_language": "en",
+  "source": "Prequel of Omokage Railback that tells the story eight years prior to Omokage Railback.",
+  "source_sha256": "51b00ff5ab4912a87b3b0733b6e459bee4051de52a13f7cbc7239843e1efcd14",
+  "translation": "Prequel of Omokage Railback that tells the story eight years prior to Omokage Railback.",
+  "vndb_url": "https://vndb.org/v21522"
+}

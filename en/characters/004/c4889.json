@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4889",
+  "type": "character",
+  "name": "Philippe de Chagny",
+  "original_name": "フィリップ・ド・シャニー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Raoul's older brother and the patron of the Opera House. He's the count of Chagny and has a beautiful fiancée.\nHe's polite and behaves appropriately in social situations.",
+  "source_sha256": "d4ca12d9690e5aa2e4bb5ae437af9ae22f1ffbdac320c5a7ec3aa90d358cede1",
+  "translation": "Raoul's older brother and the patron of the Opera House. He's the count of Chagny and has a beautiful fiancée.\nHe's polite and behaves appropriately in social situations.",
+  "vndb_url": "https://vndb.org/c4889"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26569",
+  "type": "visual_novel",
+  "name": "Gyakuten Touhou - Zoukan Gou",
+  "original_name": "逆転東方 増刊号",
+  "language": "en",
+  "source_language": "en",
+  "source": "A side-game from Suicayasan's\nseries of Ace Attorney-like games, Gyakuten Touhou.",
+  "source_sha256": "d556050adea24d49b80faab0f6a95003e39f5e8d837bfd555fda674758c5c5be",
+  "translation": "A side-game from Suicayasan's\nseries of Ace Attorney-like games, Gyakuten Touhou.",
+  "vndb_url": "https://vndb.org/v26569"
+}

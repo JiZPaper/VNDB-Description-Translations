@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2561",
+  "type": "visual_novel",
+  "name": "Kokuhaku",
+  "original_name": "こくはく",
+  "language": "en",
+  "source_language": "en",
+  "source": "A simple visual novel where the player is allowed to choose the voice of each character. With a cast of four different voice actresses, a total of 256 voice combinations can be achieved.",
+  "source_sha256": "6378ddc215b03372a93e49c8c304142199f06094a204a6e4e7db49c4df8f93a5",
+  "translation": "A simple visual novel where the player is allowed to choose the voice of each character. With a cast of four different voice actresses, a total of 256 voice combinations can be achieved.",
+  "vndb_url": "https://vndb.org/v2561"
+}

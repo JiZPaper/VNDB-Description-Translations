@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169402",
+  "type": "character",
+  "name": "Marion Doherty",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "ACME secretary",
+  "source_sha256": "a3aea3512d0e69d818a5ed7bf68ab375de16bf7a53e28fd5917a3aa9633e4b11",
+  "translation": "ACME secretary",
+  "vndb_url": "https://vndb.org/c169402"
+}

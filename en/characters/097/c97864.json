@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97864",
+  "type": "character",
+  "name": "Jeffery",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A nerdy student at the school who loves anime and manga.",
+  "source_sha256": "b8ccc27a28ec848d06d872328a99cc9fe9f91c19932c1e1af090446ec4973a9f",
+  "translation": "A nerdy student at the school who loves anime and manga.",
+  "vndb_url": "https://vndb.org/c97864"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124534",
+  "type": "character",
+  "name": "Praetorian",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An AI rule enforcer in the game.",
+  "source_sha256": "a346a12abf2542db7695f465f8500517e4b8970a77c85fb9e4b8c5c45262a616",
+  "translation": "An AI rule enforcer in the game.",
+  "vndb_url": "https://vndb.org/c124534"
+}

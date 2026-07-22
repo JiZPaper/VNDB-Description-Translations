@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126070",
+  "type": "character",
+  "name": "Steve",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Melanie's and Amy's biological father.",
+  "source_sha256": "0983634d3c1f4164cb1e49faabcc4fe8b6eb70d78dac52995cb8cff99b528458",
+  "translation": "Melanie's and Amy's biological father.",
+  "vndb_url": "https://vndb.org/c126070"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53554",
+  "type": "visual_novel",
+  "name": "Umezma",
+  "original_name": "ウメズマ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Umezma is a first-person horror game based on the story \"Rusty Scissors\" from the manga \"Kami no Hidarite, Akuma no Migite\" by Kazuo Umezu. It was released as part of a series of interactive manga called MangaRom.",
+  "source_sha256": "6bab187bfc187fc2cb4978687c635a7d86b74674bb2a4f83cff7d6ff678a8ca9",
+  "translation": "Umezma is a first-person horror game based on the story \"Rusty Scissors\" from the manga \"Kami no Hidarite, Akuma no Migite\" by Kazuo Umezu. It was released as part of a series of interactive manga called MangaRom.",
+  "vndb_url": "https://vndb.org/v53554"
+}

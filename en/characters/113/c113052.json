@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113052",
+  "type": "character",
+  "name": "Chloe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The main assistant to the librarian.",
+  "source_sha256": "1f1949f080b9539d7b6fe330da423e84e68b0f37422d6f4c8ab90663b114ddb7",
+  "translation": "The main assistant to the librarian.",
+  "vndb_url": "https://vndb.org/c113052"
+}

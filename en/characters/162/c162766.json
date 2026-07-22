@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162766",
+  "type": "character",
+  "name": "Sigurd",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Human representative of the Galactic Council",
+  "source_sha256": "4862c3b86246f86665c07d209e7ff5f07e41bac93ccece48f3d99bcc74a60165",
+  "translation": "Human representative of the Galactic Council",
+  "vndb_url": "https://vndb.org/c162766"
+}

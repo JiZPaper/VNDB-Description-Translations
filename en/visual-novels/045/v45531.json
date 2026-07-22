@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45531",
+  "type": "visual_novel",
+  "name": "Honeymoon Island",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your Aunt drives you and your \"friend\" to an Island to see if the place was ready to receive people.",
+  "source_sha256": "b1daef2af5489ab4028555fbc9602566874ff86c3b1027456194a4b884771664",
+  "translation": "Your Aunt drives you and your \"friend\" to an Island to see if the place was ready to receive people.",
+  "vndb_url": "https://vndb.org/v45531"
+}

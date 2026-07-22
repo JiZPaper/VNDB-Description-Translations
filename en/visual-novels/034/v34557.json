@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34557",
+  "type": "visual_novel",
+  "name": "TERRORS",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Horror short story collection for Wonderswan",
+  "source_sha256": "3033938d8708a638c635cdbddf92fe3bbcfbd3e6b0e7cbe830c69ca998f6bad5",
+  "translation": "Horror short story collection for Wonderswan",
+  "vndb_url": "https://vndb.org/v34557"
+}

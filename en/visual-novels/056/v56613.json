@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56613",
+  "type": "visual_novel",
+  "name": "Zeljonyj Slonik! Gauptvahta",
+  "original_name": "Зеленый Слоник! Гауптвахта",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a visual novel based on the film Green Elephant.\n\n[from [url=https://web.archive.org/web/20210808195603/https://play.google.com/store/apps/details?id=com.ggoj.program]Google Play[/url]]",
+  "source_sha256": "630d458394fcd584fb023941d4de313c9dcb55c4613e0700fd3c3fb52fff4024",
+  "translation": "This is a visual novel based on the film Green Elephant.\n\n[from [url=https://web.archive.org/web/20210808195603/https://play.google.com/store/apps/details?id=com.ggoj.program]Google Play[/url]]",
+  "vndb_url": "https://vndb.org/v56613"
+}

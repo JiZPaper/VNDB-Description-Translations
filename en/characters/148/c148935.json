@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148935",
+  "type": "character",
+  "name": "Arthur",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Son of Catherine.\nBrother of Michael and Emily.\nLiza's boyfriend.",
+  "source_sha256": "4f02891890ce930bdd82d74638283618aaca14111f32a61b2f75ba3fcab1e2f2",
+  "translation": "Son of Catherine.\nBrother of Michael and Emily.\nLiza's boyfriend.",
+  "vndb_url": "https://vndb.org/c148935"
+}

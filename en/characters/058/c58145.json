@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c58145",
+  "type": "character",
+  "name": "Art",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A survivor who appears to be connected to [url=/c57452]Rami[/url] and [url=/c57454]Yusil[/url]...",
+  "source_sha256": "d826910dd1e53c5aa0ef812d2031a616b9acc0c2f32d5bbf88c6355def9e2fe5",
+  "translation": "A survivor who appears to be connected to [url=/c57452]Rami[/url] and [url=/c57454]Yusil[/url]...",
+  "vndb_url": "https://vndb.org/c58145"
+}

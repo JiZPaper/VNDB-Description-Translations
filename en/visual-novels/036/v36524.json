@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36524",
+  "type": "visual_novel",
+  "name": "mayfly",
+  "original_name": "メイフライ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Just talk to your boyfriend before you go to bed.\n\n[Taken from [url=https://novelgame.jp/games/show/6301]NovelGame[/url]]",
+  "source_sha256": "d8c4f4ec693436f7d7972104bfe1f8f17aff72ae04f2838786f952f72c59e108",
+  "translation": "Just talk to your boyfriend before you go to bed.\n\n[Taken from [url=https://novelgame.jp/games/show/6301]NovelGame[/url]]",
+  "vndb_url": "https://vndb.org/v36524"
+}

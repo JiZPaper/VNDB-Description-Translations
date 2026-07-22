@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26103",
+  "type": "visual_novel",
+  "name": "Datenshi no Sumika",
+  "original_name": "堕天使之住処",
+  "language": "en",
+  "source_language": "en",
+  "source": "A collection of Windows desktop gadgets: wallpapers, screensavers, system voices, clock, calendar, calculator, launcher.",
+  "source_sha256": "183412443414aec1c6b857d1f43e3f7423da3af64967e683d17ad5aedf763fc3",
+  "translation": "A collection of Windows desktop gadgets: wallpapers, screensavers, system voices, clock, calendar, calculator, launcher.",
+  "vndb_url": "https://vndb.org/v26103"
+}

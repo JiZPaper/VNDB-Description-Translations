@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5676",
+  "type": "visual_novel",
+  "name": "Kuroi Shoudou",
+  "original_name": "黒い衝動",
+  "language": "en",
+  "source_language": "en",
+  "source": "A collection of three short stories: \"The Worst Day\" in which the protagonist assaults a woman at a video store, \"Your Slave\" in which they harass a servant, and \"Red Mark\" in which they tutor a student in an indecent fashion.",
+  "source_sha256": "0dec2139e32f892cf8ab571506868d7953538f6f70220514b1c93e4fad1120c0",
+  "translation": "A collection of three short stories: \"The Worst Day\" in which the protagonist assaults a woman at a video store, \"Your Slave\" in which they harass a servant, and \"Red Mark\" in which they tutor a student in an indecent fashion.",
+  "vndb_url": "https://vndb.org/v5676"
+}

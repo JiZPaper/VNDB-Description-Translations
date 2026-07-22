@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49899",
+  "type": "visual_novel",
+  "name": "Parasomnia: Una pesadilla viviente",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You're trying to get some sleep when just about everything starts going wrong. Can you survive in your nightmare?",
+  "source_sha256": "fc4cdffba53d86d030a45684d2b8876d5252fb148710d527c7c8fa0cfc1b8b36",
+  "translation": "You're trying to get some sleep when just about everything starts going wrong. Can you survive in your nightmare?",
+  "vndb_url": "https://vndb.org/v49899"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100856",
+  "type": "character",
+  "name": "Magical Iris",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious girl resembling Iris, who also appears when exploring.",
+  "source_sha256": "9963eccd61166b2227f82f3b5a94b75429ba0d56a5e1572149627b516f3c02dc",
+  "translation": "A mysterious girl resembling Iris, who also appears when exploring.",
+  "vndb_url": "https://vndb.org/c100856"
+}

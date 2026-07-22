@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156599",
+  "type": "character",
+  "name": "Igu",
+  "original_name": "イグ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Igu is [url=/c28147]Ichinose Sora[/url]'s pet iguana.",
+  "source_sha256": "bbd305951675e000d9e16b501de783e3ac4c9cf57c902487e0426a08228268dd",
+  "translation": "Igu is [url=/c28147]Ichinose Sora[/url]'s pet iguana.",
+  "vndb_url": "https://vndb.org/c156599"
+}

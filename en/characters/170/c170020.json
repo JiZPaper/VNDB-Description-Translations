@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170020",
+  "type": "character",
+  "name": "Archimedes",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The pet bird of [url=/c169834]Lily Ramparts[/url].",
+  "source_sha256": "6668a599246b5d9d5284f99617a4f1f2d241d3b9fd2731a04847eb374c514862",
+  "translation": "The pet bird of [url=/c169834]Lily Ramparts[/url].",
+  "vndb_url": "https://vndb.org/c170020"
+}

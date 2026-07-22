@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95967",
+  "type": "character",
+  "name": "Stacey",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "John Johnson's coworker.",
+  "source_sha256": "24891e6bc2f79f85d29b17a13ca73e18c1f74b074d9560eec75f99f4594e7f6a",
+  "translation": "John Johnson's coworker.",
+  "vndb_url": "https://vndb.org/c95967"
+}

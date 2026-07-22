@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140827",
+  "type": "character",
+  "name": "Pat",
+  "original_name": "パット",
+  "language": "en",
+  "source_language": "en",
+  "source": "Milch's dad",
+  "source_sha256": "d54a43fe859f28f3bbbf6e12b8c0f6a068c2fd55b4d86125ed5e70be98661224",
+  "translation": "Milch's dad",
+  "vndb_url": "https://vndb.org/c140827"
+}

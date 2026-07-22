@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16408",
+  "type": "visual_novel",
+  "name": "Luckydog1 Secret Diary",
+  "original_name": "ラッキードッグ1 Secret Diary",
+  "language": "en",
+  "source_language": "en",
+  "source": "Contains 33 short stories from the [url=/r31063]iOS version[/url] of Luckydog1.",
+  "source_sha256": "1e47f22d9432e1a69b6455061c0ff10d47521fa32f702a21b594378c3880497d",
+  "translation": "Contains 33 short stories from the [url=/r31063]iOS version[/url] of Luckydog1.",
+  "vndb_url": "https://vndb.org/v16408"
+}

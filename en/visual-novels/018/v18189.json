@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18189",
+  "type": "visual_novel",
+  "name": "Elf in Wonderland",
+  "original_name": "エルフ イン ワンダーランド",
+  "language": "en",
+  "source_language": "en",
+  "source": "Retro text adventure featuring characters from a variety of classic Elf games.",
+  "source_sha256": "a5be682c3944dd129708dbb5ca53404952e0626a763816a1c5fbe56b7fcee9c7",
+  "translation": "Retro text adventure featuring characters from a variety of classic Elf games.",
+  "vndb_url": "https://vndb.org/v18189"
+}

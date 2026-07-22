@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89901",
+  "type": "character",
+  "name": "Gab",
+  "original_name": "ギャブ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Wicked priest of chaos, turned into a monster.",
+  "source_sha256": "4dbe494e85e01541672f11dc642814550d79901e2aa442a16223a1ac55a56146",
+  "translation": "Wicked priest of chaos, turned into a monster.",
+  "vndb_url": "https://vndb.org/c89901"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127182",
+  "type": "character",
+  "name": "Claire",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The unexpected guest of the protagonist. Shy and reclusive, but friendly.",
+  "source_sha256": "d78dce19f25b6c624d5ab61b52afd36fc7a1c8c6cd616ecad93babe8f2f2fa68",
+  "translation": "The unexpected guest of the protagonist. Shy and reclusive, but friendly.",
+  "vndb_url": "https://vndb.org/c127182"
+}

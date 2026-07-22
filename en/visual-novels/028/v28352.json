@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28352",
+  "type": "visual_novel",
+  "name": "Family, Friends and Strangers",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Enter Parker Morrison's world, meet the characters around him, and follow their exploits.",
+  "source_sha256": "d593693a9d10bfe8f5c937805534586e02e22aa4c1289a09fb9652f7c6ef66d5",
+  "translation": "Enter Parker Morrison's world, meet the characters around him, and follow their exploits.",
+  "vndb_url": "https://vndb.org/v28352"
+}

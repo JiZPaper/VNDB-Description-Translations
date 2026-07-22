@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113046",
+  "type": "character",
+  "name": "Alyssa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A barrista at a coffee house. She was once struck by lightning.",
+  "source_sha256": "34fd4a9687811bd60c598b34aeebef4e6227ec04482030b4d1951e918aff03cb",
+  "translation": "A barrista at a coffee house. She was once struck by lightning.",
+  "vndb_url": "https://vndb.org/c113046"
+}

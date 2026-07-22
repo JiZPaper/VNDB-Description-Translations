@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134213",
+  "type": "character",
+  "name": "Dr. Greenfield",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A scientist and researcher working for the hero's company.",
+  "source_sha256": "9ab2885c1effaf3c3e37fdd36498220fd0a90dbadc4d05cecebb32baa21b49dc",
+  "translation": "A scientist and researcher working for the hero's company.",
+  "vndb_url": "https://vndb.org/c134213"
+}

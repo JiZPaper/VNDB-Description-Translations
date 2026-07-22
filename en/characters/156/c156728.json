@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156728",
+  "type": "character",
+  "name": "Kate",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes cats and dogs the same.\nLikes long walks.\nEnjoys romantic movies.\nLives with her parents.\nHad 4 boyfriends.\nWas adopted.",
+  "source_sha256": "68d110d4197fa45231a3c7c059db7ef5bbafae8c856d7127b7542c9f8981c91a",
+  "translation": "Likes cats and dogs the same.\nLikes long walks.\nEnjoys romantic movies.\nLives with her parents.\nHad 4 boyfriends.\nWas adopted.",
+  "vndb_url": "https://vndb.org/c156728"
+}

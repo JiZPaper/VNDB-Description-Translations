@@ -1,0 +1,108 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/JiZPaper/PaperVN/blob/main/VNDBDescriptions/description.schema.json",
+  "title": "PaperVN VNDB description translation",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "id",
+    "type",
+    "name",
+    "original_name",
+    "language",
+    "source_language",
+    "source",
+    "source_sha256",
+    "translation",
+    "vndb_url"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": 1
+    },
+    "id": {
+      "type": "string",
+      "pattern": "^[vc][0-9]+$"
+    },
+    "type": {
+      "enum": [
+        "visual_novel",
+        "character"
+      ]
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "original_name": {
+      "type": [
+        "string",
+        "null"
+      ]
+    },
+    "language": {
+      "type": "string",
+      "pattern": "^[A-Za-z]{2,3}(?:-[A-Za-z0-9]{2,8})*$"
+    },
+    "source_language": {
+      "const": "en"
+    },
+    "source": {
+      "type": "string",
+      "minLength": 1
+    },
+    "source_sha256": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{64}$"
+    },
+    "translation": {
+      "type": "string",
+      "minLength": 1
+    },
+    "vndb_url": {
+      "type": "string",
+      "pattern": "^https://vndb\\.org/[vc][0-9]+$"
+    }
+  },
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "const": "visual_novel"
+          }
+        },
+        "required": [
+          "type"
+        ]
+      },
+      "then": {
+        "properties": {
+          "id": {
+            "pattern": "^v[0-9]+$"
+          }
+        }
+      }
+    },
+    {
+      "if": {
+        "properties": {
+          "type": {
+            "const": "character"
+          }
+        },
+        "required": [
+          "type"
+        ]
+      },
+      "then": {
+        "properties": {
+          "id": {
+            "pattern": "^c[0-9]+$"
+          }
+        }
+      }
+    }
+  ],
+  "additionalProperties": false
+}

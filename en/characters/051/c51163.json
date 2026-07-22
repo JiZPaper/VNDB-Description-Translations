@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51163",
+  "type": "character",
+  "name": "Peter",
+  "original_name": "ピーター",
+  "language": "en",
+  "source_language": "en",
+  "source": "Rabbit, Uke.",
+  "source_sha256": "4a6a2e3083f169260215f3216680b83863a2835a910f63ed4ae0943bf842ffbd",
+  "translation": "Rabbit, Uke.",
+  "vndb_url": "https://vndb.org/c51163"
+}

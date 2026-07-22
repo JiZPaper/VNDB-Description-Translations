@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44652",
+  "type": "visual_novel",
+  "name": "Under the Moonlight",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "On a seemingly uneventful night, the life of three strangers will be turned upside down.\nStories will be shared, secrets will be unraveled and souls will be found.",
+  "source_sha256": "a58843bfa777f2cbaf6a39c98159482cd25af2b39ee8f52ab5cb4249e39f1df8",
+  "translation": "On a seemingly uneventful night, the life of three strangers will be turned upside down.\nStories will be shared, secrets will be unraveled and souls will be found.",
+  "vndb_url": "https://vndb.org/v44652"
+}

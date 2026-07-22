@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26695",
+  "type": "visual_novel",
+  "name": "Conquistador",
+  "original_name": "コンキスタドール",
+  "language": "en",
+  "source_language": "en",
+  "source": "A letter with an unknown sender arrives to a girl living out her days in gloom.\nWhat will come at the end of these pleasantly changed days?",
+  "source_sha256": "994eb5ecafa59d55ce48fb8733a6768a655a2e25059e5b3fa652542e039a11fd",
+  "translation": "A letter with an unknown sender arrives to a girl living out her days in gloom.\nWhat will come at the end of these pleasantly changed days?",
+  "vndb_url": "https://vndb.org/v26695"
+}

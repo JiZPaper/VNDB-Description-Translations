@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160524",
+  "type": "character",
+  "name": "Yvain",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Son of Morgan le Fay and King Uriens.",
+  "source_sha256": "bfb12f00d84893a0ccf45af58e13c4809aac2794dc2044195d4520d1e9c16fc0",
+  "translation": "Son of Morgan le Fay and King Uriens.",
+  "vndb_url": "https://vndb.org/c160524"
+}

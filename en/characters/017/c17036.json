@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17036",
+  "type": "character",
+  "name": "Rider",
+  "original_name": "ライダー",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]The servant of [url=/c35]Matou Sakura[/url].[/spoiler]\nRider is quiet and prefers solitary activities such as reading and swimming.",
+  "source_sha256": "b1780c6b33108ada235615454677d81c1103e55e013ac9567a9fcda7c689d3fc",
+  "translation": "[spoiler]The servant of [url=/c35]Matou Sakura[/url].[/spoiler]\nRider is quiet and prefers solitary activities such as reading and swimming.",
+  "vndb_url": "https://vndb.org/c17036"
+}

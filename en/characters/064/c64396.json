@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64396",
+  "type": "character",
+  "name": "Sachsen Brandenburg",
+  "original_name": "ザクセン・ブランデンブルク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader of HOUNDS.\nHe rules over his district with a cruel and merciless hand.",
+  "source_sha256": "89d0a62dccfbe1486e69144215cbb6e62fd13c922600bd67b55484ae964b5b34",
+  "translation": "Leader of HOUNDS.\nHe rules over his district with a cruel and merciless hand.",
+  "vndb_url": "https://vndb.org/c64396"
+}

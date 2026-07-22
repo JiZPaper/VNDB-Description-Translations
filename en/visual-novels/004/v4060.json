@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4060",
+  "type": "visual_novel",
+  "name": "CLANNAD - Hikari Mimamoru Sakamichi de",
+  "original_name": "CLANNAD -クラナド- 光見守る坂道で",
+  "language": "en",
+  "source_language": "en",
+  "source": "A \"visual sound novel\" adaption of the Hikari Mimamoru Sakamichi De short stories.",
+  "source_sha256": "4e59a10259f84231203821d4bbeb58e28810dc5146f794ff306cfe5e877ec49a",
+  "translation": "A \"visual sound novel\" adaption of the Hikari Mimamoru Sakamichi De short stories.",
+  "vndb_url": "https://vndb.org/v4060"
+}

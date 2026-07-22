@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c67871",
+  "type": "character",
+  "name": "Kaze",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A notable taiko drummer on campus.",
+  "source_sha256": "67774f3308e2cbcfb8c29538d6263670eb91931e33901afd1e96a8478b439983",
+  "translation": "A notable taiko drummer on campus.",
+  "vndb_url": "https://vndb.org/c67871"
+}

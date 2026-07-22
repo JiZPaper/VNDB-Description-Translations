@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140152",
+  "type": "character",
+  "name": "Kevin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lexi's butler and driver.",
+  "source_sha256": "4fcb50ea502969c36f6c1783314dca3897dc1dea4b707db268c4d515b7c08452",
+  "translation": "Lexi's butler and driver.",
+  "vndb_url": "https://vndb.org/c140152"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c109471",
+  "type": "character",
+  "name": "Man",
+  "original_name": "男",
+  "language": "en",
+  "source_language": "en",
+  "source": "A renowned gambler.",
+  "source_sha256": "70e311c11238c14fa49e7477f64c89962be5d073dc956c3d56ee590a22a3b37a",
+  "translation": "A renowned gambler.",
+  "vndb_url": "https://vndb.org/c109471"
+}

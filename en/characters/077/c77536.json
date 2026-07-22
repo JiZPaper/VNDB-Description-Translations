@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77536",
+  "type": "character",
+  "name": "Syntha",
+  "original_name": "Jessica King",
+  "language": "en",
+  "source_language": "en",
+  "source": "A foreign Counter-Strike professional. Though she plays in of the world's best teams, she's more interested in being a manager rather than playing the game.",
+  "source_sha256": "9e93b78c2c802c49dc1cb5745e6137551ee8d687f09436be84770ef565d66793",
+  "translation": "A foreign Counter-Strike professional. Though she plays in of the world's best teams, she's more interested in being a manager rather than playing the game.",
+  "vndb_url": "https://vndb.org/c77536"
+}

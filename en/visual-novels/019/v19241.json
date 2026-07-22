@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19241",
+  "type": "visual_novel",
+  "name": "Adam Sandler Dating Sim",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dating sim featuring actor Adam Sandler.",
+  "source_sha256": "c66c07d3dcef2ee6dd022bb28b28a9a5d4293b84ec9eeadd4086fe7353e9ddb8",
+  "translation": "A dating sim featuring actor Adam Sandler.",
+  "vndb_url": "https://vndb.org/v19241"
+}

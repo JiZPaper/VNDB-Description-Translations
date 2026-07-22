@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65202",
+  "type": "character",
+  "name": "\"Voice\"",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "They are just a voice in the protagonist's head.",
+  "source_sha256": "fba49448e7d10af158135b3c3d24b2ce8969f2ded2dc2848d0b3cf4ad54d766f",
+  "translation": "They are just a voice in the protagonist's head.",
+  "vndb_url": "https://vndb.org/c65202"
+}

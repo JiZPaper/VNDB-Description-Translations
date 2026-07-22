@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46556",
+  "type": "visual_novel",
+  "name": "Get Home",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "It’s time to get home, and you have to walk through a forest to get there. \n\n[from [url=https://samlovstad.itch.io/get-home]itch.io[/url]]",
+  "source_sha256": "db5d33ff7325fe7163f74077b825f3fe5cd2d8621e871cd936681c3db10f5e49",
+  "translation": "It’s time to get home, and you have to walk through a forest to get there. \n\n[from [url=https://samlovstad.itch.io/get-home]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v46556"
+}

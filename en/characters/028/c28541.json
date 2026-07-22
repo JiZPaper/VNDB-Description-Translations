@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28541",
+  "type": "character",
+  "name": "Stigma",
+  "original_name": "スティグマ",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the heroines in Shizuma's scenario.",
+  "source_sha256": "cb570656ca42933911f93119a36e9579a95436ebc2079fcf375a7ca6df76d253",
+  "translation": "One of the heroines in Shizuma's scenario.",
+  "vndb_url": "https://vndb.org/c28541"
+}

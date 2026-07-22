@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c46431",
+  "type": "character",
+  "name": "Yukari",
+  "original_name": "ゆかり",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious beautiful woman.",
+  "source_sha256": "71be6880c987d0a4c1b3f92a40d1f12486c8fea447e446bc94a64f6f14d13447",
+  "translation": "A mysterious beautiful woman.",
+  "vndb_url": "https://vndb.org/c46431"
+}

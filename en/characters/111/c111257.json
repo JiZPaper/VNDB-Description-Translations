@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c111257",
+  "type": "character",
+  "name": "Louis Ardell",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A famous alpha actor tied to the Grand Rose Theater.",
+  "source_sha256": "a4bcbf2f813f6cb1d43dc78b6f1dd165de841efefd9201aefc87407c32332f24",
+  "translation": "A famous alpha actor tied to the Grand Rose Theater.",
+  "vndb_url": "https://vndb.org/c111257"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97458",
+  "type": "character",
+  "name": "Senator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One politician of Rome, he works with Zonbar.",
+  "source_sha256": "244743ecef8aa6b3bfaf277e7127edde34621f499289850eecd52303d758539b",
+  "translation": "One politician of Rome, he works with Zonbar.",
+  "vndb_url": "https://vndb.org/c97458"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50707",
+  "type": "visual_novel",
+  "name": "Rou to Haku",
+  "original_name": "老と白",
+  "language": "en",
+  "source_language": "en",
+  "source": "The old man stepped into an abandoned village.\nHe was just looking for something...\n\nThe girl was waiting for the opportunity.\nWhile isolated from the villagers, single-mindedly...",
+  "source_sha256": "94cb52dc3601fee90b95575c9548e7207904abf1016e1979c2c86b4356071ebb",
+  "translation": "The old man stepped into an abandoned village.\nHe was just looking for something...\n\nThe girl was waiting for the opportunity.\nWhile isolated from the villagers, single-mindedly...",
+  "vndb_url": "https://vndb.org/v50707"
+}

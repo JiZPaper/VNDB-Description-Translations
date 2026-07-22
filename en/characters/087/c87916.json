@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87916",
+  "type": "character",
+  "name": "Musashi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A weirdo friend of Bill's.",
+  "source_sha256": "74a939c85249522a0e65d3a9bc82aa52a91103db157b95f2b0b7ad0e64e79ec2",
+  "translation": "A weirdo friend of Bill's.",
+  "vndb_url": "https://vndb.org/c87916"
+}

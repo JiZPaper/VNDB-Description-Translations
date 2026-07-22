@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155299",
+  "type": "character",
+  "name": "Player",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist as she appears in the second chapter. She is much more confident and less shy in this iteration. The player chooses whether she is dating Akihiro, Hiroshi, Tekumi, or Kenshi in the very beginning of the game.",
+  "source_sha256": "5986bae11fb3c34f2bfdede440f28151d0e4c6ebadf1f77c8b9c36e8a3ea31a3",
+  "translation": "The protagonist as she appears in the second chapter. She is much more confident and less shy in this iteration. The player chooses whether she is dating Akihiro, Hiroshi, Tekumi, or Kenshi in the very beginning of the game.",
+  "vndb_url": "https://vndb.org/c155299"
+}

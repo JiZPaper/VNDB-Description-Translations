@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95142",
+  "type": "character",
+  "name": "Mokuma",
+  "original_name": "モクマ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A friendly ninja with a dark past.",
+  "source_sha256": "cbd8f05b73ce8b5cd2502524b97174dc8368321f1a429a2c30a4ea364329c338",
+  "translation": "A friendly ninja with a dark past.",
+  "vndb_url": "https://vndb.org/c95142"
+}

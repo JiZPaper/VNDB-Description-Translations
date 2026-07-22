@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8044",
+  "type": "visual_novel",
+  "name": "Mother Goose no Himitsu no Yakata ~Blue Label~",
+  "original_name": "マザーグースの秘密の館 ～BLUE LABEL～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A version of the original Mother Goose game with a male protagonist and female main characters.",
+  "source_sha256": "42fdcd20fb8fd9bcf02c62c9b83df73faa60355277bec2a9ca8553a4d10be87e",
+  "translation": "A version of the original Mother Goose game with a male protagonist and female main characters.",
+  "vndb_url": "https://vndb.org/v8044"
+}

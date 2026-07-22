@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c50514",
+  "type": "character",
+  "name": "Siegfried",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lilan's bodyguard robot.",
+  "source_sha256": "dee32b5ee003397dbd47f8adbd88b3bdd2afca0138afe22ec1b1d673772ce15f",
+  "translation": "Lilan's bodyguard robot.",
+  "vndb_url": "https://vndb.org/c50514"
+}

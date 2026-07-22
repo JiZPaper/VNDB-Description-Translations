@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143834",
+  "type": "character",
+  "name": "Aeris",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Champion of Seldorm. Very tall and strong.\n\n[In game description]",
+  "source_sha256": "193a1e2e1536c5f1d97ccedfabee282e237d5538dbcf7b3175ceb751fe368ea8",
+  "translation": "Champion of Seldorm. Very tall and strong.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c143834"
+}

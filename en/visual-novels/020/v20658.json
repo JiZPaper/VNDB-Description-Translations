@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20658",
+  "type": "visual_novel",
+  "name": "The r/visualnovels Visual Novel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A 5 minute VN that covers the story of r/visualnovels, full of in-jokes about the active members of the community.",
+  "source_sha256": "738552d9ad7901cab4898231aeced1ee60d60a3fa96f4bd5d11c5e25da9f36aa",
+  "translation": "A 5 minute VN that covers the story of r/visualnovels, full of in-jokes about the active members of the community.",
+  "vndb_url": "https://vndb.org/v20658"
+}

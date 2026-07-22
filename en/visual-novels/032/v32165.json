@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32165",
+  "type": "visual_novel",
+  "name": "Waga Himegimi ni Eikan o: Shogun no Yuuwaku",
+  "original_name": "我が姫君に栄冠を 将軍の誘惑",
+  "language": "en",
+  "source_language": "en",
+  "source": "A standalone route for [url=/c92515]Escudo Pagan[/url].",
+  "source_sha256": "54fc4c55456486a6cb70d0cc17399665fcdac72e4fd3fefba28ce0133049e4bc",
+  "translation": "A standalone route for [url=/c92515]Escudo Pagan[/url].",
+  "vndb_url": "https://vndb.org/v32165"
+}

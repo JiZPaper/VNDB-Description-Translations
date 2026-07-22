@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7361",
+  "type": "visual_novel",
+  "name": "Little Princess",
+  "original_name": "リトルプリンセス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The first game for Windows OS of Champion Soft (the later Alice Soft), contains pretty girl Miki and young warrior Kentarou trying to save her beloved one kidnapped by some evil guy.",
+  "source_sha256": "98a1c2f55551e8df217489dc5f87be2ee4c87111b3a97dba778c050364fd1c90",
+  "translation": "The first game for Windows OS of Champion Soft (the later Alice Soft), contains pretty girl Miki and young warrior Kentarou trying to save her beloved one kidnapped by some evil guy.",
+  "vndb_url": "https://vndb.org/v7361"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148547",
+  "type": "character",
+  "name": "Gokuchou",
+  "original_name": "ゴクチョー",
+  "language": "en",
+  "source_language": "en",
+  "source": "The warden of the prison. A mysterious owl who manages the trial, the prisoners, and the entire house.",
+  "source_sha256": "f443f6b34ac0449388791ef654281173f69b2beac4364e2e67255a645cac7bdd",
+  "translation": "The warden of the prison. A mysterious owl who manages the trial, the prisoners, and the entire house.",
+  "vndb_url": "https://vndb.org/c148547"
+}

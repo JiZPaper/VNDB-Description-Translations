@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45337",
+  "type": "visual_novel",
+  "name": "The Date on Elm Street",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Dating sim about Freddy Krueger and Quentin Smith.",
+  "source_sha256": "32f83f1a88e0e48150c2e3e1006360f2c73aaa53f5cb7e4963704ad418093207",
+  "translation": "Dating sim about Freddy Krueger and Quentin Smith.",
+  "vndb_url": "https://vndb.org/v45337"
+}

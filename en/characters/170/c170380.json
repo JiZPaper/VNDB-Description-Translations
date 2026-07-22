@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170380",
+  "type": "character",
+  "name": "Bernd",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "protagonist",
+  "source_sha256": "278b46df0ed765f09eae3d4e6852713376a37062a8ddd4769fb04725d9e4d9be",
+  "translation": "protagonist",
+  "vndb_url": "https://vndb.org/c170380"
+}

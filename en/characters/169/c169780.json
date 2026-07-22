@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169780",
+  "type": "character",
+  "name": "Tianna",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A secretary who works for [url=/c169800]Dale Thomas[/url].",
+  "source_sha256": "7bf076c7f4381e92b60736bc5e042b19f9b68e9ebe1590d7445c75c04a4aac10",
+  "translation": "A secretary who works for [url=/c169800]Dale Thomas[/url].",
+  "vndb_url": "https://vndb.org/c169780"
+}

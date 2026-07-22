@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94547",
+  "type": "character",
+  "name": "Joygolly",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A worker at Sophie's magic shop.",
+  "source_sha256": "9a500283bc9429fa025ed155123ff5b7f2779c01cf838f8bb1db6b9ae32ede64",
+  "translation": "A worker at Sophie's magic shop.",
+  "vndb_url": "https://vndb.org/c94547"
+}

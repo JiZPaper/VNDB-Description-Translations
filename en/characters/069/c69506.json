@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c69506",
+  "type": "character",
+  "name": "Anna",
+  "original_name": "アンナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A comforting and angelic (?) member of the Bar la mer staff.",
+  "source_sha256": "ca9401256ec75867eb8192063591a80d3ff1f1fca45379439e4ed9e7be95137e",
+  "translation": "A comforting and angelic (?) member of the Bar la mer staff.",
+  "vndb_url": "https://vndb.org/c69506"
+}

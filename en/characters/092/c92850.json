@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92850",
+  "type": "character",
+  "name": "Ethan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The hunter living deep in the wood along with his sister.",
+  "source_sha256": "e0ab4394fbde67e99586339d8f2c95655bb58edfc8b756611603edade5383e7b",
+  "translation": "The hunter living deep in the wood along with his sister.",
+  "vndb_url": "https://vndb.org/c92850"
+}

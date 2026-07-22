@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14203",
+  "type": "visual_novel",
+  "name": "Cross Sword",
+  "original_name": "クロスソード",
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist finds a book of magic in an old mansion and reads it, accidentally summoning a demon.",
+  "source_sha256": "b10dfce631cc9a6a2c7449a491f33966cc1551c7e44ee76e9950b0577b1b85d7",
+  "translation": "Protagonist finds a book of magic in an old mansion and reads it, accidentally summoning a demon.",
+  "vndb_url": "https://vndb.org/v14203"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88478",
+  "type": "character",
+  "name": "Emma Rose",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sophie's student. A possible romance option for her or for Dylan.",
+  "source_sha256": "af76ceca8f939d87400ca41a92522a96433737b42d971886de622e43843f4a8b",
+  "translation": "Sophie's student. A possible romance option for her or for Dylan.",
+  "vndb_url": "https://vndb.org/c88478"
+}

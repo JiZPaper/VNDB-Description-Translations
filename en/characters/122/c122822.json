@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122822",
+  "type": "character",
+  "name": "Karla",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A harpy that suffers from vertigo.",
+  "source_sha256": "fb6d80c79238e0234e0795773c5cbcce8d584fbbbd9d6a62fc541f392c00e8bc",
+  "translation": "A harpy that suffers from vertigo.",
+  "vndb_url": "https://vndb.org/c122822"
+}

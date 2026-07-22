@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102519",
+  "type": "character",
+  "name": "Lina Lomia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The lunch lady at school.",
+  "source_sha256": "d4b420a2a354f42345b1b8b048234b1252b399ec9500b0ae90ee923db73047c2",
+  "translation": "The lunch lady at school.",
+  "vndb_url": "https://vndb.org/c102519"
+}

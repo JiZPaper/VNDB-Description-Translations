@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67094",
+  "type": "visual_novel",
+  "name": "Fairy Chess",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about coerced reverse lobotomization and chess games.",
+  "source_sha256": "d31a5adeafad647005f1970930b2796f16e8dd47516e76f05f859f60e6efd962",
+  "translation": "A story about coerced reverse lobotomization and chess games.",
+  "vndb_url": "https://vndb.org/v67094"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115481",
+  "type": "character",
+  "name": "Mangmoon",
+  "original_name": "ムン",
+  "language": "en",
+  "source_language": "en",
+  "source": "He is Deu's younger brother.\nHe suffered from pediatric nephrotic syndrome in his childhood and needs dialysis.\nHe is worried about Deu working at Newmoon.",
+  "source_sha256": "72161cc2a463653a3f02daa8664902d679a780f895975f20e75f19320949987c",
+  "translation": "He is Deu's younger brother.\nHe suffered from pediatric nephrotic syndrome in his childhood and needs dialysis.\nHe is worried about Deu working at Newmoon.",
+  "vndb_url": "https://vndb.org/c115481"
+}

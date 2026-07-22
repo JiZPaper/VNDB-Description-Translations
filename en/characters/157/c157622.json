@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c157622",
+  "type": "character",
+  "name": "Cat",
+  "original_name": "猫",
+  "language": "en",
+  "source_language": "en",
+  "source": "[url=/c155139]Elderly Shop Owner[/url]'s pet cat. \n\nMaruta is [url=/s3940]Makinojimusho[/url]'s mascot, based on [url=/p287]Jellyfish[/url]'s pet Mokume.",
+  "source_sha256": "ccaa60a8efe330fa29ade9db34b95c82eee6ac42b977ae42ea219a89ea2c6fbc",
+  "translation": "[url=/c155139]Elderly Shop Owner[/url]'s pet cat. \n\nMaruta is [url=/s3940]Makinojimusho[/url]'s mascot, based on [url=/p287]Jellyfish[/url]'s pet Mokume.",
+  "vndb_url": "https://vndb.org/c157622"
+}

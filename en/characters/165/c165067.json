@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165067",
+  "type": "character",
+  "name": "Sam Wayne",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious figure that is deeply protective of the Player.\nNot much is known about him but he seems to value the Player's wellbeing above all else. He wears a veil over his face and a mining uniform.",
+  "source_sha256": "ae55c8fd2cce14cf64b5dc3350098e0049c716da1b49c31acba6ba98389bab52",
+  "translation": "A mysterious figure that is deeply protective of the Player.\nNot much is known about him but he seems to value the Player's wellbeing above all else. He wears a veil over his face and a mining uniform.",
+  "vndb_url": "https://vndb.org/c165067"
+}

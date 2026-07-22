@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153906",
+  "type": "character",
+  "name": "Makoto's Mom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The mother of Makoto.",
+  "source_sha256": "0e048248e423860f9b7fb8729961b85934975716c7a269f2a4db85ba339f551d",
+  "translation": "The mother of Makoto.",
+  "vndb_url": "https://vndb.org/c153906"
+}

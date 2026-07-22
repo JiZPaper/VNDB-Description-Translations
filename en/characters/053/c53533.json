@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53533",
+  "type": "character",
+  "name": "Vlad",
+  "original_name": "Влад",
+  "language": "en",
+  "source_language": "en",
+  "source": "Friend of protagonist",
+  "source_sha256": "bbb790fe09b2e34def0f6b31ebd654a1c77411241caa8a8087b36c33827e9889",
+  "translation": "Friend of protagonist",
+  "vndb_url": "https://vndb.org/c53533"
+}

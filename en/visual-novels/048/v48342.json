@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48342",
+  "type": "visual_novel",
+  "name": "Tokoyo no Kuni no Arisu",
+  "original_name": "常夜の国のアリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"What are you afraid of?\"\nA girl who chases after the white cat finds herself lost in a world where night continues endlessly.\nShe must confront the strange apparitions that attack her and find a way to return to her original world.\nCan the girl make it back to her original world with her beloved cat?",
+  "source_sha256": "c3aaa45fa854410f7d8387f13c0f23ace981f8f78e7f2ee84559d1c56bf74450",
+  "translation": "\"What are you afraid of?\"\nA girl who chases after the white cat finds herself lost in a world where night continues endlessly.\nShe must confront the strange apparitions that attack her and find a way to return to her original world.\nCan the girl make it back to her original world with her beloved cat?",
+  "vndb_url": "https://vndb.org/v48342"
+}

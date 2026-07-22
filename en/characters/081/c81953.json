@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81953",
+  "type": "character",
+  "name": "Astia",
+  "original_name": "アスティア",
+  "language": "en",
+  "source_language": "en",
+  "source": "A renowned gladiator who competes in the arena of a certain city.",
+  "source_sha256": "cae0db517985e9224fc32217497a452277aadbe614d5f1d14afc97fde233c780",
+  "translation": "A renowned gladiator who competes in the arena of a certain city.",
+  "vndb_url": "https://vndb.org/c81953"
+}

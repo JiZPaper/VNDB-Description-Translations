@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30481",
+  "type": "character",
+  "name": "Iesnes-Ikoa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Never is seen by the player and has one line.",
+  "source_sha256": "0d827b4fc7db9d1bf5edb8f6dc17313507416250e428fd828f1e4c4327e34218",
+  "translation": "Never is seen by the player and has one line.",
+  "vndb_url": "https://vndb.org/c30481"
+}

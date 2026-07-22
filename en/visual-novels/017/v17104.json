@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17104",
+  "type": "visual_novel",
+  "name": "One Night at Amphora",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A five-act comic fantasy about whiskey, jello, dubstep, and bereavement.\n\nCreated for NaNoRenO 2015.",
+  "source_sha256": "cb5fb56304f42a90f551374717bca7aee5894f03a9762c171cbf8b94edea7b71",
+  "translation": "A five-act comic fantasy about whiskey, jello, dubstep, and bereavement.\n\nCreated for NaNoRenO 2015.",
+  "vndb_url": "https://vndb.org/v17104"
+}

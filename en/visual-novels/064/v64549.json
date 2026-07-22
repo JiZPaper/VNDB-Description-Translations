@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64549",
+  "type": "visual_novel",
+  "name": "Escape The Lab",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An escape adventure set in a lab. This is pretty tricky, there are some red herrings and some hidden variables which means the outcome of certain actions may depend on previous actions. There are clues in the text, so read carefully. Have fun!",
+  "source_sha256": "f2e5e2a83b5b639e4349b0785db467862f2c94e1efb738df1cad3c3eede8f918",
+  "translation": "An escape adventure set in a lab. This is pretty tricky, there are some red herrings and some hidden variables which means the outcome of certain actions may depend on previous actions. There are clues in the text, so read carefully. Have fun!",
+  "vndb_url": "https://vndb.org/v64549"
+}

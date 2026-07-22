@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126742",
+  "type": "character",
+  "name": "Jessica",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Joana's friends.",
+  "source_sha256": "651d4fcd504bb344e313d2313c26d7f6dd477244576f724cc608d56e30e658a4",
+  "translation": "One of Joana's friends.",
+  "vndb_url": "https://vndb.org/c126742"
+}

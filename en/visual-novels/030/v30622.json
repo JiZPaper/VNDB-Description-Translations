@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30622",
+  "type": "visual_novel",
+  "name": "Blue Christmas",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You've died on Christmas Eve and now you must navigate a conversation with the guardian of the afterlife who has been sent to collect your soul.",
+  "source_sha256": "d0059102e1fcfb531436fecc20c894c7740d0f9401cb40f0496a5f02716af130",
+  "translation": "You've died on Christmas Eve and now you must navigate a conversation with the guardian of the afterlife who has been sent to collect your soul.",
+  "vndb_url": "https://vndb.org/v30622"
+}

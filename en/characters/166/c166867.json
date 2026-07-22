@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166867",
+  "type": "character",
+  "name": "Servant",
+  "original_name": "使用人",
+  "language": "en",
+  "source_language": "en",
+  "source": "The servant who mainly serves the young lady. \nAlthough his attitude is aloof, he is kind.",
+  "source_sha256": "a5257bddbac8d6ff57f558943ddd29094b86bf673bd2a362926dbb909377952c",
+  "translation": "The servant who mainly serves the young lady. \nAlthough his attitude is aloof, he is kind.",
+  "vndb_url": "https://vndb.org/c166867"
+}

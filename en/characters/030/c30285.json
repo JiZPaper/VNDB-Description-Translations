@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30285",
+  "type": "character",
+  "name": "Medraut",
+  "original_name": "メドラウト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A boy descended from the royal family. He was one of the candidates to be the next king.",
+  "source_sha256": "208f1582b34003c44fe5178921874725fc08b10debe74c7db0a7fafce21c48cf",
+  "translation": "A boy descended from the royal family. He was one of the candidates to be the next king.",
+  "vndb_url": "https://vndb.org/c30285"
+}

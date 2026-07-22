@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c109731",
+  "type": "character",
+  "name": "Evie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A real estate agent.",
+  "source_sha256": "da159df2fa412eed5cad470b4d6452826ed0e17b3c1e15be99dfab35a510f109",
+  "translation": "A real estate agent.",
+  "vndb_url": "https://vndb.org/c109731"
+}

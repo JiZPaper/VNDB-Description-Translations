@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102864",
+  "type": "character",
+  "name": "Dog",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bartender and ex-cop",
+  "source_sha256": "6467dec78af441b27819d3026d5daeae7d41ca00bc8c01affe358254ccee5a66",
+  "translation": "A bartender and ex-cop",
+  "vndb_url": "https://vndb.org/c102864"
+}

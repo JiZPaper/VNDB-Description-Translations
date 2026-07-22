@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48850",
+  "type": "visual_novel",
+  "name": "The Cabin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Welcome to the Cabin.\n\n[From [url=https://caesarcub.itch.io/the-cabin]Itch.io[/url]]",
+  "source_sha256": "3cc60abd9f110c6454ff780b416f03874369134ce561be5fe8f97125071ae513",
+  "translation": "Welcome to the Cabin.\n\n[From [url=https://caesarcub.itch.io/the-cabin]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v48850"
+}

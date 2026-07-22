@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100637",
+  "type": "character",
+  "name": "Moxi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She accidentally summons the player when trying to summon a familiar.",
+  "source_sha256": "4201dbecdefb6e316f37fdf4d309249f2d85555b8bd5e77733568cb9e9137735",
+  "translation": "She accidentally summons the player when trying to summon a familiar.",
+  "vndb_url": "https://vndb.org/c100637"
+}

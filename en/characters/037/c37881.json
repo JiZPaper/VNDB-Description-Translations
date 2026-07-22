@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37881",
+  "type": "character",
+  "name": "Shunka",
+  "original_name": "春霞",
+  "language": "en",
+  "source_language": "en",
+  "source": "Talisman user.\nHer personality is determined out of 5 possibilities from choices in the first chapter.",
+  "source_sha256": "64102cd61381590b64c78e9eed25d7b12cdeb904b0bf7540a7ea146d3ebfdfc3",
+  "translation": "Talisman user.\nHer personality is determined out of 5 possibilities from choices in the first chapter.",
+  "vndb_url": "https://vndb.org/c37881"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116159",
+  "type": "character",
+  "name": "Allein",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The demon who Joan came across.",
+  "source_sha256": "78d9b61b36be6ac6692850fe1fed692601fc61cc518cf45bfd67f4adb354aaed",
+  "translation": "The demon who Joan came across.",
+  "vndb_url": "https://vndb.org/c116159"
+}

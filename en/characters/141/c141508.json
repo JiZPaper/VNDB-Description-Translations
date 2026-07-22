@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141508",
+  "type": "character",
+  "name": "Olivia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Friend of Jill\n\nAndy's girlfriend",
+  "source_sha256": "d6603cfbf8863b978fd8f9282b103a5f667a6fa994f1649630b46e28e9dcbb30",
+  "translation": "Friend of Jill\n\nAndy's girlfriend",
+  "vndb_url": "https://vndb.org/c141508"
+}

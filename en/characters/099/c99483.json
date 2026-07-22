@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99483",
+  "type": "character",
+  "name": "Solid Snake",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Solid Snake is one of the protagonists of Konami's Metal Gear series. Created by Hideo Kojima, Snake was introduced in the first game of the series, Metal Gear (1987), and has appeared in the majority of the subsequent games and spin-offs.",
+  "source_sha256": "c6654ad98b29293dd6b3d07fc044eb2746b155db45ed11c99e3df27a5966ab62",
+  "translation": "Solid Snake is one of the protagonists of Konami's Metal Gear series. Created by Hideo Kojima, Snake was introduced in the first game of the series, Metal Gear (1987), and has appeared in the majority of the subsequent games and spin-offs.",
+  "vndb_url": "https://vndb.org/c99483"
+}

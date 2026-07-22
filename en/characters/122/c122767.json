@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122767",
+  "type": "character",
+  "name": "Garrett",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A grunt working for Team Golde.",
+  "source_sha256": "e343667705020329eeccfd1b542f138aaa37e37767ab0678c2a21b5b871e9dcc",
+  "translation": "A grunt working for Team Golde.",
+  "vndb_url": "https://vndb.org/c122767"
+}

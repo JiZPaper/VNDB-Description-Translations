@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89314",
+  "type": "character",
+  "name": "Carol",
+  "original_name": "キャロル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A talking puppet that attached on Alice's right hand. He seems to know things that Alice herself does not know. He also talks in Kansai dialect.",
+  "source_sha256": "ad90c24e8676da86de92b49e9ba29e4dc9bb54f4d9de7f773a55bf5f245fab9c",
+  "translation": "A talking puppet that attached on Alice's right hand. He seems to know things that Alice herself does not know. He also talks in Kansai dialect.",
+  "vndb_url": "https://vndb.org/c89314"
+}

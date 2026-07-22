@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11877",
+  "type": "visual_novel",
+  "name": "The Fantastic Flying Books of Mr. Morris Lessmore",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An iPad app based on the award-winning short film.  Morris Lessmore is a man who has been left with nothing after a violent storm sweeps away his home and belongings. After discovering a woman with flying books, Morris becomes the custodian of a magical library.",
+  "source_sha256": "f5d0251b0144562acb906ad40e72542de0859e94528e7d46ddc3ddd530175593",
+  "translation": "An iPad app based on the award-winning short film.  Morris Lessmore is a man who has been left with nothing after a violent storm sweeps away his home and belongings. After discovering a woman with flying books, Morris becomes the custodian of a magical library.",
+  "vndb_url": "https://vndb.org/v11877"
+}

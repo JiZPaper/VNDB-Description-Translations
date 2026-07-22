@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93667",
+  "type": "character",
+  "name": "Georgie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's pet dog. For some reason, he is not turned into a human like the others.",
+  "source_sha256": "fe63ce5af87114559a8be7d12c27b6ee47459dc679529de5384e1e9277a8c90b",
+  "translation": "The protagonist's pet dog. For some reason, he is not turned into a human like the others.",
+  "vndb_url": "https://vndb.org/c93667"
+}

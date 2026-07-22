@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c7989",
+  "type": "character",
+  "name": "Raguier La Draculu",
+  "original_name": "ラギエ＝ラ＝ドラキュル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Character type: Vampire.",
+  "source_sha256": "9d0a327e53fa3b2f9c95a6c487da29f16312001a4f0e1ca0da4bec1727169b05",
+  "translation": "Character type: Vampire.",
+  "vndb_url": "https://vndb.org/c7989"
+}

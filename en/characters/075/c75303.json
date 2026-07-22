@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75303",
+  "type": "character",
+  "name": "Spot",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Spot is a bird made out of air, whom only Janna can see. He serves as her familiar.",
+  "source_sha256": "1d55aac8dd6d055dd9e3baee1194ff225842448e1d1da85a903f99507f7098f9",
+  "translation": "Spot is a bird made out of air, whom only Janna can see. He serves as her familiar.",
+  "vndb_url": "https://vndb.org/c75303"
+}

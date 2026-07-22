@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v368",
+  "type": "visual_novel",
+  "name": "Suzumiya Haruhi no Tomadoi",
+  "original_name": "涼宮ハルヒの戸惑",
+  "language": "en",
+  "source_language": "en",
+  "source": "This time Haruhi is a super-game-producer. She forces the SOS brigade to make the best game in the world. What kind of game will it be? The player takes the role of Kyon, and will have four weeks to make a game worthy of Haruhi's tastes. But beware, because if she isn't pleased, she may change reality or even close you inside a time loop...",
+  "source_sha256": "bd4e1e419655d2cf9e54575d864e979b9450c248caf59521016203f932c0de99",
+  "translation": "This time Haruhi is a super-game-producer. She forces the SOS brigade to make the best game in the world. What kind of game will it be? The player takes the role of Kyon, and will have four weeks to make a game worthy of Haruhi's tastes. But beware, because if she isn't pleased, she may change reality or even close you inside a time loop...",
+  "vndb_url": "https://vndb.org/v368"
+}

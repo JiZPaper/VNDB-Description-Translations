@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153797",
+  "type": "character",
+  "name": "Norn",
+  "original_name": "ノルン",
+  "language": "en",
+  "source_language": "en",
+  "source": "The three sisters Norn, protectors of the Yggdrasil tree.",
+  "source_sha256": "f7c6dd81023cea8f3f171899941fa638586aac65a3475c27e268fa4959cd81be",
+  "translation": "The three sisters Norn, protectors of the Yggdrasil tree.",
+  "vndb_url": "https://vndb.org/c153797"
+}

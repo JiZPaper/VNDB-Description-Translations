@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32587",
+  "type": "visual_novel",
+  "name": "Kenmochi-sensei to Inukai-kun/ Rumi-chan-sensei to Kimoi Danshi ~Jinroku Paradise~",
+  "original_name": "剣持先生と犬飼君/るみちゃん先生とキモい男子 ～甚六パラダイス～",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a voiced game that colors and animates 3 doujin manga.",
+  "source_sha256": "b289629535e5d509eccd03ad39b1d049be6a12754850dc61d693bfecd0d29510",
+  "translation": "This is a voiced game that colors and animates 3 doujin manga.",
+  "vndb_url": "https://vndb.org/v32587"
+}

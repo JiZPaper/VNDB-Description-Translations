@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7549",
+  "type": "visual_novel",
+  "name": "Last Tuesday",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel about waking up in a world without people, and deciding what to do with yourself in an empty city.\n\n[From Lemma Soft Forums]",
+  "source_sha256": "f7ce8c8d6e582b71c86a833ce615dbac2f131085a330cc1c37126764236b959c",
+  "translation": "A short visual novel about waking up in a world without people, and deciding what to do with yourself in an empty city.\n\n[From Lemma Soft Forums]",
+  "vndb_url": "https://vndb.org/v7549"
+}

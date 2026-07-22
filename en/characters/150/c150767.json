@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150767",
+  "type": "character",
+  "name": "Police Officer",
+  "original_name": "警官",
+  "language": "en",
+  "source_language": "en",
+  "source": "Nozomi's brother.",
+  "source_sha256": "90bab9405900f72306119164e9eeb63e289f1af73ec3e3ead979f67ba4e6681c",
+  "translation": "Nozomi's brother.",
+  "vndb_url": "https://vndb.org/c150767"
+}

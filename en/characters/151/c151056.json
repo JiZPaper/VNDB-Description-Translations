@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c151056",
+  "type": "character",
+  "name": "Alice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The girl who works at the convenience store",
+  "source_sha256": "ff39d3a15b4cbbeb130d8e47f6c281383f71d92a3a97f21452e4eb85acb55eec",
+  "translation": "The girl who works at the convenience store",
+  "vndb_url": "https://vndb.org/c151056"
+}

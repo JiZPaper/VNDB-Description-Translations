@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44057",
+  "type": "character",
+  "name": "Kid",
+  "original_name": "少年",
+  "language": "en",
+  "source_language": "en",
+  "source": "A kid Yuri meets at her school.",
+  "source_sha256": "9dd9798492857b089375915fc64414d4a74f1b722ebc8ac2f29db581164e7149",
+  "translation": "A kid Yuri meets at her school.",
+  "vndb_url": "https://vndb.org/c44057"
+}

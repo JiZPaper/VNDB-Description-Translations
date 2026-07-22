@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75528",
+  "type": "character",
+  "name": "Tigger",
+  "original_name": "ティガー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Age: ?\nCat breed: ?\nThe king of the Desert country.",
+  "source_sha256": "60ab975aedb2e7da0e13a6d5e1bb616fd7275fa666233a39becf221b67f3ca8a",
+  "translation": "Age: ?\nCat breed: ?\nThe king of the Desert country.",
+  "vndb_url": "https://vndb.org/c75528"
+}

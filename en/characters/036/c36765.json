@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36765",
+  "type": "character",
+  "name": "Marcel",
+  "original_name": "マルセル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ralph's childhood friend, a bit of a meddler.",
+  "source_sha256": "ec1c096e458d8a642294eb153f0892afd1cede98eb891f2394f6a144ce12c54c",
+  "translation": "Ralph's childhood friend, a bit of a meddler.",
+  "vndb_url": "https://vndb.org/c36765"
+}

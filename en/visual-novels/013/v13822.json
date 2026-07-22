@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13822",
+  "type": "visual_novel",
+  "name": "Oh Josiah",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A \"cautionary tale.\"",
+  "source_sha256": "538806cf8f2a478cb2da65d35994d35a5cc209e03f35a2240a0f971b30b2402c",
+  "translation": "A \"cautionary tale.\"",
+  "vndb_url": "https://vndb.org/v13822"
+}

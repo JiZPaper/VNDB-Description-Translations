@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29487",
+  "type": "visual_novel",
+  "name": "Pixel Puzzle Makeout League",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Solve pixel puzzles, date superheroes, and save the day!",
+  "source_sha256": "e69a7863080b46ae5f04b05f897a89e436cfe168bf71ab9439b9e77c08f4ed5a",
+  "translation": "Solve pixel puzzles, date superheroes, and save the day!",
+  "vndb_url": "https://vndb.org/v29487"
+}

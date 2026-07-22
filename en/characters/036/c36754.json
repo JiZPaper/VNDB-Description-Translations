@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36754",
+  "type": "character",
+  "name": "Johann",
+  "original_name": "ヨハン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A great adventurer.",
+  "source_sha256": "0743b339148ca1b83ef67cdddadc7e29e28a8da502d118ebfd6b4dbfbe8cc55c",
+  "translation": "A great adventurer.",
+  "vndb_url": "https://vndb.org/c36754"
+}

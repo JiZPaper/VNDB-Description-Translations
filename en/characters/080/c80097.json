@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c80097",
+  "type": "character",
+  "name": "Akira",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of the Transmitter storyline. A soldier in the special task force Republic. His name is chosen by the player at the beginning.",
+  "source_sha256": "46b90b66cf8d68b22b6eb460320638625f86895ebb32b1e7661b57e079b8b1c0",
+  "translation": "The protagonist of the Transmitter storyline. A soldier in the special task force Republic. His name is chosen by the player at the beginning.",
+  "vndb_url": "https://vndb.org/c80097"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91313",
+  "type": "character",
+  "name": "Robot",
+  "original_name": "ロボ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A special robot. If under operation, all superpower couldn't be used in a certain radius from it.",
+  "source_sha256": "f2e3a2c31ff2f4964a45478e0bb0f1737ac00c8a8586dca9f9efcac799b4e750",
+  "translation": "A special robot. If under operation, all superpower couldn't be used in a certain radius from it.",
+  "vndb_url": "https://vndb.org/c91313"
+}

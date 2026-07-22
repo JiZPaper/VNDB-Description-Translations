@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100032",
+  "type": "character",
+  "name": "Owen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Prosecutor/Lawyer representing Sophie",
+  "source_sha256": "89c9023f61d9fb701be43592e36e00f7cec96331fd0e42281d3b9fa3a6ce4753",
+  "translation": "Prosecutor/Lawyer representing Sophie",
+  "vndb_url": "https://vndb.org/c100032"
+}

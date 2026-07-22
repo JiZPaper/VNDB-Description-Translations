@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45822",
+  "type": "character",
+  "name": "Opo",
+  "original_name": "オポ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A dolphin teacher who can communicate through a special 'SIMS' interface.",
+  "source_sha256": "aca22ab229a8e5877a2b38596693c5bd80c04b1ddf87ec1ce54b2ed152668bd3",
+  "translation": "A dolphin teacher who can communicate through a special 'SIMS' interface.",
+  "vndb_url": "https://vndb.org/c45822"
+}

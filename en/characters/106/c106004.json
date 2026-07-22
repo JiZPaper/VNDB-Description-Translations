@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106004",
+  "type": "character",
+  "name": "Lark",
+  "original_name": "ラーク",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Even if you follow me wherever you go.\"\n\nAn amanojaku.",
+  "source_sha256": "2293fd721914b5fd881dcbbd55de8ad5b562162cc69c0e35e0413b4e9d74d192",
+  "translation": "\"Even if you follow me wherever you go.\"\n\nAn amanojaku.",
+  "vndb_url": "https://vndb.org/c106004"
+}

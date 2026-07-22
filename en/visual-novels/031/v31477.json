@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31477",
+  "type": "visual_novel",
+  "name": "Fated",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You're a postgrad student who's just gotten a job at the swanky Café Milan -- but things here are not quite as they seem. Team up with your chosen love interest to figure out what's really going on.",
+  "source_sha256": "301e14f9900c1723aeda914a3a8ae5fe0feefc595437d1c48e308554dd20cd27",
+  "translation": "You're a postgrad student who's just gotten a job at the swanky Café Milan -- but things here are not quite as they seem. Team up with your chosen love interest to figure out what's really going on.",
+  "vndb_url": "https://vndb.org/v31477"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98555",
+  "type": "character",
+  "name": "Miller",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The shopkeeper of the town's biggest commercial house, which is the place of several stores and trades houses. There is a butcher shop, a blacksmith's workshop, a wheat granary, a bakeshop and the diary center (a place where farmers can process cheese and milk).",
+  "source_sha256": "e7c9dbd0d0628dc057cbfbffdf43efbf8c5add7dbd2404241e8d3311f0cdd2eb",
+  "translation": "The shopkeeper of the town's biggest commercial house, which is the place of several stores and trades houses. There is a butcher shop, a blacksmith's workshop, a wheat granary, a bakeshop and the diary center (a place where farmers can process cheese and milk).",
+  "vndb_url": "https://vndb.org/c98555"
+}

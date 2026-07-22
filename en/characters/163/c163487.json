@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163487",
+  "type": "character",
+  "name": "Sensei",
+  "original_name": "先生",
+  "language": "en",
+  "source_language": "en",
+  "source": "A human doctor that survived humanity's end and has raised [url=/c163486]the miracle child[/url].",
+  "source_sha256": "6ba925b8c610e2e6907a966d819c4aeb839d4c444b74541905abb61ddcca2e9e",
+  "translation": "A human doctor that survived humanity's end and has raised [url=/c163486]the miracle child[/url].",
+  "vndb_url": "https://vndb.org/c163487"
+}

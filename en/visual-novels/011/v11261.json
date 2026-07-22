@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11261",
+  "type": "visual_novel",
+  "name": "Chobits Adventure",
+  "original_name": "チょびっつあどべんちゃー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fan-fiction VN based on the anime/manga Chobits.",
+  "source_sha256": "11d3688346a49e8143313b42097ed1e638c4729a54c04274928cf9af9ead5688",
+  "translation": "A fan-fiction VN based on the anime/manga Chobits.",
+  "vndb_url": "https://vndb.org/v11261"
+}

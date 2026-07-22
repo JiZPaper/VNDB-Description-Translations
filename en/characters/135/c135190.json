@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135190",
+  "type": "character",
+  "name": "Veil",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The 3rd guardian of the Tower.",
+  "source_sha256": "d275c1bb9703ffcc9bdccbbb69208bd0aa996a1a6a319769d88906cfbb8f0b43",
+  "translation": "The 3rd guardian of the Tower.",
+  "vndb_url": "https://vndb.org/c135190"
+}

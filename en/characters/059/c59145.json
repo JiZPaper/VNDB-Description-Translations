@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c59145",
+  "type": "character",
+  "name": "Priya",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Priya is the newest student at Sweet Amoris.",
+  "source_sha256": "521bbcb299b224f75c81ba353c77a5023b8f2dabb090fc6aed3df64a5b4c4e5d",
+  "translation": "Priya is the newest student at Sweet Amoris.",
+  "vndb_url": "https://vndb.org/c59145"
+}

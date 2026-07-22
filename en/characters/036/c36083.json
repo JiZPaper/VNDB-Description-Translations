@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36083",
+  "type": "character",
+  "name": "Rufei Akureia",
+  "original_name": "ルフェイ・アクレイア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Fezaria\nOccupation: Sage",
+  "source_sha256": "3a91f9c0ad9e00259d376ef1c04e721c68e4e6f59ccfbe47735a7b42650d8fe1",
+  "translation": "Race: Fezaria\nOccupation: Sage",
+  "vndb_url": "https://vndb.org/c36083"
+}

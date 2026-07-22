@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87867",
+  "type": "character",
+  "name": "Slash",
+  "original_name": "スラッシュ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious acquaintance of Tokio's, known for their digital skills.",
+  "source_sha256": "c3302a1373d00be732adf398e0ca11afabdd6f177ac55152eccb69ca79c1d18f",
+  "translation": "A mysterious acquaintance of Tokio's, known for their digital skills.",
+  "vndb_url": "https://vndb.org/c87867"
+}

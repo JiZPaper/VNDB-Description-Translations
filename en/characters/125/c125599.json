@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125599",
+  "type": "character",
+  "name": "Halora",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Cordelia's second oldest friend.",
+  "source_sha256": "655d751a06c00141a5adb33790c37d9933c5acf1db54d6a2fd37d101e30c4cd2",
+  "translation": "Cordelia's second oldest friend.",
+  "vndb_url": "https://vndb.org/c125599"
+}

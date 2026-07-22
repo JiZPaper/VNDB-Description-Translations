@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96239",
+  "type": "character",
+  "name": "Butter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Life source of food amalgamation.\nThe dictionary of food.",
+  "source_sha256": "b225b64acbdfe0da850591612a66766053b97e25ee0febe208e5392ec85535a6",
+  "translation": "Life source of food amalgamation.\nThe dictionary of food.",
+  "vndb_url": "https://vndb.org/c96239"
+}

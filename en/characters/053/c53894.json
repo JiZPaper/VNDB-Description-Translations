@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53894",
+  "type": "character",
+  "name": "Sir Schlamm",
+  "original_name": "シュラム卿",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the Generals of Edellant Kingdom.",
+  "source_sha256": "17b78b69ed4a5c5a9e2db31e23aeb1d40de20766b65d3bc45ee8790018a300b3",
+  "translation": "One of the Generals of Edellant Kingdom.",
+  "vndb_url": "https://vndb.org/c53894"
+}

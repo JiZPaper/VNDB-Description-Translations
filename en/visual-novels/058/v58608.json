@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58608",
+  "type": "visual_novel",
+  "name": "Yuuzai×Muzai",
+  "original_name": "『有罪×無罪』（ゆうざい×むざい）",
+  "language": "en",
+  "source_language": "en",
+  "source": "This adventure game centers around the lay judge system . Its release date coincided with the implementation of the lay judge system in Japan. The player takes on the role of a juror, deliberates with other jurors to determine whether a defendant in a given case is guilty or not guilty. The four cases included in the game are not connected in a continuum; each is a separate case (though previous jurors may be called as witnesses). Players can also change their name with each new trial (in consideration of the fact that players would not be selected to serve as jurors consecutively). While players can simulate a lay judge system , unlike the Ace Attorney game , the goal is not necessarily to overturn a verdict. Instead, players can influence the verdict, turning a guilty person into an acquittal or vice versa. Each case is also scored, allowing players to check whether they have reached the correct verdict.\n\n[Translated from [url=https://ja.wikipedia.org/wiki/%E6%9C%89%E7%BD%AA%C3%97%E7%84%A1%E7%BD%AA#%E5%A4%96%E9%83%A8%E3%83%AA%E3%83%B3%E3%82%AF）]Wikipedia[/url]]",
+  "source_sha256": "854fdc6147d218fdd6302ed3eaa038716d8f80f42247f81bfc2d4889023df20c",
+  "translation": "This adventure game centers around the lay judge system . Its release date coincided with the implementation of the lay judge system in Japan. The player takes on the role of a juror, deliberates with other jurors to determine whether a defendant in a given case is guilty or not guilty. The four cases included in the game are not connected in a continuum; each is a separate case (though previous jurors may be called as witnesses). Players can also change their name with each new trial (in consideration of the fact that players would not be selected to serve as jurors consecutively). While players can simulate a lay judge system , unlike the Ace Attorney game , the goal is not necessarily to overturn a verdict. Instead, players can influence the verdict, turning a guilty person into an acquittal or vice versa. Each case is also scored, allowing players to check whether they have reached the correct verdict.\n\n[Translated from [url=https://ja.wikipedia.org/wiki/%E6%9C%89%E7%BD%AA%C3%97%E7%84%A1%E7%BD%AA#%E5%A4%96%E9%83%A8%E3%83%AA%E3%83%B3%E3%82%AF）]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/v58608"
+}

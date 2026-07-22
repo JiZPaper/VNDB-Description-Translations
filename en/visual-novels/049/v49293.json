@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49293",
+  "type": "visual_novel",
+  "name": "STRANDED",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A narrative-driven game about two crash-landed mech pilots.",
+  "source_sha256": "644dc40f9333fae3eaac27899f4d183d14da2bc89119d3a16aee0d5c61788489",
+  "translation": "A narrative-driven game about two crash-landed mech pilots.",
+  "vndb_url": "https://vndb.org/v49293"
+}

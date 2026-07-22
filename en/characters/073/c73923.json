@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73923",
+  "type": "character",
+  "name": "Older Sister",
+  "original_name": "姉さん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ritsuki's older sister.",
+  "source_sha256": "6f2902351a05dbeea990626096feb2f5ad52e928a1b27768443deba42f3770a2",
+  "translation": "Ritsuki's older sister.",
+  "vndb_url": "https://vndb.org/c73923"
+}

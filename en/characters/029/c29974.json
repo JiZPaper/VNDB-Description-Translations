@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29974",
+  "type": "character",
+  "name": "Tsukamoto",
+  "original_name": "塚本",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mathematics teacher.",
+  "source_sha256": "ee29234f75e0f94551d739080e4046f6c878e82d7eb3f561ba23234f48d7f36b",
+  "translation": "A mathematics teacher.",
+  "vndb_url": "https://vndb.org/c29974"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59124",
+  "type": "visual_novel",
+  "name": "Match After ~trapped in a loop for 500 days~",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "a short, slightly sad kinetic novel about Match missing Pencil",
+  "source_sha256": "0fa0ba563c5ce685b869c078fc02624038034066d8b86be0126b92a9b1fcb1ae",
+  "translation": "a short, slightly sad kinetic novel about Match missing Pencil",
+  "vndb_url": "https://vndb.org/v59124"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42191",
+  "type": "character",
+  "name": "Hilda",
+  "original_name": "ヒルダ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Maid serving Fis and Claris.",
+  "source_sha256": "4fade9ceb688b62696943f73b17c6a0c72d91c138478dcebce35d7a6f16cab1b",
+  "translation": "Maid serving Fis and Claris.",
+  "vndb_url": "https://vndb.org/c42191"
+}

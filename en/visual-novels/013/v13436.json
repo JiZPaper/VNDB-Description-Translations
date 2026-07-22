@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13436",
+  "type": "visual_novel",
+  "name": "Fatal Cooking",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Will your first attempt to cook for yourself end in disaster?",
+  "source_sha256": "8a72c7693ed169ce1b05906a8f3679067bab6ac393f1e321f11793cfb258c57c",
+  "translation": "Will your first attempt to cook for yourself end in disaster?",
+  "vndb_url": "https://vndb.org/v13436"
+}

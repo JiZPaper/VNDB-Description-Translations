@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65153",
+  "type": "visual_novel",
+  "name": "INTRUSICUL",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist is a man who has long lived in voluntary isolation, feeling detached and alienated from others. After receiving an invitation to a small gathering, he slowly becomes involved in interactions with both old and new acquaintances.\nFragments of his past are revealed through the journey to the meeting, conversations, and his internal reactions.",
+  "source_sha256": "77d1416368771cb2dd9b305e1b8de1df567fed24774e141a4441616bbbb20e7f",
+  "translation": "The protagonist is a man who has long lived in voluntary isolation, feeling detached and alienated from others. After receiving an invitation to a small gathering, he slowly becomes involved in interactions with both old and new acquaintances.\nFragments of his past are revealed through the journey to the meeting, conversations, and his internal reactions.",
+  "vndb_url": "https://vndb.org/v65153"
+}

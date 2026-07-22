@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112882",
+  "type": "character",
+  "name": "Dolores",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A customer who comes to the bar.",
+  "source_sha256": "0b5e411629c96661e436f0791b147e0411a5cc9abb1529c036ee897ac4a233f3",
+  "translation": "A customer who comes to the bar.",
+  "vndb_url": "https://vndb.org/c112882"
+}

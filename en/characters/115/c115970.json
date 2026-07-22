@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115970",
+  "type": "character",
+  "name": "Gus Driver",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bus driver working for Daniel's school.",
+  "source_sha256": "8021ae0773f3857739e7e36a9e5e68e8a67fb04ec4aa7352f3893a45808c3ff9",
+  "translation": "A bus driver working for Daniel's school.",
+  "vndb_url": "https://vndb.org/c115970"
+}

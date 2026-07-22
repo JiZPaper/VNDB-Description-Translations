@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28779",
+  "type": "visual_novel",
+  "name": "Quickie: Toshiko 2",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An attempt to help a friend attend her class turns into events you never thought possible...",
+  "source_sha256": "d185b2cef4fbfc7140763736d7d0c15a9720d3ac7e45633d2dbc689b83008853",
+  "translation": "An attempt to help a friend attend her class turns into events you never thought possible...",
+  "vndb_url": "https://vndb.org/v28779"
+}

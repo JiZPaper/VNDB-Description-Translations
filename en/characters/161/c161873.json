@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161873",
+  "type": "character",
+  "name": "Woodman",
+  "original_name": "나무꾼",
+  "language": "en",
+  "source_language": "en",
+  "source": "A simple and honest woodcutter. He went to the government office to report witnessing a monster attacking someone, but instead, he was arrested as the murderer.",
+  "source_sha256": "dfffce025fc7fa56b8faf02db4b1cc384eca468df48a50c0d9cdcc0c65371abf",
+  "translation": "A simple and honest woodcutter. He went to the government office to report witnessing a monster attacking someone, but instead, he was arrested as the murderer.",
+  "vndb_url": "https://vndb.org/c161873"
+}

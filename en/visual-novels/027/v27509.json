@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27509",
+  "type": "visual_novel",
+  "name": "Tooi Umi no Aria",
+  "original_name": "遠い海のアリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about a mermaid who fell in love and went to land, and a short curse.",
+  "source_sha256": "fa84b44c6127474218f3788dbe8c762acc9a3cab7a7563e6aed582856b6e3a60",
+  "translation": "A story about a mermaid who fell in love and went to land, and a short curse.",
+  "vndb_url": "https://vndb.org/v27509"
+}

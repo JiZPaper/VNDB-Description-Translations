@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156808",
+  "type": "character",
+  "name": "Eadem",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A charming knight that loves to engage in drinking and advising people.",
+  "source_sha256": "1a76b2fd07c7c1b8363eebcf03efd07c7e66590f78bf9cb33f644079299f6cc0",
+  "translation": "A charming knight that loves to engage in drinking and advising people.",
+  "vndb_url": "https://vndb.org/c156808"
+}

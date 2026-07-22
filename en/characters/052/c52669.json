@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c52669",
+  "type": "character",
+  "name": "Manager Yonezawa",
+  "original_name": "米沢 マネージャー",
+  "language": "en",
+  "source_language": "en",
+  "source": "His main duty is to hand out cakes to apologize for the problems the group causes.\nHowever he does have legitimate business knowledge.",
+  "source_sha256": "9284d58cdd2ab08e78bf21398bdddde77c5964a76fcada5d315bb8b4d707b613",
+  "translation": "His main duty is to hand out cakes to apologize for the problems the group causes.\nHowever he does have legitimate business knowledge.",
+  "vndb_url": "https://vndb.org/c52669"
+}

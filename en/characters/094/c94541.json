@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94541",
+  "type": "character",
+  "name": "Leo Digator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A professor at the school.",
+  "source_sha256": "532f909e2752e778bcc7e878c76197452373dc7d541853f4190a0da2460e17fe",
+  "translation": "A professor at the school.",
+  "vndb_url": "https://vndb.org/c94541"
+}

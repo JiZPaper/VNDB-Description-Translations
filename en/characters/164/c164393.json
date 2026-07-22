@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c164393",
+  "type": "character",
+  "name": "Emily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She was [url=/c164392]Claire[/url]'s youngest daughter.",
+  "source_sha256": "65d80def08162957a72ce25371c9be6ab5bf3cf166f719f370ae6d20d2a61522",
+  "translation": "She was [url=/c164392]Claire[/url]'s youngest daughter.",
+  "vndb_url": "https://vndb.org/c164393"
+}

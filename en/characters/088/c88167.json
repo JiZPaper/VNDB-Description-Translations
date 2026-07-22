@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88167",
+  "type": "character",
+  "name": "William",
+  "original_name": "ウィリアム",
+  "language": "en",
+  "source_language": "en",
+  "source": "A young politician.\nHe's visiting Apislation on an inspection.\nHe's a moralist with many supporters, but there's something suspicious about him.",
+  "source_sha256": "c3d0c2d10f5104919142c85a9d422ee5dda43d738800ccaaae21885f796aa32b",
+  "translation": "A young politician.\nHe's visiting Apislation on an inspection.\nHe's a moralist with many supporters, but there's something suspicious about him.",
+  "vndb_url": "https://vndb.org/c88167"
+}

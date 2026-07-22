@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131140",
+  "type": "character",
+  "name": "Kazuya",
+  "original_name": "和也",
+  "language": "en",
+  "source_language": "en",
+  "source": "A jaded playboy whose days are gray and soul is empty.",
+  "source_sha256": "ab25357d1927fb380ce38318fdf3cea6579e3d7596be16abc7fadf84fd953b18",
+  "translation": "A jaded playboy whose days are gray and soul is empty.",
+  "vndb_url": "https://vndb.org/c131140"
+}

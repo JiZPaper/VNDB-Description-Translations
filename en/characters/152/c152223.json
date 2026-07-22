@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152223",
+  "type": "character",
+  "name": "Riley",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A love counselor.",
+  "source_sha256": "478a0a752fa44e214c1286ee922c4db606b12da50993eb72305b7144a211c79b",
+  "translation": "A love counselor.",
+  "vndb_url": "https://vndb.org/c152223"
+}

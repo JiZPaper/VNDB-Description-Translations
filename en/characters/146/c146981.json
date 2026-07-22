@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146981",
+  "type": "character",
+  "name": "Rachel Carter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A newscaster.",
+  "source_sha256": "c236da40d52ebc416703ea72b79a1115af55ac3292885592936828bb599f6ca2",
+  "translation": "A newscaster.",
+  "vndb_url": "https://vndb.org/c146981"
+}

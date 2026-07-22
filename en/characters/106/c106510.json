@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106510",
+  "type": "character",
+  "name": "Gulliver",
+  "original_name": "ガリバー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Doberman given to Madoka for a few weeks.",
+  "source_sha256": "9d821537836f07f1c21ac8a389d879f92ee5459de02ddd89b6a3bd75f055bad9",
+  "translation": "A Doberman given to Madoka for a few weeks.",
+  "vndb_url": "https://vndb.org/c106510"
+}

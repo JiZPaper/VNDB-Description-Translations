@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51295",
+  "type": "character",
+  "name": "Phil",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A salesman whose married.",
+  "source_sha256": "cd8f901bb92e593d29b03f72611d7e5458918470122be7f7a19c40daeb52f5ea",
+  "translation": "A salesman whose married.",
+  "vndb_url": "https://vndb.org/c51295"
+}

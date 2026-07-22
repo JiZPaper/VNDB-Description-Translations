@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43690",
+  "type": "visual_novel",
+  "name": "Let's Go Home",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a visual novel about meeting some ghosts. \n\n[From [url=https://beepsalt.itch.io/lets-go-home]Itch.io[/url]]",
+  "source_sha256": "b212248f743dead230299a86408afdb3c2f96decee9605298022a6274c51e732",
+  "translation": "This is a visual novel about meeting some ghosts. \n\n[From [url=https://beepsalt.itch.io/lets-go-home]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43690"
+}

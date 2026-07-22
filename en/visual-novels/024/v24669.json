@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24669",
+  "type": "visual_novel",
+  "name": "Celestia Saga",
+  "original_name": "セレスティア・サーガ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A digital novel inspired by and set in the world of I W*s Game's board game, V*rpals.\n\n[From [url=http://www.dlsite.com/eng/work/=/product_id/RE082163.html]DLsite English[/url]]",
+  "source_sha256": "982fb6a46d15ea0dd438a4316e316d473a006b37f0667f85a0df35eaa9a31fab",
+  "translation": "A digital novel inspired by and set in the world of I W*s Game's board game, V*rpals.\n\n[From [url=http://www.dlsite.com/eng/work/=/product_id/RE082163.html]DLsite English[/url]]",
+  "vndb_url": "https://vndb.org/v24669"
+}

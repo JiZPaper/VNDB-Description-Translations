@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29065",
+  "type": "character",
+  "name": "Bruno Veron",
+  "original_name": "ブルーノ・ヴェロン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Instrument: Cello",
+  "source_sha256": "a53479a66a579327ca56bfc6edc6c710ca27fc2c0abc32db8f206ce576cceeb4",
+  "translation": "Instrument: Cello",
+  "vndb_url": "https://vndb.org/c29065"
+}

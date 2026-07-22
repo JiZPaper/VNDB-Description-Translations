@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134185",
+  "type": "character",
+  "name": "Lois",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The secretary of the hero.",
+  "source_sha256": "9fd66badd8a08fa166acd7bb08170b74afb7ab0e66a07779d4347c07f3464e48",
+  "translation": "The secretary of the hero.",
+  "vndb_url": "https://vndb.org/c134185"
+}

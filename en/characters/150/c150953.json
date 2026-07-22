@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150953",
+  "type": "character",
+  "name": "Computer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Acevedo's computer who became corporeal.",
+  "source_sha256": "d5cf0e3823f05bc0aa830255a363aebe0c7477ebc12aee00e6901177afa297a0",
+  "translation": "Acevedo's computer who became corporeal.",
+  "vndb_url": "https://vndb.org/c150953"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141408",
+  "type": "character",
+  "name": "Beth",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Works at the B&R cafeteria.",
+  "source_sha256": "70547cb333f9b14b434ca74a6552cd5872e0d62f86b3731a6a4e96c03c894c64",
+  "translation": "Works at the B&R cafeteria.",
+  "vndb_url": "https://vndb.org/c141408"
+}

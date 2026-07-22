@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127219",
+  "type": "character",
+  "name": "Announcer",
+  "original_name": "アナウンサー",
+  "language": "en",
+  "source_language": "en",
+  "source": "An anchor on East German TV.",
+  "source_sha256": "0011c79bba195a8c1252b9d4e803d3278cb4fb180cb9ae69f5cb66a3914cb38d",
+  "translation": "An anchor on East German TV.",
+  "vndb_url": "https://vndb.org/c127219"
+}

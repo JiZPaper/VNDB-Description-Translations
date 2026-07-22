@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163826",
+  "type": "character",
+  "name": "Judge",
+  "original_name": "Судья",
+  "language": "en",
+  "source_language": "en",
+  "source": "Judge presides over the court proceedings, overseeing the case in which Constantine gives his testimony.",
+  "source_sha256": "3db344b86a191eaf6493906f74dfb9183200af3e5e093212fcccafb2443b6408",
+  "translation": "Judge presides over the court proceedings, overseeing the case in which Constantine gives his testimony.",
+  "vndb_url": "https://vndb.org/c163826"
+}

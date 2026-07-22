@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16745",
+  "type": "visual_novel",
+  "name": "Gunnamchin Gildeurigi",
+  "original_name": "군남친 길들이기",
+  "language": "en",
+  "source_language": "en",
+  "source": "Created for [url=http://globalgamejam.org/]Global Game Jam[/url] 2015.",
+  "source_sha256": "18d92e766bae4fc157e8d9a753b6756f963b12ce11c62252cca770a39084eb0b",
+  "translation": "Created for [url=http://globalgamejam.org/]Global Game Jam[/url] 2015.",
+  "vndb_url": "https://vndb.org/v16745"
+}

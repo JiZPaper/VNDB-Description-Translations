@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62975",
+  "type": "visual_novel",
+  "name": "The Goblin Girl I Met on the Farm",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The story is about a goblin girl running from the kingdom's guards. You decide whether to help her and, if you do, what price she must pay.",
+  "source_sha256": "a59ab86138b949f0b67b70583c3d13d96ab00a0a1d29e87303cca4886058d256",
+  "translation": "The story is about a goblin girl running from the kingdom's guards. You decide whether to help her and, if you do, what price she must pay.",
+  "vndb_url": "https://vndb.org/v62975"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123792",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "A highschool student who believes that she got transported to the Edo Period in a time slip.",
+  "source_sha256": "ccc537a98930fd7772863ec3f9f8cd270e62709be690d06abbc966d79523c3af",
+  "translation": "A highschool student who believes that she got transported to the Edo Period in a time slip.",
+  "vndb_url": "https://vndb.org/c123792"
+}

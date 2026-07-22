@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77631",
+  "type": "character",
+  "name": "Aitsura",
+  "original_name": "あいつら",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]The machines responsible for the death of human beings in the post-apocalyptic world.\n\nThey are pitiable to all those they hunt.[/spoiler]",
+  "source_sha256": "bb94600b11ca81195eb8a37925db7bb1674372127ca59d0278c3edb527b6f9b5",
+  "translation": "[spoiler]The machines responsible for the death of human beings in the post-apocalyptic world.\n\nThey are pitiable to all those they hunt.[/spoiler]",
+  "vndb_url": "https://vndb.org/c77631"
+}

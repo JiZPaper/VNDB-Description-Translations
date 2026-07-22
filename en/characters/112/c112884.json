@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112884",
+  "type": "character",
+  "name": "Claudius",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A customer at the bar, he has a large machine attached to him that he drags in with him.",
+  "source_sha256": "9fea99369fbc433a91943fdcd968ec9e0dbeeca3b1a48dc7fd3e4aeb86a8c77f",
+  "translation": "A customer at the bar, he has a large machine attached to him that he drags in with him.",
+  "vndb_url": "https://vndb.org/c112884"
+}

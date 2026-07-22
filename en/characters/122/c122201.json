@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122201",
+  "type": "character",
+  "name": "Mr. Yamamoto",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is holding a contest for the best A.I. programmers, and the hero is in it.",
+  "source_sha256": "63cfd8c96ea6b9568941e243a4e0186b8b2817e604d07ce026bfe50497336353",
+  "translation": "He is holding a contest for the best A.I. programmers, and the hero is in it.",
+  "vndb_url": "https://vndb.org/c122201"
+}

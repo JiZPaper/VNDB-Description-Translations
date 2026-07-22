@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30289",
+  "type": "character",
+  "name": "Elaine",
+  "original_name": "エレイン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A close friend of the protagonist's. They grew up together in the castle town.",
+  "source_sha256": "cbadfb41e4e0fd377e56eef53609b40c8607b25401b9541a79964698865713d4",
+  "translation": "A close friend of the protagonist's. They grew up together in the castle town.",
+  "vndb_url": "https://vndb.org/c30289"
+}

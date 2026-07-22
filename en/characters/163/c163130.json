@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163130",
+  "type": "character",
+  "name": "Emma Planck",
+  "original_name": "埃玛 · 普朗克",
+  "language": "en",
+  "source_language": "en",
+  "source": "The youngest physics professor at Princeton University, an important teacher figure for the people from the North American branch, but also the ambassador between the branch and the headquarters.",
+  "source_sha256": "fbf716f637e6ab8ac6ce7a642866cc62a7871e9c8ca28066b5c272bbc4f8797d",
+  "translation": "The youngest physics professor at Princeton University, an important teacher figure for the people from the North American branch, but also the ambassador between the branch and the headquarters.",
+  "vndb_url": "https://vndb.org/c163130"
+}

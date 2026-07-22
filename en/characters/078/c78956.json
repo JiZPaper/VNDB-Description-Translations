@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c78956",
+  "type": "character",
+  "name": "Max",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "New friend and classmate of the protagonist.",
+  "source_sha256": "48fe7bad4ad334f283bf14912aaadad9d464ed5b26a5d530abf661c9be5cf538",
+  "translation": "New friend and classmate of the protagonist.",
+  "vndb_url": "https://vndb.org/c78956"
+}

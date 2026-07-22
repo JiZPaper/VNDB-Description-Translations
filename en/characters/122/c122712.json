@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122712",
+  "type": "character",
+  "name": "Nightshade",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A colt lost in an alleyway.",
+  "source_sha256": "4ac3b76b504e485a28fc4604b537de0885b31720687b983c8772879a7d64d330",
+  "translation": "A colt lost in an alleyway.",
+  "vndb_url": "https://vndb.org/c122712"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162628",
+  "type": "character",
+  "name": "George Smith",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Father of [url=/c162609]Kaylee[/url]",
+  "source_sha256": "ed0a27d7d3615327f5c29f9182d681c682f3097b0abb35b3ddc8158956262880",
+  "translation": "Father of [url=/c162609]Kaylee[/url]",
+  "vndb_url": "https://vndb.org/c162628"
+}

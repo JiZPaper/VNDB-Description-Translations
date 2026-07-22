@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89856",
+  "type": "character",
+  "name": "Female Knight",
+  "original_name": "女騎士",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cubasto Tower 5th floor boss.",
+  "source_sha256": "6ce70e79ec5581f5ab2f2b277c0fc1069cc2ea569a97e75c55ac40166c5595b7",
+  "translation": "Cubasto Tower 5th floor boss.",
+  "vndb_url": "https://vndb.org/c89856"
+}

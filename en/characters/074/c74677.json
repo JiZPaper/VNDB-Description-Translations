@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c74677",
+  "type": "character",
+  "name": "Jack Stanley",
+  "original_name": "ジャック・スタンリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A security assistance officer from the U.S. Embassy. He joins [url=/c73541]Kano[/url] during his investigation of the kidnapping case.\n\n[spoiler]In actuality, Stanley is a CIA agent attempting to uncover and take down [url=/c74615]Alphard[/url] as revenge for his brother's death.[/spoiler]",
+  "source_sha256": "43cf2c1cee2c13e16fef06cb47ace4f49cab1b3bbb0d8f9a20c6175ccda2c30f",
+  "translation": "A security assistance officer from the U.S. Embassy. He joins [url=/c73541]Kano[/url] during his investigation of the kidnapping case.\n\n[spoiler]In actuality, Stanley is a CIA agent attempting to uncover and take down [url=/c74615]Alphard[/url] as revenge for his brother's death.[/spoiler]",
+  "vndb_url": "https://vndb.org/c74677"
+}

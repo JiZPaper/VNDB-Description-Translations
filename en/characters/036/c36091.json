@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36091",
+  "type": "character",
+  "name": "Vanessa Anburon",
+  "original_name": "ヴァネッサ・アンブローン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Elf \nOccupation: Wizard",
+  "source_sha256": "4513f3b94ca8a358bbd827e48fe285f9b8cf5c6a648eb21422c13f7b25c9bc5d",
+  "translation": "Race: Elf \nOccupation: Wizard",
+  "vndb_url": "https://vndb.org/c36091"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89168",
+  "type": "character",
+  "name": "Juri Sekino",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The ship's navigator.",
+  "source_sha256": "66400cc606d17404b5fb76eedbaee497875dae0861b0908c15760c263174795d",
+  "translation": "The ship's navigator.",
+  "vndb_url": "https://vndb.org/c89168"
+}

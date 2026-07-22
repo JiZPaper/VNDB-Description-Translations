@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124732",
+  "type": "character",
+  "name": "Klavi",
+  "original_name": "クラヴィ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A man from another world.",
+  "source_sha256": "d6792b57277f0e3b5667d8560b869b836d588bc700fcbfa222408b73ab552019",
+  "translation": "A man from another world.",
+  "vndb_url": "https://vndb.org/c124732"
+}

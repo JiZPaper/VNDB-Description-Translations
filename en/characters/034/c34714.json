@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34714",
+  "type": "character",
+  "name": "Jane Doe",
+  "original_name": "ジェーン・ドゥ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Jane Doe is a member of Doppeladdler.",
+  "source_sha256": "a8d41cfbc397fb7f1d06016c8aa7de082dbb69756177afdfce0e1a6f7ca8fff2",
+  "translation": "Jane Doe is a member of Doppeladdler.",
+  "vndb_url": "https://vndb.org/c34714"
+}

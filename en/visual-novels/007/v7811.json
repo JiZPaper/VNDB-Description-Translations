@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7811",
+  "type": "visual_novel",
+  "name": "Cazablancos",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "After a concert, Pichi tries to meet the singer.",
+  "source_sha256": "4a96a4a26da6cfee9e36bd679ec56c9bae9737b340dd54dc33954162dc90ebba",
+  "translation": "After a concert, Pichi tries to meet the singer.",
+  "vndb_url": "https://vndb.org/v7811"
+}

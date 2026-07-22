@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57589",
+  "type": "visual_novel",
+  "name": "Sedaja devushka",
+  "original_name": "Седая девушка",
+  "language": "en",
+  "source_language": "en",
+  "source": "A 1945 Chinese opera reimagined as a visual novel by Russian and Chinese students.",
+  "source_sha256": "37a017fa9d0211f5d44efc5e2a32ff79cf760fe3d1d31263ec7de6513609b93c",
+  "translation": "A 1945 Chinese opera reimagined as a visual novel by Russian and Chinese students.",
+  "vndb_url": "https://vndb.org/v57589"
+}

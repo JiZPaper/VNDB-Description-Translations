@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35711",
+  "type": "character",
+  "name": "Kuu",
+  "original_name": "クゥ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious pet cat that lives at the library.",
+  "source_sha256": "8db70fc3709b5b075c060a9b559756b1bbd7c047596b3432bdbb660eab89a91e",
+  "translation": "A mysterious pet cat that lives at the library.",
+  "vndb_url": "https://vndb.org/c35711"
+}

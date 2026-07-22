@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103178",
+  "type": "character",
+  "name": "Andrew Hower",
+  "original_name": "安德鲁·豪威尔",
+  "language": "en",
+  "source_language": "en",
+  "source": "The ex-leader of the local mafia \"Klover\", now locked in jail.",
+  "source_sha256": "ed787ba1609102418ce410fb72ee32665d0eb6b841156d9305c35a0d6c0047d6",
+  "translation": "The ex-leader of the local mafia \"Klover\", now locked in jail.",
+  "vndb_url": "https://vndb.org/c103178"
+}

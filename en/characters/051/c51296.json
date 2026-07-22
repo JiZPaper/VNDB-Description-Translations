@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51296",
+  "type": "character",
+  "name": "Unknown",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Trucker who just happens to stop by.",
+  "source_sha256": "bc40bb6e88a4a2a5af7c28cd699e95015167e9e72bbb1260db9f1d5ac0473b2d",
+  "translation": "Trucker who just happens to stop by.",
+  "vndb_url": "https://vndb.org/c51296"
+}

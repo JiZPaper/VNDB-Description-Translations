@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c6395",
+  "type": "character",
+  "name": "Treville",
+  "original_name": "トレヴィル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Star Sign: Gemini",
+  "source_sha256": "a25074b9596ed439c0762d41c3aae8cf35e4b99571bfffd31314898e938100e7",
+  "translation": "Star Sign: Gemini",
+  "vndb_url": "https://vndb.org/c6395"
+}

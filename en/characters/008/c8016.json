@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8016",
+  "type": "character",
+  "name": "Koyama Tomoko",
+  "original_name": "小山 智子",
+  "language": "en",
+  "source_language": "en",
+  "source": "Character type: Pharmacist.",
+  "source_sha256": "0950be157cceecfb35a88f19e1940fc65fb68ef6be991fd01cfb2209a4ad2064",
+  "translation": "Character type: Pharmacist.",
+  "vndb_url": "https://vndb.org/c8016"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c111571",
+  "type": "character",
+  "name": "POL",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A state-of-the-art artificial intelligence, installed on SHEEPIII. Its functions are to operate the submarine and communicate with passengers and personnel. Its voice cannot be classified as either female or male.\n\nIn order to communicate with it, there are speakers installed in each of the passengers' cabins on the roof, along with microphones near the doors and in red marks on the bedside. Besides the cabins, these devices are installed almost everywhere in the submarine. Also, Personell has special PDAs with a portable version of AI.\n\nIt is not particularly useful in emergency situations. [i]It knew nothing about the upcoming nightmare...[/i]",
+  "source_sha256": "1459ea9f7ba36a66eea841aa3fc1163248892049741934432952bbd30f3bcb0e",
+  "translation": "A state-of-the-art artificial intelligence, installed on SHEEPIII. Its functions are to operate the submarine and communicate with passengers and personnel. Its voice cannot be classified as either female or male.\n\nIn order to communicate with it, there are speakers installed in each of the passengers' cabins on the roof, along with microphones near the doors and in red marks on the bedside. Besides the cabins, these devices are installed almost everywhere in the submarine. Also, Personell has special PDAs with a portable version of AI.\n\nIt is not particularly useful in emergency situations. [i]It knew nothing about the upcoming nightmare...[/i]",
+  "vndb_url": "https://vndb.org/c111571"
+}

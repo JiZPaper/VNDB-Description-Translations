@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73325",
+  "type": "character",
+  "name": "You",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Stunt actor/body double",
+  "source_sha256": "7ea6c957abf5c8824d5c7d42b87cd2f2ce3f2f3cbe50b7e94179d585e85d7119",
+  "translation": "Stunt actor/body double",
+  "vndb_url": "https://vndb.org/c73325"
+}

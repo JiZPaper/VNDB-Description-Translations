@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24706",
+  "type": "visual_novel",
+  "name": "Dr. Rin ni Kiitemite! ~Koi no Happy Four Season~",
+  "original_name": "Dr.リンにきいてみて! 〜恋のハッピーフォーシーズン〜",
+  "language": "en",
+  "source_language": "en",
+  "source": "A dating sim where you get put in the shoes of Meirin and can go for four different boys.",
+  "source_sha256": "624655c024e386c1e3ace3bd89e694b6edc6b28dd3e8c58d770e8acd553d832a",
+  "translation": "A dating sim where you get put in the shoes of Meirin and can go for four different boys.",
+  "vndb_url": "https://vndb.org/v24706"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39799",
+  "type": "character",
+  "name": "Kurt",
+  "original_name": "クルト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious youth found in Rozelette Castle.\nA self proclaimed 'Treasure Hunter' who runs around the wilderness collecting strange medicinal plants.\nHe's very forgetful and no matter how many times he meets a person he has trouble remembering their face.\nIt seems he's an acquaintance of Klaus.",
+  "source_sha256": "b0767da552b894e5704eb7e5a165262892e80cbf14fe97bd32094c0141c30207",
+  "translation": "A mysterious youth found in Rozelette Castle.\nA self proclaimed 'Treasure Hunter' who runs around the wilderness collecting strange medicinal plants.\nHe's very forgetful and no matter how many times he meets a person he has trouble remembering their face.\nIt seems he's an acquaintance of Klaus.",
+  "vndb_url": "https://vndb.org/c39799"
+}

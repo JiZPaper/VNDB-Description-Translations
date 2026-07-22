@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100070",
+  "type": "character",
+  "name": "Mom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mother of protagonist.",
+  "source_sha256": "64cc68b4c4a933a20638ad9c539ef8f6113f883c8d699c0f22656e75a63f4a9f",
+  "translation": "Mother of protagonist.",
+  "vndb_url": "https://vndb.org/c100070"
+}

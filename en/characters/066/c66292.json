@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c66292",
+  "type": "character",
+  "name": "Anne",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"... I see living people...\"\n\nA ghost with a surfboard.",
+  "source_sha256": "17d0a9a6577e9bb32be6c8559c31828496c6da36136ee160cf07310cd4d805fe",
+  "translation": "\"... I see living people...\"\n\nA ghost with a surfboard.",
+  "vndb_url": "https://vndb.org/c66292"
+}

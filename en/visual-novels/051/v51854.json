@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51854",
+  "type": "visual_novel",
+  "name": "Wenzi Youxi",
+  "original_name": "文字遊戲",
+  "language": "en",
+  "source_language": "en",
+  "source": "Word game is literally a game of words. Player controls \"I\" to find clues between lines, delete words to change the meaning of sentences, or shift words to rewrite facts. “I” must be wise and brave enough complete the mission of words. May the best \"I” win!",
+  "source_sha256": "a4ef22d8f681c3789d6e93c481b2c7e4c1f415a0e8a61f592d20ead106033196",
+  "translation": "Word game is literally a game of words. Player controls \"I\" to find clues between lines, delete words to change the meaning of sentences, or shift words to rewrite facts. “I” must be wise and brave enough complete the mission of words. May the best \"I” win!",
+  "vndb_url": "https://vndb.org/v51854"
+}

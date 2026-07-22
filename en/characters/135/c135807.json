@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135807",
+  "type": "character",
+  "name": "Vanessa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Familiy doctor.\n\n[In game description]",
+  "source_sha256": "b99d17d1bc1d1c50635ebc02b97c36393e635203f81dfdec80627e1a69781645",
+  "translation": "Familiy doctor.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c135807"
+}

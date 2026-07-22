@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55721",
+  "type": "character",
+  "name": "Cat Maid",
+  "original_name": "ねこメイド",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the maids tending to the Overlords in the Great Overlord's castle. Very bright and jolly.\n\nSometimes a bit too jolly...",
+  "source_sha256": "3108ee3b2df77b136f944cd24dc2be1ec69204c271d176e729fbd1414e5eb567",
+  "translation": "One of the maids tending to the Overlords in the Great Overlord's castle. Very bright and jolly.\n\nSometimes a bit too jolly...",
+  "vndb_url": "https://vndb.org/c55721"
+}

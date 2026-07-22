@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136594",
+  "type": "character",
+  "name": "Valentim",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Yeah, I don't belong with the people here. I like it better in the club area. It matches my personality, I think.\"\n\nLikes: Music, Hanging out at night, Being alone\nDislike: Crowded places, Fighting",
+  "source_sha256": "d964cfaddb0779271701e653056141c277ecd54681b81cfd9e0486a67246cd13",
+  "translation": "\"Yeah, I don't belong with the people here. I like it better in the club area. It matches my personality, I think.\"\n\nLikes: Music, Hanging out at night, Being alone\nDislike: Crowded places, Fighting",
+  "vndb_url": "https://vndb.org/c136594"
+}

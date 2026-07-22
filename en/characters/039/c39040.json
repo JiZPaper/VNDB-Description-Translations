@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39040",
+  "type": "character",
+  "name": "Vladimir Mironov",
+  "original_name": "ウラジーミル・ミロノフ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Former Russian officer.",
+  "source_sha256": "7467c70ffc18f4a5612d7a57ab3b73bc44dc7034759b1b9e671c77e2cb3a5bf2",
+  "translation": "Former Russian officer.",
+  "vndb_url": "https://vndb.org/c39040"
+}

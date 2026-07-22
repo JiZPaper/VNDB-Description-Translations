@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c114972",
+  "type": "character",
+  "name": "Girl 1",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Takeo’s admirers.",
+  "source_sha256": "2b40af006547ce1942b831e634d126e9c105baf98ffe05fc0fc30edd51ddc36f",
+  "translation": "One of Takeo’s admirers.",
+  "vndb_url": "https://vndb.org/c114972"
+}

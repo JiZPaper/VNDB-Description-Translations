@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61745",
+  "type": "visual_novel",
+  "name": "Chronoromancer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A time traveler navigates three distinct eras—Medieval, Present, and Future—on a desperate mission to stop VOID, a rogue AI determined to erase existence itself. Actions ripple across timelines as your choices shape both your personal bonds and the fate of reality.",
+  "source_sha256": "ca6d1d00c1dd4dc4404d4de2096b24fe32171006e476351fd8fd7649cfc48090",
+  "translation": "A time traveler navigates three distinct eras—Medieval, Present, and Future—on a desperate mission to stop VOID, a rogue AI determined to erase existence itself. Actions ripple across timelines as your choices shape both your personal bonds and the fate of reality.",
+  "vndb_url": "https://vndb.org/v61745"
+}

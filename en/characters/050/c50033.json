@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c50033",
+  "type": "character",
+  "name": "Samuel Double",
+  "original_name": "サミュエル・ダブル",
+  "language": "en",
+  "source_language": "en",
+  "source": "An alcoholic swordsman.\nHe used to be a great warrior but now he just drinks the day away, pawning even his sword.",
+  "source_sha256": "a2822bd5baedd97d19173741d3de792ca608b6e22faf551a57f757ef8d9fa22a",
+  "translation": "An alcoholic swordsman.\nHe used to be a great warrior but now he just drinks the day away, pawning even his sword.",
+  "vndb_url": "https://vndb.org/c50033"
+}

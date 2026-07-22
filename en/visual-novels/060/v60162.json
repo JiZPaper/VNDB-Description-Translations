@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60162",
+  "type": "visual_novel",
+  "name": "The Hero's Gate",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is your first day at Hero's Gate Academy, where you embark on a journey to become a powerful mage alongside your friend, a fearless warrior. What adventures await?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "9c12e74dfec598240f9559105899a7766888a96adcc0534e16b1c40f6d4ae2c4",
+  "translation": "This is your first day at Hero's Gate Academy, where you embark on a journey to become a powerful mage alongside your friend, a fearless warrior. What adventures await?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "vndb_url": "https://vndb.org/v60162"
+}

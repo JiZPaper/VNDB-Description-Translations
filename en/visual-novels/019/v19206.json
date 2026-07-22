@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19206",
+  "type": "visual_novel",
+  "name": "Shioi",
+  "original_name": "四追　—しおい—",
+  "language": "en",
+  "source_language": "en",
+  "source": "A compilation of four different stories based on Japanese fables.\n\nThe Crying Red Oni (泣いた赤鬼)\nKachi Kachi Mountain (カチカチ山)\nThe Tale of the Bamboo Cutter (竹取物語)\nGon the Little Fox (ごんぎつね)",
+  "source_sha256": "e3b5db8c1a7cbb253c610128490f9e14765244bc3101ee108845d9d2edf9520f",
+  "translation": "A compilation of four different stories based on Japanese fables.\n\nThe Crying Red Oni (泣いた赤鬼)\nKachi Kachi Mountain (カチカチ山)\nThe Tale of the Bamboo Cutter (竹取物語)\nGon the Little Fox (ごんぎつね)",
+  "vndb_url": "https://vndb.org/v19206"
+}

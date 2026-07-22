@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17496",
+  "type": "visual_novel",
+  "name": "God's Gonna Cut Em Down",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short vignette game made for [url=http://ludumdare.com/compo/ludum-dare-32/?action=preview]Ludum Dare 32[/url] (Theme: An Unconventional Weapon). Contains references to sex work and smoking.",
+  "source_sha256": "cdb08decdb7b8f7777ec168e34f7331177257e8a7e63e2564e56ecb694d3a12d",
+  "translation": "A short vignette game made for [url=http://ludumdare.com/compo/ludum-dare-32/?action=preview]Ludum Dare 32[/url] (Theme: An Unconventional Weapon). Contains references to sex work and smoking.",
+  "vndb_url": "https://vndb.org/v17496"
+}

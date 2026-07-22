@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45731",
+  "type": "character",
+  "name": "Maika",
+  "original_name": "マイカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Rena's familiar.",
+  "source_sha256": "98a908642101458c3ab3e82be3e80621f34dad76e44a3d8d79134581667f0219",
+  "translation": "Rena's familiar.",
+  "vndb_url": "https://vndb.org/c45731"
+}

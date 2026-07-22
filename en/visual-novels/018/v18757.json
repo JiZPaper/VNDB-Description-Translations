@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18757",
+  "type": "visual_novel",
+  "name": "Tsukimi Planet",
+  "original_name": "つきみぷらねっと",
+  "language": "en",
+  "source_language": "en",
+  "source": "On his deathbed, Utarou meets a girl who came from the moon: Tsukimi.\nThis is the story of his final night.",
+  "source_sha256": "dcd05bc5e3e9bdf43fc055ea5d20fad97d3783d231783e6e12adf1dcd29311ff",
+  "translation": "On his deathbed, Utarou meets a girl who came from the moon: Tsukimi.\nThis is the story of his final night.",
+  "vndb_url": "https://vndb.org/v18757"
+}

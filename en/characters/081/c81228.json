@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81228",
+  "type": "character",
+  "name": "Player",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You - The one who you play as.",
+  "source_sha256": "a74781382c80d980d7b96637e0141e5edc82707bb85bc750b5ea9cc9f068a39c",
+  "translation": "You - The one who you play as.",
+  "vndb_url": "https://vndb.org/c81228"
+}

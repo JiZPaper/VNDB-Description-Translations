@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100762",
+  "type": "character",
+  "name": "Marc",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Alice's childhood friend. She has a crush on him.",
+  "source_sha256": "e6c3d2b2e43c1b26794141d2201248a9d041b7ce7489dc48d700d5a3f7f61cd2",
+  "translation": "Alice's childhood friend. She has a crush on him.",
+  "vndb_url": "https://vndb.org/c100762"
+}

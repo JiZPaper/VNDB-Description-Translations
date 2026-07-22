@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140988",
+  "type": "character",
+  "name": "Kylie Nelson",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The female choosable protagonist.",
+  "source_sha256": "ccfd7b7d71cbb417b28ab240a91dba59a270cbc8ea502736e5ea02d390afafbb",
+  "translation": "The female choosable protagonist.",
+  "vndb_url": "https://vndb.org/c140988"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11588",
+  "type": "character",
+  "name": "Mayor Mare",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The mayor of Ponyville.",
+  "source_sha256": "9b7b59ed22b9c287d46b63db82369276b318580a6376950b2f402754fb005c59",
+  "translation": "The mayor of Ponyville.",
+  "vndb_url": "https://vndb.org/c11588"
+}

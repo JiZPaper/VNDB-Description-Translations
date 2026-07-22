@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c57847",
+  "type": "character",
+  "name": "Serafina Straro",
+  "original_name": "セラフィーナ・ストラーロ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Dark elf warrior hired by Alex.",
+  "source_sha256": "a016f01c4d1d30a6bc60a26faada6b551e1cff05d5b24a7b308f9231da5ac24e",
+  "translation": "Dark elf warrior hired by Alex.",
+  "vndb_url": "https://vndb.org/c57847"
+}

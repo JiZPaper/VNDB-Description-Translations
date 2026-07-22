@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c27691",
+  "type": "character",
+  "name": "Taishin",
+  "original_name": "太星",
+  "language": "en",
+  "source_language": "en",
+  "source": "A merchant who sells strange items from a foreign country.\nA well spoken young man who is loved by everyone.",
+  "source_sha256": "ee78ca5b9814bce355effedd65be96554df31015b0dfc8c6921e68e6ad14cad8",
+  "translation": "A merchant who sells strange items from a foreign country.\nA well spoken young man who is loved by everyone.",
+  "vndb_url": "https://vndb.org/c27691"
+}

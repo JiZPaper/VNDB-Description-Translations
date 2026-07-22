@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c104740",
+  "type": "character",
+  "name": "Judith",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Daughter of [url=/c111307]Beth[/url].",
+  "source_sha256": "4c15695dac297dd78c6c6fb7e23412a78d17673d877bb66245ecd62bebb85299",
+  "translation": "Daughter of [url=/c111307]Beth[/url].",
+  "vndb_url": "https://vndb.org/c104740"
+}

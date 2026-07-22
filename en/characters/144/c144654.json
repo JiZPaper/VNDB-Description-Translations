@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c144654",
+  "type": "character",
+  "name": "Tyrineon",
+  "original_name": "티리네온",
+  "language": "en",
+  "source_language": "en",
+  "source": "A beautiful elf with a gentle and kind demeanor.\nBehind his ever-present smile, however, lies a sharp tongue that spares no one.",
+  "source_sha256": "470637c20110db289be5d21b2d1d946533968bb9fec7956b53c6daeeee662a36",
+  "translation": "A beautiful elf with a gentle and kind demeanor.\nBehind his ever-present smile, however, lies a sharp tongue that spares no one.",
+  "vndb_url": "https://vndb.org/c144654"
+}

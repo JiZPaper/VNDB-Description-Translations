@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c18189",
+  "type": "character",
+  "name": "Loreley",
+  "original_name": "ローレライ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The guide of \"Harvest On-Real\" game.",
+  "source_sha256": "6a5c4a256cc4862529e931b2aa50250361505ef99bb79372164524aee6f332dd",
+  "translation": "The guide of \"Harvest On-Real\" game.",
+  "vndb_url": "https://vndb.org/c18189"
+}

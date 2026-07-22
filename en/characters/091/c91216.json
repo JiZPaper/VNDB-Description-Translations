@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91216",
+  "type": "character",
+  "name": "Black Cat",
+  "original_name": "黒猫",
+  "language": "en",
+  "source_language": "en",
+  "source": "The black cat who appears randomly in front of Lilia.",
+  "source_sha256": "dd2653508f58f9480d74c7bd086620536f7971c683caee5593561e6607978bc0",
+  "translation": "The black cat who appears randomly in front of Lilia.",
+  "vndb_url": "https://vndb.org/c91216"
+}

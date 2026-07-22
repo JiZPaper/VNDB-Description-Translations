@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57201",
+  "type": "visual_novel",
+  "name": "Jane Doe the Incubator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as a woman who wakes up unable to move in a morgue.\n\n[From [url=https://mkg-creates.itch.io/jane-doe-the-incubator-demo]Itch.io[/url]]",
+  "source_sha256": "d9e5286852eb3ccad99b79901be5ae2a586acf945072784033c381d8eef7db16",
+  "translation": "You play as a woman who wakes up unable to move in a morgue.\n\n[From [url=https://mkg-creates.itch.io/jane-doe-the-incubator-demo]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v57201"
+}

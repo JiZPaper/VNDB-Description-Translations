@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17546",
+  "type": "visual_novel",
+  "name": "Wounded by Words",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Wounded by Words is the tale of six people who are trapped in the ruins of a shopping center after a terrorist attack. All they can do is wait for the rescue team to come. As the individuals are growing more and more desperate over time, you'll be able to grow closer to them and discover their stories.\n\nCreated for Ludum Dare 32 (theme: Unconventional Weapon).",
+  "source_sha256": "313f5e50cf1a85af210dafdb2cdfa6c50670472496117d8029de50a1a41a57de",
+  "translation": "Wounded by Words is the tale of six people who are trapped in the ruins of a shopping center after a terrorist attack. All they can do is wait for the rescue team to come. As the individuals are growing more and more desperate over time, you'll be able to grow closer to them and discover their stories.\n\nCreated for Ludum Dare 32 (theme: Unconventional Weapon).",
+  "vndb_url": "https://vndb.org/v17546"
+}

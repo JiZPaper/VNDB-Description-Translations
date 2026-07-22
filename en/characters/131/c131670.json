@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131670",
+  "type": "character",
+  "name": "Madame Nishida",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This lady expects nothing but perfection.",
+  "source_sha256": "f6563ff3bcc0611b1a2bd4cf06212683c3750996f6391fe1c905f1a992f5af85",
+  "translation": "This lady expects nothing but perfection.",
+  "vndb_url": "https://vndb.org/c131670"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55712",
+  "type": "character",
+  "name": "Nurse",
+  "original_name": "ナース",
+  "language": "en",
+  "source_language": "en",
+  "source": "The nurse who accompanies the doctor as support.\n\nBeneath her looks is a rough personality that can't seem to ever insert a needle properly - though that might be on purpose.",
+  "source_sha256": "0a0502d0ccadf8a86695ea519da5aa966048316f0f53a1180cec157642903da7",
+  "translation": "The nurse who accompanies the doctor as support.\n\nBeneath her looks is a rough personality that can't seem to ever insert a needle properly - though that might be on purpose.",
+  "vndb_url": "https://vndb.org/c55712"
+}

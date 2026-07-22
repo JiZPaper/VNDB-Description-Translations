@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c24569",
+  "type": "character",
+  "name": "Noui",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He knows more about the events than anyone in the story.",
+  "source_sha256": "26bd90402b0bcf6cdb001540f4da0d3cc71be24d13fd8dbc76f03e41a9a96bf7",
+  "translation": "He knows more about the events than anyone in the story.",
+  "vndb_url": "https://vndb.org/c24569"
+}

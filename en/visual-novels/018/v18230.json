@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18230",
+  "type": "visual_novel",
+  "name": "Valentine Kiss: Birthdays 2",
+  "original_name": "バレンタインキッス ～バースデイズ２～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Valentine Kiss is a dating simulation game, very similar to Birthdays, only instead of \"conquering\" a girl as a birthday present, the goal here is to \"score\" on Valentine's Day\n\n[From [url=http://www.mobygames.com/game/valentine-kiss]Mobygames[/url]]",
+  "source_sha256": "35fa24b3c994e2dce6a9bbc6d0c150e98f0219a1952e4bc58c83008638447829",
+  "translation": "Valentine Kiss is a dating simulation game, very similar to Birthdays, only instead of \"conquering\" a girl as a birthday present, the goal here is to \"score\" on Valentine's Day\n\n[From [url=http://www.mobygames.com/game/valentine-kiss]Mobygames[/url]]",
+  "vndb_url": "https://vndb.org/v18230"
+}

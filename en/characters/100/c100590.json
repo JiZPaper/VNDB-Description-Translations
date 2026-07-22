@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100590",
+  "type": "character",
+  "name": "Medusa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An extraterrestrial creature called Xenokraken who is locked in a research spaceship for examination and study.",
+  "source_sha256": "0f3aba6763be2c620bf2940f27e7faea655e0e9b346bf3578b369bb5b2781112",
+  "translation": "An extraterrestrial creature called Xenokraken who is locked in a research spaceship for examination and study.",
+  "vndb_url": "https://vndb.org/c100590"
+}

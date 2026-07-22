@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c6687",
+  "type": "character",
+  "name": "Lamille",
+  "original_name": "ラミーユ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The second secret character of Blue Breaker. She will only join you after a \nhappy ending with Wise. She is the Golem Master. She will send numerous Golems to fight \nagainst you before she joins you in your quest.",
+  "source_sha256": "305011b77568464154d873232dd2878cca6cbb26f7d0b909214d5e7afd7f35f6",
+  "translation": "The second secret character of Blue Breaker. She will only join you after a \nhappy ending with Wise. She is the Golem Master. She will send numerous Golems to fight \nagainst you before she joins you in your quest.",
+  "vndb_url": "https://vndb.org/c6687"
+}

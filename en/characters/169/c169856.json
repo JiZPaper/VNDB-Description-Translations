@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169856",
+  "type": "character",
+  "name": "Professor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A college professor.",
+  "source_sha256": "ddaca551051139715d3b7b67d25b3f2e3053d71218a33a5fc1876cc405154910",
+  "translation": "A college professor.",
+  "vndb_url": "https://vndb.org/c169856"
+}

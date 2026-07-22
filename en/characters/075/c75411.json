@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75411",
+  "type": "character",
+  "name": "Valentine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dirty old man who runs a clothing store.",
+  "source_sha256": "060e98743f422831bb0105d2f21c39b0622bc6682ce9a5814e7d0b5b46abad5e",
+  "translation": "A dirty old man who runs a clothing store.",
+  "vndb_url": "https://vndb.org/c75411"
+}

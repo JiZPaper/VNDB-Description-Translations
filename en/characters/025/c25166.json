@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25166",
+  "type": "character",
+  "name": "Zoe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ian's on-again, off-again girlfriend.",
+  "source_sha256": "555641bef26971675f0ef12319a8e2a70c5fba42169e26d5c52f5fc2c9fc4e6c",
+  "translation": "Ian's on-again, off-again girlfriend.",
+  "vndb_url": "https://vndb.org/c25166"
+}

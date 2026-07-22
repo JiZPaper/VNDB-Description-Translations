@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39031",
+  "type": "character",
+  "name": "Pon-chan",
+  "original_name": "ポンちゃん",
+  "language": "en",
+  "source_language": "en",
+  "source": "A kid who lives in a tent in the park.\nHe claims to be a legendary hero.",
+  "source_sha256": "c0f8fdf00a199c56738b5a12e1871c2a8805604905c751efa479a7c54bd7221a",
+  "translation": "A kid who lives in a tent in the park.\nHe claims to be a legendary hero.",
+  "vndb_url": "https://vndb.org/c39031"
+}

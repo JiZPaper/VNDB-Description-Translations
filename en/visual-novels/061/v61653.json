@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61653",
+  "type": "visual_novel",
+  "name": "I want to go for a walk",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I like going for walks. \n\nI use them to sort through my thoughts, to try to make sense of them, but lately that hasn't seemed to help as much.\"",
+  "source_sha256": "819afc2dcdd5551c959687ec8d59ab5513124df2c1abd269f283f3241e886fab",
+  "translation": "\"I like going for walks. \n\nI use them to sort through my thoughts, to try to make sense of them, but lately that hasn't seemed to help as much.\"",
+  "vndb_url": "https://vndb.org/v61653"
+}

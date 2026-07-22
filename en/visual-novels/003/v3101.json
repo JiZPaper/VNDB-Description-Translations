@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3101",
+  "type": "visual_novel",
+  "name": "Megane no Mei to Natsuyasumi",
+  "original_name": "眼鏡のメイと夏休み",
+  "language": "en",
+  "source_language": "en",
+  "source": "A story of certain working man about one day of Summer Holiday with his cousin, \"glasses girl\" Mei.",
+  "source_sha256": "3688a1bd13a48fd62aacbbdea4836721c2672c6eedc7ea9a3730cbc82c56cb2e",
+  "translation": "A story of certain working man about one day of Summer Holiday with his cousin, \"glasses girl\" Mei.",
+  "vndb_url": "https://vndb.org/v3101"
+}

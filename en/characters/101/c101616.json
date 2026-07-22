@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101616",
+  "type": "character",
+  "name": "The Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "Has no idea who they are due to total amnesia. Somewhat unreliable.\n\n[From [url=https://store.steampowered.com/app/1630450/]Steam[/url]]",
+  "source_sha256": "c96d090284523a8d91894f9abb7e7b22234839ad8b60973b13471ce384989d9e",
+  "translation": "Has no idea who they are due to total amnesia. Somewhat unreliable.\n\n[From [url=https://store.steampowered.com/app/1630450/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/c101616"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89593",
+  "type": "character",
+  "name": "PedroTheSlayer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Z-targettable bully victim",
+  "source_sha256": "6e1e6e0f59e4fd61008df48350def6e23e025d94b0707346a793094045e15ed8",
+  "translation": "Z-targettable bully victim",
+  "vndb_url": "https://vndb.org/c89593"
+}

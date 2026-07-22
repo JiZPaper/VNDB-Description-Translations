@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60706",
+  "type": "character",
+  "name": "Greyhide",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Greyhide is a minotaur, a capable fighter and the blacksmith of Castle Bloodmeen.",
+  "source_sha256": "38b9a9b8fac3d3a83034de1c2c24417ed4d26fe61c66ade58882547de057d52a",
+  "translation": "Greyhide is a minotaur, a capable fighter and the blacksmith of Castle Bloodmeen.",
+  "vndb_url": "https://vndb.org/c60706"
+}

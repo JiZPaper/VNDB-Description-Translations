@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86221",
+  "type": "character",
+  "name": "Mother",
+  "original_name": "お母さん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mitsuki, Masaru, and Takashi's Mother.",
+  "source_sha256": "2f345ed1c55c33b0533b15a9370a8a56a8fe523c55104fc5d27d586860fb1458",
+  "translation": "Mitsuki, Masaru, and Takashi's Mother.",
+  "vndb_url": "https://vndb.org/c86221"
+}

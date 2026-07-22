@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99791",
+  "type": "character",
+  "name": "George",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "George is a laid-back detective who seems to know a lot about the contest. He wears a very strong perfume.",
+  "source_sha256": "23f70f75227c4a792c936c5e866a3f37a2cf461e534b30d9a611931cc0358470",
+  "translation": "George is a laid-back detective who seems to know a lot about the contest. He wears a very strong perfume.",
+  "vndb_url": "https://vndb.org/c99791"
+}

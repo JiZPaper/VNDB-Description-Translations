@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166256",
+  "type": "character",
+  "name": "You",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The main protagonists of the game.",
+  "source_sha256": "7a2fc15d0583137b10011eca7a9c2555bc9a4fbf21088e55d7335e4307219dd7",
+  "translation": "The main protagonists of the game.",
+  "vndb_url": "https://vndb.org/c166256"
+}

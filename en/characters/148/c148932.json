@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148932",
+  "type": "character",
+  "name": "Nora",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Martin's mother.",
+  "source_sha256": "e44845edc266def89ee1bcebf52be56f174ee41dadd154708a4640a0026aece9",
+  "translation": "Martin's mother.",
+  "vndb_url": "https://vndb.org/c148932"
+}

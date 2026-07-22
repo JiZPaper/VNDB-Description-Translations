@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93648",
+  "type": "character",
+  "name": "Hortensia Whitehouse",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A teacher at Mia's school.",
+  "source_sha256": "f31b6778aa5b255e13ce6264e895ee4c9ec35685d53595f37a9a4bd61bdc2e7b",
+  "translation": "A teacher at Mia's school.",
+  "vndb_url": "https://vndb.org/c93648"
+}

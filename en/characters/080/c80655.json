@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c80655",
+  "type": "character",
+  "name": "Moriko",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of the Mori no Yuri flower shop.",
+  "source_sha256": "96c8c06773c686c2fc5357cd8542eac5934d922cb46da1f77bfd1c2e6c7c829c",
+  "translation": "Owner of the Mori no Yuri flower shop.",
+  "vndb_url": "https://vndb.org/c80655"
+}

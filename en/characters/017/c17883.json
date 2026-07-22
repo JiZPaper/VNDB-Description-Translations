@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17883",
+  "type": "character",
+  "name": "Suny",
+  "original_name": "サニー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Half Taiwanese, half Japanese.",
+  "source_sha256": "e12f679315b87789f1111c7504aec0a2a8ad2c685aae11aeadfe0812bff4cc3d",
+  "translation": "Half Taiwanese, half Japanese.",
+  "vndb_url": "https://vndb.org/c17883"
+}

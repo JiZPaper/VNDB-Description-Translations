@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77652",
+  "type": "character",
+  "name": "Nina Bosthom",
+  "original_name": "ニーナ・ボストホーム",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hobbies: Fighting with [url=/c77651]Samantha[/url]\nLikes: Studying magic spells\nDislikes: The \"evil witch\" Samantha",
+  "source_sha256": "6e12a88e893003226e80cb484bcdac91db09bd9c73069358f70fa311a3c1463e",
+  "translation": "Hobbies: Fighting with [url=/c77651]Samantha[/url]\nLikes: Studying magic spells\nDislikes: The \"evil witch\" Samantha",
+  "vndb_url": "https://vndb.org/c77652"
+}

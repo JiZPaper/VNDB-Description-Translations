@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53534",
+  "type": "character",
+  "name": "Doctor",
+  "original_name": "Доктор",
+  "language": "en",
+  "source_language": "en",
+  "source": "Doctor of somnology",
+  "source_sha256": "f379561f176d906f296d8dbbc31cfa2a3107136756bafad149d98796329595b6",
+  "translation": "Doctor of somnology",
+  "vndb_url": "https://vndb.org/c53534"
+}

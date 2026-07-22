@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30502",
+  "type": "visual_novel",
+  "name": "Surprise 5-fun Mae",
+  "original_name": "サプライズ5分前",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist wants to surprise his girlfriend because it's the first anniversary of their relationship.",
+  "source_sha256": "e88226267ef6bd1be6e05433f8189d697a88438ee9b1f405ea64e94911c7884c",
+  "translation": "The protagonist wants to surprise his girlfriend because it's the first anniversary of their relationship.",
+  "vndb_url": "https://vndb.org/v30502"
+}

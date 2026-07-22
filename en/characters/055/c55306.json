@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55306",
+  "type": "character",
+  "name": "Shima",
+  "original_name": "死魔",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious person who skulks around the underworld.\nHe invites living things to death but he doesn't seem to have a clear purpose or motivation.\nIt seems he's affected by disturbances in the underworld.",
+  "source_sha256": "e2db25f3eddac9bdd74f668187d495d252952cd379f4d5dc9aa05acf0016829d",
+  "translation": "A mysterious person who skulks around the underworld.\nHe invites living things to death but he doesn't seem to have a clear purpose or motivation.\nIt seems he's affected by disturbances in the underworld.",
+  "vndb_url": "https://vndb.org/c55306"
+}

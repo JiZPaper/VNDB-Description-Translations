@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15577",
+  "type": "character",
+  "name": "Mother Morte",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Necromancer.",
+  "source_sha256": "b01d9cff456cd7412f73ec596d676c3e7d435edd018204d2cc2b16c80a2c9668",
+  "translation": "Necromancer.",
+  "vndb_url": "https://vndb.org/c15577"
+}

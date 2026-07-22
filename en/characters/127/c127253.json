@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127253",
+  "type": "character",
+  "name": "Alex Bagette",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A star game producer and CEO of Alexis Studio.",
+  "source_sha256": "adc2556a277510951c6ba3148eb58e63b69601d118923c92c85f654d91a41641",
+  "translation": "A star game producer and CEO of Alexis Studio.",
+  "vndb_url": "https://vndb.org/c127253"
+}

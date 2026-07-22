@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c109469",
+  "type": "character",
+  "name": "Fiona Anderson",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A news anchor.",
+  "source_sha256": "060b112ad246d06f6c15be168716c7eca9c128ee918a5e97f8295ed2eb9e5aba",
+  "translation": "A news anchor.",
+  "vndb_url": "https://vndb.org/c109469"
+}

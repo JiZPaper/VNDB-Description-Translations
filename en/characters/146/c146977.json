@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146977",
+  "type": "character",
+  "name": "Jane",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A former associate of Henry, she owns a genetics company.",
+  "source_sha256": "5cf7cf893e489afe1a8bcaf3350968882596241f0de0bc1a41568e81d71f843e",
+  "translation": "A former associate of Henry, she owns a genetics company.",
+  "vndb_url": "https://vndb.org/c146977"
+}

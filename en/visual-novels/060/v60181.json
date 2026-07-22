@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60181",
+  "type": "visual_novel",
+  "name": "The Boy in the Lighthouse",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "There's a rumor that the lighthouse is haunted, so when Monica goes to check it out, she finds something unexpected.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "73328fcaf7445e1244feaaa1cfcfdd20b0289c7fd5f441ec501d332259bff60b",
+  "translation": "There's a rumor that the lighthouse is haunted, so when Monica goes to check it out, she finds something unexpected.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "vndb_url": "https://vndb.org/v60181"
+}

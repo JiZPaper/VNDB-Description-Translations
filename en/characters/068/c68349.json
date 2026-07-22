@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c68349",
+  "type": "character",
+  "name": "Yumiko",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bartender at Grunge Soul.",
+  "source_sha256": "e70043636d6b627a8e9d672ca79a00f37585803c7e4f45e6f57824dd9aa2f60b",
+  "translation": "A bartender at Grunge Soul.",
+  "vndb_url": "https://vndb.org/c68349"
+}

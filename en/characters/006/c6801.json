@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c6801",
+  "type": "character",
+  "name": "Maaru",
+  "original_name": "マール",
+  "language": "en",
+  "source_language": "en",
+  "source": "A ninja from the savannas of Africa whose weapon is a giant boomerang.",
+  "source_sha256": "e187fd4df307fa87e0f029f03ab3d7e4a73e9b0f34caf3f3a3b788f6c9041e9b",
+  "translation": "A ninja from the savannas of Africa whose weapon is a giant boomerang.",
+  "vndb_url": "https://vndb.org/c6801"
+}

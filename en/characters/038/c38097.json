@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38097",
+  "type": "character",
+  "name": "Kuze Daichi",
+  "original_name": "久世 大地",
+  "language": "en",
+  "source_language": "en",
+  "source": "Weapon: Sword\nAttribute: Wood",
+  "source_sha256": "92c3e20f328da3de16cf03fa3d43333fc39a4b08103ff8d9466fa194d116205a",
+  "translation": "Weapon: Sword\nAttribute: Wood",
+  "vndb_url": "https://vndb.org/c38097"
+}

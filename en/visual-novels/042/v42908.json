@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42908",
+  "type": "visual_novel",
+  "name": "NieR:Cogito",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "NieR:Cogito is the fan game of NieR series, was created for the competition (NieR:Re[in]carnation Content Creator competition)",
+  "source_sha256": "3b13fb8da06c2524a113776e3af218999e8a64263cfe1f58ffffbbb15a79cebc",
+  "translation": "NieR:Cogito is the fan game of NieR series, was created for the competition (NieR:Re[in]carnation Content Creator competition)",
+  "vndb_url": "https://vndb.org/v42908"
+}

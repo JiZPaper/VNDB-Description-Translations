@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100117",
+  "type": "character",
+  "name": "???",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A little bird who likes to sing and dance.",
+  "source_sha256": "f219393571168aad581fecb3ba2d8db784b9454ed1c3bc1976211aaf5926f5b0",
+  "translation": "A little bird who likes to sing and dance.",
+  "vndb_url": "https://vndb.org/c100117"
+}

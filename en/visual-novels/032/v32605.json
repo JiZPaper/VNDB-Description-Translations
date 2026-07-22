@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32605",
+  "type": "visual_novel",
+  "name": "Hi Jitsuzai Toshi Densetsu no Sakuhou - Imaginary Fakelore",
+  "original_name": "非実在都市伝説の作法 Imaginary Fakelore",
+  "language": "en",
+  "source_language": "en",
+  "source": "A rookie reporter for an occult magazine and their editor investigate rumors of \"multiplying back alleys\" in the Tokyo suburbs.",
+  "source_sha256": "457011d0232110cf7ff5c17e6c48c09f83a74b783128ebfeeb17c9ba4a6cb28b",
+  "translation": "A rookie reporter for an occult magazine and their editor investigate rumors of \"multiplying back alleys\" in the Tokyo suburbs.",
+  "vndb_url": "https://vndb.org/v32605"
+}

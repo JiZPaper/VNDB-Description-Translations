@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105953",
+  "type": "character",
+  "name": "Lucas",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I don't know what you want me to say, man...\"\n\nLikes: Sad music, basketball\nDislikes: Swimming, dealing with strangers",
+  "source_sha256": "afb7dc0d4473bacbbd0363371b4a2117336f4486d193f0aa3bbf49aca06d6539",
+  "translation": "\"I don't know what you want me to say, man...\"\n\nLikes: Sad music, basketball\nDislikes: Swimming, dealing with strangers",
+  "vndb_url": "https://vndb.org/c105953"
+}

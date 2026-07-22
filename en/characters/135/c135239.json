@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135239",
+  "type": "character",
+  "name": "Marie Antoinette",
+  "original_name": "マリー・アントワネット",
+  "language": "en",
+  "source_language": "en",
+  "source": "A main character in the event \"Play Aloud Requiem\".",
+  "source_sha256": "78f442e454bf55629ce4a4f51c62526e4e0b95b23a9de891aeea073ad0ed91c7",
+  "translation": "A main character in the event \"Play Aloud Requiem\".",
+  "vndb_url": "https://vndb.org/c135239"
+}

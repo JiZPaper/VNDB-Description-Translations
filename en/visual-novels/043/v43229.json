@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43229",
+  "type": "visual_novel",
+  "name": "Renjian Dianli",
+  "original_name": "人间典礼",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short horror story game made by a newcomer, with three endings in total.",
+  "source_sha256": "feb170878c8296bc26ce63984ed1513df9a1ebee540cb0185ec827fc0cd4211b",
+  "translation": "A short horror story game made by a newcomer, with three endings in total.",
+  "vndb_url": "https://vndb.org/v43229"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c138978",
+  "type": "character",
+  "name": "Toono",
+  "original_name": "トーノ",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the tour participants.",
+  "source_sha256": "b924ac6af4852b865233786f55ea5fd0c8583178dc363f0b45e73e18edacd0ca",
+  "translation": "One of the tour participants.",
+  "vndb_url": "https://vndb.org/c138978"
+}

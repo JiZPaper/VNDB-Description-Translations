@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96145",
+  "type": "character",
+  "name": "Bernhard",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Hunter Mina's animal companion.",
+  "source_sha256": "0563f814677bcd059cefb6f1ed688225e0cc167487058adccd1549f6bb8bb164",
+  "translation": "Hunter Mina's animal companion.",
+  "vndb_url": "https://vndb.org/c96145"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88386",
+  "type": "character",
+  "name": "Gilles",
+  "original_name": "ジル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A soldier in the French army.\nHe doesn't have a soldiers firmness, he's rather frank and is good with people.\nHe's polite when he's working but he speaks rougher when he's off duty.",
+  "source_sha256": "4642d3fc3759793f7a5e3a0ece017ef9cb10baebe8b596803625a651a12012cd",
+  "translation": "A soldier in the French army.\nHe doesn't have a soldiers firmness, he's rather frank and is good with people.\nHe's polite when he's working but he speaks rougher when he's off duty.",
+  "vndb_url": "https://vndb.org/c88386"
+}

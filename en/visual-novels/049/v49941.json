@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49941",
+  "type": "visual_novel",
+  "name": "Kaerazu no Mori",
+  "original_name": "歸らずの森",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sound novel game for PS2 in which the player explores a haunted mansion. Features timed choices.",
+  "source_sha256": "af0815634b34211522312b840a3b5ba8d84060c2407da6e156f8f8c80aed0219",
+  "translation": "Sound novel game for PS2 in which the player explores a haunted mansion. Features timed choices.",
+  "vndb_url": "https://vndb.org/v49941"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170374",
+  "type": "character",
+  "name": "Father",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The player character.",
+  "source_sha256": "1b8845b89f1b45928f630d691a3dde6a1383873cc50d89f9b65060c32f83d7d0",
+  "translation": "The player character.",
+  "vndb_url": "https://vndb.org/c170374"
+}

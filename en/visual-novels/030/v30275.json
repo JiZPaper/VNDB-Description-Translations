@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30275",
+  "type": "visual_novel",
+  "name": "Yidi Lian",
+  "original_name": "异地恋",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mostly-text-based game about remote relationships, told in the format of chat programs. Special memories are made during the time of high school and college, but what will you choose for your future?",
+  "source_sha256": "d6fd841d6b6b95c0df4284932cdb17dd0d5aa090024dbf86fcd8d53f5f1a0d82",
+  "translation": "A mostly-text-based game about remote relationships, told in the format of chat programs. Special memories are made during the time of high school and college, but what will you choose for your future?",
+  "vndb_url": "https://vndb.org/v30275"
+}

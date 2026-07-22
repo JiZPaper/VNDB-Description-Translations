@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71016",
+  "type": "character",
+  "name": "Corio Plot",
+  "original_name": "コリオ＝プロット",
+  "language": "en",
+  "source_language": "en",
+  "source": "Right-handed\nHobby: None\nLoves: Peach juice\nHates: Milk\nFavorite Color: Yellow",
+  "source_sha256": "e38ec7baf8172da117e9209ca5bb07edfb29f556979116487887bef3f3426c90",
+  "translation": "Right-handed\nHobby: None\nLoves: Peach juice\nHates: Milk\nFavorite Color: Yellow",
+  "vndb_url": "https://vndb.org/c71016"
+}

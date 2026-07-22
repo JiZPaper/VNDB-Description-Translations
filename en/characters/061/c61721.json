@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61721",
+  "type": "character",
+  "name": "Doctor Frust",
+  "original_name": "ドクターフラスト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A monster created by Dr. Arc.\nHe threatens people with his aggressive treatments.\n\n[Translated from the [url=https://www.alicesoft.com/escalayer/echara.html]official site[/url]]",
+  "source_sha256": "036c9a91047e41add1fd260f878b0efa38b5e862de5a3ade5ab135a9fa1a8ed3",
+  "translation": "A monster created by Dr. Arc.\nHe threatens people with his aggressive treatments.\n\n[Translated from the [url=https://www.alicesoft.com/escalayer/echara.html]official site[/url]]",
+  "vndb_url": "https://vndb.org/c61721"
+}

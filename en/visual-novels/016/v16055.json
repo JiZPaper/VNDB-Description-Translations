@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16055",
+  "type": "visual_novel",
+  "name": "Ivy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ivy is a famous singer, but she has a secret... Her fame comes from a supernatural cause...",
+  "source_sha256": "9afc7600b1287e12f1d6369c23eabf37ed2efb532986f35fe7df4b1dba452773",
+  "translation": "Ivy is a famous singer, but she has a secret... Her fame comes from a supernatural cause...",
+  "vndb_url": "https://vndb.org/v16055"
+}

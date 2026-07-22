@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38767",
+  "type": "character",
+  "name": "Tezuka Kyousuke",
+  "original_name": "手塚 京輔",
+  "language": "en",
+  "source_language": "en",
+  "source": "A university student who works part time at a bookstore.\nHe's studying folklore and ancient legends.\nHis hobby is ghost stories.",
+  "source_sha256": "d53a34dd26af30ac3649e76261b28a24e77eef63a4673ef1c70e4a035bbfa6e7",
+  "translation": "A university student who works part time at a bookstore.\nHe's studying folklore and ancient legends.\nHis hobby is ghost stories.",
+  "vndb_url": "https://vndb.org/c38767"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35340",
+  "type": "visual_novel",
+  "name": "Clair de Rune",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A point-and-click puzzle game where you attempt to decipher ancient poems to uncover the right sequences of runes, all with the goal of learning a spell to cure your little brother's illness.\n\n[From [url=https://single-cell-studios.itch.io/clair-de-rune]Itch.io[/url]]",
+  "source_sha256": "d327b5d16c584d45f57c6c9f39f7c8ff648ea857d8a42bce4ad722fcadd92c87",
+  "translation": "A point-and-click puzzle game where you attempt to decipher ancient poems to uncover the right sequences of runes, all with the goal of learning a spell to cure your little brother's illness.\n\n[From [url=https://single-cell-studios.itch.io/clair-de-rune]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v35340"
+}

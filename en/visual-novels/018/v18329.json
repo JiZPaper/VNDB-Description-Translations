@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18329",
+  "type": "visual_novel",
+  "name": "Mu-insegye",
+  "original_name": "무인세계",
+  "language": "en",
+  "source_language": "en",
+  "source": "One day, suddenly the protagonist falls into an uninhabited world. There is no one except him.\n\nCan he manage to escape from the strange world?",
+  "source_sha256": "c91deb7cb241fe509c3d2b7419af2a07ca80d9f16d6c49b8b283c3ffe2e0d5eb",
+  "translation": "One day, suddenly the protagonist falls into an uninhabited world. There is no one except him.\n\nCan he manage to escape from the strange world?",
+  "vndb_url": "https://vndb.org/v18329"
+}

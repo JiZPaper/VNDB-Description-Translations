@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20046",
+  "type": "character",
+  "name": "Nameless",
+  "original_name": "ネイムレス",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler] This robot is actually controlled by somene named himself \"Apollon\".[/spoiler]",
+  "source_sha256": "531cffa0cec46ecda379ec97baaa46a0a07295a5bb96d63fcafc54f45af89c16",
+  "translation": "[spoiler] This robot is actually controlled by somene named himself \"Apollon\".[/spoiler]",
+  "vndb_url": "https://vndb.org/c20046"
+}

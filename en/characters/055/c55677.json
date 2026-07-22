@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55677",
+  "type": "character",
+  "name": "Cerberus",
+  "original_name": "ケルベロス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hellhound. Elma's pet. The feared watchdog guarding the Great Overlord's castle.",
+  "source_sha256": "95d5837fc90a7bf5262a37385d449f73fb597c52a42cf952b99fdd18bdae7b58",
+  "translation": "Hellhound. Elma's pet. The feared watchdog guarding the Great Overlord's castle.",
+  "vndb_url": "https://vndb.org/c55677"
+}

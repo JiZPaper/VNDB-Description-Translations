@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120020",
+  "type": "character",
+  "name": "Shingo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He's studying for the bar exam, but also willingly helps in the investigation.",
+  "source_sha256": "38be699ffbb689f662a3c61063ff651f3334fb1f319cd857d04358c2880c7b09",
+  "translation": "He's studying for the bar exam, but also willingly helps in the investigation.",
+  "vndb_url": "https://vndb.org/c120020"
+}

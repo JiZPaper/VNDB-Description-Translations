@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44078",
+  "type": "character",
+  "name": "Guard 1",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "First of the security guards who arrest Yuri.",
+  "source_sha256": "ba1b0924c13fa1f1032fe5e1d1830434fb17c018337aa07f7055cd5cbad74c19",
+  "translation": "First of the security guards who arrest Yuri.",
+  "vndb_url": "https://vndb.org/c44078"
+}

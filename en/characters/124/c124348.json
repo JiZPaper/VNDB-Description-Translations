@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124348",
+  "type": "character",
+  "name": "Sheila",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The administrator of Luxury Transportation Services.",
+  "source_sha256": "7e9d82faab115b6902e9c4bddd30c68af5c8be68d9890d85508e6de9bf5aaf7a",
+  "translation": "The administrator of Luxury Transportation Services.",
+  "vndb_url": "https://vndb.org/c124348"
+}

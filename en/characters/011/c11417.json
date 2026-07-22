@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11417",
+  "type": "character",
+  "name": "Yamazaki",
+  "original_name": "ヤマザキ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A soldier of the Marion army.",
+  "source_sha256": "f95d29ff35b13ba203bc64dec7a75ce46ed973b4865eb8e4ae7f7ae8cbc00c9f",
+  "translation": "A soldier of the Marion army.",
+  "vndb_url": "https://vndb.org/c11417"
+}

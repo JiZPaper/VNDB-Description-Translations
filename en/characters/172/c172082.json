@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172082",
+  "type": "character",
+  "name": "Baaya",
+  "original_name": "ばあや",
+  "language": "en",
+  "source_language": "en",
+  "source": "She lives at the shrine as a caretaker of the gods.\nShe is always calm, and all the gods abide by what she says.",
+  "source_sha256": "2f63f363d84b7c44bed1fe32dfa873fd159e6d3f98e83cddf80253380c8889b9",
+  "translation": "She lives at the shrine as a caretaker of the gods.\nShe is always calm, and all the gods abide by what she says.",
+  "vndb_url": "https://vndb.org/c172082"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49619",
+  "type": "visual_novel",
+  "name": "Senen Pokkiri no Necromance",
+  "original_name": "千円ポッキリのネクロマンス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl meets a woman who can revive the life\nThe girl asks her to revive her dog for a thousand yen.",
+  "source_sha256": "cd2e004e31759b13815bafa4b659440c3e392975b69c4a4abcd6f67ccb568855",
+  "translation": "A girl meets a woman who can revive the life\nThe girl asks her to revive her dog for a thousand yen.",
+  "vndb_url": "https://vndb.org/v49619"
+}

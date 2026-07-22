@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99904",
+  "type": "character",
+  "name": "Mane",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Detective Mane, the \"handyman\" detective. He's good at putting things together, which includes, but is not limited to, mysteries.",
+  "source_sha256": "0ea723d72aab2a51bc912a58de53b68331ac69b1ab32ea504d4c631f47d3eff4",
+  "translation": "Detective Mane, the \"handyman\" detective. He's good at putting things together, which includes, but is not limited to, mysteries.",
+  "vndb_url": "https://vndb.org/c99904"
+}

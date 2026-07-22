@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99654",
+  "type": "character",
+  "name": "Lucius",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Young Noble that visits the Inn.",
+  "source_sha256": "e688e4d2af4d4f3e6225af04d0fd68110cb2b0f88cc7bb4324b0d1ff790e1dbe",
+  "translation": "A Young Noble that visits the Inn.",
+  "vndb_url": "https://vndb.org/c99654"
+}

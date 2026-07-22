@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37691",
+  "type": "visual_novel",
+  "name": "Ren'ai Game",
+  "original_name": "れんあいげーむ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Protag-kun goes on a date with a girl he met online.",
+  "source_sha256": "c7189e429cacf4d3b277e861f25bc35ce07ee8aea0a66da03da2232395a4887c",
+  "translation": "Protag-kun goes on a date with a girl he met online.",
+  "vndb_url": "https://vndb.org/v37691"
+}

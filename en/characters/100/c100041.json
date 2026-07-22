@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100041",
+  "type": "character",
+  "name": "Maahi",
+  "original_name": "マアヒ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A medium.\nShe conducts the seance based on the will.\n\n[Taken from the [url=http://orange-app.jp/game/GothicMurder/e/]official website[/url]]",
+  "source_sha256": "2ac2ae006982fe7902831c253e9007768942e86c3e632b43ae9561769669ceb2",
+  "translation": "A medium.\nShe conducts the seance based on the will.\n\n[Taken from the [url=http://orange-app.jp/game/GothicMurder/e/]official website[/url]]",
+  "vndb_url": "https://vndb.org/c100041"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148473",
+  "type": "character",
+  "name": "Paruce",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Paruce is a friend of Rufus and Marco.",
+  "source_sha256": "2204f01483ac8a08e150ad678a7beed960598fbda3b72f68903638d7e7c1e9f4",
+  "translation": "Paruce is a friend of Rufus and Marco.",
+  "vndb_url": "https://vndb.org/c148473"
+}

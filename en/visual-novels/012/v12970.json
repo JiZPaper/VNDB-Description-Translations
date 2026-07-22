@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12970",
+  "type": "visual_novel",
+  "name": "Midnight Madness",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A skeleton suffers from insomnia.",
+  "source_sha256": "5e0b7bf4ac5eed239714ce885d298c2c7f993bd1ee079608f6b2bd68cc7e877f",
+  "translation": "A skeleton suffers from insomnia.",
+  "vndb_url": "https://vndb.org/v12970"
+}

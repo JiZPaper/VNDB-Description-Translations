@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25158",
+  "type": "visual_novel",
+  "name": "Bois Hoshikuzu to Tetsukuzu no Niwa",
+  "original_name": "bois 星くずと鉄くずの箱庭",
+  "language": "en",
+  "source_language": "en",
+  "source": "Free short story available through Karin's website.",
+  "source_sha256": "d93fbe221f62a2ae17c2656452f238f8feb9c1952fdb282cff4a30ce58ba0870",
+  "translation": "Free short story available through Karin's website.",
+  "vndb_url": "https://vndb.org/v25158"
+}

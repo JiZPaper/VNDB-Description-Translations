@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c24327",
+  "type": "character",
+  "name": "Bashoku Youjou",
+  "original_name": "馬謖 幼常",
+  "language": "en",
+  "source_language": "en",
+  "source": "Weapon: Baton",
+  "source_sha256": "e2deab2f72fc1207d7d3b27cc66bfb6a83cafc6159b13508ed2bd200ba2c91d8",
+  "translation": "Weapon: Baton",
+  "vndb_url": "https://vndb.org/c24327"
+}

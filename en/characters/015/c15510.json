@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15510",
+  "type": "character",
+  "name": "Utautai",
+  "original_name": "歌うたい",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious singing cat who wanders the land.\nHe only talks when he's singing.",
+  "source_sha256": "2c0198c7067543d791dc6541aa13e1b92ef83eb16a3ea61478f5998c4c16899f",
+  "translation": "A mysterious singing cat who wanders the land.\nHe only talks when he's singing.",
+  "vndb_url": "https://vndb.org/c15510"
+}

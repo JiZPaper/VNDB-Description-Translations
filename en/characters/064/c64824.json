@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64824",
+  "type": "character",
+  "name": "Kaitou Akira",
+  "original_name": "皆藤 彰",
+  "language": "en",
+  "source_language": "en",
+  "source": "Loan shark and brothel's manager.",
+  "source_sha256": "7737e617255d156f7bd22a8458545ed5f60c86f12bfdcf42fcc1f595b6fbc2aa",
+  "translation": "Loan shark and brothel's manager.",
+  "vndb_url": "https://vndb.org/c64824"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97505",
+  "type": "character",
+  "name": "Davis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Angela's assistant.",
+  "source_sha256": "f2ec2f6410655ba8a5ef8ceab04565c34ca651d27cdbb5cf568daa5549384572",
+  "translation": "Angela's assistant.",
+  "vndb_url": "https://vndb.org/c97505"
+}

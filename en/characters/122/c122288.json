@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122288",
+  "type": "character",
+  "name": "Hp",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An energetic member of the protagonist's friend group.",
+  "source_sha256": "184aad0115250f3e1a688879efeb40556f7ad7c3b63e9bd60809f2e214d70a53",
+  "translation": "An energetic member of the protagonist's friend group.",
+  "vndb_url": "https://vndb.org/c122288"
+}

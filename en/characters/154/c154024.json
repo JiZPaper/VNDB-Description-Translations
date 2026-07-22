@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154024",
+  "type": "character",
+  "name": "Tomino",
+  "original_name": "富野",
+  "language": "en",
+  "source_language": "en",
+  "source": "A television station's AD (Assistant Director).",
+  "source_sha256": "2b4bd5dda26f65eb0ef0fbe7a25e1c6622ae04683ecca6051041273cbf93d524",
+  "translation": "A television station's AD (Assistant Director).",
+  "vndb_url": "https://vndb.org/c154024"
+}

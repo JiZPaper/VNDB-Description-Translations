@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146001",
+  "type": "character",
+  "name": "Doxi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Maid of Lillion.\n\n[In game description]",
+  "source_sha256": "01aa28eb2547e8f6d3200d4116149ccd79d60c5058b57381d50b92cf9a48b3bd",
+  "translation": "Maid of Lillion.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c146001"
+}

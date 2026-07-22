@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28542",
+  "type": "visual_novel",
+  "name": "Shin Fushigi no Kuni no Alice",
+  "original_name": "新不思議の国のアリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Rewritten viprpg version of the classic Alice in Wonderland",
+  "source_sha256": "16c5fa2d08aefc373a8cd0f832635d76c04a6f360544787731f0794a6c16120e",
+  "translation": "Rewritten viprpg version of the classic Alice in Wonderland",
+  "vndb_url": "https://vndb.org/v28542"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c49407",
+  "type": "character",
+  "name": "Grunbach",
+  "original_name": "グランバッハ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Grunbach's Night Flier Note form.",
+  "source_sha256": "9ec19c4324c996b3140b13dbd4d14eaa74695a63553779ccf198c94c24cc7910",
+  "translation": "Grunbach's Night Flier Note form.",
+  "vndb_url": "https://vndb.org/c49407"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159394",
+  "type": "character",
+  "name": "Gabriel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is an arch angel trying to fix the mess Lucifer created.",
+  "source_sha256": "23d967942f3b15ea4e7596903a3d71f1d13d12f8d727d0521e729290c32476f7",
+  "translation": "He is an arch angel trying to fix the mess Lucifer created.",
+  "vndb_url": "https://vndb.org/c159394"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12306",
+  "type": "visual_novel",
+  "name": "Perfect Bees Blossom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "These are the logs taken from the PBB experiment. They have been transcribed to the best of our ability and can be read at any time.\n[From http://neotable.blogspot.ca/p/perfect-bees-blossom.html]",
+  "source_sha256": "449846be25db0dcfbf4a3d2208861b8420b73e6c26f042de0b0b866c9fc30635",
+  "translation": "These are the logs taken from the PBB experiment. They have been transcribed to the best of our ability and can be read at any time.\n[From http://neotable.blogspot.ca/p/perfect-bees-blossom.html]",
+  "vndb_url": "https://vndb.org/v12306"
+}

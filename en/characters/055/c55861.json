@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55861",
+  "type": "character",
+  "name": "Christie Shepard",
+  "original_name": "クリスティ･シェパード",
+  "language": "en",
+  "source_language": "en",
+  "source": "The receptionist at Professor Stella's lab.",
+  "source_sha256": "871fc749bb20217f4f07a4fe0764f1f4465912685f7fd37db46588e76020c842",
+  "translation": "The receptionist at Professor Stella's lab.",
+  "vndb_url": "https://vndb.org/c55861"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14977",
+  "type": "visual_novel",
+  "name": "Club L",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"This is our first meeting and we haven't done anything yet... why am I part of this club, already?\"\n\nA short kinetic novel with a simple story.",
+  "source_sha256": "6dd13fd39de99103b651a079146d5c766fb8dbff29d438c61e994ebb135a329b",
+  "translation": "\"This is our first meeting and we haven't done anything yet... why am I part of this club, already?\"\n\nA short kinetic novel with a simple story.",
+  "vndb_url": "https://vndb.org/v14977"
+}

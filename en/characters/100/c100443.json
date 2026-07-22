@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100443",
+  "type": "character",
+  "name": "Lin",
+  "original_name": "Лин",
+  "language": "en",
+  "source_language": "en",
+  "source": "*Occupation: translator, editor\n\n*Hobbies:\n- Creative projects (The more complicated, the better)\n- Literature, foreign languages\n\n\"Should I start a singles club?... I'm hopeless, but my friends are even worse.\"",
+  "source_sha256": "a8acd3b0f9b6ff500fd6bb18f5ad010b22cba285188de35b0d5224f7caa4a900",
+  "translation": "*Occupation: translator, editor\n\n*Hobbies:\n- Creative projects (The more complicated, the better)\n- Literature, foreign languages\n\n\"Should I start a singles club?... I'm hopeless, but my friends are even worse.\"",
+  "vndb_url": "https://vndb.org/c100443"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c46829",
+  "type": "character",
+  "name": "Topia Mistres",
+  "original_name": "トピア・ミストレス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Liked foods: Hamburger, curry, pickled radish, watermelon\nHobby: Looking for fun things, special appreciation",
+  "source_sha256": "579b6486e9e1d1d385c776abb41d847918923af51d456b6799d6b414f91f1560",
+  "translation": "Liked foods: Hamburger, curry, pickled radish, watermelon\nHobby: Looking for fun things, special appreciation",
+  "vndb_url": "https://vndb.org/c46829"
+}

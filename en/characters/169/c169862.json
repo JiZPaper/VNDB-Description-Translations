@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169862",
+  "type": "character",
+  "name": "Jesse",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young man who works in IT at the clinic where [url=/c169791]Lena[/url] works.",
+  "source_sha256": "1dd9d3fd142a24cc966fc507a26a446dea259c498ffb0c3d70836c79a4ed8ab9",
+  "translation": "A young man who works in IT at the clinic where [url=/c169791]Lena[/url] works.",
+  "vndb_url": "https://vndb.org/c169862"
+}

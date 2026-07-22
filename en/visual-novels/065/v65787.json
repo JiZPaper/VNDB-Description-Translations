@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65787",
+  "type": "visual_novel",
+  "name": "Journey",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Journey, get souls and defeat enemies. Improve your skills, get new skills – all this will help you cope with the enemies standing in your way.",
+  "source_sha256": "8faca5bb038c68be8ae333b95653ef0e857c1260642bbaf576a11ea22ae8f917",
+  "translation": "Journey, get souls and defeat enemies. Improve your skills, get new skills – all this will help you cope with the enemies standing in your way.",
+  "vndb_url": "https://vndb.org/v65787"
+}

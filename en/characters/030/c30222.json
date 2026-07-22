@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30222",
+  "type": "character",
+  "name": "Dalnos Asse",
+  "original_name": "ダルノス・アッセ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Dalnos is Celica's best friend who taught him how to use sword",
+  "source_sha256": "6eed6ca1ed2f216f39321f4a7a7223660c94e4fc293dd9a85ac2a0fe8c8aef55",
+  "translation": "Dalnos is Celica's best friend who taught him how to use sword",
+  "vndb_url": "https://vndb.org/c30222"
+}

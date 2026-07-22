@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120651",
+  "type": "character",
+  "name": "Peddler",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A street peddler in Big Byr.",
+  "source_sha256": "e048d2edb6948b94554695c8567a38edad0f18b5701b45462335aaaa00da6d10",
+  "translation": "A street peddler in Big Byr.",
+  "vndb_url": "https://vndb.org/c120651"
+}

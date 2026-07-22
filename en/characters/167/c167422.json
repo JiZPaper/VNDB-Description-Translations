@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c167422",
+  "type": "character",
+  "name": "3611",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Casper's trainer.",
+  "source_sha256": "82497b7065579a27e13d37f413bc03f5f092ad4a12dfdc0c218ab688e446ceb4",
+  "translation": "Casper's trainer.",
+  "vndb_url": "https://vndb.org/c167422"
+}

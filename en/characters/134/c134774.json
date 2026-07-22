@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134774",
+  "type": "character",
+  "name": "Taulon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Imperial Executor of Arax.",
+  "source_sha256": "1b5a9e9931b9d5c6c3585169ee789e44dbcca219c4740a92be2da20e64a0a9a1",
+  "translation": "Imperial Executor of Arax.",
+  "vndb_url": "https://vndb.org/c134774"
+}

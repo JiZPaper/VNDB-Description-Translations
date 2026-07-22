@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98018",
+  "type": "character",
+  "name": "Kite",
+  "original_name": "カイト",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kite is a Dark Lord martial artist affiliated with the Kayblis Faction.\n\n[From [url=https://alicesoft.fandom.com/wiki/Kite]AliceSoft Wiki[/url]]",
+  "source_sha256": "55ea65f573f49e3e26a8d5fa809c3785050696b7d7db17f3d509e658630cb051",
+  "translation": "Kite is a Dark Lord martial artist affiliated with the Kayblis Faction.\n\n[From [url=https://alicesoft.fandom.com/wiki/Kite]AliceSoft Wiki[/url]]",
+  "vndb_url": "https://vndb.org/c98018"
+}

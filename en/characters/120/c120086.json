@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120086",
+  "type": "character",
+  "name": "Teresa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader of the Coyote club.",
+  "source_sha256": "8ed606b7ee91ef8ab3b45b9e192e4b014a9ec676bee601f3d13f13e69a326a06",
+  "translation": "Leader of the Coyote club.",
+  "vndb_url": "https://vndb.org/c120086"
+}

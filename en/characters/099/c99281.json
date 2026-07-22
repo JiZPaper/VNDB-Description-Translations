@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99281",
+  "type": "character",
+  "name": "Gurthark",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A travelling merchant. He is the one who rides the caravan.",
+  "source_sha256": "7c6ff2da3e13eaec7686b38ad449a68731c228bf4d5823d8fe4493e5dbe4bc6a",
+  "translation": "A travelling merchant. He is the one who rides the caravan.",
+  "vndb_url": "https://vndb.org/c99281"
+}

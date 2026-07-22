@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4710",
+  "type": "character",
+  "name": "Myrth",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the Elder Druids of GrandTree, she is one with nature and will seek Loren's help to fight the dark elves.\n\nRomanceable by Saren.",
+  "source_sha256": "26c9951810cc052523cb6205637a7273e972b33d4c92f852cc95a755dd2546ed",
+  "translation": "One of the Elder Druids of GrandTree, she is one with nature and will seek Loren's help to fight the dark elves.\n\nRomanceable by Saren.",
+  "vndb_url": "https://vndb.org/c4710"
+}

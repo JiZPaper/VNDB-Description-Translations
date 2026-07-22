@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96343",
+  "type": "character",
+  "name": "Baba Mitsunari",
+  "original_name": "馬場 三成",
+  "language": "en",
+  "source_language": "en",
+  "source": "An infamous master thief, his policy of stealing only from crooks has attracted him quite a following. He gave Eisuke the idea of holding the auction so he would have a place to sell his stolen goods.",
+  "source_sha256": "297a7e47b336a431ad08dda699d25e716ba8d5460e4ee788b77117bdeb250ca1",
+  "translation": "An infamous master thief, his policy of stealing only from crooks has attracted him quite a following. He gave Eisuke the idea of holding the auction so he would have a place to sell his stolen goods.",
+  "vndb_url": "https://vndb.org/c96343"
+}

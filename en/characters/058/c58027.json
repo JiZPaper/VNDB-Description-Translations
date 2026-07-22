@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c58027",
+  "type": "character",
+  "name": "Simian Clay",
+  "original_name": "シミアン=クレイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes: Apple Pie\nDislikes: Mushrooms",
+  "source_sha256": "8bcc2e0c8f46f1398804a077aa696442ab391b270dc6348f2f73f4ce8b5fcc09",
+  "translation": "Likes: Apple Pie\nDislikes: Mushrooms",
+  "vndb_url": "https://vndb.org/c58027"
+}

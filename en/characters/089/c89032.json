@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89032",
+  "type": "character",
+  "name": "Tina",
+  "original_name": "ティナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A black cat.\n\nHe lives in the old station building. He seems friendly, but runs away if you try to catch him. \n\n[From [url=https://www.mangagamer.com/detail.php?product_code=1243]MangaGamer[/url]]",
+  "source_sha256": "a2448ef2de52296327032c10d69cb4289a4a0cba3706a6f7036a883592c98685",
+  "translation": "A black cat.\n\nHe lives in the old station building. He seems friendly, but runs away if you try to catch him. \n\n[From [url=https://www.mangagamer.com/detail.php?product_code=1243]MangaGamer[/url]]",
+  "vndb_url": "https://vndb.org/c89032"
+}

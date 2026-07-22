@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170001",
+  "type": "character",
+  "name": "Janice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Age: Mid-20s",
+  "source_sha256": "40fc2921de9787df018be602495aaf8f7d5bde61c97c10ae99ea6d9626bb9e57",
+  "translation": "Age: Mid-20s",
+  "vndb_url": "https://vndb.org/c170001"
+}

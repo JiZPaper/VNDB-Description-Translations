@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169699",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young man who, despite his mother's wishes, receives an Eevee from Professor Ivy, and becomes a Pokémon trainer.",
+  "source_sha256": "decaf64ff302ec4fb93a452ceea144e503e9526316d367a29e22667305e07c85",
+  "translation": "A young man who, despite his mother's wishes, receives an Eevee from Professor Ivy, and becomes a Pokémon trainer.",
+  "vndb_url": "https://vndb.org/c169699"
+}

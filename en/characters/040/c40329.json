@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40329",
+  "type": "character",
+  "name": "Mysterious Man",
+  "original_name": "謎の男",
+  "language": "en",
+  "source_language": "en",
+  "source": "Affiliation: Unknown\nPost: Unknown\nBirthplace: Unknown\n\nA man whose thoughts and intentions are shrouded in mystery.\nIt seems there is some kind of secret plan hidden behind the war between the EUG and ICSEO...",
+  "source_sha256": "98fe9eb3937f35adf23fa2876af19891e7f513c87330626d36628603bfc87a17",
+  "translation": "Affiliation: Unknown\nPost: Unknown\nBirthplace: Unknown\n\nA man whose thoughts and intentions are shrouded in mystery.\nIt seems there is some kind of secret plan hidden behind the war between the EUG and ICSEO...",
+  "vndb_url": "https://vndb.org/c40329"
+}

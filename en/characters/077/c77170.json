@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77170",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "Work: Wedding Planner\nHobby: Collecting mascot character merchandise",
+  "source_sha256": "74111b5e4018ac0519ca896327d502b0f0a573f9158b12d771a06a314d04ec7f",
+  "translation": "Work: Wedding Planner\nHobby: Collecting mascot character merchandise",
+  "vndb_url": "https://vndb.org/c77170"
+}

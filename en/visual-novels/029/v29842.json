@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29842",
+  "type": "visual_novel",
+  "name": "Rance VI Sonogo",
+  "original_name": "ランス６その後",
+  "language": "en",
+  "source_language": "en",
+  "source": "Collection of short stories related to Rance VI. Included in Alice no Yakata 7.",
+  "source_sha256": "01fa4cd107b7bbaa92a43961b3d7f14ab1b787249fee71bd56d7a856d9ae8526",
+  "translation": "Collection of short stories related to Rance VI. Included in Alice no Yakata 7.",
+  "vndb_url": "https://vndb.org/v29842"
+}

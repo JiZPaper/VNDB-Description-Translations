@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84357",
+  "type": "character",
+  "name": "Nein",
+  "original_name": "ネイン",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]He's Nein's clone.[/spoiler]",
+  "source_sha256": "1fdc36a43c69806cf6dffc077b1a010c02b0b9ae16aec377227ee207dc5ca239",
+  "translation": "[spoiler]He's Nein's clone.[/spoiler]",
+  "vndb_url": "https://vndb.org/c84357"
+}

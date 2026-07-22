@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86428",
+  "type": "character",
+  "name": "Wolfram von Lichtenstein",
+  "original_name": "ヴォルフラム・フォン・リヒテンシュタイン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Weapon: Bazooka\nAbility: Die Erde",
+  "source_sha256": "861bded2fa24986c1f8cbe062986f289c0774cba8758457f3ecd437a1aa10284",
+  "translation": "Weapon: Bazooka\nAbility: Die Erde",
+  "vndb_url": "https://vndb.org/c86428"
+}

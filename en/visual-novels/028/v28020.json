@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28020",
+  "type": "visual_novel",
+  "name": "Getting to Know Christine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "In this game you play as Adrian a young accountant. The game follows your adventures with Christine, a girl you spy on from your apartment across the way.",
+  "source_sha256": "18340d81caed1ab663ad0a80f13f6325e475166ba809b48c6ea0b6f6b13402ff",
+  "translation": "In this game you play as Adrian a young accountant. The game follows your adventures with Christine, a girl you spy on from your apartment across the way.",
+  "vndb_url": "https://vndb.org/v28020"
+}

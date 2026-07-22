@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58499",
+  "type": "visual_novel",
+  "name": "Love is an Occupational Disease",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is an interaction between you and Logan Hugo, who works weekends and sometimes early mornings as a part-timer at a coffee shop. You’re meeting him here for the first time.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "6547e0dd4563d90e004975a1623e2146032e99c002efa1cdd03cf1977d2aa56b",
+  "translation": "This is an interaction between you and Logan Hugo, who works weekends and sometimes early mornings as a part-timer at a coffee shop. You’re meeting him here for the first time.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "vndb_url": "https://vndb.org/v58499"
+}

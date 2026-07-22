@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47146",
+  "type": "character",
+  "name": "Metal Gear Mk. II",
+  "original_name": "メタルギア Ｍｋ．Ⅱ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A \"navigator\" robot who serves as an on-site forensic analyzer and has a built-in videophone. His designer Harry Benson claims that he designed Metal after the \"Metal Gear threat from the late 20th century\".\n\n[From [url=https://en.wikipedia.org/wiki/Snatcher_%28video_game%29]Wikipedia[/url]]",
+  "source_sha256": "60f554d6a61628fb8bc1a4827119a18dc20295b0b82e993878d70342056b9063",
+  "translation": "A \"navigator\" robot who serves as an on-site forensic analyzer and has a built-in videophone. His designer Harry Benson claims that he designed Metal after the \"Metal Gear threat from the late 20th century\".\n\n[From [url=https://en.wikipedia.org/wiki/Snatcher_%28video_game%29]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/c47146"
+}

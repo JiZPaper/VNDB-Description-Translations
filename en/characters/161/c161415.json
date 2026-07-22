@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161415",
+  "type": "character",
+  "name": "Hyndla",
+  "original_name": "ヒュンドラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Corrupted form of Hyndla.",
+  "source_sha256": "35f74c8e6bf325e7d44ac1e5df7cfd6782ce74a5463cf4bc5c956066ffb896d2",
+  "translation": "Corrupted form of Hyndla.",
+  "vndb_url": "https://vndb.org/c161415"
+}

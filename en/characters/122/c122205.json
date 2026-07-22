@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122205",
+  "type": "character",
+  "name": "Cynthia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Tomoko's mother.",
+  "source_sha256": "3191b9984d1b15b8adbf189816da74641d61ce72f070772bfd2369b4c1158d1c",
+  "translation": "Tomoko's mother.",
+  "vndb_url": "https://vndb.org/c122205"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60385",
+  "type": "character",
+  "name": "Captain Katsu",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes: Bounties\nDislikes: Cowards",
+  "source_sha256": "c9d43acd2446c14822df4ea7a53792ed9753fdc1b7dcb87ef643f087823976ee",
+  "translation": "Likes: Bounties\nDislikes: Cowards",
+  "vndb_url": "https://vndb.org/c60385"
+}

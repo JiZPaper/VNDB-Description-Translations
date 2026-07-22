@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15808",
+  "type": "visual_novel",
+  "name": "Fate/Zero",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Fan adaptation of Fate/Zero light novel to VN format using anime frames.",
+  "source_sha256": "a870467516f761fc0447dc7f638d18075bc7072de46afcdeb24a6e665ad15afc",
+  "translation": "Fan adaptation of Fate/Zero light novel to VN format using anime frames.",
+  "vndb_url": "https://vndb.org/v15808"
+}

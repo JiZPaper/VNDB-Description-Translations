@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50440",
+  "type": "visual_novel",
+  "name": "Eolgureomneun Geudaeege",
+  "original_name": "얼굴없는 그대에게",
+  "language": "en",
+  "source_language": "en",
+  "source": "A feature-length visual novel about a boy with prosopagnosia searching for the girl who saved him in the past.",
+  "source_sha256": "6325001fa70eefa95002dfbb93f546e54a495bf052a200cf6e2dcf4f261e118e",
+  "translation": "A feature-length visual novel about a boy with prosopagnosia searching for the girl who saved him in the past.",
+  "vndb_url": "https://vndb.org/v50440"
+}

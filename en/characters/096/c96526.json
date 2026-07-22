@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96526",
+  "type": "character",
+  "name": "Karya",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Carpenter from Apollo's village.",
+  "source_sha256": "922823a375a81fa569bcb0dc8883f5065604821eef9bb18a1b6cf52e102e5743",
+  "translation": "Carpenter from Apollo's village.",
+  "vndb_url": "https://vndb.org/c96526"
+}

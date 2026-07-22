@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c24280",
+  "type": "character",
+  "name": "Shibuyama Torako",
+  "original_name": "渋山 トラコ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: League Master of Fire\nHobbies: Mountain Climbing, Gambling\nSkills: Fighting\nWeakness: Spiders",
+  "source_sha256": "2c46be845f1dc6ddf5e6c50eb75fed85e6fff1d0dc29508b95093b87fed0cfe1",
+  "translation": "Occupation: League Master of Fire\nHobbies: Mountain Climbing, Gambling\nSkills: Fighting\nWeakness: Spiders",
+  "vndb_url": "https://vndb.org/c24280"
+}

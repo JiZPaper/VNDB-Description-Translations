@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61919",
+  "type": "character",
+  "name": "Natasha",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Natasha works in a bookstore, where Ashley can get her first job.",
+  "source_sha256": "dc51ef644553f500c082db5fee33bd050e9eff2b567a44788fb42c1d136417d5",
+  "translation": "Natasha works in a bookstore, where Ashley can get her first job.",
+  "vndb_url": "https://vndb.org/c61919"
+}

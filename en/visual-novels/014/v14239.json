@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14239",
+  "type": "visual_novel",
+  "name": "Shingeki no Kyojin: Lost in the Cruel World",
+  "original_name": "進撃の巨人 Lost in the cruel world",
+  "language": "en",
+  "source_language": "en",
+  "source": "This game is a spin-off following naturally-skilled giant killer Mikasa.",
+  "source_sha256": "913b7cbb524e6fa5478a1b198d4675c1a818dd02a28d11f02237a27bab9a2f08",
+  "translation": "This game is a spin-off following naturally-skilled giant killer Mikasa.",
+  "vndb_url": "https://vndb.org/v14239"
+}

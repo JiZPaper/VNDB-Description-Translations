@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30625",
+  "type": "visual_novel",
+  "name": "Namari no Majo",
+  "original_name": "鉛の魔女",
+  "language": "en",
+  "source_language": "en",
+  "source": "You're an apprentice witch, and you're about to graduate. Travel to the strange forest, the ominous underground, and the mysterious house!",
+  "source_sha256": "c79671ea62ea4b7b1f455ffbb3c8582dafb6b34b23aeec9094d97e69838ea732",
+  "translation": "You're an apprentice witch, and you're about to graduate. Travel to the strange forest, the ominous underground, and the mysterious house!",
+  "vndb_url": "https://vndb.org/v30625"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100035",
+  "type": "character",
+  "name": "Robin Robinson",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sophie's mother and defendant of the case.",
+  "source_sha256": "22f5fa80f62926076cd4c00144ec7349292e6de09cf887bf619dd5818da88ea6",
+  "translation": "Sophie's mother and defendant of the case.",
+  "vndb_url": "https://vndb.org/c100035"
+}

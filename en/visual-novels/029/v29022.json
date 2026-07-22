@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29022",
+  "type": "visual_novel",
+  "name": "Oz no Kuni no Arukikata",
+  "original_name": "オズの国の歩き方",
+  "language": "en",
+  "source_language": "en",
+  "source": "Dorothy has lost her memories and finds herself in a slightly twisted Land of Oz, where the Scarecrow has a knife and the Tin Man appears to be a Dalek.",
+  "source_sha256": "140b81a13cbf93484a860e78f3421e025cec528e7538a8bfaa286ae8965f55d9",
+  "translation": "Dorothy has lost her memories and finds herself in a slightly twisted Land of Oz, where the Scarecrow has a knife and the Tin Man appears to be a Dalek.",
+  "vndb_url": "https://vndb.org/v29022"
+}

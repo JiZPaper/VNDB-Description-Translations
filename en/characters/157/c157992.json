@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c157992",
+  "type": "character",
+  "name": "Taylor",
+  "original_name": "テイラー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Doctor \"G\"",
+  "source_sha256": "167a4ef6605ec10c02b7a226e81ad346c7b98be5ac81756189bdc45e2af3ace4",
+  "translation": "Doctor \"G\"",
+  "vndb_url": "https://vndb.org/c157992"
+}

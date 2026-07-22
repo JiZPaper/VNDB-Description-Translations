@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c129190",
+  "type": "character",
+  "name": "King",
+  "original_name": "キング",
+  "language": "en",
+  "source_language": "en",
+  "source": "Doberman.",
+  "source_sha256": "86e81c7465bdf105b57730f3c0b07482de82133d0ef9259f4872d1808d312ea8",
+  "translation": "Doberman.",
+  "vndb_url": "https://vndb.org/c129190"
+}

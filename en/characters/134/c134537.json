@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134537",
+  "type": "character",
+  "name": "Zhu Bajie",
+  "original_name": "猪八戒",
+  "language": "en",
+  "source_language": "en",
+  "source": "A main character in the 1st main quest's episode 11 \"Journey to the West Story Zone\".",
+  "source_sha256": "a932c6e54dce5a817601721001734f5732ea70f0e13f29c9a25e0d75197ed10c",
+  "translation": "A main character in the 1st main quest's episode 11 \"Journey to the West Story Zone\".",
+  "vndb_url": "https://vndb.org/c134537"
+}

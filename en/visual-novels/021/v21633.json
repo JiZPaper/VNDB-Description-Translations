@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21633",
+  "type": "visual_novel",
+  "name": "Lars",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lars is a short, depressive text adventure about dealing with the horrors of the human mind and the situation at hand.\n\n[From [url=https://hankboozle.itch.io/lars]itch.io[/url]]",
+  "source_sha256": "9cd1b0b618e9c8651d1220be7d4f773ce16b0e9a46607ace0d43a2bcbec9f85f",
+  "translation": "Lars is a short, depressive text adventure about dealing with the horrors of the human mind and the situation at hand.\n\n[From [url=https://hankboozle.itch.io/lars]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v21633"
+}

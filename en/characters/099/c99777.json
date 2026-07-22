@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99777",
+  "type": "character",
+  "name": "Attendant",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Attendant is another servant of the Game-master's. He has a thin Italian accent and his sharpened his nails to points.",
+  "source_sha256": "22c99dfe452d8f2a83b973c460307188241acef85cc16c1fff371ac1fa7ca3df",
+  "translation": "The Attendant is another servant of the Game-master's. He has a thin Italian accent and his sharpened his nails to points.",
+  "vndb_url": "https://vndb.org/c99777"
+}

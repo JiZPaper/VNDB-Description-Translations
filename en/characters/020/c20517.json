@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20517",
+  "type": "character",
+  "name": "Marvin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Max and Anne's classmate.",
+  "source_sha256": "2ed0b6cd304d8a8de92a94a5b1ed09bf340779493ff4f96b0582660da6bc5f37",
+  "translation": "Max and Anne's classmate.",
+  "vndb_url": "https://vndb.org/c20517"
+}

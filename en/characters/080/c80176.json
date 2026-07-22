@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c80176",
+  "type": "character",
+  "name": "Sanae",
+  "original_name": "早苗",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the girls living in the dorm.",
+  "source_sha256": "c78100748279709018000800a8e7a9ce7d7ce816781cffcc0d0ced1f7d0bab52",
+  "translation": "One of the girls living in the dorm.",
+  "vndb_url": "https://vndb.org/c80176"
+}

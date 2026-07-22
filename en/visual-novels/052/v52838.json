@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52838",
+  "type": "visual_novel",
+  "name": "Doctor Simulator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Examine female patients who enter your private practice.  Convince them to strip naked and undergo your thorough examination. But be careful not to raise their suspicion too high!",
+  "source_sha256": "bc71a1b6929bbd7ad25b5bfd9d902839d8f8b4c8669f7cdb788a3dcad1ef93ce",
+  "translation": "Examine female patients who enter your private practice.  Convince them to strip naked and undergo your thorough examination. But be careful not to raise their suspicion too high!",
+  "vndb_url": "https://vndb.org/v52838"
+}

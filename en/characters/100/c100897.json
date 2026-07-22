@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100897",
+  "type": "character",
+  "name": "Ms. Counselor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Counselor called by the protagonist's teacher after reading what they wrote during class .",
+  "source_sha256": "7315bcc7cb3cc7f2f5d32a5c71bb7ceffe9c869629263d1d0ece85b17cad4ec8",
+  "translation": "Counselor called by the protagonist's teacher after reading what they wrote during class .",
+  "vndb_url": "https://vndb.org/c100897"
+}

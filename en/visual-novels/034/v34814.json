@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34814",
+  "type": "visual_novel",
+  "name": "The Sphinx",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A ringtail cat has a conversation with a sphinx.",
+  "source_sha256": "0df9e0e6a199378caf08ae481240c7427b7c59a2e01745f67129fbcdfc5dd72b",
+  "translation": "A ringtail cat has a conversation with a sphinx.",
+  "vndb_url": "https://vndb.org/v34814"
+}

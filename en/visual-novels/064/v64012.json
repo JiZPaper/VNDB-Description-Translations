@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64012",
+  "type": "visual_novel",
+  "name": "Sono Go no Karera no Omnibus",
+  "original_name": "その後の彼らのオムニバス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Collection of epilogues to the three games.",
+  "source_sha256": "1a3ddbe76c1824999be1e6ee58da241f6e421ebad55cec481b2bdc4fea8cf839",
+  "translation": "Collection of epilogues to the three games.",
+  "vndb_url": "https://vndb.org/v64012"
+}

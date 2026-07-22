@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33923",
+  "type": "character",
+  "name": "Fortina",
+  "original_name": "フォルティナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes: Eating, ice, [url=/c33922]Rusty[/url], granting peoples' wishes\nDislikes: Sleeping alone\nHobbies: Eating\nSkills: All kinds of magic",
+  "source_sha256": "89a560c77e05bc63265d3174e1953143c42677b113ccc1437d1e1385a4e6e55e",
+  "translation": "Likes: Eating, ice, [url=/c33922]Rusty[/url], granting peoples' wishes\nDislikes: Sleeping alone\nHobbies: Eating\nSkills: All kinds of magic",
+  "vndb_url": "https://vndb.org/c33923"
+}

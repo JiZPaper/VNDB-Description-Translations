@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27878",
+  "type": "visual_novel",
+  "name": "Shichigatsu Kakumei",
+  "original_name": "七月革命",
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl wants to start a revolution in her classroom.",
+  "source_sha256": "5dfdfe8bd95583ea4870dba57f0d0a7b75701006000cb93e3a1d2019e1dc9b0e",
+  "translation": "A girl wants to start a revolution in her classroom.",
+  "vndb_url": "https://vndb.org/v27878"
+}

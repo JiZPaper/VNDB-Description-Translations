@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4205",
+  "type": "visual_novel",
+  "name": "TO&HI: Vspomnit' vsjo. Viktorina na vyzhivanie",
+  "original_name": "TO&HI: Вспомнить всё. Викторина на выживание",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a quiz game featuring Torako and Hitsuji.\nIt is the first Ren'Py visual novel which was originally written in Russian (2008).\nInfo from gamer.ru/ren-py/obzor-to-hi-vspomnit-vsyo-viktorina-na-vyzhivanie",
+  "source_sha256": "5902afb728e0b66b8b9534796873180e1fffadbc0379248e0496356e3fe395af",
+  "translation": "This is a quiz game featuring Torako and Hitsuji.\nIt is the first Ren'Py visual novel which was originally written in Russian (2008).\nInfo from gamer.ru/ren-py/obzor-to-hi-vspomnit-vsyo-viktorina-na-vyzhivanie",
+  "vndb_url": "https://vndb.org/v4205"
+}

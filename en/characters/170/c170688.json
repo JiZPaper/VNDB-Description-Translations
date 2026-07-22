@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170688",
+  "type": "character",
+  "name": "Itsuki 2.0",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A robot developed by Ada based on Itsuki's appearance and personality.",
+  "source_sha256": "a6533a62e15e26190a6c3d9b389031582b8998d9bf239b57f769be855f8e592c",
+  "translation": "A robot developed by Ada based on Itsuki's appearance and personality.",
+  "vndb_url": "https://vndb.org/c170688"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82590",
+  "type": "character",
+  "name": "Olive",
+  "original_name": "オリーブ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A non-magical inventor.\nShe loves making things, eating sweets, and bothering Bell.",
+  "source_sha256": "6badf59c6a0ad02f2ac19b1a3642aa400718bff6bc689e28d64d00374be0c301",
+  "translation": "A non-magical inventor.\nShe loves making things, eating sweets, and bothering Bell.",
+  "vndb_url": "https://vndb.org/c82590"
+}

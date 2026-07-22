@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21836",
+  "type": "character",
+  "name": "Orion",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Kat's trusty sidekick and all-around goofball.\n\nNobody knows exactly what kind of creature he is, mostly claim he is a cat.",
+  "source_sha256": "1c1d9a365a9f27c64783872a99bfc83296c09f2ec8aa24c5b35464dfb4349166",
+  "translation": "Kat's trusty sidekick and all-around goofball.\n\nNobody knows exactly what kind of creature he is, mostly claim he is a cat.",
+  "vndb_url": "https://vndb.org/c21836"
+}

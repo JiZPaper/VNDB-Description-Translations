@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25271",
+  "type": "visual_novel",
+  "name": "The Haunted Onsen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fan-made visual novel using characters from the FE universe.",
+  "source_sha256": "4a1bb2c14a119d23cfc735dc7718dbb5fc28d4ec632aee0395e171bd0ea196eb",
+  "translation": "A fan-made visual novel using characters from the FE universe.",
+  "vndb_url": "https://vndb.org/v25271"
+}

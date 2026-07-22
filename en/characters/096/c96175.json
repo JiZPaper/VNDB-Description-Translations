@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96175",
+  "type": "character",
+  "name": "Bookseller",
+  "original_name": "本屋の爺さん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of a 200 year old bookstore, located in the Z district. In a world where e-books are mainstream, he has an extraordinary attachment to paper books. He is 85 years old.",
+  "source_sha256": "12d68f8d0d7dd34da999431e1156bbf355e98b50c2e00473fc9221930314b829",
+  "translation": "Owner of a 200 year old bookstore, located in the Z district. In a world where e-books are mainstream, he has an extraordinary attachment to paper books. He is 85 years old.",
+  "vndb_url": "https://vndb.org/c96175"
+}

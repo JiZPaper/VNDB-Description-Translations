@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45840",
+  "type": "visual_novel",
+  "name": "Once Needed Never Found",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A conversation in a void leads to some misfortunes.",
+  "source_sha256": "7ab332fdf672da9c5b11ed36c37db0afa71967e92d646489e172c8e3e9eb86fd",
+  "translation": "A conversation in a void leads to some misfortunes.",
+  "vndb_url": "https://vndb.org/v45840"
+}

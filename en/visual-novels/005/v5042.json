@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5042",
+  "type": "visual_novel",
+  "name": "A Taste of Honey",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about a photographer who stumbles upon something unusual at a country fair.",
+  "source_sha256": "98798a6405ef384022f196367863a787d0a98faa175c60e4087ae3f962b9ec4e",
+  "translation": "A story about a photographer who stumbles upon something unusual at a country fair.",
+  "vndb_url": "https://vndb.org/v5042"
+}

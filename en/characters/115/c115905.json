@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115905",
+  "type": "character",
+  "name": "Small Eevee",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A lively kindergartener.",
+  "source_sha256": "c733e21f59dc7502ff321c2a503768973902bb7d393e4e42db02a562cb9c974d",
+  "translation": "A lively kindergartener.",
+  "vndb_url": "https://vndb.org/c115905"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42785",
+  "type": "visual_novel",
+  "name": "My Sweet Dorayaki: Tokyo Revenger Mikey Otome Game",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Cute Simple Short Otome game featuring Mikey from Tokyo Revengers.",
+  "source_sha256": "616404d2f81a0a09c7f950bc020a2feecb3ba260ed5d49fbbda0d68b74b54d1c",
+  "translation": "A Cute Simple Short Otome game featuring Mikey from Tokyo Revengers.",
+  "vndb_url": "https://vndb.org/v42785"
+}

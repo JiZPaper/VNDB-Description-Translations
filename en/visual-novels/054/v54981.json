@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54981",
+  "type": "visual_novel",
+  "name": "Eres humano",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A very short game reflecting on an encounter between a human and a kukai, a being from another world.",
+  "source_sha256": "d95433a249aa4082f230a3a89a85fd48f095eafcede6b75704314b2069e3d5b0",
+  "translation": "A very short game reflecting on an encounter between a human and a kukai, a being from another world.",
+  "vndb_url": "https://vndb.org/v54981"
+}

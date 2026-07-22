@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47104",
+  "type": "character",
+  "name": "Cutie",
+  "original_name": "キューティー",
+  "language": "en",
+  "source_language": "en",
+  "source": "The manager of an okama bar who also knows [url=/c47103]Hinako[/url].",
+  "source_sha256": "da9ee1c0a649ccf96dc3b92606ac86a284980975c0c7b778914273ab4496698a",
+  "translation": "The manager of an okama bar who also knows [url=/c47103]Hinako[/url].",
+  "vndb_url": "https://vndb.org/c47104"
+}

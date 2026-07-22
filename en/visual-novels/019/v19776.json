@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19776",
+  "type": "visual_novel",
+  "name": "Turnabout Pairs",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An independant sequel to Turnabout of Courage.",
+  "source_sha256": "5bfddea8a794a086e5f778b58eb70b4cdbd096e33c48a8bd22296197933fd8f0",
+  "translation": "An independant sequel to Turnabout of Courage.",
+  "vndb_url": "https://vndb.org/v19776"
+}

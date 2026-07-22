@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127118",
+  "type": "character",
+  "name": "Asile",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A customer at the Red Ribbon's massage.",
+  "source_sha256": "bab3ab132784cef1e2adfe809427124c6be925322b407e90672eb4398a407c89",
+  "translation": "A customer at the Red Ribbon's massage.",
+  "vndb_url": "https://vndb.org/c127118"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82940",
+  "type": "character",
+  "name": "Hollis Marlowe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A detective with an animosity towards Jake.",
+  "source_sha256": "57b06b71f778fe06c78074c68e8f6dc78c73b6192c5c91125b55a29b4ce26fdb",
+  "translation": "A detective with an animosity towards Jake.",
+  "vndb_url": "https://vndb.org/c82940"
+}

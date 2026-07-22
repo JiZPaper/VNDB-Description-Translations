@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c24088",
+  "type": "character",
+  "name": "Julius",
+  "original_name": "ユーリウス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Reinhart’s sick, older half-brother",
+  "source_sha256": "3d7f3eee3a56d1c6995e8e61b7d7bf81c241d7bdd9ac6dcb7f2ccce00af5da82",
+  "translation": "Reinhart’s sick, older half-brother",
+  "vndb_url": "https://vndb.org/c24088"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16058",
+  "type": "visual_novel",
+  "name": "Red Ogre and Blue Ogre",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is one of the famous old stories in Japan about the costs of assimilation.",
+  "source_sha256": "91f358eaecfe7a691a6dad07713f0037cc4ce46541706f687c01955041c3f793",
+  "translation": "This is one of the famous old stories in Japan about the costs of assimilation.",
+  "vndb_url": "https://vndb.org/v16058"
+}

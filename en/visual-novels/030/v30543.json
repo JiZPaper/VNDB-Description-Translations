@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30543",
+  "type": "visual_novel",
+  "name": "My Girlfriend's Friends",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are a freelance programmer who recently got a girlfriend.\n\nYou are going to slowly befriend your girlfriends friends and maybe something more will develop out of it.​",
+  "source_sha256": "fc62a694112b2d3aa98242d0c949a629f9c2a09e2b5b6f9ca3c4e91029a7a5c2",
+  "translation": "You are a freelance programmer who recently got a girlfriend.\n\nYou are going to slowly befriend your girlfriends friends and maybe something more will develop out of it.​",
+  "vndb_url": "https://vndb.org/v30543"
+}

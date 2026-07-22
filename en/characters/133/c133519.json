@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133519",
+  "type": "character",
+  "name": "Mom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's step-mom. She offered him a place to stay after his father's death.",
+  "source_sha256": "90ca72640d011b2429aedd719c531f4d2630c0a87c0fece49070af490822feef",
+  "translation": "The protagonist's step-mom. She offered him a place to stay after his father's death.",
+  "vndb_url": "https://vndb.org/c133519"
+}

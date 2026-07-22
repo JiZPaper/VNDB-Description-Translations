@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16804",
+  "type": "visual_novel",
+  "name": "DOGus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are at a bar and you are being chatted up by Peter Molyneux.\n\n(Made for Molyjam 2013)",
+  "source_sha256": "53ac6ac9357b807ae89cbe783cc820ec8459a69fe051bda8796376b1d16b4ffa",
+  "translation": "You are at a bar and you are being chatted up by Peter Molyneux.\n\n(Made for Molyjam 2013)",
+  "vndb_url": "https://vndb.org/v16804"
+}

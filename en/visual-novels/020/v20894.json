@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20894",
+  "type": "visual_novel",
+  "name": "Gakuen Alice ~DokiDoki☆Fushigi Taiken~",
+  "original_name": "学園アリス〜ドキドキ☆不思議たいけん〜",
+  "language": "en",
+  "source_language": "en",
+  "source": "A game with an original story set in the Alice Festival.",
+  "source_sha256": "55f0b45859f2465295e46743415adff4380d9fd56cd5497ffe56e1360ca382d0",
+  "translation": "A game with an original story set in the Alice Festival.",
+  "vndb_url": "https://vndb.org/v20894"
+}

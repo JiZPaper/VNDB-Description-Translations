@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16780",
+  "type": "visual_novel",
+  "name": "Star Coffee",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A game of language and choices. You are a new intern on a diplomatic space cruiser, and your new boss want you to go get him coffee. Too bad your translator doesn't English good.\n\n[From [url=http://globalgamejam.org/2015/games/star-coffee]Global Game Jam[/url]]",
+  "source_sha256": "cdaf1ec582a225fccc3aa6cfa0ec200976b33b059f74757ed348b1ede4e8dc5b",
+  "translation": "A game of language and choices. You are a new intern on a diplomatic space cruiser, and your new boss want you to go get him coffee. Too bad your translator doesn't English good.\n\n[From [url=http://globalgamejam.org/2015/games/star-coffee]Global Game Jam[/url]]",
+  "vndb_url": "https://vndb.org/v16780"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49108",
+  "type": "visual_novel",
+  "name": "Ina's Halloween Dilemma",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Hololive fangame about Ninomae Ina'nis discovering the true value of Halloween with Takanashi Kiara.",
+  "source_sha256": "78d81e6f3869dcd500e9be5b3393be9a9637d2c796bae57fdf704edfd14d4478",
+  "translation": "A Hololive fangame about Ninomae Ina'nis discovering the true value of Halloween with Takanashi Kiara.",
+  "vndb_url": "https://vndb.org/v49108"
+}

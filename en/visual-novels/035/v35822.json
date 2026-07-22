@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35822",
+  "type": "visual_novel",
+  "name": "Oguzok i Banany",
+  "original_name": "Огузок и Бананы",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short story about how the chef sent the rump to peel bananas. \n\nThis is a [url=/v3126]Beskonechnoe leto[/url] modification.",
+  "source_sha256": "ea10e6ab903ec0d59cd7bc97b2361a172c565958aae1ea9a9837cbda56c989b2",
+  "translation": "A short story about how the chef sent the rump to peel bananas. \n\nThis is a [url=/v3126]Beskonechnoe leto[/url] modification.",
+  "vndb_url": "https://vndb.org/v35822"
+}

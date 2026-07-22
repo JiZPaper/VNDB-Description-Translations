@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48418",
+  "type": "character",
+  "name": "You",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist and the master of the house.\n\nThey do not have memories nor do they have a concept of self.",
+  "source_sha256": "ce01e4cb75e5fc41a5967c5ff309dc0e37fbf9f9fb913ba6c7277939b9edfca7",
+  "translation": "The protagonist and the master of the house.\n\nThey do not have memories nor do they have a concept of self.",
+  "vndb_url": "https://vndb.org/c48418"
+}

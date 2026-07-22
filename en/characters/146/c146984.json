@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146984",
+  "type": "character",
+  "name": "Sophie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The card girl at the fight presented by Devon.",
+  "source_sha256": "cb4d0b624e6d21c78fe95a730dfcea8302d76ae6026219620ffdd2d89f51d645",
+  "translation": "The card girl at the fight presented by Devon.",
+  "vndb_url": "https://vndb.org/c146984"
+}

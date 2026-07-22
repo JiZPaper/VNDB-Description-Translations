@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61795",
+  "type": "visual_novel",
+  "name": "Turnabout Tomorrow",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The case follows the trial of Christine Yalt, accused of murdering an escaped serial killer known as \"E\". You take the role of defense attorney \"Cross\" Moriarty.",
+  "source_sha256": "392f40b16352d3c8b2d6cebf5c8b2f2f827a5896974665e60315e5560f0cfe83",
+  "translation": "The case follows the trial of Christine Yalt, accused of murdering an escaped serial killer known as \"E\". You take the role of defense attorney \"Cross\" Moriarty.",
+  "vndb_url": "https://vndb.org/v61795"
+}

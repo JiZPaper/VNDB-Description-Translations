@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8014",
+  "type": "character",
+  "name": "Mitsuoka Shizuko",
+  "original_name": "三岡 静子",
+  "language": "en",
+  "source_language": "en",
+  "source": "Character type: Teacher.",
+  "source_sha256": "cb9755cd1d8112cc12435aa0b2f4bba084f4f4b35f1079baaa023151d8b9d1ba",
+  "translation": "Character type: Teacher.",
+  "vndb_url": "https://vndb.org/c8014"
+}

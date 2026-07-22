@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40378",
+  "type": "character",
+  "name": "Victor",
+  "original_name": "ヴィクター",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hobbies: Riding motorcycles\nLikes: Chaos\nDislikes: Calm and boring everyday life",
+  "source_sha256": "d29de32a51ad56f24b9b6845643fd38f3c30477f83ded007363e82f2d1b767b9",
+  "translation": "Hobbies: Riding motorcycles\nLikes: Chaos\nDislikes: Calm and boring everyday life",
+  "vndb_url": "https://vndb.org/c40378"
+}

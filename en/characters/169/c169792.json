@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169792",
+  "type": "character",
+  "name": "Jenna",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A college student who is the roommate of [url=/c169867]Kate[/url].",
+  "source_sha256": "c6ed05690319f6d6dedf42d25152ccbb6b725b0fe054cdbf5a45d8321bba57b2",
+  "translation": "A college student who is the roommate of [url=/c169867]Kate[/url].",
+  "vndb_url": "https://vndb.org/c169792"
+}

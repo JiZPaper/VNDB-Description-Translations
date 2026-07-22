@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52797",
+  "type": "visual_novel",
+  "name": "The Dark Cave",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lost in the cave, you would need to venture deeper to find the way to escape.",
+  "source_sha256": "1c51456f9b61e9470d8839350a500ce41aa23f890f2f1d80f5f90af364467693",
+  "translation": "Lost in the cave, you would need to venture deeper to find the way to escape.",
+  "vndb_url": "https://vndb.org/v52797"
+}

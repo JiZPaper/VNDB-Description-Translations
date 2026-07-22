@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98704",
+  "type": "character",
+  "name": "Emily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's friend. Her boyfriend is Jeff.",
+  "source_sha256": "31a954f5d1d180f411f9736e07690c0905aa1b4e0c8a955545d2bc24a44df809",
+  "translation": "The protagonist's friend. Her boyfriend is Jeff.",
+  "vndb_url": "https://vndb.org/c98704"
+}

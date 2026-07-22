@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c43962",
+  "type": "character",
+  "name": "Levioth",
+  "original_name": "レヴィアス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The charismatic leader of all the Knight Troupes.\nA top class swordsman and sorcerer.\nHe often acts alone, a mysterious man who doesn't have close connections with people.\nHe has a bigger objective besides leading the knights, but only [url=/c43956]Kain[/url] and [url=/c43957]Kiefer[/url] know that.",
+  "source_sha256": "6f0ba606cf20dfd71f786b62ecd8623f1ac351a393ce495ca5520656fbb0404b",
+  "translation": "The charismatic leader of all the Knight Troupes.\nA top class swordsman and sorcerer.\nHe often acts alone, a mysterious man who doesn't have close connections with people.\nHe has a bigger objective besides leading the knights, but only [url=/c43956]Kain[/url] and [url=/c43957]Kiefer[/url] know that.",
+  "vndb_url": "https://vndb.org/c43962"
+}

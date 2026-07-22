@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120113",
+  "type": "character",
+  "name": "Doctor Faustus",
+  "original_name": "Faustus",
+  "language": "en",
+  "source_language": "en",
+  "source": "A hundred year old, wise, and near-saintly doctor from Mecklenburg nearing his death.",
+  "source_sha256": "15fdcab0ff4843f488ed7f28426420f90cecc3c1db03fd5720be35f243ca2f41",
+  "translation": "A hundred year old, wise, and near-saintly doctor from Mecklenburg nearing his death.",
+  "vndb_url": "https://vndb.org/c120113"
+}

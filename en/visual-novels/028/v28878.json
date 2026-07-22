@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28878",
+  "type": "visual_novel",
+  "name": "Lovestory of Melancholy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dating simulator featuring the members of the band Lovechild of Melancholy.",
+  "source_sha256": "fe67ddb33d4fc074f0a19920301af06ff944dd4f0a07da9fd8b293285ce1dadb",
+  "translation": "A dating simulator featuring the members of the band Lovechild of Melancholy.",
+  "vndb_url": "https://vndb.org/v28878"
+}

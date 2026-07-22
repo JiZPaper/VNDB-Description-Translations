@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163724",
+  "type": "character",
+  "name": "Constantine",
+  "original_name": "Константин",
+  "language": "en",
+  "source_language": "en",
+  "source": "Constantine is a quiet and observant student who becomes a key witness in a high-profile criminal case.",
+  "source_sha256": "9645f82ba6aeb03d0b521882a5ec79b41043c63eedb7166b90dcbf35a5c04f8b",
+  "translation": "Constantine is a quiet and observant student who becomes a key witness in a high-profile criminal case.",
+  "vndb_url": "https://vndb.org/c163724"
+}

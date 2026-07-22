@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38655",
+  "type": "character",
+  "name": "Ashe",
+  "original_name": "アッシュ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The son of Lumina's wet nurse.\nHe's known Lumina since they were children.",
+  "source_sha256": "121620e846cccc6610b50b76b105637e4a63b31837992f76bc99759642f419b3",
+  "translation": "The son of Lumina's wet nurse.\nHe's known Lumina since they were children.",
+  "vndb_url": "https://vndb.org/c38655"
+}

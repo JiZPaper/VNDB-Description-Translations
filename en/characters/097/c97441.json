@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97441",
+  "type": "character",
+  "name": "Centurion",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "high-rank militaries of Lugdium, they serve under Ignerius.",
+  "source_sha256": "d9c451ff6b9b0932184efcd7137cd86b13af168f334623c16ec37792c3f66504",
+  "translation": "high-rank militaries of Lugdium, they serve under Ignerius.",
+  "vndb_url": "https://vndb.org/c97441"
+}

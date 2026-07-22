@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123629",
+  "type": "character",
+  "name": "Kanaria",
+  "original_name": "金糸雀",
+  "language": "en",
+  "source_language": "en",
+  "source": "Instance of Kanaria in NOMAD Rozen Maiden continuation, which is also used in TAITO Visual Novels.\nShe is the second Rozen Maiden doll.",
+  "source_sha256": "7abffcd2d3918f3963efe1d3064f85f738f544f6ca25051d4859407044264511",
+  "translation": "Instance of Kanaria in NOMAD Rozen Maiden continuation, which is also used in TAITO Visual Novels.\nShe is the second Rozen Maiden doll.",
+  "vndb_url": "https://vndb.org/c123629"
+}

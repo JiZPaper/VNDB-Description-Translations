@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13678",
+  "type": "visual_novel",
+  "name": "Reinvaded",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An Invader Zim visual novel, based off the works of Jhonen Vasquez, drawn and written by Alexis Royce, with Music by Tricia Bayfield.",
+  "source_sha256": "ac48bf2a941024dc0fb63cd412661cdc173bb0dc455caed2847390598f30768f",
+  "translation": "An Invader Zim visual novel, based off the works of Jhonen Vasquez, drawn and written by Alexis Royce, with Music by Tricia Bayfield.",
+  "vndb_url": "https://vndb.org/v13678"
+}

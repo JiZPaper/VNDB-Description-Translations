@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160025",
+  "type": "character",
+  "name": "Harald Wallenhart",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Celebrity",
+  "source_sha256": "ef635c424c9c1f5148a6432383f8a73f8946f480d1c17de273468db649b356cc",
+  "translation": "Celebrity",
+  "vndb_url": "https://vndb.org/c160025"
+}

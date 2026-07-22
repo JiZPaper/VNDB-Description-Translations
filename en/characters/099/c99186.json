@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99186",
+  "type": "character",
+  "name": "Baldr",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Son of Odin, he welcomes Astrid, the protagonist, to Valhalla, the land of the gods.",
+  "source_sha256": "0a678d563c5b63736b48dafa120306e14101926bc85cfac65a8e4ecc4358cb5f",
+  "translation": "Son of Odin, he welcomes Astrid, the protagonist, to Valhalla, the land of the gods.",
+  "vndb_url": "https://vndb.org/c99186"
+}

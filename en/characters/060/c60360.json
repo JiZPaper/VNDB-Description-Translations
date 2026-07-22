@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60360",
+  "type": "character",
+  "name": "Ai",
+  "original_name": "アイ （I）",
+  "language": "en",
+  "source_language": "en",
+  "source": "Girl that protagonist found inside cryo-sleep device",
+  "source_sha256": "83ddca352b6145231f648d0edf8200f109a0560a12fba26f6ad723f16a739045",
+  "translation": "Girl that protagonist found inside cryo-sleep device",
+  "vndb_url": "https://vndb.org/c60360"
+}

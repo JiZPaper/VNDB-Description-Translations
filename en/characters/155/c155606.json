@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155606",
+  "type": "character",
+  "name": "Kokutan Mare",
+  "original_name": "黒檀 舞玲",
+  "language": "en",
+  "source_language": "en",
+  "source": "The 'real' Mare who spawned the clone Mare",
+  "source_sha256": "57a9cf322ef56d404dc5ee1e6d05aad622a4b7e50ae924d6a525a418d3e2ec97",
+  "translation": "The 'real' Mare who spawned the clone Mare",
+  "vndb_url": "https://vndb.org/c155606"
+}

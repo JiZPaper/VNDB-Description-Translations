@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30282",
+  "type": "character",
+  "name": "Bors",
+  "original_name": "ボールス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of the Knights of the Round Table.",
+  "source_sha256": "ce09c6d36afec81c52fc61f4f9a9544b7ce08735d7383653e70fd6b806b58474",
+  "translation": "A member of the Knights of the Round Table.",
+  "vndb_url": "https://vndb.org/c30282"
+}

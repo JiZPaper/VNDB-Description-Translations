@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6173",
+  "type": "visual_novel",
+  "name": "Tsuyokiss 3gakki",
+  "original_name": "つよきす３学期",
+  "language": "en",
+  "source_language": "en",
+  "source": "A further retelling of Tsuyokiss and Tsuyokiss 2gakki, takes place a few months after Celeb has transferred to Leo's class (but before the game enters any routes).\n\nInori, Mana and Tonfaa routes are reverse-ported from Tsuyokiss 2gakki console editions.",
+  "source_sha256": "9e63436886aca049ef267649bb4572dda95602a52f970a14fd6caf42197729cc",
+  "translation": "A further retelling of Tsuyokiss and Tsuyokiss 2gakki, takes place a few months after Celeb has transferred to Leo's class (but before the game enters any routes).\n\nInori, Mana and Tonfaa routes are reverse-ported from Tsuyokiss 2gakki console editions.",
+  "vndb_url": "https://vndb.org/v6173"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92797",
+  "type": "character",
+  "name": "Thermite Floe",
+  "original_name": "テルミット＝フローエ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Servant to Elisabeth.",
+  "source_sha256": "c9e023cbe532dfb715c7055fa1ccbe5ce5e93a536a20efe9ab53efa31a3336a3",
+  "translation": "Servant to Elisabeth.",
+  "vndb_url": "https://vndb.org/c92797"
+}

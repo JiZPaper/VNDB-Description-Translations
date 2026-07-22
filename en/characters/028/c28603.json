@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28603",
+  "type": "character",
+  "name": "Cypha",
+  "original_name": "サイファ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A knight on patrol.",
+  "source_sha256": "57fbf707d58513c1aad013e7c5ace1c4181ea882cd848a0f1ad9080c371c9f19",
+  "translation": "A knight on patrol.",
+  "vndb_url": "https://vndb.org/c28603"
+}

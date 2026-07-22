@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14494",
+  "type": "visual_novel",
+  "name": "Paradise Rescue",
+  "original_name": "パラダイスレスキュー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A college student gets a summer job as a lifeguard in order to get closer to his senpai.",
+  "source_sha256": "0c7e1a593a1820e5c94c369e5dc681da5ef31e03c23806e628c9786e6506d76c",
+  "translation": "A college student gets a summer job as a lifeguard in order to get closer to his senpai.",
+  "vndb_url": "https://vndb.org/v14494"
+}

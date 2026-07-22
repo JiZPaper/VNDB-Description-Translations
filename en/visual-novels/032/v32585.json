@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32585",
+  "type": "visual_novel",
+  "name": "Kemonono ★ Katsudou 2",
+  "original_name": "けものの★活動漫画2",
+  "language": "en",
+  "source_language": "en",
+  "source": "A voiced game that colors and animates 2 doujin manga.",
+  "source_sha256": "72d79600ce77656d7159c4abe271cc90764517ab77d21a9f3846615e00b65255",
+  "translation": "A voiced game that colors and animates 2 doujin manga.",
+  "vndb_url": "https://vndb.org/v32585"
+}

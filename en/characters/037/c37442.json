@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37442",
+  "type": "character",
+  "name": "Magistrate",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Magistrate, who has come back from the grave seeking power.",
+  "source_sha256": "b51f0c021816e951b288a75967d57ec38214013d8793e32c3d61c18ccff48e0c",
+  "translation": "Magistrate, who has come back from the grave seeking power.",
+  "vndb_url": "https://vndb.org/c37442"
+}

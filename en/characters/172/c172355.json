@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172355",
+  "type": "character",
+  "name": "Cashier",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gym's receptionist.",
+  "source_sha256": "d6d9ef409d7a8bdb1c41331d2cc1ffa71858b0297cb104bd4dc726d2a7c4928a",
+  "translation": "Gym's receptionist.",
+  "vndb_url": "https://vndb.org/c172355"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c109072",
+  "type": "character",
+  "name": "Sakaki",
+  "original_name": "榊",
+  "language": "en",
+  "source_language": "en",
+  "source": "Executive at a major advertising firm.",
+  "source_sha256": "d78cf2ee0ca3eccbe7542be1280292b0ddc31d0d22d4f06ccfab629c4e217cae",
+  "translation": "Executive at a major advertising firm.",
+  "vndb_url": "https://vndb.org/c109072"
+}

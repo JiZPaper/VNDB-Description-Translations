@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26560",
+  "type": "visual_novel",
+  "name": "Den'ei Shoujo Virtual Girl Lun",
+  "original_name": "電影少女 Virtual Girl Lun",
+  "language": "en",
+  "source_language": "en",
+  "source": "Inspired by the hit manga by Masakazu Katsura. The player is able to pursue eight different girls, including the new original character Lun.",
+  "source_sha256": "36aaf08976b3a88cf0dea92e50165ff5f0dc6e1838b07463ad2a79bb73dfb515",
+  "translation": "Inspired by the hit manga by Masakazu Katsura. The player is able to pursue eight different girls, including the new original character Lun.",
+  "vndb_url": "https://vndb.org/v26560"
+}

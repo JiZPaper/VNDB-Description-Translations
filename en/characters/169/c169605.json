@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169605",
+  "type": "character",
+  "name": "Female student",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A student working behind the scenes on the school's talent show",
+  "source_sha256": "1c78d2c2bd532045a6eb610fcc0a5c8f619e9870e0cba0ff3c437ef346208bf2",
+  "translation": "A student working behind the scenes on the school's talent show",
+  "vndb_url": "https://vndb.org/c169605"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127931",
+  "type": "character",
+  "name": "Ginny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ginny is the local barkeep, well known to those who frequent the space port.",
+  "source_sha256": "680876631dc09f19005684692053ab0897490fbe3f971527f6fdbf1a2cd4b9c2",
+  "translation": "Ginny is the local barkeep, well known to those who frequent the space port.",
+  "vndb_url": "https://vndb.org/c127931"
+}

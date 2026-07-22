@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89674",
+  "type": "character",
+  "name": "Victor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of the local nightclub.",
+  "source_sha256": "878dd339eed05967e4e27ff64490f33dd592195b0eca5fe1290f158ff69078cf",
+  "translation": "Owner of the local nightclub.",
+  "vndb_url": "https://vndb.org/c89674"
+}

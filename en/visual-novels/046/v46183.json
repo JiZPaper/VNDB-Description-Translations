@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46183",
+  "type": "visual_novel",
+  "name": "When I Fall Asleep",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You're having trouble sleeping again. Maybe something in this room can help you fall asleep.\n\n[from [url=https://dopey-kun.itch.io/when-i-fall-asleep]itch.io[/url]]",
+  "source_sha256": "d57e73adcbab777970f6db9399714156b02f3ac6b4195dd049ced9e63223a707",
+  "translation": "You're having trouble sleeping again. Maybe something in this room can help you fall asleep.\n\n[from [url=https://dopey-kun.itch.io/when-i-fall-asleep]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v46183"
+}

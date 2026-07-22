@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42268",
+  "type": "visual_novel",
+  "name": "Donganranpa: Bootleg Hell",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fangame/vn project based on danganronpa, featuring a western bootleg game and a cast of 16 \"amatuer\" students.\n\n[From [url=https://donganranpa.tumblr.com/]official Tumblr[/url]]",
+  "source_sha256": "0f865ebf61b48dfde4a82a02a4de06f37771f783c0b046ca40160c3ce83dc306",
+  "translation": "A fangame/vn project based on danganronpa, featuring a western bootleg game and a cast of 16 \"amatuer\" students.\n\n[From [url=https://donganranpa.tumblr.com/]official Tumblr[/url]]",
+  "vndb_url": "https://vndb.org/v42268"
+}

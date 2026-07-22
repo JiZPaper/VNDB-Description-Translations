@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c7900",
+  "type": "character",
+  "name": "Machida Shouko",
+  "original_name": "町田 翔子",
+  "language": "en",
+  "source_language": "en",
+  "source": "Character type: High-school student who is a member of a school sports club.",
+  "source_sha256": "1a993593b4d5f44ebb4f1c362258be262d0c843736438b639a8df26cab3eb302",
+  "translation": "Character type: High-school student who is a member of a school sports club.",
+  "vndb_url": "https://vndb.org/c7900"
+}

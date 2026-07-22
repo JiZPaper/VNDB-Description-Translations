@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79202",
+  "type": "character",
+  "name": "Jim Blacks",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "CFO of a small software company in Lunar City. He works with Rich.",
+  "source_sha256": "727d87347fe8f6200f15448ec2b2446f8e491dbd9718b12ed80277cf2ef58b0a",
+  "translation": "CFO of a small software company in Lunar City. He works with Rich.",
+  "vndb_url": "https://vndb.org/c79202"
+}

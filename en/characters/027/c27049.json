@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c27049",
+  "type": "character",
+  "name": "Richter",
+  "original_name": "リヒテル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Arariel von Richter is a wealthy sponsor for the archeological dig, which is researched by Reina.",
+  "source_sha256": "482338157a542e329bdde9dc6b3e99a14deae3079604ee64ec6e09a17cd3e281",
+  "translation": "Arariel von Richter is a wealthy sponsor for the archeological dig, which is researched by Reina.",
+  "vndb_url": "https://vndb.org/c27049"
+}

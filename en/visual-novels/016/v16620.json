@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16620",
+  "type": "visual_novel",
+  "name": "Der Internet Guerillero",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An interactive training course on how to argue with fascists in internet forums.\n\n[From [url=https://archive.org/details/DerInternetGuerillero1.0All]Internet Archive[/url]]",
+  "source_sha256": "6556e446ed323a5548dcb9452ff1d820d227f9fc016302ebecec52017f160e6a",
+  "translation": "An interactive training course on how to argue with fascists in internet forums.\n\n[From [url=https://archive.org/details/DerInternetGuerillero1.0All]Internet Archive[/url]]",
+  "vndb_url": "https://vndb.org/v16620"
+}

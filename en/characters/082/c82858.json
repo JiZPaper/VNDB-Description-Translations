@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82858",
+  "type": "character",
+  "name": "Landlord",
+  "original_name": "大家",
+  "language": "en",
+  "source_language": "en",
+  "source": "As the manager of the inn, he is called \"landlord\" by default. Though he has the appearance of a young child, his words and actions are not childlike. Rumor has it that he has lived a long time...",
+  "source_sha256": "0a94eef032fc85f4c57213b10bd4577635290e2aeac93e7a124b144caa10f13e",
+  "translation": "As the manager of the inn, he is called \"landlord\" by default. Though he has the appearance of a young child, his words and actions are not childlike. Rumor has it that he has lived a long time...",
+  "vndb_url": "https://vndb.org/c82858"
+}

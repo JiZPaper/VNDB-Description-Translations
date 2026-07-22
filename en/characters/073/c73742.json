@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73742",
+  "type": "character",
+  "name": "Nurse",
+  "original_name": "看護師",
+  "language": "en",
+  "source_language": "en",
+  "source": "The nurse in charge of Yume's ward.",
+  "source_sha256": "ca8169966b64d52a328284e56543706b53712ee4ddaf2e6b56e2d29c2955f684",
+  "translation": "The nurse in charge of Yume's ward.",
+  "vndb_url": "https://vndb.org/c73742"
+}

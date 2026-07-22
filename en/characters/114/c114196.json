@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c114196",
+  "type": "character",
+  "name": "Vyne",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Zephyr's tail. Always reveals her true intentions.",
+  "source_sha256": "46e4b38f7496e7196e081babd1f93c6f11dca5c35dee1b7ad0339a978b56158f",
+  "translation": "Zephyr's tail. Always reveals her true intentions.",
+  "vndb_url": "https://vndb.org/c114196"
+}

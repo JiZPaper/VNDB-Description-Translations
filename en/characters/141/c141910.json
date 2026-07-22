@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141910",
+  "type": "character",
+  "name": "thistle!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Pronouns: she/it",
+  "source_sha256": "965c9326a33eec68b0a38738a85f18817c3b770b56668cb90201f785221cc827",
+  "translation": "Pronouns: she/it",
+  "vndb_url": "https://vndb.org/c141910"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125456",
+  "type": "character",
+  "name": "Fairy",
+  "original_name": "フェアリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A tiny fairy that can be found in San Ilia after clearing the Forest of Spirits.",
+  "source_sha256": "0f767b17cf2d381b126790d1817c4c1d95ab4352bc1a422ab2b6a823164315ca",
+  "translation": "A tiny fairy that can be found in San Ilia after clearing the Forest of Spirits.",
+  "vndb_url": "https://vndb.org/c125456"
+}

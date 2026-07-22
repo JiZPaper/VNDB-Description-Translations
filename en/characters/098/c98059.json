@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98059",
+  "type": "character",
+  "name": "Yumi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Daiki's daughter.",
+  "source_sha256": "279f2b53e740c731c59ee5b7a13489388905243af5c74a791fd1bc1f36ea5753",
+  "translation": "Daiki's daughter.",
+  "vndb_url": "https://vndb.org/c98059"
+}

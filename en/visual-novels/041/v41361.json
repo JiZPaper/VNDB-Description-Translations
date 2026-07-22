@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41361",
+  "type": "visual_novel",
+  "name": "My Favorite Song ~Extra Stories~",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel adaptation of the web novel \"My Favorite Song\" 's bonus episode.",
+  "source_sha256": "900f5d51be5b5117382223a34b296d16e44583839de41f0f2a23f9213b598afa",
+  "translation": "A visual novel adaptation of the web novel \"My Favorite Song\" 's bonus episode.",
+  "vndb_url": "https://vndb.org/v41361"
+}

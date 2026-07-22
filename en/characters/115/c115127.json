@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115127",
+  "type": "character",
+  "name": "Rose",
+  "original_name": "ローズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Nightclub diva. She used to have a crush on Francis.",
+  "source_sha256": "cc57aced52d0eb140ddcc8381218f5a7d1d3a985a2e3f1ab87909874affe9e12",
+  "translation": "Nightclub diva. She used to have a crush on Francis.",
+  "vndb_url": "https://vndb.org/c115127"
+}

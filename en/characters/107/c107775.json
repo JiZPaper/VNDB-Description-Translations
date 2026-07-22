@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c107775",
+  "type": "character",
+  "name": "Akane",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A strong and stubborn warrior.",
+  "source_sha256": "7ce82e1eacda77d738a04cfb667d5902fc2b237049d9ce4ad47ecec40cf50404",
+  "translation": "A strong and stubborn warrior.",
+  "vndb_url": "https://vndb.org/c107775"
+}

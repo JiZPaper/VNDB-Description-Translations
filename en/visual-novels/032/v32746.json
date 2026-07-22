@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32746",
+  "type": "visual_novel",
+  "name": "Saisei no Byouin",
+  "original_name": "さいせいのびょういん",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a fun and just a bit happy children's hospital.\nI love everyone here!",
+  "source_sha256": "182c0fdb5883f269d346dd2643e633fdfa8fa3e8788115665adf9e9c9bffe1d1",
+  "translation": "This is a fun and just a bit happy children's hospital.\nI love everyone here!",
+  "vndb_url": "https://vndb.org/v32746"
+}

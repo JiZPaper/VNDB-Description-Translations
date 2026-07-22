@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58500",
+  "type": "visual_novel",
+  "name": "Kimi wa Yatou",
+  "original_name": "きみは夜灯",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Mahou Tsukai no Yakusoku fangame with the old Murr as the protagonist.",
+  "source_sha256": "cc694f0fbea41d64720e8237f0a1718dd9906c5bc275548c872443bc6593a255",
+  "translation": "A Mahou Tsukai no Yakusoku fangame with the old Murr as the protagonist.",
+  "vndb_url": "https://vndb.org/v58500"
+}

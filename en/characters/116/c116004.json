@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116004",
+  "type": "character",
+  "name": "Isabelle",
+  "original_name": "イザベルより",
+  "language": "en",
+  "source_language": "en",
+  "source": "The head maid.",
+  "source_sha256": "f29e94d98128cef4acdf739fe2722dda76db4ac87cb459cd705cdc8eef5661c1",
+  "translation": "The head maid.",
+  "vndb_url": "https://vndb.org/c116004"
+}

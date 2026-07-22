@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54006",
+  "type": "visual_novel",
+  "name": "Pryvydy mynulykh lit",
+  "original_name": "Привиди минулих літ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel made in two days.",
+  "source_sha256": "63445a9dba7d06c6443e88458c8f056c2593c9b7f2e5f87cffd60426e13b528e",
+  "translation": "A short visual novel made in two days.",
+  "vndb_url": "https://vndb.org/v54006"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124243",
+  "type": "character",
+  "name": "Dominic",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A new worker Alejandro hires at the bakery.",
+  "source_sha256": "0f5ec409688f3ee222b87e599d1ea5534722e85669bf2f3eae08511ee7203c43",
+  "translation": "A new worker Alejandro hires at the bakery.",
+  "vndb_url": "https://vndb.org/c124243"
+}

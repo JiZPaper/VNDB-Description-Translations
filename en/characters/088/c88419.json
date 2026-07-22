@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88419",
+  "type": "character",
+  "name": "Cat",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A cat who suspiciously resembles Takashi Natsume, and is found in Takashi's school bag.",
+  "source_sha256": "fb055e3f6895df37aadeb910a5258e6556ec68439ec18d47749114208cb8013a",
+  "translation": "A cat who suspiciously resembles Takashi Natsume, and is found in Takashi's school bag.",
+  "vndb_url": "https://vndb.org/c88419"
+}

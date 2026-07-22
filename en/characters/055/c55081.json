@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55081",
+  "type": "character",
+  "name": "Okaasan",
+  "original_name": "お母さん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Alice's nice mother.\nGentle and broad-minded personality, but is rather a natural airhead.\n\"Today's Alice-chan no favorite soymilk shabu-shabu.\"",
+  "source_sha256": "163f8c19f9823f062d2892e435937157e024df3ff5cf5ebb40f4b9e0dbbec58b",
+  "translation": "Alice's nice mother.\nGentle and broad-minded personality, but is rather a natural airhead.\n\"Today's Alice-chan no favorite soymilk shabu-shabu.\"",
+  "vndb_url": "https://vndb.org/c55081"
+}

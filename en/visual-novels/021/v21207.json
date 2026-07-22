@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21207",
+  "type": "visual_novel",
+  "name": "Legal Today",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A widowed father hits it off with his daughter's babysitter.",
+  "source_sha256": "a45fde8f8393f4509fc813ffe2b841b099d7dfaedb63b59e0b6496cf739d86fe",
+  "translation": "A widowed father hits it off with his daughter's babysitter.",
+  "vndb_url": "https://vndb.org/v21207"
+}

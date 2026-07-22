@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122778",
+  "type": "character",
+  "name": "Death eater",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Works for Lord Voldemort.",
+  "source_sha256": "58f5b2e028da7c33dce9b82da907aa9a4011fe4d443cc1dbe01ed4bd40cde2a0",
+  "translation": "Works for Lord Voldemort.",
+  "vndb_url": "https://vndb.org/c122778"
+}

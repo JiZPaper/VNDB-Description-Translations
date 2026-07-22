@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c5963",
+  "type": "character",
+  "name": "Poe",
+  "original_name": "ポエ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious boy that the protagonist found.",
+  "source_sha256": "1fec01c653c15a86f5725974fa8f74f054eb19f89747268acda9e4c4623ba0aa",
+  "translation": "A mysterious boy that the protagonist found.",
+  "vndb_url": "https://vndb.org/c5963"
+}

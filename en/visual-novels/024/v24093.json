@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24093",
+  "type": "visual_novel",
+  "name": "Amy's Anxious Day",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel. You play as Amy's friends to help her get through a rough time.\n\n[From [url=https://rafiki.itch.io/amys-anxious-day] itch.io[/url]]",
+  "source_sha256": "1b298dfdf5826fdaf15d97a0779536cc5276fa2c81351ae07239a726aa4f63c0",
+  "translation": "A short visual novel. You play as Amy's friends to help her get through a rough time.\n\n[From [url=https://rafiki.itch.io/amys-anxious-day] itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v24093"
+}

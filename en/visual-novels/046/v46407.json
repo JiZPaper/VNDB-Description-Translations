@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46407",
+  "type": "visual_novel",
+  "name": "Shutoko VALKYRIE",
+  "original_name": "首都高VALKYRIE",
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about girls competing in cars, making friends, and falling in love.",
+  "source_sha256": "9c7e6141922751d0164912a1f5306affa5697475403502574521d10272e63f30",
+  "translation": "A story about girls competing in cars, making friends, and falling in love.",
+  "vndb_url": "https://vndb.org/v46407"
+}

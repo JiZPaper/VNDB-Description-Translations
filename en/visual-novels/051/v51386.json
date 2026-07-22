@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51386",
+  "type": "visual_novel",
+  "name": "NOISZ",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Visual Novel/Bullet Hell/Rhythm Game hybrid about fighting music monsters from another dimension.",
+  "source_sha256": "4715eef9ce68761e2f758dc208fd5ca089ff0225a4df6dbf185aac09e35be094",
+  "translation": "Visual Novel/Bullet Hell/Rhythm Game hybrid about fighting music monsters from another dimension.",
+  "vndb_url": "https://vndb.org/v51386"
+}

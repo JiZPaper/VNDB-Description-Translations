@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87082",
+  "type": "character",
+  "name": "Belle",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A stray cat who is Ray’s friend.",
+  "source_sha256": "29fb9fb9b2b2f23aa1d988c4ae44b8381ba5339509e0d3d28f4177b7bb2d3dcc",
+  "translation": "A stray cat who is Ray’s friend.",
+  "vndb_url": "https://vndb.org/c87082"
+}

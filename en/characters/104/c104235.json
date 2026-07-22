@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c104235",
+  "type": "character",
+  "name": "Janice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Receptionist for The Council Of The Unseen",
+  "source_sha256": "90ff97fcb803d81133ef6973215143668b8df1a8fefe892ecff9beb03f61d287",
+  "translation": "Receptionist for The Council Of The Unseen",
+  "vndb_url": "https://vndb.org/c104235"
+}

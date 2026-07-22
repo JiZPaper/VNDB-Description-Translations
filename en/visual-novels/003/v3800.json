@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3800",
+  "type": "visual_novel",
+  "name": "Eien no SO no Moto ni",
+  "original_name": "永遠のSOの下に",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mock dating sim game.",
+  "source_sha256": "4c7089645afaef2138f1eee975b2d0586b73e0b10e0ea270dc2fc6af1286c854",
+  "translation": "A mock dating sim game.",
+  "vndb_url": "https://vndb.org/v3800"
+}

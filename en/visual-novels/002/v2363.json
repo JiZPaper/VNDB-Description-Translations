@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2363",
+  "type": "visual_novel",
+  "name": "Lime Iro Jankitan ~Meiji Nippon, Otome Sakizumosu.~",
+  "original_name": "らいむいろ雀奇譚 ～明治日本、乙女先ヅモス。～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mahjong-game side-story of the series.",
+  "source_sha256": "e42b4fd8e30bf9ee2e614988962d459f1d39c93270da9919c6c4678b0ade8cf0",
+  "translation": "A mahjong-game side-story of the series.",
+  "vndb_url": "https://vndb.org/v2363"
+}

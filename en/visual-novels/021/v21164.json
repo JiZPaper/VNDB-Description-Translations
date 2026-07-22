@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21164",
+  "type": "visual_novel",
+  "name": "Alysson",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "It’s a small world where you can meet the same girl twice in one day. Paul, a thirty-something who has almost given up on love, falls head-over-heels for this beautiful woman.\n\n[From [url=https://ldjam.com/events/ludum-dare/38/alysson]ldjam.com[/url]]",
+  "source_sha256": "642e381f90b3bc4b9f8515bc544894d1d7164effa79a18dca6f1b731ecff63c5",
+  "translation": "It’s a small world where you can meet the same girl twice in one day. Paul, a thirty-something who has almost given up on love, falls head-over-heels for this beautiful woman.\n\n[From [url=https://ldjam.com/events/ludum-dare/38/alysson]ldjam.com[/url]]",
+  "vndb_url": "https://vndb.org/v21164"
+}

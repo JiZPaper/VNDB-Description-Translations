@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63419",
+  "type": "visual_novel",
+  "name": "La Seconda Occasione",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Italy, 1392. A guy sentenced to death escapes from an Angevin prison during a riot: the journey begins.",
+  "source_sha256": "00f6339e10bbf0c2503a8737299bd9be9b7170b2ff51c5d4de27ca76d51cf188",
+  "translation": "Italy, 1392. A guy sentenced to death escapes from an Angevin prison during a riot: the journey begins.",
+  "vndb_url": "https://vndb.org/v63419"
+}

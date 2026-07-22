@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65225",
+  "type": "visual_novel",
+  "name": "Persona 5: Visual Novel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A romantic visual novel based on Persona 5",
+  "source_sha256": "2d6f546344e4395a63d1d65652f61d5e5edb2100a3f25f370704b2a060d82e38",
+  "translation": "A romantic visual novel based on Persona 5",
+  "vndb_url": "https://vndb.org/v65225"
+}

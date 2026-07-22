@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25482",
+  "type": "character",
+  "name": "Professor Bill Couvalt",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A harsh teacher famously known for being unforgiving with his grading. Teaches several intro courses, so every incoming student has to make it through at least one of his classes. Also serves as Sian's academic adviser.",
+  "source_sha256": "070030269288e22ca6efc7e17fa3270a0eabcb45a286f4ec4641ec611c04fb8b",
+  "translation": "A harsh teacher famously known for being unforgiving with his grading. Teaches several intro courses, so every incoming student has to make it through at least one of his classes. Also serves as Sian's academic adviser.",
+  "vndb_url": "https://vndb.org/c25482"
+}

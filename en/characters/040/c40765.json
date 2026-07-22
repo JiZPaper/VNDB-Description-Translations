@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40765",
+  "type": "character",
+  "name": "Nyanmel",
+  "original_name": "ニャンメル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A magical cat coming from the Magic Kingdom in order to save the world.",
+  "source_sha256": "7bcef909ceb22a9255694fc20ea3e04bdab8fe60f49335100b6d887aa0e65769",
+  "translation": "A magical cat coming from the Magic Kingdom in order to save the world.",
+  "vndb_url": "https://vndb.org/c40765"
+}

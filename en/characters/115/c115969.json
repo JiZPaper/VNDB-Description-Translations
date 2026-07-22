@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115969",
+  "type": "character",
+  "name": "Alice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl that knows everything about the latest movies. Daniel's girlfriend.",
+  "source_sha256": "913ea3a8c1b8d114185de9c797be49266b9e28f6c0588ec0c26cec4ee547f794",
+  "translation": "A girl that knows everything about the latest movies. Daniel's girlfriend.",
+  "vndb_url": "https://vndb.org/c115969"
+}

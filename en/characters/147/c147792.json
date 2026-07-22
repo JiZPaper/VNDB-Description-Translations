@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c147792",
+  "type": "character",
+  "name": "Papa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bouncer at Heaven's Door",
+  "source_sha256": "a649664e01164bbf69bd6930507afe8091c26feb1f9852424398bc62d9513061",
+  "translation": "Bouncer at Heaven's Door",
+  "vndb_url": "https://vndb.org/c147792"
+}

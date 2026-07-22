@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38945",
+  "type": "character",
+  "name": "John Smith",
+  "original_name": "ジョン・スミス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A wandering world famous phantom thief.\nA crook who is always stealing beautiful artwork.\nHe's wanted by the police.",
+  "source_sha256": "3f384efe93d27a85d33dacf36d8d3c14d49c8d6e7f36b2314fdc4f1a33e0630c",
+  "translation": "A wandering world famous phantom thief.\nA crook who is always stealing beautiful artwork.\nHe's wanted by the police.",
+  "vndb_url": "https://vndb.org/c38945"
+}

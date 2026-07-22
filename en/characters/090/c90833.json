@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90833",
+  "type": "character",
+  "name": "Alyona",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A secondary character working in hotel where executive had stay",
+  "source_sha256": "604c876edcb024e50de116fc88e361440f053fc71b90dc0005c3633d85d2f5f9",
+  "translation": "A secondary character working in hotel where executive had stay",
+  "vndb_url": "https://vndb.org/c90833"
+}

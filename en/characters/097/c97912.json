@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97912",
+  "type": "character",
+  "name": "???",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An android corpse found inside a decaying building deep in the woods.",
+  "source_sha256": "33e6db681062e11008a745051a7e60d45c0647b19979f1c71747f6b19a09b8ee",
+  "translation": "An android corpse found inside a decaying building deep in the woods.",
+  "vndb_url": "https://vndb.org/c97912"
+}

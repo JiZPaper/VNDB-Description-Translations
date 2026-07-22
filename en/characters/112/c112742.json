@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112742",
+  "type": "character",
+  "name": "Faust",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the prisoners in June. He comes off as friendly but also strange.",
+  "source_sha256": "3b497785c22f08c21c388be30eab22f663bab11eab970e232793364c54b82099",
+  "translation": "One of the prisoners in June. He comes off as friendly but also strange.",
+  "vndb_url": "https://vndb.org/c112742"
+}

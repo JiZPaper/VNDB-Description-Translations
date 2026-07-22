@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12969",
+  "type": "visual_novel",
+  "name": "Skeleton Meds",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short game about the side effects of psychiatric medications.",
+  "source_sha256": "21c0768d1984ee36932942abe8bc85298a45d90a5883783eb026ff4c913267d7",
+  "translation": "A short game about the side effects of psychiatric medications.",
+  "vndb_url": "https://vndb.org/v12969"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c109101",
+  "type": "character",
+  "name": "Jess",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Alley's roommate.",
+  "source_sha256": "f7e1a1f71080613e7d672732b109a213427bf351aef631c3d10f77e95b73a808",
+  "translation": "Alley's roommate.",
+  "vndb_url": "https://vndb.org/c109101"
+}

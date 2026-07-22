@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c142208",
+  "type": "character",
+  "name": "Khukha",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A little fluffy creature with wings. Forest spirit",
+  "source_sha256": "d13552921a1f6575b3e661e72e84b8abcc2a2def8ec1f2bc64b184224662567d",
+  "translation": "A little fluffy creature with wings. Forest spirit",
+  "vndb_url": "https://vndb.org/c142208"
+}

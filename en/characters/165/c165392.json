@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165392",
+  "type": "character",
+  "name": "Granny",
+  "original_name": "Бабушка",
+  "language": "en",
+  "source_language": "en",
+  "source": "A granny pedestrian NPC in the game played by Victor. Brutally murdered with a shotgun blast to the head by a Gangster just for fun",
+  "source_sha256": "88c74225ff8978ad3c35aa9471fc49e400f16ad1cb61fadd03bd832d83061b6d",
+  "translation": "A granny pedestrian NPC in the game played by Victor. Brutally murdered with a shotgun blast to the head by a Gangster just for fun",
+  "vndb_url": "https://vndb.org/c165392"
+}

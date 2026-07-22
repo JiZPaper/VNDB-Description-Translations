@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102990",
+  "type": "character",
+  "name": "Dhena",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Maid to [url=/c102976]Morgana[/url]",
+  "source_sha256": "5d11b93d6909bf93550cfa90fc4d8d28dcb8223b21349ed00839ee0d1bae995a",
+  "translation": "Maid to [url=/c102976]Morgana[/url]",
+  "vndb_url": "https://vndb.org/c102990"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134778",
+  "type": "character",
+  "name": "Erden",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Imperial Executor of Fernia.",
+  "source_sha256": "f726750399f49a385d39c1e00e80aaab74e5bccfc03df9ee060a4229938a4588",
+  "translation": "Imperial Executor of Fernia.",
+  "vndb_url": "https://vndb.org/c134778"
+}

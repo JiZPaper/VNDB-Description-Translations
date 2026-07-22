@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10676",
+  "type": "visual_novel",
+  "name": "DEBAG GAME 1-2-3",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "3 short stories made with the main goal of debugging the nbook engine.",
+  "source_sha256": "b87441311cd2012974ec3eac001e93f9560e6e404ed40d247862d52e8559d909",
+  "translation": "3 short stories made with the main goal of debugging the nbook engine.",
+  "vndb_url": "https://vndb.org/v10676"
+}

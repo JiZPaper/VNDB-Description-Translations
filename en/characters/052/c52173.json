@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c52173",
+  "type": "character",
+  "name": "Hanavi",
+  "original_name": "ハナヴィー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Former Maya Union assassination target with a priority number of 38.",
+  "source_sha256": "a30d0b420c3707b447865a951767fec7aafb87af94cd5c8439a5255a3c52f872",
+  "translation": "Former Maya Union assassination target with a priority number of 38.",
+  "vndb_url": "https://vndb.org/c52173"
+}

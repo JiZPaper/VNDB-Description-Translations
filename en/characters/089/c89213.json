@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89213",
+  "type": "character",
+  "name": "Kannushi",
+  "original_name": "神主",
+  "language": "en",
+  "source_language": "en",
+  "source": "Chief priest of the local shrine.\n\n[spoiler][url=/c9957]Towa[/url]'s distant relative.[/spoiler]",
+  "source_sha256": "4569298aa4f77e675bb81b006ce5579123b9055b7998d43388c78f7d0e7681c3",
+  "translation": "Chief priest of the local shrine.\n\n[spoiler][url=/c9957]Towa[/url]'s distant relative.[/spoiler]",
+  "vndb_url": "https://vndb.org/c89213"
+}

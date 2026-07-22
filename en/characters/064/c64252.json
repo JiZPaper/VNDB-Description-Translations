@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64252",
+  "type": "character",
+  "name": "Father Fritz",
+  "original_name": "フリッツ 神父",
+  "language": "en",
+  "source_language": "en",
+  "source": "He was friend's with [url=/c43804]Meiyui's[/url] dead father.",
+  "source_sha256": "462c86177ec679661e6c0c509fe865f9f91b470500d95c50d9365cd6d655d73b",
+  "translation": "He was friend's with [url=/c43804]Meiyui's[/url] dead father.",
+  "vndb_url": "https://vndb.org/c64252"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c32192",
+  "type": "character",
+  "name": "Koumei",
+  "original_name": "孔明",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Wandering \"Wise Man\".\nSpecial Skill: Weather Forecasting\nFavorite Thing: Reading\nThing He's Bad With: Keeping Things Neat",
+  "source_sha256": "16a7f2fcf26dcbc247340aed4ac58cdaa29701c7365603b5568e0850c2be3312",
+  "translation": "A Wandering \"Wise Man\".\nSpecial Skill: Weather Forecasting\nFavorite Thing: Reading\nThing He's Bad With: Keeping Things Neat",
+  "vndb_url": "https://vndb.org/c32192"
+}

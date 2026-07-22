@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c18316",
+  "type": "character",
+  "name": "Okada",
+  "original_name": "岡田",
+  "language": "en",
+  "source_language": "en",
+  "source": "The police officer in charge of negotiating with Aota.",
+  "source_sha256": "c7ea862ac57a0b55d3871fd57c1e69bd26c3745ab78c853644313a0b604efa8e",
+  "translation": "The police officer in charge of negotiating with Aota.",
+  "vndb_url": "https://vndb.org/c18316"
+}

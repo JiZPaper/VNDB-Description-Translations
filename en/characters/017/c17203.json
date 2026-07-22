@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17203",
+  "type": "character",
+  "name": "Achilles",
+  "original_name": "アキレス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on Achilles, who was a Greek hero of the Trojan War and the central character and greatest warrior of Homer's Iliad.\n\n”You think that’s even nearly fast enough to keep up? Hah!”",
+  "source_sha256": "e2886ed41590566846f4836543ac2b5be2f37f01cddd0841ca74e51bd59e70a4",
+  "translation": "Based on Achilles, who was a Greek hero of the Trojan War and the central character and greatest warrior of Homer's Iliad.\n\n”You think that’s even nearly fast enough to keep up? Hah!”",
+  "vndb_url": "https://vndb.org/c17203"
+}

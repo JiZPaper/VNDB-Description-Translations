@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57885",
+  "type": "visual_novel",
+  "name": "Floorboards",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as someone investigating a murder in a house that listens and lies.\n\n[From [url=https://eamxs.itch.io/floorboards]Itch.io[/url]]",
+  "source_sha256": "62819cf16de8427f60b6350566cc4284397f280fbfb7ac1ff0da0c7333b969e3",
+  "translation": "You play as someone investigating a murder in a house that listens and lies.\n\n[From [url=https://eamxs.itch.io/floorboards]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v57885"
+}

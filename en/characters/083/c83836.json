@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c83836",
+  "type": "character",
+  "name": "Elcia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Muki's co-worker in the Change Cafe.",
+  "source_sha256": "4b0c1ca6ffe1c52af1012664493dfec08a5ceb648de7a3bb8570877b8b8f43ee",
+  "translation": "Muki's co-worker in the Change Cafe.",
+  "vndb_url": "https://vndb.org/c83836"
+}

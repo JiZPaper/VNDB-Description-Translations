@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28180",
+  "type": "visual_novel",
+  "name": "Zhelanie s sekretom",
+  "original_name": "Желание с секретом",
+  "language": "en",
+  "source_language": "en",
+  "source": "You don't need to be a wizard and have superpower to do a magic. Because through the magic people begin to see the world differently.",
+  "source_sha256": "aeaf07a8e990db6cb49aafce22b4135c8a8c5f81e14597cfa3d5ba5c6bcf460a",
+  "translation": "You don't need to be a wizard and have superpower to do a magic. Because through the magic people begin to see the world differently.",
+  "vndb_url": "https://vndb.org/v28180"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c2359",
+  "type": "character",
+  "name": "Becky",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A waitress.",
+  "source_sha256": "4f140c1a4356a7bfe1cbf6a9be123e9f91e78ea04229faa864ab4a60ae95fe62",
+  "translation": "A waitress.",
+  "vndb_url": "https://vndb.org/c2359"
+}

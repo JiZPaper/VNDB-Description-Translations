@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20225",
+  "type": "character",
+  "name": "Memphis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Max's bandmate.",
+  "source_sha256": "a98724144e9cb18c18cc3cac132c40ad2b802043f9220f8af8336d443cfe935e",
+  "translation": "Max's bandmate.",
+  "vndb_url": "https://vndb.org/c20225"
+}

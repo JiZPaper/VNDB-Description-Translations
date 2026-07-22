@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21610",
+  "type": "visual_novel",
+  "name": "Jouen@Spiral",
+  "original_name": "情炎＠スパイラル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A collection of five short side stories set during/after the events of the Jouen series.",
+  "source_sha256": "e230c1ae9514ce07ae64d10bc4f50591d023d2b92fa0952ddd37e6d738368ee8",
+  "translation": "A collection of five short side stories set during/after the events of the Jouen series.",
+  "vndb_url": "https://vndb.org/v21610"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120089",
+  "type": "character",
+  "name": "Katarina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A classmate that also works at the libarary",
+  "source_sha256": "b06d6d39b59fb2c56edd30e6e3bff12fc02d019f3e81f31a7890c0f2ac5f766b",
+  "translation": "A classmate that also works at the libarary",
+  "vndb_url": "https://vndb.org/c120089"
+}

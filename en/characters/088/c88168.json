@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88168",
+  "type": "character",
+  "name": "Tracy",
+  "original_name": "トレイシー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious man who works as Williams driver.\nHe's taciturn and gives off a cold impression.",
+  "source_sha256": "503f977b79d18c2817428422fa5ebe1c7fcdb2df22259f5dbf07bb71c1bfaa6d",
+  "translation": "A mysterious man who works as Williams driver.\nHe's taciturn and gives off a cold impression.",
+  "vndb_url": "https://vndb.org/c88168"
+}

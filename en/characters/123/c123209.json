@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123209",
+  "type": "character",
+  "name": "Jade",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A summoner sorceress that has a pet golem.",
+  "source_sha256": "07ae5ad09d5b2a4355dccc4e864e0fc3cde00a7be0b64ddf23f340341fdb5ffe",
+  "translation": "A summoner sorceress that has a pet golem.",
+  "vndb_url": "https://vndb.org/c123209"
+}

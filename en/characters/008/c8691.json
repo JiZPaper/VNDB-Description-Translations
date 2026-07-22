@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8691",
+  "type": "character",
+  "name": "Welza",
+  "original_name": "ウェルザ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Standard web browser (標準ウェブブラウザ)",
+  "source_sha256": "096e9ed2380465810bfa25e12afd2a24fa6a662f7d6baa1c322682e5e278e8d2",
+  "translation": "Standard web browser (標準ウェブブラウザ)",
+  "vndb_url": "https://vndb.org/c8691"
+}

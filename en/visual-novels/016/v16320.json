@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16320",
+  "type": "visual_novel",
+  "name": "Yanderella",
+  "original_name": "ヤンデレラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Yatarou is a high school student who has two close friends, Honoka and Hinata. Hinata, who had moved away while they were in elementary school, comes back to visit, and the three of them decide to spend time together while she's in town.",
+  "source_sha256": "9c1ba2caba9c7b52d7a087c8bd5762bc0c04b34b9b758c18c3c171c743351403",
+  "translation": "Yatarou is a high school student who has two close friends, Honoka and Hinata. Hinata, who had moved away while they were in elementary school, comes back to visit, and the three of them decide to spend time together while she's in town.",
+  "vndb_url": "https://vndb.org/v16320"
+}

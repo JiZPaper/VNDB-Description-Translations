@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26228",
+  "type": "visual_novel",
+  "name": "Esper",
+  "original_name": "エスパ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Can a robot save a master?",
+  "source_sha256": "e07a7ab9aa117d33e6c8f1748e7b1f54fb75eed9bfffc6781dfb994d8045b42f",
+  "translation": "Can a robot save a master?",
+  "vndb_url": "https://vndb.org/v26228"
+}

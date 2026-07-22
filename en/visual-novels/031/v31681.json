@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31681",
+  "type": "visual_novel",
+  "name": "Ensemble Stars!",
+  "original_name": "あんさんぶるスターズ！",
+  "language": "en",
+  "source_language": "en",
+  "source": "Yumenosaki Academy is an all-boys high school that trains idols. The protagonist is the first student to be enrolled in the Producer Course. It's her duty to help manage the idols.",
+  "source_sha256": "58a12e97fcda03a023966de4d802c39d5eb72b015e03f6854c2cafa82e898736",
+  "translation": "Yumenosaki Academy is an all-boys high school that trains idols. The protagonist is the first student to be enrolled in the Producer Course. It's her duty to help manage the idols.",
+  "vndb_url": "https://vndb.org/v31681"
+}

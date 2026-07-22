@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84199",
+  "type": "character",
+  "name": "Goani",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Male Kui\nOrigin: Abandoned Desert\nHobby: Eating berries\nJob: Babysitter, Waiter",
+  "source_sha256": "5687f763a302498ba8ab6318b7896216381a696459b2dfe15ed08e2738e7b24b",
+  "translation": "Race: Male Kui\nOrigin: Abandoned Desert\nHobby: Eating berries\nJob: Babysitter, Waiter",
+  "vndb_url": "https://vndb.org/c84199"
+}

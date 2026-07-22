@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100944",
+  "type": "character",
+  "name": "Kim",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An activist from Berlin.",
+  "source_sha256": "45cf613b519287415971c3ee89bf98366769f8a18a5a94344579ec77461c2086",
+  "translation": "An activist from Berlin.",
+  "vndb_url": "https://vndb.org/c100944"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c54751",
+  "type": "character",
+  "name": "Wakase Ayumi",
+  "original_name": "若瀬 あゆみ",
+  "language": "en",
+  "source_language": "en",
+  "source": "scenario 1",
+  "source_sha256": "2e738e1f5798eea3237036540445de240937a6fa52c525df079a136175357bc5",
+  "translation": "scenario 1",
+  "vndb_url": "https://vndb.org/c54751"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33204",
+  "type": "character",
+  "name": "Alicia",
+  "original_name": "アリシア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Lily's friend and coworker at the library.",
+  "source_sha256": "d5f417c183329ff2e46b8f4a2f630dc2f18107b184ea0b9612ddb624cc916893",
+  "translation": "Lily's friend and coworker at the library.",
+  "vndb_url": "https://vndb.org/c33204"
+}

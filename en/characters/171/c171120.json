@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c171120",
+  "type": "character",
+  "name": "Charleville",
+  "original_name": "シャルヴィル",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Bonjour. I'm Charleville.\nI'm a musket born in France.\n\nI'm quite an old gun among military firearms,\nso I don't think I'll be very useful on today's battlefields, but...\n\nAs long as you need me, Master, I'll always be by your side.\nLooking forward to working with you, Master.\"",
+  "source_sha256": "37cfdd1cf0d61b0ab522907963f6ed1075b3dd2112cb0bb80a8229508c61a816",
+  "translation": "\"Bonjour. I'm Charleville.\nI'm a musket born in France.\n\nI'm quite an old gun among military firearms,\nso I don't think I'll be very useful on today's battlefields, but...\n\nAs long as you need me, Master, I'll always be by your side.\nLooking forward to working with you, Master.\"",
+  "vndb_url": "https://vndb.org/c171120"
+}

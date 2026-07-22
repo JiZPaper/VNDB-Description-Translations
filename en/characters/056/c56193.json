@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c56193",
+  "type": "character",
+  "name": "Alan",
+  "original_name": "アラン",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist. A former mafia assasin.",
+  "source_sha256": "161b71eb82b10e91fa39f46f9cfed2aafe1a4d7f87455144d69bcb0f091173e5",
+  "translation": "The protagonist. A former mafia assasin.",
+  "vndb_url": "https://vndb.org/c56193"
+}

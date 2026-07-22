@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168736",
+  "type": "character",
+  "name": "Black Widow",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The lone woman",
+  "source_sha256": "bb61e62c34cba60d2cffb4d9094e8d8143046cf6c6616bcb0fb5444a03bc6897",
+  "translation": "The lone woman",
+  "vndb_url": "https://vndb.org/c168736"
+}

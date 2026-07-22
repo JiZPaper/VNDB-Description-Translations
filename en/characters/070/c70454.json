@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70454",
+  "type": "character",
+  "name": "Psyche",
+  "original_name": "프시케",
+  "language": "en",
+  "source_language": "en",
+  "source": "A research worker of Albedo Sphaera.",
+  "source_sha256": "cb49ac62beaef9af27f901aab384f215188ea70f77ec75869e5b7b047fec5013",
+  "translation": "A research worker of Albedo Sphaera.",
+  "vndb_url": "https://vndb.org/c70454"
+}

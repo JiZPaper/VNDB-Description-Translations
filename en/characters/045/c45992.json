@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45992",
+  "type": "character",
+  "name": "Koyomi",
+  "original_name": "こよみ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Novice Miko",
+  "source_sha256": "3c35aea1ce150ee99c6dc264951d2190227b0310e47b12a08d1c9eb210a16f28",
+  "translation": "Novice Miko",
+  "vndb_url": "https://vndb.org/c45992"
+}

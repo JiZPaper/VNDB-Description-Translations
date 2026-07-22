@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c10996",
+  "type": "character",
+  "name": "Shopkeeper",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of an antiques shop downtown.",
+  "source_sha256": "66cbb5a278b9cccaabcda8e3699bbb7e28b8b98ff9eebe4e8d37206a796e187d",
+  "translation": "The owner of an antiques shop downtown.",
+  "vndb_url": "https://vndb.org/c10996"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64006",
+  "type": "visual_novel",
+  "name": "Asana",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A sci-fi dark comedy visual novel. Build your stats, navigate branching paths, and argue with N.E.K.O., the ship’s godlike AI in cat form. Live AI conversations with multiple characters shape your path, making every run different. Every choice matters. N.E.K.O. is still not impressed.",
+  "source_sha256": "70077bb0c8f19b721b93a81dacb2bbae202f060bb704428a1f94c47f1b7dbef4",
+  "translation": "A sci-fi dark comedy visual novel. Build your stats, navigate branching paths, and argue with N.E.K.O., the ship’s godlike AI in cat form. Live AI conversations with multiple characters shape your path, making every run different. Every choice matters. N.E.K.O. is still not impressed.",
+  "vndb_url": "https://vndb.org/v64006"
+}

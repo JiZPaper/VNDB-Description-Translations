@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96770",
+  "type": "character",
+  "name": "Cafe owner",
+  "original_name": "喫茶店のマスター",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]He is Servant and his true name is [url=https://en.wikipedia.org/wiki/Alonso_Quijano]Alonso Quijano[/url].[/spoiler]",
+  "source_sha256": "e380f3bf6df678a2767bb7e31f9a4bd8d872dde44850289f5b0a9d350c51dc1a",
+  "translation": "[spoiler]He is Servant and his true name is [url=https://en.wikipedia.org/wiki/Alonso_Quijano]Alonso Quijano[/url].[/spoiler]",
+  "vndb_url": "https://vndb.org/c96770"
+}

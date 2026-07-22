@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14037",
+  "type": "visual_novel",
+  "name": "Kakoi",
+  "original_name": "囲 -カコイ-",
+  "language": "en",
+  "source_language": "en",
+  "source": "A man wakes up in a strange room with no memories.\n\nWho is he? Who is this nameless stranger who takes care of him? And why is he always locked in?",
+  "source_sha256": "3a8faaf4c1ecad7f78a32ce5c7c38e827540cf1094d8a8d1b9a38cee606e6c4c",
+  "translation": "A man wakes up in a strange room with no memories.\n\nWho is he? Who is this nameless stranger who takes care of him? And why is he always locked in?",
+  "vndb_url": "https://vndb.org/v14037"
+}

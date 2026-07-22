@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c5352",
+  "type": "character",
+  "name": "Shiki Nozomi",
+  "original_name": "志木 のぞみ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A friendly music teacher.",
+  "source_sha256": "f44a845954a36ca1b4efdc29c55a7aef05b906620e021222e477230b7e9bf156",
+  "translation": "A friendly music teacher.",
+  "vndb_url": "https://vndb.org/c5352"
+}

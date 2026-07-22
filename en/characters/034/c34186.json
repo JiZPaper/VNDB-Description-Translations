@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34186",
+  "type": "character",
+  "name": "Professor Moriarty",
+  "original_name": "モリアーティ 教授",
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader of a group of criminals and former math professor.\nHe should have died at Reichenbach Falls but...",
+  "source_sha256": "28ea693a71b186d1af2194f77f02fded2268f1690f5d7f6d0dae4b80f023d58c",
+  "translation": "Leader of a group of criminals and former math professor.\nHe should have died at Reichenbach Falls but...",
+  "vndb_url": "https://vndb.org/c34186"
+}

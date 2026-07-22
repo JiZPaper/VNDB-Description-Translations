@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c516",
+  "type": "character",
+  "name": "Saiki",
+  "original_name": "斎木",
+  "language": "en",
+  "source_language": "en",
+  "source": "Saiki is a maid in the Kashiwara household. She is compliant to [url=/c518]Masatsugu[/url].\n[From [url=http://en.wikipedia.org/wiki/Kirakira_(visual_novel)]Wikipedia[/url]]",
+  "source_sha256": "7849e9a12208e6d9f236001a9e52ddf900dab209b7872b763964741d10a0e85e",
+  "translation": "Saiki is a maid in the Kashiwara household. She is compliant to [url=/c518]Masatsugu[/url].\n[From [url=http://en.wikipedia.org/wiki/Kirakira_(visual_novel)]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/c516"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62192",
+  "type": "visual_novel",
+  "name": "Millhaven",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A village caught between cyber-enhanced merchants and tribal warrior clans. You've settled here — and two women have caught your eye. But rivals have noticed them too.",
+  "source_sha256": "b694f90d9b5800979e11657b3a7a41b7a45f58c796d7a367dcae7333b9c76c8b",
+  "translation": "A village caught between cyber-enhanced merchants and tribal warrior clans. You've settled here — and two women have caught your eye. But rivals have noticed them too.",
+  "vndb_url": "https://vndb.org/v62192"
+}

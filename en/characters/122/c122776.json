@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122776",
+  "type": "character",
+  "name": "Sirius Black",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dog. It talks.",
+  "source_sha256": "2cb213e13b4f574ebf17f8ca6984c43f8f18b40d824a2bd8487d4a3df612dbb4",
+  "translation": "A dog. It talks.",
+  "vndb_url": "https://vndb.org/c122776"
+}

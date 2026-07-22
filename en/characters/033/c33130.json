@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33130",
+  "type": "character",
+  "name": "Bishop",
+  "original_name": "ビショップ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I'm Position Bishop. It's a job title you see.\"\nA mysterious man that Nadeshiko meets in the \"Dream World\".",
+  "source_sha256": "ded8d1bad215ef1834133e9b47e7770c181be158e1918509841062f6c38ab869",
+  "translation": "\"I'm Position Bishop. It's a job title you see.\"\nA mysterious man that Nadeshiko meets in the \"Dream World\".",
+  "vndb_url": "https://vndb.org/c33130"
+}

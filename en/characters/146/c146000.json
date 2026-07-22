@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146000",
+  "type": "character",
+  "name": "Mia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Cleric of Andolisa.\n\n[In game description]",
+  "source_sha256": "6404f0daec0f376278cf350bd65b12813dc147ed739713b8a5d602cd31d85afe",
+  "translation": "Cleric of Andolisa.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c146000"
+}

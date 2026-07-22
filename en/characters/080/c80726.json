@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c80726",
+  "type": "character",
+  "name": "Shinobu",
+  "original_name": "シノブ",
+  "language": "en",
+  "source_language": "en",
+  "source": "An university student.",
+  "source_sha256": "78cc0843df3238b1acaf2a9187f35e46cea6d5c00a064eea6059ec569646b7f0",
+  "translation": "An university student.",
+  "vndb_url": "https://vndb.org/c80726"
+}

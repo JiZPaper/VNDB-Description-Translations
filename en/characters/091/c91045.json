@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91045",
+  "type": "character",
+  "name": "Emilio",
+  "original_name": "エミリオ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A clergyman of Rome. A boy whose behavior and expressions are disproportionately composed for his age. He has a strange air about him.",
+  "source_sha256": "b8762f74d1a95b302a186c0559b85addb2d273a7e9c62da1b9b64560f27ee1a4",
+  "translation": "A clergyman of Rome. A boy whose behavior and expressions are disproportionately composed for his age. He has a strange air about him.",
+  "vndb_url": "https://vndb.org/c91045"
+}

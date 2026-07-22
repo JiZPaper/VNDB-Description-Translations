@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76305",
+  "type": "character",
+  "name": "Jack Buchanan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A quiet and reserved teacher with some nasty hobbies.",
+  "source_sha256": "e2b9e9cf57541a52e75e4ce16262646d4f6e1b6eaef2df21d526e60973c93a76",
+  "translation": "A quiet and reserved teacher with some nasty hobbies.",
+  "vndb_url": "https://vndb.org/c76305"
+}

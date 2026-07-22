@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15222",
+  "type": "character",
+  "name": "Keen",
+  "original_name": "キーン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A quiet man who doesn't hesitate to kill when he needs to. His family was murdered eight years ago; no one was ever arrested for the crime.",
+  "source_sha256": "bd9a6dce7be4ed0d21f49991b07e87905345ccd3b268a46f6bf9531b6e3843a9",
+  "translation": "A quiet man who doesn't hesitate to kill when he needs to. His family was murdered eight years ago; no one was ever arrested for the crime.",
+  "vndb_url": "https://vndb.org/c15222"
+}

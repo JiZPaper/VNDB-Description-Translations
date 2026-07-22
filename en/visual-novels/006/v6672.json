@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6672",
+  "type": "visual_novel",
+  "name": "Mitsumete Knight",
+  "original_name": "みつめてナイト",
+  "language": "en",
+  "source_language": "en",
+  "source": "The player is a mercenary from the east travelling to the kingdom of Dolphan, modelled after middle-ages Europe. He had been hired to aid the war fought by the country, which will last throughout the following three years of the game, where the player will meet a number of the different characters and develop a relationship with them.\n\n[from [URL=http://en.wikipedia.org/wiki/Mitsumete_Knight]Wikipedia[/url]]",
+  "source_sha256": "f104443ec4000356f35ff566bad40fd7f0d25dc01742f4c74edce66a78594335",
+  "translation": "The player is a mercenary from the east travelling to the kingdom of Dolphan, modelled after middle-ages Europe. He had been hired to aid the war fought by the country, which will last throughout the following three years of the game, where the player will meet a number of the different characters and develop a relationship with them.\n\n[from [URL=http://en.wikipedia.org/wiki/Mitsumete_Knight]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/v6672"
+}

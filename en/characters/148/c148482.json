@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148482",
+  "type": "character",
+  "name": "Cosplayer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Seen in the Halloween section.",
+  "source_sha256": "9cedac6695ec17f30b34a90caedd3b515111a74b7cec2502a18e2df82e6faec4",
+  "translation": "Seen in the Halloween section.",
+  "vndb_url": "https://vndb.org/c148482"
+}

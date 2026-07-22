@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8832",
+  "type": "visual_novel",
+  "name": "Higanbana no Saku Yoru ni - Dai Ni Ya",
+  "original_name": "彼岸花の咲く夜に 第二夜",
+  "language": "en",
+  "source_language": "en",
+  "source": "Continuation of [url=/v7576]Higanbana no Saku Yoru ni - Dai Ichi Ya[/url].",
+  "source_sha256": "772702ac2255340b08cf471ef17fd340db9eff49a4de63a992c536c75cd8c172",
+  "translation": "Continuation of [url=/v7576]Higanbana no Saku Yoru ni - Dai Ichi Ya[/url].",
+  "vndb_url": "https://vndb.org/v8832"
+}

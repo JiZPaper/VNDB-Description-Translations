@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55455",
+  "type": "character",
+  "name": "Lisa Brinker",
+  "original_name": "リザ・ブリンカー",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the Hound units under Margit Eberach.",
+  "source_sha256": "0c1046bea652872c148d012cc71ffef2f1e871ea3c391a112738138814aec77b",
+  "translation": "One of the Hound units under Margit Eberach.",
+  "vndb_url": "https://vndb.org/c55455"
+}

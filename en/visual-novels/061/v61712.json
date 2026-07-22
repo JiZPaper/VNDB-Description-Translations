@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61712",
+  "type": "visual_novel",
+  "name": "My Heart is in the Code",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Visual Novel centered around personifications of the assignments from various School of Computer Science courses at Carnegie Mellon.\n\n[Edited from [url=https://www.gamecreation.org/games/my_heart_is_in_the_code]official site[/url]]",
+  "source_sha256": "f8ffaefc7efa5e4702a525c76849441a560b1c1726064d8185a18f3590d0e6d0",
+  "translation": "A Visual Novel centered around personifications of the assignments from various School of Computer Science courses at Carnegie Mellon.\n\n[Edited from [url=https://www.gamecreation.org/games/my_heart_is_in_the_code]official site[/url]]",
+  "vndb_url": "https://vndb.org/v61712"
+}

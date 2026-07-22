@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89169",
+  "type": "character",
+  "name": "Yoshihide Kobayashi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The ship's captain.",
+  "source_sha256": "57a8f0af75b8d2948197a0aa43585f5ad9776ce0d0f3f61ed28c1e0eccaf8dad",
+  "translation": "The ship's captain.",
+  "vndb_url": "https://vndb.org/c89169"
+}

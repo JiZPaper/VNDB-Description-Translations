@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132767",
+  "type": "character",
+  "name": "Light",
+  "original_name": "莱特",
+  "language": "en",
+  "source_language": "en",
+  "source": "The first pontiff of the White Church",
+  "source_sha256": "6197e1fd73f12c91891dc0b4dda9b4d9bb205151d995dc8ebd1554fef3fe03ab",
+  "translation": "The first pontiff of the White Church",
+  "vndb_url": "https://vndb.org/c132767"
+}

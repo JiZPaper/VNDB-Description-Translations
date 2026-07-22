@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c54303",
+  "type": "character",
+  "name": "Miru",
+  "original_name": "海松",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Student (Alchemist)\nStrong Point: Studying\nWeak Point: Being Social",
+  "source_sha256": "1343b3b2f7c886baf191525043d7736793c41a5517edc58afe4ecc0239f9613f",
+  "translation": "Occupation: Student (Alchemist)\nStrong Point: Studying\nWeak Point: Being Social",
+  "vndb_url": "https://vndb.org/c54303"
+}

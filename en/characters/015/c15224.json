@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15224",
+  "type": "character",
+  "name": "Know",
+  "original_name": "ノウ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Next whose parents have died. Lives with his uncle and earns money as an information broker.",
+  "source_sha256": "eed2e9a064920341e516f36d1339ce473296c16d9d8ac04b3e66bccbd1590998",
+  "translation": "A Next whose parents have died. Lives with his uncle and earns money as an information broker.",
+  "vndb_url": "https://vndb.org/c15224"
+}

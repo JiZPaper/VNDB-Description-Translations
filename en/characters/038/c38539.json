@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38539",
+  "type": "character",
+  "name": "Nataku",
+  "original_name": "ナタク",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"...I hope that you can safely complete your mission.\"\nA mysterious youth who is good at fortune telling, his true motives are unknown.",
+  "source_sha256": "d0222f24e7419b4d3815bd60f86b6b0033771e4874a9e82f3caccfe0e483fb5e",
+  "translation": "\"...I hope that you can safely complete your mission.\"\nA mysterious youth who is good at fortune telling, his true motives are unknown.",
+  "vndb_url": "https://vndb.org/c38539"
+}

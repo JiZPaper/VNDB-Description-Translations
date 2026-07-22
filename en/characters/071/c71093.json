@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71093",
+  "type": "character",
+  "name": "Ira",
+  "original_name": "イラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader of Team Forte.",
+  "source_sha256": "04453cae0173ece87526ff2d80778334511a754566ca2771d9d96b284b86fc1d",
+  "translation": "Leader of Team Forte.",
+  "vndb_url": "https://vndb.org/c71093"
+}

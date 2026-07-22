@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c147158",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist can be choosen from 3 Races: Human, Kitalphan or Tilaari",
+  "source_sha256": "a89127c11b45d2fd9af90fdf39e426e10baf2f185d2918384599e75a4e9d1dd5",
+  "translation": "Protagonist can be choosen from 3 Races: Human, Kitalphan or Tilaari",
+  "vndb_url": "https://vndb.org/c147158"
+}

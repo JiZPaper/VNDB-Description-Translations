@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36250",
+  "type": "character",
+  "name": "Beatrice",
+  "original_name": "ベアトリーチェ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The last alive specimen of the first generation of Non-Humans.",
+  "source_sha256": "899dfd2dfda2f6a6680aa69fb4c52cb3f9fd23e8224caef0c7e05350ee66f370",
+  "translation": "The last alive specimen of the first generation of Non-Humans.",
+  "vndb_url": "https://vndb.org/c36250"
+}

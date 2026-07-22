@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12571",
+  "type": "visual_novel",
+  "name": "Glass Heart Princess: Platinum",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fandisc for Glass Heart Princess, featuring afterstories for each character, seacoast scenario, main characters' POVs and special chapter dedicated to troll maid Satsuki.",
+  "source_sha256": "7b10ae17ba256807b96154cacf0a8f07314a3f6f33c954e86505f58e45eeca97",
+  "translation": "A fandisc for Glass Heart Princess, featuring afterstories for each character, seacoast scenario, main characters' POVs and special chapter dedicated to troll maid Satsuki.",
+  "vndb_url": "https://vndb.org/v12571"
+}

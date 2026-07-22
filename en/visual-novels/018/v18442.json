@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18442",
+  "type": "visual_novel",
+  "name": "Restart!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fan-fiction otome game based on Kuroko no Basuke.",
+  "source_sha256": "5fafc353c455e5807d1e0e0973a90385a4877cff64eb134ba95df1a00b071bec",
+  "translation": "A fan-fiction otome game based on Kuroko no Basuke.",
+  "vndb_url": "https://vndb.org/v18442"
+}

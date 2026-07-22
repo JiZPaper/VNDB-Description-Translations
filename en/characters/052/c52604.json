@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c52604",
+  "type": "character",
+  "name": "Shichirya",
+  "original_name": "シチーリヤ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Raikou's retainer.",
+  "source_sha256": "86f83b192a49c63e6c842cbf0eeeb388371f5a62503de9278a361b6cb4fb6262",
+  "translation": "Raikou's retainer.",
+  "vndb_url": "https://vndb.org/c52604"
+}

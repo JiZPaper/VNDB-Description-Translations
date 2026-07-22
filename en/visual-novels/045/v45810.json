@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45810",
+  "type": "visual_novel",
+  "name": "An Absolute Truth",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A weird and surreal linear story from the author's subconscious.",
+  "source_sha256": "74a6d16f10aac169e8809c837e2c8bb03dcaac56136491f8a6b46b28a338670b",
+  "translation": "A weird and surreal linear story from the author's subconscious.",
+  "vndb_url": "https://vndb.org/v45810"
+}

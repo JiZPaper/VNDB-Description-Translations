@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122694",
+  "type": "character",
+  "name": "Abby Sprocket",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A time traveler stuck in present day Ponyville.",
+  "source_sha256": "f0be312a4620f0ecc1ac51d73dba246249a0464b3cf4ba2d7964fea9b38cac15",
+  "translation": "A time traveler stuck in present day Ponyville.",
+  "vndb_url": "https://vndb.org/c122694"
+}

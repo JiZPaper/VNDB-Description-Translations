@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90103",
+  "type": "character",
+  "name": "Marcus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A skilled small-town blacksmith, values nothing more than caring for his bedridden father.",
+  "source_sha256": "0427ef6dadaa54e236afafa9d5936df78e654c609d6baef23862510f1302006a",
+  "translation": "A skilled small-town blacksmith, values nothing more than caring for his bedridden father.",
+  "vndb_url": "https://vndb.org/c90103"
+}

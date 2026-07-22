@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153480",
+  "type": "character",
+  "name": "Tekumi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The extremely excitable astrology club member.",
+  "source_sha256": "127e85a147c955255ed95d24a65fbb4244c951919379ae48395f625018149c96",
+  "translation": "The extremely excitable astrology club member.",
+  "vndb_url": "https://vndb.org/c153480"
+}

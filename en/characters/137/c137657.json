@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137657",
+  "type": "character",
+  "name": "Eve",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A friend you had a previous relationship with, but you lost touch with her. She may still have feelings for you.",
+  "source_sha256": "eb7dbd847fc06716f3eaf37b0dfcd1021ef1f50e54519c606d71088c3b392c0f",
+  "translation": "A friend you had a previous relationship with, but you lost touch with her. She may still have feelings for you.",
+  "vndb_url": "https://vndb.org/c137657"
+}

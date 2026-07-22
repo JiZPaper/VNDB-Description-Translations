@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55718",
+  "type": "character",
+  "name": "Poster Girl",
+  "original_name": "看板娘",
+  "language": "en",
+  "source_language": "en",
+  "source": "A waitress that works in the tavern in the city.\n\nShe always has a smile on her face and a sharp tongue for those who deserve it.",
+  "source_sha256": "1573b5af7d4a7a58abec40a4cd3e55903102f7d8c6254a47db2900f6e985ec63",
+  "translation": "A waitress that works in the tavern in the city.\n\nShe always has a smile on her face and a sharp tongue for those who deserve it.",
+  "vndb_url": "https://vndb.org/c55718"
+}

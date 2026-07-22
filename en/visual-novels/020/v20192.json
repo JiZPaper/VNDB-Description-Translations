@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20192",
+  "type": "visual_novel",
+  "name": "MariAlbum",
+  "original_name": "まりあるばむ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Set one year after the events of [URL=https://vndb.org/v19681]Kane no Tame ni Kane wa Naru[/URL].",
+  "source_sha256": "530b5082252ad8e88c4488feade44c1fc308f5e73bcad1e2532d08e273897994",
+  "translation": "Set one year after the events of [URL=https://vndb.org/v19681]Kane no Tame ni Kane wa Naru[/URL].",
+  "vndb_url": "https://vndb.org/v20192"
+}

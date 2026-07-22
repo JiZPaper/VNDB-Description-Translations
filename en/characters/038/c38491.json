@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38491",
+  "type": "character",
+  "name": "Sophie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Killed a boar with a rock, can shoot arrows.",
+  "source_sha256": "61e4b619982da931cc8035bffb52d5f52357ecef40286e1b11f160908ded2e2b",
+  "translation": "Killed a boar with a rock, can shoot arrows.",
+  "vndb_url": "https://vndb.org/c38491"
+}

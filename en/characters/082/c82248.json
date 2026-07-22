@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82248",
+  "type": "character",
+  "name": "Clown Lapinblanc",
+  "original_name": "クラウン・ラパンブラン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious informant. It is said that he will take any job, as long as he gets money. He's good at dealing with any kind of situation.",
+  "source_sha256": "505086860bb98d4b85f058105fd1bd611e287b2ad1b0208c854d534d7b2b1fd3",
+  "translation": "A mysterious informant. It is said that he will take any job, as long as he gets money. He's good at dealing with any kind of situation.",
+  "vndb_url": "https://vndb.org/c82248"
+}

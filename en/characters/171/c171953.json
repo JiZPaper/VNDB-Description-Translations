@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c171953",
+  "type": "character",
+  "name": "Sidra",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The neighbor's mother",
+  "source_sha256": "8d8bb5320191e399f9f7150e750d13a32dae01e5c51d882effa1b10e75348f79",
+  "translation": "The neighbor's mother",
+  "vndb_url": "https://vndb.org/c171953"
+}

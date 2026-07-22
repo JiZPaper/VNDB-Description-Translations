@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70976",
+  "type": "character",
+  "name": "Emerald Green",
+  "original_name": "エメラルド＝グリーン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Right-handed\nHobby: Saving money\nLoves: Money\nHates: Poverty\nFavorite Color: Green",
+  "source_sha256": "2ebb901c9a67168b57e1d40611e201664c82307ad0e209687e39aff2b4998e7b",
+  "translation": "Right-handed\nHobby: Saving money\nLoves: Money\nHates: Poverty\nFavorite Color: Green",
+  "vndb_url": "https://vndb.org/c70976"
+}

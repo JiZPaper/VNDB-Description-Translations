@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163604",
+  "type": "character",
+  "name": "Susanoo",
+  "original_name": "スサノオ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Deity and slayer of Yamata no Orochi.",
+  "source_sha256": "8e71f1564073b4ed8ae4aafff982e57dc192afb348b99c1255c5798e505734f2",
+  "translation": "Deity and slayer of Yamata no Orochi.",
+  "vndb_url": "https://vndb.org/c163604"
+}

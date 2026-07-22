@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59429",
+  "type": "visual_novel",
+  "name": "Demon's Lament",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are summoned by a priest, but what purpose will you serve, and can you win back your freedom?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "0598f1eca553fa1c173294853816cb3f557ce071fd9c60aecfc8b70fec341740",
+  "translation": "You are summoned by a priest, but what purpose will you serve, and can you win back your freedom?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "vndb_url": "https://vndb.org/v59429"
+}

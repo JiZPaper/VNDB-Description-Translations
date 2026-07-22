@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71095",
+  "type": "character",
+  "name": "Jocus",
+  "original_name": "ヨークス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A priest of Team Forte.",
+  "source_sha256": "64de6bc34686bb4ee1552d17631453025d0fd3f52637d8dd49d5905310664d55",
+  "translation": "A priest of Team Forte.",
+  "vndb_url": "https://vndb.org/c71095"
+}

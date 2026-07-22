@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13692",
+  "type": "visual_novel",
+  "name": "10 Seconds - A Love Story",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about man on a journey to overcome his past mistakes.",
+  "source_sha256": "10a5eda5ac6f396fd9e76a260a4d2e71bcf39cd45845cc36e8a3cbf327154e41",
+  "translation": "A story about man on a journey to overcome his past mistakes.",
+  "vndb_url": "https://vndb.org/v13692"
+}

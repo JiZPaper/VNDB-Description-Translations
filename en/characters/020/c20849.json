@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20849",
+  "type": "character",
+  "name": "Yoru",
+  "original_name": "夜",
+  "language": "en",
+  "source_language": "en",
+  "source": "The mansions servant",
+  "source_sha256": "5360be05bcbefab554d641588bcc390476f77d85655865e1e0b2e1c207326a5d",
+  "translation": "The mansions servant",
+  "vndb_url": "https://vndb.org/c20849"
+}

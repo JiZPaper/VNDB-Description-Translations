@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79637",
+  "type": "character",
+  "name": "Anna",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Emilia's friend.",
+  "source_sha256": "2d333c65863a853462cbc6cc0ecc123b73088df9904260b13b2b1a1edef3879f",
+  "translation": "Emilia's friend.",
+  "vndb_url": "https://vndb.org/c79637"
+}

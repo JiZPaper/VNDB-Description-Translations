@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150960",
+  "type": "character",
+  "name": "Jerry",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An annoying security guard in the Ward. Disliked by Randal and Manson.",
+  "source_sha256": "2550bf4d2d7e168408e0cca0cacc2b843d4f088296894089b754bdded5e4745c",
+  "translation": "An annoying security guard in the Ward. Disliked by Randal and Manson.",
+  "vndb_url": "https://vndb.org/c150960"
+}

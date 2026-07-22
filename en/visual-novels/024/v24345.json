@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24345",
+  "type": "visual_novel",
+  "name": "Nantoka City",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Welcome to the Nantoka City where there's lots of characters like Pico, the protagonist and others!",
+  "source_sha256": "9cea013b23dbb8cc9d0ef98a2c5a72d6a17de46d58dcd1791b2400935277b08e",
+  "translation": "Welcome to the Nantoka City where there's lots of characters like Pico, the protagonist and others!",
+  "vndb_url": "https://vndb.org/v24345"
+}

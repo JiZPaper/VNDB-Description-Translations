@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37824",
+  "type": "visual_novel",
+  "name": "Requiem for an Angel",
+  "original_name": "天使の鎮魂歌",
+  "language": "en",
+  "source_language": "en",
+  "source": "-- Goodbye, my angel.\n\n[Translated from [url=https://novelgame.jp/games/show/6973]NovelGame[/url]]",
+  "source_sha256": "8e27182e6cbab243e532dfedeed2dc051f6ee673f9c458d281871fd8eceac80f",
+  "translation": "-- Goodbye, my angel.\n\n[Translated from [url=https://novelgame.jp/games/show/6973]NovelGame[/url]]",
+  "vndb_url": "https://vndb.org/v37824"
+}

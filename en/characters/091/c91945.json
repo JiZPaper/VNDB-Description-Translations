@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91945",
+  "type": "character",
+  "name": "Kaya",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A female student who studies with Mei.",
+  "source_sha256": "465bb09d0d9696f768c9dade079c969b47a00d7ee55df6864244546346ab9ae2",
+  "translation": "A female student who studies with Mei.",
+  "vndb_url": "https://vndb.org/c91945"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50397",
+  "type": "visual_novel",
+  "name": "Last Lunatic Rondo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "In a town cursed to hold a Werewolf Game each century,\n\nEstranged father discovers that his son is a Werewolf, \n\nand decides to play the role of Traitor.",
+  "source_sha256": "a6e176e12aeed8899d3641900fde7a593c5f208a84cfe9e11b5cdf3c00baaf12",
+  "translation": "In a town cursed to hold a Werewolf Game each century,\n\nEstranged father discovers that his son is a Werewolf, \n\nand decides to play the role of Traitor.",
+  "vndb_url": "https://vndb.org/v50397"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c2406",
+  "type": "character",
+  "name": "Tate",
+  "original_name": "盾",
+  "language": "en",
+  "source_language": "en",
+  "source": "Member of Takayama Group.",
+  "source_sha256": "c273e5849aba282c7fdc8f8611b853e40d2adbc953c8f168c61158acd8f1dbb9",
+  "translation": "Member of Takayama Group.",
+  "vndb_url": "https://vndb.org/c2406"
+}

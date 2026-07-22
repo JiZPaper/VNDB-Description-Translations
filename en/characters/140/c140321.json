@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140321",
+  "type": "character",
+  "name": "Idris",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A student at the college.",
+  "source_sha256": "07365108de6863f819f72d71a494fbe58e6200011e3d39fd453323e0a8a097b9",
+  "translation": "A student at the college.",
+  "vndb_url": "https://vndb.org/c140321"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55808",
+  "type": "character",
+  "name": "Girl E",
+  "original_name": "E子",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the murder victims.",
+  "source_sha256": "424a91d63a2a505c3fac0e8b2cd40f361592f7b69d824de2049290f252062092",
+  "translation": "One of the murder victims.",
+  "vndb_url": "https://vndb.org/c55808"
+}

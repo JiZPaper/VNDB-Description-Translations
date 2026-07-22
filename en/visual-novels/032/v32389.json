@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32389",
+  "type": "visual_novel",
+  "name": "Edogawa Ranpo Senshuu 1: Giwaku",
+  "original_name": "江戸川乱歩選集１・疑惑",
+  "language": "en",
+  "source_language": "en",
+  "source": "An adaptation of the 1925 short story \"Giwaku (translated into English as \"Doubts\")\" by Edogawa Ranpo.",
+  "source_sha256": "aefb665df6473189a92f5236ed2f70db02c8e2ce4726fa049292955abf4ecdc2",
+  "translation": "An adaptation of the 1925 short story \"Giwaku (translated into English as \"Doubts\")\" by Edogawa Ranpo.",
+  "vndb_url": "https://vndb.org/v32389"
+}

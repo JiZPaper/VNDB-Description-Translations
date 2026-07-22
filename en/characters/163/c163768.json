@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163768",
+  "type": "character",
+  "name": "Lana",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A law student at Stocklingburg University.\n\nAndrea's twin sister.",
+  "source_sha256": "8d498dccc11ce5d9fab635e58ee54003966927fe080b0e8c96688e394dab708a",
+  "translation": "A law student at Stocklingburg University.\n\nAndrea's twin sister.",
+  "vndb_url": "https://vndb.org/c163768"
+}

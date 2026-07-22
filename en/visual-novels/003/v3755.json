@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3755",
+  "type": "visual_novel",
+  "name": "Pure x Cure",
+  "original_name": "Pure×Cure",
+  "language": "en",
+  "source_language": "en",
+  "source": "As the male nurse at a co-ed school, you are viewed with suspicion. Can you gain the students' trust?\n\nsummary translated from http://wikiwiki.jp/chuablesoft/?PureXCure",
+  "source_sha256": "dcd2df31c0ecf54fcba2b360ca3ce42605fef951b7efcb23813cd4c23495c54e",
+  "translation": "As the male nurse at a co-ed school, you are viewed with suspicion. Can you gain the students' trust?\n\nsummary translated from http://wikiwiki.jp/chuablesoft/?PureXCure",
+  "vndb_url": "https://vndb.org/v3755"
+}

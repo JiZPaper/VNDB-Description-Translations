@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20620",
+  "type": "character",
+  "name": "Memochi",
+  "original_name": "めもち",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious creature whose pink coloring identity is not well understood.\nAngels trained on the ground seem to have to raise this rice cake for some reason.",
+  "source_sha256": "f7b592075a5da535e75f30f57f4a0efc760c12adb3a18eebeaf4a03ee2ff9637",
+  "translation": "A mysterious creature whose pink coloring identity is not well understood.\nAngels trained on the ground seem to have to raise this rice cake for some reason.",
+  "vndb_url": "https://vndb.org/c20620"
+}

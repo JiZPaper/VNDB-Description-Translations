@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31582",
+  "type": "visual_novel",
+  "name": "Double Face/Futari no Konyakusha",
+  "original_name": "ダブルフェイス/2人の婚約者",
+  "language": "en",
+  "source_language": "en",
+  "source": "You lost your memory, and two men arrive before you, each claiming they're your fiancee.\nWho is your real love?",
+  "source_sha256": "7942d1ce017d50558222fa229afc6f2ce09d46118aaed0fcf2d6fea8e6975197",
+  "translation": "You lost your memory, and two men arrive before you, each claiming they're your fiancee.\nWho is your real love?",
+  "vndb_url": "https://vndb.org/v31582"
+}

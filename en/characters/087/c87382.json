@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87382",
+  "type": "character",
+  "name": "Assassin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the X, Y and Z assassins.",
+  "source_sha256": "9155c2e7b6683c1180f50e616b389d59123f253eee0b3cbe6071fe8ca89012a9",
+  "translation": "One of the X, Y and Z assassins.",
+  "vndb_url": "https://vndb.org/c87382"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12430",
+  "type": "character",
+  "name": "Meryl Lynch",
+  "original_name": "メリル・リンチ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hometown: New York, America\nDegree: Fashion\nLikes: Family\nDislikes: Maths (calculations)",
+  "source_sha256": "50546dcf00c2eb4dd8504bbe67358c50707802d45c94282a8f491ec8fa38782e",
+  "translation": "Hometown: New York, America\nDegree: Fashion\nLikes: Family\nDislikes: Maths (calculations)",
+  "vndb_url": "https://vndb.org/c12430"
+}

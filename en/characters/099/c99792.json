@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99792",
+  "type": "character",
+  "name": "Greg",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Game-master Greg is a fairy boring guy who enjoys coffee and office supply-related games.",
+  "source_sha256": "2b23017acbe0abeb556190699e1ece8c97202ececdd1397d62a9daf61ccb0716",
+  "translation": "Game-master Greg is a fairy boring guy who enjoys coffee and office supply-related games.",
+  "vndb_url": "https://vndb.org/c99792"
+}

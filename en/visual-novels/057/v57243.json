@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57243",
+  "type": "visual_novel",
+  "name": "Vlastelin Nichego",
+  "original_name": "Властелин Ничего",
+  "language": "en",
+  "source_language": "en",
+  "source": "Help the Dark Lord win the favor of a simple, yet stubborn mortal.",
+  "source_sha256": "66703d5d2f64d047bc9100c3c34b9a3adb7ffe05d9b8d17a6f4726e017338f98",
+  "translation": "Help the Dark Lord win the favor of a simple, yet stubborn mortal.",
+  "vndb_url": "https://vndb.org/v57243"
+}

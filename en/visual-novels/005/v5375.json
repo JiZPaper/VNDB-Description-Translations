@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5375",
+  "type": "visual_novel",
+  "name": "Higashi no Kuni no Youjokuki",
+  "original_name": "東の国の妖辱記",
+  "language": "en",
+  "source_language": "en",
+  "source": "You are a \"magician\".\nYou've arrived at the faraway world of Gensoukyou...\nA man whose magic is more powerful than all others...\nWho will be your next target?\n\n(summary translated from http://v112cr.aslia.net/east_youjoku_story_top.htm)",
+  "source_sha256": "c2ac9993516b9aa8a939849e223c710610d3d0755ea14e2de99052cfb44dfa85",
+  "translation": "You are a \"magician\".\nYou've arrived at the faraway world of Gensoukyou...\nA man whose magic is more powerful than all others...\nWho will be your next target?\n\n(summary translated from http://v112cr.aslia.net/east_youjoku_story_top.htm)",
+  "vndb_url": "https://vndb.org/v5375"
+}

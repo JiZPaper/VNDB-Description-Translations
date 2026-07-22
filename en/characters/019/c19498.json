@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19498",
+  "type": "character",
+  "name": "Jenny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A biology professor. She's friendly and apparently single.\n\n[Edited from in-game profile]",
+  "source_sha256": "c0fa3c1d4831da02a7ce3d537f2172c033a470ddba486854d5d58b1aff5e8e01",
+  "translation": "A biology professor. She's friendly and apparently single.\n\n[Edited from in-game profile]",
+  "vndb_url": "https://vndb.org/c19498"
+}

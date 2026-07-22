@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96352",
+  "type": "character",
+  "name": "Notice",
+  "original_name": "ノーティス",
+  "language": "en",
+  "source_language": "en",
+  "source": "He is a story writer who lives in Biblio Tower. He is always so confident that he is good at avoiding things. But he has some big secret.",
+  "source_sha256": "57aaf9b0b964ee1ecbe53d0a19aa4834b6954a04705c76ce2c8eeee213ab806a",
+  "translation": "He is a story writer who lives in Biblio Tower. He is always so confident that he is good at avoiding things. But he has some big secret.",
+  "vndb_url": "https://vndb.org/c96352"
+}

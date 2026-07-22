@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166585",
+  "type": "character",
+  "name": "Swan Seagull",
+  "original_name": "スワン＝シーガル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Job: Priest\nOrigin: Luna, a lakeside monastery\n\nA sister who takes on the role of healer, she is\nsomewhat strong-willed but also has a caring side. Coming from a remote monastery, she is not particularly devout, but her prayers are powerful.\nEmbroidery is her hobby, and there is always something embroidered by her in the party's belongings.",
+  "source_sha256": "c0efa7e426040c5499a1194c34b6978e5e5d3802c8e1860f0cb9565ee2019572",
+  "translation": "Job: Priest\nOrigin: Luna, a lakeside monastery\n\nA sister who takes on the role of healer, she is\nsomewhat strong-willed but also has a caring side. Coming from a remote monastery, she is not particularly devout, but her prayers are powerful.\nEmbroidery is her hobby, and there is always something embroidered by her in the party's belongings.",
+  "vndb_url": "https://vndb.org/c166585"
+}

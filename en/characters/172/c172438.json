@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172438",
+  "type": "character",
+  "name": "Keeper",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The keeper of the shrine, a body that has already been removed of all strings but still maintains human form even to [url=/c172435]Mana's[/url] eyes. \n\nIt is hard to say who she is.\n\n[Description from the game]",
+  "source_sha256": "d9410de694adf0581dfad423daf8b731f80ba31dfffa308b07e0ca89f33dc1e1",
+  "translation": "The keeper of the shrine, a body that has already been removed of all strings but still maintains human form even to [url=/c172435]Mana's[/url] eyes. \n\nIt is hard to say who she is.\n\n[Description from the game]",
+  "vndb_url": "https://vndb.org/c172438"
+}

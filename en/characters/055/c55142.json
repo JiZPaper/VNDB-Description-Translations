@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55142",
+  "type": "character",
+  "name": "Mint",
+  "original_name": "ミント",
+  "language": "en",
+  "source_language": "en",
+  "source": "Grown Mint, in her Fragile-type form.",
+  "source_sha256": "52cf26b024939986fe2ab247b1bfbcd50df59171713b7ac277d3148a5873d053",
+  "translation": "Grown Mint, in her Fragile-type form.",
+  "vndb_url": "https://vndb.org/c55142"
+}

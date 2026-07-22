@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97138",
+  "type": "character",
+  "name": "Banjo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A stray cat taken in by Anya.\n\n[spoiler]Possessed by Levios, lord of the sea and king of the merfolk.[/spoiler]",
+  "source_sha256": "d3da6830cff48a3e5de7f428bb1e30c017ce37cc352c5f675962b2f343a5441b",
+  "translation": "A stray cat taken in by Anya.\n\n[spoiler]Possessed by Levios, lord of the sea and king of the merfolk.[/spoiler]",
+  "vndb_url": "https://vndb.org/c97138"
+}

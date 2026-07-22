@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166821",
+  "type": "character",
+  "name": "Jax",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A grumpy cashier at the gas station. He's in a relationship with Loretta.",
+  "source_sha256": "c493c771d1747bdd0a954e11e8ff8c314cf649d02248504908c47eba3cedbf28",
+  "translation": "A grumpy cashier at the gas station. He's in a relationship with Loretta.",
+  "vndb_url": "https://vndb.org/c166821"
+}

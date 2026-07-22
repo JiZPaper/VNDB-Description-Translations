@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19624",
+  "type": "character",
+  "name": "Adam Turner",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Second-year medical student at Trenton University.",
+  "source_sha256": "82a56fbd3de93e9602d9445d7c747c5e8aa35a72a22dc06baf327cd1bc8dd9e7",
+  "translation": "Second-year medical student at Trenton University.",
+  "vndb_url": "https://vndb.org/c19624"
+}

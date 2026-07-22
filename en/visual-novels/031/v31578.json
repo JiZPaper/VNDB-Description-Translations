@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31578",
+  "type": "visual_novel",
+  "name": "Sleepover;Never",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Eight friends wake up to find themselves in an unknown place. Can they find their way out before the opportunity escapes them? Or will rifts be created in the group, leading to catastrophe?",
+  "source_sha256": "b5b705b186076d819f6d68fde2b81bc7945cc72a5cd8181db597f762ea7d569c",
+  "translation": "Eight friends wake up to find themselves in an unknown place. Can they find their way out before the opportunity escapes them? Or will rifts be created in the group, leading to catastrophe?",
+  "vndb_url": "https://vndb.org/v31578"
+}

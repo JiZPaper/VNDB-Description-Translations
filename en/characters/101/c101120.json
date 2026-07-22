@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101120",
+  "type": "character",
+  "name": "Ninia",
+  "original_name": "ニニア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Blind sister of Shiria",
+  "source_sha256": "5502c520dc6090d55f797903823bc597e8434cf83f3cb6436b56a36fb405c59c",
+  "translation": "Blind sister of Shiria",
+  "vndb_url": "https://vndb.org/c101120"
+}

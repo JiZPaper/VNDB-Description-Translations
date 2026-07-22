@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130802",
+  "type": "character",
+  "name": "Youma",
+  "original_name": "妖魔",
+  "language": "en",
+  "source_language": "en",
+  "source": "He is a demon that was supposed to have been sealed hundreds of years ago, but a certain event broke the seal.\nA vicious demon that takes advantage of human weakness and tries to bring them down with sweet words.",
+  "source_sha256": "ddd381891ad0c5bd602e9552542d6a0a4e948f0980ae661c17c482049d0c8d64",
+  "translation": "He is a demon that was supposed to have been sealed hundreds of years ago, but a certain event broke the seal.\nA vicious demon that takes advantage of human weakness and tries to bring them down with sweet words.",
+  "vndb_url": "https://vndb.org/c130802"
+}

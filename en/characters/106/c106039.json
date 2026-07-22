@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106039",
+  "type": "character",
+  "name": "Maple Teresa",
+  "original_name": "メイプル・テレサ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"You're shaking. What are you afraid of at this level?\"",
+  "source_sha256": "a5b240552711b8e21591855f696f065da63e1fe8c62c890bc21f99e9dfedbce1",
+  "translation": "\"You're shaking. What are you afraid of at this level?\"",
+  "vndb_url": "https://vndb.org/c106039"
+}

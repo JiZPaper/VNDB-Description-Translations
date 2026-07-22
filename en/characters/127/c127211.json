@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127211",
+  "type": "character",
+  "name": "Frederich Sanderling",
+  "original_name": "フリードリヒ・ザンデルリング",
+  "language": "en",
+  "source_language": "en",
+  "source": "An East German politician.",
+  "source_sha256": "d85691ef1e0ae7ef1d8f03df3d88d83e1b08cb011468ba614fb19e12feeba0e1",
+  "translation": "An East German politician.",
+  "vndb_url": "https://vndb.org/c127211"
+}

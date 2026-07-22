@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c149883",
+  "type": "character",
+  "name": "Princess",
+  "original_name": "王女",
+  "language": "en",
+  "source_language": "en",
+  "source": "Appears in the fourth scenario",
+  "source_sha256": "fc9afa7c2374773319b87efca4005614f8e7e607b85ff246f244c504d2fc2045",
+  "translation": "Appears in the fourth scenario",
+  "vndb_url": "https://vndb.org/c149883"
+}

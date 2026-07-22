@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4353",
+  "type": "character",
+  "name": "Namida",
+  "original_name": "ナミダ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Clown.",
+  "source_sha256": "4793220cda38691c7ea97377ea3b4f3f951fb31a623001235dac7bfbb2eff598",
+  "translation": "Occupation: Clown.",
+  "vndb_url": "https://vndb.org/c4353"
+}

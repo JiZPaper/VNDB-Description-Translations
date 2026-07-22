@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36752",
+  "type": "character",
+  "name": "Ralph",
+  "original_name": "ラルフ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A brilliant alchemist that is one of the Academy's best.",
+  "source_sha256": "f11de493016171d35877c71bab030946134d3f32cdd9324db372b59590b3ef4e",
+  "translation": "A brilliant alchemist that is one of the Academy's best.",
+  "vndb_url": "https://vndb.org/c36752"
+}

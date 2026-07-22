@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12777",
+  "type": "character",
+  "name": "Barton Kladwiesen",
+  "original_name": "バートン・クラトヴィーゼン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A famous man in the investment world who Hal admires.",
+  "source_sha256": "230f48677ed070d8789553d20bf0a06e3f4051ab3119d4c4309df3097b2ca6e1",
+  "translation": "A famous man in the investment world who Hal admires.",
+  "vndb_url": "https://vndb.org/c12777"
+}

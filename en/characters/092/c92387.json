@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92387",
+  "type": "character",
+  "name": "Jason",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A boxer, whose dream is to become the champion of the Boxing League.",
+  "source_sha256": "931c5096df919ba54132d3cdf3141dd1173d9308eb67f58bf64f7aa982502edd",
+  "translation": "A boxer, whose dream is to become the champion of the Boxing League.",
+  "vndb_url": "https://vndb.org/c92387"
+}

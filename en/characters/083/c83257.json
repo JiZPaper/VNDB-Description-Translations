@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c83257",
+  "type": "character",
+  "name": "Kuririn",
+  "original_name": "くりりん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Celica's cat.",
+  "source_sha256": "d47fee5a7f4f8571478b03f9182172260bad9d8322e7e2204708219bc4df7e87",
+  "translation": "Celica's cat.",
+  "vndb_url": "https://vndb.org/c83257"
+}

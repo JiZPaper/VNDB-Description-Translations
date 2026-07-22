@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126307",
+  "type": "character",
+  "name": "Nina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's girlfriend.",
+  "source_sha256": "cbb9300dabfef86b958c479a19791d18ef879627166986a77b93f21894a70718",
+  "translation": "The protagonist's girlfriend.",
+  "vndb_url": "https://vndb.org/c126307"
+}

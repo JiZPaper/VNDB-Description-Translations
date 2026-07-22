@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41349",
+  "type": "visual_novel",
+  "name": "Advance!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel about joining an ordinary math club.\n\n[From [url=https://kva64.itch.io/advance-demo-adventures-of-the-math-logic-club]Itch.io[/url]]",
+  "source_sha256": "4e792af87cae9e87a947b996f53314303a8de5f29f8402eeb9cf3c4d10c3ca57",
+  "translation": "A visual novel about joining an ordinary math club.\n\n[From [url=https://kva64.itch.io/advance-demo-adventures-of-the-math-logic-club]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v41349"
+}

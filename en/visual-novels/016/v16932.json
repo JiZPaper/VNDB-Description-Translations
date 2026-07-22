@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16932",
+  "type": "visual_novel",
+  "name": "Castle Hill",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A horror visual novel created for [url=http://www.asylumjam.com/]Asylum Jam[/url] 2014.",
+  "source_sha256": "e8957e517f66e44f633b408b3dacc5dc3f62b366395f76abc77e63a1f044e427",
+  "translation": "A horror visual novel created for [url=http://www.asylumjam.com/]Asylum Jam[/url] 2014.",
+  "vndb_url": "https://vndb.org/v16932"
+}

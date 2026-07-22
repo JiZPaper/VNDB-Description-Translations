@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c151085",
+  "type": "character",
+  "name": "Box Cutter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A deliveryman who thwarted Manson's escape.",
+  "source_sha256": "394d02f6c97279692874613894834e6654c77d4b297824281ec973f0f8287131",
+  "translation": "A deliveryman who thwarted Manson's escape.",
+  "vndb_url": "https://vndb.org/c151085"
+}

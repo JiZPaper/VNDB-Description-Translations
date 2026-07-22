@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103522",
+  "type": "character",
+  "name": "Danny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bob's and Mary's son.",
+  "source_sha256": "da11943c1a7f61de9be39b056989034cc5e78da113d99bf3f8cc7f9e67f4398f",
+  "translation": "Bob's and Mary's son.",
+  "vndb_url": "https://vndb.org/c103522"
+}

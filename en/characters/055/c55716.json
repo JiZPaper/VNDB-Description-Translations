@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55716",
+  "type": "character",
+  "name": "Agent",
+  "original_name": "代行者",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious agent of Trillion.\n\nIt approaches the Great Overlord, seeking for either the lives of the Overlords or the Underworld's Core.",
+  "source_sha256": "f9a97529e50bf99af54fbbd2f3bfbaf07f4909d07e2606b26f4da38941988c18",
+  "translation": "A mysterious agent of Trillion.\n\nIt approaches the Great Overlord, seeking for either the lives of the Overlords or the Underworld's Core.",
+  "vndb_url": "https://vndb.org/c55716"
+}

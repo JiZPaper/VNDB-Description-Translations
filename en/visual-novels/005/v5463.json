@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5463",
+  "type": "visual_novel",
+  "name": "Incunabula",
+  "original_name": "インキュナブラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A yuri-ish visual novel with a gothic atmosphere.\n\n[from http://www42.tok2.com/home/girlsparty/games.htm#%E3%82%A4%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%8A%E3%83%96%E3%83%A9]",
+  "source_sha256": "56fdcf294b24a0de25be215c88f91c644cf91fa21e92308c782b7af9c17c550a",
+  "translation": "A yuri-ish visual novel with a gothic atmosphere.\n\n[from http://www42.tok2.com/home/girlsparty/games.htm#%E3%82%A4%E3%83%B3%E3%82%AD%E3%83%A5%E3%83%8A%E3%83%96%E3%83%A9]",
+  "vndb_url": "https://vndb.org/v5463"
+}

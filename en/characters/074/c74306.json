@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c74306",
+  "type": "character",
+  "name": "Gretel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gretel, whose blinding rage makes her wary of everyone.",
+  "source_sha256": "27addcfebc19d6252d57ea1b1d6b627fa8bf3fadaecaedc9462d64c615a9cebd",
+  "translation": "Gretel, whose blinding rage makes her wary of everyone.",
+  "vndb_url": "https://vndb.org/c74306"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35710",
+  "type": "character",
+  "name": "Shikimi",
+  "original_name": "樒",
+  "language": "en",
+  "source_language": "en",
+  "source": "A book of paintings that has a unique world view.\nHe does things at his own pace and is a bit of an artist.\nHe is also a reference book for in library use only.",
+  "source_sha256": "0341709a876c54efdabb5522d9ba19e1c0a299c73713081a423a5fe3f5b3487a",
+  "translation": "A book of paintings that has a unique world view.\nHe does things at his own pace and is a bit of an artist.\nHe is also a reference book for in library use only.",
+  "vndb_url": "https://vndb.org/c35710"
+}

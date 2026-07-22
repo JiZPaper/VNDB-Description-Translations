@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89552",
+  "type": "character",
+  "name": "Rio Lezele",
+  "original_name": "リオ・ルゼル",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Affable Optimist\n\nPrince of Voleri.\n\nIndulgence: Hamburgers, doughnuts\nPastime: Eating, exercising\n\n[From the English app \"Court of Darkness\"]",
+  "source_sha256": "1b811f641c103fec4bebb7cd6c0faed9f48b27686feeb296029485457f2cf039",
+  "translation": "The Affable Optimist\n\nPrince of Voleri.\n\nIndulgence: Hamburgers, doughnuts\nPastime: Eating, exercising\n\n[From the English app \"Court of Darkness\"]",
+  "vndb_url": "https://vndb.org/c89552"
+}

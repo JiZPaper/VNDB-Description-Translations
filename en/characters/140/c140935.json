@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140935",
+  "type": "character",
+  "name": "Shasho",
+  "original_name": "車掌",
+  "language": "en",
+  "source_language": "en",
+  "source": "The conductor of the Galaxy Express.",
+  "source_sha256": "bb92f87a5675e832e475f8239a84681365cc3369796ed7dd1cc3e747051c55fe",
+  "translation": "The conductor of the Galaxy Express.",
+  "vndb_url": "https://vndb.org/c140935"
+}

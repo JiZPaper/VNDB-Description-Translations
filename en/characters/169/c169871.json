@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169871",
+  "type": "character",
+  "name": "Guy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A presenter at an adult industry award show.",
+  "source_sha256": "3a1f4e3597e3c981cac6ce38828585ad139ee4b9a05da949b122cf1bccc99e12",
+  "translation": "A presenter at an adult industry award show.",
+  "vndb_url": "https://vndb.org/c169871"
+}

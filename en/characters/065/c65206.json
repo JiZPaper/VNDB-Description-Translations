@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65206",
+  "type": "character",
+  "name": "Vampiress",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A female representative of the vampire council.",
+  "source_sha256": "37b0388c627596ecd4a1b3bc1e1e6bb3ee765d4f3cafc03dc7db3e4da1743276",
+  "translation": "A female representative of the vampire council.",
+  "vndb_url": "https://vndb.org/c65206"
+}

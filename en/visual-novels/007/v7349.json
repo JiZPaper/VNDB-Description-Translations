@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7349",
+  "type": "visual_novel",
+  "name": "Jitteh Dawn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are Hogi Hasekura, an eager student who wants to find out a secret about the once-glorious Ippongi family.",
+  "source_sha256": "136595b9d507c1da743dd24d32e5d0e08d1f416fc1ad6fea8454a41d07a7e524",
+  "translation": "You are Hogi Hasekura, an eager student who wants to find out a secret about the once-glorious Ippongi family.",
+  "vndb_url": "https://vndb.org/v7349"
+}

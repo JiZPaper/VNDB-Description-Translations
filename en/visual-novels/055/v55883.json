@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55883",
+  "type": "visual_novel",
+  "name": "Boxed In",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Locked in an unfamiliar room, can you and the stranger you woke up beside, find a way out?\nHow did you get here? Who's responsible?​",
+  "source_sha256": "4b523289e9b75704b33c8d5aa80b578fc8f0a162fb30f9d9c1c871c353cdd78c",
+  "translation": "Locked in an unfamiliar room, can you and the stranger you woke up beside, find a way out?\nHow did you get here? Who's responsible?​",
+  "vndb_url": "https://vndb.org/v55883"
+}

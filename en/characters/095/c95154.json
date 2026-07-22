@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95154",
+  "type": "character",
+  "name": "Fuga",
+  "original_name": "フウガ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Maika Village's leader.",
+  "source_sha256": "3429bb89880367f932902e8a23b1bd01a669c1bf8a0ef0f89435667fad06908e",
+  "translation": "Maika Village's leader.",
+  "vndb_url": "https://vndb.org/c95154"
+}

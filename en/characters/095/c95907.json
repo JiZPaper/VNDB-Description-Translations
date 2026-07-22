@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95907",
+  "type": "character",
+  "name": "Jonas Klukas",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Investigative Journalist",
+  "source_sha256": "74c7116f5483f398f28989172cd695e9ad7ee7410329b5d0c53a219f67bb3c61",
+  "translation": "Investigative Journalist",
+  "vndb_url": "https://vndb.org/c95907"
+}

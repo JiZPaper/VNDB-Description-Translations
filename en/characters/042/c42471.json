@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42471",
+  "type": "character",
+  "name": "Vassago",
+  "original_name": "ウァサゴ",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Ruen's familiars.\nHis ability is to see the location of things that aren't in the current area.\nHe is extremely quiet and doesn't act on his own.",
+  "source_sha256": "05d78973dca1b3470d67ff46694362433653474682ee79362b00e3a10c7f777d",
+  "translation": "One of Ruen's familiars.\nHis ability is to see the location of things that aren't in the current area.\nHe is extremely quiet and doesn't act on his own.",
+  "vndb_url": "https://vndb.org/c42471"
+}

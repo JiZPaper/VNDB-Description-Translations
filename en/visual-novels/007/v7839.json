@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7839",
+  "type": "visual_novel",
+  "name": "Norukasoruka ~Tanpenshuu~",
+  "original_name": "ノルカソルカ ～短編集～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A collection of short stories for the game Norukasoruka. It includes a prequel centered in Shiawa and Tengu, origin stories for the Yokai, and an epilogue of sorts.",
+  "source_sha256": "f919f29788e58cb3c2cb0df0c68abcb92040c8cd571004bb704470cdadf46002",
+  "translation": "A collection of short stories for the game Norukasoruka. It includes a prequel centered in Shiawa and Tengu, origin stories for the Yokai, and an epilogue of sorts.",
+  "vndb_url": "https://vndb.org/v7839"
+}

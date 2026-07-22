@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c85070",
+  "type": "character",
+  "name": "Kichiemon",
+  "original_name": "キチえもん",
+  "language": "en",
+  "source_language": "en",
+  "source": "A male penguin who is [url=/c58876]Ringo[/url]'s familiar. Formerly [url=/c58883]Ichigo[/url]'s pet.",
+  "source_sha256": "512d3dc30e81bb5dcf8b4719a80e3c23656628046d9ed6039b248e5c725583bf",
+  "translation": "A male penguin who is [url=/c58876]Ringo[/url]'s familiar. Formerly [url=/c58883]Ichigo[/url]'s pet.",
+  "vndb_url": "https://vndb.org/c85070"
+}

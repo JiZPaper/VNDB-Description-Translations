@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8288",
+  "type": "character",
+  "name": "Major Steffen",
+  "original_name": "ステファン少佐",
+  "language": "en",
+  "source_language": "en",
+  "source": "Newly assessed major. Part of the [url=/c8286]Colonel Klaus'[/url] faction.",
+  "source_sha256": "c6862d5b0c583ccc70cb71eae4c8a6da30e545e00f92dc3861ccbfd430884804",
+  "translation": "Newly assessed major. Part of the [url=/c8286]Colonel Klaus'[/url] faction.",
+  "vndb_url": "https://vndb.org/c8288"
+}

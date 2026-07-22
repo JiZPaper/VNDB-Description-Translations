@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58600",
+  "type": "visual_novel",
+  "name": "Game Master",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The player takes part in a competition against robots. Will they be clever enough to pass the tests and win the prize?\n\n[From [url=https://nicoderoche.itch.io/game-master]Itch.io[/url]]",
+  "source_sha256": "a3e6290f4bee965de3ac1d3ec249c4749ef426783aaf82d66e4da98255514d7c",
+  "translation": "The player takes part in a competition against robots. Will they be clever enough to pass the tests and win the prize?\n\n[From [url=https://nicoderoche.itch.io/game-master]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v58600"
+}

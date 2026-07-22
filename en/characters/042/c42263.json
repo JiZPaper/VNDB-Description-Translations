@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42263",
+  "type": "character",
+  "name": "Luster",
+  "original_name": "ラスター",
+  "language": "en",
+  "source_language": "en",
+  "source": "Est's father, the ailing king of Dragon Valley.",
+  "source_sha256": "563ab7ef605d17596c4a92000b32b32536b0c3408035877ad736a9a866f37b11",
+  "translation": "Est's father, the ailing king of Dragon Valley.",
+  "vndb_url": "https://vndb.org/c42263"
+}

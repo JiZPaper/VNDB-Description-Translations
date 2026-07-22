@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38859",
+  "type": "visual_novel",
+  "name": "Maximum Days: Yae-chan After",
+  "original_name": "マキシマムデイズ　八重ちゃんアフター",
+  "language": "en",
+  "source_language": "en",
+  "source": "Follows the events of Yae's route from Maximum Days.",
+  "source_sha256": "f179814722c1180b5c9c54494fc9dd0f3d054484e4c658c092d7fc91ef98df53",
+  "translation": "Follows the events of Yae's route from Maximum Days.",
+  "vndb_url": "https://vndb.org/v38859"
+}

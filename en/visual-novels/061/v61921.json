@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61921",
+  "type": "visual_novel",
+  "name": "Telvoikai",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You've been tasked with collecting data on an alien planet. Choose between exploring the jungle tropics or navigating deep into the bioluminescent sea.\n\n[From [url=https://store.steampowered.com/app/2652740/Telvoikai/]Steam[/url]]",
+  "source_sha256": "c7cb1a829e27319053b65cf57fcf6d66e745e73118bd6733e2a05cc2610ed917",
+  "translation": "You've been tasked with collecting data on an alien planet. Choose between exploring the jungle tropics or navigating deep into the bioluminescent sea.\n\n[From [url=https://store.steampowered.com/app/2652740/Telvoikai/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v61921"
+}

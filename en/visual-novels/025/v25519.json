@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25519",
+  "type": "visual_novel",
+  "name": "melonade",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Spend a day with ham the ghost as she ponders why she's still here, despite dying.\nMade for Ghost Jam 2018.\n\n[Edited from [url=https://itch.io/jam/ghost-jam/rate/233184]Itch.io[/url]]",
+  "source_sha256": "e6030b64694577ff4ab3236e2af98f8163dbdbe7833d4d5009be02a26ed6c0fa",
+  "translation": "Spend a day with ham the ghost as she ponders why she's still here, despite dying.\nMade for Ghost Jam 2018.\n\n[Edited from [url=https://itch.io/jam/ghost-jam/rate/233184]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v25519"
+}

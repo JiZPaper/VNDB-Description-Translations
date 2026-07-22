@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36340",
+  "type": "visual_novel",
+  "name": "Fox",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Meet a mysterious fox in the woods and provide him a snack!\n\n[From [url=https://imberrose.itch.io/]Itch.io[/url]]",
+  "source_sha256": "6a2f28a5862ed83a1f14397e01b14375c368166fe5be63f4ecf2cd19804266a5",
+  "translation": "Meet a mysterious fox in the woods and provide him a snack!\n\n[From [url=https://imberrose.itch.io/]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v36340"
+}

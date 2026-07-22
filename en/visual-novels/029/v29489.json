@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29489",
+  "type": "visual_novel",
+  "name": "Rustea Conversation",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short, cute game to warm up your day. You can try to get all the possible dialogue if you're a completionist, or just read one or two branches if you'd prefer. Either way, it's just meant to be a fast, light-read.",
+  "source_sha256": "6a4cbf3e79420251679ef94ad83dc09f9ead3c953dfb2f87b80455c59ad6e37a",
+  "translation": "A short, cute game to warm up your day. You can try to get all the possible dialogue if you're a completionist, or just read one or two branches if you'd prefer. Either way, it's just meant to be a fast, light-read.",
+  "vndb_url": "https://vndb.org/v29489"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49590",
+  "type": "visual_novel",
+  "name": "Holidate",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "In this visual novel you go on a date with Frosty the Snowman. Many multiple endings available. Will you win the heart of Frosty?",
+  "source_sha256": "cba5b8e894932e2f8cbe031e477653087e94a9e5318d9d3d4007fc44e8e52845",
+  "translation": "In this visual novel you go on a date with Frosty the Snowman. Many multiple endings available. Will you win the heart of Frosty?",
+  "vndb_url": "https://vndb.org/v49590"
+}

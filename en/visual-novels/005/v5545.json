@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5545",
+  "type": "visual_novel",
+  "name": "Sakura Machizaka Stories Vol. 1",
+  "original_name": "桜待坂Stories vol.１",
+  "language": "en",
+  "source_language": "en",
+  "source": "Contains two stories: \"Friends to Sweets\" and \"花蝶楓月\".",
+  "source_sha256": "2a0d44ed9cf7a8efaf44080b70024ae4790d7e721a69559d7be1247b85fb4988",
+  "translation": "Contains two stories: \"Friends to Sweets\" and \"花蝶楓月\".",
+  "vndb_url": "https://vndb.org/v5545"
+}

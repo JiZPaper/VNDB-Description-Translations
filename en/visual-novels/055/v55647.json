@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55647",
+  "type": "visual_novel",
+  "name": "Ring Around the Lovely",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A proposal with a cursed ring? What could go wrong?",
+  "source_sha256": "15bb56fcc0412ad7726eedb79aaf76f08656be75f1f1090f1fb82c8d417ef9e8",
+  "translation": "A proposal with a cursed ring? What could go wrong?",
+  "vndb_url": "https://vndb.org/v55647"
+}

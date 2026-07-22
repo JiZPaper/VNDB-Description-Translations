@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139582",
+  "type": "character",
+  "name": "Nyoro's Father",
+  "original_name": "ニョロの父",
+  "language": "en",
+  "source_language": "en",
+  "source": "Nyoro's father, a scientist. [spoiler]He created the artificial intelligence [url=/c104367]MAIK[/url], inadvertently causing the end of the world.[/spoiler]",
+  "source_sha256": "ba2802a3f559e4f10dcdaf7350023b38809722aba8c8cda3b8d17cfc27be9c5b",
+  "translation": "Nyoro's father, a scientist. [spoiler]He created the artificial intelligence [url=/c104367]MAIK[/url], inadvertently causing the end of the world.[/spoiler]",
+  "vndb_url": "https://vndb.org/c139582"
+}

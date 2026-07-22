@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7797",
+  "type": "visual_novel",
+  "name": "Kousen",
+  "original_name": "KOUSEN",
+  "language": "en",
+  "source_language": "en",
+  "source": "A game about a fictional technical college, created by students for students of technical arts.\n\n[from [url=http://www.dlsite.com/eng/work/=/product_id/RE069347.html]DLsite English[/url]]",
+  "source_sha256": "dd301b74d4010939aca781dd301fc4f264f7d20bb82346279ff587d313d20947",
+  "translation": "A game about a fictional technical college, created by students for students of technical arts.\n\n[from [url=http://www.dlsite.com/eng/work/=/product_id/RE069347.html]DLsite English[/url]]",
+  "vndb_url": "https://vndb.org/v7797"
+}

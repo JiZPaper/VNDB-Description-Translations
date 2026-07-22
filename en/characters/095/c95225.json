@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95225",
+  "type": "character",
+  "name": "Raven",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A husky and old friend of Carl's. They reconnect upon bumping into each other at the local mall, which has the game store where Raven now works.",
+  "source_sha256": "f87ac43f6a64042e72b5867b10634e7fbbdcffa14502d7465bc80c6aa919921e",
+  "translation": "A husky and old friend of Carl's. They reconnect upon bumping into each other at the local mall, which has the game store where Raven now works.",
+  "vndb_url": "https://vndb.org/c95225"
+}

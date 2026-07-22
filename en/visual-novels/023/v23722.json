@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23722",
+  "type": "visual_novel",
+  "name": "PewDiePie Dating Simulator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a dating simulator game with 4 endings. It's a short choose-your-own-path visual novel based on the YouTuber, PewDiePie.\n\n[From Itch.io]",
+  "source_sha256": "ef19e9c5b13d92569d8b46c12830de34bc1f48900fd674b387418528c7609a51",
+  "translation": "This is a dating simulator game with 4 endings. It's a short choose-your-own-path visual novel based on the YouTuber, PewDiePie.\n\n[From Itch.io]",
+  "vndb_url": "https://vndb.org/v23722"
+}

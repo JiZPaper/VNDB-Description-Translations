@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c151099",
+  "type": "character",
+  "name": "Gale",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fellow knight and brother of Kaiden.\n\n\"If you want to live, you should run while you still can.\"",
+  "source_sha256": "ad02cc7b42fec2a1163b23e075c04a9f2303045bccf547ee64a8019e23cf593c",
+  "translation": "A fellow knight and brother of Kaiden.\n\n\"If you want to live, you should run while you still can.\"",
+  "vndb_url": "https://vndb.org/c151099"
+}

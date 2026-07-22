@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66096",
+  "type": "visual_novel",
+  "name": "date MATH",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dating simulator where the player will be able to romance all kinds of mathematical concepts, ranging from basic algebra to topology.\n\n[Taken from itch.io]",
+  "source_sha256": "21b4a5f312b84c197e0b7515dfd50bc65ca85765422a6fb3fe21eeafbb6257b0",
+  "translation": "A dating simulator where the player will be able to romance all kinds of mathematical concepts, ranging from basic algebra to topology.\n\n[Taken from itch.io]",
+  "vndb_url": "https://vndb.org/v66096"
+}

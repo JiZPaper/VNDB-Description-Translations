@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c109518",
+  "type": "character",
+  "name": "Owner",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of the dollhouse and the toys within it.",
+  "source_sha256": "4f90a2292b42e4d43edb405bccf37325f7a7312bbed0c6448d2b44e827941e46",
+  "translation": "The owner of the dollhouse and the toys within it.",
+  "vndb_url": "https://vndb.org/c109518"
+}

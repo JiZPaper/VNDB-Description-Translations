@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29902",
+  "type": "visual_novel",
+  "name": "Sakurairo Dreamer",
+  "original_name": "さくら色Dreamer",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sakura Miko's Novel game project.",
+  "source_sha256": "ef405e237dafb5fafb9703f2a5699071193f312a3d2e6bd9eeb33c1ba1f72d4f",
+  "translation": "Sakura Miko's Novel game project.",
+  "vndb_url": "https://vndb.org/v29902"
+}

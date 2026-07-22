@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c49724",
+  "type": "character",
+  "name": "Sid",
+  "original_name": "シド",
+  "language": "en",
+  "source_language": "en",
+  "source": "An eminent merchant who moonlights as an informant. Though Sid's reputation spans several nations, in spite of being an old acquaintance of Louis's, which country he originally hails from is veiled in mystery...\n\n[Taken from in-game description]",
+  "source_sha256": "604d03e288841285ef94a61af08ce3147ef862ef757a7567f6c249e21303714e",
+  "translation": "An eminent merchant who moonlights as an informant. Though Sid's reputation spans several nations, in spite of being an old acquaintance of Louis's, which country he originally hails from is veiled in mystery...\n\n[Taken from in-game description]",
+  "vndb_url": "https://vndb.org/c49724"
+}

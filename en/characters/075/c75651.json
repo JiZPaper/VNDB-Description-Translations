@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75651",
+  "type": "character",
+  "name": "Lutchiana",
+  "original_name": "ルチアーナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A traveler girl with mechanical legs.",
+  "source_sha256": "92c91975d76acae657b8e5b98b00ef9554f025d7217aa21afb46baeed4686cfa",
+  "translation": "A traveler girl with mechanical legs.",
+  "vndb_url": "https://vndb.org/c75651"
+}

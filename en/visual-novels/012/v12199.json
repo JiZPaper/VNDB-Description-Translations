@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12199",
+  "type": "visual_novel",
+  "name": "Tea & Sympathy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"My mother disowned me when I died. Now she's trying to make things right.\nWhat does she really want from me?\"\n\nA short kinetic novel exploring family drama through the eyes of a vampire.",
+  "source_sha256": "13dad8dbc6e321d4e0d3fd2504eb007f393681e29a7cbad3e620db7e83144384",
+  "translation": "\"My mother disowned me when I died. Now she's trying to make things right.\nWhat does she really want from me?\"\n\nA short kinetic novel exploring family drama through the eyes of a vampire.",
+  "vndb_url": "https://vndb.org/v12199"
+}

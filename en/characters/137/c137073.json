@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137073",
+  "type": "character",
+  "name": "Grela",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of the tavern in Briarstead.",
+  "source_sha256": "b29176f1f97d637aefd52b5b5747aa3faee1b709cef80b3baeb6880f1532d897",
+  "translation": "The owner of the tavern in Briarstead.",
+  "vndb_url": "https://vndb.org/c137073"
+}

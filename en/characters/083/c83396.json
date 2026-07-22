@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c83396",
+  "type": "character",
+  "name": "Satoshi's Father",
+  "original_name": "聡司の父親",
+  "language": "en",
+  "source_language": "en",
+  "source": "Satoshi's father who left him on the island.",
+  "source_sha256": "40da3e3d183271aaa7d93b6cc7e7be3aeec98405c7fe61f7fd77f1c469a11078",
+  "translation": "Satoshi's father who left him on the island.",
+  "vndb_url": "https://vndb.org/c83396"
+}

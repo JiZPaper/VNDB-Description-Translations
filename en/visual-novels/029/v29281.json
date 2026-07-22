@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29281",
+  "type": "visual_novel",
+  "name": "Eye of the Storm",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A group of college girls who flee to a mountain resort to avoid a terrible storm. The caretaker (you) must do everything he can to keep them safe from the storm, each other, and someone that may or may not be lurking outside in the woods",
+  "source_sha256": "052c0204ce5806f233945046f2281ad516a9979a9763cb50ebdb4761eb9a3480",
+  "translation": "A group of college girls who flee to a mountain resort to avoid a terrible storm. The caretaker (you) must do everything he can to keep them safe from the storm, each other, and someone that may or may not be lurking outside in the woods",
+  "vndb_url": "https://vndb.org/v29281"
+}

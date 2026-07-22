@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16350",
+  "type": "visual_novel",
+  "name": "Iris The Love Game",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A game featuring Iris and Anan as heroines. Has two endings. Created in Novelty.",
+  "source_sha256": "d5065d40f3b053a87de869f8fabdc3535c25b259dd8ed45933ccd496ec8595dc",
+  "translation": "A game featuring Iris and Anan as heroines. Has two endings. Created in Novelty.",
+  "vndb_url": "https://vndb.org/v16350"
+}

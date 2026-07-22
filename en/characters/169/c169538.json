@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169538",
+  "type": "character",
+  "name": "Gary",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Another college classmate.",
+  "source_sha256": "5b0f282208329866ac7eddaa23b045c98f4d616110dd9d366882764cb8f3431b",
+  "translation": "Another college classmate.",
+  "vndb_url": "https://vndb.org/c169538"
+}

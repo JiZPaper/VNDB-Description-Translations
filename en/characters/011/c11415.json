@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11415",
+  "type": "character",
+  "name": "Mysterious Girl",
+  "original_name": "謎の少女",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious girl that appears in Natsuru's dreams. Is she connected somehow to the memories he had lost?",
+  "source_sha256": "5e70ad163952d1dcfab0c20351dca99ce56c60c48584ddf49398f7abbf2f8c6a",
+  "translation": "A mysterious girl that appears in Natsuru's dreams. Is she connected somehow to the memories he had lost?",
+  "vndb_url": "https://vndb.org/c11415"
+}

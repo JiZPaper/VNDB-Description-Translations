@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c46831",
+  "type": "character",
+  "name": "Maid",
+  "original_name": "メイド",
+  "language": "en",
+  "source_language": "en",
+  "source": "A maid working at the mansion.\nShe goes about her work calmly and doesn't even tell [url=/c46830]Mia[/url] her name.\nShe is devoted to the [url=/c47673] Superior Man[/url].",
+  "source_sha256": "7ec07774071cff7f6aeca4c01f925e69ca95b02f5a2407b3f7d35a516336e11e",
+  "translation": "A maid working at the mansion.\nShe goes about her work calmly and doesn't even tell [url=/c46830]Mia[/url] her name.\nShe is devoted to the [url=/c47673] Superior Man[/url].",
+  "vndb_url": "https://vndb.org/c46831"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58477",
+  "type": "visual_novel",
+  "name": "Children quest",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Hayato Ichijou is a third-grade elementary school student.\nAfter meeting a boy at an empty lot, they decide to explore a cave in Mount Naruto…",
+  "source_sha256": "73743d0958e37e5a0553eabdb07fdb51b4da0a1f9fd969de3fb483e1ef1f887a",
+  "translation": "Hayato Ichijou is a third-grade elementary school student.\nAfter meeting a boy at an empty lot, they decide to explore a cave in Mount Naruto…",
+  "vndb_url": "https://vndb.org/v58477"
+}

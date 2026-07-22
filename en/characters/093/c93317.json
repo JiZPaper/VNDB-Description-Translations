@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93317",
+  "type": "character",
+  "name": "Kubikari",
+  "original_name": "首刈り",
+  "language": "en",
+  "source_language": "en",
+  "source": "A ghost [url=/c93334]Yuu[/url] encountered in a deserted alley at night.\nThe only way to deal with Kubikari is to back away, while not showing the back to it.",
+  "source_sha256": "c4682dba8d90bda32e9b30254773fbcd1882b1d4e38f70b70e365ab76a2c04fe",
+  "translation": "A ghost [url=/c93334]Yuu[/url] encountered in a deserted alley at night.\nThe only way to deal with Kubikari is to back away, while not showing the back to it.",
+  "vndb_url": "https://vndb.org/c93317"
+}

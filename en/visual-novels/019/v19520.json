@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19520",
+  "type": "visual_novel",
+  "name": "The Blankly",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Tells of a student who attempted to investigate murder cases in his school, but in the middle of their investigation, someone eyes his life and threatens to kill.",
+  "source_sha256": "e241e399b3ef5e7180f24ae0ee339e1969d69cbaff9a9b011d28723e4383e0d3",
+  "translation": "Tells of a student who attempted to investigate murder cases in his school, but in the middle of their investigation, someone eyes his life and threatens to kill.",
+  "vndb_url": "https://vndb.org/v19520"
+}

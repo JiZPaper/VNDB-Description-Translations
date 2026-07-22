@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84828",
+  "type": "character",
+  "name": "Walter",
+  "original_name": "ヴァルター",
+  "language": "en",
+  "source_language": "en",
+  "source": "A veteran royal guard to the former king. Though well-loved by the people, his expenses are high. Hiring him will cost quite the sum of funds.",
+  "source_sha256": "2b63a7fd12ba38ea1ef36ab0a28ff2d467719438af6be8de7bbc867072f70ff5",
+  "translation": "A veteran royal guard to the former king. Though well-loved by the people, his expenses are high. Hiring him will cost quite the sum of funds.",
+  "vndb_url": "https://vndb.org/c84828"
+}

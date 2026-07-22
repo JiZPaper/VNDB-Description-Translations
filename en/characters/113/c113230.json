@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113230",
+  "type": "character",
+  "name": "TV",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The commercial which tries to recruit the protagonist to the Sustainable Utopia Settlement.",
+  "source_sha256": "dfc6087cc9b30c1d21ac74ccaff69008b56b346bb0e42fcf78d74cfbf9e7f730",
+  "translation": "The commercial which tries to recruit the protagonist to the Sustainable Utopia Settlement.",
+  "vndb_url": "https://vndb.org/c113230"
+}

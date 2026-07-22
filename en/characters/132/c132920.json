@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132920",
+  "type": "character",
+  "name": "Vanessa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Waitress.",
+  "source_sha256": "f7fbc4679ef4fe74f63b16dfa7a30823b1f8a14908ecaaaee9cd7845d94bea6a",
+  "translation": "Waitress.",
+  "vndb_url": "https://vndb.org/c132920"
+}

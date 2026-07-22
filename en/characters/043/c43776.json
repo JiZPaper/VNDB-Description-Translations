@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c43776",
+  "type": "character",
+  "name": "Wilhelm",
+  "original_name": "ヴィルヘルム",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious young man who shares a name with the cursed sword. Both his relationship with the sword and his background are shrouded in mystery.",
+  "source_sha256": "00e0115d364f2fe649a7a2be0f4ac3ef4d7ba9f9fac5df90888c70d939d8497a",
+  "translation": "A mysterious young man who shares a name with the cursed sword. Both his relationship with the sword and his background are shrouded in mystery.",
+  "vndb_url": "https://vndb.org/c43776"
+}

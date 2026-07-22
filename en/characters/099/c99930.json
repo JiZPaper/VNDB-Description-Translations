@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99930",
+  "type": "character",
+  "name": "Amaris",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader of the Haven. Called \"Lady Amaris\" by all residents.",
+  "source_sha256": "005efb7fa5094269f864d2dc107f646cc31a4aa3f974993b9787a2838351b9a7",
+  "translation": "Leader of the Haven. Called \"Lady Amaris\" by all residents.",
+  "vndb_url": "https://vndb.org/c99930"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70132",
+  "type": "character",
+  "name": "Protagonist for the Song of Shadow",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "(Unlockable after finishing a route from the Song of Radiance)",
+  "source_sha256": "c57d65ff131e1a816d006492dd03b2fe42b3d58ca072fa4ad2c4365653dc0d14",
+  "translation": "(Unlockable after finishing a route from the Song of Radiance)",
+  "vndb_url": "https://vndb.org/c70132"
+}

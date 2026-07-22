@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11003",
+  "type": "visual_novel",
+  "name": "Imouto wa Mahoutsukai",
+  "original_name": "いもうとは魔法使い",
+  "language": "en",
+  "source_language": "en",
+  "source": "You are a thief, about to break into a house, but you hurt yourself in the process. The two young daughters of the house bring you in and want to nurse you back to health.\n\nIt turns out that the house is inhabited by a family of witches.",
+  "source_sha256": "c2c944bc7834498c47893833e016ee4f84a48b0be6b274880e40dcf7976d87c6",
+  "translation": "You are a thief, about to break into a house, but you hurt yourself in the process. The two young daughters of the house bring you in and want to nurse you back to health.\n\nIt turns out that the house is inhabited by a family of witches.",
+  "vndb_url": "https://vndb.org/v11003"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76675",
+  "type": "character",
+  "name": "Shiratori Yukari",
+  "original_name": "白鳥由香里",
+  "language": "en",
+  "source_language": "en",
+  "source": "The advisor for Soleil Company.",
+  "source_sha256": "bc694e7025294b6b3c8428b49e58cd3b6d177dd6dd72f6a6f88ad3e982ce2284",
+  "translation": "The advisor for Soleil Company.",
+  "vndb_url": "https://vndb.org/c76675"
+}

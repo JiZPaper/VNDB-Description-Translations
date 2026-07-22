@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113057",
+  "type": "character",
+  "name": "Emily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The hero's neighbor.",
+  "source_sha256": "821cbfebb1974ee58560194e6881865b5ec933d4889106f089b67803f9fdb60a",
+  "translation": "The hero's neighbor.",
+  "vndb_url": "https://vndb.org/c113057"
+}

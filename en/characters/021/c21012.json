@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21012",
+  "type": "character",
+  "name": "Rimuryi",
+  "original_name": "リムリィ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Pilot of CAT Fighter 1.",
+  "source_sha256": "44eae2431e5cec7f21b5bcc4a488fd13b3e55a4179ca10a77c82c75a6e251bd8",
+  "translation": "Pilot of CAT Fighter 1.",
+  "vndb_url": "https://vndb.org/c21012"
+}

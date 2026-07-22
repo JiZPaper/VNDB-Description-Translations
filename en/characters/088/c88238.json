@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88238",
+  "type": "character",
+  "name": "Niwashi",
+  "original_name": "庭師",
+  "language": "en",
+  "source_language": "en",
+  "source": "Gardener in [url=/c58195]Ayana[/url]'s house.",
+  "source_sha256": "75deb5636b6e0aa401f29c8b28b0c1496acaec00a27eca5737ad191e804af6c8",
+  "translation": "Gardener in [url=/c58195]Ayana[/url]'s house.",
+  "vndb_url": "https://vndb.org/c88238"
+}

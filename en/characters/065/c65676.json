@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65676",
+  "type": "character",
+  "name": "Alice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Alice is a child living during the middle of the Victorian era. Alice unintentionally goes on an underground adventure after accidentally falling down a rabbit hole into Wonderland, an alternate world where nothing makes sense.\n\n[Paraphrased from [url=https://en.wikipedia.org/wiki/Alice_(Alice%27s_Adventures_in_Wonderland)]Wikipedia[/url]].",
+  "source_sha256": "81b5e9ad8ef91652637204c3d50227dd67e5efaaf239d0ea30ebf52b04b042ec",
+  "translation": "Alice is a child living during the middle of the Victorian era. Alice unintentionally goes on an underground adventure after accidentally falling down a rabbit hole into Wonderland, an alternate world where nothing makes sense.\n\n[Paraphrased from [url=https://en.wikipedia.org/wiki/Alice_(Alice%27s_Adventures_in_Wonderland)]Wikipedia[/url]].",
+  "vndb_url": "https://vndb.org/c65676"
+}

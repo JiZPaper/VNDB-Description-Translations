@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64713",
+  "type": "character",
+  "name": "Alice D",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A blond teenager Alice Lorange meet during her adventure. She's from Russia.",
+  "source_sha256": "59b88cff32cf3d6cf137687fc7365b09c89cfa9b71edcd3e5f966bb71fb3380a",
+  "translation": "A blond teenager Alice Lorange meet during her adventure. She's from Russia.",
+  "vndb_url": "https://vndb.org/c64713"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c118182",
+  "type": "character",
+  "name": "Amy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Logan's girlfriend.",
+  "source_sha256": "83f7bae4266ca4af53a1f0182c829c1a7c2b6b7cbfcb898fdde90ad74e27310c",
+  "translation": "Logan's girlfriend.",
+  "vndb_url": "https://vndb.org/c118182"
+}

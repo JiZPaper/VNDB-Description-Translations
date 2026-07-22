@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c149183",
+  "type": "character",
+  "name": "The Queen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She rules a kingdom in the alternate world.",
+  "source_sha256": "408177fade326d96ad700a722e969a803c931ac0596ecb0d53f9c8c180979026",
+  "translation": "She rules a kingdom in the alternate world.",
+  "vndb_url": "https://vndb.org/c149183"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c3327",
+  "type": "character",
+  "name": "Comet",
+  "original_name": "コメット",
+  "language": "en",
+  "source_language": "en",
+  "source": "Waitress of Daughter Daughter Tea House.",
+  "source_sha256": "8773ce9aa2ab06e95b44ece674304c57ec452d99c859895a97b58a7d115d8bab",
+  "translation": "Waitress of Daughter Daughter Tea House.",
+  "vndb_url": "https://vndb.org/c3327"
+}

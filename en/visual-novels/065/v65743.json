@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65743",
+  "type": "visual_novel",
+  "name": "Pashirare Biyori",
+  "original_name": "パシられ日和",
+  "language": "en",
+  "source_language": "en",
+  "source": "During lunchtime, as I was about to eat my bento box alone, a delinquent classmate approached me.\n\"Go buy me some food from the school store.\"\n\nYou can either obediently run the errand or refuse!",
+  "source_sha256": "acea5f54bba858e0278988c304940e5297d0496631d00a1caad2c03dc0c33bbb",
+  "translation": "During lunchtime, as I was about to eat my bento box alone, a delinquent classmate approached me.\n\"Go buy me some food from the school store.\"\n\nYou can either obediently run the errand or refuse!",
+  "vndb_url": "https://vndb.org/v65743"
+}

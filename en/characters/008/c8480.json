@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8480",
+  "type": "character",
+  "name": "Manon",
+  "original_name": "マノン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Liselotta von Kirschbaum's pet.",
+  "source_sha256": "0a4da65d2e8701a7a9dc4731ca6ba0c6b0a46b7ac0c04d9e3926253ca5906c23",
+  "translation": "Liselotta von Kirschbaum's pet.",
+  "vndb_url": "https://vndb.org/c8480"
+}

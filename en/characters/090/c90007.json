@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90007",
+  "type": "character",
+  "name": "Quack",
+  "original_name": "クァック",
+  "language": "en",
+  "source_language": "en",
+  "source": "An alchemist and an evil priest of the God of Chaos. A mad scientist, thinks of humans as only animals for his experiments.",
+  "source_sha256": "e8633bcd84e70d98b9e6bf7efaa025bb83f331e582eb42e0a21b1ceccb04d49c",
+  "translation": "An alchemist and an evil priest of the God of Chaos. A mad scientist, thinks of humans as only animals for his experiments.",
+  "vndb_url": "https://vndb.org/c90007"
+}

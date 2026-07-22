@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53568",
+  "type": "visual_novel",
+  "name": "A Million Promises",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is the story of Takeru Harukaze, a young man diagnosed with a brain tumor, but this is not a story about death. It is a story about having fun at school, falling in love, hanging out with friends, trust, betrayal, and so much more.",
+  "source_sha256": "b20ade46ce4374935e1588d8bb389d8fc72cd2df3d5484b3a0e916776de2fe0e",
+  "translation": "This is the story of Takeru Harukaze, a young man diagnosed with a brain tumor, but this is not a story about death. It is a story about having fun at school, falling in love, hanging out with friends, trust, betrayal, and so much more.",
+  "vndb_url": "https://vndb.org/v53568"
+}

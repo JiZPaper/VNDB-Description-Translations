@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93503",
+  "type": "character",
+  "name": "Sabine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sabine is Miley's BFF and she doesn't like you for some reason.",
+  "source_sha256": "7e1d26f0130d1404cc1dc33b63037b2158a80d6dfa6dfa9955e9c9132ee4b03c",
+  "translation": "Sabine is Miley's BFF and she doesn't like you for some reason.",
+  "vndb_url": "https://vndb.org/c93503"
+}

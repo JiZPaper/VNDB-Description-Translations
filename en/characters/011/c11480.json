@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11480",
+  "type": "character",
+  "name": "Pecorino",
+  "original_name": "ペコリーノ",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the main members of rebel group The Breakers.",
+  "source_sha256": "d030906d4969d25cd9453f30cc650d9a61a5deb601dd12ffaff2b2a49bf767fa",
+  "translation": "One of the main members of rebel group The Breakers.",
+  "vndb_url": "https://vndb.org/c11480"
+}

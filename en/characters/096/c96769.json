@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96769",
+  "type": "character",
+  "name": "Saint",
+  "original_name": "聖女",
+  "language": "en",
+  "source_language": "en",
+  "source": "Her true name is [spoiler][url=https://en.wikipedia.org/wiki/Charles_VII_of_France]Charles VII[/url] summoned with the body of Jeanne d'Arc. Her class is Berserker.[/spoiler]",
+  "source_sha256": "7804f3cd0f055cb5f05927a4bfb045b3cd93115c4eb4041c4485e107b4b95fd1",
+  "translation": "Her true name is [spoiler][url=https://en.wikipedia.org/wiki/Charles_VII_of_France]Charles VII[/url] summoned with the body of Jeanne d'Arc. Her class is Berserker.[/spoiler]",
+  "vndb_url": "https://vndb.org/c96769"
+}

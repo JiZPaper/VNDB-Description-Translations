@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169293",
+  "type": "character",
+  "name": "La Petite Fille",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Apple Girl. She loves apples.",
+  "source_sha256": "b27af0803d4fcab78daf7b9c4bf39ed5be935c504c2e73bd74813e3221ee4954",
+  "translation": "The Apple Girl. She loves apples.",
+  "vndb_url": "https://vndb.org/c169293"
+}

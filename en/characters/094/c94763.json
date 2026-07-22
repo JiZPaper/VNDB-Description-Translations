@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94763",
+  "type": "character",
+  "name": "Glen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gwen's fraternal twin.",
+  "source_sha256": "b65ecc77f4544da5c9a836cf424173547e8122469f2ae73d65cc0fbeb8744809",
+  "translation": "Gwen's fraternal twin.",
+  "vndb_url": "https://vndb.org/c94763"
+}

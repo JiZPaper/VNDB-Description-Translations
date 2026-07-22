@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99595",
+  "type": "character",
+  "name": "Popo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Valdo's friend",
+  "source_sha256": "05a0f3be8f16f18ae3ac125219a6a67ebed7c112bd162c5247c2b00dfe9d39f2",
+  "translation": "Valdo's friend",
+  "vndb_url": "https://vndb.org/c99595"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30412",
+  "type": "visual_novel",
+  "name": "Muv-Luv Resonative",
+  "original_name": "マブラヴ レゾネイティヴ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The finale to Muv-Luv Unlimited: The Day After.",
+  "source_sha256": "01f1d4c4a80cb0ba78dcabdd76d8496321412c96e535e2eb7822d7a41789287d",
+  "translation": "The finale to Muv-Luv Unlimited: The Day After.",
+  "vndb_url": "https://vndb.org/v30412"
+}

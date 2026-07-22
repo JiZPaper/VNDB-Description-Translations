@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100395",
+  "type": "character",
+  "name": "Katherine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The host and producer of the TV reality show \"Find Love or Die Trying\".",
+  "source_sha256": "225398da7b9b469302558b386affc414293efebdddcd13eb93a0663a272de721",
+  "translation": "The host and producer of the TV reality show \"Find Love or Die Trying\".",
+  "vndb_url": "https://vndb.org/c100395"
+}

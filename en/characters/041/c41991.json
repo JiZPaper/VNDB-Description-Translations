@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41991",
+  "type": "character",
+  "name": "Takayuki",
+  "original_name": "隆行",
+  "language": "en",
+  "source_language": "en",
+  "source": "A student at a mid-level university. Recently started work at a tutoring center.",
+  "source_sha256": "a52dcc226a85e1c58b1ea103ab146db2035bbeabda7b384b6cadd145007bc1e5",
+  "translation": "A student at a mid-level university. Recently started work at a tutoring center.",
+  "vndb_url": "https://vndb.org/c41991"
+}

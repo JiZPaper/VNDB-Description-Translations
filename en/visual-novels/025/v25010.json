@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25010",
+  "type": "visual_novel",
+  "name": "A Message to You",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Spend a long and romantic weekend with your boyfriend, Alexandre.\n\n[From [url=https://honeybunchgames.itch.io/a-message-to-you]Itch.io[/url]]",
+  "source_sha256": "1c79fe4a8839cbb25f9a4f0ee9274757d2bb069eda6b6e763d87ee9f77b0ff89",
+  "translation": "Spend a long and romantic weekend with your boyfriend, Alexandre.\n\n[From [url=https://honeybunchgames.itch.io/a-message-to-you]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v25010"
+}

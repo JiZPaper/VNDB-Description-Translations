@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43125",
+  "type": "visual_novel",
+  "name": "El Valle de Abbatis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as Jefferson, a soldier left for dead on the dunes of Mars, rescued by a salvaging party from a nearby outpost.\n\n[From [url=https://nicolasgn.itch.io/el-valle-de-abbatis-game-demo]Itch.io[/url]]",
+  "source_sha256": "06e8fce42de9b42a45a6cbd82bd681ccf61de1361f6ca2f93ad745ac9067241e",
+  "translation": "You play as Jefferson, a soldier left for dead on the dunes of Mars, rescued by a salvaging party from a nearby outpost.\n\n[From [url=https://nicolasgn.itch.io/el-valle-de-abbatis-game-demo]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43125"
+}

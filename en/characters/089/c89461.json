@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89461",
+  "type": "character",
+  "name": "Damalure",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Rue siblings' caretaker.",
+  "source_sha256": "c714ac886228ac486b86e8aa36d35664444c7bd870042c4947208756478b6b86",
+  "translation": "The Rue siblings' caretaker.",
+  "vndb_url": "https://vndb.org/c89461"
+}

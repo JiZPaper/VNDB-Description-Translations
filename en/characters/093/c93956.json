@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93956",
+  "type": "character",
+  "name": "Nina",
+  "original_name": "ニナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mysterious girl encountered by the protagonist.",
+  "source_sha256": "6866424f90864f0ce075e15d7bb49198d5aa6f0e105c46a1e64624f1087f65dd",
+  "translation": "Mysterious girl encountered by the protagonist.",
+  "vndb_url": "https://vndb.org/c93956"
+}

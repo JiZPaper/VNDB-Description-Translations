@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169706",
+  "type": "character",
+  "name": "Rival",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A shy and easily flustered girl receiving her first Pokémon from Professor Ivy at the same time as the protagonist.",
+  "source_sha256": "eb2681c5028c51f49736fec4a4968d396692974cb1aca6c36bd1d27e217d22bc",
+  "translation": "A shy and easily flustered girl receiving her first Pokémon from Professor Ivy at the same time as the protagonist.",
+  "vndb_url": "https://vndb.org/c169706"
+}

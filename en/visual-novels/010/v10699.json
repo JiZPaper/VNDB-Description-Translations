@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10699",
+  "type": "visual_novel",
+  "name": "Hana Usagi",
+  "original_name": "花兎",
+  "language": "en",
+  "source_language": "en",
+  "source": "While heading to his hometown, a man meets a strange girl at the bus stop.",
+  "source_sha256": "80de017f2bb4d8a5c89cdb3af95a0ef6401b50c468381781667a30de2a6decd6",
+  "translation": "While heading to his hometown, a man meets a strange girl at the bus stop.",
+  "vndb_url": "https://vndb.org/v10699"
+}

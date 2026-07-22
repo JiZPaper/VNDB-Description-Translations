@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13126",
+  "type": "visual_novel",
+  "name": "Hakoniwa no Eden",
+  "original_name": "箱庭のエデン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Eren wakes up in a world where there are no Titans -- and he's also in a relationship with Levi.",
+  "source_sha256": "5ad8741ba79e21d78f43e74f849af39ff751b90264bb004fa319939a2d06d318",
+  "translation": "Eren wakes up in a world where there are no Titans -- and he's also in a relationship with Levi.",
+  "vndb_url": "https://vndb.org/v13126"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155689",
+  "type": "character",
+  "name": "Mat'",
+  "original_name": "Мать",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ishirou's mother",
+  "source_sha256": "a00e006615c9d9ed368eb346f7d1841e7eb666121affd69aafcd0e39e2baa9dd",
+  "translation": "Ishirou's mother",
+  "vndb_url": "https://vndb.org/c155689"
+}

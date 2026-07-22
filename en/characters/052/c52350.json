@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c52350",
+  "type": "character",
+  "name": "Altur",
+  "original_name": "アルトユール",
+  "language": "en",
+  "source_language": "en",
+  "source": "A third-year who appears to be 17 but is actually 71 years old.",
+  "source_sha256": "a2978098a8f553ad9103a75c29d296da28ec1d4b58ef528cec716bea70c09cc0",
+  "translation": "A third-year who appears to be 17 but is actually 71 years old.",
+  "vndb_url": "https://vndb.org/c52350"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c80184",
+  "type": "character",
+  "name": "Isabella Roberts",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The college librarian.",
+  "source_sha256": "aa512cb1019fe6215760b9513a6de4d6e42904074c5fb94220bb0771aad7f752",
+  "translation": "The college librarian.",
+  "vndb_url": "https://vndb.org/c80184"
+}

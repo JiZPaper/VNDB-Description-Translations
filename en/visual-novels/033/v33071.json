@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33071",
+  "type": "visual_novel",
+  "name": "AfterNoel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"You can't never discover Santa Claus', okay, Cosette?\nHis job is to make children happy, and no child must know how he really looks...\"",
+  "source_sha256": "32405d34d0cda585c2233fbc435f37460eb1dd72e2bb90910135b537477bab40",
+  "translation": "\"You can't never discover Santa Claus', okay, Cosette?\nHis job is to make children happy, and no child must know how he really looks...\"",
+  "vndb_url": "https://vndb.org/v33071"
+}

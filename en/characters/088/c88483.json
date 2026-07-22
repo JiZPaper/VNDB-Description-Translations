@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88483",
+  "type": "character",
+  "name": "Clark",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is a janitor at the highschool where Sophie works.\nEx-gangster.",
+  "source_sha256": "db29c637050aa1e1ada56ac1ce31e58ae6fad08a5a605771ea0198eb0d899b43",
+  "translation": "He is a janitor at the highschool where Sophie works.\nEx-gangster.",
+  "vndb_url": "https://vndb.org/c88483"
+}

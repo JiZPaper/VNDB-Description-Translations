@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134518",
+  "type": "character",
+  "name": "Bandit",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bandit with dubious taste in clothes who extorts humans with his gang.",
+  "source_sha256": "92c2c0a42c65cdb8a471d3943907f297e768fcc5b769236d9ae0b9703ea0d6ad",
+  "translation": "A bandit with dubious taste in clothes who extorts humans with his gang.",
+  "vndb_url": "https://vndb.org/c134518"
+}

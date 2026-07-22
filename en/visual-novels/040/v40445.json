@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40445",
+  "type": "visual_novel",
+  "name": "Watashi wa Ido Desu.",
+  "original_name": "私は井戸です。",
+  "language": "en",
+  "source_language": "en",
+  "source": "I am the well.\n\nYou can't get out of here anymore.\n\nBy the way, why did you come here?",
+  "source_sha256": "fdbf49a0e12345ad50641122176667849dec8e53cb425ab240c0afb326b91352",
+  "translation": "I am the well.\n\nYou can't get out of here anymore.\n\nBy the way, why did you come here?",
+  "vndb_url": "https://vndb.org/v40445"
+}

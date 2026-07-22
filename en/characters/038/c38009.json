@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38009",
+  "type": "character",
+  "name": "Norlette",
+  "original_name": "ノルレッテ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A follower of Reedy.",
+  "source_sha256": "8e2b94a5db488d26c3f1259bc962a2c27e3902cd9ced3470bfc29595d67c98b9",
+  "translation": "A follower of Reedy.",
+  "vndb_url": "https://vndb.org/c38009"
+}

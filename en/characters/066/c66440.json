@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c66440",
+  "type": "character",
+  "name": "Kana",
+  "original_name": "かな",
+  "language": "en",
+  "source_language": "en",
+  "source": "A quiet girl living in a secondhand bookstore.\nSomeone who does not put much emotions on her face, nor has many to talk about. \nHas a lot of knowledge regarding IT related things such as PC, internet, and smartphones.",
+  "source_sha256": "77066f0b900fc397d32f6b9ccbe7695ddb56a54b5be42447a0d6c8fc4c4c1ff5",
+  "translation": "A quiet girl living in a secondhand bookstore.\nSomeone who does not put much emotions on her face, nor has many to talk about. \nHas a lot of knowledge regarding IT related things such as PC, internet, and smartphones.",
+  "vndb_url": "https://vndb.org/c66440"
+}

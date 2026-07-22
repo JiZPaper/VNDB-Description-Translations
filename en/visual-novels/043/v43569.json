@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43569",
+  "type": "visual_novel",
+  "name": "My Best Friend's Birthday",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You woke up from bed and checked the time.\nToday's schedule is... BFF's Birthday!\nIt's the birthday of your best friend today!\nPrepare something nice, like a cupcake and some flowers!\n\n[From [url=https://lenicon.itch.io/mbfbday]Itch.io[/url]]",
+  "source_sha256": "44e9c811e5fc6686b45b94e6ff1a11de0dd2b6a720359c1a344deac488ba1aac",
+  "translation": "You woke up from bed and checked the time.\nToday's schedule is... BFF's Birthday!\nIt's the birthday of your best friend today!\nPrepare something nice, like a cupcake and some flowers!\n\n[From [url=https://lenicon.itch.io/mbfbday]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43569"
+}

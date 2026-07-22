@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96840",
+  "type": "character",
+  "name": "Sneering girl",
+  "original_name": "嘲笑う童女",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]She is Ushi Gozen, oni part of [url=/c96832]Railkou[/url].[/spoiler]",
+  "source_sha256": "8cfc0ee64146d5698cb6b6865abfa6476c7c7eb83c9d184b8878758ddba84313",
+  "translation": "[spoiler]She is Ushi Gozen, oni part of [url=/c96832]Railkou[/url].[/spoiler]",
+  "vndb_url": "https://vndb.org/c96840"
+}

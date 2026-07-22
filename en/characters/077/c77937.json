@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77937",
+  "type": "character",
+  "name": "Hanako",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A student from a school for disabled students on a cultural trip.",
+  "source_sha256": "d4f3fdfb21d253824d50eb1e3859c349d67e19a23e630a6bde494a4a95dde770",
+  "translation": "A student from a school for disabled students on a cultural trip.",
+  "vndb_url": "https://vndb.org/c77937"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45040",
+  "type": "visual_novel",
+  "name": "A Cheesy Romance",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Two men have a sexual awakening together.",
+  "source_sha256": "0ab52c98b00d085283b2eabd7c96803045085d6e00fcea63d4036696b57f0d86",
+  "translation": "Two men have a sexual awakening together.",
+  "vndb_url": "https://vndb.org/v45040"
+}

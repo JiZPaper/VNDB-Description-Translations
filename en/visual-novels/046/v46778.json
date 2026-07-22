@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46778",
+  "type": "visual_novel",
+  "name": "Date With Modeus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel based on the game HellTaker, featuring Modeus.",
+  "source_sha256": "08cc88be54ec0973846f3b60ba66300ee631b2b17c0a84fd2630264d90781bef",
+  "translation": "A short visual novel based on the game HellTaker, featuring Modeus.",
+  "vndb_url": "https://vndb.org/v46778"
+}

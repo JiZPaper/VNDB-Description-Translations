@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53570",
+  "type": "visual_novel",
+  "name": "Red Flower",
+  "original_name": "紅い花",
+  "language": "en",
+  "source_language": "en",
+  "source": "An interactive manga featuring art and story written by Yoshiharu Tsuge. It was released as part of a series of interactive manga called MangaRom.",
+  "source_sha256": "fce0a1f7cc79e3647ebb3a095b3d37d3864f4568f87574e62a6a758196f8e512",
+  "translation": "An interactive manga featuring art and story written by Yoshiharu Tsuge. It was released as part of a series of interactive manga called MangaRom.",
+  "vndb_url": "https://vndb.org/v53570"
+}

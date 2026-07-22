@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c149389",
+  "type": "character",
+  "name": "Chami",
+  "original_name": "チャミ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Tsugumi's djungarian hamster.",
+  "source_sha256": "73beda71262ab4b512d8ad34d9d2042b521501555d605b689affeab623f087d3",
+  "translation": "Tsugumi's djungarian hamster.",
+  "vndb_url": "https://vndb.org/c149389"
+}

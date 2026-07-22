@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100272",
+  "type": "character",
+  "name": "Becky",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lara's friend who went on a date with a guy named Anton. She loves sweets and wants to learn how to bake them.",
+  "source_sha256": "c5b54764ad16e0a1ec8c53bc51c81f00a212cd7957789df4521cf943743c5877",
+  "translation": "Lara's friend who went on a date with a guy named Anton. She loves sweets and wants to learn how to bake them.",
+  "vndb_url": "https://vndb.org/c100272"
+}

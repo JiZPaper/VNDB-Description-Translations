@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64956",
+  "type": "visual_novel",
+  "name": "Life",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You step into a high-stakes interrogation between two men: Brack, a man driven to the edge by personal tragedy, and Detective Roger, the man tasked with closing the case.",
+  "source_sha256": "0969f23836eaf626934870f67c69b17dee8da9c32cb53dc74a15f8706bd1e1f6",
+  "translation": "You step into a high-stakes interrogation between two men: Brack, a man driven to the edge by personal tragedy, and Detective Roger, the man tasked with closing the case.",
+  "vndb_url": "https://vndb.org/v64956"
+}

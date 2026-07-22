@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97429",
+  "type": "character",
+  "name": "Pepper",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sage's mother.",
+  "source_sha256": "d456ac42b5df535724628c0c7b7b5f58d113ac56a51a8f40cb1a515800db96c3",
+  "translation": "Sage's mother.",
+  "vndb_url": "https://vndb.org/c97429"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34771",
+  "type": "character",
+  "name": "Sister",
+  "original_name": "シスター",
+  "language": "en",
+  "source_language": "en",
+  "source": "Main character of the scenario \"Hai Kyoukai no Tenshi\" (廃教会の天使).",
+  "source_sha256": "a2235389a7284005479255a4d0e4bed0d630b6b97e23e72f043293ef22bf5ee1",
+  "translation": "Main character of the scenario \"Hai Kyoukai no Tenshi\" (廃教会の天使).",
+  "vndb_url": "https://vndb.org/c34771"
+}

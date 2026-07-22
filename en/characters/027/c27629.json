@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c27629",
+  "type": "character",
+  "name": "Master Kortenix",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Oliver's mentor.",
+  "source_sha256": "2403b83fd8e50b8c4c1766bc7575b8758db6cd1cace407a8ce285172dc3d55d9",
+  "translation": "Oliver's mentor.",
+  "vndb_url": "https://vndb.org/c27629"
+}

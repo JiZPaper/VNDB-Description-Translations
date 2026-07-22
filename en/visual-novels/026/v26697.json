@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26697",
+  "type": "visual_novel",
+  "name": "The One",
+  "original_name": "the one",
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl sees a dream.\nA fated love with a prince.",
+  "source_sha256": "e6fe9302e204feeb19c61273c86afd4879590c60027cd0b972bab8cb802d22cc",
+  "translation": "A girl sees a dream.\nA fated love with a prince.",
+  "vndb_url": "https://vndb.org/v26697"
+}

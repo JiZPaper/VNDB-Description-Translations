@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c52336",
+  "type": "character",
+  "name": "Strong",
+  "original_name": "強気",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the personality choices.\nA determined girl that always speaks bluntly.",
+  "source_sha256": "e1634b42f5304fb19575864a4b6b176eabf9abe21e76cba810bc518e1b09584b",
+  "translation": "One of the personality choices.\nA determined girl that always speaks bluntly.",
+  "vndb_url": "https://vndb.org/c52336"
+}

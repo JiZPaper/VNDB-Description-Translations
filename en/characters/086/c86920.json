@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86920",
+  "type": "character",
+  "name": "Max",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Partner Type: Horse\n\nSpecial Attack: Stampede\nAn attack where the front feet are brought down full force on the enemy.\n\nFavorite Food: Carrots\n\n[Official in-game description]",
+  "source_sha256": "7e65047231d2bb41ced8d834551c5aeb6106f5e0462d91ab4513960b35a3028b",
+  "translation": "Partner Type: Horse\n\nSpecial Attack: Stampede\nAn attack where the front feet are brought down full force on the enemy.\n\nFavorite Food: Carrots\n\n[Official in-game description]",
+  "vndb_url": "https://vndb.org/c86920"
+}

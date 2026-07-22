@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16061",
+  "type": "visual_novel",
+  "name": "Dom u ozera",
+  "original_name": "Дом у озера",
+  "language": "en",
+  "source_language": "en",
+  "source": "An unofficial special episode for Halloween 2013.",
+  "source_sha256": "f251c39f0b86334310c6d28e86a10351920a60c2ca8583f283d7341511cada50",
+  "translation": "An unofficial special episode for Halloween 2013.",
+  "vndb_url": "https://vndb.org/v16061"
+}

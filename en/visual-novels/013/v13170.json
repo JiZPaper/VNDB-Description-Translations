@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13170",
+  "type": "visual_novel",
+  "name": "There is Always a Choice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A medium length Visual Novel about the persecution of Falun Gong in China. It was originally created as an entry for the \"branching story\" contest held by \"Citizens for a Global Solution\" (a kind of human rights organization). \n\n[From [url=http://games.renpy.org/game/choice.shtml]Ren'Ai Archive[/url]]",
+  "source_sha256": "b7073082b0faa1fa9251e2e20043323a0fbc4baabc4824534639e1552c9643b1",
+  "translation": "A medium length Visual Novel about the persecution of Falun Gong in China. It was originally created as an entry for the \"branching story\" contest held by \"Citizens for a Global Solution\" (a kind of human rights organization). \n\n[From [url=http://games.renpy.org/game/choice.shtml]Ren'Ai Archive[/url]]",
+  "vndb_url": "https://vndb.org/v13170"
+}

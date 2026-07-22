@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120303",
+  "type": "character",
+  "name": "VT",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A lonely boy with a TV for a head.",
+  "source_sha256": "8d8099a5bcaad67afb6d5d54149c77b7cd8a08e8d6aabe255e8bf6d725f9a3af",
+  "translation": "A lonely boy with a TV for a head.",
+  "vndb_url": "https://vndb.org/c120303"
+}

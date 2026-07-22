@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c107727",
+  "type": "character",
+  "name": "Fubuki",
+  "original_name": "ふぶき",
+  "language": "en",
+  "source_language": "en",
+  "source": "A conversational AI system being developed by the \"AI Research Department\".\nCurrently, 20,000 users are registered, and it will grow through machine learning through conversations with users and deep learning.\n\n[From [url=http://blue-cradle.com/%e3%81%b5%e3%81%b6%e3%81%8d/]official website[/url]]",
+  "source_sha256": "82458793b3cb1ebe9e2d30fbd2d36a97b546884fe81cc4672272638e49d85348",
+  "translation": "A conversational AI system being developed by the \"AI Research Department\".\nCurrently, 20,000 users are registered, and it will grow through machine learning through conversations with users and deep learning.\n\n[From [url=http://blue-cradle.com/%e3%81%b5%e3%81%b6%e3%81%8d/]official website[/url]]",
+  "vndb_url": "https://vndb.org/c107727"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c46564",
+  "type": "character",
+  "name": "Heinz",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of [url=https://vndb.org/c3678]Dirk's[/url] comrades.",
+  "source_sha256": "59b567129389c12f01bb635c796b643e42ad00d458f43231944ea81349d4d1e9",
+  "translation": "One of [url=https://vndb.org/c3678]Dirk's[/url] comrades.",
+  "vndb_url": "https://vndb.org/c46564"
+}

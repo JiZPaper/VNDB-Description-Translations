@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134271",
+  "type": "character",
+  "name": "John Smith",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "John is a young video game programmer sent to a medieval world by a goddess in order to prevent a murder that would bring this world to its downfall.\nHe finds himself reviving the same events over and over again at each of his deaths until he finds the key to the mystery.",
+  "source_sha256": "dfa0058e68ce27d850d114ea5b5123d530e3b52fcfbe92c1ff0bec4b6b20f4a6",
+  "translation": "John is a young video game programmer sent to a medieval world by a goddess in order to prevent a murder that would bring this world to its downfall.\nHe finds himself reviving the same events over and over again at each of his deaths until he finds the key to the mystery.",
+  "vndb_url": "https://vndb.org/c134271"
+}

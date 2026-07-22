@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148472",
+  "type": "character",
+  "name": "Amber",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Seen cleaning the academy the hero attends.",
+  "source_sha256": "a6e5c8ef64c93ff6d70f9b98ec742e82380261d0854e24e7d771a88cddc6c404",
+  "translation": "Seen cleaning the academy the hero attends.",
+  "vndb_url": "https://vndb.org/c148472"
+}

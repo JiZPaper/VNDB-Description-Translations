@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12608",
+  "type": "character",
+  "name": "Nonpori",
+  "original_name": "ノンポリ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hitsuji's pet cat.",
+  "source_sha256": "4e3ba47302916b397317ff3a0271b8ba5206790c489b93519e3283ce6fb50353",
+  "translation": "Hitsuji's pet cat.",
+  "vndb_url": "https://vndb.org/c12608"
+}

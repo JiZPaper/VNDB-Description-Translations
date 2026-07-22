@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46926",
+  "type": "visual_novel",
+  "name": "Daraku Shita Shinjitsu",
+  "original_name": "堕落した真実",
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as a secret investigator sent by the legendary superhero base IMMORTAL to uncover the traitor among them. Interrogate the three suspected heroes and find who is betraying his own valors for the sake of evil!",
+  "source_sha256": "b312d28f022647a6a0a6472d484152b73009f3de4614862160c67e3c9c0fbb5c",
+  "translation": "You play as a secret investigator sent by the legendary superhero base IMMORTAL to uncover the traitor among them. Interrogate the three suspected heroes and find who is betraying his own valors for the sake of evil!",
+  "vndb_url": "https://vndb.org/v46926"
+}

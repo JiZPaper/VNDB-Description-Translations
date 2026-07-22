@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c128475",
+  "type": "character",
+  "name": "Erica",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Erica, an assassin for the Inquisition with the highest Chimera kill count.",
+  "source_sha256": "3c5b843a498afdbdcf5b64ff9b0740332d1c6c601c34d0abac9d69de7728833f",
+  "translation": "Erica, an assassin for the Inquisition with the highest Chimera kill count.",
+  "vndb_url": "https://vndb.org/c128475"
+}

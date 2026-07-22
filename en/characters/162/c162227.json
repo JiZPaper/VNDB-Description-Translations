@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162227",
+  "type": "character",
+  "name": "Lucius Valebat",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Son of Lucian Valebat.",
+  "source_sha256": "4ccfd1f833933dd3469d10953546bba7257e529f604f30e6b07706d711b64294",
+  "translation": "Son of Lucian Valebat.",
+  "vndb_url": "https://vndb.org/c162227"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154385",
+  "type": "character",
+  "name": "Henrietta",
+  "original_name": "ヘンリエッタ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of a tailor shop located in the suburbs.",
+  "source_sha256": "dbe17f1ef0da69f3b295c4596f13f9b2b5030be36cfed33806af2307edd0f5e1",
+  "translation": "The owner of a tailor shop located in the suburbs.",
+  "vndb_url": "https://vndb.org/c154385"
+}

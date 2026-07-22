@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24660",
+  "type": "visual_novel",
+  "name": "Paradise -MUSUBI-",
+  "original_name": "Paradise 結-MUSUBI-",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is the first fandisc of Paradise. The fandisc contains the after stories that follow the happy ends of the original game, as well as retellings of some scenes from the original game from the point of view of other characters.",
+  "source_sha256": "4c306da62d3cb9a12797fd9ae01e0f0ad5576cd6d8ed6bad4825368d56f6e286",
+  "translation": "This is the first fandisc of Paradise. The fandisc contains the after stories that follow the happy ends of the original game, as well as retellings of some scenes from the original game from the point of view of other characters.",
+  "vndb_url": "https://vndb.org/v24660"
+}

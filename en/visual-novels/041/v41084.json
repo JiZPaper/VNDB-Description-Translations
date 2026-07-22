@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41084",
+  "type": "visual_novel",
+  "name": "Seager",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short linear visual novel about a dog in search of his boy.",
+  "source_sha256": "f78f3e8788ca9d0c6688631806fed8d0e9ec9ae9a1a1ddf7b2aadce80ce46d2a",
+  "translation": "A short linear visual novel about a dog in search of his boy.",
+  "vndb_url": "https://vndb.org/v41084"
+}

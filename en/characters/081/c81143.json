@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81143",
+  "type": "character",
+  "name": "Glissade Roselite",
+  "original_name": "グリッサード・ローゼライト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A doctor based inside the HOUNDS headquarters.",
+  "source_sha256": "d76cfa5ece7a6e829300566e9fa57a46614bf83aa946fab6696d8b19f47bfb56",
+  "translation": "A doctor based inside the HOUNDS headquarters.",
+  "vndb_url": "https://vndb.org/c81143"
+}

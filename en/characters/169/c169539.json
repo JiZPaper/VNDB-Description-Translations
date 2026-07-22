@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169539",
+  "type": "character",
+  "name": "Sheilla",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Animal rights activist for beavers.",
+  "source_sha256": "c25395b6067a405daaaf8bca2a3188f706a1779a3b1ba7a1cb30f802d803bd4b",
+  "translation": "Animal rights activist for beavers.",
+  "vndb_url": "https://vndb.org/c169539"
+}

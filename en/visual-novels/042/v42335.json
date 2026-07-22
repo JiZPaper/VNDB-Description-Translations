@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42335",
+  "type": "visual_novel",
+  "name": "Six Witches",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "These are the six utopias that are determined by the color of your heart.\n\n[From [url=https://novelgame.jp/games/show/7649]NovelGame[/url]]",
+  "source_sha256": "a35e6af9ef03873a543205dcb2d48be5954fc88adaff8b52aa41aa4bde5fee72",
+  "translation": "These are the six utopias that are determined by the color of your heart.\n\n[From [url=https://novelgame.jp/games/show/7649]NovelGame[/url]]",
+  "vndb_url": "https://vndb.org/v42335"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153278",
+  "type": "character",
+  "name": "Morlo Elroy",
+  "original_name": "모로 엘로이",
+  "language": "en",
+  "source_language": "en",
+  "source": "Skill: Retrograde memory transmission",
+  "source_sha256": "a7b19c3695492dcd6b9e53ab2aa47c956ec213570357ca32038918dc2a43d1f0",
+  "translation": "Skill: Retrograde memory transmission",
+  "vndb_url": "https://vndb.org/c153278"
+}

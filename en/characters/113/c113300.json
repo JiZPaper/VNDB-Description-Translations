@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113300",
+  "type": "character",
+  "name": "Gondawara Genzou",
+  "original_name": "権田原 源蔵",
+  "language": "en",
+  "source_language": "en",
+  "source": "He is the chef at Kikufuji Restaurant.",
+  "source_sha256": "7e1e04424d51f531347f353ba0b7fee65f9ef6e7583bc053f0acb5d60a893613",
+  "translation": "He is the chef at Kikufuji Restaurant.",
+  "vndb_url": "https://vndb.org/c113300"
+}

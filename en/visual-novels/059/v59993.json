@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59993",
+  "type": "visual_novel",
+  "name": "Paths to the End",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You find yourself faced with an unexpected death and a strange figure who seems intent on guiding your way. What path will you choose?\n\n[From [url=https://thecreaturesdesk.itch.io/paths-to-the-end-demo]Itch.io[/url]]",
+  "source_sha256": "d45cb63c2960746167817b62b1740d621bd191cd3d68ecbd5059635689b3a096",
+  "translation": "You find yourself faced with an unexpected death and a strange figure who seems intent on guiding your way. What path will you choose?\n\n[From [url=https://thecreaturesdesk.itch.io/paths-to-the-end-demo]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v59993"
+}

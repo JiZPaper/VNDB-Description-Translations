@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25093",
+  "type": "visual_novel",
+  "name": "Red Grimly Tale",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Red is going to visit his grandma, who lives in a village across the wood. However, rumours say that there's a dangerous wolf living in the forest.",
+  "source_sha256": "c52d4090a5d27155d3e8aa3319d21c277ac1b08cadec70eba1c3cefe20949358",
+  "translation": "Red is going to visit his grandma, who lives in a village across the wood. However, rumours say that there's a dangerous wolf living in the forest.",
+  "vndb_url": "https://vndb.org/v25093"
+}

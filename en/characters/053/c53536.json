@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53536",
+  "type": "character",
+  "name": "Sonya",
+  "original_name": "Соня",
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist's sister",
+  "source_sha256": "b47e8d70f6eefb56dd17d0e04f526074c530eeab41df14aac1ec18d7a397f5a7",
+  "translation": "Protagonist's sister",
+  "vndb_url": "https://vndb.org/c53536"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30110",
+  "type": "character",
+  "name": "Kaerotta",
+  "original_name": "カエロッタ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Minori's familiar, a flying frog.",
+  "source_sha256": "faab7c08c2d513074f9f7b94c9b304cb3ad58dda574a3a9655ce386a1c3d5bfc",
+  "translation": "Minori's familiar, a flying frog.",
+  "vndb_url": "https://vndb.org/c30110"
+}

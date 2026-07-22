@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27186",
+  "type": "visual_novel",
+  "name": "Stellaren II",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sequel of Stellaren and Stellaren Acrux\n\nTwo investigators of a space mining colony discover a series of murders.\nWith a looming augment threat, their planet's survival now depends on their lead.",
+  "source_sha256": "a64dcc457895b63a62949457af0f0eb715533cff56cd6dcfee1bcd96d70493d0",
+  "translation": "Sequel of Stellaren and Stellaren Acrux\n\nTwo investigators of a space mining colony discover a series of murders.\nWith a looming augment threat, their planet's survival now depends on their lead.",
+  "vndb_url": "https://vndb.org/v27186"
+}

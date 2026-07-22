@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18190",
+  "type": "visual_novel",
+  "name": "Elf in Wonderland 2",
+  "original_name": "エルフ イン ワンダーランド２",
+  "language": "en",
+  "source_language": "en",
+  "source": "A retro text adventure game just like its predecessor.",
+  "source_sha256": "a6f47ea6a4bd2cb8f1783e5eb4b2f9ff12330da56eff92d0f7b34d4ff0b7ea00",
+  "translation": "A retro text adventure game just like its predecessor.",
+  "vndb_url": "https://vndb.org/v18190"
+}

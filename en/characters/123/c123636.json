@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123636",
+  "type": "character",
+  "name": "Suigintou",
+  "original_name": "水銀燈",
+  "language": "en",
+  "source_language": "en",
+  "source": "Instance of Suigintou in NOMAD Rozen Maiden continuation, which is also used in TAITO Visual Novels.\nShe is the first Rozen Maiden doll.",
+  "source_sha256": "74dbada45664205c6dc99d2335cfbe9f51d068569cfc9f901986dac37ad845fd",
+  "translation": "Instance of Suigintou in NOMAD Rozen Maiden continuation, which is also used in TAITO Visual Novels.\nShe is the first Rozen Maiden doll.",
+  "vndb_url": "https://vndb.org/c123636"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117332",
+  "type": "character",
+  "name": "Nathan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nathan died thirteen years ago. He now wanders as a lonely ghost.",
+  "source_sha256": "e8b13b6310c5ab4a57682149b545bef819483d659d807729c343140d91fd0cc9",
+  "translation": "Nathan died thirteen years ago. He now wanders as a lonely ghost.",
+  "vndb_url": "https://vndb.org/c117332"
+}

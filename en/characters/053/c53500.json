@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53500",
+  "type": "character",
+  "name": "Pyue Ru Artelion",
+  "original_name": "ピュエ・ル・アルテリオン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hikari's transformed state.",
+  "source_sha256": "e46e758be5429d3ef5d1d852802dc2819581ac47b053d22a9374df5bc68c6a58",
+  "translation": "Hikari's transformed state.",
+  "vndb_url": "https://vndb.org/c53500"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101620",
+  "type": "character",
+  "name": "Kirst",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bobby's sister.",
+  "source_sha256": "78f6f70dcb1c5167566c3334a5e063b0f07a172dcf6fa2051fa45c299ef9fba4",
+  "translation": "Bobby's sister.",
+  "vndb_url": "https://vndb.org/c101620"
+}

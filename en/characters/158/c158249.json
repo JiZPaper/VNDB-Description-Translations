@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c158249",
+  "type": "character",
+  "name": "Miku",
+  "original_name": "ミク",
+  "language": "en",
+  "source_language": "en",
+  "source": "[url=/c158247]Eleanor[/url]'s aide.",
+  "source_sha256": "ddd9b5042f6e66b8ad6add653c04c45a03b6a8b022da1b2f2f3ed339e32759bf",
+  "translation": "[url=/c158247]Eleanor[/url]'s aide.",
+  "vndb_url": "https://vndb.org/c158249"
+}

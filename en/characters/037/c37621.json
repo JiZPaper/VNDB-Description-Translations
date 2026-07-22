@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37621",
+  "type": "character",
+  "name": "Hades Aidoneus",
+  "original_name": "ハデス・アイドネウス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Greek God of the Underworld",
+  "source_sha256": "21eeaefb611bf518896998eee776a91274f6287e9a917adfa1f8aafffbb9bb7a",
+  "translation": "Greek God of the Underworld",
+  "vndb_url": "https://vndb.org/c37621"
+}

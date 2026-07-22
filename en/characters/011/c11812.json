@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11812",
+  "type": "character",
+  "name": "Roboko",
+  "original_name": "ロボ子",
+  "language": "en",
+  "source_language": "en",
+  "source": "Class: School Royale Weapon\nSkill: Orbital Cannon\n\nA robot girl who defends her military school from invaders. She's incredibly strong but prone to breaking down. Even though she's a robot she can still have children.",
+  "source_sha256": "a1d84843c540a50005fb17752ed9f545a766ea9a8e8ddbe84b5f3b84eb9e1331",
+  "translation": "Class: School Royale Weapon\nSkill: Orbital Cannon\n\nA robot girl who defends her military school from invaders. She's incredibly strong but prone to breaking down. Even though she's a robot she can still have children.",
+  "vndb_url": "https://vndb.org/c11812"
+}

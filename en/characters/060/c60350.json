@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60350",
+  "type": "character",
+  "name": "Kevin Oswell",
+  "original_name": "ケヴィン・オズウェル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A super popular Hollywood actor.",
+  "source_sha256": "9191ad899968651da4d8b45f62bc82983267c2cdc61be30157d3b564268b077a",
+  "translation": "A super popular Hollywood actor.",
+  "vndb_url": "https://vndb.org/c60350"
+}

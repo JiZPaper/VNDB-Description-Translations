@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c7911",
+  "type": "character",
+  "name": "Oda Yuuri",
+  "original_name": "小田 悠里",
+  "language": "en",
+  "source_language": "en",
+  "source": "Character type: Student who failed an entrance exam.",
+  "source_sha256": "14e3d0fa34bac9b3d8169379d22b1aea6ac2a4ccff52cbbc830735d8907cabe0",
+  "translation": "Character type: Student who failed an entrance exam.",
+  "vndb_url": "https://vndb.org/c7911"
+}

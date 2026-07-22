@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101528",
+  "type": "character",
+  "name": "Daryl",
+  "original_name": "ダリル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Doesn't have a route or an ending.",
+  "source_sha256": "7c605d4b651c6c52338b9524328d8288d74a3601aec929dff4ba9708e71b0e31",
+  "translation": "Doesn't have a route or an ending.",
+  "vndb_url": "https://vndb.org/c101528"
+}

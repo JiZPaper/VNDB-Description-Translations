@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37041",
+  "type": "visual_novel",
+  "name": "For I, The Moon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short conversation with the moon.\n\n[From [url=https://georgebatch.itch.io/for-i-the-moon]itch.io[/url]]",
+  "source_sha256": "076d51c84244ec97d090759d2fd8dfe9e5b4950050b19329481258814d72c2f7",
+  "translation": "A short conversation with the moon.\n\n[From [url=https://georgebatch.itch.io/for-i-the-moon]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v37041"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17168",
+  "type": "visual_novel",
+  "name": "11wol Sonyeon",
+  "original_name": "11월 소년",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mystery-adventure game about an obsessive, stalker romance.",
+  "source_sha256": "0b431c75ac22ab2a5f751063f551523554acf551b64189cc3f979cd07c5254fd",
+  "translation": "A mystery-adventure game about an obsessive, stalker romance.",
+  "vndb_url": "https://vndb.org/v17168"
+}

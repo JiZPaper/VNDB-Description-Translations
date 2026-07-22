@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139623",
+  "type": "character",
+  "name": "Roxanne",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Friend of Teagan\n\nOwner of clothing store",
+  "source_sha256": "b53fbc7484aeeb98af5796dc40866faf2bc8fe64a4b2ee6b3bf5526026085978",
+  "translation": "Friend of Teagan\n\nOwner of clothing store",
+  "vndb_url": "https://vndb.org/c139623"
+}

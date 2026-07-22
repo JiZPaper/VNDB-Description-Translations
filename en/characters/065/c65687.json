@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65687",
+  "type": "character",
+  "name": "Simon Hopper",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Profession: Composer\nFavorite Place: Jazz Bar\n\nAn aspiring composer who is almost ready to take over the world.\nHe would make a great buddy if you can sing.",
+  "source_sha256": "3bdf0f0bad31d9f2964618998701c22e488d415066c35a2c04580e0ca5acbf91",
+  "translation": "Profession: Composer\nFavorite Place: Jazz Bar\n\nAn aspiring composer who is almost ready to take over the world.\nHe would make a great buddy if you can sing.",
+  "vndb_url": "https://vndb.org/c65687"
+}

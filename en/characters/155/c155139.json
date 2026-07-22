@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155139",
+  "type": "character",
+  "name": "Elderly Shop Owner",
+  "original_name": "店員の老婆",
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of the convenience store NOWSON. [url=/c155138]Middle-Aged Man[/url]'s mother.",
+  "source_sha256": "eef14d3df48ae88870bbd5426aad3dcc465e8b0f33b174e82f80955e6752c20b",
+  "translation": "Owner of the convenience store NOWSON. [url=/c155138]Middle-Aged Man[/url]'s mother.",
+  "vndb_url": "https://vndb.org/c155139"
+}

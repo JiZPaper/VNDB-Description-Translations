@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32049",
+  "type": "visual_novel",
+  "name": "Meet Me at Midnight",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "It's spring break! Your tour of New Orleans with Macy has proved pretty tame thus far. Maybe a toast with a murdered specter and a trip back to the roaring 20's will shake things up...",
+  "source_sha256": "00569a7989a61039f96467df8779288eeabc5e24a695a8a97a3c60cbb66b886c",
+  "translation": "It's spring break! Your tour of New Orleans with Macy has proved pretty tame thus far. Maybe a toast with a murdered specter and a trip back to the roaring 20's will shake things up...",
+  "vndb_url": "https://vndb.org/v32049"
+}

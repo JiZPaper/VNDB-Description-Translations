@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168275",
+  "type": "character",
+  "name": "Maids",
+  "original_name": "メイド達",
+  "language": "en",
+  "source_language": "en",
+  "source": "The excellent staff of the Grand Palace.\n\nTheir duties are diverse, including cleaning, cooking, and customer service.\n\nThey are well-trained, so it is impossible for them to form \"inappropriate relationships\" with guests or other staff members.",
+  "source_sha256": "6ef1fc74e011d25fe42236541cb289a0d473002433837f2fafa44de1dbe20ca1",
+  "translation": "The excellent staff of the Grand Palace.\n\nTheir duties are diverse, including cleaning, cooking, and customer service.\n\nThey are well-trained, so it is impossible for them to form \"inappropriate relationships\" with guests or other staff members.",
+  "vndb_url": "https://vndb.org/c168275"
+}

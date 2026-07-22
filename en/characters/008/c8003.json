@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8003",
+  "type": "character",
+  "name": "Kosugi Maya",
+  "original_name": "小杉 麻耶",
+  "language": "en",
+  "source_language": "en",
+  "source": "Character type: Elevator girl.",
+  "source_sha256": "2798c3dafe74a35dd6dee3376069cf6fddfbc86baa4f63208a86fe7f5971d43c",
+  "translation": "Character type: Elevator girl.",
+  "vndb_url": "https://vndb.org/c8003"
+}

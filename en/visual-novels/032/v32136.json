@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32136",
+  "type": "visual_novel",
+  "name": "Twitch Life!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Meet Twitch streamers! Gain clout! Build relationships!",
+  "source_sha256": "42313f47d68c29941690d5cec91a4be62c46437e637e28ffe2008a99fdbaade4",
+  "translation": "Meet Twitch streamers! Gain clout! Build relationships!",
+  "vndb_url": "https://vndb.org/v32136"
+}

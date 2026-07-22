@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29725",
+  "type": "visual_novel",
+  "name": "Apple of My Eye",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Help Apple defeat the forces of evil by using the power of love!",
+  "source_sha256": "84945b7cf637461cc3a3c4551ce1e17b5b462e0d251a229f60cf310c43be6f96",
+  "translation": "Help Apple defeat the forces of evil by using the power of love!",
+  "vndb_url": "https://vndb.org/v29725"
+}

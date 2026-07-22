@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90010",
+  "type": "character",
+  "name": "Arachne",
+  "original_name": "アラクネ",
+  "language": "en",
+  "source_language": "en",
+  "source": "An evil priest of the God of Chaos who cooperates with Garun.",
+  "source_sha256": "f06faf31b7f128f603552cdca66bf2ff58860b26daac618f0e4c60d35dc4461c",
+  "translation": "An evil priest of the God of Chaos who cooperates with Garun.",
+  "vndb_url": "https://vndb.org/c90010"
+}

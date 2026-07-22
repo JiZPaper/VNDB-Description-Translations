@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134221",
+  "type": "character",
+  "name": "Marcus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Head of the UK branch of the company.",
+  "source_sha256": "9feb5df6ff537c98ee05465504e04fbd547aec876bd643075789e0e7cda09929",
+  "translation": "Head of the UK branch of the company.",
+  "vndb_url": "https://vndb.org/c134221"
+}

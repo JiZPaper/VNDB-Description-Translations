@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c22401",
+  "type": "character",
+  "name": "David Fafnir",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Faction:\tAres\nBirthday:\tUnknown\nPlace of Birth:\tUnknown\nOccupation:\tCommodore\nAffiliation:\tAres Confederation\nVoice Actor:\tChris Thurman\n\nProfile:\n[--NO DATA PROVIDED--]",
+  "source_sha256": "4838672aff729445f3af17fa6f7b53a4d04689805dbb8d2a359ae10b75646046",
+  "translation": "Faction:\tAres\nBirthday:\tUnknown\nPlace of Birth:\tUnknown\nOccupation:\tCommodore\nAffiliation:\tAres Confederation\nVoice Actor:\tChris Thurman\n\nProfile:\n[--NO DATA PROVIDED--]",
+  "vndb_url": "https://vndb.org/c22401"
+}

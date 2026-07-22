@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140386",
+  "type": "character",
+  "name": "Piper Carter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A tomboyish resident of Skye who loves hiking and playing sports.",
+  "source_sha256": "c9508a4fe1a6c2db9bf5008a87fe374cf758563f479338864ebc2ca69c3fda75",
+  "translation": "A tomboyish resident of Skye who loves hiking and playing sports.",
+  "vndb_url": "https://vndb.org/c140386"
+}

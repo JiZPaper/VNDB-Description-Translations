@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17368",
+  "type": "character",
+  "name": "Navoika",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A little girl who happens to stumble upon Vesper",
+  "source_sha256": "650992731df7f4ea0a1be08b8ea485290efc65932caacaaa3fc7d9e07896920d",
+  "translation": "A little girl who happens to stumble upon Vesper",
+  "vndb_url": "https://vndb.org/c17368"
+}

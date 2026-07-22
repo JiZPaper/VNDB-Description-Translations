@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34270",
+  "type": "visual_novel",
+  "name": "Romeo and Juliet",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You have discovered true love very early in life. You have loved each other unconditionally, strongly, purely. Everybody will try to stand in your way. Are you ready to fight for true love?\n\n[From in-app]",
+  "source_sha256": "e5a530ee8fb900167ba1e2012436f287183214c1216892339f3568043501de3c",
+  "translation": "You have discovered true love very early in life. You have loved each other unconditionally, strongly, purely. Everybody will try to stand in your way. Are you ready to fight for true love?\n\n[From in-app]",
+  "vndb_url": "https://vndb.org/v34270"
+}

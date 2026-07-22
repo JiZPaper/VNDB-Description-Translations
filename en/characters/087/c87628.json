@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87628",
+  "type": "character",
+  "name": "Alfred Gardner",
+  "original_name": "アルフレッド・ガードナー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A knight that born in a noble family. He is a strong and serious man with a strong sense of justice.\n\nHe believes in the righteousness of the knight, and he is good to those who follow the rules, but he is merciless to those who do not follow the rules.",
+  "source_sha256": "1e7b4f0d7d051790ff865fcbc7e1fbaa12de4906e26e80a20a121ae0ccf4ed02",
+  "translation": "A knight that born in a noble family. He is a strong and serious man with a strong sense of justice.\n\nHe believes in the righteousness of the knight, and he is good to those who follow the rules, but he is merciless to those who do not follow the rules.",
+  "vndb_url": "https://vndb.org/c87628"
+}

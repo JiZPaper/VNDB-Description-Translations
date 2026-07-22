@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102854",
+  "type": "character",
+  "name": "Mouse",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist and law student",
+  "source_sha256": "6a4c89b6f0537621520cf7b276edbd4d3a41a14f9ebe0a462dc356dc7cecdefe",
+  "translation": "Protagonist and law student",
+  "vndb_url": "https://vndb.org/c102854"
+}

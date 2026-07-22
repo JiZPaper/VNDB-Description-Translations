@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34013",
+  "type": "visual_novel",
+  "name": "Ni Shang",
+  "original_name": "逆熵",
+  "language": "en",
+  "source_language": "en",
+  "source": "A companion piece to Honkai Impact 3rd about Nikola Tesla, Einstein, and Welt Joyce, set during the 1950s.",
+  "source_sha256": "bc30ad32e6a921f8f1ac73d7aac360cc91eda782eec5e3f73665bd60e0ba3c04",
+  "translation": "A companion piece to Honkai Impact 3rd about Nikola Tesla, Einstein, and Welt Joyce, set during the 1950s.",
+  "vndb_url": "https://vndb.org/v34013"
+}

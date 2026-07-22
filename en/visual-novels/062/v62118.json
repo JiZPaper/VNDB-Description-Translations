@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62118",
+  "type": "visual_novel",
+  "name": "nom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A heartwarming chat game where you just talk to characters.\n\nIt's conversation-focused and has almost no story.",
+  "source_sha256": "6e243aa07be62294983719f724f5500c2e98e74de5921e90c7d3ba9c85fc20cd",
+  "translation": "A heartwarming chat game where you just talk to characters.\n\nIt's conversation-focused and has almost no story.",
+  "vndb_url": "https://vndb.org/v62118"
+}

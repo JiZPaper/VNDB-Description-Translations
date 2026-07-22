@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43107",
+  "type": "visual_novel",
+  "name": "Game Collecting Simulator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "In \"Game Collecting Simulator\", play as the new collector in town, Thomas. Interact with other game enthusiasts and hunt for the games you want.\n\n[From [url=https://store.steampowered.com/app/2320030/]Steam[/url]]",
+  "source_sha256": "5954d0fbded1e06a1aa7e67ade11da4c34d17999130018f0b2f07f22f95e8328",
+  "translation": "In \"Game Collecting Simulator\", play as the new collector in town, Thomas. Interact with other game enthusiasts and hunt for the games you want.\n\n[From [url=https://store.steampowered.com/app/2320030/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v43107"
+}

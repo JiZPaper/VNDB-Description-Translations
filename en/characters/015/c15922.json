@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15922",
+  "type": "character",
+  "name": "Tsuburaya Misato",
+  "original_name": "円谷 ミサト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A new heroine added in the PSP version.",
+  "source_sha256": "40bd909ced1886e5b489981d3214f4abab4ac55eda356bbc00e61a0e69706378",
+  "translation": "A new heroine added in the PSP version.",
+  "vndb_url": "https://vndb.org/c15922"
+}

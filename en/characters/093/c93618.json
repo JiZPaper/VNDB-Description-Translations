@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93618",
+  "type": "character",
+  "name": "Remy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An office boy at the opera house.",
+  "source_sha256": "bcd3ee4c9dd4c5a65f07ac97dba9cf224b5fbf62a0d4056f39c68a12b7e0d7b9",
+  "translation": "An office boy at the opera house.",
+  "vndb_url": "https://vndb.org/c93618"
+}

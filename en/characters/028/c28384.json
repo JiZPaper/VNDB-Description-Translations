@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28384",
+  "type": "character",
+  "name": "Sebastian Michaelis",
+  "original_name": "セバスチャン・ミカエリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The demon butler of the Phantomhive household, bound by a Faustian contract to Ciel.",
+  "source_sha256": "50852e0a732d7c170b45ceed75b10b76145d6d69c330c62bada4da49d9e25d63",
+  "translation": "The demon butler of the Phantomhive household, bound by a Faustian contract to Ciel.",
+  "vndb_url": "https://vndb.org/c28384"
+}

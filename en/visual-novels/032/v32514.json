@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32514",
+  "type": "visual_novel",
+  "name": "BAD END THEATER",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Welcome to BAD END THEATER!\nSelect your protagonist and explore a variety of terrible fates!\n\nThe decisions you make in one story will affect the others. You can toggle these behaviors to open up new paths! Unfortunately, every path leads to a bad ending...\n\nCan you find a way to save this unlucky cast?\n\n[Edited from [url=https://store.steampowered.com/app/1764390/]Steam[/url]]",
+  "source_sha256": "00ac6a79c9c25cc33a8a91cfd35c48bebd235e7ee9082425c65e3841085197c0",
+  "translation": "Welcome to BAD END THEATER!\nSelect your protagonist and explore a variety of terrible fates!\n\nThe decisions you make in one story will affect the others. You can toggle these behaviors to open up new paths! Unfortunately, every path leads to a bad ending...\n\nCan you find a way to save this unlucky cast?\n\n[Edited from [url=https://store.steampowered.com/app/1764390/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v32514"
+}

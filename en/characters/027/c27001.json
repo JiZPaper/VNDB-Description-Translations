@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c27001",
+  "type": "character",
+  "name": "Juumonji Maki",
+  "original_name": "十文字 麻季",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's homeroom teacher, his subject is Japanese History.",
+  "source_sha256": "d3b4a5811e6dab195f1abe7aad1ffb758a8099975d4ad9bd229552c93e9a28e9",
+  "translation": "The protagonist's homeroom teacher, his subject is Japanese History.",
+  "vndb_url": "https://vndb.org/c27001"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26951",
+  "type": "visual_novel",
+  "name": "EON 190401",
+  "original_name": "ЭОН 190401",
+  "language": "en",
+  "source_language": "en",
+  "source": "April Fool's version of EON trial with original scenario.",
+  "source_sha256": "89bbe0d0366b861b93b02460d9ab1c63f9538888dc232ff977ba1967ccc17bb2",
+  "translation": "April Fool's version of EON trial with original scenario.",
+  "vndb_url": "https://vndb.org/v26951"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19809",
+  "type": "visual_novel",
+  "name": "Out for Blood",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You wake up in the familiar darkness of your room. There is a strange man by the door staring at you.",
+  "source_sha256": "5e8b91c202bc3fb18eb15d45c6f5ee58733ef54b00cffcde88e204e263b1a3a5",
+  "translation": "You wake up in the familiar darkness of your room. There is a strange man by the door staring at you.",
+  "vndb_url": "https://vndb.org/v19809"
+}

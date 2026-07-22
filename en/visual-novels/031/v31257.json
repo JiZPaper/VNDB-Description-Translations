@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31257",
+  "type": "visual_novel",
+  "name": "Doctor Who",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "In this Visual novel you'll be fighting Cyber freaks and some unexpected visitors!",
+  "source_sha256": "b37677573287d3958434f36fdf0e1933d7adb24d317d4b31ef992075882e631a",
+  "translation": "In this Visual novel you'll be fighting Cyber freaks and some unexpected visitors!",
+  "vndb_url": "https://vndb.org/v31257"
+}

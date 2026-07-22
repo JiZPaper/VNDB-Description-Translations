@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64277",
+  "type": "visual_novel",
+  "name": "CLIMAX ZONE RE",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This novel is inspired by the movie \"Planet of Apes\" and it features three main characters crash-land on a planet and their rough adventure there.",
+  "source_sha256": "30f3f9358f5e469a2e65ea0da6cdc1b0e7bde81dc1fca5c71731dd3ac0c954d4",
+  "translation": "This novel is inspired by the movie \"Planet of Apes\" and it features three main characters crash-land on a planet and their rough adventure there.",
+  "vndb_url": "https://vndb.org/v64277"
+}

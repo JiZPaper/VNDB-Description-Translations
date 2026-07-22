@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17257",
+  "type": "visual_novel",
+  "name": "Danshoku Ugetsu Kitan -Aozukin-",
+  "original_name": "男色雨月奇譚-青頭巾-",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on the story \"Aozukin\" from [url=http://en.wikipedia.org/wiki/Ugetsu_Monogatari]Ugetsu Monogatari[/url].",
+  "source_sha256": "89d6a1fb422825230bc5ac083d1294b5b19484abd32f3539614fdbf44463bd56",
+  "translation": "Based on the story \"Aozukin\" from [url=http://en.wikipedia.org/wiki/Ugetsu_Monogatari]Ugetsu Monogatari[/url].",
+  "vndb_url": "https://vndb.org/v17257"
+}

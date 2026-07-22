@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v208",
+  "type": "visual_novel",
+  "name": "Natsunone -Overture-",
+  "original_name": "夏音-Overture-",
+  "language": "en",
+  "source_language": "en",
+  "source": "In the quiet seaside town of Yurigahama, Suzuna Kirisaki starts her first day at high school...",
+  "source_sha256": "557cce7a6a6f7f3746bbec436b9ac054ffc70cf752a19a88221b149d297697a6",
+  "translation": "In the quiet seaside town of Yurigahama, Suzuna Kirisaki starts her first day at high school...",
+  "vndb_url": "https://vndb.org/v208"
+}

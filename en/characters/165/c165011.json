@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165011",
+  "type": "character",
+  "name": "Victoria",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An Interspecies Crime Officer.",
+  "source_sha256": "71b291e772bfa23b9c4b803f4236d13253126987b7356cae7e86e721e0af2ac8",
+  "translation": "An Interspecies Crime Officer.",
+  "vndb_url": "https://vndb.org/c165011"
+}

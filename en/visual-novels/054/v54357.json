@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54357",
+  "type": "visual_novel",
+  "name": "Pretty Little Liars",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Can you keep a secret? Join Hanna, Aria, Spencer, and Emily as you find forbidden love and battle the mysterious A.",
+  "source_sha256": "3eb68af191f3744db2184ed25760a046ad2f9f612fb21a385d76efe881ee834d",
+  "translation": "Can you keep a secret? Join Hanna, Aria, Spencer, and Emily as you find forbidden love and battle the mysterious A.",
+  "vndb_url": "https://vndb.org/v54357"
+}

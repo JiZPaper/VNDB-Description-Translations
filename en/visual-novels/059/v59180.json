@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59180",
+  "type": "visual_novel",
+  "name": "Godokbangsong",
+  "original_name": "고독방송",
+  "language": "en",
+  "source_language": "en",
+  "source": "A live broadcast starting from an old mental hospital, but I wasn't the only one trapped there.",
+  "source_sha256": "f91003e0abe00f7dc236b4ffebf2258f3896d35770de5dcf0a65c29cad725207",
+  "translation": "A live broadcast starting from an old mental hospital, but I wasn't the only one trapped there.",
+  "vndb_url": "https://vndb.org/v59180"
+}

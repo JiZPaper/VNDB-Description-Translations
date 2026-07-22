@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65835",
+  "type": "visual_novel",
+  "name": "Life of Desmond",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "My name is Desmond. I have just turned 21 years old and i find myself on the train today, Its because my parents have aggred to met me go study to the big city.",
+  "source_sha256": "6bb433e608aa58a833579cf5967bdba05c92b20f3173b4538691e64fa3ed670a",
+  "translation": "My name is Desmond. I have just turned 21 years old and i find myself on the train today, Its because my parents have aggred to met me go study to the big city.",
+  "vndb_url": "https://vndb.org/v65835"
+}

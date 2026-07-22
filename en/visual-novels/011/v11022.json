@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11022",
+  "type": "visual_novel",
+  "name": "Samurai 7",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Visual novel based on the Samurai 7 anime.",
+  "source_sha256": "5595bb4f2e6883a8991485665d56392ca452de443deb857e6cd397151565d254",
+  "translation": "Visual novel based on the Samurai 7 anime.",
+  "vndb_url": "https://vndb.org/v11022"
+}

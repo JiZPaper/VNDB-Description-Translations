@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127438",
+  "type": "character",
+  "name": "Mocha",
+  "original_name": "모카",
+  "language": "en",
+  "source_language": "en",
+  "source": "Pure Demon.\nInnocent but great wizard.",
+  "source_sha256": "e90a87727919fe92ec79f52fe167d00a798d2c20c6f33b8f338d556379269c09",
+  "translation": "Pure Demon.\nInnocent but great wizard.",
+  "vndb_url": "https://vndb.org/c127438"
+}

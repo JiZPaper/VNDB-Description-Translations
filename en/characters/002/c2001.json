@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c2001",
+  "type": "character",
+  "name": "Lucy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Originally appeared in the Renpy Demo in the imagemap demonstration section.",
+  "source_sha256": "c3965de771f4f7098c8314266964b48a52688a0a3db9efca9e8b10b93ef4a644",
+  "translation": "Originally appeared in the Renpy Demo in the imagemap demonstration section.",
+  "vndb_url": "https://vndb.org/c2001"
+}

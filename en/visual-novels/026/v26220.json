@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26220",
+  "type": "visual_novel",
+  "name": "Flaskshadow",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"That's funny, what's wrong with the doctor?\" \nThe story of a mysterious creature in a flask.",
+  "source_sha256": "778a513f5704e4168f3ff0a0b56422b634aa1a15225d6ce33bc9cb6714050bdf",
+  "translation": "\"That's funny, what's wrong with the doctor?\" \nThe story of a mysterious creature in a flask.",
+  "vndb_url": "https://vndb.org/v26220"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135989",
+  "type": "character",
+  "name": "Spear Warrior",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"A tired and bored guardsman, quite gifted with a spear.\" - In-game description\n\nSpear Warrior is a type of monster encountered early on in the dungeon. They take their guard duty quite seriously, with the one captured by the player admitting to having stood guard at a previous post for several years. However, she has a clear desire for battle, accepting [url=/c48304/]Yomi[/url]'s recruitment offer due to severe boredom with her current work.\n\nFloor(s): 5-7",
+  "source_sha256": "b5773c47e44a7211e9f1c449d19d5c354d853d740514a77dc899748ecc130c69",
+  "translation": "\"A tired and bored guardsman, quite gifted with a spear.\" - In-game description\n\nSpear Warrior is a type of monster encountered early on in the dungeon. They take their guard duty quite seriously, with the one captured by the player admitting to having stood guard at a previous post for several years. However, she has a clear desire for battle, accepting [url=/c48304/]Yomi[/url]'s recruitment offer due to severe boredom with her current work.\n\nFloor(s): 5-7",
+  "vndb_url": "https://vndb.org/c135989"
+}

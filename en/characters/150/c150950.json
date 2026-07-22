@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150950",
+  "type": "character",
+  "name": "Sock",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A hallucination found in the trash.",
+  "source_sha256": "0eb23886fbb5e3027b47aab76c5dc2a5f14ac94eb98ae596519665e5deff2bd1",
+  "translation": "A hallucination found in the trash.",
+  "vndb_url": "https://vndb.org/c150950"
+}

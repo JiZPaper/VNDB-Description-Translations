@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c111169",
+  "type": "character",
+  "name": "Iaritykke Sin Goluott",
+  "original_name": "イアリティッケ・シン・ゴルオット",
+  "language": "en",
+  "source_language": "en",
+  "source": "A spirit who has a contract with [url=/c111168]Samon Sargurant[/url].",
+  "source_sha256": "8e42e4f7f84fefa6e0e6d879a5953bdee40b488db353c11a51b1ca0e93ce31df",
+  "translation": "A spirit who has a contract with [url=/c111168]Samon Sargurant[/url].",
+  "vndb_url": "https://vndb.org/c111169"
+}

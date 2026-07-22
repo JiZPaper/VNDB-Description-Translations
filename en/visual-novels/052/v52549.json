@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52549",
+  "type": "visual_novel",
+  "name": "The Stars",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A story of regretful father on the road finding his missing daughter.",
+  "source_sha256": "2ffeac10e5c87c776956e85cd3b2396381dade4d2bd38f9f7eba361f1f573a22",
+  "translation": "A story of regretful father on the road finding his missing daughter.",
+  "vndb_url": "https://vndb.org/v52549"
+}

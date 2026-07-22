@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143512",
+  "type": "character",
+  "name": "Martin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of the record store and cafe where Emma works.",
+  "source_sha256": "3a06eb5d4724b744004b8116ff1f998e42bf7387ca120c0e28b34bf42fb58ebc",
+  "translation": "Owner of the record store and cafe where Emma works.",
+  "vndb_url": "https://vndb.org/c143512"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127483",
+  "type": "character",
+  "name": "Chello",
+  "original_name": "チェッロ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Elda's daughter.",
+  "source_sha256": "61e56366b467af4c549097941e4c906915b2df1c43bfaf8dc6406a8fb4f742b3",
+  "translation": "Elda's daughter.",
+  "vndb_url": "https://vndb.org/c127483"
+}

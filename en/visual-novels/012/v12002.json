@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12002",
+  "type": "visual_novel",
+  "name": "Dating Sim",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as a guy who is conflicted between fantasy and reality, and tries to get a girlfriend. There are three girls and three endings. Who will you end up with?",
+  "source_sha256": "da304fc8624dff4c9fcc6d8d1c4147b4d63ede539d271d15278bf7f9ee847cdd",
+  "translation": "You play as a guy who is conflicted between fantasy and reality, and tries to get a girlfriend. There are three girls and three endings. Who will you end up with?",
+  "vndb_url": "https://vndb.org/v12002"
+}

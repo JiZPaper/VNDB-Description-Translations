@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19460",
+  "type": "character",
+  "name": "Matsuoka Jin",
+  "original_name": "松岡 迅",
+  "language": "en",
+  "source_language": "en",
+  "source": "The school nurse.\n\nStats: luck 2 / intelligence 5 / popularity 4 / special ability 2 / physical strength 3 / influence 3\nSpecial Skill: counseling",
+  "source_sha256": "2f5e78a940bb10cd1e275adc7be2a14c9083b6fcfae311a151734faecc26d330",
+  "translation": "The school nurse.\n\nStats: luck 2 / intelligence 5 / popularity 4 / special ability 2 / physical strength 3 / influence 3\nSpecial Skill: counseling",
+  "vndb_url": "https://vndb.org/c19460"
+}

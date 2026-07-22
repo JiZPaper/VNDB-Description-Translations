@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58611",
+  "type": "visual_novel",
+  "name": "Vanity of Vanities",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Made for Chapel Jam 2024.",
+  "source_sha256": "1ae514a139d0fbe671585b89c0cf877a6de6a122f97cd7697ed76f4302a22318",
+  "translation": "Made for Chapel Jam 2024.",
+  "vndb_url": "https://vndb.org/v58611"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99861",
+  "type": "character",
+  "name": "Shiro",
+  "original_name": "シロ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Shiro is a member of the hero's party. Throughout the realm, she is a known spirit that accompanied the first hero 1000 years ago., but her free-spirited behavior leads to clashes with the current hero.",
+  "source_sha256": "e78d6dc01b7f964df1a789f71f9dbca9363aafff446c1be172f459e9602a1d16",
+  "translation": "Shiro is a member of the hero's party. Throughout the realm, she is a known spirit that accompanied the first hero 1000 years ago., but her free-spirited behavior leads to clashes with the current hero.",
+  "vndb_url": "https://vndb.org/c99861"
+}

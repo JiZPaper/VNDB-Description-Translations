@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c2442",
+  "type": "character",
+  "name": "Henry Rubin",
+  "original_name": "ヘンリー・ルービン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Member of WIME's army.",
+  "source_sha256": "02753b462f555d133591245f73a7c033bd3bf4f2f0849713bc266d40ce4b97e5",
+  "translation": "Member of WIME's army.",
+  "vndb_url": "https://vndb.org/c2442"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6560",
+  "type": "visual_novel",
+  "name": "V.G. Adventure",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A text-based adventure game featuring the V.G. waitresses. The player takes control of Tamao Mitsurugi as she attempts to locate the missing Yuka Takeuchi and foil Miranda's latest plot. Fights are executed in a rock-paper-scissors fashion. With each successful attack, energy is added to a super meter that appears under the fighter's lifebar. Once full, the fighter can unleash a powerfully (in most characters' cases) unblockable attack. While Tamao is the only playable character in the story mode, there is a CPU versus mode that allows the player to pick from any character in the game.\n\n[From [url=http://en.wikipedia.org/wiki/Variable_Geo#Games]Wikipedia[/url].]",
+  "source_sha256": "31b3a7c2add63e4e8de25139c5249d2cf1b1b8c9de634b12efd2bdbadd8b455c",
+  "translation": "A text-based adventure game featuring the V.G. waitresses. The player takes control of Tamao Mitsurugi as she attempts to locate the missing Yuka Takeuchi and foil Miranda's latest plot. Fights are executed in a rock-paper-scissors fashion. With each successful attack, energy is added to a super meter that appears under the fighter's lifebar. Once full, the fighter can unleash a powerfully (in most characters' cases) unblockable attack. While Tamao is the only playable character in the story mode, there is a CPU versus mode that allows the player to pick from any character in the game.\n\n[From [url=http://en.wikipedia.org/wiki/Variable_Geo#Games]Wikipedia[/url].]",
+  "vndb_url": "https://vndb.org/v6560"
+}

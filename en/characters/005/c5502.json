@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c5502",
+  "type": "character",
+  "name": "Sawai Tooru",
+  "original_name": "沢井 透",
+  "language": "en",
+  "source_language": "en",
+  "source": "A university student aiming to become a doctor.",
+  "source_sha256": "e919ce71f0932248fb275202ecc8a150d5fd9ce2cbd2972a902c29b76d337cf8",
+  "translation": "A university student aiming to become a doctor.",
+  "vndb_url": "https://vndb.org/c5502"
+}

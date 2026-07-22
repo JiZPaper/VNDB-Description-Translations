@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30706",
+  "type": "visual_novel",
+  "name": "Sanities Lament",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are trapped by a strange entity that toys with you, and you must try to help your friends escape. A nightmare? A dream? Or reality?\n\n[From [url=https://denpadev.itch.io/sanitys-lament]Itch.io[/url]]",
+  "source_sha256": "a48c6c41d07747d1d49dd7ddab368b33c80b8215545885162ebdf54063cc2db5",
+  "translation": "You are trapped by a strange entity that toys with you, and you must try to help your friends escape. A nightmare? A dream? Or reality?\n\n[From [url=https://denpadev.itch.io/sanitys-lament]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v30706"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29961",
+  "type": "character",
+  "name": "Edwina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A graduate student.",
+  "source_sha256": "7c769e3841d2dfa12db36d64e7546d787edf3661a376407c76e005bfe7fe53e7",
+  "translation": "A graduate student.",
+  "vndb_url": "https://vndb.org/c29961"
+}

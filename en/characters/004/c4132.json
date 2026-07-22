@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4132",
+  "type": "character",
+  "name": "Cliff McDougall",
+  "original_name": "クライフ・マクドガル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Class A detective from Northern Ireland.\n\nDoes not carry any weapons, but uses martial arts handed down from ancient Celtic Ireland.",
+  "source_sha256": "4c5abc8914f506e8dfff2a6f8e048b9633c4e1cb7c540a7ea9d320b8b2a6a828",
+  "translation": "Class A detective from Northern Ireland.\n\nDoes not carry any weapons, but uses martial arts handed down from ancient Celtic Ireland.",
+  "vndb_url": "https://vndb.org/c4132"
+}

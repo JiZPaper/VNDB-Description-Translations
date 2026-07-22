@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44766",
+  "type": "visual_novel",
+  "name": "Majo Kara no 1ppunkan Message",
+  "original_name": "魔女からの1分間メッセージ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short game about reading a message from the witch in 1 minute.\n\n[From [url=https://www.freem.ne.jp/win/game/22724]Freem![/url]]",
+  "source_sha256": "ad210467886df81b12e620da60994c0078d8cf6c2c3d2f903ef061f4ad990f58",
+  "translation": "A short game about reading a message from the witch in 1 minute.\n\n[From [url=https://www.freem.ne.jp/win/game/22724]Freem![/url]]",
+  "vndb_url": "https://vndb.org/v44766"
+}

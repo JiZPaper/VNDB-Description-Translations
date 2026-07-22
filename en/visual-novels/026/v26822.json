@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26822",
+  "type": "visual_novel",
+  "name": "Hito de Naku, Hitodenashi",
+  "original_name": "ひとでなく、ひとでなし",
+  "language": "en",
+  "source_language": "en",
+  "source": "A world with humans and fantasy monsters who are often in conflict with each other. The protagonist is a drider / spider-centaur girl named Sugar.",
+  "source_sha256": "2fe7e97184092fb60ee9372cc097169dca79d849b247fc736d9394c02661690e",
+  "translation": "A world with humans and fantasy monsters who are often in conflict with each other. The protagonist is a drider / spider-centaur girl named Sugar.",
+  "vndb_url": "https://vndb.org/v26822"
+}

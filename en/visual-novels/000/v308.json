@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v308",
+  "type": "visual_novel",
+  "name": "BALDRFIST",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Baldr Fist is a branching adventure game with 2D action-shooter elements.",
+  "source_sha256": "8611f24cee765d779f2552ae9c1d231373cd9eb3bdaf50cad4db7811503db3aa",
+  "translation": "Baldr Fist is a branching adventure game with 2D action-shooter elements.",
+  "vndb_url": "https://vndb.org/v308"
+}

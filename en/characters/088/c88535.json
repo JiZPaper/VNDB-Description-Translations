@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88535",
+  "type": "character",
+  "name": "Falneria",
+  "original_name": "ファルネリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Space ship researcher.",
+  "source_sha256": "0c28aac87b5e18621f7b3a0bb9306436b7a6556b9b307c7a14a38796f3a40b01",
+  "translation": "Space ship researcher.",
+  "vndb_url": "https://vndb.org/c88535"
+}

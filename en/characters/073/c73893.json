@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73893",
+  "type": "character",
+  "name": "Jesus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A religious leader; the central figure of Christianity.",
+  "source_sha256": "4980f52db5e800af83e909b1183bc2879279e6fdac7da2d4a75ed9e08e14a264",
+  "translation": "A religious leader; the central figure of Christianity.",
+  "vndb_url": "https://vndb.org/c73893"
+}

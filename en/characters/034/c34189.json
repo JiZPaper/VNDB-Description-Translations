@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34189",
+  "type": "character",
+  "name": "Porlock",
+  "original_name": "ポーロック",
+  "language": "en",
+  "source_language": "en",
+  "source": "He should have been confined in the Tower of London but he escaped.",
+  "source_sha256": "ae5d43bcae622b9a6f730294bb7a2ba165b26618f65a0e0292d42d9a49c44e6a",
+  "translation": "He should have been confined in the Tower of London but he escaped.",
+  "vndb_url": "https://vndb.org/c34189"
+}

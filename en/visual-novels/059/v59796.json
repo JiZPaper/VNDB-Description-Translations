@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59796",
+  "type": "visual_novel",
+  "name": "Underneath Roses and Keyboards",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dating sim featuring 2D from the Virtual Band Gorillaz.",
+  "source_sha256": "3f113ddd52af19bfd88a2df18e6f3777fc2bea0628cd3ce6ce1c8f3c44b9acc8",
+  "translation": "A dating sim featuring 2D from the Virtual Band Gorillaz.",
+  "vndb_url": "https://vndb.org/v59796"
+}

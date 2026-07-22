@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4516",
+  "type": "visual_novel",
+  "name": "Marionette Company",
+  "original_name": "マリオネットカンパニー",
+  "language": "en",
+  "source_language": "en",
+  "source": "In Marionette Company your character happens to come across a broken android girl (called \"marionettes\" in the game) weakly crying for your help inside a cardboard box abandoned in dark alleyway. You of course decide to pick the poor thing up and repair her to the best of your ability. However there's still much work to be done on her to make her as \"human\" as possible.\n\nfrom gamespot",
+  "source_sha256": "0909010961913d2a8244a355b215134413861dc64458a613f68b765d3ec0f80b",
+  "translation": "In Marionette Company your character happens to come across a broken android girl (called \"marionettes\" in the game) weakly crying for your help inside a cardboard box abandoned in dark alleyway. You of course decide to pick the poor thing up and repair her to the best of your ability. However there's still much work to be done on her to make her as \"human\" as possible.\n\nfrom gamespot",
+  "vndb_url": "https://vndb.org/v4516"
+}

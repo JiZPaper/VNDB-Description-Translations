@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c46385",
+  "type": "character",
+  "name": "Koga Masaya",
+  "original_name": "古賀 雅也",
+  "language": "en",
+  "source_language": "en",
+  "source": "A lawyer who graduated from the famous Tokyo University.\nHe aims to become an international lawyer.",
+  "source_sha256": "b857b8f898af50cc1cd7297ca4027b3d7e1fdf2c5e3d7ee639cf13a22785a9a3",
+  "translation": "A lawyer who graduated from the famous Tokyo University.\nHe aims to become an international lawyer.",
+  "vndb_url": "https://vndb.org/c46385"
+}

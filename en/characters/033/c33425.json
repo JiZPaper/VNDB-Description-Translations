@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33425",
+  "type": "character",
+  "name": "Phobos",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Phobos is the navigator for the starfighter Equinox. He is very resentful of [url=/c33376]Abel[/url], and seems to be very controlling over his fighter, [url=/c33379]Deimos[/url].",
+  "source_sha256": "08a3fef47461b9e5b21c79c71c3e4ae52060cd94899483d6d121285c2042b297",
+  "translation": "Phobos is the navigator for the starfighter Equinox. He is very resentful of [url=/c33376]Abel[/url], and seems to be very controlling over his fighter, [url=/c33379]Deimos[/url].",
+  "vndb_url": "https://vndb.org/c33425"
+}

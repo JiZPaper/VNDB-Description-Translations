@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c13182",
+  "type": "character",
+  "name": "Cheshire",
+  "original_name": "チェシャ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Little's familiar.",
+  "source_sha256": "c9087566ee8bf28e265cf2df592381c51e3d27a07d943f105b67b3a85d3a2d47",
+  "translation": "Little's familiar.",
+  "vndb_url": "https://vndb.org/c13182"
+}

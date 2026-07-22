@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97446",
+  "type": "character",
+  "name": "Ghost Woman",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the servants of Medusa.",
+  "source_sha256": "a025dd084fdae6a01f95b88c6b4fdf1b2dfe2dcb98c08972456b644c62129efb",
+  "translation": "One of the servants of Medusa.",
+  "vndb_url": "https://vndb.org/c97446"
+}

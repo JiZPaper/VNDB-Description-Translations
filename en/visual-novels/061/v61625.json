@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61625",
+  "type": "visual_novel",
+  "name": "Gyakuten Touhou 4",
+  "original_name": "逆転東方4",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sequel to [url=/v26568]Gyakuten Touhou 3[/url] with ten new characters.",
+  "source_sha256": "178abed4dca132d43c2ee34e35759357378b6c3749c87a2e3d1390f4fd7271a9",
+  "translation": "Sequel to [url=/v26568]Gyakuten Touhou 3[/url] with ten new characters.",
+  "vndb_url": "https://vndb.org/v61625"
+}

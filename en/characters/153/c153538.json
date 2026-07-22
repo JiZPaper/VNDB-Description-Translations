@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153538",
+  "type": "character",
+  "name": "Nessie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Who said the Loch Ness Monster couldn't travel?",
+  "source_sha256": "2f5ba16e081b35f574d30e31d41c127bc1a246c1376aa48978adb4d1551002d7",
+  "translation": "Who said the Loch Ness Monster couldn't travel?",
+  "vndb_url": "https://vndb.org/c153538"
+}

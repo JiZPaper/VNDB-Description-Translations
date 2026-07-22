@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99775",
+  "type": "character",
+  "name": "Ashdown",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ashdown is a somewhat old-fashioned detective. He has a higher opinion of himself than is justified.",
+  "source_sha256": "8884a63325ae357840bfff3de34f4be04110404f1e6226b1c068bf003d32746e",
+  "translation": "Ashdown is a somewhat old-fashioned detective. He has a higher opinion of himself than is justified.",
+  "vndb_url": "https://vndb.org/c99775"
+}

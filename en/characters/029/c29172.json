@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29172",
+  "type": "character",
+  "name": "Taichi's Dad",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Employs him at end of game.",
+  "source_sha256": "2b9ddea02a52c237c6a7052e9feb329eafdeabef4644e858f19badfd98b5f9db",
+  "translation": "Employs him at end of game.",
+  "vndb_url": "https://vndb.org/c29172"
+}

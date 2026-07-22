@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146149",
+  "type": "character",
+  "name": "Mina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mina is an independent and reasonable merchant. She will often seek to talk her way out of situations, knowing that her physical prowess is less than the mighty warriors she faces.",
+  "source_sha256": "e7666e98c11f6948ed87dfb2ada9291e6da911bd7012a5688c87cb3efbdfe118",
+  "translation": "Mina is an independent and reasonable merchant. She will often seek to talk her way out of situations, knowing that her physical prowess is less than the mighty warriors she faces.",
+  "vndb_url": "https://vndb.org/c146149"
+}

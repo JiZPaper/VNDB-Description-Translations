@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25920",
+  "type": "character",
+  "name": "Hamroth",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Tyrna's father",
+  "source_sha256": "49dc585d8418ab46e5908c480fc68a2f290de347041aa1c254278076375a3b40",
+  "translation": "Tyrna's father",
+  "vndb_url": "https://vndb.org/c25920"
+}

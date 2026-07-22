@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53575",
+  "type": "visual_novel",
+  "name": "Shinkai Utsurogami",
+  "original_name": "真怪 ウツロガミ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A remake of UndergroundCampaign's first title, Utsurogami.",
+  "source_sha256": "c6cd136b6b543f8fccd21512d59cfc94fbe115dbfc6f133b842addce21018a7e",
+  "translation": "A remake of UndergroundCampaign's first title, Utsurogami.",
+  "vndb_url": "https://vndb.org/v53575"
+}

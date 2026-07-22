@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17976",
+  "type": "visual_novel",
+  "name": "burst error: EVE The 1st",
+  "original_name": "バーストエラー イブ・ザ・ファースト",
+  "language": "en",
+  "source_language": "en",
+  "source": "Remake of [url=/v147]EVE burst error[/url].",
+  "source_sha256": "c54e4148cb7892c66645be3b0a2660946dc9e1502dac72c567321d4fb673517a",
+  "translation": "Remake of [url=/v147]EVE burst error[/url].",
+  "vndb_url": "https://vndb.org/v17976"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44729",
+  "type": "visual_novel",
+  "name": "i will not survive you",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "made for the april bitsy jam, for which the theme was bad weather.\n\nmade with bitsy, using Sean S. LeBlanc and Cephalopodunk's backdrop hack, and Sean S. LeBlanc's long dialogue hack, which were applied using AYolland's borksy. audio added using candle's add bitsy audio tool. background animation made by putting two or three frames each from a number of public domain stock videos into ruin's pixsy, then downloading snapshots of each room via bitsy, then looping and compiling them in photoshop. :)",
+  "source_sha256": "153400973796ce91d4f8b319f009b9e2f010c712d335a0ca8eaeef824b00eeed",
+  "translation": "made for the april bitsy jam, for which the theme was bad weather.\n\nmade with bitsy, using Sean S. LeBlanc and Cephalopodunk's backdrop hack, and Sean S. LeBlanc's long dialogue hack, which were applied using AYolland's borksy. audio added using candle's add bitsy audio tool. background animation made by putting two or three frames each from a number of public domain stock videos into ruin's pixsy, then downloading snapshots of each room via bitsy, then looping and compiling them in photoshop. :)",
+  "vndb_url": "https://vndb.org/v44729"
+}

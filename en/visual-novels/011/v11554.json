@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11554",
+  "type": "visual_novel",
+  "name": "Dariaia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Prologue to [url=http://en.wikipedia.org/wiki/Darius_%28series%29]Darius[/url].",
+  "source_sha256": "dc3b99c7e039ede7da9826c07fca4f2f89fa22020b48d03e029aee884075c865",
+  "translation": "Prologue to [url=http://en.wikipedia.org/wiki/Darius_%28series%29]Darius[/url].",
+  "vndb_url": "https://vndb.org/v11554"
+}

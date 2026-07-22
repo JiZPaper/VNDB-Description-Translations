@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42226",
+  "type": "character",
+  "name": "Gigamecho",
+  "original_name": "ギガメーコ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ancient robot using mana instead of electricity.",
+  "source_sha256": "f09644221e2ab2cdfa9fa7e86ea805380f0cdb18734c9c9bbd9dc7f50076a46f",
+  "translation": "Ancient robot using mana instead of electricity.",
+  "vndb_url": "https://vndb.org/c42226"
+}

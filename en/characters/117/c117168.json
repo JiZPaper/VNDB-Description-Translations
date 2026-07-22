@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117168",
+  "type": "character",
+  "name": "Taurus Ellis Oannes",
+  "original_name": "セントール・エリス・オアンネス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A taurus woman working for the City Management.\nShe handles the official job requests issued by the City Management, the runners' \"respectable biz\".",
+  "source_sha256": "8bc089e48d896045ea2a36dedf03be06a605d0affc3c4b6487f244d56a6bf0f9",
+  "translation": "A taurus woman working for the City Management.\nShe handles the official job requests issued by the City Management, the runners' \"respectable biz\".",
+  "vndb_url": "https://vndb.org/c117168"
+}

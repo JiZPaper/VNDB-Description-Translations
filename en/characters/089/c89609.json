@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89609",
+  "type": "character",
+  "name": "Veny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "French.",
+  "source_sha256": "0ab76ee5b2182ef028e144807692ae30aff9efb1d6e6ce9e692fe0521900ece9",
+  "translation": "French.",
+  "vndb_url": "https://vndb.org/c89609"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90728",
+  "type": "character",
+  "name": "Bastet",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Based off the Egyptian goddess of the same name. Possesses Nenet's body.",
+  "source_sha256": "337514530b4df9ab1fb18fffee05967ed0782a4c0f9c9f5a905b7adc9901e445",
+  "translation": "Based off the Egyptian goddess of the same name. Possesses Nenet's body.",
+  "vndb_url": "https://vndb.org/c90728"
+}

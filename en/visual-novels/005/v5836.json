@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5836",
+  "type": "visual_novel",
+  "name": "Fragments Blue",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This novel-type adventure begins when the main character Kaname Ousaka takes delivery of a letter and a key. In search of the letter's source, he heads back to his home town of Shimizu and learns of a quest to collect a set of such keys in order to open a box that will lead to happiness. The game includes love elements and interactive conversation sequences.",
+  "source_sha256": "32f953660a6a3206f519ef11204fed4beab048cd8f4902614d4b930f9dc37ae8",
+  "translation": "This novel-type adventure begins when the main character Kaname Ousaka takes delivery of a letter and a key. In search of the letter's source, he heads back to his home town of Shimizu and learns of a quest to collect a set of such keys in order to open a box that will lead to happiness. The game includes love elements and interactive conversation sequences.",
+  "vndb_url": "https://vndb.org/v5836"
+}

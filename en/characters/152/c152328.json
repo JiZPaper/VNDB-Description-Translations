@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152328",
+  "type": "character",
+  "name": "Neptune",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the main characters of the game",
+  "source_sha256": "c836516eb50536b4aa9b73a66deb4e80c74c2460ae6662a31875508b0a55605a",
+  "translation": "One of the main characters of the game",
+  "vndb_url": "https://vndb.org/c152328"
+}

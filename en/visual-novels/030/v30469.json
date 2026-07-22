@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30469",
+  "type": "visual_novel",
+  "name": "Daibanchou Gaiden",
+  "original_name": "大番長外伝",
+  "language": "en",
+  "source_language": "en",
+  "source": "A collection of various short stories related to Daibanchou. Released with Alice no Yakata 7.",
+  "source_sha256": "7b7c1051d3c0e6fe19ec38ecab71bb5cf417357b6d47004a4b11dc49dd2582b5",
+  "translation": "A collection of various short stories related to Daibanchou. Released with Alice no Yakata 7.",
+  "vndb_url": "https://vndb.org/v30469"
+}

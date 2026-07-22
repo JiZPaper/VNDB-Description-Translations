@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c13229",
+  "type": "character",
+  "name": "Kenji",
+  "original_name": "健二",
+  "language": "en",
+  "source_language": "en",
+  "source": "Favorite food: Gyudon.\nSpecial Skill: Knowing up to a hundred digits of pi.",
+  "source_sha256": "e56db80f6b4d54bec334b7441c0569ff2cd9f0fd140d0dcd92dcaf995f149356",
+  "translation": "Favorite food: Gyudon.\nSpecial Skill: Knowing up to a hundred digits of pi.",
+  "vndb_url": "https://vndb.org/c13229"
+}

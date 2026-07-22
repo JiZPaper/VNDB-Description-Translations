@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87919",
+  "type": "character",
+  "name": "Michael",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A ghost haunting an old school building.",
+  "source_sha256": "f4b16ec148416fad616a10126ccb8579974481f69746dba11643351bafd23b75",
+  "translation": "A ghost haunting an old school building.",
+  "vndb_url": "https://vndb.org/c87919"
+}

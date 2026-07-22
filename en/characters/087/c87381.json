@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87381",
+  "type": "character",
+  "name": "Ishtar I",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The king of the elves, he is the father of [url=/c10321]Elicia[/url].",
+  "source_sha256": "f776a08bc68108a79293f8c0f3b47b582a5aedc7fb422cebb9ec54af0c852b07",
+  "translation": "The king of the elves, he is the father of [url=/c10321]Elicia[/url].",
+  "vndb_url": "https://vndb.org/c87381"
+}

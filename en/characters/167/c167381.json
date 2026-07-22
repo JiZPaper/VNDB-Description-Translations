@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c167381",
+  "type": "character",
+  "name": "Klaire",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of Klaire's Sweet Treat ice cream parlor.",
+  "source_sha256": "398ae9a61d2263d1f2d31b7378174c14995ff769701e1fd346341bfb7c37ba2f",
+  "translation": "Owner of Klaire's Sweet Treat ice cream parlor.",
+  "vndb_url": "https://vndb.org/c167381"
+}

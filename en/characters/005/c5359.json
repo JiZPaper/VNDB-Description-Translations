@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c5359",
+  "type": "character",
+  "name": "Alberich",
+  "original_name": "アルベリヒ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The man who took over after Sigurd's retirement.",
+  "source_sha256": "0f06a8c60774eeef66d9db93b490cc06af7c2f76dadfb80eaad5f69bec6a0805",
+  "translation": "The man who took over after Sigurd's retirement.",
+  "vndb_url": "https://vndb.org/c5359"
+}

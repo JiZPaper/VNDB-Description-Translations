@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95533",
+  "type": "character",
+  "name": "Kordelic",
+  "original_name": "コーデリック",
+  "language": "en",
+  "source_language": "en",
+  "source": "A gentleman who visits \"Cafe Estacion\". He is acquainted with the master, and it seems that he visits the cafe for purposes other than eating and drinking...",
+  "source_sha256": "e81aac868126377e5ffeb21210be1ba9a76ba38c911e44a1afb07cc578072f73",
+  "translation": "A gentleman who visits \"Cafe Estacion\". He is acquainted with the master, and it seems that he visits the cafe for purposes other than eating and drinking...",
+  "vndb_url": "https://vndb.org/c95533"
+}

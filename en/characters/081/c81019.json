@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81019",
+  "type": "character",
+  "name": "Nishiku",
+  "original_name": "西句",
+  "language": "en",
+  "source_language": "en",
+  "source": "Class 2E\nLikes: Lively festivals, Mademoiselles",
+  "source_sha256": "c6e3d480de3e9175c1b2af75298301d389fa7b3516838cc7799fba2c2581b32a",
+  "translation": "Class 2E\nLikes: Lively festivals, Mademoiselles",
+  "vndb_url": "https://vndb.org/c81019"
+}

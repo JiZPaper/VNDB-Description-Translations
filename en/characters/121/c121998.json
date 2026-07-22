@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c121998",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Dashie's father and narrator of the game.",
+  "source_sha256": "522ae404a31634fc418142044a665f2d1e674ea476e46d7e9280e11202857af6",
+  "translation": "Dashie's father and narrator of the game.",
+  "vndb_url": "https://vndb.org/c121998"
+}

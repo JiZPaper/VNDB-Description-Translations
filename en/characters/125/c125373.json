@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125373",
+  "type": "character",
+  "name": "Zombie Girl",
+  "original_name": "ゾンビ娘",
+  "language": "en",
+  "source_language": "en",
+  "source": "A zombified elf that Luka and Alice encounter in the haunted mansion. She is quickly dispatched by Alice as soon as combat begins.",
+  "source_sha256": "b9a5975c52719be3b1d3ac89742271b358137401b46f246af87c350d8b230911",
+  "translation": "A zombified elf that Luka and Alice encounter in the haunted mansion. She is quickly dispatched by Alice as soon as combat begins.",
+  "vndb_url": "https://vndb.org/c125373"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134906",
+  "type": "character",
+  "name": "Rapunzel",
+  "original_name": "ラプンツェル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A main character in the event \"Puss in Boots VS Phantom\".",
+  "source_sha256": "be09f01527529dfad44cff18d996b9019dd22274ace4ecf28a107270426cd508",
+  "translation": "A main character in the event \"Puss in Boots VS Phantom\".",
+  "vndb_url": "https://vndb.org/c134906"
+}

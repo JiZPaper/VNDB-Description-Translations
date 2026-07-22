@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36128",
+  "type": "visual_novel",
+  "name": "Murder On The Horizon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You shouldn't know whats gonna happen. Your crush has been killed and it's up to you to find who the killer really is. And make sure they would never strike again. You can't escape the cheesiah.",
+  "source_sha256": "2e9eb39a600a33da553b4f7c464c1e383e4e1f8a8ec136f75928d91ddd123989",
+  "translation": "You shouldn't know whats gonna happen. Your crush has been killed and it's up to you to find who the killer really is. And make sure they would never strike again. You can't escape the cheesiah.",
+  "vndb_url": "https://vndb.org/v36128"
+}

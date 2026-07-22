@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126184",
+  "type": "character",
+  "name": "Pygmalion",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A demon which takes the form of a stone well.\n\nHe lures potential victims by pretending to be a merperson trapped in a well, before proceeding to consume them and fashion their remains into a new vessel.",
+  "source_sha256": "53edad762be35050c839468f37710c01aa4365916889fa284d5288a2b7c4096b",
+  "translation": "A demon which takes the form of a stone well.\n\nHe lures potential victims by pretending to be a merperson trapped in a well, before proceeding to consume them and fashion their remains into a new vessel.",
+  "vndb_url": "https://vndb.org/c126184"
+}

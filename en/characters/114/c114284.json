@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c114284",
+  "type": "character",
+  "name": "Professor E",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Professor's collegues.",
+  "source_sha256": "c200fcb9dc187954c0d81c9ea981971c7d856baa6f0f8636774ff9a99d229489",
+  "translation": "One of Professor's collegues.",
+  "vndb_url": "https://vndb.org/c114284"
+}

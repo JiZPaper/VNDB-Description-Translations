@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32575",
+  "type": "visual_novel",
+  "name": "Kotoyoshi Yumisuke Shokunyuu -Sanka no Shou-",
+  "original_name": "琴義弓介 触乳-散花の章-",
+  "language": "en",
+  "source_language": "en",
+  "source": "Adapts the second half of Kotoyoshi Yumisuke's [i]Shokunyuu[/i].",
+  "source_sha256": "a759c88a22e7ccb00ac5d961842d97716adf5d66019a9b8d33f73ffbd649454b",
+  "translation": "Adapts the second half of Kotoyoshi Yumisuke's [i]Shokunyuu[/i].",
+  "vndb_url": "https://vndb.org/v32575"
+}

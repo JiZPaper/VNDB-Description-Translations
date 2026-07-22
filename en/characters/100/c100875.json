@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100875",
+  "type": "character",
+  "name": "Eva Amitova",
+  "original_name": "Ева Эмитова",
+  "language": "en",
+  "source_language": "en",
+  "source": "A talented local graffiti writer, a self-proclaimed All City Queen of Yuzhnogorsk.",
+  "source_sha256": "63ecd81d57a42cb6b474130ddf437b5bcf584c999de88c60165112517bfd500b",
+  "translation": "A talented local graffiti writer, a self-proclaimed All City Queen of Yuzhnogorsk.",
+  "vndb_url": "https://vndb.org/c100875"
+}

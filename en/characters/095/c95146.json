@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95146",
+  "type": "character",
+  "name": "Sui",
+  "original_name": "スイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A singer with a strong will.",
+  "source_sha256": "2a180e523ddae0042406d2376727db6e77ad93cbc72a671eec5bc18f6b67b063",
+  "translation": "A singer with a strong will.",
+  "vndb_url": "https://vndb.org/c95146"
+}

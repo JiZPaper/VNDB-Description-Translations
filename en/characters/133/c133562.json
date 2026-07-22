@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133562",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "Summoned to the world of Tokyo and having no memory of their past, the Protagonist is found by Ryota and attends Shinjuku Academy while trying to recover their lost memories.",
+  "source_sha256": "00b034bd54fd3e5c6681f292848e215ff3e1304a81ebd63573709e97fa52b2c1",
+  "translation": "Summoned to the world of Tokyo and having no memory of their past, the Protagonist is found by Ryota and attends Shinjuku Academy while trying to recover their lost memories.",
+  "vndb_url": "https://vndb.org/c133562"
+}

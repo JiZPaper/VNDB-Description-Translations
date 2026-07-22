@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24869",
+  "type": "visual_novel",
+  "name": "Re;quartz Append",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Afterstories for each pairing in Re;quartz.",
+  "source_sha256": "ed483bacbb6a71637c1bf8bdf9e80c5000eefa1397cee17b822f1417dd619531",
+  "translation": "Afterstories for each pairing in Re;quartz.",
+  "vndb_url": "https://vndb.org/v24869"
+}

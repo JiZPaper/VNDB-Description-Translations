@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155948",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Security Officer of the JFS Gun-Dog.",
+  "source_sha256": "06fa2ef64da739a1b94b447ebe9228bb6a6c1adf73bee2d11f19342ee71ed3d5",
+  "translation": "Security Officer of the JFS Gun-Dog.",
+  "vndb_url": "https://vndb.org/c155948"
+}

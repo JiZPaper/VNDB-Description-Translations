@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96018",
+  "type": "character",
+  "name": "Grace Chambers",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Elisabeth's manager.",
+  "source_sha256": "30ec778fcb0831c90b3890433006535b1c0a2eff69f93757fa67179ff1d78800",
+  "translation": "Elisabeth's manager.",
+  "vndb_url": "https://vndb.org/c96018"
+}

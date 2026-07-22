@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c111256",
+  "type": "character",
+  "name": "Alexander Lilov",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A famous omega actor tied to the Grand Rose Theater.",
+  "source_sha256": "f7371833a785faa36d9181711f1366c10da70ea99f755dbc233d038b25a7ec20",
+  "translation": "A famous omega actor tied to the Grand Rose Theater.",
+  "vndb_url": "https://vndb.org/c111256"
+}

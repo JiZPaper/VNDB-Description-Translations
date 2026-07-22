@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51509",
+  "type": "visual_novel",
+  "name": "Bug Dates: a bugs life",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short, cozy visual novel where you can date different bugs!",
+  "source_sha256": "d4c2ecb524755de7eba9383ff6a483088abedc5081fec31235c1a09415b369b6",
+  "translation": "A short, cozy visual novel where you can date different bugs!",
+  "vndb_url": "https://vndb.org/v51509"
+}

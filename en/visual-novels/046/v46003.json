@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46003",
+  "type": "visual_novel",
+  "name": "A Father's Sins - Going to Hell",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A stand alone companion game to [url=/v34895]A Father's Sins[/url]. Exploring alternative paths and what/if scenarios.",
+  "source_sha256": "fa3158a750949d43e62c692cc14074b414d97dc666f7f2d0b2f911f7388712d5",
+  "translation": "A stand alone companion game to [url=/v34895]A Father's Sins[/url]. Exploring alternative paths and what/if scenarios.",
+  "vndb_url": "https://vndb.org/v46003"
+}

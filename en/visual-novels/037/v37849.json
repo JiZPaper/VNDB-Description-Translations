@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37849",
+  "type": "visual_novel",
+  "name": "FILE6",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl wakes up from a coma in a mysterious closed-off facility, having no recollection of who she is.",
+  "source_sha256": "71c7792af6ce49147ef837732a7a60952b6a17fb435fd832f7242bb08d6d1d9e",
+  "translation": "A girl wakes up from a coma in a mysterious closed-off facility, having no recollection of who she is.",
+  "vndb_url": "https://vndb.org/v37849"
+}

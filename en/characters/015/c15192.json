@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15192",
+  "type": "character",
+  "name": "William Galahad",
+  "original_name": "ウイリアム・ギャラハッド",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of three Blue Bloods residing in Foggybottom.",
+  "source_sha256": "f9b0b783fd0e689dd67e2cbe80e544e8aca3007745a51940e728506b018ecef7",
+  "translation": "One of three Blue Bloods residing in Foggybottom.",
+  "vndb_url": "https://vndb.org/c15192"
+}

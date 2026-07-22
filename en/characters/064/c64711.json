@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64711",
+  "type": "character",
+  "name": "Alice Lorange",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The main heroine of Les Quatre Alices. A teenager from Quebec.",
+  "source_sha256": "20e8e0fc228ce396cb370ab7f6cfbd57b8ced64234ebef278aaae70a86d9cb52",
+  "translation": "The main heroine of Les Quatre Alices. A teenager from Quebec.",
+  "vndb_url": "https://vndb.org/c64711"
+}

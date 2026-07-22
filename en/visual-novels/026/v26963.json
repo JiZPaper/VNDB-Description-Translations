@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26963",
+  "type": "visual_novel",
+  "name": "Ninja Adventure",
+  "original_name": "忍者アドベンチャー",
+  "language": "en",
+  "source_language": "en",
+  "source": "An adventure game where you steal a secret book and sneak into an enemy mansion.",
+  "source_sha256": "8dab1ef9ac759ef3e5b52e4c74dc4c22c6ae16d8406476bef130e52f731b653c",
+  "translation": "An adventure game where you steal a secret book and sneak into an enemy mansion.",
+  "vndb_url": "https://vndb.org/v26963"
+}

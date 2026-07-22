@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103034",
+  "type": "character",
+  "name": "Bob",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Husband to [url=/c103043]Janelle[/url] and co-owner (with his wife) of the lingerie shop in town.",
+  "source_sha256": "c5750964402467b21744b3737bf1f25cb8cc180f4b085d1b381598eb22436128",
+  "translation": "Husband to [url=/c103043]Janelle[/url] and co-owner (with his wife) of the lingerie shop in town.",
+  "vndb_url": "https://vndb.org/c103034"
+}

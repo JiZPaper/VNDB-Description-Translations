@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90008",
+  "type": "character",
+  "name": "Heca",
+  "original_name": "ヘカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A chimera created by evil priest Quack  by splicing humans and monsters.",
+  "source_sha256": "cc1f873bda31287ae2d02388c9af5f2797dc5ea2fb4ba0c08b0a37e1409740aa",
+  "translation": "A chimera created by evil priest Quack  by splicing humans and monsters.",
+  "vndb_url": "https://vndb.org/c90008"
+}

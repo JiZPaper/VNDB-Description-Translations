@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55809",
+  "type": "character",
+  "name": "Yumi",
+  "original_name": "由美",
+  "language": "en",
+  "source_language": "en",
+  "source": "A secretary at JES. Also does field work from time to time as a detective.",
+  "source_sha256": "4a4f9b2b510dd2f3837b4f31a4811b9f6c80dc63e9f2a9fadec2e41216a7e916",
+  "translation": "A secretary at JES. Also does field work from time to time as a detective.",
+  "vndb_url": "https://vndb.org/c55809"
+}

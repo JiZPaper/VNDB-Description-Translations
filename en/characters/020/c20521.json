@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20521",
+  "type": "character",
+  "name": "Father Gregory",
+  "original_name": "グレゴリー神父",
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader of the radical religious group, Dominion. His group reveres artificial intelligence as a god, Sofia, and teaches that the current state of reality is but an illusion.\n\n[spoiler]He pilots the Simulacrum \"Baptizein\".[/spoiler]",
+  "source_sha256": "c01f8fd8ca26c2cffdfc7bccced5ac3b74f4fed1f5ae50b6517a416a523cc66b",
+  "translation": "Leader of the radical religious group, Dominion. His group reveres artificial intelligence as a god, Sofia, and teaches that the current state of reality is but an illusion.\n\n[spoiler]He pilots the Simulacrum \"Baptizein\".[/spoiler]",
+  "vndb_url": "https://vndb.org/c20521"
+}

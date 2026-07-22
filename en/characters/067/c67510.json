@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c67510",
+  "type": "character",
+  "name": "Henrietta",
+  "original_name": "ヘンリエッタ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Age: mid 20s",
+  "source_sha256": "15a59f61854390b1ce687e032a4c9967bd53070ff93ae0ac2ed284fe9ef31360",
+  "translation": "Age: mid 20s",
+  "vndb_url": "https://vndb.org/c67510"
+}

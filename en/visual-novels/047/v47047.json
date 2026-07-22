@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47047",
+  "type": "visual_novel",
+  "name": "Mourning Musashi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"A short, 10 minute visual novel about one night at an izakaya, a foreign chef, and a fish.\"\nhttps://wafuwafu.itch.io/mourning-musashi",
+  "source_sha256": "97bf070e6da31b3af7f26b0b07544eb321f8e4efe867967611b074f5eec11a9f",
+  "translation": "\"A short, 10 minute visual novel about one night at an izakaya, a foreign chef, and a fish.\"\nhttps://wafuwafu.itch.io/mourning-musashi",
+  "vndb_url": "https://vndb.org/v47047"
+}

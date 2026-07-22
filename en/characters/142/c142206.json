@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c142206",
+  "type": "character",
+  "name": "Timmy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Monster, who lived under Mark's bed.",
+  "source_sha256": "33b7d35f126fcd7c3bf63619cf8977477ae3eadf8f1209772045eead79323af2",
+  "translation": "Monster, who lived under Mark's bed.",
+  "vndb_url": "https://vndb.org/c142206"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c26636",
+  "type": "character",
+  "name": "Thaddeus Cub",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The new doctor at Meat Log Mountain.",
+  "source_sha256": "b20e0303019257ea14e066ba16eb88b631bf4fa29bace86b958517b91c15a58d",
+  "translation": "The new doctor at Meat Log Mountain.",
+  "vndb_url": "https://vndb.org/c26636"
+}

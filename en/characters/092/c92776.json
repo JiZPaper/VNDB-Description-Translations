@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92776",
+  "type": "character",
+  "name": "Carl",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Rebecca's boyfriend.",
+  "source_sha256": "d15472e22040095487973c0b7bb5e87fec14fcdb8af83b66738e6127f2e5f62f",
+  "translation": "Rebecca's boyfriend.",
+  "vndb_url": "https://vndb.org/c92776"
+}

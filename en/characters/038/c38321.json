@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38321",
+  "type": "character",
+  "name": "Ymir",
+  "original_name": "ユミル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Female dwarven warrior.",
+  "source_sha256": "6349f02a5c0956c985b094bed46e9683ed98c67e673a471a21c3ddf5f451ed97",
+  "translation": "Female dwarven warrior.",
+  "vndb_url": "https://vndb.org/c38321"
+}

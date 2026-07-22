@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c58015",
+  "type": "character",
+  "name": "Knight",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bio:\n- Name: In-game Secret\nTemperament: \n- Gruff \n- Can give his life for a just cause\n- Courageous",
+  "source_sha256": "e15613f5f14fb83fb36dfa5ac5beca700d119fb4ca029eddd597c502301e1179",
+  "translation": "Bio:\n- Name: In-game Secret\nTemperament: \n- Gruff \n- Can give his life for a just cause\n- Courageous",
+  "vndb_url": "https://vndb.org/c58015"
+}

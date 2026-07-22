@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40129",
+  "type": "character",
+  "name": "ExS-TIA Chevalier",
+  "original_name": "エクスティア・シュヴァリエ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Riesz appearance after transformed with ExS-Device. Fight using a huge sword Granrex.\nSpecial move: Crimson Punisher.",
+  "source_sha256": "0e2cb78a3ad18bf41dfcb883c5e9db9b7081a3e3716b088a814d14c301e72bc4",
+  "translation": "Riesz appearance after transformed with ExS-Device. Fight using a huge sword Granrex.\nSpecial move: Crimson Punisher.",
+  "vndb_url": "https://vndb.org/c40129"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169131",
+  "type": "character",
+  "name": "Boulangère",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She's just a baker",
+  "source_sha256": "b61efae54230b05c11057b8c197c95dd495b305de16aeb071b943e23d4fdec66",
+  "translation": "She's just a baker",
+  "vndb_url": "https://vndb.org/c169131"
+}

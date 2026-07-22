@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21090",
+  "type": "visual_novel",
+  "name": "Para-Caffiene",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short social interaction story.\n\n[From [url=https://vidsneezes.itch.io/para-caffiene]itch.io[/url]]",
+  "source_sha256": "2140c15b0842c96e668ed1e5e644540ea70b2d56c908449b2741723e3184832f",
+  "translation": "A short social interaction story.\n\n[From [url=https://vidsneezes.itch.io/para-caffiene]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v21090"
+}

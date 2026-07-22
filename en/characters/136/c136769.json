@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136769",
+  "type": "character",
+  "name": "Wyst",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Main playable character in The Pendant Guarden. The character's default name, \"Wyst\" is changeable.",
+  "source_sha256": "37c9cd1aebb6844e899a8d2c6ff149b404eafc4ef9c7b4a8040deb4c02e8f75b",
+  "translation": "Main playable character in The Pendant Guarden. The character's default name, \"Wyst\" is changeable.",
+  "vndb_url": "https://vndb.org/c136769"
+}

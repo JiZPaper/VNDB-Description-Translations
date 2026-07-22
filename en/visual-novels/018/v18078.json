@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18078",
+  "type": "visual_novel",
+  "name": "Hen-Party",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "It happened when my friend Vit'ka visited me in order to invite me to his wedding.",
+  "source_sha256": "67978514c1a553d39aca2574eec6568ba8bce6a3f96bdc2eb5642c91a13dbdf3",
+  "translation": "It happened when my friend Vit'ka visited me in order to invite me to his wedding.",
+  "vndb_url": "https://vndb.org/v18078"
+}

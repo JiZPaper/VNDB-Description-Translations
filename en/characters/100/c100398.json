@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100398",
+  "type": "character",
+  "name": "Violet Valentine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The cold-as-ice scion of a mysterious MegaCorp.",
+  "source_sha256": "715fe665f5ca4fcbbd007bd580c1047550cf94bee3b1e14e608f59ccf359642c",
+  "translation": "The cold-as-ice scion of a mysterious MegaCorp.",
+  "vndb_url": "https://vndb.org/c100398"
+}

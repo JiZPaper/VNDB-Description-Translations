@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87952",
+  "type": "character",
+  "name": "Spring Village Chieftain",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ayu's father, the chieftain of the Spring Village.",
+  "source_sha256": "4d3c82e542e2f1101d9f5f51b11b9a39ea069a38809358e54378bd9e328325ff",
+  "translation": "Ayu's father, the chieftain of the Spring Village.",
+  "vndb_url": "https://vndb.org/c87952"
+}

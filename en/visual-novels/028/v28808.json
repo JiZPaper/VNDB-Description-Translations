@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28808",
+  "type": "visual_novel",
+  "name": "Life’s Decisions",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short story about a young man contemplating about his life.",
+  "source_sha256": "4f0a239e805c9969a72fed7e4d463bb4ce45f296ec65ac2abcd74acdac5e2e33",
+  "translation": "A short story about a young man contemplating about his life.",
+  "vndb_url": "https://vndb.org/v28808"
+}

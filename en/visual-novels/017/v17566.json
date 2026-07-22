@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17566",
+  "type": "visual_novel",
+  "name": "Mizu no Senritsu ~Kyousoukyoku~",
+  "original_name": "水の旋律 ～協奏曲～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fandisc of Mizu no Senritsu with Valentines and White day after stories and mini-games.",
+  "source_sha256": "0754385151ed4e7d85e211252d92022f039e1da0406e2e7688da47c7db8a85a4",
+  "translation": "A fandisc of Mizu no Senritsu with Valentines and White day after stories and mini-games.",
+  "vndb_url": "https://vndb.org/v17566"
+}

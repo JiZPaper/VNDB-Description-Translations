@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c27563",
+  "type": "character",
+  "name": "Professor Kreys",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A professor at the Kroistham Academy.",
+  "source_sha256": "be466e743be46bbafad24171777641c27f64caba0d231523bfb15d6517c7ac3c",
+  "translation": "A professor at the Kroistham Academy.",
+  "vndb_url": "https://vndb.org/c27563"
+}

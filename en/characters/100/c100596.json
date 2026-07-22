@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100596",
+  "type": "character",
+  "name": "Alicia's Friend",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Alicia’s friends in her department.",
+  "source_sha256": "f7d46ae8cf00d0d2d80123d6460627854e8fd75701e3a02e16288ffa4ea12b18",
+  "translation": "One of Alicia’s friends in her department.",
+  "vndb_url": "https://vndb.org/c100596"
+}

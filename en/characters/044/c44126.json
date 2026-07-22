@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44126",
+  "type": "character",
+  "name": "Riina Tervo",
+  "original_name": "リーナ・テルヴォ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Riina Tervo is a Finnish 1st Lieutenant and operator for the Aquila unit in Chicken Divers.",
+  "source_sha256": "5153bf6d56ff147d5dbe173cda1da36f5a1a20110af8aa1c7ac793a4b7363903",
+  "translation": "Riina Tervo is a Finnish 1st Lieutenant and operator for the Aquila unit in Chicken Divers.",
+  "vndb_url": "https://vndb.org/c44126"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94593",
+  "type": "character",
+  "name": "The Migrant",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A traveler who is wandering among the stars.",
+  "source_sha256": "dacdf2b6255a811395e4206777ee47cb0ab3a9e2fc202094c461f500bfc03729",
+  "translation": "A traveler who is wandering among the stars.",
+  "vndb_url": "https://vndb.org/c94593"
+}

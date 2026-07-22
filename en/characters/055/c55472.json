@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55472",
+  "type": "character",
+  "name": "Suzukaze Yuu",
+  "original_name": "涼風 佑",
+  "language": "en",
+  "source_language": "en",
+  "source": "Vehicle Type: BNR34 Nissan Skyline GT-R\nPlate Number: Tsukuba 330 R ・・ 34",
+  "source_sha256": "8f1305436bc81e888c10d65292e20045b02de538908dcc4b76f61e006594d616",
+  "translation": "Vehicle Type: BNR34 Nissan Skyline GT-R\nPlate Number: Tsukuba 330 R ・・ 34",
+  "vndb_url": "https://vndb.org/c55472"
+}

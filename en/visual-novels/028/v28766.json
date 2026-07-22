@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28766",
+  "type": "visual_novel",
+  "name": "Typing DE Taming!",
+  "original_name": "たいぴんぐDEテイミング!",
+  "language": "en",
+  "source_language": "en",
+  "source": "BL typing game.",
+  "source_sha256": "57808d54d2f6727b240ceafaf775a3481e24aa389942bfe476b285a2b28b5a70",
+  "translation": "BL typing game.",
+  "vndb_url": "https://vndb.org/v28766"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11384",
+  "type": "visual_novel",
+  "name": "Same Yume, Aitai!",
+  "original_name": "さめゆめ、愛たい！",
+  "language": "en",
+  "source_language": "en",
+  "source": "An April Fools' Day game.",
+  "source_sha256": "381e955d323cae6182086a487fe03d540e5834815a2d37f630215e79af02ed0d",
+  "translation": "An April Fools' Day game.",
+  "vndb_url": "https://vndb.org/v11384"
+}

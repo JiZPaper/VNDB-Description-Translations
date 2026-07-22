@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c18249",
+  "type": "character",
+  "name": "Brooks",
+  "original_name": "ブルックス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The prison warden.",
+  "source_sha256": "006338118776cb558df73a763d1d01c68018da6e0bfe177a7f9a7e820ba1b2c8",
+  "translation": "The prison warden.",
+  "vndb_url": "https://vndb.org/c18249"
+}

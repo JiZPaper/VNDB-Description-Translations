@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146587",
+  "type": "character",
+  "name": "Brenda",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Arden’s girlfriend",
+  "source_sha256": "667ec911000f83b64b3f0d9046110dea0a64801830fa4d96e4527ef37773069b",
+  "translation": "Arden’s girlfriend",
+  "vndb_url": "https://vndb.org/c146587"
+}

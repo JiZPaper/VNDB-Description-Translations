@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45816",
+  "type": "character",
+  "name": "Phamu Enforce",
+  "original_name": "ファミーユ・エンフォース",
+  "language": "en",
+  "source_language": "en",
+  "source": "A tactical officer. She's responsible for making announcements.\nShe's often practicing by herself in the MM room.",
+  "source_sha256": "234e6fb621f39f98cc915819c39764a4c2462d1053738580e9e56467e98531f8",
+  "translation": "A tactical officer. She's responsible for making announcements.\nShe's often practicing by herself in the MM room.",
+  "vndb_url": "https://vndb.org/c45816"
+}

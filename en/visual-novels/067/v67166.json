@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67166",
+  "type": "visual_novel",
+  "name": "Choices",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel where you talk with two bears",
+  "source_sha256": "6641659dc41b3bb79ff84bb9e802f524da4a6250c40ba91434b6960dd98a3daa",
+  "translation": "A short visual novel where you talk with two bears",
+  "vndb_url": "https://vndb.org/v67166"
+}

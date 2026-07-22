@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15687",
+  "type": "character",
+  "name": "Ogata Kei",
+  "original_name": "緒方 佳",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of the game.",
+  "source_sha256": "5e0623c5fdfd215c1b6e552b503799eefc50e26af479ab8196238de30ed6bebe",
+  "translation": "The protagonist of the game.",
+  "vndb_url": "https://vndb.org/c15687"
+}

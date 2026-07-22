@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70617",
+  "type": "character",
+  "name": "Tama",
+  "original_name": "タマ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cat breed: White Cat",
+  "source_sha256": "d92a959b329f8682fd4760afed3b223cefdc550e148c94b3006088e39f23b2d1",
+  "translation": "Cat breed: White Cat",
+  "vndb_url": "https://vndb.org/c70617"
+}

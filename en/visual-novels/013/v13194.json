@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13194",
+  "type": "visual_novel",
+  "name": "Digital Love",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel created for PPHSJAM.",
+  "source_sha256": "d377543e41d355118da781642f81a38f0b1e2152652f252b846eca9bbfa31458",
+  "translation": "A short visual novel created for PPHSJAM.",
+  "vndb_url": "https://vndb.org/v13194"
+}

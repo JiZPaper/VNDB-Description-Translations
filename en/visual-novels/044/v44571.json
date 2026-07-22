@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44571",
+  "type": "visual_novel",
+  "name": "PUNCH! PAPER! SCISSORS!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Play a game of rock-paper-scissors with a boy named Akami. Except the twist is if you win, you get to punch him in the face!",
+  "source_sha256": "79197d604dd303f27becfab100b00f6aa0142b44d9dc2199471282cefd8fb9cc",
+  "translation": "Play a game of rock-paper-scissors with a boy named Akami. Except the twist is if you win, you get to punch him in the face!",
+  "vndb_url": "https://vndb.org/v44571"
+}

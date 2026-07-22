@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140525",
+  "type": "character",
+  "name": "Lady",
+  "original_name": "レイディ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Captain of the ship called Neptune.",
+  "source_sha256": "d4ccb5ff6e8653163009d17b34b1e8e350c1eb8ad894a640ec37fcfa52611727",
+  "translation": "Captain of the ship called Neptune.",
+  "vndb_url": "https://vndb.org/c140525"
+}

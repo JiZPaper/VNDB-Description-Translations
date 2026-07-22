@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c43967",
+  "type": "character",
+  "name": "Verne",
+  "original_name": "ヴァーン",
+  "language": "en",
+  "source_language": "en",
+  "source": "An old great sorcerer who is feared by many people.\nHe's [url=/c43962]Levias's[/url] sorcery teacher.\nHe holds great power but he doesn't care about the world of men.",
+  "source_sha256": "865391eb97f5c4915c0c095a91c62e2758e384459e2fd2739677631bc952fcf6",
+  "translation": "An old great sorcerer who is feared by many people.\nHe's [url=/c43962]Levias's[/url] sorcery teacher.\nHe holds great power but he doesn't care about the world of men.",
+  "vndb_url": "https://vndb.org/c43967"
+}

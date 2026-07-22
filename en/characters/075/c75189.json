@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75189",
+  "type": "character",
+  "name": "PonPon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An anime character beloved by Haato.",
+  "source_sha256": "aa708362b3a0f8200a91522376c2ae43ee161d5a8c47a9f3a556e21ab67b9f28",
+  "translation": "An anime character beloved by Haato.",
+  "vndb_url": "https://vndb.org/c75189"
+}

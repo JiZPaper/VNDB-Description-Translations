@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134056",
+  "type": "character",
+  "name": "Ben",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "MMC Champion",
+  "source_sha256": "ae881d45ae2ef8c8bc4a3079a64a15e747d63c1870207f199757d0200fcfc56f",
+  "translation": "MMC Champion",
+  "vndb_url": "https://vndb.org/c134056"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165972",
+  "type": "character",
+  "name": "Ruben",
+  "original_name": "ルーベン",
+  "language": "en",
+  "source_language": "en",
+  "source": "※Appears from Act 4.\n\nThe owner of a general store.",
+  "source_sha256": "60d371333380ecf7d058f317cca6dbbba3ccba4f6f004a801d9fe95f71bcdf85",
+  "translation": "※Appears from Act 4.\n\nThe owner of a general store.",
+  "vndb_url": "https://vndb.org/c165972"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11263",
+  "type": "visual_novel",
+  "name": "Kamineko",
+  "original_name": "噛猫",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fan-fiction parody VN based on the manga/anime Azumanga Daioh.",
+  "source_sha256": "b83c2ea927b94c2c272fbce6ee32d979170bd19c067028e3910d3177b9eb5a5b",
+  "translation": "A fan-fiction parody VN based on the manga/anime Azumanga Daioh.",
+  "vndb_url": "https://vndb.org/v11263"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12256",
+  "type": "visual_novel",
+  "name": "Hong Lou Meng: Lin Daiyu yu Bei Jing Wang",
+  "original_name": "红楼梦：林黛玉与北静王",
+  "language": "en",
+  "source_language": "en",
+  "source": "Visual novel adaption of the Qing dynasty novel “Dream of a Red Chamber”, with Bei Jing Wang as the protagonist. Extended version of the previous game, with the main heroines fully voiced and additional CG and endings.",
+  "source_sha256": "2f64ca39c6c50aa807baff665cb73cbfc9f835c6b4e0083cd6e73de5df17778f",
+  "translation": "Visual novel adaption of the Qing dynasty novel “Dream of a Red Chamber”, with Bei Jing Wang as the protagonist. Extended version of the previous game, with the main heroines fully voiced and additional CG and endings.",
+  "vndb_url": "https://vndb.org/v12256"
+}

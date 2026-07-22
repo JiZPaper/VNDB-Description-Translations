@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26994",
+  "type": "visual_novel",
+  "name": "Kuronekosou Souzoku Satsujin Jiken",
+  "original_name": "黒猫荘相続殺人事件",
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of Kuronekoso “Oonogi Yoshizou” was killed. There are 8 suspects related to him. The player becomes a detective and searches with his partner.",
+  "source_sha256": "5b642b57f41254c3748e1bb142f4a67df9425e4129c24e9ecf2deb8a91d40fe7",
+  "translation": "The owner of Kuronekoso “Oonogi Yoshizou” was killed. There are 8 suspects related to him. The player becomes a detective and searches with his partner.",
+  "vndb_url": "https://vndb.org/v26994"
+}

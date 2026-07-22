@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116540",
+  "type": "character",
+  "name": "Mary",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She works retail.",
+  "source_sha256": "45ee92c392f34c0092bdfa73b276bc00018dd72080ae188c84592486172435a2",
+  "translation": "She works retail.",
+  "vndb_url": "https://vndb.org/c116540"
+}

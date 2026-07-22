@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53501",
+  "type": "character",
+  "name": "Shadow Artelion",
+  "original_name": "シャドウ・アルテリオン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Chloe's transformed state",
+  "source_sha256": "475e621ba684c25b834a5f07c5a95b8e0723595f176f40873539c3df9213dbf7",
+  "translation": "Chloe's transformed state",
+  "vndb_url": "https://vndb.org/c53501"
+}

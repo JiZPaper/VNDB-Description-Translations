@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87386",
+  "type": "character",
+  "name": "Zeminario",
+  "original_name": "ゼミナリオ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A non-noble person, top graduate from the Hillsland academy, along with [url=/c87368]Haynes[/url].",
+  "source_sha256": "43631b69e1ea28c40cc379b820b3aa8cc5d8e578855c4aeea243799136b163ef",
+  "translation": "A non-noble person, top graduate from the Hillsland academy, along with [url=/c87368]Haynes[/url].",
+  "vndb_url": "https://vndb.org/c87386"
+}

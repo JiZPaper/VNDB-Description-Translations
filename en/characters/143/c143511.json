@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143511",
+  "type": "character",
+  "name": "Natasha",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A new co-worker at the office where Ian and Holly work.",
+  "source_sha256": "830c253aaf087207573b090faf3847cb38959bd6e2f626e3109ce647e163aada",
+  "translation": "A new co-worker at the office where Ian and Holly work.",
+  "vndb_url": "https://vndb.org/c143511"
+}

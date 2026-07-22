@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c50981",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious man from one of the books in the magic library. Driven with a mysterious task to find a lost girl, he travels from book to book to not only complete his quest, but find his way back to his own world.",
+  "source_sha256": "5c856eacb0914411dc4c40557f4c43d5f13cc40a83b2728f865fbcd0e36b1389",
+  "translation": "A mysterious man from one of the books in the magic library. Driven with a mysterious task to find a lost girl, he travels from book to book to not only complete his quest, but find his way back to his own world.",
+  "vndb_url": "https://vndb.org/c50981"
+}

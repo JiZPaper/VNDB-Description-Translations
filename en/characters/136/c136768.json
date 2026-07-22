@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136768",
+  "type": "character",
+  "name": "Ekon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious acquaintance in the Pendant Guarden.",
+  "source_sha256": "86e6ffc4ebfc7d0a6c41e865551e5c92cdb81662dc47c1595bac950668db3661",
+  "translation": "A mysterious acquaintance in the Pendant Guarden.",
+  "vndb_url": "https://vndb.org/c136768"
+}

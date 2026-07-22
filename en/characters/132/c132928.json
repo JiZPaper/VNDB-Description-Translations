@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132928",
+  "type": "character",
+  "name": "Jey",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A technical maintenance worker at Insem, the governmental agency responsible for management of births.",
+  "source_sha256": "18e39c40ac6eced6cdbcd2987478f06acd1d275b6348cc672bd772afad20b517",
+  "translation": "A technical maintenance worker at Insem, the governmental agency responsible for management of births.",
+  "vndb_url": "https://vndb.org/c132928"
+}

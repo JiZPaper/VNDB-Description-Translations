@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97576",
+  "type": "character",
+  "name": "Man",
+  "original_name": "男",
+  "language": "en",
+  "source_language": "en",
+  "source": "Miyoshi family's neighbor.",
+  "source_sha256": "9d236cf3dafab48da4359e99c2501cfcc68593c01239a40cbe654a52744b4ce7",
+  "translation": "Miyoshi family's neighbor.",
+  "vndb_url": "https://vndb.org/c97576"
+}

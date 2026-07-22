@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46186",
+  "type": "visual_novel",
+  "name": "Death's End",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You have died.\n\nDeath has some questions for you.\n\n[from [url=https://lockedon.itch.io/deaths-end]itch.io[/url]]",
+  "source_sha256": "0aff3503c0c9c15630fabaa17569b1ab565721b057231e25e2db3463e424125a",
+  "translation": "You have died.\n\nDeath has some questions for you.\n\n[from [url=https://lockedon.itch.io/deaths-end]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v46186"
+}

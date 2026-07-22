@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44434",
+  "type": "character",
+  "name": "Takeda Shingen",
+  "original_name": "武田 信玄",
+  "language": "en",
+  "source_language": "en",
+  "source": "A flawless warrior.\nA perfectionist general who always gets his prey.\nHe's good at noticing the small things, a superior politician.",
+  "source_sha256": "6883d54a413a73abc0867f76a0e8f4cfa6f6d4298ad08dba1e48037789868c11",
+  "translation": "A flawless warrior.\nA perfectionist general who always gets his prey.\nHe's good at noticing the small things, a superior politician.",
+  "vndb_url": "https://vndb.org/c44434"
+}

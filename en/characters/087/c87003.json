@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87003",
+  "type": "character",
+  "name": "Mysterious Beauty",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious woman who roams the East Forest.\n[spoiler]She's Headmaster Randolph's night form.[/spoiler]",
+  "source_sha256": "e00c2bbf2b6de5553ba70bf5358038fa7c16287e0fa8a15c73684514ad1b3088",
+  "translation": "A mysterious woman who roams the East Forest.\n[spoiler]She's Headmaster Randolph's night form.[/spoiler]",
+  "vndb_url": "https://vndb.org/c87003"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c32510",
+  "type": "character",
+  "name": "Forzasleyn",
+  "original_name": "フォルザスレイン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Angel\n\nAn angel serving Arkparis. Likes the strict and righteous, a doctrine of Arkparis. She is upright and disciplined, however, she is quite inflexible.",
+  "source_sha256": "42fc088d6c3d2fc436379f9e117a175d8e55ab50efc9812649264f7bb6576a8b",
+  "translation": "Race: Angel\n\nAn angel serving Arkparis. Likes the strict and righteous, a doctrine of Arkparis. She is upright and disciplined, however, she is quite inflexible.",
+  "vndb_url": "https://vndb.org/c32510"
+}

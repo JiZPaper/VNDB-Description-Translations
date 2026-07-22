@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c13180",
+  "type": "character",
+  "name": "Phantom",
+  "original_name": "ファントム",
+  "language": "en",
+  "source_language": "en",
+  "source": "A ghost that lives in Little's mansion. Sealed into a forbidden area.",
+  "source_sha256": "86b621b35452c78d4de7864d9d0455e2958eba491a934493b3f05e4c56168517",
+  "translation": "A ghost that lives in Little's mansion. Sealed into a forbidden area.",
+  "vndb_url": "https://vndb.org/c13180"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16286",
+  "type": "visual_novel",
+  "name": "Flying Lessons",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young flower fairy learns to fly.",
+  "source_sha256": "531793968f914929bdf12c3e2d50327d6f790bb694b9dd0ee0bc33be62373259",
+  "translation": "A young flower fairy learns to fly.",
+  "vndb_url": "https://vndb.org/v16286"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153124",
+  "type": "character",
+  "name": "Frederick Vernon",
+  "original_name": "프레드릭 버논",
+  "language": "en",
+  "source_language": "en",
+  "source": "Skill: Radial ignition",
+  "source_sha256": "2e13038ff140ac33e81c0ee781c14bc47a638df22d252e47f6d05c04f8500f94",
+  "translation": "Skill: Radial ignition",
+  "vndb_url": "https://vndb.org/c153124"
+}

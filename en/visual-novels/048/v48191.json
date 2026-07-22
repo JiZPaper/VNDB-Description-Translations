@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48191",
+  "type": "visual_novel",
+  "name": "Anata ga Ite Kurerunara",
+  "original_name": "あなたがいてくれるなら",
+  "language": "en",
+  "source_language": "en",
+  "source": "You, the protagonist, reminisce on a few conversations with your boyfriend, Natsu.",
+  "source_sha256": "9f0889362158d95f2c158f9fff649c200103fcbee10c8a305e6b08a5f7b4bfb2",
+  "translation": "You, the protagonist, reminisce on a few conversations with your boyfriend, Natsu.",
+  "vndb_url": "https://vndb.org/v48191"
+}

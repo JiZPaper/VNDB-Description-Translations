@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20600",
+  "type": "visual_novel",
+  "name": "Maji de Watashi ni Koishinasai! A-3",
+  "original_name": "真剣で私に恋しなさい！A-3",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fandisc featuring routes for Lee and Stacy, as well as an after story for Tsubame.",
+  "source_sha256": "79896cc61ed027223e16fad83e13b2a13127d743cdf2951d6e7772fa8310d0ec",
+  "translation": "A fandisc featuring routes for Lee and Stacy, as well as an after story for Tsubame.",
+  "vndb_url": "https://vndb.org/v20600"
+}

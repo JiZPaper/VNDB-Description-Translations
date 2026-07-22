@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165146",
+  "type": "character",
+  "name": "Randy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Miles' coworker.",
+  "source_sha256": "42726883028c501ca730dcc4036c63e1c175a60370632a97b2641cfd7263533a",
+  "translation": "Miles' coworker.",
+  "vndb_url": "https://vndb.org/c165146"
+}

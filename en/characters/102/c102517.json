@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102517",
+  "type": "character",
+  "name": "Dice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A sentient chicken who befriends Spudge.",
+  "source_sha256": "792745dc87fba46a3f8a7d3a57f322854b2a756db715b80eb3b37078f7c04007",
+  "translation": "A sentient chicken who befriends Spudge.",
+  "vndb_url": "https://vndb.org/c102517"
+}

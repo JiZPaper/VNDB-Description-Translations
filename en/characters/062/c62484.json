@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62484",
+  "type": "character",
+  "name": "Vincent van Gogh",
+  "original_name": "フィンセント・ファン・ゴッホ",
+  "language": "en",
+  "source_language": "en",
+  "source": "This famous and influential Dutch painter has a presence as calming as the sunflowers he is known for painting. Vincent's calming personality is in stark contrast to his brash and difficult brother, though at times he seems to be  void of any strong emotion at all. But once he falls in love, that all changes... \n\n\"No matter what a paint-- nothing compares to your beauty.\"",
+  "source_sha256": "075ca9e708a23196d877b837da64245e2de148d7362c99162684a74ad8ce79b2",
+  "translation": "This famous and influential Dutch painter has a presence as calming as the sunflowers he is known for painting. Vincent's calming personality is in stark contrast to his brash and difficult brother, though at times he seems to be  void of any strong emotion at all. But once he falls in love, that all changes... \n\n\"No matter what a paint-- nothing compares to your beauty.\"",
+  "vndb_url": "https://vndb.org/c62484"
+}

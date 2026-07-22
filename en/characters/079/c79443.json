@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79443",
+  "type": "character",
+  "name": "Man",
+  "original_name": "男",
+  "language": "en",
+  "source_language": "en",
+  "source": "A man the protagonist meets at the train station which states that he will make her very happy if she decides to go with him.",
+  "source_sha256": "9156c2f8531c7c92b1aa65d32e17739b248d0c90f704191849caed12a04a8734",
+  "translation": "A man the protagonist meets at the train station which states that he will make her very happy if she decides to go with him.",
+  "vndb_url": "https://vndb.org/c79443"
+}

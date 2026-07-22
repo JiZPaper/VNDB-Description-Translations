@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139291",
+  "type": "character",
+  "name": "Celeste",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Karla's maid. Provide childcare for Maria.\n\n[In game description]",
+  "source_sha256": "93ef5c3ddebe021b1f5da4442d461a2a36f815c5c55b5f4bb8a967419e3f96a3",
+  "translation": "Karla's maid. Provide childcare for Maria.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c139291"
+}

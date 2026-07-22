@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27015",
+  "type": "visual_novel",
+  "name": "Hoshi no Ouji-sama",
+  "original_name": "星の王子さま",
+  "language": "en",
+  "source_language": "en",
+  "source": "A novel game adaptation of Antoine de Saint Exupéry's Le Petit Prince.\n\n[From [url=http://altogether.insani.org/2008/3-creator.html]Insani[/url]]",
+  "source_sha256": "b92e58a094642ef276e624b5a387ad78880316a14368bbc6156fd87932cd3ad9",
+  "translation": "A novel game adaptation of Antoine de Saint Exupéry's Le Petit Prince.\n\n[From [url=http://altogether.insani.org/2008/3-creator.html]Insani[/url]]",
+  "vndb_url": "https://vndb.org/v27015"
+}

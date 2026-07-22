@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101701",
+  "type": "character",
+  "name": "Lorraine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mother of [url=/c101705]Protagonist[/url] and [url=/c101704]Sophia[/url]",
+  "source_sha256": "0817e5b25fc0297ac26467c37d65d9121412274725777d4a29dd3d5b837566a3",
+  "translation": "Mother of [url=/c101705]Protagonist[/url] and [url=/c101704]Sophia[/url]",
+  "vndb_url": "https://vndb.org/c101701"
+}

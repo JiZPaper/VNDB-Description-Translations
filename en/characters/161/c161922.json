@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161922",
+  "type": "character",
+  "name": "Miles",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist.",
+  "source_sha256": "87b4ff0e340ce09044aacf61c1c2e3edbd48d8476040aa69f38b73fe82fb0056",
+  "translation": "Protagonist.",
+  "vndb_url": "https://vndb.org/c161922"
+}

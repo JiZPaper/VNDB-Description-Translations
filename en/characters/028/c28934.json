@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28934",
+  "type": "character",
+  "name": "Red Riding Hood",
+  "original_name": "赤頭巾ちゃん",
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl in a red hood being chased around the mansion grounds by a wolf.",
+  "source_sha256": "daabcbf503efdc049468782f415445397eceeec2eb678c40abba737268600ee2",
+  "translation": "A girl in a red hood being chased around the mansion grounds by a wolf.",
+  "vndb_url": "https://vndb.org/c28934"
+}

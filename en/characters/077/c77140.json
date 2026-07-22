@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77140",
+  "type": "character",
+  "name": "Hugo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jack's older brother. He owns the gym, where Ashley goes to work out.",
+  "source_sha256": "d77cbfa7eeccffca07d8a813b0713c9f733132066b12c84c08050b28302864e5",
+  "translation": "Jack's older brother. He owns the gym, where Ashley goes to work out.",
+  "vndb_url": "https://vndb.org/c77140"
+}

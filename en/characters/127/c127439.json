@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127439",
+  "type": "character",
+  "name": "Muimui",
+  "original_name": "뮤이뮤이",
+  "language": "en",
+  "source_language": "en",
+  "source": "Half-Blooded dark elf.\nSimple and ignorant fighter.",
+  "source_sha256": "c69f0ac49e8b976e05c071d621ffd69ad3dcf218f65d2251c935b71a870308fb",
+  "translation": "Half-Blooded dark elf.\nSimple and ignorant fighter.",
+  "vndb_url": "https://vndb.org/c127439"
+}

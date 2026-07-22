@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c104126",
+  "type": "character",
+  "name": "Rose",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A new counselor at a college where Amy is a vice principal.",
+  "source_sha256": "4e055ce9ada53dd0b2413aa3512ad480ecc0983af5e19244ec2f4a8858a5a839",
+  "translation": "A new counselor at a college where Amy is a vice principal.",
+  "vndb_url": "https://vndb.org/c104126"
+}

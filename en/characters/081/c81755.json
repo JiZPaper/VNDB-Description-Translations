@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81755",
+  "type": "character",
+  "name": "Gillian",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gillian is a bartender at VA-11 Hall-A with a mysterious past. He is known to occasionally disappear for a few days, but is otherwise a dependable employee of VA-11 Hall-A",
+  "source_sha256": "441fe2eb9f526255b01c5a1757aa66d2c1c41685b89f4b1441e63e792911c39d",
+  "translation": "Gillian is a bartender at VA-11 Hall-A with a mysterious past. He is known to occasionally disappear for a few days, but is otherwise a dependable employee of VA-11 Hall-A",
+  "vndb_url": "https://vndb.org/c81755"
+}

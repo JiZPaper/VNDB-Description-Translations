@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9269",
+  "type": "visual_novel",
+  "name": "Conversation",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He didn’t expect to meet her. She didn’t expect to stop.\n\nTwo strangers. One umbrella. A conversation that could end in silence – or something more.",
+  "source_sha256": "a078edb83650e118b9e457f87b58f30c1e86fe4049319b93d231e555f1150090",
+  "translation": "He didn’t expect to meet her. She didn’t expect to stop.\n\nTwo strangers. One umbrella. A conversation that could end in silence – or something more.",
+  "vndb_url": "https://vndb.org/v9269"
+}

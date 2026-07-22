@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19736",
+  "type": "visual_novel",
+  "name": "Sengoku Hime 7 ~Sen'un Tsuranuku Guren no Ishi~",
+  "original_name": "戦極姫7～戦雲つらぬく紅蓮の遺志～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Re-enacting the events up to the Siege of Osaka in 1615. There are some new commanders among the 110 that you can control, as well as new outfits for some returning heroines, such as Oda Nobunaga. Since this game takes place over 65 years, the commanders’ sprites will change as they grow.",
+  "source_sha256": "704bcf661769026f2359f5aec1a0819ab5dadcc18396c504aaa302f714ad7242",
+  "translation": "Re-enacting the events up to the Siege of Osaka in 1615. There are some new commanders among the 110 that you can control, as well as new outfits for some returning heroines, such as Oda Nobunaga. Since this game takes place over 65 years, the commanders’ sprites will change as they grow.",
+  "vndb_url": "https://vndb.org/v19736"
+}

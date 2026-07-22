@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139617",
+  "type": "character",
+  "name": "Pearl",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Friend of Tuesday",
+  "source_sha256": "fdbe7ea3f2f980d64659453d21fc4cd962abaf24c0cb4a0286dab71629bce881",
+  "translation": "Friend of Tuesday",
+  "vndb_url": "https://vndb.org/c139617"
+}

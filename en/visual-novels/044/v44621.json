@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44621",
+  "type": "visual_novel",
+  "name": "Yandere Sotsugyou Sengen",
+  "original_name": "ヤンデレ卒業宣言",
+  "language": "en",
+  "source_language": "en",
+  "source": "A game where a yandere girl wishes to \"graduate\" from being a yandere.",
+  "source_sha256": "682f5f332553d20fcd2b4932199101f41a0194fab4545787924371b796fe1d27",
+  "translation": "A game where a yandere girl wishes to \"graduate\" from being a yandere.",
+  "vndb_url": "https://vndb.org/v44621"
+}

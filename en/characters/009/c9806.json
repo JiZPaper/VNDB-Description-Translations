@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9806",
+  "type": "character",
+  "name": "Manager",
+  "original_name": "店長",
+  "language": "en",
+  "source_language": "en",
+  "source": "Bookstore manager.",
+  "source_sha256": "7d9ba73eb80e16f06040f3e30f58b5dd67e80f75f8c1fcd26ae6ee33ef80c67e",
+  "translation": "Bookstore manager.",
+  "vndb_url": "https://vndb.org/c9806"
+}

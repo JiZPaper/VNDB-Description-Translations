@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48973",
+  "type": "character",
+  "name": "Linda",
+  "original_name": "リンダ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of the junk store who collects broken machinery to fix or resell.",
+  "source_sha256": "7212c5ca6f98a62a61c3ed9442611b0a10bf73bf66d1ae9eadcf489690e55b26",
+  "translation": "The owner of the junk store who collects broken machinery to fix or resell.",
+  "vndb_url": "https://vndb.org/c48973"
+}

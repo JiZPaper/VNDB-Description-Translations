@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127472",
+  "type": "character",
+  "name": "Riona Melbert",
+  "original_name": "リオナ メルバート",
+  "language": "en",
+  "source_language": "en",
+  "source": "A woman living in the village performing research on [url=/c127470]Annie[/url].",
+  "source_sha256": "f3f063880cf93511d7c29d661b5803b07c49610a25f5e32254c422443726db86",
+  "translation": "A woman living in the village performing research on [url=/c127470]Annie[/url].",
+  "vndb_url": "https://vndb.org/c127472"
+}

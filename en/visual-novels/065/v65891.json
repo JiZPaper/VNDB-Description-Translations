@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65891",
+  "type": "visual_novel",
+  "name": "Pyeonuijeom Ap-ui Goyangi",
+  "original_name": "편의점 앞의 고양이",
+  "language": "en",
+  "source_language": "en",
+  "source": "Worn down by repeated job-hunting rejections, a young woman finds solace each night in a\n  stray cat she meets in front of a convenience store. The bond between them develops\n  according to the player's choices.",
+  "source_sha256": "fca2fc9628e9bbb4afacc7c4d12d293137f3fff7ac3cd9125a1c3e4913688e94",
+  "translation": "Worn down by repeated job-hunting rejections, a young woman finds solace each night in a\n  stray cat she meets in front of a convenience store. The bond between them develops\n  according to the player's choices.",
+  "vndb_url": "https://vndb.org/v65891"
+}

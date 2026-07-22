@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64170",
+  "type": "visual_novel",
+  "name": "Lucario Dating Sim",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Lucario dating sim game.",
+  "source_sha256": "e1a875d6ca243d1f0c9c47f0de5fe276868cc6aa2fa43ea36037adfd6403e6d4",
+  "translation": "A Lucario dating sim game.",
+  "vndb_url": "https://vndb.org/v64170"
+}

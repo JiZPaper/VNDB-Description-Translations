@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9271",
+  "type": "visual_novel",
+  "name": "The Present",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A boy tries to find direction in life after his parents' divorce.",
+  "source_sha256": "42a7db669655e4c54726c629d9c1cc41e226fe0e373de4be7308b63e56fd9b00",
+  "translation": "A boy tries to find direction in life after his parents' divorce.",
+  "vndb_url": "https://vndb.org/v9271"
+}

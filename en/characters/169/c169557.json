@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169557",
+  "type": "character",
+  "name": "Johnson",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Retired policeman, knows something about Lopez.",
+  "source_sha256": "17f250c04ea1aeb86b90cebbe5e1bab76c426d33bd40b95b4047b32b16c2049a",
+  "translation": "Retired policeman, knows something about Lopez.",
+  "vndb_url": "https://vndb.org/c169557"
+}

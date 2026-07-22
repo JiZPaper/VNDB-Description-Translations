@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c46743",
+  "type": "character",
+  "name": "Ms. June",
+  "original_name": "ミズ・ジューン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Operator at Ark, she's dependable.",
+  "source_sha256": "1c7d7e08b70dcc2429fb24a058e34c1c3b6396179e21a5a011e6d8a811ba7fc1",
+  "translation": "Operator at Ark, she's dependable.",
+  "vndb_url": "https://vndb.org/c46743"
+}

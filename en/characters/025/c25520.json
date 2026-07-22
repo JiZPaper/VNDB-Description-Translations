@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25520",
+  "type": "character",
+  "name": "Brian",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A human trapped in a strange town full of monsters.",
+  "source_sha256": "4f3ff63560360dac84ad96abc2471428264569f61e222996af98b95064a53c64",
+  "translation": "A human trapped in a strange town full of monsters.",
+  "vndb_url": "https://vndb.org/c25520"
+}

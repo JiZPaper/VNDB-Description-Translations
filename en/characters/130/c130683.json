@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130683",
+  "type": "character",
+  "name": "Osoko",
+  "original_name": "おそ子",
+  "language": "en",
+  "source_language": "en",
+  "source": "The girlymatsu equivalent to Osomatsu",
+  "source_sha256": "d1adfe6a935b695e1c10162eaa09ba0b333b00a6ccd556445ce717cde6ee08e8",
+  "translation": "The girlymatsu equivalent to Osomatsu",
+  "vndb_url": "https://vndb.org/c130683"
+}

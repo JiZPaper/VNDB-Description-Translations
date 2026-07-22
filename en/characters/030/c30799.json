@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30799",
+  "type": "character",
+  "name": "Felix Alfierud",
+  "original_name": "フェリス=アルフィールド",
+  "language": "en",
+  "source_language": "en",
+  "source": "Knight",
+  "source_sha256": "f24b52468bfaef30631b50cbfdccfbcf0cd36cbf0390f1cbf59d8cdea9ad0f52",
+  "translation": "Knight",
+  "vndb_url": "https://vndb.org/c30799"
+}

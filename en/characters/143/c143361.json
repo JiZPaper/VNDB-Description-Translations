@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143361",
+  "type": "character",
+  "name": "Mato Blomquist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Tremere clan apostate running a car repair shop.",
+  "source_sha256": "4da7f80bad74f122b9574895f4ce045da39c3ebe3c4a951dce18b848eb460605",
+  "translation": "A Tremere clan apostate running a car repair shop.",
+  "vndb_url": "https://vndb.org/c143361"
+}

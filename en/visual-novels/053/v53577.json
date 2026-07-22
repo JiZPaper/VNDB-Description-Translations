@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53577",
+  "type": "visual_novel",
+  "name": "My clinical death",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel about a girl who experiences a clinical death.\n\n[From [url=https://store.steampowered.com/app/3319070/]Steam[/url]]",
+  "source_sha256": "1fada24d41aad347a891c3c46570084285be05cc3a69e43dd9fbda16d5acaa7a",
+  "translation": "A short visual novel about a girl who experiences a clinical death.\n\n[From [url=https://store.steampowered.com/app/3319070/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v53577"
+}

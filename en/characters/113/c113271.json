@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113271",
+  "type": "character",
+  "name": "Hikari",
+  "original_name": "ひかり",
+  "language": "en",
+  "source_language": "en",
+  "source": "A baby who was abandoned in front of Aoba clinic.",
+  "source_sha256": "4dfce64026e086a55c5c47a74875eeb7e5901c2c9b8f827dfcfd991d08e36e2b",
+  "translation": "A baby who was abandoned in front of Aoba clinic.",
+  "vndb_url": "https://vndb.org/c113271"
+}

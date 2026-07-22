@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37368",
+  "type": "visual_novel",
+  "name": "Your Ghost in the Machine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are Karel, a researcher. Your colleague Josef is working on an algorithm to transfer a human brain into a machine, but he is suffering from a terminal illness. If he completes his research will he be able to cheat death?\n\n[From [url=https://supercircuit.itch.io/your-ghost-in-the-machine]Itch.io[/url]]",
+  "source_sha256": "6e803399f9611a4b2ea2bd15a11bccb03ac481abb86260cc2de9ba8f219e3a1a",
+  "translation": "You are Karel, a researcher. Your colleague Josef is working on an algorithm to transfer a human brain into a machine, but he is suffering from a terminal illness. If he completes his research will he be able to cheat death?\n\n[From [url=https://supercircuit.itch.io/your-ghost-in-the-machine]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v37368"
+}

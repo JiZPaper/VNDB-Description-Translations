@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52083",
+  "type": "visual_novel",
+  "name": "STELLAR",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Who are you?\"\n\nJourney throughout the universe to learn about various cultures and creatures, witness cosmic events, and learn what the universe holds.\n\n[From [url=https://eontail.itch.io/stellar]Itch.io[/url]]",
+  "source_sha256": "1f72a2adcb46c866be933a16ffbf67f3aba15ff8ccff9a214c8e12959e0233f4",
+  "translation": "\"Who are you?\"\n\nJourney throughout the universe to learn about various cultures and creatures, witness cosmic events, and learn what the universe holds.\n\n[From [url=https://eontail.itch.io/stellar]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v52083"
+}

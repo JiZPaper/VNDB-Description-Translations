@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4425",
+  "type": "character",
+  "name": "Valkyrie",
+  "original_name": "ヴァルキリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "The woman who spoke with Odin. She seems to be in good terms with her.",
+  "source_sha256": "3dad377775100420a2e70c4dfe7019cbf0d4bb0d67ace7d792c6b7a93ebdfd1f",
+  "translation": "The woman who spoke with Odin. She seems to be in good terms with her.",
+  "vndb_url": "https://vndb.org/c4425"
+}

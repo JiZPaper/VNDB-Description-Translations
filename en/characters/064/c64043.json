@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64043",
+  "type": "character",
+  "name": "Candy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A stripper at Jacob's club.",
+  "source_sha256": "af5ad8c01a8836bc41cb0c8ab9c5ad70e5fa8fad424352fce117466a7468014f",
+  "translation": "A stripper at Jacob's club.",
+  "vndb_url": "https://vndb.org/c64043"
+}

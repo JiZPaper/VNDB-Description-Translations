@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30494",
+  "type": "visual_novel",
+  "name": "Flower",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "After the fireworks, the protagonist tries to confess his feelings to a girl from his part-time job.",
+  "source_sha256": "fe3e41a0bcab42c5248a85c5daae956c8ea518a5d0ec32fca3ee451726034ea5",
+  "translation": "After the fireworks, the protagonist tries to confess his feelings to a girl from his part-time job.",
+  "vndb_url": "https://vndb.org/v30494"
+}

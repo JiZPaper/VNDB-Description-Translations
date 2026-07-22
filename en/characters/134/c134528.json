@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134528",
+  "type": "character",
+  "name": "Matias",
+  "original_name": "마티아스",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Emperor's only son.",
+  "source_sha256": "670b1b91cba913f7436cc59cdf8825ffd7ddcfe9485bb6c34b67491fe915a383",
+  "translation": "The Emperor's only son.",
+  "vndb_url": "https://vndb.org/c134528"
+}

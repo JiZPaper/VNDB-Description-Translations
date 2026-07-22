@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63530",
+  "type": "visual_novel",
+  "name": "Witchcraft Chocolatl",
+  "original_name": "ウィッチクラフト・ショコラトル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about a girl in love who, with the help of a witch (♂), makes a love potion to win over the person she likes.",
+  "source_sha256": "2f0af8a43b20e6a24020fc53e3c07e4bcd4e293e3513a940e4ab9b0df97b23be",
+  "translation": "A story about a girl in love who, with the help of a witch (♂), makes a love potion to win over the person she likes.",
+  "vndb_url": "https://vndb.org/v63530"
+}

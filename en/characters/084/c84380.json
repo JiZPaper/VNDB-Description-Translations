@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84380",
+  "type": "character",
+  "name": "Lacrima",
+  "original_name": "ラクリマ",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the Elfin from Chronos.",
+  "source_sha256": "3edd01331d0db2d1cb926a885cda5d32a75548cce9186d7a0b5223702a8ed6a0",
+  "translation": "One of the Elfin from Chronos.",
+  "vndb_url": "https://vndb.org/c84380"
+}

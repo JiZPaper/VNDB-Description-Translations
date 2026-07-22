@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101119",
+  "type": "character",
+  "name": "Cealia",
+  "original_name": "シーリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Tavern owner",
+  "source_sha256": "9e4b707eda926997845cb68316432b0c4c5911adad4449a0fd705f8941900038",
+  "translation": "Tavern owner",
+  "vndb_url": "https://vndb.org/c101119"
+}

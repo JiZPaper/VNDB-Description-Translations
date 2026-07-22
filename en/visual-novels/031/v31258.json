@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31258",
+  "type": "visual_novel",
+  "name": "Doctor Who Adventures 2!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The sequel of Doctor Who!",
+  "source_sha256": "612fed7b95d99ec90963b29c5cfb1ef5bdb6bbf5f9e33022d33e3a4da9d0ec27",
+  "translation": "The sequel of Doctor Who!",
+  "vndb_url": "https://vndb.org/v31258"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26217",
+  "type": "visual_novel",
+  "name": "Aru Boshi no Boumei",
+  "original_name": "ある母子の亡命",
+  "language": "en",
+  "source_language": "en",
+  "source": "The story of a family which flees their home to escape a revolution.",
+  "source_sha256": "1b76b39d89369994638cc4b7a3b51d349e3ebc557827953ec236a27bbe72d167",
+  "translation": "The story of a family which flees their home to escape a revolution.",
+  "vndb_url": "https://vndb.org/v26217"
+}

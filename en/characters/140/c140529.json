@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140529",
+  "type": "character",
+  "name": "Molly",
+  "original_name": "モーリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of the crew on the ship called Neptune, her expertize relates to navigating the ship.",
+  "source_sha256": "152a6e41d88fc82db624ce0911eee62e6fb204c36fdca977eae43c2c600c234e",
+  "translation": "A member of the crew on the ship called Neptune, her expertize relates to navigating the ship.",
+  "vndb_url": "https://vndb.org/c140529"
+}

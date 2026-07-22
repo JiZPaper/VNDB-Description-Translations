@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95530",
+  "type": "character",
+  "name": "Lily",
+  "original_name": "リリィ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of the hall staff at Cafe Estacion. She is new at her job and makes many mistakes, but she is always positive and a mood maker.",
+  "source_sha256": "81f449a67140fc7ffbca78745514fafe3030e10af01a693f6aa1add6acbce7c2",
+  "translation": "A member of the hall staff at Cafe Estacion. She is new at her job and makes many mistakes, but she is always positive and a mood maker.",
+  "vndb_url": "https://vndb.org/c95530"
+}

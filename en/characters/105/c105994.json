@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105994",
+  "type": "character",
+  "name": "Bulfinch",
+  "original_name": "ブルフィンチ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Labor is not an obligation. It's a right!\"\n\nAn unemployed angel.",
+  "source_sha256": "c8da56ad3889b2f96ff357da27a22ef3fe02816e0db488fa5c9b2a8f0bb27a16",
+  "translation": "\"Labor is not an obligation. It's a right!\"\n\nAn unemployed angel.",
+  "vndb_url": "https://vndb.org/c105994"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89014",
+  "type": "character",
+  "name": "Company President's Wife",
+  "original_name": "社長婦人",
+  "language": "en",
+  "source_language": "en",
+  "source": "The wife of the owner of the cruise ship San Royal.",
+  "source_sha256": "69f3d3b3f40f12fa5fbbc621b51f764192a22766d98b78368334c432b9b20853",
+  "translation": "The wife of the owner of the cruise ship San Royal.",
+  "vndb_url": "https://vndb.org/c89014"
+}

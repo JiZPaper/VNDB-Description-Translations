@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c121229",
+  "type": "character",
+  "name": "Quoth Karasuyama",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "I met Quoth behind Crimson High, where she fell out of a tree and landed next to me.\n\n[In game description]",
+  "source_sha256": "9afe7e8b1b75a4c6a30e642099b26ae3e0f86b9e513113ee115377f48fd880d6",
+  "translation": "I met Quoth behind Crimson High, where she fell out of a tree and landed next to me.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c121229"
+}

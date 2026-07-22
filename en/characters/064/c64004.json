@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64004",
+  "type": "character",
+  "name": "Niv",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Kes’s oldest friend and Northon’s military advisor.",
+  "source_sha256": "3d64f0560af0ebc3c2cdada571d7a05b36d3fa642c83782815bec98be47a1509",
+  "translation": "Kes’s oldest friend and Northon’s military advisor.",
+  "vndb_url": "https://vndb.org/c64004"
+}

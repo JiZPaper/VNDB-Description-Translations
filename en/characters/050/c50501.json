@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c50501",
+  "type": "character",
+  "name": "Perseus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An agent in H.E.R.A.'s Internal Affairs division. He was the one responsible for taking Medusa's Pegasus Aura.",
+  "source_sha256": "e0c3d3486187f455b4fc760be0c015d4a9cd23d9c05018f30fbf5d7534f7a9f8",
+  "translation": "An agent in H.E.R.A.'s Internal Affairs division. He was the one responsible for taking Medusa's Pegasus Aura.",
+  "vndb_url": "https://vndb.org/c50501"
+}

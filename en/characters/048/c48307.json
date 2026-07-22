@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48307",
+  "type": "character",
+  "name": "Isabella",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The innkeeper of a local inn above the dungeon. She knows Yomi.",
+  "source_sha256": "e3aacda25c361b1f5c2b4f1e595d4eaefa8034ff0d26f8be8009c5b74ef9c258",
+  "translation": "The innkeeper of a local inn above the dungeon. She knows Yomi.",
+  "vndb_url": "https://vndb.org/c48307"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14623",
+  "type": "visual_novel",
+  "name": "Tatakae! Mahou Shounen Sky Prim",
+  "original_name": "たたかえっ！魔法少年スカイプリム",
+  "language": "en",
+  "source_language": "en",
+  "source": "The tale of a young boy's transformation into a \"magical girl\" after encountering an alien and his responsibility to fight for peace.",
+  "source_sha256": "52ad20cd45b0b338c70b6b9336f5c07748c8dd595f92bd8a5cfa80696f810c45",
+  "translation": "The tale of a young boy's transformation into a \"magical girl\" after encountering an alien and his responsibility to fight for peace.",
+  "vndb_url": "https://vndb.org/v14623"
+}

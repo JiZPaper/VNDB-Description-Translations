@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64000",
+  "type": "character",
+  "name": "Aen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A slave from the southern deserts. As one of the Demas, his face and eyes were carved out by his masters as a sacrificial ritual.",
+  "source_sha256": "af6e866a1d89da669ca7609a2c13227f292bfd260d8aabd284e07000b645afe7",
+  "translation": "A slave from the southern deserts. As one of the Demas, his face and eyes were carved out by his masters as a sacrificial ritual.",
+  "vndb_url": "https://vndb.org/c64000"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c7899",
+  "type": "character",
+  "name": "Mizuno Makoto",
+  "original_name": "水野 真琴",
+  "language": "en",
+  "source_language": "en",
+  "source": "Character type: A high-school student on the library committee.",
+  "source_sha256": "e693d238e009d7231fd1a5268ac3f87c058dff5743765c075cfa505eefe26aaf",
+  "translation": "Character type: A high-school student on the library committee.",
+  "vndb_url": "https://vndb.org/c7899"
+}

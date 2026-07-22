@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24236",
+  "type": "visual_novel",
+  "name": "Wonderful Wonderland",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "ADV retelling of classic fairytales.",
+  "source_sha256": "2081a4de8f5e43a9b948f06f04ab14a911407aa0644aab24f77914cf468b1997",
+  "translation": "ADV retelling of classic fairytales.",
+  "vndb_url": "https://vndb.org/v24236"
+}

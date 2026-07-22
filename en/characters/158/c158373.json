@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c158373",
+  "type": "character",
+  "name": "Uesugi Kenshin",
+  "original_name": "上杉謙信",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mysterious nobleman from Echigo.",
+  "source_sha256": "2ee9fd51e708ddd23f9a7f0fa8c25836139f982660a325080fceb37adfd537dc",
+  "translation": "Mysterious nobleman from Echigo.",
+  "vndb_url": "https://vndb.org/c158373"
+}

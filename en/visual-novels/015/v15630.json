@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15630",
+  "type": "visual_novel",
+  "name": "Snow",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An adaptation of the fairy tale \"Snow White,\" made for the [url=http://itch.io/jam/the-public-domain-jam]Public Domain Jam[/url].",
+  "source_sha256": "46a14a0dc6f0f87aa308f40eaed5b180001a003181522ffeebf69dc15c905be1",
+  "translation": "An adaptation of the fairy tale \"Snow White,\" made for the [url=http://itch.io/jam/the-public-domain-jam]Public Domain Jam[/url].",
+  "vndb_url": "https://vndb.org/v15630"
+}

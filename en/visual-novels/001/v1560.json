@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1560",
+  "type": "visual_novel",
+  "name": "Mirai no Kimi to, Subete no Uta ni",
+  "original_name": "未来のキミと、すべての歌に―",
+  "language": "en",
+  "source_language": "en",
+  "source": "One day in December, the protagonist finds a girl sleeping in the street. But he soon finds she's actually a musical android named Miku.",
+  "source_sha256": "057b82acda18ed9f921ba6e1161a286cda06c8cb2a10a99efcc482e7e0dd6514",
+  "translation": "One day in December, the protagonist finds a girl sleeping in the street. But he soon finds she's actually a musical android named Miku.",
+  "vndb_url": "https://vndb.org/v1560"
+}

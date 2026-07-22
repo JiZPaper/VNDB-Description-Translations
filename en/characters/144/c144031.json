@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c144031",
+  "type": "character",
+  "name": "Eco-Arc",
+  "original_name": "エコアルク",
+  "language": "en",
+  "source_language": "en",
+  "source": "A younger version of Arcueid.",
+  "source_sha256": "57dbd944d2564515a5973fef4ebf5cea336aa5fdd5062535b94cd3cedd389b96",
+  "translation": "A younger version of Arcueid.",
+  "vndb_url": "https://vndb.org/c144031"
+}

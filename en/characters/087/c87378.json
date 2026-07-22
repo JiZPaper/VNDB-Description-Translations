@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87378",
+  "type": "character",
+  "name": "Gwendolen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the politicians of the elven kingdom.",
+  "source_sha256": "b6032255ea993e374d0dee863efa81db43d211ee184f0e5b34b46f9807bb8e2b",
+  "translation": "One of the politicians of the elven kingdom.",
+  "vndb_url": "https://vndb.org/c87378"
+}

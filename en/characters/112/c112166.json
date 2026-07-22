@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112166",
+  "type": "character",
+  "name": "Owner",
+  "original_name": "オーナー",
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of \"Meido no Hitsuji.\"\n\nAlthough he left the cafe's care to Waka, he seems to care about the employees. He often plans trips for them, such as their trip to a ski resort in Shinano.",
+  "source_sha256": "d81924a88ae26c5f5c91301f13be2b3c83038840ecddc199a8a3a82537e194f7",
+  "translation": "The owner of \"Meido no Hitsuji.\"\n\nAlthough he left the cafe's care to Waka, he seems to care about the employees. He often plans trips for them, such as their trip to a ski resort in Shinano.",
+  "vndb_url": "https://vndb.org/c112166"
+}

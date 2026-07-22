@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62728",
+  "type": "visual_novel",
+  "name": "Deer and Deer (?)",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Originally meant to be an entry for a game jam but released unfinished.",
+  "source_sha256": "8ae4d44d08396ea69b54fc893871efa42a072baed87f63f24a1eadf90298e313",
+  "translation": "Originally meant to be an entry for a game jam but released unfinished.",
+  "vndb_url": "https://vndb.org/v62728"
+}

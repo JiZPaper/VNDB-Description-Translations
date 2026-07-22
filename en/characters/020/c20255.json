@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20255",
+  "type": "character",
+  "name": "Jerry",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The other guitarist in Max's band.",
+  "source_sha256": "1b49a73ca1bfb650b99f237df9adf91c7d5e2642fcb92d496c1c73232bb9da7b",
+  "translation": "The other guitarist in Max's band.",
+  "vndb_url": "https://vndb.org/c20255"
+}

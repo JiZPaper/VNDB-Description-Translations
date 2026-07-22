@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10882",
+  "type": "visual_novel",
+  "name": "Aoi Tsukiyo no Onigokko",
+  "original_name": "蒼い月夜の鬼ごっこ",
+  "language": "en",
+  "source_language": "en",
+  "source": "There's a rumor that if you can stay in the haunted classroom until midnight, your wish will come true...",
+  "source_sha256": "77c3324fa195287c60dc144e8765e7174c40718ec37957b5a5ce898e3d4603c0",
+  "translation": "There's a rumor that if you can stay in the haunted classroom until midnight, your wish will come true...",
+  "vndb_url": "https://vndb.org/v10882"
+}

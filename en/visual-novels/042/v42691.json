@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42691",
+  "type": "visual_novel",
+  "name": "Horse Text Adventure",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Small little text-based game about a horse.",
+  "source_sha256": "8f6fbfc0684653287565e8092e2980e0f59e9aaf37ff8b2b5c371daf4ee50636",
+  "translation": "Small little text-based game about a horse.",
+  "vndb_url": "https://vndb.org/v42691"
+}

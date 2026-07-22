@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161924",
+  "type": "character",
+  "name": "Tina",
+  "original_name": "ティナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A black cat.\n\nHe looks exactly the same as he did 10 years ago, as if he hasn't aged at all.",
+  "source_sha256": "f5fd4e7209b7f36e6dd1b02668d059c49df5ca8054ce4cfd3e6a89b9159be6da",
+  "translation": "A black cat.\n\nHe looks exactly the same as he did 10 years ago, as if he hasn't aged at all.",
+  "vndb_url": "https://vndb.org/c161924"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64409",
+  "type": "character",
+  "name": "Tyrone",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Darius' brother.",
+  "source_sha256": "b5312eaeb7a7d6bd595de3c0e8b119425eca8da409469d54305f43ae2b618e9b",
+  "translation": "Darius' brother.",
+  "vndb_url": "https://vndb.org/c64409"
+}

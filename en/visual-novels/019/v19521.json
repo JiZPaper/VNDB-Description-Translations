@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19521",
+  "type": "visual_novel",
+  "name": "Tiesa's Tales",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Tiesa is a water sprite who journeys into the unknown world to save her child friend from death. She meets unlikely help along the way as she explores a new world.",
+  "source_sha256": "8546ffac22687f3a464d6645fa55d7c491686a13ff7e830fe177ea30d7edbd94",
+  "translation": "Tiesa is a water sprite who journeys into the unknown world to save her child friend from death. She meets unlikely help along the way as she explores a new world.",
+  "vndb_url": "https://vndb.org/v19521"
+}

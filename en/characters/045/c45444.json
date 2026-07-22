@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45444",
+  "type": "character",
+  "name": "Alexander",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your butler.",
+  "source_sha256": "df4342eb82988032251cfa9847625c91d3ef9ecd54c381f0dd50cbe08c0b4b35",
+  "translation": "Your butler.",
+  "vndb_url": "https://vndb.org/c45444"
+}

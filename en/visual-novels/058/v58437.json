@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58437",
+  "type": "visual_novel",
+  "name": "HORS-17",
+  "original_name": "ХОРС-17",
+  "language": "en",
+  "source_language": "en",
+  "source": "Made for RUVN Contest#1.",
+  "source_sha256": "7272db089c42857b10005623fcf23f016ab754ee6073fbbb90838eb63d89ea7c",
+  "translation": "Made for RUVN Contest#1.",
+  "vndb_url": "https://vndb.org/v58437"
+}

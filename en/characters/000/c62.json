@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62",
+  "type": "character",
+  "name": "John Preston",
+  "original_name": "ジョン・プレストン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cleric John Preston. His willpower, intellect, and martial skill are the standard that all Clerics strive to reach.\n\nHe holds the rank of Master in Gun Kata. His monthly case clearance rate has never been surpassed. Most admirable of all, however, is his rock-solid, unforgiving adherence to the ethics of of his profession.\n\n[Edited from the game's script]",
+  "source_sha256": "1d7104c088b6eb90f229842cb4f7e52a1a9ac2bc0619c0d21d78c7d95efdc469",
+  "translation": "Cleric John Preston. His willpower, intellect, and martial skill are the standard that all Clerics strive to reach.\n\nHe holds the rank of Master in Gun Kata. His monthly case clearance rate has never been surpassed. Most admirable of all, however, is his rock-solid, unforgiving adherence to the ethics of of his profession.\n\n[Edited from the game's script]",
+  "vndb_url": "https://vndb.org/c62"
+}

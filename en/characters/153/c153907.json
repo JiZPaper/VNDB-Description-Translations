@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153907",
+  "type": "character",
+  "name": "Makoto's Dad",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The father of Makoto.",
+  "source_sha256": "177f3b68312a3a1292fb41872c0b6bfe24fae9039e7731b893affac61226625c",
+  "translation": "The father of Makoto.",
+  "vndb_url": "https://vndb.org/c153907"
+}

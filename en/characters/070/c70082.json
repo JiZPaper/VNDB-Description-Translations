@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70082",
+  "type": "character",
+  "name": "Kirishima Misato",
+  "original_name": "桐嶋 美里",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hobby: Collecting glass bottles\nLikes: Fruit, Aromatic black tea\nDislikes: Fatty meat & fried food",
+  "source_sha256": "7f3c0ff104d1f7d7d92455c97453e6c1aa32cfdc4e51718c704b99885175eb0d",
+  "translation": "Hobby: Collecting glass bottles\nLikes: Fruit, Aromatic black tea\nDislikes: Fatty meat & fried food",
+  "vndb_url": "https://vndb.org/c70082"
+}

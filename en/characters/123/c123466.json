@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123466",
+  "type": "character",
+  "name": "Amaya",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Animal Type: Dog\nBreed: Samoyed\nHometown: Châteauguay, Quebec, Canada\n\n\"A transferee from a Quebec​-based institution, she presently attends a university in Toronto. Also works at a nearby café.\"",
+  "source_sha256": "82cbf5dc7674df2ce114fe4d7ccd19af1d14d3af2a026cde98179ab88f409887",
+  "translation": "Animal Type: Dog\nBreed: Samoyed\nHometown: Châteauguay, Quebec, Canada\n\n\"A transferee from a Quebec​-based institution, she presently attends a university in Toronto. Also works at a nearby café.\"",
+  "vndb_url": "https://vndb.org/c123466"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122697",
+  "type": "character",
+  "name": "Guard",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dog guarding the Diamond Dog Caverns.",
+  "source_sha256": "be7dd76ee9a1437fa7a6fbbc4572d09c08c6ccb2c335ba20e7f0688d708c320b",
+  "translation": "A dog guarding the Diamond Dog Caverns.",
+  "vndb_url": "https://vndb.org/c122697"
+}

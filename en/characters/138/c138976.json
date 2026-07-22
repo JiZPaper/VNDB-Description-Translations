@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c138976",
+  "type": "character",
+  "name": "Mikoshiba",
+  "original_name": "ミコシバ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Tough guy, who looks like yakuza.",
+  "source_sha256": "1938bc20346cd040c545980eed0f62c1d0640f5db29bb3e84151cacb94b7b772",
+  "translation": "Tough guy, who looks like yakuza.",
+  "vndb_url": "https://vndb.org/c138976"
+}

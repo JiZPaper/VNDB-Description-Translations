@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135011",
+  "type": "character",
+  "name": "Drusia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Servant of the Lomadieu familly.",
+  "source_sha256": "6c07f0055d9fdc37f00d483325b255876ee7762703ac8032d64cc2cb202534bd",
+  "translation": "Servant of the Lomadieu familly.",
+  "vndb_url": "https://vndb.org/c135011"
+}

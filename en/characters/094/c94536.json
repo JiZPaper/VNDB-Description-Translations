@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94536",
+  "type": "character",
+  "name": "Yuna",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of the student council.",
+  "source_sha256": "accc82475653ffbdb06e91ef3ddf43a4a2d705ab565140bb8bd4c0bfb2b85ac6",
+  "translation": "A member of the student council.",
+  "vndb_url": "https://vndb.org/c94536"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61928",
+  "type": "character",
+  "name": "Lorant",
+  "original_name": "ローラント",
+  "language": "en",
+  "source_language": "en",
+  "source": "Rowe's father. Leader of the Union.",
+  "source_sha256": "b90f63e2865b71a74369c0773382c5e0f84063395839c83d8416484ab13e6036",
+  "translation": "Rowe's father. Leader of the Union.",
+  "vndb_url": "https://vndb.org/c61928"
+}

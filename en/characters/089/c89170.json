@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89170",
+  "type": "character",
+  "name": "Droid",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The ship's assistant droid. Referred to with female pronouns but technically genderless.",
+  "source_sha256": "2aab44fcc072e1539e66d6ef08290c0e3a0028f145b973475c42ab126c01e6eb",
+  "translation": "The ship's assistant droid. Referred to with female pronouns but technically genderless.",
+  "vndb_url": "https://vndb.org/c89170"
+}

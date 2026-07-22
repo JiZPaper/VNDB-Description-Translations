@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41081",
+  "type": "visual_novel",
+  "name": "Snowman",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Snowman is a short visual novel created for the Winter Visual Novel Jam 2022. It features the story of a man stranded in the middle of nowhere during a blizzard. In his search of a shelter, he found a cottage. What could be waiting for him there?\n\n[From [url=https://neuroticfly.itch.io/snowman]Itch.io[/url]]",
+  "source_sha256": "79845181a818a3adfd747f192bbb5820a9098d5fb16f6b1afa11b13dd5130b7f",
+  "translation": "Snowman is a short visual novel created for the Winter Visual Novel Jam 2022. It features the story of a man stranded in the middle of nowhere during a blizzard. In his search of a shelter, he found a cottage. What could be waiting for him there?\n\n[From [url=https://neuroticfly.itch.io/snowman]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v41081"
+}

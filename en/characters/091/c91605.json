@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91605",
+  "type": "character",
+  "name": "Robin",
+  "original_name": "ロビン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mayu's cat. He was an ordinary cat until he fell into the Magical Realm with Mayu, where he became a magical creature able to speak the human tongue.",
+  "source_sha256": "1cdef0ed8629e751629aee7ce0db4bd774ffc4707d823b9932158ee48db13ed5",
+  "translation": "Mayu's cat. He was an ordinary cat until he fell into the Magical Realm with Mayu, where he became a magical creature able to speak the human tongue.",
+  "vndb_url": "https://vndb.org/c91605"
+}

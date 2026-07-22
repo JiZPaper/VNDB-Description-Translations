@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169956",
+  "type": "character",
+  "name": "Nurse",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A nurse who works in the same hospital as  [url=/c169791]Lena[/url].",
+  "source_sha256": "f913d91f3cea77f6e675aa7d6b63f384a21a66add3294de2206dfdd5c66a8a20",
+  "translation": "A nurse who works in the same hospital as  [url=/c169791]Lena[/url].",
+  "vndb_url": "https://vndb.org/c169956"
+}

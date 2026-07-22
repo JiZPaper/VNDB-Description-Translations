@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127459",
+  "type": "character",
+  "name": "Galatea Pygmalion",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Queen of Atlantis",
+  "source_sha256": "edec3a0f3278a7b4a5e6319895bb77baa3f8aef900b5199579f898e2ff3bc979",
+  "translation": "Queen of Atlantis",
+  "vndb_url": "https://vndb.org/c127459"
+}

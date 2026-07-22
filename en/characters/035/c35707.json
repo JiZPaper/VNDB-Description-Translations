@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35707",
+  "type": "character",
+  "name": "Aoi",
+  "original_name": "葵",
+  "language": "en",
+  "source_language": "en",
+  "source": "A book that was once a best seller around the world -- a fad book.\nA popular best seller that was even made into a movie, however that was all years ago.",
+  "source_sha256": "9d72f894ce1bf6f85e0c969e8f6eac493a0530de95c42b229d3979d86621cc15",
+  "translation": "A book that was once a best seller around the world -- a fad book.\nA popular best seller that was even made into a movie, however that was all years ago.",
+  "vndb_url": "https://vndb.org/c35707"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97245",
+  "type": "character",
+  "name": "Robert Thierry",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Captain of the pirate ship the \"Lady Luck\".",
+  "source_sha256": "43ac40c68d79edac81ad61a29ee28750a3a814ab243cd77cd163d6272672fd1f",
+  "translation": "The Captain of the pirate ship the \"Lady Luck\".",
+  "vndb_url": "https://vndb.org/c97245"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8688",
+  "type": "character",
+  "name": "Lullis",
+  "original_name": "ルーリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Standard anti-virus software (標準アンチウイルスソフト).",
+  "source_sha256": "ae8bc9bd6e32a97b289972778c8ba60647294da33e1b45bef61c667cf7195f2b",
+  "translation": "Standard anti-virus software (標準アンチウイルスソフト).",
+  "vndb_url": "https://vndb.org/c8688"
+}

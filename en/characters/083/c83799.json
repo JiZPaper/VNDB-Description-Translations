@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c83799",
+  "type": "character",
+  "name": "Shiba",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A lazy policeman who makes coffee for [url=/c83799]Nakamura[/url].",
+  "source_sha256": "c13a0a32d856ac2b18ea991a22224675cc36b6d852aad3cff1540df72c7097db",
+  "translation": "A lazy policeman who makes coffee for [url=/c83799]Nakamura[/url].",
+  "vndb_url": "https://vndb.org/c83799"
+}

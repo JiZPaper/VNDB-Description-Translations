@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c111309",
+  "type": "character",
+  "name": "Earl",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Father of [url=/c110709]Ronda[/url].",
+  "source_sha256": "fc8ab210c44e0d1c4e2b16f08e5452dc5d5cbdfc3ef271e0e2c75333aaa8014a",
+  "translation": "Father of [url=/c110709]Ronda[/url].",
+  "vndb_url": "https://vndb.org/c111309"
+}

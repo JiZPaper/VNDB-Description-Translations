@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25606",
+  "type": "character",
+  "name": "Jade",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Guitarist in Jed's band.",
+  "source_sha256": "f0411ee4f6569251eb1cad06fba2cd35cbb6b3f4dc219fdb60a1c29225a5a933",
+  "translation": "Guitarist in Jed's band.",
+  "vndb_url": "https://vndb.org/c25606"
+}

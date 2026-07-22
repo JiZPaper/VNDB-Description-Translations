@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100397",
+  "type": "character",
+  "name": "Terra",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An eccentric gamer who marches to her own drum.",
+  "source_sha256": "7c700f9839ea405e6aaa48f18e5f20a96b56dc5f5f91c877896021a90ca6b1dc",
+  "translation": "An eccentric gamer who marches to her own drum.",
+  "vndb_url": "https://vndb.org/c100397"
+}

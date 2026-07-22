@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113056",
+  "type": "character",
+  "name": "Debra",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Protagonist's mother.",
+  "source_sha256": "be18bfbe0775502f8962e3f0fa780be82aa2dc4aaaf7699999a6aed2fba03368",
+  "translation": "The Protagonist's mother.",
+  "vndb_url": "https://vndb.org/c113056"
+}

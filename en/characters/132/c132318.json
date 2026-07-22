@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132318",
+  "type": "character",
+  "name": "MV-11",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "MV-11 is the name of the armored suit. The name of its wearer is unknown.",
+  "source_sha256": "31c0df7da1282df7a9531e667c165f79bbc9934f90e56ba5aca432d65e3c6506",
+  "translation": "MV-11 is the name of the armored suit. The name of its wearer is unknown.",
+  "vndb_url": "https://vndb.org/c132318"
+}

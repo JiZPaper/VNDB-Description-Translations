@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110138",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A student in your his/her/their last week of high school.",
+  "source_sha256": "e309f21ad58f6f6d2af8dd3ada1085fb4bbe1624d6bdf431eda846ea542a60b0",
+  "translation": "A student in your his/her/their last week of high school.",
+  "vndb_url": "https://vndb.org/c110138"
+}

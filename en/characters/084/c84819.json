@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84819",
+  "type": "character",
+  "name": "Mike Carter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Civilian engineer employed to maintain Ophion Station.",
+  "source_sha256": "5e980034c01ff3e7d72903e95bf06aefc073a815ad61853fde7e6d5ed8019159",
+  "translation": "Civilian engineer employed to maintain Ophion Station.",
+  "vndb_url": "https://vndb.org/c84819"
+}

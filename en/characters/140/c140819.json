@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140819",
+  "type": "character",
+  "name": "Markus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "friend of protagonist",
+  "source_sha256": "f3b6334c0be0eb5c4553f1c17d6904cacb025d83824732f4c41c130a5559dd28",
+  "translation": "friend of protagonist",
+  "vndb_url": "https://vndb.org/c140819"
+}

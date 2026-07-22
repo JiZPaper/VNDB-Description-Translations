@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17574",
+  "type": "visual_novel",
+  "name": "Helga's Cheese Festival",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Hey Arnold! fan game.",
+  "source_sha256": "8d5033abcbf0f08006f2cdd399132f667a4a805c490849132c771e9fc3a845cf",
+  "translation": "Hey Arnold! fan game.",
+  "vndb_url": "https://vndb.org/v17574"
+}

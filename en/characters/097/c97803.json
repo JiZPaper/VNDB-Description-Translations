@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97803",
+  "type": "character",
+  "name": "Apros",
+  "original_name": "アプロス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The mysterious, but benevolent, mayor of Toushin City.",
+  "source_sha256": "f9075f7453c546942a8b265ca2746b0d10157619476abca863f2cd2a04462f3e",
+  "translation": "The mysterious, but benevolent, mayor of Toushin City.",
+  "vndb_url": "https://vndb.org/c97803"
+}

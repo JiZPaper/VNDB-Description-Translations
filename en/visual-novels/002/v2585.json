@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2585",
+  "type": "visual_novel",
+  "name": "120 En no Haru",
+  "original_name": "120円の春",
+  "language": "en",
+  "source_language": "en",
+  "source": "A collection of four short stories produced by Nekonekosoft. Each story describes how two people come to know each other through something meager amounting to 120 yen.",
+  "source_sha256": "7cdb13ce916e5550c46eb635f5cb8c927a7a4401039c49dd02a20ea769707bcb",
+  "translation": "A collection of four short stories produced by Nekonekosoft. Each story describes how two people come to know each other through something meager amounting to 120 yen.",
+  "vndb_url": "https://vndb.org/v2585"
+}

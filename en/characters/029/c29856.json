@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29856",
+  "type": "character",
+  "name": "Flora Alse Norium Neon",
+  "original_name": "フロウラ＝アルセ＝ノーリウム＝ネオン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hobbies: Chess\nLikes: Bathing\nDislikes: Wars, unnecessary violence",
+  "source_sha256": "271a99c7b84ef1fc67856e5420294ade7397cbf1f81ed93ceb168e73e530da5e",
+  "translation": "Hobbies: Chess\nLikes: Bathing\nDislikes: Wars, unnecessary violence",
+  "vndb_url": "https://vndb.org/c29856"
+}

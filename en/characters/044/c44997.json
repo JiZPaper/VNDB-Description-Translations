@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44997",
+  "type": "character",
+  "name": "Hanna",
+  "original_name": "ハンナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Leon's younger sister.",
+  "source_sha256": "b2164c1327e9d4445241999221ce7a0a1fa96bd7954acb2b4b1dec3cd49b359d",
+  "translation": "Leon's younger sister.",
+  "vndb_url": "https://vndb.org/c44997"
+}

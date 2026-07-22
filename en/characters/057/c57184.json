@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c57184",
+  "type": "character",
+  "name": "Valimer Prixen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A secretary in Xuna's castle.",
+  "source_sha256": "82b44feb14db736551a4fa3d221c84c839d296588cee831cfedbbcc1a1f3d3d6",
+  "translation": "A secretary in Xuna's castle.",
+  "vndb_url": "https://vndb.org/c57184"
+}

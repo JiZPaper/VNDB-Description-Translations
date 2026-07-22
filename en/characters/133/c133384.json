@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133384",
+  "type": "character",
+  "name": "Daniel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is the makeup artist for the studio where [url=/c133330]Faye[/url] and [url=/c133361]Nicole[/url] work.",
+  "source_sha256": "b48d017ac120e45eb2f23e8aa0f00640f17e414a957d47f3b67d35f96b5a1e15",
+  "translation": "He is the makeup artist for the studio where [url=/c133330]Faye[/url] and [url=/c133361]Nicole[/url] work.",
+  "vndb_url": "https://vndb.org/c133384"
+}

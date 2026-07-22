@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c144666",
+  "type": "character",
+  "name": "Mr. Machete",
+  "original_name": "長鉈男",
+  "language": "en",
+  "source_language": "en",
+  "source": "A large man with rotten skin and a large machete.",
+  "source_sha256": "ec30e253f25315ade42f774649b514f36c9977045e2e657df1562a8128540100",
+  "translation": "A large man with rotten skin and a large machete.",
+  "vndb_url": "https://vndb.org/c144666"
+}

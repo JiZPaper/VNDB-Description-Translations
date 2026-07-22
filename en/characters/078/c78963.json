@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c78963",
+  "type": "character",
+  "name": "Lea",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Helen's little sister.",
+  "source_sha256": "172fd55d5b2cc835c93d2049f0e545ab7bffc6ae8e660c345064f50ef787814d",
+  "translation": "Helen's little sister.",
+  "vndb_url": "https://vndb.org/c78963"
+}

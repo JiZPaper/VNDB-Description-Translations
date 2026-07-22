@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115475",
+  "type": "character",
+  "name": "Dog Head",
+  "original_name": "狗頭",
+  "language": "en",
+  "source_language": "en",
+  "source": "An officer of the Red Flower Society.\nHe is in trouble with Ken.",
+  "source_sha256": "f965b94d65698e6836bd5ee106dc139d8eb6a470fce3a4adb403eb03df5192c4",
+  "translation": "An officer of the Red Flower Society.\nHe is in trouble with Ken.",
+  "vndb_url": "https://vndb.org/c115475"
+}

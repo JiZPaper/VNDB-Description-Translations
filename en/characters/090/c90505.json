@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90505",
+  "type": "character",
+  "name": "Yue",
+  "original_name": "ユエ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Gekka version.",
+  "source_sha256": "cb68118aa71f2449ffa093f9f1f048a5876895219d16a1e5cd946ab0ef655f19",
+  "translation": "Gekka version.",
+  "vndb_url": "https://vndb.org/c90505"
+}

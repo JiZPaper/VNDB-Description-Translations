@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57529",
+  "type": "visual_novel",
+  "name": "Short Stories Collection",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A collection of commissioned mini-stories.",
+  "source_sha256": "5e5ee9e156aee77e7292693bd137b9ebb18eaabc0c963fe04a09e91373ce6683",
+  "translation": "A collection of commissioned mini-stories.",
+  "vndb_url": "https://vndb.org/v57529"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c67872",
+  "type": "character",
+  "name": "Karth Grapher",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A cartographer who also maps fictional worlds.",
+  "source_sha256": "69f55ff556244cad3ac0f69c44d7bf6c5ec0fec08e65996b5eba5f84b58c5481",
+  "translation": "A cartographer who also maps fictional worlds.",
+  "vndb_url": "https://vndb.org/c67872"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13193",
+  "type": "visual_novel",
+  "name": "Isekai ni Shoukan Saremashita ga Kotoba ga Rikai Dekimasen.",
+  "original_name": "異世界に召喚されましたが言葉が理解できません。",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist is transported to a different world and can't understand their language.",
+  "source_sha256": "b84d0d20ad7794abf8c654150194bd828ff13ca5f6025a6daeb26e604a85dd4a",
+  "translation": "The protagonist is transported to a different world and can't understand their language.",
+  "vndb_url": "https://vndb.org/v13193"
+}

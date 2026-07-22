@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c158121",
+  "type": "character",
+  "name": "Suzie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A moron who can't find her car keys.",
+  "source_sha256": "6102c3e660be7107b25b2293ead834aacd139579c1376cc44e5b75c2dff5f896",
+  "translation": "A moron who can't find her car keys.",
+  "vndb_url": "https://vndb.org/c158121"
+}

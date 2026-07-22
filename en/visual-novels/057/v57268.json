@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57268",
+  "type": "visual_novel",
+  "name": "Cave.exe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You find a weird cave. In this cave you will encounter strange creatures, absurd scenarios and unusual places. Your decisions determine the ending.\n\n[From [url=https://wild-jerboa.itch.io/cave-exe]Itch.io[/url]]",
+  "source_sha256": "d784ccb988d9d9e0b9eb8e0ca39612389b6237ea12742be36ea0d17f65cec9d3",
+  "translation": "You find a weird cave. In this cave you will encounter strange creatures, absurd scenarios and unusual places. Your decisions determine the ending.\n\n[From [url=https://wild-jerboa.itch.io/cave-exe]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v57268"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136245",
+  "type": "character",
+  "name": "Susan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The hero's mother. She is having health problems and is in a hospital.",
+  "source_sha256": "62e3691d5d7ec3dd8baa7977ea9ba6d24e5fca56874aae183808f7998ef1011d",
+  "translation": "The hero's mother. She is having health problems and is in a hospital.",
+  "vndb_url": "https://vndb.org/c136245"
+}

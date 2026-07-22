@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124367",
+  "type": "character",
+  "name": "Molly",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A terminally ill girl at the pediatrics ward.",
+  "source_sha256": "b933814abb21a0fada6e10525a61e11b7a485e224c85829fb6dba09f0f2fc03a",
+  "translation": "A terminally ill girl at the pediatrics ward.",
+  "vndb_url": "https://vndb.org/c124367"
+}

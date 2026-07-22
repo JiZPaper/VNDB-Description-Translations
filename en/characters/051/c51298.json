@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51298",
+  "type": "character",
+  "name": "Yami",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mobita's Boss.",
+  "source_sha256": "a49f8ff6ea4aaa4db2e88c974bdeb8e9599dfe39b273cc5602e3f0f66109b2a6",
+  "translation": "Mobita's Boss.",
+  "vndb_url": "https://vndb.org/c51298"
+}

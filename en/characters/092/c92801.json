@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92801",
+  "type": "character",
+  "name": "Londnight",
+  "original_name": "ロンドナイト",
+  "language": "en",
+  "source_language": "en",
+  "source": "Brother to Crystal.",
+  "source_sha256": "e1fdb4050de615fe6a50cff6c66fba5c8ef5e8c77d6e8874a1990e3e1cd8480b",
+  "translation": "Brother to Crystal.",
+  "vndb_url": "https://vndb.org/c92801"
+}

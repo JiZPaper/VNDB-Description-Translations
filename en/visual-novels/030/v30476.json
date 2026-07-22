@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30476",
+  "type": "visual_novel",
+  "name": "Kaidan Kaidan",
+  "original_name": "階段怪談",
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl listens to ghost stories while climbing stairs.",
+  "source_sha256": "d26d22d6b5dfe3c0b1d3c93e00a1d47b743f02320653a1f9b2fe3402df3ba8e7",
+  "translation": "A girl listens to ghost stories while climbing stairs.",
+  "vndb_url": "https://vndb.org/v30476"
+}

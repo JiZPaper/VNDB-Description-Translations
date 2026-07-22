@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132256",
+  "type": "character",
+  "name": "Nadia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Aerobics instructor",
+  "source_sha256": "79fd299958260046dfb75f3b67103bf9e837ebb66598e6949de55ef82427a6cb",
+  "translation": "Aerobics instructor",
+  "vndb_url": "https://vndb.org/c132256"
+}

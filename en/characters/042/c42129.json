@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42129",
+  "type": "character",
+  "name": "Hama Youko",
+  "original_name": "ハマ ヨーコ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A talkative cafeteria worker.\nShe's well versed in the history of the school and is happy to teach about various things.",
+  "source_sha256": "121a6c97c03c2436d08226493aab4af000f2cce291a056a686e3e8b309bfa4b1",
+  "translation": "A talkative cafeteria worker.\nShe's well versed in the history of the school and is happy to teach about various things.",
+  "vndb_url": "https://vndb.org/c42129"
+}

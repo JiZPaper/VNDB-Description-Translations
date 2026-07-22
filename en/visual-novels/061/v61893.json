@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61893",
+  "type": "visual_novel",
+  "name": "Feed me Now!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The human feeds you at scheduled times.\nBut You want to eat now. NOW!\n\n\n[From [url=https://novelgame.jp/games/show/12413]NovelGame[/url]]",
+  "source_sha256": "a277f81ca0ad620bc4ceb311ea0aa1c9a00017ada0cff71b2cd903b6a67cb6cc",
+  "translation": "The human feeds you at scheduled times.\nBut You want to eat now. NOW!\n\n\n[From [url=https://novelgame.jp/games/show/12413]NovelGame[/url]]",
+  "vndb_url": "https://vndb.org/v61893"
+}

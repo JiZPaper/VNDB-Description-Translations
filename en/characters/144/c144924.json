@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c144924",
+  "type": "character",
+  "name": "Culture",
+  "original_name": "キュルデュール",
+  "language": "en",
+  "source_language": "en",
+  "source": "Witch of Benevolence.",
+  "source_sha256": "2310f78ae791af22e72b298e455d5e17ca5d9fe30b9fad920f4efb03cb33d8aa",
+  "translation": "Witch of Benevolence.",
+  "vndb_url": "https://vndb.org/c144924"
+}

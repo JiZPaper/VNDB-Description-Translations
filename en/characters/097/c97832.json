@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97832",
+  "type": "character",
+  "name": "Misaki",
+  "original_name": "美咲希",
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist's blood-related daughter who's been living with her mother for the past few years.\n\nThe following options are customizable:\nName, age, school level (JS/JC), glasses, and whether she's had her period already or not.",
+  "source_sha256": "591016b11c97846c00c7580ffd98fed1814ad73ab148dcc1f129f628e81e4927",
+  "translation": "Protagonist's blood-related daughter who's been living with her mother for the past few years.\n\nThe following options are customizable:\nName, age, school level (JS/JC), glasses, and whether she's had her period already or not.",
+  "vndb_url": "https://vndb.org/c97832"
+}

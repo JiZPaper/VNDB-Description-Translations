@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84665",
+  "type": "character",
+  "name": "Ellie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ellie is a very sympathetic but shy and naive guy.",
+  "source_sha256": "6510751769a93eb6eb0d3251dae8d72867fa447c4fc13499b4a2f139560c313f",
+  "translation": "Ellie is a very sympathetic but shy and naive guy.",
+  "vndb_url": "https://vndb.org/c84665"
+}

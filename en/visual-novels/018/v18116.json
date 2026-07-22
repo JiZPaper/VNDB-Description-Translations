@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18116",
+  "type": "visual_novel",
+  "name": "Lull",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lull is a macro-narrative visual novel set in a town where sound has ceased to exist. Beginning as the town is settled in 1865, players' choices will affect the culture and politics of the town throughout the generations as they adapt to a silent world. \n\n[From [url=http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=45841]Ludum Dare[/url]]\n\nCreated for [url=http://ludumdare.com/compo/2014/12/03/welcome-to-ludum-dare-31/]Ludum Dare 31[/url] (Theme: Entire Game on One Screen)",
+  "source_sha256": "bbd2a804ce52b284db73ff7bb7f51c106c2d850fde3036e3e269c25acddb9b76",
+  "translation": "Lull is a macro-narrative visual novel set in a town where sound has ceased to exist. Beginning as the town is settled in 1865, players' choices will affect the culture and politics of the town throughout the generations as they adapt to a silent world. \n\n[From [url=http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=45841]Ludum Dare[/url]]\n\nCreated for [url=http://ludumdare.com/compo/2014/12/03/welcome-to-ludum-dare-31/]Ludum Dare 31[/url] (Theme: Entire Game on One Screen)",
+  "vndb_url": "https://vndb.org/v18116"
+}

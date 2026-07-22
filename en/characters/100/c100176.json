@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100176",
+  "type": "character",
+  "name": "Carmilla",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is a Guest character and has no part in the main story.",
+  "source_sha256": "64f3d321502e6c82f1ac7f5c0079faacb1b6fe1e08121904ea9f5f56b67394bc",
+  "translation": "She is a Guest character and has no part in the main story.",
+  "vndb_url": "https://vndb.org/c100176"
+}

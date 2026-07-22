@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148474",
+  "type": "character",
+  "name": "Anemone",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Anemone is the mother of Rufus and Marco.",
+  "source_sha256": "dc02366c6672b8fbc10de689efc22b208f9440069a7e24f47e55f7af798bf6bb",
+  "translation": "Anemone is the mother of Rufus and Marco.",
+  "vndb_url": "https://vndb.org/c148474"
+}

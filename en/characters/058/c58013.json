@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c58013",
+  "type": "character",
+  "name": "Prince",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bio:\n- Name: In-game Secret\nTemperament:\n- Despite having no money, he must act like a rich and important man to protect his honour\n- He is obsessed with the concept of respect and superiority",
+  "source_sha256": "78fa05f860f20bcb68ec7d733e943148def25be25db272b21d6ac8675cb71793",
+  "translation": "Bio:\n- Name: In-game Secret\nTemperament:\n- Despite having no money, he must act like a rich and important man to protect his honour\n- He is obsessed with the concept of respect and superiority",
+  "vndb_url": "https://vndb.org/c58013"
+}

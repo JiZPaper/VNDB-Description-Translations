@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81978",
+  "type": "character",
+  "name": "Firnes",
+  "original_name": "フィルネス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The ruler of Lengalt, who invaded Granda three years ago.",
+  "source_sha256": "0dae77d8a37c0cc56cf1c9ace6eb162c22d0dee79677f4a61caeb2b2c68d51ef",
+  "translation": "The ruler of Lengalt, who invaded Granda three years ago.",
+  "vndb_url": "https://vndb.org/c81978"
+}

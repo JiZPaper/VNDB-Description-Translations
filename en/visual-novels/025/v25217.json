@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25217",
+  "type": "visual_novel",
+  "name": "Monsters of the Sea 2",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nino continues his search for Emilia, which leads him to unexpected discoveries.",
+  "source_sha256": "eb89683d9852d2b6096cae96d4ab14fe41cffc90b42180198e9d3ec66ea91df3",
+  "translation": "Nino continues his search for Emilia, which leads him to unexpected discoveries.",
+  "vndb_url": "https://vndb.org/v25217"
+}

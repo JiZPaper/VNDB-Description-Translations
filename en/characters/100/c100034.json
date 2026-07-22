@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100034",
+  "type": "character",
+  "name": "Avery",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Robin's lawyer",
+  "source_sha256": "d83fc670ffdff05400014719b05479ee8e524aa527d59d981d7c19c9a95f8252",
+  "translation": "Robin's lawyer",
+  "vndb_url": "https://vndb.org/c100034"
+}

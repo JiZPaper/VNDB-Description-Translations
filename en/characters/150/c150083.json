@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150083",
+  "type": "character",
+  "name": "Astaroth",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Higher demon\n\n\"For my name is Astaroth!\"",
+  "source_sha256": "fd62b5c7dfbe8ee1c791afb525c7637b180219d2481cf1f74c42f941dadab6c7",
+  "translation": "Higher demon\n\n\"For my name is Astaroth!\"",
+  "vndb_url": "https://vndb.org/c150083"
+}

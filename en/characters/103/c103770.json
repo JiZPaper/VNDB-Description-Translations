@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103770",
+  "type": "character",
+  "name": "Christopher Marlowe",
+  "original_name": "クリストファー・マーロウ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Considered to be Tenbridge's best writer. That is, before William comes along.",
+  "source_sha256": "ca9b16f9d1644c0500b9da5254847b9161cee379db72bc465527ca8cc0d27c06",
+  "translation": "Considered to be Tenbridge's best writer. That is, before William comes along.",
+  "vndb_url": "https://vndb.org/c103770"
+}

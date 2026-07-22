@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135227",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "男主角",
+  "language": "en",
+  "source_language": "en",
+  "source": "Renamable protagonist of the game, default name is \"noob\". He is born with no base for cultivation.",
+  "source_sha256": "0b86bdb65271278d27a3aaf5ec6fd353ff4365ff0946cfb741600abf641cb12d",
+  "translation": "Renamable protagonist of the game, default name is \"noob\". He is born with no base for cultivation.",
+  "vndb_url": "https://vndb.org/c135227"
+}

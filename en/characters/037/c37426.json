@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37426",
+  "type": "character",
+  "name": "Kuriel",
+  "original_name": "クリエル",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the three holy gods.\nHe values order and decides who governs the land.",
+  "source_sha256": "65b22f765a29c3bc6b7e5764c18d3cd56c4862fd2369d7e123b4447f24a675d7",
+  "translation": "One of the three holy gods.\nHe values order and decides who governs the land.",
+  "vndb_url": "https://vndb.org/c37426"
+}

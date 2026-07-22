@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12267",
+  "type": "visual_novel",
+  "name": "Pascha3 Plus Contents",
+  "original_name": "パスチャ３　プラスコンテンツ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Short sidestory released as an apology for the data leak.",
+  "source_sha256": "7a82328ca5ca9f44700d382a32898f356a5280af075d5e91d41c3dc15eaafbd7",
+  "translation": "Short sidestory released as an apology for the data leak.",
+  "vndb_url": "https://vndb.org/v12267"
+}

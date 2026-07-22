@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90593",
+  "type": "character",
+  "name": "Brianne",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A student of Music and Music History, who is in a financial trouble.",
+  "source_sha256": "28f81b9ad18d4968211156de3ef390bce32b2131ac241fa6420d5bde8358ed16",
+  "translation": "A student of Music and Music History, who is in a financial trouble.",
+  "vndb_url": "https://vndb.org/c90593"
+}

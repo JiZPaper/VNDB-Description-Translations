@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c114563",
+  "type": "character",
+  "name": "Cherry blossom girl",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A quiet, elegant girl who sits under the cherry tree behind the school.",
+  "source_sha256": "b3102492a06e0bab32599016f43250eb691d6d0c8c84d61aa45e518f0272770a",
+  "translation": "A quiet, elegant girl who sits under the cherry tree behind the school.",
+  "vndb_url": "https://vndb.org/c114563"
+}

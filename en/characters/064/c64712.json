@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64712",
+  "type": "character",
+  "name": "Alice Brown",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A little girl Alice Lorange meet during her adventure. She's from the USA.",
+  "source_sha256": "1c96cf646d6168bb7543e4b1845ab981b9ca8164da8257bdae862d78a37e9b79",
+  "translation": "A little girl Alice Lorange meet during her adventure. She's from the USA.",
+  "vndb_url": "https://vndb.org/c64712"
+}

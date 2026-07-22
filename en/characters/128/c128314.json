@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c128314",
+  "type": "character",
+  "name": "Minako",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious witch living in the Lost Forest willing to trade Yuuta tokens in return for the shards he collects.",
+  "source_sha256": "0c9af579fcf1837dca72b8f1a181f00dc123a241f948272c5e575c8baafecc2c",
+  "translation": "A mysterious witch living in the Lost Forest willing to trade Yuuta tokens in return for the shards he collects.",
+  "vndb_url": "https://vndb.org/c128314"
+}

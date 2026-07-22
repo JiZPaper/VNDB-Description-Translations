@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52525",
+  "type": "visual_novel",
+  "name": "De facto",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "I went camping with my family for summer vacation.\nWhile rescuing a puppy swept away by the river, I met a girl named Isia.\nIn an attempt to find the puppy's master, we discovered a mysterious corpse there...\nWill we be able to uncover the culprit before the evidence disappears?",
+  "source_sha256": "bd0c3eae90bec8fbd87e9fb2173a893312d4c4f696d8c1be511392f2df5d82de",
+  "translation": "I went camping with my family for summer vacation.\nWhile rescuing a puppy swept away by the river, I met a girl named Isia.\nIn an attempt to find the puppy's master, we discovered a mysterious corpse there...\nWill we be able to uncover the culprit before the evidence disappears?",
+  "vndb_url": "https://vndb.org/v52525"
+}

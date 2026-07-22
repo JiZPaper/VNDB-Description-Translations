@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c24036",
+  "type": "character",
+  "name": "Lucretia Kustode",
+  "original_name": "ルクレチア・クストーデ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Knight",
+  "source_sha256": "1a4d42bd4c905077ed8d77774dba9caad0102f19efae8d9f5a7e41c861ee6d3b",
+  "translation": "Occupation: Knight",
+  "vndb_url": "https://vndb.org/c24036"
+}

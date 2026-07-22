@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c151040",
+  "type": "character",
+  "name": "Daigorou",
+  "original_name": "大五郎",
+  "language": "en",
+  "source_language": "en",
+  "source": "A stray [url=https://en.wikipedia.org/wiki/Miniature_Schnauzer]Zwergschnauzer[/url] puppy adopted by Kojirou.",
+  "source_sha256": "a1caa4bd5725f6ad0d5b48a97fe96ba2ff54f945bee3b292bc9b5d138108dc6a",
+  "translation": "A stray [url=https://en.wikipedia.org/wiki/Miniature_Schnauzer]Zwergschnauzer[/url] puppy adopted by Kojirou.",
+  "vndb_url": "https://vndb.org/c151040"
+}

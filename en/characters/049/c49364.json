@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c49364",
+  "type": "character",
+  "name": "Gwen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Name, age, and gender are customizable.",
+  "source_sha256": "0baf608bafeeca3893541905c5f1c768f8a43297708571f56923b94cfa06022d",
+  "translation": "Name, age, and gender are customizable.",
+  "vndb_url": "https://vndb.org/c49364"
+}

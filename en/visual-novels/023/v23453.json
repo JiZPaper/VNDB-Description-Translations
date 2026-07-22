@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23453",
+  "type": "visual_novel",
+  "name": "Saki Koi!",
+  "original_name": "咲恋!",
+  "language": "en",
+  "source_language": "en",
+  "source": "A doujin visual novel inspired by the game A3!",
+  "source_sha256": "b77739f1784aa4082a5fd12fde1430f31abfabc7cffdc7e9086b26de7540fe2d",
+  "translation": "A doujin visual novel inspired by the game A3!",
+  "vndb_url": "https://vndb.org/v23453"
+}

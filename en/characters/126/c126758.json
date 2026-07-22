@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126758",
+  "type": "character",
+  "name": "Ikazu",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The shop owner in town.",
+  "source_sha256": "cade54910bcdb1360b6ae48141ed9a7189c8cc5f623a95d142f741b051907d2c",
+  "translation": "The shop owner in town.",
+  "vndb_url": "https://vndb.org/c126758"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141411",
+  "type": "character",
+  "name": "Christie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "B&R student.\n\nA \"dorm girl\"",
+  "source_sha256": "a82ad978f91b47aa26cf307f61b885ad1206c6bc6229085b1c8372d2947cad7e",
+  "translation": "B&R student.\n\nA \"dorm girl\"",
+  "vndb_url": "https://vndb.org/c141411"
+}

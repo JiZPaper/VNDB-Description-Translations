@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19049",
+  "type": "visual_novel",
+  "name": "Kanojo no Densetsu, Boku no Sekiban",
+  "original_name": "彼女の伝説、僕の石版",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist travels to a fantasy world where he must retrive a legendary sword with the help of five girls.",
+  "source_sha256": "24f3d32f78e52fecfca31c7d3816c39b1c971a7bd7c3dce98bc238d1959c19d5",
+  "translation": "The protagonist travels to a fantasy world where he must retrive a legendary sword with the help of five girls.",
+  "vndb_url": "https://vndb.org/v19049"
+}

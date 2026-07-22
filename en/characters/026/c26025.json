@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c26025",
+  "type": "character",
+  "name": "Evea",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "dog like person",
+  "source_sha256": "692ed769f5352cb3fa749c3777463d50464acf4307f95cd58eb5904ab06dc4ec",
+  "translation": "dog like person",
+  "vndb_url": "https://vndb.org/c26025"
+}

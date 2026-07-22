@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91773",
+  "type": "character",
+  "name": "Sachi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is a cute and charming new employee working at Della Puena.",
+  "source_sha256": "cbbcf9dddb1665bb3cce3c9403d60c4fba65ab666fe830fdbd3451cec6df20aa",
+  "translation": "She is a cute and charming new employee working at Della Puena.",
+  "vndb_url": "https://vndb.org/c91773"
+}

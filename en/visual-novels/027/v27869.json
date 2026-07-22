@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27869",
+  "type": "visual_novel",
+  "name": "Written in the Stars",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You, a part-timer at the bakery, and a web singer named Mojo.\nSee how your path crosses that of his.\n\n[From official site]",
+  "source_sha256": "fa1cce28822f4eceac949b71c31513e6389ec000f6360c11689b633aae224b5c",
+  "translation": "You, a part-timer at the bakery, and a web singer named Mojo.\nSee how your path crosses that of his.\n\n[From official site]",
+  "vndb_url": "https://vndb.org/v27869"
+}

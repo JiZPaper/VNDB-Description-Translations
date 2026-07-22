@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17204",
+  "type": "character",
+  "name": "Siegfried",
+  "original_name": "ジークフリート",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on Siegfried, who is one of the heroes in the German Nibelungenlied, and Richard Wagner's operas Siegfried and Götterdämmerung.\n\nShe seems to be watching something in the dense fog region of Northern Europe.\n\n\"You'd better go back. There's a commotion in the forest.\"",
+  "source_sha256": "4e1dded02fc321bf4e6e83b2724f20a9077765ac83d646cfdaa857c6f4c91df2",
+  "translation": "Based on Siegfried, who is one of the heroes in the German Nibelungenlied, and Richard Wagner's operas Siegfried and Götterdämmerung.\n\nShe seems to be watching something in the dense fog region of Northern Europe.\n\n\"You'd better go back. There's a commotion in the forest.\"",
+  "vndb_url": "https://vndb.org/c17204"
+}

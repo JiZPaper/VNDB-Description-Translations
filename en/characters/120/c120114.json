@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120114",
+  "type": "character",
+  "name": "Mephisto",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious stranger.",
+  "source_sha256": "2836d00ebd99c14723db0d845d30c454521e60e0c76b02730bbe12c34d5b01c8",
+  "translation": "A mysterious stranger.",
+  "vndb_url": "https://vndb.org/c120114"
+}

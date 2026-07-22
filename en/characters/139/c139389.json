@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139389",
+  "type": "character",
+  "name": "Auntie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Elena's auntie.",
+  "source_sha256": "80ce2c06804ea0c21af1ceee85090160e4794438728dc61c7207d30e298a6fb6",
+  "translation": "Elena's auntie.",
+  "vndb_url": "https://vndb.org/c139389"
+}

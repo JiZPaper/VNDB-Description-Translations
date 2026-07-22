@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47667",
+  "type": "character",
+  "name": "Scorpio",
+  "original_name": "スコーピオン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of the desert bandits.",
+  "source_sha256": "68571d2da1259087502b73edd6c14950ba505fa6924fdf69525eadabb22b2b74",
+  "translation": "A member of the desert bandits.",
+  "vndb_url": "https://vndb.org/c47667"
+}

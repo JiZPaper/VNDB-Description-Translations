@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64809",
+  "type": "visual_novel",
+  "name": "11.19.54",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a visual novel about how a schoolgirl, a bride and an overseer met in the office of a meat-processing plant manager. They are searching for a suitcase in the hope that it will solve all their problems.",
+  "source_sha256": "16f1e4e77346d070be582a68fec36125aa2526bfc4a6396ead1c44cdb8eb923a",
+  "translation": "This is a visual novel about how a schoolgirl, a bride and an overseer met in the office of a meat-processing plant manager. They are searching for a suitcase in the hope that it will solve all their problems.",
+  "vndb_url": "https://vndb.org/v64809"
+}

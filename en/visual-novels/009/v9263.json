@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9263",
+  "type": "visual_novel",
+  "name": "Attorney D",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play the role of a prosecutor in this microgame created to try the style of Phoenix Wright. \n\n[From [url=http://games.renpy.org/game/attorneyd.shtml]Ren'Py Archive[/url]]",
+  "source_sha256": "553cf1f5fdba68f9fcc1960de685d98da996337a45fc415e3beeec8313f26bb6",
+  "translation": "You play the role of a prosecutor in this microgame created to try the style of Phoenix Wright. \n\n[From [url=http://games.renpy.org/game/attorneyd.shtml]Ren'Py Archive[/url]]",
+  "vndb_url": "https://vndb.org/v9263"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11794",
+  "type": "character",
+  "name": "Mysterious Man",
+  "original_name": "謎の人",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]This character plays the role of God or an angel (?). The protagonist wakes up (after her death) in a place which this person calls \"The land of the trial\" (it's probably the heavens, judging by its appearance). [/spoiler]",
+  "source_sha256": "985529c59b5ad1a67b729141c5859f46690514d6b3ae2e4bc7ae73da7392e3b3",
+  "translation": "[spoiler]This character plays the role of God or an angel (?). The protagonist wakes up (after her death) in a place which this person calls \"The land of the trial\" (it's probably the heavens, judging by its appearance). [/spoiler]",
+  "vndb_url": "https://vndb.org/c11794"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120646",
+  "type": "character",
+  "name": "Black Knight",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious black knight who has been perpetrating kidnappings around the country.",
+  "source_sha256": "4d8ba39a09780e1bcc9a04c82276bddc0cc35b5fe70fc1be2950ec7c35316024",
+  "translation": "A mysterious black knight who has been perpetrating kidnappings around the country.",
+  "vndb_url": "https://vndb.org/c120646"
+}

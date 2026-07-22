@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112883",
+  "type": "character",
+  "name": "Gedeon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A customer at the bar.",
+  "source_sha256": "286691344e701a8d563513473e285c3fbc57cbacb8527c8ca2e2a454fa6cf5b0",
+  "translation": "A customer at the bar.",
+  "vndb_url": "https://vndb.org/c112883"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115064",
+  "type": "character",
+  "name": "Chief Superintendent Lee",
+  "original_name": "李總警司",
+  "language": "en",
+  "source_language": "en",
+  "source": "He is a senior police officer belonging to the West Kowloon Police Station.\nHe is an old acquaintance of Yeung Kwun.",
+  "source_sha256": "c78ab7a71826582cb93f3e8afa480a1cecf1333444aeef1db57960f0aa33cb4f",
+  "translation": "He is a senior police officer belonging to the West Kowloon Police Station.\nHe is an old acquaintance of Yeung Kwun.",
+  "vndb_url": "https://vndb.org/c115064"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145831",
+  "type": "character",
+  "name": "Hairdresser",
+  "original_name": "美容師",
+  "language": "en",
+  "source_language": "en",
+  "source": "She's good at cutting hair.",
+  "source_sha256": "f02aa4eaffdf75547d4248783155483e129c4eebfd7e300039825dc5727fac60",
+  "translation": "She's good at cutting hair.",
+  "vndb_url": "https://vndb.org/c145831"
+}

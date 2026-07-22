@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84951",
+  "type": "character",
+  "name": "Future Alex",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Alex from the future.",
+  "source_sha256": "3610742dc83ef556575eb9767ffc8b5d7aebaa6bbdc261539b0bbeee067763a0",
+  "translation": "Alex from the future.",
+  "vndb_url": "https://vndb.org/c84951"
+}

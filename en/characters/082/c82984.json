@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82984",
+  "type": "character",
+  "name": "Candy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A stripper at the Flamingos club.",
+  "source_sha256": "771c57a0141402401e1b033276971b816d149864bec76a241ebc7fe58c69c9f3",
+  "translation": "A stripper at the Flamingos club.",
+  "vndb_url": "https://vndb.org/c82984"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49919",
+  "type": "visual_novel",
+  "name": "Onitsubaki 2 ~the end of the love~",
+  "original_name": "鬼椿2～the end of the love～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sequel to a web novel https://web.archive.org/web/20050224100757/http://homepage3.nifty.com/aya-moonriver/oni.htm",
+  "source_sha256": "318e87104a330fe017d913813edbfd9f771f4e40c9abed042566524d1af8c19f",
+  "translation": "Sequel to a web novel https://web.archive.org/web/20050224100757/http://homepage3.nifty.com/aya-moonriver/oni.htm",
+  "vndb_url": "https://vndb.org/v49919"
+}

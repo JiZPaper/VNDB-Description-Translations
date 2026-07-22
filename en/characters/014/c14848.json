@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c14848",
+  "type": "character",
+  "name": "Black Knight",
+  "original_name": "黒騎士",
+  "language": "en",
+  "source_language": "en",
+  "source": "Because he always wears a mask, nobody knows his identity,\nso everything about this knight is wrapped in mystery.\n\n[Translated from [url=http://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%AD%E3%82%AA%E3%83%89#.E3.83.95.E3.82.A1.E3.83.B3.E3.82.BF.E3.82.B8.E3.83.BC.E4.B8.96.E7.95.8C]the Japanese Wikipedia[/url].]",
+  "source_sha256": "e9b6f9d8f53b83b7b793996f8373d342436fbeedb8e5056c832d9a4b8630a641",
+  "translation": "Because he always wears a mask, nobody knows his identity,\nso everything about this knight is wrapped in mystery.\n\n[Translated from [url=http://ja.wikipedia.org/wiki/%E3%83%AB%E3%83%BC%E3%83%B3%E3%83%AD%E3%82%AA%E3%83%89#.E3.83.95.E3.82.A1.E3.83.B3.E3.82.BF.E3.82.B8.E3.83.BC.E4.B8.96.E7.95.8C]the Japanese Wikipedia[/url].]",
+  "vndb_url": "https://vndb.org/c14848"
+}

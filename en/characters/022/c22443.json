@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c22443",
+  "type": "character",
+  "name": "Amesara Mana",
+  "original_name": "雨皿 真奈",
+  "language": "en",
+  "source_language": "en",
+  "source": "Affiliation: Coffee shop waitress\nHobbies: Greeting guests\nSkills: Playing with her phone\nLikes: Red tea, snacks",
+  "source_sha256": "9f1fddb3cd9bdc1da6ad8bc9d37134b4aa340ea3aa1ff5b6587d7e0adc6e2010",
+  "translation": "Affiliation: Coffee shop waitress\nHobbies: Greeting guests\nSkills: Playing with her phone\nLikes: Red tea, snacks",
+  "vndb_url": "https://vndb.org/c22443"
+}

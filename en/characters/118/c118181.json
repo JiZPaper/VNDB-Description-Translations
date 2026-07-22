@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c118181",
+  "type": "character",
+  "name": "Emily Jacobs",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Emily is the head secretary at Harding Industries.",
+  "source_sha256": "46995cdf873989017e42057a2f102df3f7d247954f899aa24c9d0f46e968faa0",
+  "translation": "Emily is the head secretary at Harding Industries.",
+  "vndb_url": "https://vndb.org/c118181"
+}

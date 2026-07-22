@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75304",
+  "type": "character",
+  "name": "Sue",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mayor's secretary at the Town Hall. She is the one who arranges a job for Janna.",
+  "source_sha256": "a3095435befa7ee3f6fab1885c585f073cfa9359a6b353821ff6467b50669588",
+  "translation": "Mayor's secretary at the Town Hall. She is the one who arranges a job for Janna.",
+  "vndb_url": "https://vndb.org/c75304"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19283",
+  "type": "visual_novel",
+  "name": "Gyakuten Yoshiwara ~Ougiya Hen~",
+  "original_name": "逆転吉原～扇屋編～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Deep in the center of an island lies the Yoshiwara pleasure district. Never does its beauty, nor bustling activity, wane in the slightest.\nFull of doubt and wonder, which courtesan will you have chosen by the end of a seemingly endless night?",
+  "source_sha256": "f3bd6fd015e71d0afa90fb065e1197259bad3aea64fb352b3a78cba65ab8414c",
+  "translation": "Deep in the center of an island lies the Yoshiwara pleasure district. Never does its beauty, nor bustling activity, wane in the slightest.\nFull of doubt and wonder, which courtesan will you have chosen by the end of a seemingly endless night?",
+  "vndb_url": "https://vndb.org/v19283"
+}

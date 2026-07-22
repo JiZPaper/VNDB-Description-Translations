@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100761",
+  "type": "character",
+  "name": "Alice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Alice is a sophomore high school student and a member of the school's volleyball team. She has a special bond with Mark, her childhood friend, that might blossom into love.",
+  "source_sha256": "d31931870f60142bfb961fb2933e873f50395e50ffc28a991d19259b6395b77a",
+  "translation": "Alice is a sophomore high school student and a member of the school's volleyball team. She has a special bond with Mark, her childhood friend, that might blossom into love.",
+  "vndb_url": "https://vndb.org/c100761"
+}

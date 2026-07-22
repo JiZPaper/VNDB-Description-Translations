@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56111",
+  "type": "visual_novel",
+  "name": "Bagrovyj Novyj god",
+  "original_name": "Багровый Новый год",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short kinetic visual novel about two young people Chris and Wendy who decided to spend the day together on New Year's Eve.",
+  "source_sha256": "d92adc909f93dccbf08f94ecfc901aa657d5f66d3b89c3f7031f1dcf73576dbf",
+  "translation": "A short kinetic visual novel about two young people Chris and Wendy who decided to spend the day together on New Year's Eve.",
+  "vndb_url": "https://vndb.org/v56111"
+}

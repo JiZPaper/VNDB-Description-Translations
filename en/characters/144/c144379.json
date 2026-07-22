@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c144379",
+  "type": "character",
+  "name": "Receptionist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Works at the Trinacria restaurant.",
+  "source_sha256": "7c02135eea78ba3785193d185999dad62d075eac6537cf66a7a217936285f288",
+  "translation": "Works at the Trinacria restaurant.",
+  "vndb_url": "https://vndb.org/c144379"
+}

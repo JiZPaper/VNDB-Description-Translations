@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96035",
+  "type": "character",
+  "name": "Ukai",
+  "original_name": "烏飼",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Karasu-Tengu",
+  "source_sha256": "030b32c446285308f6c5aa9e2b3e98b9b8c402c55c953710e7afe52a4306c1f0",
+  "translation": "Race: Karasu-Tengu",
+  "vndb_url": "https://vndb.org/c96035"
+}

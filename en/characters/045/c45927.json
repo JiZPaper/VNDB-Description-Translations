@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45927",
+  "type": "character",
+  "name": "Janet",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A quiet, shy but dedicated member of the swim team.",
+  "source_sha256": "64c90b0b947561e3ffe99588b1effacf7c2244cf4e451a56881ef4713c0364ec",
+  "translation": "A quiet, shy but dedicated member of the swim team.",
+  "vndb_url": "https://vndb.org/c45927"
+}

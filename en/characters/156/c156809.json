@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156809",
+  "type": "character",
+  "name": "Llana",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious fae, proficient in magic and cooking.",
+  "source_sha256": "bc7c0c7375ac78a45d9109cfd9cbb036c4bbb0193aa5e1b21f4e8d8e8c95cc3f",
+  "translation": "A mysterious fae, proficient in magic and cooking.",
+  "vndb_url": "https://vndb.org/c156809"
+}

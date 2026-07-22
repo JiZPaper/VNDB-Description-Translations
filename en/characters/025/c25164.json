@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25164",
+  "type": "character",
+  "name": "Penny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mark's friend and roommate, a burgeoning app developer.",
+  "source_sha256": "b285bd35d33122f5e6e043fa56a617aa92d3969de6dae091fc14e8fe13506e7a",
+  "translation": "Mark's friend and roommate, a burgeoning app developer.",
+  "vndb_url": "https://vndb.org/c25164"
+}

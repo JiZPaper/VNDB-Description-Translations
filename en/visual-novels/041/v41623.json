@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41623",
+  "type": "visual_novel",
+  "name": "Operation: Matchmaker",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short game about a bored group of friends helping their two classmates find love with each other.\n\n[From [url=https://axiel-207.itch.io/operation-matchmaker]Itch.io[/url]]",
+  "source_sha256": "f33822a54c7061575e8d45a216e8746997754eac0e30b1d3733e920efb2a6b2a",
+  "translation": "A short game about a bored group of friends helping their two classmates find love with each other.\n\n[From [url=https://axiel-207.itch.io/operation-matchmaker]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v41623"
+}

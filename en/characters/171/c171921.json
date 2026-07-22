@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c171921",
+  "type": "character",
+  "name": "Principal",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "School's Principal",
+  "source_sha256": "f9a88bcec72b9b90e8ab9cff45cb77c477251d2ef105b36f962d327db9069b3f",
+  "translation": "School's Principal",
+  "vndb_url": "https://vndb.org/c171921"
+}

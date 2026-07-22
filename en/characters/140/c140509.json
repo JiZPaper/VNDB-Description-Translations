@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140509",
+  "type": "character",
+  "name": "Roberto",
+  "original_name": "ロベルト",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the seven food sprites from Italy who settled at Dogen Hut. The quiet one, he can tell you all about pizza dough.",
+  "source_sha256": "280ba7d1691179e33587eded63fe4d11013f45a71a2dffd58ab72ea19fb9a333",
+  "translation": "One of the seven food sprites from Italy who settled at Dogen Hut. The quiet one, he can tell you all about pizza dough.",
+  "vndb_url": "https://vndb.org/c140509"
+}

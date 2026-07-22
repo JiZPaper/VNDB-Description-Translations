@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c68346",
+  "type": "character",
+  "name": "Ryoko",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Aya's mother.",
+  "source_sha256": "6d5a2ac2bea7ba871badcc1712970db599f56a13020fd5f6e01c6d06881bc1cc",
+  "translation": "Aya's mother.",
+  "vndb_url": "https://vndb.org/c68346"
+}

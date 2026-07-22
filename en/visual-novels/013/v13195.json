@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13195",
+  "type": "visual_novel",
+  "name": "Stupid Script Novel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A really short and fairly-dumb visual novel. It's a port of [url=http://sourceforge.net/projects/pienovel/]P7's Stupid Script Novel 2.0[/url]. [From [url=http://games.renpy.org/game/ssn30.shtml]Ren'Py Games List[/url]]",
+  "source_sha256": "e80e08b46a4f31cfdc091d209abd991b199922b9f89a17fdc9ba097d467f71bd",
+  "translation": "A really short and fairly-dumb visual novel. It's a port of [url=http://sourceforge.net/projects/pienovel/]P7's Stupid Script Novel 2.0[/url]. [From [url=http://games.renpy.org/game/ssn30.shtml]Ren'Py Games List[/url]]",
+  "vndb_url": "https://vndb.org/v13195"
+}

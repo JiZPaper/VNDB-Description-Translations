@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134197",
+  "type": "character",
+  "name": "Tartarus",
+  "original_name": "タルタロス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A demon sealed within Rigel.",
+  "source_sha256": "5b7b6e9f13e8a02a29cc4ba10fbdee0825d5bcb5d3bdd1bf4244bc2f2e386659",
+  "translation": "A demon sealed within Rigel.",
+  "vndb_url": "https://vndb.org/c134197"
+}

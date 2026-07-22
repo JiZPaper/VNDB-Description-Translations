@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17726",
+  "type": "character",
+  "name": "Ken",
+  "original_name": "ケン",
+  "language": "en",
+  "source_language": "en",
+  "source": "In his mid-20s.",
+  "source_sha256": "20033d710aaaae27b855c41971a7e0e1c55e64d6dcec39890a76bd6f2684987c",
+  "translation": "In his mid-20s.",
+  "vndb_url": "https://vndb.org/c17726"
+}

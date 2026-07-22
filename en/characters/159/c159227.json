@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159227",
+  "type": "character",
+  "name": "Phoenix Wright",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Defense attorney and head of the Wright & Co. Law Offices.",
+  "source_sha256": "0929ea99bb6bbcc9e1f3fa0cd07c00b65739d7039f47ccc2dd983b63bdb0d9a8",
+  "translation": "Defense attorney and head of the Wright & Co. Law Offices.",
+  "vndb_url": "https://vndb.org/c159227"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10052",
+  "type": "visual_novel",
+  "name": "Another Beach Story",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sunny day bring four friends to the unihabited coast.\nThe beach is deserted and silent, there is only those who busy playing while stringing memories.\nBut what happened ? One of their friend drowned while engrossed in fishing.\nHer friends trying to help but something happened.",
+  "source_sha256": "84668d8be71bc07657a94dbdfff615f767465da761198ae824af18ba6ebb5cd8",
+  "translation": "Sunny day bring four friends to the unihabited coast.\nThe beach is deserted and silent, there is only those who busy playing while stringing memories.\nBut what happened ? One of their friend drowned while engrossed in fishing.\nHer friends trying to help but something happened.",
+  "vndb_url": "https://vndb.org/v10052"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143506",
+  "type": "character",
+  "name": "John",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A customer at the nightclub where Ivy and Jeremy work.",
+  "source_sha256": "f1ae30ad16747e0bf29e22420b258e958f2f3ec6dfd641cb9bdc46125f0b442f",
+  "translation": "A customer at the nightclub where Ivy and Jeremy work.",
+  "vndb_url": "https://vndb.org/c143506"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43527",
+  "type": "visual_novel",
+  "name": "Catting Sim",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Like a dating sim except you're a cat and you don't date anyone.",
+  "source_sha256": "93f613f2f51d5904ca0252265539dfa5b2e63cdacfa906f281deaea938f4fcf9",
+  "translation": "Like a dating sim except you're a cat and you don't date anyone.",
+  "vndb_url": "https://vndb.org/v43527"
+}

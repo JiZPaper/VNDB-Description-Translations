@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84817",
+  "type": "character",
+  "name": "Marcus Jones",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Neurologist on Ophion.",
+  "source_sha256": "080c8872887a648896ff69a4229b893d17a9f9a023b0264ebad8eb137bb837d0",
+  "translation": "Neurologist on Ophion.",
+  "vndb_url": "https://vndb.org/c84817"
+}

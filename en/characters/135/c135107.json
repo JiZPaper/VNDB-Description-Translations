@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135107",
+  "type": "character",
+  "name": "Gilles de Rais (Bluebeard)",
+  "original_name": "ジル・ド・レ（青髭）",
+  "language": "en",
+  "source_language": "en",
+  "source": "A main character in the 1st main quest's episode 14 \"Bluebeard Story Zone\".",
+  "source_sha256": "a04d6b435d6fdf9797d5a0ca9c9026d34aaa0bbac3273e9c5f7620e95026aec8",
+  "translation": "A main character in the 1st main quest's episode 14 \"Bluebeard Story Zone\".",
+  "vndb_url": "https://vndb.org/c135107"
+}

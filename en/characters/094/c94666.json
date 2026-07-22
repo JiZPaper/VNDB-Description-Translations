@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94666",
+  "type": "character",
+  "name": "Ikuina Takashi",
+  "original_name": "生稲 隆志",
+  "language": "en",
+  "source_language": "en",
+  "source": "[i]\"Good morning! Flower delivery!\"[/i]\n\nA man who works at a flower shop.\n\n[From the digital manual included with r59230]\n\n[spoiler]He goes by the pseudonym \"Fraise\" on \"The fourth face\".[/spoiler]",
+  "source_sha256": "c0e0271560fd49c3a10afb6d51d1a3f8e20aee914ed9bbcdfbaa552878efac44",
+  "translation": "[i]\"Good morning! Flower delivery!\"[/i]\n\nA man who works at a flower shop.\n\n[From the digital manual included with r59230]\n\n[spoiler]He goes by the pseudonym \"Fraise\" on \"The fourth face\".[/spoiler]",
+  "vndb_url": "https://vndb.org/c94666"
+}

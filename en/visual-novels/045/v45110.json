@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45110",
+  "type": "visual_novel",
+  "name": "Psychic Eclipse code:green",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A sequel to the first Psychic Eclipse game.",
+  "source_sha256": "09be0fba999c3260a1250c3214125e386f518b64ca210feac10b518ed6e23e4c",
+  "translation": "A sequel to the first Psychic Eclipse game.",
+  "vndb_url": "https://vndb.org/v45110"
+}

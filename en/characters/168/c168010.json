@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168010",
+  "type": "character",
+  "name": "Baba Ban",
+  "original_name": "馬場 蛮",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"The Man\"",
+  "source_sha256": "1baf2b17f7d9f57bb3770037edd3a4079191b82e08d0b0b11f08bb75fe3fbae0",
+  "translation": "\"The Man\"",
+  "vndb_url": "https://vndb.org/c168010"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100802",
+  "type": "character",
+  "name": "Belladonna Wentworth",
+  "original_name": "ベラドンナ ウェントワース",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mother of Rouge and owner of the most popular restaurant in Eleutheria.",
+  "source_sha256": "88fc4f1b5f562e2132289d918fd8fa7fa6e9d6b59cea5e10005d987fa9fa4bd9",
+  "translation": "Mother of Rouge and owner of the most popular restaurant in Eleutheria.",
+  "vndb_url": "https://vndb.org/c100802"
+}

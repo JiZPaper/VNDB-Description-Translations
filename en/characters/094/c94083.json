@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94083",
+  "type": "character",
+  "name": "Mr. Sol",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of Café Estrella.",
+  "source_sha256": "df392faf8e77899afb70a7df96aec23ae15c21026c4c4b8f922194665f54361f",
+  "translation": "The owner of Café Estrella.",
+  "vndb_url": "https://vndb.org/c94083"
+}

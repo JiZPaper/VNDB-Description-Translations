@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37425",
+  "type": "character",
+  "name": "Machura",
+  "original_name": "マチュラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A \"broken gem\" that lurks in the darkness of the forest.\nHe doesn't remember anything besides his name.",
+  "source_sha256": "fb4b88bb2c44536c6d072baba2babd6a33a48f0444e2375b5cf2aaa77cfa5e62",
+  "translation": "A \"broken gem\" that lurks in the darkness of the forest.\nHe doesn't remember anything besides his name.",
+  "vndb_url": "https://vndb.org/c37425"
+}

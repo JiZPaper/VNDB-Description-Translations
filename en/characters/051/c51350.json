@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51350",
+  "type": "character",
+  "name": "Carrault",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Blood Type: AB+\nBirthplace: Nahor",
+  "source_sha256": "9c1a64659ae0770bcacdb2e819d263113e56d98d36a37505ad2a3711b6cfec4b",
+  "translation": "Blood Type: AB+\nBirthplace: Nahor",
+  "vndb_url": "https://vndb.org/c51350"
+}

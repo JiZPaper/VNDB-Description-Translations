@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62497",
+  "type": "character",
+  "name": "Jack Kennedy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of the game.",
+  "source_sha256": "5e0623c5fdfd215c1b6e552b503799eefc50e26af479ab8196238de30ed6bebe",
+  "translation": "The protagonist of the game.",
+  "vndb_url": "https://vndb.org/c62497"
+}

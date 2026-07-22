@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c138186",
+  "type": "character",
+  "name": "Artemis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Android robot built by Kindra's parents.\n\nrecently activated and still learning how to behave like a human.\n\ntemporarly unable to speak due to voice module damage.",
+  "source_sha256": "eb4446393f641cf94205d80e705ccc14bea2755eaa59f144f8cd9bc2dfdb7791",
+  "translation": "Android robot built by Kindra's parents.\n\nrecently activated and still learning how to behave like a human.\n\ntemporarly unable to speak due to voice module damage.",
+  "vndb_url": "https://vndb.org/c138186"
+}

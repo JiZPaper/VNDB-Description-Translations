@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c158291",
+  "type": "character",
+  "name": "Alice Brown",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is the daughter of Jack Brown.",
+  "source_sha256": "aaca7165e72f7bcffd8ec189557c007feae7f3f6db6e68bd85731db7af94b7e4",
+  "translation": "She is the daughter of Jack Brown.",
+  "vndb_url": "https://vndb.org/c158291"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101002",
+  "type": "character",
+  "name": "Malcolm Shingle",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A self-proclaimed has-been artist who spends his days doing whatever keeps him from getting bored in his middle age.",
+  "source_sha256": "55b8db6a7b09ca71ec58337ae99ff83a9f01331e7874fb08547ff36805d9770e",
+  "translation": "A self-proclaimed has-been artist who spends his days doing whatever keeps him from getting bored in his middle age.",
+  "vndb_url": "https://vndb.org/c101002"
+}

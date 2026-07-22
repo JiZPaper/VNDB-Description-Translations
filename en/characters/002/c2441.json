@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c2441",
+  "type": "character",
+  "name": "Karasuba Tsuki",
+  "original_name": "鴉葉 月",
+  "language": "en",
+  "source_language": "en",
+  "source": "Commitee staff of City Council.\nWill be your supervisor after talking to him.",
+  "source_sha256": "d541e887ac2d8eeae6a7c92869962768aa329218dee302d2ef4a46d5baec16f9",
+  "translation": "Commitee staff of City Council.\nWill be your supervisor after talking to him.",
+  "vndb_url": "https://vndb.org/c2441"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4327",
+  "type": "character",
+  "name": "Flare",
+  "original_name": "フレア",
+  "language": "en",
+  "source_language": "en",
+  "source": "The oracle of flame.",
+  "source_sha256": "e4ec6155bca706b8ddce22b2297de517d883b35df6e5b15bb069e0d5792913ba",
+  "translation": "The oracle of flame.",
+  "vndb_url": "https://vndb.org/c4327"
+}

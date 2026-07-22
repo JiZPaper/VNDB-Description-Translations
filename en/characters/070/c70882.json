@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70882",
+  "type": "character",
+  "name": "Alexander",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The mayor of the town Daniel's family moved to.",
+  "source_sha256": "859079d2b33cf90654a71db73633155482cdf0eb2d1b1af05a303e57d3787954",
+  "translation": "The mayor of the town Daniel's family moved to.",
+  "vndb_url": "https://vndb.org/c70882"
+}

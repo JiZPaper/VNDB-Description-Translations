@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141475",
+  "type": "character",
+  "name": "Darius",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A freshman student at B&R.\n\nMember of the Tri-Alpha Fraternity.",
+  "source_sha256": "faebe320453e38b243c84f54880c8f2d108542e79b8f358623b57b6c7f9d128e",
+  "translation": "A freshman student at B&R.\n\nMember of the Tri-Alpha Fraternity.",
+  "vndb_url": "https://vndb.org/c141475"
+}

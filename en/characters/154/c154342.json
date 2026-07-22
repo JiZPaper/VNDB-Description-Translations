@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154342",
+  "type": "character",
+  "name": "Young Man",
+  "original_name": "青年",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious young man who confronts Kuraugi, who was investigating the \"Cheat Plants\".\nHe distributes hardware called \"Cheat Plants\" that can disable ADONIS' security, but his purpose is unknown.",
+  "source_sha256": "cd571ca960a792eb42d6d863d61248618b5d752724c45fd51eb59f70832117cf",
+  "translation": "A mysterious young man who confronts Kuraugi, who was investigating the \"Cheat Plants\".\nHe distributes hardware called \"Cheat Plants\" that can disable ADONIS' security, but his purpose is unknown.",
+  "vndb_url": "https://vndb.org/c154342"
+}

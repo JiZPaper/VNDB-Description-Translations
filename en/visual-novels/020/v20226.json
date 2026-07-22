@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20226",
+  "type": "visual_novel",
+  "name": "Kenka Banchou Otome ~Kanzen Muketsu no My Honey~",
+  "original_name": "喧嘩番長 乙女 ～完全無欠のマイハニー～",
+  "language": "en",
+  "source_language": "en",
+  "source": "After stories with the 5 guys and a bonus training story that takes place in the time frame of the last game.",
+  "source_sha256": "773a9fcf07151098b1928bdfb77aab7d82fa86893af32968476d55d317206187",
+  "translation": "After stories with the 5 guys and a bonus training story that takes place in the time frame of the last game.",
+  "vndb_url": "https://vndb.org/v20226"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33040",
+  "type": "character",
+  "name": "Anna Kosutina",
+  "original_name": "アンナ・コースチナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Maid serving Elenova.",
+  "source_sha256": "67e98ee0ad683b5abab95c26a8afb86a80c0eb39dc82895293421fa501cf49d5",
+  "translation": "Maid serving Elenova.",
+  "vndb_url": "https://vndb.org/c33040"
+}

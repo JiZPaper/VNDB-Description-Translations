@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70623",
+  "type": "character",
+  "name": "Kamiya Ibuki",
+  "original_name": "神谷 一颯",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Human",
+  "source_sha256": "c11f8d17527ac8c17d56f72186634e790689ab9dfc28ceab88b67263083b77fa",
+  "translation": "Race: Human",
+  "vndb_url": "https://vndb.org/c70623"
+}

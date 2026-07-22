@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100438",
+  "type": "character",
+  "name": "Darren",
+  "original_name": "Даррен",
+  "language": "en",
+  "source_language": "en",
+  "source": "*Occupation: constantly changing\n\n*Hobbies:\n- Bike rides (useful and economical!)\n- Video games\n- Writing\n\n\"Someday I will quit this madhouse and find a nicer job, but it will be a completely different story...\"",
+  "source_sha256": "75ab47baec8ca943bda1fcd5dbdcbdae113da596626711977aeaa29e4cdcffd1",
+  "translation": "*Occupation: constantly changing\n\n*Hobbies:\n- Bike rides (useful and economical!)\n- Video games\n- Writing\n\n\"Someday I will quit this madhouse and find a nicer job, but it will be a completely different story...\"",
+  "vndb_url": "https://vndb.org/c100438"
+}

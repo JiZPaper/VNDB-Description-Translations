@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35850",
+  "type": "visual_novel",
+  "name": "Getsumento Heiki Mina -Futatsu no Project M-",
+  "original_name": "月面兎兵器ミーナ -ふたつのPROJECT M-",
+  "language": "en",
+  "source_language": "en",
+  "source": "A PS2 game based on the anime, itself an animated spin-off from the Densha Otoko (Trainman) TV drama.",
+  "source_sha256": "4460af9bfa2c086c214f9ea6a29b7f1f04c0c0d44f8777ff4ecff6377eb179e0",
+  "translation": "A PS2 game based on the anime, itself an animated spin-off from the Densha Otoko (Trainman) TV drama.",
+  "vndb_url": "https://vndb.org/v35850"
+}

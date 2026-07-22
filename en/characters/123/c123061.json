@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123061",
+  "type": "character",
+  "name": "Sandra",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nova's mother.",
+  "source_sha256": "5894b164a340d682a6fd7c0221dbcb4b5e869f698c599a7e8f63629c1e4a5b95",
+  "translation": "Nova's mother.",
+  "vndb_url": "https://vndb.org/c123061"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115922",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist who records their adventures in notebooks. They have a very weak memory, resulting in them often blacking out and not remembering anything. \n\nThey describe themself as acting as their Friend's \"legs\". While their friend waits for their return at home, they explore the world and show their Friend their notebook once they return.",
+  "source_sha256": "5e6aeb6075e40c86d183f4c07a8f3a30787d953e431906aacc9fbae542b9d000",
+  "translation": "The protagonist who records their adventures in notebooks. They have a very weak memory, resulting in them often blacking out and not remembering anything. \n\nThey describe themself as acting as their Friend's \"legs\". While their friend waits for their return at home, they explore the world and show their Friend their notebook once they return.",
+  "vndb_url": "https://vndb.org/c115922"
+}

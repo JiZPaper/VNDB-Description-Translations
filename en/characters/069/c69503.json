@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c69503",
+  "type": "character",
+  "name": "Mama Nancy",
+  "original_name": "ナンシー ママ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Boisterous proprietor of Bar la mer - a great place to go and forget your troubles for a moment.",
+  "source_sha256": "f9c8021fde62c2e643c7014319b3e3b2089ba91a2d915e1f111c3b4554b49599",
+  "translation": "Boisterous proprietor of Bar la mer - a great place to go and forget your troubles for a moment.",
+  "vndb_url": "https://vndb.org/c69503"
+}

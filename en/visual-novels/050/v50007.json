@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50007",
+  "type": "visual_novel",
+  "name": "Reunion: Autumn Leaf",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are a 32-year-old writer who has just published your first bestseller, but you are not satisfied with your life. Recently divorced and carrying traumas from your teenage, you must return to your hometown to face your past and maybe get a better life.",
+  "source_sha256": "137b2fad3ca5fca98ac6f88b950d02012590041f0c825c24d9382cd255ee6eed",
+  "translation": "You are a 32-year-old writer who has just published your first bestseller, but you are not satisfied with your life. Recently divorced and carrying traumas from your teenage, you must return to your hometown to face your past and maybe get a better life.",
+  "vndb_url": "https://vndb.org/v50007"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170863",
+  "type": "character",
+  "name": "Isidor",
+  "original_name": "Исидор",
+  "language": "en",
+  "source_language": "en",
+  "source": "A janitor in the town.\n\nHe often speaks to [url=https://vndb.org/c170860]Albert[/url], being his important source of information.",
+  "source_sha256": "6e659cf084106fbabaaa322570b6ec578f76132194a7b23054a1f8117691eb4e",
+  "translation": "A janitor in the town.\n\nHe often speaks to [url=https://vndb.org/c170860]Albert[/url], being his important source of information.",
+  "vndb_url": "https://vndb.org/c170863"
+}

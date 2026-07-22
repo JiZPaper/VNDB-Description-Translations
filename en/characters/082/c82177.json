@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82177",
+  "type": "character",
+  "name": "Charles Denton",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A clone of the President of the United States.",
+  "source_sha256": "4ef85d40bd4fd9315a163bea4ecfc92899adb8674af1c659f5d5461edd353d7f",
+  "translation": "A clone of the President of the United States.",
+  "vndb_url": "https://vndb.org/c82177"
+}

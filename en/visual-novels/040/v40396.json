@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40396",
+  "type": "visual_novel",
+  "name": "Sunny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A game made during Gamerella 2022.",
+  "source_sha256": "b1a48ae1cc0ac559867b95078dc3741899cec2e5c9c3b10f465cf04a4fb71795",
+  "translation": "A game made during Gamerella 2022.",
+  "vndb_url": "https://vndb.org/v40396"
+}

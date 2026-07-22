@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22415",
+  "type": "visual_novel",
+  "name": "Freetime Event: Poolside Edition",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Super Danganronpa 2 fangame about a freetime event with Komaeda Nagito.",
+  "source_sha256": "4ff5f0d5888d147142f2899e02949cc2866ee2e0335180ac7047a5b26330cd03",
+  "translation": "A Super Danganronpa 2 fangame about a freetime event with Komaeda Nagito.",
+  "vndb_url": "https://vndb.org/v22415"
+}

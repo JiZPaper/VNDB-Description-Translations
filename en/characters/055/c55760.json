@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55760",
+  "type": "character",
+  "name": "Sakuma Yuuichi",
+  "original_name": "佐久間 裕一",
+  "language": "en",
+  "source_language": "en",
+  "source": "A detective for the JES. He is assigned to Amamiya Gakuen to search for the previous JES detective who mysteriously went missing.",
+  "source_sha256": "dd895934bd25a0b193c91f4d9a62d96f2fab681ca5fddd44750cbfad398efd85",
+  "translation": "A detective for the JES. He is assigned to Amamiya Gakuen to search for the previous JES detective who mysteriously went missing.",
+  "vndb_url": "https://vndb.org/c55760"
+}

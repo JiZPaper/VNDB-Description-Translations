@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23915",
+  "type": "visual_novel",
+  "name": "Juuichi Mikazuki",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel for Juuichi Mikazuki.\n\n[From [url=https://freddy-fazdog.itch.io/juuichi-mikazuki]Itch.io[/url]]",
+  "source_sha256": "97a01761437b9a23967b175a4358ad9435d34dab5c8a88ce4dedbc05762ebb5e",
+  "translation": "A visual novel for Juuichi Mikazuki.\n\n[From [url=https://freddy-fazdog.itch.io/juuichi-mikazuki]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v23915"
+}

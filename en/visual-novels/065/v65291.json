@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65291",
+  "type": "visual_novel",
+  "name": "Xin Nian Wu Le",
+  "original_name": "新年无乐",
+  "language": "en",
+  "source_language": "en",
+  "source": "The story of a insomniac novelist searching for inspiration.",
+  "source_sha256": "63f16e42b8277a9210049486e82d434759df63b2c7b405d55258139e19ef724b",
+  "translation": "The story of a insomniac novelist searching for inspiration.",
+  "vndb_url": "https://vndb.org/v65291"
+}

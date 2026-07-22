@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140178",
+  "type": "character",
+  "name": "Alexis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A student at the college. Initially a roommate with Judy and Imani.",
+  "source_sha256": "2f741f33287441538bc4f5b25630b44985b875bea96b5efe3014038a01102b13",
+  "translation": "A student at the college. Initially a roommate with Judy and Imani.",
+  "vndb_url": "https://vndb.org/c140178"
+}

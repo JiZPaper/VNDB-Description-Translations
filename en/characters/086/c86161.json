@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86161",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of the game. She starts as a first-year transferred student into Habataki Academy.",
+  "source_sha256": "a38126957ddedd0efbea0d3df9c78227eb20cc5810d67c2c2d9cb9c890f6bbd7",
+  "translation": "The protagonist of the game. She starts as a first-year transferred student into Habataki Academy.",
+  "vndb_url": "https://vndb.org/c86161"
+}

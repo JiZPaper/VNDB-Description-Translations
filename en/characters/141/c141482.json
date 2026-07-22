@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141482",
+  "type": "character",
+  "name": "Gordon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of the Alpha Nu Omega Fraternity.",
+  "source_sha256": "573fb66a888353255f94703a5980b907bc685d10030da8b567fc816d4922bb4f",
+  "translation": "A member of the Alpha Nu Omega Fraternity.",
+  "vndb_url": "https://vndb.org/c141482"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99690",
+  "type": "character",
+  "name": "You",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You went to Unicorn Shake, a family restaurant full of rainbows and pink stuff. While thinking on what to order you meet with the cashier. From coffee to milkshakes, what will be your order?",
+  "source_sha256": "db1c2f23ac3cf0f00e9630bcf0e80d16203ea6f46143dd89f4f05d87aceba74c",
+  "translation": "You went to Unicorn Shake, a family restaurant full of rainbows and pink stuff. While thinking on what to order you meet with the cashier. From coffee to milkshakes, what will be your order?",
+  "vndb_url": "https://vndb.org/c99690"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c164090",
+  "type": "character",
+  "name": "Mii",
+  "original_name": "ミイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Weight: 96~120Kg.",
+  "source_sha256": "1bc154ae79580f5bffc30e1412e829e5f010b9530ab1c53d715d9b6896734635",
+  "translation": "Weight: 96~120Kg.",
+  "vndb_url": "https://vndb.org/c164090"
+}

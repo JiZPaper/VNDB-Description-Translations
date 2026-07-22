@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137834",
+  "type": "character",
+  "name": "Mysterious Lady",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is a mysterious woman who appears in the protagonist's dreams when he is a kid.",
+  "source_sha256": "ef9ce4dd003fdb191b2784156a1b56ce6dfc667a2e7cd2498029c30ced178e41",
+  "translation": "She is a mysterious woman who appears in the protagonist's dreams when he is a kid.",
+  "vndb_url": "https://vndb.org/c137834"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64429",
+  "type": "visual_novel",
+  "name": "The Prey Who Prayed",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "There is a sky, a room, a forest, a cafe, and an empty space.\nEverywhere you go, he returns to you.\nHe cares not for your form, your voice, or your story.",
+  "source_sha256": "ed4190d99d51f28f93a3790f18c04ae4f47d08f3bf601b636497b3e49f696f67",
+  "translation": "There is a sky, a room, a forest, a cafe, and an empty space.\nEverywhere you go, he returns to you.\nHe cares not for your form, your voice, or your story.",
+  "vndb_url": "https://vndb.org/v64429"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47823",
+  "type": "visual_novel",
+  "name": "Deathable",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as a high school boy whose normal life is about to get end.",
+  "source_sha256": "eca2cf1ab6b37e24d8665c6ee50df4355053c9f7aa5e6b4efc05cbd8b5340872",
+  "translation": "You play as a high school boy whose normal life is about to get end.",
+  "vndb_url": "https://vndb.org/v47823"
+}

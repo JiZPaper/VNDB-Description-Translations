@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c142280",
+  "type": "character",
+  "name": "Lily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Saloon owner.",
+  "source_sha256": "18f32e81b375f2f9d620da7a33e7cb9e925b5d26a6aa820b6ecf5db2915bda9c",
+  "translation": "Saloon owner.",
+  "vndb_url": "https://vndb.org/c142280"
+}

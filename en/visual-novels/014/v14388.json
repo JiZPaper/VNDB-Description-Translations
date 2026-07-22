@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14388",
+  "type": "visual_novel",
+  "name": "Josou Gakuen ~Six Menticide Lessons~",
+  "original_name": "女装学園 ～Six menticide lessons～",
+  "language": "en",
+  "source_language": "en",
+  "source": "At Josou Gakuen, an amnesic young man named Kaori wakes up. Here, he is forced to take the entrance examination.",
+  "source_sha256": "d254a9410f5abdc06ba6ba3fdd092ca796cf131628a144feb3f7887be46c72a8",
+  "translation": "At Josou Gakuen, an amnesic young man named Kaori wakes up. Here, he is forced to take the entrance examination.",
+  "vndb_url": "https://vndb.org/v14388"
+}

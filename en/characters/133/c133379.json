@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133379",
+  "type": "character",
+  "name": "Janet",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is the representative of the school board of directors.",
+  "source_sha256": "086757b34a5f710b1d6e81bc31aeb0b2bf2e664f6c22245e6d0b42e0b1e42cee",
+  "translation": "She is the representative of the school board of directors.",
+  "vndb_url": "https://vndb.org/c133379"
+}

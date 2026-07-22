@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115387",
+  "type": "character",
+  "name": "Chapman",
+  "original_name": "杜",
+  "language": "en",
+  "source_language": "en",
+  "source": "Informant living in Bangkok, providing job information to Lycoris.",
+  "source_sha256": "b9dfb3fb0adfeb694ec587b75ceafd5fc52c5c036038ac75b3e7f23718da3942",
+  "translation": "Informant living in Bangkok, providing job information to Lycoris.",
+  "vndb_url": "https://vndb.org/c115387"
+}

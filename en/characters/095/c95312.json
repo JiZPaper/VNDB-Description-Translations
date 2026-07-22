@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95312",
+  "type": "character",
+  "name": "Ayumi",
+  "original_name": "アユミ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Born in 2032.",
+  "source_sha256": "35a66d65e9682bedad5fa307e9df92249d79ab73ce4e78bf6eac23308b3932ab",
+  "translation": "Born in 2032.",
+  "vndb_url": "https://vndb.org/c95312"
+}

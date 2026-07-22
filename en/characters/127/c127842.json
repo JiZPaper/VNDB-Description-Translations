@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127842",
+  "type": "character",
+  "name": "Lua",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Guardian of the Forest",
+  "source_sha256": "79056b2c2cf71bfcc2f56c9f502f07a6678c1ae04d9283101893d5d99f75080c",
+  "translation": "The Guardian of the Forest",
+  "vndb_url": "https://vndb.org/c127842"
+}

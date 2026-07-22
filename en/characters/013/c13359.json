@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c13359",
+  "type": "character",
+  "name": "Chika",
+  "original_name": "ティカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Santa's Reindeer and Apprentice.",
+  "source_sha256": "8b807430d0119febc8ef6ca925439fbc6ad4e25a86c7a9084e439932eab117d0",
+  "translation": "Santa's Reindeer and Apprentice.",
+  "vndb_url": "https://vndb.org/c13359"
+}

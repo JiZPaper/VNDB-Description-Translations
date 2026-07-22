@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159536",
+  "type": "character",
+  "name": "Dexter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Johnny's bully.",
+  "source_sha256": "8676db819cf6bc7df58fdd15dff1468a4b1a6f9e7cd1645a034869d8c9dd981f",
+  "translation": "Johnny's bully.",
+  "vndb_url": "https://vndb.org/c159536"
+}

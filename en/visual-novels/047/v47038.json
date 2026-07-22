@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47038",
+  "type": "visual_novel",
+  "name": "Learning to Fly",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An exploration of the romance between Hisao and an April Fool's character, Saki Enomoto.",
+  "source_sha256": "831e3a2b78730ecff897461601a867740ae20ab4fbc9a527602e1761ab7bf10f",
+  "translation": "An exploration of the romance between Hisao and an April Fool's character, Saki Enomoto.",
+  "vndb_url": "https://vndb.org/v47038"
+}

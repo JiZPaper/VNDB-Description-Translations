@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159699",
+  "type": "character",
+  "name": "Lambert",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A photographer who was transformed into a sheep for taking pictures he shouldn't have.",
+  "source_sha256": "2e4b2a195ff60bd4cb5833d3e44bda42c591fe0cc4206779ae023852ab938aeb",
+  "translation": "A photographer who was transformed into a sheep for taking pictures he shouldn't have.",
+  "vndb_url": "https://vndb.org/c159699"
+}

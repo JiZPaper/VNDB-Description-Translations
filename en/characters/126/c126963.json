@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126963",
+  "type": "character",
+  "name": "Oliver Button",
+  "original_name": "オリバー・バトン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes: designing clothes\nHates: unpleasant things",
+  "source_sha256": "546f3575c70c793d8fdc6332f20f9f632d1467334451b34f29c490499e3a07b9",
+  "translation": "Likes: designing clothes\nHates: unpleasant things",
+  "vndb_url": "https://vndb.org/c126963"
+}

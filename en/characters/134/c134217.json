@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134217",
+  "type": "character",
+  "name": "Jennie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "an employee of the hero's company.",
+  "source_sha256": "27b2978a1ed175446f4b95b11ee4a93773e682b2a4dd8d1c6457c59787f3bbdd",
+  "translation": "an employee of the hero's company.",
+  "vndb_url": "https://vndb.org/c134217"
+}

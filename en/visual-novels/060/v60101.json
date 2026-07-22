@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60101",
+  "type": "visual_novel",
+  "name": "Bastard Chronicles",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bastard Chronicles is a dark, adult visual novel set in a post-revolution matriarchy.\nYou play as Mordred — a royal bastard drafted into a corrupted order of female knights.\nYour goal: infiltrate, manipulate, and decide whether to rebuild or destroy the new regime from within.\n\nChoices define not only relationships, but power itself — submission, dominance, or something dangerously close to love.",
+  "source_sha256": "4e0fe56283eef329629ffc161bf521a785e882c9f1a2f89000b8836186af2a5a",
+  "translation": "Bastard Chronicles is a dark, adult visual novel set in a post-revolution matriarchy.\nYou play as Mordred — a royal bastard drafted into a corrupted order of female knights.\nYour goal: infiltrate, manipulate, and decide whether to rebuild or destroy the new regime from within.\n\nChoices define not only relationships, but power itself — submission, dominance, or something dangerously close to love.",
+  "vndb_url": "https://vndb.org/v60101"
+}

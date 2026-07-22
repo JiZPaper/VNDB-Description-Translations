@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c58024",
+  "type": "character",
+  "name": "Hawke Velvet",
+  "original_name": "ホーク=ベルベット",
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes: Pancakes\nDislikes: Bitter Food",
+  "source_sha256": "f54f5e24f023193f0c633511be4869fa22aca6097d5db4ed380961667034d84d",
+  "translation": "Likes: Pancakes\nDislikes: Bitter Food",
+  "vndb_url": "https://vndb.org/c58024"
+}

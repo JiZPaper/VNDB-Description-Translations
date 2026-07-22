@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96142",
+  "type": "character",
+  "name": "Hecate",
+  "original_name": "ヘカテー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A loyal follower of Prometheus, and Tim's younger sister.",
+  "source_sha256": "9ba7dd6fd4734d8f0952177fefc5ed647d434fd5f6e54df53caad3506dca8eba",
+  "translation": "A loyal follower of Prometheus, and Tim's younger sister.",
+  "vndb_url": "https://vndb.org/c96142"
+}

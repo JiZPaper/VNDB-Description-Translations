@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41100",
+  "type": "visual_novel",
+  "name": "Jiuba zhi Ye",
+  "original_name": "酒吧之夜",
+  "language": "en",
+  "source_language": "en",
+  "source": "Three friends enjoy the special service in the bar.",
+  "source_sha256": "2906aa5f9d1dfc0fb9337ca4ca06e4bca1219a0593578b73b34d4aa0fbe68f80",
+  "translation": "Three friends enjoy the special service in the bar.",
+  "vndb_url": "https://vndb.org/v41100"
+}

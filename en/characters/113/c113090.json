@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113090",
+  "type": "character",
+  "name": "Yang",
+  "original_name": "ヤン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A chef who runs the only diner in the village. Speaks in a unique tone.",
+  "source_sha256": "8b43bd189125bdf36a24d2543ff8d9204957193bbbe3d7ff0d8a014708c51c6d",
+  "translation": "A chef who runs the only diner in the village. Speaks in a unique tone.",
+  "vndb_url": "https://vndb.org/c113090"
+}

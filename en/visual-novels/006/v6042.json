@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6042",
+  "type": "visual_novel",
+  "name": "The Other World",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "In a broken world, someone wanders trying to do nothing more than avoid things from the other world.\n\n[From [url=http://neotable.blogspot.com/p/other-world.html]Official Site[/url]]",
+  "source_sha256": "a837069916330fa272e179a9cfcc4ecdb311b5c5fd038396f2123fa78e4bd95b",
+  "translation": "In a broken world, someone wanders trying to do nothing more than avoid things from the other world.\n\n[From [url=http://neotable.blogspot.com/p/other-world.html]Official Site[/url]]",
+  "vndb_url": "https://vndb.org/v6042"
+}

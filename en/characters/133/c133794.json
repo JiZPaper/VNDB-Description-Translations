@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133794",
+  "type": "character",
+  "name": "Saori",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A shy and poor girl who works at a kiosk near the beach.",
+  "source_sha256": "fc5928aae605d84254cf6bb8ba80ef64b443fe5c389c09307cdce064137c2987",
+  "translation": "A shy and poor girl who works at a kiosk near the beach.",
+  "vndb_url": "https://vndb.org/c133794"
+}

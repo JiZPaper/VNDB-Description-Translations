@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c111307",
+  "type": "character",
+  "name": "Beth",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mother of [url=/c104740]Judith[/url].",
+  "source_sha256": "a62ed4583a3c4255d29978cdac27d96e22275430098907773f16c2fe5387a32c",
+  "translation": "Mother of [url=/c104740]Judith[/url].",
+  "vndb_url": "https://vndb.org/c111307"
+}

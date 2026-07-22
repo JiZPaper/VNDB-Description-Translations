@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15017",
+  "type": "visual_novel",
+  "name": "Eternal Wish After",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "After story for the winner of Eternal Wish's fan favorite vote.",
+  "source_sha256": "fbdc866f44ca8b861453f98d40f36b75b291a665b10745c7895f4fa148c866e7",
+  "translation": "After story for the winner of Eternal Wish's fan favorite vote.",
+  "vndb_url": "https://vndb.org/v15017"
+}

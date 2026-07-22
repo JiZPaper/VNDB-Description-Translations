@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166846",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A nameable protagonist who's currently a college student.",
+  "source_sha256": "601f9467e6dd4a4c3cfa24884b5aa0d4cfe49ae740099fee3c90a3bbe98dc2e1",
+  "translation": "A nameable protagonist who's currently a college student.",
+  "vndb_url": "https://vndb.org/c166846"
+}

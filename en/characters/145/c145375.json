@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145375",
+  "type": "character",
+  "name": "Chao",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gym member and Brawler opponent.",
+  "source_sha256": "c32ea154f8c7db5712204aa64cea160e2f561b8871ac2c1686d54f1f13ef5bda",
+  "translation": "Gym member and Brawler opponent.",
+  "vndb_url": "https://vndb.org/c145375"
+}

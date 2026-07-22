@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127003",
+  "type": "character",
+  "name": "Oliver",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Main Character",
+  "source_sha256": "185200f9408940fcb12bea1b483dc73ba71a19b2d764bc84ff62df10e7dcf956",
+  "translation": "Main Character",
+  "vndb_url": "https://vndb.org/c127003"
+}

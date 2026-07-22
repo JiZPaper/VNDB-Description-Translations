@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36812",
+  "type": "character",
+  "name": "Yahiko",
+  "original_name": "弥彦",
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader of a group of pirates.",
+  "source_sha256": "901aa92df03cda9c9f09f3ad28b52ac66b77dc6e04dc54836ae57b15401b2060",
+  "translation": "Leader of a group of pirates.",
+  "vndb_url": "https://vndb.org/c36812"
+}

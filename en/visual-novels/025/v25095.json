@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25095",
+  "type": "visual_novel",
+  "name": "Helen's Doll House",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Helen is the daughter of a famous doll maker. Her wish is to become good like her father. One day, a stranger with a red scarf dropped a magic book for her...",
+  "source_sha256": "c61c10404788df17fdbc8e0da9b43d0cf608c300d4790b87d0628047efa63eee",
+  "translation": "Helen is the daughter of a famous doll maker. Her wish is to become good like her father. One day, a stranger with a red scarf dropped a magic book for her...",
+  "vndb_url": "https://vndb.org/v25095"
+}

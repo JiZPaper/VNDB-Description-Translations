@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41991",
+  "type": "visual_novel",
+  "name": "Ghost Detective",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A horror visual novel game that we have to find 5 missing people with your teammate name 'Ghost'.\n\n[From [url=https://nobii.itch.io/ghost-detective]Itch.io[/url]]",
+  "source_sha256": "f9e48b23b0e1c3bf66e195ce1a6cdf08425342ac42bd439728c49f07cd162f0d",
+  "translation": "A horror visual novel game that we have to find 5 missing people with your teammate name 'Ghost'.\n\n[From [url=https://nobii.itch.io/ghost-detective]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v41991"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132925",
+  "type": "character",
+  "name": "Shift Leader",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Aurelia's boss at her junkyard workplace.",
+  "source_sha256": "e526820f278e8b60941c6b0c6abb0be14c7a36a166034bc82d8d1dc0c94ce0ac",
+  "translation": "Aurelia's boss at her junkyard workplace.",
+  "vndb_url": "https://vndb.org/c132925"
+}

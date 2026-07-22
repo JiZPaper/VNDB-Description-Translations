@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v222",
+  "type": "visual_novel",
+  "name": "Adagio",
+  "original_name": "アダージオ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A young composer passes by an auditorium and chances upon a dancing performance that changes his very life ...\n\n[From [url=http://www.insani.org/adagio.html]insani[/url]]",
+  "source_sha256": "52503960d670f079150e52b4c8f7ca8569ac84ccad59b263a423cae78ae6fb9c",
+  "translation": "A young composer passes by an auditorium and chances upon a dancing performance that changes his very life ...\n\n[From [url=http://www.insani.org/adagio.html]insani[/url]]",
+  "vndb_url": "https://vndb.org/v222"
+}

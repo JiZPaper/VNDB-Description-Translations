@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172467",
+  "type": "character",
+  "name": "Monique",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Hospital's doctor.",
+  "source_sha256": "5773c914200cc89de8673b68f10e6466b1ed3febdeffaa00e51f25a777df8e76",
+  "translation": "Hospital's doctor.",
+  "vndb_url": "https://vndb.org/c172467"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130737",
+  "type": "character",
+  "name": "Spike",
+  "original_name": "スパイク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Member of the Lemures.\nHe is an expert sniper who could shoot a small target from 300 meters away. He uses a specially made sniper rifle with a long barrel.\n\n[Translated from in-game profile]",
+  "source_sha256": "b8a456d95f9e23e139cab570e805e6370582e7c0b80f6ad8b7e233ca50b2ac22",
+  "translation": "Member of the Lemures.\nHe is an expert sniper who could shoot a small target from 300 meters away. He uses a specially made sniper rifle with a long barrel.\n\n[Translated from in-game profile]",
+  "vndb_url": "https://vndb.org/c130737"
+}

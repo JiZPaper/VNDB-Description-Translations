@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9451",
+  "type": "character",
+  "name": "Nicolas Amati",
+  "original_name": "ニコラ・アマーティ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on the the famous luther [url=http://en.wikipedia.org/wiki/Nicol%C3%B2_Amati]Niccolò Amati[/url].",
+  "source_sha256": "4eb429c4ff9ae96b0e2480cf898c3e42aba3c803afb7d9d56938dde7f3bf2913",
+  "translation": "Based on the the famous luther [url=http://en.wikipedia.org/wiki/Nicol%C3%B2_Amati]Niccolò Amati[/url].",
+  "vndb_url": "https://vndb.org/c9451"
+}

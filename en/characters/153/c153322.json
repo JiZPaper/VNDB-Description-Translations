@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153322",
+  "type": "character",
+  "name": "Vulcan Kardos",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Don't help anyone along the way!\"",
+  "source_sha256": "25f22eade6e34d37b125a93343092b4114b381898193e33aa473be0c42fd578f",
+  "translation": "\"Don't help anyone along the way!\"",
+  "vndb_url": "https://vndb.org/c153322"
+}

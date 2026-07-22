@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92877",
+  "type": "character",
+  "name": "The Girl",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The mysterious girl whom Cora finds alone at the beach.",
+  "source_sha256": "10679b889cda5f20c3972ad4341c4c8de0e337aaecb843861a828c72c63aef7c",
+  "translation": "The mysterious girl whom Cora finds alone at the beach.",
+  "vndb_url": "https://vndb.org/c92877"
+}

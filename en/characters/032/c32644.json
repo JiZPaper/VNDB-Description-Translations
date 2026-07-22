@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c32644",
+  "type": "character",
+  "name": "Regetta Samal",
+  "original_name": "レジェッタ・サマル",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"You're coming with me? You might die you know.\"\nAn adventurer who is searching for the \"Genie's Egg\" that can grant any wish.\nHe came to 'Kingdom' in order to support his old friend Sera.",
+  "source_sha256": "3ab59a7973213deadfc7e42a84d8eccd48438ba3cef33299007888c8748f35ee",
+  "translation": "\"You're coming with me? You might die you know.\"\nAn adventurer who is searching for the \"Genie's Egg\" that can grant any wish.\nHe came to 'Kingdom' in order to support his old friend Sera.",
+  "vndb_url": "https://vndb.org/c32644"
+}

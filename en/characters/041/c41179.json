@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41179",
+  "type": "character",
+  "name": "Sarah",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Clara's best friend.",
+  "source_sha256": "77c5dd8e724d3c76f0d5f5d4f3599a9b62170b8477bd1ad0a439096436678657",
+  "translation": "Clara's best friend.",
+  "vndb_url": "https://vndb.org/c41179"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c74305",
+  "type": "character",
+  "name": "Alice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Alice, who’s as innocent as a child but sees things that others cannot.",
+  "source_sha256": "cc55b2b500f90ef36cfcc7439bb89d0b1169867429822b2929c1595d94403eb0",
+  "translation": "Alice, who’s as innocent as a child but sees things that others cannot.",
+  "vndb_url": "https://vndb.org/c74305"
+}

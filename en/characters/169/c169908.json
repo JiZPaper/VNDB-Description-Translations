@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169908",
+  "type": "character",
+  "name": "Doctor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A doctor who treats [url=/c169784]Sienna Lake[/url].",
+  "source_sha256": "21913a9f6ef56d4d4fad23d605561d4ca6721007b2ed524e628592920cb3df93",
+  "translation": "A doctor who treats [url=/c169784]Sienna Lake[/url].",
+  "vndb_url": "https://vndb.org/c169908"
+}

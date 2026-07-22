@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8074",
+  "type": "visual_novel",
+  "name": "Shingakkou The Gift",
+  "original_name": "神学校 The Gift",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fandisc for Shingakkou, featuring after stories and mini games.\n\nA sweet love disc.",
+  "source_sha256": "a394c8a46bdcb9794d62419a6df18d7f09306fe74a67b1c1305637ad4f8b050d",
+  "translation": "A fandisc for Shingakkou, featuring after stories and mini games.\n\nA sweet love disc.",
+  "vndb_url": "https://vndb.org/v8074"
+}

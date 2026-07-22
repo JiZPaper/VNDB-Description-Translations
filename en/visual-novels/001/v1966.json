@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1966",
+  "type": "visual_novel",
+  "name": "Memories Off Festa",
+  "original_name": "メモリーズオフ -フェスタ-",
+  "language": "en",
+  "source_language": "en",
+  "source": "A donjara game with Memories Off characters.",
+  "source_sha256": "bf5cf06caed96e896e0d14861ab5fefed0e7e941f37a37f59ee714bb9026f866",
+  "translation": "A donjara game with Memories Off characters.",
+  "vndb_url": "https://vndb.org/v1966"
+}

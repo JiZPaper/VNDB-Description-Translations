@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28697",
+  "type": "character",
+  "name": "Akegata Meteo",
+  "original_name": "明方 メテオ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A first-year student in the Cheerleading Club.",
+  "source_sha256": "3cb494431408cf571b0e9908b52ad7f5110cc4b738a375d74e5d621f54ea0e89",
+  "translation": "A first-year student in the Cheerleading Club.",
+  "vndb_url": "https://vndb.org/c28697"
+}

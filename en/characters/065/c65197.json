@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65197",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You're a human transfer student who needs to find a date before the Halloween Dance at Tap School.",
+  "source_sha256": "e4d77022a040ff2a19ad33513ef11a88772a32a49399ef41f00ef9b0fac30aaa",
+  "translation": "You're a human transfer student who needs to find a date before the Halloween Dance at Tap School.",
+  "vndb_url": "https://vndb.org/c65197"
+}

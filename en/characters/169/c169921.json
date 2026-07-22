@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169921",
+  "type": "character",
+  "name": "News Anchor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A new anchor who interviews [url=/c169924]Marco Gervase[/url].",
+  "source_sha256": "f433dde7388ec03ef68ef2c26eea658c8f7dd974502c04602f9041eace2b913e",
+  "translation": "A new anchor who interviews [url=/c169924]Marco Gervase[/url].",
+  "vndb_url": "https://vndb.org/c169921"
+}

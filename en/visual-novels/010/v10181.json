@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10181",
+  "type": "visual_novel",
+  "name": "Parfait Fan Box",
+  "original_name": "パルフェふぁんBOX",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fandisc for the Parfait saga.",
+  "source_sha256": "772f9bd18e9fb6b0a71bca685071eabd1f4ee2e22f3fa07fa98ca0385f742230",
+  "translation": "A fandisc for the Parfait saga.",
+  "vndb_url": "https://vndb.org/v10181"
+}

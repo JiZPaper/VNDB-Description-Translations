@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42372",
+  "type": "character",
+  "name": "Thomas",
+  "original_name": "トマ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Thomas's human form.",
+  "source_sha256": "2f26835549460c6c5af5c71c7e407febfec1dce9c05159c3f04bb4f3662065f6",
+  "translation": "Thomas's human form.",
+  "vndb_url": "https://vndb.org/c42372"
+}

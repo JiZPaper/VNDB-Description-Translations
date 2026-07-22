@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47661",
+  "type": "character",
+  "name": "Crystal Boy",
+  "original_name": "クリスタル ボーイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Crystal Boy is a humanoid cyborg with a golden skeleton and a body made from indestructible, polarizing glass. Crystal Boy's signature weapon is a claw which he can attach to his right hand.",
+  "source_sha256": "c18e0f86683585dfe5fac32450544e4dc640290e632374416a767a4618c90be9",
+  "translation": "Crystal Boy is a humanoid cyborg with a golden skeleton and a body made from indestructible, polarizing glass. Crystal Boy's signature weapon is a claw which he can attach to his right hand.",
+  "vndb_url": "https://vndb.org/c47661"
+}

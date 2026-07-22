@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170696",
+  "type": "character",
+  "name": "Su",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A receptionist at the gym, who also attends the pool party.",
+  "source_sha256": "b5f23a27c01f21c557f2340dbca2ec4b437a51c0122696fe6f57766791566684",
+  "translation": "A receptionist at the gym, who also attends the pool party.",
+  "vndb_url": "https://vndb.org/c170696"
+}

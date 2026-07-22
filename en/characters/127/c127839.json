@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127839",
+  "type": "character",
+  "name": "Doctor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The village doctor and Daisy & Luke's father. Treats Leilani's grandfather",
+  "source_sha256": "efcf87bd58f703f79863725e5f8bd5820c4398d385e25dc3c872b7d5ab9b27f8",
+  "translation": "The village doctor and Daisy & Luke's father. Treats Leilani's grandfather",
+  "vndb_url": "https://vndb.org/c127839"
+}

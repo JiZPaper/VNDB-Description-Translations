@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4508",
+  "type": "visual_novel",
+  "name": "get Lost Article",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel starring Kaito and the other Vocaloids.",
+  "source_sha256": "730b64c797ff5430882703b3a9443d8d4813206e53fa983c4b5de014ad9b2e07",
+  "translation": "A visual novel starring Kaito and the other Vocaloids.",
+  "vndb_url": "https://vndb.org/v4508"
+}

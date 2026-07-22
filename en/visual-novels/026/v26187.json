@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26187",
+  "type": "visual_novel",
+  "name": "Tokyo Tenma Zero & Tenma Taizen",
+  "original_name": "TOKYO天魔ＺＥＲＯ＆天魔大全",
+  "language": "en",
+  "source_language": "en",
+  "source": "A compilation of games from the TOKYO TENMA series.",
+  "source_sha256": "c2c4afe3436680cf34855644e0903922ca505022592bcfb5c23d55af5c210a34",
+  "translation": "A compilation of games from the TOKYO TENMA series.",
+  "vndb_url": "https://vndb.org/v26187"
+}

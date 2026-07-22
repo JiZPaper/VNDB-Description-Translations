@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98916",
+  "type": "character",
+  "name": "Mary",
+  "original_name": "메리",
+  "language": "en",
+  "source_language": "en",
+  "source": "Darling's family maid.",
+  "source_sha256": "7de5a51c679276598d173183b1a3fd7319bd7c7549c9ae59718df6139a47f49d",
+  "translation": "Darling's family maid.",
+  "vndb_url": "https://vndb.org/c98916"
+}

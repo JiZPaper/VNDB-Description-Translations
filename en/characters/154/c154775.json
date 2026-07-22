@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154775",
+  "type": "character",
+  "name": "Orpheus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Microbial life-form born on the planet Dionysus in \"Colony-Organism: Microbes of Love and Pain\".",
+  "source_sha256": "4280905762c095a1d083fa0422bfc332503a04f05a64e9fefde297e4f462fd56",
+  "translation": "Microbial life-form born on the planet Dionysus in \"Colony-Organism: Microbes of Love and Pain\".",
+  "vndb_url": "https://vndb.org/c154775"
+}

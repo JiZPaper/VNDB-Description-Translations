@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168444",
+  "type": "character",
+  "name": "Jones Carvey (Human)",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The true, human form of Jones.",
+  "source_sha256": "d34ad70dee0795d89a5b09beb3ad2155036a597e80e79b76166d2e93cac01bb7",
+  "translation": "The true, human form of Jones.",
+  "vndb_url": "https://vndb.org/c168444"
+}

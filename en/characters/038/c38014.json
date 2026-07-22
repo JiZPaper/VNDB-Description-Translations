@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38014",
+  "type": "character",
+  "name": "Lulu Giruremo",
+  "original_name": "ルル・ギルレモ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A female dwarf in search of mithril.",
+  "source_sha256": "d98f0f6c348f768c4b60f598e6ae07f5cad921e33a88df27e58a8ee88c0ce656",
+  "translation": "A female dwarf in search of mithril.",
+  "vndb_url": "https://vndb.org/c38014"
+}

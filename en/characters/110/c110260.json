@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110260",
+  "type": "character",
+  "name": "Girl 3",
+  "original_name": "少女３",
+  "language": "en",
+  "source_language": "en",
+  "source": "The girl behind door #3 at Maison Rolita.",
+  "source_sha256": "6add8efbbcc91b4c77f55e2d0dd5a9f3ec20365084e7f0bc6a7cdfdd5a0d12d7",
+  "translation": "The girl behind door #3 at Maison Rolita.",
+  "vndb_url": "https://vndb.org/c110260"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116016",
+  "type": "character",
+  "name": "Clown",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The face, mascot and AI of the \"Please Reply, Clown\" app.",
+  "source_sha256": "1a75e08dfc31d53b2a77b8eadd0892092510c39d9da771c115828814aee6d001",
+  "translation": "The face, mascot and AI of the \"Please Reply, Clown\" app.",
+  "vndb_url": "https://vndb.org/c116016"
+}

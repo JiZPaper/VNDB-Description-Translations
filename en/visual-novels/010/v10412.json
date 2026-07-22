@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10412",
+  "type": "visual_novel",
+  "name": "Jinchiku Wakusei ~Bijin Shimai ga Mayoikonda no wa Ningen ga Doubutsu no Kachiku ni Naru Wakusei Deshita~",
+  "original_name": "人畜惑星～美人姉妹が迷い込んだのは人間が動物の家畜になる惑星でした～",
+  "language": "en",
+  "source_language": "en",
+  "source": "We invite you to the world where animals have come to dominate humans-the zoonotic planet.",
+  "source_sha256": "a313c06572e22f8c559fea7af32aa4950c6f76816a43540285b6d89b141cfdae",
+  "translation": "We invite you to the world where animals have come to dominate humans-the zoonotic planet.",
+  "vndb_url": "https://vndb.org/v10412"
+}

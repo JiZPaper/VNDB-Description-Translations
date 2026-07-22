@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169542",
+  "type": "character",
+  "name": "Noire",
+  "original_name": "ノワール",
+  "language": "en",
+  "source_language": "en",
+  "source": "The CPU of Lastation",
+  "source_sha256": "2f6e31161d554ca1fdb105ce3bf2a069622053eb8a9880486f7392606e76ac0e",
+  "translation": "The CPU of Lastation",
+  "vndb_url": "https://vndb.org/c169542"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1968",
+  "type": "visual_novel",
+  "name": "Black Pencil",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are Kiyoshi. Living a normal life, only a dream has been haunting you for a long time. In it, you see the death of a young woman. You then find out that she really exists.",
+  "source_sha256": "3e59fad73a40abfda30dcf712da07458946c24487978ff8f4a6b7b6a779909ba",
+  "translation": "You are Kiyoshi. Living a normal life, only a dream has been haunting you for a long time. In it, you see the death of a young woman. You then find out that she really exists.",
+  "vndb_url": "https://vndb.org/v1968"
+}

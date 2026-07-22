@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130799",
+  "type": "character",
+  "name": "Reikyu",
+  "original_name": "麗穹",
+  "language": "en",
+  "source_language": "en",
+  "source": "She is the resident diviner of the king of the Moonlight Country.\nShe uses animal bones to tell fortunes, and her accuracy has made her a favorite of kings throughout history.",
+  "source_sha256": "2f289344b737beb586a7a155362be48580a4b0e1ff172013cf6a9887ea7666b4",
+  "translation": "She is the resident diviner of the king of the Moonlight Country.\nShe uses animal bones to tell fortunes, and her accuracy has made her a favorite of kings throughout history.",
+  "vndb_url": "https://vndb.org/c130799"
+}

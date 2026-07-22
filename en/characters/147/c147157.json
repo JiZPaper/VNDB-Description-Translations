@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c147157",
+  "type": "character",
+  "name": "Yanagawa Café Manager",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner and manager of Yanagawa Café. He makes delicious coffee and honey toasts.",
+  "source_sha256": "0928ef405e2ae519a28c5e9760bc683593742a7c9d37e1c14639104792f64b89",
+  "translation": "Owner and manager of Yanagawa Café. He makes delicious coffee and honey toasts.",
+  "vndb_url": "https://vndb.org/c147157"
+}

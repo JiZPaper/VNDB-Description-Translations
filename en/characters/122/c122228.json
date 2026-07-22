@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122228",
+  "type": "character",
+  "name": "You",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A human turned into a pony.",
+  "source_sha256": "d11d1f52f3eba63dd8aa5ba14ce17bf86f2bc633abfb605a8a4d96ec92a127c0",
+  "translation": "A human turned into a pony.",
+  "vndb_url": "https://vndb.org/c122228"
+}

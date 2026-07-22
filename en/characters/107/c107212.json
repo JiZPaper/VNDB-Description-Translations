@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c107212",
+  "type": "character",
+  "name": "Nina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A colleague of Mayo who works at the same bakery.",
+  "source_sha256": "e34b146ff4e398560226f2d3f8843eb3e1f5e3f1634ec023a68aa68b09c9a714",
+  "translation": "A colleague of Mayo who works at the same bakery.",
+  "vndb_url": "https://vndb.org/c107212"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155343",
+  "type": "character",
+  "name": "Magnet Saleswoman",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The woman at the souvenir stand who helps develop magnets of group pictures taken on vacation for everyone.",
+  "source_sha256": "c6e12abad072168a29c5cf7ae1bbd033cc1f830343385a27ae487bb02cb5f7ff",
+  "translation": "The woman at the souvenir stand who helps develop magnets of group pictures taken on vacation for everyone.",
+  "vndb_url": "https://vndb.org/c155343"
+}

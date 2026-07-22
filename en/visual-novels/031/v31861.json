@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31861",
+  "type": "visual_novel",
+  "name": "Silicon Dreams",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "It’s 2065, and you are an interrogator-model android tasked with rooting out deviants among your own kind. You must probe for lies, monitor and exploit emotional spikes, earn the trust of your subjects, and make the final call: release, or destroy?",
+  "source_sha256": "19aefd56cff4e4189cdf023937c67677b44319f5361a97c69f1bfbf50785607d",
+  "translation": "It’s 2065, and you are an interrogator-model android tasked with rooting out deviants among your own kind. You must probe for lies, monitor and exploit emotional spikes, earn the trust of your subjects, and make the final call: release, or destroy?",
+  "vndb_url": "https://vndb.org/v31861"
+}

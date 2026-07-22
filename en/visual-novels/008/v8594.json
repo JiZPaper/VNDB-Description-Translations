@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8594",
+  "type": "visual_novel",
+  "name": "The Song of Stars",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Lovecraftian kinetic short story.",
+  "source_sha256": "55c5b7f7933b5e7410f361cfbae9d43fe8de9c17ac3a685c53c621549fb4c001",
+  "translation": "A Lovecraftian kinetic short story.",
+  "vndb_url": "https://vndb.org/v8594"
+}

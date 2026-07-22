@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18839",
+  "type": "visual_novel",
+  "name": "Humming Strings: Relay",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A psycho-thriller which revolves around a homosexual couple.",
+  "source_sha256": "09f45a5fa183801004e561bc02ca2fa43e59864780d1a10cbce3ba090eb9fce9",
+  "translation": "A psycho-thriller which revolves around a homosexual couple.",
+  "vndb_url": "https://vndb.org/v18839"
+}

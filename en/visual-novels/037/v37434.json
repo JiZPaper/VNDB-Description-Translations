@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37434",
+  "type": "visual_novel",
+  "name": "Mabel Runs An Errand",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Get some milk.\n\n[From [url=https://beesinatrenchcoat.itch.io/]Itch.io[/url]]",
+  "source_sha256": "7d9891865ece2474ac6791baa41494678fdbfc6812c485294ca8b85c174b850d",
+  "translation": "Get some milk.\n\n[From [url=https://beesinatrenchcoat.itch.io/]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v37434"
+}

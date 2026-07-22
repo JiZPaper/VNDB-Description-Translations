@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c78803",
+  "type": "character",
+  "name": "Maro",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[url=/c19452]Arata's[/url] pet ferret.",
+  "source_sha256": "536f620bbcdc66d3838a25bd311a380a9bee53f41a11ce9d8105bdfdd0440624",
+  "translation": "[url=/c19452]Arata's[/url] pet ferret.",
+  "vndb_url": "https://vndb.org/c78803"
+}

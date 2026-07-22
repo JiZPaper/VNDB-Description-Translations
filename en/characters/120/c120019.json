@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120019",
+  "type": "character",
+  "name": "Koji",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A friend of the protagonist, plays guitar since high school.",
+  "source_sha256": "70a334bdc54a1cc27a4c81a31400494acc1b2b710d19dbc609275aceb9bfbaf7",
+  "translation": "A friend of the protagonist, plays guitar since high school.",
+  "vndb_url": "https://vndb.org/c120019"
+}

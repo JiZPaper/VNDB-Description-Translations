@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162744",
+  "type": "character",
+  "name": "Aerithel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sun Elarian representative of the Galactic Council",
+  "source_sha256": "6bedd0bafde33fb4bb1da201a5623dda0b0f64fa5f19045f750c091c32e7192a",
+  "translation": "Sun Elarian representative of the Galactic Council",
+  "vndb_url": "https://vndb.org/c162744"
+}

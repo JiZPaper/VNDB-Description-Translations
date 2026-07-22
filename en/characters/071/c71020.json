@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71020",
+  "type": "character",
+  "name": "Brainy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Age: Unknown\nBirthdate: Unknown",
+  "source_sha256": "9c96695d697a728513448188b029c16aa1ea1e85b4953e395cb27443f987ac00",
+  "translation": "Age: Unknown\nBirthdate: Unknown",
+  "vndb_url": "https://vndb.org/c71020"
+}

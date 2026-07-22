@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57604",
+  "type": "visual_novel",
+  "name": "Hello, new world",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel that lets the player experience the story as a friend of the protagonist, traveling alongside him across multiple realities.\n\n[From [url=https://panda3245.itch.io/hello-new-world]Itch.io[/url]]",
+  "source_sha256": "657acc14d2112c2d5d3a72054017b8308f2f11690f34ecbc469fc268c3f6789a",
+  "translation": "A visual novel that lets the player experience the story as a friend of the protagonist, traveling alongside him across multiple realities.\n\n[From [url=https://panda3245.itch.io/hello-new-world]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v57604"
+}

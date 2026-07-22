@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123206",
+  "type": "character",
+  "name": "Dona Mandrake",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A professor of potions at Warthog's.",
+  "source_sha256": "3866de2463192afaac944211b8fb18483d8e2809374e230a33258203e6a5f444",
+  "translation": "A professor of potions at Warthog's.",
+  "vndb_url": "https://vndb.org/c123206"
+}

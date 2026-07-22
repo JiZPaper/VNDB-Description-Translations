@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132441",
+  "type": "character",
+  "name": "George Parker",
+  "original_name": "ジョージ・パーカー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Hume\n\nPresident of the Karji Federation, elected in the election held after the war. He is a political moderate and wants to reconcile with the Empire.",
+  "source_sha256": "12fc4efe93ceb3d8494e55ca59f8efa9c2902d5f609b62175f9fc3300ee4f53f",
+  "translation": "Race: Hume\n\nPresident of the Karji Federation, elected in the election held after the war. He is a political moderate and wants to reconcile with the Empire.",
+  "vndb_url": "https://vndb.org/c132441"
+}

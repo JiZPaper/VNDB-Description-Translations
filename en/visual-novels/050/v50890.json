@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50890",
+  "type": "visual_novel",
+  "name": "Zui You Jie",
+  "original_name": "最优解",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Genshin Impact Haikaveh AVG fan-made game.",
+  "source_sha256": "291b72620b392b2f57299172b49f75ae539a4d83bbf33399738c16dfe41a5272",
+  "translation": "A Genshin Impact Haikaveh AVG fan-made game.",
+  "vndb_url": "https://vndb.org/v50890"
+}

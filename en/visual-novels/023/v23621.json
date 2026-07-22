@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23621",
+  "type": "visual_novel",
+  "name": "Robit Game",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You're interviewing a very... special guest today.\n[From [url=https://slashlet.itch.io/robit-game] itch.io[/url]]",
+  "source_sha256": "2ff50558a77f4afbd11285e4fa5fc67f1af2282da0799ffc6537917f84fab377",
+  "translation": "You're interviewing a very... special guest today.\n[From [url=https://slashlet.itch.io/robit-game] itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v23621"
+}

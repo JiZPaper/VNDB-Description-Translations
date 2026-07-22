@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60384",
+  "type": "character",
+  "name": "Rasphard",
+  "original_name": "ラスファード",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious person Bianca meets one day at the market.",
+  "source_sha256": "f50aac6d2226f0f9800eccca83d6089ef4343e2d94e2a3080d67c4844f7a90a2",
+  "translation": "A mysterious person Bianca meets one day at the market.",
+  "vndb_url": "https://vndb.org/c60384"
+}

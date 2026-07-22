@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38408",
+  "type": "character",
+  "name": "Wataru",
+  "original_name": "ワタル",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"It's useless, no matter how much you try to deceive me you can't trick my eyes.\"\nA wandering thief.\nHe has a policy to steal anything that catches his eye.",
+  "source_sha256": "6c4b90f2526e65f0a50069f7bdd63c46b6092854cf9cfc68476dd023e2681add",
+  "translation": "\"It's useless, no matter how much you try to deceive me you can't trick my eyes.\"\nA wandering thief.\nHe has a policy to steal anything that catches his eye.",
+  "vndb_url": "https://vndb.org/c38408"
+}

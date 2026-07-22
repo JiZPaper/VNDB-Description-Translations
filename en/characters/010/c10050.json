@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c10050",
+  "type": "character",
+  "name": "Uzuki B",
+  "original_name": "卯月 B",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is the second option of how your flower will be like, depends on the first choice you made.",
+  "source_sha256": "39fd76bcb91f8a9c7edd1df9401856baa1a5119d9f90cdaa9978f87f656743ad",
+  "translation": "This is the second option of how your flower will be like, depends on the first choice you made.",
+  "vndb_url": "https://vndb.org/c10050"
+}

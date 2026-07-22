@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161423",
+  "type": "character",
+  "name": "Cherub",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A quiet magical girl. Seems to be close with Seraph.",
+  "source_sha256": "601990b3aa2f552e981b81386a726e238f1dea8843338f21711aed405d47557a",
+  "translation": "A quiet magical girl. Seems to be close with Seraph.",
+  "vndb_url": "https://vndb.org/c161423"
+}

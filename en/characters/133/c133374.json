@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133374",
+  "type": "character",
+  "name": "Terrance",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is a student who goes to Middleton High School. He often gets in trouble and ends up in [url=/c133307]Wanda's[/url] office.",
+  "source_sha256": "645a5cb77fd13df086d958f09a3a1cf5656008f524f7cbfecd1e81cb2abc3a61",
+  "translation": "He is a student who goes to Middleton High School. He often gets in trouble and ends up in [url=/c133307]Wanda's[/url] office.",
+  "vndb_url": "https://vndb.org/c133374"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24596",
+  "type": "visual_novel",
+  "name": "Otouto Nuigurumi",
+  "original_name": "おとうとぬいぐるみ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"What do I do...? I turned into a plushie.\"\n\"...I see.\"\n\nHeartwarming conversations between the siblings ensue.",
+  "source_sha256": "7ebe246aac824f4351ce756c81a7b6706466a62d34cffa0e1fcb2de485d30347",
+  "translation": "\"What do I do...? I turned into a plushie.\"\n\"...I see.\"\n\nHeartwarming conversations between the siblings ensue.",
+  "vndb_url": "https://vndb.org/v24596"
+}

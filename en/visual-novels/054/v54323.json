@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54323",
+  "type": "visual_novel",
+  "name": "IS<Infinite Stratos> Archetype Breaker",
+  "original_name": "IS＜インフィニット・ストラトス＞アーキタイプ・ブレイカー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Offline version of the original mobile game.",
+  "source_sha256": "6992d7286b75a3525ab968743be8916cfafdf2737df6e70cfbee1196ae731ac2",
+  "translation": "Offline version of the original mobile game.",
+  "vndb_url": "https://vndb.org/v54323"
+}

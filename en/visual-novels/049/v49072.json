@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49072",
+  "type": "visual_novel",
+  "name": "Shirayuki to Romance",
+  "original_name": "白雪とネクロマンス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A dark fantasy romance about a mage and an undead.",
+  "source_sha256": "2d6f07ffd7d011454fdbe43b906cda0b950adf2a4bc8901195982954901229a3",
+  "translation": "A dark fantasy romance about a mage and an undead.",
+  "vndb_url": "https://vndb.org/v49072"
+}

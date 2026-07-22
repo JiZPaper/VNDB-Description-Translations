@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c604",
+  "type": "character",
+  "name": "HIKARI",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A computer working for the sake of \"Global Illumination\".",
+  "source_sha256": "b9a729c8a3c6732337495f2ca638cb26a5000f7d752a3695dce44ac2292a1b5f",
+  "translation": "A computer working for the sake of \"Global Illumination\".",
+  "vndb_url": "https://vndb.org/c604"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30432",
+  "type": "character",
+  "name": "Fukiharu Hinojou",
+  "original_name": "吹春 日之条",
+  "language": "en",
+  "source_language": "en",
+  "source": "Owns a candy shop called \"Susanoo\".",
+  "source_sha256": "76cfc894d7b6345de07514c5f57b2ee1b1310e7a8aa1777fece9cb32fc593f54",
+  "translation": "Owns a candy shop called \"Susanoo\".",
+  "vndb_url": "https://vndb.org/c30432"
+}

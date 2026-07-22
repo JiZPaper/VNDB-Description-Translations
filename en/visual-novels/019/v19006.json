@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19006",
+  "type": "visual_novel",
+  "name": "Apoclitos -Geten-",
+  "original_name": "アポクリトス -外典-",
+  "language": "en",
+  "source_language": "en",
+  "source": "A digitalized light novel that tells the story of the battle between two angels that are supposed to protect people, and the ordinary girl that gets entangled in their fight.",
+  "source_sha256": "587e8e1595f6684007ec1661195eb07f186132fbbf14f01f1dbe95836d40f5d4",
+  "translation": "A digitalized light novel that tells the story of the battle between two angels that are supposed to protect people, and the ordinary girl that gets entangled in their fight.",
+  "vndb_url": "https://vndb.org/v19006"
+}

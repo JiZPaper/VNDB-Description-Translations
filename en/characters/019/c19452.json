@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19452",
+  "type": "character",
+  "name": "Minase Arata",
+  "original_name": "水無瀬 新",
+  "language": "en",
+  "source_language": "en",
+  "source": "A cheerful, eccentric student who never wears his uniform and always carries around his pet ferret, Maro. He's friendly towards others, but seems evasive if they try to get too close.\n\nStats: luck 3 / intelligence 2 / popularity 2 / special ability 4 / physical strength 5 / influence 1\nSpecial Skill: diving",
+  "source_sha256": "fe1cae87afa7ae966236a57dbae4531032565676a3e6bc96e2b7007b171020f3",
+  "translation": "A cheerful, eccentric student who never wears his uniform and always carries around his pet ferret, Maro. He's friendly towards others, but seems evasive if they try to get too close.\n\nStats: luck 3 / intelligence 2 / popularity 2 / special ability 4 / physical strength 5 / influence 1\nSpecial Skill: diving",
+  "vndb_url": "https://vndb.org/c19452"
+}

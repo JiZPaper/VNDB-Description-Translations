@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88454",
+  "type": "character",
+  "name": "Gardener",
+  "original_name": "庭師",
+  "language": "en",
+  "source_language": "en",
+  "source": "A gardener who is in charge of the garden at Eldia Palace.",
+  "source_sha256": "46b63bdc309841efbc3581a586ba6276545accb87004d767df6c6e3451f2ef80",
+  "translation": "A gardener who is in charge of the garden at Eldia Palace.",
+  "vndb_url": "https://vndb.org/c88454"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55234",
+  "type": "character",
+  "name": "Mrs. Nakatomi",
+  "original_name": "中富夫人",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kohei's mother",
+  "source_sha256": "cb72a8b19a6d45153822b3f118f96cd7fcdf7cc67110f1e11817c6691a3fe2c2",
+  "translation": "Kohei's mother",
+  "vndb_url": "https://vndb.org/c55234"
+}

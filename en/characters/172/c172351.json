@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172351",
+  "type": "character",
+  "name": "Barman",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The barman at the beach bar",
+  "source_sha256": "33c8633ee80c1a85c239c5fdedbdb69a5a6dfc682a3754059b84c7233e3c2d09",
+  "translation": "The barman at the beach bar",
+  "vndb_url": "https://vndb.org/c172351"
+}

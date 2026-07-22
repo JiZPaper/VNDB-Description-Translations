@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143518",
+  "type": "character",
+  "name": "God",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A drug-induced hallucination (and the lead developer of this visual novel)",
+  "source_sha256": "760b728b1111c9710d8a07e6f21e1173970bb3fe66df08ffcca5d42089fa8299",
+  "translation": "A drug-induced hallucination (and the lead developer of this visual novel)",
+  "vndb_url": "https://vndb.org/c143518"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33041",
+  "type": "visual_novel",
+  "name": "stevens' short_tail",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel about two domestic cats talking to each other while waiting for \"the thing\".",
+  "source_sha256": "bf87b2a7553edd201195e396acb710b5829b53dfb557279747a8d327a2e17e15",
+  "translation": "A short visual novel about two domestic cats talking to each other while waiting for \"the thing\".",
+  "vndb_url": "https://vndb.org/v33041"
+}

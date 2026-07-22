@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44609",
+  "type": "visual_novel",
+  "name": "Posledniy Bogatyr'",
+  "original_name": "Последний Богатырь",
+  "language": "en",
+  "source_language": "en",
+  "source": "This visual novel is based on the movie with the same name \"[url=https://en.wikipedia.org/wiki/Last_Knight_(film)=]The Last Knight[/url]\".",
+  "source_sha256": "d7880759b89f4d8606fe9b19809993e04376430f7397cc3c7de001f7ee4ed204",
+  "translation": "This visual novel is based on the movie with the same name \"[url=https://en.wikipedia.org/wiki/Last_Knight_(film)=]The Last Knight[/url]\".",
+  "vndb_url": "https://vndb.org/v44609"
+}

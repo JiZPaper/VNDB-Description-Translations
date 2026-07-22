@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133143",
+  "type": "character",
+  "name": "Rory",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious crow who ended up in Aspen's dream.",
+  "source_sha256": "efd7a481b7b8b859553fca26e13521c05746ca2f18c474b96321e7afee064f00",
+  "translation": "A mysterious crow who ended up in Aspen's dream.",
+  "vndb_url": "https://vndb.org/c133143"
+}

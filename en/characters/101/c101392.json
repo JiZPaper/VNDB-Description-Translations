@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101392",
+  "type": "character",
+  "name": "Greif Pferdjagd",
+  "original_name": "グライフ・プフェルトヤクト",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Griffon",
+  "source_sha256": "5b42ead28e17b4e9d9e757dd48c0ed655c60c6c13093ec89195e42b6a2e4ed08",
+  "translation": "Race: Griffon",
+  "vndb_url": "https://vndb.org/c101392"
+}

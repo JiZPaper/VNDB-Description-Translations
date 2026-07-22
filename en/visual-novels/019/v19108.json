@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19108",
+  "type": "visual_novel",
+  "name": "TF2 DATING SIM: HIGH SCHOOL AU",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Team Fortress 2 dating sim.",
+  "source_sha256": "2449ae5343cde5d12206db9c505548d153a641aca9c044727ec298e246d533f3",
+  "translation": "A Team Fortress 2 dating sim.",
+  "vndb_url": "https://vndb.org/v19108"
+}

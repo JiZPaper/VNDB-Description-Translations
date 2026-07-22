@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93540",
+  "type": "character",
+  "name": "Charmy Glint",
+  "original_name": "チャーミー･グリント",
+  "language": "en",
+  "source_language": "en",
+  "source": "A clerk working at Gen's Auto.",
+  "source_sha256": "f2ab7f86c2142af56a2c1f76271c8f96aa65066da28143afe8b1c052c203b973",
+  "translation": "A clerk working at Gen's Auto.",
+  "vndb_url": "https://vndb.org/c93540"
+}

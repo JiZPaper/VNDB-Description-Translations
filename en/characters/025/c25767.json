@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25767",
+  "type": "character",
+  "name": "Austria",
+  "original_name": "オーストリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "A youth who holds a somewhat calm and noble character.",
+  "source_sha256": "24d2c4b4721c027ecc25cf22024f2f25af8feaad25ac74122df97e87512a08a4",
+  "translation": "A youth who holds a somewhat calm and noble character.",
+  "vndb_url": "https://vndb.org/c25767"
+}

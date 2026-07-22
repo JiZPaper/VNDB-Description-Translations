@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45526",
+  "type": "visual_novel",
+  "name": "Doll's World Library",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short and very abstract Visual Novel about Nicky, a person trapped in a strange world. Can you help them escape?\n\n[from [url=https://becktodrawing.itch.io/dolls-world-library]itch.io[/url]]",
+  "source_sha256": "10c1d6b192edeae270b8a069f36ea32598d44ed53ef404e4dab13187389bf20c",
+  "translation": "A short and very abstract Visual Novel about Nicky, a person trapped in a strange world. Can you help them escape?\n\n[from [url=https://becktodrawing.itch.io/dolls-world-library]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v45526"
+}

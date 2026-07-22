@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162629",
+  "type": "character",
+  "name": "Mrs. Smith",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mother of [url=/c162609]Kaylee[/url]",
+  "source_sha256": "e322e72e46ebf2ab25a46e59742b1d1e8eb9883a72126c47b160888a409cf872",
+  "translation": "Mother of [url=/c162609]Kaylee[/url]",
+  "vndb_url": "https://vndb.org/c162629"
+}

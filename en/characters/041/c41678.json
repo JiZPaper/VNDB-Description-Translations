@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41678",
+  "type": "character",
+  "name": "Barga",
+  "original_name": "バルガ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The boss of the local dungeon close to Kaste.",
+  "source_sha256": "d6487f861d6a11e7b4849a1dfb8c150b657d82bd2e84238e363e70d58d9c7a4d",
+  "translation": "The boss of the local dungeon close to Kaste.",
+  "vndb_url": "https://vndb.org/c41678"
+}

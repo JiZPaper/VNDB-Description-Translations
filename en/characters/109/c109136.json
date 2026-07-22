@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c109136",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "Part of a bandit group led by Kuankan and Gillis.",
+  "source_sha256": "2a9b72200f7db359cde2c076273283a57a12aaba9887bd02c795953c7917d57e",
+  "translation": "Part of a bandit group led by Kuankan and Gillis.",
+  "vndb_url": "https://vndb.org/c109136"
+}

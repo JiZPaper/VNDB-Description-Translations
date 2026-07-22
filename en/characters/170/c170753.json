@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170753",
+  "type": "character",
+  "name": "Elliot",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A timid Midport College student.",
+  "source_sha256": "84a582095293b914709d11d3a4e45c9cac22c71274095cf0c70415c8450909f5",
+  "translation": "A timid Midport College student.",
+  "vndb_url": "https://vndb.org/c170753"
+}

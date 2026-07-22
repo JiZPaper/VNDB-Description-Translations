@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97440",
+  "type": "character",
+  "name": "Minotaur",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This minotaur is not a member of Gerdingen's tribe.",
+  "source_sha256": "d808a2ceffc722eb0cee39dcbfded4d3da30de50bb5ae3f3d06deddb807be576",
+  "translation": "This minotaur is not a member of Gerdingen's tribe.",
+  "vndb_url": "https://vndb.org/c97440"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159596",
+  "type": "character",
+  "name": "Dmitri Demiglaski",
+  "original_name": "デミトリ・デミグラスキー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Vilen Borshevik is an infamous Russian revolutionary.\n\n[spoiler]He serves as the 6th juror for the trial of Gina Lestrade.[/spoiler]",
+  "source_sha256": "7b231971fece1de77e4a15b0a0482232de07486cfc3f801cb386b71593eabb85",
+  "translation": "Vilen Borshevik is an infamous Russian revolutionary.\n\n[spoiler]He serves as the 6th juror for the trial of Gina Lestrade.[/spoiler]",
+  "vndb_url": "https://vndb.org/c159596"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20905",
+  "type": "visual_novel",
+  "name": "It's Sanji's Birthday!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The crew gets together to throw a surprise birthday party for Sanji!",
+  "source_sha256": "68db4eda4a82946b9c2345323428d342e0e1e12dbb763fc0dbcfd26b62b299be",
+  "translation": "The crew gets together to throw a surprise birthday party for Sanji!",
+  "vndb_url": "https://vndb.org/v20905"
+}

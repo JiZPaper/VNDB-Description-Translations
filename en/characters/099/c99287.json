@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99287",
+  "type": "character",
+  "name": "Radnor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An evil sorcerer who lives in Egreth castle alongside his minions.",
+  "source_sha256": "832ae5197947522133a4e734e0a1b233e37b9437ab3f2ee8643214321f6b2064",
+  "translation": "An evil sorcerer who lives in Egreth castle alongside his minions.",
+  "vndb_url": "https://vndb.org/c99287"
+}

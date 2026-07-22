@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134327",
+  "type": "character",
+  "name": "Rei",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A candidate for secretary.",
+  "source_sha256": "1e5dbde8d0e24cfb1ddd339092957d0a13aeccb5f5c04afc73da09c8a1b8aa15",
+  "translation": "A candidate for secretary.",
+  "vndb_url": "https://vndb.org/c134327"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126309",
+  "type": "character",
+  "name": "Lily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Member of the protagonist's gym.",
+  "source_sha256": "4c1eec2085c84df8394b55f25977dcadc409bb0dcfa59c84a1c3256892484b50",
+  "translation": "Member of the protagonist's gym.",
+  "vndb_url": "https://vndb.org/c126309"
+}

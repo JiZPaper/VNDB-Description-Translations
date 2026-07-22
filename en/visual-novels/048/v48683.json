@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48683",
+  "type": "visual_novel",
+  "name": "GROWTH EXPERIMENT",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A \"raising simulation game without happy ending,\" player assumes the role of  protagonist who lives together with Chloe, a girl who has lost her intelligence and memory. The story progresses between training simulation and visual novel part. Chloe's intelligence in the end depends on how protagonist would train her.",
+  "source_sha256": "44dd0cda44f3afa227f6e4f83d9b6bae0196c1634e2038afe064e932c201d405",
+  "translation": "A \"raising simulation game without happy ending,\" player assumes the role of  protagonist who lives together with Chloe, a girl who has lost her intelligence and memory. The story progresses between training simulation and visual novel part. Chloe's intelligence in the end depends on how protagonist would train her.",
+  "vndb_url": "https://vndb.org/v48683"
+}

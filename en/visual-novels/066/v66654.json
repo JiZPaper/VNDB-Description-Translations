@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66654",
+  "type": "visual_novel",
+  "name": "Adventure of First Love",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Fan-made Visual Novel adaptation of the official side story originally included as a text-only bonus with the limited edition of Witch on The Holy Knight.",
+  "source_sha256": "bf95fb7f04a8b8cc8b82c5f613439e45787ef84dd399d003fa35a2725da9a049",
+  "translation": "Fan-made Visual Novel adaptation of the official side story originally included as a text-only bonus with the limited edition of Witch on The Holy Knight.",
+  "vndb_url": "https://vndb.org/v66654"
+}

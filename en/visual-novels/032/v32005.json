@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32005",
+  "type": "visual_novel",
+  "name": "Never7 - Kurumi Cure",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Fan-made rewrite of the Kurumi Route of Never7: The End of Infinity",
+  "source_sha256": "6ea8de1a91df0bebb549d516e550934251b686d6bbbe8aa3f03bb4df2c020a0b",
+  "translation": "Fan-made rewrite of the Kurumi Route of Never7: The End of Infinity",
+  "vndb_url": "https://vndb.org/v32005"
+}

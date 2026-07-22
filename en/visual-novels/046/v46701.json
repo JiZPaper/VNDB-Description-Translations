@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46701",
+  "type": "visual_novel",
+  "name": "Even The Silver Knight Panics",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sparring match between Seth and Cormag in which you can decide the outcome!",
+  "source_sha256": "b8a9b732053559d6dbe3c64f4c458674727632e8e8e46ccf48eeadf1af7e5aa4",
+  "translation": "Sparring match between Seth and Cormag in which you can decide the outcome!",
+  "vndb_url": "https://vndb.org/v46701"
+}

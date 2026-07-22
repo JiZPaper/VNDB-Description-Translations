@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32017",
+  "type": "visual_novel",
+  "name": "First Contact",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "First Contact is a short visual novel about the trouble you could find yourself in if you're hooking up on a galactic scale.",
+  "source_sha256": "abc15380683f4ff8330b2ac54760913585c92a89919e04fbc0255a31c92b25c4",
+  "translation": "First Contact is a short visual novel about the trouble you could find yourself in if you're hooking up on a galactic scale.",
+  "vndb_url": "https://vndb.org/v32017"
+}

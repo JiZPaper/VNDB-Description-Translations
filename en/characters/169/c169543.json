@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169543",
+  "type": "character",
+  "name": "Blanc",
+  "original_name": "ブラン",
+  "language": "en",
+  "source_language": "en",
+  "source": "The CPU of Lowee",
+  "source_sha256": "07ee6bc165b78912b88e2cde82e202691d3914d97b2402eb09e8f9e191ec2b27",
+  "translation": "The CPU of Lowee",
+  "vndb_url": "https://vndb.org/c169543"
+}

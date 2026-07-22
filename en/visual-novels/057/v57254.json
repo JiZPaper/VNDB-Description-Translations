@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57254",
+  "type": "visual_novel",
+  "name": "Taiwan Pilihuo Re:Burn",
+  "original_name": "台灣霹靂火 Re:Burn",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on the TV drama series \"The Bonfire of Taiwan\".",
+  "source_sha256": "55cef15f685de6510f5031bd4228feb2fae6b16f9f559f9dd7e9a5d6d38199a4",
+  "translation": "Based on the TV drama series \"The Bonfire of Taiwan\".",
+  "vndb_url": "https://vndb.org/v57254"
+}

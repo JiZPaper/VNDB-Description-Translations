@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c66620",
+  "type": "character",
+  "name": "Kim",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Manager of the Enoha company. Is in talks with Jett for a potential team sponsoring.",
+  "source_sha256": "53026d4abaec65b37072b8aa9c42cc1c412efad499ec9e9be88a4494c34766a9",
+  "translation": "Manager of the Enoha company. Is in talks with Jett for a potential team sponsoring.",
+  "vndb_url": "https://vndb.org/c66620"
+}

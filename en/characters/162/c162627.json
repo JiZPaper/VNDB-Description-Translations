@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162627",
+  "type": "character",
+  "name": "FrAnS",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Friendly Android Assistant of Kaylee's family\nModel SX-4",
+  "source_sha256": "9f0605ba62f2f5f937ba6dbd9c4394e2b8da310315762365d7c64bbcf3c36894",
+  "translation": "Friendly Android Assistant of Kaylee's family\nModel SX-4",
+  "vndb_url": "https://vndb.org/c162627"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89383",
+  "type": "character",
+  "name": "Darius",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The third son of the Great Sultan Jaaved.",
+  "source_sha256": "e9e436a3d92f8e669b8f678c677994c1416165ef43362bcbf0d03229c31cfdc3",
+  "translation": "The third son of the Great Sultan Jaaved.",
+  "vndb_url": "https://vndb.org/c89383"
+}

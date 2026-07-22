@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87380",
+  "type": "character",
+  "name": "Royal Guard",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the guards of the human kingdom.",
+  "source_sha256": "3f9d801fa3bd08a7b254982923a26bb4a30e40d70b622c97796f83b6f9f9cbda",
+  "translation": "One of the guards of the human kingdom.",
+  "vndb_url": "https://vndb.org/c87380"
+}

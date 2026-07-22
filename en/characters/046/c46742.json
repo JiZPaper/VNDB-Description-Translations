@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c46742",
+  "type": "character",
+  "name": "Arthur",
+  "original_name": "アーサー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Calm yet cruel he is often referred to as an emotionless machine.\nHe no longer feels pain, due to his training.",
+  "source_sha256": "f9d9ba2999455c2d145e3ccf97a982bf6f32ab350d3d3eae01d2b3eeb53997ae",
+  "translation": "Calm yet cruel he is often referred to as an emotionless machine.\nHe no longer feels pain, due to his training.",
+  "vndb_url": "https://vndb.org/c46742"
+}

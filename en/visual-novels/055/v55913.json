@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55913",
+  "type": "visual_novel",
+  "name": "Zhertvy poterjannyh solnechnyh dnej: Zatmenie",
+  "original_name": "Жертвы потерянных солнечных дней: Затмение",
+  "language": "en",
+  "source_language": "en",
+  "source": "You accidentally find a game you don't remember having and launch it. There seems to be nothing strange about it: it’s a regular children's game with bright graphics. But in this colorful and friendly world, an ominous eclipse sets in…",
+  "source_sha256": "e31c934f3c2f177af8ae1a338cfc914fb785d1a780f4e55e7140f61c11932a7f",
+  "translation": "You accidentally find a game you don't remember having and launch it. There seems to be nothing strange about it: it’s a regular children's game with bright graphics. But in this colorful and friendly world, an ominous eclipse sets in…",
+  "vndb_url": "https://vndb.org/v55913"
+}

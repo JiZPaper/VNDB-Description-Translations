@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c7009",
+  "type": "character",
+  "name": "Shimoizumi Koyuki",
+  "original_name": "下泉 小雪",
+  "language": "en",
+  "source_language": "en",
+  "source": "A flight attendant.",
+  "source_sha256": "cdd606d0d5e74cf5db2605066208032671ab02c8391bbcf27ea3d0fd0b7ed2ee",
+  "translation": "A flight attendant.",
+  "vndb_url": "https://vndb.org/c7009"
+}

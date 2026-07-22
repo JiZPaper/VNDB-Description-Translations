@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4567",
+  "type": "character",
+  "name": "Chance Jackson",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A barista in the café where Sara was murdered. She is also a student at the University of Edgewater.",
+  "source_sha256": "927e1779f4f865b718e24c683138cc9fc9138f82cafd3db6ac27d29c1756c4c1",
+  "translation": "A barista in the café where Sara was murdered. She is also a student at the University of Edgewater.",
+  "vndb_url": "https://vndb.org/c4567"
+}

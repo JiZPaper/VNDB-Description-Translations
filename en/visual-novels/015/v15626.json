@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15626",
+  "type": "visual_novel",
+  "name": "Hitokazoe",
+  "original_name": "人数え",
+  "language": "en",
+  "source_language": "en",
+  "source": "There's a ghost who counts people.\nIf you manage to run away before it's done counting, you'll be safe.\nBut if you don't...\n\n[Translated from [url=https://www.freem.ne.jp/win/game/2764]Freem![/url]]",
+  "source_sha256": "579393263028ed7b045bd18470b54c945157a6904c1bd70274eaf3d94c6367f7",
+  "translation": "There's a ghost who counts people.\nIf you manage to run away before it's done counting, you'll be safe.\nBut if you don't...\n\n[Translated from [url=https://www.freem.ne.jp/win/game/2764]Freem![/url]]",
+  "vndb_url": "https://vndb.org/v15626"
+}

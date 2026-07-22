@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122517",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bland girl in an empty world.",
+  "source_sha256": "2c3c364f2fea4f1d1eae767552574bd533aa008f08d8fb29d836ae2a06a7d594",
+  "translation": "A bland girl in an empty world.",
+  "vndb_url": "https://vndb.org/c122517"
+}

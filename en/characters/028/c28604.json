@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28604",
+  "type": "character",
+  "name": "Lemuel Gulliver",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An explorer.",
+  "source_sha256": "5298907961c8ede999311772c53908b6fbc7049469e0b1a170fe5755c8cf9fd5",
+  "translation": "An explorer.",
+  "vndb_url": "https://vndb.org/c28604"
+}

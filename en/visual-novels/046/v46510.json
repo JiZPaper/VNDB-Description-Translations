@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46510",
+  "type": "visual_novel",
+  "name": "Eulogy for Zoë",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short and personal eulogy for the developer's friend.",
+  "source_sha256": "fa26223c0eaff54dfc6bb0875ece404769f1d41c5e0899a5829fd1ca4b361caa",
+  "translation": "A short and personal eulogy for the developer's friend.",
+  "vndb_url": "https://vndb.org/v46510"
+}

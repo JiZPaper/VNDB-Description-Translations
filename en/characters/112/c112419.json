@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112419",
+  "type": "character",
+  "name": "Mamiya",
+  "original_name": "マミヤ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious girl who proofread Arisugawa's writings.",
+  "source_sha256": "b00a3be733513014e3a1fbfd629a3ee9bebe4b38fe5a725389bc543fb7ecec83",
+  "translation": "A mysterious girl who proofread Arisugawa's writings.",
+  "vndb_url": "https://vndb.org/c112419"
+}

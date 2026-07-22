@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61899",
+  "type": "visual_novel",
+  "name": "Monster Under My Bed",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The monster under Charlie’s bed visits every night.\n\n[From [url=https://inkedvision.itch.io/monster-under-my-bed]itch.io[/url]]",
+  "source_sha256": "81754fa23a73bb0e4cc6cab19fe93bf129da6b88a68e2c5a8afeae34c412f9dd",
+  "translation": "The monster under Charlie’s bed visits every night.\n\n[From [url=https://inkedvision.itch.io/monster-under-my-bed]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v61899"
+}

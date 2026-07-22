@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61566",
+  "type": "character",
+  "name": "Takimaru Alto",
+  "original_name": "滝丸アルト",
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes reading manga.",
+  "source_sha256": "ffd4e6df95f390256f191fedfcf48e43321744dcc60f01ed6195caa7523c1d5c",
+  "translation": "Likes reading manga.",
+  "vndb_url": "https://vndb.org/c61566"
+}

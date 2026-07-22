@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77650",
+  "type": "character",
+  "name": "Liliana Echsun",
+  "original_name": "リリアナ・エチスン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hobbies: Crafting incenses\nLikes: Taking care of flowers, incenses\nDislikes: Whenever she fails",
+  "source_sha256": "09c3601fb357c29f322ea244fc4b7ca0b82c3caced1da0662e16cf500d5a992b",
+  "translation": "Hobbies: Crafting incenses\nLikes: Taking care of flowers, incenses\nDislikes: Whenever she fails",
+  "vndb_url": "https://vndb.org/c77650"
+}

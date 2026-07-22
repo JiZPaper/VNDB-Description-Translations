@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93486",
+  "type": "character",
+  "name": "Tom Schmidt",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]A scientist who worked on S.C.O.U.T. He is the scientist who S.C.O.U.T. accidentally killed.[/spoiler]",
+  "source_sha256": "ac1cb75b1a56f22b0e1a63c51f1e880191dc99aa539a5dfd10d613ead7e392cc",
+  "translation": "[spoiler]A scientist who worked on S.C.O.U.T. He is the scientist who S.C.O.U.T. accidentally killed.[/spoiler]",
+  "vndb_url": "https://vndb.org/c93486"
+}

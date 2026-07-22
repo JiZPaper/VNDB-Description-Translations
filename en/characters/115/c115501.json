@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115501",
+  "type": "character",
+  "name": "Dog Head",
+  "original_name": "狗頭",
+  "language": "en",
+  "source_language": "en",
+  "source": "An executive of the Red Flower Society.\nHe participates in a war that takes place in a game arcade.",
+  "source_sha256": "6610d6e35b4073a016eabb8c976f171ec30854c04d3501dc80103caf1f86e3d9",
+  "translation": "An executive of the Red Flower Society.\nHe participates in a war that takes place in a game arcade.",
+  "vndb_url": "https://vndb.org/c115501"
+}

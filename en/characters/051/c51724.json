@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51724",
+  "type": "character",
+  "name": "Seere",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The healer of Carrault's mercenary group.",
+  "source_sha256": "01ce5286a27bbf9d24890da64ecc7e560f141b62a5c3f24c5fe3564f3991e674",
+  "translation": "The healer of Carrault's mercenary group.",
+  "vndb_url": "https://vndb.org/c51724"
+}

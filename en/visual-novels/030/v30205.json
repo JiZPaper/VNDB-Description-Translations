@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30205",
+  "type": "visual_novel",
+  "name": "Pod serym nebom",
+  "original_name": "Под серым небом",
+  "language": "en",
+  "source_language": "en",
+  "source": "Made in one week for Anivisual Jam #2.",
+  "source_sha256": "dbdba9c672d36b18519947ee07809d9e84f02ca62de5f42896ce768a00d44102",
+  "translation": "Made in one week for Anivisual Jam #2.",
+  "vndb_url": "https://vndb.org/v30205"
+}

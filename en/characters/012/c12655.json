@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12655",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist, his name is chosen by the player. He has studied for years to be a world class pâtissie but still has a long way to go. Because of his knowledge he works as a nurse for sweets at Sweets School.",
+  "source_sha256": "9afd9d85d27a8bc692431e7e7f957ab12a784905da754580765b7a03c45ef63d",
+  "translation": "The protagonist, his name is chosen by the player. He has studied for years to be a world class pâtissie but still has a long way to go. Because of his knowledge he works as a nurse for sweets at Sweets School.",
+  "vndb_url": "https://vndb.org/c12655"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136262",
+  "type": "character",
+  "name": "Pinocchio",
+  "original_name": "ピノキオ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A main character in the 2nd main quest's episode 5 \"Pinocchio Story Zone\".",
+  "source_sha256": "d13619816e472b6f94f4682edbe1581daec757d8e93c29f37c860c933859a362",
+  "translation": "A main character in the 2nd main quest's episode 5 \"Pinocchio Story Zone\".",
+  "vndb_url": "https://vndb.org/c136262"
+}

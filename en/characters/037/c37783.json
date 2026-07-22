@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37783",
+  "type": "character",
+  "name": "Jack",
+  "original_name": "ジャック",
+  "language": "en",
+  "source_language": "en",
+  "source": "Member of an American financial group, he does business with Narukami.",
+  "source_sha256": "ecbe1050197ea6a1162d1e2779ae34fff99a7dd44dbb4c87b9fe4693bbe5a673",
+  "translation": "Member of an American financial group, he does business with Narukami.",
+  "vndb_url": "https://vndb.org/c37783"
+}

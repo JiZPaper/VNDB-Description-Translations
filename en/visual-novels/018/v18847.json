@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18847",
+  "type": "visual_novel",
+  "name": "Mushi Mitsudoki",
+  "original_name": "蟲ッ刻",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sequel to Mushi no Me.",
+  "source_sha256": "e01bd5d792118a0487e8b78bac556974d8fc4f1b462a9e7bf39ed07cdbfe1a24",
+  "translation": "Sequel to Mushi no Me.",
+  "vndb_url": "https://vndb.org/v18847"
+}

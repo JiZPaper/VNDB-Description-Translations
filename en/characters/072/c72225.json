@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c72225",
+  "type": "character",
+  "name": "Yarase",
+  "original_name": "ヤラセ",
+  "language": "en",
+  "source_language": "en",
+  "source": "An adventurer from the Kingdom of Eden.\n\n[spoiler]Scouted by Snake Crest. [/spoiler]",
+  "source_sha256": "b44e66ee0286386e84f4516447b42b4c6fbeb6f8604709ed07cdc2367951c76d",
+  "translation": "An adventurer from the Kingdom of Eden.\n\n[spoiler]Scouted by Snake Crest. [/spoiler]",
+  "vndb_url": "https://vndb.org/c72225"
+}

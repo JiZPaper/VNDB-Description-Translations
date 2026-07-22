@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34892",
+  "type": "character",
+  "name": "Gawain",
+  "original_name": "ガウェイン",
+  "language": "en",
+  "source_language": "en",
+  "source": "She has a sword called Galateen, which has the feature of tripling its strength from morning to noon.",
+  "source_sha256": "3e3e2997293b0db1ef1632b46839439c1ec4d8e955c826f57a95de4d80a14ac6",
+  "translation": "She has a sword called Galateen, which has the feature of tripling its strength from morning to noon.",
+  "vndb_url": "https://vndb.org/c34892"
+}

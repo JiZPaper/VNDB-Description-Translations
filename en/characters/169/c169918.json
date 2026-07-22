@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169918",
+  "type": "character",
+  "name": "Grandpa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The father of [url=/c169791]Lena[/url] and the grandfather of the [url=/cc169868]Protagonist[/url]. He lives in a nursing home in Miami.",
+  "source_sha256": "cbdb2c9c0cf696a2ac569bd546a8a11261dabe34cd06d76ea2775e935147664a",
+  "translation": "The father of [url=/c169791]Lena[/url] and the grandfather of the [url=/cc169868]Protagonist[/url]. He lives in a nursing home in Miami.",
+  "vndb_url": "https://vndb.org/c169918"
+}

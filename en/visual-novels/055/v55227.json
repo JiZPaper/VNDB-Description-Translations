@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55227",
+  "type": "visual_novel",
+  "name": "Ikinari Strawberry",
+  "original_name": "いきなりストロベリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A game where you can learn about three varieties of strawberries from Fukushima prefecture while you get to romance them.",
+  "source_sha256": "928574ff5a2fb642f9d3445cddd524f50d81ea0fd3ef537bb4de6571d4d021fa",
+  "translation": "A game where you can learn about three varieties of strawberries from Fukushima prefecture while you get to romance them.",
+  "vndb_url": "https://vndb.org/v55227"
+}

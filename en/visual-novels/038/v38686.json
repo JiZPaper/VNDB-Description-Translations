@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38686",
+  "type": "visual_novel",
+  "name": "PumkinParty",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You decide to go to a halloween party your friend invited you to. Only for you to go and find out none of your friends arrived. Will you stay or leave? That's your choice.\n\n[From [url=https://ifruitbasket.itch.io/pumkinparty]Itch.io[/url]]",
+  "source_sha256": "f6502efbda883fb79214bde86fedd8aa7c8ce3dac894b1b1140f07b70107c4a4",
+  "translation": "You decide to go to a halloween party your friend invited you to. Only for you to go and find out none of your friends arrived. Will you stay or leave? That's your choice.\n\n[From [url=https://ifruitbasket.itch.io/pumkinparty]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v38686"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29415",
+  "type": "visual_novel",
+  "name": "Asobi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You're a private taxi driver.\nYou receive reservations.\nReach the pick-up point.\nThen drive your clients toward their destination.\n\nTonight, you have to take a girl to a hotel.\nBut who is she?\nWhy is she going there?\n\n[From [url=https://team-soletude.itch.io/asobi]itch.io[/url]]",
+  "source_sha256": "bc5aafe32d25603d4befcb907c9a9dbd0440e2feb70163948058c88aebd6b525",
+  "translation": "You're a private taxi driver.\nYou receive reservations.\nReach the pick-up point.\nThen drive your clients toward their destination.\n\nTonight, you have to take a girl to a hotel.\nBut who is she?\nWhy is she going there?\n\n[From [url=https://team-soletude.itch.io/asobi]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v29415"
+}

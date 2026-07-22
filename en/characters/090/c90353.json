@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90353",
+  "type": "character",
+  "name": "Narrator (male voice)",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The underpaid and overworked narrator.",
+  "source_sha256": "8d2589a40796cecc66fec1cc4ed2a2ebe215a26a3ded545dcc2e304f7bd9d4e8",
+  "translation": "The underpaid and overworked narrator.",
+  "vndb_url": "https://vndb.org/c90353"
+}

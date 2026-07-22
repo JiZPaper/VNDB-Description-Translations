@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136767",
+  "type": "character",
+  "name": "Crystal",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A hotel worker.",
+  "source_sha256": "9acd362a4c798cf6f9ec8027ee439e19bb9903cc57793f4fe48cffe7ecac3764",
+  "translation": "A hotel worker.",
+  "vndb_url": "https://vndb.org/c136767"
+}

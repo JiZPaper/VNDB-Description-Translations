@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123009",
+  "type": "character",
+  "name": "Madam Ambrose",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She runs the hostess club Aphrodite.",
+  "source_sha256": "2f55331365b6dcd27fc740479475591d9a09277fe0b39ce1b5198396b947200f",
+  "translation": "She runs the hostess club Aphrodite.",
+  "vndb_url": "https://vndb.org/c123009"
+}

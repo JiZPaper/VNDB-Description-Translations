@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19086",
+  "type": "visual_novel",
+  "name": "Tales of Zestiria: A Sorey/Mikleo Christmas Special",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Tales of Zestiria boys love fan visual novel.",
+  "source_sha256": "086ac414348ad95b5292c69b3f6d2c92c6d45e778ba900a764c675cd4f584b58",
+  "translation": "A Tales of Zestiria boys love fan visual novel.",
+  "vndb_url": "https://vndb.org/v19086"
+}

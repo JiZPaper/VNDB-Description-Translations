@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99903",
+  "type": "character",
+  "name": "Lucha",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lucha is a striking detective who wears a wrestling mask. Her luchadora name is \"Spidermouth\", but don't tell anyone.",
+  "source_sha256": "dec632953b49296c484a3e927f672d79d73f18bba9bf0dd8fea12b8a62275974",
+  "translation": "Lucha is a striking detective who wears a wrestling mask. Her luchadora name is \"Spidermouth\", but don't tell anyone.",
+  "vndb_url": "https://vndb.org/c99903"
+}

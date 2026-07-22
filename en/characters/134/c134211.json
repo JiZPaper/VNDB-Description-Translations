@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134211",
+  "type": "character",
+  "name": "Assistant",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He works at a cell phone store.",
+  "source_sha256": "3845b586443475b6c1194c99a518486f9090c9b03f33fe2520f03bb451914367",
+  "translation": "He works at a cell phone store.",
+  "vndb_url": "https://vndb.org/c134211"
+}

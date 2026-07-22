@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84133",
+  "type": "character",
+  "name": "Jack Keithman",
+  "original_name": "ジャック・キースマン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A police officer from the 16th precinct that happens to be responding to a noise complaint coming from Cooger's house.",
+  "source_sha256": "f304e9fe4941f387daa97d610a08112b7b541de3fae7a26d1c210e1addd1324e",
+  "translation": "A police officer from the 16th precinct that happens to be responding to a noise complaint coming from Cooger's house.",
+  "vndb_url": "https://vndb.org/c84133"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140142",
+  "type": "character",
+  "name": "Claire",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "John's wife.",
+  "source_sha256": "be35a0eb2e7ca3b73541015c8aaafaef56841c10d9990a26d2ec5047e002e096",
+  "translation": "John's wife.",
+  "vndb_url": "https://vndb.org/c140142"
+}

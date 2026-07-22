@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139686",
+  "type": "character",
+  "name": "Marcus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He's a bartender at the Brain Dance nightclub.\n\n[In game description]",
+  "source_sha256": "1b88b119f2cbbea35056b3f0b56eb427190cc694de5b59aa3ad8834ba37ebfa7",
+  "translation": "He's a bartender at the Brain Dance nightclub.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c139686"
+}

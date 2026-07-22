@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33377",
+  "type": "character",
+  "name": "Selene",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Selene is the assigned navigator of the newly-arrived fighter [url=/c33374]Helios[/url].",
+  "source_sha256": "33843f2e738808f5ad7cc2b333b4ac3f787b1b23d5794cb16c1ddb25a97cc94e",
+  "translation": "Selene is the assigned navigator of the newly-arrived fighter [url=/c33374]Helios[/url].",
+  "vndb_url": "https://vndb.org/c33377"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13751",
+  "type": "visual_novel",
+  "name": "Pizza Ditza",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Try to earn money as a pizza delivery girl.",
+  "source_sha256": "ef82a85643fa9aab3adb8d92e48e4b7909727826e79db8458d7eb721dbdc41f5",
+  "translation": "Try to earn money as a pizza delivery girl.",
+  "vndb_url": "https://vndb.org/v13751"
+}

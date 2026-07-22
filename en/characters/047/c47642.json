@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47642",
+  "type": "character",
+  "name": "Dena",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A friend from Marcel's past.",
+  "source_sha256": "d64e1b1cdf143b7c1b32244151aef792c474d9dd275fb6bd1f01feb17b4d2ff9",
+  "translation": "A friend from Marcel's past.",
+  "vndb_url": "https://vndb.org/c47642"
+}

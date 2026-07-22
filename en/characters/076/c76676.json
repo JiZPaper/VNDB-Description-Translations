@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76676",
+  "type": "character",
+  "name": "Pierre Sumeragi",
+  "original_name": "ピエール皇",
+  "language": "en",
+  "source_language": "en",
+  "source": "The advisor for Lumiere Company.",
+  "source_sha256": "235169721aad6c3fc586300a4a9ccbecab560b6eedb4bb48706b88cd20e1dd09",
+  "translation": "The advisor for Lumiere Company.",
+  "vndb_url": "https://vndb.org/c76676"
+}

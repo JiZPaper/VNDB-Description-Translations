@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79330",
+  "type": "character",
+  "name": "Shamon",
+  "original_name": "シャモン",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Wakou Ouka's cat.",
+  "source_sha256": "b995412bbe7f043e6e3010fda9c2c7c00733bfaed452f679838aa1b60e37dd31",
+  "translation": "The Wakou Ouka's cat.",
+  "vndb_url": "https://vndb.org/c79330"
+}

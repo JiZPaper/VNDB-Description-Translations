@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54161",
+  "type": "visual_novel",
+  "name": "Enough Time",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The game will eventually end. Feel free to pass the time.\n\n[From [url=https://blastmatt.itch.io/enough-time]itch.io[/url]]",
+  "source_sha256": "aa579454d8fb3bad5b087614c50c15fba4afe9898178a30859d2fb13ebc10717",
+  "translation": "The game will eventually end. Feel free to pass the time.\n\n[From [url=https://blastmatt.itch.io/enough-time]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v54161"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33428",
+  "type": "character",
+  "name": "Athos",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Athos is partnered with his navigator, [url=/c33426]Porthos[/url].",
+  "source_sha256": "8bc3491abe46c7f300ac3de278eb675823a885d41f5e61e8348e4df44192f967",
+  "translation": "Athos is partnered with his navigator, [url=/c33426]Porthos[/url].",
+  "vndb_url": "https://vndb.org/c33428"
+}

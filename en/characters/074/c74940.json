@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c74940",
+  "type": "character",
+  "name": "Sato",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A television show director.",
+  "source_sha256": "173e0e6f79d66191d44e14de32b3a1e23f379d56014b84e535c1e30891525587",
+  "translation": "A television show director.",
+  "vndb_url": "https://vndb.org/c74940"
+}

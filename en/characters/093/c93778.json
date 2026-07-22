@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93778",
+  "type": "character",
+  "name": "Violet Muller",
+  "original_name": "ヴァイオレット・ミュレー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fenn's valet.\n\nIndulgence: Blue wine, Luxure shashlik\nPastime: Admiring pretty creatures, physical training, making accessories.\n\n[From the English app \"Court of Darkness\"]",
+  "source_sha256": "5cffe962aba69664f63ce503a40fedc1a87f91b35cd291975e39f61651c1ef97",
+  "translation": "Fenn's valet.\n\nIndulgence: Blue wine, Luxure shashlik\nPastime: Admiring pretty creatures, physical training, making accessories.\n\n[From the English app \"Court of Darkness\"]",
+  "vndb_url": "https://vndb.org/c93778"
+}

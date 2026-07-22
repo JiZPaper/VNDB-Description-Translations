@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32004",
+  "type": "visual_novel",
+  "name": "Monika and the Glitch",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Monika meets Glitchtrap, a bad combination.",
+  "source_sha256": "c17ee0f45924331df9c44d6eb709770a0b0b33f80001f6710f35397015eac40d",
+  "translation": "Monika meets Glitchtrap, a bad combination.",
+  "vndb_url": "https://vndb.org/v32004"
+}

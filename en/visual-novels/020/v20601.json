@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20601",
+  "type": "visual_novel",
+  "name": "Maji de Watashi ni Koishinasai! A-4",
+  "original_name": "真剣で私に恋しなさい！A-4",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fandisc featuring routes for Homura and Lin.",
+  "source_sha256": "2a410ea6b01ffb2796d65026fb5aa5f0c05758c3b9c285dcaa82de70ddb181f2",
+  "translation": "A fandisc featuring routes for Homura and Lin.",
+  "vndb_url": "https://vndb.org/v20601"
+}

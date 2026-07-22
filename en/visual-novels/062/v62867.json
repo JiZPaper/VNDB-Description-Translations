@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62867",
+  "type": "visual_novel",
+  "name": "Tower",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "a story about two (girl) friends on a grey, vertical tower.\n\n[From [url=https://tokuuu.itch.io/tower]itch.io[/url]]",
+  "source_sha256": "9a23aeaab4500708384cea17c3b350533149201e1271f39053e3a898c4770c14",
+  "translation": "a story about two (girl) friends on a grey, vertical tower.\n\n[From [url=https://tokuuu.itch.io/tower]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v62867"
+}

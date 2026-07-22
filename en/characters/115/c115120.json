@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115120",
+  "type": "character",
+  "name": "Doctor Wu",
+  "original_name": "医師",
+  "language": "en",
+  "source_language": "en",
+  "source": "Francis' doctor. He tells Yvet that it is unlikely he will regain consciousness.",
+  "source_sha256": "0736aa320a4b1c0328327e935c1d89db65add2d38b1f7df84c1950fe0e653ed6",
+  "translation": "Francis' doctor. He tells Yvet that it is unlikely he will regain consciousness.",
+  "vndb_url": "https://vndb.org/c115120"
+}

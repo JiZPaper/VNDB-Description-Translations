@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65126",
+  "type": "visual_novel",
+  "name": "Ne esh' etot prokljatyj burger",
+  "original_name": "Не ешь этот проклятый бургер",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a short story about a burger you really shouldn’t eat.\nBut desperately want to anyway.",
+  "source_sha256": "d2ff59afc964e9d4afe833a8d8968bc5d845163aec91196778dc9c57bb765899",
+  "translation": "This is a short story about a burger you really shouldn’t eat.\nBut desperately want to anyway.",
+  "vndb_url": "https://vndb.org/v65126"
+}

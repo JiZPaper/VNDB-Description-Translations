@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15521",
+  "type": "visual_novel",
+  "name": "Monocrowe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"This is a story about a raven.\"",
+  "source_sha256": "26a36017a974b486adf461d169cce37d7eba94f0ab09d410e7bb6e9612991fa3",
+  "translation": "\"This is a story about a raven.\"",
+  "vndb_url": "https://vndb.org/v15521"
+}

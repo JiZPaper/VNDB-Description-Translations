@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4691",
+  "type": "character",
+  "name": "Bark",
+  "original_name": "バーク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Bark is Forbesii's butler and is very devoted to him.",
+  "source_sha256": "68c9246fe7b9fcd5e97ce6d1d7cfde4b2029b53e319e149dd18f616520c9dd5a",
+  "translation": "Bark is Forbesii's butler and is very devoted to him.",
+  "vndb_url": "https://vndb.org/c4691"
+}

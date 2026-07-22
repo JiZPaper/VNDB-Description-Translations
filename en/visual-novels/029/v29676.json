@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29676",
+  "type": "visual_novel",
+  "name": "Routine Checkup",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You visit a doctor for the usual checkup, but eventually, things go sideways...",
+  "source_sha256": "24f6048c5180aed09ee4f1dff88303dd77db87814549cf6d605f3af8bc99066d",
+  "translation": "You visit a doctor for the usual checkup, but eventually, things go sideways...",
+  "vndb_url": "https://vndb.org/v29676"
+}

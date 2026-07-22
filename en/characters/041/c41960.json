@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41960",
+  "type": "character",
+  "name": "Ito",
+  "original_name": "糸",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Ability: Spider Silk\nCan create threads that immobilize the person who touches it, and can also turn them invisible[/spoiler]",
+  "source_sha256": "f007a9b983bd29ec6805a0957970cd9fc750ac8a108fcbd65ea36cd3769bb34b",
+  "translation": "[spoiler]Ability: Spider Silk\nCan create threads that immobilize the person who touches it, and can also turn them invisible[/spoiler]",
+  "vndb_url": "https://vndb.org/c41960"
+}

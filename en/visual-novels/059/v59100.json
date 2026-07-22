@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59100",
+  "type": "visual_novel",
+  "name": "The Elevator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Running an errand means leaving your 28th-floor apartment. You take the elevator and notice your crush has stepped in. \n\nDo you say something?\n\n[From [url=https://www.newgrounds.com/portal/view/636241]Newgrounds[/url]]",
+  "source_sha256": "2a84be728b86e27e39e03aeb70010017261c729fe414d9297a6da6d5a5268d34",
+  "translation": "Running an errand means leaving your 28th-floor apartment. You take the elevator and notice your crush has stepped in. \n\nDo you say something?\n\n[From [url=https://www.newgrounds.com/portal/view/636241]Newgrounds[/url]]",
+  "vndb_url": "https://vndb.org/v59100"
+}

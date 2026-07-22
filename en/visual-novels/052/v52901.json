@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52901",
+  "type": "visual_novel",
+  "name": "Behind The Curtains",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "In this game, you will follow the lives of two characters: an ordinary-looking young man hiding a huge secret, and a police officer investigating a case in New York City. The story alternates between your struggle for survival and the police officer's investigation, where every choice can lead to shocking revelations or a tragic ending.",
+  "source_sha256": "6bcb383d83204d424d713f6513d42e8e41c7cb83a27fecb3f2b9d6a7ca0794a8",
+  "translation": "In this game, you will follow the lives of two characters: an ordinary-looking young man hiding a huge secret, and a police officer investigating a case in New York City. The story alternates between your struggle for survival and the police officer's investigation, where every choice can lead to shocking revelations or a tragic ending.",
+  "vndb_url": "https://vndb.org/v52901"
+}

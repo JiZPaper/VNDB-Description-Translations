@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123625",
+  "type": "character",
+  "name": "Shinku",
+  "original_name": "真紅",
+  "language": "en",
+  "source_language": "en",
+  "source": "Instance of Shinku in NOMAD Rozen Maiden continuation, which is also used in TAITO Visual Novels.\nShe is the fifth Rozen Maiden doll.",
+  "source_sha256": "f20b22997fd48fd6d28c7b3eac07be428cc00c93f48974fe76614b4d6e03e7c3",
+  "translation": "Instance of Shinku in NOMAD Rozen Maiden continuation, which is also used in TAITO Visual Novels.\nShe is the fifth Rozen Maiden doll.",
+  "vndb_url": "https://vndb.org/c123625"
+}

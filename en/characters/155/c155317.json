@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155317",
+  "type": "character",
+  "name": "Arsène",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Cult member of the Aurum Family.",
+  "source_sha256": "a3f679ddda830cf3b2127c887e1e2a83243abb3dd0edb46ee3589f75154de234",
+  "translation": "Cult member of the Aurum Family.",
+  "vndb_url": "https://vndb.org/c155317"
+}

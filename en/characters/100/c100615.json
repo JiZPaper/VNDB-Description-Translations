@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100615",
+  "type": "character",
+  "name": "Natsuki Mai",
+  "original_name": "夏生 麻衣",
+  "language": "en",
+  "source_language": "en",
+  "source": "Calls the protagonist \"Onii-chan\"",
+  "source_sha256": "1426ec6d7e3ef7250369a70a56e60b676b92c162470582f81299d797143bfb3d",
+  "translation": "Calls the protagonist \"Onii-chan\"",
+  "vndb_url": "https://vndb.org/c100615"
+}

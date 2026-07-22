@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75872",
+  "type": "character",
+  "name": "Kevin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jessica's friend from college.",
+  "source_sha256": "60d21c799d328ba9a2952cc6560a6dd31f1bfa3e7146df4bdcee0a6aec273b37",
+  "translation": "Jessica's friend from college.",
+  "vndb_url": "https://vndb.org/c75872"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133870",
+  "type": "character",
+  "name": "Scotty",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is [url=/c132876]Kirk[/url]'s cousin.",
+  "source_sha256": "fdea584e26c7f44d6499a91331f92d305b2997161276ede04b663d8920ac1e8d",
+  "translation": "He is [url=/c132876]Kirk[/url]'s cousin.",
+  "vndb_url": "https://vndb.org/c133870"
+}

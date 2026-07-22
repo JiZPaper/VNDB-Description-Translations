@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64243",
+  "type": "visual_novel",
+  "name": "Fuukiiin Komaraseru",
+  "original_name": "風紀委員困らせる",
+  "language": "en",
+  "source_language": "en",
+  "source": "A game where you intentionally bring out \"weird things\" during a bag check to embarrass the serious student council member.",
+  "source_sha256": "5bc4fac86be3f65dd23e811c790ca52bf70d079fc51fb0c143e397b1b6be55fb",
+  "translation": "A game where you intentionally bring out \"weird things\" during a bag check to embarrass the serious student council member.",
+  "vndb_url": "https://vndb.org/v64243"
+}

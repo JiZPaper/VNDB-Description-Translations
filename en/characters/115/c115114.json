@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115114",
+  "type": "character",
+  "name": "Mantis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Koko's coworker.",
+  "source_sha256": "d67749da7f3d3618ae57e4097863ec31ea98420b1e784eb238b783d6812a63d0",
+  "translation": "Koko's coworker.",
+  "vndb_url": "https://vndb.org/c115114"
+}

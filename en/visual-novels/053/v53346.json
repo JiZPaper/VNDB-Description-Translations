@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53346",
+  "type": "visual_novel",
+  "name": "ION: Lezviem po strunam",
+  "original_name": "ИОН: Лезвием по струнам",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a story of what happened to Semyon after the events of Lena's route.",
+  "source_sha256": "2a35de9457a3031edceb1390fe197fc8f190060a604a80bd8cac1f2b004a8ebc",
+  "translation": "This is a story of what happened to Semyon after the events of Lena's route.",
+  "vndb_url": "https://vndb.org/v53346"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c27050",
+  "type": "character",
+  "name": "Watts",
+  "original_name": "ワッツ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Watts is Reina's assistant on the archeological dig.",
+  "source_sha256": "d05fdfd2673ad934dafde54cdc1183651d685b95f0e49f4cea893599d6d2019b",
+  "translation": "Watts is Reina's assistant on the archeological dig.",
+  "vndb_url": "https://vndb.org/c27050"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150177",
+  "type": "character",
+  "name": "Mad Suzuki",
+  "original_name": "マッド鈴木",
+  "language": "en",
+  "source_language": "en",
+  "source": "The leader of the mad scientists who assists Nishizono Mio by giving her high-tech weapons in the battle mini-game if Mio's route is cleared.",
+  "source_sha256": "0bd7682d1c0f4f849de77effadae0e6e2f24def810797392327939b6c3bf471c",
+  "translation": "The leader of the mad scientists who assists Nishizono Mio by giving her high-tech weapons in the battle mini-game if Mio's route is cleared.",
+  "vndb_url": "https://vndb.org/c150177"
+}

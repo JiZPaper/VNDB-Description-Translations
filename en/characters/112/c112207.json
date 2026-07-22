@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112207",
+  "type": "character",
+  "name": "Jestress",
+  "original_name": "ジェストレス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious young woman that acts as a mouthpiece for the Three Kings.",
+  "source_sha256": "b528ef0507d1d3162906d2489c7cc1605f97bc2c94c00c143a08b3b4e1b81df4",
+  "translation": "A mysterious young woman that acts as a mouthpiece for the Three Kings.",
+  "vndb_url": "https://vndb.org/c112207"
+}

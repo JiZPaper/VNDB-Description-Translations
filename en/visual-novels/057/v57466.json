@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57466",
+  "type": "visual_novel",
+  "name": "Helena",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are a reporter tasked with interviewing the locals of a small town about the recent murders in the area. You have just one more person left to interview before packing up and going home, but she might give you more than you bargained for.\n\n[From [url=https://deimosengine.itch.io/helena]Itch.io[/url]]",
+  "source_sha256": "55a777f9f48479711fbc7e06442f7ed0a7f9966ece9c7426dda463cb8865173b",
+  "translation": "You are a reporter tasked with interviewing the locals of a small town about the recent murders in the area. You have just one more person left to interview before packing up and going home, but she might give you more than you bargained for.\n\n[From [url=https://deimosengine.itch.io/helena]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v57466"
+}

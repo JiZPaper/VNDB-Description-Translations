@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75417",
+  "type": "character",
+  "name": "Severin Cale",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Severin Cale is the leader of the mercenaries.",
+  "source_sha256": "ed9f6129d792a18912e4eca5c4115b74e0ccf9c417b5de36ea32b8e43363857e",
+  "translation": "Severin Cale is the leader of the mercenaries.",
+  "vndb_url": "https://vndb.org/c75417"
+}

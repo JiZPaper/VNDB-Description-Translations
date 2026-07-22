@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124983",
+  "type": "character",
+  "name": "Xiao Jing",
+  "original_name": "小静",
+  "language": "en",
+  "source_language": "en",
+  "source": "A ghost living in the protagonist's rented apartment.",
+  "source_sha256": "be3ce0a7d282d24f184681e3fb3610d2619d3ef95e1b6c5a370857d78af56014",
+  "translation": "A ghost living in the protagonist's rented apartment.",
+  "vndb_url": "https://vndb.org/c124983"
+}

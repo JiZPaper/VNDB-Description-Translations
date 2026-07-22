@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c24568",
+  "type": "character",
+  "name": "Dark Unknown",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "always attacks and cares less about his teammates.",
+  "source_sha256": "ede82ec545f99d4fce19b982ed2a196bf1582c76d6c97838ca5a460b8c1729c6",
+  "translation": "always attacks and cares less about his teammates.",
+  "vndb_url": "https://vndb.org/c24568"
+}

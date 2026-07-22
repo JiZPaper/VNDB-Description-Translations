@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134030",
+  "type": "character",
+  "name": "Marume",
+  "original_name": "マルメ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A doctor in the village.",
+  "source_sha256": "2cbfce929cee079746252157812e39ab92318f206438ba2d31001c2212de67c8",
+  "translation": "A doctor in the village.",
+  "vndb_url": "https://vndb.org/c134030"
+}

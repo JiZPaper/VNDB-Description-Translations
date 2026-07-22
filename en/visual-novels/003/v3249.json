@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3249",
+  "type": "visual_novel",
+  "name": "The Dandelion Girl",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A middle-aged man on his summer vacation meets a strange girl who claims to be from the future. Adapted from a short story by Robert F. Young.",
+  "source_sha256": "94fc970d7ab1fae00aa1198d4cf268b505b824e3a772e46cb5c26a6ec35153c7",
+  "translation": "A middle-aged man on his summer vacation meets a strange girl who claims to be from the future. Adapted from a short story by Robert F. Young.",
+  "vndb_url": "https://vndb.org/v3249"
+}

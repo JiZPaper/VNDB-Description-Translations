@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c78841",
+  "type": "character",
+  "name": "Mavie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A traveling merchant.",
+  "source_sha256": "ab1b76fb8bf8c09567e5c17aefc199e54282c574b3cfaf29bbe361e8223dbf80",
+  "translation": "A traveling merchant.",
+  "vndb_url": "https://vndb.org/c78841"
+}

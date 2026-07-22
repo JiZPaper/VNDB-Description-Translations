@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95827",
+  "type": "character",
+  "name": "James Cage White",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of the story.\nBased on the real James Cage White.",
+  "source_sha256": "90612111a2f4706402fa23e8702a8f4ddf5762e08f21e2ba7ce74ad7e125404e",
+  "translation": "The protagonist of the story.\nBased on the real James Cage White.",
+  "vndb_url": "https://vndb.org/c95827"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71247",
+  "type": "character",
+  "name": "Taniguchi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Age: 16-17\nOccupation: Student\n\nFrequently found in the company of [url=/c71229]Kunikida[/url].",
+  "source_sha256": "fb17c823a724f907127240947498decfa6db7beafc67d62427f42dbc9a8b3026",
+  "translation": "Age: 16-17\nOccupation: Student\n\nFrequently found in the company of [url=/c71229]Kunikida[/url].",
+  "vndb_url": "https://vndb.org/c71247"
+}

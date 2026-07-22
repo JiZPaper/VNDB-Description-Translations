@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60817",
+  "type": "visual_novel",
+  "name": "Itsuka no Yoru",
+  "original_name": "イツカノヨル",
+  "language": "en",
+  "source_language": "en",
+  "source": "You have been assigned to guard a dragon girl set to be executed at the end of 5 days. If she tries anything shady or attempts to hurt you, push that button right in front of you.\nIt will execute her instantly.\n\n[From [url=https://store.steampowered.com/app/3030980]Steam[/url]]",
+  "source_sha256": "867755b3107cc16688e93bcd6bb5c1be29828e51a4bb6aedeca87b3568dd3ee7",
+  "translation": "You have been assigned to guard a dragon girl set to be executed at the end of 5 days. If she tries anything shady or attempts to hurt you, push that button right in front of you.\nIt will execute her instantly.\n\n[From [url=https://store.steampowered.com/app/3030980]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v60817"
+}

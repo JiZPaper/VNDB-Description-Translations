@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65890",
+  "type": "character",
+  "name": "Mikoto",
+  "original_name": "みこと",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mitarou's mother.",
+  "source_sha256": "3788ae51df1d293b8a7a52f7609b2f50f85ea186de445c4e85b19085d4b06cf4",
+  "translation": "Mitarou's mother.",
+  "vndb_url": "https://vndb.org/c65890"
+}

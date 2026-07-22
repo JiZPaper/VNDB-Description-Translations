@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c114367",
+  "type": "character",
+  "name": "Stranger",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Billie's friends.",
+  "source_sha256": "3ce53955d6da3f6f497c7b45b184fdb45c347238ae829542d7b37de5b2f07df9",
+  "translation": "One of Billie's friends.",
+  "vndb_url": "https://vndb.org/c114367"
+}

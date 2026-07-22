@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31082",
+  "type": "visual_novel",
+  "name": "Mimosa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short story about a shy little girl called Wei Ting and her struggles with social interaction.",
+  "source_sha256": "6019b812b522604ad3a669bcf0878fad83c4f6487c5f3b5516296770cd272d29",
+  "translation": "A short story about a shy little girl called Wei Ting and her struggles with social interaction.",
+  "vndb_url": "https://vndb.org/v31082"
+}

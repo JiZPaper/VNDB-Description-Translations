@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44853",
+  "type": "character",
+  "name": "Gilbert",
+  "original_name": "ギルバート",
+  "language": "en",
+  "source_language": "en",
+  "source": "Birthplace: Unknown\nWeapon: Sword\nLikes: Alcohol, Tobacco\nDislikes: Unknown",
+  "source_sha256": "7dfd9e57db04f9d534a0d9df81da354a8b8ac5a7fddadd136197e2046ec41a61",
+  "translation": "Birthplace: Unknown\nWeapon: Sword\nLikes: Alcohol, Tobacco\nDislikes: Unknown",
+  "vndb_url": "https://vndb.org/c44853"
+}

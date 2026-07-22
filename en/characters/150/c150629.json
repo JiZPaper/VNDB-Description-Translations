@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150629",
+  "type": "character",
+  "name": "Jianzhen",
+  "original_name": "鑑真",
+  "language": "en",
+  "source_language": "en",
+  "source": "A captive high priestess, she failed to cross the sea and was picked up by pirates.\n\n\"I can see... an ominous shadow behind you!\"",
+  "source_sha256": "d5a705bb91d71c520fbeceec8a9b46b0287e3a3297394511ac864bb6c5b2b81a",
+  "translation": "A captive high priestess, she failed to cross the sea and was picked up by pirates.\n\n\"I can see... an ominous shadow behind you!\"",
+  "vndb_url": "https://vndb.org/c150629"
+}

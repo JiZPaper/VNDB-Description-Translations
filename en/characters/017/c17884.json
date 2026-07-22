@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17884",
+  "type": "character",
+  "name": "Azumi",
+  "original_name": "安曇",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Japanese man studying in Taiwan.",
+  "source_sha256": "fdff56d5babbc174f5a37e9b4e6bc8a901a883df34ba593699cd53528fb60f2d",
+  "translation": "A Japanese man studying in Taiwan.",
+  "vndb_url": "https://vndb.org/c17884"
+}

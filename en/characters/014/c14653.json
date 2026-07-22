@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c14653",
+  "type": "character",
+  "name": "Ren",
+  "original_name": "蓮",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"You're thinking too much. Your logic processor will short-circuit.\"\n\nAoba’s Allmate. An older model, Ren requires regular maintenance, which Aoba performs himself. His calm advice has pulled Aoba out of many a sticky situation.\n\n[From the digital manual included with r76424]",
+  "source_sha256": "2ad244d76b2ea6fcd0a761269c97bfab125f30270f4b048e86d5a340364e14cc",
+  "translation": "\"You're thinking too much. Your logic processor will short-circuit.\"\n\nAoba’s Allmate. An older model, Ren requires regular maintenance, which Aoba performs himself. His calm advice has pulled Aoba out of many a sticky situation.\n\n[From the digital manual included with r76424]",
+  "vndb_url": "https://vndb.org/c14653"
+}

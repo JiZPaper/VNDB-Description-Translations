@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c171925",
+  "type": "character",
+  "name": "Big Jake",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "School's Security",
+  "source_sha256": "af111cff123684698ce061816ab247a85247aa2c2da7f635c3b66150ca6e56b1",
+  "translation": "School's Security",
+  "vndb_url": "https://vndb.org/c171925"
+}

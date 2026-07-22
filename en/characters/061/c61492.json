@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61492",
+  "type": "character",
+  "name": "Santa",
+  "original_name": "산타",
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl who claims she is Santa.",
+  "source_sha256": "72966052ee0889e7829f6bc68d27a69bb9cf194d0f37e35941dc8cede33b7d9c",
+  "translation": "A girl who claims she is Santa.",
+  "vndb_url": "https://vndb.org/c61492"
+}

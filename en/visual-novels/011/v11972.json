@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11972",
+  "type": "visual_novel",
+  "name": "Kimi ni Todoke ~Tsutaeru Kimochi~",
+  "original_name": "君に届け〜伝えるキモチ〜",
+  "language": "en",
+  "source_language": "en",
+  "source": "In this game, players take again control of Sawako, and will help her get Kazehaya's attention.",
+  "source_sha256": "00e498004bd66711b0d6607ed2cc85dfa731a1b83b943906fc090fe0bb0b6dc4",
+  "translation": "In this game, players take again control of Sawako, and will help her get Kazehaya's attention.",
+  "vndb_url": "https://vndb.org/v11972"
+}

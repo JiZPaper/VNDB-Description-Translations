@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34573",
+  "type": "visual_novel",
+  "name": "Shiawase no Robot",
+  "original_name": "しあわせのロボット",
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about a robot searching for happiness.",
+  "source_sha256": "b43f3cd9ccc4008c2fdab18c912fe82e32231430570aa0f08824ba3b7e4a4575",
+  "translation": "A story about a robot searching for happiness.",
+  "vndb_url": "https://vndb.org/v34573"
+}

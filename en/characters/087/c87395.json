@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87395",
+  "type": "character",
+  "name": "Lady's maid",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The maids who serve under the queen of Hillsland in the palace.",
+  "source_sha256": "30cb805f9479a9e768d27b73ae265c0e56ad1bb3e7c39deeb779d9392ab06294",
+  "translation": "The maids who serve under the queen of Hillsland in the palace.",
+  "vndb_url": "https://vndb.org/c87395"
+}

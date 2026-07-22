@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148940",
+  "type": "character",
+  "name": "Matilda",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Beatrice's mother.",
+  "source_sha256": "db8c1956f571277fc2a8788418d49d076bffb2f77772ce2a38d69bdd5545da6a",
+  "translation": "Beatrice's mother.",
+  "vndb_url": "https://vndb.org/c148940"
+}

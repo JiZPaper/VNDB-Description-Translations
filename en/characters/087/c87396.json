@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87396",
+  "type": "character",
+  "name": "Rusalka",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The father of [url=/c10445]Lorelia[/url], takes care of the harbor of Molgrey.",
+  "source_sha256": "dc7930ac86714c4760cb7d080d8ce1bf0f0ec2cc92ab9ba696c6615662142ad1",
+  "translation": "The father of [url=/c10445]Lorelia[/url], takes care of the harbor of Molgrey.",
+  "vndb_url": "https://vndb.org/c87396"
+}

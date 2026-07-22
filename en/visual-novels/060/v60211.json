@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60211",
+  "type": "visual_novel",
+  "name": "Love Craft",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Dear Student, Congratulations!\n\nWe are thrilled to inform you that you have been accepted into Cubiversity!\n\nMeet 15 charming classmates, and join the prestigious Crafting Club, a cozy place to sew together something special!\n\n[From [url=https://store.steampowered.com/app/3691640/Love_Craft/]Steam[/url]]\n\nA full rewrite and remake, combining [url=/v60371]Doki Doki Crafting Club[/url] and [url=/v60372]Love Craft[/url] into a single game with 3 new characters.",
+  "source_sha256": "57c6f0aaef12daca45a67a6b4f443fd59c8c2dd28d0e3757b87ed8f95ba68902",
+  "translation": "Dear Student, Congratulations!\n\nWe are thrilled to inform you that you have been accepted into Cubiversity!\n\nMeet 15 charming classmates, and join the prestigious Crafting Club, a cozy place to sew together something special!\n\n[From [url=https://store.steampowered.com/app/3691640/Love_Craft/]Steam[/url]]\n\nA full rewrite and remake, combining [url=/v60371]Doki Doki Crafting Club[/url] and [url=/v60372]Love Craft[/url] into a single game with 3 new characters.",
+  "vndb_url": "https://vndb.org/v60211"
+}

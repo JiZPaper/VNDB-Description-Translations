@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c74794",
+  "type": "character",
+  "name": "Miley",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The counselor of Sophie.",
+  "source_sha256": "a13c804e42ea090532ea66bb2969007687bbbab1f8163a019860beb9e1ff4876",
+  "translation": "The counselor of Sophie.",
+  "vndb_url": "https://vndb.org/c74794"
+}

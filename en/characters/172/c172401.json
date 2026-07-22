@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172401",
+  "type": "character",
+  "name": "Clerk",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Clothes shop's clerk",
+  "source_sha256": "58da285159d546cd9a816de6d65a596d7a30e9aaf8b34b2388cb75a6d3d6db99",
+  "translation": "Clothes shop's clerk",
+  "vndb_url": "https://vndb.org/c172401"
+}

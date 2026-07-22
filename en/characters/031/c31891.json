@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c31891",
+  "type": "character",
+  "name": "Rafua",
+  "original_name": "ラフア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Specific plant: Rafflesia - ラフレシア",
+  "source_sha256": "93461d58514543acbb4144617fd4f214d23cdeb7eafab772fd60fedd32ad3d33",
+  "translation": "Specific plant: Rafflesia - ラフレシア",
+  "vndb_url": "https://vndb.org/c31891"
+}

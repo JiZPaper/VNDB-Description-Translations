@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51194",
+  "type": "visual_novel",
+  "name": "PAIL BLUE PLANET",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "SF x psycho horror adventure game",
+  "source_sha256": "8fb961850af3001a972aa5fa8a589ea8feb51022884ef393fff3c1f4a916e64a",
+  "translation": "SF x psycho horror adventure game",
+  "vndb_url": "https://vndb.org/v51194"
+}

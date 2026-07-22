@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115512",
+  "type": "character",
+  "name": "Kar-Fu",
+  "original_name": "家富",
+  "language": "en",
+  "source_language": "en",
+  "source": "Manager of a game center in Sham Shui Po.\nHe is locally popular for his attention to acoustics and the maniacal lineup of game machines he has installed.",
+  "source_sha256": "004348bb86f2d2cbbd13e879dc25113151392cc1ca465b4b846adc91b1dd5e05",
+  "translation": "Manager of a game center in Sham Shui Po.\nHe is locally popular for his attention to acoustics and the maniacal lineup of game machines he has installed.",
+  "vndb_url": "https://vndb.org/c115512"
+}

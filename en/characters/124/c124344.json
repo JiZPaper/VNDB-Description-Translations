@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124344",
+  "type": "character",
+  "name": "Uncle Richard",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bernd's uncle and the owner of Luxury Transportation services.",
+  "source_sha256": "320db46470f3fb0e639e5f01831b192a778aacac719b524a119ae25ef1be284e",
+  "translation": "Bernd's uncle and the owner of Luxury Transportation services.",
+  "vndb_url": "https://vndb.org/c124344"
+}

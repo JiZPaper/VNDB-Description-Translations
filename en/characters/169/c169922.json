@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169922",
+  "type": "character",
+  "name": "Reporter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A news reporter who attends a press conference held by Deputy Chief [url=/cc169857]Williams[/url].",
+  "source_sha256": "36d5c085a38d904e2ac6f47cb4f60490bec5a64a915e985fb13ab45480b60d81",
+  "translation": "A news reporter who attends a press conference held by Deputy Chief [url=/cc169857]Williams[/url].",
+  "vndb_url": "https://vndb.org/c169922"
+}

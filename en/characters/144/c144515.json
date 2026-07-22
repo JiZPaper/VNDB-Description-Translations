@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c144515",
+  "type": "character",
+  "name": "Mr. Crawling",
+  "original_name": "這いばい男",
+  "language": "en",
+  "source_language": "en",
+  "source": "A man crawling on all fours.",
+  "source_sha256": "8b9ffca95da74dbb0b4020c72a6060c038e4d9fedb9284693986671764e97d0e",
+  "translation": "A man crawling on all fours.",
+  "vndb_url": "https://vndb.org/c144515"
+}

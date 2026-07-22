@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37485",
+  "type": "character",
+  "name": "The Maid",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Seems to be present no matter where you go on the ship, she's somehow the ally of the Prince... but how does she factor into his grand plot, exactly? Whatever she's up to, she's more interested in making sure it runs smoothly than helping you.\nPursuable?: No\n\n[From the [url=http://ladykillerinabind.com/]Official Website[/url]]",
+  "source_sha256": "22d479ba6f059f0cb6ff285910ec238d46abec1961a953bdae91d9269a4a7a8f",
+  "translation": "Seems to be present no matter where you go on the ship, she's somehow the ally of the Prince... but how does she factor into his grand plot, exactly? Whatever she's up to, she's more interested in making sure it runs smoothly than helping you.\nPursuable?: No\n\n[From the [url=http://ladykillerinabind.com/]Official Website[/url]]",
+  "vndb_url": "https://vndb.org/c37485"
+}

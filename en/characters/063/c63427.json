@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c63427",
+  "type": "character",
+  "name": "Sebastian",
+  "original_name": "セバスチャン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A bird (?) trapped in the same cell as Katreya \nYou should be able to cross the wall of the species if you stare at their lovely eyes.",
+  "source_sha256": "5d3524aa5d4f179d72c5986c9cf0eba2b9655d24dd8675b22e5aa60b82a81bfd",
+  "translation": "A bird (?) trapped in the same cell as Katreya \nYou should be able to cross the wall of the species if you stare at their lovely eyes.",
+  "vndb_url": "https://vndb.org/c63427"
+}

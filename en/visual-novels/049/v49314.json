@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49314",
+  "type": "visual_novel",
+  "name": "XenoComi",
+  "original_name": "ぜのコミ",
+  "language": "en",
+  "source_language": "en",
+  "source": "XenoComi is a Visual Novel, that is included in the release of Xenosaga Freaks. The game is divided into seven chapters and tells a more lighthearted story, compared to the otherwise darker and more serious elements of Xenosaga.",
+  "source_sha256": "4e21b19de45f3dbac129340a7e5eb2329c9e79669607bb872d4978eeecab03db",
+  "translation": "XenoComi is a Visual Novel, that is included in the release of Xenosaga Freaks. The game is divided into seven chapters and tells a more lighthearted story, compared to the otherwise darker and more serious elements of Xenosaga.",
+  "vndb_url": "https://vndb.org/v49314"
+}

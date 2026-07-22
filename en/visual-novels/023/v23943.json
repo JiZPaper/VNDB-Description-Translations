@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23943",
+  "type": "visual_novel",
+  "name": "Sakura Taisen GB-geki - Hanagumi Nyuutai!",
+  "original_name": "サクラ大戦GB 檄・花組入隊!",
+  "language": "en",
+  "source_language": "en",
+  "source": "Part of the Sakura Project 2000 series. A GB version of the first game with different plotlines and minigames.",
+  "source_sha256": "617fe420cc6aa28efacc87a98f34098f8e945a365e74f7cd19c160fe1984ef51",
+  "translation": "Part of the Sakura Project 2000 series. A GB version of the first game with different plotlines and minigames.",
+  "vndb_url": "https://vndb.org/v23943"
+}

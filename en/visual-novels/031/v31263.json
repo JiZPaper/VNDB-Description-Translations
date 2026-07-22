@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31263",
+  "type": "visual_novel",
+  "name": "Ramen For Two",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Set in 80's Japan, play as a man eating ramen with his wife every week as you discuss everything from the trivial to your greatest hopes and fears.",
+  "source_sha256": "276153751c3cd82e21306d0a94707c38a38576c766b781697fe8949b0ee9e081",
+  "translation": "Set in 80's Japan, play as a man eating ramen with his wife every week as you discuss everything from the trivial to your greatest hopes and fears.",
+  "vndb_url": "https://vndb.org/v31263"
+}

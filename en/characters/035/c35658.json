@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35658",
+  "type": "character",
+  "name": "Mente",
+  "original_name": "メンテ",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of DLsite's mascot characters.\nShe might be the reason why the site is so slow.",
+  "source_sha256": "4a562e483a758f8cbead29e7c56b634782292e925dbe17ddb0c14f312b52dc91",
+  "translation": "One of DLsite's mascot characters.\nShe might be the reason why the site is so slow.",
+  "vndb_url": "https://vndb.org/c35658"
+}

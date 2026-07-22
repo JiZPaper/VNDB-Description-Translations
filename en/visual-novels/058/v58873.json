@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58873",
+  "type": "visual_novel",
+  "name": "Aiai Kissaten",
+  "original_name": "アイアイ喫茶店",
+  "language": "en",
+  "source_language": "en",
+  "source": "In this cafe, anything you order is a password towards the back room. Order every menu as you discover whatever is wrong in this cafe.",
+  "source_sha256": "38072647a6b8a5d93f3f3828f0018b04b57b063b53f464817acb5205d8e3995f",
+  "translation": "In this cafe, anything you order is a password towards the back room. Order every menu as you discover whatever is wrong in this cafe.",
+  "vndb_url": "https://vndb.org/v58873"
+}

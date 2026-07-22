@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133304",
+  "type": "character",
+  "name": "Kei",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An ordinary college student.",
+  "source_sha256": "900a392f5f602d2455545467962ad4367b2def68d004bb10a10c58bf35c3642a",
+  "translation": "An ordinary college student.",
+  "vndb_url": "https://vndb.org/c133304"
+}

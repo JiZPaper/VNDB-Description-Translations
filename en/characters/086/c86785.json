@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86785",
+  "type": "character",
+  "name": "Liam",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Prince of Cordonia.",
+  "source_sha256": "8e3a5185440370b47a5e5609a33c7e34af09c6cfc4f6919f49053257d7a0cfd7",
+  "translation": "The Prince of Cordonia.",
+  "vndb_url": "https://vndb.org/c86785"
+}

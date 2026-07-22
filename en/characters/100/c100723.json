@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100723",
+  "type": "character",
+  "name": "Hero",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Young and courageous slayer of demons who fights to protect humans.\n\n[From [url=https://badendtheater.carrd.co/#cast]official site[/url]]",
+  "source_sha256": "8affd5da2aa15273d43f5fc70665721fb942d080e6cddc2ed2a57a260eaa2ecf",
+  "translation": "Young and courageous slayer of demons who fights to protect humans.\n\n[From [url=https://badendtheater.carrd.co/#cast]official site[/url]]",
+  "vndb_url": "https://vndb.org/c100723"
+}

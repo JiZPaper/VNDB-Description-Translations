@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89384",
+  "type": "character",
+  "name": "Aislinn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A famous pirate.",
+  "source_sha256": "f10974b5d7650f71ffb197510840f4bf232436ba744e32e2868a9473ff05e1e2",
+  "translation": "A famous pirate.",
+  "vndb_url": "https://vndb.org/c89384"
+}

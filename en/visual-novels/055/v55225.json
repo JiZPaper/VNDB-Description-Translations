@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55225",
+  "type": "visual_novel",
+  "name": "You Can't Beat Me!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You find yourself locked in with your longtime rival. To escape, you must work together, but there can only be one winner in the Game... or can there?",
+  "source_sha256": "d9a519bd00a7aa1c5165bffd13919c6ae9567ad48107d2deb774b93a866f739d",
+  "translation": "You find yourself locked in with your longtime rival. To escape, you must work together, but there can only be one winner in the Game... or can there?",
+  "vndb_url": "https://vndb.org/v55225"
+}

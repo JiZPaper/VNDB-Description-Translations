@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24222",
+  "type": "visual_novel",
+  "name": "What's My Line?",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "It's opening night, but do you remember your lines?\n\n[From [url=https://squaremeal.itch.io/whats-my-line] itch.io[/url]]",
+  "source_sha256": "63e54185d7110aba01890a120620df9a167588651ded9ed1bbf63ae011be636d",
+  "translation": "It's opening night, but do you remember your lines?\n\n[From [url=https://squaremeal.itch.io/whats-my-line] itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v24222"
+}

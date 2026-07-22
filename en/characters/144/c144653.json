@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c144653",
+  "type": "character",
+  "name": "Raul",
+  "original_name": "라울",
+  "language": "en",
+  "source_language": "en",
+  "source": "A werewolf raised in the depths of the forest.\nHonest and straightforward, though he has a hard time expressing his emotions.",
+  "source_sha256": "89e1b09e53d99b1c1fdb2ba7183feadf6c634198c517147654eeb4f432d08898",
+  "translation": "A werewolf raised in the depths of the forest.\nHonest and straightforward, though he has a hard time expressing his emotions.",
+  "vndb_url": "https://vndb.org/c144653"
+}

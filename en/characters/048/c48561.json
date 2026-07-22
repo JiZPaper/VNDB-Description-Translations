@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48561",
+  "type": "character",
+  "name": "Brain Cat",
+  "original_name": "ブレインキャット",
+  "language": "en",
+  "source_language": "en",
+  "source": "[url=/c48563]Ripper's[/url] small cat doll. While its name is never explicitly mentioned, it's actually a character from a world-famous cartoon series.",
+  "source_sha256": "2e524cf531db3fbba9dcccc1eee241d0fa19f16613342ecf5892d483ac95f4ee",
+  "translation": "[url=/c48563]Ripper's[/url] small cat doll. While its name is never explicitly mentioned, it's actually a character from a world-famous cartoon series.",
+  "vndb_url": "https://vndb.org/c48561"
+}

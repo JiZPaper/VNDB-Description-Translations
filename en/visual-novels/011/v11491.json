@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11491",
+  "type": "visual_novel",
+  "name": "Blue Flow Fandisc",
+  "original_name": "ブルーフロウ ファンディスク",
+  "language": "en",
+  "source_language": "en",
+  "source": "It contains 3 standalone missions that can be played without the original game. In addition, it includes artwork collection, walkthrough for Blue Flow, desktop accessories, RASETSU, RASETSU 2, Blue Flow game demos, 3-episode audio drama CD.",
+  "source_sha256": "87368f4fbbf6710fc17da78b6b90b5ad01bc0b39631e282d73ce676cc1b0b651",
+  "translation": "It contains 3 standalone missions that can be played without the original game. In addition, it includes artwork collection, walkthrough for Blue Flow, desktop accessories, RASETSU, RASETSU 2, Blue Flow game demos, 3-episode audio drama CD.",
+  "vndb_url": "https://vndb.org/v11491"
+}

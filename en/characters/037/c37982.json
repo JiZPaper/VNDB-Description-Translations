@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37982",
+  "type": "character",
+  "name": "Haji-sensei",
+  "original_name": "土師 先生",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's homeroom teacher. His subject is Japanese.",
+  "source_sha256": "4e8c1205b6d7c89da0d718f2e87369d5773d705af3df49b28c98db0fb4fbf0dc",
+  "translation": "The protagonist's homeroom teacher. His subject is Japanese.",
+  "vndb_url": "https://vndb.org/c37982"
+}

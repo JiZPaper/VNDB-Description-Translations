@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c111854",
+  "type": "character",
+  "name": "Cain",
+  "original_name": "カイン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A butler in service to Alice. Quiet, avoids the spotlight, and barely speaks to anyone who isn't Alice. Runs the exchange counter at the casino.\n\n[From the [url=https://romanesque.site/en/]official website[/url]]",
+  "source_sha256": "0cc1042695e52e8a07a975dd467a8bcc4b736457d6cbb69fc6ec9fde0f11bcd3",
+  "translation": "A butler in service to Alice. Quiet, avoids the spotlight, and barely speaks to anyone who isn't Alice. Runs the exchange counter at the casino.\n\n[From the [url=https://romanesque.site/en/]official website[/url]]",
+  "vndb_url": "https://vndb.org/c111854"
+}

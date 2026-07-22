@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101621",
+  "type": "character",
+  "name": "Roy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A security guard at the university.",
+  "source_sha256": "717122dd0fb3cc957458470a45323d5ba41248dc80139c92a930b3d8e3cbc5d2",
+  "translation": "A security guard at the university.",
+  "vndb_url": "https://vndb.org/c101621"
+}

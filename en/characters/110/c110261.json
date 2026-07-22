@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110261",
+  "type": "character",
+  "name": "Girl 4",
+  "original_name": "少女４",
+  "language": "en",
+  "source_language": "en",
+  "source": "The girl behind door #4 at Maison Rolita.",
+  "source_sha256": "467fef204aabe4c606edbe55263c5e3c6c4faf56bd6b2c302af7fddd16ead5f6",
+  "translation": "The girl behind door #4 at Maison Rolita.",
+  "vndb_url": "https://vndb.org/c110261"
+}

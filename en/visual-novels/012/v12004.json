@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12004",
+  "type": "visual_novel",
+  "name": "Final Week",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as a guy who is a successful college student, but has trouble finding a girlfriend. It's your final week of college before graduation, and all of a sudden, your luck changes. Which girl will you end up with?",
+  "source_sha256": "15dbd962711803335e75e3c900961115c26b00fbd15d879281ced2b7471bbddb",
+  "translation": "You play as a guy who is a successful college student, but has trouble finding a girlfriend. It's your final week of college before graduation, and all of a sudden, your luck changes. Which girl will you end up with?",
+  "vndb_url": "https://vndb.org/v12004"
+}

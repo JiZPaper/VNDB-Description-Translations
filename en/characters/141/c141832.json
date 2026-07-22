@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141832",
+  "type": "character",
+  "name": "Jeric",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A patron at the Bound Harpy tavern.",
+  "source_sha256": "93bea5a1482d313edbeac90b51dfa58908c8e00d8d04fbf0459bdf29ea2eab70",
+  "translation": "A patron at the Bound Harpy tavern.",
+  "vndb_url": "https://vndb.org/c141832"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62271",
+  "type": "character",
+  "name": "Meng Ran",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Tian Zhao's grandfather.\n\nAge: 1000+\nfood: Hot Tea\nInterests: Chess & Collecting Antiques",
+  "source_sha256": "12cb345a5b6332af0b0a0d739bcfcc7f772d241b4e3d53cadeb5b82172f36d5a",
+  "translation": "Tian Zhao's grandfather.\n\nAge: 1000+\nfood: Hot Tea\nInterests: Chess & Collecting Antiques",
+  "vndb_url": "https://vndb.org/c62271"
+}

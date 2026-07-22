@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169537",
+  "type": "character",
+  "name": "Tommy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "College classmate.",
+  "source_sha256": "a21d14e1dcffc16ca42b2a239122ff860959cef99c7e11635b02def3771fa860",
+  "translation": "College classmate.",
+  "vndb_url": "https://vndb.org/c169537"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139370",
+  "type": "character",
+  "name": "Lisa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Patron of the Three Cups.\n\n[In game description]",
+  "source_sha256": "d704beb02be6deddacb64d76bb46c001d31ee6cfbd75dea6c05f09372524dc04",
+  "translation": "Patron of the Three Cups.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c139370"
+}

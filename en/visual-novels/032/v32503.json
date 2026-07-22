@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32503",
+  "type": "visual_novel",
+  "name": "The 13th Hour",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"It's a night like any other at The 13th Hour\".",
+  "source_sha256": "c9f13389478dd5d6ef2da869335661006c78e7a8150461dd669ed7a1efeb25df",
+  "translation": "\"It's a night like any other at The 13th Hour\".",
+  "vndb_url": "https://vndb.org/v32503"
+}

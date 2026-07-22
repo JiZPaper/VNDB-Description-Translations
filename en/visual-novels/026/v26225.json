@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26225",
+  "type": "visual_novel",
+  "name": "Zombiecast",
+  "original_name": "ゾンビキャスト",
+  "language": "en",
+  "source_language": "en",
+  "source": "Have you ever seen a monster movie?\nWould you believe that such creatures actually exist?\nAnd what if you were in the film yourself?",
+  "source_sha256": "6c9a404b1989b927483cde1d1fd826a1268e4f94eb83d6cad0cd6ac10a9bac8a",
+  "translation": "Have you ever seen a monster movie?\nWould you believe that such creatures actually exist?\nAnd what if you were in the film yourself?",
+  "vndb_url": "https://vndb.org/v26225"
+}

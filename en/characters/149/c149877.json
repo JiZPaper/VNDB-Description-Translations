@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c149877",
+  "type": "character",
+  "name": "Commoner",
+  "original_name": "町娘",
+  "language": "en",
+  "source_language": "en",
+  "source": "Appears in the third scenario",
+  "source_sha256": "c26bb1983605341096676a5f6c7ad54c9ba976fd2fd43d22c671eddc517cf35c",
+  "translation": "Appears in the third scenario",
+  "vndb_url": "https://vndb.org/c149877"
+}

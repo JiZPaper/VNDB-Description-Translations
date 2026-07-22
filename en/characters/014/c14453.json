@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c14453",
+  "type": "character",
+  "name": "Chihiro",
+  "original_name": "チヒロ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Female student.",
+  "source_sha256": "ff6ab521366c959cd6f40c55e28bca2e7ee36fd0fb6586c2cbf5e8e31f593d7a",
+  "translation": "Occupation: Female student.",
+  "vndb_url": "https://vndb.org/c14453"
+}

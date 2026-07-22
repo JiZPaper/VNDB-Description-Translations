@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43526",
+  "type": "visual_novel",
+  "name": "Countdown To New Years",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel about not coming out.\n\n[From [url=https://lsyu.itch.io/countdown-to-new-years]Itch.io[/url]]",
+  "source_sha256": "e5796ab885932b60190542286c92318fc3ab5cac2e5113ec83a65f553971556d",
+  "translation": "A short visual novel about not coming out.\n\n[From [url=https://lsyu.itch.io/countdown-to-new-years]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43526"
+}

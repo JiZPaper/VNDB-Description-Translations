@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c149491",
+  "type": "character",
+  "name": "Leila",
+  "original_name": "レイラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Grace's daughter.",
+  "source_sha256": "0111e839a6b77ac623f6ad7575b53da200925e3a262ea1c50711564ce301ef87",
+  "translation": "Grace's daughter.",
+  "vndb_url": "https://vndb.org/c149491"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23968",
+  "type": "visual_novel",
+  "name": "Calling",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Calling is a short interactive fiction game written by Pavel Homola & Hellduriel.\n\n[From [url=https://hellduriel.itch.io/calling] itch.io[/url]]",
+  "source_sha256": "6d5593dafc5007965c8b6453e55f956f969b2673dce7a6d7dbedc6befed2b08a",
+  "translation": "Calling is a short interactive fiction game written by Pavel Homola & Hellduriel.\n\n[From [url=https://hellduriel.itch.io/calling] itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v23968"
+}

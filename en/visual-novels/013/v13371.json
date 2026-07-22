@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13371",
+  "type": "visual_novel",
+  "name": "Asahi no Shizumu Koro",
+  "original_name": "あさひの沈む頃",
+  "language": "en",
+  "source_language": "en",
+  "source": "Asahi is diagnosed with depression and must learn how to cope.",
+  "source_sha256": "5391d98384f6d63a4c91e0874a2a14386736080aa1624243cc4003824d3a7f65",
+  "translation": "Asahi is diagnosed with depression and must learn how to cope.",
+  "vndb_url": "https://vndb.org/v13371"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101619",
+  "type": "character",
+  "name": "Tiffany",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bobby's girlfriend.",
+  "source_sha256": "6ef87087c1e1897bfd1a8c2f9ecc5e6228e2b9504acbe756914657aca01bd7c5",
+  "translation": "Bobby's girlfriend.",
+  "vndb_url": "https://vndb.org/c101619"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28066",
+  "type": "character",
+  "name": "Fuki",
+  "original_name": "阜生",
+  "language": "en",
+  "source_language": "en",
+  "source": "A wolf that can shapeshift into a human form.\nHe was found and raised by [url=/c28080]Daihoubou[/url].",
+  "source_sha256": "d710735d51b0c4f78f459603b282e8dfb117a53a80d77f35c1b20dbbc0174227",
+  "translation": "A wolf that can shapeshift into a human form.\nHe was found and raised by [url=/c28080]Daihoubou[/url].",
+  "vndb_url": "https://vndb.org/c28066"
+}

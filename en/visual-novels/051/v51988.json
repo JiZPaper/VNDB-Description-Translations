@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51988",
+  "type": "visual_novel",
+  "name": "The Whispers Forest",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel of mystery and horror about a post-life supernatural journey.",
+  "source_sha256": "ac60ffa1a258dc496c0d044ab9092db85a847c855ddda2db9128c46106c4100f",
+  "translation": "A visual novel of mystery and horror about a post-life supernatural journey.",
+  "vndb_url": "https://vndb.org/v51988"
+}

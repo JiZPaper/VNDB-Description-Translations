@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13146",
+  "type": "visual_novel",
+  "name": "Adventures in the Public Domain",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An entry into the mini Ludum Dare competition of June 2011, dealing with the theme of 'all talk'.\n\nAdventures in the Public Domain is a Visual Novel/Choose-Your-Own-Adventure type game, with player choices to determine the flow of the plot. These choices might end up being the death of you, so choose wisely!\n\nThe title comes from the fact that all graphical and musical resources within the game are taken from public domain repositories, with minimal editing to create a relatively unique style.\n\nThere are three distinct paths through the game, featuring zombies, aliens and... kissing a dog, which will lead you to one of two endings. As a result, I suggest you play through the game at least three times in order to experience all of the dialogue, because it's pretty good (if I do say so myself).\n\nControls are nice and simple, and are detailed on the title screen.\n\n[From [url=http://gamejolt.com/games/adventure/adventures-in-the-public-domain/5532/]Game Jolt[/url]]",
+  "source_sha256": "a3e2a4c2d4f991e9a876a6890bb50b96841ed58e99370a89bb70974054c9d680",
+  "translation": "An entry into the mini Ludum Dare competition of June 2011, dealing with the theme of 'all talk'.\n\nAdventures in the Public Domain is a Visual Novel/Choose-Your-Own-Adventure type game, with player choices to determine the flow of the plot. These choices might end up being the death of you, so choose wisely!\n\nThe title comes from the fact that all graphical and musical resources within the game are taken from public domain repositories, with minimal editing to create a relatively unique style.\n\nThere are three distinct paths through the game, featuring zombies, aliens and... kissing a dog, which will lead you to one of two endings. As a result, I suggest you play through the game at least three times in order to experience all of the dialogue, because it's pretty good (if I do say so myself).\n\nControls are nice and simple, and are detailed on the title screen.\n\n[From [url=http://gamejolt.com/games/adventure/adventures-in-the-public-domain/5532/]Game Jolt[/url]]",
+  "vndb_url": "https://vndb.org/v13146"
+}

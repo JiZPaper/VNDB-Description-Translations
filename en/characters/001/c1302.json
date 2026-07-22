@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c1302",
+  "type": "character",
+  "name": "Haru",
+  "original_name": "ハル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious mascot character that hands out balloons and leaflets at street corners.\n\n(Only capturable with [url=/c1303]Nanako[/url])",
+  "source_sha256": "c407b29d2db8694e82f8ac15d8080a616162be28a5139582092003ecd95178a5",
+  "translation": "A mysterious mascot character that hands out balloons and leaflets at street corners.\n\n(Only capturable with [url=/c1303]Nanako[/url])",
+  "vndb_url": "https://vndb.org/c1302"
+}

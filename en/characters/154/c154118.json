@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154118",
+  "type": "character",
+  "name": "Odin",
+  "original_name": "オーディン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A deity who also tried to stop Nyarlathotep before you, but ultimately failed.",
+  "source_sha256": "28398c612180fe66aced07a80204a40b38a1026fec56ca6813dc203ad31a66b2",
+  "translation": "A deity who also tried to stop Nyarlathotep before you, but ultimately failed.",
+  "vndb_url": "https://vndb.org/c154118"
+}

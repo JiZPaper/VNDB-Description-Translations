@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c167302",
+  "type": "character",
+  "name": "Stark",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The chief of the FID (Federal Investigation Department), which is basically the Nightrest Island's version of the FBI. He's the one who handles the most dangerous and toughest cases.",
+  "source_sha256": "d54745610dc709a41a8e1f17a1559d9a5be2fcfebd2fe8beadbcac449c5a5312",
+  "translation": "The chief of the FID (Federal Investigation Department), which is basically the Nightrest Island's version of the FBI. He's the one who handles the most dangerous and toughest cases.",
+  "vndb_url": "https://vndb.org/c167302"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93642",
+  "type": "character",
+  "name": "Maximilion Blackwood",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A detective investigating the half-blood murders.",
+  "source_sha256": "cba78a5dd0fdad2cee632e7f2ddacf758e2c716322922415d9aab74599e90e38",
+  "translation": "A detective investigating the half-blood murders.",
+  "vndb_url": "https://vndb.org/c93642"
+}

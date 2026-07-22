@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113115",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gender-neutral - ELI will refer to you by your chosen name + 'you' and 'they'\n\n[From [url=https://melancholy-marionette.itch.io/love-in-lockdown-eli-version]itch.io[/url]]",
+  "source_sha256": "4b4edb49607671145d8fe1040865baa8b84c776c387e61ab668d52188e4f93f9",
+  "translation": "Gender-neutral - ELI will refer to you by your chosen name + 'you' and 'they'\n\n[From [url=https://melancholy-marionette.itch.io/love-in-lockdown-eli-version]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/c113115"
+}

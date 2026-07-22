@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141415",
+  "type": "character",
+  "name": "Linda",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Student at B&R.",
+  "source_sha256": "527697287f2885647f31844786c34ba7ce0e9cf23329a4923e59483602d3f808",
+  "translation": "Student at B&R.",
+  "vndb_url": "https://vndb.org/c141415"
+}

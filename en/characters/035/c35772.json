@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35772",
+  "type": "character",
+  "name": "Blake",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An employee of the haunted house.",
+  "source_sha256": "cf566e46f381d9e225ec68768c2a112924e04426148fadc41a17b3ff36f67009",
+  "translation": "An employee of the haunted house.",
+  "vndb_url": "https://vndb.org/c35772"
+}

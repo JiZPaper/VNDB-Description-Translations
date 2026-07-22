@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97278",
+  "type": "character",
+  "name": "Fuka-Fuka",
+  "original_name": "ふかふか",
+  "language": "en",
+  "source_language": "en",
+  "source": "A magical creature that looks like a hat (Shapka) that Saphy always wears on her head. It understands human language, but  can only make one type of sound.",
+  "source_sha256": "bd9a4e9cb12ba9290f8787df673477b58c6d194dc9ee12cf68a33fd8cd693790",
+  "translation": "A magical creature that looks like a hat (Shapka) that Saphy always wears on her head. It understands human language, but  can only make one type of sound.",
+  "vndb_url": "https://vndb.org/c97278"
+}

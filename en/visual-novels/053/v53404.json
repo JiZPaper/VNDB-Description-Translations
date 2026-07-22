@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53404",
+  "type": "visual_novel",
+  "name": "Aketekudasai, Koyagi-san",
+  "original_name": "開けてください、子ヤギさん",
+  "language": "en",
+  "source_language": "en",
+  "source": "A game about a dangerous man coming to visit night after night.\n\nIf he isn't the mother goat, surely he isn't the wolf either.\nYou mustn't open the door. Well, not that the ending would change either way.\n\n[Translated from [url=https://novelgame.jp/games/show/9723]NovelGame[/url]]",
+  "source_sha256": "5ca64fff57dfa845a37d7e461da4547532a279ccb4d74d85b42dde2b814b5a5d",
+  "translation": "A game about a dangerous man coming to visit night after night.\n\nIf he isn't the mother goat, surely he isn't the wolf either.\nYou mustn't open the door. Well, not that the ending would change either way.\n\n[Translated from [url=https://novelgame.jp/games/show/9723]NovelGame[/url]]",
+  "vndb_url": "https://vndb.org/v53404"
+}

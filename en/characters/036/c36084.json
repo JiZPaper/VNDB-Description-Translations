@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36084",
+  "type": "character",
+  "name": "Safina",
+  "original_name": "サフィーナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Jueria\nOccupation: Rune Knight",
+  "source_sha256": "8cdce7a31f123e8d805c2d948478821bcb1c0d9c92408905c98f2ddd10cbe6c3",
+  "translation": "Race: Jueria\nOccupation: Rune Knight",
+  "vndb_url": "https://vndb.org/c36084"
+}

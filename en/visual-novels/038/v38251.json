@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38251",
+  "type": "visual_novel",
+  "name": "Chris Isn't Alone",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as Chris, a 12 year old boy that has just come to the realization that the monster in his closet was real.\nThe monster informs you that they are there to kill you.\nYou must convince it otherwise.\n\n[From [url=https://store.steampowered.com/app/2129910/]Steam[/url]]",
+  "source_sha256": "24b88a41c174a7b5654b69dd618e2046e2ab0baa3b9812e152234a4875afa73a",
+  "translation": "You play as Chris, a 12 year old boy that has just come to the realization that the monster in his closet was real.\nThe monster informs you that they are there to kill you.\nYou must convince it otherwise.\n\n[From [url=https://store.steampowered.com/app/2129910/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v38251"
+}

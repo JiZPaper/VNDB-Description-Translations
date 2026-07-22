@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169638",
+  "type": "character",
+  "name": "Samus Aran",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bounty hunter investigating a distress signal coming from a research lab, together with her AI partner Adam.",
+  "source_sha256": "cbbc3bad067f6e27b6cfd52df443fc8797afa8852e02ce5ee1f18f8b89c854d7",
+  "translation": "A bounty hunter investigating a distress signal coming from a research lab, together with her AI partner Adam.",
+  "vndb_url": "https://vndb.org/c169638"
+}

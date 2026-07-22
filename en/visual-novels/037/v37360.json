@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37360",
+  "type": "visual_novel",
+  "name": "Encounter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Where you go to a store and meet an old classmate who disappeared.\n\n[From [url=https://cooldevs.itch.io/encounter]Itch.io[/url]]",
+  "source_sha256": "3050496c27f8fd681bf61885c32cd745486d54824622beb5aefa2db83859834e",
+  "translation": "Where you go to a store and meet an old classmate who disappeared.\n\n[From [url=https://cooldevs.itch.io/encounter]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v37360"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11897",
+  "type": "character",
+  "name": "TetuOne",
+  "original_name": "ｔｅｔｕＯＮＥ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Name Offline: Ichibanboshi Hideo\nLevel: 26\nAttributes: None\nSystem class: Beginner >> Swordsman",
+  "source_sha256": "95b23eacb355561f3da2bab27dc4bd096375546e3c9f52d5b39fb5b96f6c3b87",
+  "translation": "Name Offline: Ichibanboshi Hideo\nLevel: 26\nAttributes: None\nSystem class: Beginner >> Swordsman",
+  "vndb_url": "https://vndb.org/c11897"
+}

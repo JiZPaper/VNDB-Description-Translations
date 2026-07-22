@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122203",
+  "type": "character",
+  "name": "Kasumi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Minori's mother.",
+  "source_sha256": "629ba1b90a7be101f01f38a8e678ee68269f2168f35ac195240aabcf199d7e39",
+  "translation": "Minori's mother.",
+  "vndb_url": "https://vndb.org/c122203"
+}

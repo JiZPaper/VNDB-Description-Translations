@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165843",
+  "type": "character",
+  "name": "Kuriki",
+  "original_name": "栗城",
+  "language": "en",
+  "source_language": "en",
+  "source": "The new band member.",
+  "source_sha256": "7457c16f566f6856dc433ef979a6b9c47b10de9be9b07c42d3fc53bde947607e",
+  "translation": "The new band member.",
+  "vndb_url": "https://vndb.org/c165843"
+}

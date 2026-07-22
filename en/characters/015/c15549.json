@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15549",
+  "type": "character",
+  "name": "Nakatani Sakae",
+  "original_name": "中谷栄",
+  "language": "en",
+  "source_language": "en",
+  "source": "Lead programmer at SmithSoft.",
+  "source_sha256": "763305e007233766780b95c2cea00f03fee27a552ac407b5630cb6fea9bdc751",
+  "translation": "Lead programmer at SmithSoft.",
+  "vndb_url": "https://vndb.org/c15549"
+}

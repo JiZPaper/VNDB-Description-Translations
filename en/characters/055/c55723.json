@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55723",
+  "type": "character",
+  "name": "Bunny Maid",
+  "original_name": "うさぎメイド",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the maids tending to the Overlords in the Great Overlord's castle. Timid and generally quiet.\n\nShe may be quiet, but that doesn't hold back what she wants to say.",
+  "source_sha256": "a5d823e87456d398654573d31c9c08f929f050c37a7c6fa4e420e196048db04b",
+  "translation": "One of the maids tending to the Overlords in the Great Overlord's castle. Timid and generally quiet.\n\nShe may be quiet, but that doesn't hold back what she wants to say.",
+  "vndb_url": "https://vndb.org/c55723"
+}

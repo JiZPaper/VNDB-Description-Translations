@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c157611",
+  "type": "character",
+  "name": "Pineapple-sensei",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Apple's teacher.",
+  "source_sha256": "e620c7af64bda4338fb41955bb0fc9db86c82cb7035af4f0380d9afa9cdd3b64",
+  "translation": "Apple's teacher.",
+  "vndb_url": "https://vndb.org/c157611"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38039",
+  "type": "visual_novel",
+  "name": "QGP ZERO",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You can select three stages from the title screen, battle with the heroines who appear in each stage and enjoy the end, if you can clear the difficult questions.",
+  "source_sha256": "08affb1519821702c12b34f000f2f18c8b807236fcf0e1091330b94d6afe3c5e",
+  "translation": "You can select three stages from the title screen, battle with the heroines who appear in each stage and enjoy the end, if you can clear the difficult questions.",
+  "vndb_url": "https://vndb.org/v38039"
+}

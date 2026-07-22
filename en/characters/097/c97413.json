@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97413",
+  "type": "character",
+  "name": "City Council Member",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the political figures of Doronium.",
+  "source_sha256": "2351a163bc639dfb7c0355a82444a5421b71bb4eb1fff9bbc666dd80655f261c",
+  "translation": "One of the political figures of Doronium.",
+  "vndb_url": "https://vndb.org/c97413"
+}

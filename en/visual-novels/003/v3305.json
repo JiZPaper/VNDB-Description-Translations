@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3305",
+  "type": "visual_novel",
+  "name": "My Teacher",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "MY teacher is a fully voiced original English-language visual novel. It tells the story of a boy who is not good at school, and the private teacher his mother hired to help him study. Will it work, or will it be one big failure? The game contains three endings for you to find.",
+  "source_sha256": "47cb21e3d3d59e1b26921a05b94f5ab10c39608d3a1e6c6d0625e3b7b9082ebd",
+  "translation": "MY teacher is a fully voiced original English-language visual novel. It tells the story of a boy who is not good at school, and the private teacher his mother hired to help him study. Will it work, or will it be one big failure? The game contains three endings for you to find.",
+  "vndb_url": "https://vndb.org/v3305"
+}

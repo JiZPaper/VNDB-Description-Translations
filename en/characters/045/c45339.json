@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45339",
+  "type": "character",
+  "name": "Fraulein Gilbell",
+  "original_name": "フロイライン・ジルベール",
+  "language": "en",
+  "source_language": "en",
+  "source": "A noble girl who was born in Germany.\nHer mother is a German noblewoman and her father is a nobleman from Kuchen.\nA lively and bright girl.",
+  "source_sha256": "ac70af356ecd47c6330f45e81e3e6a11453650033b00b409f9789fd8ee0f6978",
+  "translation": "A noble girl who was born in Germany.\nHer mother is a German noblewoman and her father is a nobleman from Kuchen.\nA lively and bright girl.",
+  "vndb_url": "https://vndb.org/c45339"
+}

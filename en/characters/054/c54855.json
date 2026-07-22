@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c54855",
+  "type": "character",
+  "name": "Cafe Mother",
+  "original_name": "喫茶店のママ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of cafe named \"Konoe\" that placed in front of the station.",
+  "source_sha256": "1d9ee790e9a25f307b312290ebbafe977a13f79a0ebfebf62b8e03787eb9d3e6",
+  "translation": "Owner of cafe named \"Konoe\" that placed in front of the station.",
+  "vndb_url": "https://vndb.org/c54855"
+}

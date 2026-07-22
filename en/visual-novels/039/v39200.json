@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39200",
+  "type": "visual_novel",
+  "name": "Namiiro",
+  "original_name": "なみいろ",
+  "language": "en",
+  "source_language": "en",
+  "source": "With four girls to choose from, you can \"talk\" with them every day to increase their love level. With enough points you can access some events for each heroine.\n\nSome unique events are locked behind a \"secret love point\", which can only be accessed with a gacha type system, with two free rolls per day, and other paid content.\n\nThere are also some limited special scenes based on seasonal events and holidays.",
+  "source_sha256": "cfb80e483935a49f18b13393f954f95027f7509fcf50cd6ca64acefdad4d9a3d",
+  "translation": "With four girls to choose from, you can \"talk\" with them every day to increase their love level. With enough points you can access some events for each heroine.\n\nSome unique events are locked behind a \"secret love point\", which can only be accessed with a gacha type system, with two free rolls per day, and other paid content.\n\nThere are also some limited special scenes based on seasonal events and holidays.",
+  "vndb_url": "https://vndb.org/v39200"
+}

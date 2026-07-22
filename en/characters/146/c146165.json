@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146165",
+  "type": "character",
+  "name": "Petruk",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Petruk is the chieftain of the kobolds when they find you in your lair. He is a loyal servant, but more easily replaceable, as evidenced by the three kobolds that can succeed him if you treat your Kobold Horde with disregard.",
+  "source_sha256": "69ed35022978196fd515e66bb1a694bd73e202884d91bdfc8c43367e9163aaa6",
+  "translation": "Petruk is the chieftain of the kobolds when they find you in your lair. He is a loyal servant, but more easily replaceable, as evidenced by the three kobolds that can succeed him if you treat your Kobold Horde with disregard.",
+  "vndb_url": "https://vndb.org/c146165"
+}

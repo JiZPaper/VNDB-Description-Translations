@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47157",
+  "type": "character",
+  "name": "Freddy Nielsen",
+  "original_name": "フレディ・ニールセン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A taxi driver suspected of being a Snatcher.",
+  "source_sha256": "9f8ece08d784a7993ab4323c5ed11ea3e8a975355d8f77a29981f64239de2ab2",
+  "translation": "A taxi driver suspected of being a Snatcher.",
+  "vndb_url": "https://vndb.org/c47157"
+}

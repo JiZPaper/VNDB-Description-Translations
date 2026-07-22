@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c142211",
+  "type": "character",
+  "name": "Cursed Marigold",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Marigold of Hundred curses. A legendary flower which gives a power to curse all enemies of its owner.",
+  "source_sha256": "eb58396d14ac79585992f7fd13d3b24f81b7354205f730e621a5c7322a7f7dd9",
+  "translation": "The Marigold of Hundred curses. A legendary flower which gives a power to curse all enemies of its owner.",
+  "vndb_url": "https://vndb.org/c142211"
+}

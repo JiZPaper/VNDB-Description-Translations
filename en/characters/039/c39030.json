@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39030",
+  "type": "character",
+  "name": "Melody",
+  "original_name": "メロディ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious man who hangs out in front of the supermarket.\nHe claims to be a god.",
+  "source_sha256": "fb7cae03c3af9bf2370de745f9289d8786865a107156f5df0b892179ecb3df22",
+  "translation": "A mysterious man who hangs out in front of the supermarket.\nHe claims to be a god.",
+  "vndb_url": "https://vndb.org/c39030"
+}

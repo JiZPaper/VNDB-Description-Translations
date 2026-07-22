@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134606",
+  "type": "character",
+  "name": "Harry Hunter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Hello, everyone! Haha, thanks! See you later!\"\n\nFavourite movie: Dark Knight Rose\nFavourite drink: Cola\nLeast favourite nickname: Muscle-brain",
+  "source_sha256": "440c738b0bc6f0539dbd977f7e87e295d9c902350cc6f1cef0f94ac84784186a",
+  "translation": "\"Hello, everyone! Haha, thanks! See you later!\"\n\nFavourite movie: Dark Knight Rose\nFavourite drink: Cola\nLeast favourite nickname: Muscle-brain",
+  "vndb_url": "https://vndb.org/c134606"
+}

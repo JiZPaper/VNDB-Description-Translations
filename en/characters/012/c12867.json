@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12867",
+  "type": "character",
+  "name": "Sui",
+  "original_name": "スイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the waiters at Café 0. He serves a glass of water to his guests. He's calm and looks mature. He's able to say harsh words without changing his expression.",
+  "source_sha256": "dfec32fa26e63abc01b5e8ab3b2c4d4635dc06e926eeb6f2de68d4d2cad2a005",
+  "translation": "One of the waiters at Café 0. He serves a glass of water to his guests. He's calm and looks mature. He's able to say harsh words without changing his expression.",
+  "vndb_url": "https://vndb.org/c12867"
+}

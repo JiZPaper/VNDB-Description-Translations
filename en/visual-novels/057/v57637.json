@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57637",
+  "type": "visual_novel",
+  "name": "Vstat'! Sud idjot!",
+  "original_name": "Встать! Суд идёт!",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on the short story by the same name.",
+  "source_sha256": "db92fb490101bc5b6608ec9d12167df87bf09441d43eb6cf0fc1766f019103b0",
+  "translation": "Based on the short story by the same name.",
+  "vndb_url": "https://vndb.org/v57637"
+}

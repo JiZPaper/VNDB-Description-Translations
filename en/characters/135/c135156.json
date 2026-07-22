@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135156",
+  "type": "character",
+  "name": "Haldir",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A direhound carriage driver",
+  "source_sha256": "e6b69f61c060f230228f288efa42633f99dca25a7a0a21b0584dfa43e2c09b56",
+  "translation": "A direhound carriage driver",
+  "vndb_url": "https://vndb.org/c135156"
+}

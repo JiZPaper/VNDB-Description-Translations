@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c121641",
+  "type": "character",
+  "name": "Gina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A local cop who helps out when things get rough. Friends with Finley.",
+  "source_sha256": "aa4c43fdd24eec602ec22a4391091f33ec11ef43a04db0808f6a0377144898d3",
+  "translation": "A local cop who helps out when things get rough. Friends with Finley.",
+  "vndb_url": "https://vndb.org/c121641"
+}

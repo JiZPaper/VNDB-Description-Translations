@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93610",
+  "type": "character",
+  "name": "Hatim",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious man who wanders around the opera house.\n\nDaroga is not his name, but his title of a position he held in the Persian government.\n\nCertain events have led him to come to France and his true name.",
+  "source_sha256": "ecd01e43aa0889c2a1114b4e6adafa31da828a6ef419297bef0a2154860fb7c7",
+  "translation": "A mysterious man who wanders around the opera house.\n\nDaroga is not his name, but his title of a position he held in the Persian government.\n\nCertain events have led him to come to France and his true name.",
+  "vndb_url": "https://vndb.org/c93610"
+}

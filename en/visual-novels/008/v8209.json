@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8209",
+  "type": "visual_novel",
+  "name": "Kinbaku Ouji",
+  "original_name": "緊縛王子",
+  "language": "en",
+  "source_language": "en",
+  "source": "Light loses a bet against L and must subsequently do anything L wants over the following five days.",
+  "source_sha256": "cedd524fab484711978095379c637a006a786f8a007618fb44c9e2578a8be77e",
+  "translation": "Light loses a bet against L and must subsequently do anything L wants over the following five days.",
+  "vndb_url": "https://vndb.org/v8209"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8422",
+  "type": "visual_novel",
+  "name": "The Thirteenth Year",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An episodic tale about a journey through the world, though not our world. The tale isn't told by the one who travels, a child named Astelli, but by the people Astelli meets during that journey.",
+  "source_sha256": "202d9a3105c0268bb98abd8a219d238a499b966e5c1b847ed66a532523e01b29",
+  "translation": "An episodic tale about a journey through the world, though not our world. The tale isn't told by the one who travels, a child named Astelli, but by the people Astelli meets during that journey.",
+  "vndb_url": "https://vndb.org/v8422"
+}

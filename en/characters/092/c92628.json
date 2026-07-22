@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92628",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "The main character is a 17-year-old high-school drop out, who is trying to pass a college entrance exam. He incidentally meets a girl named Saya, whose past is completely hidden from the truth.",
+  "source_sha256": "c5bb89b24599959727c5426707fa3b376c29d800c978f47bcc87d56fd85a83bb",
+  "translation": "The main character is a 17-year-old high-school drop out, who is trying to pass a college entrance exam. He incidentally meets a girl named Saya, whose past is completely hidden from the truth.",
+  "vndb_url": "https://vndb.org/c92628"
+}

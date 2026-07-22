@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105567",
+  "type": "character",
+  "name": "Alejandro",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jacqueline's boss at the bakery.",
+  "source_sha256": "54fbac3e7f85ed401bf1af2a02b7e990880d95185b71e27d45a24796b1927fd5",
+  "translation": "Jacqueline's boss at the bakery.",
+  "vndb_url": "https://vndb.org/c105567"
+}

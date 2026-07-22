@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29466",
+  "type": "visual_novel",
+  "name": "Abnormal Heart",
+  "original_name": "アブノーマルハァト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A tragic comedy between an ordinary girl and a few unusual men.",
+  "source_sha256": "21cded959055d3f9fd2bbaa514e244110cd456aa72fa14d1f1a7855d01914a58",
+  "translation": "A tragic comedy between an ordinary girl and a few unusual men.",
+  "vndb_url": "https://vndb.org/v29466"
+}

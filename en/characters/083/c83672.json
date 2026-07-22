@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c83672",
+  "type": "character",
+  "name": "Mrs. Davis",
+  "original_name": "ミセス・デイビス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Gilbert's mother.",
+  "source_sha256": "985178a2dea179ae012ef25d986e7e5c0d5a5f7f484d62a38a1da4861c449be2",
+  "translation": "Gilbert's mother.",
+  "vndb_url": "https://vndb.org/c83672"
+}

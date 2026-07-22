@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49779",
+  "type": "visual_novel",
+  "name": "Mufuukaiki",
+  "original_name": "ムフウカイキ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Horror detective game based on the Cthulhu mythos",
+  "source_sha256": "104a4dd53be56277917d6ffe25ef017eeeef9a3e7cff43ce08f10f1b009214ad",
+  "translation": "Horror detective game based on the Cthulhu mythos",
+  "vndb_url": "https://vndb.org/v49779"
+}

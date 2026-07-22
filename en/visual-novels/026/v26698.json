@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26698",
+  "type": "visual_novel",
+  "name": "Hakoniwa no Tagelied",
+  "original_name": "箱庭のターゲリート",
+  "language": "en",
+  "source_language": "en",
+  "source": "A chance meeting in a peaceful town.\nDelivered feelings.\nWhat is at the end of the road for the lovers?",
+  "source_sha256": "6ef25138a558c8979e987cdb0dc10aedb482b9990e6e1fbfd7f12acef572962c",
+  "translation": "A chance meeting in a peaceful town.\nDelivered feelings.\nWhat is at the end of the road for the lovers?",
+  "vndb_url": "https://vndb.org/v26698"
+}

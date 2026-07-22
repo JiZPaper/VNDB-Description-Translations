@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82418",
+  "type": "character",
+  "name": "Mysterious man",
+  "original_name": "謎の男",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious person who is involved in the disappearance case of former Taimanins",
+  "source_sha256": "43e83b771603c188b3153f7a741cba3ff8e0025deeae3f91b6c002b18eddc681",
+  "translation": "A mysterious person who is involved in the disappearance case of former Taimanins",
+  "vndb_url": "https://vndb.org/c82418"
+}

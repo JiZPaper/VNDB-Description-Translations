@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37622",
+  "type": "character",
+  "name": "Balder Hringhorni",
+  "original_name": "バルドル・フリングホルニ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Norse God of Light",
+  "source_sha256": "86bb2b38ab43f2105a9008ef451819ecdba3e6798103f17a102c415427d568a7",
+  "translation": "Norse God of Light",
+  "vndb_url": "https://vndb.org/c37622"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26224",
+  "type": "visual_novel",
+  "name": "Irokami",
+  "original_name": "イロカミ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A small village where it has been raining for a long time.",
+  "source_sha256": "85d4d3454e34c053d0b5b229257a35119b4ae348d56f911b95bc4ab9f9cb97dd",
+  "translation": "A small village where it has been raining for a long time.",
+  "vndb_url": "https://vndb.org/v26224"
+}

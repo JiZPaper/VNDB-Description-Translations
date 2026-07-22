@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116362",
+  "type": "character",
+  "name": "Station Attendant",
+  "original_name": "駅員",
+  "language": "en",
+  "source_language": "en",
+  "source": "The station attendant the protagonist saw before embarking on the train.",
+  "source_sha256": "fcceb2fdbcc5099fbb07efac0fb56b20a3443b77e57a66e86acfd6937cf5e71c",
+  "translation": "The station attendant the protagonist saw before embarking on the train.",
+  "vndb_url": "https://vndb.org/c116362"
+}

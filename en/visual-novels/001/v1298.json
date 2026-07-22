@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1298",
+  "type": "visual_novel",
+  "name": "Tegami",
+  "original_name": "手紙",
+  "language": "en",
+  "source_language": "en",
+  "source": "Takahiro Watanabe comes home to the countryside a young college student. He leaves a different person altogether.\n\n[From [url=http://insani.org/tegami.html]Insani[/url]]",
+  "source_sha256": "a51d73a28bbf4fca0dc4cf6fc80699710aaf8de97c1a75914567737bd8f84433",
+  "translation": "Takahiro Watanabe comes home to the countryside a young college student. He leaves a different person altogether.\n\n[From [url=http://insani.org/tegami.html]Insani[/url]]",
+  "vndb_url": "https://vndb.org/v1298"
+}

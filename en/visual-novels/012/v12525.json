@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12525",
+  "type": "visual_novel",
+  "name": "Shuffle! Essence+ Tokuten Disk",
+  "original_name": "シャッフル！エッセンス・プラス 特典ディスク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Bonus disc that comes with the Limited Edition of Shuffle! Essence+\nContains 3 short scenarios.",
+  "source_sha256": "d79087e5d95430109fde267c38b9af58fd59d97f1b0cab70ca3d288bbdccaefc",
+  "translation": "Bonus disc that comes with the Limited Edition of Shuffle! Essence+\nContains 3 short scenarios.",
+  "vndb_url": "https://vndb.org/v12525"
+}

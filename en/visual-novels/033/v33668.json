@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33668",
+  "type": "visual_novel",
+  "name": "Seasons of Loss",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This project tells a story about an average male student and the events that would come to his life over the course of a year and how it would change him forever.",
+  "source_sha256": "c1118737bcd5c3a813f28fb2cb4945a9df8dc188f59b44d314cf2ef73eb87530",
+  "translation": "This project tells a story about an average male student and the events that would come to his life over the course of a year and how it would change him forever.",
+  "vndb_url": "https://vndb.org/v33668"
+}

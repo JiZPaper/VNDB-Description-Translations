@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159499",
+  "type": "character",
+  "name": "Bearnard Adair",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is Elspeth's father.",
+  "source_sha256": "512f2237b7017be1989579ac6659622d2eaf90cc582595b9d121faa5c15fadd7",
+  "translation": "He is Elspeth's father.",
+  "vndb_url": "https://vndb.org/c159499"
+}

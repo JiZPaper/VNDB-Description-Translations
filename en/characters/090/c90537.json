@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90537",
+  "type": "character",
+  "name": "Type 02",
+  "original_name": "壱型０２",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious creature that Yuki met in a closed area of the laboratory.",
+  "source_sha256": "e4ffbbd2106df300edc59cc043ca17b6bf8eed545096207cf399d2cf7ee337c0",
+  "translation": "A mysterious creature that Yuki met in a closed area of the laboratory.",
+  "vndb_url": "https://vndb.org/c90537"
+}

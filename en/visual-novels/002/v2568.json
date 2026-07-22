@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2568",
+  "type": "visual_novel",
+  "name": "Wiz Anniversary ☆ FUNTA! feat.RURU",
+  "original_name": "ウィズ アニバーサリィー ☆ FUNTA! feat.RURU",
+  "language": "en",
+  "source_language": "en",
+  "source": "Wiz Anniversary fandisc starring Ruru.",
+  "source_sha256": "357985dc2294fcc61672b83869a985bd6830a7581930c4f09ba93da7d78d666e",
+  "translation": "Wiz Anniversary fandisc starring Ruru.",
+  "vndb_url": "https://vndb.org/v2568"
+}

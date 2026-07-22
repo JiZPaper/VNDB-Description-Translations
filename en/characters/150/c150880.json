@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150880",
+  "type": "character",
+  "name": "Schwartz",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A former army psychiatist turned Ward psychiatrist.",
+  "source_sha256": "3039751415c327f06ffb0a980b03b938a6a0fb72333eec34d00180f824ca6050",
+  "translation": "A former army psychiatist turned Ward psychiatrist.",
+  "vndb_url": "https://vndb.org/c150880"
+}

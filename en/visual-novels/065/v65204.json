@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65204",
+  "type": "visual_novel",
+  "name": "Samokan X",
+  "original_name": "サモ缶X",
+  "language": "en",
+  "source_language": "en",
+  "source": "The masked avenger, Radous, assaults the princess of an enemy nation and her companions.",
+  "source_sha256": "537aa16aef83a401e920be01dd739ea45cb585a0641fbcb2d69b4f6f7cefe979",
+  "translation": "The masked avenger, Radous, assaults the princess of an enemy nation and her companions.",
+  "vndb_url": "https://vndb.org/v65204"
+}

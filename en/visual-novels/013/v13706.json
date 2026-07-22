@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13706",
+  "type": "visual_novel",
+  "name": "Shin Gyakuten Touhou",
+  "original_name": "真逆転東方",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ace Attorney/Touhou Project parody.",
+  "source_sha256": "96a33bafb6620595a2fba3b6f3c265510c3003f1b5e6ec2448a83d042b9136be",
+  "translation": "Ace Attorney/Touhou Project parody.",
+  "vndb_url": "https://vndb.org/v13706"
+}

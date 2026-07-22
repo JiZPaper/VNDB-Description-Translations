@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154302",
+  "type": "character",
+  "name": "Rin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Yuki's daughter",
+  "source_sha256": "e4dea562a0e5732748c1ee0fb3b4ee1841743cc3ec1ec6398dfd11193832c284",
+  "translation": "Yuki's daughter",
+  "vndb_url": "https://vndb.org/c154302"
+}

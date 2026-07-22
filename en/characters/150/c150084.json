@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150084",
+  "type": "character",
+  "name": "Mania",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Guide\n\n\"Want to take a look around?\"",
+  "source_sha256": "8d5161208d0e358a07defac5154b05e8f40bb85c0624c4a886cffa1f47e2440b",
+  "translation": "Guide\n\n\"Want to take a look around?\"",
+  "vndb_url": "https://vndb.org/c150084"
+}

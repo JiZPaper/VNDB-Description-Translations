@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140301",
+  "type": "character",
+  "name": "Kevin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A student at the campus.",
+  "source_sha256": "0b4d2378afa6b5de325eda9f64c6f501c14f14eed6bdb959c15624966ae512b8",
+  "translation": "A student at the campus.",
+  "vndb_url": "https://vndb.org/c140301"
+}

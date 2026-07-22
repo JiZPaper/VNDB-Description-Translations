@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c67862",
+  "type": "character",
+  "name": "Roe Burt",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A professor of Robotics at a University in Bowling Green.",
+  "source_sha256": "c9247b03f83cc20f297fd894b469c6d47c222baf26a16b89d6cb57ac295258d3",
+  "translation": "A professor of Robotics at a University in Bowling Green.",
+  "vndb_url": "https://vndb.org/c67862"
+}

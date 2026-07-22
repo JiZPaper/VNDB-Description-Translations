@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c50502",
+  "type": "character",
+  "name": "Valerya",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Manages the military camp's cafeteria.",
+  "source_sha256": "d1d306502726a5f421006129f71f7eff0a880df506b14125edc9f5bea22ef7b1",
+  "translation": "Manages the military camp's cafeteria.",
+  "vndb_url": "https://vndb.org/c50502"
+}

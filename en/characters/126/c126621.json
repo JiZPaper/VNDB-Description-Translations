@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126621",
+  "type": "character",
+  "name": "Bruce",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fairy who has been working as a butler to Richard for years.",
+  "source_sha256": "676d191ecba480021ca7c7344f6298c43ae654145004bc4455b0fb6fd62a88e2",
+  "translation": "A fairy who has been working as a butler to Richard for years.",
+  "vndb_url": "https://vndb.org/c126621"
+}

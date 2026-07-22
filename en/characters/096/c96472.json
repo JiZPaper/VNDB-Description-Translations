@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96472",
+  "type": "character",
+  "name": "Angel",
+  "original_name": "天使",
+  "language": "en",
+  "source_language": "en",
+  "source": "An angel who came down to the human world to do bad things.",
+  "source_sha256": "ece73536e03ce9720de852287886a1b4cd757f20afa8461d9d81ea5135dd0c2b",
+  "translation": "An angel who came down to the human world to do bad things.",
+  "vndb_url": "https://vndb.org/c96472"
+}

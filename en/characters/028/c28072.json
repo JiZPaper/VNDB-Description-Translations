@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28072",
+  "type": "character",
+  "name": "Heiser Moss",
+  "original_name": "ハイゼル",
+  "language": "en",
+  "source_language": "en",
+  "source": "He is a shady merchant. According to Mariella, he has a bad reputation.",
+  "source_sha256": "12f71437132b6aeb49cd2c29dcbc9337de21a94da40c55994fb1bd9101de846b",
+  "translation": "He is a shady merchant. According to Mariella, he has a bad reputation.",
+  "vndb_url": "https://vndb.org/c28072"
+}

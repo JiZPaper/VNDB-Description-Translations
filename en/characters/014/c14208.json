@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c14208",
+  "type": "character",
+  "name": "Sarah Jutland",
+  "original_name": "サラ・ユトランド",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Human",
+  "source_sha256": "c11f8d17527ac8c17d56f72186634e790689ab9dfc28ceab88b67263083b77fa",
+  "translation": "Race: Human",
+  "vndb_url": "https://vndb.org/c14208"
+}

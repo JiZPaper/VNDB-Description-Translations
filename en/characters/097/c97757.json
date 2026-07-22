@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97757",
+  "type": "character",
+  "name": "Tunes",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Tunes is a Feline soldier, though he is loyal to himself only. \nHe may be a lunatic but he is strangely perceptive and insightful.",
+  "source_sha256": "7b984b6431d5c1fdbe272c0d64b2c69837b38722f1c10017ac7494184f3ed598",
+  "translation": "Tunes is a Feline soldier, though he is loyal to himself only. \nHe may be a lunatic but he is strangely perceptive and insightful.",
+  "vndb_url": "https://vndb.org/c97757"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60006",
+  "type": "visual_novel",
+  "name": "Vacancy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short story set in the 1980s, following a group of friends who become stranded in the desert and spend the night at a mysterious motel.\n\n[From [url=https://mzgamedev.itch.io/vacancy]Itch.io[/url]]",
+  "source_sha256": "77caf120ab273b5343232725f62f167dc07933180bb3454648f20923d956edae",
+  "translation": "A short story set in the 1980s, following a group of friends who become stranded in the desert and spend the night at a mysterious motel.\n\n[From [url=https://mzgamedev.itch.io/vacancy]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v60006"
+}

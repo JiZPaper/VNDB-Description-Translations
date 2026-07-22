@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166281",
+  "type": "character",
+  "name": "Otis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "John’s coworker. Not the most pleasant person in the world, but someone’s got to do the work.",
+  "source_sha256": "585f8b5c9e1600f7e740daaadbdf754c7fce3636dc9903c4d388e216b4de9c43",
+  "translation": "John’s coworker. Not the most pleasant person in the world, but someone’s got to do the work.",
+  "vndb_url": "https://vndb.org/c166281"
+}

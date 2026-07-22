@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93562",
+  "type": "character",
+  "name": "Clerk",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Boutique clerk",
+  "source_sha256": "23090b562557d1684c8a7716cd4a48c7afd185167542ba4fa4a78a167926a0c9",
+  "translation": "Boutique clerk",
+  "vndb_url": "https://vndb.org/c93562"
+}

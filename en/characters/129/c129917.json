@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c129917",
+  "type": "character",
+  "name": "Arcadia",
+  "original_name": "アーカディア",
+  "language": "en",
+  "source_language": "en",
+  "source": "At the game start, player can choose from 5 different names. Depending on the name chosen, character will have different set of starting attributes (intelligence, charisma, morality, etc). Certain level of a particular attribute unlocks corresponding \"training\" route.",
+  "source_sha256": "a9f69371bf1585af2b5f3917ae87916f26998fd97dbff121482e5fb57f89695b",
+  "translation": "At the game start, player can choose from 5 different names. Depending on the name chosen, character will have different set of starting attributes (intelligence, charisma, morality, etc). Certain level of a particular attribute unlocks corresponding \"training\" route.",
+  "vndb_url": "https://vndb.org/c129917"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9612",
+  "type": "character",
+  "name": "Miru",
+  "original_name": "ミル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A milk carton that was turned into a girl.",
+  "source_sha256": "1e77afcfefbc084f826c926a7ebc6ec6c478fd3aafb96510a99c63a23eadbdbc",
+  "translation": "A milk carton that was turned into a girl.",
+  "vndb_url": "https://vndb.org/c9612"
+}

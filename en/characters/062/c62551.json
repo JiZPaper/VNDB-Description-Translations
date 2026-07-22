@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62551",
+  "type": "character",
+  "name": "Dave Miller",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The antagonist of the game. He's a strange man who's obsessed with the protagonist.",
+  "source_sha256": "bd0aefd89fee04e1c791a927d79e5e8c9ad8b7f5c9e12ccf423f6a54dd0201f4",
+  "translation": "The antagonist of the game. He's a strange man who's obsessed with the protagonist.",
+  "vndb_url": "https://vndb.org/c62551"
+}

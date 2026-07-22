@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c109470",
+  "type": "character",
+  "name": "Jonah",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jeff's personal assistant",
+  "source_sha256": "2a4a6ae1b84047e15ed6a6a5775df2efc1313c2b0d3adb1a3ba8835a487173e2",
+  "translation": "Jeff's personal assistant",
+  "vndb_url": "https://vndb.org/c109470"
+}

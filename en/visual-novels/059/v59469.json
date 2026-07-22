@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59469",
+  "type": "visual_novel",
+  "name": "Poe's Raven",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Visual novel version of Edgar Allan Poe's poem.",
+  "source_sha256": "65c69cd13e9d0709ca5274538209336fa914627caadc68eb2cb1a25131f82d71",
+  "translation": "Visual novel version of Edgar Allan Poe's poem.",
+  "vndb_url": "https://vndb.org/v59469"
+}

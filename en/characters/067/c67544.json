@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c67544",
+  "type": "character",
+  "name": "Jacob",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mark's friend.",
+  "source_sha256": "581ae335bbc6be5f9cd64e20d1172fa3967ed4e0f8b0e708d92c35d877af4541",
+  "translation": "Mark's friend.",
+  "vndb_url": "https://vndb.org/c67544"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c50239",
+  "type": "character",
+  "name": "Guide",
+  "original_name": "案内人",
+  "language": "en",
+  "source_language": "en",
+  "source": "Your guide to the world of stories.\n[spoiler]no individual ending[/spoiler]",
+  "source_sha256": "fa03c71d5ff69f48f741da912c5921f809a8efcc4fc5b7d2d54fa8648c84aa0b",
+  "translation": "Your guide to the world of stories.\n[spoiler]no individual ending[/spoiler]",
+  "vndb_url": "https://vndb.org/c50239"
+}

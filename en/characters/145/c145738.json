@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145738",
+  "type": "character",
+  "name": "Bunny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dealer at Big Rose's casino.",
+  "source_sha256": "0e188ec27a53363acb113dba793ec1d7cf92bfa67eb06f235165da98f2b0b196",
+  "translation": "A dealer at Big Rose's casino.",
+  "vndb_url": "https://vndb.org/c145738"
+}

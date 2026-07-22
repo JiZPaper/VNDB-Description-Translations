@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25030",
+  "type": "visual_novel",
+  "name": "Mudkip's Dating Simulator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The first VN in the MDS Series. It was re-released with its sequel as Mudkip's Dating Simulator 1+2.",
+  "source_sha256": "3e19b9715ef723a74f23439f9b26fe189b9068b13067cc3b51655bf6cb3154c0",
+  "translation": "The first VN in the MDS Series. It was re-released with its sequel as Mudkip's Dating Simulator 1+2.",
+  "vndb_url": "https://vndb.org/v25030"
+}

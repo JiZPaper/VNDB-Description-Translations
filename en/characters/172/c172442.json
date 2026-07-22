@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172442",
+  "type": "character",
+  "name": "Voice of Heaven",
+  "original_name": "天の声",
+  "language": "en",
+  "source_language": "en",
+  "source": "An unseen character that appears throughout the Nooch series. They typically comment on Umechiyo's actions or provide narration to the story.",
+  "source_sha256": "b77197bfacdba6588e16ae7084554eff930b017a680e4c7e83bb6604ecc7c3a5",
+  "translation": "An unseen character that appears throughout the Nooch series. They typically comment on Umechiyo's actions or provide narration to the story.",
+  "vndb_url": "https://vndb.org/c172442"
+}

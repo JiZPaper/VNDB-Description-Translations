@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34525",
+  "type": "visual_novel",
+  "name": "A-line",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One-sided love in one-room apartment.",
+  "source_sha256": "eea9e2413a4dd0885c3143e0fb4a89e8b1aaf0b4e911560d8fba172cd4f10ea3",
+  "translation": "One-sided love in one-room apartment.",
+  "vndb_url": "https://vndb.org/v34525"
+}

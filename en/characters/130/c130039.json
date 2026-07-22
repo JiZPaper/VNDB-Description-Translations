@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130039",
+  "type": "character",
+  "name": "Club President",
+  "original_name": "部長",
+  "language": "en",
+  "source_language": "en",
+  "source": "Second-year student and School Literature Club President.",
+  "source_sha256": "3e546a50ce64e450aac4e7075260704a6c69b4d3f62960a1a677a10357315cb8",
+  "translation": "Second-year student and School Literature Club President.",
+  "vndb_url": "https://vndb.org/c130039"
+}

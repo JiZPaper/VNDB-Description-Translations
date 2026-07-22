@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26216",
+  "type": "visual_novel",
+  "name": "Osouji Daisuki! Cinderella",
+  "original_name": "お掃除大好き！シンデレラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cinderella meets a prince and a wizard and is invited to a ball. \nHowever, it seems that she is not interested in the ball if cleaning is more important. \nCan Cinderella really step out into the outside world ...?",
+  "source_sha256": "d06a75b3fc438f17cbc48c638666cf3e427c94c22a14eca247aa86c5e22af684",
+  "translation": "Cinderella meets a prince and a wizard and is invited to a ball. \nHowever, it seems that she is not interested in the ball if cleaning is more important. \nCan Cinderella really step out into the outside world ...?",
+  "vndb_url": "https://vndb.org/v26216"
+}

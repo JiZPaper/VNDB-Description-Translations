@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c157044",
+  "type": "character",
+  "name": "Reika",
+  "original_name": "レイカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl found in the club.",
+  "source_sha256": "2af9ef9768ebf017fbdcbf3fc5edbe1b6bf73131425a2dbe212b50faa353eb66",
+  "translation": "A girl found in the club.",
+  "vndb_url": "https://vndb.org/c157044"
+}

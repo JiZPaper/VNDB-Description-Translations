@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14238",
+  "type": "visual_novel",
+  "name": "Shingeki no Kyojin: Nubatama no Yoru no Mori ni, Akaaka to Moyuru",
+  "original_name": "進撃の巨人　ぬばたまの夜の森に、あかあかと燃ゆる",
+  "language": "en",
+  "source_language": "en",
+  "source": "It is a side story following Eren and Levi.",
+  "source_sha256": "2c809097b1c8df9712ce42660c954a2a3a465cc23c723c65b7b723e4e3486de8",
+  "translation": "It is a side story following Eren and Levi.",
+  "vndb_url": "https://vndb.org/v14238"
+}

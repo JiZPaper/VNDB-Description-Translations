@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24319",
+  "type": "visual_novel",
+  "name": "The Saiban ~Shinmai Shihoukan Momota Tsukasa no 10 no Saiban File~",
+  "original_name": "THE 裁判 〜新米司法官 桃田司の10の裁判ファイル〜",
+  "language": "en",
+  "source_language": "en",
+  "source": "A game that puts the player in the shoes of Momota Tsukasa, a newbie attorney.",
+  "source_sha256": "87654baaf9290f086b8867b3c5201ed8836200d3c9b6fad30d097e651c2fd76e",
+  "translation": "A game that puts the player in the shoes of Momota Tsukasa, a newbie attorney.",
+  "vndb_url": "https://vndb.org/v24319"
+}

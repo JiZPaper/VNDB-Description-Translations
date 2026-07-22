@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c158182",
+  "type": "character",
+  "name": "Doctor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's and Judith's family doctor, she recommends that Judith participate in clinical trials for a new sleep drug.",
+  "source_sha256": "6fd1a7510a2def4c8e40e9209a7e73d88db8e1cc386b5673091c525aa99e1ea5",
+  "translation": "The protagonist's and Judith's family doctor, she recommends that Judith participate in clinical trials for a new sleep drug.",
+  "vndb_url": "https://vndb.org/c158182"
+}

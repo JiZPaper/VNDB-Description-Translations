@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172183",
+  "type": "character",
+  "name": "Lilith",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Cameo from Dogma.",
+  "source_sha256": "4d69eaf81236e5e6cef22a0e82e623796ce0aed800e33cf554021853b393e242",
+  "translation": "Cameo from Dogma.",
+  "vndb_url": "https://vndb.org/c172183"
+}

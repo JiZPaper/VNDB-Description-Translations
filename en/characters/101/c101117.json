@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101117",
+  "type": "character",
+  "name": "Ann",
+  "original_name": "アン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Gentle maid of Elfeena",
+  "source_sha256": "1e64296f81450ee41ea5d45c2fce2bc59e5eb43503b6c0e5d2e8ad7c916a359d",
+  "translation": "Gentle maid of Elfeena",
+  "vndb_url": "https://vndb.org/c101117"
+}

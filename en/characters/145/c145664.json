@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145664",
+  "type": "character",
+  "name": "Hooded Child",
+  "original_name": "被り物の子",
+  "language": "en",
+  "source_language": "en",
+  "source": "An innocent child who wants to play.",
+  "source_sha256": "dc2cc589a0ac2839eec0001ba7291f1a1395abc16fc69cfed62a14b333b7798a",
+  "translation": "An innocent child who wants to play.",
+  "vndb_url": "https://vndb.org/c145664"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40588",
+  "type": "character",
+  "name": "General Zolbette",
+  "original_name": "ゾルベット将軍",
+  "language": "en",
+  "source_language": "en",
+  "source": "[url=/c40580]Princess Pastete[/url]'s guard.",
+  "source_sha256": "f2af89bf60b6732102e872a6ac54ea8d87b43aa94756eea59da7bcb914f520eb",
+  "translation": "[url=/c40580]Princess Pastete[/url]'s guard.",
+  "vndb_url": "https://vndb.org/c40588"
+}

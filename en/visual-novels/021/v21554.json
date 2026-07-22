@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21554",
+  "type": "visual_novel",
+  "name": "Soundproof",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A kinetic novel about four high school students struggling to get along.",
+  "source_sha256": "6b3bcb831a1dca1eec4b2cd16b77181654bfb3c433f4de4c1980e8e727de119a",
+  "translation": "A kinetic novel about four high school students struggling to get along.",
+  "vndb_url": "https://vndb.org/v21554"
+}

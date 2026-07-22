@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42342",
+  "type": "character",
+  "name": "Magician",
+  "original_name": "魔法使い",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mysterious magician indebted to Thomas.",
+  "source_sha256": "92355c02a8f57b4701a62850090ab17508b2286dc1630cb5f2d071434df681fd",
+  "translation": "Mysterious magician indebted to Thomas.",
+  "vndb_url": "https://vndb.org/c42342"
+}

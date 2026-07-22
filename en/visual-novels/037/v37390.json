@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37390",
+  "type": "visual_novel",
+  "name": "Dryad Pollination",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Dryad Pollination is a short game (~10 mins) where you help the dryad get pollinated.\n\n[From [url=https://leafletgames.itch.io/dryad-pollination]Itch.io[/url]]",
+  "source_sha256": "49a93924d521db4b3ccc5d8ca229352425e4b6a69257c916144c2f5509a157f2",
+  "translation": "Dryad Pollination is a short game (~10 mins) where you help the dryad get pollinated.\n\n[From [url=https://leafletgames.itch.io/dryad-pollination]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v37390"
+}

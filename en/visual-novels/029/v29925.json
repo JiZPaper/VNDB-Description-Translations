@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29925",
+  "type": "visual_novel",
+  "name": "Aces Of Ring",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A podcaster chronicles the story of an era-defining rivalry in the history of the WHSL professional wrestling promotion.",
+  "source_sha256": "3783a23a3289a61e965e64680a9f63c6c5b1755569cc7983b303df3b3b7bab39",
+  "translation": "A podcaster chronicles the story of an era-defining rivalry in the history of the WHSL professional wrestling promotion.",
+  "vndb_url": "https://vndb.org/v29925"
+}

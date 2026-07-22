@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115092",
+  "type": "character",
+  "name": "Alex",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A hot dog cart worker.",
+  "source_sha256": "b736ec2e4bc479bd00668efab90b8a2a2a7832c3b6a68c0d119154d1cfed34b4",
+  "translation": "A hot dog cart worker.",
+  "vndb_url": "https://vndb.org/c115092"
+}

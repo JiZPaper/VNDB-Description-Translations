@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42379",
+  "type": "character",
+  "name": "Edouard",
+  "original_name": "エドゥアール",
+  "language": "en",
+  "source_language": "en",
+  "source": "Prince Charming",
+  "source_sha256": "4c026f95b1d4cf4f37f004b635632a857bdc3ffcdd2018977f458e1bbfc4d8a0",
+  "translation": "Prince Charming",
+  "vndb_url": "https://vndb.org/c42379"
+}

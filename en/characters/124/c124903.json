@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124903",
+  "type": "character",
+  "name": "Tenshi",
+  "original_name": "天使",
+  "language": "en",
+  "source_language": "en",
+  "source": "The primary enemies that harm humans.",
+  "source_sha256": "335af577c1075ca7a51ddb31df79eb757e3f4f58a9891faa3a903c6a7cb53c67",
+  "translation": "The primary enemies that harm humans.",
+  "vndb_url": "https://vndb.org/c124903"
+}

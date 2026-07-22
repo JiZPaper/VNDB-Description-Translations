@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125698",
+  "type": "character",
+  "name": "John",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of John Trip",
+  "source_sha256": "d0ce826bee1c4524efa12cf371da61932828e1c21d1a25400fab5cdf8edab327",
+  "translation": "The protagonist of John Trip",
+  "vndb_url": "https://vndb.org/c125698"
+}

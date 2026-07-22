@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105005",
+  "type": "character",
+  "name": "Samantha",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Melissa's daughter.",
+  "source_sha256": "4c1e922a7e847ecbf0d088760b27bab677d01a92ecb46e2bae86a8a72182ddba",
+  "translation": "Melissa's daughter.",
+  "vndb_url": "https://vndb.org/c105005"
+}

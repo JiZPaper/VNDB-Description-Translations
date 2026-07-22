@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24162",
+  "type": "visual_novel",
+  "name": "Otogi Story Tenshi no Shippo",
+  "original_name": "おとぎストーリー 天使のしっぽ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist is tasked with raising a newbie guardian angel, who will treat them as her father.",
+  "source_sha256": "71d20ea2b3a51a0c19a949e933f283a7b8f165d30f1e0b3064e8724309f229d2",
+  "translation": "The protagonist is tasked with raising a newbie guardian angel, who will treat them as her father.",
+  "vndb_url": "https://vndb.org/v24162"
+}

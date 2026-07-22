@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148500",
+  "type": "character",
+  "name": "Shin Bilney",
+  "original_name": "シン・ビルニー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Toushin City Mayor.",
+  "source_sha256": "3a049fa323cdceee9bfd5957f6554769a89f2848306848e2af76fa06468d884e",
+  "translation": "Toushin City Mayor.",
+  "vndb_url": "https://vndb.org/c148500"
+}

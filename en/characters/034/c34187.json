@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34187",
+  "type": "character",
+  "name": "Colonel Moran",
+  "original_name": "モラン 大佐",
+  "language": "en",
+  "source_language": "en",
+  "source": "The right hand man of Professor Moriarty.",
+  "source_sha256": "0f0366c4079995a3b3f4c5a309ca83f08721374f3bc84257418e5596b402013b",
+  "translation": "The right hand man of Professor Moriarty.",
+  "vndb_url": "https://vndb.org/c34187"
+}

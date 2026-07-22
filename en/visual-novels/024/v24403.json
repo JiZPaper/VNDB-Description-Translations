@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24403",
+  "type": "visual_novel",
+  "name": "Reselect",
+  "original_name": "リセレクト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A tender love story framed in a winter night.",
+  "source_sha256": "4622256ebc6c6da0f50c608aa1bb8053852b3f1e4fbb02bde5ac24d5cd5a50ab",
+  "translation": "A tender love story framed in a winter night.",
+  "vndb_url": "https://vndb.org/v24403"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36853",
+  "type": "character",
+  "name": "Akane",
+  "original_name": "茜",
+  "language": "en",
+  "source_language": "en",
+  "source": "Member of the Tennis Club.",
+  "source_sha256": "09a80452b432383b3f8ebdf9a24e5aabfcc0760e74a4e4d67f246971bdb6fdc9",
+  "translation": "Member of the Tennis Club.",
+  "vndb_url": "https://vndb.org/c36853"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141259",
+  "type": "character",
+  "name": "Geronimo",
+  "original_name": "ジェロニモ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A skilled gamer who calls himself \"Shachite no Akuma\".",
+  "source_sha256": "5a2b474483d228bdf00c5388ce70dca9f07cac7b81ae543d88eb3c3e7470f81d",
+  "translation": "A skilled gamer who calls himself \"Shachite no Akuma\".",
+  "vndb_url": "https://vndb.org/c141259"
+}

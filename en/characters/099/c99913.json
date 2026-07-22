@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99913",
+  "type": "character",
+  "name": "Selete",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Warning: Detective Selete is in the area. Please evacuate the premises immediately.",
+  "source_sha256": "68588328dc6427d4a871e30f25bf3185739e1657edc361c1db8b630c0b0b8116",
+  "translation": "Warning: Detective Selete is in the area. Please evacuate the premises immediately.",
+  "vndb_url": "https://vndb.org/c99913"
+}

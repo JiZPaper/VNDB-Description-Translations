@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95202",
+  "type": "character",
+  "name": "Clint",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A drug-addicted ring-tailed cat. Clint has always been unpleasant but his addiction has made him worse.",
+  "source_sha256": "ac0d04fdd2c212fcf5f11bd9b76f06199c2e7f3fd057685d3e2710bbdbbedd15",
+  "translation": "A drug-addicted ring-tailed cat. Clint has always been unpleasant but his addiction has made him worse.",
+  "vndb_url": "https://vndb.org/c95202"
+}

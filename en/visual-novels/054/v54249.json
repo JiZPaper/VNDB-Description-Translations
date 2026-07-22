@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54249",
+  "type": "visual_novel",
+  "name": "Neugomonnaja Ul'janka",
+  "original_name": "Неугомонная Ульянка",
+  "language": "en",
+  "source_language": "en",
+  "source": "A little adventure with Ulyana.",
+  "source_sha256": "0cb0b9fedde138ffab11c3c042c5f786695c4e24c2c92414e4e6ae4eb7207c74",
+  "translation": "A little adventure with Ulyana.",
+  "vndb_url": "https://vndb.org/v54249"
+}

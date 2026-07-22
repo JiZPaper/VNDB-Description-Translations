@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98010",
+  "type": "character",
+  "name": "Freya Idun",
+  "original_name": "フレイア・イズン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Freya Idun is a female ninja from Helman.",
+  "source_sha256": "11619232e229190a3da2c0ac7d26590f21ac5d9c2a4491153e7fe82e75dac06d",
+  "translation": "Freya Idun is a female ninja from Helman.",
+  "vndb_url": "https://vndb.org/c98010"
+}

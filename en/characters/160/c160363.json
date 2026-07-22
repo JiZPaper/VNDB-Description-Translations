@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160363",
+  "type": "character",
+  "name": "AM-MK1",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sani Yang's Laboratory; Android\n\nA cool-headed, mature android. She's honest and hard-working, but that personality shifts when she breaks.\n\nShe's the earlier model. Her components are a bit old, but since she's been studying Therio behavior for longer, she's subtly more considerate.",
+  "source_sha256": "bbe1f861278006b332279720c604da16cb4d99faac077c496b375f9cffb308bd",
+  "translation": "Sani Yang's Laboratory; Android\n\nA cool-headed, mature android. She's honest and hard-working, but that personality shifts when she breaks.\n\nShe's the earlier model. Her components are a bit old, but since she's been studying Therio behavior for longer, she's subtly more considerate.",
+  "vndb_url": "https://vndb.org/c160363"
+}

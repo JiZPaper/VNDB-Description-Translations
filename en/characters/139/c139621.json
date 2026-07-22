@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139621",
+  "type": "character",
+  "name": "Freddy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Husband of Maude",
+  "source_sha256": "3c71b031613049e98c03caca858f8a5d6216ffe0b4dece569ccf671be1c48323",
+  "translation": "Husband of Maude",
+  "vndb_url": "https://vndb.org/c139621"
+}

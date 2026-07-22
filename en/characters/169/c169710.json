@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169710",
+  "type": "character",
+  "name": "Lass",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A helpful girl in the library, whom the protagonist can challenge to a Pokémon battle.",
+  "source_sha256": "ee38ea60371d5a86b42135ecabf6b0e5a19b552bdea852af15944b67c3ea31e2",
+  "translation": "A helpful girl in the library, whom the protagonist can challenge to a Pokémon battle.",
+  "vndb_url": "https://vndb.org/c169710"
+}

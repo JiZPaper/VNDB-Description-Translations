@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36563",
+  "type": "visual_novel",
+  "name": "AlIcE",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"A long time ago, there was a famous family,\nbut that famous family disappeared due to an incident.\nI don't know where they are now.\nThere are rumors that if you get lost in the mansion, you will never be able to come back.\"\n\n[Translated from [url=https://novelgame.jp/games/show/78]NovelGame[/url]]",
+  "source_sha256": "d4b4aa0e6af2272b416211654e53cc69a3dffae098fa3b42a76a2b272b3c2d89",
+  "translation": "\"A long time ago, there was a famous family,\nbut that famous family disappeared due to an incident.\nI don't know where they are now.\nThere are rumors that if you get lost in the mansion, you will never be able to come back.\"\n\n[Translated from [url=https://novelgame.jp/games/show/78]NovelGame[/url]]",
+  "vndb_url": "https://vndb.org/v36563"
+}

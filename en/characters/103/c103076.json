@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103076",
+  "type": "character",
+  "name": "Mr. Wolf",
+  "original_name": "沃尔夫",
+  "language": "en",
+  "source_language": "en",
+  "source": "The leader of one of the two main cliques of the local mafia \"Klover\".",
+  "source_sha256": "cb609c03ccb675907afb9a143d29f31656c44bb26da330889f051aab8e166e9c",
+  "translation": "The leader of one of the two main cliques of the local mafia \"Klover\".",
+  "vndb_url": "https://vndb.org/c103076"
+}

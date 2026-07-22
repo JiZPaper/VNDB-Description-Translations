@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162638",
+  "type": "character",
+  "name": "Spencer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ghost living the library on the planet Tollorix",
+  "source_sha256": "ce31ba8565b96c115add59f26740cf1f160a2d197798336849e7a39b33a5fdbb",
+  "translation": "Ghost living the library on the planet Tollorix",
+  "vndb_url": "https://vndb.org/c162638"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105844",
+  "type": "character",
+  "name": "Me",
+  "original_name": "俺",
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist of \"Another World\".",
+  "source_sha256": "e53198baffe3189887aff64651bff82a499930992e2a0e1b642aba233b6cfd2e",
+  "translation": "Protagonist of \"Another World\".",
+  "vndb_url": "https://vndb.org/c105844"
+}

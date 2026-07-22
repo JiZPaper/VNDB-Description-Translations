@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89867",
+  "type": "character",
+  "name": "Clay",
+  "original_name": "クレイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of the Lake Blue weapon store.",
+  "source_sha256": "0cd02da38fde4a90e2d8e11f05ffae1fe9aa97ca107ca6e9eec7bc061f4387a7",
+  "translation": "The owner of the Lake Blue weapon store.",
+  "vndb_url": "https://vndb.org/c89867"
+}

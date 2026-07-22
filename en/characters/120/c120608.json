@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120608",
+  "type": "character",
+  "name": "Mori no Majo",
+  "original_name": "森の魔女",
+  "language": "en",
+  "source_language": "en",
+  "source": "A witch who lives alone in the forest.",
+  "source_sha256": "530c3904fae1d82d130cfb045bababa826502e2982b99a9c4e2b7964312734b6",
+  "translation": "A witch who lives alone in the forest.",
+  "vndb_url": "https://vndb.org/c120608"
+}

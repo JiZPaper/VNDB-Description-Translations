@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11379",
+  "type": "visual_novel",
+  "name": "Madoka Magica, Pure Pink Pretty Lovers",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel wrote from the perspective of Madoka (1st Person narration), and would follow the anime narrative closely, except the reader could make choices (mostly verbal) at key moments to shift the story in different directions, and potentially move Madoka into romances with other major characters.",
+  "source_sha256": "54348f17dc79a966d3a89cfc0630f188a80c9e1e7885ae1daa09fcd2e4935466",
+  "translation": "A visual novel wrote from the perspective of Madoka (1st Person narration), and would follow the anime narrative closely, except the reader could make choices (mostly verbal) at key moments to shift the story in different directions, and potentially move Madoka into romances with other major characters.",
+  "vndb_url": "https://vndb.org/v11379"
+}

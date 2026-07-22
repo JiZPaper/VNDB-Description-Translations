@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127216",
+  "type": "character",
+  "name": "Udo Lehmann",
+  "original_name": "ウド・レーマン",
+  "language": "en",
+  "source_language": "en",
+  "source": "An East German doctor.",
+  "source_sha256": "63628574f594af1027bc29460f5a2aa1122ead550dc57985abd027c4a052eef9",
+  "translation": "An East German doctor.",
+  "vndb_url": "https://vndb.org/c127216"
+}

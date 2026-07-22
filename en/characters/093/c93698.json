@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93698",
+  "type": "character",
+  "name": "Eve",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Eileen's younger sister.",
+  "source_sha256": "ed67ca647fd41cfb180387da8e50c36284a7dde57af9c5de6816d2aa1c5571e5",
+  "translation": "Eileen's younger sister.",
+  "vndb_url": "https://vndb.org/c93698"
+}

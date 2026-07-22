@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c108372",
+  "type": "character",
+  "name": "Debbie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A grocery store clerk. Her hobby is sewing.",
+  "source_sha256": "4cfeef5918cd64437f554f04d2a52bdc74b786709f354057a0a7d3955a4dd736",
+  "translation": "A grocery store clerk. Her hobby is sewing.",
+  "vndb_url": "https://vndb.org/c108372"
+}

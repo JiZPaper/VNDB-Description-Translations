@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35106",
+  "type": "character",
+  "name": "Furusoma",
+  "original_name": "フルソマ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A youkai that lives in a cave deep in the forest. He gives information in exchanges for drinks.",
+  "source_sha256": "111c13546d3a1c81b17cfc87597b0ef6de1a1978a274a39174db687f0d21159e",
+  "translation": "A youkai that lives in a cave deep in the forest. He gives information in exchanges for drinks.",
+  "vndb_url": "https://vndb.org/c35106"
+}

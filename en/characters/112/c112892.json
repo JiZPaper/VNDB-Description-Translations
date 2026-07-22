@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112892",
+  "type": "character",
+  "name": "Shinobu",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Shinobu has the ability to manipulate shadows. He can tame it, hold it captive and limit the target’s actions through their shadows.",
+  "source_sha256": "bae5d193e89597477defeb3e28db6ce22139cfddaac9bcbb962729ca256a2762",
+  "translation": "Shinobu has the ability to manipulate shadows. He can tame it, hold it captive and limit the target’s actions through their shadows.",
+  "vndb_url": "https://vndb.org/c112892"
+}

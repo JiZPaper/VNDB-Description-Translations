@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30689",
+  "type": "character",
+  "name": "Njord",
+  "original_name": "ニヨルド",
+  "language": "en",
+  "source_language": "en",
+  "source": "Named after the god [url=https://en.wikipedia.org/wiki/Njörðr]Njörðr[/url]",
+  "source_sha256": "98546469528078e5b87626f4c40bc44434d64ca6a8719de97b7d3fb37edb1243",
+  "translation": "Named after the god [url=https://en.wikipedia.org/wiki/Njörðr]Njörðr[/url]",
+  "vndb_url": "https://vndb.org/c30689"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64866",
+  "type": "character",
+  "name": "Usagi",
+  "original_name": "ウサギ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Usagi is a cheerful, human-like entity with bunny ears. Together with [url=/c52300]Alice[/url], they spend much of their time in a meta world known as \"Unknown.\" Usagi is Alice's close friend.\n\nUsagi tends to express their emotions in an exaggerated manner, yet shows composure in presenting and retrieving prey for Alice.",
+  "source_sha256": "5886d2c3f5cf5e5f401e3cd61945a37139220aac81eb45620a543bd22450d4b3",
+  "translation": "Usagi is a cheerful, human-like entity with bunny ears. Together with [url=/c52300]Alice[/url], they spend much of their time in a meta world known as \"Unknown.\" Usagi is Alice's close friend.\n\nUsagi tends to express their emotions in an exaggerated manner, yet shows composure in presenting and retrieving prey for Alice.",
+  "vndb_url": "https://vndb.org/c64866"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159950",
+  "type": "character",
+  "name": "Morgan le Fay",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Arthur's older half-sister, daughter of Gorlois and Igraine.",
+  "source_sha256": "fdd4e7afa2df91d317a58cb533c5ae32c2b9d8a4e4a09a742fd61494f466ca81",
+  "translation": "Arthur's older half-sister, daughter of Gorlois and Igraine.",
+  "vndb_url": "https://vndb.org/c159950"
+}

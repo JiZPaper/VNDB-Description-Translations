@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124443",
+  "type": "character",
+  "name": "Emily Price",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is 16 at the start of the game and turns 17 in Chapter 2.",
+  "source_sha256": "62c3bb0df95a9b805f97c730ecfadab4370788d66350cc107f295d3b69a10d10",
+  "translation": "She is 16 at the start of the game and turns 17 in Chapter 2.",
+  "vndb_url": "https://vndb.org/c124443"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103972",
+  "type": "character",
+  "name": "Mystaria Manaphyris",
+  "original_name": "ミスタリア・マナフィリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The form taken by Mystaria after being corrupted.",
+  "source_sha256": "96b4c49dae5b031540597839249945ea0e0d7c1fe8a9d5ba9bfd85b2b4751e5d",
+  "translation": "The form taken by Mystaria after being corrupted.",
+  "vndb_url": "https://vndb.org/c103972"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c85076",
+  "type": "character",
+  "name": "Chocolier",
+  "original_name": "チョコリエール",
+  "language": "en",
+  "source_language": "en",
+  "source": "A male pig who is [url=/c85003]Lilian[/url]'s familiar.",
+  "source_sha256": "2993d04bba41e8df7fcb86d01f52a50f01351b73e87c91166e13112479282017",
+  "translation": "A male pig who is [url=/c85003]Lilian[/url]'s familiar.",
+  "vndb_url": "https://vndb.org/c85076"
+}

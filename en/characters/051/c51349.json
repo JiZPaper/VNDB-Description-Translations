@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51349",
+  "type": "character",
+  "name": "Damian",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Blood Type: O+\nBirthplace: Sidon",
+  "source_sha256": "64277fb7aeef546731fcfb4b12c536ecc4fca523f923f99b7d9e7e21a84f0cd8",
+  "translation": "Blood Type: O+\nBirthplace: Sidon",
+  "vndb_url": "https://vndb.org/c51349"
+}

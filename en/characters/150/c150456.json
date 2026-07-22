@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150456",
+  "type": "character",
+  "name": "Tonegawa",
+  "original_name": "利根川",
+  "language": "en",
+  "source_language": "en",
+  "source": "A professional thug from Chiba. He used to be a professional boxer.",
+  "source_sha256": "9df2ccacde0ad7e77f882ed385f8e44bf88295f7a8f966391659cd69ea800cfb",
+  "translation": "A professional thug from Chiba. He used to be a professional boxer.",
+  "vndb_url": "https://vndb.org/c150456"
+}

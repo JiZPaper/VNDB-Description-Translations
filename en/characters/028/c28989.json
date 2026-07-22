@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28989",
+  "type": "character",
+  "name": "Nagata Tomoya",
+  "original_name": "永田 智也",
+  "language": "en",
+  "source_language": "en",
+  "source": "Tsubasa's assistant.",
+  "source_sha256": "87c631f40c866014ac5ce2b78d78ac27c70e6b780a44b112d7b448bedeee8caa",
+  "translation": "Tsubasa's assistant.",
+  "vndb_url": "https://vndb.org/c28989"
+}

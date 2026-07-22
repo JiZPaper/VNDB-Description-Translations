@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41599",
+  "type": "character",
+  "name": "Magical Ruby",
+  "original_name": "マジカルルビー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ruby is a sentient Kaleidostick that harnesses the power of the Second Magic to transform its wielder into a magical girl.",
+  "source_sha256": "df98a5f2fc84408c341b35f0176eb22a7d69d5ce0e571ac0c8b9cbcd29351ec6",
+  "translation": "Ruby is a sentient Kaleidostick that harnesses the power of the Second Magic to transform its wielder into a magical girl.",
+  "vndb_url": "https://vndb.org/c41599"
+}

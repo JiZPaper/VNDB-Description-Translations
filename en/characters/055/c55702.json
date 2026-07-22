@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55702",
+  "type": "character",
+  "name": "Cerberus",
+  "original_name": "ケルベロス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Elma’s pet. He was originally a large beast that guarded the entrance to the Great Overlord’s castle as a watchdog.\n\nHe was feared even among allies for his sharp claws and fangs, but was shrunk down due to the miasma.",
+  "source_sha256": "3ee54ba1b917546b1d9b13ede5289fb538c5b0cd8e82fee640cc90dc0d127cd9",
+  "translation": "Elma’s pet. He was originally a large beast that guarded the entrance to the Great Overlord’s castle as a watchdog.\n\nHe was feared even among allies for his sharp claws and fangs, but was shrunk down due to the miasma.",
+  "vndb_url": "https://vndb.org/c55702"
+}

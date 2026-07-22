@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c85063",
+  "type": "character",
+  "name": "Emil Kladivo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A toymaker who had turned into a Vodnik after drowning.",
+  "source_sha256": "ad538a0ffcfb3b8075aaef621e4904014b58b7fba8acc27dd3d41a1fa92c6a03",
+  "translation": "A toymaker who had turned into a Vodnik after drowning.",
+  "vndb_url": "https://vndb.org/c85063"
+}

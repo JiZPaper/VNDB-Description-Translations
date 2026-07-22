@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97780",
+  "type": "character",
+  "name": "Sirius",
+  "original_name": "シリウス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Psychic ability: none",
+  "source_sha256": "13ff7204417851449475c416810d456222f5453180f96a508b3fb3b833438b9f",
+  "translation": "Psychic ability: none",
+  "vndb_url": "https://vndb.org/c97780"
+}

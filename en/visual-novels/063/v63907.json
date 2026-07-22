@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63907",
+  "type": "visual_novel",
+  "name": "Endless Overhaul",
+  "original_name": "エンドレス・オーバーホール",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist, grandson of a skilled repair technician, seeks to inherit her legacy and arrives in a town where half of the residents are androids. Once there, he finds himself tasked with performing maintenance on a group of androids with \"complicated histories\"... units that, for some inexplicable reason, have been deemed ineligible for their manufacturer's warranty.",
+  "source_sha256": "9c40e4cb1303ca8508115ee8bf3dcbe420fa0bae9da4c7c9884c0a1cb6f67909",
+  "translation": "The protagonist, grandson of a skilled repair technician, seeks to inherit her legacy and arrives in a town where half of the residents are androids. Once there, he finds himself tasked with performing maintenance on a group of androids with \"complicated histories\"... units that, for some inexplicable reason, have been deemed ineligible for their manufacturer's warranty.",
+  "vndb_url": "https://vndb.org/v63907"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61121",
+  "type": "visual_novel",
+  "name": "Yoka",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as a dream agent who must enter a dream world, find the host, and shut it down before it becomes more corrupted.\n\n[From [url=https://yagi-sakaguchi.itch.io/yoka]Itch.io[/url]]",
+  "source_sha256": "5537ddb43eb7288a6d8c9acb0d06db9f38b3598c71ffa459cfd36e5b09d0dba3",
+  "translation": "You play as a dream agent who must enter a dream world, find the host, and shut it down before it becomes more corrupted.\n\n[From [url=https://yagi-sakaguchi.itch.io/yoka]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v61121"
+}

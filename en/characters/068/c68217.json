@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c68217",
+  "type": "character",
+  "name": "Eve",
+  "original_name": "イヴ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's live in maid.",
+  "source_sha256": "2801245d9df80f97fa676bde1b9e0ebf6fe83754cb580dfc1287fa102446a22d",
+  "translation": "The protagonist's live in maid.",
+  "vndb_url": "https://vndb.org/c68217"
+}

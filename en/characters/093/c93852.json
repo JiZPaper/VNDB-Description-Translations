@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93852",
+  "type": "character",
+  "name": "Ted",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Betty's son and Patty's brother.",
+  "source_sha256": "37a4d11d90faa4bb4945e1643b0517fa97af4f13d1199ff054a97633618d8b1d",
+  "translation": "Betty's son and Patty's brother.",
+  "vndb_url": "https://vndb.org/c93852"
+}

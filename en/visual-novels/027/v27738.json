@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27738",
+  "type": "visual_novel",
+  "name": "Mikeneko Holmes no Kishidou",
+  "original_name": "三毛猫ホームズの騎士道",
+  "language": "en",
+  "source_language": "en",
+  "source": "Visual novel adaptation of the 1983 novel.",
+  "source_sha256": "e8bc4c564d38cfd70d5151f2e76f5bc12be8cb85fb17d48777861e8c3ff837c9",
+  "translation": "Visual novel adaptation of the 1983 novel.",
+  "vndb_url": "https://vndb.org/v27738"
+}

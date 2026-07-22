@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169522",
+  "type": "character",
+  "name": "Petulant child",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A misbehaving young boy from Nondescriptville. [spoiler]He steals Daisy's clothes in the Live TV route, and causes her to break the museum's Neolithic Woman model in the Exhibit route.[/spoiler]",
+  "source_sha256": "11a7d3cd1a7784a4b726df8f0a2d825f12809d3c59ee4c70b17c20b527d819ed",
+  "translation": "A misbehaving young boy from Nondescriptville. [spoiler]He steals Daisy's clothes in the Live TV route, and causes her to break the museum's Neolithic Woman model in the Exhibit route.[/spoiler]",
+  "vndb_url": "https://vndb.org/c169522"
+}

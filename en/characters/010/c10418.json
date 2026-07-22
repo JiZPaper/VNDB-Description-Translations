@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c10418",
+  "type": "character",
+  "name": "Heileen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Age 16 in Episode 0, 18 in Episode 1.",
+  "source_sha256": "cb561e729336f8480add2c6d97a26fa3257dd56ddb767db10fbd94b17897b6f5",
+  "translation": "Age 16 in Episode 0, 18 in Episode 1.",
+  "vndb_url": "https://vndb.org/c10418"
+}

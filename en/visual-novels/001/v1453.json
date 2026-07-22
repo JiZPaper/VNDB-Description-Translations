@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1453",
+  "type": "visual_novel",
+  "name": "Of Apes And God",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A conversion of a comic to visual novel form, that features apes discussing religion.",
+  "source_sha256": "7e0dad4ac3dde844e8a009b47a01bbb3468c5d358a90fe08017f194405c6d529",
+  "translation": "A conversion of a comic to visual novel form, that features apes discussing religion.",
+  "vndb_url": "https://vndb.org/v1453"
+}

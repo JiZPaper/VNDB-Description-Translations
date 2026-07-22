@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c63",
+  "type": "character",
+  "name": "Bartholomew Tirelli",
+  "original_name": "バーソロミュー・ティレリ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cleric Bartholomew Tirelli is the former mentor and current partner of [url=/c64]Cleric Melvin Bernard[/url].\n\nWhile clerics normally work solo, Tirelli and Bernard have an unseen duo combat method and their monthly case clearance rate is one of the highest among their peers. He holds the rank of Master in Gun Kata.",
+  "source_sha256": "a75fc19516c0d88c4c263e3052f2fc265e167e6501bb6b1372171bcf2da0967c",
+  "translation": "Cleric Bartholomew Tirelli is the former mentor and current partner of [url=/c64]Cleric Melvin Bernard[/url].\n\nWhile clerics normally work solo, Tirelli and Bernard have an unseen duo combat method and their monthly case clearance rate is one of the highest among their peers. He holds the rank of Master in Gun Kata.",
+  "vndb_url": "https://vndb.org/c63"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c43969",
+  "type": "character",
+  "name": "Maximillias",
+  "original_name": "マクシミリアス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The current emperor.\nHe became emperor in place of his older brother [url=/c43968]Maileas[/url] who lost his claim to the throne.\nOn the outside he looks like the perfect ruler, but there is no end to the dark rumors about him.",
+  "source_sha256": "1193a7f689e4523bdc1020bad90f7e52d18549e04e25c90e8fe7ecf2817c287f",
+  "translation": "The current emperor.\nHe became emperor in place of his older brother [url=/c43968]Maileas[/url] who lost his claim to the throne.\nOn the outside he looks like the perfect ruler, but there is no end to the dark rumors about him.",
+  "vndb_url": "https://vndb.org/c43969"
+}

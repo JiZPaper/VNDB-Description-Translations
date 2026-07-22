@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131422",
+  "type": "character",
+  "name": "Candy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Candy is the main character and the protagonist of the game. She is the only character you play as throughout the entire game.",
+  "source_sha256": "367ec90316923cd6be67245a9616e35c3222bfed2fbbdacb1d2b3132296eb615",
+  "translation": "Candy is the main character and the protagonist of the game. She is the only character you play as throughout the entire game.",
+  "vndb_url": "https://vndb.org/c131422"
+}

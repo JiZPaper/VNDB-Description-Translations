@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73918",
+  "type": "character",
+  "name": "Delphine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A troubled woman.",
+  "source_sha256": "ea95340b926505dcc3139fc59963130cc0827fe6316eaab91b955d867352e74b",
+  "translation": "A troubled woman.",
+  "vndb_url": "https://vndb.org/c73918"
+}

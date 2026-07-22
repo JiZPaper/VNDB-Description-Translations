@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127473",
+  "type": "character",
+  "name": "Dari",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A private investigator that relaxes by visiting brothels.",
+  "source_sha256": "156bcb638c9076e48804e2b529f57024dc9d54171455d4ecdf4641728d9bc996",
+  "translation": "A private investigator that relaxes by visiting brothels.",
+  "vndb_url": "https://vndb.org/c127473"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9274",
+  "type": "visual_novel",
+  "name": "Real",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short creepy experimental VN, where you find yourself in the realm of non-living objects.\n\n[From [url=http://games.renpy.org/game/real.shtml]Ren'Py Archive[/url]]",
+  "source_sha256": "c4f45b175362ba9bd8ee88b8e2d59cefb310736dc1c623d328e3dda9be298fa8",
+  "translation": "A short creepy experimental VN, where you find yourself in the realm of non-living objects.\n\n[From [url=http://games.renpy.org/game/real.shtml]Ren'Py Archive[/url]]",
+  "vndb_url": "https://vndb.org/v9274"
+}

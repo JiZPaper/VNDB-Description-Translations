@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14006",
+  "type": "visual_novel",
+  "name": "The Life Brick",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You find a mysterious Lego brick that seems to have special powers...\n\n[From [url=http://qirien.blogspot.com/2013/07/we-just-made-visual-novel-game.html]official site[/url]]",
+  "source_sha256": "30a93407e75d4e31dd5826047a01c0dbbb0b751b2cbd422d8116343f07acc286",
+  "translation": "You find a mysterious Lego brick that seems to have special powers...\n\n[From [url=http://qirien.blogspot.com/2013/07/we-just-made-visual-novel-game.html]official site[/url]]",
+  "vndb_url": "https://vndb.org/v14006"
+}

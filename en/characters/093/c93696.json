@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93696",
+  "type": "character",
+  "name": "Rose",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Allison's roommate, a family friend.",
+  "source_sha256": "cb86b9c0c71783ca1fcc749fdf00a72386fda7df21a712be0e1d55fa822e54d6",
+  "translation": "Allison's roommate, a family friend.",
+  "vndb_url": "https://vndb.org/c93696"
+}

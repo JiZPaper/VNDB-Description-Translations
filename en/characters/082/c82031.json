@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82031",
+  "type": "character",
+  "name": "Bob",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is a repairman that works around the mansion.",
+  "source_sha256": "b40df73770bb5653ad8a4448ddd3f22a5dcd61ceda35b6d0e6ab3d733bb385f2",
+  "translation": "He is a repairman that works around the mansion.",
+  "vndb_url": "https://vndb.org/c82031"
+}

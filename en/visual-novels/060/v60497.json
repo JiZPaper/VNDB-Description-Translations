@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60497",
+  "type": "visual_novel",
+  "name": "Time Crack",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mystery visual novel about trust and the search for truth, when a high-school student is accused of his parents’ murder. Every choice might bring you closer to the truth... or end in tragedy.",
+  "source_sha256": "55ea62101c8a7ca0148bd72e8fe1ad4bba7deacd9152fa131ae48457314140b4",
+  "translation": "A mystery visual novel about trust and the search for truth, when a high-school student is accused of his parents’ murder. Every choice might bring you closer to the truth... or end in tragedy.",
+  "vndb_url": "https://vndb.org/v60497"
+}

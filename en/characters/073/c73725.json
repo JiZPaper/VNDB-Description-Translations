@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73725",
+  "type": "character",
+  "name": "Com-Chan",
+  "original_name": "コムちゃん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Witch",
+  "source_sha256": "0106e9dcb3b51fd7351fc1d9e77d31cc8f19e33baf16c250cb38ea274131d385",
+  "translation": "Occupation: Witch",
+  "vndb_url": "https://vndb.org/c73725"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163771",
+  "type": "character",
+  "name": "Selena",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Librarian at Stocklingburg University.",
+  "source_sha256": "b357923aaded4a0dc96737b401c32fc0da81889fda206763db1bc503b02dabda",
+  "translation": "Librarian at Stocklingburg University.",
+  "vndb_url": "https://vndb.org/c163771"
+}

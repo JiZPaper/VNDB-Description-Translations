@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81660",
+  "type": "character",
+  "name": "Blanka Vrubelova",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The maid of the hotel.",
+  "source_sha256": "cd6e0aadb99f51869d05bbdae1d6386bd2eb6553a9db60c778104b4c7fb9cb26",
+  "translation": "The maid of the hotel.",
+  "vndb_url": "https://vndb.org/c81660"
+}

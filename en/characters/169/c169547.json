@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169547",
+  "type": "character",
+  "name": "Ms. Claire",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Laura's teacher",
+  "source_sha256": "dea6f7bf135dd91ea5e16e0af59783f606bf329a3bbfac2df34af2d494ec189c",
+  "translation": "Laura's teacher",
+  "vndb_url": "https://vndb.org/c169547"
+}

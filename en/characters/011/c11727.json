@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11727",
+  "type": "character",
+  "name": "Aina",
+  "original_name": "愛奈",
+  "language": "en",
+  "source_language": "en",
+  "source": "She lost her parents in an accident which left her crippled. She cannot walk without a cane.",
+  "source_sha256": "c2b1fa265206d76f194cedada23d4296a87e1db4e9a00a338a550924ced54b08",
+  "translation": "She lost her parents in an accident which left her crippled. She cannot walk without a cane.",
+  "vndb_url": "https://vndb.org/c11727"
+}

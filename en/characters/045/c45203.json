@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45203",
+  "type": "character",
+  "name": "Madd",
+  "original_name": "マッド",
+  "language": "en",
+  "source_language": "en",
+  "source": "The kings aid and royal researcher.",
+  "source_sha256": "d198eec368cb64c6d0f9331a78cd99ad8d842cf70cdecdd330ca7f37a3a01e14",
+  "translation": "The kings aid and royal researcher.",
+  "vndb_url": "https://vndb.org/c45203"
+}

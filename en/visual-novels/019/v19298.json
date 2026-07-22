@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19298",
+  "type": "visual_novel",
+  "name": "Yunohana Spring! Cherishing Time",
+  "original_name": "ゆのはな SpRING! Cherishing Time",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fandisc for Yunohana Spring!",
+  "source_sha256": "0318020c9381326926eb8b9895be8af6c3e01caeacf6769f1c8ffbee43cab0a8",
+  "translation": "Fandisc for Yunohana Spring!",
+  "vndb_url": "https://vndb.org/v19298"
+}

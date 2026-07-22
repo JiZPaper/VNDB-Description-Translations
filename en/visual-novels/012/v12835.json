@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12835",
+  "type": "visual_novel",
+  "name": "Going Somewhere",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"The people you meet wandering these roads...\nThe ones who travel even in weather like this...\nThey must be doing something important, right?\"\n\n[From [url=http://neotable.blogspot.com/p/going-somewhere.html]The Neotable[/url]]",
+  "source_sha256": "9b96f2cf3e758a23257d005b53ddc00a9ff7390bec2d4b7bff61e430b957604d",
+  "translation": "\"The people you meet wandering these roads...\nThe ones who travel even in weather like this...\nThey must be doing something important, right?\"\n\n[From [url=http://neotable.blogspot.com/p/going-somewhere.html]The Neotable[/url]]",
+  "vndb_url": "https://vndb.org/v12835"
+}

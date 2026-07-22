@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95965",
+  "type": "character",
+  "name": "Sophie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An Imp summoned by John.",
+  "source_sha256": "54d7391c5eefba9ba2e1a20ae06cbcf2044f10dce853cd0140959ee130c407c0",
+  "translation": "An Imp summoned by John.",
+  "vndb_url": "https://vndb.org/c95965"
+}

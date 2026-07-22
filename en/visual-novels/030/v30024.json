@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30024",
+  "type": "visual_novel",
+  "name": "Saraba Gekiyaku",
+  "original_name": "さらば劇薬",
+  "language": "en",
+  "source_language": "en",
+  "source": "A story of two girls and improvisational theatre.",
+  "source_sha256": "5eeed5f3038c1a669323831ded8ee13c0bfb43842ffca0ae0d4ac80b077e62f4",
+  "translation": "A story of two girls and improvisational theatre.",
+  "vndb_url": "https://vndb.org/v30024"
+}

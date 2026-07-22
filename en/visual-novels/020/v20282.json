@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20282",
+  "type": "visual_novel",
+  "name": "It's Zoro's Birthday!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The crew gets together to throw a surprise birthday party for Zoro!",
+  "source_sha256": "5e1864d2e8c5dd942a899d68c867ed3d653a9d46220d3640261c135877acfea3",
+  "translation": "The crew gets together to throw a surprise birthday party for Zoro!",
+  "vndb_url": "https://vndb.org/v20282"
+}

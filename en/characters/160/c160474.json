@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160474",
+  "type": "character",
+  "name": "Monica",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Housemate of the [url=/c160469]Narrator[/url].",
+  "source_sha256": "e3029ea01548e993507b590653951f3d1cabd3325127c5e688c2d1de55ca885d",
+  "translation": "Housemate of the [url=/c160469]Narrator[/url].",
+  "vndb_url": "https://vndb.org/c160474"
+}

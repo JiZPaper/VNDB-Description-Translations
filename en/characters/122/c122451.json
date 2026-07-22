@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122451",
+  "type": "character",
+  "name": "Alive Rei",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Rei's past self.",
+  "source_sha256": "c9572d4b57ca77f33ad86c05445bc2f379d51c250439636ae2e8d968b09d7d24",
+  "translation": "Rei's past self.",
+  "vndb_url": "https://vndb.org/c122451"
+}

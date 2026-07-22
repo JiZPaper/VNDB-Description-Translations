@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159580",
+  "type": "character",
+  "name": "Terrace",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Kento and Ayumi's close friend.",
+  "source_sha256": "17898e27cbb74b72698aba01ce3a98ac170dec27c67b5cb64df5e254d257ab05",
+  "translation": "Kento and Ayumi's close friend.",
+  "vndb_url": "https://vndb.org/c159580"
+}

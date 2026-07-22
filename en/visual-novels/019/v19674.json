@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19674",
+  "type": "visual_novel",
+  "name": "Sim Date",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short parody of dating sims.",
+  "source_sha256": "89f5c7b5e31a6a5317f5ab59a9bbdace38556976a59b6f60ee38a7f698f39c09",
+  "translation": "A short parody of dating sims.",
+  "vndb_url": "https://vndb.org/v19674"
+}

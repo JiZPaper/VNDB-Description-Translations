@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c149685",
+  "type": "character",
+  "name": "Seiran",
+  "original_name": "青蘭",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the employees at Chotung's Cafe.",
+  "source_sha256": "ebe3915ac5196531932c000f02337dd1ffd4b8bd870dd0fceae3dc51a7a4b77a",
+  "translation": "One of the employees at Chotung's Cafe.",
+  "vndb_url": "https://vndb.org/c149685"
+}

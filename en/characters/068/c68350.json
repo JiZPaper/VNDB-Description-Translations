@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c68350",
+  "type": "character",
+  "name": "Coach Makino",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The coach of the Tokyo Red Wings professional volleyball team.",
+  "source_sha256": "b313ff15d65ca9a0d918f31edc9fe76792fdf18ba68f43bbbd88f9cba1d2156c",
+  "translation": "The coach of the Tokyo Red Wings professional volleyball team.",
+  "vndb_url": "https://vndb.org/c68350"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10095",
+  "type": "visual_novel",
+  "name": "Letters for You",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Letters for You tells a story about Tegami, a special mail carrier, and Sayaka, a girl who stubbornly refuses to receive anything he delivers.\n\nTegami's determined to get her to receive something.",
+  "source_sha256": "8e14ccb643d31a40a9f48e63930e45fd385b9b1ffeb4d25e81b154e5ea1140bd",
+  "translation": "Letters for You tells a story about Tegami, a special mail carrier, and Sayaka, a girl who stubbornly refuses to receive anything he delivers.\n\nTegami's determined to get her to receive something.",
+  "vndb_url": "https://vndb.org/v10095"
+}

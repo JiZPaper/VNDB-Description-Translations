@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140772",
+  "type": "character",
+  "name": "Rinaldo",
+  "original_name": "リナルド",
+  "language": "en",
+  "source_language": "en",
+  "source": "The head chef of Mecha Umano",
+  "source_sha256": "1a9f30cdbcc63a89d46d31a8d065a1220f3275776b158f153b66051d89c00acd",
+  "translation": "The head chef of Mecha Umano",
+  "vndb_url": "https://vndb.org/c140772"
+}

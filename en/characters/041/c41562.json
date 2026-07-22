@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41562",
+  "type": "character",
+  "name": "Morita Ichirou",
+  "original_name": "森田 一郎",
+  "language": "en",
+  "source_language": "en",
+  "source": "The director of the planetarium.",
+  "source_sha256": "7e5cacd102771b6710e6241efff30b6fda73552e46ae6726cc4fe1003b44fa07",
+  "translation": "The director of the planetarium.",
+  "vndb_url": "https://vndb.org/c41562"
+}

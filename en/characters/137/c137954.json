@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137954",
+  "type": "character",
+  "name": "Frankenstein's Monster",
+  "original_name": "フランケンシュタインの怪物",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the managers of [url=/c136963]Dr. Einstein[/url]'s test in one of the hidden epilogues. When he appears, he gives [url=/c135840]Kouhei[/url] a failing grade.",
+  "source_sha256": "7361bad70106d4814bbf7fb5a53a1dda5cb832b7097296aed1cd6f0378ab3807",
+  "translation": "One of the managers of [url=/c136963]Dr. Einstein[/url]'s test in one of the hidden epilogues. When he appears, he gives [url=/c135840]Kouhei[/url] a failing grade.",
+  "vndb_url": "https://vndb.org/c137954"
+}

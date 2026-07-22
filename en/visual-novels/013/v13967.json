@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13967",
+  "type": "visual_novel",
+  "name": "Shiro Arcana",
+  "original_name": "白濁アルカナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fan-fic nukige starring characters from [url=http://en.wikipedia.org/wiki/Arcana_Heart]Arcana Heart[/url].",
+  "source_sha256": "7c35f2b9c7e0ae82401c388cb17158d99f68a79ab42cdd13f2daf2f93275b444",
+  "translation": "A fan-fic nukige starring characters from [url=http://en.wikipedia.org/wiki/Arcana_Heart]Arcana Heart[/url].",
+  "vndb_url": "https://vndb.org/v13967"
+}

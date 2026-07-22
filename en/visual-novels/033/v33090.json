@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33090",
+  "type": "visual_novel",
+  "name": "Famicom Bunko: Hajimari no Mori",
+  "original_name": "ファミコン文庫 はじまりの森",
+  "language": "en",
+  "source_language": "en",
+  "source": "While visiting a relative who lives in rural Japan, a young boy encounters a mysterious girl dressed in traditional Japanese clothes who seems to have no knowledge of modern technology.",
+  "source_sha256": "36f11ae72b7b5b2ef2b2b023b438fb26bdfd68022192f35c9613fcf496de41f9",
+  "translation": "While visiting a relative who lives in rural Japan, a young boy encounters a mysterious girl dressed in traditional Japanese clothes who seems to have no knowledge of modern technology.",
+  "vndb_url": "https://vndb.org/v33090"
+}

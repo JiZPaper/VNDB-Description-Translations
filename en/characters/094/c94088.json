@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94088",
+  "type": "character",
+  "name": "Agatha",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The witch who gives the MC the magical notebook and pen.",
+  "source_sha256": "52c6b87d5cc180f0f930099ec8de7baf0c584f3cd069c13ed37b9780738a1805",
+  "translation": "The witch who gives the MC the magical notebook and pen.",
+  "vndb_url": "https://vndb.org/c94088"
+}

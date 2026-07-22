@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c85848",
+  "type": "character",
+  "name": "Eve",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Eve is Jack 10 minutes older sister. She has a bad reputation and a bad behavior.",
+  "source_sha256": "71723b584ea029510eab134b8e74b96e8eef7e0e67be7c5233cd322c7056aa4f",
+  "translation": "Eve is Jack 10 minutes older sister. She has a bad reputation and a bad behavior.",
+  "vndb_url": "https://vndb.org/c85848"
+}

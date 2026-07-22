@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161987",
+  "type": "character",
+  "name": "Miza",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Harpy that nests temporarily in the brothel.",
+  "source_sha256": "33ed00a66fa010deb41c61243f9b6e571c685c240e293265ee5a6281b8b48e1c",
+  "translation": "Harpy that nests temporarily in the brothel.",
+  "vndb_url": "https://vndb.org/c161987"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97444",
+  "type": "character",
+  "name": "Prostitute",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Workers who provide sexy services in Doronium.",
+  "source_sha256": "be1734976e8e15f53cb1a2f5020c540ac71529d172585b9ab1dd5289bd0bd70b",
+  "translation": "Workers who provide sexy services in Doronium.",
+  "vndb_url": "https://vndb.org/c97444"
+}

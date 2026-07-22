@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60973",
+  "type": "visual_novel",
+  "name": "Trip Leads To",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You’re on vacation with a rental car and no set destination. Where might this trip lead you?\n\n[From [url=https://yussuna.itch.io/trip-leads-to]Itch.io[/url]]",
+  "source_sha256": "18ff7ef9bc41600b362d0b33f6484b878202f3f5bb442a51d988136357c069d2",
+  "translation": "You’re on vacation with a rental car and no set destination. Where might this trip lead you?\n\n[From [url=https://yussuna.itch.io/trip-leads-to]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v60973"
+}

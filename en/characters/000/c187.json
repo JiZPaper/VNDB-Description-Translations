@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c187",
+  "type": "character",
+  "name": "Indra Sahdan Myung",
+  "original_name": "インドラ・サーダン・ミュン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Vietnamese tourist.",
+  "source_sha256": "747e3466135e6c5395070fbc8b682149a26dca879b73a5f0dea5e6b28d039188",
+  "translation": "A Vietnamese tourist.",
+  "vndb_url": "https://vndb.org/c187"
+}

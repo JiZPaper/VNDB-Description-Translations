@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141557",
+  "type": "character",
+  "name": "Witch",
+  "original_name": "魔女",
+  "language": "en",
+  "source_language": "en",
+  "source": "-The crimson witch stained with hatred.",
+  "source_sha256": "dee5bc151e7a0418759d9d6d74211a9a8ba9b4f62bc1ab9e1fa954876456d32a",
+  "translation": "-The crimson witch stained with hatred.",
+  "vndb_url": "https://vndb.org/c141557"
+}

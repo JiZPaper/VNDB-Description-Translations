@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112400",
+  "type": "character",
+  "name": "Father Morgan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Priest of the local church. He just wants the best for each and every single person.",
+  "source_sha256": "3efc6c872ddb2f0fa936fbbd314af88b0a1d0aded5db84f0a7ba46bc837ffcee",
+  "translation": "Priest of the local church. He just wants the best for each and every single person.",
+  "vndb_url": "https://vndb.org/c112400"
+}

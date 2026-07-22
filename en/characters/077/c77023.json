@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77023",
+  "type": "character",
+  "name": "Irdaunaf",
+  "original_name": "イルダーナフ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A human spy working for [url=/c77021]Gashel[/url].",
+  "source_sha256": "c3a9e2614f9d959a9fabfc7f4bbe5b85e4d6aeb20d6aee63678d1a9498d62245",
+  "translation": "A human spy working for [url=/c77021]Gashel[/url].",
+  "vndb_url": "https://vndb.org/c77023"
+}

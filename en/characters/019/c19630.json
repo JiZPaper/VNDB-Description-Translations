@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19630",
+  "type": "character",
+  "name": "Samantha Logan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "New York City police officer.",
+  "source_sha256": "72826947004c419478845270475486b8fe3d5fc65daad90497f34c70c8542be8",
+  "translation": "New York City police officer.",
+  "vndb_url": "https://vndb.org/c19630"
+}

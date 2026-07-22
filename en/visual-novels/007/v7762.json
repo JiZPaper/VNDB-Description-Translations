@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7762",
+  "type": "visual_novel",
+  "name": "Boku to Kimi no Natsuyasumi",
+  "original_name": "僕と君の夏休み",
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel created by users of 2channel.",
+  "source_sha256": "23492d6178b2aea425ebc2fbf9f738c3d59db6464f5e8008cbf741295c1d4130",
+  "translation": "A visual novel created by users of 2channel.",
+  "vndb_url": "https://vndb.org/v7762"
+}

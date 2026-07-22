@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27030",
+  "type": "visual_novel",
+  "name": "Hello",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A transfer student arrives on the first day of a new school year.\n\n[A small test project]",
+  "source_sha256": "ad4caeb88dded5eccdcea3779be99a9282eb3897b422ea35716afeddeb30db64",
+  "translation": "A transfer student arrives on the first day of a new school year.\n\n[A small test project]",
+  "vndb_url": "https://vndb.org/v27030"
+}

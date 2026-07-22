@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2941",
+  "type": "visual_novel",
+  "name": "Tsuki no Sabaki",
+  "original_name": "月ノ裁",
+  "language": "en",
+  "source_language": "en",
+  "source": "A parody game using the characters from [url=/v7]Tsukihime[/url] to tell a courtroom drama story in the style of [url=/v711]Gyakuten Saiban[/url]. Most of the background is used only loosely, and no supernatural elements are involved at all.",
+  "source_sha256": "2839c7db4686b9ea9389014fc5d9c7ec6900b1675f0b303e69c03edb56997fce",
+  "translation": "A parody game using the characters from [url=/v7]Tsukihime[/url] to tell a courtroom drama story in the style of [url=/v711]Gyakuten Saiban[/url]. Most of the background is used only loosely, and no supernatural elements are involved at all.",
+  "vndb_url": "https://vndb.org/v2941"
+}

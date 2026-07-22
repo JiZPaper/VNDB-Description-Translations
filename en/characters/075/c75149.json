@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75149",
+  "type": "character",
+  "name": "Genki",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Genki is one of the twins.",
+  "source_sha256": "6edfc5e6fd3901c301d208672724fb18fed80cc9aef063fe9f2883ed183f57c8",
+  "translation": "Genki is one of the twins.",
+  "vndb_url": "https://vndb.org/c75149"
+}

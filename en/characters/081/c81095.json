@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81095",
+  "type": "character",
+  "name": "Yukihito",
+  "original_name": "ユキヒト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A new character added in the True Blood releases.",
+  "source_sha256": "8ed04eda858db6e7601bf03983ce51f67f933c43badd9fbb950d19520d895d8f",
+  "translation": "A new character added in the True Blood releases.",
+  "vndb_url": "https://vndb.org/c81095"
+}

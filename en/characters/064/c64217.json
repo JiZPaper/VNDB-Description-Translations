@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64217",
+  "type": "character",
+  "name": "Kagurazaka Yuuma",
+  "original_name": "神楽坂 悠真",
+  "language": "en",
+  "source_language": "en",
+  "source": "A movie director.",
+  "source_sha256": "168957edf69b1c7d1908516927496edb19a031a0e1fb1f952031cd16100747cd",
+  "translation": "A movie director.",
+  "vndb_url": "https://vndb.org/c64217"
+}

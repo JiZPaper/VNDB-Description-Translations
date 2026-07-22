@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135200",
+  "type": "character",
+  "name": "Pied Piper of Hamelin",
+  "original_name": "ハーメルンの笛吹き男",
+  "language": "en",
+  "source_language": "en",
+  "source": "A main character in the 1st main quest's episode 17 \"Grimm's Fairy Tales Story Zone\".",
+  "source_sha256": "2839404edb9eb1e837cb3b682b8455fc968a8eaa5f581ce5461dea7a59728433",
+  "translation": "A main character in the 1st main quest's episode 17 \"Grimm's Fairy Tales Story Zone\".",
+  "vndb_url": "https://vndb.org/c135200"
+}

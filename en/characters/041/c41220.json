@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41220",
+  "type": "character",
+  "name": "Alice Baudelaire",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mysterious ghost girl found by Lucinda on the attic.",
+  "source_sha256": "2fbdb2a40f4d1f57ed03305e7a28e795e1e44d0d83b5e563138d5c399ab568d8",
+  "translation": "Mysterious ghost girl found by Lucinda on the attic.",
+  "vndb_url": "https://vndb.org/c41220"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156273",
+  "type": "character",
+  "name": "Sousuke",
+  "original_name": "宗助",
+  "language": "en",
+  "source_language": "en",
+  "source": "The gardener taking care of the garden surrounding the Iwakura mansion.",
+  "source_sha256": "8da82b0adc5f734ba507d5c5c6457d7aefe1f15ed37d75491b12bb173fd00dc5",
+  "translation": "The gardener taking care of the garden surrounding the Iwakura mansion.",
+  "vndb_url": "https://vndb.org/c156273"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28800",
+  "type": "character",
+  "name": "Ken",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bright, curious young boy who finds himself trapped behind a mysterious door. Though weak physically, Ken is very clever, and tends to approach his problems like a puzzle to be solved. He is easily excited and difficult to keep down for very long.",
+  "source_sha256": "1ccbdbbdf7e18bff7c7046cc78c40efc3728451c8edd4b7515cff9acc404fcc0",
+  "translation": "A bright, curious young boy who finds himself trapped behind a mysterious door. Though weak physically, Ken is very clever, and tends to approach his problems like a puzzle to be solved. He is easily excited and difficult to keep down for very long.",
+  "vndb_url": "https://vndb.org/c28800"
+}

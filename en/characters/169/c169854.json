@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169854",
+  "type": "character",
+  "name": "Joseph Lawrence",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A drug dealer.",
+  "source_sha256": "f6904c2de306688b52e315518b45522f6a3b756dc0882da4480fe9da52ca6aa7",
+  "translation": "A drug dealer.",
+  "vndb_url": "https://vndb.org/c169854"
+}

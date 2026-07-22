@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19992",
+  "type": "visual_novel",
+  "name": "Amai Okashi Comic Movie",
+  "original_name": "あまいおかし コミックムービー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A voiced game based on a 30-page doujin \"Amai Okashi\" by Okada Kou",
+  "source_sha256": "6cafd5df4bebd8f7eca93c04c7fbdff8b01a620404d6b0c811efe3f0135ec551",
+  "translation": "A voiced game based on a 30-page doujin \"Amai Okashi\" by Okada Kou",
+  "vndb_url": "https://vndb.org/v19992"
+}

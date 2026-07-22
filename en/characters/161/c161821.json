@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161821",
+  "type": "character",
+  "name": "Fusou",
+  "original_name": "扶桑",
+  "language": "en",
+  "source_language": "en",
+  "source": "A kind older gentleman of the Fuchsia.",
+  "source_sha256": "6d54841bdc2da875e34c34f21122bb868c8edd1a0607595aeaadcb85dfc7ada1",
+  "translation": "A kind older gentleman of the Fuchsia.",
+  "vndb_url": "https://vndb.org/c161821"
+}

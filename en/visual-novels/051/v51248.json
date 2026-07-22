@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51248",
+  "type": "visual_novel",
+  "name": "SPAGHETTI",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You're on a date. Try not to freak out.",
+  "source_sha256": "03e4c0249e0f9b0101fc5ac1b07b95d0e44376d6f611c3bcd894a81ca003705b",
+  "translation": "You're on a date. Try not to freak out.",
+  "vndb_url": "https://vndb.org/v51248"
+}

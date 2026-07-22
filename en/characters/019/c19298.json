@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19298",
+  "type": "character",
+  "name": "Shou",
+  "original_name": "ショウ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Weapon: crowbar.",
+  "source_sha256": "2a3e73ca645090748918da938978fa38dead54dde51037def32aac8988a5ac33",
+  "translation": "Weapon: crowbar.",
+  "vndb_url": "https://vndb.org/c19298"
+}

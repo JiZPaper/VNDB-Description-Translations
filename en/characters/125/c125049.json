@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125049",
+  "type": "character",
+  "name": "Maze Apostle",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the three apostles helping the hero on her journey.",
+  "source_sha256": "18313784dcb6a686d5af94ed050f27ad86d6241678bb159aa934ad2e23d8381d",
+  "translation": "One of the three apostles helping the hero on her journey.",
+  "vndb_url": "https://vndb.org/c125049"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55355",
+  "type": "visual_novel",
+  "name": "Budil'nik ubivaet",
+  "original_name": "Будильник убивает",
+  "language": "en",
+  "source_language": "en",
+  "source": "What happens if you don't want to wake up?",
+  "source_sha256": "9b1f81e29a2b4237e0c6af491e585b8957de1a9b4bb6bf79f396361d5ea1dd5a",
+  "translation": "What happens if you don't want to wake up?",
+  "vndb_url": "https://vndb.org/v55355"
+}

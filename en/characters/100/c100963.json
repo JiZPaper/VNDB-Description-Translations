@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100963",
+  "type": "character",
+  "name": "Springfield",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Home economics teacher at school. She is known for her caring persona towards others but can be mischievous at times. She also has a cafe slot near the school cafeteria. Very good at cooking.",
+  "source_sha256": "115a78567e8868c090c31ca0a528f46ad623ff3d35ba42ef6f8d754f90ea1b12",
+  "translation": "Home economics teacher at school. She is known for her caring persona towards others but can be mischievous at times. She also has a cafe slot near the school cafeteria. Very good at cooking.",
+  "vndb_url": "https://vndb.org/c100963"
+}

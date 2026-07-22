@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c104499",
+  "type": "character",
+  "name": "Hero",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play the most important role in this adventure! Your new friends will be counting on you, so do your best and study hard!",
+  "source_sha256": "de488c7bb15de5b6341308f0f83b901cc6da254407f7bf802a89487b4b5f129d",
+  "translation": "You play the most important role in this adventure! Your new friends will be counting on you, so do your best and study hard!",
+  "vndb_url": "https://vndb.org/c104499"
+}

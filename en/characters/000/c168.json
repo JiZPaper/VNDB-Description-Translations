@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168",
+  "type": "character",
+  "name": "Paul Radhabinod",
+  "original_name": "パウル・ラダビノッド",
+  "language": "en",
+  "source_language": "en",
+  "source": "Commander of the Yokohama base.",
+  "source_sha256": "455330a516018782b1007ab0121083fe08deba430812ddabdf37b921af3e68b4",
+  "translation": "Commander of the Yokohama base.",
+  "vndb_url": "https://vndb.org/c168"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99640",
+  "type": "character",
+  "name": "The Bard",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bard that Gunther hires to perfom at the Inn.",
+  "source_sha256": "3c605f1b184729e5c6e6d24687e9f445f17406b3da0826afb894a91d516a561e",
+  "translation": "A bard that Gunther hires to perfom at the Inn.",
+  "vndb_url": "https://vndb.org/c99640"
+}

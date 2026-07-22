@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64349",
+  "type": "visual_novel",
+  "name": "Chuusa to Neko -play edition-",
+  "original_name": "中佐と猫 -play edition-",
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel inspired by a flash animation, reimagining the characters from Fullmetal Alchemist as animals.",
+  "source_sha256": "34735c7e4af0db62217ee9ce112ba31c4baf9a89376b30435f81fa13de8c692f",
+  "translation": "A visual novel inspired by a flash animation, reimagining the characters from Fullmetal Alchemist as animals.",
+  "vndb_url": "https://vndb.org/v64349"
+}

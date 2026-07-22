@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c67269",
+  "type": "character",
+  "name": "James Moriarty",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "James Moriarty is one of the richest men in the world and Sherlock's old enemy. His true identity is [REDACTED].",
+  "source_sha256": "c679f2621b686211f1b3eda98a7a2b4f7944611d497adab95d1fb16e1046e22f",
+  "translation": "James Moriarty is one of the richest men in the world and Sherlock's old enemy. His true identity is [REDACTED].",
+  "vndb_url": "https://vndb.org/c67269"
+}

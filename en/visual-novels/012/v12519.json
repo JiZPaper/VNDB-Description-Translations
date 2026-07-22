@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12519",
+  "type": "visual_novel",
+  "name": "Togainu no Chi: Typing",
+  "original_name": "咎狗の血タイピング",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of 3 preorder extras for Togainu no Chi. \n\nIn TogaType, you play through select scenes of Togainu no Chi and must type the words to progress the game. Can be played from multiple points of view.",
+  "source_sha256": "2f74c15b8bd4fc4929b0616b04c496b3796396c2f8bb0b880af6cdceea2787fc",
+  "translation": "One of 3 preorder extras for Togainu no Chi. \n\nIn TogaType, you play through select scenes of Togainu no Chi and must type the words to progress the game. Can be played from multiple points of view.",
+  "vndb_url": "https://vndb.org/v12519"
+}

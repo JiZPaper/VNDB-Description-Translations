@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159865",
+  "type": "character",
+  "name": "Riri",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Courtney's girlfriend.",
+  "source_sha256": "5af631a048bc3e85dfcc24c516a7ac7575ec7f865d356abd5960c460b03739ef",
+  "translation": "Courtney's girlfriend.",
+  "vndb_url": "https://vndb.org/c159865"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c67267",
+  "type": "character",
+  "name": "Sherlock Holmes",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sherlock Holmes is a consulting detective and has an office at 221B Baker Street, London. He has an exceptional reasoning ability, but doesn't have any interest other than resolving cases. This trait makes him look like a weirdo.",
+  "source_sha256": "465e90029493cb26325b506a5dbe21f21f9baebd4a6ae11454292e548da00834",
+  "translation": "Sherlock Holmes is a consulting detective and has an office at 221B Baker Street, London. He has an exceptional reasoning ability, but doesn't have any interest other than resolving cases. This trait makes him look like a weirdo.",
+  "vndb_url": "https://vndb.org/c67267"
+}

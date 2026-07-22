@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v295",
+  "type": "visual_novel",
+  "name": "Famicom Tantei Club Part II: Ushiro ni Tatsu Shoujo",
+  "original_name": "ファミコン探偵倶楽部PartII うしろに立つ少女",
+  "language": "en",
+  "source_language": "en",
+  "source": "Famicom Detective Club II tells the story of a nameless fellow (you), who is taken under the wing of Shunsuke Utsugi, a private detective, after he is found on the street escaping from the police. Your character is assigned a case by Utsugi - to locate the person that murdered a schoolgirl near a waterway.\n\n[From [url=http://www.romhacking.net/trans/850/]Romhacking.net[/url]]",
+  "source_sha256": "96347b87a208bd5691075d5513a911405469810187a82bf35fdd320bc86e2925",
+  "translation": "Famicom Detective Club II tells the story of a nameless fellow (you), who is taken under the wing of Shunsuke Utsugi, a private detective, after he is found on the street escaping from the police. Your character is assigned a case by Utsugi - to locate the person that murdered a schoolgirl near a waterway.\n\n[From [url=http://www.romhacking.net/trans/850/]Romhacking.net[/url]]",
+  "vndb_url": "https://vndb.org/v295"
+}

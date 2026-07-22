@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9991",
+  "type": "visual_novel",
+  "name": "Phoenix Wright: World Of Justice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Phoenix Wright: World Of Justice is a Phoenix Wright fangame whose Casemaker is PWLib. The storyline is by Prosecutor Manella, and a scripter will be decided at a later point. It will consist of 5 cases.",
+  "source_sha256": "8a8d286b0cbe6a674f491d104d02dff5b0be51cb06c8a8421da5e8d7d90911d9",
+  "translation": "Phoenix Wright: World Of Justice is a Phoenix Wright fangame whose Casemaker is PWLib. The storyline is by Prosecutor Manella, and a scripter will be decided at a later point. It will consist of 5 cases.",
+  "vndb_url": "https://vndb.org/v9991"
+}

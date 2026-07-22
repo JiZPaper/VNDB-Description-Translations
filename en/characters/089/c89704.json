@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89704",
+  "type": "character",
+  "name": "Charles",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Eloise's butler.",
+  "source_sha256": "5b105dbdc4854c44d750ccd4eddb21f65ddd160712141c7b23c5aaca4cd50186",
+  "translation": "Eloise's butler.",
+  "vndb_url": "https://vndb.org/c89704"
+}

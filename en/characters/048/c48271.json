@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48271",
+  "type": "character",
+  "name": "Yajur",
+  "original_name": "ヤジュル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious man who is revived from a corpse that [url=/c48267]Eve[/url] and the rest discover.\nBecause the resurrection was imperfect his memories are still hazy, but because he had an ID with him he knows his name and that he was previously a member of the parliament.\nA bit of a playboy, he is always making passes at Eve.",
+  "source_sha256": "b612ad2dc88f0d9b3db793420e3e8f5294f6497c78faccbadaf16ad0edb74aa8",
+  "translation": "A mysterious man who is revived from a corpse that [url=/c48267]Eve[/url] and the rest discover.\nBecause the resurrection was imperfect his memories are still hazy, but because he had an ID with him he knows his name and that he was previously a member of the parliament.\nA bit of a playboy, he is always making passes at Eve.",
+  "vndb_url": "https://vndb.org/c48271"
+}

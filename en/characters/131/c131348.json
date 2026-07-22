@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131348",
+  "type": "character",
+  "name": "Pancho",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Luna's Uncle's Pet chicken.",
+  "source_sha256": "539d091cbad801fb49f18127b8d1a212e05e63ba5a4288c8b7e76a8299bfc361",
+  "translation": "Luna's Uncle's Pet chicken.",
+  "vndb_url": "https://vndb.org/c131348"
+}

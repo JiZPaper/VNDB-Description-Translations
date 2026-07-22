@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93853",
+  "type": "character",
+  "name": "Agnes",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Patty's friend.",
+  "source_sha256": "d73839096c965a3cf6c865754f96d8031f9f12e1cef1e2effd78e9ac740f942c",
+  "translation": "Patty's friend.",
+  "vndb_url": "https://vndb.org/c93853"
+}

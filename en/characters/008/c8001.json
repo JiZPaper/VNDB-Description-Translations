@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8001",
+  "type": "character",
+  "name": "Yokota Maki",
+  "original_name": "横田 真紀",
+  "language": "en",
+  "source_language": "en",
+  "source": "Character type: Rock band vocalist.",
+  "source_sha256": "8a30590cdfcfabd7e2c94174bb1a8b9b658498c46ca7e99890c512e684ae2e3a",
+  "translation": "Character type: Rock band vocalist.",
+  "vndb_url": "https://vndb.org/c8001"
+}

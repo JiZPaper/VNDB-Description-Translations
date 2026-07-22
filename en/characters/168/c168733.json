@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168733",
+  "type": "character",
+  "name": "The Detective",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of The Iron Masquerade",
+  "source_sha256": "0728ab383c3ae3898069550c317d308ffb25bd5854dfc84888e4fcbfc099602d",
+  "translation": "The protagonist of The Iron Masquerade",
+  "vndb_url": "https://vndb.org/c168733"
+}

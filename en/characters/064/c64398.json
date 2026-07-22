@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64398",
+  "type": "character",
+  "name": "Cordoa Hasse",
+  "original_name": "コルドア・ ハッセ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's boss, a high level policeman.\nHe usually works in the office supporting the police from behind.",
+  "source_sha256": "041f8c10929a9721951e46fb0f0633380b433169089a35fa4be7a99a50398880",
+  "translation": "The protagonist's boss, a high level policeman.\nHe usually works in the office supporting the police from behind.",
+  "vndb_url": "https://vndb.org/c64398"
+}

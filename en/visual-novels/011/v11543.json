@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11543",
+  "type": "visual_novel",
+  "name": "Sweethearts",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Valentine inspired visual novel. Originally made in 12 days. Later it was re-edited and re-colored.",
+  "source_sha256": "4f53a27e8d1ffd1d764f15b7ec41685123fde1a799cba7edc8f1270fc1980ee6",
+  "translation": "A Valentine inspired visual novel. Originally made in 12 days. Later it was re-edited and re-colored.",
+  "vndb_url": "https://vndb.org/v11543"
+}

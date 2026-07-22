@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99256",
+  "type": "character",
+  "name": "Maximus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Height: 6'1''\nWeight: 190 lbs\nSentence: Life\n\nThe prison's resident drug dealer.",
+  "source_sha256": "74a7e6939757cc340ff5d88457026dea0c0d881c856e2481e234ba9188c913d4",
+  "translation": "Height: 6'1''\nWeight: 190 lbs\nSentence: Life\n\nThe prison's resident drug dealer.",
+  "vndb_url": "https://vndb.org/c99256"
+}

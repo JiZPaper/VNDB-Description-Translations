@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c10311",
+  "type": "character",
+  "name": "Shezall",
+  "original_name": "シェザル",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Shezall is [url=/c10301]Berio[/url]'s brother-in-law (non-blood-related brother).[/spoiler]",
+  "source_sha256": "55e65b9c09a905d7c3c690b8ee1924b6700a8257e2fb452bf79fe98629b4d776",
+  "translation": "[spoiler]Shezall is [url=/c10301]Berio[/url]'s brother-in-law (non-blood-related brother).[/spoiler]",
+  "vndb_url": "https://vndb.org/c10311"
+}

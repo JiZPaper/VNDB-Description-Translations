@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90064",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Works for a mysterious, unknown company",
+  "source_sha256": "1f81c102d280ff94987ff448cea33d5dabb6d906773c545c76eb66b2dc6db9cc",
+  "translation": "Works for a mysterious, unknown company",
+  "vndb_url": "https://vndb.org/c90064"
+}

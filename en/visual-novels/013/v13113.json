@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13113",
+  "type": "visual_novel",
+  "name": "Oku-sama Nikki",
+  "original_name": "奥様日記",
+  "language": "en",
+  "source_language": "en",
+  "source": "A novel with 10 stories featuring highschool girl Asauka, a character from Okusama wa Joshikousei.",
+  "source_sha256": "cf262406029ffd5e031a73e9acd88ff7824f9410f6514047bcb21415496da3c9",
+  "translation": "A novel with 10 stories featuring highschool girl Asauka, a character from Okusama wa Joshikousei.",
+  "vndb_url": "https://vndb.org/v13113"
+}

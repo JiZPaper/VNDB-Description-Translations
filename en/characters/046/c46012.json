@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c46012",
+  "type": "character",
+  "name": "Airyth",
+  "original_name": "エアリース",
+  "language": "en",
+  "source_language": "en",
+  "source": "Queen",
+  "source_sha256": "153f6e435589b1c8e8d9d55a901ea79d7d9810208107516b1993cc1b01a57b84",
+  "translation": "Queen",
+  "vndb_url": "https://vndb.org/c46012"
+}

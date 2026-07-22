@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18937",
+  "type": "visual_novel",
+  "name": "DOS65",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "In the near future, Earth launched a series of orbital ships to offset the growing overpopulation problem, and in preparation for the eventual shift towards sending generation ships out into the universe, to colonize other planets.\n\nOnboard one of these ships, a limited form of Artificial Intelligence was developed. It wasn’t much more complex than the chatbot or personal assistant technology that was common during the 21st century. Relying on algorithms based on written scripts provided by the developer, it was coined as “Scripted Intelligence”.\n\nAs time went on, the scripts became more and more complex. Then, something terrible happened.",
+  "source_sha256": "d919ef5bd4bd64665bfa93b4b2749642e0243a87fa0f93fd25ee726df2bf41ff",
+  "translation": "In the near future, Earth launched a series of orbital ships to offset the growing overpopulation problem, and in preparation for the eventual shift towards sending generation ships out into the universe, to colonize other planets.\n\nOnboard one of these ships, a limited form of Artificial Intelligence was developed. It wasn’t much more complex than the chatbot or personal assistant technology that was common during the 21st century. Relying on algorithms based on written scripts provided by the developer, it was coined as “Scripted Intelligence”.\n\nAs time went on, the scripts became more and more complex. Then, something terrible happened.",
+  "vndb_url": "https://vndb.org/v18937"
+}

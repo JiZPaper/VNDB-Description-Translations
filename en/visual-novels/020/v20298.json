@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20298",
+  "type": "visual_novel",
+  "name": "Man's Duty",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual story about life.",
+  "source_sha256": "ec588fbc0a56358a24b78466a88c4156f5034f05cbae87f034d25fb368e71284",
+  "translation": "A short visual story about life.",
+  "vndb_url": "https://vndb.org/v20298"
+}

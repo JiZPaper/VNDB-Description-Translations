@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88006",
+  "type": "character",
+  "name": "Sinmara",
+  "original_name": "シンマラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Loki's mother.\n\nWeapon name: Saegjarn",
+  "source_sha256": "aebcc751f775e94c0e01be8d2bc6aa5366ad38342a2b14f15d01703817bfb023",
+  "translation": "Loki's mother.\n\nWeapon name: Saegjarn",
+  "vndb_url": "https://vndb.org/c88006"
+}

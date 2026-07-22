@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124385",
+  "type": "character",
+  "name": "Myself",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A reflection of the protagonist made by the Prism.",
+  "source_sha256": "e24fffb47ad69937a954caa83ab23d3e804d90279826bb46fe451cbbfb978e03",
+  "translation": "A reflection of the protagonist made by the Prism.",
+  "vndb_url": "https://vndb.org/c124385"
+}

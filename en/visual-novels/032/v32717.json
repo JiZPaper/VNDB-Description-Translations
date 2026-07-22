@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32717",
+  "type": "visual_novel",
+  "name": "A Girl In The Box",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Shikakubako Aki is a girl who lives controled by her parents and without any real purpose.\nThings seem to change when she meets Nanase.",
+  "source_sha256": "ed964839f2733f70b7d861b9cba7a2f0fa11d99296ea7c9a578dde73f78e57ea",
+  "translation": "Shikakubako Aki is a girl who lives controled by her parents and without any real purpose.\nThings seem to change when she meets Nanase.",
+  "vndb_url": "https://vndb.org/v32717"
+}

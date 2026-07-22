@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161368",
+  "type": "character",
+  "name": "Leanforte",
+  "original_name": "リーンフォルテ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Corrupted form of Leanforte.",
+  "source_sha256": "45857f7bd458dc2874ac7e88437725da019d0ff59317893777fbce71f7717c2f",
+  "translation": "Corrupted form of Leanforte.",
+  "vndb_url": "https://vndb.org/c161368"
+}

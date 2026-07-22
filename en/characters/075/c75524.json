@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75524",
+  "type": "character",
+  "name": "Sora",
+  "original_name": "ソラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cat breed: Brown Tabby\nThe protagonist's uncle.",
+  "source_sha256": "afde87a53df9494fab5a3e75d8d4c0026cffcf5685c0ad4d89c9953868a58ffc",
+  "translation": "Cat breed: Brown Tabby\nThe protagonist's uncle.",
+  "vndb_url": "https://vndb.org/c75524"
+}

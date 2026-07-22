@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29172",
+  "type": "visual_novel",
+  "name": "Kabaret",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Kabaret is an interactive narrative game filled with mythical Southeast Asian folklore, with colorful characters to meet in a mysterious world.\n\nPlay as Jebat, a young man cursed into a monster after making an unfortunate mistake. Jebat has only 30 nights to break the curse or forever remain as a monster.",
+  "source_sha256": "b5c5c785a52464be74673d32d7a87ecd1a3ca53dccdd3cf739184ecc7bb7e37c",
+  "translation": "Kabaret is an interactive narrative game filled with mythical Southeast Asian folklore, with colorful characters to meet in a mysterious world.\n\nPlay as Jebat, a young man cursed into a monster after making an unfortunate mistake. Jebat has only 30 nights to break the curse or forever remain as a monster.",
+  "vndb_url": "https://vndb.org/v29172"
+}

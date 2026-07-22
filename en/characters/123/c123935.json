@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123935",
+  "type": "character",
+  "name": "Haily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She works on a dairy farm.",
+  "source_sha256": "2c90666117473d524ed240f25fd60a9045505b97eccfb9c12a1d468a2053d877",
+  "translation": "She works on a dairy farm.",
+  "vndb_url": "https://vndb.org/c123935"
+}

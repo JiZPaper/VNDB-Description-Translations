@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135021",
+  "type": "character",
+  "name": "Nirvel",
+  "original_name": "ニルヴェル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A minor character in the event \"Bringer of Disaster\".",
+  "source_sha256": "b9f1c49bb7e02fca9ccfd35bcb7b943444c7d2218226fce0ae9722286314d528",
+  "translation": "A minor character in the event \"Bringer of Disaster\".",
+  "vndb_url": "https://vndb.org/c135021"
+}

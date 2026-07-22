@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143370",
+  "type": "character",
+  "name": "Nishimura",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Akira's class leader",
+  "source_sha256": "2d03476b8a6316707715708bfffd851d629f32d8fd907d484cd081e7df63ca68",
+  "translation": "Akira's class leader",
+  "vndb_url": "https://vndb.org/c143370"
+}

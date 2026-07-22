@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95753",
+  "type": "character",
+  "name": "Nulkan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ashteran soldier that leads the rebellion after the death of Emperor Drascys.",
+  "source_sha256": "62b4b400ae575631bf2d573937011316ccc6905933212f2c39fa84387953194e",
+  "translation": "Ashteran soldier that leads the rebellion after the death of Emperor Drascys.",
+  "vndb_url": "https://vndb.org/c95753"
+}

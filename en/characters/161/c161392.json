@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161392",
+  "type": "character",
+  "name": "Gylfi",
+  "original_name": "ギュルヴィ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Corrupted form of Gylfi.",
+  "source_sha256": "29c1cad948ef792b0f5cb386f61ef7fc7b61eff0c871b0874a906f648c41ee02",
+  "translation": "Corrupted form of Gylfi.",
+  "vndb_url": "https://vndb.org/c161392"
+}

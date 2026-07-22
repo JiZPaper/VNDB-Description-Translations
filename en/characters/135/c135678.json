@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135678",
+  "type": "character",
+  "name": "Iroh",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A shy woman from an alien species whose skin color changes depending on their emotions.",
+  "source_sha256": "478e0645716c6c43ac694e4c09592b63937f1774f1404d756311b04bef3b860e",
+  "translation": "A shy woman from an alien species whose skin color changes depending on their emotions.",
+  "vndb_url": "https://vndb.org/c135678"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58699",
+  "type": "visual_novel",
+  "name": "Deus Snoot Game",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Short mod that makes a bunch of Deus Ex references.\n\n[From [url=https://rentry.co/snootmods#standalone-and-fangames]Snoot Game Mods List[/url]]",
+  "source_sha256": "2331acb5fc1ce9c42cbd30229a5031b545db561dfce23f62d016a44bb611218b",
+  "translation": "Short mod that makes a bunch of Deus Ex references.\n\n[From [url=https://rentry.co/snootmods#standalone-and-fangames]Snoot Game Mods List[/url]]",
+  "vndb_url": "https://vndb.org/v58699"
+}

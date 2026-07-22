@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32145",
+  "type": "visual_novel",
+  "name": "Hong Lou Meng",
+  "original_name": "红楼梦",
+  "language": "en",
+  "source_language": "en",
+  "source": "Visual novel adaption of the Qing dynasty novel “Dream of a Red Chamber” about the young aristocratic heir Jia Baoyu and his relations to the women of his house, by a company from Beijing.",
+  "source_sha256": "07785953729dee2c7874fec07913f2f453dd1fe6c815a0909f1f5e7bc4916e67",
+  "translation": "Visual novel adaption of the Qing dynasty novel “Dream of a Red Chamber” about the young aristocratic heir Jia Baoyu and his relations to the women of his house, by a company from Beijing.",
+  "vndb_url": "https://vndb.org/v32145"
+}

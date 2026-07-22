@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77538",
+  "type": "character",
+  "name": "Lock",
+  "original_name": "Ki-Jung Park",
+  "language": "en",
+  "source_language": "en",
+  "source": "A star of Starcraft: Brood War. Recruited Bolt to be his training partner.",
+  "source_sha256": "d2fd9d71711286bd4bcf78f72f27e52a8b98104a5df638c0278224c22b1cdaea",
+  "translation": "A star of Starcraft: Brood War. Recruited Bolt to be his training partner.",
+  "vndb_url": "https://vndb.org/c77538"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34072",
+  "type": "visual_novel",
+  "name": "A Second Circle Christmas",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Short holiday game in Second Circle continuity.",
+  "source_sha256": "c068b03a62219c1ce1a7a4469e17abb4b2a28da6715cdd0df62648f37fea97e4",
+  "translation": "Short holiday game in Second Circle continuity.",
+  "vndb_url": "https://vndb.org/v34072"
+}

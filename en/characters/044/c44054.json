@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44054",
+  "type": "character",
+  "name": "Young Man",
+  "original_name": "青年",
+  "language": "en",
+  "source_language": "en",
+  "source": "A young man who asks for Yuri's help.",
+  "source_sha256": "60b1bbcd3649326cfcfea79b8d24f385cc9bb552782c5662771df1300a5fac9b",
+  "translation": "A young man who asks for Yuri's help.",
+  "vndb_url": "https://vndb.org/c44054"
+}

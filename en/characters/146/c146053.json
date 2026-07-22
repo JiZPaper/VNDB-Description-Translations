@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146053",
+  "type": "character",
+  "name": "Mistress",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The manager and owner of the Café.",
+  "source_sha256": "a91dfc24bb98e3404d2c1dca36cbeb59a4d6b915e4e2d42afadb0609bccad9fc",
+  "translation": "The manager and owner of the Café.",
+  "vndb_url": "https://vndb.org/c146053"
+}

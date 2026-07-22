@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17568",
+  "type": "visual_novel",
+  "name": "Toushin Toshi Girls Gift RPG",
+  "original_name": "闘神都市 ＧＩＲＬＳ ＧＩＦＴ ＲＰＧ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A reimagining of Toushin Toshi 2. It features a new version of the original story, coupled with a completely new battle system and dungeon designs.",
+  "source_sha256": "a317e0569308909d25ee82c03df5f30fff9dbe37ebeb3aa06ee0be9dab818f91",
+  "translation": "A reimagining of Toushin Toshi 2. It features a new version of the original story, coupled with a completely new battle system and dungeon designs.",
+  "vndb_url": "https://vndb.org/v17568"
+}

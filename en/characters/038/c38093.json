@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38093",
+  "type": "character",
+  "name": "Kuze Misora",
+  "original_name": "世 美空",
+  "language": "en",
+  "source_language": "en",
+  "source": "Weapon: Bare-handed Type\nAttribute: Metal",
+  "source_sha256": "34df05adcf1db7715a82a2358aa4a10be62da9f57f6c832dc28e661cc7b456ea",
+  "translation": "Weapon: Bare-handed Type\nAttribute: Metal",
+  "vndb_url": "https://vndb.org/c38093"
+}

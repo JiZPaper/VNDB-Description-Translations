@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162185",
+  "type": "character",
+  "name": "Mr. Erwood",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Father of [url=/c59647]Ceridwen Erwood[/url].",
+  "source_sha256": "9edf60bbad42656b3aff64f15eff6ac33050c7ce4e193b4061140bd5e37dee76",
+  "translation": "Father of [url=/c59647]Ceridwen Erwood[/url].",
+  "vndb_url": "https://vndb.org/c162185"
+}

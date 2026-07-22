@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89739",
+  "type": "character",
+  "name": "Floyd",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lucy's and Milena's classmate.",
+  "source_sha256": "d63a416c92147503dacd97fc5b956cf05dbc18e2a59216a8e05ddffea033004b",
+  "translation": "Lucy's and Milena's classmate.",
+  "vndb_url": "https://vndb.org/c89739"
+}

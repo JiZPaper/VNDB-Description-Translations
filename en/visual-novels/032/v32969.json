@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32969",
+  "type": "visual_novel",
+  "name": "Halloween Night Glitch",
+  "original_name": "ハロウィンナイト・グリッチ",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is Ghosttown, where the undead live. One day, Pim's younger brother Sawin wants to celebrate Halloween, but Pim herself doesn't seem up to it...?\n\n[Translated from the [url=http://endingerror.web.fc2.com/hnglitch/index.html]official website[/url]]",
+  "source_sha256": "ac40607e07e8ece5bd72120a42d9c274a94efc3fb674d2e878dc2951108d98db",
+  "translation": "This is Ghosttown, where the undead live. One day, Pim's younger brother Sawin wants to celebrate Halloween, but Pim herself doesn't seem up to it...?\n\n[Translated from the [url=http://endingerror.web.fc2.com/hnglitch/index.html]official website[/url]]",
+  "vndb_url": "https://vndb.org/v32969"
+}

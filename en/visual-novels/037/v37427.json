@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37427",
+  "type": "visual_novel",
+  "name": "Znayomstvo",
+  "original_name": "Знайомство",
+  "language": "en",
+  "source_language": "en",
+  "source": "The game about the acquaintance.",
+  "source_sha256": "2681f7e9da3a2b70112955dbb410e2f071ddd521c9d4c8c47e04af1f9e5c5840",
+  "translation": "The game about the acquaintance.",
+  "vndb_url": "https://vndb.org/v37427"
+}

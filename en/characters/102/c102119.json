@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102119",
+  "type": "character",
+  "name": "Arthur Clarke",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Arthur is Trey's best friend from college. He works at the military base, but under a different department than Trey.",
+  "source_sha256": "212b4776195ff7754dc2b70a3d64946791da19fe714bb8ee675b8592eba621ad",
+  "translation": "Arthur is Trey's best friend from college. He works at the military base, but under a different department than Trey.",
+  "vndb_url": "https://vndb.org/c102119"
+}

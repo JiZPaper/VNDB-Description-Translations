@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100119",
+  "type": "character",
+  "name": "Kau",
+  "original_name": "狗",
+  "language": "en",
+  "source_language": "en",
+  "source": "A heavily mutilated boy who Arbitro keeps as a pet.",
+  "source_sha256": "5406b724faaaeae3a5c6f5ba4ac680e568ba13868b6216d24ee468506aecfabc",
+  "translation": "A heavily mutilated boy who Arbitro keeps as a pet.",
+  "vndb_url": "https://vndb.org/c100119"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61725",
+  "type": "character",
+  "name": "Shrine Frust",
+  "original_name": "ジシャフラスト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A monster created by Dr. Arc.\nHe threatens people with twisted religious beliefs.\n\n[Translated from the [url=https://www.alicesoft.com/escalayer/echara.html]official site[/url]]",
+  "source_sha256": "fcc5886e0408867b662f92d114e0e886c56be55bb5bc18b8361b14e7a1b36fe0",
+  "translation": "A monster created by Dr. Arc.\nHe threatens people with twisted religious beliefs.\n\n[Translated from the [url=https://www.alicesoft.com/escalayer/echara.html]official site[/url]]",
+  "vndb_url": "https://vndb.org/c61725"
+}

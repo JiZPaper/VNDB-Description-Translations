@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11529",
+  "type": "visual_novel",
+  "name": "The Third Ingredient",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Its a short KN based on O.Henry`s novel \"The Third Ingredient\".",
+  "source_sha256": "0a4a9eaf3afc73deea46ab2c5f2cde96f24ddfe9b6495c58d3e2282172a12da8",
+  "translation": "Its a short KN based on O.Henry`s novel \"The Third Ingredient\".",
+  "vndb_url": "https://vndb.org/v11529"
+}

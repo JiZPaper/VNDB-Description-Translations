@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94360",
+  "type": "character",
+  "name": "Selene",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious cat that appeared at the doorstep during a rainy night.",
+  "source_sha256": "738e19b003f97211f2b4e57249543f3aa2a338874e4d84c643e72676a744deb1",
+  "translation": "A mysterious cat that appeared at the doorstep during a rainy night.",
+  "vndb_url": "https://vndb.org/c94360"
+}

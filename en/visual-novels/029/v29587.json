@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29587",
+  "type": "visual_novel",
+  "name": "Edogawa Ranpo no Kaijin Nijuu Mensou DS",
+  "original_name": "江戸川乱歩の怪人二十面相DS",
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel adaptation of Edogawa Ranpo's stories about the Fiend with Twenty Faces.",
+  "source_sha256": "da1a1647ec0e4dd2e75325401e8e85a845ed7e0f6d1b274527e8f497c2ad9d38",
+  "translation": "A visual novel adaptation of Edogawa Ranpo's stories about the Fiend with Twenty Faces.",
+  "vndb_url": "https://vndb.org/v29587"
+}

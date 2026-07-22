@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28491",
+  "type": "visual_novel",
+  "name": "Zetsubou Snow White",
+  "original_name": "絶望スノーホワイト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A retelling of Snow White with a dark twist.",
+  "source_sha256": "1617e6b74fdd970c9362d9477c573ba3bb1ebe34d1ff73bcc34a6a684da73ff0",
+  "translation": "A retelling of Snow White with a dark twist.",
+  "vndb_url": "https://vndb.org/v28491"
+}

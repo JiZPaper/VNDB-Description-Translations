@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25772",
+  "type": "character",
+  "name": "Switzerland",
+  "original_name": "スイス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A cool and serious youth, Liechtenstein's big brother.",
+  "source_sha256": "beefd5e8521cf9597adeac91cff45770a128f98d0267e4470de49d2aa63913a7",
+  "translation": "A cool and serious youth, Liechtenstein's big brother.",
+  "vndb_url": "https://vndb.org/c25772"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73436",
+  "type": "character",
+  "name": "Flower Seller",
+  "original_name": "花売り",
+  "language": "en",
+  "source_language": "en",
+  "source": "A shady flower seller with a sharp tongue.",
+  "source_sha256": "708e2dadd0a481d95ecd24b1f293d41a66902bfe9fbceb98ce29c431bd59f98a",
+  "translation": "A shady flower seller with a sharp tongue.",
+  "vndb_url": "https://vndb.org/c73436"
+}

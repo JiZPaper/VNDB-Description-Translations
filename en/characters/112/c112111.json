@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112111",
+  "type": "character",
+  "name": "Beatrix",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A married customer at Callie's store.",
+  "source_sha256": "91736dac851e1ce86644c168d8c736b585dcea8c1db04188501fe669671df8cb",
+  "translation": "A married customer at Callie's store.",
+  "vndb_url": "https://vndb.org/c112111"
+}

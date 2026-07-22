@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160027",
+  "type": "character",
+  "name": "Primo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bartender",
+  "source_sha256": "3e627e8349af101cfbd9ae74931fbc67567983f9b28434a7fe93c553d9ae95a0",
+  "translation": "Bartender",
+  "vndb_url": "https://vndb.org/c160027"
+}

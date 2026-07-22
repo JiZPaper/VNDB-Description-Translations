@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99651",
+  "type": "character",
+  "name": "The Stranger",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A strange costumer of the Inn. Sells Gunther things.",
+  "source_sha256": "ddd7267b41ad3fef0057ade8047ebd1306cbf22bf00f6c3405445152e96cc41b",
+  "translation": "A strange costumer of the Inn. Sells Gunther things.",
+  "vndb_url": "https://vndb.org/c99651"
+}

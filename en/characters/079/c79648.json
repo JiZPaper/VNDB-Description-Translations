@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79648",
+  "type": "character",
+  "name": "Gravis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bird-like creature that has a contract with Sophia.",
+  "source_sha256": "53fb4c3c034c97d1db17826d89851dc200c4ac8d2097994afe69cc112dd39540",
+  "translation": "A bird-like creature that has a contract with Sophia.",
+  "vndb_url": "https://vndb.org/c79648"
+}

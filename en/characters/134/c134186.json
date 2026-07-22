@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134186",
+  "type": "character",
+  "name": "Ms. Jakes",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A HR worker in the hero's company.",
+  "source_sha256": "9bf744536d41426beeac54fb3e17ea615c368440d12999156443b635afe16886",
+  "translation": "A HR worker in the hero's company.",
+  "vndb_url": "https://vndb.org/c134186"
+}

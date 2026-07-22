@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100855",
+  "type": "character",
+  "name": "Iris",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious girl who appears when exploring.",
+  "source_sha256": "80d4b50ff9c61ad0b6c6cb9957ec972772b00a6bda0e9c61e65d348e208ac869",
+  "translation": "A mysterious girl who appears when exploring.",
+  "vndb_url": "https://vndb.org/c100855"
+}

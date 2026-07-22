@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11167",
+  "type": "visual_novel",
+  "name": "The Romance of Miss Boop",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on the 1931 Talkartoon \"Silly Scandals\".",
+  "source_sha256": "fe08441b2b7dd985845858c246b357516625a745ec0df0f39a793d1cb3a19e8c",
+  "translation": "Based on the 1931 Talkartoon \"Silly Scandals\".",
+  "vndb_url": "https://vndb.org/v11167"
+}

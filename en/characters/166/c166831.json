@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166831",
+  "type": "character",
+  "name": "Janet Williamson",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A journalist who published the news of Kaia Robin disappearance.",
+  "source_sha256": "cd75daf3f0513aea45ec540bde55ea842955a30e9201376d061a2cb1df2814a7",
+  "translation": "A journalist who published the news of Kaia Robin disappearance.",
+  "vndb_url": "https://vndb.org/c166831"
+}

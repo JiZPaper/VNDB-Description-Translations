@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c144063",
+  "type": "character",
+  "name": "Veronica Jones",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "News host from Channel 24.",
+  "source_sha256": "74b47fcb924c72b474dfe03e6eb564f9e1d4e834530389aae77128477ff66781",
+  "translation": "News host from Channel 24.",
+  "vndb_url": "https://vndb.org/c144063"
+}

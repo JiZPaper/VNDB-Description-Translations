@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125048",
+  "type": "character",
+  "name": "Noclue Whatitis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A creature that Hacchi meets in the town.",
+  "source_sha256": "b86b590c1b867f5524193154374f857d56641669feae14805f5310e1d6937c0f",
+  "translation": "A creature that Hacchi meets in the town.",
+  "vndb_url": "https://vndb.org/c125048"
+}

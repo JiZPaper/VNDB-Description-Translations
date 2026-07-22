@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137863",
+  "type": "character",
+  "name": "The Thief",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious, hooded figure, who steals random items from around the town for some unknown reason.",
+  "source_sha256": "1a9aee233c6c9b00d8ccd2402e0927d7a23da0b2d67313bc89645e8a2e1ad831",
+  "translation": "A mysterious, hooded figure, who steals random items from around the town for some unknown reason.",
+  "vndb_url": "https://vndb.org/c137863"
+}

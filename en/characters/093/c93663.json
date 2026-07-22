@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93663",
+  "type": "character",
+  "name": "Sachi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A friend of the protagonist.",
+  "source_sha256": "bae65dd1ec0bebc1706cb0dbdf3a13acf1441d7e197a0a3f575220504a40c769",
+  "translation": "A friend of the protagonist.",
+  "vndb_url": "https://vndb.org/c93663"
+}

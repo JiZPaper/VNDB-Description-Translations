@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93364",
+  "type": "character",
+  "name": "Father Anthony",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A priest with unwavering faith.",
+  "source_sha256": "677de1703c2bc444279f8d50a95de96f25b7cd1b2bf6e3aacc23f6f26cf81967",
+  "translation": "A priest with unwavering faith.",
+  "vndb_url": "https://vndb.org/c93364"
+}

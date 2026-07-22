@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88539",
+  "type": "character",
+  "name": "Logan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A potential romance for Ellie Parker.",
+  "source_sha256": "ab247d64e250844b0b24703256b29cf78d2d2574c856838e7b46e6ceb6593d1f",
+  "translation": "A potential romance for Ellie Parker.",
+  "vndb_url": "https://vndb.org/c88539"
+}

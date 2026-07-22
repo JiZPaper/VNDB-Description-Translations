@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75405",
+  "type": "character",
+  "name": "Olivant",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "High priest at Janna's orphanage.",
+  "source_sha256": "a5f428f21397c2a8357476a1dff7998013c0383c4df248eaaa766bac4de0b0c5",
+  "translation": "High priest at Janna's orphanage.",
+  "vndb_url": "https://vndb.org/c75405"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76472",
+  "type": "character",
+  "name": "Nadine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your caretaker for this week.",
+  "source_sha256": "66c360904ef6756c36f316ac39fc8283ab3d30ee9431f767eb8735c6a58cb4e0",
+  "translation": "Your caretaker for this week.",
+  "vndb_url": "https://vndb.org/c76472"
+}

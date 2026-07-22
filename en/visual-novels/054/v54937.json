@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54937",
+  "type": "visual_novel",
+  "name": "Itadaki Djungarian Chokotto Adventure",
+  "original_name": "いただきじゃんがりあん ちょこっとあどべんちゃ～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Game was initially sent over the mail for owners of [url=/v3390]Itadaki Djungarian[/url] as an apology for the game being riddled with bugs.\nProtagonist goes on a quest to collect uniforms from various restaurants by challenging both new and returning characters to a typing battle.",
+  "source_sha256": "9c6da20c86631a4bdb746091a5c3dff68e209a79a42eb90a11774d863a5c2a04",
+  "translation": "Game was initially sent over the mail for owners of [url=/v3390]Itadaki Djungarian[/url] as an apology for the game being riddled with bugs.\nProtagonist goes on a quest to collect uniforms from various restaurants by challenging both new and returning characters to a typing battle.",
+  "vndb_url": "https://vndb.org/v54937"
+}

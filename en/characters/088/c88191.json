@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88191",
+  "type": "character",
+  "name": "Chasa Novartis",
+  "original_name": "シャサ・ノバルティス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Researcher at Gaigi Pharmaceuticals.",
+  "source_sha256": "20fc76e91326ee241317480ceaa60d28e0a807593da32b85c7431d4ba9a28886",
+  "translation": "Occupation: Researcher at Gaigi Pharmaceuticals.",
+  "vndb_url": "https://vndb.org/c88191"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41097",
+  "type": "visual_novel",
+  "name": "Blood Destiny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are a government agent about to get caught in the middle of a war between two vampire bosses.",
+  "source_sha256": "264706fb2f92ede107fb89021211708634191b8858fb59e5240b93a957a210d0",
+  "translation": "You are a government agent about to get caught in the middle of a war between two vampire bosses.",
+  "vndb_url": "https://vndb.org/v41097"
+}

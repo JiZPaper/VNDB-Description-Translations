@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110143",
+  "type": "character",
+  "name": "Rabbit",
+  "original_name": "ウサギ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The rabbit always seen with Elric.",
+  "source_sha256": "647bd2dd4304501221ec07815dc8703f338159095602435a10037ed136f72f81",
+  "translation": "The rabbit always seen with Elric.",
+  "vndb_url": "https://vndb.org/c110143"
+}

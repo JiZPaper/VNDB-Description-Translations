@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55200",
+  "type": "visual_novel",
+  "name": "a day in the life",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Spend a day in your cozy hometown running errands, grabbing coffee, and enjoying the sun! Surely nothing weird will happen, right?",
+  "source_sha256": "a077db30aa4211dbfa39d874fabccd05b69c8c9ea65d0e55fdf9852e0c1cead1",
+  "translation": "Spend a day in your cozy hometown running errands, grabbing coffee, and enjoying the sun! Surely nothing weird will happen, right?",
+  "vndb_url": "https://vndb.org/v55200"
+}

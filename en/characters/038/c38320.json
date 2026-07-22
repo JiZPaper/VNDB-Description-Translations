@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38320",
+  "type": "character",
+  "name": "Filia",
+  "original_name": "フィリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Elven princess.",
+  "source_sha256": "af7a190fbb20ee20873e8133e85757c80175df3413adfb622c3e387cc1f0db7d",
+  "translation": "Elven princess.",
+  "vndb_url": "https://vndb.org/c38320"
+}

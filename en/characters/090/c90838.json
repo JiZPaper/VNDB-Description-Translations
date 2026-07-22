@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90838",
+  "type": "character",
+  "name": "Sakishita",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A japanese trader came to Radchenko for his own business.",
+  "source_sha256": "6cad67a9e556f501a223d06e86f617593a8d42fe50cc796f939d0fb6104aba36",
+  "translation": "A japanese trader came to Radchenko for his own business.",
+  "vndb_url": "https://vndb.org/c90838"
+}

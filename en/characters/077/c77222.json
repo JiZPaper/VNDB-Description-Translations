@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77222",
+  "type": "character",
+  "name": "Janet",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nate's aunt and mother of Julia.",
+  "source_sha256": "beaea6b972fe2f927bc3e9faa780d98f673ea395e0d1c53e4cede5f7e03979c7",
+  "translation": "Nate's aunt and mother of Julia.",
+  "vndb_url": "https://vndb.org/c77222"
+}

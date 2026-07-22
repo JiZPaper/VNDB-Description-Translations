@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5387",
+  "type": "visual_novel",
+  "name": "Tonari no Kanojo: My Neighbor Girl",
+  "original_name": "となりの彼女 My Neighbor Girl",
+  "language": "en",
+  "source_language": "en",
+  "source": "You are in your third year of high school. Your classmate, Sakura Mana, asks you to help her study. The final exam is in three weeks. Can you help her to get a good score?\n\n(based on the Engrishy description from http://itunes.apple.com/us/app/my-neighbor-girl/id337500672?mt=8)",
+  "source_sha256": "a4515d74acb3d6aa67c8133ae6c056502a9e963d114b736c21a75a1a01dac52a",
+  "translation": "You are in your third year of high school. Your classmate, Sakura Mana, asks you to help her study. The final exam is in three weeks. Can you help her to get a good score?\n\n(based on the Engrishy description from http://itunes.apple.com/us/app/my-neighbor-girl/id337500672?mt=8)",
+  "vndb_url": "https://vndb.org/v5387"
+}

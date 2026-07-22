@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30704",
+  "type": "visual_novel",
+  "name": "Kitto Zenbu Watashi no Sei",
+  "original_name": "きっとぜんぶ私のせい",
+  "language": "en",
+  "source_language": "en",
+  "source": "The plan was simple: ignore all the phone messages, get a new girlfriend, and move on with life. Surely she'd take the hint... Or would she?",
+  "source_sha256": "32cc9db845553f20534333d6285724b208a221faddfc05ff389ee59df51379b8",
+  "translation": "The plan was simple: ignore all the phone messages, get a new girlfriend, and move on with life. Surely she'd take the hint... Or would she?",
+  "vndb_url": "https://vndb.org/v30704"
+}

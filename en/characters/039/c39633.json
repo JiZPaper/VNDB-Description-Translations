@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39633",
+  "type": "character",
+  "name": "Gard",
+  "original_name": "ガルド",
+  "language": "en",
+  "source_language": "en",
+  "source": "A strong fighter who isn't as brutal as he looks.\nIt seems he's fighting for the sake of a dead friend.",
+  "source_sha256": "e81cbd2918a6327487a927ebcbe022c287072e12f126dadae382eecfb90e5bd3",
+  "translation": "A strong fighter who isn't as brutal as he looks.\nIt seems he's fighting for the sake of a dead friend.",
+  "vndb_url": "https://vndb.org/c39633"
+}

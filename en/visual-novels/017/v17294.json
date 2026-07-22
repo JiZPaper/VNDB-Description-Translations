@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17294",
+  "type": "visual_novel",
+  "name": "Fushigi no Kuni no Barnaby",
+  "original_name": "ふしぎの国のバーナビー",
+  "language": "en",
+  "source_language": "en",
+  "source": "An Alice in Wonderland-themed Tiger & Bunny fan game.",
+  "source_sha256": "d91e1830ca0053a516c3cd17e0965a616542ee95300da4d5b2b0a30f5a2a1736",
+  "translation": "An Alice in Wonderland-themed Tiger & Bunny fan game.",
+  "vndb_url": "https://vndb.org/v17294"
+}

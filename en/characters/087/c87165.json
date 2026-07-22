@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87165",
+  "type": "character",
+  "name": "Diamond",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A schoolmate of the protagonist.",
+  "source_sha256": "ae521de19107562d97cb445c9f79835e3250b03e579b1120fe0105d77dd2180c",
+  "translation": "A schoolmate of the protagonist.",
+  "vndb_url": "https://vndb.org/c87165"
+}

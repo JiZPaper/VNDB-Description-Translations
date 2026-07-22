@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86918",
+  "type": "character",
+  "name": "Kermit",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Partner Type: Frog\n\nSpecial Attack: Rain Call\nCreates a small rain cloud, causing rain and thunder to form. Effective for cover, and confusing the enemy.\n\nFavorite Food: Locust\n\n[Official in-game description]",
+  "source_sha256": "be5fe237b27c65845cbe04f90fa645144dc95eac1e1ee11f07cc159042c112ee",
+  "translation": "Partner Type: Frog\n\nSpecial Attack: Rain Call\nCreates a small rain cloud, causing rain and thunder to form. Effective for cover, and confusing the enemy.\n\nFavorite Food: Locust\n\n[Official in-game description]",
+  "vndb_url": "https://vndb.org/c86918"
+}

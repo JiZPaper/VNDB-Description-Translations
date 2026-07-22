@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94865",
+  "type": "character",
+  "name": "Mayor",
+  "original_name": "村長",
+  "language": "en",
+  "source_language": "en",
+  "source": "The mayor of Suno Village. As the central figure of the village, he supports the school and the music club in the shadow.",
+  "source_sha256": "521e46f403beca0a1c3c692480693ad034635e04c8eb3c720d5f7097c0fe282a",
+  "translation": "The mayor of Suno Village. As the central figure of the village, he supports the school and the music club in the shadow.",
+  "vndb_url": "https://vndb.org/c94865"
+}

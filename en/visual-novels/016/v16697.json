@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16697",
+  "type": "visual_novel",
+  "name": "Vitamin Y",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Fandisc of Vitamin X.",
+  "source_sha256": "81d0daface258d923fb9980d27cfb3ef318c5e8d1fdfee2d4260cf847fdda654",
+  "translation": "Fandisc of Vitamin X.",
+  "vndb_url": "https://vndb.org/v16697"
+}

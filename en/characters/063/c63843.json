@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c63843",
+  "type": "character",
+  "name": "Kyouya",
+  "original_name": "鏡夜",
+  "language": "en",
+  "source_language": "en",
+  "source": "When he wakes up in an unknown room, he finds himself unable to move.",
+  "source_sha256": "178abe44b1a1fc17cfa80ee195db553c05d9dcd1612b2ea65ea63a43fbfe8daf",
+  "translation": "When he wakes up in an unknown room, he finds himself unable to move.",
+  "vndb_url": "https://vndb.org/c63843"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90589",
+  "type": "character",
+  "name": "Sam Wong",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A free-spirited woman who runs a video shop.",
+  "source_sha256": "657881d48bf05acb003347edd88724303b1d7c242e9bda91375f835263d1b795",
+  "translation": "A free-spirited woman who runs a video shop.",
+  "vndb_url": "https://vndb.org/c90589"
+}

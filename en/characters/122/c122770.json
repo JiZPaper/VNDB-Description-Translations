@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122770",
+  "type": "character",
+  "name": "King",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Team Glameur grunt.",
+  "source_sha256": "ca456bf38e7a360c0273fdeead875099eb55d0fa40256929bfc56338ed042dcf",
+  "translation": "A Team Glameur grunt.",
+  "vndb_url": "https://vndb.org/c122770"
+}

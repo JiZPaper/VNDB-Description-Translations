@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c58023",
+  "type": "character",
+  "name": "Farris Lassen",
+  "original_name": "ファリス=ラッセン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes: Cherries\nDislikes: Spicy Food",
+  "source_sha256": "d10a788e7c13db088f42f6f9bf72e9450612a21bfbf03e8ed88677f81bcb78c8",
+  "translation": "Likes: Cherries\nDislikes: Spicy Food",
+  "vndb_url": "https://vndb.org/c58023"
+}

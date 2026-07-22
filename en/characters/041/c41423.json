@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41423",
+  "type": "character",
+  "name": "Henry Earnest",
+  "original_name": "ヘンリー・アーネスト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A senator in the dukedom. A kind elderly gentleman.\nHe treats [url=/c41411]Maximilian[/url] like a grandson.\nHe's taken a liking to teasing him recently.",
+  "source_sha256": "d384922cbf0ca8a51ff070ea734eb8898a708e44b6f36fe2cc63ded567410e24",
+  "translation": "A senator in the dukedom. A kind elderly gentleman.\nHe treats [url=/c41411]Maximilian[/url] like a grandson.\nHe's taken a liking to teasing him recently.",
+  "vndb_url": "https://vndb.org/c41423"
+}

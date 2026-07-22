@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56215",
+  "type": "visual_novel",
+  "name": "GWTTMA",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your boyfriend is acting weird.\n\n[s]Or maybe you're overreacting.[/s]",
+  "source_sha256": "327b4e5e3067c2b7dfb84839bdf38003c4c3418b73086742ab623aca5b9e4812",
+  "translation": "Your boyfriend is acting weird.\n\n[s]Or maybe you're overreacting.[/s]",
+  "vndb_url": "https://vndb.org/v56215"
+}

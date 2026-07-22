@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93443",
+  "type": "character",
+  "name": "Marco Kanae",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Alice's landlord.",
+  "source_sha256": "bdb1a249dcd60ab121e83ec1de0bcd1f9eff40be35bad10ff991d90a2ed4d55a",
+  "translation": "Alice's landlord.",
+  "vndb_url": "https://vndb.org/c93443"
+}

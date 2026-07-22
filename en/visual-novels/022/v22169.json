@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22169",
+  "type": "visual_novel",
+  "name": "Wands and Witches",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "When you turned 18, you received a letter with an invitation to the Hogwarts University of Witchcraft and Wizardry. Because magic is not for children!",
+  "source_sha256": "5aab17d386662f061499e030abbab1cb1bc461a9a076dc499814d4602f2c5c86",
+  "translation": "When you turned 18, you received a letter with an invitation to the Hogwarts University of Witchcraft and Wizardry. Because magic is not for children!",
+  "vndb_url": "https://vndb.org/v22169"
+}

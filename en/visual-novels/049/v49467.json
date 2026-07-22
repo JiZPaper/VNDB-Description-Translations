@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49467",
+  "type": "visual_novel",
+  "name": "Tales From Afar",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Life on planet Zeme has been going on happily for many centuries.\nPeople enjoyed the fruits of technological and human development progress. Until one day, everything changed.",
+  "source_sha256": "fa0199f24172a64c500cd8de73c4451a039ceee2ac583c0dee349a48678403ce",
+  "translation": "Life on planet Zeme has been going on happily for many centuries.\nPeople enjoyed the fruits of technological and human development progress. Until one day, everything changed.",
+  "vndb_url": "https://vndb.org/v49467"
+}

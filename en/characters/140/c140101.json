@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140101",
+  "type": "character",
+  "name": "Chelsea",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Petra's online friends. She lives in the United States.",
+  "source_sha256": "5635f302111f7d1e3f7536881f8bb2b5b5246148d2ccef07ae28308282525bcb",
+  "translation": "One of Petra's online friends. She lives in the United States.",
+  "vndb_url": "https://vndb.org/c140101"
+}

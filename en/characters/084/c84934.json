@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84934",
+  "type": "character",
+  "name": "Professor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A professor of psychology at the university.\n\n[spoiler]In reality, he is one of the possible iterations of Future Alex[/spoiler].",
+  "source_sha256": "b3c0e4ef943ec600e17375786ce0fdffe2166e2f2ae4ab9cd09ad83dd6b05f11",
+  "translation": "A professor of psychology at the university.\n\n[spoiler]In reality, he is one of the possible iterations of Future Alex[/spoiler].",
+  "vndb_url": "https://vndb.org/c84934"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c68168",
+  "type": "character",
+  "name": "Sora",
+  "original_name": "そら",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the protagonist's familiars. Specialized in fighting.",
+  "source_sha256": "38536fc479e1a74be3c0d90e79a63eb1edd88867525ba747bf5582231d106a1f",
+  "translation": "One of the protagonist's familiars. Specialized in fighting.",
+  "vndb_url": "https://vndb.org/c68168"
+}

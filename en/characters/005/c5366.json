@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c5366",
+  "type": "character",
+  "name": "Mesarti",
+  "original_name": "メサルティ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A maid who works in the royal palace.",
+  "source_sha256": "2b1b0224e235099ad5fb9904a9dee0a5b471d6de0fc9a822adf32dd080f7c83c",
+  "translation": "A maid who works in the royal palace.",
+  "vndb_url": "https://vndb.org/c5366"
+}

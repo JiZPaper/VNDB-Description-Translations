@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7354",
+  "type": "visual_novel",
+  "name": "Eyes of a Dead Fish",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A boy witnesses a car accident involving a young man saving his friend, and he reminisces his past regrets about the best friend he had.",
+  "source_sha256": "7d6c4f649940343ee9cbcef208ca5836296cb8f652b91358835b7bbf6473fa36",
+  "translation": "A boy witnesses a car accident involving a young man saving his friend, and he reminisces his past regrets about the best friend he had.",
+  "vndb_url": "https://vndb.org/v7354"
+}

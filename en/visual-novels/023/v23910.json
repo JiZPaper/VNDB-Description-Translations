@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23910",
+  "type": "visual_novel",
+  "name": "Extra Credit or Fail",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel game about a failing student trying to get their grades up.\n\n[From [url=https://privatecups.itch.io/extra-credit-or-fail] itch.io[/url]]",
+  "source_sha256": "105b99c4cc991c3d8f1f00b4407e87fad86304a1309d7a7b6b77f3d8b7373779",
+  "translation": "A visual novel game about a failing student trying to get their grades up.\n\n[From [url=https://privatecups.itch.io/extra-credit-or-fail] itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v23910"
+}

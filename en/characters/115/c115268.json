@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115268",
+  "type": "character",
+  "name": "Valentina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Tavern owner in Havana",
+  "source_sha256": "523d66305109629f955c1996e0a048f477722c294bb8a9b56c015a533e34de1e",
+  "translation": "Tavern owner in Havana",
+  "vndb_url": "https://vndb.org/c115268"
+}

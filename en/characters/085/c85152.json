@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c85152",
+  "type": "character",
+  "name": "Manager",
+  "original_name": "マネージャー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sonico’s manager.",
+  "source_sha256": "b7c6b390029552f63a0f94b09313a8675e21981eedb9d7b40725d11fd5a3d225",
+  "translation": "Sonico’s manager.",
+  "vndb_url": "https://vndb.org/c85152"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1744",
+  "type": "visual_novel",
+  "name": "Kuru Kuru Coeur",
+  "original_name": "くるくるくーる",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist visits his childhood friend Kirara at the prestigious Extraordinary Science Laboratory, or Exlab.\n\nOn one of her lab's table lies a mysterious and suspicious-looking device. As the protag activates the machine, it turns out it actually is a mechanism capable of changing the gender of a person!",
+  "source_sha256": "c55a48d18cdf92f23f9df3eb71c324ed380e1115ac9f13ea6865efbd9b882549",
+  "translation": "The protagonist visits his childhood friend Kirara at the prestigious Extraordinary Science Laboratory, or Exlab.\n\nOn one of her lab's table lies a mysterious and suspicious-looking device. As the protag activates the machine, it turns out it actually is a mechanism capable of changing the gender of a person!",
+  "vndb_url": "https://vndb.org/v1744"
+}

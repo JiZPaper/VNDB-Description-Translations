@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169825",
+  "type": "character",
+  "name": "Miranda",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A makeup artist.",
+  "source_sha256": "54fed74ad9386e01a1efdf8903d2dbb2a1a6127e05570727f4a87c1afa06ea8a",
+  "translation": "A makeup artist.",
+  "vndb_url": "https://vndb.org/c169825"
+}

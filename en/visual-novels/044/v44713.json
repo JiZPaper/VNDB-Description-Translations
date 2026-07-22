@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44713",
+  "type": "visual_novel",
+  "name": "Demon Hotel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You wake up in a pristine-looking hotel, but later find out the hotel is not what it seems to be with demons roaming around. You must escape the hotel alive while also uncovering dark secrets as you progress.\n\n[from [url=https://jooshuar.itch.io/demon-hotel]Itch.io[/url]]",
+  "source_sha256": "c3439298d70f4e6016566a79de4e284b137fa450e838b4184226b20d50a20df5",
+  "translation": "You wake up in a pristine-looking hotel, but later find out the hotel is not what it seems to be with demons roaming around. You must escape the hotel alive while also uncovering dark secrets as you progress.\n\n[from [url=https://jooshuar.itch.io/demon-hotel]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v44713"
+}

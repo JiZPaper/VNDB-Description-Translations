@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155469",
+  "type": "character",
+  "name": "You",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "College student protagonist.",
+  "source_sha256": "0df6881b16a32f1f1c02ee52672d7513d905cc18ab951b20a28e28322a12f97a",
+  "translation": "College student protagonist.",
+  "vndb_url": "https://vndb.org/c155469"
+}

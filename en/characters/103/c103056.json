@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103056",
+  "type": "character",
+  "name": "Store Clerk",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Works at the local cell phone store. She maintains an air of polite professionalism, even when having to deal with extremely rude customers.",
+  "source_sha256": "dc8b5d956ab5ad4fd254c407654586580acc13f3258c5046b7c61de9fbd8fdd3",
+  "translation": "Works at the local cell phone store. She maintains an air of polite professionalism, even when having to deal with extremely rude customers.",
+  "vndb_url": "https://vndb.org/c103056"
+}

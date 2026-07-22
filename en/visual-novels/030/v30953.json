@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30953",
+  "type": "visual_novel",
+  "name": "Interea",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A companion visual novel to Adastra...",
+  "source_sha256": "4d48efd4d7db07c45737a033d313f61359c6e16b94811d9996dcbdd3b771f66c",
+  "translation": "A companion visual novel to Adastra...",
+  "vndb_url": "https://vndb.org/v30953"
+}

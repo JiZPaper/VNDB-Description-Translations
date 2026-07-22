@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60036",
+  "type": "visual_novel",
+  "name": "Zhizn' sverhcheloveka",
+  "original_name": "Жизнь сверхчеловека",
+  "language": "en",
+  "source_language": "en",
+  "source": "An autobiographical visual novel about the developer's life.",
+  "source_sha256": "e9d1fac09f2b2f912ab5b7f68b0270ac01ab360677d216c834c51b47cc22338f",
+  "translation": "An autobiographical visual novel about the developer's life.",
+  "vndb_url": "https://vndb.org/v60036"
+}

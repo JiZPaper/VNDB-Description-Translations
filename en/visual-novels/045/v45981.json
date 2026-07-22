@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45981",
+  "type": "visual_novel",
+  "name": "The Butterfly Queen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl embarks on a quest in pursuit of a peculiar butterfly, finding herself in a strange world in the process.",
+  "source_sha256": "f47437d52784676c456c5eb7cbf0e21abe529a72ef8a1516bfa67576a79c503f",
+  "translation": "A girl embarks on a quest in pursuit of a peculiar butterfly, finding herself in a strange world in the process.",
+  "vndb_url": "https://vndb.org/v45981"
+}

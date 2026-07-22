@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92298",
+  "type": "character",
+  "name": "Lawyer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Lawyer representing you at your trial.[/spoiler]\n\nThe character may be either male or female, depending on your selection.",
+  "source_sha256": "db409db8c43694b5092a3c8b64d7d9908f866f5e6d19e77b0b176b8e58ff0c4b",
+  "translation": "[spoiler]Lawyer representing you at your trial.[/spoiler]\n\nThe character may be either male or female, depending on your selection.",
+  "vndb_url": "https://vndb.org/c92298"
+}

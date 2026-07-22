@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53650",
+  "type": "character",
+  "name": "Corvus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Corvus's humanoid form.",
+  "source_sha256": "060c5df33c499c1c8e5648b33ac9d631f06c6a5980ee7dbb3c040d25af2ab134",
+  "translation": "Corvus's humanoid form.",
+  "vndb_url": "https://vndb.org/c53650"
+}

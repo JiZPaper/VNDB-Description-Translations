@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44106",
+  "type": "character",
+  "name": "Emperor",
+  "original_name": "皇帝",
+  "language": "en",
+  "source_language": "en",
+  "source": "He is the head of state of the Empire. He was a belligerent in his youth, but has become more peace-oriented in his old age.\n\n[From [url=https://www.getchu.com/soft.phtml?id=519805]getchu[/url]]",
+  "source_sha256": "2436e19cdc292f1a6ea7dc1e34b5a52ce08e77231c5a81ad840d74ab5957ed84",
+  "translation": "He is the head of state of the Empire. He was a belligerent in his youth, but has become more peace-oriented in his old age.\n\n[From [url=https://www.getchu.com/soft.phtml?id=519805]getchu[/url]]",
+  "vndb_url": "https://vndb.org/c44106"
+}

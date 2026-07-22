@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38920",
+  "type": "visual_novel",
+  "name": "It Started With Hairs",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A very short visual novel about the horror of having a body.",
+  "source_sha256": "9880c29c529937d4ec205d35550c9ce9ca5087bed009f51eee6a0511e660eb8f",
+  "translation": "A very short visual novel about the horror of having a body.",
+  "vndb_url": "https://vndb.org/v38920"
+}

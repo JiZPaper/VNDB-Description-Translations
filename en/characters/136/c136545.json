@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136545",
+  "type": "character",
+  "name": "Leon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Oh, I see. The city's charm has captivated your virgin heart.\"\n\nLikes: Roses, Physical touch, Romance,\nDislike: Rudeness, Flavorless food,",
+  "source_sha256": "1f67d1235e52b499c58b5226070c13b5a2ca0377f62c75e239c5b75e885080a5",
+  "translation": "\"Oh, I see. The city's charm has captivated your virgin heart.\"\n\nLikes: Roses, Physical touch, Romance,\nDislike: Rudeness, Flavorless food,",
+  "vndb_url": "https://vndb.org/c136545"
+}

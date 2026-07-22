@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73653",
+  "type": "character",
+  "name": "Wolfgang",
+  "original_name": "ウルフガング",
+  "language": "en",
+  "source_language": "en",
+  "source": "The boss of the WAP mafia organization.",
+  "source_sha256": "0dcbdab8c5bca35edd995b449a0cae97301111bd75a0f6eedc3ef45eacf841c6",
+  "translation": "The boss of the WAP mafia organization.",
+  "vndb_url": "https://vndb.org/c73653"
+}

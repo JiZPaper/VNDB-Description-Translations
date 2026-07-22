@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166783",
+  "type": "character",
+  "name": "Mika",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A traumatized, mentally ill girl who simply wants to buy some juice.",
+  "source_sha256": "4cd7bf2c4ff2fa8ccadd09ac6416c845df9fafd3ab60c4ddd9579cafd1433ebc",
+  "translation": "A traumatized, mentally ill girl who simply wants to buy some juice.",
+  "vndb_url": "https://vndb.org/c166783"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99673",
+  "type": "character",
+  "name": "Owner",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of the laundromat where the protagonist and Charlie went during the story.",
+  "source_sha256": "fd0915b56f98ab33368742b72200acd1f855b1f901791d185d4f6f24674e2b7a",
+  "translation": "The owner of the laundromat where the protagonist and Charlie went during the story.",
+  "vndb_url": "https://vndb.org/c99673"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65742",
+  "type": "visual_novel",
+  "name": "Love Come Switch",
+  "original_name": "ラブコメスイッチ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Strategy game where the characters' reactions and the difficulty of the game change depending on the gender of the player!",
+  "source_sha256": "4c00b88801e1837d8e25b5e9fc41273f277c4332ac869377f4f928f696591c13",
+  "translation": "Strategy game where the characters' reactions and the difficulty of the game change depending on the gender of the player!",
+  "vndb_url": "https://vndb.org/v65742"
+}

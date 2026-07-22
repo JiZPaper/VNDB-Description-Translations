@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124964",
+  "type": "character",
+  "name": "R-1",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An android modelled after Ritsu.",
+  "source_sha256": "b06a55f57ed84e683fbc0f693239640a890b903319587b881adad39ed7d59241",
+  "translation": "An android modelled after Ritsu.",
+  "vndb_url": "https://vndb.org/c124964"
+}

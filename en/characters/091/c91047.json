@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91047",
+  "type": "character",
+  "name": "Luca",
+  "original_name": "ルカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A boy who lives in Strano. He spends his days pickpocketing and begging.",
+  "source_sha256": "eb703ab17b1794d1126826de968c0bea2cafa91fcea03e2a516865398924bdc5",
+  "translation": "A boy who lives in Strano. He spends his days pickpocketing and begging.",
+  "vndb_url": "https://vndb.org/c91047"
+}

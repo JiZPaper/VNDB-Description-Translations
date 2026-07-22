@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28919",
+  "type": "visual_novel",
+  "name": "Moving to the Wrong Neighborhood",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Play as Eric and his wife Karen, who moved into the wrong neighborhood.",
+  "source_sha256": "3b7e00232c401d8ae6897dcb6b968c2665c5c32757e39703bb00b29d24092924",
+  "translation": "Play as Eric and his wife Karen, who moved into the wrong neighborhood.",
+  "vndb_url": "https://vndb.org/v28919"
+}

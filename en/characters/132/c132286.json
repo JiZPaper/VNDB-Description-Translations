@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132286",
+  "type": "character",
+  "name": "Baby Pannya",
+  "original_name": "子ぱんにゃ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Small creature accompanying [url=/c132285]Mother Pannya[/url].",
+  "source_sha256": "5ba545552ef328944f69793e474bf8cd21dc4fb3370a3ebf7140863f8380da8e",
+  "translation": "Small creature accompanying [url=/c132285]Mother Pannya[/url].",
+  "vndb_url": "https://vndb.org/c132286"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136251",
+  "type": "character",
+  "name": "Jack-o'-Lantern",
+  "original_name": "ジャック・オー・ランターン",
+  "language": "en",
+  "source_language": "en",
+  "source": "The antagonist of the event \"Halloween Memories\".",
+  "source_sha256": "41bba27df1b4fda758accd7f725e8ef38b344d84db18492aaa1fea93cc86853e",
+  "translation": "The antagonist of the event \"Halloween Memories\".",
+  "vndb_url": "https://vndb.org/c136251"
+}

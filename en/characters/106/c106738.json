@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106738",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "Juror no. 6. Name, age and gender are chosen by the player.",
+  "source_sha256": "234c388ae5356c2052fad66455555705a8d542b385bcb3f3d8070dce1c4576a4",
+  "translation": "Juror no. 6. Name, age and gender are chosen by the player.",
+  "vndb_url": "https://vndb.org/c106738"
+}

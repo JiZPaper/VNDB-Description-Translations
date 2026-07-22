@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c43781",
+  "type": "character",
+  "name": "Serazar",
+  "original_name": "シェラザール",
+  "language": "en",
+  "source_language": "en",
+  "source": "The king of Azul, a country of deserts and jewels, located in the northwest of Ortesia. He remains calm and composed at all times, rarely exposing his emotions. However, he sometimes tests those he sees potential in by gauging their reactions to his statements.",
+  "source_sha256": "2e80cfc62f3260418ddf8997553abde3437083dec4e28764a378b01d243a678b",
+  "translation": "The king of Azul, a country of deserts and jewels, located in the northwest of Ortesia. He remains calm and composed at all times, rarely exposing his emotions. However, he sometimes tests those he sees potential in by gauging their reactions to his statements.",
+  "vndb_url": "https://vndb.org/c43781"
+}

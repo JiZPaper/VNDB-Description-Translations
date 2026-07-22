@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56825",
+  "type": "visual_novel",
+  "name": "Hokage Servant",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You become a Hokage Servant who helps Lady Tsunade.",
+  "source_sha256": "128ab099dfa25527c2d4b25daa24948692431976bb7d29820fece2332a8ecef0",
+  "translation": "You become a Hokage Servant who helps Lady Tsunade.",
+  "vndb_url": "https://vndb.org/v56825"
+}

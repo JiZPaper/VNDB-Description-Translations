@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22092",
+  "type": "visual_novel",
+  "name": "Love Paradox",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel about a young woman who travels back in time and meets her first crush and former teacher.",
+  "source_sha256": "bbd53fc67bbe8bf7a796247e1cef7ed2eddb2ec10d828310b6d5104e0b4577c0",
+  "translation": "A visual novel about a young woman who travels back in time and meets her first crush and former teacher.",
+  "vndb_url": "https://vndb.org/v22092"
+}

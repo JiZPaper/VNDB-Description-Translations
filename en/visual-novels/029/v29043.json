@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29043",
+  "type": "visual_novel",
+  "name": "pet",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Slightly disturbing pet life BL game.",
+  "source_sha256": "6aecdad90ab366ee11df96533efded411851c5fb65095ad9bd59d63cd00b636f",
+  "translation": "Slightly disturbing pet life BL game.",
+  "vndb_url": "https://vndb.org/v29043"
+}

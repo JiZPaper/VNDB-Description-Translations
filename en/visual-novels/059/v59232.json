@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59232",
+  "type": "visual_novel",
+  "name": "In between",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A simple 15-20 minutes text-based experience surrounding themes related to death.\n\nIs it peaceful in the presence of death? Is it the end? Or is it merely the beginning of a new cycle?",
+  "source_sha256": "df6a8cbf6d46f7c4d179e5b9e5d7e3c01932c6f7d185fa76bcb26d35cff7b356",
+  "translation": "A simple 15-20 minutes text-based experience surrounding themes related to death.\n\nIs it peaceful in the presence of death? Is it the end? Or is it merely the beginning of a new cycle?",
+  "vndb_url": "https://vndb.org/v59232"
+}

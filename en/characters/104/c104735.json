@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c104735",
+  "type": "character",
+  "name": "Eve Rogers",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sister of [url=/c104737]Grace Rogers[/url].",
+  "source_sha256": "8f12cc79b965c362f037fcd19afcd10e9f697f928a2d3f271e589f43eb920f6a",
+  "translation": "Sister of [url=/c104737]Grace Rogers[/url].",
+  "vndb_url": "https://vndb.org/c104735"
+}

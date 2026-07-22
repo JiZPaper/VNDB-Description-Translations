@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105995",
+  "type": "character",
+  "name": "Metatron",
+  "original_name": "メタトロン",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"If I don't tell you now, I'm sure I'll regret it.\"\n\nA gentle angel who works for the Council.",
+  "source_sha256": "01e073b4e0c35e02d079fbc42a67fad5e06fb56fb6fc949f2a87e26f57ae5d84",
+  "translation": "\"If I don't tell you now, I'm sure I'll regret it.\"\n\nA gentle angel who works for the Council.",
+  "vndb_url": "https://vndb.org/c105995"
+}

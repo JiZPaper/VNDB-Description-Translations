@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c18519",
+  "type": "character",
+  "name": "Miyamoto Musashi",
+  "original_name": "宮本 武蔵",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on Musashi Miyamoto, who was an expert Japanese swordsman and rounin. Musashi, as he was often simply known, became renowned through stories of his excellent swordsmanship in numerous duels, even from a very young age.",
+  "source_sha256": "d71a0d22877f0608fe765a9b36c257ccb6e477b6311281a110aa888cb18d8260",
+  "translation": "Based on Musashi Miyamoto, who was an expert Japanese swordsman and rounin. Musashi, as he was often simply known, became renowned through stories of his excellent swordsmanship in numerous duels, even from a very young age.",
+  "vndb_url": "https://vndb.org/c18519"
+}

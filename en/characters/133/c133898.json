@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133898",
+  "type": "character",
+  "name": "Oz",
+  "original_name": "オズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Oz is Siegfried's confidant.\n\nWhile the trial version lacked a facial sprite, it was added in the final product.",
+  "source_sha256": "87cd043149747bf3789f196f795bd8e581ec8b8b668f0f07fa0db915316cc718",
+  "translation": "Oz is Siegfried's confidant.\n\nWhile the trial version lacked a facial sprite, it was added in the final product.",
+  "vndb_url": "https://vndb.org/c133898"
+}

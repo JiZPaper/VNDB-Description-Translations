@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102132",
+  "type": "character",
+  "name": "Gina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gina is a close friend of Amy. She left her boyfriend for Klaudia.",
+  "source_sha256": "e77f0c4fca97684ce39ea4c6b746e0aa273506c5e41d2e552fbe78eca134b813",
+  "translation": "Gina is a close friend of Amy. She left her boyfriend for Klaudia.",
+  "vndb_url": "https://vndb.org/c102132"
+}

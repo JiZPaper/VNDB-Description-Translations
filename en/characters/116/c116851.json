@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116851",
+  "type": "character",
+  "name": "Android",
+  "original_name": "アンドロイド",
+  "language": "en",
+  "source_language": "en",
+  "source": "An android tasked with managing [url=/c101514]Willem Grouner[/url]'s [spoiler]secret island base[/spoiler].",
+  "source_sha256": "a8848d96e4d115146fedbb6cf687454ac66171cc1520a4f20cb9920c019deb99",
+  "translation": "An android tasked with managing [url=/c101514]Willem Grouner[/url]'s [spoiler]secret island base[/spoiler].",
+  "vndb_url": "https://vndb.org/c116851"
+}

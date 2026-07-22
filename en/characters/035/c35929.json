@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35929",
+  "type": "character",
+  "name": "Adamski",
+  "original_name": "アダムスキー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A puppet [url=/c35926]Amelia[/url] wears on her left hand.",
+  "source_sha256": "de9ff97cc5f37f13eeeeabb1d691e012ab8ce2cbb81ec699a602e752fd316b8b",
+  "translation": "A puppet [url=/c35926]Amelia[/url] wears on her left hand.",
+  "vndb_url": "https://vndb.org/c35929"
+}

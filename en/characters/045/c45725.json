@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45725",
+  "type": "character",
+  "name": "Heddar",
+  "original_name": "ヘイダル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A young man shrouded in mystery...",
+  "source_sha256": "bd1f8cfbd126197f02f2e3ed1a07510a8e0961c5d81362c6a121ba83a6474df3",
+  "translation": "A young man shrouded in mystery...",
+  "vndb_url": "https://vndb.org/c45725"
+}

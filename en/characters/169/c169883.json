@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169883",
+  "type": "character",
+  "name": "Takemaway",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A police sergeant.",
+  "source_sha256": "196df047bf7e153d8f023480dd129662effd4b3646cbf34480ee837a34ec9383",
+  "translation": "A police sergeant.",
+  "vndb_url": "https://vndb.org/c169883"
+}

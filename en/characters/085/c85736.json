@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c85736",
+  "type": "character",
+  "name": "Sara",
+  "original_name": "サラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "PS version only.",
+  "source_sha256": "55abf3f1cc59fdfc8e3172601a126b46bf72d22a0fd013863c64c6b28cf9cd47",
+  "translation": "PS version only.",
+  "vndb_url": "https://vndb.org/c85736"
+}

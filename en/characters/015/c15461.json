@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15461",
+  "type": "character",
+  "name": "David",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He's an university student that will help Giorgio with math. \nHe loves math, working in a pub and he's also a good friend of Giorgio's brother.",
+  "source_sha256": "923aa5dd7e23c4e72a5cd4118b2ab2368135a19a9de926907e20f08f3cab0cb5",
+  "translation": "He's an university student that will help Giorgio with math. \nHe loves math, working in a pub and he's also a good friend of Giorgio's brother.",
+  "vndb_url": "https://vndb.org/c15461"
+}

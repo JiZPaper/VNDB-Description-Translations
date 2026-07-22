@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29935",
+  "type": "visual_novel",
+  "name": "Mayonaka no Juliet",
+  "original_name": "真夜中のジュリエット",
+  "language": "en",
+  "source_language": "en",
+  "source": "You may be a trust fund baby, but you work hard to achieve your dreams:\nMaking your mark, and maybe finding love along the way.\nSadly, your parents have other plans, surprising you with a fiance.\n\nAre you bound by your parents' choice?\nOr does the voice beyond your balcony offer something more?",
+  "source_sha256": "629c604f16b1053d0e7ed9d6a09c34b137a546f91567f4f864152ab8d06e73d5",
+  "translation": "You may be a trust fund baby, but you work hard to achieve your dreams:\nMaking your mark, and maybe finding love along the way.\nSadly, your parents have other plans, surprising you with a fiance.\n\nAre you bound by your parents' choice?\nOr does the voice beyond your balcony offer something more?",
+  "vndb_url": "https://vndb.org/v29935"
+}

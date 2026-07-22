@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13539",
+  "type": "visual_novel",
+  "name": "Detective Story",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short interactive mystery.",
+  "source_sha256": "50b1fcd3e8ccc670b22da1b68867d7ec61916566a13e92729ef870e1260b0c4b",
+  "translation": "A short interactive mystery.",
+  "vndb_url": "https://vndb.org/v13539"
+}

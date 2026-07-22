@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c58956",
+  "type": "character",
+  "name": "Dr. Toojima",
+  "original_name": "十島 博士",
+  "language": "en",
+  "source_language": "en",
+  "source": "A researcher living in the Jail, he is more knowledgeable of the place than any of the other people in there.",
+  "source_sha256": "3e5aeb0c614b9c7f3cc68f30ed834d9ab66a286a6bf0b2577027d3bf6ac86b75",
+  "translation": "A researcher living in the Jail, he is more knowledgeable of the place than any of the other people in there.",
+  "vndb_url": "https://vndb.org/c58956"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c13177",
+  "type": "character",
+  "name": "Franken Ristling",
+  "original_name": "フランケン・リースリング",
+  "language": "en",
+  "source_language": "en",
+  "source": "A cyborg weapon created to fight demons.\nEscaped from the facility and now serves as Little's butler.",
+  "source_sha256": "fa09c675c21e2076fc737508b172c970d4c9687a0ab263cb3f26192dbe13a269",
+  "translation": "A cyborg weapon created to fight demons.\nEscaped from the facility and now serves as Little's butler.",
+  "vndb_url": "https://vndb.org/c13177"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132924",
+  "type": "character",
+  "name": "Bartender",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bartender at Aurelia's favorite bar. As a man significantly older than her (although his exact age is not known), he offers advice and listens to her (and other customers) discussing her problems.",
+  "source_sha256": "6828a3fd0a925b52ff70c2a40fdeb1ab2e108931398442b7c7a0c694c4179ae5",
+  "translation": "Bartender at Aurelia's favorite bar. As a man significantly older than her (although his exact age is not known), he offers advice and listens to her (and other customers) discussing her problems.",
+  "vndb_url": "https://vndb.org/c132924"
+}

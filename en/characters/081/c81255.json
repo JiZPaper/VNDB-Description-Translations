@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81255",
+  "type": "character",
+  "name": "Trish",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nathan's ex-partner.",
+  "source_sha256": "8b8efa9e7592362e9b74736768428443da8e59de042337e922779a2145a6c2e3",
+  "translation": "Nathan's ex-partner.",
+  "vndb_url": "https://vndb.org/c81255"
+}

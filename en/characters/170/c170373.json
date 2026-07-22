@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170373",
+  "type": "character",
+  "name": "Alice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The player's daughter.",
+  "source_sha256": "12868443c11ff6028dbaa1cc0d7d36733a43d4c22bb9439e26dd1c1987daa568",
+  "translation": "The player's daughter.",
+  "vndb_url": "https://vndb.org/c170373"
+}

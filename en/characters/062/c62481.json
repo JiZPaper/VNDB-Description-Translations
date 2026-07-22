@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62481",
+  "type": "character",
+  "name": "Wolfgang Amadeus Mozart",
+  "original_name": "ヴォルフガング・アマデウス・モーツァルト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A prodigy who began composing from the age of five, Mozart lives and breathes music. He comes to the mansion in pursuit of composing his greatest piece yet.\nHe is distant and abrasive, and yet there are glimmers of a sensitive heart beyond his iron mask. \n\n\"And why, exactly, should I shake your hand?\"",
+  "source_sha256": "44802befad980b9ebb0bdeba19f2ccd8fbbf00015142912375e7cfbc02f41f28",
+  "translation": "A prodigy who began composing from the age of five, Mozart lives and breathes music. He comes to the mansion in pursuit of composing his greatest piece yet.\nHe is distant and abrasive, and yet there are glimmers of a sensitive heart beyond his iron mask. \n\n\"And why, exactly, should I shake your hand?\"",
+  "vndb_url": "https://vndb.org/c62481"
+}

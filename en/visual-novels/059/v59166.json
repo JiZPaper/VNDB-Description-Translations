@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59166",
+  "type": "visual_novel",
+  "name": "CivitAI Guy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "CivitAI Guy is a modern visual novel with a management layer—built as an experiment in true community-driven development. Plan your days and nights, earn and spend, unlock upgrades that meaningfully change how you play, and build relationships that branch into unique events and payoffs.\n\n[From [url=https://www.patreon.com/cw/civitai]Patreon[/url]]",
+  "source_sha256": "8cdf60d0ad6ce5b8513eb07c3dbbddf8fb1dd245e4c6028b9d4fcc284f3d58c6",
+  "translation": "CivitAI Guy is a modern visual novel with a management layer—built as an experiment in true community-driven development. Plan your days and nights, earn and spend, unlock upgrades that meaningfully change how you play, and build relationships that branch into unique events and payoffs.\n\n[From [url=https://www.patreon.com/cw/civitai]Patreon[/url]]",
+  "vndb_url": "https://vndb.org/v59166"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c43162",
+  "type": "character",
+  "name": "DVComp",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "DVComp is Fuji Academy's artificial intelligence program.",
+  "source_sha256": "d85b2ed2bb7b4896ca3d76f4570bf3fc5062b6d6997930b44a65959392c2c9e0",
+  "translation": "DVComp is Fuji Academy's artificial intelligence program.",
+  "vndb_url": "https://vndb.org/c43162"
+}

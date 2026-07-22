@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123643",
+  "type": "character",
+  "name": "Sakurada Nori",
+  "original_name": "桜田 のり",
+  "language": "en",
+  "source_language": "en",
+  "source": "Instance of Sakurada Nori in NOMAD Rozen Maiden continuation, which is also used in TAITO Visual Novels.\nNori is Jun's sister.",
+  "source_sha256": "3e0b0f1155e7b0d0c1dc65cd51353d07f657631907204d08ed9f4a45eab8475f",
+  "translation": "Instance of Sakurada Nori in NOMAD Rozen Maiden continuation, which is also used in TAITO Visual Novels.\nNori is Jun's sister.",
+  "vndb_url": "https://vndb.org/c123643"
+}

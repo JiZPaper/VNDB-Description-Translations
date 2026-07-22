@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29735",
+  "type": "visual_novel",
+  "name": "My Hero Dating Simulator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dating simulator featuring characters from My Hero Academia (僕のヒーローアカデミア).",
+  "source_sha256": "fb2b82494a595efcdfaa442d7745b1a0e7108d81227860865ad892b4ab09d20d",
+  "translation": "A dating simulator featuring characters from My Hero Academia (僕のヒーローアカデミア).",
+  "vndb_url": "https://vndb.org/v29735"
+}

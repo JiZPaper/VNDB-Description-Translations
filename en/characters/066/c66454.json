@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c66454",
+  "type": "character",
+  "name": "Shachou",
+  "original_name": "社長",
+  "language": "en",
+  "source_language": "en",
+  "source": "The boss at ASH, protagonist's workplace.",
+  "source_sha256": "1a6db4011b2d85d8305b686dbc37b58f5afef087d82fa5534b693cea8519bf1e",
+  "translation": "The boss at ASH, protagonist's workplace.",
+  "vndb_url": "https://vndb.org/c66454"
+}

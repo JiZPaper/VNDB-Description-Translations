@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92388",
+  "type": "character",
+  "name": "Leah",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A friend with benefits.",
+  "source_sha256": "59f2174f0f99628d6764953c92c209e1965d3d79a0d160185ffea01076c075e1",
+  "translation": "A friend with benefits.",
+  "vndb_url": "https://vndb.org/c92388"
+}

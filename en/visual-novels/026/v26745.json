@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26745",
+  "type": "visual_novel",
+  "name": "Kin'iro no Corda: The Rhyme of a Love Song",
+  "original_name": "金色琴弦 The Rhyme of a Love Song",
+  "language": "en",
+  "source_language": "en",
+  "source": "Chinese fangame for Len from Kin'iro no Corda. Set after his good ending in the first game.",
+  "source_sha256": "b6307fdf03eb7dee8c6fa347bfe1d6c064cee512f2f71fa25f7c6e965215467e",
+  "translation": "Chinese fangame for Len from Kin'iro no Corda. Set after his good ending in the first game.",
+  "vndb_url": "https://vndb.org/v26745"
+}

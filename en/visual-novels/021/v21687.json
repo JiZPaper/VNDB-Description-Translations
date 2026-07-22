@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21687",
+  "type": "visual_novel",
+  "name": "Pia Carrot PetitBox",
+  "original_name": "ぴあきゃろ PetitBox",
+  "language": "en",
+  "source_language": "en",
+  "source": "A special fandisc to conmemorate 20 years of the Pia Carrot franchise that includes minigames with all of its main heroines.",
+  "source_sha256": "800f28a042a2741b68c10693a3184bbb43d15d6ba976fdd4bcd66dca5c84d117",
+  "translation": "A special fandisc to conmemorate 20 years of the Pia Carrot franchise that includes minigames with all of its main heroines.",
+  "vndb_url": "https://vndb.org/v21687"
+}

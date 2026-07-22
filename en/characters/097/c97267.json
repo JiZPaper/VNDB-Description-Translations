@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97267",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Born: 2006\nCode name: Rosa",
+  "source_sha256": "c553c6da8cbf52bdc4e89376db448592c87ad475e4d0c30b4efea0dec23a55a1",
+  "translation": "Born: 2006\nCode name: Rosa",
+  "vndb_url": "https://vndb.org/c97267"
+}

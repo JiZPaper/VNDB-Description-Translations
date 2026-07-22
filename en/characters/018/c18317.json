@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c18317",
+  "type": "character",
+  "name": "Souta",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A student trying to become a professional voice actor.",
+  "source_sha256": "c703a4eb739a3c8f89fecfe273c209230fe0017a7fefc444aa12357b0bf0927e",
+  "translation": "A student trying to become a professional voice actor.",
+  "vndb_url": "https://vndb.org/c18317"
+}

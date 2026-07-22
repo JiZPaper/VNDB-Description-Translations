@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35064",
+  "type": "character",
+  "name": "Shilo Avrora",
+  "original_name": "シロ・アヴローラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A magician that specializes in healing.",
+  "source_sha256": "6fc4317f3e22807c8fc55d0e9aa2e1e213e27c470ff6ff8f59527dbea6ae15d1",
+  "translation": "A magician that specializes in healing.",
+  "vndb_url": "https://vndb.org/c35064"
+}

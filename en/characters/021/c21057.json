@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21057",
+  "type": "character",
+  "name": "Patient",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Fictional patient at Melseena's hospital.",
+  "source_sha256": "98ef4499a1a6cafb120ad84398c23efce8d782cbd0383b958ec7971dc85b2103",
+  "translation": "Fictional patient at Melseena's hospital.",
+  "vndb_url": "https://vndb.org/c21057"
+}

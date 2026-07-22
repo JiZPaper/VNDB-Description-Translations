@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41946",
+  "type": "character",
+  "name": "Leibniz Gottfried",
+  "original_name": "ライプニッツ・ゴトフリード",
+  "language": "en",
+  "source_language": "en",
+  "source": "The CEO of the Elmedyne company that controls the distribution of Contract Arms throughout the city.",
+  "source_sha256": "825ee0bcdebba2e95192191beffabc64ed390e59cbba8d50f54d7881d8a148b9",
+  "translation": "The CEO of the Elmedyne company that controls the distribution of Contract Arms throughout the city.",
+  "vndb_url": "https://vndb.org/c41946"
+}

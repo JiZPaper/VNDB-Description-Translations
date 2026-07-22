@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c167293",
+  "type": "character",
+  "name": "Emma",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Maid working for the Glenn family.",
+  "source_sha256": "e87a6ac805c556a1cc4d15b3fb23abd74ad54e9060219e706986b3c6a5149480",
+  "translation": "Maid working for the Glenn family.",
+  "vndb_url": "https://vndb.org/c167293"
+}

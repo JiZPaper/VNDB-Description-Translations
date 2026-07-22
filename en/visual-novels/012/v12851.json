@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12851",
+  "type": "visual_novel",
+  "name": "Eul",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Short story of a bullied student in South Korea.",
+  "source_sha256": "9a5341b064b4d760d3d2de68088ec1caeca11ee019f719a6154e5d040f6ea4dc",
+  "translation": "Short story of a bullied student in South Korea.",
+  "vndb_url": "https://vndb.org/v12851"
+}

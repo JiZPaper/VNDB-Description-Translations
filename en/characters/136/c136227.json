@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136227",
+  "type": "character",
+  "name": "Bill",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your old buddy who serves you drinks at one of the local Night Clubs. After numerous evenings, you've gotten to know one another, and consider each other good friends.\n\n[In game description]",
+  "source_sha256": "867345ad3ddd07698450a91e586f2b4adc2ff19e6f132377a235af3edc81d9ea",
+  "translation": "Your old buddy who serves you drinks at one of the local Night Clubs. After numerous evenings, you've gotten to know one another, and consider each other good friends.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c136227"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100720",
+  "type": "character",
+  "name": "Digit",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A very nice friend to have!",
+  "source_sha256": "4f8011469fb34b05e59c6c50063b73ca3662c4fb97ec162c9c63c62ad2415801",
+  "translation": "A very nice friend to have!",
+  "vndb_url": "https://vndb.org/c100720"
+}

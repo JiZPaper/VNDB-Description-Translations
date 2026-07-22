@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65136",
+  "type": "visual_novel",
+  "name": "The Ticket to Reality",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You fall asleep on an Almaty Metro train, only to wake up and realize you’ve crossed into another dimension. Will you be able to return to reality — and can you save one or more of your fellow passengers along the way?",
+  "source_sha256": "7fc60178cd47076279081d15e47d312f1309ce5ae55edd9575d2146a49a75349",
+  "translation": "You fall asleep on an Almaty Metro train, only to wake up and realize you’ve crossed into another dimension. Will you be able to return to reality — and can you save one or more of your fellow passengers along the way?",
+  "vndb_url": "https://vndb.org/v65136"
+}

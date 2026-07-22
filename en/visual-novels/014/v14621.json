@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14621",
+  "type": "visual_novel",
+  "name": "Eien",
+  "original_name": "eien(永遠)",
+  "language": "en",
+  "source_language": "en",
+  "source": "A doujin game based on Tactics' \"One ~Kagayaku Kisetsu e~\", with Kawana Misaki as main character.",
+  "source_sha256": "bf2660fc311918f64e1c81c8d87730fd865a5208efdeaaf21e562f610e073a5b",
+  "translation": "A doujin game based on Tactics' \"One ~Kagayaku Kisetsu e~\", with Kawana Misaki as main character.",
+  "vndb_url": "https://vndb.org/v14621"
+}

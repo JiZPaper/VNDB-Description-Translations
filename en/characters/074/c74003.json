@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c74003",
+  "type": "character",
+  "name": "Cordia",
+  "original_name": "コルディア",
+  "language": "en",
+  "source_language": "en",
+  "source": "A living doll created by Abel. She's been tasked with cleaning the mansion in her master's absence.",
+  "source_sha256": "d987a62c7f60913d34e7b7ced2edaefec9af68167385d89d230d075510811bf0",
+  "translation": "A living doll created by Abel. She's been tasked with cleaning the mansion in her master's absence.",
+  "vndb_url": "https://vndb.org/c74003"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9300",
+  "type": "visual_novel",
+  "name": "New Year's Date",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sometimes you just don’t know what you’re missing. Left behind for the holidays, a college student crosses paths with someone unexpected in a quiet park – and one lonely night turns into something more.",
+  "source_sha256": "6c0231ce2421c6f8bcb5312ccebdb64ae70f41395f94e2c8ff10951bac93e5ce",
+  "translation": "Sometimes you just don’t know what you’re missing. Left behind for the holidays, a college student crosses paths with someone unexpected in a quiet park – and one lonely night turns into something more.",
+  "vndb_url": "https://vndb.org/v9300"
+}

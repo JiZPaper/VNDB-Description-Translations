@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48247",
+  "type": "character",
+  "name": "Iris",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Iris was first introduced in Pokémon Black and Pokémon White versions.",
+  "source_sha256": "45098c8d0a18949e3791719a172f37389ceb9297a9c41ba35fcc6c2c4a6ec2b4",
+  "translation": "Iris was first introduced in Pokémon Black and Pokémon White versions.",
+  "vndb_url": "https://vndb.org/c48247"
+}

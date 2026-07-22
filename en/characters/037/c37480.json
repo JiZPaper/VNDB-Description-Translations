@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37480",
+  "type": "character",
+  "name": "Oryol",
+  "original_name": "オリョール",
+  "language": "en",
+  "source_language": "en",
+  "source": "tank-class BETA",
+  "source_sha256": "bd14fcede6212b910dcfec30996700ba0f4983f0db0f8bd4a3ae724657c0ab06",
+  "translation": "tank-class BETA",
+  "vndb_url": "https://vndb.org/c37480"
+}

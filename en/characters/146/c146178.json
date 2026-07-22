@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146178",
+  "type": "character",
+  "name": "Rhyll",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Rhyll is a coy and experienced mercenary captain. He is suave and cordial while always ready to twist the knife in your back. Be mindful and keep him paid.",
+  "source_sha256": "52ff57ae59b8b9c1eec9d758a84cdfcda32145ff2e5b7a9cf8600367f10e6da5",
+  "translation": "Rhyll is a coy and experienced mercenary captain. He is suave and cordial while always ready to twist the knife in your back. Be mindful and keep him paid.",
+  "vndb_url": "https://vndb.org/c146178"
+}

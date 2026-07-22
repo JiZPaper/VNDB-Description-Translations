@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19454",
+  "type": "visual_novel",
+  "name": "My Ocean Romance",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "My Ocean Romance is a dating sim about cute shark girls.",
+  "source_sha256": "f923d7ab4212252bb7ff205ce8a034e695eeed9d4e34f8e669eeb5a3533775e7",
+  "translation": "My Ocean Romance is a dating sim about cute shark girls.",
+  "vndb_url": "https://vndb.org/v19454"
+}

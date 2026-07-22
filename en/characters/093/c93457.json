@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93457",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist of Color Me Killer: Honeymouth. Nameable by player",
+  "source_sha256": "6501c3100571511854c59083dd3bd1fb07ec2c1f5f01aafbfdffd76b4a6ab94f",
+  "translation": "Protagonist of Color Me Killer: Honeymouth. Nameable by player",
+  "vndb_url": "https://vndb.org/c93457"
+}

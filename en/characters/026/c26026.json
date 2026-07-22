@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c26026",
+  "type": "character",
+  "name": "King",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "ruler of Moto",
+  "source_sha256": "5800a27cbf4376d9b0e470b4bbf393c80df4bc7500d226a82e8784e37e68993a",
+  "translation": "ruler of Moto",
+  "vndb_url": "https://vndb.org/c26026"
+}

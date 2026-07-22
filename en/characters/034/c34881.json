@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34881",
+  "type": "character",
+  "name": "Mordred",
+  "original_name": "モルドレッド",
+  "language": "en",
+  "source_language": "en",
+  "source": "She leads a swarm of demons created by Morgan to wage war on Arthur.",
+  "source_sha256": "76b3a83489473af3954d563cdecb4e0f3c63a9b2b785db1ee9f9bfe9cf9350a6",
+  "translation": "She leads a swarm of demons created by Morgan to wage war on Arthur.",
+  "vndb_url": "https://vndb.org/c34881"
+}

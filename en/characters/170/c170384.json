@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170384",
+  "type": "character",
+  "name": "Patient",
+  "original_name": "患者",
+  "language": "en",
+  "source_language": "en",
+  "source": "A patient forcibly hospitalized due to a mental contagion. She's been selected as a test subject for experimental therapy.\n\n[Edited from [url=https://store.steampowered.com/app/3126170/Cyber_Paranoia/]Steam[/url]]",
+  "source_sha256": "b263cebac44b3de61cbb847931b376d5d40d56571d3be5c887d07c6cd358650f",
+  "translation": "A patient forcibly hospitalized due to a mental contagion. She's been selected as a test subject for experimental therapy.\n\n[Edited from [url=https://store.steampowered.com/app/3126170/Cyber_Paranoia/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/c170384"
+}

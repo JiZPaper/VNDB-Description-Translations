@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166236",
+  "type": "character",
+  "name": "Oumi",
+  "original_name": "青海",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist’s homeroom teacher.",
+  "source_sha256": "5832b73b19114d49272accbccec49b603aed7c881659c495aca41666e094f8d2",
+  "translation": "The protagonist’s homeroom teacher.",
+  "vndb_url": "https://vndb.org/c166236"
+}

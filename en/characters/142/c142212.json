@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c142212",
+  "type": "character",
+  "name": "MeTal 6897",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Robot.",
+  "source_sha256": "3ce742b5ef16abd25dcc5ccbfe685b26ce8e7f61bcf1ac58afefdca6b7c512fd",
+  "translation": "Robot.",
+  "vndb_url": "https://vndb.org/c142212"
+}

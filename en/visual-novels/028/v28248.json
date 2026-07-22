@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28248",
+  "type": "visual_novel",
+  "name": "Delirium",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Eloise is sent to recover mental health on the remote island of Blackstone, but it seems she cannot escape her past...",
+  "source_sha256": "af2eee50e49622617220116d884b033bc651ac5ce69b2ffc8b2cc277456e98af",
+  "translation": "Eloise is sent to recover mental health on the remote island of Blackstone, but it seems she cannot escape her past...",
+  "vndb_url": "https://vndb.org/v28248"
+}

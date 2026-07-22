@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32553",
+  "type": "visual_novel",
+  "name": "Campfire Tales",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Hear a campfire story from grandma Elaine.\nYou can choose one of three stories: a ghost story, a dragon story or a garlic bread story. Which story you will hear is up to you.\n\n[From [url=https://windysilver.itch.io/campfire-tales]Itch.io[/url]]",
+  "source_sha256": "ca9d51140df8bdfeb3b016a12b5c6d7453cc924b963ac338c4afc71955c0deda",
+  "translation": "Hear a campfire story from grandma Elaine.\nYou can choose one of three stories: a ghost story, a dragon story or a garlic bread story. Which story you will hear is up to you.\n\n[From [url=https://windysilver.itch.io/campfire-tales]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v32553"
+}

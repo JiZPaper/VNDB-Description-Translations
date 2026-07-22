@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135257",
+  "type": "character",
+  "name": "Mir Inverno",
+  "original_name": "ミール・インヴェルノ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A main character in the event \"Spring Has Come\".\n\nThe daughter of the Demon King Inverno.",
+  "source_sha256": "bdc9ea6f3cef5908d7631e167103b51a37aa513a2d46ac99c3f4dac9d09b2564",
+  "translation": "A main character in the event \"Spring Has Come\".\n\nThe daughter of the Demon King Inverno.",
+  "vndb_url": "https://vndb.org/c135257"
+}

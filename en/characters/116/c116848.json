@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116848",
+  "type": "character",
+  "name": "Crimson Eye",
+  "original_name": "クリムゾンアイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Singularity Machine.",
+  "source_sha256": "3c1f2ef423d637cbfdeb8112b001c9592455bdc5c1114ef02b59176e1a7142cc",
+  "translation": "A Singularity Machine.",
+  "vndb_url": "https://vndb.org/c116848"
+}

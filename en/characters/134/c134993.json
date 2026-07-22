@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134993",
+  "type": "character",
+  "name": "Ismena",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A jester belonging to a circus touring the region",
+  "source_sha256": "4d045820ba9910a6934edf746a639560282b00ef0848de723db654186237b7da",
+  "translation": "A jester belonging to a circus touring the region",
+  "vndb_url": "https://vndb.org/c134993"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c149285",
+  "type": "character",
+  "name": "Mysterious Man",
+  "original_name": "謎の青年",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious man who seems to know a lot about Yokai. He drops by from time to time to offer the player advice. His attitude is condescending, and he seems to enjoy watching the new landlord struggle to figure out the Yokai's true identities. For all that, though, he's an invaluable ally in rooting out the monsters hiding among the building's tenants.",
+  "source_sha256": "3a1a10936d2f0d058de2e4116fd04ce94f908a11f2751ae272fbb6148d484b71",
+  "translation": "A mysterious man who seems to know a lot about Yokai. He drops by from time to time to offer the player advice. His attitude is condescending, and he seems to enjoy watching the new landlord struggle to figure out the Yokai's true identities. For all that, though, he's an invaluable ally in rooting out the monsters hiding among the building's tenants.",
+  "vndb_url": "https://vndb.org/c149285"
+}

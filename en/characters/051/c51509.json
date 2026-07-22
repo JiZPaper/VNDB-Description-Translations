@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51509",
+  "type": "character",
+  "name": "Mitarashi Kowashi",
+  "original_name": "みたらし・ こわし",
+  "language": "en",
+  "source_language": "en",
+  "source": "Yaneko's father.",
+  "source_sha256": "3c27543ce031933571c3f211e440b8c479bae39906185540b9784ac52deefa50",
+  "translation": "Yaneko's father.",
+  "vndb_url": "https://vndb.org/c51509"
+}

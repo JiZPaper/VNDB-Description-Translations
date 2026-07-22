@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153129",
+  "type": "character",
+  "name": "Liza Moko",
+  "original_name": "리자 모코",
+  "language": "en",
+  "source_language": "en",
+  "source": "Skill: Command-based animal manipulation",
+  "source_sha256": "31f6361fd5181de854a108c9e2067885a64ddf2288034ce384f099e008bfa890",
+  "translation": "Skill: Command-based animal manipulation",
+  "vndb_url": "https://vndb.org/c153129"
+}

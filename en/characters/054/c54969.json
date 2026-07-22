@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c54969",
+  "type": "character",
+  "name": "Soara",
+  "original_name": "そあら",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kageyama Kishin's assistant.",
+  "source_sha256": "477ff52bb4d9db4895c478e49ca160a4677ed2cbddc47e80922366a2fdeac74d",
+  "translation": "Kageyama Kishin's assistant.",
+  "vndb_url": "https://vndb.org/c54969"
+}

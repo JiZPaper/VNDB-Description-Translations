@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132915",
+  "type": "character",
+  "name": "Aurelia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A nobody, living out her life at a space station orbiting the Earth.\nSpends her days at her junkyard job, drinking at her favoring bar, or playing video games.",
+  "source_sha256": "c4d35272e2508517f8a638f277c2d7608567cafaae64e15ea8a3836d921e60e2",
+  "translation": "A nobody, living out her life at a space station orbiting the Earth.\nSpends her days at her junkyard job, drinking at her favoring bar, or playing video games.",
+  "vndb_url": "https://vndb.org/c132915"
+}

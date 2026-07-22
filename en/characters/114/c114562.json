@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c114562",
+  "type": "character",
+  "name": "An Old Man",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An old man who visits the cherry tree behind the school every day to watch the sunset.",
+  "source_sha256": "d8ffbfc5ba05a7dfa1fa1f11448b2bf3bd896d4843e1c58f6d04be0623d6ac5a",
+  "translation": "An old man who visits the cherry tree behind the school every day to watch the sunset.",
+  "vndb_url": "https://vndb.org/c114562"
+}

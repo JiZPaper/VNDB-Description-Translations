@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v225",
+  "type": "visual_novel",
+  "name": "Yume Goshi no Sora",
+  "original_name": "夢越しの空",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a fairy-tale type novel game in two parts, each part written independently -- one by Yuki, the other by Ritsu.\n\nThe Caged Vagrant -Yuki's story- (branching)\n\nThe story of an amnesiac who slowly comes to reconstruct the world through conversations with a very strange and special friend.\n\nPlumerai -Ritsu's story- (linear)\n\nThe Plumerai, which stretches out from the sky like some gargantuan hand. And the countless number of birds who attack this cloud... \n\n[From [url=http://www.insani.org/itsdta.html]insani[/url]]",
+  "source_sha256": "e24166d2066f3d339de64c57d84632d609590403750dc679d4c32bf5076ae958",
+  "translation": "This is a fairy-tale type novel game in two parts, each part written independently -- one by Yuki, the other by Ritsu.\n\nThe Caged Vagrant -Yuki's story- (branching)\n\nThe story of an amnesiac who slowly comes to reconstruct the world through conversations with a very strange and special friend.\n\nPlumerai -Ritsu's story- (linear)\n\nThe Plumerai, which stretches out from the sky like some gargantuan hand. And the countless number of birds who attack this cloud... \n\n[From [url=http://www.insani.org/itsdta.html]insani[/url]]",
+  "vndb_url": "https://vndb.org/v225"
+}

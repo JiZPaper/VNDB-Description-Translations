@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c52555",
+  "type": "character",
+  "name": "Miyanogi Ryou",
+  "original_name": "宮野木 怜",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Student.\nHobbies: Soccer TV Game 0.\nLikes: Soccer.\nDislikes: Mathematics, English.",
+  "source_sha256": "b124061f8695cc57ea6d1a2bf1dde56aedad54dcfdd68cbf073614d8b213a604",
+  "translation": "Occupation: Student.\nHobbies: Soccer TV Game 0.\nLikes: Soccer.\nDislikes: Mathematics, English.",
+  "vndb_url": "https://vndb.org/c52555"
+}

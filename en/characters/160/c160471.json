@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160471",
+  "type": "character",
+  "name": "Detective",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A detective who investigates the murder of [url=/c160470]Rosa[/url]. Goes by \"Park\" or \"Song\". Referred to as \"gene\" within the game's script and files.",
+  "source_sha256": "330ba9203c84cd0f7358ae9a4e0e02f84e70787be5add391a3d30c33a4051e45",
+  "translation": "A detective who investigates the murder of [url=/c160470]Rosa[/url]. Goes by \"Park\" or \"Song\". Referred to as \"gene\" within the game's script and files.",
+  "vndb_url": "https://vndb.org/c160471"
+}

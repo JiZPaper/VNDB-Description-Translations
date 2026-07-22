@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112318",
+  "type": "character",
+  "name": "Shilo's Father",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Shilo's Father asked Shilo to come visit him at the hospital. [spoiler]Due to his illness, he won't live much longer.[/spoiler]",
+  "source_sha256": "e1965097a216832c98278c29857d021a24d230e36da83cdd3affca8fc146a625",
+  "translation": "Shilo's Father asked Shilo to come visit him at the hospital. [spoiler]Due to his illness, he won't live much longer.[/spoiler]",
+  "vndb_url": "https://vndb.org/c112318"
+}

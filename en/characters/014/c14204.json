@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c14204",
+  "type": "character",
+  "name": "Reigis Vanger",
+  "original_name": "レイギス・ヴァンゲル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Vampire",
+  "source_sha256": "cb8c3f70cd93052a5c977b93708b289169e754b6c71f944f21f8ccc18fc9c185",
+  "translation": "Race: Vampire",
+  "vndb_url": "https://vndb.org/c14204"
+}

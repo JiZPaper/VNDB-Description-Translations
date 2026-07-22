@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38978",
+  "type": "visual_novel",
+  "name": "Mia's Story",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mia has an unsettling encounter in the city.\n\n[From [url=https://lainrose.itch.io/mias-story]Itch.io[/url]]",
+  "source_sha256": "2f0312aef1992d91c44740d7ded560a6f0a4d9a9cb70bb57df2d8bebcc219252",
+  "translation": "Mia has an unsettling encounter in the city.\n\n[From [url=https://lainrose.itch.io/mias-story]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v38978"
+}

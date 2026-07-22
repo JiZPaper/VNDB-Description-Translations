@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c10204",
+  "type": "character",
+  "name": "Green Jersey",
+  "original_name": "ミドジャージ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Lifestyle guidance teacher.",
+  "source_sha256": "5738925fc5878645ac1d5999ee8a22c9be306f7205a03bcc3467b3c4962297d0",
+  "translation": "Lifestyle guidance teacher.",
+  "vndb_url": "https://vndb.org/c10204"
+}

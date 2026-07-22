@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30762",
+  "type": "visual_novel",
+  "name": "FULL ADHD - Täyttä elämää",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An educational visual novel about ADHD. 20 year-old Eetu is starting a new life at university and has to manage all the new aspects that come with it; meeting new friends, finding an apartment, studying, dating and working a part-time job on top of all that. You have limited resources to spend on your executive functions, so choose your actions wisely.",
+  "source_sha256": "eec489ceab5715bba46be4b37fb5b8c88781be285bd4c7cc5194d6677a70f422",
+  "translation": "An educational visual novel about ADHD. 20 year-old Eetu is starting a new life at university and has to manage all the new aspects that come with it; meeting new friends, finding an apartment, studying, dating and working a part-time job on top of all that. You have limited resources to spend on your executive functions, so choose your actions wisely.",
+  "vndb_url": "https://vndb.org/v30762"
+}

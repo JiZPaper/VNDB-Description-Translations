@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c31696",
+  "type": "character",
+  "name": "Seto Kei",
+  "original_name": "瀬戸 啓",
+  "language": "en",
+  "source_language": "en",
+  "source": "The advisor of the Tanteibu.",
+  "source_sha256": "b95c2c591015470dc46a2669c7c1167f8752a1246ede9e41e990ad8cee1a7d15",
+  "translation": "The advisor of the Tanteibu.",
+  "vndb_url": "https://vndb.org/c31696"
+}

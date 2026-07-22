@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17468",
+  "type": "visual_novel",
+  "name": "Anemone",
+  "original_name": "アネモネ",
+  "language": "en",
+  "source_language": "en",
+  "source": "UK x Japan fanfic.",
+  "source_sha256": "77a454859380b012e91a73bf9148e26f93544e00ad4755935808c9dcd80fff83",
+  "translation": "UK x Japan fanfic.",
+  "vndb_url": "https://vndb.org/v17468"
+}

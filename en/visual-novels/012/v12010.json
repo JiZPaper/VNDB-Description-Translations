@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12010",
+  "type": "visual_novel",
+  "name": "La neige",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a naughty adventure game starring the most popular characters of Hi**rashi no naku koro ni.\n\n[Roughly translated from [url=http://dl.getchu.com/index.php?action=gd&gcd=D0000377&cp=&cirid=2&c=]DL Getchu[/url].]",
+  "source_sha256": "a4e584a862e7a1c2e8a907bca53da8d703c2957b58988be99817427b047666e0",
+  "translation": "This is a naughty adventure game starring the most popular characters of Hi**rashi no naku koro ni.\n\n[Roughly translated from [url=http://dl.getchu.com/index.php?action=gd&gcd=D0000377&cp=&cirid=2&c=]DL Getchu[/url].]",
+  "vndb_url": "https://vndb.org/v12010"
+}

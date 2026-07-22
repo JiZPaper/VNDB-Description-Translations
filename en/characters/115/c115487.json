@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115487",
+  "type": "character",
+  "name": "Peter",
+  "original_name": "彼得",
+  "language": "en",
+  "source_language": "en",
+  "source": "A player that Lycoris met in an online game.",
+  "source_sha256": "3837891712419b35cd39785980e4cd9cc38a20d1f3510fb9a1d0feb49e0c8e46",
+  "translation": "A player that Lycoris met in an online game.",
+  "vndb_url": "https://vndb.org/c115487"
+}

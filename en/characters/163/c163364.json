@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163364",
+  "type": "character",
+  "name": "Adjutant",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young man working at the hospital under the doctor's supervision.",
+  "source_sha256": "d6d21e05480f20606a25f2e7c4a02b149db3dfc1522052b5ee44ee6d5ecbf48f",
+  "translation": "A young man working at the hospital under the doctor's supervision.",
+  "vndb_url": "https://vndb.org/c163364"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c59566",
+  "type": "character",
+  "name": "Nika",
+  "original_name": "ニカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A personified pair of headphones.",
+  "source_sha256": "9b34cd8c876150164b524054bac0a642c382e31f88c372eed48ba05b64519a80",
+  "translation": "A personified pair of headphones.",
+  "vndb_url": "https://vndb.org/c59566"
+}

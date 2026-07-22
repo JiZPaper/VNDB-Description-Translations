@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18231",
+  "type": "visual_novel",
+  "name": "Oh! Pai",
+  "original_name": "Ｏｈ！Ｐａｉ",
+  "language": "en",
+  "source_language": "en",
+  "source": "This game is an ultra simple version of Majong where you play with a selection of six girls. If you win, you get to improve your relationship with the girl.\n\n[From [url=https://web.archive.org/web/20160402092638/http://members.shaw.ca:80/lisun/jhag-m.htm]Li's Fun House[/url]]",
+  "source_sha256": "90783049e0a63fa38977bdcccadaef2b091c2cd38b49cce0ea7dd5ce078c908b",
+  "translation": "This game is an ultra simple version of Majong where you play with a selection of six girls. If you win, you get to improve your relationship with the girl.\n\n[From [url=https://web.archive.org/web/20160402092638/http://members.shaw.ca:80/lisun/jhag-m.htm]Li's Fun House[/url]]",
+  "vndb_url": "https://vndb.org/v18231"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116452",
+  "type": "character",
+  "name": "Lexxi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Admiral Dickhard's personal assistant.",
+  "source_sha256": "6b4bfa038e08f5ebb96bb1cb5dab083bd7ca81eb9e059281a4d8eaf36d7bdf61",
+  "translation": "Admiral Dickhard's personal assistant.",
+  "vndb_url": "https://vndb.org/c116452"
+}

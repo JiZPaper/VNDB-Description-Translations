@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99265",
+  "type": "character",
+  "name": "Verataz",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Height: 6'4''\nWeight: 280 lbs\nSentence: Completed\n\nFormer inmate turned guard.",
+  "source_sha256": "bf1fd3383ae7267326d235b0dd314b4215d6c5e1f61d26d02d363f3975c0c61a",
+  "translation": "Height: 6'4''\nWeight: 280 lbs\nSentence: Completed\n\nFormer inmate turned guard.",
+  "vndb_url": "https://vndb.org/c99265"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110056",
+  "type": "character",
+  "name": "Musa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He goes on a date with Jameela.",
+  "source_sha256": "6abbb3ec10548c6d81fee65649a53b2c27beabeafdcea33a7613642b9280ce4b",
+  "translation": "He goes on a date with Jameela.",
+  "vndb_url": "https://vndb.org/c110056"
+}

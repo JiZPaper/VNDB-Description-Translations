@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20228",
+  "type": "character",
+  "name": "Prof. Tasque",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An eccentric professor.",
+  "source_sha256": "1c69a116fcc7bec656f26a819beaf35bcba8542f093356edcd2c709328cff3f1",
+  "translation": "An eccentric professor.",
+  "vndb_url": "https://vndb.org/c20228"
+}

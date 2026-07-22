@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42928",
+  "type": "character",
+  "name": "Sora",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The mysterious girl who fell from the sky.",
+  "source_sha256": "b2445aaff3a61b542aa6279987e1ff4e5797c16f64578ee40bde475a689d4548",
+  "translation": "The mysterious girl who fell from the sky.",
+  "vndb_url": "https://vndb.org/c42928"
+}

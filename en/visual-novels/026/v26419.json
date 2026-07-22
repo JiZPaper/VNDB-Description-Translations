@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26419",
+  "type": "visual_novel",
+  "name": "Ren'ai, Karichaimashita - Tsubaki & Chinatsu & Konatsu Mini After Story",
+  "original_name": "恋愛、借りちゃいました 椿＆ちなつ＆こなつ ミニアフターストーリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fandisc for Chinatsu & Konatsu after and Tsubaki After",
+  "source_sha256": "45df3f79a12950f31219691ac5491c13de0a3145014d2eef061a890816273cb6",
+  "translation": "Fandisc for Chinatsu & Konatsu after and Tsubaki After",
+  "vndb_url": "https://vndb.org/v26419"
+}

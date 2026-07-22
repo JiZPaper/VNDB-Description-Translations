@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19551",
+  "type": "character",
+  "name": "Claw",
+  "original_name": "爪",
+  "language": "en",
+  "source_language": "en",
+  "source": "Dangerous frightful creature, that attacks people mainly at night.\nTomoe, in henshin form, battles it.",
+  "source_sha256": "98ff1461fb710eeaa6b4948cac00bccfbce5d84a8014d09ac91f3dd99b3bdeb7",
+  "translation": "Dangerous frightful creature, that attacks people mainly at night.\nTomoe, in henshin form, battles it.",
+  "vndb_url": "https://vndb.org/c19551"
+}

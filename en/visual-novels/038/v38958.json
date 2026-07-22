@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38958",
+  "type": "visual_novel",
+  "name": "Hekimu",
+  "original_name": "壁夢",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hekimu is a short horror visual novel where the goal is to escape from a bizarre dream world. One day, the protagonist is trapped within a nightmare and finds themselves in a room with four creepy walls and no exit. While the protagonist is aware that they are trapped in a dream, they are unable to wake themselves. In order to escape from this nightmarish world, they must investigate their surroundings.\n\nPlayers progress through the game by exploring the room using point-and-click gameplay.\n\nThe background images used in the game were created with the AI program [url=https://www.midjourney.com/]Midjourney[/url], which generates images based on textual descriptions.\n\n[From [url=https://automaton-media.com/en/news/20220816-14966/]AUTOMATON WEST[/url]]",
+  "source_sha256": "297b238244187fb283b4b8e58314b0a0b9420ba6f665c21fc6468b740d5cc285",
+  "translation": "Hekimu is a short horror visual novel where the goal is to escape from a bizarre dream world. One day, the protagonist is trapped within a nightmare and finds themselves in a room with four creepy walls and no exit. While the protagonist is aware that they are trapped in a dream, they are unable to wake themselves. In order to escape from this nightmarish world, they must investigate their surroundings.\n\nPlayers progress through the game by exploring the room using point-and-click gameplay.\n\nThe background images used in the game were created with the AI program [url=https://www.midjourney.com/]Midjourney[/url], which generates images based on textual descriptions.\n\n[From [url=https://automaton-media.com/en/news/20220816-14966/]AUTOMATON WEST[/url]]",
+  "vndb_url": "https://vndb.org/v38958"
+}

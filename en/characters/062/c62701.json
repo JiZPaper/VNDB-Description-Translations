@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62701",
+  "type": "character",
+  "name": "Ilja",
+  "original_name": "Илья",
+  "language": "en",
+  "source_language": "en",
+  "source": "Bashkir",
+  "source_sha256": "ef459ddfbcf13328d53c5f503f4ad12484a9a8822482a5e0dfe3220416a7fad2",
+  "translation": "Bashkir",
+  "vndb_url": "https://vndb.org/c62701"
+}

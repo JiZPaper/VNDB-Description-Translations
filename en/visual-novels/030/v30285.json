@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30285",
+  "type": "visual_novel",
+  "name": "TGIF",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Friday is a special day.",
+  "source_sha256": "9511bef0b62376211f0734613d83eaaa4dd586f388bcade4a5f8241bf7cb021f",
+  "translation": "Friday is a special day.",
+  "vndb_url": "https://vndb.org/v30285"
+}

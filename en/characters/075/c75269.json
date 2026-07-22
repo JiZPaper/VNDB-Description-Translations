@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75269",
+  "type": "character",
+  "name": "Simon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young and naive witch hunter, who falls in love with Jessenia.",
+  "source_sha256": "ceb6f60a339f6c976b3ae0e42fcf4f0c0477289d197126774198c3a3206c4222",
+  "translation": "A young and naive witch hunter, who falls in love with Jessenia.",
+  "vndb_url": "https://vndb.org/c75269"
+}

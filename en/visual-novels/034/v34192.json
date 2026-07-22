@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34192",
+  "type": "visual_novel",
+  "name": "Dark SNOW",
+  "original_name": "暗黒SNOW",
+  "language": "en",
+  "source_language": "en",
+  "source": "Dark version of SNOW featuring the protagonist of the Aoi Kajitsu no Sanka series.",
+  "source_sha256": "d7e605eaf0e31da2d326acc97aa63486895bf0d19a6938ed9288ccdf18a7a5a6",
+  "translation": "Dark version of SNOW featuring the protagonist of the Aoi Kajitsu no Sanka series.",
+  "vndb_url": "https://vndb.org/v34192"
+}

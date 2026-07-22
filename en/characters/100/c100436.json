@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100436",
+  "type": "character",
+  "name": "Travis",
+  "original_name": "Трэвис",
+  "language": "en",
+  "source_language": "en",
+  "source": "*Occupation: Artist\n*Hobbies:\n-Drawing comics (funny and not so funny)\n-Aquariums\n\n\"Are you in trouble? I can help. I'm a master at pulling people out of\ndepression, even though it's a common condition for me, haha.\"",
+  "source_sha256": "473ca186d498372d401b8b5d6046056f0ae37d4ce6f825e3a6a11b5739e4258c",
+  "translation": "*Occupation: Artist\n*Hobbies:\n-Drawing comics (funny and not so funny)\n-Aquariums\n\n\"Are you in trouble? I can help. I'm a master at pulling people out of\ndepression, even though it's a common condition for me, haha.\"",
+  "vndb_url": "https://vndb.org/c100436"
+}

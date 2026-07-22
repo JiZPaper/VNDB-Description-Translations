@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4080",
+  "type": "visual_novel",
+  "name": "Again",
+  "original_name": "AGAIN FBI 超心理捜査官",
+  "language": "en",
+  "source_language": "en",
+  "source": "In Again, an interactive crime novel developed by Cing, we play as FBI Agent J, the sole survivor of a string of murder cases that took place 19 years ago, who must use his special \"past vision\" skill (it allows the player to see locations in different times in order to notice the differences and solve puzzles) to investigate a new series of homicides linked to the past ones and to the mysterious serial killer Providence.",
+  "source_sha256": "bfcebf2ef91e7c064b5f39c86362487f1f4590aaa9453a50f54d63ff7f22a467",
+  "translation": "In Again, an interactive crime novel developed by Cing, we play as FBI Agent J, the sole survivor of a string of murder cases that took place 19 years ago, who must use his special \"past vision\" skill (it allows the player to see locations in different times in order to notice the differences and solve puzzles) to investigate a new series of homicides linked to the past ones and to the mysterious serial killer Providence.",
+  "vndb_url": "https://vndb.org/v4080"
+}

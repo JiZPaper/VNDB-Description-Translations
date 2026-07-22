@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c67565",
+  "type": "character",
+  "name": "Faye",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An aspiring author who writes extremely cute, overly accurate short stories.",
+  "source_sha256": "5abe9c4aa44d7e2b4b73d25c1814d79c116b11351992cac146af427778c5d4d6",
+  "translation": "An aspiring author who writes extremely cute, overly accurate short stories.",
+  "vndb_url": "https://vndb.org/c67565"
+}

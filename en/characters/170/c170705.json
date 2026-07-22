@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170705",
+  "type": "character",
+  "name": "Saki",
+  "original_name": "サキ",
+  "language": "en",
+  "source_language": "en",
+  "source": "She fights alongside Chris and Risa in the war against the Machines.\n\nFrom \"Rear Under\" story.",
+  "source_sha256": "d309f41c8d147cfad0291939fef545cc615f0da9cb0dbd3c4d936845adf6e449",
+  "translation": "She fights alongside Chris and Risa in the war against the Machines.\n\nFrom \"Rear Under\" story.",
+  "vndb_url": "https://vndb.org/c170705"
+}

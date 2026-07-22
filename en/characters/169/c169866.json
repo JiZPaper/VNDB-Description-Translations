@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169866",
+  "type": "character",
+  "name": "Greg",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bouncer at Dopesic. [url=/c169906]Marge[/url] is his mother.",
+  "source_sha256": "d11a032e65512767ab765c293ffea2091145a0c1316b46bc7971e0dcc1595ffa",
+  "translation": "A bouncer at Dopesic. [url=/c169906]Marge[/url] is his mother.",
+  "vndb_url": "https://vndb.org/c169866"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34938",
+  "type": "character",
+  "name": "Hamelin",
+  "original_name": "ハーメルン",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Don't get the wrong idea. I saved you because I'm getting payed.\"",
+  "source_sha256": "e637a1160b1c91fc735b0fd8f23c6c660497557a111d011755d9af193510c56b",
+  "translation": "\"Don't get the wrong idea. I saved you because I'm getting payed.\"",
+  "vndb_url": "https://vndb.org/c34938"
+}

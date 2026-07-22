@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96894",
+  "type": "character",
+  "name": "Reshel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ashteran soldier.",
+  "source_sha256": "de0969effded6d36e69b366c490360b3a087f4cd63e5f8ac20a9ee1d91cfa547",
+  "translation": "Ashteran soldier.",
+  "vndb_url": "https://vndb.org/c96894"
+}

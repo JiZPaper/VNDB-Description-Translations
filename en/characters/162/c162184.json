@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162184",
+  "type": "character",
+  "name": "Mother",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mother of [url=/c161903]Hiro[/url].",
+  "source_sha256": "753a8245be447a58c245019762b31fc9eca28fdd081975bb043c99d930f122ca",
+  "translation": "Mother of [url=/c161903]Hiro[/url].",
+  "vndb_url": "https://vndb.org/c162184"
+}

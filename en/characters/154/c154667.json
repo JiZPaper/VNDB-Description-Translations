@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154667",
+  "type": "character",
+  "name": "Mansik",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A prisoner. He escaped from a high security correctional facility located far in the mountains and given a lifetime of imprisonment due to 21 counts of murder.",
+  "source_sha256": "6935e14e60d976a72ef3bb653c51e286cc732a54b75c7ce1b9f716bf01e66fdc",
+  "translation": "A prisoner. He escaped from a high security correctional facility located far in the mountains and given a lifetime of imprisonment due to 21 counts of murder.",
+  "vndb_url": "https://vndb.org/c154667"
+}

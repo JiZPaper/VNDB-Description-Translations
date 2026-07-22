@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90001",
+  "type": "character",
+  "name": "Villain",
+  "original_name": "ヴィラン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ranked number 2 in the Thieves Guild. Suspected in the attempted assassination of the [url=/c89957]Guild Master[/url].",
+  "source_sha256": "9521626ef539c5221ea7c197f87d812c5551bf37bd8222bdf4dd40b648bd1839",
+  "translation": "Ranked number 2 in the Thieves Guild. Suspected in the attempted assassination of the [url=/c89957]Guild Master[/url].",
+  "vndb_url": "https://vndb.org/c90001"
+}

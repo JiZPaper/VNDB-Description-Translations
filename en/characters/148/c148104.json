@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148104",
+  "type": "character",
+  "name": "Strelka",
+  "original_name": "ストレルカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kud's dog.",
+  "source_sha256": "5801ec1a2f71ce5dff859ca3a17fb8534c136a8d3ad7970ec6b45e763c875acb",
+  "translation": "Kud's dog.",
+  "vndb_url": "https://vndb.org/c148104"
+}

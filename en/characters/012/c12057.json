@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12057",
+  "type": "character",
+  "name": "Dolores",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The senior page at the castle of Gwellinor.",
+  "source_sha256": "a7a5fd160f6eb2b10c82172894e96844517b47852e69df6eea9ec8133d6a1c8d",
+  "translation": "The senior page at the castle of Gwellinor.",
+  "vndb_url": "https://vndb.org/c12057"
+}

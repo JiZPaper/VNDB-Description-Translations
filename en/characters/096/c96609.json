@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96609",
+  "type": "character",
+  "name": "Argent Regis Vieira",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The current regent of the Vieiran Empire.",
+  "source_sha256": "48a8f31ebd554bac38babfd6e7aaca76f3962aa98976ddf2e8b3454630f2c4c5",
+  "translation": "The current regent of the Vieiran Empire.",
+  "vndb_url": "https://vndb.org/c96609"
+}

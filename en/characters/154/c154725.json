@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154725",
+  "type": "character",
+  "name": "Cornelius",
+  "original_name": "コルネリウス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A young knight who is a bit lacking in etiquette. Although he hails from a good family, he seems to keep unfortunate company often.",
+  "source_sha256": "23df8dc91179974449b19dafc519261e87433c4ea2ebfdca95e0d039f75668c4",
+  "translation": "A young knight who is a bit lacking in etiquette. Although he hails from a good family, he seems to keep unfortunate company often.",
+  "vndb_url": "https://vndb.org/c154725"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c32825",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "A high school girl who dreams of having a love that is more than anyone else but is unable to take the first step.\nThinking \"I want to change\" she receives love instruction from the Banchous.",
+  "source_sha256": "a9c1ec4efdf2ae9468e9ba8d0e73fff9d56013da8a5802167f26514f6f1687e6",
+  "translation": "A high school girl who dreams of having a love that is more than anyone else but is unable to take the first step.\nThinking \"I want to change\" she receives love instruction from the Banchous.",
+  "vndb_url": "https://vndb.org/c32825"
+}

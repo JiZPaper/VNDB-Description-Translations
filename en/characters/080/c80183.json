@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c80183",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A nameable protagonist who accepts an invitation to attend the Burgmeister & Royce college.\n\nDefault surname is Miller.",
+  "source_sha256": "059f00dd58bea5779ebb71a1ccfedb70d7c7c8af1a95813180f471070b245c65",
+  "translation": "A nameable protagonist who accepts an invitation to attend the Burgmeister & Royce college.\n\nDefault surname is Miller.",
+  "vndb_url": "https://vndb.org/c80183"
+}

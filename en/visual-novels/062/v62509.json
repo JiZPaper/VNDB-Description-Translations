@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62509",
+  "type": "visual_novel",
+  "name": "Danganronpa: Return of Despair Zero",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A prequel to the cancelled game Danganronpa: RoD.",
+  "source_sha256": "db31c37e184e1f0ba814d8b21e24d4ae373d8a79b1f4561f7d5e8a898a7031b6",
+  "translation": "A prequel to the cancelled game Danganronpa: RoD.",
+  "vndb_url": "https://vndb.org/v62509"
+}

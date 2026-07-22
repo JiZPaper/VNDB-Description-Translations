@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15803",
+  "type": "visual_novel",
+  "name": "Jouen@Syndrome",
+  "original_name": "情炎＠シンドローム",
+  "language": "en",
+  "source_language": "en",
+  "source": "A remake of [url=/v11488]Jouen@Christmas[/url] and [url=/v11496]Jouen@Paranoia[/url] with an additional new story - Jouen Nightmare. This part, Jouen@Syndrome, combines all three stories.",
+  "source_sha256": "6c89bb1679c6c211e39215928a431ef5126855e12600e842ade92ccc340d411b",
+  "translation": "A remake of [url=/v11488]Jouen@Christmas[/url] and [url=/v11496]Jouen@Paranoia[/url] with an additional new story - Jouen Nightmare. This part, Jouen@Syndrome, combines all three stories.",
+  "vndb_url": "https://vndb.org/v15803"
+}

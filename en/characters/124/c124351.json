@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124351",
+  "type": "character",
+  "name": "Tricia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jasmine's friend.",
+  "source_sha256": "d910e44b3363480dcd556952d622eb8f608c6de22dca4f2c80485580005658bc",
+  "translation": "Jasmine's friend.",
+  "vndb_url": "https://vndb.org/c124351"
+}

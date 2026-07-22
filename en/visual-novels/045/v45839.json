@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45839",
+  "type": "visual_novel",
+  "name": "In Your Skin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You wake up after getting a surgery you don't remember signing up for.",
+  "source_sha256": "9844db1458c44c67e5a466a8834c93a33bb6b01281cc8236d6617d3533b07c37",
+  "translation": "You wake up after getting a surgery you don't remember signing up for.",
+  "vndb_url": "https://vndb.org/v45839"
+}

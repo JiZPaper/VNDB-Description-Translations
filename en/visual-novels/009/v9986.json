@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9986",
+  "type": "visual_novel",
+  "name": "Juniper's Knot",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Crafted in a month, Juniper’s Knot is a story told from dual perspectives: that of a demon and a boy. It begins on an autumn afternoon in a silent town.",
+  "source_sha256": "ca2002c3470259678113f72a7987d4ecab5af10cd7043ceefbaa97d2189af3f0",
+  "translation": "Crafted in a month, Juniper’s Knot is a story told from dual perspectives: that of a demon and a boy. It begins on an autumn afternoon in a silent town.",
+  "vndb_url": "https://vndb.org/v9986"
+}

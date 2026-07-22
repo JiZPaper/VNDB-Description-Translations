@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45926",
+  "type": "character",
+  "name": "Kylie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The strange and somewhat mysterious photographer from the newspaper.",
+  "source_sha256": "cb68038604cb32547bbd8ef73e692178859d270d93ef06dd46784c647d7c751b",
+  "translation": "The strange and somewhat mysterious photographer from the newspaper.",
+  "vndb_url": "https://vndb.org/c45926"
+}

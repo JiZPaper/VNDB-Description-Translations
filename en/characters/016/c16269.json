@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c16269",
+  "type": "character",
+  "name": "Lena",
+  "original_name": "Лена",
+  "language": "en",
+  "source_language": "en",
+  "source": "A shy wallflower who is awkward around large gatherings.",
+  "source_sha256": "8aa839e2097500ecb1ba8fc398125a45c0bfed2e8dae05dd9502d74c57d10837",
+  "translation": "A shy wallflower who is awkward around large gatherings.",
+  "vndb_url": "https://vndb.org/c16269"
+}

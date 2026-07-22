@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60107",
+  "type": "visual_novel",
+  "name": "Mobile Murder Mystery",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Follow the story of the Unseen Narrator, whose repetitive life falls apart when their co-worker decides to quit on a whim.\n\n[From [url=https://store.steampowered.com/app/4036110/]Steam[/url]]",
+  "source_sha256": "3c3b78a647107af40317b0d1f745435c35c5a5b5de0d8744fdc743125cdb538f",
+  "translation": "Follow the story of the Unseen Narrator, whose repetitive life falls apart when their co-worker decides to quit on a whim.\n\n[From [url=https://store.steampowered.com/app/4036110/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v60107"
+}

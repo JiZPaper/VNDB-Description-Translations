@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26576",
+  "type": "visual_novel",
+  "name": "Koi no Summer Fantasy in Miyazaki Seagaia",
+  "original_name": "恋のサマーファンタジー in 宮崎シーガイア",
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel in the vein of Tokimeki Memorial where the protagonist dates real life idol Okina Megumi.",
+  "source_sha256": "7f2589d3e4df328cc3b8ab9856fba1d401b0c29f94ac8f9df532e2b071d385a7",
+  "translation": "A visual novel in the vein of Tokimeki Memorial where the protagonist dates real life idol Okina Megumi.",
+  "vndb_url": "https://vndb.org/v26576"
+}

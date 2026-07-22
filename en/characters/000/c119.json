@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c119",
+  "type": "character",
+  "name": "Chuck Sauber",
+  "original_name": "チャック・ザウバー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A parody of [url=http://en.wikipedia.org/wiki/Jack_Bauer]Jack Bauer[/url] from the American television series [url=http://en.wikipedia.org/wiki/24_%28TV_series%29]24[/url].\n\nHe is a mysterious and scary guy who causes all kinds of trouble for Takeru.",
+  "source_sha256": "e1421a081727d1a82055194a73e4a3a2aece6cbcef0b85440fe1ac7a9ccb8dad",
+  "translation": "A parody of [url=http://en.wikipedia.org/wiki/Jack_Bauer]Jack Bauer[/url] from the American television series [url=http://en.wikipedia.org/wiki/24_%28TV_series%29]24[/url].\n\nHe is a mysterious and scary guy who causes all kinds of trouble for Takeru.",
+  "vndb_url": "https://vndb.org/c119"
+}

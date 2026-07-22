@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c158399",
+  "type": "character",
+  "name": "Leo Phenomenon",
+  "original_name": "レオ・フェノメノン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Participant in the Death Game.",
+  "source_sha256": "3f1f301ffc2e551340bc310be1c828bbdd88040ca33f72a4e2e9a1fc26ae465c",
+  "translation": "Participant in the Death Game.",
+  "vndb_url": "https://vndb.org/c158399"
+}

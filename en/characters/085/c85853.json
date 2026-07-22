@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c85853",
+  "type": "character",
+  "name": "Sophie",
+  "original_name": "ソフィ",
+  "language": "en",
+  "source_language": "en",
+  "source": "She is a carpenter.",
+  "source_sha256": "c50ae6759421529d9922652b2b6dc2665ce987d0a54661ba851f758470acf950",
+  "translation": "She is a carpenter.",
+  "vndb_url": "https://vndb.org/c85853"
+}

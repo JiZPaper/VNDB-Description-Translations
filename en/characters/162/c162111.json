@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162111",
+  "type": "character",
+  "name": "Jane",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Simulation role: Heart - Glass Bartender\nOccupation: Bartender at the Glass",
+  "source_sha256": "7fdd2bc63f4e2cdd093b0b8f3a277e3759ffe29f0b22ccbf775f8bbae67f3f8c",
+  "translation": "Simulation role: Heart - Glass Bartender\nOccupation: Bartender at the Glass",
+  "vndb_url": "https://vndb.org/c162111"
+}

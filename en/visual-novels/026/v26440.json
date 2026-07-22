@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26440",
+  "type": "visual_novel",
+  "name": "A Small Village",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A single mother Emi is asked to take care of her son Genta for a few weeks by an elderly acquaintance.",
+  "source_sha256": "2ea9434d8072edb7454550bc398fb8cf0f2bedcd5751c03e246f3eae53540943",
+  "translation": "A single mother Emi is asked to take care of her son Genta for a few weeks by an elderly acquaintance.",
+  "vndb_url": "https://vndb.org/v26440"
+}

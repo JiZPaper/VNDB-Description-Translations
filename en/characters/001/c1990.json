@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c1990",
+  "type": "character",
+  "name": "Sensei",
+  "original_name": "せんせい",
+  "language": "en",
+  "source_language": "en",
+  "source": "This patient believes he is a doctor, so everyone calls him \"Sensei\" also he seems to be constantly wandering around the hospital.\n\n[From [url=http://www.t-apricot.jp/products/deep/chara.html]ApRicoT[/url]]",
+  "source_sha256": "818ffcfb189b9bd5fa13ec5385d0615ea4d8d453d2ef0e4a5c9aa7f61f388ffc",
+  "translation": "This patient believes he is a doctor, so everyone calls him \"Sensei\" also he seems to be constantly wandering around the hospital.\n\n[From [url=http://www.t-apricot.jp/products/deep/chara.html]ApRicoT[/url]]",
+  "vndb_url": "https://vndb.org/c1990"
+}

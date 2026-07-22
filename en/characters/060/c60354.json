@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60354",
+  "type": "character",
+  "name": "Bernard Miles",
+  "original_name": "バーナード・マイルズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of a bar and bartender.",
+  "source_sha256": "4b388f463afb0e5256e758d6339a367097c4c1a1ba1ebac6c2378d550f710b14",
+  "translation": "Owner of a bar and bartender.",
+  "vndb_url": "https://vndb.org/c60354"
+}

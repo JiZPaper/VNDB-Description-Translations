@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146974",
+  "type": "character",
+  "name": "Henry",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The hero's father, seen in flashbacks only.",
+  "source_sha256": "4739cabe36069953dd10eb822a9b8104099b55b00add62b26063a8e074f3d4ae",
+  "translation": "The hero's father, seen in flashbacks only.",
+  "vndb_url": "https://vndb.org/c146974"
+}

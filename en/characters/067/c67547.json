@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c67547",
+  "type": "character",
+  "name": "Charon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The judge of the Void.",
+  "source_sha256": "538dc0144ecf03b6700c7281655180f86ac49185a3eb54030729995aec43f2b0",
+  "translation": "The judge of the Void.",
+  "vndb_url": "https://vndb.org/c67547"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c128477",
+  "type": "character",
+  "name": "Zuri",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Zuri, an interrogator for the inquisition, and occasionally, a torturer.",
+  "source_sha256": "9568ea99f4c63343858a30375e9322f785890d05a855bc2a9864d2aa33d5c78a",
+  "translation": "Zuri, an interrogator for the inquisition, and occasionally, a torturer.",
+  "vndb_url": "https://vndb.org/c128477"
+}

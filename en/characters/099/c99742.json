@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99742",
+  "type": "character",
+  "name": "Father Ivanov",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Priest from a church that stands in a nearby village.",
+  "source_sha256": "7ea8f01a2f23de28912272944404838f11dccd723789948510b259d26c27e682",
+  "translation": "Priest from a church that stands in a nearby village.",
+  "vndb_url": "https://vndb.org/c99742"
+}

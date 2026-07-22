@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96134",
+  "type": "character",
+  "name": "Aldo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The chef of Café Rouge.\n\nHis nationality is unknown. Every time you see him he speaks a different language. One thing for sure is that he is European as he speaks only European languages.",
+  "source_sha256": "bbe401f6c9c0dd14d6b8b27f750118c5c2c3bc4caf86f727f2bfb6bbd14d48e5",
+  "translation": "The chef of Café Rouge.\n\nHis nationality is unknown. Every time you see him he speaks a different language. One thing for sure is that he is European as he speaks only European languages.",
+  "vndb_url": "https://vndb.org/c96134"
+}

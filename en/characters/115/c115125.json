@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115125",
+  "type": "character",
+  "name": "Inspector Choi",
+  "original_name": "徐督察",
+  "language": "en",
+  "source_language": "en",
+  "source": "Detective of the Hong Kong Police Department. He is investigating the assassination of Francis.",
+  "source_sha256": "749ca41fe7bb57539d1b77445f30bcf6bca1299d80630973605858536a784bae",
+  "translation": "Detective of the Hong Kong Police Department. He is investigating the assassination of Francis.",
+  "vndb_url": "https://vndb.org/c115125"
+}

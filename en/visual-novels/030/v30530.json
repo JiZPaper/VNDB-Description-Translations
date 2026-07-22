@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30530",
+  "type": "visual_novel",
+  "name": "Hurricane",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An adventure/horror visual novel heavily inspired by Radical Dreamers for the Satellaview.",
+  "source_sha256": "1a14f48ac071b4205797565b26a9af906e3da57815b3bd7d63e0bab63d59f3a7",
+  "translation": "An adventure/horror visual novel heavily inspired by Radical Dreamers for the Satellaview.",
+  "vndb_url": "https://vndb.org/v30530"
+}

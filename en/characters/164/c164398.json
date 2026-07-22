@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c164398",
+  "type": "character",
+  "name": "Fran",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is Emily's best friend. Her hobby is collecting a variety of knives.",
+  "source_sha256": "933288b8a09a9daa437f5e47b52803a7f678b3949b55d96ccd0cc2c880b6aa51",
+  "translation": "She is Emily's best friend. Her hobby is collecting a variety of knives.",
+  "vndb_url": "https://vndb.org/c164398"
+}

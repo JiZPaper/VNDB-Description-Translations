@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30019",
+  "type": "visual_novel",
+  "name": "High School Dog Simulator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The story is centered around Shiba, a dog who has just been released on parole from prison. As part of a new government program, he's offered the chance to commute his sentence if he can prove that he's capable of being a regular member of society again. To do so, he must attend high school in Tokyo and stay out of trouble at all costs.",
+  "source_sha256": "d3f562987b432224f2ed3c263fbba898e882c869824837440dd6651b78e8e330",
+  "translation": "The story is centered around Shiba, a dog who has just been released on parole from prison. As part of a new government program, he's offered the chance to commute his sentence if he can prove that he's capable of being a regular member of society again. To do so, he must attend high school in Tokyo and stay out of trouble at all costs.",
+  "vndb_url": "https://vndb.org/v30019"
+}

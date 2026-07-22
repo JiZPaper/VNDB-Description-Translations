@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c147867",
+  "type": "character",
+  "name": "Catherine de' Medici",
+  "original_name": "カトリーヌ・ド・メディチ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A poisonous lady.\n\n\"Bravissimo! Such a great decision!\"",
+  "source_sha256": "8b13f12e392fec1f9851c89077e16af7d492727b0c09508f2662149a57fccacd",
+  "translation": "A poisonous lady.\n\n\"Bravissimo! Such a great decision!\"",
+  "vndb_url": "https://vndb.org/c147867"
+}

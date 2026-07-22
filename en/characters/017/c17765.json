@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17765",
+  "type": "character",
+  "name": "You",
+  "original_name": "あなた",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kyouko's son, a kind boy.",
+  "source_sha256": "dbf30ff3ccc8a94d46a52ca7f1b21034a962345ab7822293cfe31395721a4f55",
+  "translation": "Kyouko's son, a kind boy.",
+  "vndb_url": "https://vndb.org/c17765"
+}

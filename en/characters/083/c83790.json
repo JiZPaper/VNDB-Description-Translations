@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c83790",
+  "type": "character",
+  "name": "Nakamura",
+  "original_name": "中村",
+  "language": "en",
+  "source_language": "en",
+  "source": "A curious and talkative police sergeant. He's a big gun enthusiast. His service weapon is a [Url=https://en.wikipedia.org/wiki/New_Nambu_M60]New Nambu M60[/url] revolver.",
+  "source_sha256": "519144c4d671272cd4af8fdf704dc948839fc6cfa65b8c76588d0c3ca84050ce",
+  "translation": "A curious and talkative police sergeant. He's a big gun enthusiast. His service weapon is a [Url=https://en.wikipedia.org/wiki/New_Nambu_M60]New Nambu M60[/url] revolver.",
+  "vndb_url": "https://vndb.org/c83790"
+}

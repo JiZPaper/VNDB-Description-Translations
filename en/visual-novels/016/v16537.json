@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16537",
+  "type": "visual_novel",
+  "name": "My Weekend in Front of a Screen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Created for [url=http://ludumdare.com/compo/2014/12/03/welcome-to-ludum-dare-31/]Ludum Dare 31[/url] (theme: Entire Game on One Screen).",
+  "source_sha256": "cee60e8ef7192b57f94c885b305b0d21498843dd50750e32941f0c1d8a1202c6",
+  "translation": "Created for [url=http://ludumdare.com/compo/2014/12/03/welcome-to-ludum-dare-31/]Ludum Dare 31[/url] (theme: Entire Game on One Screen).",
+  "vndb_url": "https://vndb.org/v16537"
+}

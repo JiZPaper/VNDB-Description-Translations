@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97418",
+  "type": "character",
+  "name": "Woman of Doronium",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A regular citizen of Doronium.",
+  "source_sha256": "9466c12e6429c09fa90b9565f99991d70027262f7e1b9b87c8e3b7aa088766ff",
+  "translation": "A regular citizen of Doronium.",
+  "vndb_url": "https://vndb.org/c97418"
+}

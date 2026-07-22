@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13382",
+  "type": "visual_novel",
+  "name": "Jabberwocky",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Short kinetic poems.",
+  "source_sha256": "69f8d6e0d5cb65c514f85d67629b9963b29a044cd4a5c73c9bdbc9e230686a6e",
+  "translation": "Short kinetic poems.",
+  "vndb_url": "https://vndb.org/v13382"
+}

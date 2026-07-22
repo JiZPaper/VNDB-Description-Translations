@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44060",
+  "type": "character",
+  "name": "Tanaka Toshiko",
+  "original_name": "田中 敏子",
+  "language": "en",
+  "source_language": "en",
+  "source": "Yuri's mother.",
+  "source_sha256": "a86309e97d64c751b2b2cc03067acec5c39b49176df8eef95b55fef96c486cad",
+  "translation": "Yuri's mother.",
+  "vndb_url": "https://vndb.org/c44060"
+}

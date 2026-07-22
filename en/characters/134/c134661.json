@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134661",
+  "type": "character",
+  "name": "Shaman of the Mirror",
+  "original_name": "鏡の巫女",
+  "language": "en",
+  "source_language": "en",
+  "source": "A servant of Deus Prometheus.",
+  "source_sha256": "805683da4c7f97d8b8c456b7135688c43f9cbfa7512653aaaad9b5d3234aa0cb",
+  "translation": "A servant of Deus Prometheus.",
+  "vndb_url": "https://vndb.org/c134661"
+}

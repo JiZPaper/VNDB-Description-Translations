@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36761",
+  "type": "character",
+  "name": "Weapon Shop Boss",
+  "original_name": "武器屋のオヤジ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A man who runs the weapon shop in Elkrone.",
+  "source_sha256": "fd3d621e9bcd66d009f4c364cacc68317eedcab48f5d35bf351eee78851fce4a",
+  "translation": "A man who runs the weapon shop in Elkrone.",
+  "vndb_url": "https://vndb.org/c36761"
+}

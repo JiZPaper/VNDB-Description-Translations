@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8004",
+  "type": "character",
+  "name": "Asahina Midori",
+  "original_name": "朝比奈 水鳥",
+  "language": "en",
+  "source_language": "en",
+  "source": "Character type: Housekeeper.",
+  "source_sha256": "0c856130b3cfcee749c42f2cb4a8a798525626b015dfa1bfc03e5403910ac454",
+  "translation": "Character type: Housekeeper.",
+  "vndb_url": "https://vndb.org/c8004"
+}

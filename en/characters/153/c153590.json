@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153590",
+  "type": "character",
+  "name": "Alfonso",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A merchant in the Valley of Kings Server.",
+  "source_sha256": "5e3820251789f5f290323551541ba51c4847e568855474f23bb194e61cb10f30",
+  "translation": "A merchant in the Valley of Kings Server.",
+  "vndb_url": "https://vndb.org/c153590"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131776",
+  "type": "character",
+  "name": "Doctor Lila Villa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Doctor, who takes care of the protagonist in a hospital.",
+  "source_sha256": "ebfa45fbc201e5de7d5fdb8327cb465700c4075f00209a3ef88ed16024431ae4",
+  "translation": "Doctor, who takes care of the protagonist in a hospital.",
+  "vndb_url": "https://vndb.org/c131776"
+}

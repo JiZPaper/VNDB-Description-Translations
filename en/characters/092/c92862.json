@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92862",
+  "type": "character",
+  "name": "Hatama Mitsuki",
+  "original_name": "端間 みつき",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mitsuki is a part-time worker at a video rental store.",
+  "source_sha256": "c02437f2bceebdb304c6ee4667cd24e87605067b81222a0e782157a05ae9102c",
+  "translation": "Mitsuki is a part-time worker at a video rental store.",
+  "vndb_url": "https://vndb.org/c92862"
+}

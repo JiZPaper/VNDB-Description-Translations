@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c43239",
+  "type": "character",
+  "name": "Alisa Crowley",
+  "original_name": "アリサ・クロウリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes: Noodles, dishes made by Yukito\nDislikes: People that doesn't listen to her\nHobby: Reading (about witchcraft)",
+  "source_sha256": "c2f95bb692add9f701355def4765a038be9e1f4dcb9e7faeb916b79068caf0c6",
+  "translation": "Likes: Noodles, dishes made by Yukito\nDislikes: People that doesn't listen to her\nHobby: Reading (about witchcraft)",
+  "vndb_url": "https://vndb.org/c43239"
+}

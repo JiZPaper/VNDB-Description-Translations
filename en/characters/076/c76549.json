@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76549",
+  "type": "character",
+  "name": "Peter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A freshman at the college who's just arrived at the dorm when Breakdown starts.",
+  "source_sha256": "98c7805221dada205aff90ef334d64c0475cdb4b5f518dd177ee1966f5bd287d",
+  "translation": "A freshman at the college who's just arrived at the dorm when Breakdown starts.",
+  "vndb_url": "https://vndb.org/c76549"
+}

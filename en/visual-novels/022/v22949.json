@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22949",
+  "type": "visual_novel",
+  "name": "Natsuki Forever",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A very short fan game of \"Doki Doki Literature Club!\" where you date the character Natsuki.",
+  "source_sha256": "2e3c02fa6380ed6be8dd3bb72f65488d6486d92e9126e3a90ac9efe58d63ff7a",
+  "translation": "A very short fan game of \"Doki Doki Literature Club!\" where you date the character Natsuki.",
+  "vndb_url": "https://vndb.org/v22949"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84437",
+  "type": "character",
+  "name": "Chris",
+  "original_name": "クリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Favorite food: Strawberry\nDisliked food: [url=https://en.wikipedia.org/wiki/Natt%C5%8D]Nattou[/url]\nFavorite things: Cats.\nDisliked things: Bugs.\nSpecial skill: Bad at cooking.",
+  "source_sha256": "656c5c89b18a1801d4989aa2975c17d76809356a6f8e082be4a10276fbc2056d",
+  "translation": "Favorite food: Strawberry\nDisliked food: [url=https://en.wikipedia.org/wiki/Natt%C5%8D]Nattou[/url]\nFavorite things: Cats.\nDisliked things: Bugs.\nSpecial skill: Bad at cooking.",
+  "vndb_url": "https://vndb.org/c84437"
+}

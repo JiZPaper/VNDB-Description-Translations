@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37417",
+  "type": "character",
+  "name": "Owner",
+  "original_name": "オーナー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of the Cookie Cafe \"Felice\".",
+  "source_sha256": "0ae12c52674d8b505979325a79b37c484bf1640573f015ba92b2fde6f423abec",
+  "translation": "Owner of the Cookie Cafe \"Felice\".",
+  "vndb_url": "https://vndb.org/c37417"
+}

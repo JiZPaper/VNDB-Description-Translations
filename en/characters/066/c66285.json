@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c66285",
+  "type": "character",
+  "name": "Johnny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "There are four possible profiles in the game:\n\n\"I'm a great listener and in contact with my feelings.\"\n\"There's a sexy guy in my phone! Oh wait! It's just me!\"\n\"I lift and I can lift you up too! I'm a winner! Hail to the king baby!\"\n\"I don't know what I'm doing with my life anymore... I need a hug.\"",
+  "source_sha256": "6e56591eae5d94b90488fed5ec4bfa2495ae9c5027e0f2f619ef77edacd12e19",
+  "translation": "There are four possible profiles in the game:\n\n\"I'm a great listener and in contact with my feelings.\"\n\"There's a sexy guy in my phone! Oh wait! It's just me!\"\n\"I lift and I can lift you up too! I'm a winner! Hail to the king baby!\"\n\"I don't know what I'm doing with my life anymore... I need a hug.\"",
+  "vndb_url": "https://vndb.org/c66285"
+}

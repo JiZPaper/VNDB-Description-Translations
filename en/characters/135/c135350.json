@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135350",
+  "type": "character",
+  "name": "Outlander",
+  "original_name": "異邦人",
+  "language": "en",
+  "source_language": "en",
+  "source": "A stranger, bearing a mysterious \"Box,\" washed ashore on the island – an event that would ultimately ignite a rebellion against the villagers' long-endured oppression.",
+  "source_sha256": "a92796c3393b8ff016cd0a3eb6a6878a5501416c1bd9a4699d181fd16a407503",
+  "translation": "A stranger, bearing a mysterious \"Box,\" washed ashore on the island – an event that would ultimately ignite a rebellion against the villagers' long-endured oppression.",
+  "vndb_url": "https://vndb.org/c135350"
+}

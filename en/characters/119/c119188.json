@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c119188",
+  "type": "character",
+  "name": "Raimarr",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An orc, often found in the Amantes Tavern.",
+  "source_sha256": "ef715e1c51cc3e1b2dcbf5cb04baf266b300c1091ec492443bc3bebd77246584",
+  "translation": "An orc, often found in the Amantes Tavern.",
+  "vndb_url": "https://vndb.org/c119188"
+}

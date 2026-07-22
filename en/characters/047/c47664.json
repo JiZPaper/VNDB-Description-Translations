@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47664",
+  "type": "character",
+  "name": "Dr. Light",
+  "original_name": "ライト 博士",
+  "language": "en",
+  "source_language": "en",
+  "source": "A self-professed genius in the fields of medicine, science and archaeology.",
+  "source_sha256": "b66873844012dec1994f8b683066098272da7489d6e39d7e91b8783f377964f2",
+  "translation": "A self-professed genius in the fields of medicine, science and archaeology.",
+  "vndb_url": "https://vndb.org/c47664"
+}

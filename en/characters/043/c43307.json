@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c43307",
+  "type": "character",
+  "name": "Zeitgeist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Zeitgeist is an advanced AI programmed by Professor Ayukawa and assigned to the protagonist as a special partner.",
+  "source_sha256": "9f0f991099378a08679356f1875b2c5c9c0b71227b815dd8e13522966554823d",
+  "translation": "Zeitgeist is an advanced AI programmed by Professor Ayukawa and assigned to the protagonist as a special partner.",
+  "vndb_url": "https://vndb.org/c43307"
+}

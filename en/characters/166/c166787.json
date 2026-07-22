@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166787",
+  "type": "character",
+  "name": "Almira",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Prostitute working at The Dryad's Cavern, a brothel in [url=/c166785]Ryder[/url]'s hometown, Baron's Creek.",
+  "source_sha256": "e7817ca7f4a587b698003c417f620411f4bbc542b445e4f542ec53838dc79772",
+  "translation": "Prostitute working at The Dryad's Cavern, a brothel in [url=/c166785]Ryder[/url]'s hometown, Baron's Creek.",
+  "vndb_url": "https://vndb.org/c166787"
+}

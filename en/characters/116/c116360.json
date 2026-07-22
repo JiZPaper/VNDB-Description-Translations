@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116360",
+  "type": "character",
+  "name": "Black Cat",
+  "original_name": "黒猫",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious black cat the protagonist saw at the first station.",
+  "source_sha256": "3c1dc58a6aa72705836745035bf52cd797675ceef69b1080c169ad2bac828f13",
+  "translation": "A mysterious black cat the protagonist saw at the first station.",
+  "vndb_url": "https://vndb.org/c116360"
+}

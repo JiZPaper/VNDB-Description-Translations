@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122318",
+  "type": "character",
+  "name": "Mr. Angry",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A man that kidnapped and locked Santa's reindeers in mountain caves.",
+  "source_sha256": "9e7714ec64970809f63877d4225b639ccea6fa45f9f694b7ff54ebc622c321b2",
+  "translation": "A man that kidnapped and locked Santa's reindeers in mountain caves.",
+  "vndb_url": "https://vndb.org/c122318"
+}

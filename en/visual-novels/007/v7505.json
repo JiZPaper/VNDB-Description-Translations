@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7505",
+  "type": "visual_novel",
+  "name": "Daikon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Grow your own daikon!\n\n[From [url=http://bentosmile.com/mini-games/daikon/] The Official Site[/url]]",
+  "source_sha256": "be416ef8db9b4a3e8aefe9135fcb313e7c9a063bcfcf0f1285e1efd9d755e7ed",
+  "translation": "Grow your own daikon!\n\n[From [url=http://bentosmile.com/mini-games/daikon/] The Official Site[/url]]",
+  "vndb_url": "https://vndb.org/v7505"
+}

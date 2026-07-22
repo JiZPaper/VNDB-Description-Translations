@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91775",
+  "type": "character",
+  "name": "Mikado",
+  "original_name": "帝",
+  "language": "en",
+  "source_language": "en",
+  "source": "The emperor of Yamato and the father of Anju.",
+  "source_sha256": "a2f04d357ae8f7a8554664ebd2b598801acdf656e787ff903f18fde02cf0580d",
+  "translation": "The emperor of Yamato and the father of Anju.",
+  "vndb_url": "https://vndb.org/c91775"
+}

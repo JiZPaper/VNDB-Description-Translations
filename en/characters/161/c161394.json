@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161394",
+  "type": "character",
+  "name": "Henri",
+  "original_name": "アンリ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Wizard class.",
+  "source_sha256": "69233e2590d967ab5988120359dccdcd57ca1bd3b4e9f429a439d2a9aeff0471",
+  "translation": "Wizard class.",
+  "vndb_url": "https://vndb.org/c161394"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46941",
+  "type": "visual_novel",
+  "name": "Last Alive",
+  "original_name": "ラストアライブ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Last Alive (ラストアライブ) is a Visual Novel video game published by Bandai released on 2001 for the WonderSwan Color.",
+  "source_sha256": "f3065bf59a6829d88944093e37bcdee07624cc8dd13b604726b7cff3fa020311",
+  "translation": "Last Alive (ラストアライブ) is a Visual Novel video game published by Bandai released on 2001 for the WonderSwan Color.",
+  "vndb_url": "https://vndb.org/v46941"
+}

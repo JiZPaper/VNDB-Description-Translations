@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136243",
+  "type": "character",
+  "name": "Emily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Annie's mother and former neighbor to the hero.",
+  "source_sha256": "1ac38bb03d5b0f58e971bf2c570e1e263451b40d4f53dbe07c4509c6025cce9a",
+  "translation": "Annie's mother and former neighbor to the hero.",
+  "vndb_url": "https://vndb.org/c136243"
+}

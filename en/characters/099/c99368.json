@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99368",
+  "type": "character",
+  "name": "David",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Luke's friend",
+  "source_sha256": "7ccddf7b73c9d4832d9523d6a6655d8554a4822eab3243bda6e74ee8d85bdf6c",
+  "translation": "Luke's friend",
+  "vndb_url": "https://vndb.org/c99368"
+}

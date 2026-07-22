@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20893",
+  "type": "visual_novel",
+  "name": "Amenity's Life MiniFanDisc -Rezona & Itano Kanade Ver.-",
+  "original_name": "Amenity's Life MiniFanDisc -レゾナ＆板野奏 Ver.-",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a fandisc for Amenity's Life, featuring two new stories for Kanade and Rezona.",
+  "source_sha256": "d785ce9fc1e438dc04b9641771f56a482f27ec972aad334cb3fb0e1b8d96670d",
+  "translation": "This is a fandisc for Amenity's Life, featuring two new stories for Kanade and Rezona.",
+  "vndb_url": "https://vndb.org/v20893"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91131",
+  "type": "character",
+  "name": "Javabaok",
+  "original_name": "ジャバウォック",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious old man who appeared suddenly.",
+  "source_sha256": "a0b7dc47f84aafe1b47ce7c840c8e89bf88c3fd42c2fe0e3d3a823310ff46028",
+  "translation": "A mysterious old man who appeared suddenly.",
+  "vndb_url": "https://vndb.org/c91131"
+}

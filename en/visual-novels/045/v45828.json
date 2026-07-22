@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45828",
+  "type": "visual_novel",
+  "name": "Lunar Secret",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Follow Emi as she tried to unravel the disappearance of her family.",
+  "source_sha256": "86440a9185dde073080049c3a244a2adc494745251cb462759786582b93e1dbd",
+  "translation": "Follow Emi as she tried to unravel the disappearance of her family.",
+  "vndb_url": "https://vndb.org/v45828"
+}

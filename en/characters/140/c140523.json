@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140523",
+  "type": "character",
+  "name": "Chief of Headquarters",
+  "original_name": "本部長",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Chief of headquarters that gives orders to the crew on the ship called Neptune.",
+  "source_sha256": "c5e3414ca3665d51b83da15282d09321d1305d7865e3f5fa7d6c8bb44cfb1be5",
+  "translation": "The Chief of headquarters that gives orders to the crew on the ship called Neptune.",
+  "vndb_url": "https://vndb.org/c140523"
+}

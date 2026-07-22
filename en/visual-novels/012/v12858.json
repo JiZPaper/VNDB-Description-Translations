@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12858",
+  "type": "visual_novel",
+  "name": "Shinigami Shogyou ~Kaidan Romance~",
+  "original_name": "死神所業～怪談ロマンス～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Continuation of Shinigami Kagyou ~Kaidan Romance~.\nKazuma and Chitose are now capturable.",
+  "source_sha256": "fac8f9fb9ed968228eec29ba157edde221cf7c649be521bde45478e9883e1e30",
+  "translation": "Continuation of Shinigami Kagyou ~Kaidan Romance~.\nKazuma and Chitose are now capturable.",
+  "vndb_url": "https://vndb.org/v12858"
+}

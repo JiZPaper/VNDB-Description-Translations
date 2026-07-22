@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36628",
+  "type": "visual_novel",
+  "name": "Welcome",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a very short (~5 mins) visual novel about a trans woman trying to get home from work at night. It's closely based on a true story.\n\n[From [url=https://sammystudio.itch.io/welcome]Itch.io[/url]]",
+  "source_sha256": "8e01b5a378c3ffdbdef6a535ec2936a5e6d1f9b8c500972005e9eb27eb16458b",
+  "translation": "This is a very short (~5 mins) visual novel about a trans woman trying to get home from work at night. It's closely based on a true story.\n\n[From [url=https://sammystudio.itch.io/welcome]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v36628"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28602",
+  "type": "character",
+  "name": "Snow",
+  "original_name": "スノゥ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The queen's maid.",
+  "source_sha256": "8d3dfafee466eb17c80eb04ccd89e5d7f51c08d0461343bc296ca87d6c32bb59",
+  "translation": "The queen's maid.",
+  "vndb_url": "https://vndb.org/c28602"
+}

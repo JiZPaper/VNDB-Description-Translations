@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84033",
+  "type": "character",
+  "name": "Rook",
+  "original_name": "ルーク",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"My my, ladies. What would you like to purchase today?\"\n\nA beast who works as a traveling merchant. [url=/c84006]Shiina[/url] finds him as he is being attacked by a frightening monster and saves his life. To repay Shiina, he imparts the history of World's Odyssey to her. Because of the game's bugs, he is able to duplicate himself and appear all over the map, controlling all of his separate selves at once. In a world ravaged by bugs, he is a handy ally to have.\n\n[From [url=https://ideafintl.com/death-request/chara/]Idea Factory[/url]]",
+  "source_sha256": "d9dee0aa31d5ce194227dd90f2068012660cd0207a5cdde48d5f5118defcd13e",
+  "translation": "\"My my, ladies. What would you like to purchase today?\"\n\nA beast who works as a traveling merchant. [url=/c84006]Shiina[/url] finds him as he is being attacked by a frightening monster and saves his life. To repay Shiina, he imparts the history of World's Odyssey to her. Because of the game's bugs, he is able to duplicate himself and appear all over the map, controlling all of his separate selves at once. In a world ravaged by bugs, he is a handy ally to have.\n\n[From [url=https://ideafintl.com/death-request/chara/]Idea Factory[/url]]",
+  "vndb_url": "https://vndb.org/c84033"
+}

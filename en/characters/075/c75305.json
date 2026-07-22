@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75305",
+  "type": "character",
+  "name": "Warwick",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A werewolf living in the underground.",
+  "source_sha256": "3d9b9b528b8df85640e84471d797f278279c4ef7080daaaef563ee7b7afa2ef2",
+  "translation": "A werewolf living in the underground.",
+  "vndb_url": "https://vndb.org/c75305"
+}

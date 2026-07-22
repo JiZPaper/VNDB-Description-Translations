@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47656",
+  "type": "character",
+  "name": "Cobra",
+  "original_name": "コブラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cobra is a rogue pirate with a bounty on his head. His signature weapon is the Psychogun, which replaces his left hand.",
+  "source_sha256": "c65710386661ba89e4230073612b1241330b5edfdbb3debd6844f350a788507f",
+  "translation": "Cobra is a rogue pirate with a bounty on his head. His signature weapon is the Psychogun, which replaces his left hand.",
+  "vndb_url": "https://vndb.org/c47656"
+}

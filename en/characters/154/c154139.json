@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154139",
+  "type": "character",
+  "name": "Osiris",
+  "original_name": "オシリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A queen respected by all... brought back from the dead.",
+  "source_sha256": "ad94fd1af04afe0a9eeb9291cf676f2541c20a0e7353a7dc572d4d615435ac9d",
+  "translation": "A queen respected by all... brought back from the dead.",
+  "vndb_url": "https://vndb.org/c154139"
+}

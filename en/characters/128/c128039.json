@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c128039",
+  "type": "character",
+  "name": "Annie",
+  "original_name": "安妮",
+  "language": "en",
+  "source_language": "en",
+  "source": "Infected by the Black Death, Annie was sent to live in Mary King's Close, where she died in 1645. She was later revived in the late 27th century.",
+  "source_sha256": "dcf03010aee9b99633397e98836ec9456f6d7b451eb63b417bef82b3a4ceff35",
+  "translation": "Infected by the Black Death, Annie was sent to live in Mary King's Close, where she died in 1645. She was later revived in the late 27th century.",
+  "vndb_url": "https://vndb.org/c128039"
+}

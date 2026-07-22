@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30495",
+  "type": "visual_novel",
+  "name": "Uso to Surprise",
+  "original_name": "嘘とサプライズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A game where you talk to a mysterious girl in a coffee shop.",
+  "source_sha256": "4b2d81cc5bcfc7fc14785a3dec060393679ed1db8efcda98080a284de8fc6d52",
+  "translation": "A game where you talk to a mysterious girl in a coffee shop.",
+  "vndb_url": "https://vndb.org/v30495"
+}

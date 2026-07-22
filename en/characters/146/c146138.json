@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146138",
+  "type": "character",
+  "name": "Garren",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Garren is a clever and vengeful spirit who inhabits bodies of the dead so that he can feel the world once more. He’ll gladly talk to you, seeing you as a means to corpses strewn by a dragon’s wrath.",
+  "source_sha256": "f5028df2fce0a04a968709f68f6540822333515170a3e3b4e048903ab20f77ad",
+  "translation": "Garren is a clever and vengeful spirit who inhabits bodies of the dead so that he can feel the world once more. He’ll gladly talk to you, seeing you as a means to corpses strewn by a dragon’s wrath.",
+  "vndb_url": "https://vndb.org/c146138"
+}

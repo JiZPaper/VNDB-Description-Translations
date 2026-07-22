@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47217",
+  "type": "character",
+  "name": "Ramen Guy",
+  "original_name": "うどん 屋",
+  "language": "en",
+  "source_language": "en",
+  "source": "An old udon (ramen in the English version) vendor, who can sell Gillian food in Alton Plaza.",
+  "source_sha256": "a499ac2f3720901280bbabd40b5c01095c947d53400edc401f37d1db54d87e0d",
+  "translation": "An old udon (ramen in the English version) vendor, who can sell Gillian food in Alton Plaza.",
+  "vndb_url": "https://vndb.org/c47217"
+}

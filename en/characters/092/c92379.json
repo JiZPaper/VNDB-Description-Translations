@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92379",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This man lost his memories three years ago because of a brain tumor. He considers himself as a survivor.\nHe plans to apply for a graphic design job at AppSir, Inc.",
+  "source_sha256": "74ac46abe36c8c74efff58c342f2bf78cd920091c78c6b44f4ff1543eb7a05e4",
+  "translation": "This man lost his memories three years ago because of a brain tumor. He considers himself as a survivor.\nHe plans to apply for a graphic design job at AppSir, Inc.",
+  "vndb_url": "https://vndb.org/c92379"
+}

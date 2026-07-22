@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97131",
+  "type": "character",
+  "name": "Mute Lunavel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious messenger of the undines.",
+  "source_sha256": "56479d5bb2ae3b29e87187af8c6d170fd5c09b4e19e36a9048f913fc12d2c27f",
+  "translation": "A mysterious messenger of the undines.",
+  "vndb_url": "https://vndb.org/c97131"
+}

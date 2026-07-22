@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126673",
+  "type": "character",
+  "name": "Anita",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bartender at Cloud Nine club",
+  "source_sha256": "4f0f9446023e91e7e63ee198cbac7d4f40d7c06f13c5ca06a8c90a5fb03b8b75",
+  "translation": "Bartender at Cloud Nine club",
+  "vndb_url": "https://vndb.org/c126673"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94159",
+  "type": "character",
+  "name": "Rosalind",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the maids working in the castle.",
+  "source_sha256": "506629a7f3e0012271a14e2f7e7aacf2193c7b376113c7dc23a017a6692c5a91",
+  "translation": "One of the maids working in the castle.",
+  "vndb_url": "https://vndb.org/c94159"
+}

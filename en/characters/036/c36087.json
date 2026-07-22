@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36087",
+  "type": "character",
+  "name": "Yozakura",
+  "original_name": "夜桜",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Human \nOccupation: Ninja",
+  "source_sha256": "2fb3e5434e7f1e502639b899320a6b8ff0e950fd79b6b98e1e5f1549e7ce8bfe",
+  "translation": "Race: Human \nOccupation: Ninja",
+  "vndb_url": "https://vndb.org/c36087"
+}

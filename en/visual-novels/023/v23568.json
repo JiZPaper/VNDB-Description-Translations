@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23568",
+  "type": "visual_novel",
+  "name": "Yarrow Valley",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"What kind of flower will we find today?\"\n\n[From [url=https://arcadeparty.itch.io/yarrow-valley]itch.io[/url]]",
+  "source_sha256": "7dda6f248f8622eb5719fd5f27929fcae6b651a841c12097447500af603bdd82",
+  "translation": "\"What kind of flower will we find today?\"\n\n[From [url=https://arcadeparty.itch.io/yarrow-valley]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v23568"
+}

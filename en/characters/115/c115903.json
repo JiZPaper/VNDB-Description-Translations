@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115903",
+  "type": "character",
+  "name": "Ms. Misty",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Swimming instructor at Twitch academy.",
+  "source_sha256": "b7feb84f219ac4433887db313e8c195f0f475448c972ea0919f2eeecd5a8d72d",
+  "translation": "Swimming instructor at Twitch academy.",
+  "vndb_url": "https://vndb.org/c115903"
+}

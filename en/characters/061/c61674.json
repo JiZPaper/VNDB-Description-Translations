@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61674",
+  "type": "character",
+  "name": "Editor in Chief",
+  "original_name": "編集長",
+  "language": "en",
+  "source_language": "en",
+  "source": "Editor in Chief of 'Comic Charm' magazine.\nHobby: Going to bookstores, collecting old books.",
+  "source_sha256": "8a236bb5b219f890aa7aefe5e79a2ada1884ef47d2a4f41668be27b74bfe3c16",
+  "translation": "Editor in Chief of 'Comic Charm' magazine.\nHobby: Going to bookstores, collecting old books.",
+  "vndb_url": "https://vndb.org/c61674"
+}

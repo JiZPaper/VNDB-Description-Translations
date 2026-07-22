@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99266",
+  "type": "character",
+  "name": "Harsen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Height: 5'10''\nWeight: 160 lbs\nSentence: N/A\n\nThe prison's sleazy lawyer.",
+  "source_sha256": "958fde2aa03d26617af57a2a98e0b6ff5b43caaa007f6cd4f05d9f2d0b4fe4fa",
+  "translation": "Height: 5'10''\nWeight: 160 lbs\nSentence: N/A\n\nThe prison's sleazy lawyer.",
+  "vndb_url": "https://vndb.org/c99266"
+}

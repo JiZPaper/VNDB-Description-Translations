@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c142282",
+  "type": "character",
+  "name": "Rio",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A saloon girl.",
+  "source_sha256": "be0018506a16ba9db395abf56e5e7dc4837d1a8842c68ed831bc1b0fa11f29fd",
+  "translation": "A saloon girl.",
+  "vndb_url": "https://vndb.org/c142282"
+}

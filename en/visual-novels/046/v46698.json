@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46698",
+  "type": "visual_novel",
+  "name": "Thanks for the Memories",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play Amin trying to date his bandmate Cailan.\n\n[From [url=https://alexuisss.itch.io/first-date-test]Itch.io[/url]]",
+  "source_sha256": "1c6791f73ccb277e206ef57242bc52f8935e06ce9da8fa2656b925c4f8dac2c2",
+  "translation": "You play Amin trying to date his bandmate Cailan.\n\n[From [url=https://alexuisss.itch.io/first-date-test]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v46698"
+}

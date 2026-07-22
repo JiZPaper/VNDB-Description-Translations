@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37169",
+  "type": "visual_novel",
+  "name": "Monimonikkusu",
+  "original_name": "もにもにっくす",
+  "language": "en",
+  "source_language": "en",
+  "source": "This game is an animation omnibus ADV that uses the new animation system \"Moni Moni System\" exclusively for Windows 95. It contains two short stories: \"Private Tutor\" and \"Horse Racing The Lover\", both are made using full animations.",
+  "source_sha256": "d76b9dc4d34a7956a80caab76020c150bf86cefd5a2c4831be18a72c2f6df941",
+  "translation": "This game is an animation omnibus ADV that uses the new animation system \"Moni Moni System\" exclusively for Windows 95. It contains two short stories: \"Private Tutor\" and \"Horse Racing The Lover\", both are made using full animations.",
+  "vndb_url": "https://vndb.org/v37169"
+}

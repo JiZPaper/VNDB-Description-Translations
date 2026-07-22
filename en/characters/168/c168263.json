@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168263",
+  "type": "character",
+  "name": "Henrietta",
+  "original_name": "アンリエッタ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Rosetta's lady-in-waiting, also a seasoned warrior.",
+  "source_sha256": "44e8db5756958478f5b6c14b85c2310378de0f5a2601ae1d3d99d756af6d8fec",
+  "translation": "Rosetta's lady-in-waiting, also a seasoned warrior.",
+  "vndb_url": "https://vndb.org/c168263"
+}

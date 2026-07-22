@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22217",
+  "type": "visual_novel",
+  "name": "Katya",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Katya is the barmaid at the bar you go to after work. You never got up the nerve to talk to her. Till Tonight.",
+  "source_sha256": "cd75b997849ce4a49b331b8961454d23442cf9cffdfaf4fc5f1276d9eb3dad46",
+  "translation": "Katya is the barmaid at the bar you go to after work. You never got up the nerve to talk to her. Till Tonight.",
+  "vndb_url": "https://vndb.org/v22217"
+}

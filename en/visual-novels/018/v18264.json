@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18264",
+  "type": "visual_novel",
+  "name": "Elsword: Retold",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Elsword: Retold is a fan game that telling the Elsword universe in visual novel style. You can choose your own protagonist and the job path you desired.",
+  "source_sha256": "36012ace96987c5986b5115171213f592e3cf50fcee6cb06b4e21dcd70f099eb",
+  "translation": "Elsword: Retold is a fan game that telling the Elsword universe in visual novel style. You can choose your own protagonist and the job path you desired.",
+  "vndb_url": "https://vndb.org/v18264"
+}

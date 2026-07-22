@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117506",
+  "type": "character",
+  "name": "I",
+  "original_name": "自分",
+  "language": "en",
+  "source_language": "en",
+  "source": "Depressed young man.",
+  "source_sha256": "b49e4650181ad7f01b218f348af33bfa6e95ba7768a70d102ec9d23f0fd0031f",
+  "translation": "Depressed young man.",
+  "vndb_url": "https://vndb.org/c117506"
+}

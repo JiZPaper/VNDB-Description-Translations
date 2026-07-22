@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113297",
+  "type": "character",
+  "name": "Wakana",
+  "original_name": "若菜",
+  "language": "en",
+  "source_language": "en",
+  "source": "She is a waitress at Kikufuji Restaurant.",
+  "source_sha256": "7f15d9ae4756f5adc974c4f27eaea4694a93f8feed79be5ca05e131b8b1b1b30",
+  "translation": "She is a waitress at Kikufuji Restaurant.",
+  "vndb_url": "https://vndb.org/c113297"
+}

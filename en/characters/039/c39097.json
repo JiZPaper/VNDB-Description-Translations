@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39097",
+  "type": "character",
+  "name": "Bremen March",
+  "original_name": "ブレーメン＝マルシュ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Lisa's master. The boss of the bounty hunters.\nHe also owns a bar.",
+  "source_sha256": "0dc03af5ce0af2eb5b1d41ad0d0148e027463cc8c8a26ab29cd9a6e15d3417d8",
+  "translation": "Lisa's master. The boss of the bounty hunters.\nHe also owns a bar.",
+  "vndb_url": "https://vndb.org/c39097"
+}

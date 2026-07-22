@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94585",
+  "type": "character",
+  "name": "Manager",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of the local store. Wears a bear costume for unknown reasons.",
+  "source_sha256": "11dc2bbcd083a722411ff21432e67f048739ed64a3636fd627beee845641e730",
+  "translation": "The owner of the local store. Wears a bear costume for unknown reasons.",
+  "vndb_url": "https://vndb.org/c94585"
+}

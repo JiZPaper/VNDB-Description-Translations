@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169292",
+  "type": "character",
+  "name": "La Grande Soeur",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The little girl's only parental figure. She harvests potatoes.",
+  "source_sha256": "bdc799ae3d0b3275b878654e8826f31f1125d576c6bed0614eb8890792c6aba8",
+  "translation": "The little girl's only parental figure. She harvests potatoes.",
+  "vndb_url": "https://vndb.org/c169292"
+}

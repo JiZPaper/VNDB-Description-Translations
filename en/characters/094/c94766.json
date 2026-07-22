@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94766",
+  "type": "character",
+  "name": "Chloe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Zoe's identical twin.",
+  "source_sha256": "badfb97fe692b9ac376e06bcd9e19e56c523cb86502170a0df0adbc99061f3d6",
+  "translation": "Zoe's identical twin.",
+  "vndb_url": "https://vndb.org/c94766"
+}

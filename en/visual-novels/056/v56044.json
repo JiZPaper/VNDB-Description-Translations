@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56044",
+  "type": "visual_novel",
+  "name": "Peterheim zhi Ying",
+  "original_name": "彼德海姆之影",
+  "language": "en",
+  "source_language": "en",
+  "source": "An Arknights fangame.",
+  "source_sha256": "c869dbf0eb85d34c2ecc1f24c1f5cef73848d7f5732fdc153699cf1d276d7982",
+  "translation": "An Arknights fangame.",
+  "vndb_url": "https://vndb.org/v56044"
+}

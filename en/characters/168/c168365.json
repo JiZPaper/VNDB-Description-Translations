@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168365",
+  "type": "character",
+  "name": "Clara Lancaster",
+  "original_name": "クララ・ランカスター",
+  "language": "en",
+  "source_language": "en",
+  "source": "The third daughter of the Lancaster family",
+  "source_sha256": "aa8c5934639c0caa7f6d6d14e1a32e7232608a82991c9d87e1953764d0093020",
+  "translation": "The third daughter of the Lancaster family",
+  "vndb_url": "https://vndb.org/c168365"
+}

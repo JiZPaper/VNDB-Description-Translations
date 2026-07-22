@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93854",
+  "type": "character",
+  "name": "Hilary",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Betty's friend.",
+  "source_sha256": "d604810bb0a8e5da06819ec2410be4690961d55dd5e7359421bd00f5e3f5ff2d",
+  "translation": "Betty's friend.",
+  "vndb_url": "https://vndb.org/c93854"
+}

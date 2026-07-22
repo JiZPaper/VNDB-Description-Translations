@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168732",
+  "type": "character",
+  "name": "Maid Marian",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The maid of the local lord's manor",
+  "source_sha256": "b4e1cf7c4294dc6bb9330e6f50ddf08a641f58d05eb592486472f6a33d7de646",
+  "translation": "The maid of the local lord's manor",
+  "vndb_url": "https://vndb.org/c168732"
+}

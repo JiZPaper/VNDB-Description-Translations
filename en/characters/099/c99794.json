@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99794",
+  "type": "character",
+  "name": "772",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The detective who goes by a number which reflects how many crimes he's solved.",
+  "source_sha256": "ee90f78facf82d19f9c1272333e4cd27aa9a56a0f72209cbb791ce5846279626",
+  "translation": "The detective who goes by a number which reflects how many crimes he's solved.",
+  "vndb_url": "https://vndb.org/c99794"
+}

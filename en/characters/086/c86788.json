@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86788",
+  "type": "character",
+  "name": "Male Librarian",
+  "original_name": "図書館男性員",
+  "language": "en",
+  "source_language": "en",
+  "source": "Man working at the library on Kindaichi's island called Twilight Island Library.\n\nLikes to take naps out in the backyard of the library.\n\n[Taken from official character profile in the game]",
+  "source_sha256": "1330fa384a89d24530d3810909e500c77a5f1f9c602524fb661ac28bcab53b0d",
+  "translation": "Man working at the library on Kindaichi's island called Twilight Island Library.\n\nLikes to take naps out in the backyard of the library.\n\n[Taken from official character profile in the game]",
+  "vndb_url": "https://vndb.org/c86788"
+}

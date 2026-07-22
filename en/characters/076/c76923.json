@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76923",
+  "type": "character",
+  "name": "Woman",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A gossipy neighbor of Kouyama Keiji.",
+  "source_sha256": "489ce8a63f6c391130bd70f9f8b50b00396ffb3e5805dab984460f05ce2809da",
+  "translation": "A gossipy neighbor of Kouyama Keiji.",
+  "vndb_url": "https://vndb.org/c76923"
+}

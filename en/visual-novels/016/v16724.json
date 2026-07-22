@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16724",
+  "type": "visual_novel",
+  "name": "Ana o Holi-makuru zoo! Ryakushite Ana Holic Z!",
+  "original_name": "アナをホリまくるぞー！略してアナホリZ！",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fan game for the RPG [url=http://ugcp.sakura.ne.jp/ana/top.html]Ana Holic[/url] by [url=/p1915]Underground Campaign[/url].",
+  "source_sha256": "3f2036b7aa0f8ad81b258a82a792fe2ff2970ec182301c853d82271aed694f54",
+  "translation": "Fan game for the RPG [url=http://ugcp.sakura.ne.jp/ana/top.html]Ana Holic[/url] by [url=/p1915]Underground Campaign[/url].",
+  "vndb_url": "https://vndb.org/v16724"
+}

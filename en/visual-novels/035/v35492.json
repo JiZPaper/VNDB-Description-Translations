@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35492",
+  "type": "visual_novel",
+  "name": "just dumb little dances",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel with the stupidest dances.",
+  "source_sha256": "134576f418d5b3960b9896c1add59c06be11a0c8ed1d681bac491bdd7ecb4dd0",
+  "translation": "A visual novel with the stupidest dances.",
+  "vndb_url": "https://vndb.org/v35492"
+}

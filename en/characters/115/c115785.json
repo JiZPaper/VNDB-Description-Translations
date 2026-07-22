@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115785",
+  "type": "character",
+  "name": "Mike Trent",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist and eponymous last human.\n\nDefault name is Mike.",
+  "source_sha256": "34816a09816ed56595fbb636b0a1cdbb73669a5b517e4af24701de5ba9059ddf",
+  "translation": "The protagonist and eponymous last human.\n\nDefault name is Mike.",
+  "vndb_url": "https://vndb.org/c115785"
+}

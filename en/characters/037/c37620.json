@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37620",
+  "type": "character",
+  "name": "Apollon Agana Belea",
+  "original_name": "アポロン・アガナ・ベレア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Greek God of the Sun",
+  "source_sha256": "bfc302e5abb7fef4d7e0f0768001c5ce0c314c671bbd34071cdd097c48dc28ef",
+  "translation": "Greek God of the Sun",
+  "vndb_url": "https://vndb.org/c37620"
+}

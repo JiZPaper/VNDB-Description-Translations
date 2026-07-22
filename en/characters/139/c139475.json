@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139475",
+  "type": "character",
+  "name": "Alice Summerwood",
+  "original_name": "アリス・サマーウッド",
+  "language": "en",
+  "source_language": "en",
+  "source": "A racing driver for Arianrhod GP. Commonly known as 'The Queen'.\n\nShe is considered the biggest rival of 'The King', Lorenzo M Salvatore.",
+  "source_sha256": "889015a5e9537e5399c43613ba868849763fb692669a2c0955afe6c94e359b81",
+  "translation": "A racing driver for Arianrhod GP. Commonly known as 'The Queen'.\n\nShe is considered the biggest rival of 'The King', Lorenzo M Salvatore.",
+  "vndb_url": "https://vndb.org/c139475"
+}

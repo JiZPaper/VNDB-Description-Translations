@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82950",
+  "type": "character",
+  "name": "Eric Turner",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A depraved businessman.",
+  "source_sha256": "e61f8eb5d518a89eec78cea3da5f7f75ace81454c00c7b28ae75f685e4dd9d04",
+  "translation": "A depraved businessman.",
+  "vndb_url": "https://vndb.org/c82950"
+}

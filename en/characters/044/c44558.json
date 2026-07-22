@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44558",
+  "type": "character",
+  "name": "Platine",
+  "original_name": "プラティーヌ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Model Number: ARG-010",
+  "source_sha256": "322139515b22b28b8754744a46523d9856da3d27d6ab435302004f8cbb13ea9a",
+  "translation": "Model Number: ARG-010",
+  "vndb_url": "https://vndb.org/c44558"
+}

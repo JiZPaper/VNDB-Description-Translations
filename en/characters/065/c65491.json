@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65491",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "A white-haired woman. She has no memory of her past and doesn't know how old she is. In the game's first chapter, she was a slave owned by Geg, a tentacle monster.",
+  "source_sha256": "fe3ce485f297f06578ae6750a8cf21d382fcb14e41a61add2fefab43b80a6714",
+  "translation": "A white-haired woman. She has no memory of her past and doesn't know how old she is. In the game's first chapter, she was a slave owned by Geg, a tentacle monster.",
+  "vndb_url": "https://vndb.org/c65491"
+}

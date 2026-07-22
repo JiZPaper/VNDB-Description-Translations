@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c58028",
+  "type": "character",
+  "name": "Zell Rond",
+  "original_name": "ゼル=ロンド",
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes: All Meats\nDislikes: Too Sweet Food",
+  "source_sha256": "9382312cf39b8478ddb4d30172ac0d551b7f71894b52d6c48218fe8f719ec092",
+  "translation": "Likes: All Meats\nDislikes: Too Sweet Food",
+  "vndb_url": "https://vndb.org/c58028"
+}

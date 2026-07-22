@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37326",
+  "type": "character",
+  "name": "Sakura",
+  "original_name": "桜",
+  "language": "en",
+  "source_language": "en",
+  "source": "A kunoichi who swears to use her power to protect the weak.",
+  "source_sha256": "2142a4ed4b6f48e7324ab6f4e641404cca29dc1ea66487943f74381e3b0aa239",
+  "translation": "A kunoichi who swears to use her power to protect the weak.",
+  "vndb_url": "https://vndb.org/c37326"
+}

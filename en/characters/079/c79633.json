@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79633",
+  "type": "character",
+  "name": "Emilia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The youngest child of late lord Gilliam.",
+  "source_sha256": "af00e5f88af441cafec56396f54f957a3b3247c2ceff4ee5bdf6726afd3fa600",
+  "translation": "The youngest child of late lord Gilliam.",
+  "vndb_url": "https://vndb.org/c79633"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143505",
+  "type": "character",
+  "name": "Jack",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A former reality TV star, and a VIP at the nightclub where Ivy and Jeremy work.",
+  "source_sha256": "4deb33b85acab6c828a8ef82d0196786f7807484b0e822e6a09db61b3cadd581",
+  "translation": "A former reality TV star, and a VIP at the nightclub where Ivy and Jeremy work.",
+  "vndb_url": "https://vndb.org/c143505"
+}

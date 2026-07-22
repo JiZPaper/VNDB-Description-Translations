@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12952",
+  "type": "visual_novel",
+  "name": "Esca sum",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl, left alone in her village, meets two monsters who don't know she's human.",
+  "source_sha256": "7500ba47a390abdac6dab430e4646847f0a523955c2ad654f4884a50cc3b2f0d",
+  "translation": "A girl, left alone in her village, meets two monsters who don't know she's human.",
+  "vndb_url": "https://vndb.org/v12952"
+}

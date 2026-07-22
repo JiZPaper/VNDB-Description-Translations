@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34975",
+  "type": "character",
+  "name": "Orva",
+  "original_name": "オルヴァ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A boy that lives in the same village as Gerda.\nHe has a weak constitution so he rarely leaves his house and is ignorant in the ways of the world.\nThe mirror fragment causes everything he touches to rot.",
+  "source_sha256": "95e184808b7becb50886800f4d2d8d624d060ef5328b0f4978423def2da7e10f",
+  "translation": "A boy that lives in the same village as Gerda.\nHe has a weak constitution so he rarely leaves his house and is ignorant in the ways of the world.\nThe mirror fragment causes everything he touches to rot.",
+  "vndb_url": "https://vndb.org/c34975"
+}

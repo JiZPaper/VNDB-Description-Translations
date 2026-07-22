@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17531",
+  "type": "visual_novel",
+  "name": "The Sparrow's Gourd",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A sparrow was chirping a song peacefully in a garden.",
+  "source_sha256": "59c74db29b7f27769f2cb9196de4c9d9114479751d6b103da1358e34eed222da",
+  "translation": "A sparrow was chirping a song peacefully in a garden.",
+  "vndb_url": "https://vndb.org/v17531"
+}

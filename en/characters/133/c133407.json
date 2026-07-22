@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133407",
+  "type": "character",
+  "name": "Grace",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "cook",
+  "source_sha256": "03fb94180aa0ff2c583d97bbb1fc6d84a6ba7df5bde3c267459bb9a9b8c9841b",
+  "translation": "cook",
+  "vndb_url": "https://vndb.org/c133407"
+}

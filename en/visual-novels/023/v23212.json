@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23212",
+  "type": "visual_novel",
+  "name": "K.I.N.A.J",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An adventure about two detectives trying to solve the mystery of a murder in a Russian city.",
+  "source_sha256": "a8597658160f56919446367009a013b608d7afdec12786b27687ecf96e290f4b",
+  "translation": "An adventure about two detectives trying to solve the mystery of a murder in a Russian city.",
+  "vndb_url": "https://vndb.org/v23212"
+}

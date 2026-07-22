@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46070",
+  "type": "visual_novel",
+  "name": "Plato Protagoras",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Socrates retells his conversation with the great Sophist Protagoras at the house of Callias concerning whether virtue can be taught.\n\n[Edited from [url=https://www.gutenberg.org/files/1591/1591-h/1591-h.htm#link2H_INTR]eBook's Introduction section[/url]]",
+  "source_sha256": "6205749c853329726ac9b2d5069cc819d456db0e169a538a1b8b8583bf0401fb",
+  "translation": "Socrates retells his conversation with the great Sophist Protagoras at the house of Callias concerning whether virtue can be taught.\n\n[Edited from [url=https://www.gutenberg.org/files/1591/1591-h/1591-h.htm#link2H_INTR]eBook's Introduction section[/url]]",
+  "vndb_url": "https://vndb.org/v46070"
+}

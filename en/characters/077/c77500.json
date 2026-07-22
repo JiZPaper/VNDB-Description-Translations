@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77500",
+  "type": "character",
+  "name": "Aezera",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Matthew’s mother.",
+  "source_sha256": "eb00f0225d2a25d33484b7bd792fa957abc80abb2a08fd3ff88662b2652e5e63",
+  "translation": "Matthew’s mother.",
+  "vndb_url": "https://vndb.org/c77500"
+}

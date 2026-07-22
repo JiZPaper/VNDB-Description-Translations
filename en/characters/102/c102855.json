@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102855",
+  "type": "character",
+  "name": "Ox",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young prosecutor",
+  "source_sha256": "ca58e895a3ee4eb4314d7519427393864b673d4a7b2e097eda5c717556ca7699",
+  "translation": "A young prosecutor",
+  "vndb_url": "https://vndb.org/c102855"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20497",
+  "type": "visual_novel",
+  "name": "Sakura Christmas Party",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "During the holiday season, Fumio catches up with three of his closest friends at their yearly Christmas party.",
+  "source_sha256": "85a3fc2bfd87c492c1b521ff553dc222f78c106ec00625d1818affcd3b3c2c6b",
+  "translation": "During the holiday season, Fumio catches up with three of his closest friends at their yearly Christmas party.",
+  "vndb_url": "https://vndb.org/v20497"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36760",
+  "type": "character",
+  "name": "Elfir",
+  "original_name": "エルフィール",
+  "language": "en",
+  "source_language": "en",
+  "source": "A graduate of the Academy who makes artisan cheesecake.",
+  "source_sha256": "dd993637bdfc24db8633e0d26740754e7e037fc6629770325b308acc2080fd0c",
+  "translation": "A graduate of the Academy who makes artisan cheesecake.",
+  "vndb_url": "https://vndb.org/c36760"
+}

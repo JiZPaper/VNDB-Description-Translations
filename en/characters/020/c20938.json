@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20938",
+  "type": "character",
+  "name": "Daisy",
+  "original_name": "デイジー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Seems to have a bright characteristic. Likes Joshua, a boy who goes to the same church service on Sunday.\nHaves good relationship with uncle Cedric.",
+  "source_sha256": "b4f7e533a8c18484dab893234dd21c0d9b0aa339bec6d2babc36c296e63e5d1c",
+  "translation": "Seems to have a bright characteristic. Likes Joshua, a boy who goes to the same church service on Sunday.\nHaves good relationship with uncle Cedric.",
+  "vndb_url": "https://vndb.org/c20938"
+}

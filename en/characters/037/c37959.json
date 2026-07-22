@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37959",
+  "type": "character",
+  "name": "Meister",
+  "original_name": "マイスター",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious old man who tells Caprese of the Icons. He appears to be in league with Tombeau. His Arcana is the Magician.",
+  "source_sha256": "8a82ff7a456afbf825a6284779490ad8e7a2d6b064ca2ef9231d2c833b961e68",
+  "translation": "A mysterious old man who tells Caprese of the Icons. He appears to be in league with Tombeau. His Arcana is the Magician.",
+  "vndb_url": "https://vndb.org/c37959"
+}

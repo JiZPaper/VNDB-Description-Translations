@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159689",
+  "type": "character",
+  "name": "Rose",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious fortune-teller with a big secret and a dark past. She knows everything about everyone, but nobody knows where she came from and how she got her prophetic powers.",
+  "source_sha256": "6f8c600a2c0935208ca6a30d7485d6735e04a1badf9dae23794b8cd6d667fed1",
+  "translation": "A mysterious fortune-teller with a big secret and a dark past. She knows everything about everyone, but nobody knows where she came from and how she got her prophetic powers.",
+  "vndb_url": "https://vndb.org/c159689"
+}

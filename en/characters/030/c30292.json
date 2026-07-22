@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30292",
+  "type": "character",
+  "name": "Cait Sith",
+  "original_name": "ケット・シー",
+  "language": "en",
+  "source_language": "en",
+  "source": "The king of cats who rules over the cats around Camelot.",
+  "source_sha256": "fa496350e56fd64794379eccbd3448d3f76b3f973b6af1283e68adee9f770421",
+  "translation": "The king of cats who rules over the cats around Camelot.",
+  "vndb_url": "https://vndb.org/c30292"
+}

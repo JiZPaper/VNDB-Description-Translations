@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38949",
+  "type": "visual_novel",
+  "name": "HeartWorkZ",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mod City 2047 - You are aboard the Mod City Train Loop on route to the Mod City Research Center, accompanying Poly to her graduation event.\nHowever, an explosion occurs near the train station, which forces you to find an alternative route.\n\n[Edited from in-game introduction]",
+  "source_sha256": "f84b50452a81edad69572ee48afdcf6c0f8dd75c4ee346236d822bd1854275b8",
+  "translation": "Mod City 2047 - You are aboard the Mod City Train Loop on route to the Mod City Research Center, accompanying Poly to her graduation event.\nHowever, an explosion occurs near the train station, which forces you to find an alternative route.\n\n[Edited from in-game introduction]",
+  "vndb_url": "https://vndb.org/v38949"
+}

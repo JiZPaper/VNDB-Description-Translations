@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124364",
+  "type": "character",
+  "name": "Madame de Sade",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The host of the party at the Maxgood Mansion.",
+  "source_sha256": "70ab625c3d2ccbf787865c1eaad93525486ccfa7e80b80a9ed21566e48073a5d",
+  "translation": "The host of the party at the Maxgood Mansion.",
+  "vndb_url": "https://vndb.org/c124364"
+}

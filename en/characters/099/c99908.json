@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99908",
+  "type": "character",
+  "name": "Raptor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Raptor is the world's first bionic detective. He has fully embraced the robotic uprising.",
+  "source_sha256": "e593e7aa1d04dbc5a9400fad6038be60b3a4052f1884be148249c89ee1862d36",
+  "translation": "Raptor is the world's first bionic detective. He has fully embraced the robotic uprising.",
+  "vndb_url": "https://vndb.org/c99908"
+}

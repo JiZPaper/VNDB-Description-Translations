@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141830",
+  "type": "character",
+  "name": "Gwen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A prostitute at the Bound Harpy tavern.",
+  "source_sha256": "f6cea6525ff4ebf84908805713f82b92fd69ef1731469b2cd94766e6fe559dc2",
+  "translation": "A prostitute at the Bound Harpy tavern.",
+  "vndb_url": "https://vndb.org/c141830"
+}

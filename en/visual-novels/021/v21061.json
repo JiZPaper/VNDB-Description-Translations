@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21061",
+  "type": "visual_novel",
+  "name": "Ethan's Legacy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ten years ago Ethan's dad participated in a secret project to develop supersoldiers for a power greedy corporation. After learning about the inhumane treatment of the test subjects, he strived to expose the project to the world and died for his efforts. Now the past is catching up to his son...",
+  "source_sha256": "bd0ff82650a61f951b4abeab26b6ca4cece2ed2dde9f342b850ab5ad1cd6789d",
+  "translation": "Ten years ago Ethan's dad participated in a secret project to develop supersoldiers for a power greedy corporation. After learning about the inhumane treatment of the test subjects, he strived to expose the project to the world and died for his efforts. Now the past is catching up to his son...",
+  "vndb_url": "https://vndb.org/v21061"
+}

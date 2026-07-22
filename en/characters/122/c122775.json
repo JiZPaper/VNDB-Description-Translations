@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122775",
+  "type": "character",
+  "name": "Rubeus Hagrid",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The last professor's cat. Now belongs to Hermione.",
+  "source_sha256": "8475e1a0a1ea98c57ea1697255dfd7b1220bff16f38c8b86b0f4184cde9ff6f2",
+  "translation": "The last professor's cat. Now belongs to Hermione.",
+  "vndb_url": "https://vndb.org/c122775"
+}

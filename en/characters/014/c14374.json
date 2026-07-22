@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c14374",
+  "type": "character",
+  "name": "Virus",
+  "original_name": "ウイルス",
+  "language": "en",
+  "source_language": "en",
+  "source": "[i]\"Well, if it isn't Aoba. Fancy meeting you here.\"[/i]\n\nOne of a pair of gangsters who've known Aoba for years.\n\n[From the digital manual included with r76424]",
+  "source_sha256": "631cc2a88622ba91a8e290587e0c1e8cbfe162f760ac197369b5bd2614f1f7c8",
+  "translation": "[i]\"Well, if it isn't Aoba. Fancy meeting you here.\"[/i]\n\nOne of a pair of gangsters who've known Aoba for years.\n\n[From the digital manual included with r76424]",
+  "vndb_url": "https://vndb.org/c14374"
+}

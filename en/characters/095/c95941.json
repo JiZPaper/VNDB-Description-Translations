@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95941",
+  "type": "character",
+  "name": "Princess Collette",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The player-named princess, who tries to win the support of the Regency Council to become queen.",
+  "source_sha256": "b137d58664d22735545d50e56ee8bdbc968d9c0246dfe82e4e0e050fb14a2928",
+  "translation": "The player-named princess, who tries to win the support of the Regency Council to become queen.",
+  "vndb_url": "https://vndb.org/c95941"
+}

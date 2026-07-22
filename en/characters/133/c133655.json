@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133655",
+  "type": "character",
+  "name": "Sensei",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Epilogue protagonist.",
+  "source_sha256": "fcd95cb245796b6af4f22c02adfbcae42af058e646bf9002c9fc2458a26d3ec2",
+  "translation": "Epilogue protagonist.",
+  "vndb_url": "https://vndb.org/c133655"
+}

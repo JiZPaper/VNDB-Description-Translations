@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8826",
+  "type": "character",
+  "name": "Kanno Kou",
+  "original_name": "管野 孝",
+  "language": "en",
+  "source_language": "en",
+  "source": "His Wish: \"The Hope from childhood, to realize any wish, should return.\"\nTool: Box (GraceWonder)\nFunction: The wish of an unrelated person is fullfilled.\n - Ability to create new \"Tools\", but only when the person has never been in contact with other \"Tools\" before",
+  "source_sha256": "5522fc898d9a3e6f05c086af131fcce2342769be879d56786495adf4431a945f",
+  "translation": "His Wish: \"The Hope from childhood, to realize any wish, should return.\"\nTool: Box (GraceWonder)\nFunction: The wish of an unrelated person is fullfilled.\n - Ability to create new \"Tools\", but only when the person has never been in contact with other \"Tools\" before",
+  "vndb_url": "https://vndb.org/c8826"
+}

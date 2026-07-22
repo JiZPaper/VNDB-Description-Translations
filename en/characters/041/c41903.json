@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41903",
+  "type": "character",
+  "name": "Bucket-sensei",
+  "original_name": "バケツ先生",
+  "language": "en",
+  "source_language": "en",
+  "source": "A teacher at NEVAEH Academy.",
+  "source_sha256": "d145fce8df28ee360178ed52355c08197cd817ac2a76c12651d6729320392afc",
+  "translation": "A teacher at NEVAEH Academy.",
+  "vndb_url": "https://vndb.org/c41903"
+}

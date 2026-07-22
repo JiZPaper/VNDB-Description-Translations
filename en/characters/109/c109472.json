@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c109472",
+  "type": "character",
+  "name": "Mesugaki",
+  "original_name": "メスガキ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A card dealer who's been winning a little too frequently.",
+  "source_sha256": "15054943d6bd6975a6c62a27239b210e84ff921228544369c647aeb3678b4086",
+  "translation": "A card dealer who's been winning a little too frequently.",
+  "vndb_url": "https://vndb.org/c109472"
+}

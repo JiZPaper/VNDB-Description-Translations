@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86219",
+  "type": "character",
+  "name": "Store Employee",
+  "original_name": "店員",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the store employees taking refuge in the shopping center from the zombies.",
+  "source_sha256": "8da85e39cf7a9f3cd2def46cc107ed64a5ecfd357d5e650143aa06953ed912b3",
+  "translation": "One of the store employees taking refuge in the shopping center from the zombies.",
+  "vndb_url": "https://vndb.org/c86219"
+}

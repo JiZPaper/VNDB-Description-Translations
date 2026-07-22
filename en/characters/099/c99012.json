@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99012",
+  "type": "character",
+  "name": "Luka",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Luka is the first person you meet when you awake in Moonwake Manor. He says he is searching for his sister.",
+  "source_sha256": "68d695ea3d810f9721b2115bd8e42aa725cace8b543e171f791ea620d189618d",
+  "translation": "Luka is the first person you meet when you awake in Moonwake Manor. He says he is searching for his sister.",
+  "vndb_url": "https://vndb.org/c99012"
+}

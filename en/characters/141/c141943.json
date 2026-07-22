@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141943",
+  "type": "character",
+  "name": "George",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist's friend. He's married to Christina.",
+  "source_sha256": "d217ede53bc2758eca57b7439eed0128be9b070e0c0eab9ac28a767bb0cab6d2",
+  "translation": "Protagonist's friend. He's married to Christina.",
+  "vndb_url": "https://vndb.org/c141943"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c129269",
+  "type": "character",
+  "name": "Tirah",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Cal's mom, a life support engineer.",
+  "source_sha256": "fba5c5103ea86ad9ec51ce5e44e9602a7a812ebd797f396ab730a0bdf6ce91f6",
+  "translation": "Cal's mom, a life support engineer.",
+  "vndb_url": "https://vndb.org/c129269"
+}

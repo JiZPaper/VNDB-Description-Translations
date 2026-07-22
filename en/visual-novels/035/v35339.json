@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35339",
+  "type": "visual_novel",
+  "name": "Spoopy's Restaurant",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Welcome to Spoopy's Restaurant.\nMeet all kinds of spooktastic creatures in Spoopy's Restaurant!\n\n[From [url=https://wevdrazoon.itch.io/spoopys-restaurant]Itch.io[/url]]",
+  "source_sha256": "54da87d253bf48c1a5d2c743a3193e44663d839d953ab75cd050bbdc7b9b0352",
+  "translation": "Welcome to Spoopy's Restaurant.\nMeet all kinds of spooktastic creatures in Spoopy's Restaurant!\n\n[From [url=https://wevdrazoon.itch.io/spoopys-restaurant]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v35339"
+}

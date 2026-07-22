@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c2426",
+  "type": "character",
+  "name": "Takayama Golgo",
+  "original_name": "高山 ゴルゴ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader of Takayama Group.\nIs a parody of Golgo 13",
+  "source_sha256": "c0aba893ff2c65dc424a5211526bb99bb7e058c2ef3f76dd7aa30483df6dabe6",
+  "translation": "Leader of Takayama Group.\nIs a parody of Golgo 13",
+  "vndb_url": "https://vndb.org/c2426"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v512",
+  "type": "visual_novel",
+  "name": "Ina☆Koi! Fandisc",
+  "original_name": "いな☆こい！ファンディスク",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a fandisc for Ina Koi. Inlcuding new stories puzzle games and various fan materials.",
+  "source_sha256": "71a570881728257c99f8ae7e85ca5d768f2fb61fe8b4839a611a0662c82925bb",
+  "translation": "This is a fandisc for Ina Koi. Inlcuding new stories puzzle games and various fan materials.",
+  "vndb_url": "https://vndb.org/v512"
+}

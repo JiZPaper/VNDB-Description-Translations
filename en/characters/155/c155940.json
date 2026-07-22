@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155940",
+  "type": "character",
+  "name": "Trody",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A student at Nicole's school. One of the first people she interacts with, if Nicole chooses to skip with Crispin on the first day.",
+  "source_sha256": "351aabacdce6b5d4c02740f6726773bd065b3a413947474f406e439fe30625e0",
+  "translation": "A student at Nicole's school. One of the first people she interacts with, if Nicole chooses to skip with Crispin on the first day.",
+  "vndb_url": "https://vndb.org/c155940"
+}

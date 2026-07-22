@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170695",
+  "type": "character",
+  "name": "Laura",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the employees at the lab. Is interested in Dr. Powers.",
+  "source_sha256": "bf433991b4cf33bc9e621038883e25b3603f1e129c9a7f921623653ac163b7f6",
+  "translation": "One of the employees at the lab. Is interested in Dr. Powers.",
+  "vndb_url": "https://vndb.org/c170695"
+}

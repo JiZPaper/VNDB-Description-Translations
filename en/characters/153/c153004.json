@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153004",
+  "type": "character",
+  "name": "Cody",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Cody has brown hair with pale skin and hazel eyes. He wears a hooded gray and red plaid shirt over a white t-shirt.",
+  "source_sha256": "b8f9f256c59d11b3d21df0aa6f6c46c46a4cc81c02e0a9b4af9ac33c02cc1188",
+  "translation": "Cody has brown hair with pale skin and hazel eyes. He wears a hooded gray and red plaid shirt over a white t-shirt.",
+  "vndb_url": "https://vndb.org/c153004"
+}

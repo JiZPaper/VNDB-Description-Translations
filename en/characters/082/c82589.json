@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82589",
+  "type": "character",
+  "name": "Bell",
+  "original_name": "ベル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A magical witch.\nShe likes people, but she's not too good with them.",
+  "source_sha256": "ca24c9a2d841e3a6f82c9830e6fb1f76425426fb652dbaa129c2ea19b4d46711",
+  "translation": "A magical witch.\nShe likes people, but she's not too good with them.",
+  "vndb_url": "https://vndb.org/c82589"
+}

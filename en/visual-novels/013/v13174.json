@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13174",
+  "type": "visual_novel",
+  "name": "Adventures of a Speech Pathologist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A presentation about a speech pathologist working in a hospital in the Philippines.",
+  "source_sha256": "dab131ecba74a5911b6b49c985cadf8341c890a9d125db2375f426935a5f194c",
+  "translation": "A presentation about a speech pathologist working in a hospital in the Philippines.",
+  "vndb_url": "https://vndb.org/v13174"
+}

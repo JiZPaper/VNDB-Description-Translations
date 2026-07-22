@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100488",
+  "type": "character",
+  "name": "Indigo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Strexa's head of intelligence\nLikes: Pastels, small talk, and baking\nDislikes: Frogs, rainy days, and meat",
+  "source_sha256": "a7bd3d01f549b209d0639e8604daaf66fce536a9983c719a63665bfeb0770a45",
+  "translation": "Occupation: Strexa's head of intelligence\nLikes: Pastels, small talk, and baking\nDislikes: Frogs, rainy days, and meat",
+  "vndb_url": "https://vndb.org/c100488"
+}

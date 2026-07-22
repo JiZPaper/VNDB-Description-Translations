@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47700",
+  "type": "character",
+  "name": "Becky",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The timid scullery girl.",
+  "source_sha256": "1b6284bf87006d45b6b994a41a9b1bed1116210507bbe338a3243aabf843817a",
+  "translation": "The timid scullery girl.",
+  "vndb_url": "https://vndb.org/c47700"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79454",
+  "type": "character",
+  "name": "Unnamed",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A pianist who writes and plays music for a traveling performer whos troupe visited the town where he lives.",
+  "source_sha256": "fd30574aa2f6354b913f5940b6f4072a87b5af1152cb021dbf8685464bf0401f",
+  "translation": "A pianist who writes and plays music for a traveling performer whos troupe visited the town where he lives.",
+  "vndb_url": "https://vndb.org/c79454"
+}

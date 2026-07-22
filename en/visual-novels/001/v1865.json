@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1865",
+  "type": "visual_novel",
+  "name": "podzim",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "'Autumn' is told by Takiguchi, a young seventeen years old boy who has just moved to a small town with his parents. He goes to the autumn nature to find some water, sky, mushrooms, self-realization, three lovely girls and other pointless things.",
+  "source_sha256": "58a5b1e0ae2edd65dedfbead692c3fd86f064dbdfc39323d9ff303f6a3bb9ccb",
+  "translation": "'Autumn' is told by Takiguchi, a young seventeen years old boy who has just moved to a small town with his parents. He goes to the autumn nature to find some water, sky, mushrooms, self-realization, three lovely girls and other pointless things.",
+  "vndb_url": "https://vndb.org/v1865"
+}

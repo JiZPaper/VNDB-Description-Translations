@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43972",
+  "type": "visual_novel",
+  "name": "I sense you.",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Do you sense me?",
+  "source_sha256": "4d76a439bb8382976edc15d09f109d7bebd3e5b9b383cc0946f23294a886388e",
+  "translation": "Do you sense me?",
+  "vndb_url": "https://vndb.org/v43972"
+}

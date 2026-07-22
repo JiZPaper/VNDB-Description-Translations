@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c14205",
+  "type": "character",
+  "name": "Hisame",
+  "original_name": "氷雨",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Yokai",
+  "source_sha256": "21fe9cc3d39fff83c57ac6aba05eb2febe6d1f5e6ebcbed9e168388f0924504e",
+  "translation": "Race: Yokai",
+  "vndb_url": "https://vndb.org/c14205"
+}

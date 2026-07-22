@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3834",
+  "type": "visual_novel",
+  "name": "The Creation: A Bite For Mankind",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Retelling of the First Sin and Exile from Eden in visual novel format.",
+  "source_sha256": "5b326854280fd1a634503a94aa22702d2fc830dbf692ee300a6d1cd37786af30",
+  "translation": "Retelling of the First Sin and Exile from Eden in visual novel format.",
+  "vndb_url": "https://vndb.org/v3834"
+}

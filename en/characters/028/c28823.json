@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28823",
+  "type": "character",
+  "name": "Chien-Chan",
+  "original_name": "しあんちゃん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Chien-Chan is producer Chien's mascot character.",
+  "source_sha256": "986a93d7d6bd5aa817673735cf8bc3b81c6f0c20cb7a087c6fe866bcb6473bdc",
+  "translation": "Chien-Chan is producer Chien's mascot character.",
+  "vndb_url": "https://vndb.org/c28823"
+}

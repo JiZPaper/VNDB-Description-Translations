@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106219",
+  "type": "character",
+  "name": "Francis Shavell",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The person you play the game as.",
+  "source_sha256": "c3f7c0d4b9dcbbd77ae607a49fcef796b251131e8df63d2d56740a9365bb8825",
+  "translation": "The person you play the game as.",
+  "vndb_url": "https://vndb.org/c106219"
+}

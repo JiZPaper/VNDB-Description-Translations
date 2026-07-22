@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92492",
+  "type": "character",
+  "name": "Celine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "family maid",
+  "source_sha256": "118b3d32fa62f3d59e278dbcddabbf11c5904970ba9f910bffb78f715a8cfb6e",
+  "translation": "family maid",
+  "vndb_url": "https://vndb.org/c92492"
+}

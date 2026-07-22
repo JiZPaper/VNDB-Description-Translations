@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5174",
+  "type": "visual_novel",
+  "name": "Sukumizu Fuyouron",
+  "original_name": "スク水不要論",
+  "language": "en",
+  "source_language": "en",
+  "source": "Children in the neighborhood gather at Ren's house, because he has a pool. Swimsuits are optional.",
+  "source_sha256": "21b7c3df98cfdec0b293176351bae2c9835800253d5a6ca693a716370a31fc0c",
+  "translation": "Children in the neighborhood gather at Ren's house, because he has a pool. Swimsuits are optional.",
+  "vndb_url": "https://vndb.org/v5174"
+}

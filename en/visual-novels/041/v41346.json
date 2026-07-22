@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41346",
+  "type": "visual_novel",
+  "name": "The Enchanted Place",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel made for GBAJam22.\n\nIt's about a teddy bear.\n\n[From [url=https://videogamestorytime.itch.io/the-enchanted-place]Itch.io[/url]]",
+  "source_sha256": "cb4f25f93a756b4a3bcfee048b139895bc3535cb0947dea7a6c28c0e986ae080",
+  "translation": "A visual novel made for GBAJam22.\n\nIt's about a teddy bear.\n\n[From [url=https://videogamestorytime.itch.io/the-enchanted-place]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v41346"
+}

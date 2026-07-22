@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11363",
+  "type": "visual_novel",
+  "name": "First Impression",
+  "original_name": "First impression",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short prequel for the VN \"Nekomimi Hime to Futari no Kishi-sama\". \nLynette recalls how she met Theodore for the first time when she was 9 years old.",
+  "source_sha256": "4870ca4cb70456b1ed365147adf0aa3537e5234c73805f57520c4e43fedfc79c",
+  "translation": "A short prequel for the VN \"Nekomimi Hime to Futari no Kishi-sama\". \nLynette recalls how she met Theodore for the first time when she was 9 years old.",
+  "vndb_url": "https://vndb.org/v11363"
+}

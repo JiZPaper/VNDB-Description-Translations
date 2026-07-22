@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88453",
+  "type": "character",
+  "name": "Archbishop Romeos",
+  "original_name": "ロメオス大司教",
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader of the largest sect in Eldia, Basquiat, which accounts for 60% of its population.",
+  "source_sha256": "7219068eea6ac366fed91b8cb2426eb91ff9549835b9e3f75affd4e9c4f1cf0a",
+  "translation": "Leader of the largest sect in Eldia, Basquiat, which accounts for 60% of its population.",
+  "vndb_url": "https://vndb.org/c88453"
+}

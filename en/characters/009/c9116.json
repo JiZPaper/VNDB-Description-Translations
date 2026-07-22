@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9116",
+  "type": "character",
+  "name": "Maria Cardinal",
+  "original_name": "マリア＝カルディナール",
+  "language": "en",
+  "source_language": "en",
+  "source": "She is a Cardinal who supervises the apostles.",
+  "source_sha256": "aac2508ef6b4dbcae13d4d5b7c6deb62ec65d5cb0713f77e89b3a348963c4358",
+  "translation": "She is a Cardinal who supervises the apostles.",
+  "vndb_url": "https://vndb.org/c9116"
+}

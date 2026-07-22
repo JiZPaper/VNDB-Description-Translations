@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25554",
+  "type": "character",
+  "name": "Rio",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Milo's neighbor at the apartment he lives at.",
+  "source_sha256": "3f631e4032b3bca1af0b8754948ee7463982e042a6ffeeddafee6c94c618aeb5",
+  "translation": "Milo's neighbor at the apartment he lives at.",
+  "vndb_url": "https://vndb.org/c25554"
+}

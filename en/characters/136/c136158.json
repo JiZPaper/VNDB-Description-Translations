@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136158",
+  "type": "character",
+  "name": "Hans Andersen",
+  "original_name": "ハンス・アンデルセン",
+  "language": "en",
+  "source_language": "en",
+  "source": "The main character in the 2nd main quest's episode 7 \"Andersen's Fairy Tales Story Zone\".",
+  "source_sha256": "b1f93b58b7707df0ea671a38491eace9adcb256730803fba108a3e7b1e788641",
+  "translation": "The main character in the 2nd main quest's episode 7 \"Andersen's Fairy Tales Story Zone\".",
+  "vndb_url": "https://vndb.org/c136158"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3264",
+  "type": "visual_novel",
+  "name": "Kakurezuki",
+  "original_name": "隠れ月",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist \"Sakuya\" is a being created by magic, awakening in Japan's magical research institute. His creator Shizuma Kusakabe tells him that he will spend 91 days in the mansion learning skills and interacting with different people and that he will be tested to see what growth he achieves.",
+  "source_sha256": "f9663b6b5270c84b62e4a3ed366fbb68b6873126be7181c57223bfa6d8b2aabd",
+  "translation": "The protagonist \"Sakuya\" is a being created by magic, awakening in Japan's magical research institute. His creator Shizuma Kusakabe tells him that he will spend 91 days in the mansion learning skills and interacting with different people and that he will be tested to see what growth he achieves.",
+  "vndb_url": "https://vndb.org/v3264"
+}

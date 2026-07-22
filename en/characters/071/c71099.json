@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71099",
+  "type": "character",
+  "name": "Silent",
+  "original_name": "シレント",
+  "language": "en",
+  "source_language": "en",
+  "source": "Astrum's devoted aide. Taciturn and honest.",
+  "source_sha256": "cac981b31db3a52f1bc001591b193d7cd8ffabdd15ac7ff8d8c91110128c82c9",
+  "translation": "Astrum's devoted aide. Taciturn and honest.",
+  "vndb_url": "https://vndb.org/c71099"
+}

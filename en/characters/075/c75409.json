@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75409",
+  "type": "character",
+  "name": "Jericho Swain",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Mayor of Zaun and the Grand General of Noxus.",
+  "source_sha256": "0cb88ad22f226d7cdc8202bd9f0fd7a1eb1dcc077e4dc1d3ed5aaba9b39210de",
+  "translation": "The Mayor of Zaun and the Grand General of Noxus.",
+  "vndb_url": "https://vndb.org/c75409"
+}

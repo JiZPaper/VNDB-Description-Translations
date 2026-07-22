@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16539",
+  "type": "visual_novel",
+  "name": "\"Maji de Watashi ni Koishinasai!\" Drama CD",
+  "original_name": "「真剣で私に恋しなさい！」ドラマCD",
+  "language": "en",
+  "source_language": "en",
+  "source": "Presented in 5 volumes.\nGame discs that were bundled together with drama CDs.",
+  "source_sha256": "1c544d4d4e7545729fff26f42a26e27631385b66c0a75a9a5cbdf4c9421f81a0",
+  "translation": "Presented in 5 volumes.\nGame discs that were bundled together with drama CDs.",
+  "vndb_url": "https://vndb.org/v16539"
+}

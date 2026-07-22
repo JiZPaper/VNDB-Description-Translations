@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38847",
+  "type": "character",
+  "name": "Mana Karami",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Hobbies: Gardening, reading",
+  "source_sha256": "c61b2887fc7f5f909aad4049bfa0a7fb993d9e0716327a423bed6f29c98869ad",
+  "translation": "Hobbies: Gardening, reading",
+  "vndb_url": "https://vndb.org/c38847"
+}

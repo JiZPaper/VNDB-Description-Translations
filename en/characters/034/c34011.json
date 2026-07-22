@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34011",
+  "type": "character",
+  "name": "Arthur Lindgren",
+  "original_name": "アーサー＝リンドグレン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A man with the impression of a calm English gentleman.\nA noble that lives close to Mother Goose's mansion.\nHe seems to be friends with Mother Goose and often comes to visit.\nHe owns the bar that [url=/c34014]Bacchus[/url] works at.",
+  "source_sha256": "5677ba7320490a34806b3d8781ebb4038a7596328898f82b022a4d7df7c51415",
+  "translation": "A man with the impression of a calm English gentleman.\nA noble that lives close to Mother Goose's mansion.\nHe seems to be friends with Mother Goose and often comes to visit.\nHe owns the bar that [url=/c34014]Bacchus[/url] works at.",
+  "vndb_url": "https://vndb.org/c34011"
+}

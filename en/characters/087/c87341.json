@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87341",
+  "type": "character",
+  "name": "Barbatos",
+  "original_name": "バルバトス",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"The impeccable butler who follows Diavolo around as if he were his shadow. His ability is to see both the past and the future.\"",
+  "source_sha256": "dfcf54be3d486ca3f11f8362bd90302886959d350b6cacd5bc0fb0d043ebd02a",
+  "translation": "\"The impeccable butler who follows Diavolo around as if he were his shadow. His ability is to see both the past and the future.\"",
+  "vndb_url": "https://vndb.org/c87341"
+}

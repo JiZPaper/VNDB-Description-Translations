@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58431",
+  "type": "visual_novel",
+  "name": "MedPet",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are an anthropomorphic cat with a human doctor. You have normal feelings about this.\n\n[From [url=https://lonely-space-egg.itch.io/medpet]Itch.io[/url]]",
+  "source_sha256": "a1ca807a5cfc7daa7258d7c5c5017e167d737e60b324ef96bcaf9bd2569f9e01",
+  "translation": "You are an anthropomorphic cat with a human doctor. You have normal feelings about this.\n\n[From [url=https://lonely-space-egg.itch.io/medpet]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v58431"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96668",
+  "type": "character",
+  "name": "Hydrianne",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The queen of West Taria.",
+  "source_sha256": "1b3d3e29fb7ae6cce04a3a0d78039af8195c744a364e4e6a05776e6284e1f4bd",
+  "translation": "The queen of West Taria.",
+  "vndb_url": "https://vndb.org/c96668"
+}

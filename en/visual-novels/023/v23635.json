@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23635",
+  "type": "visual_novel",
+  "name": "SagaDePedrin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A test for a future game.\n[Edited From [url=https://suriname.itch.io/saga-de-pedrin] itch.io[/url]]",
+  "source_sha256": "528aab486a5f2bf9e7d3d9718958cb1375c990378873ae74ced1f7eb708a8627",
+  "translation": "A test for a future game.\n[Edited From [url=https://suriname.itch.io/saga-de-pedrin] itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v23635"
+}

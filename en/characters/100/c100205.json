@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100205",
+  "type": "character",
+  "name": "Francesca",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An assassin who worked for [url=/c100202]Hansberg[/url] in the past. She is the only one that [url=/c100203]Aleksei[/url] trusts during this mission.",
+  "source_sha256": "4e140392c31b961763d26294087e80b670af53b1e74377546613655050869435",
+  "translation": "An assassin who worked for [url=/c100202]Hansberg[/url] in the past. She is the only one that [url=/c100203]Aleksei[/url] trusts during this mission.",
+  "vndb_url": "https://vndb.org/c100205"
+}

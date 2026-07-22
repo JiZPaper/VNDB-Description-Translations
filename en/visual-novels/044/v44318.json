@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44318",
+  "type": "visual_novel",
+  "name": "HEADER",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ted the Head in trouble! He must beat the debts of the barons of hell if he wants to leave this place. Will he succeed?",
+  "source_sha256": "352d07cf2bf6351219c76e8d9b8672ccb25edbff5a847ca6108138ff9963b419",
+  "translation": "Ted the Head in trouble! He must beat the debts of the barons of hell if he wants to leave this place. Will he succeed?",
+  "vndb_url": "https://vndb.org/v44318"
+}

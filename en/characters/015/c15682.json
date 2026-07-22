@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15682",
+  "type": "character",
+  "name": "Police Inspector Agano",
+  "original_name": "阿賀野警部",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hikaru's father. Experienced policeman working in Yuunagi City.",
+  "source_sha256": "40345fe06b9448930b62bdfb94c687166c4a49bbf8443370d87c56eb345914d0",
+  "translation": "Hikaru's father. Experienced policeman working in Yuunagi City.",
+  "vndb_url": "https://vndb.org/c15682"
+}

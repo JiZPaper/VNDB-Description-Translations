@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43217",
+  "type": "visual_novel",
+  "name": "AnxietyBuster",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short game that places the player in real-life situations in which they face challenging decisions. It is up to the player to select the best option without exceeding stat levels. It is created to bring empathy and facts on anxiety. \n\n[From [url=https://anxietybuster.itch.io/anxietybuster]Itch.io[/url]]",
+  "source_sha256": "04271a2049f9209af3170b106bffc190b147c08a30f0cae346cb6f6bd6073aed",
+  "translation": "A short game that places the player in real-life situations in which they face challenging decisions. It is up to the player to select the best option without exceeding stat levels. It is created to bring empathy and facts on anxiety. \n\n[From [url=https://anxietybuster.itch.io/anxietybuster]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43217"
+}

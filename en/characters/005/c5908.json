@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c5908",
+  "type": "character",
+  "name": "Yanagawa Yuuya",
+  "original_name": "柳川 裕也",
+  "language": "en",
+  "source_language": "en",
+  "source": "Young detective assisting Nagase.",
+  "source_sha256": "06d6540475bc3a31ad9aa823f07d695d3611da11b3b0cd18190fe391939bb21a",
+  "translation": "Young detective assisting Nagase.",
+  "vndb_url": "https://vndb.org/c5908"
+}

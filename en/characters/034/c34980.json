@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34980",
+  "type": "character",
+  "name": "Akuma",
+  "original_name": "悪魔",
+  "language": "en",
+  "source_language": "en",
+  "source": "A demon that loves mischief.\nHe messes around with Gerda and her friends.",
+  "source_sha256": "d8e6f0afbd0c6c4d53a2b9d1489953a0fb7ccca064db21d25b393dda80962f30",
+  "translation": "A demon that loves mischief.\nHe messes around with Gerda and her friends.",
+  "vndb_url": "https://vndb.org/c34980"
+}

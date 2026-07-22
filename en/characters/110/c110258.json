@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110258",
+  "type": "character",
+  "name": "Girl 1",
+  "original_name": "少女１",
+  "language": "en",
+  "source_language": "en",
+  "source": "The girl behind door #1 at Maison Rolita.",
+  "source_sha256": "b6f3f00b38229c3d448075b898626969ba5e86da0006fe9d4bc170dc9ea0d922",
+  "translation": "The girl behind door #1 at Maison Rolita.",
+  "vndb_url": "https://vndb.org/c110258"
+}

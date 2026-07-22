@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36813",
+  "type": "character",
+  "name": "Botan",
+  "original_name": "牡丹",
+  "language": "en",
+  "source_language": "en",
+  "source": "Right-hand man of Yahiko.",
+  "source_sha256": "39c063787e2f11dd212ee6224e83f937767bebd67ae0408a2c8802a5efbd2e89",
+  "translation": "Right-hand man of Yahiko.",
+  "vndb_url": "https://vndb.org/c36813"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58108",
+  "type": "visual_novel",
+  "name": "404Quest",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "While browsing the Internet, you stumble upon a 404 page. It's your choice on how you respond to this predicament.",
+  "source_sha256": "c773e3cf2ee24790e9fd0b12b50bc6d0ca80a2a98a862a21d7b7625dd951e32c",
+  "translation": "While browsing the Internet, you stumble upon a 404 page. It's your choice on how you respond to this predicament.",
+  "vndb_url": "https://vndb.org/v58108"
+}

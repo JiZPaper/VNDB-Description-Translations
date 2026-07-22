@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30206",
+  "type": "visual_novel",
+  "name": "Koshkin Dom",
+  "original_name": "Кошкин дом",
+  "language": "en",
+  "source_language": "en",
+  "source": "Made in one week for Anivisual Jam #1 \"Horror\".",
+  "source_sha256": "143196999c0ac81b087b6c5583375c8d5bc6661945bb953b1fcedc0834e52c71",
+  "translation": "Made in one week for Anivisual Jam #1 \"Horror\".",
+  "vndb_url": "https://vndb.org/v30206"
+}

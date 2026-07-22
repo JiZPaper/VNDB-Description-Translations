@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16987",
+  "type": "visual_novel",
+  "name": "Landscaped Confinement",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Being confined to this landscape... is like being confined to this screen.\n\nCreated for [url=http://ludumdare.com/compo/ludum-dare-31]Ludum Dare 31[/url] (Theme: Entire Game on One Screen).",
+  "source_sha256": "103323f715d99c9ae02a4e7140cf5c40760712bfeaa395958be56dbb3663f696",
+  "translation": "Being confined to this landscape... is like being confined to this screen.\n\nCreated for [url=http://ludumdare.com/compo/ludum-dare-31]Ludum Dare 31[/url] (Theme: Entire Game on One Screen).",
+  "vndb_url": "https://vndb.org/v16987"
+}

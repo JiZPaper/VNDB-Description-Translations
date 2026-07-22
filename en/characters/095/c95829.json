@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95829",
+  "type": "character",
+  "name": "Girl",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl from Japan",
+  "source_sha256": "10a33577651d53c4858659122ecafa5cf13f1b4fff863cc85f83c4972d30fc88",
+  "translation": "A girl from Japan",
+  "vndb_url": "https://vndb.org/c95829"
+}

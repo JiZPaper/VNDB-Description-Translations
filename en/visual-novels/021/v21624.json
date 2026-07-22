@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21624",
+  "type": "visual_novel",
+  "name": "Canal Zero",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "According to rumors that prowl the city, every Friday, a new channel appears on television. This channel is known as ''The Zero Channel''. Mysteriously, murders and disappearances are also occurring. People are disappearing and coming back years later, intact, as if the crime had been recent.",
+  "source_sha256": "9887eba4460fb0f3f0d3ef66c1c867d8c603a735076f34a7046600418d2d46eb",
+  "translation": "According to rumors that prowl the city, every Friday, a new channel appears on television. This channel is known as ''The Zero Channel''. Mysteriously, murders and disappearances are also occurring. People are disappearing and coming back years later, intact, as if the crime had been recent.",
+  "vndb_url": "https://vndb.org/v21624"
+}

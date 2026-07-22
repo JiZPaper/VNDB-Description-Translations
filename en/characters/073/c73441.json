@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73441",
+  "type": "character",
+  "name": "Oliver",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Oliver is a guide to your massage therapists.",
+  "source_sha256": "9a65b64a58e1a29b4d9b9191648464081a5825674e9f1f76973b500cbd2eceb3",
+  "translation": "Oliver is a guide to your massage therapists.",
+  "vndb_url": "https://vndb.org/c73441"
+}

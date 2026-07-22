@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51345",
+  "type": "visual_novel",
+  "name": "Hongloumeng - Stone Story",
+  "original_name": "红楼梦 Stone Story",
+  "language": "en",
+  "source_language": "en",
+  "source": "An adaptation of Cao Xueqin's \"Stone Story\".",
+  "source_sha256": "ed226d8434346e84819dbc7be17d8cf00481d469427367ee0b22a534c0e1e5cf",
+  "translation": "An adaptation of Cao Xueqin's \"Stone Story\".",
+  "vndb_url": "https://vndb.org/v51345"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23334",
+  "type": "visual_novel",
+  "name": "Tank Head Girl ~Kimi no Egao ga Mitakute~",
+  "original_name": "戦車頭女子～君の笑顔が見たくて～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Simulation game based on tank battle MMO \"World of Tank Blitz\" as a part of their promotion.",
+  "source_sha256": "6e3839b699a6a467d7a8f4183c697f082e9fe4c69f5b2ad6d5d3bea9c7722918",
+  "translation": "Simulation game based on tank battle MMO \"World of Tank Blitz\" as a part of their promotion.",
+  "vndb_url": "https://vndb.org/v23334"
+}

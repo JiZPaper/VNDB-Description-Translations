@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36751",
+  "type": "character",
+  "name": "Popotto",
+  "original_name": "ポポット",
+  "language": "en",
+  "source_language": "en",
+  "source": "A reliable? helper fairy that hangs around the workshop.",
+  "source_sha256": "4cbd6cbc1b48ae390ee3d5a74212519c6481af75ab4b7bdee0cf05f6c9b0dc3e",
+  "translation": "A reliable? helper fairy that hangs around the workshop.",
+  "vndb_url": "https://vndb.org/c36751"
+}

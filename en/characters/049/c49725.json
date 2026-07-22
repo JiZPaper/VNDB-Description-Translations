@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c49725",
+  "type": "character",
+  "name": "Albert Burckhardt",
+  "original_name": "アルバート・ブルクハルト",
+  "language": "en",
+  "source_language": "en",
+  "source": "Acts as both Byron's right-hand man and knight. This loyal vassal is willing to sacrifice anything for the sake of King Byron.\n\n[Taken from in-game description]",
+  "source_sha256": "a12c1efffadbcee09812475e62c4f470f8172934d9aca26f78b1ef9db9f0d493",
+  "translation": "Acts as both Byron's right-hand man and knight. This loyal vassal is willing to sacrifice anything for the sake of King Byron.\n\n[Taken from in-game description]",
+  "vndb_url": "https://vndb.org/c49725"
+}

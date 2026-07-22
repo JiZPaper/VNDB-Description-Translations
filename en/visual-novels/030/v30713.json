@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30713",
+  "type": "visual_novel",
+  "name": "Roommate + One",
+  "original_name": "ＲＯＯＭＭＡＴＥ ＋ ＯＮＥ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A expanded version to the Roommate games. Features a normal visual novel interface and adds a new character: college student Izumi Suzuki.",
+  "source_sha256": "24d8e92ba6bea635e8ef020aebf04cab5e85775896a4b639597c1725fdd16cad",
+  "translation": "A expanded version to the Roommate games. Features a normal visual novel interface and adds a new character: college student Izumi Suzuki.",
+  "vndb_url": "https://vndb.org/v30713"
+}

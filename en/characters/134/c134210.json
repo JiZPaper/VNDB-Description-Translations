@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134210",
+  "type": "character",
+  "name": "Dr. Harlow",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The doctor at a local hospital who takes care of the hero.",
+  "source_sha256": "4b3d49301c0381c049dfc9350c59f988c22596ca85f87a47f3bbfc870b448502",
+  "translation": "The doctor at a local hospital who takes care of the hero.",
+  "vndb_url": "https://vndb.org/c134210"
+}

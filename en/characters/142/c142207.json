@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c142207",
+  "type": "character",
+  "name": "Anna",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl, who went deep into a dark forest in search of a legendary flower.",
+  "source_sha256": "589fea2a0becfce6373e5da2ca8c482eee36b695b38571b9a5f6a2c841c364be",
+  "translation": "A girl, who went deep into a dark forest in search of a legendary flower.",
+  "vndb_url": "https://vndb.org/c142207"
+}

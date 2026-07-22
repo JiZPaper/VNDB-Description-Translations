@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172379",
+  "type": "character",
+  "name": "Clerk",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Clerk at fast food restaurant",
+  "source_sha256": "21c946c04e2f1a1702949b02f0b6c75e7006811628e918ddc3fea7196918e8ad",
+  "translation": "Clerk at fast food restaurant",
+  "vndb_url": "https://vndb.org/c172379"
+}

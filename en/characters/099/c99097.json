@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99097",
+  "type": "character",
+  "name": "Bobby",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The main protagonist of the game. He is a college student and the lover of Tiffany.",
+  "source_sha256": "995799b147a6a82042a295d8da97d4873365d1d4f840ebc31e58c5d6149aeef8",
+  "translation": "The main protagonist of the game. He is a college student and the lover of Tiffany.",
+  "vndb_url": "https://vndb.org/c99097"
+}

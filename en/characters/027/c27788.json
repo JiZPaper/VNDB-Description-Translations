@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c27788",
+  "type": "character",
+  "name": "Rudo Zhevitz",
+  "original_name": "ルド・ゼヴィツ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The CEO of Zhevitz Enterprise.",
+  "source_sha256": "21aea34627292e38b07c10d0dc1dd5c4d17d4ca5ea8813a7e4497593f31baa0b",
+  "translation": "The CEO of Zhevitz Enterprise.",
+  "vndb_url": "https://vndb.org/c27788"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17698",
+  "type": "visual_novel",
+  "name": "Date A Live: Another Fate",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The story takes place after the main events of the anime.",
+  "source_sha256": "c8fb0615850d3a8b86079fafbb229bfb5495a57a80af11ce5a656de56f61e280",
+  "translation": "The story takes place after the main events of the anime.",
+  "vndb_url": "https://vndb.org/v17698"
+}

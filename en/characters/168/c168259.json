@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168259",
+  "type": "character",
+  "name": "Rosetta",
+  "original_name": "ロゼッタ",
+  "language": "en",
+  "source_language": "en",
+  "source": "She is a princess bursting with energy.\n\nShe seems innocent and unconventional, but for some reason has a mysterious charm that attracts people.",
+  "source_sha256": "90f9050e5c1e4e89c1afe3878d4c0fe998be9d4312c21e9ee13fdc9b72153e8d",
+  "translation": "She is a princess bursting with energy.\n\nShe seems innocent and unconventional, but for some reason has a mysterious charm that attracts people.",
+  "vndb_url": "https://vndb.org/c168259"
+}

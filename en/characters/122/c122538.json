@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122538",
+  "type": "character",
+  "name": "V1",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An AI program created by Ladyfair.",
+  "source_sha256": "62862396af153e700244d019a4937c85815298280cf73b13000f37af52f51edf",
+  "translation": "An AI program created by Ladyfair.",
+  "vndb_url": "https://vndb.org/c122538"
+}

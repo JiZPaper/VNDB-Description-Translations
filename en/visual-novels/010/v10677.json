@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10677",
+  "type": "visual_novel",
+  "name": "Tutorial Game",
+  "original_name": "チュートリアルゲーム",
+  "language": "en",
+  "source_language": "en",
+  "source": "Short scenario that works as a tutorial of how the nbook engine differs from other game systems.\n\nA student ends up teaching a young female teacher how to use computers. She has her own past to get over, though. Also, there's another teacher with his eyes on her.",
+  "source_sha256": "f6329cdf5362f64a49678a42d138627df4df0777ad2a21bbe50c6887f2e7f0e7",
+  "translation": "Short scenario that works as a tutorial of how the nbook engine differs from other game systems.\n\nA student ends up teaching a young female teacher how to use computers. She has her own past to get over, though. Also, there's another teacher with his eyes on her.",
+  "vndb_url": "https://vndb.org/v10677"
+}

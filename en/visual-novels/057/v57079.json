@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57079",
+  "type": "visual_novel",
+  "name": "My name is...",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The pilot is determined to crash the plane and send the crew and passengers to their deaths. You are the newest rescue AI, tasked with stopping the pilot by any means necessary.\n\n[Translated from [url=https://t05ka.itch.io/my-name-is]Itch.io[/url]]",
+  "source_sha256": "94fe56b3eb132da6fb18993a329aab93ee78d492838decabcb5b32ce04f04bb4",
+  "translation": "The pilot is determined to crash the plane and send the crew and passengers to their deaths. You are the newest rescue AI, tasked with stopping the pilot by any means necessary.\n\n[Translated from [url=https://t05ka.itch.io/my-name-is]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v57079"
+}

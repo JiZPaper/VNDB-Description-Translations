@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79001",
+  "type": "character",
+  "name": "Haiji",
+  "original_name": "灰次",
+  "language": "en",
+  "source_language": "en",
+  "source": "Star Sign: Aquarius\nHobby: Games",
+  "source_sha256": "a5cc2e3a214e7cf00cda29d631b15cd1477c616cde3405c84db0a645b646a4a3",
+  "translation": "Star Sign: Aquarius\nHobby: Games",
+  "vndb_url": "https://vndb.org/c79001"
+}

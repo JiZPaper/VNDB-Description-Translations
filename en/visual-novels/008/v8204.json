@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8204",
+  "type": "visual_novel",
+  "name": "Doraemon",
+  "original_name": "ﾄﾞﾗｴﾓﾝ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Doraemon is sent back in time by Nobita Nobi's great-great grandson Sewashi to improve Nobita's circumstances so that his descendants may enjoy a better future\n\n\nuse FFD system version 2.0.6 of littlewitch",
+  "source_sha256": "77d9ad0143c3b53bab8b5735d44256e50b0b0eed33b043d9d4d7b7e9c6bb942a",
+  "translation": "Doraemon is sent back in time by Nobita Nobi's great-great grandson Sewashi to improve Nobita's circumstances so that his descendants may enjoy a better future\n\n\nuse FFD system version 2.0.6 of littlewitch",
+  "vndb_url": "https://vndb.org/v8204"
+}

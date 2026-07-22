@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23642",
+  "type": "visual_novel",
+  "name": "Tsuki no Hikari",
+  "original_name": "月の光",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short yuri visual novel with several optional voice options for the protagonist.",
+  "source_sha256": "57e25af8751afe7b3df4d7a47d0215bb57b3eeef300b9d00a88220c5eb7cef7c",
+  "translation": "A short yuri visual novel with several optional voice options for the protagonist.",
+  "vndb_url": "https://vndb.org/v23642"
+}

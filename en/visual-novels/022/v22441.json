@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22441",
+  "type": "visual_novel",
+  "name": "Saki -The Memories of Summer-",
+  "original_name": "夏日祭-The Memories Of Summer-",
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel with Teru as its protagonist and contains five routes.",
+  "source_sha256": "57a1ac593793462992552e20e34ed60302bbab29b68118b2a33dc615dff1cff6",
+  "translation": "A visual novel with Teru as its protagonist and contains five routes.",
+  "vndb_url": "https://vndb.org/v22441"
+}

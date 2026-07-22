@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99391",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of Hanapon Princess.",
+  "source_sha256": "687cf6ea1013381c46d118fb9d6cc3798787eaa5203838efc799be1bd3b22f47",
+  "translation": "The protagonist of Hanapon Princess.",
+  "vndb_url": "https://vndb.org/c99391"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136263",
+  "type": "character",
+  "name": "Geppetto",
+  "original_name": "ゼペット",
+  "language": "en",
+  "source_language": "en",
+  "source": "A main character in the 2nd main quest's episode 5 \"Pinocchio Story Zone\".\n\nA craftsman who gave life to Pinocchio.",
+  "source_sha256": "ec9958921275512cb55cfc12260cb475a7393c02c9de9bbda637455aa30c2ea7",
+  "translation": "A main character in the 2nd main quest's episode 5 \"Pinocchio Story Zone\".\n\nA craftsman who gave life to Pinocchio.",
+  "vndb_url": "https://vndb.org/c136263"
+}

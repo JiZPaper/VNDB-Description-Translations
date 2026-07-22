@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150209",
+  "type": "character",
+  "name": "Azami",
+  "original_name": "アザミ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist girlfriend",
+  "source_sha256": "a3f0f531acb3c68dba3f21d80c13ea3fe745757af4de041dc2545ea16bf777c7",
+  "translation": "The protagonist girlfriend",
+  "vndb_url": "https://vndb.org/c150209"
+}

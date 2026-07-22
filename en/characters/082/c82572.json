@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82572",
+  "type": "character",
+  "name": "Maumau",
+  "original_name": "マウマウ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Connie and Shella's animal companion.\nIt can demonstrate fairly high intelligence at times, despite being completely incapable of speech.",
+  "source_sha256": "eb6de1d320d523d161bbbf60e3e6980db41a6b16c4206327e698a1238edf716a",
+  "translation": "Connie and Shella's animal companion.\nIt can demonstrate fairly high intelligence at times, despite being completely incapable of speech.",
+  "vndb_url": "https://vndb.org/c82572"
+}

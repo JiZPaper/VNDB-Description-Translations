@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52232",
+  "type": "visual_novel",
+  "name": "green ogre gives you terrible life advice and dies",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Welcome to the swamp, the natural habitat of the wise green ogre who is ready to offer you exactly five life-changing pieces of advice for a price. Will you pay the green ogre toll to enter the swamp bole?\n\n[From [url=https://store.steampowered.com/app/3007170/]Steam[/url]]",
+  "source_sha256": "edf8b0a309ba759888362cc365211188e6395fef915eae93ec0761712afea2c7",
+  "translation": "Welcome to the swamp, the natural habitat of the wise green ogre who is ready to offer you exactly five life-changing pieces of advice for a price. Will you pay the green ogre toll to enter the swamp bole?\n\n[From [url=https://store.steampowered.com/app/3007170/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v52232"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v281",
+  "type": "visual_novel",
+  "name": "Sora no Mayoibito",
+  "original_name": "空の迷い人",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist finds himself wandering in a world of loss, unable to remember exactly what was missing. Through the help of people in his life, he finally starts remembering...\n\n[From [url=http://at2006.haeleth.net/game.php?id=15]zalas[/url]]",
+  "source_sha256": "70e7532bdc0f7f8ddd760453ad112fc80c518970bf3254b0e74a806b67d73a87",
+  "translation": "The protagonist finds himself wandering in a world of loss, unable to remember exactly what was missing. Through the help of people in his life, he finally starts remembering...\n\n[From [url=http://at2006.haeleth.net/game.php?id=15]zalas[/url]]",
+  "vndb_url": "https://vndb.org/v281"
+}

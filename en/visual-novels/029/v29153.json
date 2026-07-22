@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29153",
+  "type": "visual_novel",
+  "name": "Addendum",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A high school boy reminisces about a friend that disappeared.\n\nEntry for the VNDS Community Collaboration Project which was cancelled due to only getting one entry, which was submitted past the deadline.",
+  "source_sha256": "21bd75610845105cd6ec74f1d6d80bf836312c9fb6dcf1b70014a2acb338e97d",
+  "translation": "A high school boy reminisces about a friend that disappeared.\n\nEntry for the VNDS Community Collaboration Project which was cancelled due to only getting one entry, which was submitted past the deadline.",
+  "vndb_url": "https://vndb.org/v29153"
+}

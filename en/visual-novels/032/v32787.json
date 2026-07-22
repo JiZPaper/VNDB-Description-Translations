@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32787",
+  "type": "visual_novel",
+  "name": "Muv-Luv Alternative Chronicles: Keishou",
+  "original_name": "マブラヴ オルタネイティヴ クロニクルズ 継承",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Muv Luv Alternative spin off about Operation 21st from the point of view of [url=/c37190]Isumi Akira[/url].",
+  "source_sha256": "5b8886735ccac9818d9453bf46fad313e3220776dbde39b742c95b809c7c9da8",
+  "translation": "A Muv Luv Alternative spin off about Operation 21st from the point of view of [url=/c37190]Isumi Akira[/url].",
+  "vndb_url": "https://vndb.org/v32787"
+}

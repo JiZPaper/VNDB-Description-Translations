@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116850",
+  "type": "character",
+  "name": "Profi",
+  "original_name": "プロフィ",
+  "language": "en",
+  "source_language": "en",
+  "source": "An Ae-type android who just woke up.",
+  "source_sha256": "9593b3e439c5c585c32bfaad6828cab5227f999f54ed3a4a394e86361b3bc87f",
+  "translation": "An Ae-type android who just woke up.",
+  "vndb_url": "https://vndb.org/c116850"
+}

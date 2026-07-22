@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c111000",
+  "type": "character",
+  "name": "Hans",
+  "original_name": "Ганц",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist meets Hans in the arena. Him, along with other soldiers, is dissatisfied with the reign of the Master and wants to oppose him.",
+  "source_sha256": "11f0e3a9abc82b42683d90d5bea337a73459c9136a8a11c59a8d11951aa1e9c2",
+  "translation": "The protagonist meets Hans in the arena. Him, along with other soldiers, is dissatisfied with the reign of the Master and wants to oppose him.",
+  "vndb_url": "https://vndb.org/c111000"
+}

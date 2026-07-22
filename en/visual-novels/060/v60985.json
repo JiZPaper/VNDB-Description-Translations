@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60985",
+  "type": "visual_novel",
+  "name": "Unsend",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A simple story about an unfortunate internet relationship.\n\n[From [url=https://quietine.itch.io/unsend]Itch.io[/url]]",
+  "source_sha256": "c4d3aff99cba16fe02c26ab0eeb02fb574371a0447b322a6c4c8ccf3ad607a63",
+  "translation": "A simple story about an unfortunate internet relationship.\n\n[From [url=https://quietine.itch.io/unsend]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v60985"
+}

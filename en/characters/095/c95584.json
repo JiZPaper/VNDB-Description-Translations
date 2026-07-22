@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95584",
+  "type": "character",
+  "name": "Cheshire Neko",
+  "original_name": "チェシャ猫",
+  "language": "en",
+  "source_language": "en",
+  "source": "A flamboyant, mysterious, but somehow fragile cat-eared boy. He likes interesting things, candy, and Alice.",
+  "source_sha256": "94cf13eef0f54377c41b9f3366dd46e3ed573947e6dc56aae6e694a147f67224",
+  "translation": "A flamboyant, mysterious, but somehow fragile cat-eared boy. He likes interesting things, candy, and Alice.",
+  "vndb_url": "https://vndb.org/c95584"
+}

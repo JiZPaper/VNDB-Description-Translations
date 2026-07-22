@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145830",
+  "type": "character",
+  "name": "Ms. Nurse",
+  "original_name": "ナース",
+  "language": "en",
+  "source_language": "en",
+  "source": "When she finds an unwell individual, she tries to treat them.",
+  "source_sha256": "5b16a02a03e77c177b03c893fb7ab0bac7c104c0706de773dccf0158bc9c9091",
+  "translation": "When she finds an unwell individual, she tries to treat them.",
+  "vndb_url": "https://vndb.org/c145830"
+}

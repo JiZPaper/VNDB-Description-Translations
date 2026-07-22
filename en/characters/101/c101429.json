@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101429",
+  "type": "character",
+  "name": "Christian",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A grumpy stuffed bear. He belongs to a boy named Tobias who lives in Munich.",
+  "source_sha256": "c8296f1b4c0d12cb5f796d07de183be9b30c3c25b962f001ee7b1aa8b4883008",
+  "translation": "A grumpy stuffed bear. He belongs to a boy named Tobias who lives in Munich.",
+  "vndb_url": "https://vndb.org/c101429"
+}

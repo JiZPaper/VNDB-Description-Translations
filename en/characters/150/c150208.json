@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150208",
+  "type": "character",
+  "name": "Baron Orlando",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The main villain",
+  "source_sha256": "8dd62a9debc954b0f0f82a60347635103e392fdb61e90e2dce1e177a202697df",
+  "translation": "The main villain",
+  "vndb_url": "https://vndb.org/c150208"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55775",
+  "type": "visual_novel",
+  "name": "Beskonechnaja reznja.",
+  "original_name": "Бесконечная резня.",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is an alternative ending/sequel to the Miku-Masha route. The events unfold after the characters get into the mine.",
+  "source_sha256": "6e6552c5442403161fd7969c16fb70006e6c5f1c06094b9af0569aac0f7be641",
+  "translation": "This is an alternative ending/sequel to the Miku-Masha route. The events unfold after the characters get into the mine.",
+  "vndb_url": "https://vndb.org/v55775"
+}

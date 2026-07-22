@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32592",
+  "type": "visual_novel",
+  "name": "Kabocha -Saiko Museum-",
+  "original_name": "かぼちゃ -さいこミュージアム-",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a voiced game that colors and animates 2 doujin manga.",
+  "source_sha256": "942ff9e6c34aa18484e0b72f8534c954cc493740393b89117f2cad1744a8bc16",
+  "translation": "This is a voiced game that colors and animates 2 doujin manga.",
+  "vndb_url": "https://vndb.org/v32592"
+}

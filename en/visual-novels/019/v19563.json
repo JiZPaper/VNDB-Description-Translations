@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19563",
+  "type": "visual_novel",
+  "name": "robo-tea:1sip!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Let's enjoy a short, sweet sip of robo-tea!",
+  "source_sha256": "d6cbdde5f1c4c08de4fda82c3d6b3ef4ae3804d9e5f6627ee6dbfe87ebb5cb0d",
+  "translation": "Let's enjoy a short, sweet sip of robo-tea!",
+  "vndb_url": "https://vndb.org/v19563"
+}

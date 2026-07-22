@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39137",
+  "type": "visual_novel",
+  "name": "The Case of the City Botucaiba",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mystery visual novel for the Sega Saturn about Renne Bras, a detective who travels to Botucaíba to investigate the mysteries surrounding the city.",
+  "source_sha256": "f92948b01ac1922837cbaee3153ea186365a87e952a361ffba094be664f81f8b",
+  "translation": "A mystery visual novel for the Sega Saturn about Renne Bras, a detective who travels to Botucaíba to investigate the mysteries surrounding the city.",
+  "vndb_url": "https://vndb.org/v39137"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18332",
+  "type": "visual_novel",
+  "name": "Dankanbangui Eldorado",
+  "original_name": "단칸방의 엘도라도",
+  "language": "en",
+  "source_language": "en",
+  "source": "Team HC Project No. 8",
+  "source_sha256": "ace41a447f74d81b42250a7c34f386c18f8e84f676158900f441ce4898e20c4b",
+  "translation": "Team HC Project No. 8",
+  "vndb_url": "https://vndb.org/v18332"
+}

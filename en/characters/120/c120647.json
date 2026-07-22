@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120647",
+  "type": "character",
+  "name": "Nymph",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A nymph Otto and Switch encounter while traveling through the forest.",
+  "source_sha256": "29de0d55c5ee6db0c87a74914441092203c575ef53548272e0a2b5b7242303d9",
+  "translation": "A nymph Otto and Switch encounter while traveling through the forest.",
+  "vndb_url": "https://vndb.org/c120647"
+}

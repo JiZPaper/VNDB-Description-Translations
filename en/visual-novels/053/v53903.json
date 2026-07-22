@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53903",
+  "type": "visual_novel",
+  "name": "Submansion",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Journey into a whimsical mansion in search of the invaluable thing, where Keykeeper will be your guide. Keykeeper has lost all her keys. You must find them to take your invaluable item.",
+  "source_sha256": "d632f00cc4736bbf8d39bdfe63fd12ca14d97d2a4d6ca9f6b6d753bf79500ce2",
+  "translation": "Journey into a whimsical mansion in search of the invaluable thing, where Keykeeper will be your guide. Keykeeper has lost all her keys. You must find them to take your invaluable item.",
+  "vndb_url": "https://vndb.org/v53903"
+}

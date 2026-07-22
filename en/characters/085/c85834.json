@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c85834",
+  "type": "character",
+  "name": "Book",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An advanced arcane automaton created by Caventin and Lovelace, Book faithfully accompanies the strategician on their quest to solve the magical mystery. Playful and spirited, Book offers an array of utility magic in battle.",
+  "source_sha256": "3ec6781ce1636d9f7bdc2a53934d0c9f98d380acf272571456f60b73072c7000",
+  "translation": "An advanced arcane automaton created by Caventin and Lovelace, Book faithfully accompanies the strategician on their quest to solve the magical mystery. Playful and spirited, Book offers an array of utility magic in battle.",
+  "vndb_url": "https://vndb.org/c85834"
+}

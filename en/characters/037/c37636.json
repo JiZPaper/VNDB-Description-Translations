@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37636",
+  "type": "character",
+  "name": "Dionysus Thyrsos",
+  "original_name": "ディオニュソス・テュルソス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Greek God of Wine, Fertility and Merry Making",
+  "source_sha256": "642f4136d78567f3ff3a5b710f34305a184f0f86cf855ac543398d7541eac2e9",
+  "translation": "Greek God of Wine, Fertility and Merry Making",
+  "vndb_url": "https://vndb.org/c37636"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154386",
+  "type": "character",
+  "name": "Sharon",
+  "original_name": "シャロン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl working in a back alley.",
+  "source_sha256": "6fc6bd041010b3da66124b18a3feba7ead4c4e303ebfee882ded0db6a7e8d529",
+  "translation": "A girl working in a back alley.",
+  "vndb_url": "https://vndb.org/c154386"
+}

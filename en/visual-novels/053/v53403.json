@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53403",
+  "type": "visual_novel",
+  "name": "Sovremennyj Sovjonok : Na grani mirov",
+  "original_name": "Sovremennyj Sovjonok : На грани миров",
+  "language": "en",
+  "source_language": "en",
+  "source": "The events of this story occur after the ending of [url=/v53401]Sovremennyj Sovjonok : \" Kto Ja ? \"[/url], showing the result of Vasily's actions. \nDid he succeed in his plan? Or did something go wrong?",
+  "source_sha256": "b26b949c6fcd7426a9798b22b85d17664e65a75f23c28d310bf80e966ac373a2",
+  "translation": "The events of this story occur after the ending of [url=/v53401]Sovremennyj Sovjonok : \" Kto Ja ? \"[/url], showing the result of Vasily's actions. \nDid he succeed in his plan? Or did something go wrong?",
+  "vndb_url": "https://vndb.org/v53403"
+}

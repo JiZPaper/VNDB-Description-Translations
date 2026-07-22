@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99574",
+  "type": "character",
+  "name": "Ellie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A worker at Cookie Store. Ellie works as a waitress at Cookie Store and was the last one hired there. She is currently a student and is busy due to work. Her main motive for working there is to earn some money.",
+  "source_sha256": "fdd4e3b7ffb02abbf8983502edb5938044fafbeab134978c96801f3042a2b310",
+  "translation": "A worker at Cookie Store. Ellie works as a waitress at Cookie Store and was the last one hired there. She is currently a student and is busy due to work. Her main motive for working there is to earn some money.",
+  "vndb_url": "https://vndb.org/c99574"
+}

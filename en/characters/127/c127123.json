@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127123",
+  "type": "character",
+  "name": "Yuff",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Cyclops thief that steals from Orka. The hero catches her.",
+  "source_sha256": "26415eeebe8c3c07006b7e8615cfcd0980f2b5983452cea536831836c36e276a",
+  "translation": "A Cyclops thief that steals from Orka. The hero catches her.",
+  "vndb_url": "https://vndb.org/c127123"
+}

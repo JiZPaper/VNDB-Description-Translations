@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96011",
+  "type": "character",
+  "name": "James Bello",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A tourist from the town of Sylphyr.",
+  "source_sha256": "c003bab2a49c2aefa36e917089e2a30af51ea5d6bf100333deb772d0a56c783c",
+  "translation": "A tourist from the town of Sylphyr.",
+  "vndb_url": "https://vndb.org/c96011"
+}

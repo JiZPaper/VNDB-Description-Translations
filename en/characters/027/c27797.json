@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c27797",
+  "type": "character",
+  "name": "Rune",
+  "original_name": "ルーン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious girl who befriends Ritona and Selphine.",
+  "source_sha256": "061889b96c2cab21799a8c3e671061e4e685fb113d96a460f0aed046f8cca991",
+  "translation": "A mysterious girl who befriends Ritona and Selphine.",
+  "vndb_url": "https://vndb.org/c27797"
+}

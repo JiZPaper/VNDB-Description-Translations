@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3030",
+  "type": "visual_novel",
+  "name": "Dustmania Grotesque ~Kaitai Sounyuu Shinsho~",
+  "original_name": "ダストマニア・グロテスク　～解体挿入新書～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A female scientist is kidnapped by her former colleague, who decides to carry out experiments related to immortality medicine on her.",
+  "source_sha256": "1674a247f89f66b9c7573757d553766aa00d19f0cc36fe4f75ded3c13d72a988",
+  "translation": "A female scientist is kidnapped by her former colleague, who decides to carry out experiments related to immortality medicine on her.",
+  "vndb_url": "https://vndb.org/v3030"
+}

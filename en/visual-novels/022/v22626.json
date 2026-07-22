@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22626",
+  "type": "visual_novel",
+  "name": "Insane Melody",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You (Lawrence) and your friend (Álice) go to a Music-Retreat on a rural area at Japan.",
+  "source_sha256": "00176617cb343bd12da4c5daee4399c94574217545e53b469c359347b8492b05",
+  "translation": "You (Lawrence) and your friend (Álice) go to a Music-Retreat on a rural area at Japan.",
+  "vndb_url": "https://vndb.org/v22626"
+}

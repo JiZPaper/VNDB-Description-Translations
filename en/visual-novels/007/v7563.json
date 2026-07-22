@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7563",
+  "type": "visual_novel",
+  "name": "Gaming Buddy R",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a remake of a Short Kinetic Novel, Gaming Buddy. There are some changes from the first, including longer story and 2 menus added.",
+  "source_sha256": "9edfd60b5e3996a3b9bb63b1b9234807607d451e5945d488577283d017a9a140",
+  "translation": "This is a remake of a Short Kinetic Novel, Gaming Buddy. There are some changes from the first, including longer story and 2 menus added.",
+  "vndb_url": "https://vndb.org/v7563"
+}

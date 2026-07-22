@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55717",
+  "type": "character",
+  "name": "Mokujin",
+  "original_name": "モクジン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mechanical puppet that Faust created for mock training against Trillion.\n\nIt mimics the data inputted through transformation. But despite looking like Trillion, it can't exhibit the true nature and power of Trillion due to its lack of performance.",
+  "source_sha256": "8044b9f0e4e0d43b327fe47d2b35c81ed3641abe6649a49e7841eec2fc00218f",
+  "translation": "A mechanical puppet that Faust created for mock training against Trillion.\n\nIt mimics the data inputted through transformation. But despite looking like Trillion, it can't exhibit the true nature and power of Trillion due to its lack of performance.",
+  "vndb_url": "https://vndb.org/c55717"
+}

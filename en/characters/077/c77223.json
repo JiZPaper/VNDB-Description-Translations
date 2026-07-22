@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77223",
+  "type": "character",
+  "name": "Edna",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Grandmother of Kira, Nate, Sam, and Julia.",
+  "source_sha256": "31c49f9b2cb59096055ce937005401ade8c852ffe1a42e2b797254b745031d99",
+  "translation": "Grandmother of Kira, Nate, Sam, and Julia.",
+  "vndb_url": "https://vndb.org/c77223"
+}

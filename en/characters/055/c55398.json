@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55398",
+  "type": "character",
+  "name": "Library Ghost",
+  "original_name": "書庫の幽霊",
+  "language": "en",
+  "source_language": "en",
+  "source": "Age: Unknown\nLevel/Level Cap: 1/1\nSkill Level(s): N/A\n\nThe spirit of a girl who died before she was able to find the book she wanted. She now haunts the library of Leazas castle, continuing to search for it in order to pass on to the next life.",
+  "source_sha256": "c1a30e9fad2a537c71c6af146917978ab7ad51da1a0ab566d4b0a45541934aa1",
+  "translation": "Age: Unknown\nLevel/Level Cap: 1/1\nSkill Level(s): N/A\n\nThe spirit of a girl who died before she was able to find the book she wanted. She now haunts the library of Leazas castle, continuing to search for it in order to pass on to the next life.",
+  "vndb_url": "https://vndb.org/c55398"
+}

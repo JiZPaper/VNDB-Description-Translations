@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48846",
+  "type": "character",
+  "name": "Matt",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A hapless newbie adventurer.",
+  "source_sha256": "16eff340f34eda9818b116bae23d87e51159ba7d83f5adc11bff472a7b12a3f1",
+  "translation": "A hapless newbie adventurer.",
+  "vndb_url": "https://vndb.org/c48846"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c109620",
+  "type": "character",
+  "name": "King of Sorrow",
+  "original_name": "嘆きの王",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious unidentified figure, one of the Three Kings.",
+  "source_sha256": "1b3b07b3a45426238efa7f3c1fb2e52a5a243b7edc37153372603704d95520e8",
+  "translation": "A mysterious unidentified figure, one of the Three Kings.",
+  "vndb_url": "https://vndb.org/c109620"
+}

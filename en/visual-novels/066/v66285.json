@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66285",
+  "type": "visual_novel",
+  "name": "Kai's Birthday",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about Sei and Gashu preparing for Kai's birthday.",
+  "source_sha256": "21d991947d354a551ee8b0176c4408ac351a2707bcf04c3c047759040d6cee82",
+  "translation": "A story about Sei and Gashu preparing for Kai's birthday.",
+  "vndb_url": "https://vndb.org/v66285"
+}

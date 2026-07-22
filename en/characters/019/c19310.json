@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19310",
+  "type": "character",
+  "name": "Kiko",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Yuna's partner, roommate and lover.",
+  "source_sha256": "342efae9f42008019e92999da3ad72bfff015280873acabca1051fee53e63a7b",
+  "translation": "Yuna's partner, roommate and lover.",
+  "vndb_url": "https://vndb.org/c19310"
+}

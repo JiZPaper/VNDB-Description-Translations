@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90021",
+  "type": "character",
+  "name": "Pazuzu",
+  "original_name": "パズズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Storm genie summoned by [url=/c90011]Garun[/url], the Great Priest of the Chaos God.",
+  "source_sha256": "945217e36f6a170b532d85664e1e72786e8614d0aae1ea9c8c36a5c5966a0799",
+  "translation": "A Storm genie summoned by [url=/c90011]Garun[/url], the Great Priest of the Chaos God.",
+  "vndb_url": "https://vndb.org/c90021"
+}

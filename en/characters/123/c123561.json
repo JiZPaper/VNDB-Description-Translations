@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123561",
+  "type": "character",
+  "name": "Kouji",
+  "original_name": "コウジ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist from the spaceship.",
+  "source_sha256": "cff12ee249822de45e7876d0bda5aa2fe69949c8d97503fb202913f25a509e83",
+  "translation": "The protagonist from the spaceship.",
+  "vndb_url": "https://vndb.org/c123561"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166854",
+  "type": "character",
+  "name": "Professor Gable",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A professor at the college that the protagonist currently attends.",
+  "source_sha256": "6f03e9dc0421173e69395887a3b51c34a4c92f1b568dd0cd044ffdd02e26a322",
+  "translation": "A professor at the college that the protagonist currently attends.",
+  "vndb_url": "https://vndb.org/c166854"
+}

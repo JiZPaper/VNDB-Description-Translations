@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137076",
+  "type": "character",
+  "name": "Shopkeeper",
+  "original_name": "店主",
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of the Mikan bookstore",
+  "source_sha256": "28467dc1601c107e605ed211caf60327bd1eb6e0edd7a98e967773d6706acb4d",
+  "translation": "The owner of the Mikan bookstore",
+  "vndb_url": "https://vndb.org/c137076"
+}

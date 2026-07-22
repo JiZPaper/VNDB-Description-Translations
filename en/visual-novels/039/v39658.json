@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39658",
+  "type": "visual_novel",
+  "name": "Neko Puchi Fandisc Sumire",
+  "original_name": "ねこぷちファンディスク すみれ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fandisc released at C88.",
+  "source_sha256": "7e55383fc2acee109ba58ca3db6eebc7e7a8acbed9673b112227eef64de2e7c5",
+  "translation": "Fandisc released at C88.",
+  "vndb_url": "https://vndb.org/v39658"
+}

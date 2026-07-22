@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64221",
+  "type": "character",
+  "name": "Murakumo Saku",
+  "original_name": "村雲 朔",
+  "language": "en",
+  "source_language": "en",
+  "source": "A popular young movie director.",
+  "source_sha256": "548dffde73009710c97584b78c1defde03442625fcb5b6efe125e145416b4b15",
+  "translation": "A popular young movie director.",
+  "vndb_url": "https://vndb.org/c64221"
+}

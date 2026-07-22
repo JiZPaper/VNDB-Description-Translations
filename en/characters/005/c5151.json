@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c5151",
+  "type": "character",
+  "name": "Archimedes",
+  "original_name": "アルキメデス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on Archimedes, who was an Ancient Greek mathematician, physicist, engineer, inventor, and astronomer.\n\nMacedonia's genius inventor.",
+  "source_sha256": "24e7ac80da5db534d30eba8af1341fa4a17704b43024dac77480285f66fc1fc4",
+  "translation": "Based on Archimedes, who was an Ancient Greek mathematician, physicist, engineer, inventor, and astronomer.\n\nMacedonia's genius inventor.",
+  "vndb_url": "https://vndb.org/c5151"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57779",
+  "type": "visual_novel",
+  "name": "Shark Bait: Texting GW",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your phone just buzzed with a message from GW. What important news or secret are they about to share?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "21fd9fa0d27abe9576b78b0a5b700782f7c173c26e2c33c82b846e192da6f0f9",
+  "translation": "Your phone just buzzed with a message from GW. What important news or secret are they about to share?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "vndb_url": "https://vndb.org/v57779"
+}

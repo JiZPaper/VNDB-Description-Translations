@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136847",
+  "type": "character",
+  "name": "Admiral Halsey",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Affiliation: USF (Admiral)\nLocation: Fort Constance, Kingdom of Hawaii\nRelationship: None\nPersonnel File: Admiral Halsey oversees the medical support and logistics wing of USF Fleet Command.\nStrengths: Intelligent, kind, dedicated, patient.\nWeaknesses: Gambling, corrupt, leveraged\n\n[In game description]",
+  "source_sha256": "8acd87b25b922d5985a6d81ed1a7fe9b58ce39bdf0bddeb763d48850bb019771",
+  "translation": "Affiliation: USF (Admiral)\nLocation: Fort Constance, Kingdom of Hawaii\nRelationship: None\nPersonnel File: Admiral Halsey oversees the medical support and logistics wing of USF Fleet Command.\nStrengths: Intelligent, kind, dedicated, patient.\nWeaknesses: Gambling, corrupt, leveraged\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c136847"
+}

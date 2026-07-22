@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32807",
+  "type": "visual_novel",
+  "name": "Secret Pie",
+  "original_name": "시크릿 파이",
+  "language": "en",
+  "source_language": "en",
+  "source": "Secret story between the mansion manager and three women.\n\n[From [url=https://store.steampowered.com/app/1802870/]Steam[/url]]",
+  "source_sha256": "36d25a9870a9cb6ce101b40b1964491859b27cfb20b88b2561301b966990e80c",
+  "translation": "Secret story between the mansion manager and three women.\n\n[From [url=https://store.steampowered.com/app/1802870/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v32807"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115924",
+  "type": "character",
+  "name": "I.B.",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An AI created by Kazuto to make human communication easier.",
+  "source_sha256": "e544606342e68135b711d24294957c8a71c9b00289a308214720f9b09438be31",
+  "translation": "An AI created by Kazuto to make human communication easier.",
+  "vndb_url": "https://vndb.org/c115924"
+}

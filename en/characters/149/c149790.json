@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c149790",
+  "type": "character",
+  "name": "Lyn",
+  "original_name": "琳",
+  "language": "en",
+  "source_language": "en",
+  "source": "A newly hired bartender. She can’t mix drinks without looking up the recipes.\n\n*How did she even get the job?",
+  "source_sha256": "f14e93dd143b07a918bc268d58cc10dbaec4f9a1d302b870b6013e13b20cf26e",
+  "translation": "A newly hired bartender. She can’t mix drinks without looking up the recipes.\n\n*How did she even get the job?",
+  "vndb_url": "https://vndb.org/c149790"
+}

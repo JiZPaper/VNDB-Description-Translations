@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c16913",
+  "type": "character",
+  "name": "Theorina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An adorable alien from another planet.",
+  "source_sha256": "2611903da3ce2a7d9cef448c169916f5f29fa41001b3af9da6a4ac2e072e7d11",
+  "translation": "An adorable alien from another planet.",
+  "vndb_url": "https://vndb.org/c16913"
+}

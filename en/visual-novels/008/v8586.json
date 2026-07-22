@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8586",
+  "type": "visual_novel",
+  "name": "Kanojo no Uwaki Genba",
+  "original_name": "彼女の浮気現場",
+  "language": "en",
+  "source_language": "en",
+  "source": "The visual novel is about the protagonist's girlfriend being stolen by his childhood friend.",
+  "source_sha256": "fbc5c33225902e0a37d7121c5b38b87e5b39a48c4c6ee942d254482ac66f8c0d",
+  "translation": "The visual novel is about the protagonist's girlfriend being stolen by his childhood friend.",
+  "vndb_url": "https://vndb.org/v8586"
+}

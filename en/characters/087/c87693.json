@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87693",
+  "type": "character",
+  "name": "Mikado's Assistant",
+  "original_name": "御門の助手",
+  "language": "en",
+  "source_language": "en",
+  "source": "A young researcher who works with the GPM as [url=/c87696]Mikado Akira[/url]'s assistant.\nHe's great at his job, but he barely talks and will only do so if he has to.\nHe has no interest in personal relationships and wont even tell people his own name.",
+  "source_sha256": "bc9105253ec9c83afff951d30aaa5a36e9972a975f729465675ae92d9ec603a4",
+  "translation": "A young researcher who works with the GPM as [url=/c87696]Mikado Akira[/url]'s assistant.\nHe's great at his job, but he barely talks and will only do so if he has to.\nHe has no interest in personal relationships and wont even tell people his own name.",
+  "vndb_url": "https://vndb.org/c87693"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53446",
+  "type": "visual_novel",
+  "name": "Higurashi no Naku Koro ni - Kuradashi-hen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Fan visual novel adapting the light novel Higurashi no Naku Koro ni - Kuradashi-hen, originally released in June 2007.\n\nContains a collection of short scenes written during the creation of Higurashi but ultimately discarded during the writing process, along with author commentary and illustrations courtesy of the Higurashi manga artists.",
+  "source_sha256": "577d916663c90ad07fb2fff0933115bbfe2f2cacdb03730bfd330638203aaa22",
+  "translation": "Fan visual novel adapting the light novel Higurashi no Naku Koro ni - Kuradashi-hen, originally released in June 2007.\n\nContains a collection of short scenes written during the creation of Higurashi but ultimately discarded during the writing process, along with author commentary and illustrations courtesy of the Higurashi manga artists.",
+  "vndb_url": "https://vndb.org/v53446"
+}

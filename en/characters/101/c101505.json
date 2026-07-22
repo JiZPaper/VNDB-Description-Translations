@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101505",
+  "type": "character",
+  "name": "Alexandre",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Let me cuddle all your worried away.\"\n\nAlexandre likes hot chocolate, cuddles, and homemade stuff.\nHe doesn't like ginger and arguing.",
+  "source_sha256": "f266e9bb49b02378bd970db351bb3b7c2b16126d78336eed249c594bdda808bd",
+  "translation": "\"Let me cuddle all your worried away.\"\n\nAlexandre likes hot chocolate, cuddles, and homemade stuff.\nHe doesn't like ginger and arguing.",
+  "vndb_url": "https://vndb.org/c101505"
+}

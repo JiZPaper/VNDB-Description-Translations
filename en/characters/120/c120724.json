@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120724",
+  "type": "character",
+  "name": "Lucia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young woman who's visiting the graveyard.",
+  "source_sha256": "14ed539750ac2c72c2553f64854958c880605c13ab2d0cbe3de49b3d3b83fdc3",
+  "translation": "A young woman who's visiting the graveyard.",
+  "vndb_url": "https://vndb.org/c120724"
+}

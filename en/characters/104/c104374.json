@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c104374",
+  "type": "character",
+  "name": "Bellick York",
+  "original_name": "贝里克·约克",
+  "language": "en",
+  "source_language": "en",
+  "source": "The deputy chief of the Bedjan police",
+  "source_sha256": "ba329c07d188061b13648dd88e98ed915fb0867a95097cec3340558e68ce9652",
+  "translation": "The deputy chief of the Bedjan police",
+  "vndb_url": "https://vndb.org/c104374"
+}

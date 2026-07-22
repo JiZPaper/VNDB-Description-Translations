@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82188",
+  "type": "character",
+  "name": "Cerberus",
+  "original_name": "ケルベロス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Alice's Pet Dog and Friend. Seems to be able to understand human words.",
+  "source_sha256": "c86c92c2e320217111527cdc4e49a4cdbaef2a200488afcfe33a136b8f1ae886",
+  "translation": "Alice's Pet Dog and Friend. Seems to be able to understand human words.",
+  "vndb_url": "https://vndb.org/c82188"
+}

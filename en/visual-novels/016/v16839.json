@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16839",
+  "type": "visual_novel",
+  "name": "Faustão Dating Sim",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "It's a beautiful love-story between Fausto, the main star of Domingão, and a reporter.",
+  "source_sha256": "3d47141ff1c38198f98c9b42fa07010085e0437277cb85ea4a31559ad095b50a",
+  "translation": "It's a beautiful love-story between Fausto, the main star of Domingão, and a reporter.",
+  "vndb_url": "https://vndb.org/v16839"
+}

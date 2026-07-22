@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106539",
+  "type": "character",
+  "name": "Lucy",
+  "original_name": "루시",
+  "language": "en",
+  "source_language": "en",
+  "source": "The daughter of a vampire hunter, whom she's the apprentice to.",
+  "source_sha256": "868ae43325f0da34a4b08c5e37a178adaaef0f191cd7dd4ffa0eac56c0af1ab6",
+  "translation": "The daughter of a vampire hunter, whom she's the apprentice to.",
+  "vndb_url": "https://vndb.org/c106539"
+}

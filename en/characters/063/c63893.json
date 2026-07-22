@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c63893",
+  "type": "character",
+  "name": "Satyukov",
+  "original_name": "Сатюков",
+  "language": "en",
+  "source_language": "en",
+  "source": "An unusual Russian YouTube blogger\nBased on this person: https://vk.com/tofs_vandal",
+  "source_sha256": "c8df22d546a7bc7c47901c433269a1d53809a7208b0e0b4b637ff37691c3ec1c",
+  "translation": "An unusual Russian YouTube blogger\nBased on this person: https://vk.com/tofs_vandal",
+  "vndb_url": "https://vndb.org/c63893"
+}

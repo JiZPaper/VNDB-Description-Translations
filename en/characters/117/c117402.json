@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117402",
+  "type": "character",
+  "name": "Creature",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The haunting monster creature who lurks around the mill at night. \n\nOne night, hearing the weeping of the miller's daughter, it stands right outside her window. He can help her, if she has something to offer him in return...",
+  "source_sha256": "f465f9a7a8502852ca5ee2ddfca549e465c60fc8ba4f337d3d1bec1a5be5facb",
+  "translation": "The haunting monster creature who lurks around the mill at night. \n\nOne night, hearing the weeping of the miller's daughter, it stands right outside her window. He can help her, if she has something to offer him in return...",
+  "vndb_url": "https://vndb.org/c117402"
+}

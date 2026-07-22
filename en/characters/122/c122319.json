@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122319",
+  "type": "character",
+  "name": "Waldo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The only employee of Rickeyland and the most important people in the park. He says the CEO prefers to pay for more security instead of more staff, which makes the park the safest place of the region.\n\n[Edited from in-game description]",
+  "source_sha256": "6916768cd56587f772d596a9caa185b3cc35404d82a40ecb3300a1fee5727281",
+  "translation": "The only employee of Rickeyland and the most important people in the park. He says the CEO prefers to pay for more security instead of more staff, which makes the park the safest place of the region.\n\n[Edited from in-game description]",
+  "vndb_url": "https://vndb.org/c122319"
+}

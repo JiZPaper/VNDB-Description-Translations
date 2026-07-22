@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53100",
+  "type": "character",
+  "name": "Will",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The teacher for the Psychic-type classes.\n\nWill was first introduced in Pokémon Gold, Pokémon Silver and Pokémon Crystal versions.",
+  "source_sha256": "e56ad860488e338c949c8a9b75bb2626ee2535a6dce93fa50fc545d5625ddcb5",
+  "translation": "The teacher for the Psychic-type classes.\n\nWill was first introduced in Pokémon Gold, Pokémon Silver and Pokémon Crystal versions.",
+  "vndb_url": "https://vndb.org/c53100"
+}

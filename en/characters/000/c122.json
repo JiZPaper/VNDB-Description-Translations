@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122",
+  "type": "character",
+  "name": "Alfred Walken",
+  "original_name": "アルフレッド・ウォーケン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A teacher from America, former soldier.",
+  "source_sha256": "86e76a8fa3baf36c709f26f399258409dcfdd3afe5563be5e4f5b9aa34187847",
+  "translation": "A teacher from America, former soldier.",
+  "vndb_url": "https://vndb.org/c122"
+}

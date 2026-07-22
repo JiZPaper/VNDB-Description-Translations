@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41036",
+  "type": "character",
+  "name": "Shopkeeper",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The lovable mushroom head who takes care of protagonist's favourite store.\nHe's interested in occult.",
+  "source_sha256": "eda40686eb87e9fcb20c122211569c4e71a687b225a91a3c875eea424872dc4d",
+  "translation": "The lovable mushroom head who takes care of protagonist's favourite store.\nHe's interested in occult.",
+  "vndb_url": "https://vndb.org/c41036"
+}

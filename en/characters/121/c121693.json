@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c121693",
+  "type": "character",
+  "name": "Aura",
+  "original_name": "オーラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A former queen, who is the current president of the republic.",
+  "source_sha256": "c4e6bf5df157709d12d2f128a45e34bd617a1ee9c4554a7c7910beee9973c9f5",
+  "translation": "A former queen, who is the current president of the republic.",
+  "vndb_url": "https://vndb.org/c121693"
+}

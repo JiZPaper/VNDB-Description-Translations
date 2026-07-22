@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145969",
+  "type": "character",
+  "name": "Incineroar",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A hotheaded Doubles competitor with a pristine track record in the format. Known to clash with Landorus.",
+  "source_sha256": "9509b221593e4eab6efd42147b4ec73851ae7b65dcd5428b2c1d815577ae1a47",
+  "translation": "A hotheaded Doubles competitor with a pristine track record in the format. Known to clash with Landorus.",
+  "vndb_url": "https://vndb.org/c145969"
+}

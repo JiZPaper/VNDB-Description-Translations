@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4543",
+  "type": "character",
+  "name": "Pierre",
+  "original_name": "ピエル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Pierre is [url=/c4529]Ouka[/url]'s puppet that she carries on her hand. Is it alive?",
+  "source_sha256": "8f28417b1ae9a9f66d25bbae9fbf6a7deabbe2f2c5c17947f8e2e17d214733af",
+  "translation": "Pierre is [url=/c4529]Ouka[/url]'s puppet that she carries on her hand. Is it alive?",
+  "vndb_url": "https://vndb.org/c4543"
+}

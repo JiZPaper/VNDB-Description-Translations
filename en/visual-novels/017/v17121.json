@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17121",
+  "type": "visual_novel",
+  "name": "Sketchbook Romance",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Donovan finds a lost sketchbook at school with some \"interesting\" artwork inside, and tries to find the artist to return it.",
+  "source_sha256": "c3229dd3b77cf243c3454f5fd962c7d174eb69b1d2035eeaea81025574b14911",
+  "translation": "Donovan finds a lost sketchbook at school with some \"interesting\" artwork inside, and tries to find the artist to return it.",
+  "vndb_url": "https://vndb.org/v17121"
+}

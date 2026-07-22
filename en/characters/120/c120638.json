@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120638",
+  "type": "character",
+  "name": "Roche",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A troublemaker in Otto's village, who got kicked out and turned bandit.",
+  "source_sha256": "d20beb40cae7498c0456db5802c4024fcf36e44b89df347d47a434525be6c866",
+  "translation": "A troublemaker in Otto's village, who got kicked out and turned bandit.",
+  "vndb_url": "https://vndb.org/c120638"
+}

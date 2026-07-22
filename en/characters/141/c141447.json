@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141447",
+  "type": "character",
+  "name": "Eliza",
+  "original_name": "エリザ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious woman who is always seen around Gotou. She appears even less than Gotou himself in front of people, when only the head executives and a few troops members know her existence.",
+  "source_sha256": "d033dc49e915f476898276c1124eb66c4193542b071ff9a25c1c8b28208fe74a",
+  "translation": "A mysterious woman who is always seen around Gotou. She appears even less than Gotou himself in front of people, when only the head executives and a few troops members know her existence.",
+  "vndb_url": "https://vndb.org/c141447"
+}

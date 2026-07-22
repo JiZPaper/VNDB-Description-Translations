@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24248",
+  "type": "visual_novel",
+  "name": "Sprite High",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sprite High is a short visual novel prototype made from scratch in the Unity game engine.\n\n[From [url=https://voicesfromthedark.itch.io/sprite-high] itch.io[/url]]",
+  "source_sha256": "51580c264d33fff2ec179d02dc10cbd50b5d33779c53f9be8e09441dfd6a06e9",
+  "translation": "Sprite High is a short visual novel prototype made from scratch in the Unity game engine.\n\n[From [url=https://voicesfromthedark.itch.io/sprite-high] itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v24248"
+}

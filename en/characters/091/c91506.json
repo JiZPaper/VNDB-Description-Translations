@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91506",
+  "type": "character",
+  "name": "Tororin",
+  "original_name": "とろりん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kanamori Family's pet sheep.",
+  "source_sha256": "ebcbbf39b4b743f592dabfd6c2fc41fb0cab9029c9fc1878bd548144b38be4fa",
+  "translation": "Kanamori Family's pet sheep.",
+  "vndb_url": "https://vndb.org/c91506"
+}

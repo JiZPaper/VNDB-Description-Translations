@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66879",
+  "type": "visual_novel",
+  "name": "The Cloud Messenger's Feast",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Food for the Soul",
+  "source_sha256": "54e1a1b4da6ef468ef615d8d1875f5a5d7841420a0bda3edf4cb3c646ec2d4ab",
+  "translation": "Food for the Soul",
+  "vndb_url": "https://vndb.org/v66879"
+}

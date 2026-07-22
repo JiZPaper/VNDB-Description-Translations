@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115101",
+  "type": "character",
+  "name": "Hugo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An owl monster.",
+  "source_sha256": "61dc0ad342c9b4a3337ec959f74dd86d03b1ea992e65d162d6839b000115ad3f",
+  "translation": "An owl monster.",
+  "vndb_url": "https://vndb.org/c115101"
+}

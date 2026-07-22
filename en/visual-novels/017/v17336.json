@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17336",
+  "type": "visual_novel",
+  "name": "Touken Renbo ~Hajimari no Saniwa~",
+  "original_name": "刀剣恋慕　～始まりの審神者～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Touken Ranbu fan otome game.",
+  "source_sha256": "2014df9b996e70a159ad2d7457c0fa7d620208fd206daffeb1d93a7ebad0d839",
+  "translation": "A Touken Ranbu fan otome game.",
+  "vndb_url": "https://vndb.org/v17336"
+}

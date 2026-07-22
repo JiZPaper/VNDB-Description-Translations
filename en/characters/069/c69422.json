@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c69422",
+  "type": "character",
+  "name": "Sagara Misaki",
+  "original_name": "相楽 美咲",
+  "language": "en",
+  "source_language": "en",
+  "source": "A female doctor working for Yamashina Hospital.",
+  "source_sha256": "f6b76bc8eb42b6879d42f7d66225365a8715cf53b029ad8a9576af622ed9565b",
+  "translation": "A female doctor working for Yamashina Hospital.",
+  "vndb_url": "https://vndb.org/c69422"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102865",
+  "type": "character",
+  "name": "Pig",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A journalist",
+  "source_sha256": "016a67748215d1691bd62e1546b3fc0afde853e35740fad7ee80b7a61e92592b",
+  "translation": "A journalist",
+  "vndb_url": "https://vndb.org/c102865"
+}

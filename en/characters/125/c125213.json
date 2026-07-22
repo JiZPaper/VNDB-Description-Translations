@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125213",
+  "type": "character",
+  "name": "Frasier",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A notorious thief who remains a headache for the guards of the Oxheimr kingdom city.",
+  "source_sha256": "a43cfdc643881cbd676419ef927932c9a2d5db5f24112f983fcedc3eed167696",
+  "translation": "A notorious thief who remains a headache for the guards of the Oxheimr kingdom city.",
+  "vndb_url": "https://vndb.org/c125213"
+}

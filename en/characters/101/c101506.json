@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101506",
+  "type": "character",
+  "name": "Dominic",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"As your butler, there's nothing I won't do to please you.\"\n\nDominic likes cooking, compliments and cleaning.\nHe hates messed places, delays, and rudeness.",
+  "source_sha256": "ab8a6c669dbbb8b0f78c0f4888c752e7e8ee9c933362901aea0dac2288d3cce2",
+  "translation": "\"As your butler, there's nothing I won't do to please you.\"\n\nDominic likes cooking, compliments and cleaning.\nHe hates messed places, delays, and rudeness.",
+  "vndb_url": "https://vndb.org/c101506"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18213",
+  "type": "visual_novel",
+  "name": "Wedding",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "...It's happening the next day after the hen party...",
+  "source_sha256": "fc1f1447f7408950c3b8be2eba1a90652e284b8f405d28b7e45ea2f6e5015802",
+  "translation": "...It's happening the next day after the hen party...",
+  "vndb_url": "https://vndb.org/v18213"
+}

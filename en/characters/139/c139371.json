@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139371",
+  "type": "character",
+  "name": "Ness",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Monica's friend. Lives at Wildale. Sells food every festival.\n\n[In game description]",
+  "source_sha256": "d4f9ed7b9d142d33531a1ee7b2b355d37ef9f2dd6a8a3742a68435ad426ba9b5",
+  "translation": "Monica's friend. Lives at Wildale. Sells food every festival.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c139371"
+}

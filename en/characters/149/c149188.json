@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c149188",
+  "type": "character",
+  "name": "Samantha",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "MC's teacher.",
+  "source_sha256": "b851ab5df3a111da12686c200185f1df7a5bf18b3830eb95ffd2abefdf97667a",
+  "translation": "MC's teacher.",
+  "vndb_url": "https://vndb.org/c149188"
+}

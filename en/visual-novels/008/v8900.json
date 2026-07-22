@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8900",
+  "type": "visual_novel",
+  "name": "Princess Evangile W Happiness",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Fandisc of Princess Evangile, composing of 4 after stories for the heroines and 5 short stories for the sub-heroines. Includes part of the original game's common route as a refresher.",
+  "source_sha256": "d81068d95af949a2645dccbbef56ea2f3c37353b95d3120544182412768dcfeb",
+  "translation": "Fandisc of Princess Evangile, composing of 4 after stories for the heroines and 5 short stories for the sub-heroines. Includes part of the original game's common route as a refresher.",
+  "vndb_url": "https://vndb.org/v8900"
+}

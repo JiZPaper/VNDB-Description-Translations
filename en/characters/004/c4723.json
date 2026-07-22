@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4723",
+  "type": "character",
+  "name": "Oyaji",
+  "original_name": "親父",
+  "language": "en",
+  "source_language": "en",
+  "source": "Erin's father. He owns the shop his daughter works at.",
+  "source_sha256": "9976f0ee179bae9f5d88e1a819602e8ccdcb9acd9458d2e97f7b5fa88439b814",
+  "translation": "Erin's father. He owns the shop his daughter works at.",
+  "vndb_url": "https://vndb.org/c4723"
+}

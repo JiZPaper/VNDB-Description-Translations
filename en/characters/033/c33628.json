@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33628",
+  "type": "character",
+  "name": "Julieta",
+  "original_name": "ジュリエッタ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A maid who works for the Imperial Alchemists.",
+  "source_sha256": "7911051d17aaec75d775bc8851a33da67cbe3c3aa6102b12a8b3a56eb83602b7",
+  "translation": "A maid who works for the Imperial Alchemists.",
+  "vndb_url": "https://vndb.org/c33628"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113082",
+  "type": "character",
+  "name": "Louise's Mother",
+  "original_name": "ルイーズの母親",
+  "language": "en",
+  "source_language": "en",
+  "source": "Louise's mother.",
+  "source_sha256": "45ff2e8f3ee5f257728ff375d9cb04dd6203ce2264f0dba780b544c27ba282ad",
+  "translation": "Louise's mother.",
+  "vndb_url": "https://vndb.org/c113082"
+}

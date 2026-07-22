@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c171119",
+  "type": "character",
+  "name": "Springfield",
+  "original_name": "スプリングフィールド",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"...Hello, Master.\nI'm Springfield.\nI'm a breech-loading rifle created by converting an old muzzle-loading gun.\n\nI'm not very durable, and my lifespan is short, but...\nAs long as this body and this gun can function,\nI will devote all my strength to carrying out your commands, Master.\n\nI look forward to working with you from now on.\"",
+  "source_sha256": "95d945ff655a29b22a13864ff9a372cc2b4a3b0a9b79c2d859dc5db3b0a79956",
+  "translation": "\"...Hello, Master.\nI'm Springfield.\nI'm a breech-loading rifle created by converting an old muzzle-loading gun.\n\nI'm not very durable, and my lifespan is short, but...\nAs long as this body and this gun can function,\nI will devote all my strength to carrying out your commands, Master.\n\nI look forward to working with you from now on.\"",
+  "vndb_url": "https://vndb.org/c171119"
+}

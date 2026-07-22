@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40475",
+  "type": "character",
+  "name": "Chall",
+  "original_name": "シャルル",
+  "language": "en",
+  "source_language": "en",
+  "source": "An acquaintance of the protagonist.\nA beautiful women of indeterminate age who is a self proclaimed fortune teller.\nShe tries to predict where the protagonist's group should go.",
+  "source_sha256": "905965a6d7bd9d88e50ea14f0ad8fb0acc2a52b450db7d8d8a4206f17643a38c",
+  "translation": "An acquaintance of the protagonist.\nA beautiful women of indeterminate age who is a self proclaimed fortune teller.\nShe tries to predict where the protagonist's group should go.",
+  "vndb_url": "https://vndb.org/c40475"
+}

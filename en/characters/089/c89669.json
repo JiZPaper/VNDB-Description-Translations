@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89669",
+  "type": "character",
+  "name": "Louelle",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young girl working at the bistro near the beach. She is from Hawaii.",
+  "source_sha256": "08ef4e4a2ffb7732ae77e46575192e94ad00d39297607d23febbc2a2ad01c420",
+  "translation": "A young girl working at the bistro near the beach. She is from Hawaii.",
+  "vndb_url": "https://vndb.org/c89669"
+}

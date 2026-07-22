@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89892",
+  "type": "character",
+  "name": "Elizabeth Last",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is the protagonist's older sister.",
+  "source_sha256": "6e9177f749cacdb2a314f2909e3ffef13f344cf859a828edcb4d2314c1b640df",
+  "translation": "She is the protagonist's older sister.",
+  "vndb_url": "https://vndb.org/c89892"
+}

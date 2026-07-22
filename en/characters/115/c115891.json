@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115891",
+  "type": "character",
+  "name": "Air",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "“Let’s surf! Wait, there’s no water. Let’s just play Ultraball!”\n\nDesc: Hobby: Water!\n\nFrom Air’s student identification card",
+  "source_sha256": "33b1146016b813dcc190bc8a9b266434d1e424d8e50831eaf3be091b04b90ccd",
+  "translation": "“Let’s surf! Wait, there’s no water. Let’s just play Ultraball!”\n\nDesc: Hobby: Water!\n\nFrom Air’s student identification card",
+  "vndb_url": "https://vndb.org/c115891"
+}

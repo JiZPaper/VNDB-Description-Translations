@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134212",
+  "type": "character",
+  "name": "Bree",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of two assistants to Lois.",
+  "source_sha256": "5d54298ce4cf17f5c36bc18ef9f570928166879f6c7789dbad859c26a2bd51ea",
+  "translation": "One of two assistants to Lois.",
+  "vndb_url": "https://vndb.org/c134212"
+}

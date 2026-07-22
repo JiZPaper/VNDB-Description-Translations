@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156377",
+  "type": "character",
+  "name": "Mike",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mike is Riley's husband. He came to the city to open a bar.",
+  "source_sha256": "10933e3a266e4554929e1b0f435efd9de82ee3aa18a464307e4bf4120a1b4d83",
+  "translation": "Mike is Riley's husband. He came to the city to open a bar.",
+  "vndb_url": "https://vndb.org/c156377"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141457",
+  "type": "character",
+  "name": "Son",
+  "original_name": "孫",
+  "language": "en",
+  "source_language": "en",
+  "source": "The leader of Son Faction.",
+  "source_sha256": "0d15794d41fca5f36b6d19038806e766d028649ab3a51bcb04e31845367cf05a",
+  "translation": "The leader of Son Faction.",
+  "vndb_url": "https://vndb.org/c141457"
+}

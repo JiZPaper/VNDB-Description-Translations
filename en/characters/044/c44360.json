@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44360",
+  "type": "character",
+  "name": "Gordon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A famous chef.",
+  "source_sha256": "cc2129256d026e491e59c97361352ff2f90409413a8dbfb2f12cc28ef109e7f6",
+  "translation": "A famous chef.",
+  "vndb_url": "https://vndb.org/c44360"
+}

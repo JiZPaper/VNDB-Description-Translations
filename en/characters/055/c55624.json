@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55624",
+  "type": "character",
+  "name": "Otherworldy Seeming Boy",
+  "original_name": "浮世離れした雰囲気の少年",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious kid the protagonist sees at the school after she transfers in.\nHe looks about 10 years old, but he has a great atmosphere around him and talks very old fashioned.\nHe knows about [url=/c24704]Reimon[/url] and can even talk to it.",
+  "source_sha256": "2d9a70f93223ff7a319d409c3848d6bf3c9026dbf5e0cb89e2bd158a8a7b852e",
+  "translation": "A mysterious kid the protagonist sees at the school after she transfers in.\nHe looks about 10 years old, but he has a great atmosphere around him and talks very old fashioned.\nHe knows about [url=/c24704]Reimon[/url] and can even talk to it.",
+  "vndb_url": "https://vndb.org/c55624"
+}

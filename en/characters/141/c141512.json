@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141512",
+  "type": "character",
+  "name": "Tania",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A stripper at the Pink Rose",
+  "source_sha256": "8769d829dd7c347392f0f6569cc51d484345f1f6ed067f4103debe0a39cf8ce4",
+  "translation": "A stripper at the Pink Rose",
+  "vndb_url": "https://vndb.org/c141512"
+}

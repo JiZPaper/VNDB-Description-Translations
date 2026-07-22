@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44022",
+  "type": "visual_novel",
+  "name": "IDOLATRY",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A very short visual novel created for the O2A2 Queer Jam.",
+  "source_sha256": "4fd77a6ff66f3fdc5e093ea33e74f533e7fb3de9a8371009dd5a344f33fdb684",
+  "translation": "A very short visual novel created for the O2A2 Queer Jam.",
+  "vndb_url": "https://vndb.org/v44022"
+}

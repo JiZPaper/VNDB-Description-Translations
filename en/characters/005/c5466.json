@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c5466",
+  "type": "character",
+  "name": "Meru",
+  "original_name": "メル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Housemaid who works at the castle of princess Maria.\n\nShe is the fiancé of Deikon, a soldier who works at the same castle.",
+  "source_sha256": "a0fabd8174b7545d7fee4571afd001e719ba5c4a4bafc5fb5fec515843d1f3b3",
+  "translation": "Housemaid who works at the castle of princess Maria.\n\nShe is the fiancé of Deikon, a soldier who works at the same castle.",
+  "vndb_url": "https://vndb.org/c5466"
+}

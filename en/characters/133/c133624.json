@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133624",
+  "type": "character",
+  "name": "Protagonist alter ego",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The alter ego of the protagonist.",
+  "source_sha256": "cc5d9ed7089586eeca0f243898f271570fd27693f095296115255d7eafc43e0e",
+  "translation": "The alter ego of the protagonist.",
+  "vndb_url": "https://vndb.org/c133624"
+}

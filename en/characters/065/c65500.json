@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65500",
+  "type": "character",
+  "name": "Di-pu",
+  "original_name": "ディ・プ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A crazy scientist, a former resident of the King's World.",
+  "source_sha256": "079d8cc8491f248f69361038abcd2d90f9d979b23477eacc2a7a87d55475c6ee",
+  "translation": "A crazy scientist, a former resident of the King's World.",
+  "vndb_url": "https://vndb.org/c65500"
+}

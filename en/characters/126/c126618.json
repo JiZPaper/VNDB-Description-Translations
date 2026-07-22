@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126618",
+  "type": "character",
+  "name": "Jack",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Captain of the Sea Harlot.",
+  "source_sha256": "4646ebea434e6fa7ecaf2d167d3753d6e245a0536ca2134b92aa5fd75cb6608d",
+  "translation": "Captain of the Sea Harlot.",
+  "vndb_url": "https://vndb.org/c126618"
+}

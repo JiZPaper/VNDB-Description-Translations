@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125045",
+  "type": "character",
+  "name": "The Stranger",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A blind old man that Hacchi encountered in the desert.",
+  "source_sha256": "ff16d152c5c9069e8f87623ea44e433951fee34e53cf539c27b424cea7ad9607",
+  "translation": "A blind old man that Hacchi encountered in the desert.",
+  "vndb_url": "https://vndb.org/c125045"
+}

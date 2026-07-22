@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66889",
+  "type": "visual_novel",
+  "name": "lain : Protocol 7",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is an adaptation of the unofficial OVA \"lain: Protocol 7\" which uses the script's first draft. It includes scenes that didn't make it into the OVA.",
+  "source_sha256": "fd7e034c8260002ec647caeaf865c9c163871a4970742e441e5af690b4380110",
+  "translation": "This is an adaptation of the unofficial OVA \"lain: Protocol 7\" which uses the script's first draft. It includes scenes that didn't make it into the OVA.",
+  "vndb_url": "https://vndb.org/v66889"
+}

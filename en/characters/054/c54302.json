@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c54302",
+  "type": "character",
+  "name": "Shion",
+  "original_name": "紫苑",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Student (Black Magician)\nStrong Point: Playing Music\nWeak Point: Effort",
+  "source_sha256": "9cec1477fd67a48fb8cde022ff8b14280872441d30aefabb4150e835fbfd4979",
+  "translation": "Occupation: Student (Black Magician)\nStrong Point: Playing Music\nWeak Point: Effort",
+  "vndb_url": "https://vndb.org/c54302"
+}

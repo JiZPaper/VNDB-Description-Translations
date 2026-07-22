@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134378",
+  "type": "character",
+  "name": "Dr. Klein",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Founder of Klein's Academy",
+  "source_sha256": "d12419dd54c133c528cb18c78d3f09b6ba128d0dc8a54c987f2f4fe7e5630c3d",
+  "translation": "Founder of Klein's Academy",
+  "vndb_url": "https://vndb.org/c134378"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54355",
+  "type": "visual_novel",
+  "name": "Celebrity Boyfriend",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A movie star hires you to be her for a week. But everything gets complicated when her hot boyfriend moves in with you.",
+  "source_sha256": "e889e82c3ff84c3f8d5da9b2de3e8fd527a03799ce0ee2e923e874f9efcdf945",
+  "translation": "A movie star hires you to be her for a week. But everything gets complicated when her hot boyfriend moves in with you.",
+  "vndb_url": "https://vndb.org/v54355"
+}

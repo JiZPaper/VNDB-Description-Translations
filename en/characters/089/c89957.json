@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89957",
+  "type": "character",
+  "name": "Guild Master",
+  "original_name": "ギルドマスター",
+  "language": "en",
+  "source_language": "en",
+  "source": "Guild master of the thieves guild who controls the crime city \"Vice\".  In order to hide the ugly wounds on his body due to an attempted assassination, he always covers it with a hooded cloak.",
+  "source_sha256": "4d7d91c2f062d57592f8fe959249a209c68543ae8ea79e92b4f679171d8f676f",
+  "translation": "Guild master of the thieves guild who controls the crime city \"Vice\".  In order to hide the ugly wounds on his body due to an attempted assassination, he always covers it with a hooded cloak.",
+  "vndb_url": "https://vndb.org/c89957"
+}

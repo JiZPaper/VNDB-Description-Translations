@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45892",
+  "type": "character",
+  "name": "Almuledine",
+  "original_name": "アルムレディン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious boy, he resembles the boy that [url=/c45871]Diana[/url] made a promise to long ago.\n\n[spoiler]The former crown prince of the Darius Kingdom.\nHis full name is Almuledine Reynold Darius.[/spoiler]\n\n[Only capturable if playing as Diana]",
+  "source_sha256": "1616612115a262118b84badfd872f5336d2a59ffa6797f648117a49eb9aa81db",
+  "translation": "A mysterious boy, he resembles the boy that [url=/c45871]Diana[/url] made a promise to long ago.\n\n[spoiler]The former crown prince of the Darius Kingdom.\nHis full name is Almuledine Reynold Darius.[/spoiler]\n\n[Only capturable if playing as Diana]",
+  "vndb_url": "https://vndb.org/c45892"
+}

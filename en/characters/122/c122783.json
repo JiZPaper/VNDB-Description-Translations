@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122783",
+  "type": "character",
+  "name": "Hong",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A human with anxiety.",
+  "source_sha256": "d39f3c53503745fd600f7c9b9c1a61743cc1e8eca0911b9470af8b85661c6ebb",
+  "translation": "A human with anxiety.",
+  "vndb_url": "https://vndb.org/c122783"
+}

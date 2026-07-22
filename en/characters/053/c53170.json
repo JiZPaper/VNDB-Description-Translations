@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53170",
+  "type": "character",
+  "name": "Toshi",
+  "original_name": "トシ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Tulips are her favorite flower.",
+  "source_sha256": "51f81da9f5a74f5602efdeab014838ad77c3740a6be9b826c57a6fec3b47ba7c",
+  "translation": "Tulips are her favorite flower.",
+  "vndb_url": "https://vndb.org/c53170"
+}

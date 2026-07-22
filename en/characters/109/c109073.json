@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c109073",
+  "type": "character",
+  "name": "TOSHIKI",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Host of a variety show.",
+  "source_sha256": "6e520465d83cd3b894d5223fb9875212f554745a7a8a4d592a24b1fdfb4263ff",
+  "translation": "Host of a variety show.",
+  "vndb_url": "https://vndb.org/c109073"
+}

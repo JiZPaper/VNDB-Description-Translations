@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c52514",
+  "type": "character",
+  "name": "Donald Trump",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on Donald John Trump, who is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021.\n\n[From [url=https://en.wikipedia.org/wiki/Donald_Trump]Wikipedia[/url]]",
+  "source_sha256": "3f6e9ae72eb6b2398bfccc50da0fc19f1d37102eda1aa4d81893ccd0684d5af8",
+  "translation": "Based on Donald John Trump, who is an American politician, media personality, and businessman who served as the 45th president of the United States from 2017 to 2021.\n\n[From [url=https://en.wikipedia.org/wiki/Donald_Trump]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/c52514"
+}

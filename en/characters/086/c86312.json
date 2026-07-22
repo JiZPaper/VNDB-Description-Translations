@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86312",
+  "type": "character",
+  "name": "Jasper",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Partner Type: Falcon\n\nSpecial Attack: Transport\nUsing ninjitsu it enlarges its small body, and carries humans and luggage.\n\nFavorite Food: Mice\n\n[Official in-game description]",
+  "source_sha256": "c353e6b79c632d25f5c5c39ab3abc700585e9572c9bfa6facffca76491c351ee",
+  "translation": "Partner Type: Falcon\n\nSpecial Attack: Transport\nUsing ninjitsu it enlarges its small body, and carries humans and luggage.\n\nFavorite Food: Mice\n\n[Official in-game description]",
+  "vndb_url": "https://vndb.org/c86312"
+}

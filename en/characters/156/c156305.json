@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156305",
+  "type": "character",
+  "name": "Francine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A camp counsellor who works as a receptionist.",
+  "source_sha256": "fbd2c6cb882bc70c823752537833fd7ee9fba80b8077d1f2480ec17678c24994",
+  "translation": "A camp counsellor who works as a receptionist.",
+  "vndb_url": "https://vndb.org/c156305"
+}

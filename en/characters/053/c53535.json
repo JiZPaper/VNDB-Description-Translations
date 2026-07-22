@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53535",
+  "type": "character",
+  "name": "Mother",
+  "original_name": "Мама",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mother of protagonist",
+  "source_sha256": "3dc6a263737643ec23da9318e6b9a76b3e0da29f340b91ba7ac1d49fc261991e",
+  "translation": "Mother of protagonist",
+  "vndb_url": "https://vndb.org/c53535"
+}

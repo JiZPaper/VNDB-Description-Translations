@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145222",
+  "type": "character",
+  "name": "Ms. Blue-Clad",
+  "original_name": "青い服の女",
+  "language": "en",
+  "source_language": "en",
+  "source": "A non-human female who often sheds tears of blood.",
+  "source_sha256": "82b1b7aac5972c8d653d1ef0a7d01f276dd6a99df49110cee527dbda57bf8b20",
+  "translation": "A non-human female who often sheds tears of blood.",
+  "vndb_url": "https://vndb.org/c145222"
+}

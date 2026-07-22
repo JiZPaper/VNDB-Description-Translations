@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152902",
+  "type": "character",
+  "name": "John",
+  "original_name": "ジョン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ilsa's Dad.",
+  "source_sha256": "6e9028a3f4ec899fb1024f3424bcbd7ff33012f07cf6b6d25583b6a5942e5791",
+  "translation": "Ilsa's Dad.",
+  "vndb_url": "https://vndb.org/c152902"
+}

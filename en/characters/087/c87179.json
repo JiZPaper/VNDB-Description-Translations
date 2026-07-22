@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87179",
+  "type": "character",
+  "name": "Beelzebub",
+  "original_name": "ベルゼブブ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"...So, can I eat now?\"\n\nWhat time is dinner?\nThe always-famished sixth-born.\n\n[From [url=https://shallwedate.jp/obeyme/en/]English official site[/url]]",
+  "source_sha256": "5fee5dfa744b489794b0f6bae10218376541eed3e03b44079d07330622eb25ab",
+  "translation": "\"...So, can I eat now?\"\n\nWhat time is dinner?\nThe always-famished sixth-born.\n\n[From [url=https://shallwedate.jp/obeyme/en/]English official site[/url]]",
+  "vndb_url": "https://vndb.org/c87179"
+}

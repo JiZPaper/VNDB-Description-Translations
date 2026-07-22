@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150087",
+  "type": "character",
+  "name": "Coral",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your coworker\n\n\"Heya! How's it going?\"",
+  "source_sha256": "e55183abe27759c7c33b7f002a3c72189c6024089284d279eb054ed8d18b9cac",
+  "translation": "Your coworker\n\n\"Heya! How's it going?\"",
+  "vndb_url": "https://vndb.org/c150087"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36444",
+  "type": "visual_novel",
+  "name": "Shounen wa Konpeitou ga Tabetai",
+  "original_name": "少年は金平糖が食べたい",
+  "language": "en",
+  "source_language": "en",
+  "source": "Please give me konpeito.\n\n[Translated from [url=https://www.freem.ne.jp/win/game/22077]Freem![/url]]",
+  "source_sha256": "e70b215b61b97ccad2ac0a1796e5be9e67d64a7a7c9bd26521d1a21649395945",
+  "translation": "Please give me konpeito.\n\n[Translated from [url=https://www.freem.ne.jp/win/game/22077]Freem![/url]]",
+  "vndb_url": "https://vndb.org/v36444"
+}

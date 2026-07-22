@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79491",
+  "type": "character",
+  "name": "Eva",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The doctor of the Soloss starship.",
+  "source_sha256": "6dfe6841449ca74a47940b63e30622155b05d6e4d0c53596d56861f856ed413e",
+  "translation": "The doctor of the Soloss starship.",
+  "vndb_url": "https://vndb.org/c79491"
+}

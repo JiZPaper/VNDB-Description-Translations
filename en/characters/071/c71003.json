@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71003",
+  "type": "character",
+  "name": "Fuchsia Plum",
+  "original_name": "フィーシャ＝プラム",
+  "language": "en",
+  "source_language": "en",
+  "source": "Left-handed\nHobby: Napping\nLoves: Grilled fish\nHates: Dogs\nFavorite Color: Pink",
+  "source_sha256": "cf6382e8eff262f4de56c551b2117f7d1592423fbdb53e7bf8ff6e064c473fbb",
+  "translation": "Left-handed\nHobby: Napping\nLoves: Grilled fish\nHates: Dogs\nFavorite Color: Pink",
+  "vndb_url": "https://vndb.org/c71003"
+}

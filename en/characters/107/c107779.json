@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c107779",
+  "type": "character",
+  "name": "Ariel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A hedonistic rock star.",
+  "source_sha256": "fc864d0688a639246a00d6d1b3a9f8da6dd1a955989e30b9137d461842a7e530",
+  "translation": "A hedonistic rock star.",
+  "vndb_url": "https://vndb.org/c107779"
+}

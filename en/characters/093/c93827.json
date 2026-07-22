@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93827",
+  "type": "character",
+  "name": "Isabella",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Tim's younger sister, she's a flight attendant for Martiri Airlines.",
+  "source_sha256": "c9629d3b70d6bc62ada1b442ddaf33378b637bc4efeb7de20a839966f7620a4e",
+  "translation": "Tim's younger sister, she's a flight attendant for Martiri Airlines.",
+  "vndb_url": "https://vndb.org/c93827"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37273",
+  "type": "character",
+  "name": "Lily",
+  "original_name": "リリィ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Lily's adult form.",
+  "source_sha256": "43ac32add2a8f3d81130e187ae13b257bbb6679518f8483fbece05d35028ece3",
+  "translation": "Lily's adult form.",
+  "vndb_url": "https://vndb.org/c37273"
+}

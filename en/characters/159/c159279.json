@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159279",
+  "type": "character",
+  "name": "Keychee",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A parasite you once caught trying to siphon off of you, now kept in a jar",
+  "source_sha256": "0d00cb449022c855c1feb49780eb194eedd542ecd07608eba79f2fd50ab5bcb1",
+  "translation": "A parasite you once caught trying to siphon off of you, now kept in a jar",
+  "vndb_url": "https://vndb.org/c159279"
+}

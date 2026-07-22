@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15219",
+  "type": "visual_novel",
+  "name": "Isu ni Natta Yuusha",
+  "original_name": "椅子になった勇者",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short free game from Msize, about a young hero who turned into a chair.",
+  "source_sha256": "686fe208a668bda2a958deeee1a5d02577a675d991b9c156118f676dd278938c",
+  "translation": "A short free game from Msize, about a young hero who turned into a chair.",
+  "vndb_url": "https://vndb.org/v15219"
+}

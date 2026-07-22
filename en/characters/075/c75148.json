@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75148",
+  "type": "character",
+  "name": "Kakoi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Kakoi is Pico's sister.",
+  "source_sha256": "6c657ad629ecb8dac62d0b24ca1d36ef06ba65e45fbd5ce2563fac3efd27c96f",
+  "translation": "Kakoi is Pico's sister.",
+  "vndb_url": "https://vndb.org/c75148"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21488",
+  "type": "character",
+  "name": "Sherlock Holmes",
+  "original_name": "シャーロック・ホームズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sherlock Holmes is a legendary English detective who assists Ryūnosuke with crime investigations.\nHis assistant is a young girl called [url=/c21489]Iris Watson[/url].\n\n[From [url=http://aceattorney.wikia.com/wiki/Sherlock_Holmes]Ace Attorney Wiki[/url]]",
+  "source_sha256": "9e14d16a11a4f70fcc345482b163153770ac9ab9e523eac1a83831b28e03b276",
+  "translation": "Sherlock Holmes is a legendary English detective who assists Ryūnosuke with crime investigations.\nHis assistant is a young girl called [url=/c21489]Iris Watson[/url].\n\n[From [url=http://aceattorney.wikia.com/wiki/Sherlock_Holmes]Ace Attorney Wiki[/url]]",
+  "vndb_url": "https://vndb.org/c21488"
+}

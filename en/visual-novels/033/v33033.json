@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33033",
+  "type": "visual_novel",
+  "name": "Fimbulvetr",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short kinetic novel about two people trying to survive in a post-apocalyptic world.\n\n[From [url=https://apho.itch.io/fimbulvetr]Itch.io[/url]]",
+  "source_sha256": "daa17167ca69ab2d82f82612ec2a702f4dc3714b8bdc590abaa1d801a811c130",
+  "translation": "A short kinetic novel about two people trying to survive in a post-apocalyptic world.\n\n[From [url=https://apho.itch.io/fimbulvetr]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v33033"
+}

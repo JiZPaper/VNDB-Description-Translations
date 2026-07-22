@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c107004",
+  "type": "character",
+  "name": "Fuhrer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on Adolf Hitler, German politician and dictator.",
+  "source_sha256": "b5b6a9b454c02aebba4f31a0df0dd473c7c79431549602018145c992ef3868fb",
+  "translation": "Based on Adolf Hitler, German politician and dictator.",
+  "vndb_url": "https://vndb.org/c107004"
+}

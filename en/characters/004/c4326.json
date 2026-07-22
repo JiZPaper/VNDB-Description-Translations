@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4326",
+  "type": "character",
+  "name": "Lilean",
+  "original_name": "リリーヌ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader of the royal group of knights.",
+  "source_sha256": "5a8f54221a839d0a7aecaa0096330ad9156af31a49f539adb631b46178ebc473",
+  "translation": "Leader of the royal group of knights.",
+  "vndb_url": "https://vndb.org/c4326"
+}

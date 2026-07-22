@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159655",
+  "type": "character",
+  "name": "Masked Disciple",
+  "original_name": "仮面の従者",
+  "language": "en",
+  "source_language": "en",
+  "source": "An apprentice of Lord van Zieks whose face is always covered by a mask. He has the air of a completely unassailable man.\n\n[From in-game profile]",
+  "source_sha256": "bf634661226b3a374236bce2a0cf978e1df2eb4cdcf502b06dbbfebe024c5f8a",
+  "translation": "An apprentice of Lord van Zieks whose face is always covered by a mask. He has the air of a completely unassailable man.\n\n[From in-game profile]",
+  "vndb_url": "https://vndb.org/c159655"
+}

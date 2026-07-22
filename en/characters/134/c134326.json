@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134326",
+  "type": "character",
+  "name": "Pete",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A company lawyer.",
+  "source_sha256": "79d4f8d0e080fd17b84c256a8978282b827d58f62afcdb55916ac99f67076425",
+  "translation": "A company lawyer.",
+  "vndb_url": "https://vndb.org/c134326"
+}

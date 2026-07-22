@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40830",
+  "type": "character",
+  "name": "AI",
+  "original_name": "アイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "AI is the artificial intelligence System on board the Everett. She was designed as a humanoid interface to better facilitate communications between crew and system.",
+  "source_sha256": "337475f573998361332ecf15b3fe2e9b45aa5d417a293f55c2f15d601b99142a",
+  "translation": "AI is the artificial intelligence System on board the Everett. She was designed as a humanoid interface to better facilitate communications between crew and system.",
+  "vndb_url": "https://vndb.org/c40830"
+}

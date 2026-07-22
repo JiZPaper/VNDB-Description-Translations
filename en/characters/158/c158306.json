@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c158306",
+  "type": "character",
+  "name": "Jack Brown",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is Alice's father.",
+  "source_sha256": "b16e0518f3e6452b20492e21a49e53a0ea111d943f22273de45c665a6147051f",
+  "translation": "He is Alice's father.",
+  "vndb_url": "https://vndb.org/c158306"
+}

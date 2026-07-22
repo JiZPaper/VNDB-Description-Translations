@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29979",
+  "type": "character",
+  "name": "Graham Coxburn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A biochemistry professor.",
+  "source_sha256": "eb28f8c06878ead60fd10cef4b81a708a7ccf50fc5548db2302c920fae725636",
+  "translation": "A biochemistry professor.",
+  "vndb_url": "https://vndb.org/c29979"
+}

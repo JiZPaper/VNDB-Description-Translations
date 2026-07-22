@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75410",
+  "type": "character",
+  "name": "Katarina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of Darvish Tavern.",
+  "source_sha256": "457f25a8fbf7f04c7f628df0de98a8e44494823fbf19a06710098e531eb76c1a",
+  "translation": "The owner of Darvish Tavern.",
+  "vndb_url": "https://vndb.org/c75410"
+}

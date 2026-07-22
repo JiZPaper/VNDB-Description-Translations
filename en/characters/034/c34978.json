@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34978",
+  "type": "character",
+  "name": "Ivan",
+  "original_name": "イヴァン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A youth who swore allegiance to the Snow Queen.",
+  "source_sha256": "e48e56bf2baada0bea0cbde7d36264bf45922a8d91a3073a55f78399ac751ad2",
+  "translation": "A youth who swore allegiance to the Snow Queen.",
+  "vndb_url": "https://vndb.org/c34978"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136315",
+  "type": "character",
+  "name": "Bright Amuro",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lieutenant Commander",
+  "source_sha256": "e271fe531a5138ffc76d5be4ee293c0aebb653818e1c997cd7bb1b3879eb9d33",
+  "translation": "Lieutenant Commander",
+  "vndb_url": "https://vndb.org/c136315"
+}

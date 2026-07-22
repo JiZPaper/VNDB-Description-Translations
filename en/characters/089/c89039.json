@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89039",
+  "type": "character",
+  "name": "Rolfe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Rolfe works the evening shift. Because of this, you'll not have much interaction with him and it's mostly him coming to replace you after day's done.",
+  "source_sha256": "98572a27a37a524a0df81220dae5ed6c5e91a5e75fb39596b6f462f83e6c841a",
+  "translation": "Rolfe works the evening shift. Because of this, you'll not have much interaction with him and it's mostly him coming to replace you after day's done.",
+  "vndb_url": "https://vndb.org/c89039"
+}

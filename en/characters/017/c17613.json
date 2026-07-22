@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17613",
+  "type": "character",
+  "name": "Alice",
+  "original_name": "アリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "An exotic, focused, powerful woman. The reason behind her dislike for shirts is unknown.\n\n[From [url=http://virtueslastreward.com/cast/alice/]the official website[/url]]",
+  "source_sha256": "69efaf57dc9ec060e61217527b51e06de0468235b493bfd32a0bc1749842e467",
+  "translation": "An exotic, focused, powerful woman. The reason behind her dislike for shirts is unknown.\n\n[From [url=http://virtueslastreward.com/cast/alice/]the official website[/url]]",
+  "vndb_url": "https://vndb.org/c17613"
+}

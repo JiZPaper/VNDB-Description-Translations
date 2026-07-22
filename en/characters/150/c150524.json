@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150524",
+  "type": "character",
+  "name": "Unknow",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Takatsuki's assistant.",
+  "source_sha256": "ee9e784c96efcb71f955a2b55b0219dadd62eff81ccff45b820d26bfa5c6f98e",
+  "translation": "Takatsuki's assistant.",
+  "vndb_url": "https://vndb.org/c150524"
+}

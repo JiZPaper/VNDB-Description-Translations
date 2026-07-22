@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126290",
+  "type": "character",
+  "name": "Warthogs Student",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is a big fan of Penelope.",
+  "source_sha256": "ef4881c3098131cb0c595e5373f583737bf7a0c7aa13eac1fb0678624808f82a",
+  "translation": "She is a big fan of Penelope.",
+  "vndb_url": "https://vndb.org/c126290"
+}

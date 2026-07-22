@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75372",
+  "type": "character",
+  "name": "Auntie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Haato's aunt.",
+  "source_sha256": "903ca5f50bfb472b2922c1f2e84d1bd95532083641fb84b914582fad97522d7a",
+  "translation": "Haato's aunt.",
+  "vndb_url": "https://vndb.org/c75372"
+}

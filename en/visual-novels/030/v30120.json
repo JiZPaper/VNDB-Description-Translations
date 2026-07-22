@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30120",
+  "type": "visual_novel",
+  "name": "White Book Complete Volume",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"There exists a white book that can alter its reader's perception of reality. Through fiction, their future is foretold. No one should ever have this kind of privilege. \nShould you ever stumble upon it resist the urge to read its contents. Alas, the book will always find its reader and will continue to exist as long as there are stories to be told. \"",
+  "source_sha256": "0c89dbd1abd48788f0bf74de2f5f987edec992a022a5aee7c528806e0ff8e345",
+  "translation": "\"There exists a white book that can alter its reader's perception of reality. Through fiction, their future is foretold. No one should ever have this kind of privilege. \nShould you ever stumble upon it resist the urge to read its contents. Alas, the book will always find its reader and will continue to exist as long as there are stories to be told. \"",
+  "vndb_url": "https://vndb.org/v30120"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112220",
+  "type": "character",
+  "name": "Carrie Bowman",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The principal's secretary at the St. Johnes College. Was married four times.\n\nYou can choose her age between three options: 48 / 50 / 52.",
+  "source_sha256": "119b1f978b9c575358b834ed8567d369e557c05153074d62c30f3ce62e5d6d20",
+  "translation": "The principal's secretary at the St. Johnes College. Was married four times.\n\nYou can choose her age between three options: 48 / 50 / 52.",
+  "vndb_url": "https://vndb.org/c112220"
+}

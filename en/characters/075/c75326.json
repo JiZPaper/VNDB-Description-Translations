@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75326",
+  "type": "character",
+  "name": "Corifeo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A leader and politician. Corifeo is the most influential person in Athens. Obsessed with power and gold.\n\n\"Where is my running stick?\"\n\nStrengths: Diplomacy\n\nWeaknesses: Brutal force, intimidation",
+  "source_sha256": "68c08a34bc9309c2175295a6dc6b49dd5e5ba3aaf62367bf168e3b202a02d84d",
+  "translation": "A leader and politician. Corifeo is the most influential person in Athens. Obsessed with power and gold.\n\n\"Where is my running stick?\"\n\nStrengths: Diplomacy\n\nWeaknesses: Brutal force, intimidation",
+  "vndb_url": "https://vndb.org/c75326"
+}

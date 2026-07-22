@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67271",
+  "type": "visual_novel",
+  "name": "Random VN: Volume One",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A collection of three illustrated short branching stories spanning science fiction, psychological drama, and supernatural mystery, with multiple endings and deterministic offline play.",
+  "source_sha256": "536a7a7d37b019dc242fccd25baf765732cea5ca27a2144f06e852c123350e62",
+  "translation": "A collection of three illustrated short branching stories spanning science fiction, psychological drama, and supernatural mystery, with multiple endings and deterministic offline play.",
+  "vndb_url": "https://vndb.org/v67271"
+}

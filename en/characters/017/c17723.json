@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17723",
+  "type": "character",
+  "name": "Kai",
+  "original_name": "カイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "22-year-old blackjack dealer.",
+  "source_sha256": "2ff92f48ced94afb51e768f9974eb4df50f9892f63c2bb29f7e7c0fa45af8c2e",
+  "translation": "22-year-old blackjack dealer.",
+  "vndb_url": "https://vndb.org/c17723"
+}

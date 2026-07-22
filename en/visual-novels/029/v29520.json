@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29520",
+  "type": "visual_novel",
+  "name": "The Dream Drinker",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Would you give up your dreams to get rid of your nightmares?",
+  "source_sha256": "87501155a80a0c29436cbb3d8d1af94690413a0f9255b97eff6a8257c106c67b",
+  "translation": "Would you give up your dreams to get rid of your nightmares?",
+  "vndb_url": "https://vndb.org/v29520"
+}

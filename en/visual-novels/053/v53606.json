@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53606",
+  "type": "visual_novel",
+  "name": "Japan Trip",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Game by Cozy Asian Games\nAvailable on Steam\nhttps://store.steampowered.com/app/3001560/Japan_Trip/",
+  "source_sha256": "55b4d81e7b23e700933907d5ef0784e85ad30b2e49953dcc5ec1982aa6af0c72",
+  "translation": "Game by Cozy Asian Games\nAvailable on Steam\nhttps://store.steampowered.com/app/3001560/Japan_Trip/",
+  "vndb_url": "https://vndb.org/v53606"
+}

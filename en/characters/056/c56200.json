@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c56200",
+  "type": "character",
+  "name": "Lila",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fairy that runs away from the Fairy world and gets attached to Paul.",
+  "source_sha256": "5eca7ae51bbefc104d555ac67f2c47148c2e248b8baf99343e464345a635088b",
+  "translation": "A fairy that runs away from the Fairy world and gets attached to Paul.",
+  "vndb_url": "https://vndb.org/c56200"
+}

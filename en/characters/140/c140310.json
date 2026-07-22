@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140310",
+  "type": "character",
+  "name": "Pablo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A student from another block of the college.",
+  "source_sha256": "a5815b1c4618269c4348986c6a4f923ad3e3d6fa28129a99090b5d26973a931e",
+  "translation": "A student from another block of the college.",
+  "vndb_url": "https://vndb.org/c140310"
+}

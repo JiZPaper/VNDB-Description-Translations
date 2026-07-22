@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17090",
+  "type": "visual_novel",
+  "name": "Kenko no Heya",
+  "original_name": "ケンコの部屋",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fandisc for Kenko who appears in other Riddle Soft/Potage titles in different variations.",
+  "source_sha256": "a1adabdd86689731d63ea13b2a443b3ff80c3c06b538595c32c52c4f145474b7",
+  "translation": "Fandisc for Kenko who appears in other Riddle Soft/Potage titles in different variations.",
+  "vndb_url": "https://vndb.org/v17090"
+}

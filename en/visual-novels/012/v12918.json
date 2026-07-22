@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12918",
+  "type": "visual_novel",
+  "name": "Hatsukoi no Houteishiki",
+  "original_name": "初恋の方程式",
+  "language": "en",
+  "source_language": "en",
+  "source": "A boy realizes he has a crush on his best friend.",
+  "source_sha256": "75b707297dd6bcce2fecf641e07c3c5266dfdcc493fd1a9da309a21495a5ebd6",
+  "translation": "A boy realizes he has a crush on his best friend.",
+  "vndb_url": "https://vndb.org/v12918"
+}

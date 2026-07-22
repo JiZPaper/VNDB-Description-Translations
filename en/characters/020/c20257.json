@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20257",
+  "type": "character",
+  "name": "Prof. Merriweather",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Anatomy professor.",
+  "source_sha256": "773a15b40e3eef7329d079d8390a3c3ee64c01e06887845ee8d5a913177f9569",
+  "translation": "Anatomy professor.",
+  "vndb_url": "https://vndb.org/c20257"
+}

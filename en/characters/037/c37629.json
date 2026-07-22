@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37629",
+  "type": "character",
+  "name": "Anubis Ma'at",
+  "original_name": "アヌビス・マアト",
+  "language": "en",
+  "source_language": "en",
+  "source": "Egyptian God of the Dead",
+  "source_sha256": "46cfbb00c101387360fa5ffa7c2d603b287dcf4819367a734a8d3c016d2892d1",
+  "translation": "Egyptian God of the Dead",
+  "vndb_url": "https://vndb.org/c37629"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115894",
+  "type": "character",
+  "name": "Ms. Whitney",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Twitch Academy's biology teacher.",
+  "source_sha256": "e8a5d3b3f6106011dbef0a46c42cf7a0839276aa1bb9456c18856cfac20d2e5e",
+  "translation": "Twitch Academy's biology teacher.",
+  "vndb_url": "https://vndb.org/c115894"
+}

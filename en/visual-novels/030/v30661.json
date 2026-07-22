@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30661",
+  "type": "visual_novel",
+  "name": "The Game For Skippers",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel about a person that wants achievements.",
+  "source_sha256": "7f92399ab4974f36f3098233fa9e0e86c60a5a6ed3f90eac5475495961ae3d31",
+  "translation": "A short visual novel about a person that wants achievements.",
+  "vndb_url": "https://vndb.org/v30661"
+}

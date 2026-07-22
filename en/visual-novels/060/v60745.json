@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60745",
+  "type": "visual_novel",
+  "name": "AWAY",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a dark and rough story.",
+  "source_sha256": "d227186f2c82c347843c1376d5f5a80b1558ee2eb7ef848ca5401fe3056642f9",
+  "translation": "This is a dark and rough story.",
+  "vndb_url": "https://vndb.org/v60745"
+}

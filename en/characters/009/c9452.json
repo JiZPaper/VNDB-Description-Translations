@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9452",
+  "type": "character",
+  "name": "Antonio",
+  "original_name": "アントニオ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on the the famous luthier [url=http://en.wikipedia.org/wiki/Antonio_Stradivari]Antonio Stradivari[/url].",
+  "source_sha256": "d6d6be09f1649f9a007ffc96ce7b0826f91b7a632925992c87055a112132012a",
+  "translation": "Based on the the famous luthier [url=http://en.wikipedia.org/wiki/Antonio_Stradivari]Antonio Stradivari[/url].",
+  "vndb_url": "https://vndb.org/c9452"
+}

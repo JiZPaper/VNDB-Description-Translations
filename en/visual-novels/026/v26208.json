@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26208",
+  "type": "visual_novel",
+  "name": "Masshiro no Shiro",
+  "original_name": "まっしろの城",
+  "language": "en",
+  "source_language": "en",
+  "source": "There was a big storm, so there are many residents in your castle, which is usually quiet.\n\nIt's an adventure game that you click on to go. \nThe place where you can click will change from hand to hand. \nIf the reaction is bad, please double click.",
+  "source_sha256": "d05ad88e32a5c0374014a99c968e09fd41e0b205fd1b8c9d131a463db553c80f",
+  "translation": "There was a big storm, so there are many residents in your castle, which is usually quiet.\n\nIt's an adventure game that you click on to go. \nThe place where you can click will change from hand to hand. \nIf the reaction is bad, please double click.",
+  "vndb_url": "https://vndb.org/v26208"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54612",
+  "type": "visual_novel",
+  "name": "Honey Bear",
+  "original_name": "ハニーベアー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A collection of three stories by three different authors based on and featuring characters from Morenatsu.",
+  "source_sha256": "9192c0e64196c6507e5b33fd31803764872a7696a5e72284cb81871763c37846",
+  "translation": "A collection of three stories by three different authors based on and featuring characters from Morenatsu.",
+  "vndb_url": "https://vndb.org/v54612"
+}

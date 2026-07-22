@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97115",
+  "type": "character",
+  "name": "Ash",
+  "original_name": "アッシュ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A gangster who saves a little girl.",
+  "source_sha256": "15ad4975823dfd50a10edcadd607518c013417bb74366a0c246735738b9b2f2a",
+  "translation": "A gangster who saves a little girl.",
+  "vndb_url": "https://vndb.org/c97115"
+}

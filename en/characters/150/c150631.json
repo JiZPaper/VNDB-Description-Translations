@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150631",
+  "type": "character",
+  "name": "Alice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonists friend classmate and roommate",
+  "source_sha256": "acb6a7d6d8355ee55a3975dfc34de006dbf9acac0410fd67bae1f0a55d3c3716",
+  "translation": "The protagonists friend classmate and roommate",
+  "vndb_url": "https://vndb.org/c150631"
+}

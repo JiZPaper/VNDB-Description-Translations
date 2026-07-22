@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93474",
+  "type": "character",
+  "name": "Dick Stanford",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A popular talk show host who has won many rewards.",
+  "source_sha256": "bcd0a0b47c394fdbe80ba29ac3a5c4f68a853d3d6253427a1938cd1acf709378",
+  "translation": "A popular talk show host who has won many rewards.",
+  "vndb_url": "https://vndb.org/c93474"
+}

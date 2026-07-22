@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125710",
+  "type": "character",
+  "name": "Snuggles the Happy Bear",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A friend of Princess Anabelle.",
+  "source_sha256": "6b8813acd539f0ddb5057f0cb02ed1c2e8a698073b89dad594d36e37f64f27b7",
+  "translation": "A friend of Princess Anabelle.",
+  "vndb_url": "https://vndb.org/c125710"
+}

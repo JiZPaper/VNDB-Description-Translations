@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c1918",
+  "type": "character",
+  "name": "Morimoto Nami",
+  "original_name": "森本 奈海",
+  "language": "en",
+  "source_language": "en",
+  "source": "Favorite Food: Pasta, strawberry, pumpkin.\nDisliked Food: Celery, parsley, Rakkyo.\nWorks at: Maid Cafe, Game Space.",
+  "source_sha256": "6d9ca1b8fc6a6872324069ca54d3f89966b155f561727b67a3e692de4b46ecfa",
+  "translation": "Favorite Food: Pasta, strawberry, pumpkin.\nDisliked Food: Celery, parsley, Rakkyo.\nWorks at: Maid Cafe, Game Space.",
+  "vndb_url": "https://vndb.org/c1918"
+}

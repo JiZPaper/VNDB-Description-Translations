@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170488",
+  "type": "character",
+  "name": "Silas",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young farmboy who claims to be your childhood best friend.",
+  "source_sha256": "39a0db80ca3cae9d8143257c0899463cbb01125706396d25b6cfebd0936639d9",
+  "translation": "A young farmboy who claims to be your childhood best friend.",
+  "vndb_url": "https://vndb.org/c170488"
+}

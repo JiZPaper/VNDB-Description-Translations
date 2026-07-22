@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64006",
+  "type": "character",
+  "name": "Luke Onegai",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A CCS teacher.",
+  "source_sha256": "d67114b4d502123b4a5b395184fb729738443080a4aaeb7b55a5ea6852ff9f6d",
+  "translation": "A CCS teacher.",
+  "vndb_url": "https://vndb.org/c64006"
+}

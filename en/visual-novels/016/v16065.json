@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16065",
+  "type": "visual_novel",
+  "name": "A Tale of Faust",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An alternative retelling of the Faust Myth.",
+  "source_sha256": "32b89cd5c254e5a7c8941d112a7d5243529a19726113b9e26637e08fd5dc2382",
+  "translation": "An alternative retelling of the Faust Myth.",
+  "vndb_url": "https://vndb.org/v16065"
+}

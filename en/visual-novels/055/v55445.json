@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55445",
+  "type": "visual_novel",
+  "name": "Leave Your Room!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A group of friends tries to get one of their roommates to go out.\n\n[From [url=https://swipage.itch.io/leave-your-room]itch.io[/url]]",
+  "source_sha256": "6c0b6a9293032227a50739f90e63eb4e3523f4a7ec9516ef670392fb86030ca1",
+  "translation": "A group of friends tries to get one of their roommates to go out.\n\n[From [url=https://swipage.itch.io/leave-your-room]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v55445"
+}

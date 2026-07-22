@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135808",
+  "type": "character",
+  "name": "Yumi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A magical creature?\nShe has a strange way of teaching.\n\n[In game description]",
+  "source_sha256": "4c285da7e02430851ccced5893ff20947d0a1a68fb11c0160ee14899ad7ba7da",
+  "translation": "A magical creature?\nShe has a strange way of teaching.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c135808"
+}

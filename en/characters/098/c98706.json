@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98706",
+  "type": "character",
+  "name": "Evelyn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's friend. She loves punk music and horror movies.",
+  "source_sha256": "0382bc59dad3d9c7621ad4a74ede214ed6202350cdfddf1fb53a5839bc000f35",
+  "translation": "The protagonist's friend. She loves punk music and horror movies.",
+  "vndb_url": "https://vndb.org/c98706"
+}

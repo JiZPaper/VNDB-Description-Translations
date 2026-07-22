@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c59028",
+  "type": "character",
+  "name": "Ash",
+  "original_name": "アッシュ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A spirit that controls fire.",
+  "source_sha256": "db13f43edd806c047e5948fdc7a2aa363ba59a7e40509535e74070f1703433dc",
+  "translation": "A spirit that controls fire.",
+  "vndb_url": "https://vndb.org/c59028"
+}

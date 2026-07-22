@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160354",
+  "type": "character",
+  "name": "Diane",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jamie's mother.",
+  "source_sha256": "dc4b922fbed520a0045ee3cf63ec1f7b6a60f98b9f05163ad4a4c31db8afc003",
+  "translation": "Jamie's mother.",
+  "vndb_url": "https://vndb.org/c160354"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162748",
+  "type": "character",
+  "name": "Skazak",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Skellian representative of the Galactic Council",
+  "source_sha256": "25e235c1461bdb1f14a5d06650bfe05ea081c0daee2e87005bc7ecfe860b88b4",
+  "translation": "Skellian representative of the Galactic Council",
+  "vndb_url": "https://vndb.org/c162748"
+}

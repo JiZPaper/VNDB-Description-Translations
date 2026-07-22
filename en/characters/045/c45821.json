@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45821",
+  "type": "character",
+  "name": "Violet",
+  "original_name": "ヴィオレ",
+  "language": "en",
+  "source_language": "en",
+  "source": "An AI that guides you on how to use the navigation system.",
+  "source_sha256": "e40423183fc9532292da9c7b0b60ed6caab37f04cab90f723d1c52ed9a093e4c",
+  "translation": "An AI that guides you on how to use the navigation system.",
+  "vndb_url": "https://vndb.org/c45821"
+}

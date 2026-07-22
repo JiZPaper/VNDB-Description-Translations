@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88041",
+  "type": "character",
+  "name": "Kurodayu",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist’s horse.",
+  "source_sha256": "9bbc86951730d64cf44fc2e4dab2f71bbded353dd10aea4f8363674e1c67e3e5",
+  "translation": "The protagonist’s horse.",
+  "vndb_url": "https://vndb.org/c88041"
+}

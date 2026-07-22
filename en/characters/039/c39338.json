@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39338",
+  "type": "character",
+  "name": "Stheno",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The gorgon sister of Medusa and Euryale.",
+  "source_sha256": "986dc0a2863c32fc2de36bfff992d535e43bee7649f73983dd316b8d76151877",
+  "translation": "The gorgon sister of Medusa and Euryale.",
+  "vndb_url": "https://vndb.org/c39338"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38502",
+  "type": "visual_novel",
+  "name": "good bye! my happy prince",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The dog runs and thinks.\n\n[Translated from [url=https://novelgame.jp/games/show/7260]NovelGame[/url]]",
+  "source_sha256": "41c00267ac1bc44496604fe103f7b28b0de556cbbf8cdf2baa51f0694f0e1bc7",
+  "translation": "The dog runs and thinks.\n\n[Translated from [url=https://novelgame.jp/games/show/7260]NovelGame[/url]]",
+  "vndb_url": "https://vndb.org/v38502"
+}

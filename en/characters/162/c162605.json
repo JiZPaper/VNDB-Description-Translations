@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162605",
+  "type": "character",
+  "name": "SAndrA",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Subservient Android Assistant\nModel SX-9",
+  "source_sha256": "44f4f1db92672091fb6004a4b003497364d4c7d564f0947605f302884e262955",
+  "translation": "Subservient Android Assistant\nModel SX-9",
+  "vndb_url": "https://vndb.org/c162605"
+}

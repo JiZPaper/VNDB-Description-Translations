@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58091",
+  "type": "visual_novel",
+  "name": "One Last Chat",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The world is about to end. What will you spend your last few minutes doing?\n\n[From [url=https://toomanyteethstudios.itch.io/one-last-chat]itch.io[/url]]\n\nNote: The game is only able to be played through once.",
+  "source_sha256": "db76042ec7f5e176882961f4ac540d5bd1581245399ceb4941df55b7037cf7bd",
+  "translation": "The world is about to end. What will you spend your last few minutes doing?\n\n[From [url=https://toomanyteethstudios.itch.io/one-last-chat]itch.io[/url]]\n\nNote: The game is only able to be played through once.",
+  "vndb_url": "https://vndb.org/v58091"
+}

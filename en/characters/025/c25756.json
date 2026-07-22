@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25756",
+  "type": "character",
+  "name": "America",
+  "original_name": "アメリカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "An energetic youth with bottomless cheer.",
+  "source_sha256": "3ffaaf418b1567c57d8ce674236c3360652e0cfe6c1755b319a533f38e827975",
+  "translation": "An energetic youth with bottomless cheer.",
+  "vndb_url": "https://vndb.org/c25756"
+}

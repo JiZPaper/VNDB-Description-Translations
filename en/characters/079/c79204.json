@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79204",
+  "type": "character",
+  "name": "Satia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A renowned lawyer in Lunar City. \n[spoiler]During Avalon's case, Hal entrusted her with the legal stuff.[/spoiler]",
+  "source_sha256": "ec03d645ee9ecb25ed11039ff7fd8b6f8d8d4d627c95a139bef35a5e4e2b8546",
+  "translation": "A renowned lawyer in Lunar City. \n[spoiler]During Avalon's case, Hal entrusted her with the legal stuff.[/spoiler]",
+  "vndb_url": "https://vndb.org/c79204"
+}

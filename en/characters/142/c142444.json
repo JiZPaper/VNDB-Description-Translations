@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c142444",
+  "type": "character",
+  "name": "Mio-chan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Driving assistant AI installed in Rainn's car by the insurance company.",
+  "source_sha256": "8e0c1de866027b007d7365446a98ff389ca38a0972bb8a0e79c28184d29d70ab",
+  "translation": "Driving assistant AI installed in Rainn's car by the insurance company.",
+  "vndb_url": "https://vndb.org/c142444"
+}

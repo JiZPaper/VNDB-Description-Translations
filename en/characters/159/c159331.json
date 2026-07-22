@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159331",
+  "type": "character",
+  "name": "Papa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Chiyori's father.",
+  "source_sha256": "63cde4ef460ab1cd028fcbf87a6e550bf5edcbd1187ba1a95c88eeeeabf2ff78",
+  "translation": "The Chiyori's father.",
+  "vndb_url": "https://vndb.org/c159331"
+}

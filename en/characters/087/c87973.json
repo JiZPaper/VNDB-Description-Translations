@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87973",
+  "type": "character",
+  "name": "Player",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]You, the player. You have been controlling Delta and Earthes through technology developed by the inhabitants of the Soreil.[/spoiler]",
+  "source_sha256": "bdd48376212eb73424cdb26a9021c0cb131af6c78ab4b68d1f63bb0f7807424a",
+  "translation": "[spoiler]You, the player. You have been controlling Delta and Earthes through technology developed by the inhabitants of the Soreil.[/spoiler]",
+  "vndb_url": "https://vndb.org/c87973"
+}

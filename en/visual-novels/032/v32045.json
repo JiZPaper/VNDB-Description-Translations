@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32045",
+  "type": "visual_novel",
+  "name": "Campus Pulse",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "It's welcome week at Kensley University, and you've just been promoted to feature writer for the Daily Pulse! Who will you meet at the Kensley rooftop party, and can you handle the heat...?",
+  "source_sha256": "6ce15b14dc8df27ed0cf55e68d2a978c15197df6163fe73d2efee0597519f78c",
+  "translation": "It's welcome week at Kensley University, and you've just been promoted to feature writer for the Daily Pulse! Who will you meet at the Kensley rooftop party, and can you handle the heat...?",
+  "vndb_url": "https://vndb.org/v32045"
+}

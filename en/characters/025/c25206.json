@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25206",
+  "type": "character",
+  "name": "White Rabbit",
+  "original_name": "白兎",
+  "language": "en",
+  "source_language": "en",
+  "source": "He drags you to underground.",
+  "source_sha256": "a7c769629c1fb891c9ac242247aba1fd07bc9395111e03f68c9421da122cbe9b",
+  "translation": "He drags you to underground.",
+  "vndb_url": "https://vndb.org/c25206"
+}

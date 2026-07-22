@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53567",
+  "type": "visual_novel",
+  "name": "Ushio and Tora",
+  "original_name": "うしおととら",
+  "language": "en",
+  "source_language": "en",
+  "source": "An interactive manga based on the Ushio and Tora series by Kazuhiro Fujita.  It was released as part of a series of interactive manga called MangaRom",
+  "source_sha256": "dfda1312eaddd2b42b958b78565dba6e74b7a8d2c4b746aa8ee2feae9422f98f",
+  "translation": "An interactive manga based on the Ushio and Tora series by Kazuhiro Fujita.  It was released as part of a series of interactive manga called MangaRom",
+  "vndb_url": "https://vndb.org/v53567"
+}

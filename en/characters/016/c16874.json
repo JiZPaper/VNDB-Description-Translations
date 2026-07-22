@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c16874",
+  "type": "character",
+  "name": "Colette",
+  "original_name": "コレット",
+  "language": "en",
+  "source_language": "en",
+  "source": "Childhood Friend of Emilio.",
+  "source_sha256": "d2cd0ea75928bf49f27453a3603436b3f729288df23069f123897e0078a19a93",
+  "translation": "Childhood Friend of Emilio.",
+  "vndb_url": "https://vndb.org/c16874"
+}

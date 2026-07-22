@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115518",
+  "type": "character",
+  "name": "Cyborg",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of team titans.",
+  "source_sha256": "ffb4599af9607a526f82cb8c76081beb3cee918caa1b35bf4095d2a915df1738",
+  "translation": "A member of team titans.",
+  "vndb_url": "https://vndb.org/c115518"
+}

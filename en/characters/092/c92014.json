@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92014",
+  "type": "character",
+  "name": "Sofie",
+  "original_name": "ソフィー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Dietrich's acquaintance.",
+  "source_sha256": "63c134ff4cdb10b1ca25c09f04b679c30b220f5ea840744d5b3b1d0572f79f23",
+  "translation": "Dietrich's acquaintance.",
+  "vndb_url": "https://vndb.org/c92014"
+}

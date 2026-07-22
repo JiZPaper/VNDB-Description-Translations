@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89588",
+  "type": "character",
+  "name": "A friendly virus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "*posts image in SFW*\n*posts image in NSFW*",
+  "source_sha256": "8fa42bd09ea75805e693c3126f57a6cbc5dab1d202464f55931669e5d37990e6",
+  "translation": "*posts image in SFW*\n*posts image in NSFW*",
+  "vndb_url": "https://vndb.org/c89588"
+}

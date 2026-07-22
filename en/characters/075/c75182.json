@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75182",
+  "type": "character",
+  "name": "Bookstore Keeper",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A character where you can buy manga from.",
+  "source_sha256": "d280426243354ba84b1fc7dd8d1a4b5269f48d24edb5c129155efbbc7ddaa62d",
+  "translation": "A character where you can buy manga from.",
+  "vndb_url": "https://vndb.org/c75182"
+}

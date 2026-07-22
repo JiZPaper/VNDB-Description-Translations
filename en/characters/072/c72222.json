@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c72222",
+  "type": "character",
+  "name": "Ricardo",
+  "original_name": "リカルド",
+  "language": "en",
+  "source_language": "en",
+  "source": "Amnesiac boy who dreams of becoming a professional gardener.",
+  "source_sha256": "c5e9ae9f88cf5fc66a4920313f4cf1f51ef7b401f6227eae8bfc2eeb65354418",
+  "translation": "Amnesiac boy who dreams of becoming a professional gardener.",
+  "vndb_url": "https://vndb.org/c72222"
+}

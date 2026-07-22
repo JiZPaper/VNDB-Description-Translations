@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166176",
+  "type": "character",
+  "name": "Narrator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Reads the chapter titles.",
+  "source_sha256": "5acdbfd44f1bf5372dbfa025847158f9c51c7747c464bf3b9e78710596618372",
+  "translation": "Reads the chapter titles.",
+  "vndb_url": "https://vndb.org/c166176"
+}

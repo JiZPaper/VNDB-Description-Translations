@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c63878",
+  "type": "character",
+  "name": "Ellie",
+  "original_name": "エリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A high-ranking member of the Church in the Braudel Kingdom capital.\n\nAffable and generous, her saintly behaviour draws admirers from afar. However, her popularity draws the ire of the Church's upper echelons who exile her from the capital to preserve their vested interests.\n\nEllie makes her appearance in the game after players construct the cathedral building.",
+  "source_sha256": "d3d90886f724d75d561e7c7751114705d9f831ee926a43d3e30f6837d6f86ff0",
+  "translation": "A high-ranking member of the Church in the Braudel Kingdom capital.\n\nAffable and generous, her saintly behaviour draws admirers from afar. However, her popularity draws the ire of the Church's upper echelons who exile her from the capital to preserve their vested interests.\n\nEllie makes her appearance in the game after players construct the cathedral building.",
+  "vndb_url": "https://vndb.org/c63878"
+}

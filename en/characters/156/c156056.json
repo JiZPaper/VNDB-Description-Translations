@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156056",
+  "type": "character",
+  "name": "Yetti",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Yetti, mysterious shapeshifter.",
+  "source_sha256": "2e84b0f654347e5ff35315ba814b25a3726bb5ed85fb3fcdc384077e0287f254",
+  "translation": "Yetti, mysterious shapeshifter.",
+  "vndb_url": "https://vndb.org/c156056"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76974",
+  "type": "character",
+  "name": "Katou",
+  "original_name": "加藤",
+  "language": "en",
+  "source_language": "en",
+  "source": "The teacher in charge of the infirmary.",
+  "source_sha256": "4440df2fd4fc147fccc7e10021f0848d9f816ca26870c707707ca116a7613853",
+  "translation": "The teacher in charge of the infirmary.",
+  "vndb_url": "https://vndb.org/c76974"
+}

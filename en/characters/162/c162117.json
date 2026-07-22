@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162117",
+  "type": "character",
+  "name": "Charlie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Susan's late husband.",
+  "source_sha256": "c2f0821333994cd7044705d7746a0079787b8a7d2e655be7c4256016787fe494",
+  "translation": "Susan's late husband.",
+  "vndb_url": "https://vndb.org/c162117"
+}

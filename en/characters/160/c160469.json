@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160469",
+  "type": "character",
+  "name": "Narrator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young woman of unknown name and face who narrates the story. Girlfriend of [url=/c160470]Rosa[/url] prior to her death.",
+  "source_sha256": "dd2a1f6a1d0547e4caa54b59bf29f1c45b8e67b098fe529a867f04286fc79497",
+  "translation": "A young woman of unknown name and face who narrates the story. Girlfriend of [url=/c160470]Rosa[/url] prior to her death.",
+  "vndb_url": "https://vndb.org/c160469"
+}

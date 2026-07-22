@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97000",
+  "type": "character",
+  "name": "Harumi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the maids in the competition.",
+  "source_sha256": "4e508a02275d05788a4be2a0f4edd7b1b59ab977e95ddc27883a17613be54814",
+  "translation": "One of the maids in the competition.",
+  "vndb_url": "https://vndb.org/c97000"
+}

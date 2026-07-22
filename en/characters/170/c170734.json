@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170734",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "A new passenger with no memories who has wandered onto this ghostly luxury liner.\n\n[From [url=https://farapo.jp/en/]farapo.jp[/url]]",
+  "source_sha256": "6751f6dca9cf57041b84eb38a1bf14e6bcc82f5dcb7e23d4fa38242a9464bf08",
+  "translation": "A new passenger with no memories who has wandered onto this ghostly luxury liner.\n\n[From [url=https://farapo.jp/en/]farapo.jp[/url]]",
+  "vndb_url": "https://vndb.org/c170734"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30626",
+  "type": "visual_novel",
+  "name": "Mystery House",
+  "original_name": "ミステリーハウス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mystery House is likely the very first Japanese full-scale text adventure game with pictures. The game is inspired by [url=/v26969]Hi-Res Adventure #1: Mystery House[/url] and although it uses the same name and gameplay, there is no Agatha Christie-esque subplot, no competitors and the player is alone. The objective of the game is to find a treasure that is hidden somewhere in the house and then escape with it. Several items can be found around the house that can be picked up and used in order to proceed. There are also various hazards that will kill the player's character if not careful enough.\n\n[From [url=https://www.mobygames.com/game/mystery-house]Mobygames[/url]]",
+  "source_sha256": "240e0a54c2eed97f92b6cf17ace061b2906290de852bc8acbd7a8d5a7c995695",
+  "translation": "Mystery House is likely the very first Japanese full-scale text adventure game with pictures. The game is inspired by [url=/v26969]Hi-Res Adventure #1: Mystery House[/url] and although it uses the same name and gameplay, there is no Agatha Christie-esque subplot, no competitors and the player is alone. The objective of the game is to find a treasure that is hidden somewhere in the house and then escape with it. Several items can be found around the house that can be picked up and used in order to proceed. There are also various hazards that will kill the player's character if not careful enough.\n\n[From [url=https://www.mobygames.com/game/mystery-house]Mobygames[/url]]",
+  "vndb_url": "https://vndb.org/v30626"
+}

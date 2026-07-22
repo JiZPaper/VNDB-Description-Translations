@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162781",
+  "type": "character",
+  "name": "Zal'ren",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Commander of the [spoiler]99th Legion[/spoiler]",
+  "source_sha256": "d5a46a16aedc22a8fea87af309bfe78c9cf80125a0319ac56a8e2beed594f829",
+  "translation": "Commander of the [spoiler]99th Legion[/spoiler]",
+  "vndb_url": "https://vndb.org/c162781"
+}

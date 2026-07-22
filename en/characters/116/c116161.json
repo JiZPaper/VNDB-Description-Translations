@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116161",
+  "type": "character",
+  "name": "Witch",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The \"evil\" witch.\n\n[spoiler]She is actually called Morgan.[/spoiler]",
+  "source_sha256": "2b245de7964a1c778bbf7b143257d594db9b4a4095b4e46bbf7a4c55c6a38d4b",
+  "translation": "The \"evil\" witch.\n\n[spoiler]She is actually called Morgan.[/spoiler]",
+  "vndb_url": "https://vndb.org/c116161"
+}

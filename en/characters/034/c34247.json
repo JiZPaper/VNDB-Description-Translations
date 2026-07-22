@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34247",
+  "type": "character",
+  "name": "Ondine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A high school student who lives with her father.",
+  "source_sha256": "4997c80735a3ec0b56ee10c2173dc9dc89550a0e6f07a31cb11048739e4d2c69",
+  "translation": "A high school student who lives with her father.",
+  "vndb_url": "https://vndb.org/c34247"
+}

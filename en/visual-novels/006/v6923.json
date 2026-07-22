@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6923",
+  "type": "visual_novel",
+  "name": "BOThurt",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A game the dev made out of frustration that too many of their friends were playing Cosmic Break.",
+  "source_sha256": "63dabb027f679a324ebb3bfe785ec998c3b39c9a773cabfc793f79632bfce899",
+  "translation": "A game the dev made out of frustration that too many of their friends were playing Cosmic Break.",
+  "vndb_url": "https://vndb.org/v6923"
+}

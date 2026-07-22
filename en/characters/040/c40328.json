@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40328",
+  "type": "character",
+  "name": "Mysterious Beauty",
+  "original_name": "謎の美女",
+  "language": "en",
+  "source_language": "en",
+  "source": "Affiliation: Unknown\nPost: Unknown\nBirthplace: Finland (Helsinki)\n\nA mysterious woman who works for a different faction than everybody else. Her motives are unknown but she seems to know a lot about the current events.",
+  "source_sha256": "8c833f548e78dd116742ce96c5e5c5c974ce00533eb0d55278d98ccde8ab121f",
+  "translation": "Affiliation: Unknown\nPost: Unknown\nBirthplace: Finland (Helsinki)\n\nA mysterious woman who works for a different faction than everybody else. Her motives are unknown but she seems to know a lot about the current events.",
+  "vndb_url": "https://vndb.org/c40328"
+}

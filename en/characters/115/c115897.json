@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115897",
+  "type": "character",
+  "name": "Arc",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An ignorant member of the student council.",
+  "source_sha256": "915223d017b8cfc4470efbd069f4f52af40fb70db4989fffa21f77f1263ba29b",
+  "translation": "An ignorant member of the student council.",
+  "vndb_url": "https://vndb.org/c115897"
+}

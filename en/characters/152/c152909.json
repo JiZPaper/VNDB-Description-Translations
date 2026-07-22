@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152909",
+  "type": "character",
+  "name": "Caucasus Bryan",
+  "original_name": "코카서스 브리안",
+  "language": "en",
+  "source_language": "en",
+  "source": "Skill: Progression-based trace sight",
+  "source_sha256": "43de29894ed624d1f5f3961ecee1ddf03f13200f629cceca103383b058c4ec85",
+  "translation": "Skill: Progression-based trace sight",
+  "vndb_url": "https://vndb.org/c152909"
+}

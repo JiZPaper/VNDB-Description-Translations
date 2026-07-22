@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c59033",
+  "type": "character",
+  "name": "Meril",
+  "original_name": "メリル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A spirit that controls greenery.",
+  "source_sha256": "8d41899f05c4cd76a34a511d5379417940da9df2d13d40ad4b157ce4bf09facb",
+  "translation": "A spirit that controls greenery.",
+  "vndb_url": "https://vndb.org/c59033"
+}

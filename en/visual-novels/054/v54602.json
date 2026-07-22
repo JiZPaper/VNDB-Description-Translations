@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54602",
+  "type": "visual_novel",
+  "name": "corru.observer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Corru.Observer is a hard sci-fi visual novel, point-and-click adventure about a contractor hired by an intelligence agency to hack into an alien biological computing device dredged up from the bottom of the ocean.",
+  "source_sha256": "5e5b3f19efdedfe56f0e0e40db3ebab5c6aee7530d4e06e458f6e657966d063c",
+  "translation": "Corru.Observer is a hard sci-fi visual novel, point-and-click adventure about a contractor hired by an intelligence agency to hack into an alien biological computing device dredged up from the bottom of the ocean.",
+  "vndb_url": "https://vndb.org/v54602"
+}

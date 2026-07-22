@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89206",
+  "type": "character",
+  "name": "Chief",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Chief of Misora's village.",
+  "source_sha256": "1438d6889960e44211ed1b44811355c20bd48b0fe8df82fdd33e1323115c78b6",
+  "translation": "Chief of Misora's village.",
+  "vndb_url": "https://vndb.org/c89206"
+}

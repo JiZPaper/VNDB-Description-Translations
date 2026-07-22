@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20701",
+  "type": "visual_novel",
+  "name": "Fairytale Symphony",
+  "original_name": "フェアリーテイル・シンフォニー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A \"definitive edition\" of [url=/v16796]Fairytale Requiem[/url], which comes bundled with [url=/v18425]Fairytale Encore[/url], a bonus alternative scenario, and a compact release of the Visual Fanbook.",
+  "source_sha256": "a05d1f603943cacacb7810fafad43d3a5e67e7dbf4d6186b06ab1c2b3cd874f7",
+  "translation": "A \"definitive edition\" of [url=/v16796]Fairytale Requiem[/url], which comes bundled with [url=/v18425]Fairytale Encore[/url], a bonus alternative scenario, and a compact release of the Visual Fanbook.",
+  "vndb_url": "https://vndb.org/v20701"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90352",
+  "type": "character",
+  "name": "Narrator (female voice)",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The underpaid and overworked narrator. Sometimes cheery, sometimes badass!",
+  "source_sha256": "bce11da9622e1b3e2f8c0484af6f12912513f9914078322f343c75d3146a48c2",
+  "translation": "The underpaid and overworked narrator. Sometimes cheery, sometimes badass!",
+  "vndb_url": "https://vndb.org/c90352"
+}

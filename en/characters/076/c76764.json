@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76764",
+  "type": "character",
+  "name": "Stella Rose",
+  "original_name": "ステラ・ローズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Game original character.",
+  "source_sha256": "10a1556b3deb102de38c8881ed527651bdb597bb068c224138f94758484a494b",
+  "translation": "Game original character.",
+  "vndb_url": "https://vndb.org/c76764"
+}

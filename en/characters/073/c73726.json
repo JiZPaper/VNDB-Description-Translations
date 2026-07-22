@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73726",
+  "type": "character",
+  "name": "Mike",
+  "original_name": "ミケ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Robot\n\nBlack cat, can transform into humanoid, also a partner of [url=/c73725]Com-Chan[/url].",
+  "source_sha256": "287d0cc0f31cfd092c069442bba68114140835097d65bd985f8e76ccf724fe78",
+  "translation": "Occupation: Robot\n\nBlack cat, can transform into humanoid, also a partner of [url=/c73725]Com-Chan[/url].",
+  "vndb_url": "https://vndb.org/c73726"
+}

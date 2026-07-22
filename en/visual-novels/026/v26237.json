@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26237",
+  "type": "visual_novel",
+  "name": "Mountain Town",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short game about being stranded in a small mountain town. - [From [url=https://caesarcub.itch.io/mountain-town]Itch.Io[/url]]",
+  "source_sha256": "671513d19a758bc5db05353c8b1006e9cbfcc1f6c297d85ec8e413b0d7abb6af",
+  "translation": "A short game about being stranded in a small mountain town. - [From [url=https://caesarcub.itch.io/mountain-town]Itch.Io[/url]]",
+  "vndb_url": "https://vndb.org/v26237"
+}

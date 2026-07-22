@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106486",
+  "type": "character",
+  "name": "Sara",
+  "original_name": "さら",
+  "language": "en",
+  "source_language": "en",
+  "source": "A long-range combat type girl.\n\nShe hides behind cover and shoots enemies down.\n\n[From [url=https://www.solfa.jp/sg13/]Official website[/url]]",
+  "source_sha256": "2dd7ad27338746eb312ec839168e67b2e198ed12c00b4a91d7bd53cda01e3c4d",
+  "translation": "A long-range combat type girl.\n\nShe hides behind cover and shoots enemies down.\n\n[From [url=https://www.solfa.jp/sg13/]Official website[/url]]",
+  "vndb_url": "https://vndb.org/c106486"
+}

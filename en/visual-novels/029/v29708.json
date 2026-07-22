@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29708",
+  "type": "visual_novel",
+  "name": "Tokimeki Memorial Selection Fujisaki Shiori",
+  "original_name": "ときめきメモリアルＳｅｌｅｃｔｉｏｎ 藤崎詩織",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fandisc focused on main heroine Fujisaki Shiori. It contains minigames, interactive dates and two music clips where Shiori sings in character as an idol.",
+  "source_sha256": "ffe7be38969d78ccae63d2ea3f49757837522369bde16d9ceae4fdae54410e69",
+  "translation": "A fandisc focused on main heroine Fujisaki Shiori. It contains minigames, interactive dates and two music clips where Shiori sings in character as an idol.",
+  "vndb_url": "https://vndb.org/v29708"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6152",
+  "type": "visual_novel",
+  "name": "Saorin to Issho!!",
+  "original_name": "さおりんといっしょ！！",
+  "language": "en",
+  "source_language": "en",
+  "source": "Leaf's fandisc",
+  "source_sha256": "926140eedf3349d1fbabdf07cca7c248b36dc37071841d014f4eb3999574c001",
+  "translation": "Leaf's fandisc",
+  "vndb_url": "https://vndb.org/v6152"
+}

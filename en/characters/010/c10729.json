@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c10729",
+  "type": "character",
+  "name": "Euphoria Trinity",
+  "original_name": "ユーフォリア・トリニティ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Daughter of Trinity family that runs Trinity Hospital, she works there as a nurse and wants to be a doctor. Can use healing magic.",
+  "source_sha256": "01251ac110b775a283d65be486e4a50378ad7ae66c1c8267c0d21926b462de4f",
+  "translation": "Daughter of Trinity family that runs Trinity Hospital, she works there as a nurse and wants to be a doctor. Can use healing magic.",
+  "vndb_url": "https://vndb.org/c10729"
+}

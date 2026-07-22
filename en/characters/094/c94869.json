@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94869",
+  "type": "character",
+  "name": "Mr. Akagi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Yuuma's father",
+  "source_sha256": "0a046bff894c738db880f208b0eb529602357cc01b653a42628547bba9297233",
+  "translation": "Yuuma's father",
+  "vndb_url": "https://vndb.org/c94869"
+}

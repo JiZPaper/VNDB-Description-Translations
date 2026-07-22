@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122296",
+  "type": "character",
+  "name": "Cop",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Police officer on the scene of the crime.",
+  "source_sha256": "819201be78b39aef228edb788a52ba1b77cb150747d96a0b69b0e115bf38f922",
+  "translation": "Police officer on the scene of the crime.",
+  "vndb_url": "https://vndb.org/c122296"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71311",
+  "type": "character",
+  "name": "Agnes Dumas",
+  "original_name": "アニエス・デュマ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of the game, a trainee at Aria Company.",
+  "source_sha256": "5a071cadfae19b71e313861bc6a35615314d1a6b37ad0c37a35bc0d4bd64bb17",
+  "translation": "The protagonist of the game, a trainee at Aria Company.",
+  "vndb_url": "https://vndb.org/c71311"
+}

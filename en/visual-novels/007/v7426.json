@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7426",
+  "type": "visual_novel",
+  "name": "Academy Hetalia: Give back those pants!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as Hungary, searching around the school for Austria's missing underpants. A lot of other people are having pants-related trouble as well.",
+  "source_sha256": "f1d449fd202e7ce3b9532a962273f36ef184af90e40a4e597723051111bc0e69",
+  "translation": "You play as Hungary, searching around the school for Austria's missing underpants. A lot of other people are having pants-related trouble as well.",
+  "vndb_url": "https://vndb.org/v7426"
+}

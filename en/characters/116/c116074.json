@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116074",
+  "type": "character",
+  "name": "Dr. Jones",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A doctor specializing in blood.",
+  "source_sha256": "87f9be6ffc01170271e1894b76570d899b84d522e8a0a50e4f98a105761c1dfc",
+  "translation": "A doctor specializing in blood.",
+  "vndb_url": "https://vndb.org/c116074"
+}

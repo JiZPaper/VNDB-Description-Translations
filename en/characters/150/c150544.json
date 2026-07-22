@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150544",
+  "type": "character",
+  "name": "Nurse",
+  "original_name": "看護婦",
+  "language": "en",
+  "source_language": "en",
+  "source": "(Voiced by an unspecified actress)",
+  "source_sha256": "2c4b3b8960a587c3609456bc949ff0db05073f71facab14df39a9cbebf463551",
+  "translation": "(Voiced by an unspecified actress)",
+  "vndb_url": "https://vndb.org/c150544"
+}

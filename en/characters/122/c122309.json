@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122309",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A copywriter that needs to get space on her computer.",
+  "source_sha256": "5afae90cb128b386a9b3bffa2d838e5b068cf1036acc9e42cf65960a86917bdc",
+  "translation": "A copywriter that needs to get space on her computer.",
+  "vndb_url": "https://vndb.org/c122309"
+}

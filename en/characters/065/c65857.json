@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65857",
+  "type": "character",
+  "name": "Portia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The trusted handmaiden with a penchant for snooping.\n\nFavourite food: Bread pudding\nFavourite drink: Beer\nFavourite flower: Sweet pea",
+  "source_sha256": "f48e2547e12f24b3720b1ef2fde3b9887de8cf1885bb9f63b5fa5c6a0814a4cb",
+  "translation": "The trusted handmaiden with a penchant for snooping.\n\nFavourite food: Bread pudding\nFavourite drink: Beer\nFavourite flower: Sweet pea",
+  "vndb_url": "https://vndb.org/c65857"
+}

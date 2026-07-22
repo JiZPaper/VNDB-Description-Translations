@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65216",
+  "type": "visual_novel",
+  "name": "GOODBYE",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Life is when you move forward.",
+  "source_sha256": "cd389454e2bf9184e162cbe110f8f8e326097d53730c94a4b28dc3a24ba88160",
+  "translation": "Life is when you move forward.",
+  "vndb_url": "https://vndb.org/v65216"
+}

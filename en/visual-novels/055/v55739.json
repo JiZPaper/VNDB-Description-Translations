@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55739",
+  "type": "visual_novel",
+  "name": "My Valentine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Valentine's Day is coming, and as you were planning to spend it alone, think of it as another day in your life. Your friend came up with another idea!",
+  "source_sha256": "c958e80ec29b22597b1d5d0662ed912b08cef63b0255cb7f6a371d0a53681d39",
+  "translation": "Valentine's Day is coming, and as you were planning to spend it alone, think of it as another day in your life. Your friend came up with another idea!",
+  "vndb_url": "https://vndb.org/v55739"
+}

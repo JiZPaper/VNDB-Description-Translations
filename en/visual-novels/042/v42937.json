@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42937",
+  "type": "visual_novel",
+  "name": "He",
+  "original_name": "河",
+  "language": "en",
+  "source_language": "en",
+  "source": "A love letter to my girlfriend",
+  "source_sha256": "f4fd10de4576565bcee091a17c5dec3defc0912a0f63c9b257fdc9e609fa3642",
+  "translation": "A love letter to my girlfriend",
+  "vndb_url": "https://vndb.org/v42937"
+}

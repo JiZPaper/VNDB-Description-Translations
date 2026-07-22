@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150660",
+  "type": "character",
+  "name": "Cafeteria Lady",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The cafeteria lady who cares about the student patrons wisely and with understanding. She adds extra food to food-lovers and cuts down food to low-eaters.",
+  "source_sha256": "fd0e04bd9a45400373ec078aea63021e5f4533ec1330cb8321829559ec5cca36",
+  "translation": "The cafeteria lady who cares about the student patrons wisely and with understanding. She adds extra food to food-lovers and cuts down food to low-eaters.",
+  "vndb_url": "https://vndb.org/c150660"
+}

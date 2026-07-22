@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11696",
+  "type": "character",
+  "name": "Manager",
+  "original_name": "店長",
+  "language": "en",
+  "source_language": "en",
+  "source": "The manager of the bar where [url=http://vndb.org/c11689]Reimi[/url] and [url=http://vndb.org/c11693]Yuusaku[/url] work.",
+  "source_sha256": "e4324afde894675f9c80ce3a5be5364ec7431ee8e990ce0dc5daadf49985cc4c",
+  "translation": "The manager of the bar where [url=http://vndb.org/c11689]Reimi[/url] and [url=http://vndb.org/c11693]Yuusaku[/url] work.",
+  "vndb_url": "https://vndb.org/c11696"
+}

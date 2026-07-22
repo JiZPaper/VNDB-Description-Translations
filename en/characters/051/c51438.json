@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51438",
+  "type": "character",
+  "name": "Milk",
+  "original_name": "ミルク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Feline species: Unknown\n\nA cat vendor who works as a takoyaki seller in the park.",
+  "source_sha256": "383598ad99ff1ca17690008cb22cc117a2aef9c022efc1f338edbbbb9c03870d",
+  "translation": "Feline species: Unknown\n\nA cat vendor who works as a takoyaki seller in the park.",
+  "vndb_url": "https://vndb.org/c51438"
+}

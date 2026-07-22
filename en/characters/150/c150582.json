@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150582",
+  "type": "character",
+  "name": "David Jones",
+  "original_name": "デビッド・ジョーンズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "CEO of F&D Trading, a company facing bankruptcy as a result, among other things, of the assassination of his business partner.\nHe's in desperate need of money.",
+  "source_sha256": "ca6ea96430c3773ac1c8aed8a23559066a9471b4b6fabd3fb64e4d6a724e2839",
+  "translation": "CEO of F&D Trading, a company facing bankruptcy as a result, among other things, of the assassination of his business partner.\nHe's in desperate need of money.",
+  "vndb_url": "https://vndb.org/c150582"
+}

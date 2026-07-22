@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88626",
+  "type": "character",
+  "name": "Stall Holder",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Seller of old (possibly) stolen military devices",
+  "source_sha256": "de59484f922df057f4ba8f33749a9b098653064463b70aada5047965a9f6e40f",
+  "translation": "Seller of old (possibly) stolen military devices",
+  "vndb_url": "https://vndb.org/c88626"
+}

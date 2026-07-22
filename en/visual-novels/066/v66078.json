@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66078",
+  "type": "visual_novel",
+  "name": "Saigo no Kokeisha",
+  "original_name": "最後の後継者",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Higurashi fangame",
+  "source_sha256": "4122f1bedde7e25c56d1f6e215bdf9fb16112d49bded66645fcf0d744d892106",
+  "translation": "A Higurashi fangame",
+  "vndb_url": "https://vndb.org/v66078"
+}

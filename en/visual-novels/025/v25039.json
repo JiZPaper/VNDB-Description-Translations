@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25039",
+  "type": "visual_novel",
+  "name": "Butterfly Affection ~Kowaku no Youchuu~",
+  "original_name": "Butterfly Affection ~蠱惑の幼虫~",
+  "language": "en",
+  "source_language": "en",
+  "source": "You found a mysterious life form near your home. Do you take it in or do you leave it be?",
+  "source_sha256": "7e29ca4a43f9e71b88fc8c786ef07b973b7cf2defc9c14839120c7ddcb935ad8",
+  "translation": "You found a mysterious life form near your home. Do you take it in or do you leave it be?",
+  "vndb_url": "https://vndb.org/v25039"
+}

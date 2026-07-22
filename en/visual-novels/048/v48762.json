@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48762",
+  "type": "visual_novel",
+  "name": "Ryuuki ga Ochita Hi",
+  "original_name": "龍姫が堕ちた日",
+  "language": "en",
+  "source_language": "en",
+  "source": "An additional scenario for [url=/v3052]Shouryuu Senki Tenmu[/url] present in \"LiLiM Premium Box -Bi Ryuu Shouten-\".",
+  "source_sha256": "3ae92d261c265511c7f25698cd2f0b9b3a359f52dd0155294de5eef854e9bf58",
+  "translation": "An additional scenario for [url=/v3052]Shouryuu Senki Tenmu[/url] present in \"LiLiM Premium Box -Bi Ryuu Shouten-\".",
+  "vndb_url": "https://vndb.org/v48762"
+}

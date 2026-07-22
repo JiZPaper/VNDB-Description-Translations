@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32106",
+  "type": "visual_novel",
+  "name": "Hinori",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a short visual novel about Hinori, a depressed thrift store worker who also happens to be a friend of yours!\n\n[From [url=https://flaiire.itch.io/hinori]Itch.io[/url]]",
+  "source_sha256": "f40cc1f029641bb4cc4e64ab6481f6f56c417a3b569675967c5fd77f61cfefed",
+  "translation": "This is a short visual novel about Hinori, a depressed thrift store worker who also happens to be a friend of yours!\n\n[From [url=https://flaiire.itch.io/hinori]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v32106"
+}

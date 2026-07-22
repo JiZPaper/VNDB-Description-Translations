@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34185",
+  "type": "character",
+  "name": "Arsene Lupin",
+  "original_name": "アルセーヌ・ルパン",
+  "language": "en",
+  "source_language": "en",
+  "source": "The era's greatest phantom thief.\nAge unknown.\nHobby: Flirting\nFavorite Food: Fish & Chips",
+  "source_sha256": "57a00e7eda326028047fe9617bdc759d00e0affb3d5f5938d00b98116d3db830",
+  "translation": "The era's greatest phantom thief.\nAge unknown.\nHobby: Flirting\nFavorite Food: Fish & Chips",
+  "vndb_url": "https://vndb.org/c34185"
+}

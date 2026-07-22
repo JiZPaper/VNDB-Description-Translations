@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82849",
+  "type": "character",
+  "name": "Mrs. Stokes",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mimi's mother.",
+  "source_sha256": "c2d29ab24f30e2e845a29881855b0aa04d6b4a0b75c0dec90ab72c84e6522493",
+  "translation": "Mimi's mother.",
+  "vndb_url": "https://vndb.org/c82849"
+}

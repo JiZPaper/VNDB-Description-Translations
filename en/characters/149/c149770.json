@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c149770",
+  "type": "character",
+  "name": "Aria",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Senior\n\n- Tends the greenhouse\n- Volunteers in the front office\n- [b]Prefers plants to people[/b]\n- May open up under the right care",
+  "source_sha256": "6b1ae3f999cdbffeb863956f57d28cc6d43dfd270ce456fed2a8fc67cd96871d",
+  "translation": "Senior\n\n- Tends the greenhouse\n- Volunteers in the front office\n- [b]Prefers plants to people[/b]\n- May open up under the right care",
+  "vndb_url": "https://vndb.org/c149770"
+}

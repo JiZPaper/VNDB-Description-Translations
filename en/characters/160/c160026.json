@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160026",
+  "type": "character",
+  "name": "Johan Anders",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Football Player",
+  "source_sha256": "f79c6d200fa771c951ce53d869aab63c390ef45a49a45102882666f71b22d01d",
+  "translation": "Football Player",
+  "vndb_url": "https://vndb.org/c160026"
+}

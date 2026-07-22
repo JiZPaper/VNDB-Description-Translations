@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25525",
+  "type": "character",
+  "name": "Longma",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A skittish, horse-like creature who works at the library.",
+  "source_sha256": "22f1679b0e55e301cfe80f34a71c0bdc327ef361df6f6a59bf35e46fa0389ff1",
+  "translation": "A skittish, horse-like creature who works at the library.",
+  "vndb_url": "https://vndb.org/c25525"
+}

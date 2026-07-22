@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159238",
+  "type": "character",
+  "name": "Rosey Thorne",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The security technician at Bluecorp 2.",
+  "source_sha256": "4d3baaee87a02f72cac4a134b2e56edfee0f2ea9d4511c68bd2997b4c4c229af",
+  "translation": "The security technician at Bluecorp 2.",
+  "vndb_url": "https://vndb.org/c159238"
+}

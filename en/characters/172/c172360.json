@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172360",
+  "type": "character",
+  "name": "Sheila",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gym's personal trainer but...",
+  "source_sha256": "9e16eef12a251ff5aef45abab9968aff22e2defd813b61207de20a125ec556a9",
+  "translation": "Gym's personal trainer but...",
+  "vndb_url": "https://vndb.org/c172360"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156770",
+  "type": "character",
+  "name": "Grace",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Concierge of the apartment complexes that Rosa owns.",
+  "source_sha256": "31e6b8db27305b2ff1c35c0525909a91907eeba97e037b42b785a10062062219",
+  "translation": "Concierge of the apartment complexes that Rosa owns.",
+  "vndb_url": "https://vndb.org/c156770"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12644",
+  "type": "character",
+  "name": "Metis Zew Jupis",
+  "original_name": "メティス・ゼウ・ジュピス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Princess.\nLikes: Taking walks outside the castle, candy.\nDislikes: Official matters, formal ceremonies, annual events.",
+  "source_sha256": "8f899711e9a6a4dee50c7c145c37a4e03db394d724ec00f0469eb6aa99442ce7",
+  "translation": "Occupation: Princess.\nLikes: Taking walks outside the castle, candy.\nDislikes: Official matters, formal ceremonies, annual events.",
+  "vndb_url": "https://vndb.org/c12644"
+}

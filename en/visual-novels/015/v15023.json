@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15023",
+  "type": "visual_novel",
+  "name": "Kamigami no Asobi InFinite",
+  "original_name": "神々の悪戯 InFinite",
+  "language": "en",
+  "source_language": "en",
+  "source": "Love is pain\n\n--Yes, that's a never ending story.",
+  "source_sha256": "d714bcf41cbd626fc32d9889cca537f6c1353234e6e46d28ff9e143f5d9172df",
+  "translation": "Love is pain\n\n--Yes, that's a never ending story.",
+  "vndb_url": "https://vndb.org/v15023"
+}

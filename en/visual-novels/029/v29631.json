@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29631",
+  "type": "visual_novel",
+  "name": "Adventures With Anxiety!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A game about anxiety where you play as the anxiety.",
+  "source_sha256": "e7a4f9d37cb34a01c89dc2c8fccd39a4ed1af7bf30f1ab0d31218ab3bd191c3b",
+  "translation": "A game about anxiety where you play as the anxiety.",
+  "vndb_url": "https://vndb.org/v29631"
+}

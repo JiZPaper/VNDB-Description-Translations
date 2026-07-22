@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131622",
+  "type": "character",
+  "name": "Charlotte",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mother of [url=/c112612]Robin[/url].",
+  "source_sha256": "df39254c80857a488952f24e9fcf322060d86d8f0f93b45e0c2a2f4f3355e251",
+  "translation": "Mother of [url=/c112612]Robin[/url].",
+  "vndb_url": "https://vndb.org/c131622"
+}

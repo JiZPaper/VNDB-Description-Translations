@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9912",
+  "type": "visual_novel",
+  "name": "Towa no Sakura",
+  "original_name": "悠久ノ桜",
+  "language": "en",
+  "source_language": "en",
+  "source": "Every year when it becomes spring a great many people merrily gather in a nearby park.\n\n...There stands a single cherry tree.\nThe Eternal Cherry.\n\nIt's unknown how long it has stood there, but it's said to have lived for a thousand years.\nThough not many people know it by that name these days.\n\nThis year once again it's nearing the time of full bloom...",
+  "source_sha256": "100633aa2164555c73ac99cb75b145fe32e3428f674bca026ba4025df0606be0",
+  "translation": "Every year when it becomes spring a great many people merrily gather in a nearby park.\n\n...There stands a single cherry tree.\nThe Eternal Cherry.\n\nIt's unknown how long it has stood there, but it's said to have lived for a thousand years.\nThough not many people know it by that name these days.\n\nThis year once again it's nearing the time of full bloom...",
+  "vndb_url": "https://vndb.org/v9912"
+}

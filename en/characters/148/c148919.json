@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148919",
+  "type": "character",
+  "name": "Richard Chapters",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "John's father.",
+  "source_sha256": "d5ce1a96a09671bc54eacfe2d73c9d563a6fefc191e1be15d92af6ff610a931f",
+  "translation": "John's father.",
+  "vndb_url": "https://vndb.org/c148919"
+}

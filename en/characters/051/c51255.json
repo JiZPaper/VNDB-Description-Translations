@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51255",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl who downloaded a mysterious app that leads her into living in a closed, secured apartment owned by someone named Rika, who is also the founder of RFA.",
+  "source_sha256": "bf58b07f453df6f5c6768bdc88c6f79b1b1850ab6445f008990ae638b8b094a1",
+  "translation": "A girl who downloaded a mysterious app that leads her into living in a closed, secured apartment owned by someone named Rika, who is also the founder of RFA.",
+  "vndb_url": "https://vndb.org/c51255"
+}

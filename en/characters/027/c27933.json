@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c27933",
+  "type": "character",
+  "name": "Toopy",
+  "original_name": "トゥピ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A strange creature encountered by Domino and his students during their first visit to the Tower. They name the creature \"Toopy\" and adopt it as a pet.",
+  "source_sha256": "7da0770b7d13f0cc0d6b4dfe14b6d1756acadd5604afb7fc69e491e1d8817524",
+  "translation": "A strange creature encountered by Domino and his students during their first visit to the Tower. They name the creature \"Toopy\" and adopt it as a pet.",
+  "vndb_url": "https://vndb.org/c27933"
+}

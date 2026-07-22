@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99288",
+  "type": "character",
+  "name": "Thorman",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]The grandfather of Lia who was murdered by his apprentice Radnor. He was the original owner of the amulet of Egreth.[/spoiler]",
+  "source_sha256": "cc563b5fd0ac3b1cc06ba1e7d1d05f19b0afd0c2997d929bacc782f6ee9c724c",
+  "translation": "[spoiler]The grandfather of Lia who was murdered by his apprentice Radnor. He was the original owner of the amulet of Egreth.[/spoiler]",
+  "vndb_url": "https://vndb.org/c99288"
+}

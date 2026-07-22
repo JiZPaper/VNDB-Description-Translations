@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c74920",
+  "type": "character",
+  "name": "Kodama",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Starnova's dance instructor.",
+  "source_sha256": "e40064a691ae18229df32b1be31e38f889e3f29e5f53bf94e8923c49795defa7",
+  "translation": "Starnova's dance instructor.",
+  "vndb_url": "https://vndb.org/c74920"
+}

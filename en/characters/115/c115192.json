@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115192",
+  "type": "character",
+  "name": "Dad",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jing's father.",
+  "source_sha256": "8b470645b20b5f5c4b9d3feea0732d3b5da95a8bc6f6cdd920f4879eb531c4a2",
+  "translation": "Jing's father.",
+  "vndb_url": "https://vndb.org/c115192"
+}

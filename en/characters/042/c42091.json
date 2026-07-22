@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42091",
+  "type": "character",
+  "name": "Willem",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Dutch merchant seen wandering around in both Edo and Nagasaki.\n\nSeems to recognize [url=/c67450]Eduard[/url] from somewhere...",
+  "source_sha256": "cff9fc30d0806c98a6c65abd2d96647f910ca9eb1ff34e18da236966cd80e878",
+  "translation": "A Dutch merchant seen wandering around in both Edo and Nagasaki.\n\nSeems to recognize [url=/c67450]Eduard[/url] from somewhere...",
+  "vndb_url": "https://vndb.org/c42091"
+}

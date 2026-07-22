@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163817",
+  "type": "character",
+  "name": "Natasha",
+  "original_name": "Наташа",
+  "language": "en",
+  "source_language": "en",
+  "source": "Natasha is a girl Constantine encounters on the beach while traveling.",
+  "source_sha256": "779e0390a57820b8664c8adfbe72e4652c03ee51e808c39251d1cd9e019f3ac6",
+  "translation": "Natasha is a girl Constantine encounters on the beach while traveling.",
+  "vndb_url": "https://vndb.org/c163817"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20311",
+  "type": "visual_novel",
+  "name": "Tokimeki KuroBasu –Kise Side–",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Kise doujin ADV game in the same vein as the KuroBasu+Kareshi series of books.",
+  "source_sha256": "d086d08354118f92a502de6b546e72f5a8d58eef816d879135311b72cfc76c88",
+  "translation": "A Kise doujin ADV game in the same vein as the KuroBasu+Kareshi series of books.",
+  "vndb_url": "https://vndb.org/v20311"
+}

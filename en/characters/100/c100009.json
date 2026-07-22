@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100009",
+  "type": "character",
+  "name": "Francesco Russo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A detective with the Italian police unit called Guardia di Finanza.",
+  "source_sha256": "d7d5a5a7388e52a35eab75224650c6a7cfdbdaab69e707207e0854f8beb28d34",
+  "translation": "A detective with the Italian police unit called Guardia di Finanza.",
+  "vndb_url": "https://vndb.org/c100009"
+}

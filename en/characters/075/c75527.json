@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75527",
+  "type": "character",
+  "name": "Schwartz",
+  "original_name": "シュバルツ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cat breed: German Rex",
+  "source_sha256": "1c278ff2252b2a9748e6c7c9c053f69eec1485c56cc09d8cbbdd35c9eba4903c",
+  "translation": "Cat breed: German Rex",
+  "vndb_url": "https://vndb.org/c75527"
+}

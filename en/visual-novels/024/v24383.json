@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24383",
+  "type": "visual_novel",
+  "name": "Boku Dake no Kajitsu",
+  "original_name": "僕だけの果実",
+  "language": "en",
+  "source_language": "en",
+  "source": "The story of a man and three women and the training they partake in...\n\n\"Come on, I will teach you true love\".",
+  "source_sha256": "a62adb7186257eee37babe84a6733cf5cbc4417487385989aa982c336323eeee",
+  "translation": "The story of a man and three women and the training they partake in...\n\n\"Come on, I will teach you true love\".",
+  "vndb_url": "https://vndb.org/v24383"
+}

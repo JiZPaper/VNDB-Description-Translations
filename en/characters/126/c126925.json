@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126925",
+  "type": "character",
+  "name": "Ghoststorm",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A spirit bound to a work table.",
+  "source_sha256": "93b3a3c0a51c408099ba2ebc0864f3cbd04888c2044086a3712652d87df0c48c",
+  "translation": "A spirit bound to a work table.",
+  "vndb_url": "https://vndb.org/c126925"
+}

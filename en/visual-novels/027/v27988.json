@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27988",
+  "type": "visual_novel",
+  "name": "King of Vikings",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "King of Vikings is an adventure visual novel set in Viking fantasy land. Ragnar the Silver, a Viking noble summoned by Queen Mathilde to defeat this tentacled menace by assembling an elite unit of warriors.",
+  "source_sha256": "1dbf46e7e5afd01ef83eabee3775af9ce339a9ecd4494fa36a6b94311b01f136",
+  "translation": "King of Vikings is an adventure visual novel set in Viking fantasy land. Ragnar the Silver, a Viking noble summoned by Queen Mathilde to defeat this tentacled menace by assembling an elite unit of warriors.",
+  "vndb_url": "https://vndb.org/v27988"
+}

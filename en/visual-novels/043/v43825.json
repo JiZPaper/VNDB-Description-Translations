@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43825",
+  "type": "visual_novel",
+  "name": "Passage",
+  "original_name": "Passage ～パサージュ～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fan game based on the real-life JPop idol group KAT-TUN.",
+  "source_sha256": "6ff63854f425232765a875cdd32b0bbd159e463f34e21347423897a9554206f9",
+  "translation": "Fan game based on the real-life JPop idol group KAT-TUN.",
+  "vndb_url": "https://vndb.org/v43825"
+}

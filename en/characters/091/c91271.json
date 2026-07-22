@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91271",
+  "type": "character",
+  "name": "Guoguo",
+  "original_name": "果果",
+  "language": "en",
+  "source_language": "en",
+  "source": "Personification of Mango shaved ice.",
+  "source_sha256": "4bbb63779fe3572f3aa1c1dd7702c74e3c59bfc20cf0bf1082bc1b982fd06d87",
+  "translation": "Personification of Mango shaved ice.",
+  "vndb_url": "https://vndb.org/c91271"
+}

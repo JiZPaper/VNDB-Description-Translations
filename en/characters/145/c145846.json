@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145846",
+  "type": "character",
+  "name": "Mr. Human",
+  "original_name": "人間の男",
+  "language": "en",
+  "source_language": "en",
+  "source": "A seemingly normal human lost in the otherworld.",
+  "source_sha256": "e445c0951a695c569b2487649ae41fcca1c238b451eeb95fe32af6696e3914de",
+  "translation": "A seemingly normal human lost in the otherworld.",
+  "vndb_url": "https://vndb.org/c145846"
+}

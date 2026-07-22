@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145150",
+  "type": "character",
+  "name": "Takai",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mr Takai is a security guard at the building. He finds Toku amusing, and calls him 'The Overtime Guy'.",
+  "source_sha256": "94cad4c5fa13a430cbf8ee1d07f3d1f40cd2237aec8a0e30b42fb59d2700cdb5",
+  "translation": "Mr Takai is a security guard at the building. He finds Toku amusing, and calls him 'The Overtime Guy'.",
+  "vndb_url": "https://vndb.org/c145150"
+}

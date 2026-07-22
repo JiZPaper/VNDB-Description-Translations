@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95900",
+  "type": "character",
+  "name": "Ike Barnes",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Hero Impartial Officer",
+  "source_sha256": "84e06702fe167227aa6e80d257f76c8d612a599f309ae8fe003f17f8ebcef0f8",
+  "translation": "Hero Impartial Officer",
+  "vndb_url": "https://vndb.org/c95900"
+}

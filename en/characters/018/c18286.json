@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c18286",
+  "type": "character",
+  "name": "Yealy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Regina's aide.",
+  "source_sha256": "32b527a0c001acc4ea4d8a2fae9a590a7bc77c5ea08bb7a8d421fbe3895f694f",
+  "translation": "Regina's aide.",
+  "vndb_url": "https://vndb.org/c18286"
+}

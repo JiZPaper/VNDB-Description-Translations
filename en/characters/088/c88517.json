@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88517",
+  "type": "character",
+  "name": "Barista",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner and sole employee of Coffee Talk.",
+  "source_sha256": "c223eb7b944ff1081a971b6586e375dd92dd875cc1d56dab22e9f2775e41147e",
+  "translation": "The owner and sole employee of Coffee Talk.",
+  "vndb_url": "https://vndb.org/c88517"
+}

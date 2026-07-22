@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43099",
+  "type": "visual_novel",
+  "name": "Loser",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You're walking home at night, unaware of a presence following you...\n\nYou find yourself waking up in a dungeon-like basement, dazed and confused, with only a familiar face to keep you company.\n\nYou can either help him or try to escape...\n\nWhat do you choose?\n\n[From Itch.io]",
+  "source_sha256": "bd57394f7138d0835082be3f3bab122bfd9798f7752c9ffe68c500fabbde4b8f",
+  "translation": "You're walking home at night, unaware of a presence following you...\n\nYou find yourself waking up in a dungeon-like basement, dazed and confused, with only a familiar face to keep you company.\n\nYou can either help him or try to escape...\n\nWhat do you choose?\n\n[From Itch.io]",
+  "vndb_url": "https://vndb.org/v43099"
+}

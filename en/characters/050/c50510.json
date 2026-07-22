@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c50510",
+  "type": "character",
+  "name": "Blaine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The man who found Lilan and started to live with.",
+  "source_sha256": "caee067883069820d424bf9faa8386b59298a6ba4514a9a251103524ad8d4021",
+  "translation": "The man who found Lilan and started to live with.",
+  "vndb_url": "https://vndb.org/c50510"
+}

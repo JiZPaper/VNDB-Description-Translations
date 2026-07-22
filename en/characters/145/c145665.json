@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145665",
+  "type": "character",
+  "name": "Mr. Wheelchair",
+  "original_name": "車椅子の男",
+  "language": "en",
+  "source_language": "en",
+  "source": "A disabled man.",
+  "source_sha256": "50fe06c4540415d30bb13bc713502527f2e8fc47bdcbf6a1dbb204bb1a64736c",
+  "translation": "A disabled man.",
+  "vndb_url": "https://vndb.org/c145665"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97976",
+  "type": "character",
+  "name": "Doctor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A doctor who works in a beauty clinic and is able to give you the look of your dreams.",
+  "source_sha256": "0782c6a26ce2f262c6d232e3bbfeabca511c9359b382f2173fa4ce36b0e9ed6f",
+  "translation": "A doctor who works in a beauty clinic and is able to give you the look of your dreams.",
+  "vndb_url": "https://vndb.org/c97976"
+}

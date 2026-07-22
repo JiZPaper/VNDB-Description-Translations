@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106000",
+  "type": "character",
+  "name": "Enlil",
+  "original_name": "エンリル",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I was relieved the weather didn't change.\"\n\nThe god of the wind.",
+  "source_sha256": "f120cefd2f9a410b659c67581b8864fca3a0dfec142a862293de08575c6efe79",
+  "translation": "\"I was relieved the weather didn't change.\"\n\nThe god of the wind.",
+  "vndb_url": "https://vndb.org/c106000"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c52335",
+  "type": "character",
+  "name": "Energetic",
+  "original_name": "元気",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the personality choices.\nAn energetic girl that doesn't shrink away from anything.",
+  "source_sha256": "de7bb77708065a3e70338968dbb178eb08b2d1f039032d72b8105e613b3578ae",
+  "translation": "One of the personality choices.\nAn energetic girl that doesn't shrink away from anything.",
+  "vndb_url": "https://vndb.org/c52335"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12881",
+  "type": "visual_novel",
+  "name": "There Was A Bird",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "There Was A Bird is a children’s story that explores themes of isolation, loneliness, and growth. The ending may make you cry a little.",
+  "source_sha256": "51bd168eaf04e53c87925a8e4b37181b21c812efe7e298467fd57b9858866c27",
+  "translation": "There Was A Bird is a children’s story that explores themes of isolation, loneliness, and growth. The ending may make you cry a little.",
+  "vndb_url": "https://vndb.org/v12881"
+}

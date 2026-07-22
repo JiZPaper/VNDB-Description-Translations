@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c23933",
+  "type": "character",
+  "name": "Nee",
+  "original_name": "ニー",
+  "language": "en",
+  "source_language": "en",
+  "source": "The student who tries twice as hard as everyone else, but almost always fails.",
+  "source_sha256": "3689e8d4757027e53a4a23f7a3784d796261ae611a0ef8f85347c59687051f4d",
+  "translation": "The student who tries twice as hard as everyone else, but almost always fails.",
+  "vndb_url": "https://vndb.org/c23933"
+}

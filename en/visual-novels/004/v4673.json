@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4673",
+  "type": "visual_novel",
+  "name": "Sotsugyou ~Next Graduation~",
+  "original_name": "卒業 ～Next Graduation～",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist from the first game encounters again all the girls he met back in high school, who are now single mothers with teenage daughters.",
+  "source_sha256": "145b2b8387205031f45cdee8b89047fae24a86f2d31ff99bb114d22bbad74b44",
+  "translation": "The protagonist from the first game encounters again all the girls he met back in high school, who are now single mothers with teenage daughters.",
+  "vndb_url": "https://vndb.org/v4673"
+}

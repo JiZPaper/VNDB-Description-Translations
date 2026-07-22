@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47156",
+  "type": "character",
+  "name": "Lisa Nielsen",
+  "original_name": "リサ・ニールセン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Freddy's wife.",
+  "source_sha256": "67e288705e7d05bcedbe33bff3e95d24af0f2a947e9421fa27989201a2720ca0",
+  "translation": "Freddy's wife.",
+  "vndb_url": "https://vndb.org/c47156"
+}

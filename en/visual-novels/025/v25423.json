@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25423",
+  "type": "visual_novel",
+  "name": "1",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play a home-schooled girl who volunteers in aiding her church, to avoid midweek mass, by spending her Wednesday passing out tracts (Religious Pamphlets).",
+  "source_sha256": "71759594deb8d0a756f2075ff5eabf2836491ca21ce1e8ac53ea34a10143c819",
+  "translation": "You play a home-schooled girl who volunteers in aiding her church, to avoid midweek mass, by spending her Wednesday passing out tracts (Religious Pamphlets).",
+  "vndb_url": "https://vndb.org/v25423"
+}

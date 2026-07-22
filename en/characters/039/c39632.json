@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39632",
+  "type": "character",
+  "name": "Alcor",
+  "original_name": "アルコル",
+  "language": "en",
+  "source_language": "en",
+  "source": "An information seller who lives in the 942 block in the lowest level of the city.\nFor some reason he continues to do this kind of dangerous job without owning any weapons.",
+  "source_sha256": "f50730ccb7e130b757cc99c83473cd38322a3ec8c8df54f2b14a13b2c5e2d063",
+  "translation": "An information seller who lives in the 942 block in the lowest level of the city.\nFor some reason he continues to do this kind of dangerous job without owning any weapons.",
+  "vndb_url": "https://vndb.org/c39632"
+}

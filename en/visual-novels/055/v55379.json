@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55379",
+  "type": "visual_novel",
+  "name": "Tjomnaja storona Sovjonok-festa",
+  "original_name": "Тёмная сторона Совёнок-феста",
+  "language": "en",
+  "source_language": "en",
+  "source": "A small mod that tells the story of an ordinary pioneer who decided to visit the recently held Sovjonok-fest - an attempt to recreate the camp in real life.",
+  "source_sha256": "6a1c5c3e1ad05d63cb277cdf5c5349a97a30806dafeb0cce1e6065223924ef75",
+  "translation": "A small mod that tells the story of an ordinary pioneer who decided to visit the recently held Sovjonok-fest - an attempt to recreate the camp in real life.",
+  "vndb_url": "https://vndb.org/v55379"
+}

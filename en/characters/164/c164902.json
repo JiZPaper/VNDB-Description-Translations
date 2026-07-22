@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c164902",
+  "type": "character",
+  "name": "Haro",
+  "original_name": "ハロ",
+  "language": "en",
+  "source_language": "en",
+  "source": "From: Mobile Suit V Gundam\nÜso's dear pet robot. A model of pet robot that had been popular for more than 70 years by Üso's time, this model had much better judgment and self-determination than previous versions.",
+  "source_sha256": "2b740f7ef854319f895c9154dc268a16c080d134bdd75d474f9a7f6250d0cd2f",
+  "translation": "From: Mobile Suit V Gundam\nÜso's dear pet robot. A model of pet robot that had been popular for more than 70 years by Üso's time, this model had much better judgment and self-determination than previous versions.",
+  "vndb_url": "https://vndb.org/c164902"
+}

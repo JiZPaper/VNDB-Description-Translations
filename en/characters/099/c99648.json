@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99648",
+  "type": "character",
+  "name": "The Old Farmer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A regular at the Inn.",
+  "source_sha256": "bb6de4f4781e77b6f53536cf72de6a3c646f4b897a010985c830b5f9aae7b23c",
+  "translation": "A regular at the Inn.",
+  "vndb_url": "https://vndb.org/c99648"
+}

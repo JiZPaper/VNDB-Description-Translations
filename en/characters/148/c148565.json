@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148565",
+  "type": "character",
+  "name": "Lily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lily is the neighbour of the Protagonist.\nShe loves gardening.",
+  "source_sha256": "ac9b6408256ecae0e5ab26036558de1043fec08b443ba9ad1c8eb477675a9686",
+  "translation": "Lily is the neighbour of the Protagonist.\nShe loves gardening.",
+  "vndb_url": "https://vndb.org/c148565"
+}

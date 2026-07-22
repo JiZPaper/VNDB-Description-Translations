@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c24039",
+  "type": "character",
+  "name": "Bertha Reinfeldt",
+  "original_name": "ベルタ・ラインフェルト",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Maid",
+  "source_sha256": "c477a5d53aabe2edd1321b2645c238caf9f59b4853f95b35c4d5ddfecd6b1a5c",
+  "translation": "Occupation: Maid",
+  "vndb_url": "https://vndb.org/c24039"
+}

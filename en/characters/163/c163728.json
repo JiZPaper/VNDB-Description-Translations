@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163728",
+  "type": "character",
+  "name": "Nick",
+  "original_name": "Коля",
+  "language": "en",
+  "source_language": "en",
+  "source": "Nick is Victoria’s friend who joins Constantine on the road together with her.",
+  "source_sha256": "1f6901a6c34f463c6ae12bf9cccad38605842a7c9063bf9d0db675dbaf98dee8",
+  "translation": "Nick is Victoria’s friend who joins Constantine on the road together with her.",
+  "vndb_url": "https://vndb.org/c163728"
+}

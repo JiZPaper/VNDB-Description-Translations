@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168257",
+  "type": "character",
+  "name": "Aurora",
+  "original_name": "オーロラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A classic princess who looks great in a blue dress.\n\nShe is unwell due to the fatigue of her long journey.\n\nThoughtful and loves to read books.",
+  "source_sha256": "82b1e6d61010a57527cec31bcae9b6393f8da2c077f9c3e87891b99b5590ca2e",
+  "translation": "A classic princess who looks great in a blue dress.\n\nShe is unwell due to the fatigue of her long journey.\n\nThoughtful and loves to read books.",
+  "vndb_url": "https://vndb.org/c168257"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25605",
+  "type": "character",
+  "name": "Roman",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Brad's housemates.",
+  "source_sha256": "70051eec918d205be54cc8adc71da3c57020b0cc78fafd645499c57f03f0923f",
+  "translation": "One of Brad's housemates.",
+  "vndb_url": "https://vndb.org/c25605"
+}

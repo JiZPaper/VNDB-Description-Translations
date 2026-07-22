@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126966",
+  "type": "character",
+  "name": "Mikhail",
+  "original_name": "ミハイル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ivan's butler.\n\nLikes: creating original cocktails\nHates: working overtime",
+  "source_sha256": "fa78c5f1cac0ee362a07fd2646acd40b0afed7586779a9023f269902da2f22f8",
+  "translation": "Ivan's butler.\n\nLikes: creating original cocktails\nHates: working overtime",
+  "vndb_url": "https://vndb.org/c126966"
+}

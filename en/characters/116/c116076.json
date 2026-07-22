@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116076",
+  "type": "character",
+  "name": "Dr. Worth",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A doctor of natural medicine.",
+  "source_sha256": "c80d0ee55c965d54a4a36b81ecfd25aef0fcfb746d44e87c53a9603988375325",
+  "translation": "A doctor of natural medicine.",
+  "vndb_url": "https://vndb.org/c116076"
+}

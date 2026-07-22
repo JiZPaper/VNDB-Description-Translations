@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8937",
+  "type": "character",
+  "name": "Risa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She dislikes work, and doesn't smile very much.",
+  "source_sha256": "08a7ad6fd8c32a31a710a8d8fc50173fb1e8e44ff7d638efa4af78520a3d78a1",
+  "translation": "She dislikes work, and doesn't smile very much.",
+  "vndb_url": "https://vndb.org/c8937"
+}

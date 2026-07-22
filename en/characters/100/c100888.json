@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100888",
+  "type": "character",
+  "name": "Mom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nicole's mother.",
+  "source_sha256": "7b6f5ba4fac9e264e5b89ab0d530d26e4782380c9a775d7ddbd71cbb6435f518",
+  "translation": "Nicole's mother.",
+  "vndb_url": "https://vndb.org/c100888"
+}

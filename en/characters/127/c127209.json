@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127209",
+  "type": "character",
+  "name": "Ariane",
+  "original_name": "アリアネ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A pilot in the 184th TSF Company.",
+  "source_sha256": "205cd0450cd7b9c0d22329f51f4ee6c2ebd16dae3092454e304b7066596f2af7",
+  "translation": "A pilot in the 184th TSF Company.",
+  "vndb_url": "https://vndb.org/c127209"
+}

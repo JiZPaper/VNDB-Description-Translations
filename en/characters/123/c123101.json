@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123101",
+  "type": "character",
+  "name": "Lin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An elven slave that the protagonist's grandfather owned before he passed away. Now belongs to the protagonist.",
+  "source_sha256": "0c6a3c66d070d60af71dd6f9d6ce590e91bc18c58b61453239514bff4539f19b",
+  "translation": "An elven slave that the protagonist's grandfather owned before he passed away. Now belongs to the protagonist.",
+  "vndb_url": "https://vndb.org/c123101"
+}

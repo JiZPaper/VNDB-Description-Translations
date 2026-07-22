@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73727",
+  "type": "character",
+  "name": "Princess",
+  "original_name": "姫",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Witch, Princess.\nLikes: Cosplay.",
+  "source_sha256": "5ed40ef07fa6228017e87ff7f7d23d0a6f53066b49a0bb23960ce67c3f26df18",
+  "translation": "Occupation: Witch, Princess.\nLikes: Cosplay.",
+  "vndb_url": "https://vndb.org/c73727"
+}

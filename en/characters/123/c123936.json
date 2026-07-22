@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123936",
+  "type": "character",
+  "name": "Jenny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is Lena's best friend and into reading vampire books.",
+  "source_sha256": "8e8ee662f9539600fdcd0a2f3ef3f3a0fded12e32d6802a8d8b3db4656388480",
+  "translation": "She is Lena's best friend and into reading vampire books.",
+  "vndb_url": "https://vndb.org/c123936"
+}

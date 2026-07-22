@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136223",
+  "type": "character",
+  "name": "Lily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You don't know much about this person, but she is cute.\n\n[In game description]",
+  "source_sha256": "45b3184a3e5e310a3dee3a2f217d4412829fc1d153860037838d49d4749cfa34",
+  "translation": "You don't know much about this person, but she is cute.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c136223"
+}

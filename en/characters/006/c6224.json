@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c6224",
+  "type": "character",
+  "name": "Leovir Barton",
+  "original_name": "レオヴィル・バルトン",
+  "language": "en",
+  "source_language": "en",
+  "source": "HP: 500\nAttack: 270\nDefense: 350\n\nWorks as a butler for [url=/c6223]Eleanor[/url]. She is a spider girl. Despite her boyish appearance and nature, she is great at baking and sewing.\n\n[From [url=https://www.getchu.com/soft.phtml?id=740562]Getchu[/url]]",
+  "source_sha256": "0f12af90c1958dad04d10e51ec482fca171bb5a85654fa91d0656729527d17f4",
+  "translation": "HP: 500\nAttack: 270\nDefense: 350\n\nWorks as a butler for [url=/c6223]Eleanor[/url]. She is a spider girl. Despite her boyish appearance and nature, she is great at baking and sewing.\n\n[From [url=https://www.getchu.com/soft.phtml?id=740562]Getchu[/url]]",
+  "vndb_url": "https://vndb.org/c6224"
+}

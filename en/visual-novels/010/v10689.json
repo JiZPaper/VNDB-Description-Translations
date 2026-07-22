@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10689",
+  "type": "visual_novel",
+  "name": "Setsusou",
+  "original_name": "雪葬",
+  "language": "en",
+  "source_language": "en",
+  "source": "The snow, falling heavily, sees us off.\n\n[From [url=http://hanikamuaisuman.web.fc2.com/game/s_s/s_s.html]homepage[/url]]",
+  "source_sha256": "4de80b868b963666d4c517927fd4f888c7819e4234f1ae51aca566c47f39697b",
+  "translation": "The snow, falling heavily, sees us off.\n\n[From [url=http://hanikamuaisuman.web.fc2.com/game/s_s/s_s.html]homepage[/url]]",
+  "vndb_url": "https://vndb.org/v10689"
+}

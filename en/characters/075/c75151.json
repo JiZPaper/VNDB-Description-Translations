@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75151",
+  "type": "character",
+  "name": "Lisa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lisa is a tsundere at school.",
+  "source_sha256": "5bee6c0d8d03d633041171accea3ece4bd0679f27f6312c59bd5ecd8498a2182",
+  "translation": "Lisa is a tsundere at school.",
+  "vndb_url": "https://vndb.org/c75151"
+}

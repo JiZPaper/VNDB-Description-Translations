@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60733",
+  "type": "visual_novel",
+  "name": "Poslednee Nebo",
+  "original_name": "Последнее Небо",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on the short story \"Poslednij raz kak vizhu nebo\".",
+  "source_sha256": "b97e61fb27b7170f5ed81be0d6be115f361084c0ec06b7bbe47119d84c20b782",
+  "translation": "Based on the short story \"Poslednij raz kak vizhu nebo\".",
+  "vndb_url": "https://vndb.org/v60733"
+}

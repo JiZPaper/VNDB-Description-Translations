@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37623",
+  "type": "character",
+  "name": "Loki Laevatein",
+  "original_name": "ロキ・レーヴァテイン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Norse God of Fire",
+  "source_sha256": "a9fda9c676531894a275277f3bfd0236d8f0614eea87ae4c12c3c7c38f4026b5",
+  "translation": "Norse God of Fire",
+  "vndb_url": "https://vndb.org/c37623"
+}

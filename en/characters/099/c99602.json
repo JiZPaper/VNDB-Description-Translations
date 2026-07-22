@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99602",
+  "type": "character",
+  "name": "Aku",
+  "original_name": "阿久",
+  "language": "en",
+  "source_language": "en",
+  "source": "A detective and police officer of the Anti-BMI Crime Division.",
+  "source_sha256": "c56ab4c2c105390a00049ce187f1e3d5dbd207383fc5ba09ae50b05c9c6d34af",
+  "translation": "A detective and police officer of the Anti-BMI Crime Division.",
+  "vndb_url": "https://vndb.org/c99602"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79091",
+  "type": "character",
+  "name": "Yoshino",
+  "original_name": "吉野",
+  "language": "en",
+  "source_language": "en",
+  "source": "Yoshino is a member of the Astronomy club and helps out with the planning of the club's summer activities.",
+  "source_sha256": "45b7a73ee367e1937203675310caee937f43bfe81e4ba51729d2430cb9b56d44",
+  "translation": "Yoshino is a member of the Astronomy club and helps out with the planning of the club's summer activities.",
+  "vndb_url": "https://vndb.org/c79091"
+}

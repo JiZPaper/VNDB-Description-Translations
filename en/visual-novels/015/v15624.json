@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15624",
+  "type": "visual_novel",
+  "name": "Tsukiotoshi Yuurei",
+  "original_name": "突き落とし幽霊",
+  "language": "en",
+  "source_language": "en",
+  "source": "Come evening time, the school is empty. Do not turn around while walking down the stairs of the school building. If you turn around, you will be pushed down by a ghost.\n\n[Translated from [url=http://t-o-k.sakura.ne.jp/yuugi/s/tukiotoshi.htm]Official Site[/url]]",
+  "source_sha256": "d4f1e9c15e3d218b10c6ac33fb237835808122e9e874158212350ea209de6dec",
+  "translation": "Come evening time, the school is empty. Do not turn around while walking down the stairs of the school building. If you turn around, you will be pushed down by a ghost.\n\n[Translated from [url=http://t-o-k.sakura.ne.jp/yuugi/s/tukiotoshi.htm]Official Site[/url]]",
+  "vndb_url": "https://vndb.org/v15624"
+}

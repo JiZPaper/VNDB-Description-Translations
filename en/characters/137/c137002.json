@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137002",
+  "type": "character",
+  "name": "Mrs. Davis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Math teacher at Madison High",
+  "source_sha256": "04e00466255776f77c95e7ab3e638bd8d691c6de9ebdc100a566f8eda840d2a5",
+  "translation": "Math teacher at Madison High",
+  "vndb_url": "https://vndb.org/c137002"
+}

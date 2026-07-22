@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45461",
+  "type": "visual_novel",
+  "name": "BEAKon of truth",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short murder-mystery visual novel featuring bird characters.",
+  "source_sha256": "c5d0d595d9e03e74b0675f16899e700d612cfd598d4ea5b6efb29a31c375c2c6",
+  "translation": "A short murder-mystery visual novel featuring bird characters.",
+  "vndb_url": "https://vndb.org/v45461"
+}

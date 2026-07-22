@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c85847",
+  "type": "character",
+  "name": "Jack",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He's a virgin and a bit of a moron.",
+  "source_sha256": "6f8473ad3772f27d03ff0422cfeb6b75975f54ef7cdd41551905e78a340d9dda",
+  "translation": "He's a virgin and a bit of a moron.",
+  "vndb_url": "https://vndb.org/c85847"
+}

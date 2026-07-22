@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48708",
+  "type": "character",
+  "name": "Arthur Weisman",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A 15 year Wall Street veteran.\n\nLives in Riverdale North Bronx with wife Elizabeth and daughter Lily.",
+  "source_sha256": "e6aec26c5414d015f6fd3b06c25fdcc755148329b1125f6afafc2b777b873d97",
+  "translation": "A 15 year Wall Street veteran.\n\nLives in Riverdale North Bronx with wife Elizabeth and daughter Lily.",
+  "vndb_url": "https://vndb.org/c48708"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98503",
+  "type": "character",
+  "name": "Uncle Mo",
+  "original_name": "墨叔",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mo Xiaoju's father",
+  "source_sha256": "7ed44199c0166b09ccd5e324b490c0bd5eb079ef0c838933728dd32628fa920d",
+  "translation": "Mo Xiaoju's father",
+  "vndb_url": "https://vndb.org/c98503"
+}

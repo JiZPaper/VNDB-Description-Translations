@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60478",
+  "type": "character",
+  "name": "Zander",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Main character in Episode 2.",
+  "source_sha256": "5bb8c8c05b6e88b2c4be63cdbdcc846d578e7577c9037d81c56f9e8ddf23c25e",
+  "translation": "Main character in Episode 2.",
+  "vndb_url": "https://vndb.org/c60478"
+}

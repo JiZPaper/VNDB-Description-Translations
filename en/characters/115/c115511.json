@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115511",
+  "type": "character",
+  "name": "Reeve",
+  "original_name": "リーヴ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A burlesque dancer at Show Club NASA.\nHe is worried about Panther.",
+  "source_sha256": "8e626bd175239c4f101977ad801f609655d100e752a7b07c935cbc966358d826",
+  "translation": "A burlesque dancer at Show Club NASA.\nHe is worried about Panther.",
+  "vndb_url": "https://vndb.org/c115511"
+}

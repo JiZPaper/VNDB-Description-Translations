@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102137",
+  "type": "character",
+  "name": "Lester",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A drunkard who works as a 'bouncer' at a bar in the suburb.",
+  "source_sha256": "c1363a19b2ac8e1a75a6e0fe3647d6b0d3ad6246166f292c8b4ed56fc36467ef",
+  "translation": "A drunkard who works as a 'bouncer' at a bar in the suburb.",
+  "vndb_url": "https://vndb.org/c102137"
+}

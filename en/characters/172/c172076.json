@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172076",
+  "type": "character",
+  "name": "Cindy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "School student",
+  "source_sha256": "037464b404ef72551ee024d5a5b5b53a2d9ebd2818143de9b498f270f59921e1",
+  "translation": "School student",
+  "vndb_url": "https://vndb.org/c172076"
+}

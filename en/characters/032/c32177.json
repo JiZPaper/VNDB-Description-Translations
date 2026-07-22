@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c32177",
+  "type": "character",
+  "name": "Shigeno",
+  "original_name": "茂野",
+  "language": "en",
+  "source_language": "en",
+  "source": "The only worker at the recreation facility.",
+  "source_sha256": "9ff52e253d39e461375eea74707bb5213e5ab8cb217b775feb2f989d8345a6e7",
+  "translation": "The only worker at the recreation facility.",
+  "vndb_url": "https://vndb.org/c32177"
+}

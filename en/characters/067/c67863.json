@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c67863",
+  "type": "character",
+  "name": "GPM",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A streamer who is a special guest at Animarathon.",
+  "source_sha256": "7a4e3adbdb1b83d232b30ac3f99af31f97d6e5ac2c32a2b1ef9713f724585a9b",
+  "translation": "A streamer who is a special guest at Animarathon.",
+  "vndb_url": "https://vndb.org/c67863"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c111313",
+  "type": "character",
+  "name": "Richard",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "- Husband of [url=/c111312]Lucy[/url].\n- Father of [url=/c110702]Annie[/url].",
+  "source_sha256": "5df9a3b16b1cf3798f4b8452ef026d6000d3e4237a91702093be7a5a8928e98e",
+  "translation": "- Husband of [url=/c111312]Lucy[/url].\n- Father of [url=/c110702]Annie[/url].",
+  "vndb_url": "https://vndb.org/c111313"
+}

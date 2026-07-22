@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9027",
+  "type": "visual_novel",
+  "name": "Jisatsu Shigansha Doumei",
+  "original_name": "ジサツ志願者同盟",
+  "language": "en",
+  "source_language": "en",
+  "source": "Three teenagers try to complete the things they wanted to do before fulfilling a suicide pact.",
+  "source_sha256": "70abcb08ac860ac586fb63c441a2da26971ceebd0477cc72f211e365c4af1301",
+  "translation": "Three teenagers try to complete the things they wanted to do before fulfilling a suicide pact.",
+  "vndb_url": "https://vndb.org/v9027"
+}

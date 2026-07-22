@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c128045",
+  "type": "character",
+  "name": "Alex",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist and freshman at San Vallejo College.",
+  "source_sha256": "da17816761fb6cb15b2871c8c95394f9201e838b86f154a60c7cec2e85a72498",
+  "translation": "Protagonist and freshman at San Vallejo College.",
+  "vndb_url": "https://vndb.org/c128045"
+}

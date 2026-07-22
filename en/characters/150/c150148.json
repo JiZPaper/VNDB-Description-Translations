@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150148",
+  "type": "character",
+  "name": "Chloe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jessica's friend",
+  "source_sha256": "a46e4cc9dcf79c3f384c1b09b75710cb6c83cbc2295ad436a421a21ad748d0c1",
+  "translation": "Jessica's friend",
+  "vndb_url": "https://vndb.org/c150148"
+}

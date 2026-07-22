@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c119160",
+  "type": "character",
+  "name": "Piano",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The youngest player. Just a kid, but one willing to play the game and that won't tolerate not being taken seriously.",
+  "source_sha256": "bea01a78fdc8d166d4813c231ed92729e959cebca2f187ee97f4c04102f8dcf0",
+  "translation": "The youngest player. Just a kid, but one willing to play the game and that won't tolerate not being taken seriously.",
+  "vndb_url": "https://vndb.org/c119160"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c52690",
+  "type": "character",
+  "name": "Entua",
+  "original_name": "エントゥア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Zeguni's daughter.",
+  "source_sha256": "eb8f4bce569c2d3f0c7450ebe212ff79d9056ebe0e3797f5649224063a390def",
+  "translation": "Zeguni's daughter.",
+  "vndb_url": "https://vndb.org/c52690"
+}

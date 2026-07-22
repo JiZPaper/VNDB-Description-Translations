@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116144",
+  "type": "character",
+  "name": "Alice",
+  "original_name": "アリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A strange girl in maid outfit.",
+  "source_sha256": "db5767f589492d86774bcb4196b394af47b51a75da200e018168e0cee0ffffbb",
+  "translation": "A strange girl in maid outfit.",
+  "vndb_url": "https://vndb.org/c116144"
+}

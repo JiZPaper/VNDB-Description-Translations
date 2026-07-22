@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34863",
+  "type": "visual_novel",
+  "name": "Furrdate",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A game about dating a furry.\n\n[From itch.io]",
+  "source_sha256": "33264d61a42ba8e7a712dd9e55e2ad7f9e23d3dab0a7ebe90b36b0c0097cbe43",
+  "translation": "A game about dating a furry.\n\n[From itch.io]",
+  "vndb_url": "https://vndb.org/v34863"
+}

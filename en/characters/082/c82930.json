@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82930",
+  "type": "character",
+  "name": "Kobayakawa",
+  "original_name": "コバヤカワ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A female detective with a strong sense of justice who suspects [url=/c42815]Joe[/url] and [url=/c42814]Shiina[/url] being the ones who killed the woman wearing the white robe.",
+  "source_sha256": "3fe992747496df93cbc80d0f1b8850ebb0843e6146b3026200734bff276b1ea8",
+  "translation": "A female detective with a strong sense of justice who suspects [url=/c42815]Joe[/url] and [url=/c42814]Shiina[/url] being the ones who killed the woman wearing the white robe.",
+  "vndb_url": "https://vndb.org/c82930"
+}

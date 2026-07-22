@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61879",
+  "type": "visual_novel",
+  "name": "Yasashiku Suru nara Saigo made!",
+  "original_name": "優しくするなら最後まで！",
+  "language": "en",
+  "source_language": "en",
+  "source": "Your job is just to be \"kind\".\nSpeak and touch \"kindly\" to help them get used to communication!",
+  "source_sha256": "2c022b3d0555f5470339854205cb921ac762261e63fdeb38afbfde084dba2fe7",
+  "translation": "Your job is just to be \"kind\".\nSpeak and touch \"kindly\" to help them get used to communication!",
+  "vndb_url": "https://vndb.org/v61879"
+}

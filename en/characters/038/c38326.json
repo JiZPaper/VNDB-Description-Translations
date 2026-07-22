@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38326",
+  "type": "character",
+  "name": "Diadora",
+  "original_name": "ディアドラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Undead witch.",
+  "source_sha256": "85f7da9712c3cf907b99a9760825385faebdcbb1e48f29860b606cda7fc5f3a8",
+  "translation": "Undead witch.",
+  "vndb_url": "https://vndb.org/c38326"
+}

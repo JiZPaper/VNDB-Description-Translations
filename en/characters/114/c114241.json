@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c114241",
+  "type": "character",
+  "name": "Professor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A nice university professor ready to help her students.",
+  "source_sha256": "5b998663217f4f9a1fb651de4f29d93654c88b8806db5526b5680fba179680d0",
+  "translation": "A nice university professor ready to help her students.",
+  "vndb_url": "https://vndb.org/c114241"
+}

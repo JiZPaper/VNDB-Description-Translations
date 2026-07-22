@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38195",
+  "type": "visual_novel",
+  "name": "Hra u Volodarya",
+  "original_name": "Гра у Володаря",
+  "language": "en",
+  "source_language": "en",
+  "source": "An unusual short story about an extraordinary Dark Lord.",
+  "source_sha256": "33f15c01a66ed1376753d4e6e9931039a24c04fb23701477c8323fee93c925e2",
+  "translation": "An unusual short story about an extraordinary Dark Lord.",
+  "vndb_url": "https://vndb.org/v38195"
+}

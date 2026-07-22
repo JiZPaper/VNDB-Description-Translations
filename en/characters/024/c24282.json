@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c24282",
+  "type": "character",
+  "name": "Aoi Feria",
+  "original_name": "蒼井 フェリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: League Master of Water\nHobbies: Scuba Diving\nSkills: Swimming\nWeakness: Winter Is Coming",
+  "source_sha256": "aca1ad75580f7a6bc8e1fbe9cc43966e304b5c20f7b1a3a66245e858192bcf55",
+  "translation": "Occupation: League Master of Water\nHobbies: Scuba Diving\nSkills: Swimming\nWeakness: Winter Is Coming",
+  "vndb_url": "https://vndb.org/c24282"
+}

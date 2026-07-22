@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35510",
+  "type": "visual_novel",
+  "name": "Floyd",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Go on a date with Floyd.\n\n[From [url=https://euphonia.itch.io/floyd]Itch.io[/url]]",
+  "source_sha256": "537e4ffde996eb4ef1f7cb7de19b59acbe9b3a9002141ce7e5248eb4d1f9dc36",
+  "translation": "Go on a date with Floyd.\n\n[From [url=https://euphonia.itch.io/floyd]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v35510"
+}

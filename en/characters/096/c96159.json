@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96159",
+  "type": "character",
+  "name": "Mister Reed",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Maia's father.",
+  "source_sha256": "1685ef649810459f8955872b9a1b27c7b87d8246bf0d396051d0bd3c00c8e6d0",
+  "translation": "Maia's father.",
+  "vndb_url": "https://vndb.org/c96159"
+}

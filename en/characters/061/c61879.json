@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61879",
+  "type": "character",
+  "name": "Corticarte Reichstein",
+  "original_name": "コーティカルテ ライヒシュタイン",
+  "language": "en",
+  "source_language": "en",
+  "source": "An employee of the Twanbach funeral company, whose usual responsibilities are that of a clerical worker, but originally she is a combatant.",
+  "source_sha256": "7cb2876f28b6b28858cb14c1ee80611da1ee377b1c45d711adcbf014a89089ab",
+  "translation": "An employee of the Twanbach funeral company, whose usual responsibilities are that of a clerical worker, but originally she is a combatant.",
+  "vndb_url": "https://vndb.org/c61879"
+}

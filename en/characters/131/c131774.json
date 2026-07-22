@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131774",
+  "type": "character",
+  "name": "Ellie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist's bubbly friend from university.",
+  "source_sha256": "8d2668ab480f33d58ce7fcb3ad2d108e54474367ae29ffe23fb04b1d8612a6cb",
+  "translation": "Protagonist's bubbly friend from university.",
+  "vndb_url": "https://vndb.org/c131774"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75415",
+  "type": "character",
+  "name": "Spot",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Spot's human form.",
+  "source_sha256": "6a874098306ad9c68b9d42ae237960213be2bd39fdbc5306f7cff389aeafb9ba",
+  "translation": "Spot's human form.",
+  "vndb_url": "https://vndb.org/c75415"
+}

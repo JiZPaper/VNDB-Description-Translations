@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110529",
+  "type": "character",
+  "name": "Peter Stone",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation - Dad.\n\nThe young, divorced father.",
+  "source_sha256": "e4a72df9a71f2db026415b0710eeb0569b000e38f0215c0397731a47664e482d",
+  "translation": "Occupation - Dad.\n\nThe young, divorced father.",
+  "vndb_url": "https://vndb.org/c110529"
+}

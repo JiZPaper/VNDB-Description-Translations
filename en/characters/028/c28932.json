@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28932",
+  "type": "character",
+  "name": "Sari",
+  "original_name": "沙里",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious woman who only appears at night and spends all her time in the garden, waiting for her lover to return.",
+  "source_sha256": "84358e2bb3cc27adc35c9b1ae975879c61ae724b6bcd3fe953fe775eaac2c2e5",
+  "translation": "A mysterious woman who only appears at night and spends all her time in the garden, waiting for her lover to return.",
+  "vndb_url": "https://vndb.org/c28932"
+}

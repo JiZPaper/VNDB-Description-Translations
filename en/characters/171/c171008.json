@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c171008",
+  "type": "character",
+  "name": "Yuki",
+  "original_name": "ゆき",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mika's sister",
+  "source_sha256": "9d20e52d14ead76015cdc52a30b319ec559388ac136eda8a38daf33213e15c33",
+  "translation": "Mika's sister",
+  "vndb_url": "https://vndb.org/c171008"
+}

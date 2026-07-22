@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95832",
+  "type": "character",
+  "name": "Astronaut",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An astronaut who is going to Mars for scientific research.",
+  "source_sha256": "ddd7319f2678f66f1c5a63ba8f32b563eb46cb46ede668e7c5c51ae0ad6bd695",
+  "translation": "An astronaut who is going to Mars for scientific research.",
+  "vndb_url": "https://vndb.org/c95832"
+}

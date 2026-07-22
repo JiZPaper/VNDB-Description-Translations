@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c109068",
+  "type": "character",
+  "name": "Matsunaga",
+  "original_name": "松永",
+  "language": "en",
+  "source_language": "en",
+  "source": "Company director of an advertising firm.",
+  "source_sha256": "c285a09804c9425f39196834770fa953215f85cff4c2cc2be4274d11051075e6",
+  "translation": "Company director of an advertising firm.",
+  "vndb_url": "https://vndb.org/c109068"
+}

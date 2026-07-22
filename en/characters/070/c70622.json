@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70622",
+  "type": "character",
+  "name": "Kitty",
+  "original_name": "キティ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cat breed: Somali Cat",
+  "source_sha256": "c13aaf03e7883abf127acf0d0581b230f42c28e4330a6311b6323208d56e24d7",
+  "translation": "Cat breed: Somali Cat",
+  "vndb_url": "https://vndb.org/c70622"
+}

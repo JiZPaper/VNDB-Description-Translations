@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26694",
+  "type": "visual_novel",
+  "name": "Ao no Physis",
+  "original_name": "蒼のピュシス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A strange thing called \"The calamity that came from the sea\".\nA single girl will save the people from that attacking threat.\n\nThis is a story of that girl's last love.",
+  "source_sha256": "9ada8c1a99d9ba17613a1e15e36789e92cd3f9d1a000791a187305f1e25ac647",
+  "translation": "A strange thing called \"The calamity that came from the sea\".\nA single girl will save the people from that attacking threat.\n\nThis is a story of that girl's last love.",
+  "vndb_url": "https://vndb.org/v26694"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16500",
+  "type": "visual_novel",
+  "name": "Hop Step Idol☆",
+  "original_name": "Hop Step あいどる☆",
+  "language": "en",
+  "source_language": "en",
+  "source": "As a producer at a youth entertainment company you have to go out and scout out guys to become a new idol group.\nYou have two years to raise a super idol.",
+  "source_sha256": "f80753ca4249f16c5d9b4f37fa74c40780a47d33e87d042c5a9f7f20521ba90c",
+  "translation": "As a producer at a youth entertainment company you have to go out and scout out guys to become a new idol group.\nYou have two years to raise a super idol.",
+  "vndb_url": "https://vndb.org/v16500"
+}

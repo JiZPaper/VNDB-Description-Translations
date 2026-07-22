@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101509",
+  "type": "character",
+  "name": "Mr. White",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Caroline's neighbor.",
+  "source_sha256": "3f500d68b1111c9e075019f687907ea19d61e38bc1897d92150e450ca5bd93eb",
+  "translation": "Caroline's neighbor.",
+  "vndb_url": "https://vndb.org/c101509"
+}

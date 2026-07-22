@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29183",
+  "type": "visual_novel",
+  "name": "Until September",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You arrive in a small town that feels half-remembered. The calendar says 2016, but your ticket says 2015. Everyone seems to know you. Every street looks familiar. Somewhere between two years, something has gone missing – and it might be you.",
+  "source_sha256": "5723f77b0e708bc48ba0ba3c049ffc6be21e3ef7b21ca3ada1e539c4bee8e126",
+  "translation": "You arrive in a small town that feels half-remembered. The calendar says 2016, but your ticket says 2015. Everyone seems to know you. Every street looks familiar. Somewhere between two years, something has gone missing – and it might be you.",
+  "vndb_url": "https://vndb.org/v29183"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34421",
+  "type": "character",
+  "name": "Rei",
+  "original_name": "鈴",
+  "language": "en",
+  "source_language": "en",
+  "source": "Birth year: 1974",
+  "source_sha256": "512683c1eea72edbf82602a5676f2fc6dee85d1ec1aa16e798144baa99a518cf",
+  "translation": "Birth year: 1974",
+  "vndb_url": "https://vndb.org/c34421"
+}

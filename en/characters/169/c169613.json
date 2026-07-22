@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169613",
+  "type": "character",
+  "name": "Mario",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Famous plumber who often saves Princess Peach from danger. Goes looking for her together with Toadsworth after she goes missing.",
+  "source_sha256": "2289db50132efc10bce7f0e73d2ab01299b17bbab8dc6636d1f829e741e49a3b",
+  "translation": "Famous plumber who often saves Princess Peach from danger. Goes looking for her together with Toadsworth after she goes missing.",
+  "vndb_url": "https://vndb.org/c169613"
+}

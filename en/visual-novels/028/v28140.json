@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28140",
+  "type": "visual_novel",
+  "name": "Stars and Snowdrops",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Spend a day in a rainy castle and befriend, or fall for, a non-binary dragon.",
+  "source_sha256": "c99548c2407d542e10ca4216944f1fac4d9cc79003065c9f763c5f11495b67fb",
+  "translation": "Spend a day in a rainy castle and befriend, or fall for, a non-binary dragon.",
+  "vndb_url": "https://vndb.org/v28140"
+}

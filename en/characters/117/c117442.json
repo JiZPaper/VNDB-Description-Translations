@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117442",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A new employee on his first day of work in the company.",
+  "source_sha256": "87c0f3440d899869ce4ee849a04a2b2da3f6626a138a203da0584c8f9336981c",
+  "translation": "A new employee on his first day of work in the company.",
+  "vndb_url": "https://vndb.org/c117442"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c149177",
+  "type": "character",
+  "name": "Kendra",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She works at a clothing store.",
+  "source_sha256": "049d0142d6b0a242835ab39e4798e6178b6f01bedb4015228cc6fa93b15ccadb",
+  "translation": "She works at a clothing store.",
+  "vndb_url": "https://vndb.org/c149177"
+}

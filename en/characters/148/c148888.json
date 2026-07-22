@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148888",
+  "type": "character",
+  "name": "Cors",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A robot that works in a garden near Carly's apartment.",
+  "source_sha256": "4b4d88e1145c4ef1513a9b7c25f5cc6bcab99a15e79ab673d2b798e48fe541fd",
+  "translation": "A robot that works in a garden near Carly's apartment.",
+  "vndb_url": "https://vndb.org/c148888"
+}

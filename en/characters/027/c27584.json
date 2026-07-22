@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c27584",
+  "type": "character",
+  "name": "Rotis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the cops who work in BlackGate.",
+  "source_sha256": "af43e0073f9c040a459623fafd8675a20925284bfba7bcc3d365beb7c2f7f8d0",
+  "translation": "One of the cops who work in BlackGate.",
+  "vndb_url": "https://vndb.org/c27584"
+}

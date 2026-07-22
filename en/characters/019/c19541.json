@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19541",
+  "type": "character",
+  "name": "Natsume Shio",
+  "original_name": "夏目 志緒",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Dentist",
+  "source_sha256": "cc4499a4ced613322c1186ba03a1322e95f0b8d15caef901ce1a32a9c44a02f5",
+  "translation": "Occupation: Dentist",
+  "vndb_url": "https://vndb.org/c19541"
+}

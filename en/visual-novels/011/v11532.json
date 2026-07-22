@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11532",
+  "type": "visual_novel",
+  "name": "The Petty Parody",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A collection of various Ren'Py meta jokes and random pop culture references.",
+  "source_sha256": "dd09f0e6865934483603e74d3ffe979d8047977f747802d65b18a8d5f2a9ffbd",
+  "translation": "A collection of various Ren'Py meta jokes and random pop culture references.",
+  "vndb_url": "https://vndb.org/v11532"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c50611",
+  "type": "character",
+  "name": "Orange",
+  "original_name": "オランジュ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Guten Morgen!!\"\n\nA mysterious man who wears flashy clothes and a giant cape.\nHe wants to destroy 'Dance Trips'.\nIt seems he has a past with all the people who work there.",
+  "source_sha256": "77f5fa99b571fa781a28bff06750b6375c3d23731fa18598737e91353627c3a3",
+  "translation": "\"Guten Morgen!!\"\n\nA mysterious man who wears flashy clothes and a giant cape.\nHe wants to destroy 'Dance Trips'.\nIt seems he has a past with all the people who work there.",
+  "vndb_url": "https://vndb.org/c50611"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c26452",
+  "type": "character",
+  "name": "Adam",
+  "original_name": "アダム",
+  "language": "en",
+  "source_language": "en",
+  "source": "The supervisor of the Church of Dark and Light Clepsydra. \nHe knows many things about the world, Clepsydrea, and the protagonist.",
+  "source_sha256": "dfe0cb4955a749bd1ad5fc1b2d1b5b2ed2364e5c43773464050add4a9e74fa16",
+  "translation": "The supervisor of the Church of Dark and Light Clepsydra. \nHe knows many things about the world, Clepsydrea, and the protagonist.",
+  "vndb_url": "https://vndb.org/c26452"
+}

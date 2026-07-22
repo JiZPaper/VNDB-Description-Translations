@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17891",
+  "type": "character",
+  "name": "Sharu",
+  "original_name": "シャル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Goddess of the weather.",
+  "source_sha256": "a3fec5171ba7dd98d7c6c3bee792b29ef60c3aa317b19542e1363cfe1900374d",
+  "translation": "Goddess of the weather.",
+  "vndb_url": "https://vndb.org/c17891"
+}

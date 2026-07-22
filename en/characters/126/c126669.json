@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126669",
+  "type": "character",
+  "name": "Lin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Manager and Receptionist at Mayweather Hotel.",
+  "source_sha256": "4f6a40ca82be7d4e6cb55880ed1d31c2268d0c87e14c8e0f0b29c9bf0a56d306",
+  "translation": "Manager and Receptionist at Mayweather Hotel.",
+  "vndb_url": "https://vndb.org/c126669"
+}

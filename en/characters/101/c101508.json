@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101508",
+  "type": "character",
+  "name": "Kaito",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"You and I were meant to be together. Let's not fight it anymore, ok?\"\n\nKaito likes hangouts, sweets, and you.\nHe doesn't like serious conversations, old-fashioned people, and sour food.",
+  "source_sha256": "27fe5463740c390e7ed03fc0bb4602263e2eb80e199499bb103d749cb5d90009",
+  "translation": "\"You and I were meant to be together. Let's not fight it anymore, ok?\"\n\nKaito likes hangouts, sweets, and you.\nHe doesn't like serious conversations, old-fashioned people, and sour food.",
+  "vndb_url": "https://vndb.org/c101508"
+}

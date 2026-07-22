@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93541",
+  "type": "character",
+  "name": "Gen Rankle",
+  "original_name": "ゲン・ランクル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of Gen's Auto.",
+  "source_sha256": "0812d9a74497b72103e6852c3c5bf6536bbfb1058dc5ec983b2b2a4b2ad9cc37",
+  "translation": "Owner of Gen's Auto.",
+  "vndb_url": "https://vndb.org/c93541"
+}

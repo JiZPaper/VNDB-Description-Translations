@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61646",
+  "type": "visual_novel",
+  "name": "Millennia Awake",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Avery, a high school student, gets involved in several unexpected murder cases in the otherwise peaceful nation of Threesquare.",
+  "source_sha256": "64f97eeb8d91de4aeb8b110aa6e8031a301348971218b24a5433ba24ece859de",
+  "translation": "Avery, a high school student, gets involved in several unexpected murder cases in the otherwise peaceful nation of Threesquare.",
+  "vndb_url": "https://vndb.org/v61646"
+}

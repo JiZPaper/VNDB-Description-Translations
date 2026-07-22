@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4430",
+  "type": "character",
+  "name": "Village Head",
+  "original_name": "村長",
+  "language": "en",
+  "source_language": "en",
+  "source": "The man in charge of the village of shadows.",
+  "source_sha256": "a8b768c3f4b9df9742d7faa8bc9f7803cece427b2b295b84ab9176fbc001bbf7",
+  "translation": "The man in charge of the village of shadows.",
+  "vndb_url": "https://vndb.org/c4430"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46268",
+  "type": "visual_novel",
+  "name": "[Your Call]",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel about making an important call.\n\n[from [url=https://hatoge.itch.io/your-call]itch.io[/url]]",
+  "source_sha256": "9a8d9bc1ca7af539287eba41b1ac9708cd26811939943067ba9fa9021e3baa92",
+  "translation": "A short visual novel about making an important call.\n\n[from [url=https://hatoge.itch.io/your-call]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v46268"
+}

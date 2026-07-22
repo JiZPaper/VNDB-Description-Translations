@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16705",
+  "type": "visual_novel",
+  "name": "Caging Me Softly",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Nicolas Cage dating sim.",
+  "source_sha256": "deae19765eeaaee1583a2c19ee9fb023a199ccb1d0fc7e83b8769c3406b84150",
+  "translation": "A Nicolas Cage dating sim.",
+  "vndb_url": "https://vndb.org/v16705"
+}

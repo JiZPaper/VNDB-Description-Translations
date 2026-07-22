@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159529",
+  "type": "character",
+  "name": "Johnny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist.\nKate's son.",
+  "source_sha256": "03db2d553d0902f0a43f8ae0a921a933224b82669fe12bc4bdf2d19fec1f02fe",
+  "translation": "The protagonist.\nKate's son.",
+  "vndb_url": "https://vndb.org/c159529"
+}

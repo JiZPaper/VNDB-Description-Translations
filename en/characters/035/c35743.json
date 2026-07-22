@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35743",
+  "type": "character",
+  "name": "Safine Cruizen",
+  "original_name": "サフィーヌ・クリッツェン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Medical officer of Urudiana.",
+  "source_sha256": "826389461744e0a01f36a73ebbb7c6613cfd129ace0c6976ce610fc5f196fbe0",
+  "translation": "Medical officer of Urudiana.",
+  "vndb_url": "https://vndb.org/c35743"
+}

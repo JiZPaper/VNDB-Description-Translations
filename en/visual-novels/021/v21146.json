@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21146",
+  "type": "visual_novel",
+  "name": "Dangel - Special Disk",
+  "original_name": "Dangel スペシャルディスク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Contains a parodying story set in the universe of Dangel, which happens at the same time as when Anduke starts his own adventure.",
+  "source_sha256": "341f112bcd68c5663c391e8da0c37b400e316fba5dac71803182d987296ef93a",
+  "translation": "Contains a parodying story set in the universe of Dangel, which happens at the same time as when Anduke starts his own adventure.",
+  "vndb_url": "https://vndb.org/v21146"
+}

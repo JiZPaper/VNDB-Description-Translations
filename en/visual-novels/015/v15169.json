@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15169",
+  "type": "visual_novel",
+  "name": "Sostenuto ~ 2nd Movement",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A prince and a pianist are locked in a room.\nA small window into their lives.\nA love letter to apple pie.",
+  "source_sha256": "70cd6636c842b3d6580d95a96764d129587c6ed5004e27d0f8fc8698335f4324",
+  "translation": "A prince and a pianist are locked in a room.\nA small window into their lives.\nA love letter to apple pie.",
+  "vndb_url": "https://vndb.org/v15169"
+}

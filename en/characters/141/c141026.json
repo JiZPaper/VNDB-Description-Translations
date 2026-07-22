@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141026",
+  "type": "character",
+  "name": "Carlos",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nam's mother's partner.",
+  "source_sha256": "ea380dbc8c66903a9ef5bd83c1e3537f511a7e17dbb5b0e731766c4d8e709776",
+  "translation": "Nam's mother's partner.",
+  "vndb_url": "https://vndb.org/c141026"
+}

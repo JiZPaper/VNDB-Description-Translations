@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6802",
+  "type": "visual_novel",
+  "name": "Fate of the Heretics",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Rikku comes to help Yuna but she is captured too.",
+  "source_sha256": "8cdc2efc2c50014fad7662ea1654daf373eaac89478de8167a6793e42eae3991",
+  "translation": "Rikku comes to help Yuna but she is captured too.",
+  "vndb_url": "https://vndb.org/v6802"
+}

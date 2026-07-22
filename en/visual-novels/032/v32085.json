@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32085",
+  "type": "visual_novel",
+  "name": "One Shot in the Dark, Now I’m Dead.",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "They killed the world generations ago. Find out the truth and ascend to the Wire. \n\n[From [url=https://ldjam.com/events/ludum-dare/48/one-shot-in-the-dark-now-im-dead]Ludum Dare[/url]]",
+  "source_sha256": "372285d84d0c7655cf7b2a54a5c8bc530397e3626be0c8f9e8c48d61e79c6582",
+  "translation": "They killed the world generations ago. Find out the truth and ascend to the Wire. \n\n[From [url=https://ldjam.com/events/ludum-dare/48/one-shot-in-the-dark-now-im-dead]Ludum Dare[/url]]",
+  "vndb_url": "https://vndb.org/v32085"
+}

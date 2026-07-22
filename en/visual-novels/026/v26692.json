@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26692",
+  "type": "visual_novel",
+  "name": "Mayoigo Heathhein",
+  "original_name": "迷い子ヒースヒェン",
+  "language": "en",
+  "source_language": "en",
+  "source": "The winter of the second year of university.\nAt the usual cafe.\nEverything started from a coincidental reunion.",
+  "source_sha256": "e3a9eb3bba4fc779ab008395a7ba4ad7469b1f7f062df664784492522d4f66c6",
+  "translation": "The winter of the second year of university.\nAt the usual cafe.\nEverything started from a coincidental reunion.",
+  "vndb_url": "https://vndb.org/v26692"
+}

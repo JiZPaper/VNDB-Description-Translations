@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96919",
+  "type": "character",
+  "name": "Ex Banquet",
+  "original_name": "エクス・バンケット",
+  "language": "en",
+  "source_language": "en",
+  "source": "Level/Level Cap: 29/29\nSkill Level(s): Sword Combat LV1, Strategy LV1\n\nGeneral of Leazas' White Army, a unit specializing in infiltration and tactical warfare.\n\nWhile he is young, he is an extraordinarily talented tactician who is capable of formulating complicated and effective strategies in an instant, earning him the nickname \"The Literary General\".",
+  "source_sha256": "fe1d01d4d8d90b177b3ad7e7e6a85b9aea9ebbef90b75cc883f3b42febd25374",
+  "translation": "Level/Level Cap: 29/29\nSkill Level(s): Sword Combat LV1, Strategy LV1\n\nGeneral of Leazas' White Army, a unit specializing in infiltration and tactical warfare.\n\nWhile he is young, he is an extraordinarily talented tactician who is capable of formulating complicated and effective strategies in an instant, earning him the nickname \"The Literary General\".",
+  "vndb_url": "https://vndb.org/c96919"
+}

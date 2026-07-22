@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51162",
+  "type": "character",
+  "name": "Merry",
+  "original_name": "メリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sheep, Uke.",
+  "source_sha256": "44833188a1ec83c3764a04aed7a5578b2d66c8d87ed69727359057ceca63b81c",
+  "translation": "Sheep, Uke.",
+  "vndb_url": "https://vndb.org/c51162"
+}

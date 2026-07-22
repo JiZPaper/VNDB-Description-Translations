@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39333",
+  "type": "character",
+  "name": "Eryn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Owns the Boar Aura",
+  "source_sha256": "2aee9e1c6cf494f6cc3d2d3787bfd6876bebf4f3a6f63864d84b137a5eccdb96",
+  "translation": "Owns the Boar Aura",
+  "vndb_url": "https://vndb.org/c39333"
+}

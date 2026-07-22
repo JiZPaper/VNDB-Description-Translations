@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155937",
+  "type": "character",
+  "name": "Hunter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the students at Nicole's school.",
+  "source_sha256": "ece1fc2c2b1e95c27b98b3141e865f5bafa850e9309474a6b7324931db34caaa",
+  "translation": "One of the students at Nicole's school.",
+  "vndb_url": "https://vndb.org/c155937"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161864",
+  "type": "character",
+  "name": "Finn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Luna's husband, a cyber-security specialist.",
+  "source_sha256": "5da12a87a8662bd53ac0d78a863bcbcd108f7d76a750c60b7827a94ed32e5f5a",
+  "translation": "Luna's husband, a cyber-security specialist.",
+  "vndb_url": "https://vndb.org/c161864"
+}

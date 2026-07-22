@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c43965",
+  "type": "character",
+  "name": "Kafei",
+  "original_name": "カーフェイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader of the Ruuin Knight Troupe.\nA slender man with a sharp gaze who doesn't talk much.\nHe used to be part of a resistance group that fought against the knights but he fell into a trap set by [url=/c43962]Levias[/url] and ended up swearing loyalty to him afterwards.\nA battle enthusiast who naturally enjoys fighting.",
+  "source_sha256": "61c9ec9eb64ea7305a5552497b251f5c1123b7b916a632c9e73ba9923cc326f6",
+  "translation": "Leader of the Ruuin Knight Troupe.\nA slender man with a sharp gaze who doesn't talk much.\nHe used to be part of a resistance group that fought against the knights but he fell into a trap set by [url=/c43962]Levias[/url] and ended up swearing loyalty to him afterwards.\nA battle enthusiast who naturally enjoys fighting.",
+  "vndb_url": "https://vndb.org/c43965"
+}

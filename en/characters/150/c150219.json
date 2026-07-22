@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150219",
+  "type": "character",
+  "name": "Akane",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Officer who interrogates Hideki at the beginning.",
+  "source_sha256": "d5c00588d967c071a7a7e69adcc994e24ea5b55819e45481ceccc9ea4e371b0d",
+  "translation": "Officer who interrogates Hideki at the beginning.",
+  "vndb_url": "https://vndb.org/c150219"
+}

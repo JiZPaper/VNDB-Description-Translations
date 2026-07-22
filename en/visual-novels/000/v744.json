@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v744",
+  "type": "visual_novel",
+  "name": "Agnus Dei",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A crossover game that ZigZag released for its previous titles for the April Fool's Day 2008.",
+  "source_sha256": "901aca4799cdfb39e63043b85504dc4776a76fdaaa7307b74c0b4a5d21587167",
+  "translation": "A crossover game that ZigZag released for its previous titles for the April Fool's Day 2008.",
+  "vndb_url": "https://vndb.org/v744"
+}

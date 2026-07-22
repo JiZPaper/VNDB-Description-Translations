@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30501",
+  "type": "visual_novel",
+  "name": "Hako",
+  "original_name": "箱",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist receives a birthday present. What's inside it?",
+  "source_sha256": "adeadfe717590322cef274e99764fae8564a78cf1b2a9b64e1814183660efb79",
+  "translation": "The protagonist receives a birthday present. What's inside it?",
+  "vndb_url": "https://vndb.org/v30501"
+}

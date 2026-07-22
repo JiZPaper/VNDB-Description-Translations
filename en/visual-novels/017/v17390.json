@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17390",
+  "type": "visual_novel",
+  "name": "Atobe wa Ouji-sama",
+  "original_name": "跡部は王子様",
+  "language": "en",
+  "source_language": "en",
+  "source": "Atobe x Sakaki fan game.",
+  "source_sha256": "aee8729f1e522bf0b41f404b21c1b45b8b2aa4e20133bb848dbdd8745319554a",
+  "translation": "Atobe x Sakaki fan game.",
+  "vndb_url": "https://vndb.org/v17390"
+}

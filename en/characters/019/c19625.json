@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19625",
+  "type": "character",
+  "name": "Ben Young",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Recovering heroin addict at Memorial Hospital.",
+  "source_sha256": "485d18b760f8587192963b01dafe67b2db122c5e6561ddd68b994db23f12165b",
+  "translation": "Recovering heroin addict at Memorial Hospital.",
+  "vndb_url": "https://vndb.org/c19625"
+}

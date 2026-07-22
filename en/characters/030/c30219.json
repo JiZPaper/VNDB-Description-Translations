@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30219",
+  "type": "character",
+  "name": "Lotto",
+  "original_name": "四守護ロット",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of 4 Guardians.",
+  "source_sha256": "dc403d420d35f3d124351a923c13018be5bc131a45d7efa21e16ef5fdaa0c9dd",
+  "translation": "One of 4 Guardians.",
+  "vndb_url": "https://vndb.org/c30219"
+}

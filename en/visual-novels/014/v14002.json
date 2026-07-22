@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14002",
+  "type": "visual_novel",
+  "name": "The Journey of Ignorance",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Two women from the city of Toronto, Canada travel to a small rural area in Ontario. The journey starts off as a means to film a travel documentary, but along the way they end up learning more about each other, and themselves.",
+  "source_sha256": "75cc729adbc5046db86ec9d52a798122d5900a649dab2ff622d2bca3efcd4e98",
+  "translation": "Two women from the city of Toronto, Canada travel to a small rural area in Ontario. The journey starts off as a means to film a travel documentary, but along the way they end up learning more about each other, and themselves.",
+  "vndb_url": "https://vndb.org/v14002"
+}

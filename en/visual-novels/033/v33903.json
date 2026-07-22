@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33903",
+  "type": "visual_novel",
+  "name": "Xiangzhe Xingchen yu Shenyuan",
+  "original_name": "向着星辰与深渊",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fan-made visual novel of the game Genshin Impact.",
+  "source_sha256": "e30729e4fa1dcf70b034798fbe609ca6536748982b808167c03435d49b09a56c",
+  "translation": "Fan-made visual novel of the game Genshin Impact.",
+  "vndb_url": "https://vndb.org/v33903"
+}

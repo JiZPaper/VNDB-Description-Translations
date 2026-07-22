@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45812",
+  "type": "character",
+  "name": "Coleman Maker 3rd",
+  "original_name": "コールマン・メイカー3世",
+  "language": "en",
+  "source_language": "en",
+  "source": "A nurse, called 'Doctor' by those around him.\nHe's an old acquaintance of [url=/c45811]Acid[/url].\nHe used to be a much more serious guy but he got into an accident and lately he's always drinking alcohol at a sidewalk cafe.",
+  "source_sha256": "c50fe1ba7e6c9e4519109cfb06600c7b324bfcd1fe1edd5e7d779afd521d6fd3",
+  "translation": "A nurse, called 'Doctor' by those around him.\nHe's an old acquaintance of [url=/c45811]Acid[/url].\nHe used to be a much more serious guy but he got into an accident and lately he's always drinking alcohol at a sidewalk cafe.",
+  "vndb_url": "https://vndb.org/c45812"
+}

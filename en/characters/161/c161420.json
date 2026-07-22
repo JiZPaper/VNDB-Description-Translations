@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161420",
+  "type": "character",
+  "name": "Dantaliar",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dramatic magical girl who loves the theater.",
+  "source_sha256": "cd79c114e9a3aadda49c127fe8fb7d1c13fac60e2195fd8f88de3c7d371bb434",
+  "translation": "A dramatic magical girl who loves the theater.",
+  "vndb_url": "https://vndb.org/c161420"
+}

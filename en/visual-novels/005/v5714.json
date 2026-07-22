@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5714",
+  "type": "visual_novel",
+  "name": "Wakan Kazoku",
+  "original_name": "和姦家族",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's real parents died in a car crash when he was too young to remember. The family he lives with now is actually the family of his late parents' close friends.",
+  "source_sha256": "98df0ebf95dbd17b027a26c253ed177307edef61cd795a5e3d30f9b09881b641",
+  "translation": "The protagonist's real parents died in a car crash when he was too young to remember. The family he lives with now is actually the family of his late parents' close friends.",
+  "vndb_url": "https://vndb.org/v5714"
+}

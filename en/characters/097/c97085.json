@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97085",
+  "type": "character",
+  "name": "Peeler",
+  "original_name": "ピーラー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Student number: 4256\nHer real name is [spoiler]Ave[/spoiler]",
+  "source_sha256": "8089041fd10a2d1756af93590e5f26d8d2e3c621a97127f8cd303dfbcd62a2fa",
+  "translation": "Student number: 4256\nHer real name is [spoiler]Ave[/spoiler]",
+  "vndb_url": "https://vndb.org/c97085"
+}

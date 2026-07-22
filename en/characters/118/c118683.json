@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c118683",
+  "type": "character",
+  "name": "Grilka",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Kliton warrior who seeks revenge against the hero.",
+  "source_sha256": "df45c92b5eabe7afa2071572284a26c742da737132987d8836f234370dc43b94",
+  "translation": "A Kliton warrior who seeks revenge against the hero.",
+  "vndb_url": "https://vndb.org/c118683"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126249",
+  "type": "character",
+  "name": "Wolf",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bloodhound gang member. \n\nNot very talkative.",
+  "source_sha256": "bb8cd60a3250384300341e68e6d68d084d025fc8ec2dbf1cdb7eb6417bc4439a",
+  "translation": "Bloodhound gang member. \n\nNot very talkative.",
+  "vndb_url": "https://vndb.org/c126249"
+}

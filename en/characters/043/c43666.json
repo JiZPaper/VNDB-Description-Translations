@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c43666",
+  "type": "character",
+  "name": "Lily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A teenage girl who converses with the protagonist.",
+  "source_sha256": "dee4fcc1df498480dd6c4c2057c45a381eb0f59d967d89377d33c7fc3f29f68b",
+  "translation": "A teenage girl who converses with the protagonist.",
+  "vndb_url": "https://vndb.org/c43666"
+}

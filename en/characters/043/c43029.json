@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c43029",
+  "type": "character",
+  "name": "Zalmagus Gran",
+  "original_name": "ザルマグス・グラン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Dwarf Tribe Leader",
+  "source_sha256": "7fd4b104f1ee0208a0a647644b4d5bcd65190e8de15dfc2191c518cb11f111ca",
+  "translation": "Dwarf Tribe Leader",
+  "vndb_url": "https://vndb.org/c43029"
+}

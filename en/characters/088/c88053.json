@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88053",
+  "type": "character",
+  "name": "Emily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Eloise's friend.",
+  "source_sha256": "476dc1b4cea05e789721b06a4c7a57cb1ac590a7c598bc3dd16ddee4b4ac5003",
+  "translation": "Eloise's friend.",
+  "vndb_url": "https://vndb.org/c88053"
+}

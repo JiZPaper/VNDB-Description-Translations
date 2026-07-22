@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31058",
+  "type": "visual_novel",
+  "name": "Tenshi no E no Mukougawa",
+  "original_name": "天使の絵の向こう側",
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about how Lilia, the protagonist who has always been the best, comes to terms with herself when it turns out things aren't as she believes.",
+  "source_sha256": "b216e6df30db33e45c2739a053f8eae54f09c450511451bff947ab831c62076f",
+  "translation": "A story about how Lilia, the protagonist who has always been the best, comes to terms with herself when it turns out things aren't as she believes.",
+  "vndb_url": "https://vndb.org/v31058"
+}

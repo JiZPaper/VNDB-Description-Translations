@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100439",
+  "type": "character",
+  "name": "Seth",
+  "original_name": "Сэт",
+  "language": "en",
+  "source_language": "en",
+  "source": "*Occupation: Entrepreneur\n\n*Hobbies\n- Psychological research (conducted on employees, be prepared!)\n- Educational work\n\n\"If you want to work for me, you are welcome. We'll definitely get along if you don't mess around. \"",
+  "source_sha256": "3e501d737bda1bf8a0464dbaa6918120f0486c883566bf4ebd6d4ee86c36426d",
+  "translation": "*Occupation: Entrepreneur\n\n*Hobbies\n- Psychological research (conducted on employees, be prepared!)\n- Educational work\n\n\"If you want to work for me, you are welcome. We'll definitely get along if you don't mess around. \"",
+  "vndb_url": "https://vndb.org/c100439"
+}

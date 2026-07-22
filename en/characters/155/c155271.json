@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155271",
+  "type": "character",
+  "name": "The Muse",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A character in \"Colossus of Rhodes.\"",
+  "source_sha256": "3bbace58f950ecbed2032e7ce4bb614fd9a17b46d902234c9eaf37bb13f0d96b",
+  "translation": "A character in \"Colossus of Rhodes.\"",
+  "vndb_url": "https://vndb.org/c155271"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97567",
+  "type": "character",
+  "name": "The Regent",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He's the younger brother of the late King and temporary ruler of the kingdom.",
+  "source_sha256": "fdc40530bc6c60b2554bef2bcba071450f56c7463cb605ecac45e7a5679dd98f",
+  "translation": "He's the younger brother of the late King and temporary ruler of the kingdom.",
+  "vndb_url": "https://vndb.org/c97567"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c128471",
+  "type": "character",
+  "name": "Kate",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Kate, a farm-raised Chimera with unstoppable rage.",
+  "source_sha256": "7771c706d25ffa50ba6e62a8f03695ba2d2222c30db66a2d556465b8fae4b3db",
+  "translation": "Kate, a farm-raised Chimera with unstoppable rage.",
+  "vndb_url": "https://vndb.org/c128471"
+}

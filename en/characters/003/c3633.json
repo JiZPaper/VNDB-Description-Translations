@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c3633",
+  "type": "character",
+  "name": "Misuzu",
+  "original_name": "美鈴",
+  "language": "en",
+  "source_language": "en",
+  "source": "The manager of the bookstore. She is Yua's guardian and sister.",
+  "source_sha256": "01ebe94109a47927188ed8c3de0686f6440382fbdaec6f59358197ea649f86f8",
+  "translation": "The manager of the bookstore. She is Yua's guardian and sister.",
+  "vndb_url": "https://vndb.org/c3633"
+}

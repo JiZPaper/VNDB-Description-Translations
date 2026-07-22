@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49406",
+  "type": "visual_novel",
+  "name": "Riddle Me Sweets!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dark comedy riddle-based baking VN based around the tale of Hansel and Gretel.",
+  "source_sha256": "50d43639ac1c66459b4941b77c456ac5979f74aec45bb467f7b759390d0e7751",
+  "translation": "A dark comedy riddle-based baking VN based around the tale of Hansel and Gretel.",
+  "vndb_url": "https://vndb.org/v49406"
+}

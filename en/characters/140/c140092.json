@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140092",
+  "type": "character",
+  "name": "Francoise",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The maître d' of a French restaurant.",
+  "source_sha256": "f31b82a4ab614706df1aa87746ec6b99c34f449a4d9f42f394705448e543c3d1",
+  "translation": "The maître d' of a French restaurant.",
+  "vndb_url": "https://vndb.org/c140092"
+}

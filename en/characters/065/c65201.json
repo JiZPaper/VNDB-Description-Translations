@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65201",
+  "type": "character",
+  "name": "En",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "En is a werecat, something similar to a werewolf. [spoiler]She is the president of the sports club. She becomes very aggressive as the week before the full moon arrives, to the point of killing someone.[/spoiler]",
+  "source_sha256": "f4712200b2e2207b6fbefd24b0ac23d64e28a95e514d144519e40c99dd95e8f9",
+  "translation": "En is a werecat, something similar to a werewolf. [spoiler]She is the president of the sports club. She becomes very aggressive as the week before the full moon arrives, to the point of killing someone.[/spoiler]",
+  "vndb_url": "https://vndb.org/c65201"
+}

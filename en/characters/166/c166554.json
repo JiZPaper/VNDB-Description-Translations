@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166554",
+  "type": "character",
+  "name": "Sayori",
+  "original_name": "沙依",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious and suspicious man you rescued (?). You found him laying on the beach one night and offered him a place to stay as he claimed to have no memories.",
+  "source_sha256": "925d76ec52beb9d9c530641cd07b9c9bcfc4be7422768905d28c05f98265c181",
+  "translation": "A mysterious and suspicious man you rescued (?). You found him laying on the beach one night and offered him a place to stay as he claimed to have no memories.",
+  "vndb_url": "https://vndb.org/c166554"
+}

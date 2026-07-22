@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125973",
+  "type": "character",
+  "name": "Shaylen",
+  "original_name": "シェイレン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Synsya's attendant.",
+  "source_sha256": "c96a4af65a230bfeab7a3b8e9d2636535da3612095030e1a2c1323e3847b9ac4",
+  "translation": "Synsya's attendant.",
+  "vndb_url": "https://vndb.org/c125973"
+}

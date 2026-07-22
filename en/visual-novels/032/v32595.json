@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32595",
+  "type": "visual_novel",
+  "name": "Hajimete no Ganmen Kijou Feat. Kitani Sai",
+  "original_name": "はじめての顔面騎乗 Feat.木谷さい",
+  "language": "en",
+  "source_language": "en",
+  "source": "A voiced game that colors and animates two doujin manga.",
+  "source_sha256": "b10f71b84b3acb120e6cf86e8acec889e17621a8e09b3cc14f28af6790338980",
+  "translation": "A voiced game that colors and animates two doujin manga.",
+  "vndb_url": "https://vndb.org/v32595"
+}

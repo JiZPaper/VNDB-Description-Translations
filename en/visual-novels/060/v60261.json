@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60261",
+  "type": "visual_novel",
+  "name": "BloodBound",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You’re caught between two rival vampire clans – one bathed in light, the other thriving in shadow. You must choose who to trust, who to love, and whose hunger to feed.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "6eb8833fbf662dccb542dd1ac720e949b46a3c0c41ce8d79af22736c16b8bfc5",
+  "translation": "You’re caught between two rival vampire clans – one bathed in light, the other thriving in shadow. You must choose who to trust, who to love, and whose hunger to feed.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "vndb_url": "https://vndb.org/v60261"
+}

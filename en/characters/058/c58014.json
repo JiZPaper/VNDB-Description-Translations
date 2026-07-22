@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c58014",
+  "type": "character",
+  "name": "Merchant",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bio:\n- Name: In-game Secret\nTemperament:\n- He always finds a way to show how rich he is\n- Friendly \n- Brave and skilled conversationalist, timid and fearful during fights",
+  "source_sha256": "88608d38d40d1be30c41a1413d55304675a7139895a11af83d47a9ce65015cc2",
+  "translation": "Bio:\n- Name: In-game Secret\nTemperament:\n- He always finds a way to show how rich he is\n- Friendly \n- Brave and skilled conversationalist, timid and fearful during fights",
+  "vndb_url": "https://vndb.org/c58014"
+}

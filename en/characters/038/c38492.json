@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38492",
+  "type": "character",
+  "name": "Me",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Cousin of Sophie.\n\nCan be changed to friend by entering the \"notsoclose\" code.",
+  "source_sha256": "32c90136b5e569d2ec275006033760edc094db8b4649b7c4ac97908f5fa81c75",
+  "translation": "Cousin of Sophie.\n\nCan be changed to friend by entering the \"notsoclose\" code.",
+  "vndb_url": "https://vndb.org/c38492"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36756",
+  "type": "character",
+  "name": "Erhard",
+  "original_name": "エルハルト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A noisy knight that lives in Elkrone.",
+  "source_sha256": "1b7ffa6c95e0ab3a7969e20cffb147bed6801a1e5beb13142dc041d865567644",
+  "translation": "A noisy knight that lives in Elkrone.",
+  "vndb_url": "https://vndb.org/c36756"
+}

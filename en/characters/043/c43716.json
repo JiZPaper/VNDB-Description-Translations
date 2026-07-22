@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c43716",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "A first year high school student who is lively and honest.\nShe thinks everyone around her is important and has a kind heart, but she has a meddlesome side.\nShe loves books and is part of the library committee.\nShe really treasures the 'Little Red Riding Hood' picture book she received from her grandmother.\nNo default name.",
+  "source_sha256": "cafd0888d67cc7e21eb87763026eb38f61fede44cd25e492828223e519381846",
+  "translation": "A first year high school student who is lively and honest.\nShe thinks everyone around her is important and has a kind heart, but she has a meddlesome side.\nShe loves books and is part of the library committee.\nShe really treasures the 'Little Red Riding Hood' picture book she received from her grandmother.\nNo default name.",
+  "vndb_url": "https://vndb.org/c43716"
+}

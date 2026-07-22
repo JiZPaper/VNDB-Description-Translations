@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c56367",
+  "type": "character",
+  "name": "Klinon Rivale",
+  "original_name": "クリノン・リヴァーレ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Favorite thing: Sweets\nDislikes: Frogs\nSpecial skill: Making sweets",
+  "source_sha256": "1d968c4a4cf555a120e6a5392198614333f8438299000d71eb71a923834d9101",
+  "translation": "Favorite thing: Sweets\nDislikes: Frogs\nSpecial skill: Making sweets",
+  "vndb_url": "https://vndb.org/c56367"
+}

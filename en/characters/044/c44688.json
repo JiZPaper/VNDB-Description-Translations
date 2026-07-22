@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44688",
+  "type": "character",
+  "name": "Kikuchi-sensei",
+  "original_name": "菊池先生",
+  "language": "en",
+  "source_language": "en",
+  "source": "Buntarou and friends' homeroom teacher.",
+  "source_sha256": "b2d224930a3d21a93da26a4027a7364ad6cb20164496718f5adb3ae4d4f4598b",
+  "translation": "Buntarou and friends' homeroom teacher.",
+  "vndb_url": "https://vndb.org/c44688"
+}

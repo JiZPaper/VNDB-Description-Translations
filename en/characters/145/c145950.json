@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145950",
+  "type": "character",
+  "name": "Landorus-Therian",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Therian forme of Landorus, notable for its higher base Attack and access to Intimidate over Sheer Force. Historically one of the best Pokemon in OU, but has been faltering as of late with the introduction of Great Tusk and removal of important moveset options like Defog and Toxic.",
+  "source_sha256": "b020fac5363acb91052cf2420b72371f06f298f31901e8c77b7d72c9982c574e",
+  "translation": "The Therian forme of Landorus, notable for its higher base Attack and access to Intimidate over Sheer Force. Historically one of the best Pokemon in OU, but has been faltering as of late with the introduction of Great Tusk and removal of important moveset options like Defog and Toxic.",
+  "vndb_url": "https://vndb.org/c145950"
+}

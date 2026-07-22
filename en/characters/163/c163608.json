@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163608",
+  "type": "character",
+  "name": "Tezcatlipoca",
+  "original_name": "テスカトリポカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "An Aztec deity.",
+  "source_sha256": "e6e86992c839e3ac497f6a7efd0aa6d4a9867176fb7d2e27eb10f4ae55a7be35",
+  "translation": "An Aztec deity.",
+  "vndb_url": "https://vndb.org/c163608"
+}

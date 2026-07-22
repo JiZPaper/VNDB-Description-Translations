@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125040",
+  "type": "character",
+  "name": "Hacchi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl tasked with saving the world.",
+  "source_sha256": "8ec5fa100c781256db95e4a1858923b41e6eeb939f62c435dfc804a1e6f64984",
+  "translation": "A girl tasked with saving the world.",
+  "vndb_url": "https://vndb.org/c125040"
+}

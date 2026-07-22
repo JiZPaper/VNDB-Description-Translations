@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23239",
+  "type": "visual_novel",
+  "name": "Doki Heika Banzai!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A DDLC Mod That is a Comedy set in WW2 Imperial Japan.",
+  "source_sha256": "ee6c6fea4bd6945fb482a8014f61aa7701337def214ac848e5b2d3b6a5296785",
+  "translation": "A DDLC Mod That is a Comedy set in WW2 Imperial Japan.",
+  "vndb_url": "https://vndb.org/v23239"
+}

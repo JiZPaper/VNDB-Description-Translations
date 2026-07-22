@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135197",
+  "type": "character",
+  "name": "Captain Flint",
+  "original_name": "フリント船長",
+  "language": "en",
+  "source_language": "en",
+  "source": "The antagonist of the event \"My Captain, His Last Bow\".",
+  "source_sha256": "cad3ba7e4477e02e31c806268632b39689c200aa4ede7d102bdad8f1e19d165f",
+  "translation": "The antagonist of the event \"My Captain, His Last Bow\".",
+  "vndb_url": "https://vndb.org/c135197"
+}

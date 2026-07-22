@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c83425",
+  "type": "character",
+  "name": "Flauros",
+  "original_name": "フラウロス",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Andras' younger sister[/spoiler]",
+  "source_sha256": "b8d77ae22f12241ab5b34a238388fe6c0cf24bdfa79782c5521d8438783ff9bc",
+  "translation": "[spoiler]Andras' younger sister[/spoiler]",
+  "vndb_url": "https://vndb.org/c83425"
+}

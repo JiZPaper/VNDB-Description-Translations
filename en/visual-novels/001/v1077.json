@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1077",
+  "type": "visual_novel",
+  "name": "Teikoku Sensenki",
+  "original_name": "帝国千戦記",
+  "language": "en",
+  "source_language": "en",
+  "source": "The great empire fell into chaos after the emperor's death. The nation fracturing into three separate states, each led by their own king vying for power. Born a poor farmer's son, a young man lived who would become known as a military genius that changed the course of history.",
+  "source_sha256": "0cb36094a4c26f4cf69be6c8f88f4789d5393436673d67d127b941d63b76813b",
+  "translation": "The great empire fell into chaos after the emperor's death. The nation fracturing into three separate states, each led by their own king vying for power. Born a poor farmer's son, a young man lived who would become known as a military genius that changed the course of history.",
+  "vndb_url": "https://vndb.org/v1077"
+}

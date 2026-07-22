@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77069",
+  "type": "character",
+  "name": "Akagi",
+  "original_name": "アカギ",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]\n\nTsumugi's Alp.",
+  "source_sha256": "41e8c8299ca72fcc5071119b0adb7346134d571f2bcd6d58faa6f7a7e0335320",
+  "translation": "[spoiler]\n\nTsumugi's Alp.",
+  "vndb_url": "https://vndb.org/c77069"
+}

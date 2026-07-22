@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17639",
+  "type": "character",
+  "name": "Story Teller",
+  "original_name": "ストーリー テラー",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Storyteller is the creator and ruler of Labyrinthia. He has the ability to make whatever story he writes come to pass in the real world.\n\n[From [url=http://aceattorney.wikia.com/wiki/Storyteller]Ace Attorney Wiki[/url]]",
+  "source_sha256": "bbc27d6dcf7b686b9f086590b933eabbdd89afad52352613a551a579992bb69b",
+  "translation": "The Storyteller is the creator and ruler of Labyrinthia. He has the ability to make whatever story he writes come to pass in the real world.\n\n[From [url=http://aceattorney.wikia.com/wiki/Storyteller]Ace Attorney Wiki[/url]]",
+  "vndb_url": "https://vndb.org/c17639"
+}

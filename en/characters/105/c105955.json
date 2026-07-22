@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105955",
+  "type": "character",
+  "name": "Drop",
+  "original_name": "ドロップ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The conductor of the Galactic Railway. He is a bright and refreshing young man who works very hard. No one has ever seen him rest before.",
+  "source_sha256": "58674661a3f2496b858fed0276709eec8a557630d04461441ba010cccea15c43",
+  "translation": "The conductor of the Galactic Railway. He is a bright and refreshing young man who works very hard. No one has ever seen him rest before.",
+  "vndb_url": "https://vndb.org/c105955"
+}

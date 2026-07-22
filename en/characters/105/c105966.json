@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105966",
+  "type": "character",
+  "name": "Dr. Yabu",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A confident doctor. He's a self-proclaimed \"magnificent genius.\"",
+  "source_sha256": "56ae0493c6dbead72af1678f6affc8f4d587128b699077131fa6cd2449d1d090",
+  "translation": "A confident doctor. He's a self-proclaimed \"magnificent genius.\"",
+  "vndb_url": "https://vndb.org/c105966"
+}

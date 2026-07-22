@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101663",
+  "type": "character",
+  "name": "Hu Zi",
+  "original_name": "虎子",
+  "language": "en",
+  "source_language": "en",
+  "source": "A cooker",
+  "source_sha256": "a2f959651926475f6027eeabface5cfa6ec1e9e0123f8557eac9f10b7fe72e67",
+  "translation": "A cooker",
+  "vndb_url": "https://vndb.org/c101663"
+}

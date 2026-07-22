@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134329",
+  "type": "character",
+  "name": "Vanessa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Marcus' assistant.",
+  "source_sha256": "aa8c3b9c137536cdb754c8250322dc00c5e66f75edeba74ca3ea57ad9e31c66a",
+  "translation": "Marcus' assistant.",
+  "vndb_url": "https://vndb.org/c134329"
+}

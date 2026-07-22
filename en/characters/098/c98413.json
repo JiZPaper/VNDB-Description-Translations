@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98413",
+  "type": "character",
+  "name": "Ferdinand",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A friendly co-worker at the Café Milan.",
+  "source_sha256": "024ad30245ccc84fc7cf59b749f4f6bb97f6c969c7487d08750d612477a93c31",
+  "translation": "A friendly co-worker at the Café Milan.",
+  "vndb_url": "https://vndb.org/c98413"
+}

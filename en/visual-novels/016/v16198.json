@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16198",
+  "type": "visual_novel",
+  "name": "A Forgotten Memory",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short story about growing up.",
+  "source_sha256": "fbb7a15ad0e151a03aa84d53d2ce3e3f2883a357ddbbab2d576211db4c1b3df8",
+  "translation": "A short story about growing up.",
+  "vndb_url": "https://vndb.org/v16198"
+}

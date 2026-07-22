@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99279",
+  "type": "character",
+  "name": "Ryker",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ryker is a scout hired to protect the people on the caravan.",
+  "source_sha256": "6b38782aeb4f2bed9e11804a866ab6f98f6e66e8eaf545fc815b628a6b668096",
+  "translation": "Ryker is a scout hired to protect the people on the caravan.",
+  "vndb_url": "https://vndb.org/c99279"
+}

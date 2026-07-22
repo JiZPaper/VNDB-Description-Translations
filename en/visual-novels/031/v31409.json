@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31409",
+  "type": "visual_novel",
+  "name": "SCT Project Vtubers",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Visual Novel featuring Vtubers from an organization called SCT Project.",
+  "source_sha256": "f15c3e82d867ec389a73afeffbf39caf6534a14377b36ad9961f3bd69f5e8730",
+  "translation": "Visual Novel featuring Vtubers from an organization called SCT Project.",
+  "vndb_url": "https://vndb.org/v31409"
+}

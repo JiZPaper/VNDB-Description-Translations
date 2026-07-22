@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90216",
+  "type": "character",
+  "name": "Yue",
+  "original_name": "ユエ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kirameki version.",
+  "source_sha256": "1ae0b8dae529fd2c87f3e6e760498f101f8c78f8ab352c32bfb9320b2c9aa369",
+  "translation": "Kirameki version.",
+  "vndb_url": "https://vndb.org/c90216"
+}

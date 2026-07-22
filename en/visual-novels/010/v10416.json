@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10416",
+  "type": "visual_novel",
+  "name": "The Most Offensive Game Ever",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A piece on censorship and subtlety.",
+  "source_sha256": "7eb9f6645bfdbf8a21f8724870fc93773a059afbce4c0732430cb4fb77ef04e2",
+  "translation": "A piece on censorship and subtlety.",
+  "vndb_url": "https://vndb.org/v10416"
+}

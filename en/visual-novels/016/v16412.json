@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16412",
+  "type": "visual_novel",
+  "name": "Rose Thorns",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl has to choose between her best friend and her crush.",
+  "source_sha256": "308443506de0ce6614818e2469b8dba6c96de5bdb618ba04d821e675cb2077b2",
+  "translation": "A girl has to choose between her best friend and her crush.",
+  "vndb_url": "https://vndb.org/v16412"
+}

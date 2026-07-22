@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143516",
+  "type": "character",
+  "name": "Stefan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of the bar where Ian's friends regularly hang out.",
+  "source_sha256": "705256c37d8f208541bcd51d03b13d68fb6f9e7df0ae0cb370a0321227e25d6b",
+  "translation": "Owner of the bar where Ian's friends regularly hang out.",
+  "vndb_url": "https://vndb.org/c143516"
+}

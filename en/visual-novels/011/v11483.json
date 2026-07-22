@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11483",
+  "type": "visual_novel",
+  "name": "Butterfly Lip",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist is a university student. There she meets an aspiring actor and they fall in love and start living together.\nThough they fight sometimes, they still live together peacefully.\nBut as they join the working world, their values start to differ.",
+  "source_sha256": "74e8ec250239c60f2a25ff419e4d000df41d630a93bd61d572aecf059062eff9",
+  "translation": "The protagonist is a university student. There she meets an aspiring actor and they fall in love and start living together.\nThough they fight sometimes, they still live together peacefully.\nBut as they join the working world, their values start to differ.",
+  "vndb_url": "https://vndb.org/v11483"
+}

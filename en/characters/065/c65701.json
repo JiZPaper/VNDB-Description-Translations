@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65701",
+  "type": "character",
+  "name": "John Spicer",
+  "original_name": "ジョン スパイサー",
+  "language": "en",
+  "source_language": "en",
+  "source": "An exchange student Kazuki meets on his first day at school.\nA kind, but gullible friend, he will always be here for Kazuki.",
+  "source_sha256": "1907bfaca8159629eb9aa45348e4953520559145c72f6d5de7c15c96fa0cea2c",
+  "translation": "An exchange student Kazuki meets on his first day at school.\nA kind, but gullible friend, he will always be here for Kazuki.",
+  "vndb_url": "https://vndb.org/c65701"
+}

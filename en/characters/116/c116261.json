@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116261",
+  "type": "character",
+  "name": "The Witch",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She dwells in a house concealed from sight, where every corner can spell your demise.",
+  "source_sha256": "672e42d881f13678fe5403ebbdae75438a85f87f35ee0879cf58545045dd6fcd",
+  "translation": "She dwells in a house concealed from sight, where every corner can spell your demise.",
+  "vndb_url": "https://vndb.org/c116261"
+}

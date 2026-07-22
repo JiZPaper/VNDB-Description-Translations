@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61549",
+  "type": "visual_novel",
+  "name": "Tsuitou",
+  "original_name": "終灯",
+  "language": "en",
+  "source_language": "en",
+  "source": "Short BL novel based on Edogawa Ranpo's \"The Demon of the Lonely Island\".",
+  "source_sha256": "a2f2cf4be27e86ee141a1b62fd77ead41e278bde976deb8446be184510d7038c",
+  "translation": "Short BL novel based on Edogawa Ranpo's \"The Demon of the Lonely Island\".",
+  "vndb_url": "https://vndb.org/v61549"
+}

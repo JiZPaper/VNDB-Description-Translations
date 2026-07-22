@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32228",
+  "type": "visual_novel",
+  "name": "TLOL",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Take on the role of Joel. Traveling with Ellie on patrol, you decide to stop for the night.\nThe night looks like it's going to be an interesting one.",
+  "source_sha256": "7cda81d23a87ca4db1463f34c25cc54451ecfc89c07471872d0616527d1883ac",
+  "translation": "Take on the role of Joel. Traveling with Ellie on patrol, you decide to stop for the night.\nThe night looks like it's going to be an interesting one.",
+  "vndb_url": "https://vndb.org/v32228"
+}

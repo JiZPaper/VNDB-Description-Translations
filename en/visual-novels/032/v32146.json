@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32146",
+  "type": "visual_novel",
+  "name": "Hanameguri",
+  "original_name": "ハナメグリ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A school-themed otome game made by female students from the university of Kyoto.",
+  "source_sha256": "4245cad9e15c05a4049c0ba26ba50b7ca2ba3862608b33a568cdb360da9db785",
+  "translation": "A school-themed otome game made by female students from the university of Kyoto.",
+  "vndb_url": "https://vndb.org/v32146"
+}

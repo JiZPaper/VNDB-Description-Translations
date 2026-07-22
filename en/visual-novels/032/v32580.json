@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32580",
+  "type": "visual_novel",
+  "name": "Akazawa Red Maniax \"Izudere\"",
+  "original_name": "あかざわRED MANIAX「イズデレ」",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a voiced game that colors and animates 3 doujin manga:\n\n1. 24-page doujin \n2. 20-page doujin \n3. 20-page doujin",
+  "source_sha256": "7d3341bb372860ff77c1a99345b923bed3e92b90496d76b1262808da804b3a4b",
+  "translation": "This is a voiced game that colors and animates 3 doujin manga:\n\n1. 24-page doujin \n2. 20-page doujin \n3. 20-page doujin",
+  "vndb_url": "https://vndb.org/v32580"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60349",
+  "type": "character",
+  "name": "Hubert Heidelberg",
+  "original_name": "ヒューバート＝ハイデルベルク",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious noble.\nHobby: Contributing to companies, Collecting wine",
+  "source_sha256": "ef431dfa4df8aa0d7ddd61b740f9616659fbdce37eab80de77fb8b6d28d5eca0",
+  "translation": "A mysterious noble.\nHobby: Contributing to companies, Collecting wine",
+  "vndb_url": "https://vndb.org/c60349"
+}

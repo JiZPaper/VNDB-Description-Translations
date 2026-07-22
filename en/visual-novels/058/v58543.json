@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58543",
+  "type": "visual_novel",
+  "name": "Dancing with Shadows",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Dahlia, a witch with unmatched cunning, hunts the arcane and bends mortals to her will. Only the brave – or the clever – can navigate her schemes, uncover ancient secrets, and survive the crypt’s deadly embrace.",
+  "source_sha256": "8b47e55b7745ec13dd107a224b068ef6c436a91dc9bd0e4a3be0ed5170c84282",
+  "translation": "Dahlia, a witch with unmatched cunning, hunts the arcane and bends mortals to her will. Only the brave – or the clever – can navigate her schemes, uncover ancient secrets, and survive the crypt’s deadly embrace.",
+  "vndb_url": "https://vndb.org/v58543"
+}

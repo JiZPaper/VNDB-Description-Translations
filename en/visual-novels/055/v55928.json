@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55928",
+  "type": "visual_novel",
+  "name": "Shatuny",
+  "original_name": "Шатуны",
+  "language": "en",
+  "source_language": "en",
+  "source": "Shatuny is an attempt to understand the boundaries of madness and convey them in the form of a short story.",
+  "source_sha256": "8b07590d07428955977665b9d7c16302537d3247b8933c52b59202f54c7de74e",
+  "translation": "Shatuny is an attempt to understand the boundaries of madness and convey them in the form of a short story.",
+  "vndb_url": "https://vndb.org/v55928"
+}

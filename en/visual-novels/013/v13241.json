@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13241",
+  "type": "visual_novel",
+  "name": "Koi to Yuujou no Kyoukaisen",
+  "original_name": "恋と友情の境界線",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Hatsukoi no Houteishiki\" retold from Keito's perspective.",
+  "source_sha256": "b19693e9fce8952aeef5b73914f95479b939dae481b4ba97f26c826fef27d747",
+  "translation": "\"Hatsukoi no Houteishiki\" retold from Keito's perspective.",
+  "vndb_url": "https://vndb.org/v13241"
+}

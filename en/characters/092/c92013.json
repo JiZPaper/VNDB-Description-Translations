@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92013",
+  "type": "character",
+  "name": "Ghazal",
+  "original_name": "ガーゼダ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Farida's slave.",
+  "source_sha256": "1214129174a5be3ba991406c878a132cc8edda2763fb3989c750c0da988d7bf9",
+  "translation": "Farida's slave.",
+  "vndb_url": "https://vndb.org/c92013"
+}

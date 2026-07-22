@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46099",
+  "type": "visual_novel",
+  "name": "Never Seen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "There's a video file open on your monitor. \nWill you play and watch it?\n\n[from [url=https://phyllaida.itch.io/never-seen]itch.io[/url]]",
+  "source_sha256": "d6cfc76c317df424e718e0511d4bca8330eb7493a1f9061ecc075f3024570b0f",
+  "translation": "There's a video file open on your monitor. \nWill you play and watch it?\n\n[from [url=https://phyllaida.itch.io/never-seen]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v46099"
+}

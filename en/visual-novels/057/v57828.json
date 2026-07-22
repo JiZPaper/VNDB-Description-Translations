@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57828",
+  "type": "visual_novel",
+  "name": "Connect the Dots",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl wakes up in a desolate world.\nThe only other inhabitant of this world is another girl who lies unconscious on the ground.\nTo figure out the truth of this story, you'll need to connect the dots and unravel the mystery behind the world and the two girls.",
+  "source_sha256": "e53760ca764d84174dd336d76252bdc62a51e49c22b2d7d56eb629869684e196",
+  "translation": "A girl wakes up in a desolate world.\nThe only other inhabitant of this world is another girl who lies unconscious on the ground.\nTo figure out the truth of this story, you'll need to connect the dots and unravel the mystery behind the world and the two girls.",
+  "vndb_url": "https://vndb.org/v57828"
+}

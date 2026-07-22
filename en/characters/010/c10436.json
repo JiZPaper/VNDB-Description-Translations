@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c10436",
+  "type": "character",
+  "name": "Clear",
+  "original_name": "クリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Yes. Master is my master.\"\n\nA strange man who always wears a gas mask and often says things that make no sense.\n\n[From the digital manual included with r76424]",
+  "source_sha256": "d44e2af0053d8b1231ab65628d2e3d938e3ef307a81fbd63fcf6c0893fc21c6c",
+  "translation": "\"Yes. Master is my master.\"\n\nA strange man who always wears a gas mask and often says things that make no sense.\n\n[From the digital manual included with r76424]",
+  "vndb_url": "https://vndb.org/c10436"
+}

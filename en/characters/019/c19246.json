@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19246",
+  "type": "character",
+  "name": "Thief Apricot",
+  "original_name": "怪盗アプリコット",
+  "language": "en",
+  "source_language": "en",
+  "source": "Her secret identity is [url=/c19236]Mochizuki Anzu[/url].",
+  "source_sha256": "26d0c55d72f011c9896951b8c0fc489c07ce48bb22051d9d5d6e0263bcca31b4",
+  "translation": "Her secret identity is [url=/c19236]Mochizuki Anzu[/url].",
+  "vndb_url": "https://vndb.org/c19246"
+}

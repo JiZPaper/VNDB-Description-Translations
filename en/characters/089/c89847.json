@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89847",
+  "type": "character",
+  "name": "Venus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A shy and nervous teen",
+  "source_sha256": "edc34ead60058332bfaabc6a61cab4e34043c7bd9ad7dc104b4297085e026ddc",
+  "translation": "A shy and nervous teen",
+  "vndb_url": "https://vndb.org/c89847"
+}

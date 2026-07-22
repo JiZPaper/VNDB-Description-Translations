@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12545",
+  "type": "character",
+  "name": "William Shakespeare",
+  "original_name": "ウィリアム＝シェイクスピア",
+  "language": "en",
+  "source_language": "en",
+  "source": "A doctor that is often seen at the church and Archduke Verona's place.\nHe has an extreme interest in research and if necessary he will walk right into the vampire forest with no hesitation.",
+  "source_sha256": "fd11cd6caa23488fa9e8148d8811c6ab7db595d21d26e86318e274147358041c",
+  "translation": "A doctor that is often seen at the church and Archduke Verona's place.\nHe has an extreme interest in research and if necessary he will walk right into the vampire forest with no hesitation.",
+  "vndb_url": "https://vndb.org/c12545"
+}

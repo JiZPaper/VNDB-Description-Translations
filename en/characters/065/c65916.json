@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65916",
+  "type": "character",
+  "name": "Alice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious woman who mets Gary in a dream.\n\n[spoiler]Her real name is Alison.[/spoiler]",
+  "source_sha256": "341fed119dfa0e4cde1226bd42612ffb70ff111d43acf2c2abf1b4424559afc5",
+  "translation": "A mysterious woman who mets Gary in a dream.\n\n[spoiler]Her real name is Alison.[/spoiler]",
+  "vndb_url": "https://vndb.org/c65916"
+}

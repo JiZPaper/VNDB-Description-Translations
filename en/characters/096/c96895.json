@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96895",
+  "type": "character",
+  "name": "Hann",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ashtera soldier who recruits new troops.",
+  "source_sha256": "0cc693ae8effbff4b053f1388d9211db263198aa313897adc31a121a65edef7b",
+  "translation": "Ashtera soldier who recruits new troops.",
+  "vndb_url": "https://vndb.org/c96895"
+}

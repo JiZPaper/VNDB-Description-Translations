@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82601",
+  "type": "character",
+  "name": "Turkey",
+  "original_name": "トルコ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Turkey is a lively and excessively vigorous man. He's the one that suggests naming the protagonist \"Rare\", at which point she can accept or choose a different name.",
+  "source_sha256": "bf384fd4dfa442883761f1133dc04f3b663e9d89f9afcce2ae95042db453c8b3",
+  "translation": "Turkey is a lively and excessively vigorous man. He's the one that suggests naming the protagonist \"Rare\", at which point she can accept or choose a different name.",
+  "vndb_url": "https://vndb.org/c82601"
+}

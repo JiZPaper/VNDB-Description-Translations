@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170570",
+  "type": "character",
+  "name": "Vasco da Gama",
+  "original_name": "ヴァスコ・ダ・ガマ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A hopeful sailor and hero of the EU Navy. She is in charge of trade around India.\n\n\"Let's go find hope!\"",
+  "source_sha256": "22fa063884008025cf12d15cfc5ca12e5a03eceb398edbf848ce436b6ba1c987",
+  "translation": "A hopeful sailor and hero of the EU Navy. She is in charge of trade around India.\n\n\"Let's go find hope!\"",
+  "vndb_url": "https://vndb.org/c170570"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150419",
+  "type": "character",
+  "name": "King Schtoria",
+  "original_name": "国王",
+  "language": "en",
+  "source_language": "en",
+  "source": "Caqua's father and king of Sneeuw.",
+  "source_sha256": "40c122302934e2c5a797513476f51dbc82aa2670df48251c343aeb0600d307e0",
+  "translation": "Caqua's father and king of Sneeuw.",
+  "vndb_url": "https://vndb.org/c150419"
+}

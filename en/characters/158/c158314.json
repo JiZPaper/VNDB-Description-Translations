@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c158314",
+  "type": "character",
+  "name": "Tommy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is Edward's best friend.",
+  "source_sha256": "4a3accbed995ee9e55344ea274db3ee5c485171f86c7d1aac900c666cdcc8bd2",
+  "translation": "He is Edward's best friend.",
+  "vndb_url": "https://vndb.org/c158314"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58433",
+  "type": "visual_novel",
+  "name": "Afon'",
+  "original_name": "Афонь",
+  "language": "en",
+  "source_language": "en",
+  "source": "Made for AniVisual Contest #3.",
+  "source_sha256": "71f10719bd052e76b0a71344a054390f4b77872d3f0a3287aed8d57063e0bc43",
+  "translation": "Made for AniVisual Contest #3.",
+  "vndb_url": "https://vndb.org/v58433"
+}

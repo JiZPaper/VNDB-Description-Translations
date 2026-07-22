@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17108",
+  "type": "visual_novel",
+  "name": "Truth Be Told",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Pass a lie detector test to infiltrate a criminal gang. If you fail, you die. An interactive noir story.\n\nCreated for Global Game Jam 2013.",
+  "source_sha256": "ac44a0e705fdfb15fe935d7144b488614aa978ba5bd5ea673f9b89582ce38481",
+  "translation": "Pass a lie detector test to infiltrate a criminal gang. If you fail, you die. An interactive noir story.\n\nCreated for Global Game Jam 2013.",
+  "vndb_url": "https://vndb.org/v17108"
+}

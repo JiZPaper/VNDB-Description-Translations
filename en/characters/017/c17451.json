@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17451",
+  "type": "character",
+  "name": "Kagurazaka Namine",
+  "original_name": "神楽坂 波音",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hobbies: Eating out\nSkills: Cooking\nLikes: Yakitori, sushi\nDislikes: Monjayaki",
+  "source_sha256": "55b26134c893a6a6078c86d57cf388047c29054f8f1815ac78d9e14cdaaa0de1",
+  "translation": "Hobbies: Eating out\nSkills: Cooking\nLikes: Yakitori, sushi\nDislikes: Monjayaki",
+  "vndb_url": "https://vndb.org/c17451"
+}

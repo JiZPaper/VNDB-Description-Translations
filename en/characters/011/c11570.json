@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11570",
+  "type": "character",
+  "name": "You",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are the protagonist of the game, you can choose your own name, race (Earth Pony, Unicorn, or Pegasus), and gender. You sometimes have weird nightmares when you fall asleep as the story progresses.",
+  "source_sha256": "8a5b948c83335747eee768ded1b54db1f420f5cc7f36d00dace1975e9713efc8",
+  "translation": "You are the protagonist of the game, you can choose your own name, race (Earth Pony, Unicorn, or Pegasus), and gender. You sometimes have weird nightmares when you fall asleep as the story progresses.",
+  "vndb_url": "https://vndb.org/c11570"
+}

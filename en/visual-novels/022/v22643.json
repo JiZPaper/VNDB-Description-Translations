@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22643",
+  "type": "visual_novel",
+  "name": "Computer Art Club",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A game made by the students of the Computer Art Club using Renpy. In this strange little game you become one a member of the computer art club and learn alongside the other students as a series of bizarre events unfold.\n\n[From [url=https://play.google.com/store/apps/details?id=computerart.club.renpy.one]Google Store[/url]]",
+  "source_sha256": "3a70cc08950eeaa62be59474475dd6e83b2232c0802b9c2d50b3bca5dd235952",
+  "translation": "A game made by the students of the Computer Art Club using Renpy. In this strange little game you become one a member of the computer art club and learn alongside the other students as a series of bizarre events unfold.\n\n[From [url=https://play.google.com/store/apps/details?id=computerart.club.renpy.one]Google Store[/url]]",
+  "vndb_url": "https://vndb.org/v22643"
+}

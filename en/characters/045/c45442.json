@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45442",
+  "type": "character",
+  "name": "Sophie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your maid.",
+  "source_sha256": "0ebf81f0d023fd527b55613bb60802599495ce6d5b8a2306ad79173209105026",
+  "translation": "Your maid.",
+  "vndb_url": "https://vndb.org/c45442"
+}

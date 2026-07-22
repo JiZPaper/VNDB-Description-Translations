@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124355",
+  "type": "character",
+  "name": "Big Mack",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mackenzie's father. He owns a tech shop.",
+  "source_sha256": "9da833a83aa18f28dd1ece77061ea3372662c11037a4fc3b088fe98e3b24c4f3",
+  "translation": "Mackenzie's father. He owns a tech shop.",
+  "vndb_url": "https://vndb.org/c124355"
+}

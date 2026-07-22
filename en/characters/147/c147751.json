@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c147751",
+  "type": "character",
+  "name": "Customer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A customer where MC works.",
+  "source_sha256": "f9e64109f41f90ee2e639e26fea2f0725a4ac368f6d10d20ba9630317fccf4b5",
+  "translation": "A customer where MC works.",
+  "vndb_url": "https://vndb.org/c147751"
+}

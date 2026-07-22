@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c128472",
+  "type": "character",
+  "name": "Hestia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Hestia, the law-abiding High Priestess of the Inquisition.",
+  "source_sha256": "2809e85d8a057f89cdd15d133890ed06f0e6e9bd6467f400c38d33a08d1feca9",
+  "translation": "Hestia, the law-abiding High Priestess of the Inquisition.",
+  "vndb_url": "https://vndb.org/c128472"
+}

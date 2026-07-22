@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4444",
+  "type": "visual_novel",
+  "name": "Bar Oasis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Become the bartender at BAR OASIS in this iPhone/iPod Touch adventure. Make cool cocktails and interact with delightful characters, talk to customers, and have fun in general. All this, while learning what it takes to be a bartender in your own good time.",
+  "source_sha256": "b0e94f0c9a78aac480633d126146486c4631a26bdcd675cd3127498fc5ac12c9",
+  "translation": "Become the bartender at BAR OASIS in this iPhone/iPod Touch adventure. Make cool cocktails and interact with delightful characters, talk to customers, and have fun in general. All this, while learning what it takes to be a bartender in your own good time.",
+  "vndb_url": "https://vndb.org/v4444"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127864",
+  "type": "character",
+  "name": "Landlord",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of the building the main character lives in. He is merciless if it comes to collecting rent.",
+  "source_sha256": "737064e517829e848198ef2da279efc92b87af6f6360f5ac6589203e3a605729",
+  "translation": "Owner of the building the main character lives in. He is merciless if it comes to collecting rent.",
+  "vndb_url": "https://vndb.org/c127864"
+}

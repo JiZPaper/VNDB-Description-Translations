@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48475",
+  "type": "character",
+  "name": "Newscaster",
+  "original_name": "ニュースキャスター",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Everyone! Did you know?\"\n\nA newscaster for the government run news show, \"Hello Zipang\".\nWith his sweet face but sharp and playful way of talking, he's popular nationwide.\nHe often gets really close to saying dangerous things on his broadcasts, but there's rumors that the government closely controls the content of the program.",
+  "source_sha256": "c8cf88d87882e3ab17c177abe3a89e7cc94d7cb6fb8cc734304a76d4b5796bf4",
+  "translation": "\"Everyone! Did you know?\"\n\nA newscaster for the government run news show, \"Hello Zipang\".\nWith his sweet face but sharp and playful way of talking, he's popular nationwide.\nHe often gets really close to saying dangerous things on his broadcasts, but there's rumors that the government closely controls the content of the program.",
+  "vndb_url": "https://vndb.org/c48475"
+}

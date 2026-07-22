@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64754",
+  "type": "character",
+  "name": "Traces",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Traces are female, soul-eating creatures, and they are targeting the four Alices.",
+  "source_sha256": "11c7d183f4a0d362708bc0661ee1b762c608795e7352a63f2647d70ccc305bca",
+  "translation": "The Traces are female, soul-eating creatures, and they are targeting the four Alices.",
+  "vndb_url": "https://vndb.org/c64754"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169900",
+  "type": "character",
+  "name": "Helen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An employee of \"Oksana\", a company that produces sex toys.",
+  "source_sha256": "cc8fd1ff45278095aba6617e9432e469c3375e534c18762e71264b28817465d7",
+  "translation": "An employee of \"Oksana\", a company that produces sex toys.",
+  "vndb_url": "https://vndb.org/c169900"
+}

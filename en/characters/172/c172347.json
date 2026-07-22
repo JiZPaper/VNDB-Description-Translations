@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172347",
+  "type": "character",
+  "name": "Emma",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist's girlfriend.",
+  "source_sha256": "62088204b947d10ce823131e34bc6f4be9e6cce46582c7f867d299dbdaebc604",
+  "translation": "Protagonist's girlfriend.",
+  "vndb_url": "https://vndb.org/c172347"
+}

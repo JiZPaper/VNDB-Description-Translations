@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18890",
+  "type": "visual_novel",
+  "name": "Re:maid",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A game set in the fictional Tokyo suburb of Kumatani, following the exploits of shy but inexplicably buff freshman Nishi.",
+  "source_sha256": "541c41a31f608fa7e94965f50898ac7d66d41bb87f70cfceef5ea4a01c488ab7",
+  "translation": "A game set in the fictional Tokyo suburb of Kumatani, following the exploits of shy but inexplicably buff freshman Nishi.",
+  "vndb_url": "https://vndb.org/v18890"
+}

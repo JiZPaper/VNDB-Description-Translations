@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c142466",
+  "type": "character",
+  "name": "Jed Tomlinson",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "US Marshal.\n\nJackson's WITSEC Handler.",
+  "source_sha256": "d71a68d6b8e017689adfa6be611689acc2177cf2e351aa5dce79e1211211aaac",
+  "translation": "US Marshal.\n\nJackson's WITSEC Handler.",
+  "vndb_url": "https://vndb.org/c142466"
+}

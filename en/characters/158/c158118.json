@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c158118",
+  "type": "character",
+  "name": "Beth",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Brad's girlfriend.",
+  "source_sha256": "d0355e57c3fd4bb3ca640ce7a319525cfa0903a6d6d884e06aae5d9dc6456890",
+  "translation": "Brad's girlfriend.",
+  "vndb_url": "https://vndb.org/c158118"
+}

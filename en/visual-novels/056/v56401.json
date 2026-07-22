@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56401",
+  "type": "visual_novel",
+  "name": "Puppet Pals",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mini-mod starring characters as poorly written puppets.\n\n[From [url=https://rentry.co/snootmods#another-snoot-game-mods-list]Snoot Game Mods List[/url]]",
+  "source_sha256": "5a86ab26326be5e888ba220b284a6a23eac212aad71342ca4d90d65aa4ee9dd9",
+  "translation": "A mini-mod starring characters as poorly written puppets.\n\n[From [url=https://rentry.co/snootmods#another-snoot-game-mods-list]Snoot Game Mods List[/url]]",
+  "vndb_url": "https://vndb.org/v56401"
+}

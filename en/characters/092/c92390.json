@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92390",
+  "type": "character",
+  "name": "Rose",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl who works in a cafe.",
+  "source_sha256": "a9be69d109b283c618f9f44625137976eeac0a95031dd94ea666558d2d321598",
+  "translation": "A girl who works in a cafe.",
+  "vndb_url": "https://vndb.org/c92390"
+}

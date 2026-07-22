@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95144",
+  "type": "character",
+  "name": "Chesley",
+  "original_name": "チェズレイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A villainous hypnotist capable of mass mind control.",
+  "source_sha256": "7fb0efeebde370a361bf7a36c6e37c736aaff23be1aa4ff87213d33fe298d929",
+  "translation": "A villainous hypnotist capable of mass mind control.",
+  "vndb_url": "https://vndb.org/c95144"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57741",
+  "type": "visual_novel",
+  "name": "Modern Arcana: Texting Julian!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You matched with a tall, dark stranger... What will you two text about?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "421cf96c8bc6b3379f665e89b2a95545150ab0dc990b08a6614fd022c3d565f8",
+  "translation": "You matched with a tall, dark stranger... What will you two text about?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "vndb_url": "https://vndb.org/v57741"
+}

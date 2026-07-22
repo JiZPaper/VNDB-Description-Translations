@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42470",
+  "type": "character",
+  "name": "Agathion",
+  "original_name": "アガシオン",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Ruen's familiars.\nHis job is to deal with Ruen's daily necessity's like a butler.",
+  "source_sha256": "feb66aec09e43955d89138b96e1532549a1e1c71ab74026ff3125cd6243c1ceb",
+  "translation": "One of Ruen's familiars.\nHis job is to deal with Ruen's daily necessity's like a butler.",
+  "vndb_url": "https://vndb.org/c42470"
+}

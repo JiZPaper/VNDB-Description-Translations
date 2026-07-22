@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87423",
+  "type": "character",
+  "name": "Phantom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is Melanie's father.",
+  "source_sha256": "ff8caa50e33c646162cb0a946530a379175c1e2a2e76c44b845c484c2622a320",
+  "translation": "This is Melanie's father.",
+  "vndb_url": "https://vndb.org/c87423"
+}

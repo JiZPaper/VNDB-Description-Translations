@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110781",
+  "type": "character",
+  "name": "Crystal",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "- Mother of [url=/c110710]Roxanne[/url].\n- Aunt of [url=/c111308]Clyde[/url].",
+  "source_sha256": "c03c9d19500115d4a7df64a3cb5b1f92422e4e73fdac6b423a1a66f4b10331e7",
+  "translation": "- Mother of [url=/c110710]Roxanne[/url].\n- Aunt of [url=/c111308]Clyde[/url].",
+  "vndb_url": "https://vndb.org/c110781"
+}

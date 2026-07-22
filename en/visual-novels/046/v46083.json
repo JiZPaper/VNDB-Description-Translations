@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46083",
+  "type": "visual_novel",
+  "name": "Spider",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You wake up one night to find a spider in your room. How will you handle this unwanted guest?",
+  "source_sha256": "d80d6eaaa0596188ef238eb981f03cc8a841017c871debfc5c351aee99d9c934",
+  "translation": "You wake up one night to find a spider in your room. How will you handle this unwanted guest?",
+  "vndb_url": "https://vndb.org/v46083"
+}

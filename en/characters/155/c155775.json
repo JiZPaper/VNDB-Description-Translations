@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155775",
+  "type": "character",
+  "name": "Wanderer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist. A wanderer with amnesia.",
+  "source_sha256": "3df7c01cc2ee5a6569f0c2ece118e723fb26310730a4d22e02dc64c642c787de",
+  "translation": "The protagonist. A wanderer with amnesia.",
+  "vndb_url": "https://vndb.org/c155775"
+}

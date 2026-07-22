@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73452",
+  "type": "character",
+  "name": "Totem Bale",
+  "original_name": "トータム＝ベイル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Tyrone's father.\nCounselor for the South District.",
+  "source_sha256": "e37aea161bfd6b6438c586d481ef04d66ff027849499b6f26a5aa8511d9daa51",
+  "translation": "Tyrone's father.\nCounselor for the South District.",
+  "vndb_url": "https://vndb.org/c73452"
+}

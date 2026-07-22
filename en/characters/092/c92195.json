@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92195",
+  "type": "character",
+  "name": "Taki",
+  "original_name": "タキ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Even someone like me can be something useful\"",
+  "source_sha256": "ca45c8d8cc4c66c5aa9190fcc344a9063ceef7a9b7362905987c25dc2b8ad258",
+  "translation": "\"Even someone like me can be something useful\"",
+  "vndb_url": "https://vndb.org/c92195"
+}

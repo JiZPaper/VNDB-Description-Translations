@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122214",
+  "type": "character",
+  "name": "Police Officer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An unnamed police officer present in every crime scene investigation in the series.",
+  "source_sha256": "7b81d2bd3b8b38577b39c506bc94b07544eb091c66a4010bbcf033c3390445b0",
+  "translation": "An unnamed police officer present in every crime scene investigation in the series.",
+  "vndb_url": "https://vndb.org/c122214"
+}

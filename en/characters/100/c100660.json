@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100660",
+  "type": "character",
+  "name": "Bogo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist who seems to always be lost. Somehow they ended in Leaf's house with two cats.",
+  "source_sha256": "70e50f52540dc17c9220c49692c3daf4c40c0f46a26d96087416fb264aac9c91",
+  "translation": "The protagonist who seems to always be lost. Somehow they ended in Leaf's house with two cats.",
+  "vndb_url": "https://vndb.org/c100660"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c138812",
+  "type": "character",
+  "name": "John",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nameable protagonist (default name is John)",
+  "source_sha256": "e43ad850755818a87058d9a6019cea600109937e20cdb379944198216e8a1470",
+  "translation": "Nameable protagonist (default name is John)",
+  "vndb_url": "https://vndb.org/c138812"
+}

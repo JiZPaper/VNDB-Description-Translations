@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c72281",
+  "type": "character",
+  "name": "Konkara Ayano",
+  "original_name": "金唐 あやの",
+  "language": "en",
+  "source_language": "en",
+  "source": "Type: FV214 Conqueror\nWeight: 18ton",
+  "source_sha256": "6667e155fc082f878b3ee5b964662fd9cb47943bf041c50ab5d8ef023f3b2711",
+  "translation": "Type: FV214 Conqueror\nWeight: 18ton",
+  "vndb_url": "https://vndb.org/c72281"
+}

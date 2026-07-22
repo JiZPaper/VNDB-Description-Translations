@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c27052",
+  "type": "character",
+  "name": "Windy",
+  "original_name": "ウィンディ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Windy is an oracle of Air.",
+  "source_sha256": "95cd38a6ac86ba3e7d86a288a9d280aa497fe0d4ddc00f6c8f9dab6e6d9e2faf",
+  "translation": "Windy is an oracle of Air.",
+  "vndb_url": "https://vndb.org/c27052"
+}

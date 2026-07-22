@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58565",
+  "type": "visual_novel",
+  "name": "Lekarstvo",
+  "original_name": "Лекарство",
+  "language": "en",
+  "source_language": "en",
+  "source": "This story is a continuation of Lena’s [spoiler]Bad[/spoiler] Ending, set around the New Year.",
+  "source_sha256": "50c8581e25c9fc511ba5f19806f19b501437c943437da19c8171e6669e6d6f4f",
+  "translation": "This story is a continuation of Lena’s [spoiler]Bad[/spoiler] Ending, set around the New Year.",
+  "vndb_url": "https://vndb.org/v58565"
+}

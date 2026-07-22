@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137474",
+  "type": "character",
+  "name": "Yax",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "main hero",
+  "source_sha256": "c7e6ff1d56f9862dd3710488d7d6e0b10be87b28a9b76a447aa7b8d487bb8d93",
+  "translation": "main hero",
+  "vndb_url": "https://vndb.org/c137474"
+}

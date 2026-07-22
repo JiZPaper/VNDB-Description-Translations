@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38930",
+  "type": "visual_novel",
+  "name": "BPM: Best Project Manager",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A graduation project inspired by the popular tv series: The Apprentice. You were summoned to Max'm Industries to lead a team of 6 candidates hoping to be hired. Will you lead them to victory or will someone be fired?\n\n[From [url=https://bpm-dev.itch.io/bpm-best-project-manager]Itch.io[/url]]",
+  "source_sha256": "da4d1238d9eaecb32e2acfbbba6c41fe2e48ba5323ce4464ea0c28ed5c09b497",
+  "translation": "A graduation project inspired by the popular tv series: The Apprentice. You were summoned to Max'm Industries to lead a team of 6 candidates hoping to be hired. Will you lead them to victory or will someone be fired?\n\n[From [url=https://bpm-dev.itch.io/bpm-best-project-manager]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v38930"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170583",
+  "type": "character",
+  "name": "Yamata no Orochi",
+  "original_name": "八岐大蛇",
+  "language": "en",
+  "source_language": "en",
+  "source": "Serpent slain by Susanoo.",
+  "source_sha256": "d55a1fe187285abe56a3f09ef02797bf15813d0a35e443023164501bdb30a4d4",
+  "translation": "Serpent slain by Susanoo.",
+  "vndb_url": "https://vndb.org/c170583"
+}

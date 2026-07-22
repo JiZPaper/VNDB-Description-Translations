@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c164621",
+  "type": "character",
+  "name": "Kamo Sana",
+  "original_name": "加茂 佐奈",
+  "language": "en",
+  "source_language": "en",
+  "source": "A woman doctor who comes to Koudentou to conduct physical examination for employees.",
+  "source_sha256": "75d213fb8806b792f3c217bfbfc5ff6a224b4f69a108fd60ff44c736b1131dbd",
+  "translation": "A woman doctor who comes to Koudentou to conduct physical examination for employees.",
+  "vndb_url": "https://vndb.org/c164621"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153533",
+  "type": "character",
+  "name": "Saros",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An alien who definitely didn't crash on Earth on purpose.",
+  "source_sha256": "9125e3b21415e99ca7e9511e590c47f4d4f97a441a2a5559f6db211d925954e8",
+  "translation": "An alien who definitely didn't crash on Earth on purpose.",
+  "vndb_url": "https://vndb.org/c153533"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25574",
+  "type": "character",
+  "name": "Hira Kyosuke",
+  "original_name": "飛良 京介",
+  "language": "en",
+  "source_language": "en",
+  "source": "Himura's patient at AMC.",
+  "source_sha256": "50ad97ffeed056f82ca985eda4431126e5bc5070e6deeb194b3874de5ee00e66",
+  "translation": "Himura's patient at AMC.",
+  "vndb_url": "https://vndb.org/c25574"
+}

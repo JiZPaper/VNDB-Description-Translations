@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93448",
+  "type": "character",
+  "name": "Sophie Baudin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Alice's best friend.",
+  "source_sha256": "23b04e77d109680dc5738a61e56eabb96867571bcb257a723fb10c0fe3b23ed0",
+  "translation": "Alice's best friend.",
+  "vndb_url": "https://vndb.org/c93448"
+}

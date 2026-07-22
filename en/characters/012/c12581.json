@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12581",
+  "type": "character",
+  "name": "Nemu",
+  "original_name": "ネム",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sakura's pet rabbit who always hangs around her. Its trademark cry is \"Wicky\".",
+  "source_sha256": "40ad89a1c3442bf2005128260d4d7860bc36911e4fb1c7984a6aaebf3c3c854a",
+  "translation": "Sakura's pet rabbit who always hangs around her. Its trademark cry is \"Wicky\".",
+  "vndb_url": "https://vndb.org/c12581"
+}

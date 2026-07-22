@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132574",
+  "type": "character",
+  "name": "Molly",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Cafe Owner",
+  "source_sha256": "12e60c3f281f32b972a77e3b40c9cd3eaa0d906d2255699569089cf28a723ea9",
+  "translation": "Cafe Owner",
+  "vndb_url": "https://vndb.org/c132574"
+}

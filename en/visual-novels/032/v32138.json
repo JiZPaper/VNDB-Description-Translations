@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32138",
+  "type": "visual_novel",
+  "name": "Detroit: 2034",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Detroit: 2034 is a fanmade prequel to the 2018 adventure game [i]Detroit: Become Human[/i] developed by Quantic Dream.",
+  "source_sha256": "110fbcb8f4699cdef6d7aec89dfc32763a6eb91480bff067234f3b4b237e6ceb",
+  "translation": "Detroit: 2034 is a fanmade prequel to the 2018 adventure game [i]Detroit: Become Human[/i] developed by Quantic Dream.",
+  "vndb_url": "https://vndb.org/v32138"
+}

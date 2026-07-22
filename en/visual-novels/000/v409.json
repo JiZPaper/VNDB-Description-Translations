@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v409",
+  "type": "visual_novel",
+  "name": "Renge",
+  "original_name": "恋夏～れんげ～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Renge or \"Love Summer\" is a collection of stories about girls in swimsuits, forbidden love and dramatic events that lead the lost souls into a strange world where a mysterious girl is tied with chains.",
+  "source_sha256": "4dc7070c457d4d6a08e40ee92d6068fb73229d92e8ab48d448f4cf1dfc775724",
+  "translation": "Renge or \"Love Summer\" is a collection of stories about girls in swimsuits, forbidden love and dramatic events that lead the lost souls into a strange world where a mysterious girl is tied with chains.",
+  "vndb_url": "https://vndb.org/v409"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146982",
+  "type": "character",
+  "name": "Ruby",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The lead singer and guitarist of a band.",
+  "source_sha256": "0ed8812d0afdd46513398fd466e0f1a57540ae1a864bc374c5e30812b0f580ed",
+  "translation": "The lead singer and guitarist of a band.",
+  "vndb_url": "https://vndb.org/c146982"
+}

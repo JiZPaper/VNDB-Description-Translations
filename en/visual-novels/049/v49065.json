@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49065",
+  "type": "visual_novel",
+  "name": "Samui Yoru ni Aisu o Kau",
+  "original_name": "寒い夜にアイスを買う",
+  "language": "en",
+  "source_language": "en",
+  "source": "''It's cold today so let's eat ice cream.''\n\nConversations in front of a convenience store with a slightly grumpy acquaintance.\n\n[Translated from [url=https://novelgame.jp/games/show/9182]Novel Game[/url].]",
+  "source_sha256": "543cf7a4502bfec964f79eb4297886703bc7922c5232903af182f3b919ee8e34",
+  "translation": "''It's cold today so let's eat ice cream.''\n\nConversations in front of a convenience store with a slightly grumpy acquaintance.\n\n[Translated from [url=https://novelgame.jp/games/show/9182]Novel Game[/url].]",
+  "vndb_url": "https://vndb.org/v49065"
+}

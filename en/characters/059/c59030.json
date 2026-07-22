@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c59030",
+  "type": "character",
+  "name": "Luciel",
+  "original_name": "ルシエル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A spirit that controls ice.",
+  "source_sha256": "00d3911ec482e5585a9c9a236a716e5964be847339e3c7e1920255abdab2b50b",
+  "translation": "A spirit that controls ice.",
+  "vndb_url": "https://vndb.org/c59030"
+}

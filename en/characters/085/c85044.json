@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c85044",
+  "type": "character",
+  "name": "Sandra",
+  "original_name": "サンドラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Game's original character, and Sarah's mother.",
+  "source_sha256": "d75e18f7a2c67586aa5db931015f25314a46956a83d8ee678390580d32977825",
+  "translation": "Game's original character, and Sarah's mother.",
+  "vndb_url": "https://vndb.org/c85044"
+}

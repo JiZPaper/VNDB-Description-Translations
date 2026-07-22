@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130468",
+  "type": "character",
+  "name": "Elise",
+  "original_name": "エリゼ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The sailor merchant [Water attribute].\n\nOn the surface, he is a good-looking liar who likes to make fun of the protagonist and is dexterous.\nUnder the surface, he's lonely and hates being alone.",
+  "source_sha256": "bc1e5a5f6d4bae6ed1198345c0bd8596a8eb47c7fa67fc0ed2e2cabb7530ba30",
+  "translation": "The sailor merchant [Water attribute].\n\nOn the surface, he is a good-looking liar who likes to make fun of the protagonist and is dexterous.\nUnder the surface, he's lonely and hates being alone.",
+  "vndb_url": "https://vndb.org/c130468"
+}

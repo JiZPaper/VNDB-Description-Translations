@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53032",
+  "type": "visual_novel",
+  "name": "Claire Hikari no Densetsu Middleland Part",
+  "original_name": "クレール光の伝説ミッドランド編",
+  "language": "en",
+  "source_language": "en",
+  "source": "It depicts the exploits of Princess Claire and her companion Bright as they infiltrate Middleland, which is under attack by a horde of orcs.",
+  "source_sha256": "e65ea0c30a336f691619ef2c447e5335fc62f2d049ee9181717b74b122b3475e",
+  "translation": "It depicts the exploits of Princess Claire and her companion Bright as they infiltrate Middleland, which is under attack by a horde of orcs.",
+  "vndb_url": "https://vndb.org/v53032"
+}

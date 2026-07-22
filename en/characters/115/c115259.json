@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115259",
+  "type": "character",
+  "name": "Usa",
+  "original_name": "うさ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A strange rabbit.",
+  "source_sha256": "3f51728bcc352322e46ca53d52c49286640fd8f7c6e45658bd3775a1da6278b8",
+  "translation": "A strange rabbit.",
+  "vndb_url": "https://vndb.org/c115259"
+}

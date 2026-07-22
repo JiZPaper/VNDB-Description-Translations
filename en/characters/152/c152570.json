@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152570",
+  "type": "character",
+  "name": "Vice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A pair of eyes on a moniter that speaks  with a voice filter. Their name, age, gender, or any other aspect of their identity remains unknown except that they refer to themselves as a god.",
+  "source_sha256": "2ad5d07cfaa5eeb6b4c65a1b9e275597d1d641ba8929c87f3b79064efab4dd55",
+  "translation": "A pair of eyes on a moniter that speaks  with a voice filter. Their name, age, gender, or any other aspect of their identity remains unknown except that they refer to themselves as a god.",
+  "vndb_url": "https://vndb.org/c152570"
+}

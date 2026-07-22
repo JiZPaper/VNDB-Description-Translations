@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25524",
+  "type": "character",
+  "name": "Kitako",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A huge monster who works at the library. Has no eyes, but sees using heat sensors.",
+  "source_sha256": "c688c69bc2f4a1d979a95426db053580e09d4f47f183f2d4e0c1e65c1db566f6",
+  "translation": "A huge monster who works at the library. Has no eyes, but sees using heat sensors.",
+  "vndb_url": "https://vndb.org/c25524"
+}

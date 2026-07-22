@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30854",
+  "type": "character",
+  "name": "Profus Butterfly",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The clerk of the Archive.",
+  "source_sha256": "055ea628d877bd46cb78a1196adb969dd09a1037362bcd820cddfe6bd6a32dec",
+  "translation": "The clerk of the Archive.",
+  "vndb_url": "https://vndb.org/c30854"
+}

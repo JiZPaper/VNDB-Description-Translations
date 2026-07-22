@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12771",
+  "type": "visual_novel",
+  "name": "CruelDate",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The world's best computer matchmaking service will help you find your perfect mate! ...Eventually.",
+  "source_sha256": "84283b993bf0cc1eea0c6f3af5e1b01d78d5d522e5f3f11d55a51c49da92ce97",
+  "translation": "The world's best computer matchmaking service will help you find your perfect mate! ...Eventually.",
+  "vndb_url": "https://vndb.org/v12771"
+}

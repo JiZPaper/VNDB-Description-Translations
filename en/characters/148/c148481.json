@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148481",
+  "type": "character",
+  "name": "Lender",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A moneylender/shopkeeper.",
+  "source_sha256": "9565899b7c8297da4abcb5cc18ef96f3dbd3cfac91814841d655cecab2cde2b1",
+  "translation": "A moneylender/shopkeeper.",
+  "vndb_url": "https://vndb.org/c148481"
+}

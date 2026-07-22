@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20599",
+  "type": "visual_novel",
+  "name": "Maji de Watashi ni Koishinasai! A-2",
+  "original_name": "真剣で私に恋しなさい！A-2",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fandisc featuring routes for Seiso and Cookie 4 IS, as well as an after story for Monshiro.",
+  "source_sha256": "8f7c84de2c65f3f6737fb0c9cd5bd87d2b8b3d4901ceab4f4f7c1b6d456cb94c",
+  "translation": "A fandisc featuring routes for Seiso and Cookie 4 IS, as well as an after story for Monshiro.",
+  "vndb_url": "https://vndb.org/v20599"
+}

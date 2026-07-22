@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c104373",
+  "type": "character",
+  "name": "Ellery Rath",
+  "original_name": "埃勒里·拉德",
+  "language": "en",
+  "source_language": "en",
+  "source": "A prominent detective in Bedjan, known for taking on cases the police have decided to turn a blind eye on.",
+  "source_sha256": "0af2cdef8788b77903523b20b4b01bc11ffbdd90502498d3ee96c43c5cd6a1e8",
+  "translation": "A prominent detective in Bedjan, known for taking on cases the police have decided to turn a blind eye on.",
+  "vndb_url": "https://vndb.org/c104373"
+}

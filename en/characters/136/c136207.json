@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136207",
+  "type": "character",
+  "name": "Leon Smith",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Look in the mirror. You know who you are.\n\n[In game description]",
+  "source_sha256": "dc2c85fd617bee05e7f41929cbaa2766f04bd14675824cac903ada4090ec013f",
+  "translation": "Look in the mirror. You know who you are.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c136207"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86919",
+  "type": "character",
+  "name": "Hachi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Partner Type: Dog\n\nSpecial Attack: Kamikaze Attack\nCharges at the enemy with incredible speed, landing a preemptive strike.\n\nFavorite Food: Wild Boar\n\n[Official in-game description]",
+  "source_sha256": "d91e0c35755a04950ed793577314a0508f4d976f23ea98353a8da970b910ade7",
+  "translation": "Partner Type: Dog\n\nSpecial Attack: Kamikaze Attack\nCharges at the enemy with incredible speed, landing a preemptive strike.\n\nFavorite Food: Wild Boar\n\n[Official in-game description]",
+  "vndb_url": "https://vndb.org/c86919"
+}

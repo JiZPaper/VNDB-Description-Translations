@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94157",
+  "type": "character",
+  "name": "Claire",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "she is the hairdresser of Sophie,Patricia and Dylan.\nmother of Marie.",
+  "source_sha256": "fd3dd291ff03303291db282c0954e363f81d5c99fe73b9751bef14459f5d3402",
+  "translation": "she is the hairdresser of Sophie,Patricia and Dylan.\nmother of Marie.",
+  "vndb_url": "https://vndb.org/c94157"
+}

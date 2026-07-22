@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c167387",
+  "type": "character",
+  "name": "Desk Lady",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Desk lady at Friday Fashions clothing store.",
+  "source_sha256": "ee6f6a70e1403af41c661eda6c6b51f5fe5dd1093e0bfeaf1568b0c01503f4ae",
+  "translation": "Desk lady at Friday Fashions clothing store.",
+  "vndb_url": "https://vndb.org/c167387"
+}

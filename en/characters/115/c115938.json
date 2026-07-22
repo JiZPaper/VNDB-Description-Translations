@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115938",
+  "type": "character",
+  "name": "Mila O'Ryan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She works the teleporter.",
+  "source_sha256": "c50929a28d4656b9092ba3b6dbdab46d40a5d4d7118d4715023e0c83e8ba6c93",
+  "translation": "She works the teleporter.",
+  "vndb_url": "https://vndb.org/c115938"
+}

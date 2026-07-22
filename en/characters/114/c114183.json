@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c114183",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist. Manages to send themselves into a demon speed-dating event in some bar in Hell.",
+  "source_sha256": "9592edfd391158a8db4d2cfa6616325c13e97031ea627ded7003ad70d7f0f6d2",
+  "translation": "The protagonist. Manages to send themselves into a demon speed-dating event in some bar in Hell.",
+  "vndb_url": "https://vndb.org/c114183"
+}

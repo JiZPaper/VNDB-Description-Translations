@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99900",
+  "type": "character",
+  "name": "Keyes",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Keyes has Marfan syndrome, which allows her to reach places others can't.",
+  "source_sha256": "ad11e3e25bf4327c5c1c62e64fe2cf585e653eea5e9a887c5e42b6a85f940e9e",
+  "translation": "Keyes has Marfan syndrome, which allows her to reach places others can't.",
+  "vndb_url": "https://vndb.org/c99900"
+}

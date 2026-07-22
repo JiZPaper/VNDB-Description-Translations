@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92431",
+  "type": "character",
+  "name": "Mr. Wong",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sam's father. A cobbler.",
+  "source_sha256": "4bd8c5f5a5044259ce6069397381033b710dc9223c1c327ba9660d75e2c6bc25",
+  "translation": "Sam's father. A cobbler.",
+  "vndb_url": "https://vndb.org/c92431"
+}

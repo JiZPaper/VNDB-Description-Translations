@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99646",
+  "type": "character",
+  "name": "Leila",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A cat that frequents the Inn.",
+  "source_sha256": "ffe866255b4c739d44d2cc8641eb914562e6056a371a6f0864c8805ddba0b265",
+  "translation": "A cat that frequents the Inn.",
+  "vndb_url": "https://vndb.org/c99646"
+}

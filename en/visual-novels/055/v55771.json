@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55771",
+  "type": "visual_novel",
+  "name": "How to make a mod",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This little mod will teach you how to make another one.",
+  "source_sha256": "6283d4ee10a4cb5faf9645b0f2667064bf87116b86ccde49925bfc55c1dec2b5",
+  "translation": "This little mod will teach you how to make another one.",
+  "vndb_url": "https://vndb.org/v55771"
+}

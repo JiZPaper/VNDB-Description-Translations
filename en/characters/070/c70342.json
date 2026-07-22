@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70342",
+  "type": "character",
+  "name": "Eriko",
+  "original_name": "恵理子",
+  "language": "en",
+  "source_language": "en",
+  "source": "A veteran hostess at club \"berry\".",
+  "source_sha256": "905e3667cd8ea790d72aefa21734e9256d94accc3d5b2426ecc9e9fe4797a8c0",
+  "translation": "A veteran hostess at club \"berry\".",
+  "vndb_url": "https://vndb.org/c70342"
+}

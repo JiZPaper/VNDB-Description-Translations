@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133643",
+  "type": "character",
+  "name": "Amanogawa Ginga",
+  "original_name": "天之川銀河",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of the game, part of a government program to help increase the human population.",
+  "source_sha256": "81176d056e0eeb12135936617bbcb88b5a505545bc9b91611e4a0e5bcc10cf9b",
+  "translation": "The protagonist of the game, part of a government program to help increase the human population.",
+  "vndb_url": "https://vndb.org/c133643"
+}

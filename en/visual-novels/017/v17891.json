@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17891",
+  "type": "visual_novel",
+  "name": "Horebore -Next-",
+  "original_name": "惚れ惚れ -next-",
+  "language": "en",
+  "source_language": "en",
+  "source": "Contains an after story and omake for Shou's route and a partial after story for Takayuki's route.",
+  "source_sha256": "d4075fcdccc6685a290204e52a5815f1980128d0e6bb01d7cd10996e20e00fc3",
+  "translation": "Contains an after story and omake for Shou's route and a partial after story for Takayuki's route.",
+  "vndb_url": "https://vndb.org/v17891"
+}

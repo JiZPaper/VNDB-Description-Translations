@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88530",
+  "type": "character",
+  "name": "Ranfa",
+  "original_name": "ランファ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Space ship mechanic.",
+  "source_sha256": "347615ddc9fe4c4bce4ee6a3dd6128d3418d1d9b742f6d212735410f52e40893",
+  "translation": "Space ship mechanic.",
+  "vndb_url": "https://vndb.org/c88530"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115971",
+  "type": "character",
+  "name": "Mother",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Daniel's mother.",
+  "source_sha256": "11bd1ded523bb021c9c81f724c2931cfd372c5c5646037c8f1dd38a33b35fa76",
+  "translation": "Daniel's mother.",
+  "vndb_url": "https://vndb.org/c115971"
+}

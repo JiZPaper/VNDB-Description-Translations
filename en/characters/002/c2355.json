@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c2355",
+  "type": "character",
+  "name": "Annette",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A performance artist.",
+  "source_sha256": "d957d2d4a3b901203a3840ed37170ef09dcd202f3d6c2f9b312545f11b220426",
+  "translation": "A performance artist.",
+  "vndb_url": "https://vndb.org/c2355"
+}

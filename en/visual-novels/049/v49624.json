@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49624",
+  "type": "visual_novel",
+  "name": "Shikigami no Shiro Nanayozuki Gensoukyoku",
+  "original_name": "式神の城 七夜月幻想曲",
+  "language": "en",
+  "source_language": "en",
+  "source": "Adventure game based on the Shikigami no Shiro shoot-em-up games that takes place in between the II and III games in the series",
+  "source_sha256": "66861c20bd72da2fa1aa99c44506e7247721a2f49c99d3302d56ae3b2d39fa49",
+  "translation": "Adventure game based on the Shikigami no Shiro shoot-em-up games that takes place in between the II and III games in the series",
+  "vndb_url": "https://vndb.org/v49624"
+}

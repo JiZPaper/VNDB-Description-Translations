@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3796",
+  "type": "visual_novel",
+  "name": "Jinniyah!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Short story collection.",
+  "source_sha256": "82401f8c9ed73a91b9799341e4926aa64f2ce554ad12a4ea92561899726726a5",
+  "translation": "Short story collection.",
+  "vndb_url": "https://vndb.org/v3796"
+}

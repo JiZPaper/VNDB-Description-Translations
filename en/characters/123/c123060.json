@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123060",
+  "type": "character",
+  "name": "Thanatos",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is said to be one of the most powerful players of the game.",
+  "source_sha256": "5cbc9cf631da715e33d3503a710c91dd4254a393b5daf4e1bd72ff4a87a00359",
+  "translation": "He is said to be one of the most powerful players of the game.",
+  "vndb_url": "https://vndb.org/c123060"
+}

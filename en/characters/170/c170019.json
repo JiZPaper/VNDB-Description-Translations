@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170019",
+  "type": "character",
+  "name": "Victor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The boyfriend or husband of a member of the La Sombra Roja cartel.",
+  "source_sha256": "d503f049ff45e72e1b9ef48b0a2180aa49122718263af2f12e3a4a63d7898f65",
+  "translation": "The boyfriend or husband of a member of the La Sombra Roja cartel.",
+  "vndb_url": "https://vndb.org/c170019"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65855",
+  "type": "character",
+  "name": "Nadia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The widowed countess of Vesuvia, whose word is law.\n\nFavourite food: Spiced swordfish\nFavourite drink: White wine\nFavourite flower: Lavender",
+  "source_sha256": "34bb32df6662ea95c807c96fc39aaca6f8d612ad3fc9ddc8e5503e09564a7dd4",
+  "translation": "The widowed countess of Vesuvia, whose word is law.\n\nFavourite food: Spiced swordfish\nFavourite drink: White wine\nFavourite flower: Lavender",
+  "vndb_url": "https://vndb.org/c65855"
+}

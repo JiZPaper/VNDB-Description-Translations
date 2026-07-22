@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146576",
+  "type": "character",
+  "name": "Alex",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Arden’s best friend",
+  "source_sha256": "2c15d5863e71adb1759afc643f2923e775a50f08b3e9f61501e38485c554d1b4",
+  "translation": "Arden’s best friend",
+  "vndb_url": "https://vndb.org/c146576"
+}

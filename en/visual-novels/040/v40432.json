@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40432",
+  "type": "visual_novel",
+  "name": "Watashi wa Korosu Switch Desu.",
+  "original_name": "私は人殺スイッチです。",
+  "language": "en",
+  "source_language": "en",
+  "source": "If you push me, someone will die. \nThis is what i am.\nAnd being pushed is what I desire most. \nPlease push me and love me!",
+  "source_sha256": "6357129f43a50d5aaf2990c79127f4125f9164db1d627cd7341f05bc24611759",
+  "translation": "If you push me, someone will die. \nThis is what i am.\nAnd being pushed is what I desire most. \nPlease push me and love me!",
+  "vndb_url": "https://vndb.org/v40432"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1795",
+  "type": "visual_novel",
+  "name": "Harukanaru Toki no Naka de ~Maihitoyo~",
+  "original_name": "遙かなる時空の中で　舞一夜",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on the movie of the same name, this game is a re-telling of the original Harukanaru Toki no Naka De 1, where the story is based in a different setting and with a new character added.",
+  "source_sha256": "51edaada549c35bd1dd08c675a192da17ee9f54f02327194b9257573783aff06",
+  "translation": "Based on the movie of the same name, this game is a re-telling of the original Harukanaru Toki no Naka De 1, where the story is based in a different setting and with a new character added.",
+  "vndb_url": "https://vndb.org/v1795"
+}

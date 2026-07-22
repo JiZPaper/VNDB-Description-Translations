@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32227",
+  "type": "visual_novel",
+  "name": "Primal x Hearts 2: Alicetia Love Love After",
+  "original_name": "PRIMAL×HEARTS 2 アリスティアらぶらぶアフター",
+  "language": "en",
+  "source_language": "en",
+  "source": "After story scenario for [url=/c31791]Alicetia Wallenberg Kezouji[/url].",
+  "source_sha256": "c93f4a4e95646d42178ca9504ea183080df053d66e4cc885a2a4a47094f15e4d",
+  "translation": "After story scenario for [url=/c31791]Alicetia Wallenberg Kezouji[/url].",
+  "vndb_url": "https://vndb.org/v32227"
+}

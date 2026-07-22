@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v179",
+  "type": "visual_novel",
+  "name": "Haru no Ashioto",
+  "original_name": "はるのあしおと",
+  "language": "en",
+  "source_language": "en",
+  "source": "The game is set in a small town in the fictional Mebukino, Japan, to which the protagonist returns after his experiences in Tokyo. The story is about his experiences on the following days.",
+  "source_sha256": "1884c5252779fb071ad364c1bea45081bac54bc94337a678c39336ace0fd05dc",
+  "translation": "The game is set in a small town in the fictional Mebukino, Japan, to which the protagonist returns after his experiences in Tokyo. The story is about his experiences on the following days.",
+  "vndb_url": "https://vndb.org/v179"
+}

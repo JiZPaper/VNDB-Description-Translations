@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75927",
+  "type": "character",
+  "name": "Player",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A hard-working, passionate but pragmatic baker.",
+  "source_sha256": "285780750bae6ba56b530b4a16eed817516ccfc130f2cccc4a5a92335465b3ef",
+  "translation": "A hard-working, passionate but pragmatic baker.",
+  "vndb_url": "https://vndb.org/c75927"
+}

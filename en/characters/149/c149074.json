@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c149074",
+  "type": "character",
+  "name": "Sasha's Mother",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The single mother of Sasha.",
+  "source_sha256": "0fe6578d3c6e20f1647932888ecee64fbc30936525983e20d3f33bd9d17cbc11",
+  "translation": "The single mother of Sasha.",
+  "vndb_url": "https://vndb.org/c149074"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98950",
+  "type": "character",
+  "name": "Strix",
+  "original_name": "ストリクス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious vampire who serves [url=/c98957]Zygmund[/url].",
+  "source_sha256": "1e9d59970560adb41bccbc02a95dbb3fa15064cfcac317f33a13a0143956eeaa",
+  "translation": "A mysterious vampire who serves [url=/c98957]Zygmund[/url].",
+  "vndb_url": "https://vndb.org/c98950"
+}

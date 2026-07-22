@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96424",
+  "type": "character",
+  "name": "Albert",
+  "original_name": "アルバート",
+  "language": "en",
+  "source_language": "en",
+  "source": "Theodore's Butler.",
+  "source_sha256": "91ff0f0bbbae655fffe477a0ceac3b4ca33a66203679c98203ea4f311da3c2ec",
+  "translation": "Theodore's Butler.",
+  "vndb_url": "https://vndb.org/c96424"
+}

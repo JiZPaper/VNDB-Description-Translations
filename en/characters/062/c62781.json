@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62781",
+  "type": "character",
+  "name": "Amamiya Akari",
+  "original_name": "天宮 あかり",
+  "language": "en",
+  "source_language": "en",
+  "source": "Note: Akari uses either \"boku\" or \"atashi\" depending on player choice at the start of the game.",
+  "source_sha256": "dbe8a6b7089fc59f09edcc718532918df6ce608476d9aa4bf348491e41819032",
+  "translation": "Note: Akari uses either \"boku\" or \"atashi\" depending on player choice at the start of the game.",
+  "vndb_url": "https://vndb.org/c62781"
+}

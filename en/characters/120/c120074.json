@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120074",
+  "type": "character",
+  "name": "Moussassin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An ambitious mouse who's more than ready to commit regicide for the throne.",
+  "source_sha256": "8fa47a2380c13db2fb4a70fc0c0afd3b748c3262774c90fa222c3f6d566a44f0",
+  "translation": "An ambitious mouse who's more than ready to commit regicide for the throne.",
+  "vndb_url": "https://vndb.org/c120074"
+}

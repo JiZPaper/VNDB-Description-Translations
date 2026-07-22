@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148954",
+  "type": "character",
+  "name": "Sebastian",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I mistook you for a different person. I guess I was drunk.\"\n\nBook lover and movie enthusiast. Not a social person.",
+  "source_sha256": "9cfd6eb82eba64eb93d20fdd81cb692e832f541c5a2306c2910b012210188abc",
+  "translation": "\"I mistook you for a different person. I guess I was drunk.\"\n\nBook lover and movie enthusiast. Not a social person.",
+  "vndb_url": "https://vndb.org/c148954"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56319",
+  "type": "visual_novel",
+  "name": "Watashi no Namae o Yobi Nasai!",
+  "original_name": "私の名前を呼びなさい!",
+  "language": "en",
+  "source_language": "en",
+  "source": "An exploration and search game in which a girl is placed under house arrest by a [i]denpa[/i] man, and tries to escape without getting caught and punished.\n\n[Edited from [url=https://www.freem.ne.jp/win/game/26267]Freem![/url]]",
+  "source_sha256": "33b2368540a2476fbb2401dcaff8a59b296b19ec72ee147575d238bff3322e18",
+  "translation": "An exploration and search game in which a girl is placed under house arrest by a [i]denpa[/i] man, and tries to escape without getting caught and punished.\n\n[Edited from [url=https://www.freem.ne.jp/win/game/26267]Freem![/url]]",
+  "vndb_url": "https://vndb.org/v56319"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94103",
+  "type": "character",
+  "name": "Higurashi Tarou",
+  "original_name": "日暮 太郎",
+  "language": "en",
+  "source_language": "en",
+  "source": "Born in 1990.",
+  "source_sha256": "9e544aab1e8dc60981aecae013fce3a0a567674a259ebbfdecafb26eb41d265d",
+  "translation": "Born in 1990.",
+  "vndb_url": "https://vndb.org/c94103"
+}

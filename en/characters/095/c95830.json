@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95830",
+  "type": "character",
+  "name": "blond Girl",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl from America",
+  "source_sha256": "76ca7106636edfb84f445f290c1610a45deede94a459fac304b75ec784c7c493",
+  "translation": "A girl from America",
+  "vndb_url": "https://vndb.org/c95830"
+}

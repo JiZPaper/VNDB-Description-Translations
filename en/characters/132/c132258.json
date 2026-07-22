@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132258",
+  "type": "character",
+  "name": "Alice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Masseuse",
+  "source_sha256": "706a83cc277a32fd636dc204fa764ff758797fb3c7ff60074c34c02de89b85a8",
+  "translation": "Masseuse",
+  "vndb_url": "https://vndb.org/c132258"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120598",
+  "type": "character",
+  "name": "Chief Librarian",
+  "original_name": "館長",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious creature in charge of the library.",
+  "source_sha256": "f44a616c80c7e5914b7fd5ded4f9f4cc2926e1d99da17b066a0411ec3289df95",
+  "translation": "A mysterious creature in charge of the library.",
+  "vndb_url": "https://vndb.org/c120598"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70684",
+  "type": "character",
+  "name": "Direttore",
+  "original_name": "デイレットーレ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I am the Direttore of the Casino\" \n\"I do hear rumors in one way or another, fufu.\" \n\nThe manager of the government-owned casino in Burlone.\nHe wears a flashy costume and always speaks theatrically.\nHe offers a room in the casino for the Burlone mafia to conduct business and meetings in, and is well-informed in many things.",
+  "source_sha256": "23d4a73d6e140a78916beeb53d9b50e03edc1e377d2358dd9f85b08cfa34d4e9",
+  "translation": "\"I am the Direttore of the Casino\" \n\"I do hear rumors in one way or another, fufu.\" \n\nThe manager of the government-owned casino in Burlone.\nHe wears a flashy costume and always speaks theatrically.\nHe offers a room in the casino for the Burlone mafia to conduct business and meetings in, and is well-informed in many things.",
+  "vndb_url": "https://vndb.org/c70684"
+}

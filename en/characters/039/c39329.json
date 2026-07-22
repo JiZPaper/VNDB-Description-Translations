@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39329",
+  "type": "character",
+  "name": "Nemean",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Brother of Cerberus and Orthros.\n\nHas the Lion Aura but will fight without it.",
+  "source_sha256": "01ac725a91a39bd7ee96f048841023cffd9d94983b4bc4af470bbb730d73808a",
+  "translation": "Brother of Cerberus and Orthros.\n\nHas the Lion Aura but will fight without it.",
+  "vndb_url": "https://vndb.org/c39329"
+}

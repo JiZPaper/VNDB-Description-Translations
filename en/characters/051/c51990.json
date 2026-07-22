@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51990",
+  "type": "character",
+  "name": "Rei",
+  "original_name": "レイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Chief priest of the forest shrine.",
+  "source_sha256": "83205420cae4e58cc2b89d2accb0473ea85db42db31577dea44fd77461d6e154",
+  "translation": "Chief priest of the forest shrine.",
+  "vndb_url": "https://vndb.org/c51990"
+}

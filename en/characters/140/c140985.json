@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140985",
+  "type": "character",
+  "name": "Sophia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Saleswoman at CyberDaze",
+  "source_sha256": "c52a6caf59aac1af54ef7153cf82dc2ff80e36a697bae08fb3c4a83db5dbc7cb",
+  "translation": "Saleswoman at CyberDaze",
+  "vndb_url": "https://vndb.org/c140985"
+}

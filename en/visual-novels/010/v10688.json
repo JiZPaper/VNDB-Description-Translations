@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10688",
+  "type": "visual_novel",
+  "name": "Otogibanashiya",
+  "original_name": "おとぎ話屋",
+  "language": "en",
+  "source_language": "en",
+  "source": "The girl had been abandoned. The assassin had failed.\n-Come, choose the appropriate choice for a fairy tale.\n\n[From [url=http://hanikamuaisuman.web.fc2.com/game/otbn/otbn.html]homepage[/url]]",
+  "source_sha256": "0cfa89820882ef1c79ba2048c3391a4178ef4147e8a2c983cfcab42d46e0dac2",
+  "translation": "The girl had been abandoned. The assassin had failed.\n-Come, choose the appropriate choice for a fairy tale.\n\n[From [url=http://hanikamuaisuman.web.fc2.com/game/otbn/otbn.html]homepage[/url]]",
+  "vndb_url": "https://vndb.org/v10688"
+}

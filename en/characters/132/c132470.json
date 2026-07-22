@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132470",
+  "type": "character",
+  "name": "Mary",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The hero's landlady and mother of Zoey and Grace.",
+  "source_sha256": "fa095db1924a368bb4233c9df4e03d0cf9f5d1e84848c0a699d853d5399db0f1",
+  "translation": "The hero's landlady and mother of Zoey and Grace.",
+  "vndb_url": "https://vndb.org/c132470"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c142528",
+  "type": "character",
+  "name": "Destiny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "INK member",
+  "source_sha256": "ad00fd03ce8b1009a6d1ea275048a1022e64253acee9d23ff0ffab199e7675b4",
+  "translation": "INK member",
+  "vndb_url": "https://vndb.org/c142528"
+}

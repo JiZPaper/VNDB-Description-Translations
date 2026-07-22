@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161929",
+  "type": "character",
+  "name": "Moss",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Someone who's been forcibly pulled into another dimension.",
+  "source_sha256": "957cf95b575d291952baf4af8895347bde8fa334039d229f1a7a441417aa185c",
+  "translation": "Someone who's been forcibly pulled into another dimension.",
+  "vndb_url": "https://vndb.org/c161929"
+}

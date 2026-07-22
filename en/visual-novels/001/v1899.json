@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1899",
+  "type": "visual_novel",
+  "name": "Haruka na Sora",
+  "original_name": "ハルカナソラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Haruka na Sora is Yosuga no Sora's fandisc.\n\nThe fandisc features bonus scenarios and visual novel versions of web radio episodes. The bonus scenarios include routes for Kozue and Yahiro (who did not have routes in the original game), as well as an epilogue for Sora's main game route. Additionally, it includes a bonus scenario featuring the characters doing karaoke.",
+  "source_sha256": "e96bfda7377f6189e7af4972e222655ce3c44e14021b126c203ee7d253273a62",
+  "translation": "Haruka na Sora is Yosuga no Sora's fandisc.\n\nThe fandisc features bonus scenarios and visual novel versions of web radio episodes. The bonus scenarios include routes for Kozue and Yahiro (who did not have routes in the original game), as well as an epilogue for Sora's main game route. Additionally, it includes a bonus scenario featuring the characters doing karaoke.",
+  "vndb_url": "https://vndb.org/v1899"
+}

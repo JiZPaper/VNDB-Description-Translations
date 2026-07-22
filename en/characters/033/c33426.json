@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33426",
+  "type": "character",
+  "name": "Porthos",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Porthos is a navigator stationed aboard the Sleipnir and close friend of [url=/c33425]Phobos[/url]. He seems to share Phobos' dislike of their fellow navigator, [url=/c33376]Abel[/url]. He pilots the Pharaon, and is partnered with his fighter, Athos.",
+  "source_sha256": "1ef23d5660e5d1d5ae3a86c3e299d73161bdb41c066067b958e48bf88576c9df",
+  "translation": "Porthos is a navigator stationed aboard the Sleipnir and close friend of [url=/c33425]Phobos[/url]. He seems to share Phobos' dislike of their fellow navigator, [url=/c33376]Abel[/url]. He pilots the Pharaon, and is partnered with his fighter, Athos.",
+  "vndb_url": "https://vndb.org/c33426"
+}

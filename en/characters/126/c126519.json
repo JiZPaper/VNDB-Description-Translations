@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126519",
+  "type": "character",
+  "name": "Titus Dubitatius",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jasticus the decapitator's trainer.",
+  "source_sha256": "978fbcc5e5d4c7b65fcdfe30228ba383537877ee836bf991e9d7e2f84a71c791",
+  "translation": "Jasticus the decapitator's trainer.",
+  "vndb_url": "https://vndb.org/c126519"
+}

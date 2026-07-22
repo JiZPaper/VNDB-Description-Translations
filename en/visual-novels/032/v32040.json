@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32040",
+  "type": "visual_novel",
+  "name": "Bullet Call",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A hitman is getting ready to eliminate his next target, under somewhat rushed circumstances.\n\n[From [url=https://atpprojects.itch.io/bulletcall]Itch.io[/url]]",
+  "source_sha256": "50029c5dbaf8cd49d0ab4b8603202b5e26fc72da99c060e3c5ed2f832c7cdc72",
+  "translation": "A hitman is getting ready to eliminate his next target, under somewhat rushed circumstances.\n\n[From [url=https://atpprojects.itch.io/bulletcall]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v32040"
+}

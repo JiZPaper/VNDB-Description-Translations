@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12552",
+  "type": "character",
+  "name": "Tybalt Capulet",
+  "original_name": "ティボルト＝キャピュレット",
+  "language": "en",
+  "source_language": "en",
+  "source": "[url=/c12544]Juliet's[/url] cousin.\nHe adores her like an older sister.\nCurrently he's the next in line for succession of the Capulet family after her.",
+  "source_sha256": "815b76a975588199dbf4f15c2709a7fd7abf5a4dc842cac7429a40219dab29e8",
+  "translation": "[url=/c12544]Juliet's[/url] cousin.\nHe adores her like an older sister.\nCurrently he's the next in line for succession of the Capulet family after her.",
+  "vndb_url": "https://vndb.org/c12552"
+}

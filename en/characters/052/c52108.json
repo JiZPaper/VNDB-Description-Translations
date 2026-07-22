@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c52108",
+  "type": "character",
+  "name": "Saori",
+  "original_name": "沙織",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's mother.",
+  "source_sha256": "ca5a7be6f36833356b2490b5fb5dc1d873f0d67eadc88932e4318fe217b677c5",
+  "translation": "The protagonist's mother.",
+  "vndb_url": "https://vndb.org/c52108"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16975",
+  "type": "visual_novel",
+  "name": "Mikazuki",
+  "original_name": "三日月谭",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hijitaka x Okita fanfic.",
+  "source_sha256": "137491df57f832427b4eda948205e587272961d8ef551c6256ce78f044095397",
+  "translation": "Hijitaka x Okita fanfic.",
+  "vndb_url": "https://vndb.org/v16975"
+}

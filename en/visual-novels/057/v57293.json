@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57293",
+  "type": "visual_novel",
+  "name": "Heart of Saphilamun",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist Kenneth McCoy must travel from Boston to Egypt to uncover the mystery of Pharaoh Safilamun's heart.",
+  "source_sha256": "4fd215dbd4f7ebdbe8e611759f3beff049122c9c7fecac98c543b81002dd9da0",
+  "translation": "The protagonist Kenneth McCoy must travel from Boston to Egypt to uncover the mystery of Pharaoh Safilamun's heart.",
+  "vndb_url": "https://vndb.org/v57293"
+}

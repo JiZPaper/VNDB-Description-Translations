@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127255",
+  "type": "character",
+  "name": "Cheshire",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The head programmer of Alexis Studio and one of its earliest members.",
+  "source_sha256": "f33f358d9c9b4fbbe8edb417892b88726dbaa3ce97aefb1a8b61af2288912621",
+  "translation": "The head programmer of Alexis Studio and one of its earliest members.",
+  "vndb_url": "https://vndb.org/c127255"
+}

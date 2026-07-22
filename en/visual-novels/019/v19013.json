@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19013",
+  "type": "visual_novel",
+  "name": "Doxa paradox",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The world exist because I imaginated it, but if I'm their creator... Who is mine?",
+  "source_sha256": "d636ce26c4f9a90759652681ef01e46064544677303520fe5e08923ad191c661",
+  "translation": "The world exist because I imaginated it, but if I'm their creator... Who is mine?",
+  "vndb_url": "https://vndb.org/v19013"
+}

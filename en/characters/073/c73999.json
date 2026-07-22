@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73999",
+  "type": "character",
+  "name": "Ollie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The boy with red and yellow eyes.",
+  "source_sha256": "4e53b0d21062399dbd3c1c5bd53b4cacb28c9f065e2cdb7054a1422ec142134b",
+  "translation": "The boy with red and yellow eyes.",
+  "vndb_url": "https://vndb.org/c73999"
+}

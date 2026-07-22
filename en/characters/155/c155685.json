@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155685",
+  "type": "character",
+  "name": "Natasha",
+  "original_name": "Наташа",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ishirou's classmate.",
+  "source_sha256": "97542f3fa25b22a584ffb4d8cc7480abd3b9ee7145055510c60981a570c427a3",
+  "translation": "Ishirou's classmate.",
+  "vndb_url": "https://vndb.org/c155685"
+}

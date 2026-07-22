@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51558",
+  "type": "visual_novel",
+  "name": "heaven is with you",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "a kinetic visual novel about two childhood friends.\n\n[From [url=https://knivves.itch.io/heaven-is-with-you]itch.io[/url]]",
+  "source_sha256": "e25c1b5a34953ab03eae46c41106fde827475b93ae557c99b1b2ecb8888dc6d1",
+  "translation": "a kinetic visual novel about two childhood friends.\n\n[From [url=https://knivves.itch.io/heaven-is-with-you]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v51558"
+}

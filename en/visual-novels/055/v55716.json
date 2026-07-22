@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55716",
+  "type": "visual_novel",
+  "name": "Fission Frontier",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is literature , a literature of different isotopes narrative\n\nMeet Rashomon Nao , 16 year boy who want to go present his nuclear physics project",
+  "source_sha256": "7509e4de5b93a11a4a033cc24da9b709b6c1e485a8bbb3d11ad470dce7fa79f1",
+  "translation": "This is literature , a literature of different isotopes narrative\n\nMeet Rashomon Nao , 16 year boy who want to go present his nuclear physics project",
+  "vndb_url": "https://vndb.org/v55716"
+}

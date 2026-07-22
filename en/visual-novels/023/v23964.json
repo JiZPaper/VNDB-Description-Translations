@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23964",
+  "type": "visual_novel",
+  "name": "By the Second",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel about a game show and its contestants.\n\n[From [url=https://chromelette.itch.io/by-the-second] itch.io[/url]]",
+  "source_sha256": "7f10850d85f6ae94761924740be8c76183feb3aace0681276bcf64c7f5446405",
+  "translation": "A visual novel about a game show and its contestants.\n\n[From [url=https://chromelette.itch.io/by-the-second] itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v23964"
+}

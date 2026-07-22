@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159559",
+  "type": "character",
+  "name": "1 Gou",
+  "original_name": "1ゴウ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The foreman for the trial of Magnus McGilded.",
+  "source_sha256": "fede7dfb462ef097f5da3c92c9cf08600ceaaac4fd09f3fb542e059782007719",
+  "translation": "The foreman for the trial of Magnus McGilded.",
+  "vndb_url": "https://vndb.org/c159559"
+}

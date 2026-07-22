@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97402",
+  "type": "character",
+  "name": "Kumada",
+  "original_name": "熊田",
+  "language": "en",
+  "source_language": "en",
+  "source": "The only doctor in Myoujin village.",
+  "source_sha256": "a222eedc1c6d4540abe8f110e53f4cd3b0017080a984d644151866d7f4ceccc9",
+  "translation": "The only doctor in Myoujin village.",
+  "vndb_url": "https://vndb.org/c97402"
+}

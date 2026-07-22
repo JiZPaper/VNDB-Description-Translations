@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25161",
+  "type": "visual_novel",
+  "name": "Radio Caroline",
+  "original_name": "ラジオキャロライン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A road movie-inspired visual novel.",
+  "source_sha256": "e2d25eb83f98e62f29fc79274d5f7b373f56a601bc5744bba613bcc527f569d2",
+  "translation": "A road movie-inspired visual novel.",
+  "vndb_url": "https://vndb.org/v25161"
+}

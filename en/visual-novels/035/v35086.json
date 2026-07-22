@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35086",
+  "type": "visual_novel",
+  "name": "Snake's Loop",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This game is made for black and white game jam. A little story about a snake who needs to find an oasis, but something goes wrong.\n\n[From [url=https://sheldnet.itch.io/snakes-loop]Itch.io[/url]]",
+  "source_sha256": "7d70ecc46aeeb4472af0b474968ace0d15c9c8a8d82128c77385748a146a52d6",
+  "translation": "This game is made for black and white game jam. A little story about a snake who needs to find an oasis, but something goes wrong.\n\n[From [url=https://sheldnet.itch.io/snakes-loop]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v35086"
+}

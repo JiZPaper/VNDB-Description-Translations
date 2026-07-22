@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c111308",
+  "type": "character",
+  "name": "Clyde",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "- Cousin of [url=/c110710]Roxanne[/url].\n- Nephew of [url=/c110781]Crystal[/url].",
+  "source_sha256": "5fa0671a1394746f53c0071bacf3cc7d1e2b26f263683b6cb9a2bf83fe7898aa",
+  "translation": "- Cousin of [url=/c110710]Roxanne[/url].\n- Nephew of [url=/c110781]Crystal[/url].",
+  "vndb_url": "https://vndb.org/c111308"
+}

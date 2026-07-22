@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c118530",
+  "type": "character",
+  "name": "Lotus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Barista at Queen Bean Coffee House.",
+  "source_sha256": "3bfa29cbde5d573f47d9c233d8ad41a52e69494571e0d19d1aaf2f904e54886a",
+  "translation": "Barista at Queen Bean Coffee House.",
+  "vndb_url": "https://vndb.org/c118530"
+}

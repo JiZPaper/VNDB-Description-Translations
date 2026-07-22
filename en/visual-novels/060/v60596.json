@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60596",
+  "type": "visual_novel",
+  "name": "Eclipse Town",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A detective is sent on a mission to find a missing woman. Little does he know that this will set off a chain of events that will change his life forever.",
+  "source_sha256": "2ee3f2582fc563bcf7e4f72a318fe14400ecf0e162e3464548696b076d251349",
+  "translation": "A detective is sent on a mission to find a missing woman. Little does he know that this will set off a chain of events that will change his life forever.",
+  "vndb_url": "https://vndb.org/v60596"
+}

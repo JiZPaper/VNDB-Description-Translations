@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c119189",
+  "type": "character",
+  "name": "Whenfel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bard, often found singing and playing in the Amantes Tavern.",
+  "source_sha256": "45bdc78adb519a94caea5595f758d632b34e4ab5c168a986535a1d421da32998",
+  "translation": "A bard, often found singing and playing in the Amantes Tavern.",
+  "vndb_url": "https://vndb.org/c119189"
+}

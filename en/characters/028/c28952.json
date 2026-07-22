@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28952",
+  "type": "character",
+  "name": "Narrator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The game has a voiced narration, which is performed by a different voice actor than any of the characters.",
+  "source_sha256": "369c9fdde6b88728f394bf4b75e5aac6adf7f0ce04fe72dba303483ad8a9506a",
+  "translation": "The game has a voiced narration, which is performed by a different voice actor than any of the characters.",
+  "vndb_url": "https://vndb.org/c28952"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32011",
+  "type": "visual_novel",
+  "name": "Seeing Red",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You know you're going to die... and then your world turns red. Being a vampire isn't what you expected... You need to learn fast and trust no one. You're still being hunted.",
+  "source_sha256": "68f463b6efe90aa70c0be40b25d31cc3a8d4cca1f7bba1809510e2afe53e7619",
+  "translation": "You know you're going to die... and then your world turns red. Being a vampire isn't what you expected... You need to learn fast and trust no one. You're still being hunted.",
+  "vndb_url": "https://vndb.org/v32011"
+}

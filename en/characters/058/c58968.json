@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c58968",
+  "type": "character",
+  "name": "Todoraki",
+  "original_name": "轟",
+  "language": "en",
+  "source_language": "en",
+  "source": "The bus driver. A former motor sports star which has retired after an accident.",
+  "source_sha256": "5720c72b9c2ece260050084c5fcce8c6a9cf777ad6ced9769918bb4813fa5d65",
+  "translation": "The bus driver. A former motor sports star which has retired after an accident.",
+  "vndb_url": "https://vndb.org/c58968"
+}

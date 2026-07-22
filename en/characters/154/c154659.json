@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154659",
+  "type": "character",
+  "name": "Queen's Aide",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The personal assistant to the queen",
+  "source_sha256": "4d4d399c09df46bb551053a3cecf8d3f66b9243095abafe7bfc96ce8d01ad647",
+  "translation": "The personal assistant to the queen",
+  "vndb_url": "https://vndb.org/c154659"
+}

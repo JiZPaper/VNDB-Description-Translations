@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c46601",
+  "type": "character",
+  "name": "King of the Fairies",
+  "original_name": "妖精の王",
+  "language": "en",
+  "source_language": "en",
+  "source": "Elena's granpa",
+  "source_sha256": "f54ca97f3d01f261beeadb46bf3406ba4a28cfdad47b12d729626c472e33d6b0",
+  "translation": "Elena's granpa",
+  "vndb_url": "https://vndb.org/c46601"
+}

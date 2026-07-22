@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92382",
+  "type": "character",
+  "name": "Dr. Rotschtein",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious medical doctor who cured the protagonist from his brain tumor.",
+  "source_sha256": "5e7fff3b6ffa8d6385a8a1de2bcdd0f758748ab02aacc38c28c5af4149593e3c",
+  "translation": "A mysterious medical doctor who cured the protagonist from his brain tumor.",
+  "vndb_url": "https://vndb.org/c92382"
+}

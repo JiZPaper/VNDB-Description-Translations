@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65344",
+  "type": "character",
+  "name": "Baldur Hiltman",
+  "original_name": "バルドゥル・ヒルトマン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A soldier who rose up through the ranks. He trains his body. He was originally a soldier of the Empire, but was disgusted by the difference in rank and left.",
+  "source_sha256": "10883ef6efb41213717bdfd32e065344ed70454e6261a94b3adc752faa60f35c",
+  "translation": "A soldier who rose up through the ranks. He trains his body. He was originally a soldier of the Empire, but was disgusted by the difference in rank and left.",
+  "vndb_url": "https://vndb.org/c65344"
+}

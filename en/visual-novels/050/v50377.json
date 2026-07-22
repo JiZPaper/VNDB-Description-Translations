@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50377",
+  "type": "visual_novel",
+  "name": "Testing a Visual Novel About Testing a Visual Novel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel about testing a visual novel.",
+  "source_sha256": "3fb4134ace0d1d95dfc90f059827d291e429eb98b61a6c931a9ac1ed4be4fe0d",
+  "translation": "A visual novel about testing a visual novel.",
+  "vndb_url": "https://vndb.org/v50377"
+}

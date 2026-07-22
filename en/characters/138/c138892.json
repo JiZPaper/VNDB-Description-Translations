@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c138892",
+  "type": "character",
+  "name": "Jiro",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The leader of XYN.",
+  "source_sha256": "02df6f629e30b64ebbd72fcc485a84a0b2ad1c48813b254059c11b3fc75353dd",
+  "translation": "The leader of XYN.",
+  "vndb_url": "https://vndb.org/c138892"
+}

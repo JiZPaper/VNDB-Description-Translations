@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97592",
+  "type": "character",
+  "name": "The King",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Eskian King who was believed to be dead.",
+  "source_sha256": "0b0e7a23856756e92c8926e348494ab5dea8794ca1b667864ea74da50c9aefb6",
+  "translation": "The Eskian King who was believed to be dead.",
+  "vndb_url": "https://vndb.org/c97592"
+}

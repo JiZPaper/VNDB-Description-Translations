@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11239",
+  "type": "visual_novel",
+  "name": "Tasogaredoki ~Kaidan Romance~",
+  "original_name": "黄昏時～怪談ロマンス～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fandisc for Oumagatoki ~Kaidan Romance~.",
+  "source_sha256": "4b05968da855555e8b6f9dd30be36b2ac3f1d7b78f87152ad65cd395f361d737",
+  "translation": "Fandisc for Oumagatoki ~Kaidan Romance~.",
+  "vndb_url": "https://vndb.org/v11239"
+}

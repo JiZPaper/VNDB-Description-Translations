@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60352",
+  "type": "character",
+  "name": "Lawrence Hamilton",
+  "original_name": "ローレンス＝ハミルトン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A famous novelist.\nHobby: Watching historical Japanese shows.",
+  "source_sha256": "b3382ecc70258cce48210c59aa48fa2054427ee195e4716bdf1851cf59053ae8",
+  "translation": "A famous novelist.\nHobby: Watching historical Japanese shows.",
+  "vndb_url": "https://vndb.org/c60352"
+}

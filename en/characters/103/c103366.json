@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103366",
+  "type": "character",
+  "name": "Sierra Kanat",
+  "original_name": "シエラ・カナート",
+  "language": "en",
+  "source_language": "en",
+  "source": "Job: Scout\nSkills: Reconnaissance Lv2, Stealth Lv1, Dagger Combat Lv1, Courier Lv2\nLikes: Apple pie, strawberry jam\nDislikes: Slimes, insects\n\nA cheerful girl who raises the spirits of the party. She's a novice adventurer, but wants the rest of her party to recognize her abilities.",
+  "source_sha256": "b82fbbd49d1a90c78a9dbe2903d5ad01e1324279c6265eab2649a953cdfa6e5b",
+  "translation": "Job: Scout\nSkills: Reconnaissance Lv2, Stealth Lv1, Dagger Combat Lv1, Courier Lv2\nLikes: Apple pie, strawberry jam\nDislikes: Slimes, insects\n\nA cheerful girl who raises the spirits of the party. She's a novice adventurer, but wants the rest of her party to recognize her abilities.",
+  "vndb_url": "https://vndb.org/c103366"
+}

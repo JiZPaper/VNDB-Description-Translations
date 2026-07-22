@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160021",
+  "type": "character",
+  "name": "Kards",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Company Owner",
+  "source_sha256": "b01348bce4d981a687c540317463045b360b0e2706050b707299ef68f96b6ffb",
+  "translation": "Company Owner",
+  "vndb_url": "https://vndb.org/c160021"
+}

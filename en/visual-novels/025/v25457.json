@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25457",
+  "type": "visual_novel",
+  "name": "Black Lily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A popular pretty girl and a not-so-wimpy nerd got trapped in a building together for a night because of a cruel prank. Hilarity ensues?",
+  "source_sha256": "b15248a98b5f16a9238928053ad19525b5be347da107820e3c4b35ad08e1cb49",
+  "translation": "A popular pretty girl and a not-so-wimpy nerd got trapped in a building together for a night because of a cruel prank. Hilarity ensues?",
+  "vndb_url": "https://vndb.org/v25457"
+}

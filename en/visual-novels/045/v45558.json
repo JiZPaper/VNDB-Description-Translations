@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45558",
+  "type": "visual_novel",
+  "name": "Ano Natsu",
+  "original_name": "あの夏",
+  "language": "en",
+  "source_language": "en",
+  "source": "A nostalgic VN taking place in the countryside during summer.",
+  "source_sha256": "593035671d563a86b6c502bb444409e2493a0432e8568790eae6441ae83b0745",
+  "translation": "A nostalgic VN taking place in the countryside during summer.",
+  "vndb_url": "https://vndb.org/v45558"
+}

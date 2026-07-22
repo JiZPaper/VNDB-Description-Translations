@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70972",
+  "type": "character",
+  "name": "Lucia Maverick",
+  "original_name": "ルシア＝マーベリック",
+  "language": "en",
+  "source_language": "en",
+  "source": "Right-handed\nSkill: Cooking\nLoves: Apple pie\nHates: Small spiders\nFavorite Color: Red",
+  "source_sha256": "a541fd9c4e279349d451dffbf5e8512fd660078904b0165273151ca51d2b8ee1",
+  "translation": "Right-handed\nSkill: Cooking\nLoves: Apple pie\nHates: Small spiders\nFavorite Color: Red",
+  "vndb_url": "https://vndb.org/c70972"
+}

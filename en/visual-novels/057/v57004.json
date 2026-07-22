@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57004",
+  "type": "visual_novel",
+  "name": "date night",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A tiny visual novel about a short but sweet dating, with the theme 'out of control'.",
+  "source_sha256": "4e74be3e010efc993f4409ef40ed761edbc8c9d0a7b8a0d7da58564683181e76",
+  "translation": "A tiny visual novel about a short but sweet dating, with the theme 'out of control'.",
+  "vndb_url": "https://vndb.org/v57004"
+}

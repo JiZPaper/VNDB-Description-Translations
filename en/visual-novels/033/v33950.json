@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33950",
+  "type": "visual_novel",
+  "name": "Cheotsarange Daehayeo",
+  "original_name": "첫사랑에 대하여",
+  "language": "en",
+  "source_language": "en",
+  "source": "After 10 years, I go to a school reunion. I had to finish a script for a TV show, but instead, I start writing my love again.\n\n[From in-app]",
+  "source_sha256": "5b6f0cb3a060c41690abb385cb24509532e591c75b9930e9c3dfafdb1d3bbec9",
+  "translation": "After 10 years, I go to a school reunion. I had to finish a script for a TV show, but instead, I start writing my love again.\n\n[From in-app]",
+  "vndb_url": "https://vndb.org/v33950"
+}

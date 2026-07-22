@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44430",
+  "type": "visual_novel",
+  "name": "Kagome Natsumatsuri",
+  "original_name": "かごめ夏祭",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious encounter at a summer festival.\n\n[Translated from [url=https://www.freem.ne.jp/win/game/18326]Freem[/url]]",
+  "source_sha256": "30a93b3b0d39a812566b38647c526233c045842442184ea31566c56ca7278e56",
+  "translation": "A mysterious encounter at a summer festival.\n\n[Translated from [url=https://www.freem.ne.jp/win/game/18326]Freem[/url]]",
+  "vndb_url": "https://vndb.org/v44430"
+}

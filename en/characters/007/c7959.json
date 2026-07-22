@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c7959",
+  "type": "character",
+  "name": "Neon",
+  "original_name": "祢音",
+  "language": "en",
+  "source_language": "en",
+  "source": "Character type: Assassin.",
+  "source_sha256": "278809381289ff46ba3a10819255b9ffca240ee6b60112db66b25e572a4469a2",
+  "translation": "Character type: Assassin.",
+  "vndb_url": "https://vndb.org/c7959"
+}

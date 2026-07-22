@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115519",
+  "type": "character",
+  "name": "Starfire",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of Teen Titans.",
+  "source_sha256": "7c99ddf1536a0287e4e3771a83a529990dacd9580c7323b2e2390ffedfabf99b",
+  "translation": "A member of Teen Titans.",
+  "vndb_url": "https://vndb.org/c115519"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30600",
+  "type": "visual_novel",
+  "name": "Venus Flytrap",
+  "original_name": "ヴィーナスフライトラップ",
+  "language": "en",
+  "source_language": "en",
+  "source": "At school, Mishima meets a mysterious pair of twins. They seem to recognise her, but she doesn't know why.",
+  "source_sha256": "85c22809ca97ec690f12ce00da175f794a853635c15e3ffc897f8f52ba79cb62",
+  "translation": "At school, Mishima meets a mysterious pair of twins. They seem to recognise her, but she doesn't know why.",
+  "vndb_url": "https://vndb.org/v30600"
+}

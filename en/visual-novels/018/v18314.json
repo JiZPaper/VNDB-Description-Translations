@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18314",
+  "type": "visual_novel",
+  "name": "Code: Realize ~Shukufuku no Mirai~",
+  "original_name": "Code:Realize ~祝福の未来~",
+  "language": "en",
+  "source_language": "en",
+  "source": "The fandisc for Code: Realize, featuring after stories for the main cast\nand new routes for Herlock Sholmes and Finis.",
+  "source_sha256": "54f139e77c9f600946445e8918199be31245846747d3c5470a34059918978b2f",
+  "translation": "The fandisc for Code: Realize, featuring after stories for the main cast\nand new routes for Herlock Sholmes and Finis.",
+  "vndb_url": "https://vndb.org/v18314"
+}

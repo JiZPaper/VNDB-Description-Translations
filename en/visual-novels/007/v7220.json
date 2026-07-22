@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7220",
+  "type": "visual_novel",
+  "name": "Stay away from the graveyard",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as a science teacher. A rumor is going on that there is a ghost in the graveyard. But you don't believe in ghosts. Find out whether ghosts exist or not.",
+  "source_sha256": "51c637f618a9fff4cfb3261bcbd2b024ddebb8945197f187653230b2af396040",
+  "translation": "You play as a science teacher. A rumor is going on that there is a ghost in the graveyard. But you don't believe in ghosts. Find out whether ghosts exist or not.",
+  "vndb_url": "https://vndb.org/v7220"
+}

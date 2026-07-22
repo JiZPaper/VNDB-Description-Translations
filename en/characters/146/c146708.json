@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146708",
+  "type": "character",
+  "name": "Adolf Hitler",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "German Chancellor and Nazi Leader during World War 2.",
+  "source_sha256": "09a3933f816364faed28ad66c41d0631a11ef05e946404999ad74689b0923919",
+  "translation": "German Chancellor and Nazi Leader during World War 2.",
+  "vndb_url": "https://vndb.org/c146708"
+}

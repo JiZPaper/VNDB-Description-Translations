@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132015",
+  "type": "character",
+  "name": "Coach",
+  "original_name": "コーチ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hoshitsugu Shirone's figure skating coach",
+  "source_sha256": "a2497e9058c0b25cb49b99bd463040acce547b6e6ac41c8d53fe265a1af93c09",
+  "translation": "Hoshitsugu Shirone's figure skating coach",
+  "vndb_url": "https://vndb.org/c132015"
+}

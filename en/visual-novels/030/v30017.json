@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30017",
+  "type": "visual_novel",
+  "name": "Shokushu",
+  "original_name": "蝕主-しょくしゅ-",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist finds a magic book and, thinking it's a fake, accidentally summons a demon girl, who she is then forced to serve.",
+  "source_sha256": "fbf72abfeb7fb71ee3fece58a0579fe906f43ca6c5ec43e7d3367d8e3bba512d",
+  "translation": "The protagonist finds a magic book and, thinking it's a fake, accidentally summons a demon girl, who she is then forced to serve.",
+  "vndb_url": "https://vndb.org/v30017"
+}

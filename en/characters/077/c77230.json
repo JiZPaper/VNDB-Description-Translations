@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77230",
+  "type": "character",
+  "name": "Karasu",
+  "original_name": "鴉",
+  "language": "en",
+  "source_language": "en",
+  "source": "An easygoing fortune-teller, who is often wrong about her predictions.",
+  "source_sha256": "031978028ec341dd9ac02849f9ce858e77dde7c6201328b8efc85a56e0c1f926",
+  "translation": "An easygoing fortune-teller, who is often wrong about her predictions.",
+  "vndb_url": "https://vndb.org/c77230"
+}

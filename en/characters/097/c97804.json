@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97804",
+  "type": "character",
+  "name": "Labelcase",
+  "original_name": "ラベルケース",
+  "language": "en",
+  "source_language": "en",
+  "source": "A stoic, withdrawn Angel Knight residing in Hell, overseeing a group of sinners. Known by the epithet \"Bow Angel.\"",
+  "source_sha256": "c13a072bbf7eefa7cbace1cb61e91bcf21f390b4c015dec442fbf6b34862d2de",
+  "translation": "A stoic, withdrawn Angel Knight residing in Hell, overseeing a group of sinners. Known by the epithet \"Bow Angel.\"",
+  "vndb_url": "https://vndb.org/c97804"
+}

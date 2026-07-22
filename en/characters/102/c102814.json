@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102814",
+  "type": "character",
+  "name": "Ammy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist's pet cat.",
+  "source_sha256": "f9449e3333fef267bda54e61c130ccbacc801799db5c29108e003167c11cb014",
+  "translation": "Protagonist's pet cat.",
+  "vndb_url": "https://vndb.org/c102814"
+}

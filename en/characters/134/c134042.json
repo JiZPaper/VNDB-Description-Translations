@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134042",
+  "type": "character",
+  "name": "Omar",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Works at the cafeteria",
+  "source_sha256": "ea0d5fdfb9c64f0b0d8ff315b36212ee192203cfb0a6877fc5f25ec14fc6491a",
+  "translation": "Works at the cafeteria",
+  "vndb_url": "https://vndb.org/c134042"
+}

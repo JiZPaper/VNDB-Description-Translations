@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23864",
+  "type": "visual_novel",
+  "name": "UnderNovel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An Undertale fan-game.",
+  "source_sha256": "f56a3902686d5a7c9beedfa2bb0c58df60e8e10877b38d193e4a5f8099b58a92",
+  "translation": "An Undertale fan-game.",
+  "vndb_url": "https://vndb.org/v23864"
+}

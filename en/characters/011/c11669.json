@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11669",
+  "type": "character",
+  "name": "Cremona",
+  "original_name": "クレモナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A black cat that is kept in the Sakurai house. It likes listening to good music, and has a habit to run away when there's bad music playing close to it.",
+  "source_sha256": "8c7b54cf2e1631e1fc303bac84147fc9eec5f44607072080a1bbb79e46ee2c97",
+  "translation": "A black cat that is kept in the Sakurai house. It likes listening to good music, and has a habit to run away when there's bad music playing close to it.",
+  "vndb_url": "https://vndb.org/c11669"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145221",
+  "type": "character",
+  "name": "Mr. Masque",
+  "original_name": "仮面の男",
+  "language": "en",
+  "source_language": "en",
+  "source": "Whenever encountered, he performs magic tricks.",
+  "source_sha256": "50a02f34f12b8143379b361052c94d80e0bb26492ceb20d23afa1992ec7fcfde",
+  "translation": "Whenever encountered, he performs magic tricks.",
+  "vndb_url": "https://vndb.org/c145221"
+}

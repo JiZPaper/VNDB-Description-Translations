@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28125",
+  "type": "visual_novel",
+  "name": "Knights of the Lust Temple",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A game about one girl's adventure in a galaxy far far away.",
+  "source_sha256": "3e1dd82e2d7e30e770549df13d8ae7eeb35dd53d393cf025d2cf8a258dcf05f2",
+  "translation": "A game about one girl's adventure in a galaxy far far away.",
+  "vndb_url": "https://vndb.org/v28125"
+}

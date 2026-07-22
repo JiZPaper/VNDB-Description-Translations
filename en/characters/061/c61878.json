@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61878",
+  "type": "character",
+  "name": "Foron Tarnat",
+  "original_name": "フォロン タルナート",
+  "language": "en",
+  "source_language": "en",
+  "source": "A musical performer for the Twanbach funeral company.",
+  "source_sha256": "83575ea40b2cd1e7d3b0737749e690bcc6eee382538bb2e3b046446458172bd3",
+  "translation": "A musical performer for the Twanbach funeral company.",
+  "vndb_url": "https://vndb.org/c61878"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14500",
+  "type": "visual_novel",
+  "name": "Koishite Marshmallow",
+  "original_name": "恋してマシュマロ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Chubby \"marshmallow girl\" Shuma has only 20 days to gain weight and find love.",
+  "source_sha256": "b3461537ee482ad4af80691ce1bb09c53ffaf1dda8b101d92ccb3f483e6c4d38",
+  "translation": "Chubby \"marshmallow girl\" Shuma has only 20 days to gain weight and find love.",
+  "vndb_url": "https://vndb.org/v14500"
+}

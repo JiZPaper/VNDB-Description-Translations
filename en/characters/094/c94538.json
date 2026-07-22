@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94538",
+  "type": "character",
+  "name": "Dina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of the local restaurant.",
+  "source_sha256": "92de49a413a4d9cd452fca2ecbd25c2987a09cbcc95e49b3285e764658fa0a31",
+  "translation": "The owner of the local restaurant.",
+  "vndb_url": "https://vndb.org/c94538"
+}

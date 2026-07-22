@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c114246",
+  "type": "character",
+  "name": "Bill",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Rich guy.",
+  "source_sha256": "684c98fca5b6289f31ab737882d547a8831aca0de5f82a09d6f6fab5dfc81cd0",
+  "translation": "Rich guy.",
+  "vndb_url": "https://vndb.org/c114246"
+}

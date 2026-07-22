@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53982",
+  "type": "character",
+  "name": "Roche",
+  "original_name": "ロシュ",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Has events but no ending.[/spoiler]",
+  "source_sha256": "d829db6150934b53256fda9fcc38ab3d1197aef628867762a5fbbfd4472611ce",
+  "translation": "[spoiler]Has events but no ending.[/spoiler]",
+  "vndb_url": "https://vndb.org/c53982"
+}

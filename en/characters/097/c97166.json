@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97166",
+  "type": "character",
+  "name": "Golden Figure",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A prominent, yet mysterious figure in Shira's past.",
+  "source_sha256": "19f94ba38a298d1429b379b0b234374ec358e5b2056474a803106abdd3b20142",
+  "translation": "A prominent, yet mysterious figure in Shira's past.",
+  "vndb_url": "https://vndb.org/c97166"
+}

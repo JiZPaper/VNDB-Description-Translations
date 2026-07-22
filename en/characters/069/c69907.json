@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c69907",
+  "type": "character",
+  "name": "Broadway",
+  "original_name": "ブロードウェイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Yuuri's satelite.",
+  "source_sha256": "ce85c598923db3efe1bc32ecc3ab5e5d623461d6c4872a8668b0fff3d602defa",
+  "translation": "Yuuri's satelite.",
+  "vndb_url": "https://vndb.org/c69907"
+}

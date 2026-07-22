@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115238",
+  "type": "character",
+  "name": "Silok",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A slave trader.",
+  "source_sha256": "368fc9ff852f7d10af4fc6ff3f56973d63adbb989407e41e07e388a7021ce030",
+  "translation": "A slave trader.",
+  "vndb_url": "https://vndb.org/c115238"
+}

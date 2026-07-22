@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c66039",
+  "type": "character",
+  "name": "Excellion",
+  "original_name": "エクセリオン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Emperor of Romania.",
+  "source_sha256": "3768a0f5dd33fc83d9f41f7fe9bddd2d79003066c875dcf27bacbb58701a5e82",
+  "translation": "Emperor of Romania.",
+  "vndb_url": "https://vndb.org/c66039"
+}

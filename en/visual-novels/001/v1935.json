@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1935",
+  "type": "visual_novel",
+  "name": "Hoshi no Oujo: Hikari no Tsubasa ~Koi no Patissier~",
+  "original_name": "星の王女　光のつばさ ～恋のパティシエ～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fandisc of Hoshi no Oujo: Hikari no Tsubasa with two added capturable characters.",
+  "source_sha256": "a1e3d892b5f3907b2a5e295fe1e1a5c7238ea60c92dd754fc1576b97ad667e71",
+  "translation": "Fandisc of Hoshi no Oujo: Hikari no Tsubasa with two added capturable characters.",
+  "vndb_url": "https://vndb.org/v1935"
+}

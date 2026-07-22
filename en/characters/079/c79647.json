@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79647",
+  "type": "character",
+  "name": "Sophia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A battlemage sent from the Church.",
+  "source_sha256": "6e31af40b88a6772adecbd7215047d72ea424860036201c170da5b283d4e6228",
+  "translation": "A battlemage sent from the Church.",
+  "vndb_url": "https://vndb.org/c79647"
+}

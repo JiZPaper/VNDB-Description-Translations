@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c46875",
+  "type": "character",
+  "name": "Alice Alstroemeria",
+  "original_name": "アリス・アルストロメリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes: Her younger sister, coffee\nDislikes: Conflicts",
+  "source_sha256": "ef881771fe3403db3bfd1d65373b99163ba23d3b1a375c15370536681f911c47",
+  "translation": "Likes: Her younger sister, coffee\nDislikes: Conflicts",
+  "vndb_url": "https://vndb.org/c46875"
+}

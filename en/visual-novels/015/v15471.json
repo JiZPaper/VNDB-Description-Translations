@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15471",
+  "type": "visual_novel",
+  "name": "Opium Eater",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Once upon a time, there was a princess trapped in a tower...\"\n\nA story of Sei's existence before the events of DRAMAtical Murder.",
+  "source_sha256": "e49cd0ec14999a136113169718e2b609733841354fb34e772a4142eb42b32ea7",
+  "translation": "\"Once upon a time, there was a princess trapped in a tower...\"\n\nA story of Sei's existence before the events of DRAMAtical Murder.",
+  "vndb_url": "https://vndb.org/v15471"
+}

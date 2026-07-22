@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40709",
+  "type": "visual_novel",
+  "name": "Renalucent Island Escape",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Visual Novel about small Vtubers meeting on a island.",
+  "source_sha256": "62eca1244823d339751f544ea19b1ab8c2ad1b52c55b485dcf71d73905b7bbfb",
+  "translation": "A Visual Novel about small Vtubers meeting on a island.",
+  "vndb_url": "https://vndb.org/v40709"
+}

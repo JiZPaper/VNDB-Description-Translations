@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132927",
+  "type": "character",
+  "name": "Flower Seller",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Roams around the space station's restaurants and bars, attempting to sell flowers to couples.",
+  "source_sha256": "80387124c46d8da03e531c22904b32552e7795812832b27e01c11255b0564999",
+  "translation": "Roams around the space station's restaurants and bars, attempting to sell flowers to couples.",
+  "vndb_url": "https://vndb.org/c132927"
+}

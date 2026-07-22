@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100800",
+  "type": "character",
+  "name": "Lobster",
+  "original_name": "ロブスター",
+  "language": "en",
+  "source_language": "en",
+  "source": "Member of Daniel gang. Youngest of the trio Sea Food Brothers.",
+  "source_sha256": "2cf1eb7392185e78973fcb2c5ac4bd32250933b35849895e119c67728b9a6272",
+  "translation": "Member of Daniel gang. Youngest of the trio Sea Food Brothers.",
+  "vndb_url": "https://vndb.org/c100800"
+}

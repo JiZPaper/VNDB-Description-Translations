@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c164884",
+  "type": "character",
+  "name": "Issa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is [url=/c164391]Max[/url]'s classmate.",
+  "source_sha256": "87e18bc351f50237041cd2b816faaff1f17080fce0b259459b25252282aa47ac",
+  "translation": "She is [url=/c164391]Max[/url]'s classmate.",
+  "vndb_url": "https://vndb.org/c164884"
+}

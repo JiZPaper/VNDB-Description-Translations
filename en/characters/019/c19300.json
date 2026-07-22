@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19300",
+  "type": "character",
+  "name": "Touma",
+  "original_name": "トウマ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Weapon: wrench.",
+  "source_sha256": "64f035a20502ecf15b00078871911b053c8de45441b4a432bd78ade79279dc88",
+  "translation": "Weapon: wrench.",
+  "vndb_url": "https://vndb.org/c19300"
+}

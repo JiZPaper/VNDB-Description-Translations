@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v916",
+  "type": "visual_novel",
+  "name": "Nagomibako Innocent Grey Fandisc",
+  "original_name": "和み匣 Innocent Greyファンディスク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Innocent Grey fandisc featuring short stories and mini-games based on Innocent Grey works such as Cartagra and PP-pianisimo-.",
+  "source_sha256": "b77fe721cc2d5144ccf4eb9e7a2f2e06ca2624252ebd9ff5f08104481d690c5b",
+  "translation": "Innocent Grey fandisc featuring short stories and mini-games based on Innocent Grey works such as Cartagra and PP-pianisimo-.",
+  "vndb_url": "https://vndb.org/v916"
+}

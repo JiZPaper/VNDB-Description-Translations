@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122769",
+  "type": "character",
+  "name": "Bram",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Y/N's childhood rival.",
+  "source_sha256": "c3bf7283cc6daa335adf67c22d0048439bf16fc31a584d1741330b8e6ecdd0db",
+  "translation": "Y/N's childhood rival.",
+  "vndb_url": "https://vndb.org/c122769"
+}

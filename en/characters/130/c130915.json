@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130915",
+  "type": "character",
+  "name": "Bill Sullivan",
+  "original_name": "ビル・サリバン",
+  "language": "en",
+  "source_language": "en",
+  "source": "An agent for the Bureau of Investigations.\nWorks with Bill Sullivan to investigate the incident that transpired aboard the \"Flying Pussyfoot.\"",
+  "source_sha256": "018fd684e212e712f712b43a98a2095d17d5bf389b41a6e4d5ae2471d992c0ca",
+  "translation": "An agent for the Bureau of Investigations.\nWorks with Bill Sullivan to investigate the incident that transpired aboard the \"Flying Pussyfoot.\"",
+  "vndb_url": "https://vndb.org/c130915"
+}

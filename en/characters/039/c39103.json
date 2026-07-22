@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39103",
+  "type": "character",
+  "name": "Widder Charme",
+  "original_name": "ヴィッダー＝シャルム",
+  "language": "en",
+  "source_language": "en",
+  "source": "A popular fortune teller.\nHis true job is as an information seller that sells to bounty hunters and criminals alike.",
+  "source_sha256": "57e241ac8a1c646245a243609758be5eeccc8c8295eb8c28824002edb5aedb21",
+  "translation": "A popular fortune teller.\nHis true job is as an information seller that sells to bounty hunters and criminals alike.",
+  "vndb_url": "https://vndb.org/c39103"
+}

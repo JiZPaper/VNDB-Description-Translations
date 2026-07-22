@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137924",
+  "type": "character",
+  "name": "Leyla",
+  "original_name": "レーラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Gynoid assistant of Ryuuichi.",
+  "source_sha256": "366de708f71e0d5249ce7a94457d8412e88e8d653dc9e783aea3ff7eae1d2bc4",
+  "translation": "Gynoid assistant of Ryuuichi.",
+  "vndb_url": "https://vndb.org/c137924"
+}

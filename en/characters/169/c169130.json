@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169130",
+  "type": "character",
+  "name": "Rei",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Rei is a character from Le Vent Souffle.\n\nShe is hospitalized and loves lemon cakes.",
+  "source_sha256": "f9ec70954dd507f6097f722d926cc9589add790602a6cb2a2e6c15fa4a314f98",
+  "translation": "Rei is a character from Le Vent Souffle.\n\nShe is hospitalized and loves lemon cakes.",
+  "vndb_url": "https://vndb.org/c169130"
+}

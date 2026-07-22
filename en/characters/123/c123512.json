@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123512",
+  "type": "character",
+  "name": "Clansman",
+  "original_name": "族人",
+  "language": "en",
+  "source_language": "en",
+  "source": "Started to manage clan affairs recently.",
+  "source_sha256": "dc74f7c4ff5c25a96338834c99d8f5d81e4f04341de8b2e5192a469df516c06d",
+  "translation": "Started to manage clan affairs recently.",
+  "vndb_url": "https://vndb.org/c123512"
+}

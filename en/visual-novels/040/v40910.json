@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40910",
+  "type": "visual_novel",
+  "name": "Bungaku Sound Novel",
+  "original_name": "文学サウンドノベル",
+  "language": "en",
+  "source_language": "en",
+  "source": "An adaptation of several public domain works into visual novels.",
+  "source_sha256": "c0e716b91205b244ed05e03c4fb1b8b819d2350e65c9d2e47fa4e73bc904e92b",
+  "translation": "An adaptation of several public domain works into visual novels.",
+  "vndb_url": "https://vndb.org/v40910"
+}

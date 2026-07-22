@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110822",
+  "type": "character",
+  "name": "Jack",
+  "original_name": "ジャック",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ann's brother.",
+  "source_sha256": "d4deba2ab6245711a37a008517d544a75013aab253c28ce6b06742aa4ef21857",
+  "translation": "Ann's brother.",
+  "vndb_url": "https://vndb.org/c110822"
+}

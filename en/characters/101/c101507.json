@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101507",
+  "type": "character",
+  "name": "Sol",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"To be by your side, I'll fight all the evil in this world.\"\n\nSol likes cosplay, sports, and hard candy.\nHe doesn't like bugs, routine, and being alone.",
+  "source_sha256": "c5d8899e063a0952a67a9da453a645bcc87e5fb52db6b484a395b702a2787fdb",
+  "translation": "\"To be by your side, I'll fight all the evil in this world.\"\n\nSol likes cosplay, sports, and hard candy.\nHe doesn't like bugs, routine, and being alone.",
+  "vndb_url": "https://vndb.org/c101507"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152904",
+  "type": "character",
+  "name": "Blackwood",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Reverend at the Church Ilsa and her family regularly attends.",
+  "source_sha256": "a6d49a4a9440eaefcef4ac772089c924955eb1c178812a54735259a843debc82",
+  "translation": "Reverend at the Church Ilsa and her family regularly attends.",
+  "vndb_url": "https://vndb.org/c152904"
+}

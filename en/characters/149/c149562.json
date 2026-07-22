@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c149562",
+  "type": "character",
+  "name": "Dunning Smith",
+  "original_name": "ダニング・スミス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The forty-nine-year-old owner of Hotel Dusk. He’s a stubborn man who dislikes cops, crooks, and trouble in equal measure. He tells [Url=/c19742]Kyle[/url] the story of Room 215.",
+  "source_sha256": "bb49a275729569609d357957c66e6499db9758af5a9c90ab85a33748f21e6642",
+  "translation": "The forty-nine-year-old owner of Hotel Dusk. He’s a stubborn man who dislikes cops, crooks, and trouble in equal measure. He tells [Url=/c19742]Kyle[/url] the story of Room 215.",
+  "vndb_url": "https://vndb.org/c149562"
+}

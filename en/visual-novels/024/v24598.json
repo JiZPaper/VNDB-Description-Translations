@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24598",
+  "type": "visual_novel",
+  "name": "Rinjin wa Ningen Desu Ka?",
+  "original_name": "隣人は人間ですか？",
+  "language": "en",
+  "source_language": "en",
+  "source": "A vampire tries to resist the urge to drink the blood of trick-or-treaters.",
+  "source_sha256": "0330bbc29100862ea7b9c88c68abd08c631430a921d92509165e91a3c49b4491",
+  "translation": "A vampire tries to resist the urge to drink the blood of trick-or-treaters.",
+  "vndb_url": "https://vndb.org/v24598"
+}

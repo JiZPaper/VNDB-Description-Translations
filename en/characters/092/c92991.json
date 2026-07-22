@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92991",
+  "type": "character",
+  "name": "Shin'ya",
+  "original_name": "シンヤ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Everything in the world should be equal\"",
+  "source_sha256": "d5b9740ec746197460e8bb5e525a8a78b5313f0c81e46fc5dfa271f7fc74f5e2",
+  "translation": "\"Everything in the world should be equal\"",
+  "vndb_url": "https://vndb.org/c92991"
+}

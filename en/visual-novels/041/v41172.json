@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41172",
+  "type": "visual_novel",
+  "name": "No More Money",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "After your landlord loses his company, you and your household are forced move to another city and start from scratch. You’re 20 years old so it’s only fair that you find a job and try to help in any way you can.",
+  "source_sha256": "d09c2c09b12a3154866a6e302c38b068c1704b8a3e043cbe18448f3a71f00d9d",
+  "translation": "After your landlord loses his company, you and your household are forced move to another city and start from scratch. You’re 20 years old so it’s only fair that you find a job and try to help in any way you can.",
+  "vndb_url": "https://vndb.org/v41172"
+}

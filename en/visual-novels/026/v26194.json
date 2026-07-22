@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26194",
+  "type": "visual_novel",
+  "name": "Tristia Dokidoki Operation",
+  "original_name": "トリスティア　どきどきおぺれーしょん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Contain story and mini games.",
+  "source_sha256": "0b8d60bb6675522a6329ee3d951e73849c84c3ef6ffa277909f52bee234373f1",
+  "translation": "Contain story and mini games.",
+  "vndb_url": "https://vndb.org/v26194"
+}

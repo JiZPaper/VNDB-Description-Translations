@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34500",
+  "type": "visual_novel",
+  "name": "Kyouizon Messiah",
+  "original_name": "共依存メサイア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Listen to the stories of ill people who are about to die.\n\n[Taken from [url=https://www.freem.ne.jp/win/game/22323]Freem![/url]]",
+  "source_sha256": "bbbdeb7fbc9a7afec41c10b14fdbe9121570fd5af26e0a755a3226c9dbaf94ec",
+  "translation": "Listen to the stories of ill people who are about to die.\n\n[Taken from [url=https://www.freem.ne.jp/win/game/22323]Freem![/url]]",
+  "vndb_url": "https://vndb.org/v34500"
+}

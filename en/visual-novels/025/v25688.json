@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25688",
+  "type": "visual_novel",
+  "name": "Yu de Lian Ji",
+  "original_name": "雨的恋记",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a short story, you meet a girl, and experience many things together.\nYour choice will determine the final ending of this story.",
+  "source_sha256": "dde9aaf95aef4207d33c398ec3384b4775a34b7f229fa5434f9d0c8984ea6700",
+  "translation": "This is a short story, you meet a girl, and experience many things together.\nYour choice will determine the final ending of this story.",
+  "vndb_url": "https://vndb.org/v25688"
+}

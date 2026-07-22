@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50590",
+  "type": "visual_novel",
+  "name": "Sacabambaspis' Friendly Adventure",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short adventure where you play as a Sacabambaspis who wants to hold a housewarming party in their new neighborhood.",
+  "source_sha256": "c2f6bd2e6eab03ff57ac66fa6736a4ce6c933c4a3fa5e1eca98203260d12d854",
+  "translation": "A short adventure where you play as a Sacabambaspis who wants to hold a housewarming party in their new neighborhood.",
+  "vndb_url": "https://vndb.org/v50590"
+}

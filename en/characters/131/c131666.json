@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131666",
+  "type": "character",
+  "name": "Professor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Hates when people are late",
+  "source_sha256": "ae3dc7b504c408ff4f73ebb3f7d706bc1d0f58c9edda16db742bbf39ed1bea0d",
+  "translation": "Hates when people are late",
+  "vndb_url": "https://vndb.org/c131666"
+}

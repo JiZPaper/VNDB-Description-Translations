@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99802",
+  "type": "character",
+  "name": "Killersoul",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Killersoul is a hulking criminal with a cringey nickname.",
+  "source_sha256": "8170eb2dd45526dd866b1099a0c6d0a76ca586662260c0afc846bbf96387f1e3",
+  "translation": "Killersoul is a hulking criminal with a cringey nickname.",
+  "vndb_url": "https://vndb.org/c99802"
+}

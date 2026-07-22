@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150100",
+  "type": "character",
+  "name": "Lind",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The clerk at the convenience store.",
+  "source_sha256": "d94f87b6b1b946a3e276e6299bceebc1fd56359df029dcf5822915f5122fd68e",
+  "translation": "The clerk at the convenience store.",
+  "vndb_url": "https://vndb.org/c150100"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c549",
+  "type": "character",
+  "name": "Sistina Uyl",
+  "original_name": "システィナ・アイル",
+  "language": "en",
+  "source_language": "en",
+  "source": "The aide-de-camp of [url=/c541]Lucius[/url], quiet and reserved, always by his side and looking out for him.",
+  "source_sha256": "c1d59e81966a9b1cba04cc6a38d79acc3a5ff8eb80465eb678ccfa9194b1861d",
+  "translation": "The aide-de-camp of [url=/c541]Lucius[/url], quiet and reserved, always by his side and looking out for him.",
+  "vndb_url": "https://vndb.org/c549"
+}

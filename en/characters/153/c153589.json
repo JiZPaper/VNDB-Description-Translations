@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153589",
+  "type": "character",
+  "name": "Babushka",
+  "original_name": "Бабушка",
+  "language": "en",
+  "source_language": "en",
+  "source": "An elderly woman with a low-key appearance. She is dressed simply and wears a headscarf on her head. She has clouding of the pupils, which may indicate that the woman has cataracts. Grandma also has a small number of blond hairs growing on her chin.",
+  "source_sha256": "7a44549492990d32c5211135ae04e97c7da65f3c3bbb27684ffe8e71a15d9ca8",
+  "translation": "An elderly woman with a low-key appearance. She is dressed simply and wears a headscarf on her head. She has clouding of the pupils, which may indicate that the woman has cataracts. Grandma also has a small number of blond hairs growing on her chin.",
+  "vndb_url": "https://vndb.org/c153589"
+}

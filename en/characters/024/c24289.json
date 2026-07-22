@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c24289",
+  "type": "character",
+  "name": "Akechi Nami",
+  "original_name": "明智 ナミ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Sakura-dai Gakuen Teacher\nHobbies: Drinking\nSkills: Strong Towards Alcohol\nWeakness: High Places",
+  "source_sha256": "a537aac61c68862672e0a95de9143d6ed0fa4e302f19ec87e28d7a9971b6aaaf",
+  "translation": "Occupation: Sakura-dai Gakuen Teacher\nHobbies: Drinking\nSkills: Strong Towards Alcohol\nWeakness: High Places",
+  "vndb_url": "https://vndb.org/c24289"
+}

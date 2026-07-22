@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c56058",
+  "type": "character",
+  "name": "Helena von Balthazar",
+  "original_name": "ヘレナ・フォン・バルタザール",
+  "language": "en",
+  "source_language": "en",
+  "source": "Austrian",
+  "source_sha256": "605cfcbbda020df5ddb99ffa3f1d7b0d4fcc4c706c40aa3c0f3341ad2345dbc2",
+  "translation": "Austrian",
+  "vndb_url": "https://vndb.org/c56058"
+}

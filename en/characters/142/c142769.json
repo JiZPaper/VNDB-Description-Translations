@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c142769",
+  "type": "character",
+  "name": "Marcos",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A local florist.",
+  "source_sha256": "044aba5ef82f64944d7ac4f04e831c7892c4380d33c6e39518c016cdab65a38f",
+  "translation": "A local florist.",
+  "vndb_url": "https://vndb.org/c142769"
+}

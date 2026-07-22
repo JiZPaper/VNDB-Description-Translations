@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21905",
+  "type": "character",
+  "name": "Watcher Wrents",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Police officer.",
+  "source_sha256": "0a1c8739ff961ef4aeb8e7ca99350624799ea79f19bffaa718d2c6f3873342fc",
+  "translation": "Police officer.",
+  "vndb_url": "https://vndb.org/c21905"
+}

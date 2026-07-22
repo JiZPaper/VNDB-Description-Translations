@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37432",
+  "type": "character",
+  "name": "Cadash",
+  "original_name": "カダッシュ",
+  "language": "en",
+  "source_language": "en",
+  "source": "King of the Desert City Midvan.",
+  "source_sha256": "da2af927735feeed723e7cbc618397bd57028a2259b6cdd5fcd4351e213a96bb",
+  "translation": "King of the Desert City Midvan.",
+  "vndb_url": "https://vndb.org/c37432"
+}

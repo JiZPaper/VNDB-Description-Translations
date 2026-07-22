@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40422",
+  "type": "visual_novel",
+  "name": "Vampire: Outcasts",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Parody of Vampire: The Masquerade.",
+  "source_sha256": "e7450599173630b5cc9b70836d39f6f4fb5297d8778ea36adfbebe436a115b96",
+  "translation": "Parody of Vampire: The Masquerade.",
+  "vndb_url": "https://vndb.org/v40422"
+}

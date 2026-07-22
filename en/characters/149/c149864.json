@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c149864",
+  "type": "character",
+  "name": "Imhotep",
+  "original_name": "イムホテプ",
+  "language": "en",
+  "source_language": "en",
+  "source": "She watches over the sealed beast Osiris.\n\n\"I'm in front, and Khamun-tan is behind! That way I'll be invincible!!!\"",
+  "source_sha256": "081a516a8592833b2fd6304824395291af5d5b48604674138391052e1583dc74",
+  "translation": "She watches over the sealed beast Osiris.\n\n\"I'm in front, and Khamun-tan is behind! That way I'll be invincible!!!\"",
+  "vndb_url": "https://vndb.org/c149864"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159544",
+  "type": "character",
+  "name": "Harry",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist.\nSon of Sandra and brother of Maya. Has a crush on Laura.",
+  "source_sha256": "99f516e88e94b9b1a7e8c8c7613e34487ac11ae5298e1aa6305616ed1e6f62d0",
+  "translation": "The protagonist.\nSon of Sandra and brother of Maya. Has a crush on Laura.",
+  "vndb_url": "https://vndb.org/c159544"
+}

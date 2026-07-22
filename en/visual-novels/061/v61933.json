@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61933",
+  "type": "visual_novel",
+  "name": "Tsubekobe Iwazu ni Chef o Yobe",
+  "original_name": "つべこべ言わずにシェフを呼べ！",
+  "language": "en",
+  "source_language": "en",
+  "source": "ADV in which a butler in a mansion tries to avoid the master's order to \"call the chef\".\n[from NovelGame description]",
+  "source_sha256": "213f2415f63da648222ea4e4ab3eb26d5e66182c82f422bf0509b5dc600b51fc",
+  "translation": "ADV in which a butler in a mansion tries to avoid the master's order to \"call the chef\".\n[from NovelGame description]",
+  "vndb_url": "https://vndb.org/v61933"
+}

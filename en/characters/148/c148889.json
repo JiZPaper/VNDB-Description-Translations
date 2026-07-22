@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148889",
+  "type": "character",
+  "name": "Sata",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A large robot that builds ships.",
+  "source_sha256": "18187010024a476a97d8e17f4f902231b0900801352545a5c7fe50fa0cb94aff",
+  "translation": "A large robot that builds ships.",
+  "vndb_url": "https://vndb.org/c148889"
+}

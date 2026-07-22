@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89852",
+  "type": "character",
+  "name": "Tokita",
+  "original_name": "鴇田",
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of Cafe Hot Chocolat.",
+  "source_sha256": "7c56b1369fa483d20a30d650013e564943804d3db7476477ae584996b0d7bf91",
+  "translation": "The owner of Cafe Hot Chocolat.",
+  "vndb_url": "https://vndb.org/c89852"
+}

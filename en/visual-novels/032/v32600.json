@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32600",
+  "type": "visual_novel",
+  "name": "Love My Pegasus",
+  "original_name": "ラブ・マイ・ペガサス",
+  "language": "en",
+  "source_language": "en",
+  "source": "In a night full of shooting stars, a prince descends from heaven, claiming you'll be the savior of his country!?\n\nA collaboration with Fuji TV's dorama \"Oshi no Ouji-sama\".",
+  "source_sha256": "ee32e6486068ec92eb8c893f72e9cb3c3b746e4146c7af525f2eda1502e2768c",
+  "translation": "In a night full of shooting stars, a prince descends from heaven, claiming you'll be the savior of his country!?\n\nA collaboration with Fuji TV's dorama \"Oshi no Ouji-sama\".",
+  "vndb_url": "https://vndb.org/v32600"
+}

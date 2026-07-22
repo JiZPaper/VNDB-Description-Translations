@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64454",
+  "type": "visual_novel",
+  "name": "Bjorn Works",
+  "original_name": "ビヨルンワークス",
+  "language": "en",
+  "source_language": "en",
+  "source": "An anthology of unreleased demos & artwork by Bjorn.",
+  "source_sha256": "6a6df02eca3e4e41e23563736632413f52f3926888a936475a1744e7820a9d1a",
+  "translation": "An anthology of unreleased demos & artwork by Bjorn.",
+  "vndb_url": "https://vndb.org/v64454"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11867",
+  "type": "visual_novel",
+  "name": "Brave Knight ~Leverant Eiyuuden~",
+  "original_name": "ブレイブナイト ～リーヴェラント英雄伝～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Medieval romance interaction game featuring 14 lovely maidens available for the wooing. \n\n[from NCSX]",
+  "source_sha256": "1a2de8d45692919bf2a0db036149b71c4d812ccebf975ad6cd616bfa40c56a44",
+  "translation": "Medieval romance interaction game featuring 14 lovely maidens available for the wooing. \n\n[from NCSX]",
+  "vndb_url": "https://vndb.org/v11867"
+}

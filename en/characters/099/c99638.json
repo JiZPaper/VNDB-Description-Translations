@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99638",
+  "type": "character",
+  "name": "Ogbar",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A goblin rescued by Queen Priscilla.",
+  "source_sha256": "05e9c6085d9772178f0f492286721c24fb7dbadcf78b85b1ab4c268fb261e558",
+  "translation": "A goblin rescued by Queen Priscilla.",
+  "vndb_url": "https://vndb.org/c99638"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12892",
+  "type": "visual_novel",
+  "name": "Mesto prigodnoe dlja zhizni",
+  "original_name": "Место пригодное для жизни",
+  "language": "en",
+  "source_language": "en",
+  "source": "A little story about the traveler and her cat.",
+  "source_sha256": "653e4ed5851923d74378b98ab812c81eec8ee70a5e63ef53a12cdd8bcffebc18",
+  "translation": "A little story about the traveler and her cat.",
+  "vndb_url": "https://vndb.org/v12892"
+}

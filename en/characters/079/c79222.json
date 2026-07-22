@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79222",
+  "type": "character",
+  "name": "Toyama",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A debt collector.",
+  "source_sha256": "e22d6f1dcc84368aa0a950b50ff1165d3128c98a3213025e3941cc4f2cd36c09",
+  "translation": "A debt collector.",
+  "vndb_url": "https://vndb.org/c79222"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25784",
+  "type": "character",
+  "name": "Kougai Koufuku",
+  "original_name": "黄蓋 公覆",
+  "language": "en",
+  "source_language": "en",
+  "source": "An experienced general serving the Go family.",
+  "source_sha256": "4e097ebda0bc5e5e91ff8e17835e82447d3dd7852794f51c8ab28f4cd0edfdcb",
+  "translation": "An experienced general serving the Go family.",
+  "vndb_url": "https://vndb.org/c25784"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62799",
+  "type": "visual_novel",
+  "name": "Uchuu no Kujira",
+  "original_name": "うちゅうのくじら",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Galaxy Express's destination is _______\n\nYou've found yourself lost on the Galaxy Express traveling through space.\nAll you have in your hand is a \"ticket with no destination.\"\n\nA Galaxy Express novel game where you engage in conversations with passengers on board and begin to understand where the train is headed.",
+  "source_sha256": "adc4d9ab008f13e6e56ec9112cb072e3efa90235fa3cf2cc46073b4c2bcd9493",
+  "translation": "The Galaxy Express's destination is _______\n\nYou've found yourself lost on the Galaxy Express traveling through space.\nAll you have in your hand is a \"ticket with no destination.\"\n\nA Galaxy Express novel game where you engage in conversations with passengers on board and begin to understand where the train is headed.",
+  "vndb_url": "https://vndb.org/v62799"
+}

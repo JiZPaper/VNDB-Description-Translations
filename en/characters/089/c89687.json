@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89687",
+  "type": "character",
+  "name": "Elodie Maupassant",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A rising french actress.",
+  "source_sha256": "d55cba2942ffbedcce43b152ec8485b189e7e3838e722201aa1c5168e9dffa9f",
+  "translation": "A rising french actress.",
+  "vndb_url": "https://vndb.org/c89687"
+}

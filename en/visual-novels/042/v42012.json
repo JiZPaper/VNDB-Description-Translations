@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42012",
+  "type": "visual_novel",
+  "name": "ATAM",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "ATAM is a FRENCH visual novel created during a school project.\n\n[From [url=https://steffygdz.itch.io/atam]Itch.io[/url]]",
+  "source_sha256": "c90d01693002954c0b9c8ccea6a75a595e465747577b48ca84de1feabaf9d648",
+  "translation": "ATAM is a FRENCH visual novel created during a school project.\n\n[From [url=https://steffygdz.itch.io/atam]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v42012"
+}

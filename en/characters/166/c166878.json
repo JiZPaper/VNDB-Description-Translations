@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166878",
+  "type": "character",
+  "name": "Chelovek v maske",
+  "original_name": "Человек в маске",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious man wearing a mask. According to him, he has an interest in [url=/c166841]Rhiannon[/url], but keeps his true intentions hidden.\n\n[In-Game Description]",
+  "source_sha256": "3f470b7b8fa4384c49f18595280f8674ac96e10b9d52a03f2737cc9f10136b1e",
+  "translation": "A mysterious man wearing a mask. According to him, he has an interest in [url=/c166841]Rhiannon[/url], but keeps his true intentions hidden.\n\n[In-Game Description]",
+  "vndb_url": "https://vndb.org/c166878"
+}

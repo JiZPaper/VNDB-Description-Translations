@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87085",
+  "type": "character",
+  "name": "Pine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jonah’s pet hamster.",
+  "source_sha256": "64925619448e3a5e626cecced51e356ea1c63fb335178a1aa55f71c4aab28a1c",
+  "translation": "Jonah’s pet hamster.",
+  "vndb_url": "https://vndb.org/c87085"
+}

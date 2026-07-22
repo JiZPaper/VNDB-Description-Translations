@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63895",
+  "type": "visual_novel",
+  "name": "Urban Lore: Doppelganger Street",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Who is the real one? Ask questions, read reactions, and expose the doppelganger.",
+  "source_sha256": "6d4c0504df75718f80db1b14b7e6f9fe5abf18103a0b49aabd0ce82b65bca0db",
+  "translation": "Who is the real one? Ask questions, read reactions, and expose the doppelganger.",
+  "vndb_url": "https://vndb.org/v63895"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94535",
+  "type": "character",
+  "name": "Alison",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A freshman whose room is next door to Leia's.",
+  "source_sha256": "99debc69f05c201db874ce66c95aface2a120bfa2336976507623d66bbb9a572",
+  "translation": "A freshman whose room is next door to Leia's.",
+  "vndb_url": "https://vndb.org/c94535"
+}

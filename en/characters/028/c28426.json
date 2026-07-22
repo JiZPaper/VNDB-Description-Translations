@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28426",
+  "type": "character",
+  "name": "Undertaker",
+  "original_name": "葬儀屋",
+  "language": "en",
+  "source_language": "en",
+  "source": "A funeral director.",
+  "source_sha256": "dd02761386602f2a671bdd809693b542ad2d9dfda3a8109b350ab73fe849a688",
+  "translation": "A funeral director.",
+  "vndb_url": "https://vndb.org/c28426"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39831",
+  "type": "character",
+  "name": "Solo Mon",
+  "original_name": "ソロ・モーン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Age unknown, has all elemental attributes.\nA youth from ancient times that Lulu meets in the past.",
+  "source_sha256": "0389a3ef15e84fd9a531215979c0490804fa6c328458e57a602a14e4e03e48e9",
+  "translation": "Age unknown, has all elemental attributes.\nA youth from ancient times that Lulu meets in the past.",
+  "vndb_url": "https://vndb.org/c39831"
+}

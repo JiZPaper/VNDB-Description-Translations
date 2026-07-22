@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11595",
+  "type": "character",
+  "name": "Nana",
+  "original_name": "ナナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A witch living in a mansion full of magic.",
+  "source_sha256": "d8a55ca83bb2728e75575952d91286b7bfd2bd16168ceeee365de90b7c93375e",
+  "translation": "A witch living in a mansion full of magic.",
+  "vndb_url": "https://vndb.org/c11595"
+}

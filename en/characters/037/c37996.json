@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37996",
+  "type": "character",
+  "name": "Kinshiro",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Magistrate, vigilante",
+  "source_sha256": "550d71aa6947d551d720dbd46632dcb20bc5621b06260405b1d207f53ac4ffcd",
+  "translation": "Magistrate, vigilante",
+  "vndb_url": "https://vndb.org/c37996"
+}

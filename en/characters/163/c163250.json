@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163250",
+  "type": "character",
+  "name": "Bartender",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The bartender is a kind and thoughtful man. He listens to Tokio's problems, and often gives sage advice, whether Tokio accepts it or not. \n\n[Description from the [url=https://killthepastwiki.com/Bartender]Wiki[/url]]",
+  "source_sha256": "229a90d88344e8ab7c7cd4d23f41f9f383274b4e227616742c87428feac426c0",
+  "translation": "The bartender is a kind and thoughtful man. He listens to Tokio's problems, and often gives sage advice, whether Tokio accepts it or not. \n\n[Description from the [url=https://killthepastwiki.com/Bartender]Wiki[/url]]",
+  "vndb_url": "https://vndb.org/c163250"
+}

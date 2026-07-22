@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96809",
+  "type": "character",
+  "name": "Barack Obama",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "44th President of the United States.",
+  "source_sha256": "c4b9536c471f33155ad7122a5b81975fb5884721eadca32fe82a63f674daf6f4",
+  "translation": "44th President of the United States.",
+  "vndb_url": "https://vndb.org/c96809"
+}

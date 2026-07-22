@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84244",
+  "type": "character",
+  "name": "Irisu",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl who dressed in a cute rabbit themed outfit.",
+  "source_sha256": "09618d198c114ef8a4e66173b12ed236e83de991a22ac45ffce917b1d49a82f4",
+  "translation": "A girl who dressed in a cute rabbit themed outfit.",
+  "vndb_url": "https://vndb.org/c84244"
+}

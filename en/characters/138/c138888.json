@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c138888",
+  "type": "character",
+  "name": "Darfee",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of Ina Cafe.",
+  "source_sha256": "c8edb588d5775445138bad7cd91e64e82a02f0d479d6140fb7c168782e12f122",
+  "translation": "The owner of Ina Cafe.",
+  "vndb_url": "https://vndb.org/c138888"
+}

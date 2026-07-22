@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c16729",
+  "type": "character",
+  "name": "Owen Gaillard",
+  "original_name": "オーウェン・ガイヤール",
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of the house [url=/c12414]Tooru[/url] is living in and [url=/c12413]Masaki's[/url] father. Also the bar's owner.",
+  "source_sha256": "431e815b4dde1fac3d405388b2a78e952dde58a5d4256d021f8740d3a4fca1e0",
+  "translation": "The owner of the house [url=/c12414]Tooru[/url] is living in and [url=/c12413]Masaki's[/url] father. Also the bar's owner.",
+  "vndb_url": "https://vndb.org/c16729"
+}

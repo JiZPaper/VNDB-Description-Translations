@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160350",
+  "type": "character",
+  "name": "William",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jamie and Kim's friend",
+  "source_sha256": "89620a166c3e8d06a84b99879a0e4ba94a9132acde361dd130a8802c61dc6077",
+  "translation": "Jamie and Kim's friend",
+  "vndb_url": "https://vndb.org/c160350"
+}

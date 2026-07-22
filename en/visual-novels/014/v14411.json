@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14411",
+  "type": "visual_novel",
+  "name": "Luke★Labyrinth ~Seinaru Honoo to Yuukyuu no Ori~",
+  "original_name": "ルーク★ラビリンス～聖なる焔と誘宮の檻～",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Tales of the Abyss\" fan game.",
+  "source_sha256": "d5460415b9ba66f8c6168498d557d298877a06ae536c43441f31b38d322ecef0",
+  "translation": "\"Tales of the Abyss\" fan game.",
+  "vndb_url": "https://vndb.org/v14411"
+}

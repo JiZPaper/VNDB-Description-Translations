@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172359",
+  "type": "character",
+  "name": "Barman",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Club's bartender",
+  "source_sha256": "d0a8f6f79e325b18953d9cb2fce031b63c51b81f7a98ba4dfd00082999e6fb7d",
+  "translation": "Club's bartender",
+  "vndb_url": "https://vndb.org/c172359"
+}

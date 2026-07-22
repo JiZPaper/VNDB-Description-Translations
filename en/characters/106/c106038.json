@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106038",
+  "type": "character",
+  "name": "Eden Romantica",
+  "original_name": "エデン・ロマンチカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I don't want fights or revenge. I'm a peaceful wizard.\"",
+  "source_sha256": "49ecfcf8f0780984f74874600d38d20277da7c6ae49bda3b1bf925669a068838",
+  "translation": "\"I don't want fights or revenge. I'm a peaceful wizard.\"",
+  "vndb_url": "https://vndb.org/c106038"
+}

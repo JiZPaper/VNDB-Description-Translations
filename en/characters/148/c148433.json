@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148433",
+  "type": "character",
+  "name": "Marco",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Marco is Rufus' older brother. He is studying to be a healer.",
+  "source_sha256": "011651dfad2963ae5fd0a098d18765b531d82870440732f17ab3f8ca0df9e63b",
+  "translation": "Marco is Rufus' older brother. He is studying to be a healer.",
+  "vndb_url": "https://vndb.org/c148433"
+}

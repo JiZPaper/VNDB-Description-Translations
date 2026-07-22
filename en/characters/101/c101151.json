@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101151",
+  "type": "character",
+  "name": "Yuna",
+  "original_name": "夢奈",
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist and Yuka's daughter",
+  "source_sha256": "040c7d47a881fde672a2902d0bbc5e1d153b8a8bf6a7470c2a24d4f8e3d10d98",
+  "translation": "Protagonist and Yuka's daughter",
+  "vndb_url": "https://vndb.org/c101151"
+}

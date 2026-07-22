@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123809",
+  "type": "character",
+  "name": "Sammy",
+  "original_name": "サミー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of the downtown bar \"Hard Luck\".",
+  "source_sha256": "0bd3eb3a4b20f46e4c2542564327e515185ab148de0a3205ca4e83bed38bb921",
+  "translation": "Owner of the downtown bar \"Hard Luck\".",
+  "vndb_url": "https://vndb.org/c123809"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20312",
+  "type": "visual_novel",
+  "name": "Tokimeki KuroBasu –Murasakibara Side–",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Murasakibara doujin ADV game in the same vein as the KuroBasu+Kareshi series of books.",
+  "source_sha256": "c5d2b2a143053485d1976767fcb75d351fb3aaf43c96c3fb19ac183269baca28",
+  "translation": "A Murasakibara doujin ADV game in the same vein as the KuroBasu+Kareshi series of books.",
+  "vndb_url": "https://vndb.org/v20312"
+}

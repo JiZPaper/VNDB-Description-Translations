@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c54754",
+  "type": "character",
+  "name": "Kiriyama Megumi",
+  "original_name": "桐山 恵",
+  "language": "en",
+  "source_language": "en",
+  "source": "scenario 2",
+  "source_sha256": "d3dd0972bfaab66aa595cf9d7db8a9d8cb5aa6db4036e746d98961a9663113ff",
+  "translation": "scenario 2",
+  "vndb_url": "https://vndb.org/c54754"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135014",
+  "type": "character",
+  "name": "Oscar Wilde",
+  "original_name": "オスカー・ワイルド",
+  "language": "en",
+  "source_language": "en",
+  "source": "A main character in the 2nd main quest's episode 11 \"Fortem Story Zone\".\n\nThe principal of the Fortem Academy.",
+  "source_sha256": "14e13efa5ebb1809ad478b33021f5469fc9ff892235fd411837bed47ac58f227",
+  "translation": "A main character in the 2nd main quest's episode 11 \"Fortem Story Zone\".\n\nThe principal of the Fortem Academy.",
+  "vndb_url": "https://vndb.org/c135014"
+}

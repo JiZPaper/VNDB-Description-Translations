@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170014",
+  "type": "character",
+  "name": "Aaron",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A college classmate of [url=/c169867]Kate[/url].",
+  "source_sha256": "a3280f19e693965e7c0bdaec0e943a53ee67294a8c4ad24b1e48e2e170fac75c",
+  "translation": "A college classmate of [url=/c169867]Kate[/url].",
+  "vndb_url": "https://vndb.org/c170014"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141615",
+  "type": "character",
+  "name": "Bob",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist's father",
+  "source_sha256": "5dab11eedbb4daa0c2dc2074e9cbac09a7ca057f19be294d281c8cea190c48cc",
+  "translation": "Protagonist's father",
+  "vndb_url": "https://vndb.org/c141615"
+}

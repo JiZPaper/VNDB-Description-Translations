@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140696",
+  "type": "character",
+  "name": "Ilmari",
+  "original_name": "イルマリ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of the story",
+  "source_sha256": "052af8cde26b4848937b9994b158b3c1675bb97fef18c264e372cb95c207ef09",
+  "translation": "The protagonist of the story",
+  "vndb_url": "https://vndb.org/c140696"
+}

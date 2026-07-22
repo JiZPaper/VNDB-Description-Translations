@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c58434",
+  "type": "character",
+  "name": "Class President",
+  "original_name": "委員長",
+  "language": "en",
+  "source_language": "en",
+  "source": "The 6th year, class 2 president.\nHe's friendly with Eiko.",
+  "source_sha256": "e0060c67f872991583ccb839144b22f89a22172427b9d3ec8c46354a23b9be54",
+  "translation": "The 6th year, class 2 president.\nHe's friendly with Eiko.",
+  "vndb_url": "https://vndb.org/c58434"
+}

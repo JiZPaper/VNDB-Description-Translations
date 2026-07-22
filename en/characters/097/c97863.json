@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97863",
+  "type": "character",
+  "name": "Crispin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A student at the school. He is the first person Nicole talks to.",
+  "source_sha256": "a9075102283739cb53454cbe5d4319d6ae0257d89a62056f784abdeade20ce3f",
+  "translation": "A student at the school. He is the first person Nicole talks to.",
+  "vndb_url": "https://vndb.org/c97863"
+}

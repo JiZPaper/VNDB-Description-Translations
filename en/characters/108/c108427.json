@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c108427",
+  "type": "character",
+  "name": "Receptionist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Receptionist at the Capital branch of the Hulton Hotel.",
+  "source_sha256": "101d98cf80d2163e0200a0d5da68744ac10538cb0648caf66190277001907b31",
+  "translation": "Receptionist at the Capital branch of the Hulton Hotel.",
+  "vndb_url": "https://vndb.org/c108427"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27132",
+  "type": "visual_novel",
+  "name": "Reminiscence Overwrite",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You wake up in an alien research facility as their latest test subject. Learn more about their species to discover what they’re researching and how to escape.",
+  "source_sha256": "76422a462d52f01841f4aae6653b56e1393f8ebc59782dcff451dcf737ae8a5d",
+  "translation": "You wake up in an alien research facility as their latest test subject. Learn more about their species to discover what they’re researching and how to escape.",
+  "vndb_url": "https://vndb.org/v27132"
+}

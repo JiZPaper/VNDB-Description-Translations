@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29269",
+  "type": "visual_novel",
+  "name": "Doki Doki 4chan Club!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a mod for Doki Doki Literature Club! in which, rather than joining a literature club, the protagonist instead joins a club for 4chan.",
+  "source_sha256": "05c9c017f36eb8bf1875a334de0daa4e9cbe7fb3f9967fa102e653a0ce569f09",
+  "translation": "This is a mod for Doki Doki Literature Club! in which, rather than joining a literature club, the protagonist instead joins a club for 4chan.",
+  "vndb_url": "https://vndb.org/v29269"
+}

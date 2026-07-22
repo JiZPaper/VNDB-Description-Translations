@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61450",
+  "type": "character",
+  "name": "Koyuki",
+  "original_name": "小雪",
+  "language": "en",
+  "source_language": "en",
+  "source": "bust can grow to 70/80/90",
+  "source_sha256": "a559edc9a26ad24495945dc756ffbc66eaf02d5a75bdecd512e5baf7b33a7807",
+  "translation": "bust can grow to 70/80/90",
+  "vndb_url": "https://vndb.org/c61450"
+}

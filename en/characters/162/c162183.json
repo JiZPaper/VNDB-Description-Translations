@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162183",
+  "type": "character",
+  "name": "Father",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Father of [url=/c161903]Hiro[/url].",
+  "source_sha256": "046cd4fbe569f4d3778dc19dc65f0ddc7cde9cbd58c72c59c94261891d8f7dd6",
+  "translation": "Father of [url=/c161903]Hiro[/url].",
+  "vndb_url": "https://vndb.org/c162183"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165891",
+  "type": "character",
+  "name": "Emeraude",
+  "original_name": "エムロード",
+  "language": "en",
+  "source_language": "en",
+  "source": "A priest of the Holy Spirit Church.",
+  "source_sha256": "1d208e965db7da981a54b11c872cf5a61decd67d184d7faba054fa175194143a",
+  "translation": "A priest of the Holy Spirit Church.",
+  "vndb_url": "https://vndb.org/c165891"
+}

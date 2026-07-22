@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163738",
+  "type": "character",
+  "name": "Sonya",
+  "original_name": "Соня",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sonya is a journalist reporting on the high-profile court case involving Constantine.",
+  "source_sha256": "8f8fe8f1b0cca36fe251c3ff228409a0e8f50f4768e2c4f4d491fb58c6192c5d",
+  "translation": "Sonya is a journalist reporting on the high-profile court case involving Constantine.",
+  "vndb_url": "https://vndb.org/c163738"
+}

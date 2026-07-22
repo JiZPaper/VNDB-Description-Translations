@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29066",
+  "type": "character",
+  "name": "Gilles Lagrange",
+  "original_name": "ジル・ラグランジュ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Conductor",
+  "source_sha256": "14116bf4372e81a31c32888b3e1fad274ca0e2cf1e13e48f130836b66ef7342f",
+  "translation": "Conductor",
+  "vndb_url": "https://vndb.org/c29066"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30673",
+  "type": "visual_novel",
+  "name": "IMPOSTOR",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You come home from a long day at work to find your partner cooking dinner for you, but something isn't quite right...",
+  "source_sha256": "f03f358592dcc72aeb1e5238912f064d8dd81b446254f9d616363559cceaa4c7",
+  "translation": "You come home from a long day at work to find your partner cooking dinner for you, but something isn't quite right...",
+  "vndb_url": "https://vndb.org/v30673"
+}

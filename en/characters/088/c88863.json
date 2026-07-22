@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88863",
+  "type": "character",
+  "name": "Ai",
+  "original_name": "アイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Job: Policewoman\nBirthplace: Japan\nHobby: Arcade Games, Collecting circuit boards\nImportant Thing: Rare Roms\nLikes: Sashimi (Fatty Salmon), Doujin Fighting Games, Arcades\nHates: Potatoes, Fatness, Release Delays\nSpecial Skill: Bowling",
+  "source_sha256": "c6a1c59fefcad76be07c07a2a20eb71a571dcc61ee0f539fb0cb6909f750446e",
+  "translation": "Job: Policewoman\nBirthplace: Japan\nHobby: Arcade Games, Collecting circuit boards\nImportant Thing: Rare Roms\nLikes: Sashimi (Fatty Salmon), Doujin Fighting Games, Arcades\nHates: Potatoes, Fatness, Release Delays\nSpecial Skill: Bowling",
+  "vndb_url": "https://vndb.org/c88863"
+}

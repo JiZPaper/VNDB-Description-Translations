@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64814",
+  "type": "character",
+  "name": "Elliot",
+  "original_name": "エリオット",
+  "language": "en",
+  "source_language": "en",
+  "source": "A boy knight who ascended to the head of one of the most prestigious families in the land at a young age. Though a child and lacking in health, he is skilled in combat and politics.",
+  "source_sha256": "89b8e81cfbfbb316ce806dce22ed16723bc748d1c85bbb0e8d5097dfc2c42277",
+  "translation": "A boy knight who ascended to the head of one of the most prestigious families in the land at a young age. Though a child and lacking in health, he is skilled in combat and politics.",
+  "vndb_url": "https://vndb.org/c64814"
+}

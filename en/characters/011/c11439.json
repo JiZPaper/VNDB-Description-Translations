@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11439",
+  "type": "character",
+  "name": "Sion",
+  "original_name": "シオン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sect Falcon's general.\n\nAppears only in Ayaka's route.",
+  "source_sha256": "81451b0f56d8c602666bd334996f761ff1a66bb68b82f3f06a8ff415c1a2cc94",
+  "translation": "Sect Falcon's general.\n\nAppears only in Ayaka's route.",
+  "vndb_url": "https://vndb.org/c11439"
+}

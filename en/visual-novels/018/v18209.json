@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18209",
+  "type": "visual_novel",
+  "name": "Eoiku! Wangjanim",
+  "original_name": "어이쿠! 왕자님",
+  "language": "en",
+  "source_language": "en",
+  "source": "Help raise a son and court men around town.",
+  "source_sha256": "058f7cc384dc8cf1a86c7e3d31253c404b92edc86f3aad4e9ced351fb7da1d27",
+  "translation": "Help raise a son and court men around town.",
+  "vndb_url": "https://vndb.org/v18209"
+}

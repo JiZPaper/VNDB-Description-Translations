@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c138303",
+  "type": "character",
+  "name": "Grand Duke of Laberiena",
+  "original_name": "ラブェリエナ大公",
+  "language": "en",
+  "source_language": "en",
+  "source": "Angelica's father.",
+  "source_sha256": "996be7406f31751bf2efed7057f125e936c3f974050721b69ef913ec6cad5d4e",
+  "translation": "Angelica's father.",
+  "vndb_url": "https://vndb.org/c138303"
+}

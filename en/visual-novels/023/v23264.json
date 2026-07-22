@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23264",
+  "type": "visual_novel",
+  "name": "Mondai no Aru Share House",
+  "original_name": "問題のあるシェアハウス",
+  "language": "en",
+  "source_language": "en",
+  "source": "You've gotten yourself a live-in job as a sharehouse manager.\nTurns out this sharehouse's residents have some problems!\nThis might just mark the beginning of your love story under a shared roof...\n\n[Translated from [url=https://sharehouse.favary.co.jp]official website[/url]]",
+  "source_sha256": "93d149d429bbfd8ab296625678f6a24e22d7273d2e5df8d18e27eaea309bf04d",
+  "translation": "You've gotten yourself a live-in job as a sharehouse manager.\nTurns out this sharehouse's residents have some problems!\nThis might just mark the beginning of your love story under a shared roof...\n\n[Translated from [url=https://sharehouse.favary.co.jp]official website[/url]]",
+  "vndb_url": "https://vndb.org/v23264"
+}

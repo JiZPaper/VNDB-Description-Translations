@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19126",
+  "type": "visual_novel",
+  "name": "Qishi Riji",
+  "original_name": "騎士日記",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fan game of the light novel series [url=https://en.wikipedia.org/wiki/The_Legend_of_Sun_Knight]The Legend of Sun Knight[/url].",
+  "source_sha256": "bca271c3e05c980040087c09be9cb6e9214a0e15779ec2e08ddcbd32767fb3a8",
+  "translation": "Fan game of the light novel series [url=https://en.wikipedia.org/wiki/The_Legend_of_Sun_Knight]The Legend of Sun Knight[/url].",
+  "vndb_url": "https://vndb.org/v19126"
+}

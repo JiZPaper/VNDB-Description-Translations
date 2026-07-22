@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c68812",
+  "type": "character",
+  "name": "Thug",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of Enrico's gang.",
+  "source_sha256": "064829d9fa8b222eec4115142d3bfb5920da09ae4e82dfbc63b3e4dbe3570fbe",
+  "translation": "A member of Enrico's gang.",
+  "vndb_url": "https://vndb.org/c68812"
+}

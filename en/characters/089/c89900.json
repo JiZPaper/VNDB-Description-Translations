@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89900",
+  "type": "character",
+  "name": "Gab",
+  "original_name": "ギャブ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Wicked priest of chaos who can summon monsters.",
+  "source_sha256": "cfc11ee9471ba88de99ce25a7d47a121e753dab0a9aaf18cdc27bd26cfb74a85",
+  "translation": "Wicked priest of chaos who can summon monsters.",
+  "vndb_url": "https://vndb.org/c89900"
+}

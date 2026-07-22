@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99371",
+  "type": "character",
+  "name": "Dad",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Luke's father",
+  "source_sha256": "65ae0a0ff08fffa5b3ddc2007e573facf2935d0bbb9b6331975116e13d0d9f8f",
+  "translation": "Luke's father",
+  "vndb_url": "https://vndb.org/c99371"
+}

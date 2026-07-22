@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c13175",
+  "type": "character",
+  "name": "Vlad Dracula",
+  "original_name": "ブラド・ドラクレア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Radou and Little's \"father\". The first generation vampire.",
+  "source_sha256": "ef1f0cf201fb60637cf51a6852428cebe6566eb184c94faad9dcd62eac0b5a04",
+  "translation": "Radou and Little's \"father\". The first generation vampire.",
+  "vndb_url": "https://vndb.org/c13175"
+}

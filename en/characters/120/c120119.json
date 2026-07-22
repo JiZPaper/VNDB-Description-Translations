@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120119",
+  "type": "character",
+  "name": "Hiroto",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Asahi's bully at school.",
+  "source_sha256": "8b3f95b8ddf4b98f10f855b66d4282db2f4f9cabb85b0a30c95e13ae1bb42daa",
+  "translation": "Asahi's bully at school.",
+  "vndb_url": "https://vndb.org/c120119"
+}

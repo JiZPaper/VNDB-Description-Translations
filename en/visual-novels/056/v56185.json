@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56185",
+  "type": "visual_novel",
+  "name": "Wish-maker",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your mother always told you a story about a being called the 'Wish Maker,' and now you are on a quest to find this mystical entity.\n\nAlone in the middle of the forest, will you be able to find it and make your wish come true?",
+  "source_sha256": "0d8bce98a08e44514ccea0de88463660306f13fb222c455eb7b5ff2b383909ed",
+  "translation": "Your mother always told you a story about a being called the 'Wish Maker,' and now you are on a quest to find this mystical entity.\n\nAlone in the middle of the forest, will you be able to find it and make your wish come true?",
+  "vndb_url": "https://vndb.org/v56185"
+}

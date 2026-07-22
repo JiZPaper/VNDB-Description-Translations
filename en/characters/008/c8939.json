@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8939",
+  "type": "character",
+  "name": "Larry",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Larry is the pleasant owner of the music shop.",
+  "source_sha256": "d806aa47e1dae3a66fe794cd614693305a14c2c3f15ba0b9b81e8da51d549160",
+  "translation": "Larry is the pleasant owner of the music shop.",
+  "vndb_url": "https://vndb.org/c8939"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c56000",
+  "type": "character",
+  "name": "Iwaki Maiko",
+  "original_name": "岩城 磨衣子",
+  "language": "en",
+  "source_language": "en",
+  "source": "Formula racer.",
+  "source_sha256": "7edf86affed76cae54e3bd349905ffd9889e9049dad3bbff75b26e72b06cdaa1",
+  "translation": "Formula racer.",
+  "vndb_url": "https://vndb.org/c56000"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c2373",
+  "type": "character",
+  "name": "LEM",
+  "original_name": "レム",
+  "language": "en",
+  "source_language": "en",
+  "source": "An NPC of net RPG Babylon, and also its mascot.",
+  "source_sha256": "c7d91503c17cad989230073be4c15b15d19608be59ff5ca0eec9f208aa31c394",
+  "translation": "An NPC of net RPG Babylon, and also its mascot.",
+  "vndb_url": "https://vndb.org/c2373"
+}

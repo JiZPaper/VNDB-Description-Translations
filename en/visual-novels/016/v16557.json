@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16557",
+  "type": "visual_novel",
+  "name": "Gakuen Handsome: Revolution",
+  "original_name": "学園ハンサム Revolution",
+  "language": "en",
+  "source_language": "en",
+  "source": "An extra Gakuen Handsome story that shuffles the occupation of each character.",
+  "source_sha256": "606e5016ff0134ff7311b2fcc3cd4ff5408a07ab2f61dc302131aaac6750d531",
+  "translation": "An extra Gakuen Handsome story that shuffles the occupation of each character.",
+  "vndb_url": "https://vndb.org/v16557"
+}

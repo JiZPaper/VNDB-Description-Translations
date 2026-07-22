@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95151",
+  "type": "character",
+  "name": "Holly",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Fion's older sister.",
+  "source_sha256": "a07c66b7f8d61425890b19bc4fd51cc38207f86a5935a907bea73a6495d439f3",
+  "translation": "Fion's older sister.",
+  "vndb_url": "https://vndb.org/c95151"
+}

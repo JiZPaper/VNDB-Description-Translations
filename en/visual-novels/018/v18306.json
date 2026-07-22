@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18306",
+  "type": "visual_novel",
+  "name": "Les Contes Magiques: Marie Lévesque",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as Marie Lévesque, a 2nd-year student at the prestigious Institut de Sorcellerie.\nSince the beginning of civilization, this institute was built as one of many other guardian towers, meant to both train and employ defenders.\n\nAt first, Marie found her experience there to be rather easy-going. However, something ominous appears over the horizon. A female student goes missing, and then is found dead... and subsequently, others fall to the same horrifying fate. What exactly is going on here?\n\n[From [url=http://www.spacenote.net/blog/a-demo-release-for-sunofes2015/]Official site[/url]]",
+  "source_sha256": "7beedfb1669c7ab3f142442d2f780ab4357fec2c6d490f7930861de09eb7cc47",
+  "translation": "You play as Marie Lévesque, a 2nd-year student at the prestigious Institut de Sorcellerie.\nSince the beginning of civilization, this institute was built as one of many other guardian towers, meant to both train and employ defenders.\n\nAt first, Marie found her experience there to be rather easy-going. However, something ominous appears over the horizon. A female student goes missing, and then is found dead... and subsequently, others fall to the same horrifying fate. What exactly is going on here?\n\n[From [url=http://www.spacenote.net/blog/a-demo-release-for-sunofes2015/]Official site[/url]]",
+  "vndb_url": "https://vndb.org/v18306"
+}

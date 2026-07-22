@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92025",
+  "type": "character",
+  "name": "The Girl",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She goes to visit her ex who became a shut-in.",
+  "source_sha256": "a7696396fe62f2f05d61f82503a5015365ba1bee45b634b56a72c5ec28f46328",
+  "translation": "She goes to visit her ex who became a shut-in.",
+  "vndb_url": "https://vndb.org/c92025"
+}

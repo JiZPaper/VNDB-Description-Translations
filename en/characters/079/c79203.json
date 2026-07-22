@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79203",
+  "type": "character",
+  "name": "Rich Tears",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "CEO of a small software company in Lunar City. He works with Jim.",
+  "source_sha256": "a433e90ce875a148aad4c94569af89f7b1e208ac0cdd816ded61316d2885600d",
+  "translation": "CEO of a small software company in Lunar City. He works with Jim.",
+  "vndb_url": "https://vndb.org/c79203"
+}

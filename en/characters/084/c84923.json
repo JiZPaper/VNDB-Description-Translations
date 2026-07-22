@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84923",
+  "type": "character",
+  "name": "ExS-TIA Magica",
+  "original_name": "エクスティア・マギカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Azarin appearance after transformed with ExS-Device. Fight using 4 ExS-Bits, remote controlled pods that can shot laser.\nSpecial move: Lightning Punisher.",
+  "source_sha256": "897195e71f02fda6d8824f44fa6a5f8473891df35b0f025739f80817dfd2d8eb",
+  "translation": "Azarin appearance after transformed with ExS-Device. Fight using 4 ExS-Bits, remote controlled pods that can shot laser.\nSpecial move: Lightning Punisher.",
+  "vndb_url": "https://vndb.org/c84923"
+}

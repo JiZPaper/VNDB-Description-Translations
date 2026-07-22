@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29910",
+  "type": "character",
+  "name": "Mezalbo",
+  "original_name": "メザルボ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Undead\n\nAn irregular undead. Leads other undead and wanders around Kvarner. Will not attack the living unless attacked first.",
+  "source_sha256": "eb62726b8f8ae487fced33cd6c7488c205453e476ee42428825fb4cde2fc3829",
+  "translation": "Race: Undead\n\nAn irregular undead. Leads other undead and wanders around Kvarner. Will not attack the living unless attacked first.",
+  "vndb_url": "https://vndb.org/c29910"
+}

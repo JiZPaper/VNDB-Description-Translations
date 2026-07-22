@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57703",
+  "type": "visual_novel",
+  "name": "Red",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short horror game about getting gaslit in the woods.\n\n[From [url=https://amirillustrations.itch.io/red]Itch.io[/url]]",
+  "source_sha256": "242b4cfc9fd659b098ed4db31ac43a4f0f5132e5911dc287216e04df7ab9b337",
+  "translation": "A short horror game about getting gaslit in the woods.\n\n[From [url=https://amirillustrations.itch.io/red]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v57703"
+}

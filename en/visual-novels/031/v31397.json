@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31397",
+  "type": "visual_novel",
+  "name": "Digital Holmes",
+  "original_name": "ディジタル・ホームズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Set in London from 1999 to 2001, the story is about Sherlock Holmes and Watson's descendants solving crimes using computer networks.",
+  "source_sha256": "962019f0d18158fe31bcdfc720fe975bc5155c13007edd383926384c62bee7b6",
+  "translation": "Set in London from 1999 to 2001, the story is about Sherlock Holmes and Watson's descendants solving crimes using computer networks.",
+  "vndb_url": "https://vndb.org/v31397"
+}

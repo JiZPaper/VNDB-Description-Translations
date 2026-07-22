@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163758",
+  "type": "character",
+  "name": "Connor Smith",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of the story.\n\nHe's attending Stocklingburg University as a Law Student.",
+  "source_sha256": "72da7f4bee087102e0b95cefc6c002e34dce2095b5d883d1d5e582618a4bf094",
+  "translation": "The protagonist of the story.\n\nHe's attending Stocklingburg University as a Law Student.",
+  "vndb_url": "https://vndb.org/c163758"
+}

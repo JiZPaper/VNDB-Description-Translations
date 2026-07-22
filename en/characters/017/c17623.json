@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17623",
+  "type": "character",
+  "name": "Rooba",
+  "original_name": "老婆",
+  "language": "en",
+  "source_language": "en",
+  "source": "An old woman who is found dead in the beginning of the game.",
+  "source_sha256": "f0ae81ba85c3dc4ba7c4c055b268b639d0e8ca3fd0496dae22e0c9c77212ccbb",
+  "translation": "An old woman who is found dead in the beginning of the game.",
+  "vndb_url": "https://vndb.org/c17623"
+}

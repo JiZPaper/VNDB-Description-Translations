@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v272",
+  "type": "visual_novel",
+  "name": "D.C. ~Da Capo~ Onsen Hen",
+  "original_name": "D.C.~ダ・カーポ~温泉編",
+  "language": "en",
+  "source_language": "en",
+  "source": "Da Capo Onsen-hen is a fan disc hot-springs sidestory of D.C. ~Da Capo~.",
+  "source_sha256": "cf1e8acaa2873ec16ac161ccccf9095ede6dc6c2373507af57cda0929ffc33c7",
+  "translation": "Da Capo Onsen-hen is a fan disc hot-springs sidestory of D.C. ~Da Capo~.",
+  "vndb_url": "https://vndb.org/v272"
+}

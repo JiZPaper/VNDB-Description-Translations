@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93602",
+  "type": "character",
+  "name": "Angel of Music",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Said to be sent by Christine's father, he gives music lessons to Christine.",
+  "source_sha256": "d3d49317989757c72af77fd952345164cfb45f63b84e606b94d41684eb5ef941",
+  "translation": "Said to be sent by Christine's father, he gives music lessons to Christine.",
+  "vndb_url": "https://vndb.org/c93602"
+}

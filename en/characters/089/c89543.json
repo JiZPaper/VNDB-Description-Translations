@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89543",
+  "type": "character",
+  "name": "Yomi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A newcomer to Kurou's circus troupe.",
+  "source_sha256": "3f7f16c3e097d9f5d46fa3758216b21f1ff7a50ac3900aea6c5399532b9454f2",
+  "translation": "A newcomer to Kurou's circus troupe.",
+  "vndb_url": "https://vndb.org/c89543"
+}

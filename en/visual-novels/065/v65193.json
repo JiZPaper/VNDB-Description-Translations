@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65193",
+  "type": "visual_novel",
+  "name": "Makai Yakyuuken",
+  "original_name": "魔界野球拳",
+  "language": "en",
+  "source_language": "en",
+  "source": "A game where you strip down hero-style characters by playing “Baseball Rock-Paper-Scissors.”",
+  "source_sha256": "0c7d96596a34e94b9c9b39b503c6d1d08b0edaf8ef49387a4da822ae74a627ab",
+  "translation": "A game where you strip down hero-style characters by playing “Baseball Rock-Paper-Scissors.”",
+  "vndb_url": "https://vndb.org/v65193"
+}

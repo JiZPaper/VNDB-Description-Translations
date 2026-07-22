@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11293",
+  "type": "visual_novel",
+  "name": "The adventure of Bacon",
+  "original_name": "La aventura de Tocino",
+  "language": "en",
+  "source_language": "en",
+  "source": "The cheerful adventures of a little piggy that loves to explore and his first experience in the world outside the farm.\n\nA children book with simple drawings and easy lecture that all ages will enjoy.",
+  "source_sha256": "ebeb5fab60a233359c7285e4748e1b3214c096efa2aaafe765d2d58f8b39c8f0",
+  "translation": "The cheerful adventures of a little piggy that loves to explore and his first experience in the world outside the farm.\n\nA children book with simple drawings and easy lecture that all ages will enjoy.",
+  "vndb_url": "https://vndb.org/v11293"
+}

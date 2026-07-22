@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96800",
+  "type": "character",
+  "name": "Nematsu Hi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The scientific historian on the ship. She charts out new space and conducts various experiments. Nema will take any new information with an ounce of value, and gets it back to our station.",
+  "source_sha256": "5a6a97c573cd133721cc55330f0fde355ef4ec260fe423f70db18241aee8821a",
+  "translation": "The scientific historian on the ship. She charts out new space and conducts various experiments. Nema will take any new information with an ounce of value, and gets it back to our station.",
+  "vndb_url": "https://vndb.org/c96800"
+}

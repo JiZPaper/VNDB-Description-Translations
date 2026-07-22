@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52124",
+  "type": "visual_novel",
+  "name": "Sweeter Echoes, Crackling Embers",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Is love truthfully eternal?",
+  "source_sha256": "6929d53ed50f5734460b0054f302f4bc154e36e629242fe193e0bb3ad7b6043f",
+  "translation": "Is love truthfully eternal?",
+  "vndb_url": "https://vndb.org/v52124"
+}

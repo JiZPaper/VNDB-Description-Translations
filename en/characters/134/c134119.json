@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134119",
+  "type": "character",
+  "name": "Nina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Simulation role: Agent - Thief\nOccupation: Thief",
+  "source_sha256": "8ed18cbe101748db6478af66a512f39883b9acd62f56481b3e1dec1c48b84475",
+  "translation": "Simulation role: Agent - Thief\nOccupation: Thief",
+  "vndb_url": "https://vndb.org/c134119"
+}

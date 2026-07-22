@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44521",
+  "type": "character",
+  "name": "Hikaru",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An average high school student.",
+  "source_sha256": "aaad71fc63117174a1990fdb4ade1ed2b91a5570f50daf2b03680cb918bf064e",
+  "translation": "An average high school student.",
+  "vndb_url": "https://vndb.org/c44521"
+}

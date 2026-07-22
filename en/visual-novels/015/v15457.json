@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15457",
+  "type": "visual_novel",
+  "name": "Triangle Blue Additional Short Stories",
+  "original_name": "とらいあんぐるBLUE 追加短編ストーリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A collection of three additional short stories involving characters from the parent story.",
+  "source_sha256": "5be9260781650f58ddfa85867bda971ed3621265a12a8449ca8f52c7f96f9d9e",
+  "translation": "A collection of three additional short stories involving characters from the parent story.",
+  "vndb_url": "https://vndb.org/v15457"
+}

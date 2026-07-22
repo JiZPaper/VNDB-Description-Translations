@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c67874",
+  "type": "character",
+  "name": "Bellini Rigatoni",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A chef at the union food court.",
+  "source_sha256": "e745b0e53659441ae7979942efe5662c461275924be5b41c7021b1f20a784a8d",
+  "translation": "A chef at the union food court.",
+  "vndb_url": "https://vndb.org/c67874"
+}

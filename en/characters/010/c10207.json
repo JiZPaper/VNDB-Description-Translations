@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c10207",
+  "type": "character",
+  "name": "Third-year student C",
+  "original_name": "３年生Ｃ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Newspaper club member.",
+  "source_sha256": "df1667e8ed6eb53736fc1f8b44a1b30a8c3f843916f7a226470f5e9491277f79",
+  "translation": "Newspaper club member.",
+  "vndb_url": "https://vndb.org/c10207"
+}

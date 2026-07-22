@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148470",
+  "type": "character",
+  "name": "Adison",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dancer recruited to work in a club.",
+  "source_sha256": "20efff40c76e76185bb09892c13e624311ba72caef973315720157a7db4bef64",
+  "translation": "A dancer recruited to work in a club.",
+  "vndb_url": "https://vndb.org/c148470"
+}

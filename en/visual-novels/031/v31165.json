@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31165",
+  "type": "visual_novel",
+  "name": "MOOZ",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are on an online drinking party with a close friend. But you noticed that behind him, there's a person holding a knife. \n\nWhat action will you chose in order to rescue your friend?",
+  "source_sha256": "0969703feda2cbfd69cdfcf81eafd00e4e23976fccaedfead296e7a4c0153732",
+  "translation": "You are on an online drinking party with a close friend. But you noticed that behind him, there's a person holding a knife. \n\nWhat action will you chose in order to rescue your friend?",
+  "vndb_url": "https://vndb.org/v31165"
+}

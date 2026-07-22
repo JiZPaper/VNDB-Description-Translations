@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169902",
+  "type": "character",
+  "name": "Ginny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A woman who runs a salon that waxes public regions.",
+  "source_sha256": "8471feb5724643a5fdd911550381c3962d8a401c857276805bcfad4506beb9ab",
+  "translation": "A woman who runs a salon that waxes public regions.",
+  "vndb_url": "https://vndb.org/c169902"
+}

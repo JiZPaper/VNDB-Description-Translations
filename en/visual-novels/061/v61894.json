@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61894",
+  "type": "visual_novel",
+  "name": "Sekai no Owari to",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on \"Hard-Boiled Wonderland and the End of the World\" novel by Haruki Murakami.",
+  "source_sha256": "6e2cab25bcba8c20b615181467c989bfc45ec22154f70e7317cde5794dc5429c",
+  "translation": "Based on \"Hard-Boiled Wonderland and the End of the World\" novel by Haruki Murakami.",
+  "vndb_url": "https://vndb.org/v61894"
+}

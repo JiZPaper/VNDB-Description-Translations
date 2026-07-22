@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54069",
+  "type": "visual_novel",
+  "name": "MeChat - Interactive Stories",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Get to know characters through a dating app",
+  "source_sha256": "cd4243ac06e2bccc885cdb9e148d1c630979480ba6ddd52750a3f823dccd9ffb",
+  "translation": "Get to know characters through a dating app",
+  "vndb_url": "https://vndb.org/v54069"
+}

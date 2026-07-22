@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24217",
+  "type": "visual_novel",
+  "name": "Hero's Destiny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "In the near future, where heroes and mutants exist, a mysterious figure, “Doctor”, has taken over a city in Japan and controls it with his powerful scientific abilities. \nHe takes civilians hostage and offers the government an exchange: \n\"If Hero Blaze visits my ‘city’ and wins his matches against the mutants, I will release the hostages.\"",
+  "source_sha256": "59047d7474a0d3d35c5ef372a4dea2d82d963e54b65f0eb6c55a725c1ed5c500",
+  "translation": "In the near future, where heroes and mutants exist, a mysterious figure, “Doctor”, has taken over a city in Japan and controls it with his powerful scientific abilities. \nHe takes civilians hostage and offers the government an exchange: \n\"If Hero Blaze visits my ‘city’ and wins his matches against the mutants, I will release the hostages.\"",
+  "vndb_url": "https://vndb.org/v24217"
+}

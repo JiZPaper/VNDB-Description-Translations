@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28524",
+  "type": "visual_novel",
+  "name": "SuperWriter2D's Collection of Short Visual Novels",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A VN anthology, where SuperWriter turns his published books into short visual novels.\n\nCurrently includes titles:\nEager Beaver\nThe Ward",
+  "source_sha256": "b079e32606a6e3a34d4dbc4d3b2f96fd8024a0e0196022ccf8ff59d983b3f749",
+  "translation": "A VN anthology, where SuperWriter turns his published books into short visual novels.\n\nCurrently includes titles:\nEager Beaver\nThe Ward",
+  "vndb_url": "https://vndb.org/v28524"
+}

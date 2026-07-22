@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152494",
+  "type": "character",
+  "name": "Asha",
+  "original_name": "アーシャ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A cheeky cat-like creature. She oversees the many \"things\" in the forest.",
+  "source_sha256": "207aad51873d51612965cf3c1549e5c48473da8f0361b619e1d81482a511c9de",
+  "translation": "A cheeky cat-like creature. She oversees the many \"things\" in the forest.",
+  "vndb_url": "https://vndb.org/c152494"
+}

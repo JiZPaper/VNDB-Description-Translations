@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145057",
+  "type": "character",
+  "name": "Adrien",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The main character of the game.",
+  "source_sha256": "7eb60daddf8a6ad6704b3ce6890229a183d76badf351e776a2b91da799bc87ab",
+  "translation": "The main character of the game.",
+  "vndb_url": "https://vndb.org/c145057"
+}

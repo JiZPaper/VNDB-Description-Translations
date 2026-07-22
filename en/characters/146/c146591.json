@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146591",
+  "type": "character",
+  "name": "Director",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Hailey’s stream director",
+  "source_sha256": "a16478a8db778dd3fafc080be5ce3fa3b2d1077d7181da479a577763d40e2d6e",
+  "translation": "Hailey’s stream director",
+  "vndb_url": "https://vndb.org/c146591"
+}

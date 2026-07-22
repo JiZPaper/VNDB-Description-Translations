@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c26439",
+  "type": "character",
+  "name": "Minamo",
+  "original_name": "水面",
+  "language": "en",
+  "source_language": "en",
+  "source": "Touka's butler, who is quite strict.",
+  "source_sha256": "0106f140c37e1eba429e8c0cc6a60e97333bd5c06b16d3d833839e5c2b64a0f4",
+  "translation": "Touka's butler, who is quite strict.",
+  "vndb_url": "https://vndb.org/c26439"
+}

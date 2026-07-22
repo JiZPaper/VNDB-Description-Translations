@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116071",
+  "type": "character",
+  "name": "Dr. Clarke",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An ENT doctor.",
+  "source_sha256": "f366d77459a0e8d9f3cc91cc5a4509819ae6084c1af8aa516b5c7026c5eeb694",
+  "translation": "An ENT doctor.",
+  "vndb_url": "https://vndb.org/c116071"
+}

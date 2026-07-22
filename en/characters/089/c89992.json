@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89992",
+  "type": "character",
+  "name": "Janet",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Halfling shopkeeper who runs the general store in the village.",
+  "source_sha256": "e015d6e6d00d5c86b2f1181238d0bbcc0f28f6a8ffa61325851f515b62c96f71",
+  "translation": "Halfling shopkeeper who runs the general store in the village.",
+  "vndb_url": "https://vndb.org/c89992"
+}

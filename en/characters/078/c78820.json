@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c78820",
+  "type": "character",
+  "name": "Ruah",
+  "original_name": "ルーア",
+  "language": "en",
+  "source_language": "en",
+  "source": "PS2 only heroine.",
+  "source_sha256": "3cc49847cc5bd358baf324a3491d5f074e68dbb6cb1ceb6fe66db3af35640ae2",
+  "translation": "PS2 only heroine.",
+  "vndb_url": "https://vndb.org/c78820"
+}

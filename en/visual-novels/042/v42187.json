@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42187",
+  "type": "visual_novel",
+  "name": "Hito Hitori o Sukuu Chikara",
+  "original_name": "人ひとりを救うチカラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "You have the power to save one person.",
+  "source_sha256": "42173299444fd824a2f2a4eb6af9a964ad1c789a609592f90ab256d0e603aa9b",
+  "translation": "You have the power to save one person.",
+  "vndb_url": "https://vndb.org/v42187"
+}

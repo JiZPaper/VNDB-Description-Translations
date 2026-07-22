@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22675",
+  "type": "visual_novel",
+  "name": "Power Pro Kun Pocket",
+  "original_name": "パワプロクンポケット",
+  "language": "en",
+  "source_language": "en",
+  "source": "Spin-off of Konami's baseball game series Jikkyou Powerful Pro Yakyuu. Unlike the main series, it focuses on story and dating sim components.",
+  "source_sha256": "1a14962b59c134932ec44b4484337e4224bf5a5b44c3e4ba94c5fa2f110a8590",
+  "translation": "Spin-off of Konami's baseball game series Jikkyou Powerful Pro Yakyuu. Unlike the main series, it focuses on story and dating sim components.",
+  "vndb_url": "https://vndb.org/v22675"
+}

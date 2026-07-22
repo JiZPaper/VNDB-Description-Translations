@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c40682",
+  "type": "character",
+  "name": "Mysterious Youth",
+  "original_name": "謎の青年",
+  "language": "en",
+  "source_language": "en",
+  "source": "A traveling fortune teller.\nHe often gives mysterious words to the protagonist.",
+  "source_sha256": "35884bc02812b1edff796764d10828122ed9df7dfbf936ab62014e2f87b9acf1",
+  "translation": "A traveling fortune teller.\nHe often gives mysterious words to the protagonist.",
+  "vndb_url": "https://vndb.org/c40682"
+}

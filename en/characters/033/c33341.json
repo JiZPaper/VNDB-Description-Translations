@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33341",
+  "type": "character",
+  "name": "Choukaku",
+  "original_name": "張角",
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader of the Yellow Turbans.",
+  "source_sha256": "023b65c4ae68be8fc4d97951b3dd75a7da7c13e1db55bfcbe454a681cf551321",
+  "translation": "Leader of the Yellow Turbans.",
+  "vndb_url": "https://vndb.org/c33341"
+}

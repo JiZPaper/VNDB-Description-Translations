@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73651",
+  "type": "character",
+  "name": "Mario",
+  "original_name": "マリオ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A strange homeless guy who hangs out in Central Park with Sam.\nHe doesn't talk but only plays the ocarina to express his emotions.\n\n[spoiler]His real name is Abraham.[/spoiler]",
+  "source_sha256": "460d6ee405018b7c8bdfa7393a77665035bb6d6794c3ff1954bdf8ce93822342",
+  "translation": "A strange homeless guy who hangs out in Central Park with Sam.\nHe doesn't talk but only plays the ocarina to express his emotions.\n\n[spoiler]His real name is Abraham.[/spoiler]",
+  "vndb_url": "https://vndb.org/c73651"
+}

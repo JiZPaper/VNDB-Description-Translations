@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c164933",
+  "type": "character",
+  "name": "Gerry",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is [url=/c164707]Jerry[/url]'s nephew.",
+  "source_sha256": "dd9028ef5c590929d9251cc4103d4bcb2a9b5abb229ff3864e383bf34e1c9a90",
+  "translation": "He is [url=/c164707]Jerry[/url]'s nephew.",
+  "vndb_url": "https://vndb.org/c164933"
+}

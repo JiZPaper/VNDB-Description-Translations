@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81358",
+  "type": "character",
+  "name": "Professor Motoyama",
+  "original_name": "本山教授",
+  "language": "en",
+  "source_language": "en",
+  "source": "He is a university professor who invited Koichi to his seminar. He is quite motivated to investigate the Kuraki Shrine.",
+  "source_sha256": "83281481a51e5394b0fc368129276783d6ed60e6908fe9fb96f2863146622bea",
+  "translation": "He is a university professor who invited Koichi to his seminar. He is quite motivated to investigate the Kuraki Shrine.",
+  "vndb_url": "https://vndb.org/c81358"
+}

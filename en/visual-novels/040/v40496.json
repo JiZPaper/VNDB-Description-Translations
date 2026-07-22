@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40496",
+  "type": "visual_novel",
+  "name": "A Little Quest",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A little game about doing a thing. You play as Finnegan.\n\n[From [url=https://doodletaco.itch.io/a-little-quest]Itch.io[/url]]",
+  "source_sha256": "7a980f73604269330d5df784c74e480d1c309973f3642558f958ccc28662455f",
+  "translation": "A little game about doing a thing. You play as Finnegan.\n\n[From [url=https://doodletaco.itch.io/a-little-quest]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v40496"
+}

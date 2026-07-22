@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c31505",
+  "type": "character",
+  "name": "Saniwa",
+  "original_name": "審神者",
+  "language": "en",
+  "source_language": "en",
+  "source": "The chosen person who controls the swords.",
+  "source_sha256": "35b4b75f003f90387b9b2cead9389df74b41698d81300f00a74dae21a7d35d6b",
+  "translation": "The chosen person who controls the swords.",
+  "vndb_url": "https://vndb.org/c31505"
+}

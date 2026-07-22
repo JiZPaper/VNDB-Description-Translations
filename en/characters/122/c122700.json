@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122700",
+  "type": "character",
+  "name": "Fido",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the diamond dogs.",
+  "source_sha256": "f49fa8ce59325c8ed7de0a40b9495c8ba9458a52c94632b2f7ceab670c3e97bf",
+  "translation": "One of the diamond dogs.",
+  "vndb_url": "https://vndb.org/c122700"
+}

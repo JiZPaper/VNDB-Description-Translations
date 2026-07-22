@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105569",
+  "type": "character",
+  "name": "Aster",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jacqueline's daughter.",
+  "source_sha256": "ef907fa346551d79a175f10659ff99fce91910b7f46719b4a0700f5fe34abf72",
+  "translation": "Jacqueline's daughter.",
+  "vndb_url": "https://vndb.org/c105569"
+}

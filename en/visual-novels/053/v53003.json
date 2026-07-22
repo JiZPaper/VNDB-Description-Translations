@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53003",
+  "type": "visual_novel",
+  "name": "Slavja-mod",
+  "original_name": "Славя-мод",
+  "language": "en",
+  "source_language": "en",
+  "source": "A week of rest at the summer camp on behalf of Slava. Will the summer be endless for her?",
+  "source_sha256": "55bfcfac9987f0a748e9c8e2a5eacf4470861ed5bbca9e5e172d6acd61ba149a",
+  "translation": "A week of rest at the summer camp on behalf of Slava. Will the summer be endless for her?",
+  "vndb_url": "https://vndb.org/v53003"
+}

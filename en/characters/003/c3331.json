@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c3331",
+  "type": "character",
+  "name": "Gimlet",
+  "original_name": "ギムレット",
+  "language": "en",
+  "source_language": "en",
+  "source": "Waitress at Cocktail Party.",
+  "source_sha256": "6e4c07ed56ab4875dfebcae8eb732fe8e5ae0a3ff5576e0cbb63eba5e3e2ab7b",
+  "translation": "Waitress at Cocktail Party.",
+  "vndb_url": "https://vndb.org/c3331"
+}

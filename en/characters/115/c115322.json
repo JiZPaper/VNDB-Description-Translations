@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115322",
+  "type": "character",
+  "name": "Dr. Bethany Smusher",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Chief medical officer of the Starship Ecstasy.",
+  "source_sha256": "9738b592bb9796b507c36a25f26fd284af687f02378470d02fe52f3a844c7fb2",
+  "translation": "Chief medical officer of the Starship Ecstasy.",
+  "vndb_url": "https://vndb.org/c115322"
+}

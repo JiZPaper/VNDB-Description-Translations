@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39952",
+  "type": "visual_novel",
+  "name": "That Xiyao Game",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Play as Jin Guangyao and attempt to cook a dish for Lan Xichen.",
+  "source_sha256": "79922161b4cda3a67963b4c77a8c16e28355b087ed478ea6e911c44fce6d589d",
+  "translation": "Play as Jin Guangyao and attempt to cook a dish for Lan Xichen.",
+  "vndb_url": "https://vndb.org/v39952"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150542",
+  "type": "character",
+  "name": "Adria Escoveto",
+  "original_name": "アドリア・エスコヴェート",
+  "language": "en",
+  "source_language": "en",
+  "source": "FBI Agent sent to Japan to conduct an international investigation.",
+  "source_sha256": "a73e6cf76cb2dacbd4f5bea45bd7edb76624f099d329f46fc9f6ec672fa298dd",
+  "translation": "FBI Agent sent to Japan to conduct an international investigation.",
+  "vndb_url": "https://vndb.org/c150542"
+}

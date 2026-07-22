@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55094",
+  "type": "visual_novel",
+  "name": "Hoshifuru Sogen de",
+  "original_name": "星降る草原で",
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about my feelings for you, told on a plain under the stars. If you don't mind, please join me in telling you a little bit of my story.",
+  "source_sha256": "0d9a3842e52ae47a2c1fdaa6b034d539a23f3aa79e9ffe2c719626615424a6df",
+  "translation": "A story about my feelings for you, told on a plain under the stars. If you don't mind, please join me in telling you a little bit of my story.",
+  "vndb_url": "https://vndb.org/v55094"
+}

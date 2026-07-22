@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34340",
+  "type": "visual_novel",
+  "name": "TWEWYSONA",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A crossover visual novel between The World Ends With You and modern Persona.",
+  "source_sha256": "0363d0469c95957597f38828069986b89215207130a785beb6eb1a1ec0766c18",
+  "translation": "A crossover visual novel between The World Ends With You and modern Persona.",
+  "vndb_url": "https://vndb.org/v34340"
+}

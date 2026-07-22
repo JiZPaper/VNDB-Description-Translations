@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44293",
+  "type": "character",
+  "name": "Eve",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Female soul.",
+  "source_sha256": "42890fdf32b620282e94d6cb8e68b3c7ba8602f9d81fc9dcc1ef7d0594df89df",
+  "translation": "Female soul.",
+  "vndb_url": "https://vndb.org/c44293"
+}

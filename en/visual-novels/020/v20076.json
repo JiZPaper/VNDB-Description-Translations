@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20076",
+  "type": "visual_novel",
+  "name": "Sonic's Inflation Adventure",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sonic and Knuckles are back with a new adventure game. Go to the bar and hook up with various hedgehogs, and even go on an adventure or two.",
+  "source_sha256": "546ee3e51e32c21c5b242b17b441a19263c389b44f1a3be049d256931b78b7fb",
+  "translation": "Sonic and Knuckles are back with a new adventure game. Go to the bar and hook up with various hedgehogs, and even go on an adventure or two.",
+  "vndb_url": "https://vndb.org/v20076"
+}

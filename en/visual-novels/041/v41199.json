@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41199",
+  "type": "visual_novel",
+  "name": "Usachiisuka!",
+  "original_name": "ウサチースカ！",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is the story of Usachiska, a rabbit girl from the Rabitto tribe, who’s worried about her ears being way bigger than everyone else’s.",
+  "source_sha256": "176bfa0801710d8d7b2af8878affc23e3e5026b9bcad9a6ce1a34e4bf57629c4",
+  "translation": "This is the story of Usachiska, a rabbit girl from the Rabitto tribe, who’s worried about her ears being way bigger than everyone else’s.",
+  "vndb_url": "https://vndb.org/v41199"
+}

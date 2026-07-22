@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19299",
+  "type": "character",
+  "name": "Ruka",
+  "original_name": "ルカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Weapon: baseball bat.",
+  "source_sha256": "ae513d2c6d8c7b7cba9bd5d1005dd518fdccafe86a6bce2a4516f4346f71c45e",
+  "translation": "Weapon: baseball bat.",
+  "vndb_url": "https://vndb.org/c19299"
+}

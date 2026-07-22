@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48268",
+  "type": "character",
+  "name": "Cradle",
+  "original_name": "クレイドル",
+  "language": "en",
+  "source_language": "en",
+  "source": "The AI who follows [url=/c48267]Eve[/url] around. He's responsible for keeping the whole Neosphere functioning.\nThis robot form is just one of his interfaces.\nHe's methodical and occasionally annoying, but he always puts Eve first.\nSometimes he breaks down and can't speak.",
+  "source_sha256": "088047d6f1c9388ee2d12c0aee83ab82dfb15a67b886584a582451eca5fd855b",
+  "translation": "The AI who follows [url=/c48267]Eve[/url] around. He's responsible for keeping the whole Neosphere functioning.\nThis robot form is just one of his interfaces.\nHe's methodical and occasionally annoying, but he always puts Eve first.\nSometimes he breaks down and can't speak.",
+  "vndb_url": "https://vndb.org/c48268"
+}

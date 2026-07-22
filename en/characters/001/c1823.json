@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c1823",
+  "type": "character",
+  "name": "Misaki",
+  "original_name": "三崎",
+  "language": "en",
+  "source_language": "en",
+  "source": "The school's nurse.",
+  "source_sha256": "fc569b5465c437d4d5ddd6d160a383d42d9b10d4e0300266b8c7dcdb5a6d8783",
+  "translation": "The school's nurse.",
+  "vndb_url": "https://vndb.org/c1823"
+}

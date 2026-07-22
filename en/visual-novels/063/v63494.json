@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63494",
+  "type": "visual_novel",
+  "name": "Shikisairi",
+  "original_name": "色彩り",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fan yuri VN based on Rune Factory: Guardians of Azuma Kaguya x Ulalaka",
+  "source_sha256": "abc0fae8723eb110234ebc6d487bc4f2561096e81b1e959d06a8b029439fba90",
+  "translation": "Fan yuri VN based on Rune Factory: Guardians of Azuma Kaguya x Ulalaka",
+  "vndb_url": "https://vndb.org/v63494"
+}

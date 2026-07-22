@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17386",
+  "type": "visual_novel",
+  "name": "Date Connection",
+  "original_name": "デートコネクション",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ryoma x Tezuka fan game.",
+  "source_sha256": "49ee5f55ed657da1189a74a0b7055b7ffbed9b4e05097f01ce3f6f4880ca6a66",
+  "translation": "Ryoma x Tezuka fan game.",
+  "vndb_url": "https://vndb.org/v17386"
+}

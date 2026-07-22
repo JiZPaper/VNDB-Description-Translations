@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4439",
+  "type": "character",
+  "name": "Odin",
+  "original_name": "オーディン",
+  "language": "en",
+  "source_language": "en",
+  "source": "The girl responsible for the slaying of shadows in Asgard. Her past is a complete mystery.",
+  "source_sha256": "ae508a37ad581cd6a28fe7b44d03e23ee32d4fa3d810187df26174c0c5c7bf0c",
+  "translation": "The girl responsible for the slaying of shadows in Asgard. Her past is a complete mystery.",
+  "vndb_url": "https://vndb.org/c4439"
+}

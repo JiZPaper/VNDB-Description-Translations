@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c28935",
+  "type": "character",
+  "name": "Mermaid",
+  "original_name": "人魚姫",
+  "language": "en",
+  "source_language": "en",
+  "source": "Lives inside a well.",
+  "source_sha256": "7d7e68942c11da952cc07bec5b61d942d4cf710cd68afbea7fc8b9fcccfd486a",
+  "translation": "Lives inside a well.",
+  "vndb_url": "https://vndb.org/c28935"
+}

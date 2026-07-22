@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127870",
+  "type": "character",
+  "name": "Wood Fryberg",
+  "original_name": "伍柏·弗莱贝格",
+  "language": "en",
+  "source_language": "en",
+  "source": "The player character. He is a father.",
+  "source_sha256": "4fc32bc33b4b42a66b039b53e5fa5d97407d65122911f04d38e9954b496e2edc",
+  "translation": "The player character. He is a father.",
+  "vndb_url": "https://vndb.org/c127870"
+}

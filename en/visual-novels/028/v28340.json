@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28340",
+  "type": "visual_novel",
+  "name": "Axiom Alternative",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fan-written alternative take on the Welcome To... Chichester world.",
+  "source_sha256": "6afbdab935b2a13ce1fb9c1d89bfd459556670c2fc6abcc7e916bc2e4d366831",
+  "translation": "A fan-written alternative take on the Welcome To... Chichester world.",
+  "vndb_url": "https://vndb.org/v28340"
+}

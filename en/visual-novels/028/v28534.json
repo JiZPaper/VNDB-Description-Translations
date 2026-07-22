@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28534",
+  "type": "visual_novel",
+  "name": "Kuso Novel",
+  "original_name": "クソノベル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kuso Novel is about unusual romance.",
+  "source_sha256": "b0e825809202a03f5bd01ec5f3fca97dc8b3864649e05ca876399878fc8fa8b6",
+  "translation": "Kuso Novel is about unusual romance.",
+  "vndb_url": "https://vndb.org/v28534"
+}

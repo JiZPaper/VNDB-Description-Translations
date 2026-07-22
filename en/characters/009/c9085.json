@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9085",
+  "type": "character",
+  "name": "Mother",
+  "original_name": "お母さん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Chisa's mother.",
+  "source_sha256": "5d59b14e0fc1586ece891b7a818cdf287a23e9e2248671b7bf3a2007db856017",
+  "translation": "Chisa's mother.",
+  "vndb_url": "https://vndb.org/c9085"
+}

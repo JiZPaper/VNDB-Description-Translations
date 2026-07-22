@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94755",
+  "type": "character",
+  "name": "Lux",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A guard hired to protect the Aibek. Raven is her partner.",
+  "source_sha256": "09c577a6c7a461632364890a526cb2619d1159049f7521f0c33b905236ee6d93",
+  "translation": "A guard hired to protect the Aibek. Raven is her partner.",
+  "vndb_url": "https://vndb.org/c94755"
+}

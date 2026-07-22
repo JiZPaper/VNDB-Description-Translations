@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c14906",
+  "type": "character",
+  "name": "Dora",
+  "original_name": "ドーラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Luce’s loyal servant.",
+  "source_sha256": "77b9ec3ea939966f5dd02a990db3921109d6890e4c6094e998ebc6137028c82f",
+  "translation": "Luce’s loyal servant.",
+  "vndb_url": "https://vndb.org/c14906"
+}

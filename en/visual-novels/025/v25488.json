@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25488",
+  "type": "visual_novel",
+  "name": "Ostara 2018",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A NaNoRenO 2018 jam VN about a young witch preparing for her first sabbat.",
+  "source_sha256": "2de8d9d340e575cdcb4dbdf5f9f24b07b1f2560785a9882bf7824ac998dd7afe",
+  "translation": "A NaNoRenO 2018 jam VN about a young witch preparing for her first sabbat.",
+  "vndb_url": "https://vndb.org/v25488"
+}

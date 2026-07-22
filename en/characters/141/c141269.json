@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141269",
+  "type": "character",
+  "name": "Duke Hamaji",
+  "original_name": "デューク 浜地",
+  "language": "en",
+  "source_language": "en",
+  "source": "The lead actor in \"Dokusou Saizensen\".",
+  "source_sha256": "4b22d55551495cd3612585905b2809457e9a3490626d2cf4c5bbb3e7662bb8c0",
+  "translation": "The lead actor in \"Dokusou Saizensen\".",
+  "vndb_url": "https://vndb.org/c141269"
+}

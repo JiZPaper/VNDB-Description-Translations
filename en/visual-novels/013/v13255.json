@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13255",
+  "type": "visual_novel",
+  "name": "D.Nd: Infection",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Death Note fan game; sequel to D.Nd: Poisoned.",
+  "source_sha256": "5f37c42f2e7aa19a14a08042c58a8775b3ccb9fd3d4b170677a4d52ca8f484b1",
+  "translation": "Death Note fan game; sequel to D.Nd: Poisoned.",
+  "vndb_url": "https://vndb.org/v13255"
+}

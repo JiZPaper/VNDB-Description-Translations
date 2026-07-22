@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75183",
+  "type": "character",
+  "name": "Landlord",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A character that assigns you part time jobs. You have to pay him rent at the end of each month.",
+  "source_sha256": "f7507acdeea598e5195397706dedddf7c0395c5053f4e609f2f1c11a9857c2e1",
+  "translation": "A character that assigns you part time jobs. You have to pay him rent at the end of each month.",
+  "vndb_url": "https://vndb.org/c75183"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c31506",
+  "type": "character",
+  "name": "Konnosuke",
+  "original_name": "こんのすけ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The guiding spirit that helps the Saniwa.",
+  "source_sha256": "5a911bdf1a048549944b9bf6a87da671bdb8df10c5531c3d3a5a7c378cf61fc3",
+  "translation": "The guiding spirit that helps the Saniwa.",
+  "vndb_url": "https://vndb.org/c31506"
+}

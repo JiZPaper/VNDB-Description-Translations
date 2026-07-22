@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98060",
+  "type": "character",
+  "name": "Joe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A gravedigger. Hangs around the nearby graves.",
+  "source_sha256": "f7dc04cd673bb95b147091394a9c6d73b8bb368b294862696dd63141b3f7cb16",
+  "translation": "A gravedigger. Hangs around the nearby graves.",
+  "vndb_url": "https://vndb.org/c98060"
+}

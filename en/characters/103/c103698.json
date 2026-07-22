@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103698",
+  "type": "character",
+  "name": "Mira",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A co-worker of the hero.",
+  "source_sha256": "914d6d391f46efe524d7afb0b14f7b21024346b4824c92dda00c7aa086b6053c",
+  "translation": "A co-worker of the hero.",
+  "vndb_url": "https://vndb.org/c103698"
+}

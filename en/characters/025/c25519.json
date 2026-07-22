@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25519",
+  "type": "character",
+  "name": "Kody",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Cook at Hunter's Bar.",
+  "source_sha256": "47fa99dbfd71e8d8fa6cffac16f9b17c276719a8588d37ea0473750a1ca97d33",
+  "translation": "Cook at Hunter's Bar.",
+  "vndb_url": "https://vndb.org/c25519"
+}

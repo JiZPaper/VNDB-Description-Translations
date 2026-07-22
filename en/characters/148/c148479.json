@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148479",
+  "type": "character",
+  "name": "Iris",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dancer and Adison's friend.",
+  "source_sha256": "36bbf4f2174bc585d73d6d15b2660452c8ad81d11ef8d873f1c1fe7220a5bc1d",
+  "translation": "A dancer and Adison's friend.",
+  "vndb_url": "https://vndb.org/c148479"
+}

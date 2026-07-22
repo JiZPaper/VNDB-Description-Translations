@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c27488",
+  "type": "character",
+  "name": "Toy Box",
+  "original_name": "トイ・ボックス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Toy Box is a rabbit-like stuffed doll that Alicia carries with her everywhere. It is able to speak in human language on its own. Its straightforward attitude usually puts Alicia in an awkward spot in conversations.",
+  "source_sha256": "1544f03bd8d8fc5f0469e82a756a6d9c6c8ecc15ff0dcbdc9c9b2959fa765e9b",
+  "translation": "Toy Box is a rabbit-like stuffed doll that Alicia carries with her everywhere. It is able to speak in human language on its own. Its straightforward attitude usually puts Alicia in an awkward spot in conversations.",
+  "vndb_url": "https://vndb.org/c27488"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c26529",
+  "type": "character",
+  "name": "Black-clad Girl",
+  "original_name": "くろぎぬの子",
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl following old man Iru around.\nShe doesn't seem to know her name or where she's from.\nShe's searching for something.",
+  "source_sha256": "9ff3ea92c4c97f7b3654bbefdb7df118c067d1c63f5870f96b943f26d628143c",
+  "translation": "A girl following old man Iru around.\nShe doesn't seem to know her name or where she's from.\nShe's searching for something.",
+  "vndb_url": "https://vndb.org/c26529"
+}

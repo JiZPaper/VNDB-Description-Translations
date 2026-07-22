@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51348",
+  "type": "character",
+  "name": "Kymil",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Blood Type: A-\nBirthplace: Royal Mountains",
+  "source_sha256": "48c3e6ef0684693079cff823bdced689d50fc52f4a938231ff9cdf292bc8b728",
+  "translation": "Blood Type: A-\nBirthplace: Royal Mountains",
+  "vndb_url": "https://vndb.org/c51348"
+}

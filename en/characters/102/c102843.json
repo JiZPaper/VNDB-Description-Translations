@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102843",
+  "type": "character",
+  "name": "Lady Annalie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lady working at a clothes shop frequented by the player.",
+  "source_sha256": "9d5364df01ec8ce558cb0c6e7cb351d805e44679575063cb42dfa3a28c794b38",
+  "translation": "Lady working at a clothes shop frequented by the player.",
+  "vndb_url": "https://vndb.org/c102843"
+}

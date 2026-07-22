@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140307",
+  "type": "character",
+  "name": "Rita",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Marcel's daughter.",
+  "source_sha256": "f208c27cd2e38dbe6987ce79963da6467f4bf269477afd15e5be133288b72662",
+  "translation": "Marcel's daughter.",
+  "vndb_url": "https://vndb.org/c140307"
+}

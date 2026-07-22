@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1960",
+  "type": "visual_novel",
+  "name": "Winter Shard",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Winter is a harsh season.\nNo beings yearn for its coming.\nHowever,...\nonly during it can I find peace.\"",
+  "source_sha256": "7e79b3ca5c7d88ad701b528d0a191a47df39168b84d6ffa1b5a9dbc6a19f8001",
+  "translation": "\"Winter is a harsh season.\nNo beings yearn for its coming.\nHowever,...\nonly during it can I find peace.\"",
+  "vndb_url": "https://vndb.org/v1960"
+}

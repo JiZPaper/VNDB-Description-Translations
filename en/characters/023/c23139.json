@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c23139",
+  "type": "character",
+  "name": "Porin",
+  "original_name": "ポリン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Attribute: Earth",
+  "source_sha256": "b472a76507d29f5460d32d3cc709c685311d0643d6408f04ea5613911b7bcc5f",
+  "translation": "Attribute: Earth",
+  "vndb_url": "https://vndb.org/c23139"
+}

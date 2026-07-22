@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135460",
+  "type": "character",
+  "name": "Jenny Jones",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A resident of vault 69. She is a former delinquent who became a teacher after taking the SWIN exam.",
+  "source_sha256": "b2c575560fbadfbecd953109dd4a48ebf4c0c6dda155ed70a80eabb388a3851a",
+  "translation": "A resident of vault 69. She is a former delinquent who became a teacher after taking the SWIN exam.",
+  "vndb_url": "https://vndb.org/c135460"
+}

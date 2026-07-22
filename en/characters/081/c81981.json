@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81981",
+  "type": "character",
+  "name": "Fariat",
+  "original_name": "ファリアット",
+  "language": "en",
+  "source_language": "en",
+  "source": "The current king of Juarez.",
+  "source_sha256": "2d5aea124ee10b42b8b42a3925a956ecccff634552bbd123782e21442dddfac7",
+  "translation": "The current king of Juarez.",
+  "vndb_url": "https://vndb.org/c81981"
+}

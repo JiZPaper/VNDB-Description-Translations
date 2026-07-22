@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161390",
+  "type": "character",
+  "name": "Odin",
+  "original_name": "オーディン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Corrupted form of Odin.",
+  "source_sha256": "3ce60ff67dcda77b2ed8fa70334bc92c940320b4ffb56b2f738976353117a9eb",
+  "translation": "Corrupted form of Odin.",
+  "vndb_url": "https://vndb.org/c161390"
+}

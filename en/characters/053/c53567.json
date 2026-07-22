@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53567",
+  "type": "character",
+  "name": "Ginger",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist, whose name can be changed. She has three possible personality types depending on player  choices, and each boy will favour a different one.",
+  "source_sha256": "c88b1c5bf713d722129cf2517220603a777f289fb77ad2dd044d1fabc1611a6d",
+  "translation": "The protagonist, whose name can be changed. She has three possible personality types depending on player  choices, and each boy will favour a different one.",
+  "vndb_url": "https://vndb.org/c53567"
+}

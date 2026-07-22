@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c147919",
+  "type": "character",
+  "name": "Samantha",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The teacher of the hero's class",
+  "source_sha256": "ba454d16f2d43ca7955669e8c0e2290847800f2672a153559a8be5401f54c6f7",
+  "translation": "The teacher of the hero's class",
+  "vndb_url": "https://vndb.org/c147919"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c80808",
+  "type": "character",
+  "name": "Shamisen",
+  "original_name": "シャミセン",
+  "language": "en",
+  "source_language": "en",
+  "source": "The male calico cat.",
+  "source_sha256": "e887741991cb42fd8046322d9f84b94c3d820f45cf7fb7637c6fea3c6cddaecf",
+  "translation": "The male calico cat.",
+  "vndb_url": "https://vndb.org/c80808"
+}

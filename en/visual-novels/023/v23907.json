@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23907",
+  "type": "visual_novel",
+  "name": "RenJS: The Tutorial",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "RenJS is a new videogame engine for making Visual Novels that run directly in the web browser. Based on Ren'Py and powered by PhaserJS, it's easy to use and easy to extend.\n\nIn this tutorial game, made with RenJS itself, you can learn the basics to start writing your own game.\n\n[From [url=https://lunafromthemoon.itch.io/renjs] itch.io[/url]]",
+  "source_sha256": "c005f7ddce7eb5a54c3d23eca8cab9055a35e0786746ad2eb49251758e0f87b2",
+  "translation": "RenJS is a new videogame engine for making Visual Novels that run directly in the web browser. Based on Ren'Py and powered by PhaserJS, it's easy to use and easy to extend.\n\nIn this tutorial game, made with RenJS itself, you can learn the basics to start writing your own game.\n\n[From [url=https://lunafromthemoon.itch.io/renjs] itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v23907"
+}

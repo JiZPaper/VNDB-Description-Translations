@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96421",
+  "type": "character",
+  "name": "Prince Edward",
+  "original_name": "エドワード王子",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ruridania kingdom's first prince. Nicknamed Ed.",
+  "source_sha256": "ece6679e96a5bf28bb615da395625fbe61ab066c82dd5cd48588bed100550f19",
+  "translation": "Ruridania kingdom's first prince. Nicknamed Ed.",
+  "vndb_url": "https://vndb.org/c96421"
+}

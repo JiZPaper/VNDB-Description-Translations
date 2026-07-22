@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25190",
+  "type": "visual_novel",
+  "name": "Magebuster: Amorous Augury",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An arrogant mage girl summons a powerful spirit to be her servant.\n\nHe fights back in a duel, using powerful magic spells.\n\nWill he defeat the girl and keep his freedom, or will she overwhelm him?",
+  "source_sha256": "3f0b907b610490fab21271f6ba0bbe9c81599cbe408528f8f0ef4be55ce77eb8",
+  "translation": "An arrogant mage girl summons a powerful spirit to be her servant.\n\nHe fights back in a duel, using powerful magic spells.\n\nWill he defeat the girl and keep his freedom, or will she overwhelm him?",
+  "vndb_url": "https://vndb.org/v25190"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115890",
+  "type": "character",
+  "name": "Abby Kay",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "“Hi there! Could you remind me where my room is?”\n\nHobby: Everything!\n\nFrom Abby’s student identification card",
+  "source_sha256": "8355d8005cb8cffed9d3e280354cc6858809fb767d4749a6e8e43f5726c6a325",
+  "translation": "“Hi there! Could you remind me where my room is?”\n\nHobby: Everything!\n\nFrom Abby’s student identification card",
+  "vndb_url": "https://vndb.org/c115890"
+}

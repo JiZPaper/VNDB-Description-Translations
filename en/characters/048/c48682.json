@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48682",
+  "type": "character",
+  "name": "Ruckle",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A hitman for the Pharmacist Guild.",
+  "source_sha256": "4a1c4719247d949d669e952957c528f0da2ebd59ec2bb4618dff0e9a697f3817",
+  "translation": "A hitman for the Pharmacist Guild.",
+  "vndb_url": "https://vndb.org/c48682"
+}

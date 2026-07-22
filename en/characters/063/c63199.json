@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c63199",
+  "type": "character",
+  "name": "Father",
+  "original_name": "父親",
+  "language": "en",
+  "source_language": "en",
+  "source": "Rina and Kana's father",
+  "source_sha256": "5f62506d3ff1cc2f5fc540121aff218667c1a6655021b28f90f701ba05c30002",
+  "translation": "Rina and Kana's father",
+  "vndb_url": "https://vndb.org/c63199"
+}

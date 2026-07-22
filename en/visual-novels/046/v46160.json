@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46160",
+  "type": "visual_novel",
+  "name": "bad delivery",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You order a pizza after a long, stressful day at work. What could go wrong? \n\n[from [url=https://nihomi.itch.io/bad-delivery]itch.io[/url]]",
+  "source_sha256": "259a5c92334191a2f27579f5d2bd9177fbc99202dc6fef8429ab6249649cd599",
+  "translation": "You order a pizza after a long, stressful day at work. What could go wrong? \n\n[from [url=https://nihomi.itch.io/bad-delivery]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v46160"
+}

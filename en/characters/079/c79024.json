@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79024",
+  "type": "character",
+  "name": "Orf",
+  "original_name": "オルフ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The older wolf brother.",
+  "source_sha256": "603f2ec753412a8896e1f512cccf6bab12de95e03b33379280538af20becf016",
+  "translation": "The older wolf brother.",
+  "vndb_url": "https://vndb.org/c79024"
+}

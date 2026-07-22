@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c157521",
+  "type": "character",
+  "name": "Gard",
+  "original_name": "ガルド",
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist's best friend and member of the party to defeat the Demon King.",
+  "source_sha256": "ea4700e1a30fc95b4d0fe0b43d040633ebb21e2883e9a9cb63e2b64e0542f357",
+  "translation": "Protagonist's best friend and member of the party to defeat the Demon King.",
+  "vndb_url": "https://vndb.org/c157521"
+}

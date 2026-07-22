@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95084",
+  "type": "character",
+  "name": "Toshiko",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A shy, gamer girl.",
+  "source_sha256": "2c75515edecfb90ecfb841809cfdac196b8712a9d4c96a1640db00f44fdca87f",
+  "translation": "A shy, gamer girl.",
+  "vndb_url": "https://vndb.org/c95084"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75470",
+  "type": "character",
+  "name": "The Hawk",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Hawk is Dom's pet and is used to send messages to Kenna in Book 1. The player can choose its name.",
+  "source_sha256": "dab2ffd896826add8229fe50cbbf0335283380f7dce159b7ee261cb27affdd16",
+  "translation": "The Hawk is Dom's pet and is used to send messages to Kenna in Book 1. The player can choose its name.",
+  "vndb_url": "https://vndb.org/c75470"
+}

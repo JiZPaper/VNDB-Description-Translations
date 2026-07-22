@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100589",
+  "type": "character",
+  "name": "Peter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the crew members that works with the protagonist.",
+  "source_sha256": "b0b5a976da2177b08e4382bfca5f47a61ba7bf015bdf4a5100e1fa153f18b0d6",
+  "translation": "One of the crew members that works with the protagonist.",
+  "vndb_url": "https://vndb.org/c100589"
+}

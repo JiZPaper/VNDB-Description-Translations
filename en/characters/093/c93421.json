@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93421",
+  "type": "character",
+  "name": "Kisaragi Yayoi",
+  "original_name": "如月 やよい",
+  "language": "en",
+  "source_language": "en",
+  "source": "Waitress at Vivace restaurant.",
+  "source_sha256": "d6f97695b5af2decc70cf5b2e3dd533710001c86629a9c32d2bf7fd2a1561690",
+  "translation": "Waitress at Vivace restaurant.",
+  "vndb_url": "https://vndb.org/c93421"
+}

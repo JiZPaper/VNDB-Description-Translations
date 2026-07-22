@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153782",
+  "type": "character",
+  "name": "Akira",
+  "original_name": "晶",
+  "language": "en",
+  "source_language": "en",
+  "source": "Chika's friend and classmate.",
+  "source_sha256": "82625faa10f93f5d462de222e505a5cff746e2cf795092b73e9f0137bd4231f0",
+  "translation": "Chika's friend and classmate.",
+  "vndb_url": "https://vndb.org/c153782"
+}

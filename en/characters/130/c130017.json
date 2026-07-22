@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130017",
+  "type": "character",
+  "name": "Drifter",
+  "original_name": "漂流者",
+  "language": "en",
+  "source_language": "en",
+  "source": "A traveler who came to the island...",
+  "source_sha256": "1d61e7464dc115c4033ae4a1bf74e55891aa58a81fadfc6311e847c97a739e29",
+  "translation": "A traveler who came to the island...",
+  "vndb_url": "https://vndb.org/c130017"
+}

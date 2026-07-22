@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92852",
+  "type": "character",
+  "name": "Waren",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gui helped and saved Waren's life in the past so he sees Gui as his benefactor.",
+  "source_sha256": "5a4460da064ac4c981553e5cc6f446e61473c9077db04a8184ab3438b6e04768",
+  "translation": "Gui helped and saved Waren's life in the past so he sees Gui as his benefactor.",
+  "vndb_url": "https://vndb.org/c92852"
+}

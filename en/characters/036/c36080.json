@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36080",
+  "type": "character",
+  "name": "Pashii Gurenoa",
+  "original_name": "パーシィ・グレノア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Human\nOccupation: Summoner",
+  "source_sha256": "a9dc505c7a465b5b15b23817f36cff85a83f5a1505e7d796fda2d051e29b74bb",
+  "translation": "Race: Human\nOccupation: Summoner",
+  "vndb_url": "https://vndb.org/c36080"
+}

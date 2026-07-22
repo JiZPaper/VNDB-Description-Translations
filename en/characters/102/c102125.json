@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102125",
+  "type": "character",
+  "name": "Ebeneezer Hanlon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Hanlon works at the local church, and is an old high school friend of Melanie.",
+  "source_sha256": "e394c13e299a8d2aa29b43ed13eab71ba58beb35f82070aa9fa703dfef095c96",
+  "translation": "Hanlon works at the local church, and is an old high school friend of Melanie.",
+  "vndb_url": "https://vndb.org/c102125"
+}

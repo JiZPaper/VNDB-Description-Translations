@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67288",
+  "type": "visual_novel",
+  "name": "Midnight omens",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Would you like your fortune read? You encounter a charming woman that would like to ask you a few question beforehand. Once a day you can come here and ask about your fate.\n\nDon't let negative fortunes ruin your day.\n\n[From [url=https://corrocerous.itch.io/midnight-omens]itch.io[/url]]",
+  "source_sha256": "ce4b84366a1e03ce4a6501ad2b0af985d31cfe509786b841a771ce8df3377b00",
+  "translation": "Would you like your fortune read? You encounter a charming woman that would like to ask you a few question beforehand. Once a day you can come here and ask about your fate.\n\nDon't let negative fortunes ruin your day.\n\n[From [url=https://corrocerous.itch.io/midnight-omens]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v67288"
+}

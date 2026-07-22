@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140047",
+  "type": "character",
+  "name": "Jolina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She runs a coffee shop. She quickly becomes friends with Jenna.",
+  "source_sha256": "5bc6657ad781c2311666e899b881ca4b884422564b9e52d414f7dd8d3661a214",
+  "translation": "She runs a coffee shop. She quickly becomes friends with Jenna.",
+  "vndb_url": "https://vndb.org/c140047"
+}

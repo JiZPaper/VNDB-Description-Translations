@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17747",
+  "type": "visual_novel",
+  "name": "Nyan Nyan Shoudou",
+  "original_name": "にゃんにゃんショウドウ",
+  "language": "en",
+  "source_language": "en",
+  "source": "April Fool's catboy version of Hanhan Shoudou.",
+  "source_sha256": "1553dc8e3ccd12616031b131f4ee47364bc23c498223d4157ef2889c4d3de80d",
+  "translation": "April Fool's catboy version of Hanhan Shoudou.",
+  "vndb_url": "https://vndb.org/v17747"
+}

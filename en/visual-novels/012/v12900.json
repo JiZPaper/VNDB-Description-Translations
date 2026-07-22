@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12900",
+  "type": "visual_novel",
+  "name": "Nichijou: Uchuujin",
+  "original_name": "日常（宇宙人）",
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel inspired by the hit anime and manga franchise. Through map movement, the player encounters several situations and minigames and depending on their performance, the player will be able to see voiced scenes and gags.",
+  "source_sha256": "fe727113432457fde295a105ae99892308ea7241ea49f244625c808451f4af62",
+  "translation": "A visual novel inspired by the hit anime and manga franchise. Through map movement, the player encounters several situations and minigames and depending on their performance, the player will be able to see voiced scenes and gags.",
+  "vndb_url": "https://vndb.org/v12900"
+}

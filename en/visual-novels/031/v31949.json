@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31949",
+  "type": "visual_novel",
+  "name": "Red Cloak",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Time for the superhero stuff!\nTake on the role of the bad guy who got the contract to eliminate a famous hero. Execute it and as a reward you will get what many villains of this city want.",
+  "source_sha256": "db139c59aa1e5a6757cd40262bbf48391f4bcccf8a16ea2577562806c99762bc",
+  "translation": "Time for the superhero stuff!\nTake on the role of the bad guy who got the contract to eliminate a famous hero. Execute it and as a reward you will get what many villains of this city want.",
+  "vndb_url": "https://vndb.org/v31949"
+}

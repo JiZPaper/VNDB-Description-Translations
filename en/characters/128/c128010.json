@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c128010",
+  "type": "character",
+  "name": "The Happy Prince",
+  "original_name": "快乐王子",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious entity said to be the most powerful of all \"strangenesses\" (怪异) and which is in some way in charge of \"strangenesses\" not controlled by the Agency (商号). A person that desires the power of the \"strangenesses\" can enter into a contract with them.",
+  "source_sha256": "ac957bb776f586cdc85f29526953de4bb25dffdb571a75d5102504a2c2b3bc07",
+  "translation": "A mysterious entity said to be the most powerful of all \"strangenesses\" (怪异) and which is in some way in charge of \"strangenesses\" not controlled by the Agency (商号). A person that desires the power of the \"strangenesses\" can enter into a contract with them.",
+  "vndb_url": "https://vndb.org/c128010"
+}

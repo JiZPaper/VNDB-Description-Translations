@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166251",
+  "type": "character",
+  "name": "Mad W. Anderson",
+  "original_name": "マッド=Ｗ=アンダーソン",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Exterior Technician\n\nServes as the ship's exterior technician.\nHe was assigned to the ship along with Daniel starting this time.",
+  "source_sha256": "679349cd1217575c0ed9f5690f384d038e923128aeec10ba3e4394d82304c5df",
+  "translation": "The Exterior Technician\n\nServes as the ship's exterior technician.\nHe was assigned to the ship along with Daniel starting this time.",
+  "vndb_url": "https://vndb.org/c166251"
+}

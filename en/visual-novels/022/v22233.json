@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22233",
+  "type": "visual_novel",
+  "name": "OW: Medical Examination",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short Overwatch fan-game. A new agent is given a medical examination by Mercy.",
+  "source_sha256": "ee219039d49a6b01218ff71fbbaba43187065f3dab7095b45b7410fbaa04a367",
+  "translation": "A short Overwatch fan-game. A new agent is given a medical examination by Mercy.",
+  "vndb_url": "https://vndb.org/v22233"
+}

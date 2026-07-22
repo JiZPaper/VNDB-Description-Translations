@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17800",
+  "type": "visual_novel",
+  "name": "Trial by Fire",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Trial by Fire\" is a short visual novel based on a mock trial case from 2009, \"State v. Lane.\" The structure and gameplay is inspired by Capcom's Ace Attorney series, featuring a mix of courtroom drama and lighthearted tone. The game is split into two modes: investigation sequences where the player must question people and evidence, and courtroom sequences where the player must spot logical flaws and inconsistencies in the prosecution's case and expose them by presenting evidence.",
+  "source_sha256": "bbbf21e5212d3aa496ae39972372448bcfed88ca5312b1fb62e6f56b9e234b95",
+  "translation": "\"Trial by Fire\" is a short visual novel based on a mock trial case from 2009, \"State v. Lane.\" The structure and gameplay is inspired by Capcom's Ace Attorney series, featuring a mix of courtroom drama and lighthearted tone. The game is split into two modes: investigation sequences where the player must question people and evidence, and courtroom sequences where the player must spot logical flaws and inconsistencies in the prosecution's case and expose them by presenting evidence.",
+  "vndb_url": "https://vndb.org/v17800"
+}

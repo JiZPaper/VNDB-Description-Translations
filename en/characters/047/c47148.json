@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47148",
+  "type": "character",
+  "name": "Random Hajile",
+  "original_name": "ランダム・ハジル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious bounty hunter who assists Gillian during the course of the story. Rides a one-wheeled motorcycle known as the \"Road Runner\".\n\n[From [url=https://en.wikipedia.org/wiki/Snatcher_%28video_game%29]Wikipedia[/url]]",
+  "source_sha256": "35405153c036f1eccb5bbd9e8e342d2749f1649490fd25010eb4f4f76d739e33",
+  "translation": "A mysterious bounty hunter who assists Gillian during the course of the story. Rides a one-wheeled motorcycle known as the \"Road Runner\".\n\n[From [url=https://en.wikipedia.org/wiki/Snatcher_%28video_game%29]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/c47148"
+}

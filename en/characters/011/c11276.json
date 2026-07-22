@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11276",
+  "type": "character",
+  "name": "Rio Vannah",
+  "original_name": "リオ・バンナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fisherman at the lake. She doesn't have any family, but the people at the harbor treat her as such. She has a boyish cheerfulness about her.",
+  "source_sha256": "ec6943096dc9c0b7f7dcb6a54f0f856375fec1d3b616913c35cd51809ea4b1d7",
+  "translation": "A fisherman at the lake. She doesn't have any family, but the people at the harbor treat her as such. She has a boyish cheerfulness about her.",
+  "vndb_url": "https://vndb.org/c11276"
+}

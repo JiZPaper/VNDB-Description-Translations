@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c138891",
+  "type": "character",
+  "name": "Suripo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Policeman outside the Ashiya tower.",
+  "source_sha256": "6f43d3dd0f1d008679f1c8d68309f9082b8cfa3decd3e93893c9fdc709bec0ab",
+  "translation": "Policeman outside the Ashiya tower.",
+  "vndb_url": "https://vndb.org/c138891"
+}

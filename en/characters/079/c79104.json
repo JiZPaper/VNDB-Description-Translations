@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79104",
+  "type": "character",
+  "name": "Serrault",
+  "original_name": "セロー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Serrault helps Lisa with her housing project in Episode 3.",
+  "source_sha256": "06104c698cf0493fb46ad7d8c53a488308e485254ebd2c0b07db5c644585c1b3",
+  "translation": "Serrault helps Lisa with her housing project in Episode 3.",
+  "vndb_url": "https://vndb.org/c79104"
+}

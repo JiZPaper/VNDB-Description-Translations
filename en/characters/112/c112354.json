@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112354",
+  "type": "character",
+  "name": "Angelina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A woman who is seeking Dr. Johnson's help regarding her marriage.",
+  "source_sha256": "1a6fdf44beebade424f92bf02cf05bc3634702c5e1d37b7647eaa81528e1ff2d",
+  "translation": "A woman who is seeking Dr. Johnson's help regarding her marriage.",
+  "vndb_url": "https://vndb.org/c112354"
+}

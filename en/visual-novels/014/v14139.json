@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14139",
+  "type": "visual_novel",
+  "name": "Shiroi Uta",
+  "original_name": "白い詩",
+  "language": "en",
+  "source_language": "en",
+  "source": "In the winter of the first year of high school, the protagonist, whose name can be changed, discovers a letter that she had forgotten about.\nThe letter was put in the hero's shoe box two years ago, with no addressee or sender.\nIt was in some ways more like a poem.",
+  "source_sha256": "06eed5e13deb9f5dee6dfb1ee2012e18e01f167449b1a216a15dc037fa6ba383",
+  "translation": "In the winter of the first year of high school, the protagonist, whose name can be changed, discovers a letter that she had forgotten about.\nThe letter was put in the hero's shoe box two years ago, with no addressee or sender.\nIt was in some ways more like a poem.",
+  "vndb_url": "https://vndb.org/v14139"
+}

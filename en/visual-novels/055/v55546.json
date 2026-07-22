@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55546",
+  "type": "visual_novel",
+  "name": "Ostalos' lish' 8 minut",
+  "original_name": "Осталось лишь 8 минут",
+  "language": "en",
+  "source_language": "en",
+  "source": "A philosophical and sincere story about Semyon and Alisa.",
+  "source_sha256": "cedc65b54add13c532edbe1114a1bd2ff921c8326885c5d831e8aacce12fb78f",
+  "translation": "A philosophical and sincere story about Semyon and Alisa.",
+  "vndb_url": "https://vndb.org/v55546"
+}

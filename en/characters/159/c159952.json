@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159952",
+  "type": "character",
+  "name": "Agravain",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Son of Morgause.",
+  "source_sha256": "e754de676b3619cd2e9e66ddb7fe15ce3bbd9f34ce66c278e3a568aadf1a0780",
+  "translation": "Son of Morgause.",
+  "vndb_url": "https://vndb.org/c159952"
+}

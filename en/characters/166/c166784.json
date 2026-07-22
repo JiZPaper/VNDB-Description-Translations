@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166784",
+  "type": "character",
+  "name": "Mãe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mika's mother.",
+  "source_sha256": "a128a2d5ef0e8da46fbd0fde7a390f8593cc765bb36a857bf6d83198a7a95c74",
+  "translation": "Mika's mother.",
+  "vndb_url": "https://vndb.org/c166784"
+}

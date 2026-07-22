@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75179",
+  "type": "character",
+  "name": "Fudanshi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A character that keeps track of your relationships with your love interests.",
+  "source_sha256": "c11a3e43351f49402ca283a0faa6f906d87d6136fd57fd4eefc01c961dacf0d8",
+  "translation": "A character that keeps track of your relationships with your love interests.",
+  "vndb_url": "https://vndb.org/c75179"
+}

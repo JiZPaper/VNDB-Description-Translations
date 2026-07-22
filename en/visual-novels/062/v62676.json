@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62676",
+  "type": "visual_novel",
+  "name": "Kurage no Uroko",
+  "original_name": "くらげのうろこ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A simple visual novel where you take care of a mermaid girl in your bathtub.",
+  "source_sha256": "eaca6638aa015132e72fbd087a77172fd22115ae2935dd9e0a09e845c2ca89d3",
+  "translation": "A simple visual novel where you take care of a mermaid girl in your bathtub.",
+  "vndb_url": "https://vndb.org/v62676"
+}

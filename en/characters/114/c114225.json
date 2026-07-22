@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c114225",
+  "type": "character",
+  "name": "Narrator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A voice in Phonegingi's head that tries to steer them to the quickest path to succeed in their goals.",
+  "source_sha256": "a08ad0d34a5a50747747007c54a0f8f09871f697fe99a345ff2ecdcbb60232a8",
+  "translation": "A voice in Phonegingi's head that tries to steer them to the quickest path to succeed in their goals.",
+  "vndb_url": "https://vndb.org/c114225"
+}

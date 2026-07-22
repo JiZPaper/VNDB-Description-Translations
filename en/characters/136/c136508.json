@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136508",
+  "type": "character",
+  "name": "Agape",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A computer virus that can regenerate itself infinitely by having multiple copies. Spends their time teasing and playing around with Goyou.",
+  "source_sha256": "e09d76b6d9cc5e65ea0543b1d7f22a2041012e69e537c80637509e06a635b910",
+  "translation": "A computer virus that can regenerate itself infinitely by having multiple copies. Spends their time teasing and playing around with Goyou.",
+  "vndb_url": "https://vndb.org/c136508"
+}

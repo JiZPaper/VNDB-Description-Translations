@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58612",
+  "type": "visual_novel",
+  "name": "Janus",
+  "original_name": "Янус",
+  "language": "en",
+  "source_language": "en",
+  "source": "Made for Creators Jam Mini.",
+  "source_sha256": "91e60564494e27d170e2eb94f638cb7bf1bbf87b8cc1f5de88895c549d276f7d",
+  "translation": "Made for Creators Jam Mini.",
+  "vndb_url": "https://vndb.org/v58612"
+}

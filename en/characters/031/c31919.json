@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c31919",
+  "type": "character",
+  "name": "Akechi Mitsuhide",
+  "original_name": "明智 光秀",
+  "language": "en",
+  "source_language": "en",
+  "source": "She is a cool and mysterious beauty clad in white and silver armor.\nShe feels coldly treated by her lord, Nobunaga, and is secretly frustrated.",
+  "source_sha256": "cb00c763e3c9198d9131726153f64b4781b42b20ed453d0426f1cbbacfc5d8bb",
+  "translation": "She is a cool and mysterious beauty clad in white and silver armor.\nShe feels coldly treated by her lord, Nobunaga, and is secretly frustrated.",
+  "vndb_url": "https://vndb.org/c31919"
+}

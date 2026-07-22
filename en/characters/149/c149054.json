@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c149054",
+  "type": "character",
+  "name": "Yren Ladon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Life Support Specialist",
+  "source_sha256": "184129d0645b8f3b67498fa60a5d5923f726e3a067dea985acc326a0a7660476",
+  "translation": "Life Support Specialist",
+  "vndb_url": "https://vndb.org/c149054"
+}

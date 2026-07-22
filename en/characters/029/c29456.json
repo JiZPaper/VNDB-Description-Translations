@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29456",
+  "type": "character",
+  "name": "Raize",
+  "original_name": "ライゼ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The daughter of [url=/c41678]Barga[/url]. [spoiler]She tried to kill [url=/c41608]Gin[/url], but was defeated and forced to work as waitress.[/spoiler]",
+  "source_sha256": "fd4bb069d7f84843510ac4f8281646eafa7d055cf056c5a19475794ae5131bc7",
+  "translation": "The daughter of [url=/c41678]Barga[/url]. [spoiler]She tried to kill [url=/c41608]Gin[/url], but was defeated and forced to work as waitress.[/spoiler]",
+  "vndb_url": "https://vndb.org/c29456"
+}

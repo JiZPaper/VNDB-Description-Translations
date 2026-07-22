@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76553",
+  "type": "character",
+  "name": "James",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The cheerful, awkward new roommate for Peter.",
+  "source_sha256": "b5c470ee6b2f01b5db235bd96b5da050247a4baba2fe9b5a80b44c96a9fac3b9",
+  "translation": "The cheerful, awkward new roommate for Peter.",
+  "vndb_url": "https://vndb.org/c76553"
+}

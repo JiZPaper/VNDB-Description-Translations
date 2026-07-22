@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13503",
+  "type": "visual_novel",
+  "name": "Of Scorpions and Hazelnuts",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A writer, traveling through the desert to seek inspiration, hears a fairy tale about a boy born a princess.",
+  "source_sha256": "d08125395dd51cb118ac0d50b9ef23fd46c74ed23133f2dbb46837757906fa4a",
+  "translation": "A writer, traveling through the desert to seek inspiration, hears a fairy tale about a boy born a princess.",
+  "vndb_url": "https://vndb.org/v13503"
+}

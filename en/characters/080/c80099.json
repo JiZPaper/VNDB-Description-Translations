@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c80099",
+  "type": "character",
+  "name": "Peter",
+  "original_name": "ピーター",
+  "language": "en",
+  "source_language": "en",
+  "source": "The footman of Ashton Abbey.",
+  "source_sha256": "a7f11abdf75a43e266dc6ac2d9800cc7e24e8b4d73b1a9967fae2b2d1e9b9781",
+  "translation": "The footman of Ashton Abbey.",
+  "vndb_url": "https://vndb.org/c80099"
+}

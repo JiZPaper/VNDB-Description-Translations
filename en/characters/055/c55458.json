@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55458",
+  "type": "character",
+  "name": "Fine Bergmann",
+  "original_name": "フィーネ・ベルクマン",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the Hound Unit under Margit Eberbach.",
+  "source_sha256": "57f3fdded7e5ad1ea7a585b48126a851c7c2be1c6f80c7312034d36d1fdcb15d",
+  "translation": "One of the Hound Unit under Margit Eberbach.",
+  "vndb_url": "https://vndb.org/c55458"
+}

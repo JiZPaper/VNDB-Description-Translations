@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100118",
+  "type": "character",
+  "name": "Koko",
+  "original_name": "ココ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist of the story, beset by new horrors every night.",
+  "source_sha256": "e8f747869845354e7de8e20318de8185f0b85e091f860dc60346fd4c8e9acbe7",
+  "translation": "Protagonist of the story, beset by new horrors every night.",
+  "vndb_url": "https://vndb.org/c100118"
+}

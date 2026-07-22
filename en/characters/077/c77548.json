@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77548",
+  "type": "character",
+  "name": "Megumi",
+  "original_name": "恵",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mikoto's girlfriend.",
+  "source_sha256": "251fb6995cf6113aefb6aaffb1af6193bb26a7ce31d500fdf8fa7911f89bd300",
+  "translation": "Mikoto's girlfriend.",
+  "vndb_url": "https://vndb.org/c77548"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145340",
+  "type": "character",
+  "name": "Avalon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nameable Protagonist (pronoun selection available)",
+  "source_sha256": "3f20a8c4bb9b913869fce47180067bb7743d29a40e699fab5ed6aa9818bc625b",
+  "translation": "Nameable Protagonist (pronoun selection available)",
+  "vndb_url": "https://vndb.org/c145340"
+}

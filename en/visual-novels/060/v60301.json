@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60301",
+  "type": "visual_novel",
+  "name": "※This Game Is Not Real.",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "3 days until the deadline.\n\nYou are [GAME]. A short visual novel where you [TALK] with a slightly delusional game developer, help debug their project, and guide the game to \"completion.\" Explore (debug) the in-game world to investigate the psychological abstractions and incidents the developer carries and help bring his game to \"completion.\"",
+  "source_sha256": "668fab0da849b958a7e0aa96eed396dc6dbd1d2db29a5cb4c51e9cdcda3ad3ca",
+  "translation": "3 days until the deadline.\n\nYou are [GAME]. A short visual novel where you [TALK] with a slightly delusional game developer, help debug their project, and guide the game to \"completion.\" Explore (debug) the in-game world to investigate the psychological abstractions and incidents the developer carries and help bring his game to \"completion.\"",
+  "vndb_url": "https://vndb.org/v60301"
+}

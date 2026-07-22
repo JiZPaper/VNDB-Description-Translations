@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92389",
+  "type": "character",
+  "name": "Alice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl Jason saves from assault.",
+  "source_sha256": "f3f86c5d0648f185b10fa635653f23827aaca7f0c2e1be3f2cb6ebb0b48ed735",
+  "translation": "A girl Jason saves from assault.",
+  "vndb_url": "https://vndb.org/c92389"
+}

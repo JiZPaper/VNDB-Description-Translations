@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13191",
+  "type": "visual_novel",
+  "name": "Faith/Puella : la Sorcière d'Orléans",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A crossover between Puella Magi Madoka Magica and Fate/Zero telling the story of Jeanne d'Arc fighting against Witches.",
+  "source_sha256": "a8d761aea7da3bf99344f4d4726e175afda6c342d45310cff18ae9d60759f47d",
+  "translation": "A crossover between Puella Magi Madoka Magica and Fate/Zero telling the story of Jeanne d'Arc fighting against Witches.",
+  "vndb_url": "https://vndb.org/v13191"
+}

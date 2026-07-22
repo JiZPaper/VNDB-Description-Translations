@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99040",
+  "type": "character",
+  "name": "Boss",
+  "original_name": "マスター",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Real name: Kanehira Juuichi (金平 重一)[/spoiler]",
+  "source_sha256": "58a73354860ce97e212a4523909a6e01804d1ec57a1ef54f8690c74c79e0ca0e",
+  "translation": "[spoiler]Real name: Kanehira Juuichi (金平 重一)[/spoiler]",
+  "vndb_url": "https://vndb.org/c99040"
+}

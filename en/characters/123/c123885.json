@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123885",
+  "type": "character",
+  "name": "Flora",
+  "original_name": "フローラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Alan's childhood friend.",
+  "source_sha256": "e82de54c0086d1401fb44ca1c07a2f9eb8fee3863b9c24ee07fcf11264a8fca0",
+  "translation": "Alan's childhood friend.",
+  "vndb_url": "https://vndb.org/c123885"
+}

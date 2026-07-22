@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48897",
+  "type": "character",
+  "name": "Rire",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A charming demon with a fondness for playing games.",
+  "source_sha256": "6f1e49a92579429ef60557c9b5352528c8c36ac092de1516992ed78e136e5ce0",
+  "translation": "A charming demon with a fondness for playing games.",
+  "vndb_url": "https://vndb.org/c48897"
+}

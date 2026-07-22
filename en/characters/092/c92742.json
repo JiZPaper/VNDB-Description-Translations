@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92742",
+  "type": "character",
+  "name": "Melty Pristis",
+  "original_name": "メルティ・プリスティス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The sixth candidate of the royal election.",
+  "source_sha256": "aca54e51b8a5b6d95a4cb2a725cda92db39ae576251d7ca425114f8da1b8cfb9",
+  "translation": "The sixth candidate of the royal election.",
+  "vndb_url": "https://vndb.org/c92742"
+}

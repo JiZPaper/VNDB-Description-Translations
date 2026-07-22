@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13282",
+  "type": "visual_novel",
+  "name": "Twist - Majapahit",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Story of the rise and fall of the Majapahit empire.",
+  "source_sha256": "bc9525cb81c2651fe8b04125c41428ce9e706d9503964a4d46913ab8cab57066",
+  "translation": "Story of the rise and fall of the Majapahit empire.",
+  "vndb_url": "https://vndb.org/v13282"
+}

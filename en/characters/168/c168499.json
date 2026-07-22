@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168499",
+  "type": "character",
+  "name": "Kent Goodman (Human)",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The true, human form of Kent.",
+  "source_sha256": "c1ec4bda9e63056cd5339d4392a3b8993f44fb0859d03d7a6843936c1ea322da",
+  "translation": "The true, human form of Kent.",
+  "vndb_url": "https://vndb.org/c168499"
+}

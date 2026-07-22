@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154150",
+  "type": "character",
+  "name": "Mrs. Richardson",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Colleague of Mrs. Casey.",
+  "source_sha256": "a52e0ec768e9b862737120d543e4652bda7ea62f17abda7bafa1f31ad3dc516f",
+  "translation": "Colleague of Mrs. Casey.",
+  "vndb_url": "https://vndb.org/c154150"
+}

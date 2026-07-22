@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75150",
+  "type": "character",
+  "name": "Mira",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mira is one of the twins.",
+  "source_sha256": "19c63e75b945b36eb4074b0969df282a629728cd6c3ddd4d6c713192cddacb5f",
+  "translation": "Mira is one of the twins.",
+  "vndb_url": "https://vndb.org/c75150"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69",
+  "type": "visual_novel",
+  "name": "Higurashi no Naku Koro ni Rei",
+  "original_name": "ひぐらしのなく頃に礼",
+  "language": "en",
+  "source_language": "en",
+  "source": "Higurashi no Naku Koro ni Rei is a fandisc to the Higurashi games, including three further side stories/arcs and some commentary. The setting and characters are the same.",
+  "source_sha256": "e8f8ddadec55dfc114e974e22895e456d944de520bd1aa381ae51dfe3f9de203",
+  "translation": "Higurashi no Naku Koro ni Rei is a fandisc to the Higurashi games, including three further side stories/arcs and some commentary. The setting and characters are the same.",
+  "vndb_url": "https://vndb.org/v69"
+}

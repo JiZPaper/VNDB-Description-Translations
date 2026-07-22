@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88407",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The player character is a young man living with Claudia (who may be your mother, depending on what you choose in the \"Preferences\"). He studies at the Kuma Academy and works part time at the Red Dragon.",
+  "source_sha256": "73e2e8932c45dabf1e6679936d3f262facd06815a7073e83fd7da3939a8996a5",
+  "translation": "The player character is a young man living with Claudia (who may be your mother, depending on what you choose in the \"Preferences\"). He studies at the Kuma Academy and works part time at the Red Dragon.",
+  "vndb_url": "https://vndb.org/c88407"
+}

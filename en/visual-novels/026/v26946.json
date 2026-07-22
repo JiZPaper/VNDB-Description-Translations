@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26946",
+  "type": "visual_novel",
+  "name": "Softwar/Extra",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Softwar/Extra is a submission to the first Renpy Jam, featuring the animatability of character sprites, GUI customization, textbox sounds, transitions and battle gameplay capabilities of Ren'py!\n\n[From [url=https://zankizuna.itch.io/softwarextra]Itch.io[/url]]",
+  "source_sha256": "9aadeece951ca37ec571ced5046d6b2e102ab3d13600d481ad4a2f79e674962c",
+  "translation": "Softwar/Extra is a submission to the first Renpy Jam, featuring the animatability of character sprites, GUI customization, textbox sounds, transitions and battle gameplay capabilities of Ren'py!\n\n[From [url=https://zankizuna.itch.io/softwarextra]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v26946"
+}

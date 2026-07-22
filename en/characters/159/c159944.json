@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159944",
+  "type": "character",
+  "name": "Arthur Pendragon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The King of Camelot. \nSon of Uther Pendragon and Igraine, half-brother of Morgan le Fay and husband of Guinevere.",
+  "source_sha256": "b0640dd305ba79f70205556d44e049ea36bca6aaea13d87eafd47b225279bf55",
+  "translation": "The King of Camelot. \nSon of Uther Pendragon and Igraine, half-brother of Morgan le Fay and husband of Guinevere.",
+  "vndb_url": "https://vndb.org/c159944"
+}

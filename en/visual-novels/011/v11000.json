@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11000",
+  "type": "visual_novel",
+  "name": "Photo Kano",
+  "original_name": "フォトカノ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kazuya Maeda is a second-year high school student who takes pictures of girls with his camera that he received from his dad. The game focuses on his romantic encounters with various girls at his school.",
+  "source_sha256": "f270058d0783eabbdaeb942f57f3a8f8f34d6aae30311508e6b71ccc780de12c",
+  "translation": "Kazuya Maeda is a second-year high school student who takes pictures of girls with his camera that he received from his dad. The game focuses on his romantic encounters with various girls at his school.",
+  "vndb_url": "https://vndb.org/v11000"
+}

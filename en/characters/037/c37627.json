@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37627",
+  "type": "character",
+  "name": "Thoth Caduceus",
+  "original_name": "トト・カドゥケウス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Egyptian God of knowledge",
+  "source_sha256": "d3f6acfc9bd2ef8c6bb520b614d951b5b27723e0f6b96bf5df163e34a3f14bbd",
+  "translation": "Egyptian God of knowledge",
+  "vndb_url": "https://vndb.org/c37627"
+}

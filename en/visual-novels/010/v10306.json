@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10306",
+  "type": "visual_novel",
+  "name": "The Christmas Question",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A small Christmas card in visual novel form, looking for the answer to... the Christmas question.",
+  "source_sha256": "b2c119b55e747accbe26067a869b18bd4ec1c4ec5eef6bd01189dce627c4eeee",
+  "translation": "A small Christmas card in visual novel form, looking for the answer to... the Christmas question.",
+  "vndb_url": "https://vndb.org/v10306"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c32304",
+  "type": "character",
+  "name": "Dave",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Director of a department team of the local public-service corporation. Even though he fancies himself as a nice guy, he can be so tactless he has troubles getting along with the other survivors.",
+  "source_sha256": "11bcb7f7820049ae1a0005aafc8fe051b5f4b9888a1c6c3fc8f7a0bcae1ebcda",
+  "translation": "Director of a department team of the local public-service corporation. Even though he fancies himself as a nice guy, he can be so tactless he has troubles getting along with the other survivors.",
+  "vndb_url": "https://vndb.org/c32304"
+}

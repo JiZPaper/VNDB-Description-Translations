@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44053",
+  "type": "character",
+  "name": "Old Man",
+  "original_name": "老人",
+  "language": "en",
+  "source_language": "en",
+  "source": "An old gentlemen who asks Yuri time at the crosswalk.",
+  "source_sha256": "2db0df4cfdf8dc18dab18b70dbf065aaa994d38f0c750ebbe7054cd74c0ecb74",
+  "translation": "An old gentlemen who asks Yuri time at the crosswalk.",
+  "vndb_url": "https://vndb.org/c44053"
+}

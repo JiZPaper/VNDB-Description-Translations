@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44149",
+  "type": "visual_novel",
+  "name": "Johns Trip",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "John is an astronaut who has recently been assigned to a mission in Space. He is seeking out a strange entity which was detected recently. \n\n[From intro]",
+  "source_sha256": "73bc85dd5bd9d3ea6b1eccf802ea969f858e66bf21ad19fc4c03ca9276013aed",
+  "translation": "John is an astronaut who has recently been assigned to a mission in Space. He is seeking out a strange entity which was detected recently. \n\n[From intro]",
+  "vndb_url": "https://vndb.org/v44149"
+}

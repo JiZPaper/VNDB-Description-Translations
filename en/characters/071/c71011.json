@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71011",
+  "type": "character",
+  "name": "Pastel Kalar",
+  "original_name": "パステル・カラー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Current queen of the Kalar race.\n\n[From [url=http://alicesoft.wikia.com/wiki/Rance_Quest:Characters#Kalar_Forest]AliceSoftWiki[/url]]",
+  "source_sha256": "4348d24c4d727df8e47c6347ee8838aa63952b4d74512bbb3d58caedb46000ef",
+  "translation": "Current queen of the Kalar race.\n\n[From [url=http://alicesoft.wikia.com/wiki/Rance_Quest:Characters#Kalar_Forest]AliceSoftWiki[/url]]",
+  "vndb_url": "https://vndb.org/c71011"
+}

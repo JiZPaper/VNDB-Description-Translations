@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15660",
+  "type": "visual_novel",
+  "name": "Sans Merci",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A text adventure based on the poem \"La Belle Dame sans Merci\" by John Keats.\n\nCreated for [url=http://textjam.tumblr.com/]Text Jam 2014[/url].",
+  "source_sha256": "183b6d9909d458d12bd37baa7cf3400a55226ab193b89b74910ad5eb4446e155",
+  "translation": "A text adventure based on the poem \"La Belle Dame sans Merci\" by John Keats.\n\nCreated for [url=http://textjam.tumblr.com/]Text Jam 2014[/url].",
+  "vndb_url": "https://vndb.org/v15660"
+}

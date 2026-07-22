@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139613",
+  "type": "character",
+  "name": "Vivienne",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Girlfriend of Lars",
+  "source_sha256": "aa35862040a36be997bef49ce79c4b32f75d8b9e34bc1fd37a69162bb25629b9",
+  "translation": "Girlfriend of Lars",
+  "vndb_url": "https://vndb.org/c139613"
+}

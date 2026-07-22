@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77179",
+  "type": "character",
+  "name": "Yeldin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of the Arena in Dingirra.",
+  "source_sha256": "b5127f199f506559798e4f9b988765b075d11c59862e5ff2c8922942af49f03a",
+  "translation": "Owner of the Arena in Dingirra.",
+  "vndb_url": "https://vndb.org/c77179"
+}

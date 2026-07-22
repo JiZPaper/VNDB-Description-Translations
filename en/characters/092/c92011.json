@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92011",
+  "type": "character",
+  "name": "Erwin",
+  "original_name": "エルヴァン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hamed's attendant.",
+  "source_sha256": "7637530c0546feb50f159738f37e0d4b2997ecc0f9f800aa388c65a7313da386",
+  "translation": "Hamed's attendant.",
+  "vndb_url": "https://vndb.org/c92011"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120081",
+  "type": "character",
+  "name": "Moledier",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mole night guard who tries their best despite suffering from a presistent cold.",
+  "source_sha256": "287eff7520dffe384cb1687244f11bcb7b002fdfc6ea255ffde0d8b2190e9cc0",
+  "translation": "A mole night guard who tries their best despite suffering from a presistent cold.",
+  "vndb_url": "https://vndb.org/c120081"
+}

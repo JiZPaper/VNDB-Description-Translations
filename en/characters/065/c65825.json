@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65825",
+  "type": "character",
+  "name": "Fenrir",
+  "original_name": "フェンリル",
+  "language": "en",
+  "source_language": "en",
+  "source": "[url=/c65823]Loki[/url]'s son.",
+  "source_sha256": "fcb9d509a64b5b3ae201ba17f04ab7130cb3f43c37228da0fca27e1c31875b13",
+  "translation": "[url=/c65823]Loki[/url]'s son.",
+  "vndb_url": "https://vndb.org/c65825"
+}

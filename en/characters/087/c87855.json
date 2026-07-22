@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87855",
+  "type": "character",
+  "name": "Orochi",
+  "original_name": "大蛇",
+  "language": "en",
+  "source_language": "en",
+  "source": "The advisor of 'Mitsuchi'.\nHe is a friendly pacifist who chose compromise over war.",
+  "source_sha256": "d9a7e0507d4dadb908cd8f83b105477736442f4d93842136dd855959e8667e0b",
+  "translation": "The advisor of 'Mitsuchi'.\nHe is a friendly pacifist who chose compromise over war.",
+  "vndb_url": "https://vndb.org/c87855"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98048",
+  "type": "character",
+  "name": "Ms Alderson",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ms Alderson is the principal of Halifax High School.",
+  "source_sha256": "0e3303d38ae6a70df4e636f775bcb5ac2e2d3dd90e39d42663b625fa2c08fd39",
+  "translation": "Ms Alderson is the principal of Halifax High School.",
+  "vndb_url": "https://vndb.org/c98048"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26218",
+  "type": "visual_novel",
+  "name": "Uzuki no Ori",
+  "original_name": "卯月のオリ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Wandering horror text game",
+  "source_sha256": "bdf26306b926657afc70099dec5c44e0391761a1b0f03189abb2e215ad3a4348",
+  "translation": "Wandering horror text game",
+  "vndb_url": "https://vndb.org/v26218"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89881",
+  "type": "character",
+  "name": "Shura",
+  "original_name": "シュラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Combat captain of the \"Jami bandits\".",
+  "source_sha256": "3275d5f92061fbf61a7ee2450bdebcad33a69a1f955dc49f19a6fbf5503aac41",
+  "translation": "Combat captain of the \"Jami bandits\".",
+  "vndb_url": "https://vndb.org/c89881"
+}

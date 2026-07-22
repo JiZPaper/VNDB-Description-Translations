@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115265",
+  "type": "character",
+  "name": "Antonio",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Crew member aboard La Aguja.",
+  "source_sha256": "31f01f32885b0d50c01dc26112d46fcc1da3ea3b718bc1850ab6bff026c9d91a",
+  "translation": "Crew member aboard La Aguja.",
+  "vndb_url": "https://vndb.org/c115265"
+}

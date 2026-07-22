@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c129669",
+  "type": "character",
+  "name": "Risa",
+  "original_name": "リサ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Participant of the \"Gallery\" hotline.",
+  "source_sha256": "14242142ac11451e4e9b23c13d89f06e8affe5ea8406142b358567423ceaf2dd",
+  "translation": "Participant of the \"Gallery\" hotline.",
+  "vndb_url": "https://vndb.org/c129669"
+}

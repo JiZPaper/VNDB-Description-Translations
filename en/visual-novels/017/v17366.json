@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17366",
+  "type": "visual_novel",
+  "name": "Seishin Hakai Kanketsuhen",
+  "original_name": "精神破壊完結編",
+  "language": "en",
+  "source_language": "en",
+  "source": "An adventure game that takes place 600 years after the events of the first Seishin Hakai",
+  "source_sha256": "5ad1be2b6b81d71f3828b69bd87c588c639c64b22687aa9f25f577b47b60fd0d",
+  "translation": "An adventure game that takes place 600 years after the events of the first Seishin Hakai",
+  "vndb_url": "https://vndb.org/v17366"
+}

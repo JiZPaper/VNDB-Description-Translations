@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c104613",
+  "type": "character",
+  "name": "Miyamoto Toshiki",
+  "original_name": "宮本 俊樹",
+  "language": "en",
+  "source_language": "en",
+  "source": "A TV producer.",
+  "source_sha256": "577caf3e90879b96e6ce28a564cdbead5f526aaaef5355219297395438bef381",
+  "translation": "A TV producer.",
+  "vndb_url": "https://vndb.org/c104613"
+}

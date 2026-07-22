@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48861",
+  "type": "character",
+  "name": "Cynsia Lucer",
+  "original_name": "シンシア=ルーチェル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Musical instrument: Clarinet.",
+  "source_sha256": "3caa38ff1864618c5a72db855967e87c5dbe774ea08e81bb2e47da1e3d25bf53",
+  "translation": "Musical instrument: Clarinet.",
+  "vndb_url": "https://vndb.org/c48861"
+}

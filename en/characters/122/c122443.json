@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122443",
+  "type": "character",
+  "name": "Arlette",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A gardener that owns a greenhouse.",
+  "source_sha256": "304d5c993df1a60a663c88199db26c28f1ca984a75046a71fb06a877faeede29",
+  "translation": "A gardener that owns a greenhouse.",
+  "vndb_url": "https://vndb.org/c122443"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140173",
+  "type": "character",
+  "name": "Jessica",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist's roommate at the college.",
+  "source_sha256": "3a03440a8354e91544a5d7ba5ea3ebcb3eb28fc07b49dca169655faf83090439",
+  "translation": "Protagonist's roommate at the college.",
+  "vndb_url": "https://vndb.org/c140173"
+}

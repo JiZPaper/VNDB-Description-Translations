@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c69369",
+  "type": "character",
+  "name": "Shopkeeper",
+  "original_name": "店主",
+  "language": "en",
+  "source_language": "en",
+  "source": "Secondhand bookstore 's owner.\n\n[spoiler]Real culprit behind Jouichi 's hometown explosions.[/spoiler]",
+  "source_sha256": "38986595b5f6478d2f84ccf628cf6521047da0f317e3224aa9936ede19b5491c",
+  "translation": "Secondhand bookstore 's owner.\n\n[spoiler]Real culprit behind Jouichi 's hometown explosions.[/spoiler]",
+  "vndb_url": "https://vndb.org/c69369"
+}

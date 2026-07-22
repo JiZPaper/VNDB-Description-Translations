@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66280",
+  "type": "visual_novel",
+  "name": "Happy living",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about Shin Tsukimi and Sou Hiyori living together.",
+  "source_sha256": "382bf3f7b12690025360c72b2bc7a14e91c0b9302b283b231ec10f9629876547",
+  "translation": "A story about Shin Tsukimi and Sou Hiyori living together.",
+  "vndb_url": "https://vndb.org/v66280"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100527",
+  "type": "character",
+  "name": "???",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A customer who ordered the special \"Old Fashioned\".",
+  "source_sha256": "9f728006021f986762896dbf607508560dfc3aab4b53ef040bbf24947374ee9c",
+  "translation": "A customer who ordered the special \"Old Fashioned\".",
+  "vndb_url": "https://vndb.org/c100527"
+}

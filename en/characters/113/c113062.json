@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113062",
+  "type": "character",
+  "name": "Susan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The hero's supervisor. She is a wealthy businesswoman.",
+  "source_sha256": "add105b5f8538e6f1540707b9f0eed237d15ecb893d6c175a115bee91e9873dd",
+  "translation": "The hero's supervisor. She is a wealthy businesswoman.",
+  "vndb_url": "https://vndb.org/c113062"
+}

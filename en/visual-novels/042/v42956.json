@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42956",
+  "type": "visual_novel",
+  "name": "Furry beast tamer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Renpy furry harem game with combat elements.",
+  "source_sha256": "5f3fade062c13ce24dff5f9b9f249ef1273daca07253301292655c3c13889d03",
+  "translation": "A Renpy furry harem game with combat elements.",
+  "vndb_url": "https://vndb.org/v42956"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101112",
+  "type": "character",
+  "name": "Vaisard Val Virgil",
+  "original_name": "ヴァイスアード・バル・バーシル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hedonist prince of Waldland",
+  "source_sha256": "45cf22d5f8b3229e472c199153ea6c96623bf6d6bd0974bed26547236cb43c4e",
+  "translation": "Hedonist prince of Waldland",
+  "vndb_url": "https://vndb.org/c101112"
+}

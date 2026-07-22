@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42834",
+  "type": "visual_novel",
+  "name": "Go Shuuen Kinen",
+  "original_name": "五周年記念",
+  "language": "en",
+  "source_language": "en",
+  "source": "A thank-you mini-game created for the fifth anniversary of JANNE's opening.",
+  "source_sha256": "ab9b57e17c22f6baabc1be2a232b27310b155c51801ce75a01a63b652bb09895",
+  "translation": "A thank-you mini-game created for the fifth anniversary of JANNE's opening.",
+  "vndb_url": "https://vndb.org/v42834"
+}

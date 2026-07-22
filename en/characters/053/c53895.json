@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53895",
+  "type": "character",
+  "name": "King Hagel The First",
+  "original_name": "国王ハーゲル1世",
+  "language": "en",
+  "source_language": "en",
+  "source": "King of Edellant Kingdom and father of Russelior.",
+  "source_sha256": "b2f20e61d643a7ff0dbfadc46907196d9167442baa64c04c0482ae2acc53e3ed",
+  "translation": "King of Edellant Kingdom and father of Russelior.",
+  "vndb_url": "https://vndb.org/c53895"
+}

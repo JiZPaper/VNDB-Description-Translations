@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165890",
+  "type": "character",
+  "name": "Isherwood",
+  "original_name": "イスウッド",
+  "language": "en",
+  "source_language": "en",
+  "source": "The knowledgeable, mysterious swordsman.",
+  "source_sha256": "fee57b9a18700fa6f94144e490aec0a09c822c8575bf731d7f9cb28c31c75d8c",
+  "translation": "The knowledgeable, mysterious swordsman.",
+  "vndb_url": "https://vndb.org/c165890"
+}

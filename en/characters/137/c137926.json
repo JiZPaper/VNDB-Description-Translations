@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137926",
+  "type": "character",
+  "name": "Lane",
+  "original_name": "レーン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Colonel Lane was Ryuuichi's commander during his military service.",
+  "source_sha256": "623a2b5bc250bede7506cba11859ed649f931eca2f50466a1680ce90715fc0b4",
+  "translation": "Colonel Lane was Ryuuichi's commander during his military service.",
+  "vndb_url": "https://vndb.org/c137926"
+}

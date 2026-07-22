@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13164",
+  "type": "visual_novel",
+  "name": "Christmas Eve: Memories",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Brianna tries to cope with the death of her brother, who was hit by a car three years ago on Christmas Eve.",
+  "source_sha256": "958858bdd1e6cafbdcfcd6efa1f111be6e958b295bcd8fbfdb6363eb31df156d",
+  "translation": "Brianna tries to cope with the death of her brother, who was hit by a car three years ago on Christmas Eve.",
+  "vndb_url": "https://vndb.org/v13164"
+}

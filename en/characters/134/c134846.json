@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134846",
+  "type": "character",
+  "name": "Juniper",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A police officer investigating the murder.",
+  "source_sha256": "fd1078e87b57c19aee63a23f26b90e65d0d72bb7766864809990c3bcc4a81016",
+  "translation": "A police officer investigating the murder.",
+  "vndb_url": "https://vndb.org/c134846"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50855",
+  "type": "visual_novel",
+  "name": "Hitler's Nanny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "People keep traveling back in time to try and kill baby Hitler. You're his nanny.",
+  "source_sha256": "8c176ad9fa72ce9caff77c7ea66baba4a228f35e25f7a8741694eea730c12b7a",
+  "translation": "People keep traveling back in time to try and kill baby Hitler. You're his nanny.",
+  "vndb_url": "https://vndb.org/v50855"
+}

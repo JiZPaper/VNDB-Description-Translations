@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32656",
+  "type": "visual_novel",
+  "name": "Summer Horrordays",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Relive the Summer holidays and go on a journey through 6 short stories spanning a single day. Take a peek through rose-tinted glasses, then rip away the curtain to see the monsters lurking beneath. Don't forget to send us a postcard, have a nice trip...\"\n\nSummer Horrordays is an anthology collection of short stories with a horror twist. The game was made as an entry to the Spooktober VN Game Jam, and is free to download and play from itch.io\n\nThis game has been made compatible with Ren'py's self-voicing function, including image descriptions and menu item descriptions on hover. To enable or disable self-voicing, please press V when in the game. For more details, see the official itch page for the game.",
+  "source_sha256": "deadf051e19764ae47a5cfa21d60cf161ee20d5189cb298a988d2688194f9a89",
+  "translation": "\"Relive the Summer holidays and go on a journey through 6 short stories spanning a single day. Take a peek through rose-tinted glasses, then rip away the curtain to see the monsters lurking beneath. Don't forget to send us a postcard, have a nice trip...\"\n\nSummer Horrordays is an anthology collection of short stories with a horror twist. The game was made as an entry to the Spooktober VN Game Jam, and is free to download and play from itch.io\n\nThis game has been made compatible with Ren'py's self-voicing function, including image descriptions and menu item descriptions on hover. To enable or disable self-voicing, please press V when in the game. For more details, see the official itch page for the game.",
+  "vndb_url": "https://vndb.org/v32656"
+}

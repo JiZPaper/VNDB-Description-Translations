@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55604",
+  "type": "visual_novel",
+  "name": "Kirishima Jun Saigo no 7-kakan",
+  "original_name": "霧島ジュン・最後の７日間",
+  "language": "en",
+  "source_language": "en",
+  "source": "A side story included with the Windows release of Circle Mate, detailing the events of Kirishima Jun's life seven days before her murder.",
+  "source_sha256": "c9a47f7a966029af701252295e790172760b40606c26e2cbb90f2b51111eba1b",
+  "translation": "A side story included with the Windows release of Circle Mate, detailing the events of Kirishima Jun's life seven days before her murder.",
+  "vndb_url": "https://vndb.org/v55604"
+}

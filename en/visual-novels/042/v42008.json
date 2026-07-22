@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42008",
+  "type": "visual_novel",
+  "name": "Matinee",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Can you solve the mystery before the movie ends?",
+  "source_sha256": "26934ad93f9e92eb9ab5e778b0ed796c22927dc34e316272f09eec57432e8ca1",
+  "translation": "Can you solve the mystery before the movie ends?",
+  "vndb_url": "https://vndb.org/v42008"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24712",
+  "type": "visual_novel",
+  "name": "The Koushounin",
+  "original_name": "THE 交渉人",
+  "language": "en",
+  "source_language": "en",
+  "source": "The player steps in the shoes of a negotiator working with the police corps.",
+  "source_sha256": "f639dbe450d26321633ee4b6377fb1b20e772a0f3daa8e28024769a4567209f4",
+  "translation": "The player steps in the shoes of a negotiator working with the police corps.",
+  "vndb_url": "https://vndb.org/v24712"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88500",
+  "type": "character",
+  "name": "Ulrika",
+  "original_name": "ウルリカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hobbies: Painting landscapes\nLikes: Walking, cleaning things, taking baths\nDislikes: Repetitive work",
+  "source_sha256": "94451660ba74a1149abc82053acac8091db141ac44ac6707f00d570d7d7c2436",
+  "translation": "Hobbies: Painting landscapes\nLikes: Walking, cleaning things, taking baths\nDislikes: Repetitive work",
+  "vndb_url": "https://vndb.org/c88500"
+}

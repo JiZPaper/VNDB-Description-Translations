@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165253",
+  "type": "character",
+  "name": "John",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Georgia's husband.",
+  "source_sha256": "bec18b2b47d4bdd57a3aa8b7261c29473419a8f0978d2606bbc65899f072f0b8",
+  "translation": "Georgia's husband.",
+  "vndb_url": "https://vndb.org/c165253"
+}

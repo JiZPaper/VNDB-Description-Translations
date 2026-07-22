@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33791",
+  "type": "character",
+  "name": "Veronica",
+  "original_name": "ヴェロニカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "About 150 years old (?).",
+  "source_sha256": "d7eac3ff894d299280e33f83ab608e031a006c29cc73a3929d2ef595a0ee3f5a",
+  "translation": "About 150 years old (?).",
+  "vndb_url": "https://vndb.org/c33791"
+}

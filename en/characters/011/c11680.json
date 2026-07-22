@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11680",
+  "type": "character",
+  "name": "Fluorite Alvega",
+  "original_name": "フローライト=アルヴェガ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Manufacture Date: Jan. 21\nShape: Female Type\nBlood Type: NONE\n\nOne of Shouta's friends.",
+  "source_sha256": "0e8489296d740b34d13fc6ebd2b4e4ff36b5309163228dbf6bf89f8114f86593",
+  "translation": "Manufacture Date: Jan. 21\nShape: Female Type\nBlood Type: NONE\n\nOne of Shouta's friends.",
+  "vndb_url": "https://vndb.org/c11680"
+}

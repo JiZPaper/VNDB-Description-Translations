@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1172",
+  "type": "visual_novel",
+  "name": "The Answer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An instructive and uplifting tale for aspiring visual novelists.",
+  "source_sha256": "1bf138ec7e2386a4009ad8fc6a0febb5e4dcc05a3165add8c05ebb5106572d45",
+  "translation": "An instructive and uplifting tale for aspiring visual novelists.",
+  "vndb_url": "https://vndb.org/v1172"
+}

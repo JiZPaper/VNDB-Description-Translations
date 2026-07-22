@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132389",
+  "type": "character",
+  "name": "William Afton",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A security guard that needs to get out of work to his date.",
+  "source_sha256": "8f3066493c0a1990904e42fd2d8b878c6451e170426be48b13f7cb580de1162c",
+  "translation": "A security guard that needs to get out of work to his date.",
+  "vndb_url": "https://vndb.org/c132389"
+}

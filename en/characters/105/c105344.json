@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105344",
+  "type": "character",
+  "name": "Lily",
+  "original_name": "リリィ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A nun who was abandoned as a baby in front of the church and brought up in a church-affiliated relief home.",
+  "source_sha256": "44ebc25d8552f75c6a7cb96d3182e2d641897c50627c398979871aa27092e316",
+  "translation": "A nun who was abandoned as a baby in front of the church and brought up in a church-affiliated relief home.",
+  "vndb_url": "https://vndb.org/c105344"
+}

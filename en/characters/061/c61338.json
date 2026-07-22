@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61338",
+  "type": "character",
+  "name": "Princess",
+  "original_name": "プリンセス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The princess of the CORE revolution, completely loyal to King CORE despite the abuse he gives her.",
+  "source_sha256": "a28d4eec5ea6268a509e8b3c1126ee8c33bb2086347159d64ac58dcca55ef4b2",
+  "translation": "The princess of the CORE revolution, completely loyal to King CORE despite the abuse he gives her.",
+  "vndb_url": "https://vndb.org/c61338"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100834",
+  "type": "character",
+  "name": "BloomBot",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Blooming Panic server's bot, responsible for welcoming new users and automatically censoring users who post personal information.\n\n[spoiler]In the true route, it's revealed that BloomBot is a sapient AI based on a text scraper bot originally created by NakedToaster, as well as the author of the Blooming Panic webnovel and the creator of the fan server.[/spoiler]",
+  "source_sha256": "4fb97a1f4544196b76f592956277bf8a6d218ef0c53f94aae1f40a5f7de8d6eb",
+  "translation": "The Blooming Panic server's bot, responsible for welcoming new users and automatically censoring users who post personal information.\n\n[spoiler]In the true route, it's revealed that BloomBot is a sapient AI based on a text scraper bot originally created by NakedToaster, as well as the author of the Blooming Panic webnovel and the creator of the fan server.[/spoiler]",
+  "vndb_url": "https://vndb.org/c100834"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62040",
+  "type": "character",
+  "name": "Takeshi",
+  "original_name": "たけし",
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist of Telephone Scandal.",
+  "source_sha256": "12344be79f82c1f10c084762590255b42a1d3160cab4c356e115b4fa65be1bf8",
+  "translation": "Protagonist of Telephone Scandal.",
+  "vndb_url": "https://vndb.org/c62040"
+}

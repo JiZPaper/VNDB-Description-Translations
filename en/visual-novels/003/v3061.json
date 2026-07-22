@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3061",
+  "type": "visual_novel",
+  "name": "Komorebi no Namikimichi",
+  "original_name": "木漏れ日の並木道",
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as Kouichi, who lost his wife years ago. The game places you in a love story involving six girls.\n\n[taken from [url=http://uk.ps2.gamespy.com/playstation-2/komorebi-no-namikimichi/]GameSpy[/url]]",
+  "source_sha256": "92d11e52dd1f7a3d20535961b132a8a543f3ed941737b3f75ce500fd9c7150ec",
+  "translation": "You play as Kouichi, who lost his wife years ago. The game places you in a love story involving six girls.\n\n[taken from [url=http://uk.ps2.gamespy.com/playstation-2/komorebi-no-namikimichi/]GameSpy[/url]]",
+  "vndb_url": "https://vndb.org/v3061"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39811",
+  "type": "visual_novel",
+  "name": "Doge Academy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Doge Academy is an open source visual novel featuring the famous Doge meme attending an all-shibe school in Tokyo.\n\nThe catch? You actually learn how Dogecoin works! Navigate your way through high school as a dog and make friends along the way.",
+  "source_sha256": "a0b5978896db0e671db04a8efdc7688267dbf70b2246b056839f8fdcc37af964",
+  "translation": "Doge Academy is an open source visual novel featuring the famous Doge meme attending an all-shibe school in Tokyo.\n\nThe catch? You actually learn how Dogecoin works! Navigate your way through high school as a dog and make friends along the way.",
+  "vndb_url": "https://vndb.org/v39811"
+}

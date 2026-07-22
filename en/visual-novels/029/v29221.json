@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29221",
+  "type": "visual_novel",
+  "name": "Rakujitsu",
+  "original_name": "落日",
+  "language": "en",
+  "source_language": "en",
+  "source": "One day, an incident happened.\nThe country shakes greatly as a result.\n\n[Translated from the [url=https://www.freem.ne.jp/win/game/6147]official site[/url]]",
+  "source_sha256": "17565c49428cefa5e09541d0aa3e9b436a9cf8782808b50f12e2c797d5e91937",
+  "translation": "One day, an incident happened.\nThe country shakes greatly as a result.\n\n[Translated from the [url=https://www.freem.ne.jp/win/game/6147]official site[/url]]",
+  "vndb_url": "https://vndb.org/v29221"
+}

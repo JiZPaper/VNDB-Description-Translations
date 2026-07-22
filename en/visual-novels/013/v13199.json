@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13199",
+  "type": "visual_novel",
+  "name": "Cave! Cave! Deus Videt.",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel made with Ren'Py for Bosch Art Game international competition 2013. Inspired by the works of Jheronimus Bosch.\n\n[From [url=http://cargocollective.com/wearemuesli]official site[/url]]",
+  "source_sha256": "616824bd41e28cd77f864cb63f8f225af2f59103df54b96311dcd944e12b7f05",
+  "translation": "A visual novel made with Ren'Py for Bosch Art Game international competition 2013. Inspired by the works of Jheronimus Bosch.\n\n[From [url=http://cargocollective.com/wearemuesli]official site[/url]]",
+  "vndb_url": "https://vndb.org/v13199"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22699",
+  "type": "visual_novel",
+  "name": "Alice no Seishin Saiban",
+  "original_name": "アリスの精神裁判",
+  "language": "en",
+  "source_language": "en",
+  "source": "It is a exploration adventure game focused on the story and very similar to escape game.\nPlayer needs to talk to different characters and find out the critical items to solve the case.\nSometimes unexpected statements and items may bey the key to solve the whole incident….\nFind out the truth behind the case relying on your own brain.",
+  "source_sha256": "74a50a32b1f2c5b0de71078c379557cb5ff6678ed014fd202afbab1d867a6110",
+  "translation": "It is a exploration adventure game focused on the story and very similar to escape game.\nPlayer needs to talk to different characters and find out the critical items to solve the case.\nSometimes unexpected statements and items may bey the key to solve the whole incident….\nFind out the truth behind the case relying on your own brain.",
+  "vndb_url": "https://vndb.org/v22699"
+}

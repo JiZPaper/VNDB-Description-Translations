@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148872",
+  "type": "character",
+  "name": "Jill",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is the older sister of the MC.",
+  "source_sha256": "7f66ce9a008be5d404eaf871396d7239a9a8495713bf651376208ace36bcce50",
+  "translation": "She is the older sister of the MC.",
+  "vndb_url": "https://vndb.org/c148872"
+}

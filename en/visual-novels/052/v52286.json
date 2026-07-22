@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52286",
+  "type": "visual_novel",
+  "name": "Doko e Iku no, Ano Hi - Okaeshi Disc",
+  "original_name": "何処へ行くの、あの日 お返しディスク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fan disc of Doko e Iku no, Ano Hi.\nIt contains mini scenario, mini games, wallpapers, op/ed movie, system voices, etc.",
+  "source_sha256": "9b9deba7390f945976f9989e7ee7f94dc3fb1c6265d4da9e473cf5bda021d49c",
+  "translation": "Fan disc of Doko e Iku no, Ano Hi.\nIt contains mini scenario, mini games, wallpapers, op/ed movie, system voices, etc.",
+  "vndb_url": "https://vndb.org/v52286"
+}

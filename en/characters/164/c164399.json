@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c164399",
+  "type": "character",
+  "name": "Lucy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is Max's Dream Guardian.",
+  "source_sha256": "8817a29911ab5301f0499dfba85badf57bf741aa03157840a535ef1a6efe28f5",
+  "translation": "She is Max's Dream Guardian.",
+  "vndb_url": "https://vndb.org/c164399"
+}

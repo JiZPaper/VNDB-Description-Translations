@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170611",
+  "type": "character",
+  "name": "Claire",
+  "original_name": "クレア",
+  "language": "en",
+  "source_language": "en",
+  "source": "She is part of a group of friends who decided to camp at a spot near a forest.\n\nFrom \"Friday the 18th\" story.",
+  "source_sha256": "fc6ca3794f82371fac8e9dd425c7e925c506b96a1630f7c77c04514cd303beeb",
+  "translation": "She is part of a group of friends who decided to camp at a spot near a forest.\n\nFrom \"Friday the 18th\" story.",
+  "vndb_url": "https://vndb.org/c170611"
+}

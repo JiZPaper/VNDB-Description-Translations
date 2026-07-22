@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13963",
+  "type": "visual_novel",
+  "name": "Furete Hajimaru Koi Datte!",
+  "original_name": "触れて始まる恋だって!",
+  "language": "en",
+  "source_language": "en",
+  "source": "Levi/Eren fan game.",
+  "source_sha256": "ae60bd5143f27b0db01399ed8a224edff9658b905e70364d0bbebe27e79cc918",
+  "translation": "Levi/Eren fan game.",
+  "vndb_url": "https://vndb.org/v13963"
+}

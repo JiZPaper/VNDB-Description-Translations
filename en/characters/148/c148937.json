@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148937",
+  "type": "character",
+  "name": "Liza",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Arthur's girlfriend.",
+  "source_sha256": "deb4a6034142572a515ef162a7b6c6f2b8f53ad7388868bc80dec6abf0450161",
+  "translation": "Arthur's girlfriend.",
+  "vndb_url": "https://vndb.org/c148937"
+}

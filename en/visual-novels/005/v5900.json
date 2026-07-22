@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5900",
+  "type": "visual_novel",
+  "name": "Stalemate",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "In this game, you are a boy who already has a girlfriend. You also decided to help a mahou shoujo (magical girl) by being her mascot and battling monsters. And someday, you meet a girl that looks like your drawings.",
+  "source_sha256": "9044ad8a4c7ea4f57eb115510b2d3bf3b5146fc8a0b757bdbc4262b8e1892e1e",
+  "translation": "In this game, you are a boy who already has a girlfriend. You also decided to help a mahou shoujo (magical girl) by being her mascot and battling monsters. And someday, you meet a girl that looks like your drawings.",
+  "vndb_url": "https://vndb.org/v5900"
+}

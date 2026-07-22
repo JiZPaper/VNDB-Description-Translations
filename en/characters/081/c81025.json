@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81025",
+  "type": "character",
+  "name": "Ikuras Kii",
+  "original_name": "イクラス・キー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Weight: 1.2 tons",
+  "source_sha256": "8fa022811d4abd011dc3c4c3f12744854a074db95246e950d8e3b51e1ea2d27e",
+  "translation": "Weight: 1.2 tons",
+  "vndb_url": "https://vndb.org/c81025"
+}

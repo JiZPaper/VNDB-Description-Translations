@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115327",
+  "type": "character",
+  "name": "Elf",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An elf that befriended Hikari.",
+  "source_sha256": "b84d032e71eb677dfb902f7df51eeb9137b9b8946a1a1ce8748d84a23af8a90e",
+  "translation": "An elf that befriended Hikari.",
+  "vndb_url": "https://vndb.org/c115327"
+}

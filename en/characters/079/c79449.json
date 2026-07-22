@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79449",
+  "type": "character",
+  "name": "Unnamed",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A host that the protagonist meets at the host club.",
+  "source_sha256": "72cefa444e5c3c994d959669d55b08b3186fe503c2c7cea3dc573b0c285bc0cf",
+  "translation": "A host that the protagonist meets at the host club.",
+  "vndb_url": "https://vndb.org/c79449"
+}

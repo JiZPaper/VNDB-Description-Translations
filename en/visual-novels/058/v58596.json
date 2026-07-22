@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58596",
+  "type": "visual_novel",
+  "name": "DONARE",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Human dies twice. The first time is when their life ended. The second time is when their existence become forgotten.",
+  "source_sha256": "42bd22aa2b5d6c713145eac37323f8c0bd09691dbfd411c2fd6f73f7a044b926",
+  "translation": "Human dies twice. The first time is when their life ended. The second time is when their existence become forgotten.",
+  "vndb_url": "https://vndb.org/v58596"
+}

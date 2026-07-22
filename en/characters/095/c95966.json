@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95966",
+  "type": "character",
+  "name": "Aamon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Demon summoned by John.",
+  "source_sha256": "86fb373b5b50b8ca3f27ce2a78e1f096f9b3d1d4c2d893d34f22b4ba0888aa76",
+  "translation": "A Demon summoned by John.",
+  "vndb_url": "https://vndb.org/c95966"
+}

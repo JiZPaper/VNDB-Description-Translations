@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37242",
+  "type": "character",
+  "name": "Louis",
+  "original_name": "ルイス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A man who claims he's the protagonist of Tooya's story.",
+  "source_sha256": "25c8a31cecb73f7d462e8a684f8d1d053cab7a0e5eff812006fe623395b2decb",
+  "translation": "A man who claims he's the protagonist of Tooya's story.",
+  "vndb_url": "https://vndb.org/c37242"
+}

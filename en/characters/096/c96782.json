@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96782",
+  "type": "character",
+  "name": "Creature",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A water elemental and Mei's assistant. She doesn't treat it very well. Mei kept this creature on the second floor so long, it believes that it is an entire world.",
+  "source_sha256": "0b962755c56703ff512cf9aeed7da9747929345ab8a9385c1ca5936658689d19",
+  "translation": "A water elemental and Mei's assistant. She doesn't treat it very well. Mei kept this creature on the second floor so long, it believes that it is an entire world.",
+  "vndb_url": "https://vndb.org/c96782"
+}

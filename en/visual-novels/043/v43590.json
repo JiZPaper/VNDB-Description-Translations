@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43590",
+  "type": "visual_novel",
+  "name": "A Day in AAA",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An entry for NaNoRenO 2023. A Day in AAA is a visual novel about a game programmer working in AAA company.\n\n[From [url=https://komehara.itch.io/a-day-in-aaa]Itch.io[/url]]",
+  "source_sha256": "2bb22d73a93fd886b5e385d59af3c0b3a320853b0863320796531fdcfc15f29d",
+  "translation": "An entry for NaNoRenO 2023. A Day in AAA is a visual novel about a game programmer working in AAA company.\n\n[From [url=https://komehara.itch.io/a-day-in-aaa]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43590"
+}

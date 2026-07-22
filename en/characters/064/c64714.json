@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64714",
+  "type": "character",
+  "name": "Alice Kurosawa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A beautiful Japanese woman Alice Lorange meet during her adventure.",
+  "source_sha256": "39915bba3e248064dbed0fba9057d7dcedfbc4af5b2fdcebda402f098803cbfb",
+  "translation": "A beautiful Japanese woman Alice Lorange meet during her adventure.",
+  "vndb_url": "https://vndb.org/c64714"
+}

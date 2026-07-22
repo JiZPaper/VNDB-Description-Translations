@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152805",
+  "type": "character",
+  "name": "Jill",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Don't be fooled by this girl of few words!\nJill has much more to offer than to say, her actions speak volumes.",
+  "source_sha256": "d1e6c6a0ea45db93b58ef65cd2ece2e60c6c31a408b7d0b0af02a999059b05b9",
+  "translation": "Don't be fooled by this girl of few words!\nJill has much more to offer than to say, her actions speak volumes.",
+  "vndb_url": "https://vndb.org/c152805"
+}

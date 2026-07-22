@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134021",
+  "type": "character",
+  "name": "Mrs. Murray",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is a teacher who works at North Acres Elementary School.",
+  "source_sha256": "6f25f188a8d4ff6bb2cb6ed2a835dad69e7516ccc710020b671fb31a27af442a",
+  "translation": "She is a teacher who works at North Acres Elementary School.",
+  "vndb_url": "https://vndb.org/c134021"
+}

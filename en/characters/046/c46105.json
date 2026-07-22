@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c46105",
+  "type": "character",
+  "name": "Dennis",
+  "original_name": "Денис",
+  "language": "en",
+  "source_language": "en",
+  "source": "Dennis is an old friend of Simon Brezhnev and the owner of Russia Sushi. He works inside Russia Sushi as the chef, while Simon usually stands outside attracting customers.",
+  "source_sha256": "a86c2f8a9f572e935532f1f83d033ad2a169a83c7d8ac432989ee3c54965278c",
+  "translation": "Dennis is an old friend of Simon Brezhnev and the owner of Russia Sushi. He works inside Russia Sushi as the chef, while Simon usually stands outside attracting customers.",
+  "vndb_url": "https://vndb.org/c46105"
+}

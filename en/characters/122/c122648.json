@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122648",
+  "type": "character",
+  "name": "Mayor Moore",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mayor Moore is [url=/c92041]Flynn's[/url] aunt and the current mayor of Echo.",
+  "source_sha256": "578e23cf69498e4a2d9c84bd46b9e46f034468f34cccd0ab4196ef4ffa8f249b",
+  "translation": "Mayor Moore is [url=/c92041]Flynn's[/url] aunt and the current mayor of Echo.",
+  "vndb_url": "https://vndb.org/c122648"
+}

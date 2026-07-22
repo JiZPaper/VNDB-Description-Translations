@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161936",
+  "type": "character",
+  "name": "Reika",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Naoto's girlfriend.",
+  "source_sha256": "e00c87fdf99be15c63739f6d98647e2f57f10673f029ae8eaa272ed5c2fd2e33",
+  "translation": "Naoto's girlfriend.",
+  "vndb_url": "https://vndb.org/c161936"
+}

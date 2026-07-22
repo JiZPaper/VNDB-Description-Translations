@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154744",
+  "type": "character",
+  "name": "Hirasawa",
+  "original_name": "平沢",
+  "language": "en",
+  "source_language": "en",
+  "source": "Pub chef.",
+  "source_sha256": "07f562e9ef14d5564e215b305593fe90fc09870d1c86d23f0f1448849b72343f",
+  "translation": "Pub chef.",
+  "vndb_url": "https://vndb.org/c154744"
+}

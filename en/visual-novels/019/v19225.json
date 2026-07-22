@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19225",
+  "type": "visual_novel",
+  "name": "Reverse",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The story of a beautiful girl, her servant, and her prisoner.",
+  "source_sha256": "d79865838d10e4bb2e2419f2ab0a30a567a7e712930786dfe806a449ff8e0dfc",
+  "translation": "The story of a beautiful girl, her servant, and her prisoner.",
+  "vndb_url": "https://vndb.org/v19225"
+}

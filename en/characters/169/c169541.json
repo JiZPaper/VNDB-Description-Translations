@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169541",
+  "type": "character",
+  "name": "John",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonists's father.",
+  "source_sha256": "55b447846cef15eec11b28cdb48e0cb88a623fb2b4bfd41c1e11abd0397102c8",
+  "translation": "Protagonists's father.",
+  "vndb_url": "https://vndb.org/c169541"
+}

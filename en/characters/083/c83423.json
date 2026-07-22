@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c83423",
+  "type": "character",
+  "name": "Miyata Masayuki",
+  "original_name": "宮田 政行",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kosuke's father. A detective in the cyberforce. [spoiler]Following {Code}'s attack on {eXarch}, he is the sole survivor of {Code}'s culling of {Criminal} family members.[/spoiler]",
+  "source_sha256": "f6f54c0bf3b80a99381c13c237915e89cab08311c51e4c3aaa4f367cd9291d33",
+  "translation": "Kosuke's father. A detective in the cyberforce. [spoiler]Following {Code}'s attack on {eXarch}, he is the sole survivor of {Code}'s culling of {Criminal} family members.[/spoiler]",
+  "vndb_url": "https://vndb.org/c83423"
+}

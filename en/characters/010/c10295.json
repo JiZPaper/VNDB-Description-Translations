@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c10295",
+  "type": "character",
+  "name": "One",
+  "original_name": "緒根",
+  "language": "en",
+  "source_language": "en",
+  "source": "One is a [URL=http://en.wikipedia.org/wiki/Cockatiel]cockatiel[/URL] that is St. Pigeonation's janitor.",
+  "source_sha256": "bf182c4a4e98927293c56a34d36440b4fea3d8ab4e183f97adc1f104ee66dd1f",
+  "translation": "One is a [URL=http://en.wikipedia.org/wiki/Cockatiel]cockatiel[/URL] that is St. Pigeonation's janitor.",
+  "vndb_url": "https://vndb.org/c10295"
+}

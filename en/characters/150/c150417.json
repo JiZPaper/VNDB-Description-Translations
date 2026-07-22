@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150417",
+  "type": "character",
+  "name": "Inoue",
+  "original_name": "井上",
+  "language": "en",
+  "source_language": "en",
+  "source": "Riku's friend and classmate.",
+  "source_sha256": "d7dab7e3ef8b26b0e59eb997e616a3448b0ec930cfb1a36e828c93c4d69b2516",
+  "translation": "Riku's friend and classmate.",
+  "vndb_url": "https://vndb.org/c150417"
+}

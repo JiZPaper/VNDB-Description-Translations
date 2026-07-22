@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12789",
+  "type": "character",
+  "name": "Arbitro",
+  "original_name": "アルビトロ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"May fortune favor you in battle.\"\n\nThe de facto boss of Vischio and the man responsible for Igra. Arrogant and disdainful of everyone around him, he never seen without his garish mask. Very easy to upset.\n\n[From the digital manual included with r57701]",
+  "source_sha256": "212aff613189e026f75c76e60fb6fc9d76e08fe5fb18fec9618bc8817e1353ee",
+  "translation": "\"May fortune favor you in battle.\"\n\nThe de facto boss of Vischio and the man responsible for Igra. Arrogant and disdainful of everyone around him, he never seen without his garish mask. Very easy to upset.\n\n[From the digital manual included with r57701]",
+  "vndb_url": "https://vndb.org/c12789"
+}

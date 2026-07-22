@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148840",
+  "type": "character",
+  "name": "Yana",
+  "original_name": "Яна",
+  "language": "en",
+  "source_language": "en",
+  "source": "She is the barista in the coffee shop",
+  "source_sha256": "af10dcf8f65351f811e791900f3a8c63d6464a2410ae38dd8bd4e7e133bc6bb8",
+  "translation": "She is the barista in the coffee shop",
+  "vndb_url": "https://vndb.org/c148840"
+}

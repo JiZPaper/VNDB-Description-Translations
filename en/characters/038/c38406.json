@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38406",
+  "type": "character",
+  "name": "Lukia",
+  "original_name": "ルキア",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"No matter what kind of attack you might receive, I'll definitely heal that wound.\"\nA bishop that excels at restoration magic.\nEven though his skills are already good, he is on a wandering journey to train.",
+  "source_sha256": "5dcdc6e6edf436c9f77c77ff930d2d0f807917f0b6ed96a522de7efbf37761cf",
+  "translation": "\"No matter what kind of attack you might receive, I'll definitely heal that wound.\"\nA bishop that excels at restoration magic.\nEven though his skills are already good, he is on a wandering journey to train.",
+  "vndb_url": "https://vndb.org/c38406"
+}

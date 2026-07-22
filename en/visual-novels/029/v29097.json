@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29097",
+  "type": "visual_novel",
+  "name": "Catch of the day",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Catch of the day follows Eric, a young guy working on a comercial fishing boat with his boss Louis. The two of them are having a fairly normal day, when something catches on their net - which turns out to be a merman.",
+  "source_sha256": "ee1e966214d5a2fac3b1dd7d4995b58cafde9c3b063c8d7c4b9249fb72708da2",
+  "translation": "Catch of the day follows Eric, a young guy working on a comercial fishing boat with his boss Louis. The two of them are having a fairly normal day, when something catches on their net - which turns out to be a merman.",
+  "vndb_url": "https://vndb.org/v29097"
+}

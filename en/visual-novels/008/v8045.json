@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8045",
+  "type": "visual_novel",
+  "name": "Café Zero ~Oboreta Ningyou~",
+  "original_name": "カフェ・ゼロ～溺れた人魚～",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a café at the middle of nowhere, the place where wandering ghosts are gathered. Here they will experience the last 7 days of their life once again. Will there really happen any changes within this time period?\n\n[From [url=http://www.roseverte.net/cafe0/eng/story.html]Official Site[/url]]",
+  "source_sha256": "572d28d06a25ab89b5c59bd9f63bbdd93fb0f0c2838993f62d0c942710be95a2",
+  "translation": "This is a café at the middle of nowhere, the place where wandering ghosts are gathered. Here they will experience the last 7 days of their life once again. Will there really happen any changes within this time period?\n\n[From [url=http://www.roseverte.net/cafe0/eng/story.html]Official Site[/url]]",
+  "vndb_url": "https://vndb.org/v8045"
+}

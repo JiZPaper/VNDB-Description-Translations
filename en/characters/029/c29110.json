@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29110",
+  "type": "character",
+  "name": "Shibuya Takuto",
+  "original_name": "渋谷 拓人",
+  "language": "en",
+  "source_language": "en",
+  "source": "Job: Pastry Chef\nHobby: Weight training, Going to the gym, Swimming\nFavorite Thing: All sweet things, Helping people\nHated Thing: All kinds of bugs",
+  "source_sha256": "8c3dbf726a187b29b3064ce45ffdb83ef660de92804ca12c230bab20672a6de9",
+  "translation": "Job: Pastry Chef\nHobby: Weight training, Going to the gym, Swimming\nFavorite Thing: All sweet things, Helping people\nHated Thing: All kinds of bugs",
+  "vndb_url": "https://vndb.org/c29110"
+}

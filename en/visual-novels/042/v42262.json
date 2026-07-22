@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42262",
+  "type": "visual_novel",
+  "name": "Raccoonwave",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A game about a raccoon and self-worth.\n\n[From [url=https://carapapa.itch.io/raccoonwave]Itch[/url]]",
+  "source_sha256": "9599cdfdc09ad2f7d6c63a49c116f6982f3faf315bffa84aa9239b6fc3d73cde",
+  "translation": "A game about a raccoon and self-worth.\n\n[From [url=https://carapapa.itch.io/raccoonwave]Itch[/url]]",
+  "vndb_url": "https://vndb.org/v42262"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79883",
+  "type": "character",
+  "name": "Card Lady",
+  "original_name": "カードレディ",
+  "language": "en",
+  "source_language": "en",
+  "source": "42000 years old",
+  "source_sha256": "996e884e1b7c14697ad7634c6d6c67c6e843a6041f926fdf9f6594bc30e6edaa",
+  "translation": "42000 years old",
+  "vndb_url": "https://vndb.org/c79883"
+}

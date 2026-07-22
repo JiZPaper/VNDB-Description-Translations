@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c142145",
+  "type": "character",
+  "name": "Female police officer",
+  "original_name": "女警官",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"It's okay. I just need to ask you a few questions.\"\n\nA female officer who appears at the beginning of the story. She encounters Yusia at the murder scene while chasing the killer and mistakenly arrests her as the murderer.",
+  "source_sha256": "c51694933564561614a5da9da23761263de6308edc06ad9ff98c9827b53621a8",
+  "translation": "\"It's okay. I just need to ask you a few questions.\"\n\nA female officer who appears at the beginning of the story. She encounters Yusia at the murder scene while chasing the killer and mistakenly arrests her as the murderer.",
+  "vndb_url": "https://vndb.org/c142145"
+}

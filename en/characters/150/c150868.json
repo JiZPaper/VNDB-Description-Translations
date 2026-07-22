@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150868",
+  "type": "character",
+  "name": "Inspector",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A building inspector who visits the Ward during the Friendship route. He gives the cast three months to clean up their act or he shuts the asylum down.",
+  "source_sha256": "c446a0ec099558e113391d79336f62772fc8843f299ea031906cda9da3afc1af",
+  "translation": "A building inspector who visits the Ward during the Friendship route. He gives the cast three months to clean up their act or he shuts the asylum down.",
+  "vndb_url": "https://vndb.org/c150868"
+}

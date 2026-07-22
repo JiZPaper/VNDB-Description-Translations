@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98492",
+  "type": "character",
+  "name": "Librarian",
+  "original_name": "司書",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the Librarians that assist the Spectators.",
+  "source_sha256": "42920405546ea1d1227c13211ac042b00324bb6a20311745f0e9699ce0aa01ad",
+  "translation": "One of the Librarians that assist the Spectators.",
+  "vndb_url": "https://vndb.org/c98492"
+}

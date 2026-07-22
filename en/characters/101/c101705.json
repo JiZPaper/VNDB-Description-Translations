@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101705",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Son of [url=/c101701]Lorraine[/url]\nBrother of [url=/c101704]Sophia[/url].",
+  "source_sha256": "d3b9f2ea36d19432e90cc18362561e838b3ec34bc53ec421ec643363c9947641",
+  "translation": "Son of [url=/c101701]Lorraine[/url]\nBrother of [url=/c101704]Sophia[/url].",
+  "vndb_url": "https://vndb.org/c101705"
+}

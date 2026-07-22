@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9462",
+  "type": "character",
+  "name": "Sir Bors",
+  "original_name": "騎士ボース",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on two knights from the Arthurian legend [url=http://en.wikipedia.org/wiki/Bors]of the same name[/url].",
+  "source_sha256": "069b76dfbbc49787ac3b72ea2d2c1462715030880af2d8c691650ab41f225606",
+  "translation": "Based on two knights from the Arthurian legend [url=http://en.wikipedia.org/wiki/Bors]of the same name[/url].",
+  "vndb_url": "https://vndb.org/c9462"
+}

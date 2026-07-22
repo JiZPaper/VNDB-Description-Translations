@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c32797",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "A high school girl who is worried about not being able to fall in love.\nShe is getting \"love instruction\" from the Bancho's.",
+  "source_sha256": "3874bb20b19d49e9a95ba36951e851beb3d3b957ad5fbd435cd489c064fca83a",
+  "translation": "A high school girl who is worried about not being able to fall in love.\nShe is getting \"love instruction\" from the Bancho's.",
+  "vndb_url": "https://vndb.org/c32797"
+}

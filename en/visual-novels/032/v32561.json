@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32561",
+  "type": "visual_novel",
+  "name": "testing testing things might get more interesting",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as Bogo, a human that, somehow, ended in a stranger's house with two cats.",
+  "source_sha256": "50fc8416827a6a6a98038ef0e6dffe3476c96f9d58dbbaccb67719f06a442e11",
+  "translation": "You play as Bogo, a human that, somehow, ended in a stranger's house with two cats.",
+  "vndb_url": "https://vndb.org/v32561"
+}

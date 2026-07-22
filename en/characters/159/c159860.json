@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159860",
+  "type": "character",
+  "name": "Doctor Maggy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Dr. Maggy is an alien infectious disease specialist. According to the database, she was requested by the Captain for this specific mission on Syr. Who knows why…\"",
+  "source_sha256": "c17b96b97e5fa2313a32d3810e85b902d5445756d2fd291ee5c42240ac3af4e0",
+  "translation": "Dr. Maggy is an alien infectious disease specialist. According to the database, she was requested by the Captain for this specific mission on Syr. Who knows why…\"",
+  "vndb_url": "https://vndb.org/c159860"
+}

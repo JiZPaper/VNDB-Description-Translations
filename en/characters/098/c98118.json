@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98118",
+  "type": "character",
+  "name": "Baron of Hell",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Always follows Cyberdemon and agrees to whatever it says.",
+  "source_sha256": "ee9e5481450f2c0b587753ce6b8c12908a983f3e9bcdafb46a217af96bc7f244",
+  "translation": "Always follows Cyberdemon and agrees to whatever it says.",
+  "vndb_url": "https://vndb.org/c98118"
+}

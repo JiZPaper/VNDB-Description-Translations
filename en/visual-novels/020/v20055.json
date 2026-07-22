@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20055",
+  "type": "visual_novel",
+  "name": "Énouement",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "After repressing his sexuality, everything changes when a new force enters Mello's life.",
+  "source_sha256": "25ca5e1a717e8b3d78d8d5a636ac017edda52e341d360e240c3878225fb84ab5",
+  "translation": "After repressing his sexuality, everything changes when a new force enters Mello's life.",
+  "vndb_url": "https://vndb.org/v20055"
+}

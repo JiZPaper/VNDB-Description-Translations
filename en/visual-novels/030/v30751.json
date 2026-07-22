@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30751",
+  "type": "visual_novel",
+  "name": "Campus Love Story",
+  "original_name": "캠퍼스 러브 스토리",
+  "language": "en",
+  "source_language": "en",
+  "source": "Let's make a girlfriend for 4 years in college!",
+  "source_sha256": "9c264af290a57ba1ad37f291931a462b3ac6baf4e1c34a9fcc3c5c61085fc42f",
+  "translation": "Let's make a girlfriend for 4 years in college!",
+  "vndb_url": "https://vndb.org/v30751"
+}

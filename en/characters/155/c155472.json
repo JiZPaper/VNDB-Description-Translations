@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155472",
+  "type": "character",
+  "name": "Rikina's friend",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[i]Rikina's friend[/i] is a quiet, unassuming girl also attending the same collega as you and Rikina. She is kind and loves monster movies.",
+  "source_sha256": "bbf7a13cd8e1747409e345357b29bb8db2bdd84d65193e42ec1207467cd1cc44",
+  "translation": "[i]Rikina's friend[/i] is a quiet, unassuming girl also attending the same collega as you and Rikina. She is kind and loves monster movies.",
+  "vndb_url": "https://vndb.org/c155472"
+}

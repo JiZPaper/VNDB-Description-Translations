@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c67543",
+  "type": "character",
+  "name": "Mark",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A part-time engineer and an occasional model.",
+  "source_sha256": "e3125cc95d47c56fdfaf922d77f3d8ac7f9d00f0aa2209fa4314f297052b2132",
+  "translation": "A part-time engineer and an occasional model.",
+  "vndb_url": "https://vndb.org/c67543"
+}

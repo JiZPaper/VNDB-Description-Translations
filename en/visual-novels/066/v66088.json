@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66088",
+  "type": "visual_novel",
+  "name": "FNAFHS Fan Game",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dating game based on the \"Five Nights at Freddy's: High School\" web series",
+  "source_sha256": "a606d997ad418b4e0caef520f7c2b7ff4554463fb78a6093e8f81f379ad9ffae",
+  "translation": "A dating game based on the \"Five Nights at Freddy's: High School\" web series",
+  "vndb_url": "https://vndb.org/v66088"
+}

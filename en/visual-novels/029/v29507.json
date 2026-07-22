@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29507",
+  "type": "visual_novel",
+  "name": "Drown Drops",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A little peek at one high school girl's Valentine's Day.",
+  "source_sha256": "7bf42bf5af2b9b9b78c039dd15af24bac0abb57822e6455c81b7952b5f826e3a",
+  "translation": "A little peek at one high school girl's Valentine's Day.",
+  "vndb_url": "https://vndb.org/v29507"
+}

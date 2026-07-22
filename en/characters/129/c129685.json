@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c129685",
+  "type": "character",
+  "name": "Fuu",
+  "original_name": "風",
+  "language": "en",
+  "source_language": "en",
+  "source": "Precise weight: 39.2 kg",
+  "source_sha256": "d26498f076665d6eec52c7318231fb526da243254c471d5135aec76c28373606",
+  "translation": "Precise weight: 39.2 kg",
+  "vndb_url": "https://vndb.org/c129685"
+}

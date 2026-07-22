@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11058",
+  "type": "visual_novel",
+  "name": "Canon",
+  "original_name": "キャノン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fan-fiction VN featuring Ka*on's characters.",
+  "source_sha256": "8c20a1fdf28663a453e50d183eb6a2b9c1d018a435696fc519e7f6b36e6ce772",
+  "translation": "A fan-fiction VN featuring Ka*on's characters.",
+  "vndb_url": "https://vndb.org/v11058"
+}

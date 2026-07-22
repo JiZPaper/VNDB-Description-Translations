@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c72386",
+  "type": "character",
+  "name": "Orion",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A new face at the bar.\n\nLikes: tomatoes, cybernetic augmentations, and vintage aesthetic\n\nDislikes: confrontation, and Ghiri\n\nPreferred Drink: Bloody Mary",
+  "source_sha256": "8173baef22d2855a2f272cc707d7e150c3100d9fb20c219deaccacdf3951c867",
+  "translation": "A new face at the bar.\n\nLikes: tomatoes, cybernetic augmentations, and vintage aesthetic\n\nDislikes: confrontation, and Ghiri\n\nPreferred Drink: Bloody Mary",
+  "vndb_url": "https://vndb.org/c72386"
+}

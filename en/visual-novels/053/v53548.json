@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53548",
+  "type": "visual_novel",
+  "name": "Good Morning",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Good Morning is a psychological visual novel where every choice matters. Trapped in a repeating morning, your decisions unlock hidden paths and multiple endings. Each replay reveals new secrets as you try to break free from the loop. Can you escape, or will you be stuck forever?\n\n[From [url=https://store.steampowered.com/app/3285200/]Steam[/url]]",
+  "source_sha256": "9591beab802da07ac76547d3c1fafe38d8da8a0b4de1b837c6e2199b93387e2f",
+  "translation": "Good Morning is a psychological visual novel where every choice matters. Trapped in a repeating morning, your decisions unlock hidden paths and multiple endings. Each replay reveals new secrets as you try to break free from the loop. Can you escape, or will you be stuck forever?\n\n[From [url=https://store.steampowered.com/app/3285200/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v53548"
+}

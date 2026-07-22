@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124965",
+  "type": "character",
+  "name": "H-1",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An android modelled after Hitomi.",
+  "source_sha256": "cf31a0da63327f74009a26d5c59bd9e76d2fae818ae451d2d0d4a7287e4c5e8f",
+  "translation": "An android modelled after Hitomi.",
+  "vndb_url": "https://vndb.org/c124965"
+}

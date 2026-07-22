@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12776",
+  "type": "character",
+  "name": "Emmanuel Serrault",
+  "original_name": "セロー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A coffee shop owner.",
+  "source_sha256": "ddda02171814319631fad62204f6ef6890f492d94bec4a7d1e8a3991032b985a",
+  "translation": "A coffee shop owner.",
+  "vndb_url": "https://vndb.org/c12776"
+}

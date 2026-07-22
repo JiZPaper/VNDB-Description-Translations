@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95558",
+  "type": "character",
+  "name": "Sumire",
+  "original_name": "スミレ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Robotic maid found in the trash.",
+  "source_sha256": "11c59f27dc93108d9b83e3fa6768a40606976f9819c8fbf129842dcdcffc2bcd",
+  "translation": "Robotic maid found in the trash.",
+  "vndb_url": "https://vndb.org/c95558"
+}

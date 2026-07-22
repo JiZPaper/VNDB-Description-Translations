@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89997",
+  "type": "character",
+  "name": "Erza",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Demoness warlock found sealed in an old cave.",
+  "source_sha256": "4cbc1e9fdec4164fe46a7c70576f55dc96bdb2f91aef9ad873734b5829b01970",
+  "translation": "Demoness warlock found sealed in an old cave.",
+  "vndb_url": "https://vndb.org/c89997"
+}

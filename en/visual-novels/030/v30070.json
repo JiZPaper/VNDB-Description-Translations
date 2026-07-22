@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30070",
+  "type": "visual_novel",
+  "name": "My Sweet Puppy Love",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your everyday life is upended when you are chosen to participate in a mystical gameshow, the outcome of which will decide the destiny of three girls you have never even met. Who will you choose to save?",
+  "source_sha256": "85813ea4479984c2cdc6c3257d5e9876e1216df3960a695231a90dbaa59c4cf6",
+  "translation": "Your everyday life is upended when you are chosen to participate in a mystical gameshow, the outcome of which will decide the destiny of three girls you have never even met. Who will you choose to save?",
+  "vndb_url": "https://vndb.org/v30070"
+}

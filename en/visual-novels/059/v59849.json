@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59849",
+  "type": "visual_novel",
+  "name": "Darkstar",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Enter a new world and learn to survive in Prihaya.\nYour journey will not be easy, young hero, but I have faith that you can save us all.",
+  "source_sha256": "825c2f357fa6326722a47b07056d783402c41384c9ec9066b02b1c6a58c3d71a",
+  "translation": "Enter a new world and learn to survive in Prihaya.\nYour journey will not be easy, young hero, but I have faith that you can save us all.",
+  "vndb_url": "https://vndb.org/v59849"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160998",
+  "type": "character",
+  "name": "Yatsufusa",
+  "original_name": "八房",
+  "language": "en",
+  "source_language": "en",
+  "source": "Dog that guides the eight swordsmen",
+  "source_sha256": "bb3a3340a6eb144ce8ae43f18bd0147284f8d15a3a8ef49f0ef5c1bd5e1776ad",
+  "translation": "Dog that guides the eight swordsmen",
+  "vndb_url": "https://vndb.org/c160998"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93459",
+  "type": "character",
+  "name": "Bill Clubb",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A security guard that works at Honor's television studio.",
+  "source_sha256": "1bd71c224de72615107499be35f912633ba43548992f2dfc6045ce36598c50f7",
+  "translation": "A security guard that works at Honor's television studio.",
+  "vndb_url": "https://vndb.org/c93459"
+}

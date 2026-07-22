@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35318",
+  "type": "visual_novel",
+  "name": "La Prueba",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A prototype using Ren'py made for learning and understanding said engine.\n\nYou wake up in some laboratory and a doctor are giving you orders. Will you follow them?",
+  "source_sha256": "396433210348585d89fd3fb63019463750ce34db1c72bc30378c74ccf53596d8",
+  "translation": "A prototype using Ren'py made for learning and understanding said engine.\n\nYou wake up in some laboratory and a doctor are giving you orders. Will you follow them?",
+  "vndb_url": "https://vndb.org/v35318"
+}

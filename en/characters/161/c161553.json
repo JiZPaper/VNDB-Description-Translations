@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161553",
+  "type": "character",
+  "name": "Paris Leto",
+  "original_name": "파리스 레토",
+  "language": "en",
+  "source_language": "en",
+  "source": "Skill: Ranged visual suspension",
+  "source_sha256": "d4f3213140598879897217fadcd11cc283b1eab9bd3f9bada445178d44f278de",
+  "translation": "Skill: Ranged visual suspension",
+  "vndb_url": "https://vndb.org/c161553"
+}

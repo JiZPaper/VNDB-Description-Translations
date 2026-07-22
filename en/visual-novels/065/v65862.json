@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65862",
+  "type": "visual_novel",
+  "name": "White Boy Summer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "White Boy Summer tells the story of Mike Oxmaul, a university student who doesn’t measure up to his peers in more ways than one.",
+  "source_sha256": "5418bdcf4ad267c34c50fff54b0e703b931d09dec626a68465526d56b06e6712",
+  "translation": "White Boy Summer tells the story of Mike Oxmaul, a university student who doesn’t measure up to his peers in more ways than one.",
+  "vndb_url": "https://vndb.org/v65862"
+}

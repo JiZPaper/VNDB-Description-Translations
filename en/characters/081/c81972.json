@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81972",
+  "type": "character",
+  "name": "Norris",
+  "original_name": "ノリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Though she has grown disillusioned with the world, she places her only hope for freedom in Landis.",
+  "source_sha256": "7ae2667fec05ce9ae4e770144749d530f68fc3c15f81f2ea43bc93000617dd09",
+  "translation": "Though she has grown disillusioned with the world, she places her only hope for freedom in Landis.",
+  "vndb_url": "https://vndb.org/c81972"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9998",
+  "type": "character",
+  "name": "Potato",
+  "original_name": "ポテト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious dog. A pet of [url=/c9991]Kano[/url].",
+  "source_sha256": "b6d392c6a791566fe1d5610a2aaca16fe67376a853502af132306018028c1f47",
+  "translation": "A mysterious dog. A pet of [url=/c9991]Kano[/url].",
+  "vndb_url": "https://vndb.org/c9998"
+}

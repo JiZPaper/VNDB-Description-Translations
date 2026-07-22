@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1425",
+  "type": "visual_novel",
+  "name": "Take off!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "School based yaoi game. Takes place over a full school term.",
+  "source_sha256": "57984d5fe6e9cafdf1bb481b05ffd0461c7bcfcd626bada0614df03fa00aa2a8",
+  "translation": "School based yaoi game. Takes place over a full school term.",
+  "vndb_url": "https://vndb.org/v1425"
+}

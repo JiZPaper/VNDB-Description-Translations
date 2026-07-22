@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100230",
+  "type": "character",
+  "name": "Liam",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An experienced human detective who works in the homicide department.",
+  "source_sha256": "ed314970e072d586a7fd9efc5a19ad49faaf9597b523dd56393788fa740ca4c0",
+  "translation": "An experienced human detective who works in the homicide department.",
+  "vndb_url": "https://vndb.org/c100230"
+}

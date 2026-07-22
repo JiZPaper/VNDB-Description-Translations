@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155236",
+  "type": "character",
+  "name": "Ivan",
+  "original_name": "伊万",
+  "language": "en",
+  "source_language": "en",
+  "source": "A broker selling functional modules for robots. They say there's nothing he can't get his hands on.",
+  "source_sha256": "b0e18a2e4eab0b3c3842370fadf0d2ec80bb6d2f1a55472965e6b1cafd82fed7",
+  "translation": "A broker selling functional modules for robots. They say there's nothing he can't get his hands on.",
+  "vndb_url": "https://vndb.org/c155236"
+}

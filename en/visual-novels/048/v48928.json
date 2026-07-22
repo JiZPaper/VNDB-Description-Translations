@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48928",
+  "type": "visual_novel",
+  "name": "Pomogi dedushke shodit' za hlebushkom",
+  "original_name": "Помоги дедушке сходить за хлебушком",
+  "language": "en",
+  "source_language": "en",
+  "source": "Help grandpa Go Get Some Bread!\n\nHe can't do it without you. But please, no bag with milk inside the bag for milk.\nGrandpa has an upset stomach from milk.\n\n[From [url=https://store.steampowered.com/app/2730890/]Steam[/url]]",
+  "source_sha256": "5ea1d0ed9e80927747c45f44129ff5fd0208b85bc38defa5a2b8d2122f7ff194",
+  "translation": "Help grandpa Go Get Some Bread!\n\nHe can't do it without you. But please, no bag with milk inside the bag for milk.\nGrandpa has an upset stomach from milk.\n\n[From [url=https://store.steampowered.com/app/2730890/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v48928"
+}

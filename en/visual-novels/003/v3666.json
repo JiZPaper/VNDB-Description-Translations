@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3666",
+  "type": "visual_novel",
+  "name": "Kao no Nai Tsuki Limited Collection",
+  "original_name": "顔のない月 LIMITED COLLECTION",
+  "language": "en",
+  "source_language": "en",
+  "source": "Contains two side stories of [url=/v240]Kao no nai Tsuki[/url]:\n\n\"Affection\", about the protagonist's life after the True End of the game.\n\n\"Shikaku\", about the protagonist's life before the start of the game.",
+  "source_sha256": "daa45505eed5a14278a4932755b22594f1106ff2b69bb2c42a7d2ecc5c93c277",
+  "translation": "Contains two side stories of [url=/v240]Kao no nai Tsuki[/url]:\n\n\"Affection\", about the protagonist's life after the True End of the game.\n\n\"Shikaku\", about the protagonist's life before the start of the game.",
+  "vndb_url": "https://vndb.org/v3666"
+}

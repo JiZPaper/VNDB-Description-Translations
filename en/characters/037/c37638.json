@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37638",
+  "type": "character",
+  "name": "Melissa",
+  "original_name": "メリッサ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A doll created by Zeus to look after Yui.",
+  "source_sha256": "cfe4fc9ff1db900e09007f09c8b7aa7e0daa0f36f1cd807b73cc94751f02a7dc",
+  "translation": "A doll created by Zeus to look after Yui.",
+  "vndb_url": "https://vndb.org/c37638"
+}

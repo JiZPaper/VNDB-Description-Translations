@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132931",
+  "type": "character",
+  "name": "Sirius",
+  "original_name": "シリウス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Born in 2035.",
+  "source_sha256": "c1f295b6fd9466ab5a51432afe7e7fa9f0b2915b88a175f6a4de53eb213b480e",
+  "translation": "Born in 2035.",
+  "vndb_url": "https://vndb.org/c132931"
+}

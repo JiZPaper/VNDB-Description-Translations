@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70021",
+  "type": "character",
+  "name": "Time",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An entity that devours time.",
+  "source_sha256": "25f05fd193beb564efc693254eedc3d9e34b8eb51a6db53c7b9fa5264feef1c7",
+  "translation": "An entity that devours time.",
+  "vndb_url": "https://vndb.org/c70021"
+}

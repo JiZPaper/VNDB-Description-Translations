@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82949",
+  "type": "character",
+  "name": "Natalya",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A \"present\" Kira gives Jake.",
+  "source_sha256": "4920c97a3a45b363748878a04606bf6511e7ab7eb2c024fd6b1bd1528bba589f",
+  "translation": "A \"present\" Kira gives Jake.",
+  "vndb_url": "https://vndb.org/c82949"
+}

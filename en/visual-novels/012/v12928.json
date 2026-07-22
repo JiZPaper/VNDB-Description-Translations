@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12928",
+  "type": "visual_novel",
+  "name": "Getsuei no Kusari -Kyouran Moratorium-",
+  "original_name": "月影の鎖 ―狂爛モラトリアム―",
+  "language": "en",
+  "source_language": "en",
+  "source": "The fandisc for Getsuei no Kusari, it adds a route for Ooigawa Mamoru\nwhich continues from the normal end and after stories for the main cast.\n\nThe Vita port adds two entirely new characters Toudou Miyabi and Toudou Itsuki.",
+  "source_sha256": "e598a4c7f6b3d1d60e562cf7d4c7cd61d2e190fb8c13037ae55a8811308c0f9b",
+  "translation": "The fandisc for Getsuei no Kusari, it adds a route for Ooigawa Mamoru\nwhich continues from the normal end and after stories for the main cast.\n\nThe Vita port adds two entirely new characters Toudou Miyabi and Toudou Itsuki.",
+  "vndb_url": "https://vndb.org/v12928"
+}

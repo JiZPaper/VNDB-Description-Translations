@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168734",
+  "type": "character",
+  "name": "The Lord",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The local lord hosting a masquerade ball",
+  "source_sha256": "1a5bcf2d58df361a71b8d2b392610024c14e13440b68c76b64137419be05a241",
+  "translation": "The local lord hosting a masquerade ball",
+  "vndb_url": "https://vndb.org/c168734"
+}

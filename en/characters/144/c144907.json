@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c144907",
+  "type": "character",
+  "name": "Heiron",
+  "original_name": "ヘイロン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Species: Black dragon",
+  "source_sha256": "96c30bda04e5060e49fa513e67b1ebb867d5c0483f513378484abd3ec2e3aa44",
+  "translation": "Species: Black dragon",
+  "vndb_url": "https://vndb.org/c144907"
+}

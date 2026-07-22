@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153003",
+  "type": "character",
+  "name": "Melody",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Character in the unlockable route Kimi x Melody.",
+  "source_sha256": "e578adcf8ebe1d2161497693d7fb18650cc646da511db5616170f4fd101047cc",
+  "translation": "Character in the unlockable route Kimi x Melody.",
+  "vndb_url": "https://vndb.org/c153003"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115788",
+  "type": "character",
+  "name": "Karen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mike's mother.",
+  "source_sha256": "cf0d8448d04f772230f581445ea369dc50acb95661b4c6ffec53ae44f75527f7",
+  "translation": "Mike's mother.",
+  "vndb_url": "https://vndb.org/c115788"
+}

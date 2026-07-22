@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159138",
+  "type": "character",
+  "name": "Mao Wuxiang",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lieutenant",
+  "source_sha256": "dc13911305c8dc332421e81eb37874d5807ece939925052eb0dd0542d527a383",
+  "translation": "Lieutenant",
+  "vndb_url": "https://vndb.org/c159138"
+}

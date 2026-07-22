@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10310",
+  "type": "visual_novel",
+  "name": "Lo & Li",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lo is moving and meets new friends in her new school. Oh, wait... does she? Chaos ensues.",
+  "source_sha256": "eea38ce29f87475cf44683a573e257a996f1352d1cedcdbcc4f05f9acfb58d40",
+  "translation": "Lo is moving and meets new friends in her new school. Oh, wait... does she? Chaos ensues.",
+  "vndb_url": "https://vndb.org/v10310"
+}

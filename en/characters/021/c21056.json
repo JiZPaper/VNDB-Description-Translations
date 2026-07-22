@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21056",
+  "type": "character",
+  "name": "Melseena",
+  "original_name": "メルチナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fictional robotic nurse",
+  "source_sha256": "ee1acc1705a429ba4ef6f204a6ce6406312c4af53c9df8529ebd2c7c5e5c0502",
+  "translation": "Fictional robotic nurse",
+  "vndb_url": "https://vndb.org/c21056"
+}

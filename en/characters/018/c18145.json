@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c18145",
+  "type": "character",
+  "name": "Mr. R",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The mysterious stranger who gave Katsuya the glasses.",
+  "source_sha256": "1f6fb83eedd7ccce89f0be1f26eee35c61162c0e6a60883cc6787930ceb8e411",
+  "translation": "The mysterious stranger who gave Katsuya the glasses.",
+  "vndb_url": "https://vndb.org/c18145"
+}

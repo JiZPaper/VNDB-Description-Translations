@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12919",
+  "type": "visual_novel",
+  "name": "Cheonsuui Jaerim",
+  "original_name": "천수의 재림",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a visual novel for advertising a Korean online game, Tartaros Online. [From [url=http://games.renpy.org/game/across-first.shtml]Ren'Py Games List[/url]]",
+  "source_sha256": "37d5886303d38ac99d8b9332c94978a700fe1fc414f9c24227fc5c7653d95b4f",
+  "translation": "This is a visual novel for advertising a Korean online game, Tartaros Online. [From [url=http://games.renpy.org/game/across-first.shtml]Ren'Py Games List[/url]]",
+  "vndb_url": "https://vndb.org/v12919"
+}

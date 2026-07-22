@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17569",
+  "type": "visual_novel",
+  "name": "Un Annivesaire",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A France x Canada birthday story.",
+  "source_sha256": "e2ab49e9c45500bf1cf4be69f0ac6e70d3de514b59866013f90dcc20a906add5",
+  "translation": "A France x Canada birthday story.",
+  "vndb_url": "https://vndb.org/v17569"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39101",
+  "type": "character",
+  "name": "Jule Rosemonde",
+  "original_name": "ジュール＝ロズモンド",
+  "language": "en",
+  "source_language": "en",
+  "source": "A hitman who uses poison with a bounty on his head.\nHe lives in a mansion covered with thorns.",
+  "source_sha256": "83ef9d7a01cdeafd6af05f4e36d0ba2bb78b892a0f4d5007f48bc1d60b4e1f72",
+  "translation": "A hitman who uses poison with a bounty on his head.\nHe lives in a mansion covered with thorns.",
+  "vndb_url": "https://vndb.org/c39101"
+}

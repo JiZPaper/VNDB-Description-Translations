@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51671",
+  "type": "character",
+  "name": "Haru",
+  "original_name": "ハル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Age: about 28 years\n\nHis real name is unknown.",
+  "source_sha256": "8e9db8ff4d912209c661fa17d3972f376e7d1330ef2b7121e4ca74b97fa139cd",
+  "translation": "Age: about 28 years\n\nHis real name is unknown.",
+  "vndb_url": "https://vndb.org/c51671"
+}

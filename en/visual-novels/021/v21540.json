@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21540",
+  "type": "visual_novel",
+  "name": "Bloodlust",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Fight in the arena!",
+  "source_sha256": "34e83dacfde88b6cb8ecbdbab1345a8a9731449ea8db9b0a5e7ede16899cd21c",
+  "translation": "Fight in the arena!",
+  "vndb_url": "https://vndb.org/v21540"
+}

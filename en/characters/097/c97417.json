@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97417",
+  "type": "character",
+  "name": "Man of Doronium",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "regular citizens of Doronium.",
+  "source_sha256": "8d50598edd018f4b6e4804ef11168be0358147ef9318035492f52d5613b2d0eb",
+  "translation": "regular citizens of Doronium.",
+  "vndb_url": "https://vndb.org/c97417"
+}

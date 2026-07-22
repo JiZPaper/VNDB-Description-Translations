@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c74547",
+  "type": "character",
+  "name": "Hatori Axel",
+  "original_name": "羽鳥 アクセル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Exchange student from Sweden",
+  "source_sha256": "0b54c2b032eec4fd738c9ccc602c0a67917e040413e2bfc2f5238f5cccb03963",
+  "translation": "Exchange student from Sweden",
+  "vndb_url": "https://vndb.org/c74547"
+}

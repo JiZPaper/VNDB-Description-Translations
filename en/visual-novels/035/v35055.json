@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35055",
+  "type": "visual_novel",
+  "name": "Hachienden",
+  "original_name": "八艶伝",
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel-based RPG game.\n\n[Edited from [url=https://tsukumon.itch.io/hachienden]Itch.io[/url]]",
+  "source_sha256": "0d394b6fdc6523d90f4b8ccff5378d914a77ce0bc71eac33816819ea48c395af",
+  "translation": "A visual novel-based RPG game.\n\n[Edited from [url=https://tsukumon.itch.io/hachienden]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v35055"
+}

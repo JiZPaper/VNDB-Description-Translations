@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6230",
+  "type": "visual_novel",
+  "name": "Final Fantasy Memorial ~Prelude~",
+  "original_name": "ファイナルファンタジーメモリアル～プレリュード～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fan-made ren'ai visual novel featuring characters from Final Fantasy in a school setting.",
+  "source_sha256": "35e1cfdfbcb910519b46ad3d9ae2633bba934acaf288a9f74f9e7a12d2c1f990",
+  "translation": "A fan-made ren'ai visual novel featuring characters from Final Fantasy in a school setting.",
+  "vndb_url": "https://vndb.org/v6230"
+}

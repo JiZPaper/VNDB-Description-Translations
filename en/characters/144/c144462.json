@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c144462",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He lost his parents a year ago. He overcame drug addiction but sometimes suffers from the consequences. He graduated from the first semester of college, after which he was expelled.",
+  "source_sha256": "7be1f46e76a2aa4fac38f9685f0f4b3ab730f7a96c78f011341a1a424adc8b9e",
+  "translation": "He lost his parents a year ago. He overcame drug addiction but sometimes suffers from the consequences. He graduated from the first semester of college, after which he was expelled.",
+  "vndb_url": "https://vndb.org/c144462"
+}

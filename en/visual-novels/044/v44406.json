@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44406",
+  "type": "visual_novel",
+  "name": "Date Simulator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You go on a date with a man. It's not great.\n\n[From [url=https://lavendercitrus.itch.io/date-simulator]Itch.io[/url]]",
+  "source_sha256": "324f77e35a411ab028b38bdc07f441017cccb889f72e63c50bcd8d99900ceb7f",
+  "translation": "You go on a date with a man. It's not great.\n\n[From [url=https://lavendercitrus.itch.io/date-simulator]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v44406"
+}

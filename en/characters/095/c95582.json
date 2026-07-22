@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95582",
+  "type": "character",
+  "name": "Alice",
+  "original_name": "アリス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Has few emotional ups and downs, and doesn't get upset about things.",
+  "source_sha256": "c2c7ca0dda7ce55478a8e8a844f99d42033a7c2d8810eabbc9fc3126e5381ab0",
+  "translation": "Has few emotional ups and downs, and doesn't get upset about things.",
+  "vndb_url": "https://vndb.org/c95582"
+}

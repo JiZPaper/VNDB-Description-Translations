@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155577",
+  "type": "character",
+  "name": "Nyarrator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The narrator of the game who helps (and bothers) the characters.",
+  "source_sha256": "d3a94b40c4e280c804f07ef16acb56eae48b99ddd7e7d6baa667399b8d19a51f",
+  "translation": "The narrator of the game who helps (and bothers) the characters.",
+  "vndb_url": "https://vndb.org/c155577"
+}

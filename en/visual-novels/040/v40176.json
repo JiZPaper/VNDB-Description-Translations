@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40176",
+  "type": "visual_novel",
+  "name": "Gen'ei Sengokutan",
+  "original_name": "幻影戦国譚",
+  "language": "en",
+  "source_language": "en",
+  "source": "A compilation of three BL stories.\n\n1. Gen'ei Sengokutan\n\n2. Return together.\n\n3. Nani mo Shiranai",
+  "source_sha256": "6921dd650578f4f933d5ce3f7524c12e6c263d2fad6a64e292f87bb0e693a7b6",
+  "translation": "A compilation of three BL stories.\n\n1. Gen'ei Sengokutan\n\n2. Return together.\n\n3. Nani mo Shiranai",
+  "vndb_url": "https://vndb.org/v40176"
+}

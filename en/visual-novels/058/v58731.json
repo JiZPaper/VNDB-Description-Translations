@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58731",
+  "type": "visual_novel",
+  "name": "Ovoschi",
+  "original_name": "Овощи",
+  "language": "en",
+  "source_language": "en",
+  "source": "Made as a test project before Indicator Jam.",
+  "source_sha256": "602d3863f3c811e65d943decba5d849bc6db5f3e4f75c9c56f58dc01d18d36dc",
+  "translation": "Made as a test project before Indicator Jam.",
+  "vndb_url": "https://vndb.org/v58731"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6690",
+  "type": "visual_novel",
+  "name": "Boku no \"Natsuyasumi\" Himitsu Taiken",
+  "original_name": "ボクの「なつやすみ」ヒミツたいけん",
+  "language": "en",
+  "source_language": "en",
+  "source": "A 3rd installment of \"Himitsu Taiken\" series.",
+  "source_sha256": "49889d621ad4f94cfe52917ead4c51f692e68a09f601f445aab79280edc29aad",
+  "translation": "A 3rd installment of \"Himitsu Taiken\" series.",
+  "vndb_url": "https://vndb.org/v6690"
+}

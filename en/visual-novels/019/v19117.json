@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19117",
+  "type": "visual_novel",
+  "name": "Shuumatsu no Trival",
+  "original_name": "終末のトリヴァール",
+  "language": "en",
+  "source_language": "en",
+  "source": "An April Fool's 2016 game which will be the 6th entry into Kirue's \"Games That Make Your Head Hurt\" series.",
+  "source_sha256": "26ec203d8027424df93b19967b85e794deb2922baa5566f9da699458be8ed0a5",
+  "translation": "An April Fool's 2016 game which will be the 6th entry into Kirue's \"Games That Make Your Head Hurt\" series.",
+  "vndb_url": "https://vndb.org/v19117"
+}

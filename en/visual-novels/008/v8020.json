@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8020",
+  "type": "visual_novel",
+  "name": "Rewrite Harvest festa!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Fandisc for Rewrite consisting of six heroine scenarios and an RPG minigame entitled Rewrite Quest.",
+  "source_sha256": "9636340a8aa82d8e194c62210fbe3ba81c8ef7bd7b86f67a26ecff5d0a3a8edf",
+  "translation": "Fandisc for Rewrite consisting of six heroine scenarios and an RPG minigame entitled Rewrite Quest.",
+  "vndb_url": "https://vndb.org/v8020"
+}

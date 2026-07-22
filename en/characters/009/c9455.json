@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9455",
+  "type": "character",
+  "name": "Multivac",
+  "original_name": "マルチヴァク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on a character from Isaac Asimov's novel.",
+  "source_sha256": "cdd95bd8d585a1ee98336b7d2943d4c1d16e39cc794387df2263d5d834613ade",
+  "translation": "Based on a character from Isaac Asimov's novel.",
+  "vndb_url": "https://vndb.org/c9455"
+}

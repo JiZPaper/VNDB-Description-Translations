@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89589",
+  "type": "character",
+  "name": "Writer",
+  "original_name": "Okiyuu",
+  "language": "en",
+  "source_language": "en",
+  "source": "Coding nerd who made the game",
+  "source_sha256": "02cec682bde605167eaf644e7d94e9e4f1669cad03e86401829703ba6e8420db",
+  "translation": "Coding nerd who made the game",
+  "vndb_url": "https://vndb.org/c89589"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55662",
+  "type": "character",
+  "name": "Yakushiin Kamui",
+  "original_name": "薬師院 神威",
+  "language": "en",
+  "source_language": "en",
+  "source": "An apprentice doctor hired by the government.",
+  "source_sha256": "65530e9f31c65e04f2cae88daa6cb034709c6d95d0ca99a23bd5b6048d08714e",
+  "translation": "An apprentice doctor hired by the government.",
+  "vndb_url": "https://vndb.org/c55662"
+}

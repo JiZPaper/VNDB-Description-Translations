@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140503",
+  "type": "character",
+  "name": "Mario",
+  "original_name": "マリオ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The leader of seven food sprites from Italy, who traveled to Japan based on rumors of a 5-star restaurant and eventually settled at Dogen Hut, helping the widowed [url=/c93382]Maki Yoneda[/url] cook. He specializes in meat dishes.",
+  "source_sha256": "c44ef89ef715ac03a31434b2b53b7ce9d0dff051397a3cbde7d7caa7cf30b62c",
+  "translation": "The leader of seven food sprites from Italy, who traveled to Japan based on rumors of a 5-star restaurant and eventually settled at Dogen Hut, helping the widowed [url=/c93382]Maki Yoneda[/url] cook. He specializes in meat dishes.",
+  "vndb_url": "https://vndb.org/c140503"
+}

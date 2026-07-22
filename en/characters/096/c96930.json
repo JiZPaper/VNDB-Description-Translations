@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96930",
+  "type": "character",
+  "name": "Yamamoto Ritsuko",
+  "original_name": "山本 律子",
+  "language": "en",
+  "source_language": "en",
+  "source": "PS version exclusive character. A rock singer.",
+  "source_sha256": "3fff53e02f168b7e6c77f0fbea2a8aec34dd036f1751015a024cb7b246153bee",
+  "translation": "PS version exclusive character. A rock singer.",
+  "vndb_url": "https://vndb.org/c96930"
+}

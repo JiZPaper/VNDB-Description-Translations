@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30252",
+  "type": "character",
+  "name": "The Passenger",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious drifter who spends his time traveling around the galaxy, looking for work and profit wherever his fate may take him.",
+  "source_sha256": "34e4648ddc1e8a97c816e25ba944863655d1a073a94d256aa60c8532ddb3207c",
+  "translation": "A mysterious drifter who spends his time traveling around the galaxy, looking for work and profit wherever his fate may take him.",
+  "vndb_url": "https://vndb.org/c30252"
+}

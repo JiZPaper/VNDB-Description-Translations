@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150103",
+  "type": "character",
+  "name": "Sin Kitty",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The version of Sin from the SinKitty: All A Game manga",
+  "source_sha256": "11865288270f8320549e16e39e3f9fc9271fa1f6df9567ead404f94d05434c68",
+  "translation": "The version of Sin from the SinKitty: All A Game manga",
+  "vndb_url": "https://vndb.org/c150103"
+}

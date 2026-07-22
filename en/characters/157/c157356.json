@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c157356",
+  "type": "character",
+  "name": "Yuna",
+  "original_name": "唯奈",
+  "language": "en",
+  "source_language": "en",
+  "source": "The youngest of the three girls from the expedition club.",
+  "source_sha256": "071850a75fbd474e2a113c52b212e131c62f64635099312bd3ca9d9d544234c1",
+  "translation": "The youngest of the three girls from the expedition club.",
+  "vndb_url": "https://vndb.org/c157356"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71094",
+  "type": "character",
+  "name": "Mergo",
+  "original_name": "メルゴ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A demon spearsman of Team Forte.",
+  "source_sha256": "df7240910ec5c6a1903805fe6cc1bb202c367b2a5e0306d1cb01785f9a40eb9e",
+  "translation": "A demon spearsman of Team Forte.",
+  "vndb_url": "https://vndb.org/c71094"
+}

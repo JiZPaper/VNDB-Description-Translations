@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148096",
+  "type": "character",
+  "name": "Uranari Genan",
+  "original_name": "ウラナリ・ゲナン",
+  "language": "en",
+  "source_language": "en",
+  "source": "The head butler of [url=/c124808]Nana[/url]'s household.\nHe was brought to Toushin City by Nana.\nHe's not good at remembering people's names and makes a lot of careless mistakes.\n\n[Translate from [url=https://www.alicesoft.com/toushin3/chr26.html]official web[/url]]",
+  "source_sha256": "950ce20e73377ff1de04eb11d96cadad9c4735b71f59389be996b7325c77e574",
+  "translation": "The head butler of [url=/c124808]Nana[/url]'s household.\nHe was brought to Toushin City by Nana.\nHe's not good at remembering people's names and makes a lot of careless mistakes.\n\n[Translate from [url=https://www.alicesoft.com/toushin3/chr26.html]official web[/url]]",
+  "vndb_url": "https://vndb.org/c148096"
+}

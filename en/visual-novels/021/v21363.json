@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21363",
+  "type": "visual_novel",
+  "name": "The Carnaloreon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sisters Lucy and Nicky get a letter from their estranged aunt Jessica, inviting them to visit her for a holiday.",
+  "source_sha256": "2d20213d2194b901018c2e852cf3efdab72de66ba7848e08131f588607520cd0",
+  "translation": "Sisters Lucy and Nicky get a letter from their estranged aunt Jessica, inviting them to visit her for a holiday.",
+  "vndb_url": "https://vndb.org/v21363"
+}

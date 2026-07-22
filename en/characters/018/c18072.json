@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c18072",
+  "type": "character",
+  "name": "Nohara Mai",
+  "original_name": "野原 麻衣",
+  "language": "en",
+  "source_language": "en",
+  "source": "Convenience Store Worker",
+  "source_sha256": "a1e4353ef93c11ec771d5460febf6f6905d79a9765d3c74f0986a4c4cf56d8e2",
+  "translation": "Convenience Store Worker",
+  "vndb_url": "https://vndb.org/c18072"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139627",
+  "type": "character",
+  "name": "Orochi",
+  "original_name": "オロチ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The ruler of Ôedo.",
+  "source_sha256": "52a729f1681ba9d82b5bb74cbf1426af8bfe4c1061269f68c29e0e32e96e8601",
+  "translation": "The ruler of Ôedo.",
+  "vndb_url": "https://vndb.org/c139627"
+}

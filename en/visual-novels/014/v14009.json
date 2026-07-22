@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14009",
+  "type": "visual_novel",
+  "name": "Beskonechnoe Puteshestvie",
+  "original_name": "Бесконечное Путешествие",
+  "language": "en",
+  "source_language": "en",
+  "source": "A port of classical point'n'click adventure game \"The Longest Journey\" to Sega Mega Drive/Sega Genesis. Due to the limitations of the console, most of the gameplay was removed and the game was turned into a visual novel.",
+  "source_sha256": "b9245975798f1f7b3c2833bc2742c587ec70b5995d916c932a14db41127f40bd",
+  "translation": "A port of classical point'n'click adventure game \"The Longest Journey\" to Sega Mega Drive/Sega Genesis. Due to the limitations of the console, most of the gameplay was removed and the game was turned into a visual novel.",
+  "vndb_url": "https://vndb.org/v14009"
+}

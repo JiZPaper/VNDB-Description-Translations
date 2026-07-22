@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29700",
+  "type": "character",
+  "name": "Kokonoe Touko",
+  "original_name": "九重 柊子",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Japanese Youkai\"\nRace: Kyuubi (Nine-tailed fox)",
+  "source_sha256": "447324fbe80f62348f84b07090fb332e1990650ea9d22616a44ba81212c6d473",
+  "translation": "\"Japanese Youkai\"\nRace: Kyuubi (Nine-tailed fox)",
+  "vndb_url": "https://vndb.org/c29700"
+}

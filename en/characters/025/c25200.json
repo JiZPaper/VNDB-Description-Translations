@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25200",
+  "type": "character",
+  "name": "Brad Melnick",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A football player whom Mark can get a job tutoring.",
+  "source_sha256": "2ca185f137757bda5d69200896780f98fb6816fc35790720a81ba23e57e440ae",
+  "translation": "A football player whom Mark can get a job tutoring.",
+  "vndb_url": "https://vndb.org/c25200"
+}

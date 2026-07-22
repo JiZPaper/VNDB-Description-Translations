@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148800",
+  "type": "character",
+  "name": "Sasha",
+  "original_name": "Саша",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sasha is a guy with a difficult childhood, but a strong will.\nA useful and exciting hobby does not let him get sad for a minute!",
+  "source_sha256": "9be19cc236166c034b5157d203f46f9ed22bdda195c6a02aaa9f374e89e726e6",
+  "translation": "Sasha is a guy with a difficult childhood, but a strong will.\nA useful and exciting hobby does not let him get sad for a minute!",
+  "vndb_url": "https://vndb.org/c148800"
+}

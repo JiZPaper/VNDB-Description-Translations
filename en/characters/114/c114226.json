@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c114226",
+  "type": "character",
+  "name": "Billy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A kid that lives in Dialtown. Can be a rulebreaker or helpful, but chooses to be chaotic.",
+  "source_sha256": "2eb87a4704bc139b8a09e5078b28218f702ca10b1d73063fb9643069dcb447ea",
+  "translation": "A kid that lives in Dialtown. Can be a rulebreaker or helpful, but chooses to be chaotic.",
+  "vndb_url": "https://vndb.org/c114226"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95207",
+  "type": "character",
+  "name": "Janice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A coyote who's an old resident of Echo, having worked in its local diner as a waitress for many years.",
+  "source_sha256": "0269b6763e77b2ec0bcb8fde4a53dc83ff750db38e87dd7d135b1bb4eef4c5f0",
+  "translation": "A coyote who's an old resident of Echo, having worked in its local diner as a waitress for many years.",
+  "vndb_url": "https://vndb.org/c95207"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100410",
+  "type": "character",
+  "name": "Sigurn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A former divinely-appointed hero, now depressed and living with Thistle.",
+  "source_sha256": "badeebc77e7ee415c226a4f0cf2f7b8a55229ed34527a6edad99d1a7f3ed50e4",
+  "translation": "A former divinely-appointed hero, now depressed and living with Thistle.",
+  "vndb_url": "https://vndb.org/c100410"
+}

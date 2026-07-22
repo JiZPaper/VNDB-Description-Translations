@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30253",
+  "type": "character",
+  "name": "Budapest",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Personal Navigator artificial intelligence created by Titan Transportation Solutions, Budapest is the pilot of the Passenger's coming shuttle flight.",
+  "source_sha256": "c86f51e72a5753b8df33c8eedcd5e47d046ce5c1abd1285cc20871fe6e6a2a80",
+  "translation": "A Personal Navigator artificial intelligence created by Titan Transportation Solutions, Budapest is the pilot of the Passenger's coming shuttle flight.",
+  "vndb_url": "https://vndb.org/c30253"
+}

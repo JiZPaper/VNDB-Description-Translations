@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c54068",
+  "type": "character",
+  "name": "Mu",
+  "original_name": "ムー",
+  "language": "en",
+  "source_language": "en",
+  "source": "An ancient hero who is the administrator of the world.",
+  "source_sha256": "b4eaf945a74ac9cd84c04bdf93c2ad4e8e4a37bc6c90a946fef60ab3eebc9e7f",
+  "translation": "An ancient hero who is the administrator of the world.",
+  "vndb_url": "https://vndb.org/c54068"
+}

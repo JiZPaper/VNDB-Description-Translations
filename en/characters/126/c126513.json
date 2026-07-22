@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126513",
+  "type": "character",
+  "name": "Kermit",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An avatar animal summoned by Penelope.",
+  "source_sha256": "4ad2b8d0a1e7f82afbdb05579dc6bdcad5f141bf65cac2301ee4e2789dd1a63b",
+  "translation": "An avatar animal summoned by Penelope.",
+  "vndb_url": "https://vndb.org/c126513"
+}

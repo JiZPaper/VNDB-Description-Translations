@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38138",
+  "type": "character",
+  "name": "Droite",
+  "original_name": "ドロワット",
+  "language": "en",
+  "source_language": "en",
+  "source": "Dorowatto-> (French) Droite",
+  "source_sha256": "a005a3a7a578ffa731aeb83c30b55351673ce3ce6919e268c91734562578632c",
+  "translation": "Dorowatto-> (French) Droite",
+  "vndb_url": "https://vndb.org/c38138"
+}

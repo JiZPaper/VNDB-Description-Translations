@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23054",
+  "type": "visual_novel",
+  "name": "The Room",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You wake up in a room full of strangers.\nWhy are you here?\nWhat is your purpose?\nCan you trust anyone?\nIt's up to you to decide!\n\n[From [url=https://play.google.com/store/apps/details?id=theroom.com&hl=en]Google Play[/url]]",
+  "source_sha256": "dd13b31288528abc83228df5d2c5780e2617b7366606c9371abac864085cc79c",
+  "translation": "You wake up in a room full of strangers.\nWhy are you here?\nWhat is your purpose?\nCan you trust anyone?\nIt's up to you to decide!\n\n[From [url=https://play.google.com/store/apps/details?id=theroom.com&hl=en]Google Play[/url]]",
+  "vndb_url": "https://vndb.org/v23054"
+}

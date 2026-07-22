@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38785",
+  "type": "character",
+  "name": "Ace Player",
+  "original_name": "エースプレイヤー",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I'm in the middle of a match, Coach! Look at the ball, not me!\"\n\nThe angel (ace player) inside the tennis court.",
+  "source_sha256": "f1ced2a480d5bf0eea4200a4c5a02fbb367c4102f0a047d9b3f24994df20dbae",
+  "translation": "\"I'm in the middle of a match, Coach! Look at the ball, not me!\"\n\nThe angel (ace player) inside the tennis court.",
+  "vndb_url": "https://vndb.org/c38785"
+}

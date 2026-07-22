@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125976",
+  "type": "character",
+  "name": "Robin",
+  "original_name": "ロビン",
+  "language": "en",
+  "source_language": "en",
+  "source": "An assassin involved with the Demon Lord army.",
+  "source_sha256": "30dcbba1a6fb2d2415ffedce0f1c7e74c909a755bf3d00a0f0bd0bd473b8c01e",
+  "translation": "An assassin involved with the Demon Lord army.",
+  "vndb_url": "https://vndb.org/c125976"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58663",
+  "type": "visual_novel",
+  "name": "Ty ne odin",
+  "original_name": "Ты не один",
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel that plunges you into the everyday life of students. Along the way, it explores themes like academic stress, parental expectations, family troubles, and the challenge of finding your true calling. Your mission is to help each character face and overcome their personal struggles.",
+  "source_sha256": "a94bb23e827eca593813d4a335ff35a10043c09a504c76866b3d274ce0f50b2d",
+  "translation": "A visual novel that plunges you into the everyday life of students. Along the way, it explores themes like academic stress, parental expectations, family troubles, and the challenge of finding your true calling. Your mission is to help each character face and overcome their personal struggles.",
+  "vndb_url": "https://vndb.org/v58663"
+}

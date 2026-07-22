@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88524",
+  "type": "character",
+  "name": "Aqua",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Aqua is a very shy mermaid from a very conservative family in Atlantis. She moved to Seattle to be a computer graphics researcher. She's also an aspiring indie game developer.",
+  "source_sha256": "37c6d563a2423174754a7ea9efc7586c0bf680e81ec85635c1063661e47816c8",
+  "translation": "Aqua is a very shy mermaid from a very conservative family in Atlantis. She moved to Seattle to be a computer graphics researcher. She's also an aspiring indie game developer.",
+  "vndb_url": "https://vndb.org/c88524"
+}

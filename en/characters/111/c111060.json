@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c111060",
+  "type": "character",
+  "name": "Mom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's mother. She passed away several years before the start of the story.",
+  "source_sha256": "fa00c2678a47125f585fb4095c732d9a145601761c0ab13dfae61bbcd4fa7117",
+  "translation": "The protagonist's mother. She passed away several years before the start of the story.",
+  "vndb_url": "https://vndb.org/c111060"
+}

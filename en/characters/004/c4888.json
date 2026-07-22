@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4888",
+  "type": "character",
+  "name": "Phantom of the Opera",
+  "original_name": "オペラ座の怪人",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious man living in the Opera House and the rumored Phantom. He wears a mask covering half of his face and never shows up in public, only to Christine.\nHe gives her singing lessons but his intentions are unclear.\n\n[spoiler]His real name is Erik.[/spoiler]",
+  "source_sha256": "55e86e56912abae8ce09b1933b1bf02404ec277ce3f1e41e81ff75c84297acec",
+  "translation": "A mysterious man living in the Opera House and the rumored Phantom. He wears a mask covering half of his face and never shows up in public, only to Christine.\nHe gives her singing lessons but his intentions are unclear.\n\n[spoiler]His real name is Erik.[/spoiler]",
+  "vndb_url": "https://vndb.org/c4888"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95088",
+  "type": "character",
+  "name": "Yasaka Souta",
+  "original_name": "八坂 想太",
+  "language": "en",
+  "source_language": "en",
+  "source": "An orphan living in a hospital.",
+  "source_sha256": "63d0701fc6a925b35c18b2c649c5fbb78a011668e6f7d282707f3b6f431ce48a",
+  "translation": "An orphan living in a hospital.",
+  "vndb_url": "https://vndb.org/c95088"
+}

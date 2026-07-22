@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134215",
+  "type": "character",
+  "name": "Jed",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Head foreman for a construction project that the company is doing.",
+  "source_sha256": "4a8870e519c208109fb3985ff8f6160d2033904847f13c8765994252a79bbb2c",
+  "translation": "Head foreman for a construction project that the company is doing.",
+  "vndb_url": "https://vndb.org/c134215"
+}

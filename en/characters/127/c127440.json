@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127440",
+  "type": "character",
+  "name": "Cardamia",
+  "original_name": "카다미아",
+  "language": "en",
+  "source_language": "en",
+  "source": "Succubus.\nSummoning Fountain Manager.",
+  "source_sha256": "a0b4ff0c007fcdbfe6a4fed1bf0f0297a8c98f7690c971c59735a3c1744ddddd",
+  "translation": "Succubus.\nSummoning Fountain Manager.",
+  "vndb_url": "https://vndb.org/c127440"
+}

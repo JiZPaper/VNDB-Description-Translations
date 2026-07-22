@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98642",
+  "type": "character",
+  "name": "Danaus Plexippus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A monarch butterfly with striking white wings.\n\nHe speaks with a soft voice, yet presents himself confindently.\nLongs for a sense of wonder.",
+  "source_sha256": "6b6e9179a9aec2d28436e7fb7a1f9a04a14518bc968465cc5434759bc1d3120d",
+  "translation": "A monarch butterfly with striking white wings.\n\nHe speaks with a soft voice, yet presents himself confindently.\nLongs for a sense of wonder.",
+  "vndb_url": "https://vndb.org/c98642"
+}

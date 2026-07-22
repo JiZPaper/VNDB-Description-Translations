@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139736",
+  "type": "character",
+  "name": "Player",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Player is a Keyblade Wielder that has recently awoken in Daybreak Town. They can be of any gender and their appearance is customizable. After picking a Union, meeting Ephemer and Skuld, they find themselves in the middle of a war that will devastate their town.\n\nThey are referred to as Player by fans.",
+  "source_sha256": "289f8556303482841d1cc09457f0ace5b337aa0ce0d0da982b66e71996749ff1",
+  "translation": "Player is a Keyblade Wielder that has recently awoken in Daybreak Town. They can be of any gender and their appearance is customizable. After picking a Union, meeting Ephemer and Skuld, they find themselves in the middle of a war that will devastate their town.\n\nThey are referred to as Player by fans.",
+  "vndb_url": "https://vndb.org/c139736"
+}

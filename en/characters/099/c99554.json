@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99554",
+  "type": "character",
+  "name": "Some",
+  "original_name": "染",
+  "language": "en",
+  "source_language": "en",
+  "source": "Professional tailor in Kanto. She is responsible for clothes of the Eight Swords.",
+  "source_sha256": "955174fecaa601f3961523dfaf86d6471f262304da831529724e75787c63d16b",
+  "translation": "Professional tailor in Kanto. She is responsible for clothes of the Eight Swords.",
+  "vndb_url": "https://vndb.org/c99554"
+}

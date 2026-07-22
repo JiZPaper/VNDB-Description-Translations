@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75158",
+  "type": "character",
+  "name": "MC",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sign: ???\nFavorite Flavor: ???\n\nA young woman fresh on her new job at Two Scoops. Cautious, but optimistic!",
+  "source_sha256": "8a322aa507ae69468c3bdc2c57c5cdb44e2bc094ed82f44ff3ccfceedeaf1a67",
+  "translation": "Sign: ???\nFavorite Flavor: ???\n\nA young woman fresh on her new job at Two Scoops. Cautious, but optimistic!",
+  "vndb_url": "https://vndb.org/c75158"
+}

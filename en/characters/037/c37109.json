@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37109",
+  "type": "character",
+  "name": "Kyle Romford",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A shipwrecked passenger who gets stuck on an island.",
+  "source_sha256": "f6552a5082f3f3e89dcc4f541ffdfffc017463a237d778fccb030f7220fa76e1",
+  "translation": "A shipwrecked passenger who gets stuck on an island.",
+  "vndb_url": "https://vndb.org/c37109"
+}

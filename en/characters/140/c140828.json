@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140828",
+  "type": "character",
+  "name": "Greta",
+  "original_name": "グリタ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Milch's mum",
+  "source_sha256": "6715ded202051a3fbbd8991317f9ca9e7b8b5dac52002b1e2d11e95b22212719",
+  "translation": "Milch's mum",
+  "vndb_url": "https://vndb.org/c140828"
+}

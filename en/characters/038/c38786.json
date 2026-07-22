@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38786",
+  "type": "character",
+  "name": "Agent",
+  "original_name": "エージェント",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"There is nobody who can stop me. Even if it's you, Master...\"\n\nA maid (agent) with two faces.",
+  "source_sha256": "e239bc506f5d612091fbe7b114b6cc095a6185fd7266cf840bec965a583f7b69",
+  "translation": "\"There is nobody who can stop me. Even if it's you, Master...\"\n\nA maid (agent) with two faces.",
+  "vndb_url": "https://vndb.org/c38786"
+}

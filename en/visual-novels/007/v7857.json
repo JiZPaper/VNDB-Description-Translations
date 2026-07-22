@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7857",
+  "type": "visual_novel",
+  "name": "The Firebird",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A retelling of the classic fairy tale.",
+  "source_sha256": "395edbbf6a6f15145d5791f0eee20cd4a04601a47e11372c075cdd28fabe234a",
+  "translation": "A retelling of the classic fairy tale.",
+  "vndb_url": "https://vndb.org/v7857"
+}

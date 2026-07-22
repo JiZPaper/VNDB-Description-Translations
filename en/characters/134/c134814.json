@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134814",
+  "type": "character",
+  "name": "Hellen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The novice female detective.",
+  "source_sha256": "d03d3896f7687293ab7f9a59e1df9a5fd80507170ba0e65766db97041ff9ad0a",
+  "translation": "The novice female detective.",
+  "vndb_url": "https://vndb.org/c134814"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35117",
+  "type": "visual_novel",
+  "name": "Love Monsters and Order",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is an early prototype of a text fantasy text adventure game with a focus on the monsters instead of the heroes. You'll have to survive on an island prison but you won't be able to do so alone. You'll have to earn the favor of the other residents as you search for a way to escape.\n\n[From [url=https://draite.itch.io/love-monster-and-order]Itch.io[/url]]",
+  "source_sha256": "c25a6707b383803cde41836126d79e9ff7d6fe00def2fa8c95ec126d4da1f946",
+  "translation": "This is an early prototype of a text fantasy text adventure game with a focus on the monsters instead of the heroes. You'll have to survive on an island prison but you won't be able to do so alone. You'll have to earn the favor of the other residents as you search for a way to escape.\n\n[From [url=https://draite.itch.io/love-monster-and-order]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v35117"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4572",
+  "type": "character",
+  "name": "Sara Blackmoore",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is the victim. She worked for Biodev Imaging.",
+  "source_sha256": "01a61257c9656c8ab7aec334deb566dc29b85b60d0d13c3f8cd47eb57c21c505",
+  "translation": "She is the victim. She worked for Biodev Imaging.",
+  "vndb_url": "https://vndb.org/c4572"
+}

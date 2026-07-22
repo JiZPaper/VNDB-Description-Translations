@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134493",
+  "type": "character",
+  "name": "Baron Münchhausen",
+  "original_name": "ミュンヒハウゼン男爵",
+  "language": "en",
+  "source_language": "en",
+  "source": "A servant of Prometheus.",
+  "source_sha256": "dbd373f737119b61583a99df8c740ee54f22d038b83241005ed0c5695dbfa076",
+  "translation": "A servant of Prometheus.",
+  "vndb_url": "https://vndb.org/c134493"
+}

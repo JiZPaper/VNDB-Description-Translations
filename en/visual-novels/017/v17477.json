@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17477",
+  "type": "visual_novel",
+  "name": "What Are Little Boys Made Of?",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A puzzle game based on the nursery rhyme 'What Are Little Boys Made Of?'.",
+  "source_sha256": "824f8f02bd516a9a7a36c912180f845b060a7f8122626a0addd230c05b2f1d8b",
+  "translation": "A puzzle game based on the nursery rhyme 'What Are Little Boys Made Of?'.",
+  "vndb_url": "https://vndb.org/v17477"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c72224",
+  "type": "character",
+  "name": "Nanashi",
+  "original_name": "ナナシ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A tree fairy befriended by Ricardo.",
+  "source_sha256": "4afb743748c037874bb1b3694d70ad49b20457a0a2ce4f0d644661f1a34bb1b7",
+  "translation": "A tree fairy befriended by Ricardo.",
+  "vndb_url": "https://vndb.org/c72224"
+}

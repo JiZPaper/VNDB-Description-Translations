@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50358",
+  "type": "visual_novel",
+  "name": "Max in the Big City",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The main hero’s name is Max.\nHe has a mother, a father and a younger sister.\nHe’s lived all his life in a small village.\nHe has never left it.",
+  "source_sha256": "1fb83b2906d36d9d2c20e3324ca10a40759972d98bf2dbd048e89f573a3ce112",
+  "translation": "The main hero’s name is Max.\nHe has a mother, a father and a younger sister.\nHe’s lived all his life in a small village.\nHe has never left it.",
+  "vndb_url": "https://vndb.org/v50358"
+}

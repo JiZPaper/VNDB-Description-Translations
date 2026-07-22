@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44993",
+  "type": "character",
+  "name": "William the 4th",
+  "original_name": "ウィレム4世",
+  "language": "en",
+  "source_language": "en",
+  "source": "The king of Albaria.\nHe has an amazing beard.\n\n[spoiler]Hidden capturable character.[/spoiler]",
+  "source_sha256": "1ca59d51f5af6e091c5a7578ae5e3cfdcc6826cd60824208b96e73345a28b5e5",
+  "translation": "The king of Albaria.\nHe has an amazing beard.\n\n[spoiler]Hidden capturable character.[/spoiler]",
+  "vndb_url": "https://vndb.org/c44993"
+}

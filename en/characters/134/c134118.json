@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134118",
+  "type": "character",
+  "name": "Bless",
+  "original_name": "ブレス",
+  "language": "en",
+  "source_language": "en",
+  "source": "[url=/c134116]Riza[/url]'s infant.",
+  "source_sha256": "7e847458cb7d40ba144675df13dc4fb990a817ebb262cf31d14e86a0b98619ac",
+  "translation": "[url=/c134116]Riza[/url]'s infant.",
+  "vndb_url": "https://vndb.org/c134118"
+}

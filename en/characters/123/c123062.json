@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123062",
+  "type": "character",
+  "name": "Enzo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A former worker at a factory that burned to the ground. He is an NPC and homeless.",
+  "source_sha256": "7adf16a6d772afd36021149e44c744c658459ab46c8d4f3130c6a22349d2260d",
+  "translation": "A former worker at a factory that burned to the ground. He is an NPC and homeless.",
+  "vndb_url": "https://vndb.org/c123062"
+}

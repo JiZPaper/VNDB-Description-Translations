@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134090",
+  "type": "character",
+  "name": "Remie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A strange woman who lives below with the rats. She has a card game she made that she wants to play with you.",
+  "source_sha256": "89d3da48b81a40653e651a39e0bd5fd062ab211caaf6c24ea65c23acdd4463fa",
+  "translation": "A strange woman who lives below with the rats. She has a card game she made that she wants to play with you.",
+  "vndb_url": "https://vndb.org/c134090"
+}

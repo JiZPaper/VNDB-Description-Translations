@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89705",
+  "type": "character",
+  "name": "Roger",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Eloise neighbour's son.",
+  "source_sha256": "bd67191c8160d44462798640105771bae8bf281341216a905f95b896dce23d90",
+  "translation": "Eloise neighbour's son.",
+  "vndb_url": "https://vndb.org/c89705"
+}

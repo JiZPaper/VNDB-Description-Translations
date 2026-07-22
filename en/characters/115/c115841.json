@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115841",
+  "type": "character",
+  "name": "Triss",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Kathryn and Mike's high school bully.",
+  "source_sha256": "b94f817a650f1c3057c14af7a1e36377a476861bb7985b52e3a4ec3a14cbb90b",
+  "translation": "Kathryn and Mike's high school bully.",
+  "vndb_url": "https://vndb.org/c115841"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29783",
+  "type": "visual_novel",
+  "name": "The Hound",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Inspired by Sherlock Holmes",
+  "source_sha256": "e5408b38d877a2f2dd3d51388efbe128be72c35cc6a92812de13afed6a46a941",
+  "translation": "Inspired by Sherlock Holmes",
+  "vndb_url": "https://vndb.org/v29783"
+}

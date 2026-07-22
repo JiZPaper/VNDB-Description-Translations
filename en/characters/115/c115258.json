@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115258",
+  "type": "character",
+  "name": "Hiyoko",
+  "original_name": "ひよこ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A small chick who warns Hansel of danger.",
+  "source_sha256": "191df223bfcdbdad12e4ab4c730ca9b5bde6667bac39cc8d11889fdae24e464b",
+  "translation": "A small chick who warns Hansel of danger.",
+  "vndb_url": "https://vndb.org/c115258"
+}

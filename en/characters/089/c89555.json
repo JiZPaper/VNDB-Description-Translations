@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89555",
+  "type": "character",
+  "name": "Knight",
+  "original_name": "ナイト",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Brazen Ally\n\nToa's Valet.\n\nIndulgence: Dairy products\nPastime: Keeping abreast of magical sweets, playing with animals\n\n[From the English app \"Court of Darkness\"]",
+  "source_sha256": "7f4c0b182777f2e54d916a962901c2535cc81f640fd941661d5d376b635b6fdd",
+  "translation": "The Brazen Ally\n\nToa's Valet.\n\nIndulgence: Dairy products\nPastime: Keeping abreast of magical sweets, playing with animals\n\n[From the English app \"Court of Darkness\"]",
+  "vndb_url": "https://vndb.org/c89555"
+}

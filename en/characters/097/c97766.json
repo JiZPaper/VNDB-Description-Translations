@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97766",
+  "type": "character",
+  "name": "Rin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A magical spirit that grants a big wish.",
+  "source_sha256": "493f2fb447d0908dc1a30d67d93ed09e44a3a3a0d989ea4ce33a57c9dc8deabd",
+  "translation": "A magical spirit that grants a big wish.",
+  "vndb_url": "https://vndb.org/c97766"
+}

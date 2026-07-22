@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159625",
+  "type": "character",
+  "name": "Dr. Wanda Feelgood",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A canine doctor (she/her).",
+  "source_sha256": "02463c2e87c879be24d6bbc1fbc6f5e316adaadcbca9090969c4a362dfb4b7f3",
+  "translation": "A canine doctor (she/her).",
+  "vndb_url": "https://vndb.org/c159625"
+}

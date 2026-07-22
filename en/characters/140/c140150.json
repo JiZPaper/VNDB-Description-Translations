@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140150",
+  "type": "character",
+  "name": "Priscilla",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nurse at hospital",
+  "source_sha256": "71a0e95b0cb9b97907fc3e19531c16f75f3f5e784ebbeb58eb46c3c53f680d19",
+  "translation": "Nurse at hospital",
+  "vndb_url": "https://vndb.org/c140150"
+}

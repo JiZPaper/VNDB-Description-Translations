@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70317",
+  "type": "character",
+  "name": "Anon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A newbie cop. Can be male/female/non-binary. A short test at the beginning of the game determines your personality.",
+  "source_sha256": "8992f5372506c9198b63ed6fdb33b1392e0264b164386a0c8246606eeda13a9a",
+  "translation": "A newbie cop. Can be male/female/non-binary. A short test at the beginning of the game determines your personality.",
+  "vndb_url": "https://vndb.org/c70317"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25121",
+  "type": "character",
+  "name": "Shokatsuryou Koumei",
+  "original_name": "諸葛亮 孔明",
+  "language": "en",
+  "source_language": "en",
+  "source": "Weapon: Ming Fan",
+  "source_sha256": "91cf23e908dfcd8d5e66f0d9751f3c380d2daeb6234f88aabdb98f6ea1a00d0f",
+  "translation": "Weapon: Ming Fan",
+  "vndb_url": "https://vndb.org/c25121"
+}

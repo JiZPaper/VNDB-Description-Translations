@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c26280",
+  "type": "character",
+  "name": "Emilio",
+  "original_name": "エミリオ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious boy.\nIs his real identity the male version of Emily?",
+  "source_sha256": "6d844c64c7074fa5e6fbfec4271a30b340bdd315bad898bfe94021c7370314f7",
+  "translation": "A mysterious boy.\nIs his real identity the male version of Emily?",
+  "vndb_url": "https://vndb.org/c26280"
+}

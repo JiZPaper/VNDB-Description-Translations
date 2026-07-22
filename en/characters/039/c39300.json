@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39300",
+  "type": "character",
+  "name": "Onoda Hideo",
+  "original_name": "小野田 秀男",
+  "language": "en",
+  "source_language": "en",
+  "source": "A servant at the Miyanomori household.\nHobby: Going to the Theater\nLikes: Sweets\nDislikes: Vehicles",
+  "source_sha256": "7da161e15dab2acfbcd582c7f609f1d5d0b0e2c95f2d9ed183a2980155911fcd",
+  "translation": "A servant at the Miyanomori household.\nHobby: Going to the Theater\nLikes: Sweets\nDislikes: Vehicles",
+  "vndb_url": "https://vndb.org/c39300"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54305",
+  "type": "visual_novel",
+  "name": "Gote to Handa",
+  "original_name": "ゴテとハンダ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A modern fantasy story by Parun.",
+  "source_sha256": "c366b3f03b67b324dd46f72de23d7636a6cd92473c25fe4d2b78446fca27d31c",
+  "translation": "A modern fantasy story by Parun.",
+  "vndb_url": "https://vndb.org/v54305"
+}

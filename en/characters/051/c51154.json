@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51154",
+  "type": "character",
+  "name": "Fiz",
+  "original_name": "フィズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A knight who is the protagonist's friend.",
+  "source_sha256": "f5443cf625323c5c494108a428a434437277fed80e3579039e7af57f451994c3",
+  "translation": "A knight who is the protagonist's friend.",
+  "vndb_url": "https://vndb.org/c51154"
+}

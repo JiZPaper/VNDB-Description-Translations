@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19217",
+  "type": "visual_novel",
+  "name": "Rest Stop",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "During a road trip with your annoying family, you find a way to escape.",
+  "source_sha256": "38f790a106cfe7beaf6173682a0be237579ec707de19e5a7189ede104b9b1ed6",
+  "translation": "During a road trip with your annoying family, you find a way to escape.",
+  "vndb_url": "https://vndb.org/v19217"
+}

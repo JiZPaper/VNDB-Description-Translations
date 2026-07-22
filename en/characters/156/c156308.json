@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156308",
+  "type": "character",
+  "name": "Velma",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The camp nurse.",
+  "source_sha256": "d497cce886602e42a779b317b4f72545ddda30743a3df076a1fd369a3a604f54",
+  "translation": "The camp nurse.",
+  "vndb_url": "https://vndb.org/c156308"
+}

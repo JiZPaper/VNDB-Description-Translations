@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c16276",
+  "type": "character",
+  "name": "Violetta",
+  "original_name": "Виолетта",
+  "language": "en",
+  "source_language": "en",
+  "source": "Nurse in the pioneer camp.",
+  "source_sha256": "d86722948bd6921d20887ccaa8ff1c3b8170caec0b5dcedfbf30d614d037ed21",
+  "translation": "Nurse in the pioneer camp.",
+  "vndb_url": "https://vndb.org/c16276"
+}

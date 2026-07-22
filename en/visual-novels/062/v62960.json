@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62960",
+  "type": "visual_novel",
+  "name": "Kyou no Jihaku Gohan",
+  "original_name": "きょうの自白ごはん",
+  "language": "en",
+  "source_language": "en",
+  "source": "The police have captured Aoki, the boss of a hacker organization.\n\nHowever, he's planted a government data leak program that's set to activate in 7 days.\n\nIf left unchecked, citizens' personal information will be scattered everywhere. The only way to deactivate the program is through a 5-digit code that only he knows.\n\n...Well, the criminal bastard seems to like my cooking. Might as well strike a deal.\n\n[Translated from [url=https://novelgame.jp/games/show/13446]Novelgame[/url]]",
+  "source_sha256": "fbca57d2714a15464da2d3a72a7e1a9d620c8dd4cd13a78eae7a67971415e3c4",
+  "translation": "The police have captured Aoki, the boss of a hacker organization.\n\nHowever, he's planted a government data leak program that's set to activate in 7 days.\n\nIf left unchecked, citizens' personal information will be scattered everywhere. The only way to deactivate the program is through a 5-digit code that only he knows.\n\n...Well, the criminal bastard seems to like my cooking. Might as well strike a deal.\n\n[Translated from [url=https://novelgame.jp/games/show/13446]Novelgame[/url]]",
+  "vndb_url": "https://vndb.org/v62960"
+}

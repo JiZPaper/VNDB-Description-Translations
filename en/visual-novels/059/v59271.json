@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59271",
+  "type": "visual_novel",
+  "name": "Hot Summer Dreaming",
+  "original_name": "ホットサマー・ドリーミング",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a heartwarming story about a boy and girl, modern high school students, enjoying their summer vacation.",
+  "source_sha256": "630bb49f719524d0f6bbf2b576ea46bed2757cd64bd33e6453156166c4e60a02",
+  "translation": "This is a heartwarming story about a boy and girl, modern high school students, enjoying their summer vacation.",
+  "vndb_url": "https://vndb.org/v59271"
+}

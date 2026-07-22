@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130840",
+  "type": "character",
+  "name": "Clover the Rabbit",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A rabbit who requests that the player kill Kurt.",
+  "source_sha256": "c929c16c428877028b322e94794924a29e73bfa22ce940b1781fab895d0c3ea6",
+  "translation": "A rabbit who requests that the player kill Kurt.",
+  "vndb_url": "https://vndb.org/c130840"
+}

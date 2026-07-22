@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93449",
+  "type": "character",
+  "name": "Rilke",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Alice's pet cat.",
+  "source_sha256": "d6205412ad4dcb0cbc9b9c7d7d924a8c98ddfba8637fcb886b246030a2185a24",
+  "translation": "Alice's pet cat.",
+  "vndb_url": "https://vndb.org/c93449"
+}

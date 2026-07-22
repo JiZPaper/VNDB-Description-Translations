@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31099",
+  "type": "visual_novel",
+  "name": "Pandora's Box 2",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The story takes place 19 years after the events of the first game.",
+  "source_sha256": "2a40df680d5bbaa7fbba01e869f15600c329ca6bb264ab8520356aa41c6aa478",
+  "translation": "The story takes place 19 years after the events of the first game.",
+  "vndb_url": "https://vndb.org/v31099"
+}

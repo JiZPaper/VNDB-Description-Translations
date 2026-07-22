@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81753",
+  "type": "character",
+  "name": "Mario",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mario is a delivery man who initially visits VA-11 Hall-A acting like a tough guy, but then changes when Jill heavily chastises him for doing such a thing for respect.",
+  "source_sha256": "4a1a44db172845e90bee415590c0c39ac07d58d5b2269de9e838df69a621dfaa",
+  "translation": "Mario is a delivery man who initially visits VA-11 Hall-A acting like a tough guy, but then changes when Jill heavily chastises him for doing such a thing for respect.",
+  "vndb_url": "https://vndb.org/c81753"
+}

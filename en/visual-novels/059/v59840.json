@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59840",
+  "type": "visual_novel",
+  "name": "A Test of Courage",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Alice just wanted candy. Instead, she got a cursed party, a malfunctioning robot, and a swarm of zombies. A parody-packed Halloween story where breaking the fourth wall is the least of your problems.",
+  "source_sha256": "2e11a3505f8139dbabb738855ae8e18cbe76161ffdf7e52a96d1feebef207afb",
+  "translation": "Alice just wanted candy. Instead, she got a cursed party, a malfunctioning robot, and a swarm of zombies. A parody-packed Halloween story where breaking the fourth wall is the least of your problems.",
+  "vndb_url": "https://vndb.org/v59840"
+}

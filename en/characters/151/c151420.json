@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c151420",
+  "type": "character",
+  "name": "Bandaged Woman",
+  "original_name": "包帯女",
+  "language": "en",
+  "source_language": "en",
+  "source": "A blood-soaked woman whose face is wrapped in bandages. She hunts Alice, and seems to harbor intense hatred toward her.\n\n[From official website]",
+  "source_sha256": "deb89f492d401248ae9f8baca1bc6f300b68bebf9b135aa310b213e1ac9aeb1a",
+  "translation": "A blood-soaked woman whose face is wrapped in bandages. She hunts Alice, and seems to harbor intense hatred toward her.\n\n[From official website]",
+  "vndb_url": "https://vndb.org/c151420"
+}

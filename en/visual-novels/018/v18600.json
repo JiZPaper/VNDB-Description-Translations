@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18600",
+  "type": "visual_novel",
+  "name": "Nowhere Safe 3",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Momoko struggles to save her father's business after his unexpected death. Distractions are everywhere and her family is driving her crazy. Will she manage to turn a profit or lose everything in the process?",
+  "source_sha256": "48cf71fd3fe9015d1a728ad9faf036f122dfd016ef5e690090d60a6447288536",
+  "translation": "Momoko struggles to save her father's business after his unexpected death. Distractions are everywhere and her family is driving her crazy. Will she manage to turn a profit or lose everything in the process?",
+  "vndb_url": "https://vndb.org/v18600"
+}

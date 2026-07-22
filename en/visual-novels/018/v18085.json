@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18085",
+  "type": "visual_novel",
+  "name": "Prism Palette",
+  "original_name": "プリズムパレット",
+  "language": "en",
+  "source_language": "en",
+  "source": "A love adventure simulator that follows the adventures of the main character Masaki Shirai while he lives a peaceful school life surrounded by beautiful classmates.",
+  "source_sha256": "a4060b8b4ae90638b41cc25be933736c0972f6d540a469866280aaa23250180a",
+  "translation": "A love adventure simulator that follows the adventures of the main character Masaki Shirai while he lives a peaceful school life surrounded by beautiful classmates.",
+  "vndb_url": "https://vndb.org/v18085"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20482",
+  "type": "visual_novel",
+  "name": "Dead Frontier: Outbreak II",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "After saving his wife and escaping the city in the first game, the protagonist now has to venture out of the fortified farm to get medicine for a cholera epidemic ravaging the survivors.",
+  "source_sha256": "a0c309a3e1c081fec8d5417f74c260caee7219911a464a4f05350a4b1fabb029",
+  "translation": "After saving his wife and escaping the city in the first game, the protagonist now has to venture out of the fortified farm to get medicine for a cholera epidemic ravaging the survivors.",
+  "vndb_url": "https://vndb.org/v20482"
+}

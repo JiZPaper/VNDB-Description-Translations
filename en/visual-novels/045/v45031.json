@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45031",
+  "type": "visual_novel",
+  "name": "Legend Of Muzuka",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mixed-media educational visual novel, in which team of explorers journey to Brazil and learn all there is about its culture, beliefs, people, and history.",
+  "source_sha256": "1737073c493dcff618567bd42e8bed33a7f388ce5f6b2d3d4702945a7392de0a",
+  "translation": "A mixed-media educational visual novel, in which team of explorers journey to Brazil and learn all there is about its culture, beliefs, people, and history.",
+  "vndb_url": "https://vndb.org/v45031"
+}

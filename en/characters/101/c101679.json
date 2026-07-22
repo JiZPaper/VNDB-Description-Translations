@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101679",
+  "type": "character",
+  "name": "Anna Ivanova",
+  "original_name": "安娜·伊凡诺娃",
+  "language": "en",
+  "source_language": "en",
+  "source": "A little girl living in Jiuxiao. [spoiler]Her real name is Natasha. The real Anna had died during a war.[/spoiler]",
+  "source_sha256": "1c6a5c4795715d44dfba796052c7f80fa490a96328794183830f135f7b40a744",
+  "translation": "A little girl living in Jiuxiao. [spoiler]Her real name is Natasha. The real Anna had died during a war.[/spoiler]",
+  "vndb_url": "https://vndb.org/c101679"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23702",
+  "type": "visual_novel",
+  "name": "Date a Gal",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A little dating game made for TransGalJam2!\n\n[From [url=https://princessleslie.itch.io/date-a-gal-demo] itch.io[/url]]",
+  "source_sha256": "b806f60a730f4c70241116e84ee64e0a916e768376ee35673bffb4ca8a04cd25",
+  "translation": "A little dating game made for TransGalJam2!\n\n[From [url=https://princessleslie.itch.io/date-a-gal-demo] itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v23702"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135748",
+  "type": "character",
+  "name": "Roommate",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist's roommate",
+  "source_sha256": "55faadc8069c9d335601aa47b155fff302c0f667c1b024f0e4f2d9f292221e89",
+  "translation": "Protagonist's roommate",
+  "vndb_url": "https://vndb.org/c135748"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41947",
+  "type": "character",
+  "name": "Scrapper",
+  "original_name": "スクラッパー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A minor criminal, code-name 'Delicate Scrapper'. He wields a giant hammer and teams up with Shadow Axe.",
+  "source_sha256": "0caa3852f22a560979758425f9bef5574b3e6261e83c7bcd6a6332b15546a525",
+  "translation": "A minor criminal, code-name 'Delicate Scrapper'. He wields a giant hammer and teams up with Shadow Axe.",
+  "vndb_url": "https://vndb.org/c41947"
+}

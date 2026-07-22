@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32438",
+  "type": "visual_novel",
+  "name": "Idol ga Soshage no Service Shuuryou ni Tsuite Kangaete Mita.",
+  "original_name": "アイドルがソシャゲのサービス終了について考えてみた。",
+  "language": "en",
+  "source_language": "en",
+  "source": "The main characters of an idol mobile game discuss the weak points of the game after the server is shutting down.",
+  "source_sha256": "9769df5272a0f6268ec1a80508b0f068d68108789640d24e78310b470ad307ef",
+  "translation": "The main characters of an idol mobile game discuss the weak points of the game after the server is shutting down.",
+  "vndb_url": "https://vndb.org/v32438"
+}

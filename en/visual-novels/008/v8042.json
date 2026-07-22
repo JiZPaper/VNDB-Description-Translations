@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8042",
+  "type": "visual_novel",
+  "name": "Mimosa no Saku Koro",
+  "original_name": "ミモザの咲く頃",
+  "language": "en",
+  "source_language": "en",
+  "source": "Miyazawa Shinji is a high school boy who fantasizes about being with giant women. One day, Shinji is late to science class, and as a punishment is given a drug that makes him shrink.",
+  "source_sha256": "e1fc0dc5932919599acc2e725a906a7e68ec662a1676c039fa42ec63c0138078",
+  "translation": "Miyazawa Shinji is a high school boy who fantasizes about being with giant women. One day, Shinji is late to science class, and as a punishment is given a drug that makes him shrink.",
+  "vndb_url": "https://vndb.org/v8042"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52005",
+  "type": "visual_novel",
+  "name": "Chain of Command",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You and your colleague attempt to gain information on a precious someone.\n\n[From [url=https://zoeboe.itch.io/chain-of-command]itch.io[/url]]",
+  "source_sha256": "f5477d4e820ed876401d301554f37db047ee779af31ad52ce0f8eb714d029e91",
+  "translation": "You and your colleague attempt to gain information on a precious someone.\n\n[From [url=https://zoeboe.itch.io/chain-of-command]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v52005"
+}

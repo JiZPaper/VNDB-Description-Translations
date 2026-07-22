@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135543",
+  "type": "character",
+  "name": "Os",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An OS girl similar to the space station's AI.",
+  "source_sha256": "c28ea63f90d6cfff37edd9fb26148a9ae777fbdb9d21fb4d3d7e251855dd53f2",
+  "translation": "An OS girl similar to the space station's AI.",
+  "vndb_url": "https://vndb.org/c135543"
+}

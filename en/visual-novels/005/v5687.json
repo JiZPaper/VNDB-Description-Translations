@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5687",
+  "type": "visual_novel",
+  "name": "Snow Rain 2 ~ fragment of the heart ~",
+  "original_name": "スノーレイン2 ～ fragment of the heart ～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Takes place six months after the events of \"Snow Rain\".",
+  "source_sha256": "05ed1892e127089bd0ca582e396b80bb0df4ca8c6468c14e809bc847ae69f8da",
+  "translation": "Takes place six months after the events of \"Snow Rain\".",
+  "vndb_url": "https://vndb.org/v5687"
+}

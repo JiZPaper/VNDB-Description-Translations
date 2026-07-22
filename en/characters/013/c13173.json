@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c13173",
+  "type": "character",
+  "name": "Little Dracula",
+  "original_name": "リトル・ドラクレア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Vampire Version.\nA selfish and devilish vampire girl.",
+  "source_sha256": "2ec89e19719c2691f92c28e75f230ff935fb23d8ab8e9b0bd0a1e0b1bb69214f",
+  "translation": "Vampire Version.\nA selfish and devilish vampire girl.",
+  "vndb_url": "https://vndb.org/c13173"
+}

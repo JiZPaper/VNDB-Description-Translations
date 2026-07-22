@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c24324",
+  "type": "character",
+  "name": "Kouchuu Kanshou",
+  "original_name": "黄忠 漢升",
+  "language": "en",
+  "source_language": "en",
+  "source": "Weapon: Crossbow",
+  "source_sha256": "d6cb324851ee458d71a392622557f356e39593e760841d12f42d11608c07813c",
+  "translation": "Weapon: Crossbow",
+  "vndb_url": "https://vndb.org/c24324"
+}

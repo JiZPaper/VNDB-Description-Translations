@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122732",
+  "type": "character",
+  "name": "Kurosaki",
+  "original_name": "クロサキ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Death game participant.",
+  "source_sha256": "ec0df55d47a7bf4ecfd685c5f49d77191097de6c7b4f56b61171437db14ba823",
+  "translation": "Death game participant.",
+  "vndb_url": "https://vndb.org/c122732"
+}

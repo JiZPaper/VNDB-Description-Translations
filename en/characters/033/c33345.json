@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33345",
+  "type": "character",
+  "name": "Enshou",
+  "original_name": "袁紹",
+  "language": "en",
+  "source_language": "en",
+  "source": "A noble who is highly valued by the emperor.",
+  "source_sha256": "8ce46ce3c52bf01fe4344a5235d333333c70176464f0334c67f52dd892629277",
+  "translation": "A noble who is highly valued by the emperor.",
+  "vndb_url": "https://vndb.org/c33345"
+}

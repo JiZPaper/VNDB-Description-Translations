@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48270",
+  "type": "character",
+  "name": "Atharva",
+  "original_name": "アタルヴァ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious young man who escaped from a certain facility owned by the government.\nFollowing the words of his dead older brother he goes to find [url=/c48267]Eve[/url] and ends up meeting [url=/c48269]Sud[/url].\n\nEver since he was born he's had memories from hundreds of years ago that aren't his. He thinks Eve is the key to unlocking the mystery of those memories.",
+  "source_sha256": "dca476e37c460a02ffd99d99624cfe30f3d56be0259b0be9c70f9ca7ce02284e",
+  "translation": "A mysterious young man who escaped from a certain facility owned by the government.\nFollowing the words of his dead older brother he goes to find [url=/c48267]Eve[/url] and ends up meeting [url=/c48269]Sud[/url].\n\nEver since he was born he's had memories from hundreds of years ago that aren't his. He thinks Eve is the key to unlocking the mystery of those memories.",
+  "vndb_url": "https://vndb.org/c48270"
+}

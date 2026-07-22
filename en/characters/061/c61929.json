@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61929",
+  "type": "character",
+  "name": "Roland",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Diplomat Adviser",
+  "source_sha256": "1a936b71f7bc0e29a8c9bc999606201279b59aef0692d4f24f69f8e5eb488a9a",
+  "translation": "Diplomat Adviser",
+  "vndb_url": "https://vndb.org/c61929"
+}

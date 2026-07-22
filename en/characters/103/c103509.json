@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103509",
+  "type": "character",
+  "name": "Grandma",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nina's Grandmother",
+  "source_sha256": "4dca87b81dbd77297a5e33c1fbd9d80d47743a2d4fc5861ecd636a8037e3e801",
+  "translation": "Nina's Grandmother",
+  "vndb_url": "https://vndb.org/c103509"
+}

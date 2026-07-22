@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21055",
+  "type": "character",
+  "name": "Doctor",
+  "original_name": "医者",
+  "language": "en",
+  "source_language": "en",
+  "source": "An obstetrician that took care of Touri and Rurika.",
+  "source_sha256": "3d9ea385fefe7cb84147ee10e8a4ba17fc9353bb1ca70be8c3cde1c0a2c807d2",
+  "translation": "An obstetrician that took care of Touri and Rurika.",
+  "vndb_url": "https://vndb.org/c21055"
+}

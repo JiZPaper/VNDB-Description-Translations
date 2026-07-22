@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102863",
+  "type": "character",
+  "name": "Rooster",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An actor",
+  "source_sha256": "26968c1a59c76789f02c796c04f05c68112490aa530a301458bfbc569503a171",
+  "translation": "An actor",
+  "vndb_url": "https://vndb.org/c102863"
+}

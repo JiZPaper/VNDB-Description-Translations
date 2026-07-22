@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102862",
+  "type": "character",
+  "name": "Monkey",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[url=/c102854]Mouse[/url]'s therapist.",
+  "source_sha256": "7f558bfb4237dd981342cabd0ebf24f8f3a2e9c59db2e9a9a39667b17a89c365",
+  "translation": "[url=/c102854]Mouse[/url]'s therapist.",
+  "vndb_url": "https://vndb.org/c102862"
+}

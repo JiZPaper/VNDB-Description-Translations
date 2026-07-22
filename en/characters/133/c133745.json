@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133745",
+  "type": "character",
+  "name": "Ce'dara",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is a Dryad from Tolnissa.",
+  "source_sha256": "3954e700afb6198dbebf0712ce8d5e6a3815b04420b5af4b641dd0c2c3a03086",
+  "translation": "She is a Dryad from Tolnissa.",
+  "vndb_url": "https://vndb.org/c133745"
+}

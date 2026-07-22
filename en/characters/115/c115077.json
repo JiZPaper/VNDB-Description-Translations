@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115077",
+  "type": "character",
+  "name": "Panther",
+  "original_name": "黑豹",
+  "language": "en",
+  "source_language": "en",
+  "source": "A burlesque dancer working at the show club NASA.\nHe is arrested for murdering his girlfriend.",
+  "source_sha256": "1584d8a07b70e9bec136fb3767507cb8be53d56a3c8ac09b2a9e5930905a4e27",
+  "translation": "A burlesque dancer working at the show club NASA.\nHe is arrested for murdering his girlfriend.",
+  "vndb_url": "https://vndb.org/c115077"
+}

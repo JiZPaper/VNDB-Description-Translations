@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11255",
+  "type": "visual_novel",
+  "name": "Burumania",
+  "original_name": "ぶるまにあ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Gunparade March fan-fiction VN featuring the sub character [url=http://anidb.net/perl-bin/animedb.pl?show=character&charid=52831]Moe Ishizu[/url].",
+  "source_sha256": "41c1d51810863ea3a003731a6ee94485f3261fc265ab53a1dc02c7532609a3aa",
+  "translation": "A Gunparade March fan-fiction VN featuring the sub character [url=http://anidb.net/perl-bin/animedb.pl?show=character&charid=52831]Moe Ishizu[/url].",
+  "vndb_url": "https://vndb.org/v11255"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106169",
+  "type": "character",
+  "name": "Sakura",
+  "original_name": "さくら",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Shiba\nRin's pet",
+  "source_sha256": "a58a070e0c7873d22b143edfb1cf77b1c2f838a3086d2d9719121dd623f9cc57",
+  "translation": "Race: Shiba\nRin's pet",
+  "vndb_url": "https://vndb.org/c106169"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95503",
+  "type": "character",
+  "name": "John",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A sporty, well-liked guy that somehow slips everyone's mind. Too nice for his own good, but has trouble opening up to people. Loves to read.",
+  "source_sha256": "5a2223d94a4ce93472f06b6ece59c1a960914a62c0a0f0e8cea850d140049b38",
+  "translation": "A sporty, well-liked guy that somehow slips everyone's mind. Too nice for his own good, but has trouble opening up to people. Loves to read.",
+  "vndb_url": "https://vndb.org/c95503"
+}

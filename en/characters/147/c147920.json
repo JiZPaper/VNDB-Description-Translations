@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c147920",
+  "type": "character",
+  "name": "Uma",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She teaches gym and swimming.",
+  "source_sha256": "47609f41c2d3a392a3b0af4019fd90a65c4b634778534b98b21e93a2573127ad",
+  "translation": "She teaches gym and swimming.",
+  "vndb_url": "https://vndb.org/c147920"
+}

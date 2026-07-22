@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c52404",
+  "type": "character",
+  "name": "Carmine",
+  "original_name": "カーマイン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A veteran soldier who was appointed as [url=/c48272]Row's[/url] aide.\nHe's always fighting against [url=/c48267]Eve's[/url] group without explaining anything.\nHe has a real interest in the 'ancient people'.",
+  "source_sha256": "e2ac4bf5e74acf4715547539a169be710102b0ca84d7c35508965c83fae10623",
+  "translation": "A veteran soldier who was appointed as [url=/c48272]Row's[/url] aide.\nHe's always fighting against [url=/c48267]Eve's[/url] group without explaining anything.\nHe has a real interest in the 'ancient people'.",
+  "vndb_url": "https://vndb.org/c52404"
+}

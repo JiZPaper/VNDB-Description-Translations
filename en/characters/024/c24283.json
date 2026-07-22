@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c24283",
+  "type": "character",
+  "name": "Kazami Harpy",
+  "original_name": "風見 ハーピィ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: League Master of Wind\nHobbies: Walking\nSkills: Accessories Making\nWeakness: Direct Sunlight",
+  "source_sha256": "551259ef30d2c477bc3dae09e60d27eec4d8ed345c92c678846d02b4a42e0a74",
+  "translation": "Occupation: League Master of Wind\nHobbies: Walking\nSkills: Accessories Making\nWeakness: Direct Sunlight",
+  "vndb_url": "https://vndb.org/c24283"
+}

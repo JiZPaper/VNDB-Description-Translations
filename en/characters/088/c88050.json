@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88050",
+  "type": "character",
+  "name": "Steve Miller",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Eloise's uncle who becomes her guardian.",
+  "source_sha256": "84c4260a8ebcf925b31680217be6fc67791cb2f77e5112f70affb63213cc99fd",
+  "translation": "Eloise's uncle who becomes her guardian.",
+  "vndb_url": "https://vndb.org/c88050"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36039",
+  "type": "visual_novel",
+  "name": "Gyakuten Higurashi Saiban ~Curry Naru Gyakuten~",
+  "original_name": "逆転ひぐらし裁判～カレーなる逆転～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A curry related crime has been committed, and Keiichi must fight to prove his innocence. This short game features the cast of Higurashi conducting a trial with gameplay straight out of Ace Attorney.\n\n[From [url=https://github.com/07th-mod/ace-higurashi-attorney]07th-Mod Github[/url]]",
+  "source_sha256": "e19534707d731547c100af01eded117d2aa1a606f6c26e14c22c664d95f6a981",
+  "translation": "A curry related crime has been committed, and Keiichi must fight to prove his innocence. This short game features the cast of Higurashi conducting a trial with gameplay straight out of Ace Attorney.\n\n[From [url=https://github.com/07th-mod/ace-higurashi-attorney]07th-Mod Github[/url]]",
+  "vndb_url": "https://vndb.org/v36039"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c52399",
+  "type": "character",
+  "name": "Father",
+  "original_name": "父",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's father. He owns a cake shop.",
+  "source_sha256": "e06cce3ba66e02e1894de003617e3ff7ddc3ca262511095cb5b839e82af02fa1",
+  "translation": "The protagonist's father. He owns a cake shop.",
+  "vndb_url": "https://vndb.org/c52399"
+}

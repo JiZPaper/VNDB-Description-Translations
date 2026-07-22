@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41420",
+  "type": "visual_novel",
+  "name": "Guilt Trip",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You have accidentally summoned an evil spirit. You must get rid of the spirit before things get too out of control.\n\n[From [url=https://draculav.itch.io/guilt-trip]Itch.io[/url]]",
+  "source_sha256": "a2a8081d69a6c7b9e323f96a105c1cc9ef0d1a5615723adc50be62f6ac17552b",
+  "translation": "You have accidentally summoned an evil spirit. You must get rid of the spirit before things get too out of control.\n\n[From [url=https://draculav.itch.io/guilt-trip]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v41420"
+}

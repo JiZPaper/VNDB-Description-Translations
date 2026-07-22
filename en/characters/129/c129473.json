@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c129473",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of this VN. Who eventually becomes [url=/c124868]Mia[/url].\nHis real name is never revealed.",
+  "source_sha256": "b4ad8efece3432c9c06ce0fee272eef65cbd2ab7b99905d54d5a5b795e0e4e1a",
+  "translation": "The protagonist of this VN. Who eventually becomes [url=/c124868]Mia[/url].\nHis real name is never revealed.",
+  "vndb_url": "https://vndb.org/c129473"
+}

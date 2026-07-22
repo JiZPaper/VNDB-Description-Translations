@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130833",
+  "type": "character",
+  "name": "Claire Stanfield",
+  "original_name": "クレア・スタンフィールド",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]The Rail Tracer.\nThe young conductor's real name. His real identity is not that of a conductor, but a feared assassin known as \"Vino.\" He is infamous for the brutal methods in which he kills.\n\n[Translated from in-game profile][/spoiler]",
+  "source_sha256": "036e546ec5052d9fb1c4e0fc0be63ca595a6355e4b6086eb21b7ac837fdc6014",
+  "translation": "[spoiler]The Rail Tracer.\nThe young conductor's real name. His real identity is not that of a conductor, but a feared assassin known as \"Vino.\" He is infamous for the brutal methods in which he kills.\n\n[Translated from in-game profile][/spoiler]",
+  "vndb_url": "https://vndb.org/c130833"
+}

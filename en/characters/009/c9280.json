@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9280",
+  "type": "character",
+  "name": "Queen of Hearts",
+  "original_name": "ハートの女王",
+  "language": "en",
+  "source_language": "en",
+  "source": "The ruler of Wonderland, the Queen of Hearts is a cruel woman that takes joy in executing her citizens for the pettiest of crimes. She also forces her people to watch the beheadings. Due to the time loop, she executes and forces people to watch her order the execution of Jack.",
+  "source_sha256": "287cd99c70284343bd3af51f2b5b8be350267443f80db9ff437a9d8127951a16",
+  "translation": "The ruler of Wonderland, the Queen of Hearts is a cruel woman that takes joy in executing her citizens for the pettiest of crimes. She also forces her people to watch the beheadings. Due to the time loop, she executes and forces people to watch her order the execution of Jack.",
+  "vndb_url": "https://vndb.org/c9280"
+}

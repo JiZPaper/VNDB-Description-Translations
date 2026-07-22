@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48672",
+  "type": "character",
+  "name": "Misha Rugulus",
+  "original_name": "ミィシャ・ルグルス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A cook at the Royal Kitchen of Rughzenhaide.",
+  "source_sha256": "d53ccc69692ff6642209c05f3d31ba1351c5332847644175ace3fbb9b5e5281f",
+  "translation": "A cook at the Royal Kitchen of Rughzenhaide.",
+  "vndb_url": "https://vndb.org/c48672"
+}

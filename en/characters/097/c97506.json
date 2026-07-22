@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97506",
+  "type": "character",
+  "name": "Rika",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bartender on the cruise ship.",
+  "source_sha256": "54d61f4e1cfd3c15e7d1e5bae85d944699c5b682a61dac85b45cb3dc2fda3448",
+  "translation": "A bartender on the cruise ship.",
+  "vndb_url": "https://vndb.org/c97506"
+}

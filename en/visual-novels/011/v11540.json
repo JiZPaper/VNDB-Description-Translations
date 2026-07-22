@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11540",
+  "type": "visual_novel",
+  "name": "The Storm",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A storm in a person's life can mean so many different things and, most of the time, drastic decisions must be made.",
+  "source_sha256": "38161a9ca0b19fe44e1affaeaedfd1fef4b8dffb373c4023c65470df12c10a48",
+  "translation": "A storm in a person's life can mean so many different things and, most of the time, drastic decisions must be made.",
+  "vndb_url": "https://vndb.org/v11540"
+}

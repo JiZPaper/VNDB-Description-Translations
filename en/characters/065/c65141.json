@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65141",
+  "type": "character",
+  "name": "Jane",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Grandmother's bodyguard.",
+  "source_sha256": "91dd4b14fc1cd9b7ac188851a09738e2341220de8bbf59b115aeae0b5703ffee",
+  "translation": "Grandmother's bodyguard.",
+  "vndb_url": "https://vndb.org/c65141"
+}

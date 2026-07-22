@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11744",
+  "type": "character",
+  "name": "Varian",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Varian is a very serious man who doesn't seem to stop working. His mood is grim at times.",
+  "source_sha256": "92b279b75fb28b96faea5c7485a5393682994d0f6eb198a56d981b40c6b38777",
+  "translation": "Varian is a very serious man who doesn't seem to stop working. His mood is grim at times.",
+  "vndb_url": "https://vndb.org/c11744"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127111",
+  "type": "character",
+  "name": "Bee Cop",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Beem's boss.",
+  "source_sha256": "695ab5789a85bc4eee08f40987aee094f938c3ea5a034c0cb0eac70c0729ff61",
+  "translation": "Beem's boss.",
+  "vndb_url": "https://vndb.org/c127111"
+}

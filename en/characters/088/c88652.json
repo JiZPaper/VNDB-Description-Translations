@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88652",
+  "type": "character",
+  "name": "Mr. Cabot",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Juliana's father.",
+  "source_sha256": "25b66d289fea7e3962603e617b512e8796d8efbea8a09d6c5815f43170c4e340",
+  "translation": "Juliana's father.",
+  "vndb_url": "https://vndb.org/c88652"
+}

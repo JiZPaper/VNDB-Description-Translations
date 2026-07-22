@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113943",
+  "type": "character",
+  "name": "Hunter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The field agent tasked with picking up samples from the untamed moon's surface. Star of this first alpha version, because she doesn't wear much.",
+  "source_sha256": "b88b763314bcdc978be41f80ad0bfc207e1ff39e78e449781889ddb2a7d61408",
+  "translation": "The field agent tasked with picking up samples from the untamed moon's surface. Star of this first alpha version, because she doesn't wear much.",
+  "vndb_url": "https://vndb.org/c113943"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c22012",
+  "type": "character",
+  "name": "Suzuki",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Akihiko's teddy bears.",
+  "source_sha256": "cb8fbfa213f3372aef43086a9facf4c6f0f1fb5a59d7147fd2205269c864f622",
+  "translation": "One of Akihiko's teddy bears.",
+  "vndb_url": "https://vndb.org/c22012"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90514",
+  "type": "character",
+  "name": "Ramon Noboa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Colombian gang leader who is trying to capture Marion Garland.",
+  "source_sha256": "3e6a3bf5ec2f89c30ab4db3e2becf986760631521323c8b74ded8fffd89e7032",
+  "translation": "Colombian gang leader who is trying to capture Marion Garland.",
+  "vndb_url": "https://vndb.org/c90514"
+}

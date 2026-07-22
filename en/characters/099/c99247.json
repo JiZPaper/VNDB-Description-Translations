@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99247",
+  "type": "character",
+  "name": "Gaia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gaia, the Lady of the Realms, can restore ones health and lost limbs. She wields the sacred sword \"Humility\", a weapon used to seal the Ancients at the Great War.",
+  "source_sha256": "0b3d36c5176a3b483b8bc6d72e7678517bf7f42b469c5e3cbe475849d102f613",
+  "translation": "Gaia, the Lady of the Realms, can restore ones health and lost limbs. She wields the sacred sword \"Humility\", a weapon used to seal the Ancients at the Great War.",
+  "vndb_url": "https://vndb.org/c99247"
+}

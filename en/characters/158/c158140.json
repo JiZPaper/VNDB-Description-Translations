@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c158140",
+  "type": "character",
+  "name": "Bosong",
+  "original_name": "보송",
+  "language": "en",
+  "source_language": "en",
+  "source": "Born in 1999.",
+  "source_sha256": "68f6737b3fabd0c53cab67e46aa483d98b99e2c756e25771b8f5bd75d6f8be25",
+  "translation": "Born in 1999.",
+  "vndb_url": "https://vndb.org/c158140"
+}

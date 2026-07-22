@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124967",
+  "type": "character",
+  "name": "Maurice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A goat.",
+  "source_sha256": "ceb14c37e98c48730ac82592ebf37c0bb5797bab429652abd3903e750dbe0c45",
+  "translation": "A goat.",
+  "vndb_url": "https://vndb.org/c124967"
+}

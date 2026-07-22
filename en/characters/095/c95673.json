@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95673",
+  "type": "character",
+  "name": "Kyougoku Sentarou",
+  "original_name": "京極 千太郎",
+  "language": "en",
+  "source_language": "en",
+  "source": "Pediatric Surgeon",
+  "source_sha256": "38a272879a5d993db559b7dc566abbabcb0668dc1477e12ecc563d1569e4fb58",
+  "translation": "Pediatric Surgeon",
+  "vndb_url": "https://vndb.org/c95673"
+}

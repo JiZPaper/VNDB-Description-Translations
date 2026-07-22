@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91217",
+  "type": "character",
+  "name": "ELM Member",
+  "original_name": "追放派の青年",
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of the Exile Luccretias Movement who causes a commotion in town.",
+  "source_sha256": "bb2a8ae4ab921b00a077f6fa86ded88cfafa69af421644fa63d8297f2c791a11",
+  "translation": "A member of the Exile Luccretias Movement who causes a commotion in town.",
+  "vndb_url": "https://vndb.org/c91217"
+}

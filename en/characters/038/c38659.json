@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38659",
+  "type": "character",
+  "name": "Gilles",
+  "original_name": "ギルス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The prince of a small country.\nHe sells information about enemy countries for the sake of his own.",
+  "source_sha256": "84b7ad42b370ffc33b390c61b11a072c0e416fa9715c603e58adf7ddc0c91deb",
+  "translation": "The prince of a small country.\nHe sells information about enemy countries for the sake of his own.",
+  "vndb_url": "https://vndb.org/c38659"
+}

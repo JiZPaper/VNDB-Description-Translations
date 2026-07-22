@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116478",
+  "type": "character",
+  "name": "ExS-TIA Spica",
+  "original_name": "エクスティア・スピカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Souma appearance after transformed with ExS-Device.",
+  "source_sha256": "c181b363ace0b6657df3867f2ade2dc16376edadd3dbe6cb202d29c54ee3978f",
+  "translation": "Souma appearance after transformed with ExS-Device.",
+  "vndb_url": "https://vndb.org/c116478"
+}

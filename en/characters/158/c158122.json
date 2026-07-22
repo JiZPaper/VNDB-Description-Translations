@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c158122",
+  "type": "character",
+  "name": "Tootsie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A rude space nerd who has a question for you.",
+  "source_sha256": "4fff492ce2db4512296e1546d4ef605317080ab6657b8881608c437728d0bddb",
+  "translation": "A rude space nerd who has a question for you.",
+  "vndb_url": "https://vndb.org/c158122"
+}

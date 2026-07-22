@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32996",
+  "type": "visual_novel",
+  "name": "Rainy Day",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Rainy Day is a game whose main character is a famous lawyer named Markus Green. He always gets what he wants. But soon something happens that will change his life forever.",
+  "source_sha256": "a588f043fd0c0322148d94f5b66149b533db42479696c903aff426e1cda7cefb",
+  "translation": "Rainy Day is a game whose main character is a famous lawyer named Markus Green. He always gets what he wants. But soon something happens that will change his life forever.",
+  "vndb_url": "https://vndb.org/v32996"
+}

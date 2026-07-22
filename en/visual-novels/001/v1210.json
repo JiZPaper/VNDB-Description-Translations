@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1210",
+  "type": "visual_novel",
+  "name": "Akiiro Ouka ~Akiiro Renka Fandisc~",
+  "original_name": "秋色謳華 ～秋色恋華ファンディスク～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fandisc to Akiiro Renka.\nFeatures various short stories, desktop accessories, and includes the OP theme maxi single, sung by Miyuki Hashimoto.",
+  "source_sha256": "df7ecf28888223b905470f5be19dbc8aa1fd6d3f8f78450b648ba8cbbeacb61e",
+  "translation": "Fandisc to Akiiro Renka.\nFeatures various short stories, desktop accessories, and includes the OP theme maxi single, sung by Miyuki Hashimoto.",
+  "vndb_url": "https://vndb.org/v1210"
+}

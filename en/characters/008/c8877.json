@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8877",
+  "type": "character",
+  "name": "Coco Nutmilk",
+  "original_name": "ココ・ナッツミルク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Coco is the radar operator on the Elsior. She is friendly and a good friend of Almo.\n\n[Translated from [url=http://www.broccoli.co.jp/ga/materials/chara/18_coco.html]developer's website[/url]]",
+  "source_sha256": "84997216a01a66f9451f149b8627b234d514055c7ed17913e552ff28e533db8c",
+  "translation": "Coco is the radar operator on the Elsior. She is friendly and a good friend of Almo.\n\n[Translated from [url=http://www.broccoli.co.jp/ga/materials/chara/18_coco.html]developer's website[/url]]",
+  "vndb_url": "https://vndb.org/c8877"
+}

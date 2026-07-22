@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29594",
+  "type": "visual_novel",
+  "name": "GrimmParadeRomance",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "It's Halloween night. Bonfires and jack-o'-lanterns (with candles) decorate the streets and a costume parade walks through the dimly lit streets.\n\nThis is the first Halloween for the 15-year-old Roni.",
+  "source_sha256": "3a9e1244f8f2bdb1333c9a1b6de94ce28ac9e2f003790e35db07b002a0fb8f26",
+  "translation": "It's Halloween night. Bonfires and jack-o'-lanterns (with candles) decorate the streets and a costume parade walks through the dimly lit streets.\n\nThis is the first Halloween for the 15-year-old Roni.",
+  "vndb_url": "https://vndb.org/v29594"
+}

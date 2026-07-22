@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62283",
+  "type": "character",
+  "name": "Algernon",
+  "original_name": "アルジャーノン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A talking mouse that gets caught in Sakaki's coffee shop.",
+  "source_sha256": "9ec6f8bf5cc9e8f742dc20abddeec8cff2e1912c96864c2206cc642468245978",
+  "translation": "A talking mouse that gets caught in Sakaki's coffee shop.",
+  "vndb_url": "https://vndb.org/c62283"
+}

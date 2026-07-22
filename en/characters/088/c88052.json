@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88052",
+  "type": "character",
+  "name": "Roxanne",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Eloise's former teacher.",
+  "source_sha256": "edc64dbba612528c1187f7f94285f5331031d3283a4113434ff58a4500eb494e",
+  "translation": "Eloise's former teacher.",
+  "vndb_url": "https://vndb.org/c88052"
+}

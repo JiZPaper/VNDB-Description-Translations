@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60382",
+  "type": "character",
+  "name": "Esterio",
+  "original_name": "エステリオ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Bianca's manservant.",
+  "source_sha256": "63be8d339dc23c974df5fea85dd26f11f9a132a39138a06a7c953f5e9f0d652d",
+  "translation": "Bianca's manservant.",
+  "vndb_url": "https://vndb.org/c60382"
+}

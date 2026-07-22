@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44653",
+  "type": "visual_novel",
+  "name": "Pritcha o Pylinke",
+  "original_name": "Притча о Пылинке",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a small game that tells the story of a man who has lost the meaning of his life.\n\n[From [url=https://tiradox.itch.io/the-mote-parable]Itch.io[/url]]",
+  "source_sha256": "251631a46b3446a9279bb01a7a3d02429dcb2bc325bc15249ac4d0c8f5a286a0",
+  "translation": "This is a small game that tells the story of a man who has lost the meaning of his life.\n\n[From [url=https://tiradox.itch.io/the-mote-parable]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v44653"
+}

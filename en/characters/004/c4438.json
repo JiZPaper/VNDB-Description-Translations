@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4438",
+  "type": "character",
+  "name": "Berserker",
+  "original_name": "ヴァーサーカー",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]His mother has eaten him since his birth. That's all his life has amounted to. He believes he's 18, but his vocabulary and thought processes are child-like. He's actually 68-years-old.[/spoiler]",
+  "source_sha256": "5e0a7f150fdc0d0a9446328389e46666618db49cc881132ae2b7226853c8b73e",
+  "translation": "[spoiler]His mother has eaten him since his birth. That's all his life has amounted to. He believes he's 18, but his vocabulary and thought processes are child-like. He's actually 68-years-old.[/spoiler]",
+  "vndb_url": "https://vndb.org/c4438"
+}

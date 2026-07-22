@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134208",
+  "type": "character",
+  "name": "Ashley",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A barista at a local coffee house.",
+  "source_sha256": "05a8987b059227598cff53b7ce4f218fde2e7cd473d46cf95b9ad5cdaf78fc37",
+  "translation": "A barista at a local coffee house.",
+  "vndb_url": "https://vndb.org/c134208"
+}

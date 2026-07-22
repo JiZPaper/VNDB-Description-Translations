@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c114392",
+  "type": "character",
+  "name": "Melkyr",
+  "original_name": "メルキール",
+  "language": "en",
+  "source_language": "en",
+  "source": "Zodiac: Cancer",
+  "source_sha256": "be3749931e16bba4b4cf2ada0c266a439f546f1b3246554ab31b2b2b8496a10c",
+  "translation": "Zodiac: Cancer",
+  "vndb_url": "https://vndb.org/c114392"
+}

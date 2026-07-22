@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30510",
+  "type": "visual_novel",
+  "name": "No Meteors",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A self-proclaimed god enters a high school as a transfer student, trying to navigate the intricacies of human dating life in time for Valentine's day.",
+  "source_sha256": "2650902ad23c1309bc88e9784e9f2ab825404969b2ad0ef96c4841463289c916",
+  "translation": "A self-proclaimed god enters a high school as a transfer student, trying to navigate the intricacies of human dating life in time for Valentine's day.",
+  "vndb_url": "https://vndb.org/v30510"
+}

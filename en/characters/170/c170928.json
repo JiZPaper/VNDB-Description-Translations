@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170928",
+  "type": "character",
+  "name": "Dolan",
+  "original_name": "ドーラン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Director of orphanage House of White Lily.",
+  "source_sha256": "e60b574c0877dff2444cb81d30f7e1d840370d8fd83aa7e28e6e6c1bf5a2a2ea",
+  "translation": "Director of orphanage House of White Lily.",
+  "vndb_url": "https://vndb.org/c170928"
+}

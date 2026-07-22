@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126671",
+  "type": "character",
+  "name": "Geneva",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Maid at Synne's hotel",
+  "source_sha256": "c2c63ff377b57ddc007049bd61d71febdc4dd95f39a859e45fc5da3e4241c717",
+  "translation": "Maid at Synne's hotel",
+  "vndb_url": "https://vndb.org/c126671"
+}

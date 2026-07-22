@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20205",
+  "type": "visual_novel",
+  "name": "Castle Fantasia ~Arihato Senki~",
+  "original_name": "キャッスルファンタジア〜アリハト戦記〜",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hewie and Ducis's stories in the military academy before [url=/v106]Castle Fantasia ~Seima Taisen~[/url].",
+  "source_sha256": "fc519ec6d8a79633822ba7970e4589a95f62478022c8a1663de757fb7f024312",
+  "translation": "Hewie and Ducis's stories in the military academy before [url=/v106]Castle Fantasia ~Seima Taisen~[/url].",
+  "vndb_url": "https://vndb.org/v20205"
+}

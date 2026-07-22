@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54405",
+  "type": "visual_novel",
+  "name": "Geomeun Goyangi: Usher-ui Janjae",
+  "original_name": "검은 고양이: 어셔의 잔재",
+  "language": "en",
+  "source_language": "en",
+  "source": "Adapted from \"The Black Cat\", \"The Fall of the House of Usher\" and several other short stories by Edgar Allan Poe.",
+  "source_sha256": "74c59fbf2352cb3805586a744c73e039c4a0074e5d034a68562db6f7c050a41c",
+  "translation": "Adapted from \"The Black Cat\", \"The Fall of the House of Usher\" and several other short stories by Edgar Allan Poe.",
+  "vndb_url": "https://vndb.org/v54405"
+}

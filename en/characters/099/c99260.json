@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99260",
+  "type": "character",
+  "name": "Rexillator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Height: 7'2''\nWeight: 400 lbs\nSentence: 1000 life sentences.\n\nAn ousted god.",
+  "source_sha256": "e435c7a678a7dfdc1f7b4aad0da7a5a1cd86134cbefb8cccb7583c2f570ffec0",
+  "translation": "Height: 7'2''\nWeight: 400 lbs\nSentence: 1000 life sentences.\n\nAn ousted god.",
+  "vndb_url": "https://vndb.org/c99260"
+}

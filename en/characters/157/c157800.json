@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c157800",
+  "type": "character",
+  "name": "Tamayama",
+  "original_name": "玉山",
+  "language": "en",
+  "source_language": "en",
+  "source": "A detective who questions Sora after the arson case at the art museum.",
+  "source_sha256": "69a3cf5b1a57dbd2b7eb0c6935ce7289aa4483932d1923bcd26ee0aadd8397fb",
+  "translation": "A detective who questions Sora after the arson case at the art museum.",
+  "vndb_url": "https://vndb.org/c157800"
+}

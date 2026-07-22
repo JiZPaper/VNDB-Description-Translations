@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25764",
+  "type": "visual_novel",
+  "name": "Mahou Shoujo Magical Arin",
+  "original_name": "魔法少女まじかるあーりん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Magical girl spin-off game of Hanahime * Absolute included with the Hanahime * Absolute Visual Fan Book.",
+  "source_sha256": "da35b1d45cb809fd4a58e5bda26d6daefa2052bd50d4afedeeffef192448daf4",
+  "translation": "Magical girl spin-off game of Hanahime * Absolute included with the Hanahime * Absolute Visual Fan Book.",
+  "vndb_url": "https://vndb.org/v25764"
+}

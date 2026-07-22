@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63099",
+  "type": "visual_novel",
+  "name": "Dream Sharky",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "It's a shark otome game.\n\n[Translated from [url=https://meltobis.itch.io/dream-sharky]Itch.io[/url]]",
+  "source_sha256": "514e1384037c4140d03f12e61600257053e510e1d79f1f23730cbfd352f3ffc2",
+  "translation": "It's a shark otome game.\n\n[Translated from [url=https://meltobis.itch.io/dream-sharky]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v63099"
+}

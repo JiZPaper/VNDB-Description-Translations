@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88452",
+  "type": "character",
+  "name": "Colonel Depp",
+  "original_name": "デップ大佐",
+  "language": "en",
+  "source_language": "en",
+  "source": "US Department of Defense Colonel.",
+  "source_sha256": "2ce9c62b78ffe30c2702ebe53d1e7418ebccd21b54d54b2be1b22a4d5b57d634",
+  "translation": "US Department of Defense Colonel.",
+  "vndb_url": "https://vndb.org/c88452"
+}

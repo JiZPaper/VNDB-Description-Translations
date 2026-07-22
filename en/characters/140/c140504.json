@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140504",
+  "type": "character",
+  "name": "Salvatore",
+  "original_name": "サルヴァトーレ",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the seven food sprites from Italy who settled at Dogen Hut. He can track down fresh ingredients in the blink of an eye.",
+  "source_sha256": "fb5dca18efc9ae4ba17c90501559397176cac66b34b8d9c5077085a0b9afdab8",
+  "translation": "One of the seven food sprites from Italy who settled at Dogen Hut. He can track down fresh ingredients in the blink of an eye.",
+  "vndb_url": "https://vndb.org/c140504"
+}

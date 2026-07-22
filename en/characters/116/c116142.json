@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116142",
+  "type": "character",
+  "name": "Uzume",
+  "original_name": "ウズメ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl Akito meets at the school gate.",
+  "source_sha256": "b3c82ef619702a9a32a3bf780ba688b40fb62ceb1860adc6afe2410cf39dfcc5",
+  "translation": "A girl Akito meets at the school gate.",
+  "vndb_url": "https://vndb.org/c116142"
+}

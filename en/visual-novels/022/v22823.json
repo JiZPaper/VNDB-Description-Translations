@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22823",
+  "type": "visual_novel",
+  "name": "BasicCalculife",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A point and click game about Basic Calculus. Which ending will you get?  Try different choices to get different endings!",
+  "source_sha256": "f3071454b338d49bb3d54b345ee10f4710a3279e6936fd9d7690ac8104bedab1",
+  "translation": "A point and click game about Basic Calculus. Which ending will you get?  Try different choices to get different endings!",
+  "vndb_url": "https://vndb.org/v22823"
+}

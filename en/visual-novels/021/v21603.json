@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21603",
+  "type": "visual_novel",
+  "name": "Rakka Ren Ren",
+  "original_name": "落花恋恋",
+  "language": "en",
+  "source_language": "en",
+  "source": "3rd entry in the \"Kami Master\" series.\n\nPrevious games in the series are not required to be played in order to enjoy this game.",
+  "source_sha256": "e6ade78997dbe05ed4778120d4c84be99e25869257925f8ac98a2a714e313530",
+  "translation": "3rd entry in the \"Kami Master\" series.\n\nPrevious games in the series are not required to be played in order to enjoy this game.",
+  "vndb_url": "https://vndb.org/v21603"
+}

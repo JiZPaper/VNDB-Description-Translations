@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44008",
+  "type": "visual_novel",
+  "name": "Bokutachi wa Benkyou ga Dekinai Visual Novel (Fan-Game)",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fan-game adaptation of the work \"We Never Learn\" (Bokutachi wa Benkyou ga Dekinai).\nYou will have to make different decisions that will lead you to 5 endings. Can you win their hearts?",
+  "source_sha256": "4b3ccdf4d25f8c1fd875dbec6e8d3208434d6ae976ee2326a127743a67109ced",
+  "translation": "A fan-game adaptation of the work \"We Never Learn\" (Bokutachi wa Benkyou ga Dekinai).\nYou will have to make different decisions that will lead you to 5 endings. Can you win their hearts?",
+  "vndb_url": "https://vndb.org/v44008"
+}

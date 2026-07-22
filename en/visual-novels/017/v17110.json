@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17110",
+  "type": "visual_novel",
+  "name": "Western Destiny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Step into the boots of the Sheriff of Tombstone on a typical dangerous day in the wild, wild west!\n\nWill you be a hero and lead your town into the future, or will the sunset find you pushing up daisies on Boot Hill?",
+  "source_sha256": "490093fd543d916c3f7d22751f6d7378e6d2480a8ca4d457ea8b7ebdc743e3f3",
+  "translation": "Step into the boots of the Sheriff of Tombstone on a typical dangerous day in the wild, wild west!\n\nWill you be a hero and lead your town into the future, or will the sunset find you pushing up daisies on Boot Hill?",
+  "vndb_url": "https://vndb.org/v17110"
+}

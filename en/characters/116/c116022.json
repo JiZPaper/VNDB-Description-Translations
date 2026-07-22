@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116022",
+  "type": "character",
+  "name": "Saya",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A curious girl who dowloaded the \"Please Reply, Clown\" app.",
+  "source_sha256": "09bdd46f7d8cf7aecc7721e05e5807604ad52be1dffe8e914bc0e92e0e426e80",
+  "translation": "A curious girl who dowloaded the \"Please Reply, Clown\" app.",
+  "vndb_url": "https://vndb.org/c116022"
+}

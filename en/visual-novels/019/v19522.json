@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19522",
+  "type": "visual_novel",
+  "name": "Jones Life Story",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Tells the story of the struggle of a man who is looking for a lover",
+  "source_sha256": "6deedd686fda920bf3b5f0e79959f8e18325d59c628be5dcb1ebfe5abda0e944",
+  "translation": "Tells the story of the struggle of a man who is looking for a lover",
+  "vndb_url": "https://vndb.org/v19522"
+}

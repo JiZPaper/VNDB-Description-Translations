@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137476",
+  "type": "character",
+  "name": "Bee",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The hero's sidekick - robot",
+  "source_sha256": "c006a5e0385c212f8806a14e019baad940c3095c04f3049ed97c931268f0a193",
+  "translation": "The hero's sidekick - robot",
+  "vndb_url": "https://vndb.org/c137476"
+}

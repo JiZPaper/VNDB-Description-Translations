@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88499",
+  "type": "character",
+  "name": "Sophie Lonberg",
+  "original_name": "ソフィー・ロンベルク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hobbies: Magic research, gardening\nLikes: Spicy foods, all kinds of greenery, exceeding expectations\nDislikes: Cleaning, when things don't go as planned",
+  "source_sha256": "ab17cbc37e61f2145b38dd63e142814bb62af3f047cb1d3c751e17ec89d57bb5",
+  "translation": "Hobbies: Magic research, gardening\nLikes: Spicy foods, all kinds of greenery, exceeding expectations\nDislikes: Cleaning, when things don't go as planned",
+  "vndb_url": "https://vndb.org/c88499"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87016",
+  "type": "character",
+  "name": "Goo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Kyle’s pet pig.",
+  "source_sha256": "65c51fd8a98ba95510d5dd87b59f774f99998f83a5ad2a79c6bc4f25378aa953",
+  "translation": "Kyle’s pet pig.",
+  "vndb_url": "https://vndb.org/c87016"
+}

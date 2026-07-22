@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15544",
+  "type": "character",
+  "name": "John Smith",
+  "original_name": "ジョン・スミス",
+  "language": "en",
+  "source_language": "en",
+  "source": "President and CEO of Smithsoft, a major IT company.",
+  "source_sha256": "245c41849ae7760fab6c10d9a73c9200bf8446cb657a82ff5a8bb2e82b85d5fd",
+  "translation": "President and CEO of Smithsoft, a major IT company.",
+  "vndb_url": "https://vndb.org/c15544"
+}

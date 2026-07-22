@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62439",
+  "type": "character",
+  "name": "Fairy",
+  "original_name": "フェアリ一",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fairy primarily encountered near the entrance to the dungeon. She likes humans and has a mischievous character, sometimes even pulling pranks in town.\nShe plays innocent pranks because she likes humans, but her simple-mindedness also makes her go too far at times.",
+  "source_sha256": "6840ffb86a88da05c5177e8f180501203774494c55a8eed36f3fa4e06820e01e",
+  "translation": "A fairy primarily encountered near the entrance to the dungeon. She likes humans and has a mischievous character, sometimes even pulling pranks in town.\nShe plays innocent pranks because she likes humans, but her simple-mindedness also makes her go too far at times.",
+  "vndb_url": "https://vndb.org/c62439"
+}

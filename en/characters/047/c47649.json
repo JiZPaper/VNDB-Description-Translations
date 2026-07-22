@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47649",
+  "type": "character",
+  "name": "Niboshi",
+  "original_name": "ニボシ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hobby: Sleeping\nLikes: Dried Sardines\nDislikes: Shots, Hospitals",
+  "source_sha256": "f885f64523298a91e03876d5538d380b5bbbca7bd99c6819d4415d61d2756394",
+  "translation": "Hobby: Sleeping\nLikes: Dried Sardines\nDislikes: Shots, Hospitals",
+  "vndb_url": "https://vndb.org/c47649"
+}

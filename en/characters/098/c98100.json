@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98100",
+  "type": "character",
+  "name": "Hero(ine)",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Protagonist's illusion who doesn't want to be forgotten. For that end, keeps insisting on keeping the protagonist company, be it at day or night.[/spoiler]",
+  "source_sha256": "ab52b8234a4a252585427e8c3b8805af8f29b82be31061ce6de4be87e0a09d43",
+  "translation": "[spoiler]Protagonist's illusion who doesn't want to be forgotten. For that end, keeps insisting on keeping the protagonist company, be it at day or night.[/spoiler]",
+  "vndb_url": "https://vndb.org/c98100"
+}

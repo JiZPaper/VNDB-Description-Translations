@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125902",
+  "type": "character",
+  "name": "Sepia",
+  "original_name": "セピア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Works at a pub where the girls dress like cheerleaders.",
+  "source_sha256": "49a67301c1243abdd62f8e5e7155af5d44a7c9a406832d5cfb1a53217e580367",
+  "translation": "Works at a pub where the girls dress like cheerleaders.",
+  "vndb_url": "https://vndb.org/c125902"
+}

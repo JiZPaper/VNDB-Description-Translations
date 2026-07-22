@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99915",
+  "type": "character",
+  "name": "Silence",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Silence is a criminal mime.\nYou like mimes, right?",
+  "source_sha256": "05e9f4b125d118b9b1ac64efdfd4c1e85c84498951b5a1993751b3421d6eb472",
+  "translation": "Silence is a criminal mime.\nYou like mimes, right?",
+  "vndb_url": "https://vndb.org/c99915"
+}

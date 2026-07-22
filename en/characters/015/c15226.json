@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15226",
+  "type": "character",
+  "name": "Natsuki",
+  "original_name": "夏生",
+  "language": "en",
+  "source_language": "en",
+  "source": "Part-time worker at Mezzo.",
+  "source_sha256": "6448ee2789b8d3145f8d07d80d07c26117e9125b475808ac463f128d16d6bf83",
+  "translation": "Part-time worker at Mezzo.",
+  "vndb_url": "https://vndb.org/c15226"
+}

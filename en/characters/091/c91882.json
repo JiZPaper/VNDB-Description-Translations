@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91882",
+  "type": "character",
+  "name": "Gui",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Cyan's master. A man of few words and leads a stoicism life.",
+  "source_sha256": "00fc3e548fa4a1014054d93d1fcde174ec00b45717fd425e103de866db05451c",
+  "translation": "Cyan's master. A man of few words and leads a stoicism life.",
+  "vndb_url": "https://vndb.org/c91882"
+}

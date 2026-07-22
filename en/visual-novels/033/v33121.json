@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33121",
+  "type": "visual_novel",
+  "name": "Summer Days ★ Otouto",
+  "original_name": "サマーデイズ★弟",
+  "language": "en",
+  "source_language": "en",
+  "source": "Summer vacation is around the corner! You and your friend promised to go to the swimming pool together.\nHowever, looks like your little brother has something to say...",
+  "source_sha256": "e07e1309189b095313dc1b1c2b381567e3b6898f4bbc79451b3e6620d3c0f5a6",
+  "translation": "Summer vacation is around the corner! You and your friend promised to go to the swimming pool together.\nHowever, looks like your little brother has something to say...",
+  "vndb_url": "https://vndb.org/v33121"
+}

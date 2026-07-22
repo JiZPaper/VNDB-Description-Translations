@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15674",
+  "type": "character",
+  "name": "Steve Torvill",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lucy's father.",
+  "source_sha256": "e4ad5cc2d3747bb460e805ad0b63acedc613442de1fdbe52959b445122213acf",
+  "translation": "Lucy's father.",
+  "vndb_url": "https://vndb.org/c15674"
+}

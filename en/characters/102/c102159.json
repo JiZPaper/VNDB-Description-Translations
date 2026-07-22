@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102159",
+  "type": "character",
+  "name": "Gladstone",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young man that entered a gun store in Wisconsin.",
+  "source_sha256": "ae326448b9f3512ce9a0c98526e8e67f18d2619b9b4dc7b27334c5970345ab26",
+  "translation": "A young man that entered a gun store in Wisconsin.",
+  "vndb_url": "https://vndb.org/c102159"
+}

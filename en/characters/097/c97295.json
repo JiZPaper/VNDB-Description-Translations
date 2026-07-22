@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97295",
+  "type": "character",
+  "name": "Amachi",
+  "original_name": "天地",
+  "language": "en",
+  "source_language": "en",
+  "source": "The man who saved the protagonist after he fell off a cliff.",
+  "source_sha256": "c55992b7fddd14f92297bf2bb1415880ed2f33f910b71745e166fa604e358666",
+  "translation": "The man who saved the protagonist after he fell off a cliff.",
+  "vndb_url": "https://vndb.org/c97295"
+}

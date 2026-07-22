@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c109956",
+  "type": "character",
+  "name": "Yamashita Daisuke",
+  "original_name": "山下 大輔",
+  "language": "en",
+  "source_language": "en",
+  "source": "Novice security guard assigned to watch over H Elementary.",
+  "source_sha256": "3a8b4a34bb96b557abefb56ca02c6f53c8059f4d46c23c6fac7ada160d2fd062",
+  "translation": "Novice security guard assigned to watch over H Elementary.",
+  "vndb_url": "https://vndb.org/c109956"
+}

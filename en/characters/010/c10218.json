@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c10218",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "College student.",
+  "source_sha256": "efa8cd38ce55dd36d1ba9a26a1fe0434705dbad515e45b04222da359f6bd3860",
+  "translation": "College student.",
+  "vndb_url": "https://vndb.org/c10218"
+}

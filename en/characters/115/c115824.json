@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115824",
+  "type": "character",
+  "name": "Mr. Yamamoto",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A local restaurant owner from Mike and Kathryn's memories, written into Serenity temporarily.",
+  "source_sha256": "fa93146502b858917c354b875d8637efc7961392f61222444427a970256b6917",
+  "translation": "A local restaurant owner from Mike and Kathryn's memories, written into Serenity temporarily.",
+  "vndb_url": "https://vndb.org/c115824"
+}

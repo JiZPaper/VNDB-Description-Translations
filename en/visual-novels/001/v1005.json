@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1005",
+  "type": "visual_novel",
+  "name": "RenAi Blogger",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Play as a young man named Chase who recently moved to New York to study Japanese language and culture. A short dating-sim/visual novel involving certain popular figures in the anime blogosphere and the task of getting a date to an anime con.",
+  "source_sha256": "df93ac24130b848945a805a2ab3d7ea7b97d0aad4872a93fb5dee1e6db7b3d3b",
+  "translation": "Play as a young man named Chase who recently moved to New York to study Japanese language and culture. A short dating-sim/visual novel involving certain popular figures in the anime blogosphere and the task of getting a date to an anime con.",
+  "vndb_url": "https://vndb.org/v1005"
+}

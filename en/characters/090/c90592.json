@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90592",
+  "type": "character",
+  "name": "April",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fun-loving college drop-out who dreams of being a model.",
+  "source_sha256": "c1f7c22aebed78e9541c1ff431606dc4a980b555aba92fa98746fd45fb1ddbe7",
+  "translation": "A fun-loving college drop-out who dreams of being a model.",
+  "vndb_url": "https://vndb.org/c90592"
+}

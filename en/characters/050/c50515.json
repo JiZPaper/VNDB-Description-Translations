@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c50515",
+  "type": "character",
+  "name": "Terha",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A politician who escaped from his country because of its corrupted government.",
+  "source_sha256": "bf45ae108f33c20163353dd96c99ae88ff1644f74a1a266c8a7838f9afb63e2e",
+  "translation": "A politician who escaped from his country because of its corrupted government.",
+  "vndb_url": "https://vndb.org/c50515"
+}

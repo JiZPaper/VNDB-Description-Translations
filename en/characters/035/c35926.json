@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35926",
+  "type": "character",
+  "name": "Amelia Camelia",
+  "original_name": "アメリア・カメリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Wears [url=/c35929]a puppet[/url] on her left hand.",
+  "source_sha256": "8df6f8abcb1414a9a6e38ab7142247bca3253827c5644ca7f00155016784737e",
+  "translation": "Wears [url=/c35929]a puppet[/url] on her left hand.",
+  "vndb_url": "https://vndb.org/c35926"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105813",
+  "type": "character",
+  "name": "Gray",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Frontline worker who mans the fruit stall.\n\nLikes: Explaining the different varieties of apples.",
+  "source_sha256": "7e38ccdf37781e22dd005378d2a87076d11f80791467ca1e4f526dca7f941513",
+  "translation": "Frontline worker who mans the fruit stall.\n\nLikes: Explaining the different varieties of apples.",
+  "vndb_url": "https://vndb.org/c105813"
+}

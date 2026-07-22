@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123930",
+  "type": "character",
+  "name": "Rita White",
+  "original_name": "リタ   ホワァーイト",
+  "language": "en",
+  "source_language": "en",
+  "source": "Rita delivers bread to the church everyday.",
+  "source_sha256": "5a7df709b3f1c6d7fda7b55f722a396e60bd69f166415cbd1a113041f92a164e",
+  "translation": "Rita delivers bread to the church everyday.",
+  "vndb_url": "https://vndb.org/c123930"
+}

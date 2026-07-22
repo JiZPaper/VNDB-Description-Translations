@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152907",
+  "type": "character",
+  "name": "Notrick Case",
+  "original_name": "노트릭 케이스",
+  "language": "en",
+  "source_language": "en",
+  "source": "Skill: None",
+  "source_sha256": "88f2012d17501086a0d2af11de793a8732b6c206eab623b441bb591ca6532689",
+  "translation": "Skill: None",
+  "vndb_url": "https://vndb.org/c152907"
+}

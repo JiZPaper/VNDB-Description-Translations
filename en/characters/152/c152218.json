@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152218",
+  "type": "character",
+  "name": "Cindy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The local shopkeeper.",
+  "source_sha256": "daea71ac55f9c46661c53e2d542dd6312cbe9f35935e76f188518e34e9d11632",
+  "translation": "The local shopkeeper.",
+  "vndb_url": "https://vndb.org/c152218"
+}

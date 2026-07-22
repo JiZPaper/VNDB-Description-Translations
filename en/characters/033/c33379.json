@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33379",
+  "type": "character",
+  "name": "Deimos",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Deimos is a fighter assigned to the starfighter Equinox. He is a confidant of The Shady Plan and known for his almost perpetual silence.",
+  "source_sha256": "d0d64a9c0153c992cfe08a89723fea4d196eef59af0ca3a19b5d28008b46ec10",
+  "translation": "Deimos is a fighter assigned to the starfighter Equinox. He is a confidant of The Shady Plan and known for his almost perpetual silence.",
+  "vndb_url": "https://vndb.org/c33379"
+}

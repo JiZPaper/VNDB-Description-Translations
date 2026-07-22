@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62292",
+  "type": "visual_novel",
+  "name": "Simyagodong",
+  "original_name": "심야고동",
+  "language": "en",
+  "source_language": "en",
+  "source": "Deltarune fangame set before the ending of Chapter 4's \"Weird Route,\" from Noelle's perspective.",
+  "source_sha256": "e18f43a8d23ec042ff5c3780c2bb8a1840105f25bf19dcf4e87ac754bd15bd4f",
+  "translation": "Deltarune fangame set before the ending of Chapter 4's \"Weird Route,\" from Noelle's perspective.",
+  "vndb_url": "https://vndb.org/v62292"
+}

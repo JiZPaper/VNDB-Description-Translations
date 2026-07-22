@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95001",
+  "type": "character",
+  "name": "Tyler",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Joshua's nephew.",
+  "source_sha256": "7c95fb15deb381449a7580558334a06a63b6e2f2585c1ce7ddc03b6a444be79b",
+  "translation": "Joshua's nephew.",
+  "vndb_url": "https://vndb.org/c95001"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53412",
+  "type": "visual_novel",
+  "name": "Istoriya o nezakonnoj lyubvi",
+  "original_name": "История о незаконной любви",
+  "language": "en",
+  "source_language": "en",
+  "source": "Tragic story about Vasya Alcapon, his girlfriend and their friends.",
+  "source_sha256": "6adce34d0a265c6ce321efc0b7c441545c41b4a29984a2b4858c892ac26f43c0",
+  "translation": "Tragic story about Vasya Alcapon, his girlfriend and their friends.",
+  "vndb_url": "https://vndb.org/v53412"
+}

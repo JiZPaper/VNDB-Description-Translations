@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95884",
+  "type": "character",
+  "name": "Ryan Gray",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Charismatic Bartender",
+  "source_sha256": "fdcef51463f75bd2b588ffa70dffe6b57a777658ae05cbaa0787201d69714e04",
+  "translation": "Charismatic Bartender",
+  "vndb_url": "https://vndb.org/c95884"
+}

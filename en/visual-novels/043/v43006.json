@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43006",
+  "type": "visual_novel",
+  "name": "Hello!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Hello! is a short story about her greeting you. How would you reply?\n\n[From [url=https://onlywax-rw.itch.io/hello-missing-visual-novel]itch.io[/url]]",
+  "source_sha256": "8219f18fdb8ee870cf19efccde03c3c972bcb1f03f7a2b21b52d696eeb9550db",
+  "translation": "Hello! is a short story about her greeting you. How would you reply?\n\n[From [url=https://onlywax-rw.itch.io/hello-missing-visual-novel]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43006"
+}

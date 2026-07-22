@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39285",
+  "type": "character",
+  "name": "Arita Kisuke",
+  "original_name": "有田 喜助",
+  "language": "en",
+  "source_language": "en",
+  "source": "An information seller.\nHobby: Traveling\nLikes: Natto\nDislikes: Cleaning\nHe gives advice to the protagonist and the brothers.",
+  "source_sha256": "3812b4c0f0b01dbd6a1867d6d0b9067b3d9e8ed199463bf732cbccd7da8c3899",
+  "translation": "An information seller.\nHobby: Traveling\nLikes: Natto\nDislikes: Cleaning\nHe gives advice to the protagonist and the brothers.",
+  "vndb_url": "https://vndb.org/c39285"
+}

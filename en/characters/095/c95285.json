@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95285",
+  "type": "character",
+  "name": "Saiko",
+  "original_name": "骰子",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mysterious young girl who lives in an abandoned building overgrown with clovers.",
+  "source_sha256": "4dcb8e1b12da4dc09b515e0e0dcb79699dca43731574c665d7b4ff8d626f967f",
+  "translation": "Mysterious young girl who lives in an abandoned building overgrown with clovers.",
+  "vndb_url": "https://vndb.org/c95285"
+}

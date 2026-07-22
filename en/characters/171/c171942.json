@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c171942",
+  "type": "character",
+  "name": "Violet",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Caroline's friend",
+  "source_sha256": "dca0bd07fac45ee54dd2f40384b7664389f22d145d486b9dd577b2b348116c45",
+  "translation": "Caroline's friend",
+  "vndb_url": "https://vndb.org/c171942"
+}

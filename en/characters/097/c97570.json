@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97570",
+  "type": "character",
+  "name": "Michii",
+  "original_name": "道井",
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist's boss.",
+  "source_sha256": "f033b778ed92030bfc2a1f95bc0291b370a3139894ee46ef76c8384071d9aa8f",
+  "translation": "Protagonist's boss.",
+  "vndb_url": "https://vndb.org/c97570"
+}

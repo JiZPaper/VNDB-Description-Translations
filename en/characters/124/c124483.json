@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124483",
+  "type": "character",
+  "name": "Heroine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist who helps create a love song.",
+  "source_sha256": "974bb849301f612dd0928f9d388c6dd7fc569d6539278902687c673086209def",
+  "translation": "The protagonist who helps create a love song.",
+  "vndb_url": "https://vndb.org/c124483"
+}

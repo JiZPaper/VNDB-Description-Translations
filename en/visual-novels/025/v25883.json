@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25883",
+  "type": "visual_novel",
+  "name": "Hinashio Valentine",
+  "original_name": "ひなしおバレンタイン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fan game of Goes! focused on Hinata Eli Farce.",
+  "source_sha256": "624d0733b585060deaeb852477373e419dd67147242815414d1a94abe6d17e17",
+  "translation": "Fan game of Goes! focused on Hinata Eli Farce.",
+  "vndb_url": "https://vndb.org/v25883"
+}

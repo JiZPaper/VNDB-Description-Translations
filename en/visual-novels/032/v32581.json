@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32581",
+  "type": "visual_novel",
+  "name": "Kiya Shii Collection \"Mugen Shokushu\"",
+  "original_name": "木谷椎コレクション「夢幻触手」",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a voiced game that colors and animates 2 doujin manga:\n\n1. 20-page doujin \n2. 20-page doujin",
+  "source_sha256": "493baf0354494a0ff28f72a9ab68da6ea112f28fcc6ba3455f87a807b2ec9014",
+  "translation": "This is a voiced game that colors and animates 2 doujin manga:\n\n1. 20-page doujin \n2. 20-page doujin",
+  "vndb_url": "https://vndb.org/v32581"
+}

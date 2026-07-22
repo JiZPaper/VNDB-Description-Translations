@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26855",
+  "type": "visual_novel",
+  "name": "The Pill",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Two girls test the effects of a shady body modification pill.",
+  "source_sha256": "282b0798076b2c5abe65884a32d77fe179e88624d0ccebec156341ed5f3b969a",
+  "translation": "Two girls test the effects of a shady body modification pill.",
+  "vndb_url": "https://vndb.org/v26855"
+}

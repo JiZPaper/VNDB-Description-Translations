@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154561",
+  "type": "character",
+  "name": "Peter Bartholomew",
+  "original_name": "ペトルス・バルトロメオ",
+  "language": "en",
+  "source_language": "en",
+  "source": "She's looking for a holy spear that's said to be buried somewhere.\n\n\"Maybe it's buried over there?\"",
+  "source_sha256": "03e90431fdb5c398774b15537776ce792ad0c72aadcd07155addf2598906c8e1",
+  "translation": "She's looking for a holy spear that's said to be buried somewhere.\n\n\"Maybe it's buried over there?\"",
+  "vndb_url": "https://vndb.org/c154561"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62404",
+  "type": "character",
+  "name": "Doug",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Doug is Iris' friend and a quarterback on a football team in their school.",
+  "source_sha256": "7bfb3d5763bda5608d0e1e60f10c57db7e1afee116b5c11d3d26a61edaa0fc80",
+  "translation": "Doug is Iris' friend and a quarterback on a football team in their school.",
+  "vndb_url": "https://vndb.org/c62404"
+}

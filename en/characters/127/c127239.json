@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127239",
+  "type": "character",
+  "name": "George Liebert",
+  "original_name": "ゲオルグ・リーベルト",
+  "language": "en",
+  "source_language": "en",
+  "source": "George Liebert is a maintenance worker under Otto Strauss at Bebersee Base.",
+  "source_sha256": "a6952bdbbc13631550f05113d63cd8cf9783adbc6e8c4a9e2a1ff5cc9054c185",
+  "translation": "George Liebert is a maintenance worker under Otto Strauss at Bebersee Base.",
+  "vndb_url": "https://vndb.org/c127239"
+}

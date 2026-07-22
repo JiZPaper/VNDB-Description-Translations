@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35752",
+  "type": "character",
+  "name": "Luarka Stererda",
+  "original_name": "ルアッカ・シュテルエーダ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Communication officer in charge of decoding incoming messages.",
+  "source_sha256": "467ca61766caf496b3745cf9a6605d7a8281f22aa587b041ca66c89e25fa9a88",
+  "translation": "Communication officer in charge of decoding incoming messages.",
+  "vndb_url": "https://vndb.org/c35752"
+}

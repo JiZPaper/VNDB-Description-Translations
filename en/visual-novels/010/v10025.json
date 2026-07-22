@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10025",
+  "type": "visual_novel",
+  "name": "Cursed Mail",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "It started with a chain letter.\n\n\"This is a cursed e-mail.\nIf you have received this email, you must forward it to two people you know.\nIf you don't, you will soon die.\"\n\nI thought it was a stupid chain letter.  But two weeks later, one of my classmates committed suicide.\n\nHe'd ignored the cursed e-mail.\n\n(From the [url=http://homepage2.nifty.com/uyokyokusetsu/source/other/curse/curse.htm]website[/url])",
+  "source_sha256": "1ec4093f8d2541e96178aeac58538e02024a84887b64b962ced8497325ac25c0",
+  "translation": "It started with a chain letter.\n\n\"This is a cursed e-mail.\nIf you have received this email, you must forward it to two people you know.\nIf you don't, you will soon die.\"\n\nI thought it was a stupid chain letter.  But two weeks later, one of my classmates committed suicide.\n\nHe'd ignored the cursed e-mail.\n\n(From the [url=http://homepage2.nifty.com/uyokyokusetsu/source/other/curse/curse.htm]website[/url])",
+  "vndb_url": "https://vndb.org/v10025"
+}

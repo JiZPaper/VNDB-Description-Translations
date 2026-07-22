@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71148",
+  "type": "character",
+  "name": "Destor Leeds",
+  "original_name": "ディストル＝リーズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Right-handed\nHobby: Drinking\nLoves: Alcohol\nHates: Prohibition\nFavorite Color: 酒色 (said by the person himself)",
+  "source_sha256": "a8c0a9b4d3e156fb4f74fa9e5b0a96d2a98caf99fd1367415e2872059fa091e8",
+  "translation": "Right-handed\nHobby: Drinking\nLoves: Alcohol\nHates: Prohibition\nFavorite Color: 酒色 (said by the person himself)",
+  "vndb_url": "https://vndb.org/c71148"
+}

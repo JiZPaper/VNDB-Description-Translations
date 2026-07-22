@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14173",
+  "type": "visual_novel",
+  "name": "Sora ni wa Shiro o",
+  "original_name": "空には白を",
+  "language": "en",
+  "source_language": "en",
+  "source": "It is rumored that the black snow will lead to the end of the world.\n\nIn the constant snow, Riki finds a small, ephemeral love.",
+  "source_sha256": "c88c6520883b38bf58ee7bc139c1ffb3681b23c9648995827e634efa6030c5f3",
+  "translation": "It is rumored that the black snow will lead to the end of the world.\n\nIn the constant snow, Riki finds a small, ephemeral love.",
+  "vndb_url": "https://vndb.org/v14173"
+}

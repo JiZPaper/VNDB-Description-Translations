@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169610",
+  "type": "character",
+  "name": "Princess Peach",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The princess of the Mushroom Kingdom, who goes on a vacation to Isle Delfino.",
+  "source_sha256": "ed8c3b5425f106004f953a35c80af5bcdaeac5f1e083070f37b9f33805e90335",
+  "translation": "The princess of the Mushroom Kingdom, who goes on a vacation to Isle Delfino.",
+  "vndb_url": "https://vndb.org/c169610"
+}

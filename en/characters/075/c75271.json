@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75271",
+  "type": "character",
+  "name": "Destiny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The witch hunter captain.",
+  "source_sha256": "b3892260720e2e2ff8a8dd81392d59f819482177b0abb39cbaa34724a8a4fdb4",
+  "translation": "The witch hunter captain.",
+  "vndb_url": "https://vndb.org/c75271"
+}

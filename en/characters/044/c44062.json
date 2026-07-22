@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44062",
+  "type": "character",
+  "name": "Narration",
+  "original_name": "ナレーション",
+  "language": "en",
+  "source_language": "en",
+  "source": "This game has a voiced narration.",
+  "source_sha256": "6ca9eb3c15d7878150159bd1a608f794ac2a04a3d30e49e93b17a99975f00a23",
+  "translation": "This game has a voiced narration.",
+  "vndb_url": "https://vndb.org/c44062"
+}

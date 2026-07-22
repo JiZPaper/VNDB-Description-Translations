@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115193",
+  "type": "character",
+  "name": "Mom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jing's mother.",
+  "source_sha256": "9a715e1ebf1c7d4a10e6a91200f29342faab993deb4fd71e05ebbe87abb1b39d",
+  "translation": "Jing's mother.",
+  "vndb_url": "https://vndb.org/c115193"
+}

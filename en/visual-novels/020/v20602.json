@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20602",
+  "type": "visual_novel",
+  "name": "Maji de Watashi ni Koishinasai! A-5",
+  "original_name": "真剣で私に恋しなさい！A-5",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fandisc featuring routes for Yoshitsune and Takae, as well as an after story for Margit.",
+  "source_sha256": "eba0cb69dc5ed5c0d5bd33fee5d8c6834c6dddb970dc8b4268c5ed39130904bf",
+  "translation": "A fandisc featuring routes for Yoshitsune and Takae, as well as an after story for Margit.",
+  "vndb_url": "https://vndb.org/v20602"
+}

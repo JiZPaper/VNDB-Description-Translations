@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95178",
+  "type": "character",
+  "name": "Aware",
+  "original_name": "あわれ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A strange girl encountered at the train station.",
+  "source_sha256": "2d3a831f1b07d50bec0f4a5bc4745f2723a2f5c76feaebfa2f8c14e96e0a434e",
+  "translation": "A strange girl encountered at the train station.",
+  "vndb_url": "https://vndb.org/c95178"
+}

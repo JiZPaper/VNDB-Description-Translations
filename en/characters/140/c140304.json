@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140304",
+  "type": "character",
+  "name": "Aria",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bianca's daughter.",
+  "source_sha256": "4f54e959e9e29f93ba519e1b2747f7b46b41d5994b60ac4f1ff6800cc6839b7f",
+  "translation": "Bianca's daughter.",
+  "vndb_url": "https://vndb.org/c140304"
+}

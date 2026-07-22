@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97465",
+  "type": "character",
+  "name": "Mahesa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mahesa is a leyak encountered by the Culture Research Club in the woods.",
+  "source_sha256": "c4e175757c2529bf3dd4e7a667ba5cd4013c4b275c001675fa72cdd16004f326",
+  "translation": "Mahesa is a leyak encountered by the Culture Research Club in the woods.",
+  "vndb_url": "https://vndb.org/c97465"
+}

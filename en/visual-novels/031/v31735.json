@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31735",
+  "type": "visual_novel",
+  "name": "The Witch and Her Assistant",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about a young witch living alone in her cottage and an encounter in the forest",
+  "source_sha256": "64d02b3b6f1488441977dfc7f555eb46e1b30d2ccb4e2f09e398f4233b277fb3",
+  "translation": "A story about a young witch living alone in her cottage and an encounter in the forest",
+  "vndb_url": "https://vndb.org/v31735"
+}

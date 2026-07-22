@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c43322",
+  "type": "character",
+  "name": "Palamedes Philips",
+  "original_name": "パロミデス フィリップス",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the Knights of the Round Table.",
+  "source_sha256": "f131481a107c6f0804119d8ed6ee5544760c6af4d702d65e423ca07c16cce210",
+  "translation": "One of the Knights of the Round Table.",
+  "vndb_url": "https://vndb.org/c43322"
+}

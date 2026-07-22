@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15865",
+  "type": "visual_novel",
+  "name": "Wolfram's Birthday Present",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "It's Wolfram's birthday. What can Yuuri do for a last-minute present?",
+  "source_sha256": "8320d42761e0bbd28d6afb2e4aeb3daa88c1c5294847dfdb2e96b9efbc3432d2",
+  "translation": "It's Wolfram's birthday. What can Yuuri do for a last-minute present?",
+  "vndb_url": "https://vndb.org/v15865"
+}

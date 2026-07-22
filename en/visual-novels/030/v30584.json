@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30584",
+  "type": "visual_novel",
+  "name": "Pumpkin Spice Café",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Become a barista and talk with Café’s customers. Who knows? Maybe you'll change someone's life?",
+  "source_sha256": "481f21381b8f889601e649023039238250280cd204653902565b02739ebf0898",
+  "translation": "Become a barista and talk with Café’s customers. Who knows? Maybe you'll change someone's life?",
+  "vndb_url": "https://vndb.org/v30584"
+}

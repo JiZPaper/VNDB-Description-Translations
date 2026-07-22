@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131973",
+  "type": "character",
+  "name": "Kyril",
+  "original_name": "キリル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Person of mystery [? Attribute].\n\nMysterious, lazy and low zest for life.",
+  "source_sha256": "37166636e848356f06ad5059799fd20fca1e8b7ca13b58ee5070c5dbf72f85b9",
+  "translation": "Person of mystery [? Attribute].\n\nMysterious, lazy and low zest for life.",
+  "vndb_url": "https://vndb.org/c131973"
+}

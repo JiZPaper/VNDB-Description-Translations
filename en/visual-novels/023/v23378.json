@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23378",
+  "type": "visual_novel",
+  "name": "V poiskah Vlada 2: Vladoljenie",
+  "original_name": "В поисках Влада 2: Владолжение",
+  "language": "en",
+  "source_language": "en",
+  "source": "The continuation of the adventures of Vlad and his friends.",
+  "source_sha256": "d4aea46914b163bb8df27f4bdc4cf98c8bce84c96ce5bb8ac70a88c576c369ca",
+  "translation": "The continuation of the adventures of Vlad and his friends.",
+  "vndb_url": "https://vndb.org/v23378"
+}

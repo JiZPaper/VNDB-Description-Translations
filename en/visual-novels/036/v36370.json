@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36370",
+  "type": "visual_novel",
+  "name": "100 jours",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Follow the first steps of a French citizen who discovers politics.",
+  "source_sha256": "5003ca264f4d58e3a36ba177500a29b3c9e2aeabf3a8e07dcd76564ee010a8bc",
+  "translation": "Follow the first steps of a French citizen who discovers politics.",
+  "vndb_url": "https://vndb.org/v36370"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15178",
+  "type": "visual_novel",
+  "name": "Stalker",
+  "original_name": "追跡者～ストーカー～",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a stalker game. Your target is a high school girl, Megumi (and all other females around her).\n\n[From [url=http://www.densetsu.com/display.php?id=100&style=alphabetical]animedensetsu[/url]]",
+  "source_sha256": "592dda461903026238e1770915ed8ea0698b070a3da56112d056709d5113b150",
+  "translation": "This is a stalker game. Your target is a high school girl, Megumi (and all other females around her).\n\n[From [url=http://www.densetsu.com/display.php?id=100&style=alphabetical]animedensetsu[/url]]",
+  "vndb_url": "https://vndb.org/v15178"
+}

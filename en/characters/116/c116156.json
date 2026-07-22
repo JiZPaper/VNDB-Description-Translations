@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116156",
+  "type": "character",
+  "name": "Gregoire",
+  "original_name": "グレゴワール",
+  "language": "en",
+  "source_language": "en",
+  "source": "Nahash's brother",
+  "source_sha256": "9c4903c204d465119fafb10fc1446da6888090c030ccb7a3620b9b27cb02db7a",
+  "translation": "Nahash's brother",
+  "vndb_url": "https://vndb.org/c116156"
+}

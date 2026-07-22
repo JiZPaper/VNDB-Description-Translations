@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25608",
+  "type": "character",
+  "name": "Sylvia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jed's sister.",
+  "source_sha256": "6c712e993afcd2ad397e62e5e31e3c37eae118fce052136a3403394cac44ad7c",
+  "translation": "Jed's sister.",
+  "vndb_url": "https://vndb.org/c25608"
+}

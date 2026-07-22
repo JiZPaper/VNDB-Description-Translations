@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c18796",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "A man with amnesia who can't even remember his name.",
+  "source_sha256": "4617951c0e716999dccdf52dd51ef0a6a84ec5b77fe61489cb73e98040dfb9c0",
+  "translation": "A man with amnesia who can't even remember his name.",
+  "vndb_url": "https://vndb.org/c18796"
+}

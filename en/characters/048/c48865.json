@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48865",
+  "type": "character",
+  "name": "Vogras Rivierante",
+  "original_name": "ヴォグラス＝リヴィエランテ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The town's mayor who is a wealthy upper class man, judges the concert and [url=/c48862]Alsiela Rivielante[/url]'s father.",
+  "source_sha256": "c6d76095f50317075b49e84836b4e0a5d40632607fe774e2c9f3feedba5f2c99",
+  "translation": "The town's mayor who is a wealthy upper class man, judges the concert and [url=/c48862]Alsiela Rivielante[/url]'s father.",
+  "vndb_url": "https://vndb.org/c48865"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112314",
+  "type": "character",
+  "name": "Chop-Chop",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An Eternum player who seems to run a small shop in every single server.",
+  "source_sha256": "f8b8d393663e81582dd81ccdf084c38199277c231c8e83bede2ac12c992875bd",
+  "translation": "An Eternum player who seems to run a small shop in every single server.",
+  "vndb_url": "https://vndb.org/c112314"
+}

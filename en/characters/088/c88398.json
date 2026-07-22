@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88398",
+  "type": "character",
+  "name": "Octavia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your teacher. She's very serious about her work and doesn’t approve of students who slack off.",
+  "source_sha256": "1a8621fe5e6a9c2d136b25dee26d3a087a9d94da0e9e8c7a552f4f4f849b1843",
+  "translation": "Your teacher. She's very serious about her work and doesn’t approve of students who slack off.",
+  "vndb_url": "https://vndb.org/c88398"
+}

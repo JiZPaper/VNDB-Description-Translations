@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61138",
+  "type": "visual_novel",
+  "name": "Dandelions and Me",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as someone searching for their missing dog in an abandoned dungeon.\n\n[From [url=https://gorebaristas.itch.io/dandelions-and-me]Itch.io[/url]]",
+  "source_sha256": "dd624c6f41b2b2a3ae4d8229bc3ae5d3f74b93082bd19af5e04e037a52203ff1",
+  "translation": "You play as someone searching for their missing dog in an abandoned dungeon.\n\n[From [url=https://gorebaristas.itch.io/dandelions-and-me]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v61138"
+}

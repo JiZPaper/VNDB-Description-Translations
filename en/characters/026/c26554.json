@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c26554",
+  "type": "character",
+  "name": "Bobby O'Hara",
+  "original_name": "ボビー・オハラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Marika's husband.",
+  "source_sha256": "b79b13038b57e0762d9b9d9cc6f72db23ffc354391f344fd920e819a37d5adf4",
+  "translation": "Marika's husband.",
+  "vndb_url": "https://vndb.org/c26554"
+}

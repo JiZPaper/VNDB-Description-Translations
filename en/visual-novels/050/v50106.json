@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50106",
+  "type": "visual_novel",
+  "name": "gheras feras",
+  "original_name": "غراس فراس",
+  "language": "en",
+  "source_language": "en",
+  "source": "feras is haunted by ghost in his dreams that reveal bad thing he had done in the past",
+  "source_sha256": "6b2c47e4120ef3d8a0a433d1c9dc19e36bcaf7b80857c510202727cfb5c1e9d5",
+  "translation": "feras is haunted by ghost in his dreams that reveal bad thing he had done in the past",
+  "vndb_url": "https://vndb.org/v50106"
+}

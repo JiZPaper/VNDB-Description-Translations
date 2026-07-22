@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c19984",
+  "type": "character",
+  "name": "Gordon Ramsay",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A foul-mouthed chef who's just moved to a new town.",
+  "source_sha256": "ed00c3c708815fa2a3230d2a634ff7a8b19b725ff4afcca8d3c6358cc91ebc6f",
+  "translation": "A foul-mouthed chef who's just moved to a new town.",
+  "vndb_url": "https://vndb.org/c19984"
+}

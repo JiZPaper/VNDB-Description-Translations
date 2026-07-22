@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61095",
+  "type": "visual_novel",
+  "name": "Qiangzhong zhi Yu",
+  "original_name": "墙中之鱼",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel about a dying person.",
+  "source_sha256": "e178a4866885e79adc7d797fee89bc6514adefba390e4bfe8a700202f67d413e",
+  "translation": "A short visual novel about a dying person.",
+  "vndb_url": "https://vndb.org/v61095"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94989",
+  "type": "character",
+  "name": "Shiba",
+  "original_name": "シバ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ex-convict that needs to prove he's a good boy.",
+  "source_sha256": "c2aae1fea53fde5fa2efbe62ea6769f1b862f166391c01a66bbd225b9affc4dc",
+  "translation": "Ex-convict that needs to prove he's a good boy.",
+  "vndb_url": "https://vndb.org/c94989"
+}

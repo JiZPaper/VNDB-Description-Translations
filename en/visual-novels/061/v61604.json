@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61604",
+  "type": "visual_novel",
+  "name": "Haunted...",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a game about limerence and obsession. This doll is broken.",
+  "source_sha256": "8d5f5bdefb0045919388dc8a06695f15c863bc99d67f471cabef8823d8b83920",
+  "translation": "This is a game about limerence and obsession. This doll is broken.",
+  "vndb_url": "https://vndb.org/v61604"
+}

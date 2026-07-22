@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4062",
+  "type": "character",
+  "name": "Zombie Butler",
+  "original_name": "ゾンビ執事",
+  "language": "en",
+  "source_language": "en",
+  "source": "A zombie butler summoned by Kirie. He tends to her wishes.",
+  "source_sha256": "c1d00a5bd0d1fc3fd593e60cd9a2044ee079f65447aba5ca5d35e3f95a1e5fcf",
+  "translation": "A zombie butler summoned by Kirie. He tends to her wishes.",
+  "vndb_url": "https://vndb.org/c4062"
+}

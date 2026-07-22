@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c119887",
+  "type": "character",
+  "name": "Griff",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Griff is a friend of Keir's, as well as a fellow thief.",
+  "source_sha256": "9792a1536a3308179fd7644cdcdfddc7d6d0501c11f3132785f30de640c0bf7b",
+  "translation": "Griff is a friend of Keir's, as well as a fellow thief.",
+  "vndb_url": "https://vndb.org/c119887"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26502",
+  "type": "visual_novel",
+  "name": "Mum",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Made for Worst game challenge.",
+  "source_sha256": "da036b0b73ee5a4bab0a32a4f5eeb244bc5beb6bc8419542e468562052182dfa",
+  "translation": "Made for Worst game challenge.",
+  "vndb_url": "https://vndb.org/v26502"
+}

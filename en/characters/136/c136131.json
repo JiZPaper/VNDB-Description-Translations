@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136131",
+  "type": "character",
+  "name": "Jane's Dad",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jane's father-slash-bodyguard.",
+  "source_sha256": "86feb3782969dfeeff5d273bf61bc36c3b0e34dcd45da4dc2064d606103dfcad",
+  "translation": "Jane's father-slash-bodyguard.",
+  "vndb_url": "https://vndb.org/c136131"
+}

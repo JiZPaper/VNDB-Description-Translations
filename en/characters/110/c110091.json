@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110091",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An up and coming streamer with millions of fans worldwide.",
+  "source_sha256": "9481ef3d2b163792bdba07c8a0be1debb1bd6e525f8f840b8c4b8c24169ce82f",
+  "translation": "An up and coming streamer with millions of fans worldwide.",
+  "vndb_url": "https://vndb.org/c110091"
+}

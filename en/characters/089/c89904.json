@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89904",
+  "type": "character",
+  "name": "Chams",
+  "original_name": "チャムス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Golem master.",
+  "source_sha256": "38b174e3f234f2a5d48978188c2ba954be883b9d3e6454c37231bad0f283af00",
+  "translation": "Golem master.",
+  "vndb_url": "https://vndb.org/c89904"
+}

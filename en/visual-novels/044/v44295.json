@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44295",
+  "type": "visual_novel",
+  "name": "Firelore: First Fate",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dark fantasy visual novel where YOU decide the fate.\n\n[From the [url=https://ldjam.com/events/ludum-dare/53/firelore-first-fate]official website[/url]].",
+  "source_sha256": "f0a88a49cbfb09403eb7f92142a50a0e45257690cf0f5c69f2e599cccd26c272",
+  "translation": "A dark fantasy visual novel where YOU decide the fate.\n\n[From the [url=https://ldjam.com/events/ludum-dare/53/firelore-first-fate]official website[/url]].",
+  "vndb_url": "https://vndb.org/v44295"
+}

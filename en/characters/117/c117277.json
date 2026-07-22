@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117277",
+  "type": "character",
+  "name": "Maison Talo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The #1 Realtor in Uncanny Valley.",
+  "source_sha256": "c5acc0feaab5841c89da1843e14502477a954f02054857d11fc6f1ac68472f9b",
+  "translation": "The #1 Realtor in Uncanny Valley.",
+  "vndb_url": "https://vndb.org/c117277"
+}

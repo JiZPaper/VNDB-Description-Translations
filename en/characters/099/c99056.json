@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99056",
+  "type": "character",
+  "name": "Mat",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A friend of Kelly. He wants to ask her out for prom.",
+  "source_sha256": "8d4c80a507013729fac36d776c6fc0f05dacdf583e94046454880094c862c0e6",
+  "translation": "A friend of Kelly. He wants to ask her out for prom.",
+  "vndb_url": "https://vndb.org/c99056"
+}

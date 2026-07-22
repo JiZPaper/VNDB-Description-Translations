@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c128517",
+  "type": "character",
+  "name": "Maximum Moray",
+  "original_name": "オカルト 部長",
+  "language": "en",
+  "source_language": "en",
+  "source": "The president of the Occult Research Club.",
+  "source_sha256": "ba5a94c73f1fc33826c1a448d750ae4ed7b01a60d14a2700cf8883c5d4f09f8f",
+  "translation": "The president of the Occult Research Club.",
+  "vndb_url": "https://vndb.org/c128517"
+}

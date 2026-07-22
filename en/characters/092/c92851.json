@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92851",
+  "type": "character",
+  "name": "Daisy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ethan's little sister.",
+  "source_sha256": "5b992d4a6c7fa94607d3eca3e44fe193372d17c5f1eb84d244a67656dccc01cf",
+  "translation": "Ethan's little sister.",
+  "vndb_url": "https://vndb.org/c92851"
+}

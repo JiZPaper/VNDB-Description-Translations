@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64076",
+  "type": "character",
+  "name": "Tenchou",
+  "original_name": "店長",
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of Mayonaka Cafe.",
+  "source_sha256": "d365ed23d651a0e98139accb13a0d1bf1972a02e243e8baae4115ccf3af6c842",
+  "translation": "The owner of Mayonaka Cafe.",
+  "vndb_url": "https://vndb.org/c64076"
+}

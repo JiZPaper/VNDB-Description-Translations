@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55808",
+  "type": "visual_novel",
+  "name": "Tegami",
+  "original_name": "手紙",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a story about a pirate who illegally copied and then resold video games. One day he came across an unusual game called Armageddon, and it changed his life forever.",
+  "source_sha256": "af7d90982ce4e7bd0c51828ac1571df6f31a8d96b965d7399c99b0d06eb9ac8a",
+  "translation": "This is a story about a pirate who illegally copied and then resold video games. One day he came across an unusual game called Armageddon, and it changed his life forever.",
+  "vndb_url": "https://vndb.org/v55808"
+}

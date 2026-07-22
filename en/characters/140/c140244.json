@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140244",
+  "type": "character",
+  "name": "Sammy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is met at a party.",
+  "source_sha256": "9051fc8d2831a55d7a1925acbc47716724ebad7985e241168e12ebb2a13811f9",
+  "translation": "He is met at a party.",
+  "vndb_url": "https://vndb.org/c140244"
+}

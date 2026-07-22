@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34758",
+  "type": "visual_novel",
+  "name": "Heat Source",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Welcome to Northern Forests!\"\n\nYou play as an otter among other big species.\n\n[From [url=https://ari-guardian.itch.io/heat-source]Itch.io[/url]]",
+  "source_sha256": "3b88c045c87194a4adb800025804fbf8fda691bb793f26dad53bde95ec2026e1",
+  "translation": "\"Welcome to Northern Forests!\"\n\nYou play as an otter among other big species.\n\n[From [url=https://ari-guardian.itch.io/heat-source]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v34758"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58461",
+  "type": "visual_novel",
+  "name": "Apus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The story is set on the Mars exploration base, Dune.\nIt follows a young man named Subaru, who has been left behind there alone.\nHowever, the perspective of the story is told through a “meteorite” he picked up.",
+  "source_sha256": "1bdc96630cbe042a323f91a5162b6b0b671a82dd0b285aeb2796bb504812218e",
+  "translation": "The story is set on the Mars exploration base, Dune.\nIt follows a young man named Subaru, who has been left behind there alone.\nHowever, the perspective of the story is told through a “meteorite” he picked up.",
+  "vndb_url": "https://vndb.org/v58461"
+}

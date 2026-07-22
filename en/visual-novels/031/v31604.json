@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31604",
+  "type": "visual_novel",
+  "name": "Nightowl",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A group of high school friends reunite over a chat room and try to relive the good times of when they were all together, but can their friendship endure the lost time?\n\n[From [url=https://crystalgameworks.itch.io/nightowl]itch.io[/url]]\n\nEntry for Ludum Dare 37.",
+  "source_sha256": "463ff0d7d73cca74194e2d17e2a632e66ff77fc979f634f3cf08b45b88818dd4",
+  "translation": "A group of high school friends reunite over a chat room and try to relive the good times of when they were all together, but can their friendship endure the lost time?\n\n[From [url=https://crystalgameworks.itch.io/nightowl]itch.io[/url]]\n\nEntry for Ludum Dare 37.",
+  "vndb_url": "https://vndb.org/v31604"
+}

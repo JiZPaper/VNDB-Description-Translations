@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117524",
+  "type": "character",
+  "name": "Professor",
+  "original_name": "教授",
+  "language": "en",
+  "source_language": "en",
+  "source": "An Associate professor that works at a local university. He has written multiple published papers, though papers have been treated as heresy by multiple academic societies. Upon travelling to the alternate world he suffers from memory issues and so after the children come across him, they just call him Professor.",
+  "source_sha256": "cda3b0b7e4d12e16ee36453b65104973887a1cc5a7dadfd6e1a40b82aaa8963a",
+  "translation": "An Associate professor that works at a local university. He has written multiple published papers, though papers have been treated as heresy by multiple academic societies. Upon travelling to the alternate world he suffers from memory issues and so after the children come across him, they just call him Professor.",
+  "vndb_url": "https://vndb.org/c117524"
+}

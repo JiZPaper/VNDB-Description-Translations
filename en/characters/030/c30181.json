@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30181",
+  "type": "character",
+  "name": "Mia",
+  "original_name": "ミア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Natsuki's familiar.",
+  "source_sha256": "dba02bd6e4bc92704da4b04a3a1da219434430b6bee2bb70bb48093c8231bd72",
+  "translation": "Natsuki's familiar.",
+  "vndb_url": "https://vndb.org/c30181"
+}

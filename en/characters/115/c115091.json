@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115091",
+  "type": "character",
+  "name": "Bread",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A slice of bread with sentience.",
+  "source_sha256": "e4e69be49f420e57537de65a6b4779be5b970fb375a57f70b0e1743d74da8f4f",
+  "translation": "A slice of bread with sentience.",
+  "vndb_url": "https://vndb.org/c115091"
+}

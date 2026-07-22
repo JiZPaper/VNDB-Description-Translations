@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32182",
+  "type": "visual_novel",
+  "name": "Homestuck BETA",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An earlier version of Homestuck.",
+  "source_sha256": "217fee4830f052c440eb217f8118bcc2f85bdfe0328496aee4b6e3dca2afb5c9",
+  "translation": "An earlier version of Homestuck.",
+  "vndb_url": "https://vndb.org/v32182"
+}

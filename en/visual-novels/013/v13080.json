@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13080",
+  "type": "visual_novel",
+  "name": "The End of the Raven",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual adaptation of the poem from Henry Beard's \"Poetry for Cats.\"",
+  "source_sha256": "d62be07cfa3242259018c121e246e9f383fcba4fc141ba4abee2d2c6b868970c",
+  "translation": "A visual adaptation of the poem from Henry Beard's \"Poetry for Cats.\"",
+  "vndb_url": "https://vndb.org/v13080"
+}

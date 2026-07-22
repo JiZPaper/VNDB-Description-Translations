@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c171262",
+  "type": "character",
+  "name": "Cal",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A new regular at Café Bloom. Introduces themself as Cal. They’re a bit formal and stiff, but at the same time there’s something comforting about having them around.",
+  "source_sha256": "fd7014741a5f5be92d6e5fb0060fd9243411bc52e1f8878ae321b1d7b9642f98",
+  "translation": "A new regular at Café Bloom. Introduces themself as Cal. They’re a bit formal and stiff, but at the same time there’s something comforting about having them around.",
+  "vndb_url": "https://vndb.org/c171262"
+}

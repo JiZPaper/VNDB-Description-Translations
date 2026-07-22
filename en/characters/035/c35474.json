@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c35474",
+  "type": "character",
+  "name": "Yamada",
+  "original_name": "山田",
+  "language": "en",
+  "source_language": "en",
+  "source": "The personal butler of Kotori's grandfather.",
+  "source_sha256": "599b6c758dd38b8de6469dfde901a0ed85d975e143c8dc8540c6ee93f9efa28c",
+  "translation": "The personal butler of Kotori's grandfather.",
+  "vndb_url": "https://vndb.org/c35474"
+}

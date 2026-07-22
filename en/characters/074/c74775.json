@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c74775",
+  "type": "character",
+  "name": "Pink Bean",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Pink Bean is a bizarre monster and sorts of thing.",
+  "source_sha256": "eca0f1e0c782b78ea56aaa5edf1e617b38da4b870a948bd4757230dd1ca43437",
+  "translation": "Pink Bean is a bizarre monster and sorts of thing.",
+  "vndb_url": "https://vndb.org/c74775"
+}

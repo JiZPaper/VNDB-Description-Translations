@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c108299",
+  "type": "character",
+  "name": "Sam",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An engineer at the hero's workplace.",
+  "source_sha256": "193d971360450ca3d96b6320249399971bcbf3caa23bf77171bc8a4ca042f000",
+  "translation": "An engineer at the hero's workplace.",
+  "vndb_url": "https://vndb.org/c108299"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41040",
+  "type": "character",
+  "name": "???",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A secret character who appears at school.",
+  "source_sha256": "97378de7494b2443a8950ff0a8c033d3045aa697c25f409bc1c9273d23ad6511",
+  "translation": "A secret character who appears at school.",
+  "vndb_url": "https://vndb.org/c41040"
+}

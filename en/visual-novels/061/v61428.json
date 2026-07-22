@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61428",
+  "type": "visual_novel",
+  "name": "LoveCraft",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A man wakes up in the middle of a forest with no memories of his own past. What could've happened to him? Who was him, really? Follow this unknown character through his journey trying to remember his past.",
+  "source_sha256": "33b07c1b1fce1e56f7bd394734cbfcef8fb334b7f82eb909c00001c35c0b0f5e",
+  "translation": "A man wakes up in the middle of a forest with no memories of his own past. What could've happened to him? Who was him, really? Follow this unknown character through his journey trying to remember his past.",
+  "vndb_url": "https://vndb.org/v61428"
+}

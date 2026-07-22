@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106024",
+  "type": "character",
+  "name": "Eve",
+  "original_name": "イヴ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I won't allow you to run away...! Ill show you everything!\"",
+  "source_sha256": "391a1b8d26ef7ee3c9461224b4cb864f04d6dfa76209feacb748e37c55f3b2b0",
+  "translation": "\"I won't allow you to run away...! Ill show you everything!\"",
+  "vndb_url": "https://vndb.org/c106024"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65134",
+  "type": "visual_novel",
+  "name": "Sunshine60",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as a detective in the Tokyo Metropolitan Police Department, investigating a deeply unsettling case: a man has died in the heart of one of the safest cities in the world.",
+  "source_sha256": "f33a64afe5c2e70a6435eead0559381be42be57aca81dd721fa151ec8b842f45",
+  "translation": "You play as a detective in the Tokyo Metropolitan Police Department, investigating a deeply unsettling case: a man has died in the heart of one of the safest cities in the world.",
+  "vndb_url": "https://vndb.org/v65134"
+}

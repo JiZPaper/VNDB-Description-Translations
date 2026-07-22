@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31914",
+  "type": "visual_novel",
+  "name": "Kill Your Boss",
+  "original_name": "킬유어보스",
+  "language": "en",
+  "source_language": "en",
+  "source": "You are a CIA agent who has been ordered to infiltrate a criminal organization. In a brutal world where you can trust no one, you must be ready to betray anyone, anytime. ...Even if it's the person you love.\n\n[From in-app]",
+  "source_sha256": "b8860406e36b7f1dd84a28b4f137d98e277b0943ff3ee7621c1ca87d7838f689",
+  "translation": "You are a CIA agent who has been ordered to infiltrate a criminal organization. In a brutal world where you can trust no one, you must be ready to betray anyone, anytime. ...Even if it's the person you love.\n\n[From in-app]",
+  "vndb_url": "https://vndb.org/v31914"
+}

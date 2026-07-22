@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87613",
+  "type": "character",
+  "name": "Jess Custer",
+  "original_name": "ジェス・カスター",
+  "language": "en",
+  "source_language": "en",
+  "source": "A famous hitman feared by VIPs around the world. He always uses a knife to kill his victims. He is currently in Japan.",
+  "source_sha256": "ac329f7678c56b86440875334685616730a86ef1d28e9d851e2c20ec69fb5774",
+  "translation": "A famous hitman feared by VIPs around the world. He always uses a knife to kill his victims. He is currently in Japan.",
+  "vndb_url": "https://vndb.org/c87613"
+}

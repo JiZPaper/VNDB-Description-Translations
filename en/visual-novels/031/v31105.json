@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31105",
+  "type": "visual_novel",
+  "name": "Hoshi no Mahoroba",
+  "original_name": "星のまほろば",
+  "language": "en",
+  "source_language": "en",
+  "source": "First BL game released in Japan for consumer consoles. Tells the tale of a group of boys with the ability to speak to spirits and harness their powers.",
+  "source_sha256": "8176e5f3a5992ef89f14f2e2eb9d124a058ef25aba203f0f47a6bd97002ddb17",
+  "translation": "First BL game released in Japan for consumer consoles. Tells the tale of a group of boys with the ability to speak to spirits and harness their powers.",
+  "vndb_url": "https://vndb.org/v31105"
+}

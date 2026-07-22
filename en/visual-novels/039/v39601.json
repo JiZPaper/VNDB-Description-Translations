@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39601",
+  "type": "visual_novel",
+  "name": "spell",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I summoned you here by accident.\"\n\nDespite seeming taken aback, the boy was still smiling.\n\n[Translated from [url=https://sites.google.com/site/spell2017000/]official website[/url]]",
+  "source_sha256": "5024baa207122249e38cedad311631537c27c0c51c746ac4cf1e6e11d7899ec3",
+  "translation": "\"I summoned you here by accident.\"\n\nDespite seeming taken aback, the boy was still smiling.\n\n[Translated from [url=https://sites.google.com/site/spell2017000/]official website[/url]]",
+  "vndb_url": "https://vndb.org/v39601"
+}

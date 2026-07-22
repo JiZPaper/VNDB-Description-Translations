@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c80400",
+  "type": "character",
+  "name": "Benten",
+  "original_name": "べんてん",
+  "language": "en",
+  "source_language": "en",
+  "source": "A performer on Enoshima. She is very fond of the legend of Benten taming a five-headed dragon on Enoshima.",
+  "source_sha256": "804076a3c8d597bdf1f0ef8b235e6af01fb5f372990408baad8746d27274866b",
+  "translation": "A performer on Enoshima. She is very fond of the legend of Benten taming a five-headed dragon on Enoshima.",
+  "vndb_url": "https://vndb.org/c80400"
+}

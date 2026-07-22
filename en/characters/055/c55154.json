@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55154",
+  "type": "character",
+  "name": "Kira",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The young ramen cook.",
+  "source_sha256": "56c6417922024571328e4ef32925c3f2d5bda0f70865ccb46070990e69c6af47",
+  "translation": "The young ramen cook.",
+  "vndb_url": "https://vndb.org/c55154"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166583",
+  "type": "character",
+  "name": "Peirika-Beena",
+  "original_name": "ペイリカ＝ビーナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Job: Warrior\nOrigin: Grassland City Lumiel\n\nA cheerful woman who is the mood maker of the party and actively interacts with others. She is the type to act on intuition.\nA warrior who confuses enemies with swift movements and unleashes a flurry of attacks when the enemy is vulnerable.\nHer attractive physique is appealing, and she is popular with both men and women.",
+  "source_sha256": "cd0a06f446027ec98d956609a5638f77e07d8b3ee148f625005911f84efc005c",
+  "translation": "Job: Warrior\nOrigin: Grassland City Lumiel\n\nA cheerful woman who is the mood maker of the party and actively interacts with others. She is the type to act on intuition.\nA warrior who confuses enemies with swift movements and unleashes a flurry of attacks when the enemy is vulnerable.\nHer attractive physique is appealing, and she is popular with both men and women.",
+  "vndb_url": "https://vndb.org/c166583"
+}

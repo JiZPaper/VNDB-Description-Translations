@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77869",
+  "type": "character",
+  "name": "Arisa",
+  "original_name": "アリサ",
+  "language": "en",
+  "source_language": "en",
+  "source": "An American from Manhattan, NYC. \n\nDrives a 1969 Ford Mustang Boss 429. Also owns a Lamborghini.",
+  "source_sha256": "e04af6c3856e4b31dcbde42fd701e8dad59c6bfe74b6428b7b778b5ec2688564",
+  "translation": "An American from Manhattan, NYC. \n\nDrives a 1969 Ford Mustang Boss 429. Also owns a Lamborghini.",
+  "vndb_url": "https://vndb.org/c77869"
+}

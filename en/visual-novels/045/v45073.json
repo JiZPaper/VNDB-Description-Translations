@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45073",
+  "type": "visual_novel",
+  "name": "False Ages - The Serpent's Heritage - Book 1",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Visual Novel adaptation of False Ages.",
+  "source_sha256": "e30aa4aaf111b0928e5896ca741da9ec8986a6651be3456814b2c6fc1c45feda",
+  "translation": "Visual Novel adaptation of False Ages.",
+  "vndb_url": "https://vndb.org/v45073"
+}

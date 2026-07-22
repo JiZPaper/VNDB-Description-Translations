@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86043",
+  "type": "character",
+  "name": "Sakura Kushinada",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ancestor of the protagonist. Her name changes according to what the player has chosen to name the protagonist.\n\nShe appears in several routes as a ghost.",
+  "source_sha256": "cd4b9cc60ba12ef887a94f663414f8b2658f336157581af5fcba3be185387be6",
+  "translation": "Ancestor of the protagonist. Her name changes according to what the player has chosen to name the protagonist.\n\nShe appears in several routes as a ghost.",
+  "vndb_url": "https://vndb.org/c86043"
+}

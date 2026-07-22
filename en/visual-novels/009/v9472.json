@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9472",
+  "type": "visual_novel",
+  "name": "Dwelling",
+  "original_name": "デウリング",
+  "language": "en",
+  "source_language": "en",
+  "source": "In \"Dwelling\" we have to infiltrate the mansion of Count Dracula and save a kidnapped girl Anna.",
+  "source_sha256": "7fda194024abf75d8d7d07f1c2bfea535d5b38fd88e91d7682048bd86a996ec9",
+  "translation": "In \"Dwelling\" we have to infiltrate the mansion of Count Dracula and save a kidnapped girl Anna.",
+  "vndb_url": "https://vndb.org/v9472"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95051",
+  "type": "character",
+  "name": "Eva",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Abigail's sister.",
+  "source_sha256": "3ac7237b126de3873ce8f028805bd7440ffccb1c7b00730cbcfd1e1131ca466d",
+  "translation": "Abigail's sister.",
+  "vndb_url": "https://vndb.org/c95051"
+}

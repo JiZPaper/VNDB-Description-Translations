@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64831",
+  "type": "visual_novel",
+  "name": "Dating simulator with Kaidou",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dating sim where you date Kaidou from \"The Disastrous Life of Saiki K.\"",
+  "source_sha256": "5d0b97f00011a1ad49d6059cf3113e96c0b0b545215e04a5d8f36800ed9e4440",
+  "translation": "A dating sim where you date Kaidou from \"The Disastrous Life of Saiki K.\"",
+  "vndb_url": "https://vndb.org/v64831"
+}

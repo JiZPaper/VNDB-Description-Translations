@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96027",
+  "type": "character",
+  "name": "Meidou Treis",
+  "original_name": "冥堂トレイス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Cerberus",
+  "source_sha256": "15600ab7ab18616e46d9f9c4266e3135d7ae6ed7b7e4d179108d796926c1f699",
+  "translation": "Race: Cerberus",
+  "vndb_url": "https://vndb.org/c96027"
+}

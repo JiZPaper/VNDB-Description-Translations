@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98012",
+  "type": "character",
+  "name": "Sieg",
+  "original_name": "ジーク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sieg is a Dark Lord allied with the Kayblis Faction.\n\n[From [url=https://alicesoft.fandom.com/wiki/Sieg]AliceSoft Wiki[/url]]",
+  "source_sha256": "738b66af651eb0669e5958f1e7a192d8d37c694c52e25b0472b581b42104fd17",
+  "translation": "Sieg is a Dark Lord allied with the Kayblis Faction.\n\n[From [url=https://alicesoft.fandom.com/wiki/Sieg]AliceSoft Wiki[/url]]",
+  "vndb_url": "https://vndb.org/c98012"
+}

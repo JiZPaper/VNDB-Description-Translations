@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35088",
+  "type": "visual_novel",
+  "name": "Ultimate Factory",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a simulation game in which you manage a fictional post-war factory in the 21st century.\nBuild strong and intimate relationships with co-workers and clients alike, all while working to stay out of the red.",
+  "source_sha256": "7ebd805554ebecde7598ecb389ec1653f0ad97c9130d9cd29413a7ffb95b3072",
+  "translation": "This is a simulation game in which you manage a fictional post-war factory in the 21st century.\nBuild strong and intimate relationships with co-workers and clients alike, all while working to stay out of the red.",
+  "vndb_url": "https://vndb.org/v35088"
+}

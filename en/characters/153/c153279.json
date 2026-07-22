@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c153279",
+  "type": "character",
+  "name": "Douglas Touchstone",
+  "original_name": "더글라스 터치스톤",
+  "language": "en",
+  "source_language": "en",
+  "source": "Skill: Casual object formation",
+  "source_sha256": "e20e0ad9fcd53d4e669468e2a80004e510f1a1cfb9db8506de11189abae792bf",
+  "translation": "Skill: Casual object formation",
+  "vndb_url": "https://vndb.org/c153279"
+}

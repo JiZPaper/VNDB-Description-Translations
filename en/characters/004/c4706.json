@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c4706",
+  "type": "character",
+  "name": "Apolimesho",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Archwizard of Grimoire is a powerful old mage who will ask Loren's help to retrieve a special item.",
+  "source_sha256": "1ab7ec274545518dd9adc7107b47a5f89d0447ebaabeffb2b447b33294e8c665",
+  "translation": "The Archwizard of Grimoire is a powerful old mage who will ask Loren's help to retrieve a special item.",
+  "vndb_url": "https://vndb.org/c4706"
+}

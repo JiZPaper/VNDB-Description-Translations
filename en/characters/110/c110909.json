@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110909",
+  "type": "character",
+  "name": "Helen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "- Mother of [url=/c104739]Mia[/url].\n- Wife of [url=/c111310]Harold[/url].",
+  "source_sha256": "d090174eaa7aa9fbaead05edad8ec8996d188eca5f01ce57217a8bbed8ad56b3",
+  "translation": "- Mother of [url=/c104739]Mia[/url].\n- Wife of [url=/c111310]Harold[/url].",
+  "vndb_url": "https://vndb.org/c110909"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c138607",
+  "type": "character",
+  "name": "Bob",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[url=https://vndb.org/c138600]Eva [/url]is his wife.",
+  "source_sha256": "f661c16604ed7a8410e60645965eeed5686cf763778465826976cf30e6b575c7",
+  "translation": "[url=https://vndb.org/c138600]Eva [/url]is his wife.",
+  "vndb_url": "https://vndb.org/c138607"
+}

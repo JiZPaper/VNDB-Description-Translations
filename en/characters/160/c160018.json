@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160018",
+  "type": "character",
+  "name": "Andy Orellio",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Police Officer",
+  "source_sha256": "02ce407401a220e54c9eb610d0d13c29a92fc22ca8638e7d720086aa62d9fc45",
+  "translation": "Police Officer",
+  "vndb_url": "https://vndb.org/c160018"
+}

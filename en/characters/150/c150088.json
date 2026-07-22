@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150088",
+  "type": "character",
+  "name": "Finny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your best friend\n\n\"Wait, did I just leveled up?\"",
+  "source_sha256": "8bcd0bdab311a2e50098e649705f63e423a0eefbaf41097cfaf5b6cd6aa3f4b4",
+  "translation": "Your best friend\n\n\"Wait, did I just leveled up?\"",
+  "vndb_url": "https://vndb.org/c150088"
+}

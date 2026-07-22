@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61860",
+  "type": "character",
+  "name": "Kussun",
+  "original_name": "くっすん",
+  "language": "en",
+  "source_language": "en",
+  "source": "The spirit of a mysterious book the protagonist finds.",
+  "source_sha256": "27d0cb520c5a52308de35aa9844a6244a61de367ec8f1f2f05fba572a5e637d1",
+  "translation": "The spirit of a mysterious book the protagonist finds.",
+  "vndb_url": "https://vndb.org/c61860"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v982",
+  "type": "visual_novel",
+  "name": "Happy Breeding Imasara Fandisc",
+  "original_name": "はぴぶり いまさら ふぁんでぃすく",
+  "language": "en",
+  "source_language": "en",
+  "source": "As the name indicates, this is a fandisc to Happy Breeding.",
+  "source_sha256": "3b771bbac28bbc64f33f45dd5b93a74d1f9056278ed6a4596b16d77dc77cc637",
+  "translation": "As the name indicates, this is a fandisc to Happy Breeding.",
+  "vndb_url": "https://vndb.org/v982"
+}

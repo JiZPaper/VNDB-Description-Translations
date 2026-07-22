@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c16273",
+  "type": "character",
+  "name": "Zhenja",
+  "original_name": "Женя",
+  "language": "en",
+  "source_language": "en",
+  "source": "The librarian of Camp Sovyonok.",
+  "source_sha256": "a42be8124180e4643113c98fdd347c878ed0f310b8a2138144e000620033d799",
+  "translation": "The librarian of Camp Sovyonok.",
+  "vndb_url": "https://vndb.org/c16273"
+}

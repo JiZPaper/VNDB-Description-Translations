@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61507",
+  "type": "visual_novel",
+  "name": "Snoot Game More Choices",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Adds more choices to Snoot Game. \n\n[From [url=https://rentry.co/snootmods#standalone-and-fangames]Snoot Game Mods List[/url]]",
+  "source_sha256": "88e140935c9aa32da2d9ef5db16f83cf5e3b470dad153c362c03ac07b69a2a8f",
+  "translation": "Adds more choices to Snoot Game. \n\n[From [url=https://rentry.co/snootmods#standalone-and-fangames]Snoot Game Mods List[/url]]",
+  "vndb_url": "https://vndb.org/v61507"
+}

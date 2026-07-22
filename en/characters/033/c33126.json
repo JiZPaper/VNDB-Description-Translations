@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33126",
+  "type": "character",
+  "name": "Rook",
+  "original_name": "ルーク",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I sympathize with you, but please give up. This really is also part of my job.\"\nA youth who works as a researcher in the \"Dream World\".",
+  "source_sha256": "7b71a75c9b4e93f383cd8e64aac1225a72d5e0601d20bb2c05c31b2b6914d1c3",
+  "translation": "\"I sympathize with you, but please give up. This really is also part of my job.\"\nA youth who works as a researcher in the \"Dream World\".",
+  "vndb_url": "https://vndb.org/c33126"
+}

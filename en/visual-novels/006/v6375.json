@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6375",
+  "type": "visual_novel",
+  "name": "XXXXX -Five X-",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "5 mini stories:\nX-1: Mago.\nX-2: Walkin' the Dog.\nX-3: Pink.\nX-4: Crazy for You.\nX-5: Star Fucker.",
+  "source_sha256": "6f52b31a2a345fc165dd2b370c117ffea67eefa01d22c3da79736079edc6bbc8",
+  "translation": "5 mini stories:\nX-1: Mago.\nX-2: Walkin' the Dog.\nX-3: Pink.\nX-4: Crazy for You.\nX-5: Star Fucker.",
+  "vndb_url": "https://vndb.org/v6375"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45894",
+  "type": "character",
+  "name": "Lucksele Fon Brauen",
+  "original_name": "リュクセル・フォン・ブラウエン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious boy that lives deep in the forest with just his butler. He doesn't talk much.\n\n[Only capturable if playing as [url=/c45873]Mei[/url]]",
+  "source_sha256": "b312f96623f78f6c24e80a7a64a2528e85e5a285d342ef889b31e6b0725fd7c1",
+  "translation": "A mysterious boy that lives deep in the forest with just his butler. He doesn't talk much.\n\n[Only capturable if playing as [url=/c45873]Mei[/url]]",
+  "vndb_url": "https://vndb.org/c45894"
+}

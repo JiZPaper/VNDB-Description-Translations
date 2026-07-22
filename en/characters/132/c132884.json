@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132884",
+  "type": "character",
+  "name": "Verdi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is [url=/c132876]Kirk[/url]'s mother, her job is to manage the Solvalley nuclear waste zone.",
+  "source_sha256": "c2625ca00b48609f1759fe607ebed51186ca0ce4228fd9af7d8b795aa07ae3e1",
+  "translation": "She is [url=/c132876]Kirk[/url]'s mother, her job is to manage the Solvalley nuclear waste zone.",
+  "vndb_url": "https://vndb.org/c132884"
+}

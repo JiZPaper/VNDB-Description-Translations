@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159645",
+  "type": "character",
+  "name": "1 Gou",
+  "original_name": "1ゴウ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The foreman for the trial of Albert Harebrayne.",
+  "source_sha256": "0137e0dbacc36c508b4fd5d7d6824d35d4210a3b083d7bbec232fff8385cc4b7",
+  "translation": "The foreman for the trial of Albert Harebrayne.",
+  "vndb_url": "https://vndb.org/c159645"
+}

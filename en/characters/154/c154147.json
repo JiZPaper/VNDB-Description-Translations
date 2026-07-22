@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154147",
+  "type": "character",
+  "name": "Perseus",
+  "original_name": "ペルセウス",
+  "language": "en",
+  "source_language": "en",
+  "source": "An ancient hero who claims to come from another world covered in clouds.\n\nShe's afraid of heights... even though she claims to come from the sky.",
+  "source_sha256": "ffb752d1caa84ed54d474be9296c75c1031fbb0584bc45da066193921dc14743",
+  "translation": "An ancient hero who claims to come from another world covered in clouds.\n\nShe's afraid of heights... even though she claims to come from the sky.",
+  "vndb_url": "https://vndb.org/c154147"
+}

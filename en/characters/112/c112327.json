@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112327",
+  "type": "character",
+  "name": "Oriana",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The lead healer.",
+  "source_sha256": "c2416ff38a97cca77fc6327f78758d46a7155fcc0d71668e86d2ffbbe6e70319",
+  "translation": "The lead healer.",
+  "vndb_url": "https://vndb.org/c112327"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c142762",
+  "type": "character",
+  "name": "Blair",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A local doctor.",
+  "source_sha256": "3903d0f0d1f29d74422993af39477c59d3b3db8fdfe6461c75025dc8b2bde7a2",
+  "translation": "A local doctor.",
+  "vndb_url": "https://vndb.org/c142762"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22818",
+  "type": "visual_novel",
+  "name": "Kagayaki no Neiro",
+  "original_name": "輝きの音色",
+  "language": "en",
+  "source_language": "en",
+  "source": "Our hero gets lost in the forest of death, but what happens next?",
+  "source_sha256": "f55645f8478679096ce0222761632c5d9b8a987ff615abf7b622181f219bbe59",
+  "translation": "Our hero gets lost in the forest of death, but what happens next?",
+  "vndb_url": "https://vndb.org/v22818"
+}

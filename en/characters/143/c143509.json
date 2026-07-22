@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143509",
+  "type": "character",
+  "name": "Mark",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A friend of Ivy who recently moved to the city for work as an civil engineer.",
+  "source_sha256": "cbc337a563a64013c0fd97e05f0e86209dd9fe6fafb77681b7e97f24a4cba9d7",
+  "translation": "A friend of Ivy who recently moved to the city for work as an civil engineer.",
+  "vndb_url": "https://vndb.org/c143509"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63224",
+  "type": "visual_novel",
+  "name": "Shinjuku Ihen",
+  "original_name": "新宿異変",
+  "language": "en",
+  "source_language": "en",
+  "source": "You have a part-time job taking photos of anomalies in the night in Shinjuku.\n\nThere are four rules for your part-time job.\n\nIf you see a anomaly, take a picture of it.\n\nWhen taking a picture, get close to a anomaly to an appropriate distance.\n\nHowever, don't get too close.\n\nIf you run out of film, come back.\n\n[From [url=https://store.steampowered.com/app/3386350/Shinjuku_Anomaly/]Steam[/url]]",
+  "source_sha256": "d4776a470cf8ddc4411cdd166c7f0c1599322ea694fef4bd7d533a21e9a4c7f6",
+  "translation": "You have a part-time job taking photos of anomalies in the night in Shinjuku.\n\nThere are four rules for your part-time job.\n\nIf you see a anomaly, take a picture of it.\n\nWhen taking a picture, get close to a anomaly to an appropriate distance.\n\nHowever, don't get too close.\n\nIf you run out of film, come back.\n\n[From [url=https://store.steampowered.com/app/3386350/Shinjuku_Anomaly/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v63224"
+}

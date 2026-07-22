@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50339",
+  "type": "visual_novel",
+  "name": "Letnij lager' dlja gejmerov",
+  "original_name": "Летний лагерь для геймеров",
+  "language": "en",
+  "source_language": "en",
+  "source": "Summer camp for gamers",
+  "source_sha256": "b26007a6c03be02d913b5e66be23391f2d989b780efb1231b1984159905c4e6e",
+  "translation": "Summer camp for gamers",
+  "vndb_url": "https://vndb.org/v50339"
+}

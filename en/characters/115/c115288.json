@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115288",
+  "type": "character",
+  "name": "Dr. Hadikay",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Dr. Smusher's temporary replacement.",
+  "source_sha256": "0e1a4b83e49e017ed3f5b7c1be6dc227a4bf254eefb247a4a52fa707813d0baf",
+  "translation": "Dr. Smusher's temporary replacement.",
+  "vndb_url": "https://vndb.org/c115288"
+}

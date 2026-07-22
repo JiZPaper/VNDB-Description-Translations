@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22559",
+  "type": "visual_novel",
+  "name": "Stellaren: Acrux",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Baham's crew begin a journey to save their old friends, and discover the origin of the augmented forces.",
+  "source_sha256": "2476afd53b2b6d6f8bba29be68ad017d82e10d598b1ddcc56d9b148a027727cb",
+  "translation": "Baham's crew begin a journey to save their old friends, and discover the origin of the augmented forces.",
+  "vndb_url": "https://vndb.org/v22559"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30303",
+  "type": "visual_novel",
+  "name": "Sumire Change",
+  "original_name": "スミレちぇんじ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A man finds an abandoned robot maid who resembles his lost love.",
+  "source_sha256": "5905142b2faa10656fa28cf1c6f7deb89f760aaa3b28041d59423e3608ca997e",
+  "translation": "A man finds an abandoned robot maid who resembles his lost love.",
+  "vndb_url": "https://vndb.org/v30303"
+}

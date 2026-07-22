@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48322",
+  "type": "visual_novel",
+  "name": "Disanren de Maliya",
+  "original_name": "第三人的玛利亚",
+  "language": "en",
+  "source_language": "en",
+  "source": "Base on the official side story novel [i]The Third Maria[/i].",
+  "source_sha256": "7694ec8924f36159a2d451ca509cff8538aa5f27a8be76af9b17a41eaea3d2a0",
+  "translation": "Base on the official side story novel [i]The Third Maria[/i].",
+  "vndb_url": "https://vndb.org/v48322"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53709",
+  "type": "character",
+  "name": "Hatsune Miku",
+  "original_name": "初音ミク",
+  "language": "en",
+  "source_language": "en",
+  "source": "Only available as a DLC character for the Free Dance Mode.",
+  "source_sha256": "4e4b5ec6558ecf2b17512310611337ea717463fb7a8faed163d8e08f4a9f7bd5",
+  "translation": "Only available as a DLC character for the Free Dance Mode.",
+  "vndb_url": "https://vndb.org/c53709"
+}

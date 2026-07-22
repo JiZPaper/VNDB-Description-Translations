@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136737",
+  "type": "character",
+  "name": "Nagase",
+  "original_name": "長瀬",
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of the administrative staff.",
+  "source_sha256": "eda30dd1f8de12e2eb5d36f88fe90e46e45801b3757782bbcec433db6b310724",
+  "translation": "A member of the administrative staff.",
+  "vndb_url": "https://vndb.org/c136737"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15135",
+  "type": "visual_novel",
+  "name": "Saigo no Yurikago",
+  "original_name": "最後のゆりかご",
+  "language": "en",
+  "source_language": "en",
+  "source": "In the future, all life is controlled by a computer. All behavior, even thoughts. Everything is determined by the program that calculates the probability. \n\nThe human race has decided to send someone on a one-way trip to search for the ends of the undiscovered universe. \n\nIt was the boy Igarashi who just graduated from high school this year that was to be given a ticket for the journey of the dead.",
+  "source_sha256": "51014bb11fc7035bf4651912ece8940df0d8bd3dc3cd615a9bdaefc1eb09d6f5",
+  "translation": "In the future, all life is controlled by a computer. All behavior, even thoughts. Everything is determined by the program that calculates the probability. \n\nThe human race has decided to send someone on a one-way trip to search for the ends of the undiscovered universe. \n\nIt was the boy Igarashi who just graduated from high school this year that was to be given a ticket for the journey of the dead.",
+  "vndb_url": "https://vndb.org/v15135"
+}

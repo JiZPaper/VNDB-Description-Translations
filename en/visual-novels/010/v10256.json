@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10256",
+  "type": "visual_novel",
+  "name": "Legend of the Piper Girl",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gray stumbles upon the piper girl legend while staying at his grandpa's place. Play as Gray and search for music to discover the truth.",
+  "source_sha256": "d86362a7f19730e68d7abfe800be39a7cd16e6e8d3f8c41704a5574cca51128f",
+  "translation": "Gray stumbles upon the piper girl legend while staying at his grandpa's place. Play as Gray and search for music to discover the truth.",
+  "vndb_url": "https://vndb.org/v10256"
+}

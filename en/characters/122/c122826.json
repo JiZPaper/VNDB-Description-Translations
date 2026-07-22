@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122826",
+  "type": "character",
+  "name": "Amy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Kane's subordinate.",
+  "source_sha256": "4e752e478fd116dcce334889055b3fc78ed1d9e1c3209b187ba5931c2af0acb9",
+  "translation": "Kane's subordinate.",
+  "vndb_url": "https://vndb.org/c122826"
+}

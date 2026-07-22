@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18775",
+  "type": "visual_novel",
+  "name": "Maria no Jisatsu",
+  "original_name": "マリアの自殺",
+  "language": "en",
+  "source_language": "en",
+  "source": "Inspired by \"The Virgin Suicides.\"\n\nTwo sisters commit suicide, a month apart, and no one can understand why.  Why would they kill themselves?  And what is the meaning of the red ribbons they left tied around the statue of the Virgin Mary?",
+  "source_sha256": "da6d62a60d1ab66355f951c5bc9961377c0d442abb74b4d378e421284e238567",
+  "translation": "Inspired by \"The Virgin Suicides.\"\n\nTwo sisters commit suicide, a month apart, and no one can understand why.  Why would they kill themselves?  And what is the meaning of the red ribbons they left tied around the statue of the Virgin Mary?",
+  "vndb_url": "https://vndb.org/v18775"
+}

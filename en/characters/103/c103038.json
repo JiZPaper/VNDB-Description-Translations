@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103038",
+  "type": "character",
+  "name": "Daphne",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A close friend to Krystal.",
+  "source_sha256": "e4fea2860a9830141f85ac2ea30c714d029b166df409a94fe32a638520e1aece",
+  "translation": "A close friend to Krystal.",
+  "vndb_url": "https://vndb.org/c103038"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166444",
+  "type": "character",
+  "name": "King Doutor",
+  "original_name": "ドトール王",
+  "language": "en",
+  "source_language": "en",
+  "source": "The King of Carnea. Eight years ago, he blamed Claude for all the defeats and banished him. However, in reality, he was a foolish king and Greg's puppet.",
+  "source_sha256": "ae1a279bc51f503bfda6f5a54fea18ce74ad521f5909138981fb969064b7f89c",
+  "translation": "The King of Carnea. Eight years ago, he blamed Claude for all the defeats and banished him. However, in reality, he was a foolish king and Greg's puppet.",
+  "vndb_url": "https://vndb.org/c166444"
+}

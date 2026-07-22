@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40632",
+  "type": "visual_novel",
+  "name": "A Happy Birthday for Takiko",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A miniature Danganronpa: Antebellum fangame that was created for a contest in DR:AT's Discord server. The theme of the contest was \"celebration\".",
+  "source_sha256": "04a05302e83b74cf64868773ff0f2365f9e0ac6dbc3d2ca4cd6b69ce881e1c0e",
+  "translation": "A miniature Danganronpa: Antebellum fangame that was created for a contest in DR:AT's Discord server. The theme of the contest was \"celebration\".",
+  "vndb_url": "https://vndb.org/v40632"
+}

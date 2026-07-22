@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47981",
+  "type": "visual_novel",
+  "name": "Chasing Shadows",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A sequel to Chasing Tail.",
+  "source_sha256": "31601c875bf1602db6858e6de52ae3f4a1e63b977e2f424dc5fbf8a39ebf1b62",
+  "translation": "A sequel to Chasing Tail.",
+  "vndb_url": "https://vndb.org/v47981"
+}

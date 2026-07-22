@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42792",
+  "type": "visual_novel",
+  "name": "The Cryptid Club",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short Ren'py visual novel about dating some hot monsters.",
+  "source_sha256": "52bb37994c1f57438e96ea554a253212e2747f0bd22a9298a63c13689f6fc64b",
+  "translation": "A short Ren'py visual novel about dating some hot monsters.",
+  "vndb_url": "https://vndb.org/v42792"
+}

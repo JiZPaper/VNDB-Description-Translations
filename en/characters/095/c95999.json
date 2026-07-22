@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95999",
+  "type": "character",
+  "name": "Pandora",
+  "original_name": "パンドラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Locked away in a box, angry and alone.",
+  "source_sha256": "0116d78515bb51ba3d13b33d40aa4b6beeaee1f81e204dfe505a7832ecbf1eae",
+  "translation": "Locked away in a box, angry and alone.",
+  "vndb_url": "https://vndb.org/c95999"
+}

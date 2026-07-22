@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15576",
+  "type": "character",
+  "name": "Zeal",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Death Knight.",
+  "source_sha256": "9a6a610690b0adf496857d372eac074d41415934d56564b93aab7089b56df898",
+  "translation": "Death Knight.",
+  "vndb_url": "https://vndb.org/c15576"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52017",
+  "type": "visual_novel",
+  "name": "Detective Instinct: Farewell, My Beloved",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Following the grisly murder of a man in an unassuming hotel, a woman vanishes without a trace while traveling on a cross-country train. The catch? Nobody on board remembers her ever existing in the first place - nobody, except for you.\n\nCan you solve the mystery of the missing woman before the end of your trip abroad?",
+  "source_sha256": "32922d3fddce0a10af39d9ed43e61a6af2c5e0d3f30baa89e566e8eb2aae4f0d",
+  "translation": "Following the grisly murder of a man in an unassuming hotel, a woman vanishes without a trace while traveling on a cross-country train. The catch? Nobody on board remembers her ever existing in the first place - nobody, except for you.\n\nCan you solve the mystery of the missing woman before the end of your trip abroad?",
+  "vndb_url": "https://vndb.org/v52017"
+}

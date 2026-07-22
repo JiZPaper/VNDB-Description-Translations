@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c517",
+  "type": "character",
+  "name": "Mika",
+  "original_name": "美佳",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mika is [url=/c510]Akira[/url]'s girlfriend who is also living with him.\n[From [url=http://en.wikipedia.org/wiki/Kirakira_(visual_novel)]Wikipedia[/url]]",
+  "source_sha256": "5a135e64ac2a60d6d3fe8b3a11095038205eb13e77a36efcdaa6798e4306d406",
+  "translation": "Mika is [url=/c510]Akira[/url]'s girlfriend who is also living with him.\n[From [url=http://en.wikipedia.org/wiki/Kirakira_(visual_novel)]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/c517"
+}

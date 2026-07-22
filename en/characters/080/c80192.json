@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c80192",
+  "type": "character",
+  "name": "Quinn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Quinn is the vice president of HOT sorority.",
+  "source_sha256": "aa5557bf02df253b964b68c3c271ca62e1cd80eea96773d9299c9ae7ee48caa7",
+  "translation": "Quinn is the vice president of HOT sorority.",
+  "vndb_url": "https://vndb.org/c80192"
+}

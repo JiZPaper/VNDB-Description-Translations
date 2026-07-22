@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39358",
+  "type": "character",
+  "name": "Jack Blackman",
+  "original_name": "ジャック・ブラクマン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Serial killer who targets prostitutes. He was originally imprisoned for his crimes, but was eventually released by a mysterious individual who goes under the name \"Azoth.\"",
+  "source_sha256": "f8d41b27b81b0cf1a48f195fda8422b423ce738952b1f019ccc74a5924e7439e",
+  "translation": "Serial killer who targets prostitutes. He was originally imprisoned for his crimes, but was eventually released by a mysterious individual who goes under the name \"Azoth.\"",
+  "vndb_url": "https://vndb.org/c39358"
+}

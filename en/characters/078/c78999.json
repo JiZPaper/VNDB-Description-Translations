@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c78999",
+  "type": "character",
+  "name": "Kozuka Kairi",
+  "original_name": "狐塚 カイリ",
+  "language": "en",
+  "source_language": "en",
+  "source": "?? years old.\nStar Sign: Capricorn\nHobby: Internet Surfing, Going to Cafe's",
+  "source_sha256": "1eb4d6f05b06d0124492cf7c3375b439e06f7c56877a9f34e3a52326ec58a85c",
+  "translation": "?? years old.\nStar Sign: Capricorn\nHobby: Internet Surfing, Going to Cafe's",
+  "vndb_url": "https://vndb.org/c78999"
+}

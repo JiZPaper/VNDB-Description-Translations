@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9143",
+  "type": "visual_novel",
+  "name": "Turn Over",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You've been accepted as a teacher to Seitoku Girls' High School.",
+  "source_sha256": "85a52db0c5a444c3ca68f3910555de622c166e5e1eb61f60e6872ef43e729b3c",
+  "translation": "You've been accepted as a teacher to Seitoku Girls' High School.",
+  "vndb_url": "https://vndb.org/v9143"
+}

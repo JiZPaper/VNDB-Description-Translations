@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131775",
+  "type": "character",
+  "name": "Mike",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Male nurse, who is taking care of the main character in the hospital.",
+  "source_sha256": "dfbf8d786b2d9017a353bdfce2ad091f07c7bc540f604afa724908da6007243b",
+  "translation": "Male nurse, who is taking care of the main character in the hospital.",
+  "vndb_url": "https://vndb.org/c131775"
+}

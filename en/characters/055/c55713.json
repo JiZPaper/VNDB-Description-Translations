@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55713",
+  "type": "character",
+  "name": "Blade Monitor",
+  "original_name": "千刃の谷管理人",
+  "language": "en",
+  "source_language": "en",
+  "source": "The monitor who watches over the Valley of Swords where the Overlords test their skills.\n\nMany beasts are corralled in the Valley of Swords, and it is the monitor's job to ensure they won't escape.",
+  "source_sha256": "2a7ffb7f8feb7f7be01d1ab7dcc87aff2651c360b9aca33a0e9da92931a0f96b",
+  "translation": "The monitor who watches over the Valley of Swords where the Overlords test their skills.\n\nMany beasts are corralled in the Valley of Swords, and it is the monitor's job to ensure they won't escape.",
+  "vndb_url": "https://vndb.org/c55713"
+}

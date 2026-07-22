@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50615",
+  "type": "visual_novel",
+  "name": "Torii no Mukou de",
+  "original_name": "鳥居の向こうで",
+  "language": "en",
+  "source_language": "en",
+  "source": "You go to a café with two friends and argue about what to get.",
+  "source_sha256": "c1df7df1a1befa4c3d6fb5d1bed14ed1c94ec8d01af17c4fe7cceac057bb9771",
+  "translation": "You go to a café with two friends and argue about what to get.",
+  "vndb_url": "https://vndb.org/v50615"
+}

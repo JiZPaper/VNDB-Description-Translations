@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79655",
+  "type": "character",
+  "name": "Hamid",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the Twelve Apostles, who has a contract with Maurtice.",
+  "source_sha256": "f9baf95f0066768b82fcedb67556642663afd64fa56bc4a0cc0c1aceadc5322a",
+  "translation": "One of the Twelve Apostles, who has a contract with Maurtice.",
+  "vndb_url": "https://vndb.org/c79655"
+}

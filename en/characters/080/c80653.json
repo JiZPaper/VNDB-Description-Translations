@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c80653",
+  "type": "character",
+  "name": "Marilee",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Cashier at the Stop & Bop grocery store.",
+  "source_sha256": "8dee6d342d18fa6f6822d96a3e46c75c846f70172606f80e26b0a67f488c11fb",
+  "translation": "Cashier at the Stop & Bop grocery store.",
+  "vndb_url": "https://vndb.org/c80653"
+}

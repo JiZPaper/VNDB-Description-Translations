@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115226",
+  "type": "character",
+  "name": "Captain Jane Kateway",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Captain of the USS Ecstasy.",
+  "source_sha256": "2b062a5d28049254ef2a556b48023f225fba6174008bcbeea6ab7320ac380f35",
+  "translation": "Captain of the USS Ecstasy.",
+  "vndb_url": "https://vndb.org/c115226"
+}

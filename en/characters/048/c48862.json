@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48862",
+  "type": "character",
+  "name": "Alsiela Rivielante",
+  "original_name": "アルシエラ=リヴィエランテ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A famous violinist from a wealthy upper class family. [url=/c48865]Vogras Rivielante[/url]'s daughter.",
+  "source_sha256": "1506487a1743aa70ebe4af3ddcb372b00ecfc840bd76501d6bdcf36b1575364f",
+  "translation": "A famous violinist from a wealthy upper class family. [url=/c48865]Vogras Rivielante[/url]'s daughter.",
+  "vndb_url": "https://vndb.org/c48862"
+}

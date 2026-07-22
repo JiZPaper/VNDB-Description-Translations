@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99345",
+  "type": "character",
+  "name": "Anna",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Rachael's Attorney",
+  "source_sha256": "0ed9ee7f81e88b2a30763af3996c4e372b46135ab795a1d8270a0ec49c296b58",
+  "translation": "Rachael's Attorney",
+  "vndb_url": "https://vndb.org/c99345"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123070",
+  "type": "character",
+  "name": "Kainan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A yoga instructor.",
+  "source_sha256": "08ad016cfcd9ce1aef10b6560532a1ff8e76aa7b9a282426c9b7feae0adc9a6e",
+  "translation": "A yoga instructor.",
+  "vndb_url": "https://vndb.org/c123070"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154612",
+  "type": "character",
+  "name": "Felix",
+  "original_name": "フェリクス",
+  "language": "en",
+  "source_language": "en",
+  "source": "An easygoing, cheerful young knight. He is always with his beloved cat. He has average abilities, but is not so skilled that you can rely on him.",
+  "source_sha256": "33d88a6356498854c48db02f1ea696cda3b0feb6dedb8ccb49351f6c93afede4",
+  "translation": "An easygoing, cheerful young knight. He is always with his beloved cat. He has average abilities, but is not so skilled that you can rely on him.",
+  "vndb_url": "https://vndb.org/c154612"
+}

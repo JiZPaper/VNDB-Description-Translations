@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c107771",
+  "type": "character",
+  "name": "Joe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A weird person with amazing powers.",
+  "source_sha256": "bede4fb78a2c383b2843f35d161f982956aee2ee2b4fe54702864dc8fbc043e8",
+  "translation": "A weird person with amazing powers.",
+  "vndb_url": "https://vndb.org/c107771"
+}

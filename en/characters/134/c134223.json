@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134223",
+  "type": "character",
+  "name": "Pamela",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A partygoer.",
+  "source_sha256": "c8d7f2ad3aabbc12e2cf602dd3b996c10540998d87c243fefd369e1597e7b0bc",
+  "translation": "A partygoer.",
+  "vndb_url": "https://vndb.org/c134223"
+}

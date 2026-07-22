@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40614",
+  "type": "visual_novel",
+  "name": "Ookami Game",
+  "original_name": "狼ゲーム",
+  "language": "en",
+  "source_language": "en",
+  "source": "Twelve strangers are gathered in an unknown building and forced to partake in a killing game in order to escape. Each participant must pick a card, either a Wolf card or a Sheep card, and players that draw a Wolf card must kill one Sheep. However, there's a truth behind the killing game that the participants need to uncover.",
+  "source_sha256": "0930e074d635ed0995f4b8ae5a577df8179115e9b84269d3db23db0c9df1192d",
+  "translation": "Twelve strangers are gathered in an unknown building and forced to partake in a killing game in order to escape. Each participant must pick a card, either a Wolf card or a Sheep card, and players that draw a Wolf card must kill one Sheep. However, there's a truth behind the killing game that the participants need to uncover.",
+  "vndb_url": "https://vndb.org/v40614"
+}

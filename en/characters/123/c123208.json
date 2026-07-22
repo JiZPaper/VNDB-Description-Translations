@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123208",
+  "type": "character",
+  "name": "Melton",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A summoner that is partners with Jade and Marvolo.",
+  "source_sha256": "fe4d7f5d50dd6355413bd37f068e4ef06b72cfd9028a3439db2d143af15a7af6",
+  "translation": "A summoner that is partners with Jade and Marvolo.",
+  "vndb_url": "https://vndb.org/c123208"
+}

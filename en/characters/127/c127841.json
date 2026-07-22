@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127841",
+  "type": "character",
+  "name": "Crow",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A man from the Hidden Forest who has lost his memories. He guides Leilani in her search for the flower",
+  "source_sha256": "bb84179667656e0bea0d78cc46177d4a030646c64a568d2f69bb8b689cc5388b",
+  "translation": "A man from the Hidden Forest who has lost his memories. He guides Leilani in her search for the flower",
+  "vndb_url": "https://vndb.org/c127841"
+}

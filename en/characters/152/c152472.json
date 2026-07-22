@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152472",
+  "type": "character",
+  "name": "Doll Series \"D2\"",
+  "original_name": "ドールシリース・D2",
+  "language": "en",
+  "source_language": "en",
+  "source": "Her brain lost the ability to make her body acquire nutrients due to a memory transfer faliure.\nDied of malnutrition and mummified naturally due to the complete lack of fat.",
+  "source_sha256": "3106346c9ecde695342eba1ab45132c142819e6e7dd685cf13f377fbe08dc2d3",
+  "translation": "Her brain lost the ability to make her body acquire nutrients due to a memory transfer faliure.\nDied of malnutrition and mummified naturally due to the complete lack of fat.",
+  "vndb_url": "https://vndb.org/c152472"
+}

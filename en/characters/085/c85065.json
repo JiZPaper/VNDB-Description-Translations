@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c85065",
+  "type": "character",
+  "name": "Kharat",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Miss Silver's employer.",
+  "source_sha256": "39d86cdc6cc5aa7033902d86266342201fde8079c5341f7a1f66586f3b379342",
+  "translation": "Miss Silver's employer.",
+  "vndb_url": "https://vndb.org/c85065"
+}

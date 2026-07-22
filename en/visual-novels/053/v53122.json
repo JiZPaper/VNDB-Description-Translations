@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53122",
+  "type": "visual_novel",
+  "name": "Daojishi",
+  "original_name": "倒计时",
+  "language": "en",
+  "source_language": "en",
+  "source": "Countdown is a short visual novel that tells the story of an ordinary individual's journey through their thoughts and emotions as their life approaches its end. The plot includes critiques and discussions of social issues such as life, family, the workplace, and the healthcare system.\n(Steam)",
+  "source_sha256": "fea56910fc4ffa9a6f6d78024400a2c84d84bb2dd0ca6e790779a3ceda45a6b8",
+  "translation": "Countdown is a short visual novel that tells the story of an ordinary individual's journey through their thoughts and emotions as their life approaches its end. The plot includes critiques and discussions of social issues such as life, family, the workplace, and the healthcare system.\n(Steam)",
+  "vndb_url": "https://vndb.org/v53122"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132926",
+  "type": "character",
+  "name": "Rigel",
+  "original_name": "リゲル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Born in 2033.",
+  "source_sha256": "76d302e091ca56928241ccdd1c627a613fe9792b1b51a6e60ffeba7a94416304",
+  "translation": "Born in 2033.",
+  "vndb_url": "https://vndb.org/c132926"
+}

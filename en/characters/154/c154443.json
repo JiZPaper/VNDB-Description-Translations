@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154443",
+  "type": "character",
+  "name": "Terzo",
+  "original_name": "テルツォ",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Vlad III the impaler, Voivode of Walachia[/spoiler]",
+  "source_sha256": "3c7cbcbf9484e7dcd9c3d563ab2ce0e40b966ab114e90ad249a0b6a16ea28800",
+  "translation": "[spoiler]Vlad III the impaler, Voivode of Walachia[/spoiler]",
+  "vndb_url": "https://vndb.org/c154443"
+}

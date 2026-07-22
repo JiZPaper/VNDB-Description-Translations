@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50426",
+  "type": "visual_novel",
+  "name": "Wonderful",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "In Wonderful, you are a guy who made his fortune very young but who also lost everything very early.\n\nIn debt you return to your mother, on the road you will find a kitsune saying she comes from another world, find the truth about this world and this kistune.",
+  "source_sha256": "fcb5faa118e2c0a0a724f49ae96cb5f58b978890b4c2fc91718ec560df0af6b5",
+  "translation": "In Wonderful, you are a guy who made his fortune very young but who also lost everything very early.\n\nIn debt you return to your mother, on the road you will find a kitsune saying she comes from another world, find the truth about this world and this kistune.",
+  "vndb_url": "https://vndb.org/v50426"
+}

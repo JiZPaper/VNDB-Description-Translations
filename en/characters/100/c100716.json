@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100716",
+  "type": "character",
+  "name": "Mike",
+  "original_name": "ミケ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Bathhouse receptionist who also has her share of horrors.",
+  "source_sha256": "fc7895e20e7bd11c5abbc68b6f69b49e139c161d0790ce0d3bae1d83c3eb28e0",
+  "translation": "Bathhouse receptionist who also has her share of horrors.",
+  "vndb_url": "https://vndb.org/c100716"
+}

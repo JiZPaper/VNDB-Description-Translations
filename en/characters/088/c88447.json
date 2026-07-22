@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88447",
+  "type": "character",
+  "name": "Ruka",
+  "original_name": "ルカ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The landlady of Lucanche Inn in downtown Eldia.",
+  "source_sha256": "06560081b1fa63a4203d823ebce85b6ba3cd0a70157cec3ac615d34d8c51993a",
+  "translation": "The landlady of Lucanche Inn in downtown Eldia.",
+  "vndb_url": "https://vndb.org/c88447"
+}

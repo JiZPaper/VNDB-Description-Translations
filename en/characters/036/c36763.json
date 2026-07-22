@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36763",
+  "type": "character",
+  "name": "Marlone",
+  "original_name": "マルローネ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A lively adventurer who fights with bombs and a staff.",
+  "source_sha256": "d6fe69417b05f6628fc8f3c47db28bd369d0c7bd34f14a5767ce226d4b56c883",
+  "translation": "A lively adventurer who fights with bombs and a staff.",
+  "vndb_url": "https://vndb.org/c36763"
+}

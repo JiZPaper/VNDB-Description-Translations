@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c72441",
+  "type": "character",
+  "name": "Vanderwood",
+  "original_name": "벤더우드",
+  "language": "en",
+  "source_language": "en",
+  "source": "A secret agent who keeping 707 from not doing his job.",
+  "source_sha256": "83a392fc9ca184ad8394f094781e2a52e6d92a1a7597bf3043f09287edf58a95",
+  "translation": "A secret agent who keeping 707 from not doing his job.",
+  "vndb_url": "https://vndb.org/c72441"
+}

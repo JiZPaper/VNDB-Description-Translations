@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88448",
+  "type": "character",
+  "name": "Mrs. McLagan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Leila's mother.",
+  "source_sha256": "e397962ae9d2a1dcde404711fc5738b1cb12119033900e16a036896efafbc1c3",
+  "translation": "Leila's mother.",
+  "vndb_url": "https://vndb.org/c88448"
+}

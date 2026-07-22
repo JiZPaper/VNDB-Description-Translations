@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16819",
+  "type": "visual_novel",
+  "name": "The Hare",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dark parody of Edgar Allen Poe's \"The Raven.\"",
+  "source_sha256": "ab956c02d2b768d781b1c13f855d2490e5bf1fb846f62a0d2e5e945074befe0b",
+  "translation": "A dark parody of Edgar Allen Poe's \"The Raven.\"",
+  "vndb_url": "https://vndb.org/v16819"
+}

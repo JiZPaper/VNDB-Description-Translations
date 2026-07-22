@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161901",
+  "type": "character",
+  "name": "Credo",
+  "original_name": "クレド",
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of the bandit group \"Hajduk\". He is trying to kidnap the shrine maiden. He passionately hates the Sanctuary. For some reason, he has a strange obsession with Kyrie.",
+  "source_sha256": "bddd0789ff0f683e7672185acc47b43d15ad0384884971f04adf81fb8a99ff61",
+  "translation": "A member of the bandit group \"Hajduk\". He is trying to kidnap the shrine maiden. He passionately hates the Sanctuary. For some reason, he has a strange obsession with Kyrie.",
+  "vndb_url": "https://vndb.org/c161901"
+}

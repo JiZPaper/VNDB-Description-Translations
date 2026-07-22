@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165044",
+  "type": "character",
+  "name": "The Player",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The player character, they are the cousin of Tabitha Scarlet and are coming to Scarlet Hollow for her mother's funeral.\nTheir personality and other characteristics can be personalized through the traits system.",
+  "source_sha256": "31489105f9b825c1fd32db136d6e17303a006c540de0c2f5da76bfa0ce76154d",
+  "translation": "The player character, they are the cousin of Tabitha Scarlet and are coming to Scarlet Hollow for her mother's funeral.\nTheir personality and other characteristics can be personalized through the traits system.",
+  "vndb_url": "https://vndb.org/c165044"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25808",
+  "type": "visual_novel",
+  "name": "If? Stampout + Spell Down = !?",
+  "original_name": "いふ? STAMPOUT + SpellDown=!?",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fandisc for Monoceros' games Stampout and Spell Down.",
+  "source_sha256": "76c6032e5ddfdc90da29188c7a7491922c51c6c605c9abf76a3ed5ab1b14c083",
+  "translation": "Fandisc for Monoceros' games Stampout and Spell Down.",
+  "vndb_url": "https://vndb.org/v25808"
+}

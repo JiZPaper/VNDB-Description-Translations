@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60770",
+  "type": "visual_novel",
+  "name": "Spasenie galaktiki II. Obratnyj otschjot",
+  "original_name": "Спасение галактики II. Обратный отсчёт",
+  "language": "en",
+  "source_language": "en",
+  "source": "This time, Nikolai and his girlfriend face an almost impossible task. Will they manage to succeed and save the galaxy once again?",
+  "source_sha256": "ce453ebb9ea436bb04f775d4d15c54503f6472c9873572e1701174ebc05d9cb1",
+  "translation": "This time, Nikolai and his girlfriend face an almost impossible task. Will they manage to succeed and save the galaxy once again?",
+  "vndb_url": "https://vndb.org/v60770"
+}

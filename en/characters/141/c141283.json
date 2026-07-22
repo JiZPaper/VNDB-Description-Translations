@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141283",
+  "type": "character",
+  "name": "Suiyoubi",
+  "original_name": "水曜日",
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of Shichiyokai.",
+  "source_sha256": "3656107a0556db287decf7628a93524987025f7228aa16d22ee688b71ffffa1c",
+  "translation": "A member of Shichiyokai.",
+  "vndb_url": "https://vndb.org/c141283"
+}

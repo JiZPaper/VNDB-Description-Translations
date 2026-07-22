@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13251",
+  "type": "visual_novel",
+  "name": "Looking for a Title",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A recreation of the first chapter of the webcomic \"Looking for a Title,\" in which the majority of the characters are introduced. Due to it being the very beginning of the series, it's fairly short and straightforward, featuring 9 explorable locations.\n\n[Edited from [url=http://quasicake.net/extra/VNch1.html]Quasi Cake[/url]]",
+  "source_sha256": "f80e6731776e0ab1da3a0e6f47427b952e2f681ceed43e20a76f81a4c752bcde",
+  "translation": "A recreation of the first chapter of the webcomic \"Looking for a Title,\" in which the majority of the characters are introduced. Due to it being the very beginning of the series, it's fairly short and straightforward, featuring 9 explorable locations.\n\n[Edited from [url=http://quasicake.net/extra/VNch1.html]Quasi Cake[/url]]",
+  "vndb_url": "https://vndb.org/v13251"
+}

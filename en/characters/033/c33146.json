@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33146",
+  "type": "character",
+  "name": "Lily",
+  "original_name": "リリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A descendent of Solomon and inheritor of his magical ring.",
+  "source_sha256": "8e6ce26b9a52f2b56d95b1c9985d3e2f3baef0ede703d09fb785456db46099af",
+  "translation": "A descendent of Solomon and inheritor of his magical ring.",
+  "vndb_url": "https://vndb.org/c33146"
+}

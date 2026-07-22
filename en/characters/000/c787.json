@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c787",
+  "type": "character",
+  "name": "Nightmare Gottschalk",
+  "original_name": "ナイトメア＝ゴットシャルク",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious and sickly man who appears in Alice's dreams.",
+  "source_sha256": "f59574cda522a774eedb5a150fb32af86b3d40574b7680af97039bf6adc1d9e8",
+  "translation": "A mysterious and sickly man who appears in Alice's dreams.",
+  "vndb_url": "https://vndb.org/c787"
+}

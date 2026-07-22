@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113879",
+  "type": "character",
+  "name": "Gilbert Quifer",
+  "original_name": "ジルベルト・キフェル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Gilbert is the current king of Quifer.",
+  "source_sha256": "403d36ce2ea4f789891658f2ee5897259f8c233761da66d8e983157a5ae5630b",
+  "translation": "Gilbert is the current king of Quifer.",
+  "vndb_url": "https://vndb.org/c113879"
+}

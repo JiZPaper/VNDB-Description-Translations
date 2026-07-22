@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99280",
+  "type": "character",
+  "name": "Acia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A woman who is traveling to her grandmother's place via the caravan.",
+  "source_sha256": "25ce9d3ac280fcbc1550d826842a02dcce105bdb02963125a099fc79d28b565d",
+  "translation": "A woman who is traveling to her grandmother's place via the caravan.",
+  "vndb_url": "https://vndb.org/c99280"
+}

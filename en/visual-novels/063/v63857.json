@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63857",
+  "type": "visual_novel",
+  "name": "Happy Birthday to Me",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "It's Rin's 17th birthday!\n...But his classmates and friends don't acknowledge it at all, which makes Rin feel sad.\nA short visual novel with four different endings.",
+  "source_sha256": "9534960ed14dc1e6a5abaa9e2cc8151f2666b1ced9a4194f4a1ec6f76008b6fd",
+  "translation": "It's Rin's 17th birthday!\n...But his classmates and friends don't acknowledge it at all, which makes Rin feel sad.\nA short visual novel with four different endings.",
+  "vndb_url": "https://vndb.org/v63857"
+}

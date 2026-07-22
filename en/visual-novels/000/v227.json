@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v227",
+  "type": "visual_novel",
+  "name": "Hissatsu Panda Samurai",
+  "original_name": "必殺パンダ侍",
+  "language": "en",
+  "source_language": "en",
+  "source": "Once upon a time, there lived a panda samurai, brave and true.\n\nThe rest, dear reader, is up to you!\n\n[From [url=http://www.insani.org/pandasamurai.html]insani[/url]]",
+  "source_sha256": "e5eb282a750259d16370e33ffd13f6fefa5a5cb9be2f378e7e78aab80796fe82",
+  "translation": "Once upon a time, there lived a panda samurai, brave and true.\n\nThe rest, dear reader, is up to you!\n\n[From [url=http://www.insani.org/pandasamurai.html]insani[/url]]",
+  "vndb_url": "https://vndb.org/v227"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c67875",
+  "type": "character",
+  "name": "Moe Oblige",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The only official merchant at Artist alley.",
+  "source_sha256": "60d68e31c1f5fe0bb4b72b9ce1977abebe2b58faf818b6ba1b70032d85c9e9b9",
+  "translation": "The only official merchant at Artist alley.",
+  "vndb_url": "https://vndb.org/c67875"
+}

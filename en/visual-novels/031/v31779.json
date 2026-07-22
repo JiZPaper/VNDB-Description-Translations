@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31779",
+  "type": "visual_novel",
+  "name": "The Psychologist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A few short stories portraying a man's appointment with a psychologist.",
+  "source_sha256": "fc897862719c97a1db481ba87552f6530b973d566611225be3ba819b640950b7",
+  "translation": "A few short stories portraying a man's appointment with a psychologist.",
+  "vndb_url": "https://vndb.org/v31779"
+}

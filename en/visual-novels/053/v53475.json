@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53475",
+  "type": "visual_novel",
+  "name": "Angel Wings: Endless Night",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Trapped in a haunted mansion with only your wits and an unlikely ally at your side, what will it take to survive this endless nightmare?",
+  "source_sha256": "0d379167c59b7e8ba89cd46885b26157874a8ffbb9ae3ce2f317b1aa450a8ad5",
+  "translation": "Trapped in a haunted mansion with only your wits and an unlikely ally at your side, what will it take to survive this endless nightmare?",
+  "vndb_url": "https://vndb.org/v53475"
+}

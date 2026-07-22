@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106839",
+  "type": "character",
+  "name": "Malaya",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious woman only appears in Ethan's route.",
+  "source_sha256": "b5217bff772ef3813c1aa181881eeb74d0c3eedb53099bc09364278ed86a62d6",
+  "translation": "A mysterious woman only appears in Ethan's route.",
+  "vndb_url": "https://vndb.org/c106839"
+}

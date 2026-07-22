@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65687",
+  "type": "visual_novel",
+  "name": "long green bean",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A vegetable dating simulator",
+  "source_sha256": "8dba262726e11f44acf6e3c1eb9179c87b33ca51ced9a03c10a6ecea8c1987bf",
+  "translation": "A vegetable dating simulator",
+  "vndb_url": "https://vndb.org/v65687"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124616",
+  "type": "character",
+  "name": "Annainin",
+  "original_name": "案内人",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sex: ?\nOccupation: ???\n\nThe Storyteller guides those who visit PARANORMASIGHT.\nEverything else about him remains a mystery.\n\n[From in-game Persons of Interest profile]",
+  "source_sha256": "cb0e810a3d6536353dad9471ad013a67c006643903537762c6c141c92ee1acc1",
+  "translation": "Sex: ?\nOccupation: ???\n\nThe Storyteller guides those who visit PARANORMASIGHT.\nEverything else about him remains a mystery.\n\n[From in-game Persons of Interest profile]",
+  "vndb_url": "https://vndb.org/c124616"
+}

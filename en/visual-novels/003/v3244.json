@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3244",
+  "type": "visual_novel",
+  "name": "VALENTINE PINK",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Fandisc of the original game.",
+  "source_sha256": "ab9bf9923812be9f35a18d9b8b015b4f90ec2daa8ffd1a61fcd4de496ecb59e2",
+  "translation": "Fandisc of the original game.",
+  "vndb_url": "https://vndb.org/v3244"
+}

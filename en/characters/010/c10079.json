@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c10079",
+  "type": "character",
+  "name": "Captain Keeko",
+  "original_name": "けーこ艦長",
+  "language": "en",
+  "source_language": "en",
+  "source": "The captain of the school ship H.B. Polarstar.",
+  "source_sha256": "b3724bdeb31bdd832c7a5c60aa8d51b63aa7575999341f0419e0cf69d9e49667",
+  "translation": "The captain of the school ship H.B. Polarstar.",
+  "vndb_url": "https://vndb.org/c10079"
+}

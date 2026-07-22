@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58202",
+  "type": "visual_novel",
+  "name": "CURE",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You get taken away to a quarantine facility after contacting a disease with no cure. Being taken care of by Allan, will you be cured?\n\n[From [url=https://louzivqx.itch.io/cure]Itch.io[/url]]",
+  "source_sha256": "e906b468635723bbc815e1af708ce946d59e80e640503247fbb499c304203475",
+  "translation": "You get taken away to a quarantine facility after contacting a disease with no cure. Being taken care of by Allan, will you be cured?\n\n[From [url=https://louzivqx.itch.io/cure]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v58202"
+}

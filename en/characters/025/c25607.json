@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25607",
+  "type": "character",
+  "name": "Vince",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Drummer in Jed's band.",
+  "source_sha256": "f40854ca7941916b0b218d60739abc4f50ebf290425a99f5f237c6af51df7ccf",
+  "translation": "Drummer in Jed's band.",
+  "vndb_url": "https://vndb.org/c25607"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123947",
+  "type": "character",
+  "name": "Wand",
+  "original_name": "ワンド",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sugimiya family's dog",
+  "source_sha256": "99edaf211c9b04835a2a3ffd7b6e8d656a605faf86bcb9386d94fc9811ea7d95",
+  "translation": "Sugimiya family's dog",
+  "vndb_url": "https://vndb.org/c123947"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41904",
+  "type": "character",
+  "name": "Enishi",
+  "original_name": "エニシ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of the Bad Apples.",
+  "source_sha256": "1b31a88c68ed5980e5b05f13d37788347b0aaa4d83c887df468b87c4d9c01569",
+  "translation": "A member of the Bad Apples.",
+  "vndb_url": "https://vndb.org/c41904"
+}

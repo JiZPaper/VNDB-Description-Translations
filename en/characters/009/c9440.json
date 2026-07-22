@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9440",
+  "type": "character",
+  "name": "Sir Galahad",
+  "original_name": "ギャラハッド",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on a knight from the Arthurian legend [url=http://en.wikipedia.org/wiki/Galahad]of the same name[/url].",
+  "source_sha256": "9e293524bd16f6f215b5856eaaef7d03d45297d6497317740b13ea230753fb98",
+  "translation": "Based on a knight from the Arthurian legend [url=http://en.wikipedia.org/wiki/Galahad]of the same name[/url].",
+  "vndb_url": "https://vndb.org/c9440"
+}

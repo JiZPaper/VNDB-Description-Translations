@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c2312",
+  "type": "character",
+  "name": "Real",
+  "original_name": "リーアル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Operator of the brothel 'Under Eden'.",
+  "source_sha256": "29b68a54cc217d8d012097e89212cd9dfa3f39ab049473d1bcfd701d1313dde4",
+  "translation": "Operator of the brothel 'Under Eden'.",
+  "vndb_url": "https://vndb.org/c2312"
+}

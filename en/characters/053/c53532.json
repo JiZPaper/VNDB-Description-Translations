@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53532",
+  "type": "character",
+  "name": "Somniae",
+  "original_name": "Сомния",
+  "language": "en",
+  "source_language": "en",
+  "source": "Girl from dreams",
+  "source_sha256": "e474ad6dbbfc5ed25a4a8b570cc34f281dfd49b5c056d1fc6070d7b5eaf88d72",
+  "translation": "Girl from dreams",
+  "vndb_url": "https://vndb.org/c53532"
+}

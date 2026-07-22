@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6765",
+  "type": "visual_novel",
+  "name": "Summer House",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "My parents used to own a summer house up by Lake Tahoe. I’m pretty sure they’ve sold it by now, the economy being what it is. The market for timeshares isn’t what it used to be. This is a story about that summer house.",
+  "source_sha256": "2a1efc207adce491252e3e48407e08707a6b0bd14df807836cea06255ece9f78",
+  "translation": "My parents used to own a summer house up by Lake Tahoe. I’m pretty sure they’ve sold it by now, the economy being what it is. The market for timeshares isn’t what it used to be. This is a story about that summer house.",
+  "vndb_url": "https://vndb.org/v6765"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103036",
+  "type": "character",
+  "name": "Dad",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's father died in an accident at the power plant where he worked. Haunted by the incident, the protagonist used to have dreams-turned-nightmares about his dad.",
+  "source_sha256": "8e66d8a430735f9e9922c9bec54b0fdce1f2832c5dbafde94a466a66e4d042e6",
+  "translation": "The protagonist's father died in an accident at the power plant where he worked. Haunted by the incident, the protagonist used to have dreams-turned-nightmares about his dad.",
+  "vndb_url": "https://vndb.org/c103036"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45160",
+  "type": "character",
+  "name": "Joker",
+  "original_name": "ジョーカー",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Circus Master and Prison Director.\nAlice calls the Circus Master \"White\" and the Prison Director \"Black\".\nJoker doesn't have a split personality, he's two different people.",
+  "source_sha256": "85019bb798ee41cb28dc29dd49c1ae9a45a4388eace60c167fe636c892c4556d",
+  "translation": "The Circus Master and Prison Director.\nAlice calls the Circus Master \"White\" and the Prison Director \"Black\".\nJoker doesn't have a split personality, he's two different people.",
+  "vndb_url": "https://vndb.org/c45160"
+}

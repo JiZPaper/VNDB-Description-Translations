@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46126",
+  "type": "visual_novel",
+  "name": "purple hemlock",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A point-and-click game in which a lovelorn research assistant investigates her professor's study room.",
+  "source_sha256": "e4f43ef5fa318861489a445097d74f69ff9d48a905ba9d4e028a4aca843779c9",
+  "translation": "A point-and-click game in which a lovelorn research assistant investigates her professor's study room.",
+  "vndb_url": "https://vndb.org/v46126"
+}

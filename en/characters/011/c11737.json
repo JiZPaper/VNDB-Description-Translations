@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11737",
+  "type": "character",
+  "name": "Alice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is the very quiet girl who takes the slightest remarks a bit too seriously.",
+  "source_sha256": "f7908da60393d16dbd9b1c91fb4913b3f3f3cfa3567524e0c3f05b36c7682b76",
+  "translation": "She is the very quiet girl who takes the slightest remarks a bit too seriously.",
+  "vndb_url": "https://vndb.org/c11737"
+}

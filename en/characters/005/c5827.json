@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c5827",
+  "type": "character",
+  "name": "Red Kingdom's Ambassador",
+  "original_name": "赤の使節団・団長",
+  "language": "en",
+  "source_language": "en",
+  "source": "The leader of the Red Kingdom's delegation.",
+  "source_sha256": "0c08d9de36460b83a73cdec9b087ba6aa3941a1348551ffa67721ff64d30d621",
+  "translation": "The leader of the Red Kingdom's delegation.",
+  "vndb_url": "https://vndb.org/c5827"
+}

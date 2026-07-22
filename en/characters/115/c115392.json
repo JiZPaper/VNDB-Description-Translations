@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115392",
+  "type": "character",
+  "name": "Boss Ting",
+  "original_name": "老板",
+  "language": "en",
+  "source_language": "en",
+  "source": "An officer of the Red Flower Society.\nHe is a cunning man who wouldn't take the lead himself, but watches for opportunities and sides with whoever seems to have the upper hand.",
+  "source_sha256": "652ed5db241bccf0c149e838c5d905b0363396f017e8a61f0dee52cc6f1b1c6f",
+  "translation": "An officer of the Red Flower Society.\nHe is a cunning man who wouldn't take the lead himself, but watches for opportunities and sides with whoever seems to have the upper hand.",
+  "vndb_url": "https://vndb.org/c115392"
+}

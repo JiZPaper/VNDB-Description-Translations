@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79455",
+  "type": "character",
+  "name": "Unnamed",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dancer that is associated with a traveling troupe and performs on stage with the protagonist.",
+  "source_sha256": "5e575ccf3acf9dd4bc70c115bb990cf90c4d85ede3e371f5a87a474ba6172bb6",
+  "translation": "A dancer that is associated with a traveling troupe and performs on stage with the protagonist.",
+  "vndb_url": "https://vndb.org/c79455"
+}

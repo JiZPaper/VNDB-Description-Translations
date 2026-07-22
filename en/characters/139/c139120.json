@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c139120",
+  "type": "character",
+  "name": "Hana",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader and tactician of the Mercenary Ninja Village.",
+  "source_sha256": "40fa479c91a834c089a911794aa3cd9d9bb566be4338fc37ea5ceab1e975f57e",
+  "translation": "Leader and tactician of the Mercenary Ninja Village.",
+  "vndb_url": "https://vndb.org/c139120"
+}

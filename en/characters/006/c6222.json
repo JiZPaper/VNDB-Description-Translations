@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c6222",
+  "type": "character",
+  "name": "Tao",
+  "original_name": "タオ",
+  "language": "en",
+  "source_language": "en",
+  "source": "HP: 10\nAttack: 5\nDefense: 7\n\nWorks as a maid for [url=/c6221]Meishao[/url]. She is a slime girl. Due to her master's chaotic antics, she constantly has to clean up the messes her master leaves behind, and because of her shy personality, she tends to start panicking when she gets bossed around.\n\n[From [url=https://www.getchu.com/soft.phtml?id=740562]Getchu[/url]]",
+  "source_sha256": "a7cb2b3dbf493eb15c15d9220bcc147fb74050903e658681b90f87d5cee7bc08",
+  "translation": "HP: 10\nAttack: 5\nDefense: 7\n\nWorks as a maid for [url=/c6221]Meishao[/url]. She is a slime girl. Due to her master's chaotic antics, she constantly has to clean up the messes her master leaves behind, and because of her shy personality, she tends to start panicking when she gets bossed around.\n\n[From [url=https://www.getchu.com/soft.phtml?id=740562]Getchu[/url]]",
+  "vndb_url": "https://vndb.org/c6222"
+}

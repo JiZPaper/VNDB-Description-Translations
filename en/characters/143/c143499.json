@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143499",
+  "type": "character",
+  "name": "Danis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A curator at the local art gallery.",
+  "source_sha256": "6c41339fdcf8e49659ff2b42301eab033e8d1d6be39f0e3f6bed14bbf05f2764",
+  "translation": "A curator at the local art gallery.",
+  "vndb_url": "https://vndb.org/c143499"
+}

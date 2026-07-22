@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c128054",
+  "type": "character",
+  "name": "Emily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist's ex-girlfriend.",
+  "source_sha256": "ef2e421587fa193ae6b7925c6f98f4069496feeaf4756182f831a5d1fad1d4cd",
+  "translation": "Protagonist's ex-girlfriend.",
+  "vndb_url": "https://vndb.org/c128054"
+}

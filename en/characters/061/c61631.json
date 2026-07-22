@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61631",
+  "type": "character",
+  "name": "Arthur Thompson",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Eric's and Iris' father.",
+  "source_sha256": "d4563ff13060c60d67ac3b29655f3371f793e894afe41aec5dfcb5f413293d6e",
+  "translation": "Eric's and Iris' father.",
+  "vndb_url": "https://vndb.org/c61631"
+}

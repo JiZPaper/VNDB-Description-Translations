@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96263",
+  "type": "character",
+  "name": "The Man in Black",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious person who does not appear in the tale. He seems to be a villain, but says nothing about himself and helps the protagonist many times.",
+  "source_sha256": "fa11818960075d6e8e929f56e7a4b810fc8fa02d4f91aab4740c1153f285e261",
+  "translation": "A mysterious person who does not appear in the tale. He seems to be a villain, but says nothing about himself and helps the protagonist many times.",
+  "vndb_url": "https://vndb.org/c96263"
+}

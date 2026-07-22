@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100232",
+  "type": "character",
+  "name": "Sophie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sophie is Ortiz’s secretary and a geek in her free time.",
+  "source_sha256": "27defc56f5125777c4aa08bf6b7a8bc5689f7107978ad909904572049f4e4973",
+  "translation": "Sophie is Ortiz’s secretary and a geek in her free time.",
+  "vndb_url": "https://vndb.org/c100232"
+}

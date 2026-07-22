@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34947",
+  "type": "character",
+  "name": "Jacob Grimm",
+  "original_name": "ヤーコプ・グリム",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Do you think you can do it?\"",
+  "source_sha256": "002d661879da5fd734c348542891a7be3d242d3abb87d88031742a12bc1fb6b1",
+  "translation": "\"Do you think you can do it?\"",
+  "vndb_url": "https://vndb.org/c34947"
+}

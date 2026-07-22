@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48249",
+  "type": "character",
+  "name": "Morty",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Morty was first introduced in Pokémon Gold and Pokémon Silver versions.",
+  "source_sha256": "5855d82435c9b2cdb9fffe4a2721cf1d00557224cf62aebf33a2102f1cf9731d",
+  "translation": "Morty was first introduced in Pokémon Gold and Pokémon Silver versions.",
+  "vndb_url": "https://vndb.org/c48249"
+}

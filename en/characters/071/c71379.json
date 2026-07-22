@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71379",
+  "type": "character",
+  "name": "Detective Nakayama",
+  "original_name": "中山",
+  "language": "en",
+  "source_language": "en",
+  "source": "Police inspector.",
+  "source_sha256": "5864dd50cc55abab346cc3a639dbd8d99fd5b847151186979afc3e5c912b37d6",
+  "translation": "Police inspector.",
+  "vndb_url": "https://vndb.org/c71379"
+}

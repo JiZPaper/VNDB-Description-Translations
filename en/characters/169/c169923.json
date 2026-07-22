@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169923",
+  "type": "character",
+  "name": "Timmy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A little hunchback who works for the police.",
+  "source_sha256": "1994dd3e8ad7eafec7410fb46fe54b424cd4ef55ce2022a27b89982a70db8f3b",
+  "translation": "A little hunchback who works for the police.",
+  "vndb_url": "https://vndb.org/c169923"
+}

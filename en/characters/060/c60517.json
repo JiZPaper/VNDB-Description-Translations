@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60517",
+  "type": "character",
+  "name": "Ghorza",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Age: 20-25 years (not sure yet).",
+  "source_sha256": "14b5ab09254ed970b25c21faf8f6b34a6d8b27b7483e06a6f6deb7e08aa1b45f",
+  "translation": "Age: 20-25 years (not sure yet).",
+  "vndb_url": "https://vndb.org/c60517"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115843",
+  "type": "character",
+  "name": "Judy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A local police officer in Kathryn and Mike's hometown on Earth.",
+  "source_sha256": "1427a4c807379547e01c7f682c8cb50d859c365bdb2d8179a6dac5d3438270f1",
+  "translation": "A local police officer in Kathryn and Mike's hometown on Earth.",
+  "vndb_url": "https://vndb.org/c115843"
+}

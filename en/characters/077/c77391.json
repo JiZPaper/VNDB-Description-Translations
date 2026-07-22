@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77391",
+  "type": "character",
+  "name": "Mugimaru",
+  "original_name": "ムギまる",
+  "language": "en",
+  "source_language": "en",
+  "source": "Komugi's 'side-kick', a perverted rabbit-like creature from Vaccine World who detects viruses.",
+  "source_sha256": "38d66e58b3ee7a4f8c9f67590684d542096cc3a79b77ef16182f70e9d2269441",
+  "translation": "Komugi's 'side-kick', a perverted rabbit-like creature from Vaccine World who detects viruses.",
+  "vndb_url": "https://vndb.org/c77391"
+}

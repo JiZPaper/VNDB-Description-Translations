@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15744",
+  "type": "character",
+  "name": "Usui",
+  "original_name": "卯水",
+  "language": "en",
+  "source_language": "en",
+  "source": "Guide of the popular Virtual Reality game Rhyme.",
+  "source_sha256": "bb511f6816a44dd7131f96a502a8d26dd1b5e26d50a5c2b86251e1a08a44dc81",
+  "translation": "Guide of the popular Virtual Reality game Rhyme.",
+  "vndb_url": "https://vndb.org/c15744"
+}

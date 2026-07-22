@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51156",
+  "type": "character",
+  "name": "Cyan",
+  "original_name": "シアン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A shut-in magician.",
+  "source_sha256": "bb2171cff746c3745f0f5ecb6e83ee064f7c2f1dc7765d448d1e06ad78f89f89",
+  "translation": "A shut-in magician.",
+  "vndb_url": "https://vndb.org/c51156"
+}

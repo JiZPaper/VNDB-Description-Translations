@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123624",
+  "type": "character",
+  "name": "Hinaichigo",
+  "original_name": "雛苺",
+  "language": "en",
+  "source_language": "en",
+  "source": "Instance of Hinaichigo in NOMAD Rozen Maiden continuation, which is also used in TAITO Visual Novels.\nShe is the sixth Rozen Maiden doll.",
+  "source_sha256": "b43fc1d6ce378118be64ddb234624a242a746713532174ad9f2dafee3f16039d",
+  "translation": "Instance of Hinaichigo in NOMAD Rozen Maiden continuation, which is also used in TAITO Visual Novels.\nShe is the sixth Rozen Maiden doll.",
+  "vndb_url": "https://vndb.org/c123624"
+}

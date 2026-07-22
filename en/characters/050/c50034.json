@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c50034",
+  "type": "character",
+  "name": "William Bloom",
+  "original_name": "ウィリアム・ブルーム",
+  "language": "en",
+  "source_language": "en",
+  "source": "A naive elf that has many affairs.\nHe loves helping people and gets cheated into a lot of unintended debts.",
+  "source_sha256": "283e11e12d52fa2224ac89e79a43029125db475991f1530851e4e3bff69fca8a",
+  "translation": "A naive elf that has many affairs.\nHe loves helping people and gets cheated into a lot of unintended debts.",
+  "vndb_url": "https://vndb.org/c50034"
+}

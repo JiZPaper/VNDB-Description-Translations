@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41413",
+  "type": "character",
+  "name": "Boris Adamov",
+  "original_name": "ボリス・アダモフ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Leader of the independent military organization ORACLE.\nHe supports his comrades on the battlefield with his strong willpower.\nA good-natured person.",
+  "source_sha256": "a9deae9dedfeb11f04ea9446f3afa5b19999eb0c75f7dc4f57c19f28c7bef6df",
+  "translation": "Leader of the independent military organization ORACLE.\nHe supports his comrades on the battlefield with his strong willpower.\nA good-natured person.",
+  "vndb_url": "https://vndb.org/c41413"
+}

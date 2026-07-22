@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30739",
+  "type": "visual_novel",
+  "name": "Ano Hi no Kioku",
+  "original_name": "あの日の記憶",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist, who has been in a coma, wakes up after a year. However he has lost his memory of before the accident. In order to regain his memory, he goes to talk with his childhood friends Kazuma and Ayumi.",
+  "source_sha256": "f52d6405cb1d2fa912fb27c878e1c87b339b6cb2a1732af2f0dc3db5f40a79d6",
+  "translation": "The protagonist, who has been in a coma, wakes up after a year. However he has lost his memory of before the accident. In order to regain his memory, he goes to talk with his childhood friends Kazuma and Ayumi.",
+  "vndb_url": "https://vndb.org/v30739"
+}

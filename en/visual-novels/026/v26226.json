@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26226",
+  "type": "visual_novel",
+  "name": "Charis",
+  "original_name": "Charis-チャリス-",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short novel game depicting everyday life.",
+  "source_sha256": "dc7330b0636cd91e429126b33f8dc75b69c41060ee6cee6ed19a892b1ceb213e",
+  "translation": "A short novel game depicting everyday life.",
+  "vndb_url": "https://vndb.org/v26226"
+}

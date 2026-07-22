@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11891",
+  "type": "character",
+  "name": "Sundome",
+  "original_name": "ＳＵＮＤＯＭＥ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Name Offline: Misaki Renka\nLevel: 33\nClass: Beginner >> Valkyrie Archer >> Thief",
+  "source_sha256": "0e053d7eb3c7a2e895bbf4ed403ce48e3e5ebb345b3afc01a80d4c717473ee43",
+  "translation": "Name Offline: Misaki Renka\nLevel: 33\nClass: Beginner >> Valkyrie Archer >> Thief",
+  "vndb_url": "https://vndb.org/c11891"
+}

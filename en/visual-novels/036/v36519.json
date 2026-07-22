@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36519",
+  "type": "visual_novel",
+  "name": "Find Love",
+  "original_name": "ふぁいんど・らぶ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Who will you fall in love with?\"\n\n[Translated from [url=https://novelgame.jp/games/show/6410]NovelGame[/url]]",
+  "source_sha256": "dc4cddf7ac131047e83c7adbc5ec3449087a9b9ce3f92fc8698f40be5c57114e",
+  "translation": "\"Who will you fall in love with?\"\n\n[Translated from [url=https://novelgame.jp/games/show/6410]NovelGame[/url]]",
+  "vndb_url": "https://vndb.org/v36519"
+}

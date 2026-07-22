@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20450",
+  "type": "visual_novel",
+  "name": "Erodama! Daydream",
+  "original_name": "エロだま！でいどりーむ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A simple game of strip janken with 6 men to challenge and 7 CG's to see after winning",
+  "source_sha256": "9f45c94c93f81881f08b1eca0265ca78f84c6ca349404c30f5a54b59939bad2a",
+  "translation": "A simple game of strip janken with 6 men to challenge and 7 CG's to see after winning",
+  "vndb_url": "https://vndb.org/v20450"
+}

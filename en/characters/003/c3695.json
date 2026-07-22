@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c3695",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "The young detective who, while on a mission to search for his long-lost parents, accidentally met Detective Utsugi. He has since worked in the Utsugi Detective Agency after their encounter.\n\nBased on [url=http://www.nintendo.co.jp/n02/shvc/btcj/gallery.html]FDC's gallery page on Nintendo.co.jp[/url]",
+  "source_sha256": "73cd4c59d95a022236a81f630de0b454e8d73ba9025ecc0c3d166432336e3f63",
+  "translation": "The young detective who, while on a mission to search for his long-lost parents, accidentally met Detective Utsugi. He has since worked in the Utsugi Detective Agency after their encounter.\n\nBased on [url=http://www.nintendo.co.jp/n02/shvc/btcj/gallery.html]FDC's gallery page on Nintendo.co.jp[/url]",
+  "vndb_url": "https://vndb.org/c3695"
+}

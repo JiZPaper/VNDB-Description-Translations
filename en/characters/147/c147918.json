@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c147918",
+  "type": "character",
+  "name": "policewoman 2",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Policewoman 1's partner.",
+  "source_sha256": "7b904374ca703ae88979d81a8ec0040b9182f4ae7ae993a39367c7e45283c056",
+  "translation": "Policewoman 1's partner.",
+  "vndb_url": "https://vndb.org/c147918"
+}

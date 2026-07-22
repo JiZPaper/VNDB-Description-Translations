@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154773",
+  "type": "character",
+  "name": "Alice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Narrator and protagonist of \"Prisoners in the Mirror\".",
+  "source_sha256": "c8afac71e95c39e1ed6eb89072bfc91c783eb86989c910920f8cac2365fa8b08",
+  "translation": "Narrator and protagonist of \"Prisoners in the Mirror\".",
+  "vndb_url": "https://vndb.org/c154773"
+}

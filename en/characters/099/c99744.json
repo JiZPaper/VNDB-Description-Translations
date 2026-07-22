@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99744",
+  "type": "character",
+  "name": "Girl",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]A human girl who, after hearing the truth from her mother, decided to go on a journey to see a hidden village.[/spoiler] Later, when she made new friends and a boyfriend, she decided to write a letter to her father.",
+  "source_sha256": "93842bf77ccce304f6173b5242a0cb4f83daa9c6fac71e25a6f5e0c855550c38",
+  "translation": "[spoiler]A human girl who, after hearing the truth from her mother, decided to go on a journey to see a hidden village.[/spoiler] Later, when she made new friends and a boyfriend, she decided to write a letter to her father.",
+  "vndb_url": "https://vndb.org/c99744"
+}

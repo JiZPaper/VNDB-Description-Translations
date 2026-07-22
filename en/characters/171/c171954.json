@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c171954",
+  "type": "character",
+  "name": "Lily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sara's friend",
+  "source_sha256": "f574c2a9d0ae568d17fd31d8fd96feb3320bbcaf61423da7b9728c5a1a57c560",
+  "translation": "Sara's friend",
+  "vndb_url": "https://vndb.org/c171954"
+}

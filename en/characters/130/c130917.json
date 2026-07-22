@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130917",
+  "type": "character",
+  "name": "Melody",
+  "original_name": "メロディ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Member of Jacuzzi's gang. She's part of the team sent to retrieve the stolen cargo from the heist.",
+  "source_sha256": "5ec26f7c23b2b62a320a6c59e506bd65bdf3ee62bf9abfb66d9757e74c21020d",
+  "translation": "Member of Jacuzzi's gang. She's part of the team sent to retrieve the stolen cargo from the heist.",
+  "vndb_url": "https://vndb.org/c130917"
+}

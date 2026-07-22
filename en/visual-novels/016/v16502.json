@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16502",
+  "type": "visual_novel",
+  "name": "Ore-sama Kingdom: Ikemen Kareshi o Get Shiyo! Moe Kyun♥School Days",
+  "original_name": "オレ様キングダム イケメン彼氏をゲットしよ! もえキュン♥スクールデイズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Second game based on the Ore-sama Kingdom manga.",
+  "source_sha256": "a8c8f209f76daf53c1b895a8a582f34b9d17fa196f19f0c585d735f22d80285c",
+  "translation": "Second game based on the Ore-sama Kingdom manga.",
+  "vndb_url": "https://vndb.org/v16502"
+}

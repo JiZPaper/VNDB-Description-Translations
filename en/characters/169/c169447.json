@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169447",
+  "type": "character",
+  "name": "Cindy Frost",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is [url=/c169441]Riley[/url]'s mother.",
+  "source_sha256": "09e560983d43d6af212a6c7dac5a23886905f1bb58117ea1e3bf174e13a6f420",
+  "translation": "She is [url=/c169441]Riley[/url]'s mother.",
+  "vndb_url": "https://vndb.org/c169447"
+}

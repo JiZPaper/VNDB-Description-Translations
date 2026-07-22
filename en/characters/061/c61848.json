@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61848",
+  "type": "character",
+  "name": "Arthur Wright",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A CFO at ADDAccount - a company Katie works at.",
+  "source_sha256": "e37f57dc4a178701761c8b9b5e11940b91fc00b97c6bf751496f76c4f5d37ec6",
+  "translation": "A CFO at ADDAccount - a company Katie works at.",
+  "vndb_url": "https://vndb.org/c61848"
+}

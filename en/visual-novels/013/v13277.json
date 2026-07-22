@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13277",
+  "type": "visual_novel",
+  "name": "Boku Kare Kanojo Kanojo to Cobalt Blue",
+  "original_name": "僕彼彼女彼女とコバルトブルー",
+  "language": "en",
+  "source_language": "en",
+  "source": "I found an unfamiliar cobalt-blue book in my room.\nI have to remember whose it was.\nA story of loving and being loved, dying and being lost, falling ill and being consumed.\nIt offers many different kinds of happy endings.",
+  "source_sha256": "cbdf2af56023402b0cda0bab9cfdcf2222e1b39c5440e1b7ff6e2e3c6c60ec1a",
+  "translation": "I found an unfamiliar cobalt-blue book in my room.\nI have to remember whose it was.\nA story of loving and being loved, dying and being lost, falling ill and being consumed.\nIt offers many different kinds of happy endings.",
+  "vndb_url": "https://vndb.org/v13277"
+}

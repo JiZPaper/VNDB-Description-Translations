@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115194",
+  "type": "character",
+  "name": "Dennis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A child.",
+  "source_sha256": "ce32d17cdd81616cf8acafad2e5d4bf1bcdc04c645c734b2ef7574aedffdcdbc",
+  "translation": "A child.",
+  "vndb_url": "https://vndb.org/c115194"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3566",
+  "type": "visual_novel",
+  "name": "Summon Devil -Akuma Shoukan-",
+  "original_name": "サモンデビル -悪魔召還-",
+  "language": "en",
+  "source_language": "en",
+  "source": "Devils visit the human world in search of a someone with a noble soul to become the next Demon King.",
+  "source_sha256": "3608391a593742e9fe936f1d6559004f840498f043cd0584097a2370451ff4cf",
+  "translation": "Devils visit the human world in search of a someone with a noble soul to become the next Demon King.",
+  "vndb_url": "https://vndb.org/v3566"
+}

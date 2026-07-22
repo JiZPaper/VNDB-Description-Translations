@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41905",
+  "type": "character",
+  "name": "You",
+  "original_name": "ヨウ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of the Bad Apples. The thing he brings to school is a guitar.",
+  "source_sha256": "66a68221977b67179d6216d2d5ad7ffcf520dbde093763ce3936ed2820623576",
+  "translation": "A member of the Bad Apples. The thing he brings to school is a guitar.",
+  "vndb_url": "https://vndb.org/c41905"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31376",
+  "type": "visual_novel",
+  "name": "Hero Anibnida",
+  "original_name": "히어로 아닙니다",
+  "language": "en",
+  "source_language": "en",
+  "source": "Riley, the game's player character, is a substitute agent with the purpose of supporting a superhero's everyday activities.",
+  "source_sha256": "9d76a866698189b7ba08c1818fc2fe4bdbd1f87342de236789cc33a1f9a5b07a",
+  "translation": "Riley, the game's player character, is a substitute agent with the purpose of supporting a superhero's everyday activities.",
+  "vndb_url": "https://vndb.org/v31376"
+}

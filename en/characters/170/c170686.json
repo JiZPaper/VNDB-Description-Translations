@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170686",
+  "type": "character",
+  "name": "Zoe 2.0",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A robot developed by Ada based on Zoe's appearance and personality.",
+  "source_sha256": "ce21b96dd46ae2b6dacfdbaaf4432a24a13cedb4597fd92b6c002069d33f01b3",
+  "translation": "A robot developed by Ada based on Zoe's appearance and personality.",
+  "vndb_url": "https://vndb.org/c170686"
+}

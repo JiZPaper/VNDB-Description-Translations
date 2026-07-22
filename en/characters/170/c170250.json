@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170250",
+  "type": "character",
+  "name": "Hagiwara",
+  "original_name": "はぎわら",
+  "language": "en",
+  "source_language": "en",
+  "source": "Daiki's regular physician",
+  "source_sha256": "bf10d802e9df69bbfbc1fbe148ae6d340e2c6461b22099145d5d2a026bd63614",
+  "translation": "Daiki's regular physician",
+  "vndb_url": "https://vndb.org/c170250"
+}

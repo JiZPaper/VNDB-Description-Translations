@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c135022",
+  "type": "character",
+  "name": "Sword King Arthur",
+  "original_name": "剣王アーサー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A main character in the 1st main quest's episode 18 \"King Arthur Story Zone\".\n\nA legendary king who reigns over Britain and is the leader of the Knights of the Round Table.",
+  "source_sha256": "199eac8afd11b6ef822094a46c23e350e65a36f99606bc8c81b2ae592530767b",
+  "translation": "A main character in the 1st main quest's episode 18 \"King Arthur Story Zone\".\n\nA legendary king who reigns over Britain and is the leader of the Knights of the Round Table.",
+  "vndb_url": "https://vndb.org/c135022"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92218",
+  "type": "character",
+  "name": "Hamano Yoku",
+  "original_name": "濱野 翼",
+  "language": "en",
+  "source_language": "en",
+  "source": "A bus driver.",
+  "source_sha256": "8ef6672604d70ccae29c8de9bc7d26fe3b88796a5be5260afd4bfb7311054218",
+  "translation": "A bus driver.",
+  "vndb_url": "https://vndb.org/c92218"
+}

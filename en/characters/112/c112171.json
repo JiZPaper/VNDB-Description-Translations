@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112171",
+  "type": "character",
+  "name": "Warren",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Security guard/bouncer for the Carnations Club along with Jacob.",
+  "source_sha256": "741ffd265ab008f872f8015853e3ee0632df44fa73ae3119fdeec1d449126b89",
+  "translation": "Security guard/bouncer for the Carnations Club along with Jacob.",
+  "vndb_url": "https://vndb.org/c112171"
+}

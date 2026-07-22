@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137861",
+  "type": "character",
+  "name": "Dock",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The town's doctor. An expert at potions and medicine, there are few ailments they can't cure.",
+  "source_sha256": "ec3d6acb610c7de07b2473af9bffe0b2fc78546af864c6aee83f6ed84836ed92",
+  "translation": "The town's doctor. An expert at potions and medicine, there are few ailments they can't cure.",
+  "vndb_url": "https://vndb.org/c137861"
+}

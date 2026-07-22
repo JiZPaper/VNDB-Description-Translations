@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97038",
+  "type": "character",
+  "name": "Lime",
+  "original_name": "ライム",
+  "language": "en",
+  "source_language": "en",
+  "source": "An adventurer.",
+  "source_sha256": "d6ecfa6d76a4b585af23acdde3e671d3714e79ea0c01e4c1d42aac997b012de0",
+  "translation": "An adventurer.",
+  "vndb_url": "https://vndb.org/c97038"
+}

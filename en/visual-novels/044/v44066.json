@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44066",
+  "type": "visual_novel",
+  "name": "I've seen stranger things than this",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Body swapping simulator.",
+  "source_sha256": "ac8db946283dfad1d9be16167f255e83301232c6d88739dcd19b08d109f50bfa",
+  "translation": "Body swapping simulator.",
+  "vndb_url": "https://vndb.org/v44066"
+}

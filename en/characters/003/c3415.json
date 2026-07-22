@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c3415",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "A closet sadist that teaches art at a prestigious girl's boarding school.",
+  "source_sha256": "b5f806c7bb16e7a7e98bb414fbf183c9d46e609c87733e7e9048cfefc8bc730f",
+  "translation": "A closet sadist that teaches art at a prestigious girl's boarding school.",
+  "vndb_url": "https://vndb.org/c3415"
+}

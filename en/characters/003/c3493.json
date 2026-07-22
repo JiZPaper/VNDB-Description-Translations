@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c3493",
+  "type": "character",
+  "name": "Nakamura Hiroki",
+  "original_name": "中村　弘輝",
+  "language": "en",
+  "source_language": "en",
+  "source": "Shop manager of the cafeteria 'A la mode'.",
+  "source_sha256": "4a031d6ce1dfd1d928675d273a0b6731b6155bc2e8e0ff7d09c3f03933592e47",
+  "translation": "Shop manager of the cafeteria 'A la mode'.",
+  "vndb_url": "https://vndb.org/c3493"
+}

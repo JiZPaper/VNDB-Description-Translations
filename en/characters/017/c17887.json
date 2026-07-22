@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c17887",
+  "type": "character",
+  "name": "Yu",
+  "original_name": "ユウ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A Taiwanese policeman.",
+  "source_sha256": "1e6e72b72f5385d20f1b00be4862f3d5815fea9456044f5771bf09ecdd12af7d",
+  "translation": "A Taiwanese policeman.",
+  "vndb_url": "https://vndb.org/c17887"
+}

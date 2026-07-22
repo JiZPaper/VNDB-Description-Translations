@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20175",
+  "type": "visual_novel",
+  "name": "Witchwood Academy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel/dating sim about witches in training for [url=https://itch.io/jam/gbjam-5]GameBoy Jam 5[/url].\n\n[From [url=https://celia14.itch.io/witchwood-academy]itch.io[/url]]",
+  "source_sha256": "ba3ff2c1fff0a176d104c1726b1e6f0cd743b38090a4abfa345f995f4ac860cd",
+  "translation": "A visual novel/dating sim about witches in training for [url=https://itch.io/jam/gbjam-5]GameBoy Jam 5[/url].\n\n[From [url=https://celia14.itch.io/witchwood-academy]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v20175"
+}

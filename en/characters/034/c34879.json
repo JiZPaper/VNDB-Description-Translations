@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34879",
+  "type": "character",
+  "name": "Merlin",
+  "original_name": "マーリン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A wizard who assists and guides Arthur in a teasing manner.",
+  "source_sha256": "6c9568d1c12d3a473c5ad98c504144f422ca34567b8005ffe5a176d101339f4b",
+  "translation": "A wizard who assists and guides Arthur in a teasing manner.",
+  "vndb_url": "https://vndb.org/c34879"
+}

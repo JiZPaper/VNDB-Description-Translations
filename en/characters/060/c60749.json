@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60749",
+  "type": "character",
+  "name": "Lokke",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The god of guile.",
+  "source_sha256": "bbb6aeb9590ab571b854a6ccf0c94ab410bcd2d12fb2743abbb94fbe7a74c868",
+  "translation": "The god of guile.",
+  "vndb_url": "https://vndb.org/c60749"
+}

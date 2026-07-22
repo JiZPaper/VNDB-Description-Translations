@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70952",
+  "type": "character",
+  "name": "Dark Elf Male",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dark elf captured by Jetta during a raid.",
+  "source_sha256": "2f7261053d7fa1a085e8c0662ff15fa7e34b776a0c9aeb2fbb899738cf088ed5",
+  "translation": "A dark elf captured by Jetta during a raid.",
+  "vndb_url": "https://vndb.org/c70952"
+}

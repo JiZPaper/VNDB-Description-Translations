@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148901",
+  "type": "character",
+  "name": "Fafnir",
+  "original_name": "ファフニール",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fafnir's dragon form.",
+  "source_sha256": "dd4e7e4a60e1c73cd037fa664484b867d07d14706f9b551bf354b97d872ab5b1",
+  "translation": "Fafnir's dragon form.",
+  "vndb_url": "https://vndb.org/c148901"
+}

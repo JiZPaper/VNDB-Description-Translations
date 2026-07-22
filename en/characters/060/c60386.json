@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60386",
+  "type": "character",
+  "name": "Sophie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Likes: Cleanliness\nDislikes: Making mistakes",
+  "source_sha256": "d5daf10c60d9e359fd69e09ffef179e7b6acb551446e2e42840243a5ec5473b6",
+  "translation": "Likes: Cleanliness\nDislikes: Making mistakes",
+  "vndb_url": "https://vndb.org/c60386"
+}

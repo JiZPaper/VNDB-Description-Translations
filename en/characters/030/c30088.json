@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30088",
+  "type": "character",
+  "name": "Quinn Lanton",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The main character of this tale, a woman whose curiosity helps her to find the biggest discovery of all time, only to realize she must keep it a secret.\nHer personality can be defined by the player, including dialog and action choices, this will affect the way characters react to her.",
+  "source_sha256": "a8f637c9b8e2bb4f3d78c505a5f220c89179c38d266b85f08da066e0baa3c86d",
+  "translation": "The main character of this tale, a woman whose curiosity helps her to find the biggest discovery of all time, only to realize she must keep it a secret.\nHer personality can be defined by the player, including dialog and action choices, this will affect the way characters react to her.",
+  "vndb_url": "https://vndb.org/c30088"
+}

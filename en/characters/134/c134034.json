@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134034",
+  "type": "character",
+  "name": "Nursery",
+  "original_name": "ナーサリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A child in the village. He is one of Wata's students.",
+  "source_sha256": "e0513e796c79dcae13ca70a97bb0f5049ce66feda27220f1ece93a2b708fa7fe",
+  "translation": "A child in the village. He is one of Wata's students.",
+  "vndb_url": "https://vndb.org/c134034"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75852",
+  "type": "character",
+  "name": "Bear Mascot",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Found at the mall. They can't do anything without Haato's help.",
+  "source_sha256": "e74f12783a72687915a8b2a7c1f17cdb2cf50b854b710ec74647e74db810648e",
+  "translation": "Found at the mall. They can't do anything without Haato's help.",
+  "vndb_url": "https://vndb.org/c75852"
+}

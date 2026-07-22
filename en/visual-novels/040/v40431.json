@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40431",
+  "type": "visual_novel",
+  "name": "Watashi wa Tobira Desu.",
+  "original_name": "私は扉です。",
+  "language": "en",
+  "source_language": "en",
+  "source": "I am the door.\nPlease don't think about going outside.\nYou are happiest here, right where you are.",
+  "source_sha256": "d523c9507718b08d3f42fae96fa51177f727a2efd9d6f8ae59c560c7e896ead7",
+  "translation": "I am the door.\nPlease don't think about going outside.\nYou are happiest here, right where you are.",
+  "vndb_url": "https://vndb.org/v40431"
+}

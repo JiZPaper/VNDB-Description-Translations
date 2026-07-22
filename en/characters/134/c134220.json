@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134220",
+  "type": "character",
+  "name": "Kiki",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She works at a London hotel the hero stays at.",
+  "source_sha256": "c4a9594485c0ebcb98c399a470f8f6a4c9482686c004065ccfd11bae0fac8b9d",
+  "translation": "She works at a London hotel the hero stays at.",
+  "vndb_url": "https://vndb.org/c134220"
+}

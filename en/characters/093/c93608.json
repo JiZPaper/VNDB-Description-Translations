@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93608",
+  "type": "character",
+  "name": "Madam Valerius",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The foster mother of Christine Daae.",
+  "source_sha256": "dd7f498a42213fd1755ea29809397ca9491ca03755f6a51dfdf7575a39f4c566",
+  "translation": "The foster mother of Christine Daae.",
+  "vndb_url": "https://vndb.org/c93608"
+}

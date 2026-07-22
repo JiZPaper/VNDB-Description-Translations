@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c167983",
+  "type": "character",
+  "name": "Yoshida Towa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Paramedic",
+  "source_sha256": "2c7261dd24daad170440598152ae7955a6d0cf78b8d92c5b6932aa243527a1fd",
+  "translation": "Paramedic",
+  "vndb_url": "https://vndb.org/c167983"
+}

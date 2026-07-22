@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25748",
+  "type": "character",
+  "name": "Seychelles",
+  "original_name": "セーシェル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A naive girl from a southern country.",
+  "source_sha256": "70b9c4a820f03824b5e822f2592dde3fa919434a80cc2f07638368efc9bcecaa",
+  "translation": "A naive girl from a southern country.",
+  "vndb_url": "https://vndb.org/c25748"
+}

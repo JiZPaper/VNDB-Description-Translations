@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87084",
+  "type": "character",
+  "name": "Shine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lancelot’s pet lion.",
+  "source_sha256": "49851a1f8bd70f667262d114765ee71e96eb24017af18a6b01f3f30c7d82e4b7",
+  "translation": "Lancelot’s pet lion.",
+  "vndb_url": "https://vndb.org/c87084"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105184",
+  "type": "character",
+  "name": "Mother",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jasper's mother.",
+  "source_sha256": "bc9da4c99f69dde14f7a7b272acbed28a4b4effb41dc837cc7f72308e0f6d6b6",
+  "translation": "Jasper's mother.",
+  "vndb_url": "https://vndb.org/c105184"
+}

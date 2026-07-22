@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17525",
+  "type": "visual_novel",
+  "name": "Sparrow and Woodpecker",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Two sisters of different personalities making their own kimonos.",
+  "source_sha256": "dbfbb2a08b461e75a470fc3afef483f01103910df281c08c199d22aae4cdd0ad",
+  "translation": "Two sisters of different personalities making their own kimonos.",
+  "vndb_url": "https://vndb.org/v17525"
+}

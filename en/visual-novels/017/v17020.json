@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17020",
+  "type": "visual_novel",
+  "name": "Mon Puchi",
+  "original_name": "モンプチ",
+  "language": "en",
+  "source_language": "en",
+  "source": "You're a genius magician that lives in an out of the way town making medicine and leisurely studying magic. One day an adventure comes to visit you. \"I want you to look after them for a while.\" They say, and leave a half elf child in your care.",
+  "source_sha256": "f0301ae587f94c9617371d32a505328d8d03ef8961eef7e168b271c2c60368ea",
+  "translation": "You're a genius magician that lives in an out of the way town making medicine and leisurely studying magic. One day an adventure comes to visit you. \"I want you to look after them for a while.\" They say, and leave a half elf child in your care.",
+  "vndb_url": "https://vndb.org/v17020"
+}

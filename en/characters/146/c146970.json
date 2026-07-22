@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146970",
+  "type": "character",
+  "name": "Elizabeth",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The recently divorced mother of Zoe. She is looking for work.",
+  "source_sha256": "35e4e926f1870df8089b194c14e2112fccb781b96029266d9f849fb790a8c7db",
+  "translation": "The recently divorced mother of Zoe. She is looking for work.",
+  "vndb_url": "https://vndb.org/c146970"
+}

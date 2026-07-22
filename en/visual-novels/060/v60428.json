@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60428",
+  "type": "visual_novel",
+  "name": "Yuukyuu Gensoukyouku ensemble",
+  "original_name": "悠久幻想曲 ensemble",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fandisc with epilogues for each character and additional voices for the supporting characters.",
+  "source_sha256": "fbbf19e62d0df36d64216767b92c4f52486b26e824dcb43485d839a713d1e2c9",
+  "translation": "Fandisc with epilogues for each character and additional voices for the supporting characters.",
+  "vndb_url": "https://vndb.org/v60428"
+}

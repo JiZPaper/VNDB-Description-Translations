@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39723",
+  "type": "visual_novel",
+  "name": "ID Card",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A magic card that changes the owner.",
+  "source_sha256": "8fc041ab4ce7b9436af1df01f98bafb23fe4c0b77f6db4175a109dc03b790cba",
+  "translation": "A magic card that changes the owner.",
+  "vndb_url": "https://vndb.org/v39723"
+}

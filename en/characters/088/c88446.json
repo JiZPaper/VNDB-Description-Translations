@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88446",
+  "type": "character",
+  "name": "Aunt",
+  "original_name": "おばちゃん",
+  "language": "en",
+  "source_language": "en",
+  "source": "A woman who works at a [url=https://en.wikipedia.org/wiki/Soba]Soba[/url] shop in World Import Tower. She is christian. Snake seems to be a regular in her shop.",
+  "source_sha256": "a0cabd9989f73a4c4a0bc503944272d05a43f5ceecdccb5dc2009db08db7fcca",
+  "translation": "A woman who works at a [url=https://en.wikipedia.org/wiki/Soba]Soba[/url] shop in World Import Tower. She is christian. Snake seems to be a regular in her shop.",
+  "vndb_url": "https://vndb.org/c88446"
+}

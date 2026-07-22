@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100448",
+  "type": "character",
+  "name": "Satoshi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A guy that Kyou finds in some app.",
+  "source_sha256": "6a18e1733da976b22d3f25b5b310d0d5905844b2bc2e4c5e3547ab06e9bc8012",
+  "translation": "A guy that Kyou finds in some app.",
+  "vndb_url": "https://vndb.org/c100448"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110823",
+  "type": "character",
+  "name": "Brude",
+  "original_name": "ブルード",
+  "language": "en",
+  "source_language": "en",
+  "source": "Lina's father.",
+  "source_sha256": "df4d565a54e0b8e242f43d02ee17fcb6f052945091f8711d10ce631006657093",
+  "translation": "Lina's father.",
+  "vndb_url": "https://vndb.org/c110823"
+}

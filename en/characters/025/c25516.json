@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25516",
+  "type": "character",
+  "name": "Samantha",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Fictionalized version of the poet [url=http://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge]Samuel Taylor Coleridge[/url].[/spoiler]",
+  "source_sha256": "55e1d5113af6cf8f74c6773dadad41b630fd9c14ee713ef5d71ca10986d55304",
+  "translation": "[spoiler]Fictionalized version of the poet [url=http://en.wikipedia.org/wiki/Samuel_Taylor_Coleridge]Samuel Taylor Coleridge[/url].[/spoiler]",
+  "vndb_url": "https://vndb.org/c25516"
+}

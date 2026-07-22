@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32218",
+  "type": "visual_novel",
+  "name": "Haru o Miageru",
+  "original_name": "春を見上げる",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sequel of \"Yuki o Miageru\".",
+  "source_sha256": "e0715f87bb8196d5d9b1f4a50e173282aa69c7f0bf45cb5f4c97f5492ac07311",
+  "translation": "Sequel of \"Yuki o Miageru\".",
+  "vndb_url": "https://vndb.org/v32218"
+}

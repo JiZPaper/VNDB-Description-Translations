@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60958",
+  "type": "visual_novel",
+  "name": "Hello_World",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Meet August, the brilliant yet irritable scientist, and his mischievous brother, Jasper. Navigate a messy lab, uncover secrets, and learn to control your new body. How far will curiosity take you?\n\n[From [url=https://xuejiangexe.itch.io/hello-world]Itch.io[/url]]",
+  "source_sha256": "e3bf40b2f371155d0a1a0405de00df4d38fbb0885da111fae250496bdf7eabb4",
+  "translation": "Meet August, the brilliant yet irritable scientist, and his mischievous brother, Jasper. Navigate a messy lab, uncover secrets, and learn to control your new body. How far will curiosity take you?\n\n[From [url=https://xuejiangexe.itch.io/hello-world]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v60958"
+}

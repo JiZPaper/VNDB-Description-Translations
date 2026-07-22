@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c164624",
+  "type": "character",
+  "name": "Iida Mao",
+  "original_name": "飯田 真魚",
+  "language": "en",
+  "source_language": "en",
+  "source": "A beautiful announcer at the local TV station.",
+  "source_sha256": "5ed9aa78a913dee38189486c484c0114114ce55caf5798fa6684eba3c6271102",
+  "translation": "A beautiful announcer at the local TV station.",
+  "vndb_url": "https://vndb.org/c164624"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c111153",
+  "type": "character",
+  "name": "Mom",
+  "original_name": "お母さん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mother of the protagonist and his sisters.",
+  "source_sha256": "3f033abdbf933052a696e0ee848935da8b439191a52b71441c3c35756e7466c2",
+  "translation": "Mother of the protagonist and his sisters.",
+  "vndb_url": "https://vndb.org/c111153"
+}

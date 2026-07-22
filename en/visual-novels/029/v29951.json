@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29951",
+  "type": "visual_novel",
+  "name": "CLANNAD Another Story ~Xiwang de Yuzhou~",
+  "original_name": "CLANNAD Another Story ～希望的宇宙～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fan-made digital adaptation of \"CLANNAD: Another Storys 3 - Chiisana Uchuu\", a short story by [url=/s224]Maeda Jun[/url] included in CLANNAD Visual Fan Book.",
+  "source_sha256": "0a5a30abb22235e3d6e39c9abf7ec0c6e70536e827a87b71414f5ea0d9f5b562",
+  "translation": "Fan-made digital adaptation of \"CLANNAD: Another Storys 3 - Chiisana Uchuu\", a short story by [url=/s224]Maeda Jun[/url] included in CLANNAD Visual Fan Book.",
+  "vndb_url": "https://vndb.org/v29951"
+}

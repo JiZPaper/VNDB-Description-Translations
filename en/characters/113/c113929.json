@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113929",
+  "type": "character",
+  "name": "Maia",
+  "original_name": "マイア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Co-pilot of the HSST Riina is piloting.",
+  "source_sha256": "ca7b733744c2b23164d9990ef28ccc1b560b85a7ab3973adbc9f59bc615c598d",
+  "translation": "Co-pilot of the HSST Riina is piloting.",
+  "vndb_url": "https://vndb.org/c113929"
+}

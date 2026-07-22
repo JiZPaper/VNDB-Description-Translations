@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115508",
+  "type": "character",
+  "name": "MingFung",
+  "original_name": "明鋒",
+  "language": "en",
+  "source_language": "en",
+  "source": "The boss of the Over Heaven Society.\nHe instructs Jeff to clean up his own mess.",
+  "source_sha256": "4c0bf9165812991c5fe3eca8d8e472604991b0fbbb6e12e236e91290d04bc767",
+  "translation": "The boss of the Over Heaven Society.\nHe instructs Jeff to clean up his own mess.",
+  "vndb_url": "https://vndb.org/c115508"
+}

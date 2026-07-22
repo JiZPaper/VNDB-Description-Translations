@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33981",
+  "type": "visual_novel",
+  "name": "Occult Rewrite",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A group of students are stranded on an island and forced to battle a curse which is slowly corrupting them.",
+  "source_sha256": "74ea8f83212c3f87a68ea40535995ea6b15e40ddf7f2959d99b059cfe05118a2",
+  "translation": "A group of students are stranded on an island and forced to battle a curse which is slowly corrupting them.",
+  "vndb_url": "https://vndb.org/v33981"
+}

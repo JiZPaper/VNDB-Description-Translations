@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100489",
+  "type": "character",
+  "name": "Natali",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Former Strexa agent, freelancer\nLikes: Clubbing, shopping, kickboxing\nDislikes: Working for others, cooking",
+  "source_sha256": "3ec862ecfd6313483fa89e4899ad38865662ca5bfde8a241b6b57e80f995725f",
+  "translation": "Occupation: Former Strexa agent, freelancer\nLikes: Clubbing, shopping, kickboxing\nDislikes: Working for others, cooking",
+  "vndb_url": "https://vndb.org/c100489"
+}

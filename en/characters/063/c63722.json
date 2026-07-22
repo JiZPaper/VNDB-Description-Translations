@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c63722",
+  "type": "character",
+  "name": "Dad",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Yume's father.",
+  "source_sha256": "0c0148b2a34e4c5a3d93c7de21886b414673c1e094fbc966ae4c92c04aae4ced",
+  "translation": "Yume's father.",
+  "vndb_url": "https://vndb.org/c63722"
+}

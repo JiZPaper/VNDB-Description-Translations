@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45950",
+  "type": "character",
+  "name": "Kyle",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The renowned artist Miyazuki's nephew or niece.",
+  "source_sha256": "01d2343d12c6e87b8dc4a9f28dd2dbdef17fc9cbd96be0a5461e8c907cc65f51",
+  "translation": "The renowned artist Miyazuki's nephew or niece.",
+  "vndb_url": "https://vndb.org/c45950"
+}

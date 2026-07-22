@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90009",
+  "type": "character",
+  "name": "Mel",
+  "original_name": "メル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A homunculus created by the evil priest Quack. Mel is a slaughter doll with no emotion. During battle, Mel's limbs become deformed and weapon-like.",
+  "source_sha256": "501915550fef4ef7e8f09c1acb675d64f32aef0001406432dd1a9ad297f6e354",
+  "translation": "A homunculus created by the evil priest Quack. Mel is a slaughter doll with no emotion. During battle, Mel's limbs become deformed and weapon-like.",
+  "vndb_url": "https://vndb.org/c90009"
+}

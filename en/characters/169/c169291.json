@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169291",
+  "type": "character",
+  "name": "Gake",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The space station's mysterious owner.",
+  "source_sha256": "65cf100a266bb1d6ec074646ec8657cce88ab80d7bb9445c525003e295839fc2",
+  "translation": "The space station's mysterious owner.",
+  "vndb_url": "https://vndb.org/c169291"
+}

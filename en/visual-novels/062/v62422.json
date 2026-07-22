@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62422",
+  "type": "visual_novel",
+  "name": "mirror, mirror",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "a vase full of flowers.\n\n[From [url=https://koloquials.itch.io/mirror-mirror]itch.io[/url]]",
+  "source_sha256": "a13be6a301d48e27e29132bec8cf0fb0cdfcca26f81df0c9417701a1df7cc3a3",
+  "translation": "a vase full of flowers.\n\n[From [url=https://koloquials.itch.io/mirror-mirror]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v62422"
+}

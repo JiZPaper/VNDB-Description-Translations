@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28005",
+  "type": "visual_novel",
+  "name": "Ore no Kioku ni Kanojo wa Inai",
+  "original_name": "俺の記憶にカノジョはいない",
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl appears in front of you, claiming to be your girlfriend. However, you don't remember having ever met her...\n\nA mystery visual novel where the protagonist must find the clues about his missing memory.",
+  "source_sha256": "e052cf3cd0bdbc987f71022e83ea06350600a30a36719c36bf53830c2ce0ac43",
+  "translation": "A girl appears in front of you, claiming to be your girlfriend. However, you don't remember having ever met her...\n\nA mystery visual novel where the protagonist must find the clues about his missing memory.",
+  "vndb_url": "https://vndb.org/v28005"
+}

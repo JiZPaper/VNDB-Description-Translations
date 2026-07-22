@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95135",
+  "type": "character",
+  "name": "Sandra Hernandez",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sandra is a canary and the President of the University of Santa Lucia.",
+  "source_sha256": "5e557206c9ed86725e2b02501cca9bf9391ac2ff7aa3f66528086e63020a04e6",
+  "translation": "Sandra is a canary and the President of the University of Santa Lucia.",
+  "vndb_url": "https://vndb.org/c95135"
+}

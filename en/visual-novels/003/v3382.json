@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3382",
+  "type": "visual_novel",
+  "name": "Limited Humanoid",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Project Lips' entry into the 8th 3-Minute Game Contest.",
+  "source_sha256": "bb3f7fdf5cd6374a29b31b159fb71110b921f851ad7031f145cbb8a1cbabda04",
+  "translation": "Project Lips' entry into the 8th 3-Minute Game Contest.",
+  "vndb_url": "https://vndb.org/v3382"
+}

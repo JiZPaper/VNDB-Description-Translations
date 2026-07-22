@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76532",
+  "type": "character",
+  "name": "Grace",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your best friend since grade school. Thanks to her, you were able to get this job.\n\n[From the start of the game]",
+  "source_sha256": "1fd4875ead1fbeb5ff42f3d782924fdc3abdebae875a073aa22d99a57082deac",
+  "translation": "Your best friend since grade school. Thanks to her, you were able to get this job.\n\n[From the start of the game]",
+  "vndb_url": "https://vndb.org/c76532"
+}

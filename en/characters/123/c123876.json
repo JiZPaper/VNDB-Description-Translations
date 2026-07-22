@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123876",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You're a broke college graduate. Your rich, distant uncle has just shown up and given you 100 million dollars! And right at this moment, four handsome men come into your life. But are they really interested in you, or your money?",
+  "source_sha256": "32e6e9f4e2ea92a95eb0970073661e1d7c5f2f9760ac6ab69cfb3bbbb1c482ff",
+  "translation": "You're a broke college graduate. Your rich, distant uncle has just shown up and given you 100 million dollars! And right at this moment, four handsome men come into your life. But are they really interested in you, or your money?",
+  "vndb_url": "https://vndb.org/c123876"
+}

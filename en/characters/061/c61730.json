@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61730",
+  "type": "character",
+  "name": "Tamer Frust",
+  "original_name": "テイマーフラスト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A monster created by Dr. Ark.\nHe seeks to make everything a victim to his whip.\n\n[Translated from the [url=https://www.alicesoft.com/escalayer/echara.html]official site[/url]]",
+  "source_sha256": "6024d87309e532b884f11207c8493359aa2965a9391bdc8906221fe7ee0a20cf",
+  "translation": "A monster created by Dr. Ark.\nHe seeks to make everything a victim to his whip.\n\n[Translated from the [url=https://www.alicesoft.com/escalayer/echara.html]official site[/url]]",
+  "vndb_url": "https://vndb.org/c61730"
+}

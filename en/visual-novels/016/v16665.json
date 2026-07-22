@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16665",
+  "type": "visual_novel",
+  "name": "Twitch Dates Pokemon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A family-friendly visual novel based off of Twitch Plays Pokemon.",
+  "source_sha256": "8e288983fb66c7870575dddd80845ae0f3d705462f7b2510cee0aadfbed8367d",
+  "translation": "A family-friendly visual novel based off of Twitch Plays Pokemon.",
+  "vndb_url": "https://vndb.org/v16665"
+}

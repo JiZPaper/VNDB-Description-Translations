@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c152908",
+  "type": "character",
+  "name": "Thena Hervenus",
+  "original_name": "테나 헤르베누스",
+  "language": "en",
+  "source_language": "en",
+  "source": "Skill: Precision vibration detection",
+  "source_sha256": "a4bd36a80450042c6df853e4874812195e0843ca73d16f8826a3198c6e205726",
+  "translation": "Skill: Precision vibration detection",
+  "vndb_url": "https://vndb.org/c152908"
+}

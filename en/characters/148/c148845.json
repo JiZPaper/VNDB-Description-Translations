@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148845",
+  "type": "character",
+  "name": "Obi",
+  "original_name": "Оби",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of the game, who at 30 years old looks like 18.",
+  "source_sha256": "3335efcdb939747b776448588d2e0cdce1496ca0e837feca5eac16bb2c354307",
+  "translation": "The protagonist of the game, who at 30 years old looks like 18.",
+  "vndb_url": "https://vndb.org/c148845"
+}

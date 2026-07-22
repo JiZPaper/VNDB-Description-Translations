@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48924",
+  "type": "visual_novel",
+  "name": "Snowbound Snowday",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A university student and a snowman end up swapping bodies.",
+  "source_sha256": "19336321116a91103ff4bcd32de070fbbcacfa030a27ebe1294ff45cc41031f0",
+  "translation": "A university student and a snowman end up swapping bodies.",
+  "vndb_url": "https://vndb.org/v48924"
+}

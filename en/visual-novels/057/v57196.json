@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57196",
+  "type": "visual_novel",
+  "name": "Trust Your Colors",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Stella fangame based on a comic of the same name.\n\n[From [url=https://rentry.co/snootmods#standalone-and-fangames]Snoot Game Mods List[/url]]",
+  "source_sha256": "36fa7ddc190b4007fea2646779d249ea17318ef9806f3cc9bae156b610d75600",
+  "translation": "Stella fangame based on a comic of the same name.\n\n[From [url=https://rentry.co/snootmods#standalone-and-fangames]Snoot Game Mods List[/url]]",
+  "vndb_url": "https://vndb.org/v57196"
+}

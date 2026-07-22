@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50243",
+  "type": "visual_novel",
+  "name": "Ostannya plivka",
+  "original_name": "Остання плівка",
+  "language": "en",
+  "source_language": "en",
+  "source": "You are at a doctor's appointment, and exactly five sessions will help you understand what happened to the main character [b]that[/b] day.\n\n[Translated from [url=https://belowemptyskies.itch.io/thelastrecord]itch.io[/url]]",
+  "source_sha256": "68b634823ce9135712dfd2c997578231552b9b6cf787913f32108c89ed20d198",
+  "translation": "You are at a doctor's appointment, and exactly five sessions will help you understand what happened to the main character [b]that[/b] day.\n\n[Translated from [url=https://belowemptyskies.itch.io/thelastrecord]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v50243"
+}

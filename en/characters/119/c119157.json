@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c119157",
+  "type": "character",
+  "name": "Vodka",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The oldest player. He doesn't value his remaining life much, but he won't give it up for free either.",
+  "source_sha256": "424e8d8fabd58399e18dd39f3f1990a436a6d659f5306eea8113e132fe8fc153",
+  "translation": "The oldest player. He doesn't value his remaining life much, but he won't give it up for free either.",
+  "vndb_url": "https://vndb.org/c119157"
+}

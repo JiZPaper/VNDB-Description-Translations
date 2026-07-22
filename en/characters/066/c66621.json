@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c66621",
+  "type": "character",
+  "name": "Yeon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An owner of a small grocery shop.",
+  "source_sha256": "37a7ef964981e16b7f542ca52ca209fe81b01dab23a163d419bcabbf098955b9",
+  "translation": "An owner of a small grocery shop.",
+  "vndb_url": "https://vndb.org/c66621"
+}

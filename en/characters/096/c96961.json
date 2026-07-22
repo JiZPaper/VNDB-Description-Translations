@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96961",
+  "type": "character",
+  "name": "Clownpiece",
+  "original_name": "クラウンピース",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fairy from Hell",
+  "source_sha256": "cd7e8298867c12f17270539551f2cace7caf9442057d3c9f33cb77e3a39f9663",
+  "translation": "A fairy from Hell",
+  "vndb_url": "https://vndb.org/c96961"
+}

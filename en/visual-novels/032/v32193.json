@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32193",
+  "type": "visual_novel",
+  "name": "Amaoto to Jidou Ningyou Musubi",
+  "original_name": "雨音と自動人形 結",
+  "language": "en",
+  "source_language": "en",
+  "source": "A deadly plague had decimated the human population, leading to widespread collapse of civilization. The remaining humans had banded together and crafted androids in order to help them maintain some semblance of order.\n\nAya, a blind android, spends her days waiting alone at an abandoned bus station. It was during then that she had encountered a man who works in containment.",
+  "source_sha256": "27d448c0ee67ca153595da035a3e84ba2f6ed20e9574a2ee2fadf4c4a44f6ccb",
+  "translation": "A deadly plague had decimated the human population, leading to widespread collapse of civilization. The remaining humans had banded together and crafted androids in order to help them maintain some semblance of order.\n\nAya, a blind android, spends her days waiting alone at an abandoned bus station. It was during then that she had encountered a man who works in containment.",
+  "vndb_url": "https://vndb.org/v32193"
+}

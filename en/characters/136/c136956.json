@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136956",
+  "type": "character",
+  "name": "Mr Coleman",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Geography teacher at Madison High",
+  "source_sha256": "4374bda74a3d9cc3229fb667e651b3c2eb199b1b3fbd2694f63e969d79464a38",
+  "translation": "Geography teacher at Madison High",
+  "vndb_url": "https://vndb.org/c136956"
+}

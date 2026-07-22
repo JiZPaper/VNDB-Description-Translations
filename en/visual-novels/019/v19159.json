@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19159",
+  "type": "visual_novel",
+  "name": "Mist",
+  "original_name": "ミスト",
+  "language": "en",
+  "source_language": "en",
+  "source": "In a town surrounded by a dense fog the protagonist meets a young man.\nWhile spending time in that mist they remember important things that they forgot and feel scared.",
+  "source_sha256": "72f86bd286da3b28f69d90f4f27114dde67a42108fac1163d0d33ae4f6e12f12",
+  "translation": "In a town surrounded by a dense fog the protagonist meets a young man.\nWhile spending time in that mist they remember important things that they forgot and feel scared.",
+  "vndb_url": "https://vndb.org/v19159"
+}

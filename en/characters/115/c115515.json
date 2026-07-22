@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115515",
+  "type": "character",
+  "name": "Jack",
+  "original_name": "杰克",
+  "language": "en",
+  "source_language": "en",
+  "source": "An assassin belonging to the assassination organization \"The Web\".\nHe works with Yuchi.",
+  "source_sha256": "009cc7b5b47866a301c4edf26816364cb9d76d6b0c2c8acbac50758889e0d057",
+  "translation": "An assassin belonging to the assassination organization \"The Web\".\nHe works with Yuchi.",
+  "vndb_url": "https://vndb.org/c115515"
+}

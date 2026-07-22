@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103981",
+  "type": "character",
+  "name": "Violetta",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of the Evergarden Cafe.",
+  "source_sha256": "37c923bfa550e9c1bc0f9cc445b2aca7fc88111609c8f24f6c600ed0e0cb5f28",
+  "translation": "Owner of the Evergarden Cafe.",
+  "vndb_url": "https://vndb.org/c103981"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95434",
+  "type": "character",
+  "name": "Candy Mieux",
+  "original_name": "キャンディ＝ミュー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Vanilla's mother.",
+  "source_sha256": "032d7ab3a0d5ee25eddac0439e1859475aacb146f6f7867dedd475feb3937765",
+  "translation": "Vanilla's mother.",
+  "vndb_url": "https://vndb.org/c95434"
+}

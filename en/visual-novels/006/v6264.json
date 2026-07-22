@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6264",
+  "type": "visual_novel",
+  "name": "Eva no Majo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Conversion from the EP3 Battler vs. Eva-Beatrice battle.\nGame made using sprites from Ougon Musou Kyoku.",
+  "source_sha256": "7bfb4162a04cd870b52a1b4a573649728f99c7f30fe96a2e4b1d901d95eac17b",
+  "translation": "Conversion from the EP3 Battler vs. Eva-Beatrice battle.\nGame made using sprites from Ougon Musou Kyoku.",
+  "vndb_url": "https://vndb.org/v6264"
+}

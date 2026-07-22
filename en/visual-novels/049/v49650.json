@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49650",
+  "type": "visual_novel",
+  "name": "Call call call",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your device is receiving a call.\n\n\"Please return to headquarters immediately.\"\n\n[Edited from [url=https://sogofurikai.itch.io/call-call-call]itch.io[/url]]",
+  "source_sha256": "07b85b3c0f8ca9c476a19e3b4beed961738cda103a30c8b8aabdb335185d54b4",
+  "translation": "Your device is receiving a call.\n\n\"Please return to headquarters immediately.\"\n\n[Edited from [url=https://sogofurikai.itch.io/call-call-call]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v49650"
+}

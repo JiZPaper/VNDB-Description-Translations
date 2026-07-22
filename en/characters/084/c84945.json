@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84945",
+  "type": "character",
+  "name": "Grace",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Grace is Jack's girlfriend.",
+  "source_sha256": "516d36fc8e58113555ec6f93623ef281f1d7b61340b9b1fdfe8c0292be5c4185",
+  "translation": "Grace is Jack's girlfriend.",
+  "vndb_url": "https://vndb.org/c84945"
+}

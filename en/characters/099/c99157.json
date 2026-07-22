@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99157",
+  "type": "character",
+  "name": "Player",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You, the player, have been kidnapped by Jacob, a serial killer. You need to answer his questions correctly so you may have a chance of survival.",
+  "source_sha256": "1d9339be46d3e8aced3c9100b7bc8ea0ca81edb66791a45191951ad5f7430bd0",
+  "translation": "You, the player, have been kidnapped by Jacob, a serial killer. You need to answer his questions correctly so you may have a chance of survival.",
+  "vndb_url": "https://vndb.org/c99157"
+}

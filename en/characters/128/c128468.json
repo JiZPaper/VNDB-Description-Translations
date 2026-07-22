@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c128468",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A coping alcoholic trying to deal with the stress of hunting Chimeras.",
+  "source_sha256": "93c3daca195eee8ce45d8885ddc80564a1176e6a9f4f4a8c6c706e6cdf94103c",
+  "translation": "A coping alcoholic trying to deal with the stress of hunting Chimeras.",
+  "vndb_url": "https://vndb.org/c128468"
+}

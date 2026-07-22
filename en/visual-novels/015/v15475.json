@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15475",
+  "type": "visual_novel",
+  "name": "Doki Majo Plus",
+  "original_name": "どき魔女ぷらす",
+  "language": "en",
+  "source_language": "en",
+  "source": "Despite being billed as the third game in the series, it's really an enhanced retelling of the original DokiMajo game, featuring a revised soundtrack and a new character.",
+  "source_sha256": "b6500332bc95f772966ee7e4dd0a4680ede2684c58c168feafa9b16b755b5fc1",
+  "translation": "Despite being billed as the third game in the series, it's really an enhanced retelling of the original DokiMajo game, featuring a revised soundtrack and a new character.",
+  "vndb_url": "https://vndb.org/v15475"
+}

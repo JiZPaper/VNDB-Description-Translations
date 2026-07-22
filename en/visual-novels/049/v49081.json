@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49081",
+  "type": "visual_novel",
+  "name": "Caspar Datsui Janken Game",
+  "original_name": "カスパル脱衣ジャンケンゲーム",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fire Emblem Three Houses fangame.\n\nPlay Rock-Paper-Scissors with Caspar von Bergliez and try to get him to strip. (Note: There is no nudity)\n\nIncludes auto-win and reset options.",
+  "source_sha256": "477ae89dbd6b1d089845147048b1062e95381de67bb111e81703a354efab8ccd",
+  "translation": "Fire Emblem Three Houses fangame.\n\nPlay Rock-Paper-Scissors with Caspar von Bergliez and try to get him to strip. (Note: There is no nudity)\n\nIncludes auto-win and reset options.",
+  "vndb_url": "https://vndb.org/v49081"
+}

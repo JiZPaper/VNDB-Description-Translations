@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25526",
+  "type": "character",
+  "name": "Andras",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The mayor of the town.",
+  "source_sha256": "32b067061a229f71e18c1a49a00a8886935604e043596253a2a29c90510030c3",
+  "translation": "The mayor of the town.",
+  "vndb_url": "https://vndb.org/c25526"
+}

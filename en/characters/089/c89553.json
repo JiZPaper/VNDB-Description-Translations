@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89553",
+  "type": "character",
+  "name": "Jasper Lane",
+  "original_name": "ジャスパー・レーン",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Inerrant Professional\n\nGuy's Valet.\n\nIndulgence: Rare delicacies\nPastime: Mastering non-magical skills, studying\n\n[From the English app \"Court of Darkness\"]",
+  "source_sha256": "d443104b07c7fec5a1a99b412e8b3c7ba08ddced3f96dc19967b90625ce9fd2a",
+  "translation": "The Inerrant Professional\n\nGuy's Valet.\n\nIndulgence: Rare delicacies\nPastime: Mastering non-magical skills, studying\n\n[From the English app \"Court of Darkness\"]",
+  "vndb_url": "https://vndb.org/c89553"
+}

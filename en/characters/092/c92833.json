@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92833",
+  "type": "character",
+  "name": "Klajv",
+  "original_name": "Клайв",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist who kidnaps Alice.",
+  "source_sha256": "c93d0750f32910d4a2589d8451248e9582238d310af61077abda0b70f5274ead",
+  "translation": "The protagonist who kidnaps Alice.",
+  "vndb_url": "https://vndb.org/c92833"
+}

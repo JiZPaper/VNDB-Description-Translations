@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30945",
+  "type": "character",
+  "name": "Chunchun",
+  "original_name": "チュンチュン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hometown: Koizumi Dormitory\nLikes: Eating\nDislikes: Diets\n\nA sparrow which lives in the dormitory's attic room.",
+  "source_sha256": "58a3b8aa5b9c6171971a7f1d846c476d2fb395aa1514bc8c7675bf43eb7b8cda",
+  "translation": "Hometown: Koizumi Dormitory\nLikes: Eating\nDislikes: Diets\n\nA sparrow which lives in the dormitory's attic room.",
+  "vndb_url": "https://vndb.org/c30945"
+}

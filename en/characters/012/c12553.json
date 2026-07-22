@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12553",
+  "type": "character",
+  "name": "Benvolio Montague",
+  "original_name": "ベンヴォーリオ＝モンタギュー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A relative of [url=/c12547]Romeo's[/url].\nA vampire that wants to reconcile with the humans.\nAfter a long time wandering other countries he has finally come back to Verona.\nHe's cooperating with [url=/c12551]Escalus[/url] on his reconciliation plan.",
+  "source_sha256": "62dbf6166f32b3d2fec281fd19d0fc56abb8f7dec59fc9d6acafe76b4b1129f0",
+  "translation": "A relative of [url=/c12547]Romeo's[/url].\nA vampire that wants to reconcile with the humans.\nAfter a long time wandering other countries he has finally come back to Verona.\nHe's cooperating with [url=/c12551]Escalus[/url] on his reconciliation plan.",
+  "vndb_url": "https://vndb.org/c12553"
+}

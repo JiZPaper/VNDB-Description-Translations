@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c151176",
+  "type": "character",
+  "name": "Leif Erikson",
+  "original_name": "レイフ・エリクソン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A lucky ex-pirate who runs a ranch in a village in the Indies.\n\n\"Well, your luck's up, Billy!\"",
+  "source_sha256": "bbb60560912c50aa90657e55bd8db2dbed8f5bc7262830c695b541d31ccc8061",
+  "translation": "A lucky ex-pirate who runs a ranch in a village in the Indies.\n\n\"Well, your luck's up, Billy!\"",
+  "vndb_url": "https://vndb.org/c151176"
+}

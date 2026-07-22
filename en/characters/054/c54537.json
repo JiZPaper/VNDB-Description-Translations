@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c54537",
+  "type": "character",
+  "name": "Princess Élisabeth",
+  "original_name": "エリザベート王女",
+  "language": "en",
+  "source_language": "en",
+  "source": "Louis XVI's younger sister.",
+  "source_sha256": "2cc5c70b01479dad48e84354e02a81fc737f09dc5bb0237913341997e401d10d",
+  "translation": "Louis XVI's younger sister.",
+  "vndb_url": "https://vndb.org/c54537"
+}

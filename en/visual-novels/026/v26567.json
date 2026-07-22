@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26567",
+  "type": "visual_novel",
+  "name": "Gyakuten Touhou 2",
+  "original_name": "逆転東方2",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sequel to [url=/v13706]Shin Gyakuten Touhou[/url] with four new cases.",
+  "source_sha256": "b73863a78307502ce391fa4dd6f088d3b2c2f5c56cbc1da70b71fd8bb6d2cb87",
+  "translation": "Sequel to [url=/v13706]Shin Gyakuten Touhou[/url] with four new cases.",
+  "vndb_url": "https://vndb.org/v26567"
+}

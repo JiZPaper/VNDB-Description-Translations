@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c58275",
+  "type": "character",
+  "name": "Uncle Zhenya",
+  "original_name": "Дядя Женя",
+  "language": "en",
+  "source_language": "en",
+  "source": "Vendor on Diversant.",
+  "source_sha256": "540e0ba4a2da77aff431cdbcb14d0acda2cf5150fe57e711e5c771fa53092b70",
+  "translation": "Vendor on Diversant.",
+  "vndb_url": "https://vndb.org/c58275"
+}

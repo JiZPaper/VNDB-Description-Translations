@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113150",
+  "type": "character",
+  "name": "Hans",
+  "original_name": "ハンス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A man who took care of [url=https://vndb.org/c20929]Silvio[/url] in his childhood.\n\nHe was apparently a thief in the past and promised to make Silvio his apprentice, although he passed away in Silvio's youth.",
+  "source_sha256": "4525e2e5cc636216df33c530cd549b9ea606374b4be011daae4f34c8af744f2b",
+  "translation": "A man who took care of [url=https://vndb.org/c20929]Silvio[/url] in his childhood.\n\nHe was apparently a thief in the past and promised to make Silvio his apprentice, although he passed away in Silvio's youth.",
+  "vndb_url": "https://vndb.org/c113150"
+}

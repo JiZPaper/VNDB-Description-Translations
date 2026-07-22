@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v854",
+  "type": "visual_novel",
+  "name": "Mizu no Senritsu 2 ~Hi no Kioku~",
+  "original_name": "水の旋律2～緋の記憶～",
+  "language": "en",
+  "source_language": "en",
+  "source": "You take control of Kashiwagi Kira, and examine mysterious cases happening around you with a sword. Text reading style is remained, and \"Battle Mode\" is newly added. Characters from the previous game also appear, including its protagonist Hina.\n\n[From Himeya Shop]",
+  "source_sha256": "65fb05f87aab4593833de0c529d40ffc1e413b216bd33588b3e925cbe75c699d",
+  "translation": "You take control of Kashiwagi Kira, and examine mysterious cases happening around you with a sword. Text reading style is remained, and \"Battle Mode\" is newly added. Characters from the previous game also appear, including its protagonist Hina.\n\n[From Himeya Shop]",
+  "vndb_url": "https://vndb.org/v854"
+}

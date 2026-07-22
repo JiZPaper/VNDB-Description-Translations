@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133818",
+  "type": "character",
+  "name": "Hina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Hina is [url=/c132877]Mia[/url]'s mother.",
+  "source_sha256": "47c5aac76e9eb421e788dae21b8ca278fc24e7216bb029b169977d1c48638cfc",
+  "translation": "Hina is [url=/c132877]Mia[/url]'s mother.",
+  "vndb_url": "https://vndb.org/c133818"
+}

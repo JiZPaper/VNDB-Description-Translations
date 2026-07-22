@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166816",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A nameable protagonist, formerly a college dropout, who now works as a truck driver at MNC Trucking to make a living.",
+  "source_sha256": "8aa2e01a53f5d33f7e5877671faea10dd107a185cbabd6ba8797f8598b455df1",
+  "translation": "A nameable protagonist, formerly a college dropout, who now works as a truck driver at MNC Trucking to make a living.",
+  "vndb_url": "https://vndb.org/c166816"
+}

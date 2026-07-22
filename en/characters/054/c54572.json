@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c54572",
+  "type": "character",
+  "name": "Ah Niu",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of a vegetable stand.",
+  "source_sha256": "919d6b89d6793804eb31cd34887c574ee39ae40278a16a170116776df0ffc6b8",
+  "translation": "The owner of a vegetable stand.",
+  "vndb_url": "https://vndb.org/c54572"
+}

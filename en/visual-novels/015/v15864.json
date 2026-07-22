@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15864",
+  "type": "visual_novel",
+  "name": "Afternoon in Depression",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A glimpse into the life of a girl with depression.",
+  "source_sha256": "7bb93ff7443cb3fea9588a07b1bac22e76eb703e5c239a3fa1d7e49263ef2205",
+  "translation": "A glimpse into the life of a girl with depression.",
+  "vndb_url": "https://vndb.org/v15864"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c151581",
+  "type": "character",
+  "name": "Waiter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Removed after rework.",
+  "source_sha256": "da28e0577c3496b2c3002706e24526f33ca30fe8f09ac202380d74d876aaa168",
+  "translation": "Removed after rework.",
+  "vndb_url": "https://vndb.org/c151581"
+}

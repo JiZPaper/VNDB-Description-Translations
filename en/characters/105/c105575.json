@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105575",
+  "type": "character",
+  "name": "Yasmin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bartender at the local bar.",
+  "source_sha256": "559aedfc0ae7c9965f67617488ac1243c84379b263e4ff545266b8a78a2937d6",
+  "translation": "A bartender at the local bar.",
+  "vndb_url": "https://vndb.org/c105575"
+}

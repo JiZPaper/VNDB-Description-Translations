@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169805",
+  "type": "character",
+  "name": "Customer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An older man who encounters the [url=/c169868]Protagonist[/url] several times, always disapproving of her actions.",
+  "source_sha256": "d611538b994591bd0d976c0e520b824dfdcb4e25b381c5f198fb7c4c1f4e9b33",
+  "translation": "An older man who encounters the [url=/c169868]Protagonist[/url] several times, always disapproving of her actions.",
+  "vndb_url": "https://vndb.org/c169805"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100784",
+  "type": "character",
+  "name": "Julius",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A soldier commanded by Leon and trusted by him.",
+  "source_sha256": "935fd34cb9cdd30cc29e092dcec129ca8ad55eaceee7e71a4b1ef0c809e022e1",
+  "translation": "A soldier commanded by Leon and trusted by him.",
+  "vndb_url": "https://vndb.org/c100784"
+}

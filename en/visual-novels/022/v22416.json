@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22416",
+  "type": "visual_novel",
+  "name": "Freetime Event: Theatrical Release",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "See A Movie With Komaeda Simulator at the theater located on Jabberwock's Third Island.",
+  "source_sha256": "f5f24d5efa71c29a53f579bda4346f3eceffb1f07818d1a3656be90ebb3c2b59",
+  "translation": "See A Movie With Komaeda Simulator at the theater located on Jabberwock's Third Island.",
+  "vndb_url": "https://vndb.org/v22416"
+}

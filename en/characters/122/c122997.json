@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122997",
+  "type": "character",
+  "name": "Carolyn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Carter family pet cat.",
+  "source_sha256": "ea1274b04720c54a75e4cab7b9771d5813c68a5245d45ba8d20f89443a8d6ef3",
+  "translation": "The Carter family pet cat.",
+  "vndb_url": "https://vndb.org/c122997"
+}

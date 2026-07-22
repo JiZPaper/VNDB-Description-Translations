@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115605",
+  "type": "character",
+  "name": "Nat",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Model for Rose",
+  "source_sha256": "59b7185a4f8476c1f04ea8b91812d8fd62173f27c690fd305e71ae7a234b03cb",
+  "translation": "Model for Rose",
+  "vndb_url": "https://vndb.org/c115605"
+}

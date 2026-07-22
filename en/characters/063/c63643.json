@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c63643",
+  "type": "character",
+  "name": "Goons - Boss",
+  "original_name": "極悪組・組長",
+  "language": "en",
+  "source_language": "en",
+  "source": "The leader of the Goons.",
+  "source_sha256": "0c26c2c7d4a6ef4f556cd4b6f21153373c43f5f4e99e8ac44ad7913e65c382eb",
+  "translation": "The leader of the Goons.",
+  "vndb_url": "https://vndb.org/c63643"
+}

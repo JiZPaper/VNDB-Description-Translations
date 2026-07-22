@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120327",
+  "type": "character",
+  "name": "Leia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A hotheaded with an attitude, Leia is the protagonist's not-so-bitter rival.",
+  "source_sha256": "83646f9e6a7d8e020f1432adee81699b13e36a876760bf11b0f318c9a223186d",
+  "translation": "A hotheaded with an attitude, Leia is the protagonist's not-so-bitter rival.",
+  "vndb_url": "https://vndb.org/c120327"
+}

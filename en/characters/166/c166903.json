@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166903",
+  "type": "character",
+  "name": "Nancy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "John’s ex-wife.",
+  "source_sha256": "e782994e63bf5f510f8672ea048cf0f0e382365525f0a270d5e1fffbe7c6b3d3",
+  "translation": "John’s ex-wife.",
+  "vndb_url": "https://vndb.org/c166903"
+}

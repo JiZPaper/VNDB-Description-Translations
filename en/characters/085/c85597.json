@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c85597",
+  "type": "character",
+  "name": "Sabnack",
+  "original_name": "サブナック",
+  "language": "en",
+  "source_language": "en",
+  "source": "A demon once summoned by a certain country to strengthen their military power.",
+  "source_sha256": "0eb9529e8720b1cda56476432d7153f1abf01c2b1c7b9aa161bc0100e3abf7ab",
+  "translation": "A demon once summoned by a certain country to strengthen their military power.",
+  "vndb_url": "https://vndb.org/c85597"
+}

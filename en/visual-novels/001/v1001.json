@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1001",
+  "type": "visual_novel",
+  "name": "CARNIVAL",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "After being arrested for the murder of a fellow student, the protagonist escapes from custody when the police car he's in has an accident. Knowing he will one day be caught again, he decides to spend what little time he has in freedom to try and return a handkerchief.",
+  "source_sha256": "dfbfd9061f877421843243612b1bfbbecfc298bf153e720e256bfefe4a33fa43",
+  "translation": "After being arrested for the murder of a fellow student, the protagonist escapes from custody when the police car he's in has an accident. Knowing he will one day be caught again, he decides to spend what little time he has in freedom to try and return a handkerchief.",
+  "vndb_url": "https://vndb.org/v1001"
+}

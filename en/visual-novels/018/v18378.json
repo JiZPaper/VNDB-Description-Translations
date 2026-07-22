@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18378",
+  "type": "visual_novel",
+  "name": "Naked Blue",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Fandisc of [url=https://vndb.org/v175]Canvas ~Sepia-iro no Motif~[/url], it contains the mini-adventures \"Koi\" and \"Ai\".",
+  "source_sha256": "583f14a7335cd90f2667c57a94a3321765292a9cba3b0ce9a5ae26a1fdf56c5a",
+  "translation": "Fandisc of [url=https://vndb.org/v175]Canvas ~Sepia-iro no Motif~[/url], it contains the mini-adventures \"Koi\" and \"Ai\".",
+  "vndb_url": "https://vndb.org/v18378"
+}

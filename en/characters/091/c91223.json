@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91223",
+  "type": "character",
+  "name": "Simon",
+  "original_name": "シモン",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Myana's loyal guards.\nHe will show up in less than a minute whenever Myana summons him.",
+  "source_sha256": "a9f5fc1cc89f4c008d87cfcadd1209dbc3f1a68f4817e2ea6e52edaa8b579d7a",
+  "translation": "One of Myana's loyal guards.\nHe will show up in less than a minute whenever Myana summons him.",
+  "vndb_url": "https://vndb.org/c91223"
+}

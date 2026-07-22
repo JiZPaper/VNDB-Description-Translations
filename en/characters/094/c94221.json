@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94221",
+  "type": "character",
+  "name": "Miss Cake",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A woman who arrives at the church to ask Festus for advice.",
+  "source_sha256": "d8d0397977385c6f461143aeaabcc2c41e7dd5f8001cbce72399b2bb4f412c8c",
+  "translation": "A woman who arrives at the church to ask Festus for advice.",
+  "vndb_url": "https://vndb.org/c94221"
+}

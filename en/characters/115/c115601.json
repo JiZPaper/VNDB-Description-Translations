@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115601",
+  "type": "character",
+  "name": "Kat",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "MC's roommate/sisterly presence",
+  "source_sha256": "4d31c76fa5906994fe75a94abe2d4e449a66414d26f33f63ca0e9fb8adb9305e",
+  "translation": "MC's roommate/sisterly presence",
+  "vndb_url": "https://vndb.org/c115601"
+}

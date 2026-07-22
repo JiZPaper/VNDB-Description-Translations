@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c107774",
+  "type": "character",
+  "name": "Kyeran",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An affable hermit.",
+  "source_sha256": "f5ff5982779dfd0c53c4f579fd4ac13562bc34b1f085516b0852f2fa4b735cca",
+  "translation": "An affable hermit.",
+  "vndb_url": "https://vndb.org/c107774"
+}

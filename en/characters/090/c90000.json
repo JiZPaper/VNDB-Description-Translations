@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90000",
+  "type": "character",
+  "name": "Maria",
+  "original_name": "マリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "An assassin who is the Guild Master's confidant. She replaces him and manages the guild's business, since the Guild Master is rarely present himself.",
+  "source_sha256": "234a15dfbf840dbd6c767611280d98801047fe8152da3d4ff417a234581e302e",
+  "translation": "An assassin who is the Guild Master's confidant. She replaces him and manages the guild's business, since the Guild Master is rarely present himself.",
+  "vndb_url": "https://vndb.org/c90000"
+}

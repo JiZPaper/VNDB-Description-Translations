@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163972",
+  "type": "character",
+  "name": "Tomoko-san",
+  "original_name": "トモコさん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hiroto's aunt who runs a cat café.",
+  "source_sha256": "b3c30012b6237b54971e7fef938a71456b1240d9a9b72449688fcadfe7e2df4e",
+  "translation": "Hiroto's aunt who runs a cat café.",
+  "vndb_url": "https://vndb.org/c163972"
+}

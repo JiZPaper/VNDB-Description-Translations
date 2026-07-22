@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8025",
+  "type": "character",
+  "name": "Koyuki",
+  "original_name": "小雪",
+  "language": "en",
+  "source_language": "en",
+  "source": "Character type: Yuki-onna.",
+  "source_sha256": "0dd191d1febac5ed5cab4f48bfbf239735632c2ce41696171b7653c14cc69756",
+  "translation": "Character type: Yuki-onna.",
+  "vndb_url": "https://vndb.org/c8025"
+}

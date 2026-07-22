@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95674",
+  "type": "character",
+  "name": "Matsunaga Eiichi",
+  "original_name": "松永 栄一",
+  "language": "en",
+  "source_language": "en",
+  "source": "Dean",
+  "source_sha256": "c3ef22502fa5dd6a8a4ac7125b42aa2958a86a0adfaf9b56369046408c0ab96c",
+  "translation": "Dean",
+  "vndb_url": "https://vndb.org/c95674"
+}

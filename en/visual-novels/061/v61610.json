@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61610",
+  "type": "visual_novel",
+  "name": "Pathways: Navigating Gaming, the Internet and Extremism",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Educational visual novel made as a part of a British Government's program Prevent, which explores harmful content on the internet and aims to discourage young people from following extremist ideas it generates.",
+  "source_sha256": "75a18cd91070df16ee0356fffd83bbfebddf11a9968411eba2da27bf7872981b",
+  "translation": "Educational visual novel made as a part of a British Government's program Prevent, which explores harmful content on the internet and aims to discourage young people from following extremist ideas it generates.",
+  "vndb_url": "https://vndb.org/v61610"
+}

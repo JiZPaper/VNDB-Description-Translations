@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8676",
+  "type": "character",
+  "name": "Hakase",
+  "original_name": "博士",
+  "language": "en",
+  "source_language": "en",
+  "source": "The scientist responsible for the mutated insects and the experiments with them.",
+  "source_sha256": "3b453c34881977bbedc8baf2148e3e623bf84a2c8ea469a5439a268fdf31f7cc",
+  "translation": "The scientist responsible for the mutated insects and the experiments with them.",
+  "vndb_url": "https://vndb.org/c8676"
+}

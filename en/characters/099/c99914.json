@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99914",
+  "type": "character",
+  "name": "Sess",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sess, the \"Narcotics Detective\", is surprisingly sharp-witted.\nNobody knows him too well, because he keeps quiet most of the time.",
+  "source_sha256": "b2358b07784da2f9832358db8e2c29bd761f5a1578bfdd712712931a6fbb5199",
+  "translation": "Sess, the \"Narcotics Detective\", is surprisingly sharp-witted.\nNobody knows him too well, because he keeps quiet most of the time.",
+  "vndb_url": "https://vndb.org/c99914"
+}

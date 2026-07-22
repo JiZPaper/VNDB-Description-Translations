@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75940",
+  "type": "character",
+  "name": "Alti",
+  "original_name": "アルティ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I've grown out of weeping like a child.\"\n\nAn Elven priest. Fights with healing and divine spells.\nBorn blue-blooded and a little bit naive.",
+  "source_sha256": "4a3727da5d8c93b75ba2d2464198c26adbb473efb068e04cef23467eefa87ff7",
+  "translation": "\"I've grown out of weeping like a child.\"\n\nAn Elven priest. Fights with healing and divine spells.\nBorn blue-blooded and a little bit naive.",
+  "vndb_url": "https://vndb.org/c75940"
+}

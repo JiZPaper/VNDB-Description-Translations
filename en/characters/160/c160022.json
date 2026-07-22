@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160022",
+  "type": "character",
+  "name": "Kyorin Kousuke",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Doctor",
+  "source_sha256": "24669ff48290c1875d8067bbd241e8a55444839747bffb8ab99f3a34ef248436",
+  "translation": "Doctor",
+  "vndb_url": "https://vndb.org/c160022"
+}

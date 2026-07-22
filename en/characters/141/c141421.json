@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141421",
+  "type": "character",
+  "name": "Tara",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Student at B&R.\n\nA \"dorm girl\".",
+  "source_sha256": "b76f6323162c66a25903dd7352ec46090b322f1886394645dbc0d64f8436bf4a",
+  "translation": "Student at B&R.\n\nA \"dorm girl\".",
+  "vndb_url": "https://vndb.org/c141421"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65144",
+  "type": "character",
+  "name": "Fairy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Fairy that visits the protagonist in her dreams.",
+  "source_sha256": "43872200d30385d61a3b313897097452db67f16f4337e2916a2a7b70c54a99a5",
+  "translation": "Fairy that visits the protagonist in her dreams.",
+  "vndb_url": "https://vndb.org/c65144"
+}

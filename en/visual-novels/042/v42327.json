@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42327",
+  "type": "visual_novel",
+  "name": "Hearth and Home",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A compendium of recipes, plant care advice, and ways to create comfort for those you love.",
+  "source_sha256": "1f1185669eeaff6293f0243933b4700170e393678b13572da34f068786c61afa",
+  "translation": "A compendium of recipes, plant care advice, and ways to create comfort for those you love.",
+  "vndb_url": "https://vndb.org/v42327"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51544",
+  "type": "character",
+  "name": "Ishizuka",
+  "original_name": "石塚",
+  "language": "en",
+  "source_language": "en",
+  "source": "The leader of the young persons' association in Mikihiko's town.",
+  "source_sha256": "989c0da51c8f6ba255d7e3311fdd399de0e298a0ee0dfa76fbe508bd9008f6aa",
+  "translation": "The leader of the young persons' association in Mikihiko's town.",
+  "vndb_url": "https://vndb.org/c51544"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115494",
+  "type": "character",
+  "name": "Doctor Wu",
+  "original_name": "監察医",
+  "language": "en",
+  "source_language": "en",
+  "source": "Coroner in charge of the autopsy of YanYan's murder.\nHe is also an acquaintance of Yvet.",
+  "source_sha256": "132307d2eac9a70b4558194a5844379fe235c7d8cde2c57ba4eadbde9850d022",
+  "translation": "Coroner in charge of the autopsy of YanYan's murder.\nHe is also an acquaintance of Yvet.",
+  "vndb_url": "https://vndb.org/c115494"
+}

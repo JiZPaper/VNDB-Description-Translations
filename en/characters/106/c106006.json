@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106006",
+  "type": "character",
+  "name": "Drachen",
+  "original_name": "ドラハン",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I don't want to fall anymore. Please close your eyes.\"\n\nA demon.",
+  "source_sha256": "5ba7595cd3e51ab1409862a0b9f1f715fc9444ae1734e53fbbfbd06c4fbd4d52",
+  "translation": "\"I don't want to fall anymore. Please close your eyes.\"\n\nA demon.",
+  "vndb_url": "https://vndb.org/c106006"
+}

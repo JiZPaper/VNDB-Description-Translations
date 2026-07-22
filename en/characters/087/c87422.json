@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87422",
+  "type": "character",
+  "name": "Ghost Host",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is the host of The Haunted Mansion and the one who gives the unnamed protagonist his task of satisfying the three unhappy ghosts.",
+  "source_sha256": "fff430850ea836e9f70532172bae8af5e0dc5db19337127992db33ac36885f46",
+  "translation": "This is the host of The Haunted Mansion and the one who gives the unnamed protagonist his task of satisfying the three unhappy ghosts.",
+  "vndb_url": "https://vndb.org/c87422"
+}

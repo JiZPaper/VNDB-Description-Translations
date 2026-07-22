@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137925",
+  "type": "character",
+  "name": "Ryuuichi",
+  "original_name": "リュウイチ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Private detective with military background.",
+  "source_sha256": "bfa8ed8b14674f025e22d5b95092b367818fb57bb6c1a658f38c9c548992b3f0",
+  "translation": "Private detective with military background.",
+  "vndb_url": "https://vndb.org/c137925"
+}

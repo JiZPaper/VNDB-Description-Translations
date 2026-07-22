@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21756",
+  "type": "visual_novel",
+  "name": "Beach Vacation",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The player controls Floyd, Milena's and Lucy's classmate. He is vacationing at the beach, where he meets the two girls, accompanied by Milena's mother Maela.",
+  "source_sha256": "fa2da20ac987ac27c860a5c66fce6d82fe95c36d1ee0d40bd8e5c268f6ffa435",
+  "translation": "The player controls Floyd, Milena's and Lucy's classmate. He is vacationing at the beach, where he meets the two girls, accompanied by Milena's mother Maela.",
+  "vndb_url": "https://vndb.org/v21756"
+}

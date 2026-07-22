@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76742",
+  "type": "character",
+  "name": "Shiroi Shoujo",
+  "original_name": "白い少女",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious girl in white. She appears, and disappears, like a ghost.",
+  "source_sha256": "2d74da83eb7d4416dbb6cc33de767be9ecd0a2955b03698ac5ea0c3274acb032",
+  "translation": "A mysterious girl in white. She appears, and disappears, like a ghost.",
+  "vndb_url": "https://vndb.org/c76742"
+}

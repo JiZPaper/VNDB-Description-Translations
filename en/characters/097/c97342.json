@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97342",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist is a new student in her senior year attending North Shore High. Her dream is to get into Yale.",
+  "source_sha256": "523a0aca0fb97bb09985e06453c650d38579fce70bd127434431f5904724f608",
+  "translation": "The protagonist is a new student in her senior year attending North Shore High. Her dream is to get into Yale.",
+  "vndb_url": "https://vndb.org/c97342"
+}

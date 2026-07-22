@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63885",
+  "type": "visual_novel",
+  "name": "Bol'she nikakih pisem",
+  "original_name": "Больше никаких писем",
+  "language": "en",
+  "source_language": "en",
+  "source": "A rewrite of the [url=/v63307]Pis'ma Alisy[/url] that explores how things could've gone differently if the characters had acted more rationally.",
+  "source_sha256": "6edb3618c1f7b40254f811cef529dc623856d9cbf3055ac44bdfce089598ab8d",
+  "translation": "A rewrite of the [url=/v63307]Pis'ma Alisy[/url] that explores how things could've gone differently if the characters had acted more rationally.",
+  "vndb_url": "https://vndb.org/v63885"
+}

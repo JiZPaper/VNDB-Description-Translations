@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47979",
+  "type": "character",
+  "name": "Venom",
+  "original_name": "ヴェノム",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious man that sometimes appears before the protagonist's group.\nIt seems he knows stuff about them but...",
+  "source_sha256": "5cc4d317450e434521c3f4f3830904d0dc2b554e33fc6dc4a3eb19f8c9a61639",
+  "translation": "A mysterious man that sometimes appears before the protagonist's group.\nIt seems he knows stuff about them but...",
+  "vndb_url": "https://vndb.org/c47979"
+}

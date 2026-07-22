@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30008",
+  "type": "visual_novel",
+  "name": "Eila's Story",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A story of Eila Ilmatar Juutilainen from Strike Witches.",
+  "source_sha256": "01897bd1f9a5b456f09ae7e4049f11bb14c18d841f61ca9030ad4da426f18811",
+  "translation": "A story of Eila Ilmatar Juutilainen from Strike Witches.",
+  "vndb_url": "https://vndb.org/v30008"
+}

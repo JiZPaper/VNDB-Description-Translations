@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169855",
+  "type": "character",
+  "name": "Dominic",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A diner clerk and an associate of [url=/c169817]Vincent Marchetti[/url].",
+  "source_sha256": "43377bfa67a0f9c4ac37476493f031e08f572179c5cef5e3b0eca8961cbca11a",
+  "translation": "A diner clerk and an associate of [url=/c169817]Vincent Marchetti[/url].",
+  "vndb_url": "https://vndb.org/c169855"
+}

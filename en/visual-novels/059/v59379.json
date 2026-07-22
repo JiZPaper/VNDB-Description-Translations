@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59379",
+  "type": "visual_novel",
+  "name": "Joou no Tsue to Toraware no Shoujo",
+  "original_name": "女王の杖と囚われの少女",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mini-game in the style of an adventure book, a “fantasy” world version of Amagami.",
+  "source_sha256": "f6d9a775f8ebbdf06d6ab538e44f82e0f26b0b441fc6a31e6fbe6e05f548aae6",
+  "translation": "A mini-game in the style of an adventure book, a “fantasy” world version of Amagami.",
+  "vndb_url": "https://vndb.org/v59379"
+}

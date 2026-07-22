@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19000",
+  "type": "visual_novel",
+  "name": "New Rituals",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel about roommates. Created for Global Game Jam.",
+  "source_sha256": "fdb815cad236b246b172c3bd79d5dc4bd78535de3e1ded89c988778020cee237",
+  "translation": "A short visual novel about roommates. Created for Global Game Jam.",
+  "vndb_url": "https://vndb.org/v19000"
+}

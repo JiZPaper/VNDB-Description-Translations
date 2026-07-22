@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c52124",
+  "type": "character",
+  "name": "Sakurako",
+  "original_name": "桜子",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sells Nami to you.",
+  "source_sha256": "d591b014e2cbe7cb65089863f97fec7266cdc8cbc564d6809e956e567f4ddd8a",
+  "translation": "Sells Nami to you.",
+  "vndb_url": "https://vndb.org/c52124"
+}

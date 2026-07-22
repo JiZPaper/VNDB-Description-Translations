@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79023",
+  "type": "character",
+  "name": "Dennis",
+  "original_name": "デニス",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's younger step brother.",
+  "source_sha256": "b6cb85f51c31186a57c7083bf28af7cfa127104a88d94ea6ef66cb0a0b69d52c",
+  "translation": "The protagonist's younger step brother.",
+  "vndb_url": "https://vndb.org/c79023"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42600",
+  "type": "character",
+  "name": "Vendetta",
+  "original_name": "ヴェンデッタ",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Aliases: Eurydice no β, Eurydice no beta, Artemis.[/spoiler]",
+  "source_sha256": "6c3d512caad7e1bf449da2e82590389c4912cbca400d57c1b3571882508a9965",
+  "translation": "[spoiler]Aliases: Eurydice no β, Eurydice no beta, Artemis.[/spoiler]",
+  "vndb_url": "https://vndb.org/c42600"
+}

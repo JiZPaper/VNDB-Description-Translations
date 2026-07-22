@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172239",
+  "type": "character",
+  "name": "Bruce",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "University's bullies",
+  "source_sha256": "7e4176ae2276db5d5232b1dbc612f10e27ebccb58c50999314b4db7539101ba0",
+  "translation": "University's bullies",
+  "vndb_url": "https://vndb.org/c172239"
+}

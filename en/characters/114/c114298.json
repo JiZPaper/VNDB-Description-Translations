@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c114298",
+  "type": "character",
+  "name": "Parker",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Ashburn family's butler.",
+  "source_sha256": "da165306fbdba75673d7957bfef51f3d3ea2cecd37ff2983d8e9bb6263fb4ac0",
+  "translation": "The Ashburn family's butler.",
+  "vndb_url": "https://vndb.org/c114298"
+}

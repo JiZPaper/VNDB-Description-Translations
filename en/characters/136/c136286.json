@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136286",
+  "type": "character",
+  "name": "Leonardo Da Vinci",
+  "original_name": "レオナルド・ダ・ヴィンチ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A main character in the event \"Naked Love\".",
+  "source_sha256": "d3dbae4eff83e3dc22729e6fe7e1e33c0722b95c5fc89eaf3b416bcb1f31eadb",
+  "translation": "A main character in the event \"Naked Love\".",
+  "vndb_url": "https://vndb.org/c136286"
+}

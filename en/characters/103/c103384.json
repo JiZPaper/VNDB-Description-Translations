@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103384",
+  "type": "character",
+  "name": "Emma",
+  "original_name": "エマ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A sleepyhead priest who spends most of her time sleeping even during confession.",
+  "source_sha256": "586f80e77ba703d805de41e43cd23b06801485098f3a950a89c15d2cbbdc4410",
+  "translation": "A sleepyhead priest who spends most of her time sleeping even during confession.",
+  "vndb_url": "https://vndb.org/c103384"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71022",
+  "type": "character",
+  "name": "Isoara",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A tavern wench.",
+  "source_sha256": "e4be1869a91ef230510a8120391bbf29771e601bfa739059e8ed723e0f042e32",
+  "translation": "A tavern wench.",
+  "vndb_url": "https://vndb.org/c71022"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65481",
+  "type": "visual_novel",
+  "name": "REAP",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "REAP is a suspenseful interactive fiction set in 1991 China, when the whole nation is spiraling upward while you—a man who doesn't even remember his own name—fall from a cliff into an unknown village.\n\nThe villagers are kind, but there are still things you find not normal. Will you be able to find your redemption, or do you not need redemption at all?\n\nThe game is currently just a prototype. Please note that you may encounter awkward English phrasing, incomplete scenes, and bugs.",
+  "source_sha256": "e53f9f86fc382d5f9c88c8e3f3b08137ad96cf1d592ce3d262ee76b6d6ba9d5f",
+  "translation": "REAP is a suspenseful interactive fiction set in 1991 China, when the whole nation is spiraling upward while you—a man who doesn't even remember his own name—fall from a cliff into an unknown village.\n\nThe villagers are kind, but there are still things you find not normal. Will you be able to find your redemption, or do you not need redemption at all?\n\nThe game is currently just a prototype. Please note that you may encounter awkward English phrasing, incomplete scenes, and bugs.",
+  "vndb_url": "https://vndb.org/v65481"
+}

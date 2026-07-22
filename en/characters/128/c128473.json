@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c128473",
+  "type": "character",
+  "name": "Kiri",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Kiri, the secret agent, somehow related to the Silver Magician.",
+  "source_sha256": "0697ee651d98157e68dc99d6805db1bbd3ef269d41ffc83f60c7dd627f40e086",
+  "translation": "Kiri, the secret agent, somehow related to the Silver Magician.",
+  "vndb_url": "https://vndb.org/c128473"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87915",
+  "type": "character",
+  "name": "Diana",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The professor of Chemistry.",
+  "source_sha256": "4d46db2d51987b6566fe9a5dc8a082b184a2d40203709a4ba37d157e6f212e09",
+  "translation": "The professor of Chemistry.",
+  "vndb_url": "https://vndb.org/c87915"
+}

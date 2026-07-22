@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122698",
+  "type": "character",
+  "name": "Spot",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the Diamond dogs.",
+  "source_sha256": "5dcb7d78ac5a9af3218cd7a93aa06c70c5a121bc44a09900c08c8f5eeaf7998e",
+  "translation": "One of the Diamond dogs.",
+  "vndb_url": "https://vndb.org/c122698"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25150",
+  "type": "visual_novel",
+  "name": "GameBook DS Aquarian Age Perpetual Period",
+  "original_name": "ゲームブックDS アクエリアンエイジ Perpetual Period",
+  "language": "en",
+  "source_language": "en",
+  "source": "Visual novel adaptation of the TGC game Aquarian Age Perpetual Period.",
+  "source_sha256": "b7c6a567c284b0965ddf18b5170c2754e091957175863851e1dd0b744a25769c",
+  "translation": "Visual novel adaptation of the TGC game Aquarian Age Perpetual Period.",
+  "vndb_url": "https://vndb.org/v25150"
+}

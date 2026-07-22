@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c158185",
+  "type": "character",
+  "name": "Ida",
+  "original_name": "イーダ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Noa's mother. She left home when Noah was still a small child.",
+  "source_sha256": "b3dd8bcb4e105c7755cc154de2512d10e849dcded60eb322b7634608e4dc7a1a",
+  "translation": "Noa's mother. She left home when Noah was still a small child.",
+  "vndb_url": "https://vndb.org/c158185"
+}

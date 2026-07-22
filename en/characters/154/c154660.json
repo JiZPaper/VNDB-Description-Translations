@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154660",
+  "type": "character",
+  "name": "Remy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The queen's champion.",
+  "source_sha256": "e62d462f4212a205ebdc09372094c7bb6358ac3a433a0619083e776ee2f2ec13",
+  "translation": "The queen's champion.",
+  "vndb_url": "https://vndb.org/c154660"
+}

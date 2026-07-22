@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5134",
+  "type": "visual_novel",
+  "name": "My Sister, My Strength",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fan story for Kana: Little Sister, continuing the game after the Ending 1 ('The First Farewell').",
+  "source_sha256": "cf01787c971647609373834550d68d9a5b889f4e3ab954b50edfcef77dee1e7a",
+  "translation": "A fan story for Kana: Little Sister, continuing the game after the Ending 1 ('The First Farewell').",
+  "vndb_url": "https://vndb.org/v5134"
+}

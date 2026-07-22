@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c86218",
+  "type": "character",
+  "name": "Unknown",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious survivor who takes refuge in the shopping center from the zombies.",
+  "source_sha256": "6e249e214ff54c3caa926a88aa3aaa95a7a946abc5b9afe39f333748b1c5ec1d",
+  "translation": "A mysterious survivor who takes refuge in the shopping center from the zombies.",
+  "vndb_url": "https://vndb.org/c86218"
+}

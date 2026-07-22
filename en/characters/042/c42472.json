@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42472",
+  "type": "character",
+  "name": "Cait Sith",
+  "original_name": "ケット・シー",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Ruen's familiars.\nHis specialty is search and pursuit.\nA reliable guy who is easy to get along with and follows orders.\nHe can disguise himself as a normal cat.",
+  "source_sha256": "d3315356a1803f3c0b66918dac957b58d00afa6035deb92a081ce10c8ed13349",
+  "translation": "One of Ruen's familiars.\nHis specialty is search and pursuit.\nA reliable guy who is easy to get along with and follows orders.\nHe can disguise himself as a normal cat.",
+  "vndb_url": "https://vndb.org/c42472"
+}

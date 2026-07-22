@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36750",
+  "type": "character",
+  "name": "Meriela",
+  "original_name": "メリエーラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "An alchemist girl who inherited a workshop from her grandmother.",
+  "source_sha256": "1b1ca4727a6f2dace77920fd66c6eff8529f036bcb5e7d972989be62797b0bcc",
+  "translation": "An alchemist girl who inherited a workshop from her grandmother.",
+  "vndb_url": "https://vndb.org/c36750"
+}

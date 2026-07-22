@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37431",
+  "type": "character",
+  "name": "Bernstein",
+  "original_name": "バーンスタイン",
+  "language": "en",
+  "source_language": "en",
+  "source": "King of the City of Commerce Dynas.",
+  "source_sha256": "305d369d1188dc4d4b6b5b38bb0d5de0de3e132b7cd0cc6de64473caf36fdbbf",
+  "translation": "King of the City of Commerce Dynas.",
+  "vndb_url": "https://vndb.org/c37431"
+}

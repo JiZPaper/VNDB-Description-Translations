@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103523",
+  "type": "character",
+  "name": "Katherine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bob's and Mary's daughter.",
+  "source_sha256": "a0353ecb669053dee2cfd076f385b68ecfe6ef055daa95cb21089d9b97243a2e",
+  "translation": "Bob's and Mary's daughter.",
+  "vndb_url": "https://vndb.org/c103523"
+}

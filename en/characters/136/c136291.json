@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136291",
+  "type": "character",
+  "name": "Not Me",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An alternate future version of the \"Me\" (the protagonist)",
+  "source_sha256": "2f11070e336b24ab9e988e74c578235f83de372dff05c6143b31b135759c2f43",
+  "translation": "An alternate future version of the \"Me\" (the protagonist)",
+  "vndb_url": "https://vndb.org/c136291"
+}

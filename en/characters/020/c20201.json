@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20201",
+  "type": "character",
+  "name": "An'yu",
+  "original_name": "安由",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious stranger who appears as a guest. Like Micaiah, he has psychic powers but unlike her, can use it to kill people. He calls himself the \"Messiah\".",
+  "source_sha256": "91c68f96c83008b7d6b4d3013691bb379388ad9a5b0bc75fa3d5b6ed2d166773",
+  "translation": "A mysterious stranger who appears as a guest. Like Micaiah, he has psychic powers but unlike her, can use it to kill people. He calls himself the \"Messiah\".",
+  "vndb_url": "https://vndb.org/c20201"
+}

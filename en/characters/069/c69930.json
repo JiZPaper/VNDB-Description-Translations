@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c69930",
+  "type": "character",
+  "name": "Ikuta Mutsumi",
+  "original_name": "生田 六実",
+  "language": "en",
+  "source_language": "en",
+  "source": "A resident of room 101 in Kae's apartment building.",
+  "source_sha256": "f3be0b21b5c26c8399a987e04c1ec27ca07c324873bb0685b3b165d3e6b93617",
+  "translation": "A resident of room 101 in Kae's apartment building.",
+  "vndb_url": "https://vndb.org/c69930"
+}

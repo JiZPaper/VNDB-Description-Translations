@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46640",
+  "type": "visual_novel",
+  "name": "Love Island",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel about my wife and I getting married.\n\n[From [url=https://kidarthur.itch.io/love-island]itch.io[/url]]",
+  "source_sha256": "dc41fe6de88294ff467c00c5809d89b360cd89b76e52362bf75657bd548acaf8",
+  "translation": "A short visual novel about my wife and I getting married.\n\n[From [url=https://kidarthur.itch.io/love-island]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v46640"
+}

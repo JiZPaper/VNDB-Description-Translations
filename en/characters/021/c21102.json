@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21102",
+  "type": "character",
+  "name": "Jerry",
+  "original_name": "ジェリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Tom's partner in crime. He'll sometimes lose his right mind and start shooting at random, which is extremely troublesome for his partner.",
+  "source_sha256": "7a29ec9b53e581cbb1ec1e4c5ba790aaa62327719320bf3d26a0c151de3e2de0",
+  "translation": "Tom's partner in crime. He'll sometimes lose his right mind and start shooting at random, which is extremely troublesome for his partner.",
+  "vndb_url": "https://vndb.org/c21102"
+}

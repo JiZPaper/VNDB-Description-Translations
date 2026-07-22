@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95668",
+  "type": "character",
+  "name": "Cue",
+  "original_name": "キュー",
+  "language": "en",
+  "source_language": "en",
+  "source": "An animal found and named by Latchia.\nAppears to understand human language.\nLatchia feels mysteriously nostalgic when they first meet.",
+  "source_sha256": "c8f382774719837288f8ed17be15cfef7cb6062c5957a67d14104c2cf7b601a5",
+  "translation": "An animal found and named by Latchia.\nAppears to understand human language.\nLatchia feels mysteriously nostalgic when they first meet.",
+  "vndb_url": "https://vndb.org/c95668"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1310",
+  "type": "visual_novel",
+  "name": "Dyogrammaton",
+  "original_name": "ジオグラマトン",
+  "language": "en",
+  "source_language": "en",
+  "source": "2005 A.D., Tokyo. Monsters have appeared, destroying any human traces indiscriminately. As a counter-measure, a special intercepting force called DAKT was created.\nThis is the story of these urban fighting robot units.",
+  "source_sha256": "978d6fbb8cafcffdcedbd97bb702b6993452d39ad2367ddaffd5c93c7cda0caa",
+  "translation": "2005 A.D., Tokyo. Monsters have appeared, destroying any human traces indiscriminately. As a counter-measure, a special intercepting force called DAKT was created.\nThis is the story of these urban fighting robot units.",
+  "vndb_url": "https://vndb.org/v1310"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44435",
+  "type": "visual_novel",
+  "name": "The Circular Ruins",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on the short story with the same name \"The Circular Ruins\" of Jorge Luis Borges - a masterpiece of surrealism or magic surrealism.",
+  "source_sha256": "143fc1cb7980faac0a04174e36e23b9c76fafc61b167df1aaab8efed50a36890",
+  "translation": "Based on the short story with the same name \"The Circular Ruins\" of Jorge Luis Borges - a masterpiece of surrealism or magic surrealism.",
+  "vndb_url": "https://vndb.org/v44435"
+}

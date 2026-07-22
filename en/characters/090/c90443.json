@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90443",
+  "type": "character",
+  "name": "Felix Adelsdarto",
+  "original_name": "フェリクス＝アデルスダート－",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Instrument tuner.",
+  "source_sha256": "8fafbe6cb8c9b3893bcbedb6e7f0b3ab7f0065cfec4a23bdb627e3982c1917b7",
+  "translation": "Occupation: Instrument tuner.",
+  "vndb_url": "https://vndb.org/c90443"
+}

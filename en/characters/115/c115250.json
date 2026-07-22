@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115250",
+  "type": "character",
+  "name": "\"You\"",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A master's student in psychology. The topic of your master's thesis is \"judgment and decision making.\"\n\n\"Are you going to do a case conceptualization?\"",
+  "source_sha256": "bc1c9a7177141215c9748424a6402a58c12d3a8907e42c543d0194cbb5d24b9d",
+  "translation": "A master's student in psychology. The topic of your master's thesis is \"judgment and decision making.\"\n\n\"Are you going to do a case conceptualization?\"",
+  "vndb_url": "https://vndb.org/c115250"
+}

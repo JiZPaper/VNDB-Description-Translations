@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110710",
+  "type": "character",
+  "name": "Roxanne",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "- Daughter of [url=/c110781]Crystal[/url].\n- Cousin of [url=/c111308]Clyde[/url].",
+  "source_sha256": "f381311b472cc04d4515b76ae5c4ba6f8af7c368f64e36c98cb482edfd960d94",
+  "translation": "- Daughter of [url=/c110781]Crystal[/url].\n- Cousin of [url=/c111308]Clyde[/url].",
+  "vndb_url": "https://vndb.org/c110710"
+}

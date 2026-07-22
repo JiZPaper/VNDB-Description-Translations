@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45893",
+  "type": "character",
+  "name": "Lethis",
+  "original_name": "レーティス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious person that is in love with [url=/c45871]Diana[/url] and suddenly kidnaps her.\n\n[Only capturable if playing as Diana]",
+  "source_sha256": "d1e31cd7e652412453389a8e7446f96a93ff23a0b184fbf090a4a50d6ccbe373",
+  "translation": "A mysterious person that is in love with [url=/c45871]Diana[/url] and suddenly kidnaps her.\n\n[Only capturable if playing as Diana]",
+  "vndb_url": "https://vndb.org/c45893"
+}

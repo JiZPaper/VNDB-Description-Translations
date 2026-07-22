@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140192",
+  "type": "character",
+  "name": "Jan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lexi's Manager",
+  "source_sha256": "2ad57b9b3239c2aab2b5d0a203aed106d30dde6630ced9b390e93984a8ebb2d1",
+  "translation": "Lexi's Manager",
+  "vndb_url": "https://vndb.org/c140192"
+}

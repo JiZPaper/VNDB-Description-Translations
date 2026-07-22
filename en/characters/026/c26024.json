@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c26024",
+  "type": "character",
+  "name": "Dayo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "a human that can fly",
+  "source_sha256": "5570bfd981ea84ba0a3e2460845b057d2295b5acec2ea2e0412c7a11f199e683",
+  "translation": "a human that can fly",
+  "vndb_url": "https://vndb.org/c26024"
+}

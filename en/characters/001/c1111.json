@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c1111",
+  "type": "character",
+  "name": "Midou Haori",
+  "original_name": "巳堂 羽織",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hobbies: Reading (Manga), collecting books.",
+  "source_sha256": "0819e93652b5ff14b3ccbc25fd9f133dad74a5ec9e86e9723ac466284a7311f4",
+  "translation": "Hobbies: Reading (Manga), collecting books.",
+  "vndb_url": "https://vndb.org/c1111"
+}

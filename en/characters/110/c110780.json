@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110780",
+  "type": "character",
+  "name": "Consuela Martinez",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mother of [url=/c110706]Camila Martinez[/url].",
+  "source_sha256": "039dc9fab84c5ee6fc8caf75b76ce03822250f7413286df6eeddaca38c9937d9",
+  "translation": "Mother of [url=/c110706]Camila Martinez[/url].",
+  "vndb_url": "https://vndb.org/c110780"
+}

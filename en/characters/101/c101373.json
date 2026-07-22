@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101373",
+  "type": "character",
+  "name": "Mochi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Shiori's pet that appears during Yuri's route.",
+  "source_sha256": "fe44d1b4afeb56327cc94c4cd37db847317a05ceaff4172bde8a788cda41c891",
+  "translation": "Shiori's pet that appears during Yuri's route.",
+  "vndb_url": "https://vndb.org/c101373"
+}

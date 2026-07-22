@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148959",
+  "type": "character",
+  "name": "Angela Hawthorne",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Personal assistant to Director Kellin.",
+  "source_sha256": "ec04e7e3ebf399256a1b5b3310114239acfab262f958a6db6932e9c81a2922bb",
+  "translation": "Personal assistant to Director Kellin.",
+  "vndb_url": "https://vndb.org/c148959"
+}

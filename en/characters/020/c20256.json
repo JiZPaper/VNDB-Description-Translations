@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20256",
+  "type": "character",
+  "name": "Vegemite",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The puppy Sally rescued.",
+  "source_sha256": "7449761263959be71105c8f8fcaf57ff2601353e120379ccd313bf060e28687d",
+  "translation": "The puppy Sally rescued.",
+  "vndb_url": "https://vndb.org/c20256"
+}

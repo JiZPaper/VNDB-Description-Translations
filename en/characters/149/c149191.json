@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c149191",
+  "type": "character",
+  "name": "Jessica",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The nurse at the MC's academy.",
+  "source_sha256": "7e3b703043caf496d2a390d73d83f8d5672c136e8f6c9ee371b6239ef6ac3bca",
+  "translation": "The nurse at the MC's academy.",
+  "vndb_url": "https://vndb.org/c149191"
+}

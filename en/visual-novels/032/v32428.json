@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32428",
+  "type": "visual_novel",
+  "name": "Kaidan Restaurant - Ura Menu 100-sen",
+  "original_name": "怪談レストラン 裏メニュー100選",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on the hit children book series and anime.",
+  "source_sha256": "2c1c7ae22f5f275b7e84b50f57fe5da78f5ed5d42d6e2f7a693ff038936a834d",
+  "translation": "Based on the hit children book series and anime.",
+  "vndb_url": "https://vndb.org/v32428"
+}

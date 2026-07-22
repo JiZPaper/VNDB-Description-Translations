@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c10166",
+  "type": "character",
+  "name": "Leia",
+  "original_name": "レイア",
+  "language": "en",
+  "source_language": "en",
+  "source": "The main heroine of the first game. Her name was never mentioned in the first game, she was simply referred to as Valkyrie. She was captured by Duke.\n\nIn the second game her name is revealed to be Leia.",
+  "source_sha256": "631ce93fcd58d4485910446c9522bad9e6ae52ee2333b27bba984ff5cf19fe7a",
+  "translation": "The main heroine of the first game. Her name was never mentioned in the first game, she was simply referred to as Valkyrie. She was captured by Duke.\n\nIn the second game her name is revealed to be Leia.",
+  "vndb_url": "https://vndb.org/c10166"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c56199",
+  "type": "character",
+  "name": "Marigold",
+  "original_name": "マリーゴールド",
+  "language": "en",
+  "source_language": "en",
+  "source": "A field fairy that brings the Fairy Queen's ring to Edgar and tries to convince him to marry the Fairy Queen.",
+  "source_sha256": "e87031f1d125d76dcbcf1bd541572a206829aed36ec4962249222a1f79dbaaf7",
+  "translation": "A field fairy that brings the Fairy Queen's ring to Edgar and tries to convince him to marry the Fairy Queen.",
+  "vndb_url": "https://vndb.org/c56199"
+}

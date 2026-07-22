@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c8007",
+  "type": "character",
+  "name": "Paru",
+  "original_name": "パル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Character type: Cowgirl = girl in a cow costume, who also acts like a cow... Moo moo.",
+  "source_sha256": "e0b1fb87c9429b3d6ad5b4b3d36036f54c7f44ee3e88aaad1aece2e6e5fe03a5",
+  "translation": "Character type: Cowgirl = girl in a cow costume, who also acts like a cow... Moo moo.",
+  "vndb_url": "https://vndb.org/c8007"
+}

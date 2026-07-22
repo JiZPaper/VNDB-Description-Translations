@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165729",
+  "type": "character",
+  "name": "Anne",
+  "original_name": "アンネ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Appears in the 1st Scenario",
+  "source_sha256": "1d043e9660bb9bfd24b2bc8a1c9128090174921a79d076a02e8df4d9bf5560d4",
+  "translation": "Appears in the 1st Scenario",
+  "vndb_url": "https://vndb.org/c165729"
+}

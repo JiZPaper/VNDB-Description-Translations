@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54457",
+  "type": "visual_novel",
+  "name": "Iseijin Kara no Okurimono",
+  "original_name": "異星人からの贈り物",
+  "language": "en",
+  "source_language": "en",
+  "source": "Encountering and interacting with aliens.\nThrough interaction with aliens, one changes.",
+  "source_sha256": "e9364ef46429c9e9281f9aa76140d8da063b07ac62de6b2f5397aab6ab3bd922",
+  "translation": "Encountering and interacting with aliens.\nThrough interaction with aliens, one changes.",
+  "vndb_url": "https://vndb.org/v54457"
+}

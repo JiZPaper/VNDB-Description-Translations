@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112198",
+  "type": "character",
+  "name": "Emma",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the 'house girls' at the Carnations Club.",
+  "source_sha256": "4de3efa75394987374d28b9542d5c50a3f6e0f6aa066eb54c6dd57cdb5b582fc",
+  "translation": "One of the 'house girls' at the Carnations Club.",
+  "vndb_url": "https://vndb.org/c112198"
+}

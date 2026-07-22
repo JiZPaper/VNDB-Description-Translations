@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42659",
+  "type": "visual_novel",
+  "name": "danganronpa komahina love",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A date between Nagito and Hajime.",
+  "source_sha256": "2814a568727a9e70e234557837fe1185d6d69a1db930f7e76eab0f7580dfb1d6",
+  "translation": "A date between Nagito and Hajime.",
+  "vndb_url": "https://vndb.org/v42659"
+}

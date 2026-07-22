@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99594",
+  "type": "character",
+  "name": "Valdo Klein",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A wandering artist. He is accompanied by his buddy Popo.",
+  "source_sha256": "fb8bf4ee92e65caa275770b3cd744207f2e50474195d121ae60c1f65951e071c",
+  "translation": "A wandering artist. He is accompanied by his buddy Popo.",
+  "vndb_url": "https://vndb.org/c99594"
+}

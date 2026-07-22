@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155035",
+  "type": "character",
+  "name": "Principal Ivy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The school principal. She is strict and always worried about the school's finances.",
+  "source_sha256": "7fa5a9933f363b139b8591ec80da4a5cb1a133455456a39c3fbf058bd8ea49e1",
+  "translation": "The school principal. She is strict and always worried about the school's finances.",
+  "vndb_url": "https://vndb.org/c155035"
+}

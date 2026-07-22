@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29069",
+  "type": "character",
+  "name": "Genzan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A powerful shaman, worshiped as a god by the local villagers.",
+  "source_sha256": "869d22d43e4f8f84b11a3dd415e62c5b6f45c0045cf417328714b44ffcdea57f",
+  "translation": "A powerful shaman, worshiped as a god by the local villagers.",
+  "vndb_url": "https://vndb.org/c29069"
+}

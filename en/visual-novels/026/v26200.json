@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26200",
+  "type": "visual_novel",
+  "name": "Akai Himegoto",
+  "original_name": "紅い秘めごと",
+  "language": "en",
+  "source_language": "en",
+  "source": "An isolated village.\nResidents of this village live in fear of the threat of beasts. \nCan you protect your loved ones? \nLove adventure where one secret calls a tragedy.",
+  "source_sha256": "5e5823ddb576685fb2ca795e48aa3bde24852f70837fd1b4390d0041c6df1f91",
+  "translation": "An isolated village.\nResidents of this village live in fear of the threat of beasts. \nCan you protect your loved ones? \nLove adventure where one secret calls a tragedy.",
+  "vndb_url": "https://vndb.org/v26200"
+}

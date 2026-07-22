@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c7123",
+  "type": "character",
+  "name": "Nagomi",
+  "original_name": "和",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious girl that Minato met one night.",
+  "source_sha256": "2c764e629a3fb647939ffc1a3347c7c91fd0686457b0df0ecb6428f99b3c8d8d",
+  "translation": "A mysterious girl that Minato met one night.",
+  "vndb_url": "https://vndb.org/c7123"
+}

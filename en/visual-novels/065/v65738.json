@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65738",
+  "type": "visual_novel",
+  "name": "Duality (AF)",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "April fools short game based on the original.",
+  "source_sha256": "9cc213e693f7ca8573c2f23ad1c30f27afa9c93984a372d57398f659d519e5cf",
+  "translation": "April fools short game based on the original.",
+  "vndb_url": "https://vndb.org/v65738"
+}

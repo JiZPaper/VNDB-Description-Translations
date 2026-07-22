@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60117",
+  "type": "visual_novel",
+  "name": "Lucky Stars",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You’ve become the manager of a rock band of furry bad boys called Lucky. They’re notorious for being difficult to work with. Can you handle them?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "86822e16f98d350f8a55a43b86b9488436973e866b756f05379ca52eeb9bcc20",
+  "translation": "You’ve become the manager of a rock band of furry bad boys called Lucky. They’re notorious for being difficult to work with. Can you handle them?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "vndb_url": "https://vndb.org/v60117"
+}

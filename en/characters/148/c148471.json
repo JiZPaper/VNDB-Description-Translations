@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148471",
+  "type": "character",
+  "name": "Aivin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She works at a tavern.",
+  "source_sha256": "fafd495d762fc2db3f2a9b0b9284bd647be9d4b986a944bfbd0d3c83c75b79cd",
+  "translation": "She works at a tavern.",
+  "vndb_url": "https://vndb.org/c148471"
+}

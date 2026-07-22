@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19481",
+  "type": "visual_novel",
+  "name": "Fukakachi Soroban",
+  "original_name": "フカカチソロバン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short BL visual novel about a real estate agent and a candy store owner.",
+  "source_sha256": "fe2d21136a0c61cde30d5b0b4158a5c133c056ca7303cf76115958b6ab88bcda",
+  "translation": "A short BL visual novel about a real estate agent and a candy store owner.",
+  "vndb_url": "https://vndb.org/v19481"
+}

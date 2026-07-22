@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c43489",
+  "type": "character",
+  "name": "Mother",
+  "original_name": "マザー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Babysitter robot that brought up Ryunosuke.",
+  "source_sha256": "6703a45c2b1e1cac0b26f64b3c5f5a18157b203b16d22f11c49882a2a170bcfb",
+  "translation": "Babysitter robot that brought up Ryunosuke.",
+  "vndb_url": "https://vndb.org/c43489"
+}

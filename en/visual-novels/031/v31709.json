@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31709",
+  "type": "visual_novel",
+  "name": "NicoRonpa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A non-profit fan game based on Danganronpa, NicoB, and the Picky Penguin Community.\n\n16 talented high-schoolers suddenly find themselves captured aboard the mysterious S.S. LP by the maniacal Monoguin and forced into a death game with a simple rule: murder one of your classmates to escape, without getting caught.",
+  "source_sha256": "80f2918a3b04115b46015d2cf2000a093212b408c302c60071417d9ef5e18322",
+  "translation": "A non-profit fan game based on Danganronpa, NicoB, and the Picky Penguin Community.\n\n16 talented high-schoolers suddenly find themselves captured aboard the mysterious S.S. LP by the maniacal Monoguin and forced into a death game with a simple rule: murder one of your classmates to escape, without getting caught.",
+  "vndb_url": "https://vndb.org/v31709"
+}

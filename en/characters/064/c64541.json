@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64541",
+  "type": "character",
+  "name": "Susie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Tom and Carrie's older sister. She works as a waitress and has a boyfriend.",
+  "source_sha256": "3433290e98c5409108cff9c8cde44062ffae14809762dca05e40f972786ec621",
+  "translation": "Tom and Carrie's older sister. She works as a waitress and has a boyfriend.",
+  "vndb_url": "https://vndb.org/c64541"
+}

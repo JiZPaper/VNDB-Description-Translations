@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93444",
+  "type": "character",
+  "name": "William Moore",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A professor at the university.",
+  "source_sha256": "29a226272a0137ef9cfca53b6ce38449ed6a4722f8cebcbaae56e2f43eca65d6",
+  "translation": "A professor at the university.",
+  "vndb_url": "https://vndb.org/c93444"
+}

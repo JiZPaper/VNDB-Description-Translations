@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73437",
+  "type": "character",
+  "name": "Senior Gardener",
+  "original_name": "庭師の先輩",
+  "language": "en",
+  "source_language": "en",
+  "source": "An experienced gardener who took Ricardo under his wing.",
+  "source_sha256": "31c6ae4e26060bec48490eafa6ef2e107766ad690535c17fb97479fe2b7cf627",
+  "translation": "An experienced gardener who took Ricardo under his wing.",
+  "vndb_url": "https://vndb.org/c73437"
+}

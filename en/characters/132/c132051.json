@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132051",
+  "type": "character",
+  "name": "Toggy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Map maker of Hazy woods.",
+  "source_sha256": "21bc84b4d7fe02fedea86e95ebc318e3799f057ce1bc1342b76c8edec7b6567f",
+  "translation": "Map maker of Hazy woods.",
+  "vndb_url": "https://vndb.org/c132051"
+}

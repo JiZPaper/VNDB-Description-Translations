@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c104933",
+  "type": "character",
+  "name": "Laslo",
+  "original_name": "Ласло",
+  "language": "en",
+  "source_language": "en",
+  "source": "Shimon's grandson.",
+  "source_sha256": "522c78ebad2c6230bb17bbecc2e387c8644208e393982f79c71a3b820d5a11bc",
+  "translation": "Shimon's grandson.",
+  "vndb_url": "https://vndb.org/c104933"
+}

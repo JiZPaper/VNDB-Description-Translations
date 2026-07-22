@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38407",
+  "type": "character",
+  "name": "Somari",
+  "original_name": "ソマリ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"If I find another wonderful place again, you'll be the first to know.\"\nA boy who works as a courier.\nHe's bright and kind and wants to support Niina however he can.",
+  "source_sha256": "d7f67a53960a6cdaf3f62827dff3062e29c1d49d8d36fae17cdde225ba79dec1",
+  "translation": "\"If I find another wonderful place again, you'll be the first to know.\"\nA boy who works as a courier.\nHe's bright and kind and wants to support Niina however he can.",
+  "vndb_url": "https://vndb.org/c38407"
+}

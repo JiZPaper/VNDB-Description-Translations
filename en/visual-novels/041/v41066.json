@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41066",
+  "type": "visual_novel",
+  "name": "I can't draw, but I tried",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Short funny Visual Novel with bad visuals, but great humor.",
+  "source_sha256": "5b2c4f52474ae966b34eef7841161597a85a4971c10758c2161b07fcf6465fb9",
+  "translation": "Short funny Visual Novel with bad visuals, but great humor.",
+  "vndb_url": "https://vndb.org/v41066"
+}

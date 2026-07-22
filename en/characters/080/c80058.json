@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c80058",
+  "type": "character",
+  "name": "Mittsu Deluxe",
+  "original_name": "ミッツ・デラックス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A member of the broadcast club.",
+  "source_sha256": "9d33420f380664b6cc43896a5c4e5344d8a5b89fc0afbd5b425bf255ceeb1180",
+  "translation": "A member of the broadcast club.",
+  "vndb_url": "https://vndb.org/c80058"
+}

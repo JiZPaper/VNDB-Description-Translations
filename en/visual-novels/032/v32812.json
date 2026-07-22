@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32812",
+  "type": "visual_novel",
+  "name": "Inugamike no Ichizoku",
+  "original_name": "犬神家の一族",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mystery visual novel by FromSoftware, starring the famous Japanese detective Kindaichi Kousuke. In 1940s Japan, the wealthy head of the Inugami Clan dies, setting off a chain of bizarre, gruesome murders. Detective Kindaichi must unravel the clan’s terrible secrets of forbidden liaisons, monstrous cruelty, and disguised identities to find the murderer.",
+  "source_sha256": "474ef9096ee05f5734eb1f29c589b14d962596bfc8f3b3fdc0b75dc2b888d7b9",
+  "translation": "A mystery visual novel by FromSoftware, starring the famous Japanese detective Kindaichi Kousuke. In 1940s Japan, the wealthy head of the Inugami Clan dies, setting off a chain of bizarre, gruesome murders. Detective Kindaichi must unravel the clan’s terrible secrets of forbidden liaisons, monstrous cruelty, and disguised identities to find the murderer.",
+  "vndb_url": "https://vndb.org/v32812"
+}

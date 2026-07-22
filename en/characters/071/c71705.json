@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71705",
+  "type": "character",
+  "name": "Doctor",
+  "original_name": "医者",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's doctor.",
+  "source_sha256": "02074df2c6bbfc4cf65a1e5f3f906b4e4184681ea126585bc1a8fd7fe76fbd93",
+  "translation": "The protagonist's doctor.",
+  "vndb_url": "https://vndb.org/c71705"
+}

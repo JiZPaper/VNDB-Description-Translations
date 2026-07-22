@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29059",
+  "type": "character",
+  "name": "Haibane Kaoru",
+  "original_name": "灰羽 カオル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Instrument: Vocals",
+  "source_sha256": "b1e3109eb9339a11b48bd7c9898e97aee87542520ca712fc2a63ed92e4eed397",
+  "translation": "Instrument: Vocals",
+  "vndb_url": "https://vndb.org/c29059"
+}

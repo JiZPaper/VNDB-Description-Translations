@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96493",
+  "type": "character",
+  "name": "Nelly Blanc",
+  "original_name": "ネリー・ブラン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fortune-teller from Balunrain who can see the past and the future with Geist's eyes.",
+  "source_sha256": "f2099a9e1b1cecd05f32ccdf59a0f6569106d5818881fb400d1330150265a1f4",
+  "translation": "A fortune-teller from Balunrain who can see the past and the future with Geist's eyes.",
+  "vndb_url": "https://vndb.org/c96493"
+}

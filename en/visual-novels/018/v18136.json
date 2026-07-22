@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18136",
+  "type": "visual_novel",
+  "name": "Birdy World",
+  "original_name": "バーディーワールド",
+  "language": "en",
+  "source_language": "en",
+  "source": "Birdy World is a collection of 3 games from Birdy Soft. None of them were released separate from this compilation. The three games are as follows:\n\nSugoroku Game\nPal 2\nJoker Parody Demo",
+  "source_sha256": "4f5ab3a186ae5744ab6027450bfda241b4084a2e99ce7bd0ef91d4220c3926f8",
+  "translation": "Birdy World is a collection of 3 games from Birdy Soft. None of them were released separate from this compilation. The three games are as follows:\n\nSugoroku Game\nPal 2\nJoker Parody Demo",
+  "vndb_url": "https://vndb.org/v18136"
+}

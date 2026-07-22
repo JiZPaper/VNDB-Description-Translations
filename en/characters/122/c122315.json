@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122315",
+  "type": "character",
+  "name": "Santa Claus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An old guy who gives presents to good kids each year.",
+  "source_sha256": "a53085963a3571a33d0bcbf8af95ab1fe265d9378f1eac75fbef0435d34656fa",
+  "translation": "An old guy who gives presents to good kids each year.",
+  "vndb_url": "https://vndb.org/c122315"
+}

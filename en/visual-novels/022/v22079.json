@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22079",
+  "type": "visual_novel",
+  "name": "Space Explorers",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An astronaut awakes after blacking out on a space mission gone awry, in a world where no one recognizes him.\n\n[From Steam (removed)]",
+  "source_sha256": "0528c12f7b1fd4d734de79dec01d6cf2bbe2b662d6e29317045130ca1fcedcc7",
+  "translation": "An astronaut awakes after blacking out on a space mission gone awry, in a world where no one recognizes him.\n\n[From Steam (removed)]",
+  "vndb_url": "https://vndb.org/v22079"
+}

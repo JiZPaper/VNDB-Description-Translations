@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92384",
+  "type": "character",
+  "name": "Mia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young woman who works at AppSir,inc.",
+  "source_sha256": "766c1aa3c34545496fc480e90016b63620bc6bacddaa55225cfd0ef06309345d",
+  "translation": "A young woman who works at AppSir,inc.",
+  "vndb_url": "https://vndb.org/c92384"
+}

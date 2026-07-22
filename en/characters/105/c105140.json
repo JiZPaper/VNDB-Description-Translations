@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105140",
+  "type": "character",
+  "name": "Serving demon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A minor demon in the service of his liege, the Demon Lord.",
+  "source_sha256": "2604f82db6482677afedf019b8c3e25d84a9d9b18eb0279b0eecfcb4481ecc01",
+  "translation": "A minor demon in the service of his liege, the Demon Lord.",
+  "vndb_url": "https://vndb.org/c105140"
+}

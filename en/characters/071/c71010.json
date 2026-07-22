@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71010",
+  "type": "character",
+  "name": "Alice Satie",
+  "original_name": "アリス＝サーティ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Left-handed\nHobby: Alley gardening\nLoves: Fried bun\nHates: Rich people\nFavorite Color: Orange",
+  "source_sha256": "19b1a2d9a7d61b8a05d9605a0b16febbf674f4bf3124eb8a525c243b9d419088",
+  "translation": "Left-handed\nHobby: Alley gardening\nLoves: Fried bun\nHates: Rich people\nFavorite Color: Orange",
+  "vndb_url": "https://vndb.org/c71010"
+}

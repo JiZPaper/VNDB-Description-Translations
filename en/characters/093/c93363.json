@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93363",
+  "type": "character",
+  "name": "Gregory",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A ghoul working for Sophie Langley. His duties include driving her car.",
+  "source_sha256": "c0c8172c164a4f2666e8f4151ea46e9f2c0364c29121909fa53ec4eca8fb4023",
+  "translation": "A ghoul working for Sophie Langley. His duties include driving her car.",
+  "vndb_url": "https://vndb.org/c93363"
+}

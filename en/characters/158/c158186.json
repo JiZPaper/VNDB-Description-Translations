@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c158186",
+  "type": "character",
+  "name": "Klaus Müller",
+  "original_name": "クラウス・ミューラー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A man whose name was written on the back of an old photo left by Leonard.",
+  "source_sha256": "6417edfce89f35ea4331f70691515eef29a75407d6e43ef331291c4747a4ebc6",
+  "translation": "A man whose name was written on the back of an old photo left by Leonard.",
+  "vndb_url": "https://vndb.org/c158186"
+}

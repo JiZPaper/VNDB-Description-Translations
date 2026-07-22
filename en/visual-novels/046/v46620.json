@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46620",
+  "type": "visual_novel",
+  "name": "Ken's Closet",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ken and Ken have a good time in Ken's Closet. An Barbieverse fangame!",
+  "source_sha256": "c4e717b415bc757a47c1a152aa1ad1e335ebfa3936f08aa1d35257002487e455",
+  "translation": "Ken and Ken have a good time in Ken's Closet. An Barbieverse fangame!",
+  "vndb_url": "https://vndb.org/v46620"
+}

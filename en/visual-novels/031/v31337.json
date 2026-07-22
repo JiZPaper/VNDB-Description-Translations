@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31337",
+  "type": "visual_novel",
+  "name": "Gacha Gacha",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Collect 3 sets of cute figures with your host, Brady, the gacha machine object head!\n[From [url=https://potentialforart.itch.io/gachagacha]itch.io[/url]]",
+  "source_sha256": "041d021c1c3695710319d1b9aa61f23f32a605209b8f8fe4c8866324be923ea4",
+  "translation": "Collect 3 sets of cute figures with your host, Brady, the gacha machine object head!\n[From [url=https://potentialforart.itch.io/gachagacha]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v31337"
+}

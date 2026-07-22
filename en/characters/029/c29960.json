@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29960",
+  "type": "character",
+  "name": "Patrick",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Senator Healy's assistant.",
+  "source_sha256": "904da84f5e4304342a799c35691f539109247f18192848519d2f150a904090f9",
+  "translation": "Senator Healy's assistant.",
+  "vndb_url": "https://vndb.org/c29960"
+}

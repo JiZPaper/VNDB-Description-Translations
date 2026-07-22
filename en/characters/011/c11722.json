@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11722",
+  "type": "character",
+  "name": "Maru",
+  "original_name": "マル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hinano's pet and mascot of the Hiiragi house.",
+  "source_sha256": "0ca20feadadcbe0b339e420e91cc0e733e793244b5458cd19d07bfab2832c9af",
+  "translation": "Hinano's pet and mascot of the Hiiragi house.",
+  "vndb_url": "https://vndb.org/c11722"
+}

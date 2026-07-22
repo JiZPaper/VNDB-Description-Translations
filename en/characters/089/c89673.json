@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89673",
+  "type": "character",
+  "name": "Astrid",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A lifeguard, new on the job, that took service for a few days now.",
+  "source_sha256": "bc71ecb454e8eb67c02e0e97dfd47ef5b04cec78885fed21ff7f0561483890e4",
+  "translation": "A lifeguard, new on the job, that took service for a few days now.",
+  "vndb_url": "https://vndb.org/c89673"
+}

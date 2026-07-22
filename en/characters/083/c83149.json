@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c83149",
+  "type": "character",
+  "name": "Corone",
+  "original_name": "コロネ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A [url=https://en.wikipedia.org/wiki/Little_penguin]fairy penguin[/url] and the mascot character of the cafeteria Premiere.",
+  "source_sha256": "3cd908f2e89d83bc85945c5b05817a9ba0c2d7763ec0e62b163bad6427226f5b",
+  "translation": "A [url=https://en.wikipedia.org/wiki/Little_penguin]fairy penguin[/url] and the mascot character of the cafeteria Premiere.",
+  "vndb_url": "https://vndb.org/c83149"
+}

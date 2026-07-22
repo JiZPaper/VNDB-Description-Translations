@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c167966",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An office worker who got caught up in a snow storm after their tire went flat.\n\nThe custom protagonist.",
+  "source_sha256": "4d9ea09f9b4e2de3c83e52d7b26ad7376c89854726975fa3a38246df6411ab96",
+  "translation": "An office worker who got caught up in a snow storm after their tire went flat.\n\nThe custom protagonist.",
+  "vndb_url": "https://vndb.org/c167966"
+}

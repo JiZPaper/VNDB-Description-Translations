@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38796",
+  "type": "character",
+  "name": "Misty Cat",
+  "original_name": "ミスティキャット",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Now then, run away anywhere you wanna! I'll teleport next to you in 2 seconds.\"\n\nA round-eyed psychic (Misty Cat).",
+  "source_sha256": "02b84eb80eb42c045a55f8e3e2d23e1d5a0083d0ede73aa9f46287c6d172579a",
+  "translation": "\"Now then, run away anywhere you wanna! I'll teleport next to you in 2 seconds.\"\n\nA round-eyed psychic (Misty Cat).",
+  "vndb_url": "https://vndb.org/c38796"
+}

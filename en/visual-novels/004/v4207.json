@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4207",
+  "type": "visual_novel",
+  "name": "Strana Snezhinok: Ledjanoe serdce",
+  "original_name": "Страна Снежинок: Ледяное сердце",
+  "language": "en",
+  "source_language": "en",
+  "source": "Two brothers are captured in the magic world. Will they find the way to get back to their homeworld?",
+  "source_sha256": "65b14eeee98636d1edf5a8c65d3ceb00c646dcb04b0f417f7a62f8b48d187ee1",
+  "translation": "Two brothers are captured in the magic world. Will they find the way to get back to their homeworld?",
+  "vndb_url": "https://vndb.org/v4207"
+}

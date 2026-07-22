@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28106",
+  "type": "visual_novel",
+  "name": "Creature Get!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "There are many creatures in this world. Most of them are still undiscovered.​",
+  "source_sha256": "7ecdb4c2434d7bca8343139501514ccaf85499eaa8f30b67c1fef31f5266f0ba",
+  "translation": "There are many creatures in this world. Most of them are still undiscovered.​",
+  "vndb_url": "https://vndb.org/v28106"
+}

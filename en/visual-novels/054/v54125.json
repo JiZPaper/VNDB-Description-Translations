@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54125",
+  "type": "visual_novel",
+  "name": "Laboratornaja krysa",
+  "original_name": "Лабораторная крыса",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short free time novel about a rat and two scientists. Gustaff is the one who created a real beast-like man out of a little rat. Henry is Gustaff's assistant. He has a great interest in Rat, which does not end well for the Subject.",
+  "source_sha256": "f39afd0637d519408c4755e721d73cf88c524e6e2a072dc9b608493365df54c6",
+  "translation": "A short free time novel about a rat and two scientists. Gustaff is the one who created a real beast-like man out of a little rat. Henry is Gustaff's assistant. He has a great interest in Rat, which does not end well for the Subject.",
+  "vndb_url": "https://vndb.org/v54125"
+}

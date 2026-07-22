@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c129059",
+  "type": "character",
+  "name": "Yoshino",
+  "original_name": "ヨシノ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A baseball team member who is good at sports.",
+  "source_sha256": "414d0cfc382a1409795e7ec6312ea5dd9083512ed48b50eeddb2c5c2cd21b33d",
+  "translation": "A baseball team member who is good at sports.",
+  "vndb_url": "https://vndb.org/c129059"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134775",
+  "type": "character",
+  "name": "Zira",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Seraph soldier of Kemeq.",
+  "source_sha256": "907fd28b8fd65331c8fc7cc6cd34364a16cc25ede218ee171a25d66272b48501",
+  "translation": "Seraph soldier of Kemeq.",
+  "vndb_url": "https://vndb.org/c134775"
+}

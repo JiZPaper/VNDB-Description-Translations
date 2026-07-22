@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31169",
+  "type": "visual_novel",
+  "name": "Convergence",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "It is the present. World War III has been averted. Claire, a time traveler, only has to live out the rest of her days as an ordinary citizen.",
+  "source_sha256": "c84a9743979979d99991366890d943872fc205b7c8315bdcab143b70b06bce29",
+  "translation": "It is the present. World War III has been averted. Claire, a time traveler, only has to live out the rest of her days as an ordinary citizen.",
+  "vndb_url": "https://vndb.org/v31169"
+}

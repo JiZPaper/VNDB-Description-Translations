@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45557",
+  "type": "visual_novel",
+  "name": "￭￭ o Agenai to Derarenai Heya",
+  "original_name": "■■をあげないと出られない部屋",
+  "language": "en",
+  "source_language": "en",
+  "source": "Each of the rooms cannot be exited unless one gives ****. Please choose the correct room to enter and try to escape without the protagonist running out of energy.\n\n[Translated from [url=https://www.freem.ne.jp/win/game/15592]Freem![/url]]",
+  "source_sha256": "fcb6679833bec3e978003365017892eaa18a3f837b061ebbb3c75ec81caa972a",
+  "translation": "Each of the rooms cannot be exited unless one gives ****. Please choose the correct room to enter and try to escape without the protagonist running out of energy.\n\n[Translated from [url=https://www.freem.ne.jp/win/game/15592]Freem![/url]]",
+  "vndb_url": "https://vndb.org/v45557"
+}

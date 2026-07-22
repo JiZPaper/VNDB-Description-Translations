@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98116",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Student working to graduate from Ahroy Academy.",
+  "source_sha256": "6fe762358bf647d82b2d95c2dd13fc9a0d745ef742bbfb005b408639d116f44c",
+  "translation": "Student working to graduate from Ahroy Academy.",
+  "vndb_url": "https://vndb.org/c98116"
+}

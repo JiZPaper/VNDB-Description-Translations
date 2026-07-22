@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c59221",
+  "type": "character",
+  "name": "Koukou Kyoushi",
+  "original_name": "高校教師",
+  "language": "en",
+  "source_language": "en",
+  "source": "Teaches high school",
+  "source_sha256": "e2fb0ecc3b953f6564a5b99e2f3c1a2377ee41260fd80f354befa239f84c9b37",
+  "translation": "Teaches high school",
+  "vndb_url": "https://vndb.org/c59221"
+}

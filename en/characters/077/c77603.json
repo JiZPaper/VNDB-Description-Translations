@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c77603",
+  "type": "character",
+  "name": "Levy",
+  "original_name": "レヴィ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Alive Class: \"Navigator\"",
+  "source_sha256": "335082da806449474b0c4ca7dc040087d748e0d0136cfd205344b33f285889e9",
+  "translation": "Alive Class: \"Navigator\"",
+  "vndb_url": "https://vndb.org/c77603"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127943",
+  "type": "character",
+  "name": "El Skeleton",
+  "original_name": "エル・スケルトン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A skeleton alien at Astarot's side.",
+  "source_sha256": "0d89d9ad5c03e5c39c6add38f5101f3d092ed371b95d9d9199e2d5ab9ed5345b",
+  "translation": "A skeleton alien at Astarot's side.",
+  "vndb_url": "https://vndb.org/c127943"
+}

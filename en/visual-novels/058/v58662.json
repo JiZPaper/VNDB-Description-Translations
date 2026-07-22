@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58662",
+  "type": "visual_novel",
+  "name": "Proschalnoje pis'mo",
+  "original_name": "Прощальное письмо",
+  "language": "en",
+  "source_language": "en",
+  "source": "The story is inspired by the history of Imperial Yuryev University. Scattered throughout the game are hidden “easter eggs” — click on them to uncover fascinating facts about Voronezh State University and its people.",
+  "source_sha256": "ed43e60f2dc8e6f168597678137ca961d78d35e5bf198ac4d5f4bebb08be816a",
+  "translation": "The story is inspired by the history of Imperial Yuryev University. Scattered throughout the game are hidden “easter eggs” — click on them to uncover fascinating facts about Voronezh State University and its people.",
+  "vndb_url": "https://vndb.org/v58662"
+}

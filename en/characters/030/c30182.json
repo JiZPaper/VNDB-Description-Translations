@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30182",
+  "type": "character",
+  "name": "Raven",
+  "original_name": "レイヴン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kyou's familiar.",
+  "source_sha256": "51b29c1bcb750f51969a2bddc95d326b1b2487bcd77f09dc21f5978189c69dac",
+  "translation": "Kyou's familiar.",
+  "vndb_url": "https://vndb.org/c30182"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95327",
+  "type": "character",
+  "name": "Asahi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Anime club vice president.",
+  "source_sha256": "c41c964256287f3e2d8545c2f563fa41c53a2a91aa7bffa273856fa089797672",
+  "translation": "Anime club vice president.",
+  "vndb_url": "https://vndb.org/c95327"
+}

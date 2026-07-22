@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25924",
+  "type": "visual_novel",
+  "name": "The Adelaide Inn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An innkeeper and his wife are struggling with a debt, so he devises a plan to sell his wife to well-paying customers.",
+  "source_sha256": "55744904b94692a949bc11b44955623ec97c0ca8e7d450ed922a73654f8ce298",
+  "translation": "An innkeeper and his wife are struggling with a debt, so he devises a plan to sell his wife to well-paying customers.",
+  "vndb_url": "https://vndb.org/v25924"
+}

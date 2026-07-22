@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c668",
+  "type": "character",
+  "name": "Anna",
+  "original_name": "杏奈",
+  "language": "en",
+  "source_language": "en",
+  "source": "A superhuman that appears from the future.",
+  "source_sha256": "93d426c7bf267d436c130442f75ad6c3f55fd150ac7ccd4f78269fa7edf499bf",
+  "translation": "A superhuman that appears from the future.",
+  "vndb_url": "https://vndb.org/c668"
+}

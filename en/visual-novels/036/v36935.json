@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36935",
+  "type": "visual_novel",
+  "name": "Deer Befriending That's Gravity Bending",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel about befriending a magical deer.",
+  "source_sha256": "1b2d7ded40c275b763dbe9bf50fd550efbd39fc5741fe158a56ed203e34a67d8",
+  "translation": "A visual novel about befriending a magical deer.",
+  "vndb_url": "https://vndb.org/v36935"
+}

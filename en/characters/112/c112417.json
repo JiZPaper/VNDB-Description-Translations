@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112417",
+  "type": "character",
+  "name": "Mamiya",
+  "original_name": "マミヤ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious chemistry teacher at Mayuri's school.",
+  "source_sha256": "0d65299bb2eefb281be6415c2cae2148ec24d967ea5e18adc9da786515b46994",
+  "translation": "A mysterious chemistry teacher at Mayuri's school.",
+  "vndb_url": "https://vndb.org/c112417"
+}

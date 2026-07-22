@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65711",
+  "type": "visual_novel",
+  "name": "VTuber no Yuujin ga Kioku Soushitsu ni Natta.",
+  "original_name": "VTuberの友人が記憶喪失になった。",
+  "language": "en",
+  "source_language": "en",
+  "source": "Original game by Nijisanji's VTuber Kaburagi Roco.",
+  "source_sha256": "d580277c55b7dca36789dd6f7997387d53676687b8616fa867e879c6a0df4daa",
+  "translation": "Original game by Nijisanji's VTuber Kaburagi Roco.",
+  "vndb_url": "https://vndb.org/v65711"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150677",
+  "type": "character",
+  "name": "Oosumi",
+  "original_name": "おおすみ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Shiina's dog the corgi.",
+  "source_sha256": "0becba7bdf67bea12c9d32b58ee949b9f375c222b4478cdd7940d88d2b67c65c",
+  "translation": "Shiina's dog the corgi.",
+  "vndb_url": "https://vndb.org/c150677"
+}

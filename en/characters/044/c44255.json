@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c44255",
+  "type": "character",
+  "name": "Bob Semple",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A tractor from New Zealand, fitted with some spare corrugated sheet metal, and given six machine guns. She was the first, and only, attempt by New Zealand to build a tank.",
+  "source_sha256": "f1438638f8fe1206971e349e219184b2af0991d9658b110234485578b4a0eee8",
+  "translation": "A tractor from New Zealand, fitted with some spare corrugated sheet metal, and given six machine guns. She was the first, and only, attempt by New Zealand to build a tank.",
+  "vndb_url": "https://vndb.org/c44255"
+}

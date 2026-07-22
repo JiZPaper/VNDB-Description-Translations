@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95149",
+  "type": "character",
+  "name": "Edward Williams",
+  "original_name": "エドワード・ウィリアムズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Luke's adopted father",
+  "source_sha256": "be75ff9cdeca2c782f7c1fa721b2281e462677cb3b5e8460a12568df18cca731",
+  "translation": "Luke's adopted father",
+  "vndb_url": "https://vndb.org/c95149"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73251",
+  "type": "character",
+  "name": "Tilt",
+  "original_name": "ティルト",
+  "language": "en",
+  "source_language": "en",
+  "source": "A ghost that appear in the fog labyrinth in Eden.",
+  "source_sha256": "1e46fc844e0330403fcda26bd86172a44f6281ecef61ba017ced7cc10b2ca18d",
+  "translation": "A ghost that appear in the fog labyrinth in Eden.",
+  "vndb_url": "https://vndb.org/c73251"
+}

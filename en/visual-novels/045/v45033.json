@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45033",
+  "type": "visual_novel",
+  "name": "Date a Plant: The Last Train",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A plant girl needs help in making it onto the last train.",
+  "source_sha256": "82c2af0013d5b56e30d7505f7f10dabf7dfdb3a9f234171ea88af7f63d6f903c",
+  "translation": "A plant girl needs help in making it onto the last train.",
+  "vndb_url": "https://vndb.org/v45033"
+}

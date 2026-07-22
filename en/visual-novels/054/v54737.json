@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54737",
+  "type": "visual_novel",
+  "name": "Ace Attorney: Beyond The Shadows",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ace Attorney: Beyond the Shadows is a collection of cases set after the events of Dual Destinies and the whole dark age of the law plotline, hence the title",
+  "source_sha256": "6efe7a9f641434e620e4687cdba9972985641484cb69c5207f5cf50091dbec62",
+  "translation": "Ace Attorney: Beyond the Shadows is a collection of cases set after the events of Dual Destinies and the whole dark age of the law plotline, hence the title",
+  "vndb_url": "https://vndb.org/v54737"
+}

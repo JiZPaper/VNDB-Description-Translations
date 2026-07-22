@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10620",
+  "type": "visual_novel",
+  "name": "Boku Kano Extra! ~Minna Boku no Mono nano da!",
+  "original_name": "ボクカノえくすとら！〜みんな珠波（ボク）のものなのだ！",
+  "language": "en",
+  "source_language": "en",
+  "source": "Extra scenario only released in the special package gathering all the Boku Kano.",
+  "source_sha256": "4ea6af190c0131dcd3381f26286be54f8c606ab69ad10b00ad114865430680e8",
+  "translation": "Extra scenario only released in the special package gathering all the Boku Kano.",
+  "vndb_url": "https://vndb.org/v10620"
+}

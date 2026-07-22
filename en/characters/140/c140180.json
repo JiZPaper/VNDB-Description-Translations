@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140180",
+  "type": "character",
+  "name": "Alexandra",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A doctor at the St. Jones College.",
+  "source_sha256": "36285e002c4aa38920962d43c50d0675f58cdc3f8a9d8a70f82ffcd9adf793db",
+  "translation": "A doctor at the St. Jones College.",
+  "vndb_url": "https://vndb.org/c140180"
+}

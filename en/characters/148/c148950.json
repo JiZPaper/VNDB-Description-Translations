@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148950",
+  "type": "character",
+  "name": "Madison",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"That's my question to ask. Why are you here?\"\n\nYour roommate!\nShe's not happy to be around you, obviously.",
+  "source_sha256": "350af7c7553d990eb76769e3061fba2f084269819b2b288da20dd0d86ab0a93f",
+  "translation": "\"That's my question to ask. Why are you here?\"\n\nYour roommate!\nShe's not happy to be around you, obviously.",
+  "vndb_url": "https://vndb.org/c148950"
+}

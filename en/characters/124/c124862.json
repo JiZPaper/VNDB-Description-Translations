@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124862",
+  "type": "character",
+  "name": "Chester",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your timid, gentlemanly colleague.",
+  "source_sha256": "048ca8fb49e12e34f0bd8735a7e2ab6e810ebd050b67659e1cafaf9fc2bdc687",
+  "translation": "Your timid, gentlemanly colleague.",
+  "vndb_url": "https://vndb.org/c124862"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c107873",
+  "type": "character",
+  "name": "Carol",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The hero's secretary at work.",
+  "source_sha256": "4acbc8137df2969e1c617e39c3812f11b675a7995e20ad6661b4f11e3f913d38",
+  "translation": "The hero's secretary at work.",
+  "vndb_url": "https://vndb.org/c107873"
+}

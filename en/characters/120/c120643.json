@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120643",
+  "type": "character",
+  "name": "Girl",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A prostitute at the local brothel.",
+  "source_sha256": "9d4a4467b8b863b74b7703a1fe6f82b4290143deb8e60c7cafc83c2487508341",
+  "translation": "A prostitute at the local brothel.",
+  "vndb_url": "https://vndb.org/c120643"
+}

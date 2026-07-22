@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25167",
+  "type": "character",
+  "name": "Alex Davies",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mark's anatomy professor.",
+  "source_sha256": "6c3e785fdd5e68ebb7dbe7a7303ec0012f882906dc36291335619f51cfad158d",
+  "translation": "Mark's anatomy professor.",
+  "vndb_url": "https://vndb.org/c25167"
+}

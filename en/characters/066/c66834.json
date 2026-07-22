@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c66834",
+  "type": "character",
+  "name": "Little Dracula",
+  "original_name": "リトル・ドラクレア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Human Version.",
+  "source_sha256": "7e46ec8681a878ad099ca596fe7e2ad3654bbd2e67d9fb3ed78060bffa48fcfd",
+  "translation": "Human Version.",
+  "vndb_url": "https://vndb.org/c66834"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c406",
+  "type": "character",
+  "name": "Legion",
+  "original_name": "レギオン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A monster who normally only exists in Gold Rock. A lump of meat creature created by mixing together many corpses and ghosts. It grows by absorbing living creatures capable of magic.",
+  "source_sha256": "45a9972576adac02bb91f207e2a57686d1eb302babb4acfb297db1e9ffadb065",
+  "translation": "A monster who normally only exists in Gold Rock. A lump of meat creature created by mixing together many corpses and ghosts. It grows by absorbing living creatures capable of magic.",
+  "vndb_url": "https://vndb.org/c406"
+}

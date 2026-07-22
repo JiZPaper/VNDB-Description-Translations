@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c60042",
+  "type": "character",
+  "name": "Tanba Touki",
+  "original_name": "丹葉 桐己",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hobby: Theater Appreciation\nFavorite Food: Caramel\n\nThe owner of a cafe that specializes in western sweets.",
+  "source_sha256": "2f224f6e7026c7f5043591546d96df1085bcec14af4f9c6b056d80f80c2e53f6",
+  "translation": "Hobby: Theater Appreciation\nFavorite Food: Caramel\n\nThe owner of a cafe that specializes in western sweets.",
+  "vndb_url": "https://vndb.org/c60042"
+}

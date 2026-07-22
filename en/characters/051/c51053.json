@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51053",
+  "type": "character",
+  "name": "Clark",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young and naive detective working on his first case, eager to prove himself. According to Knox he is a narrow minded simpleton sent by the Chief to ensure Knox plays by the book.",
+  "source_sha256": "3a36aa50fd184f32b80bd87cd7d654a8dad1a1c90e3ad75baab12337290f93ef",
+  "translation": "A young and naive detective working on his first case, eager to prove himself. According to Knox he is a narrow minded simpleton sent by the Chief to ensure Knox plays by the book.",
+  "vndb_url": "https://vndb.org/c51053"
+}

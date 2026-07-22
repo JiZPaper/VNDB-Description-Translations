@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10039",
+  "type": "visual_novel",
+  "name": "Karasu A no Aware na Dantoudai",
+  "original_name": "鴉Aの哀れな断頭台",
+  "language": "en",
+  "source_language": "en",
+  "source": "Who killed Cock Robin?\n\nThree alleged causes of death.  Three contradicting witnesses.  And a crow, guillotined for a murder he might not have committed.",
+  "source_sha256": "bb9acd2d20ec4f681ed58a6bd2f1c9fab7e0d4fb3ee6ba243d90e5a67ae05ade",
+  "translation": "Who killed Cock Robin?\n\nThree alleged causes of death.  Three contradicting witnesses.  And a crow, guillotined for a murder he might not have committed.",
+  "vndb_url": "https://vndb.org/v10039"
+}

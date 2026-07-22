@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64542",
+  "type": "character",
+  "name": "Pizza Girl",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A ditzy shop assistant in Not-Walmart. Tom cannot remember her name despite them being classmates.",
+  "source_sha256": "2e28482a844d1add3a4f57c24311b27382e95249b9d3858e4cf8ac2b16f5ad4e",
+  "translation": "A ditzy shop assistant in Not-Walmart. Tom cannot remember her name despite them being classmates.",
+  "vndb_url": "https://vndb.org/c64542"
+}

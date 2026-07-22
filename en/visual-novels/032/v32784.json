@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32784",
+  "type": "visual_novel",
+  "name": "Sanatorium",
+  "original_name": "サナトリウム",
+  "language": "en",
+  "source_language": "en",
+  "source": "The reason why I came here.\nI was scared, I was no good. That's why I came here.\nI was looking for various hospitals and finally I arrived \"here\".\n\nA quiet building in an open area beyond the birch forest.\n\n―― “Here” was my last hope.",
+  "source_sha256": "d2ed7b82f26327fb3252ab15e4a9d8f775c12913e0828467dcbbae7b94c3d29d",
+  "translation": "The reason why I came here.\nI was scared, I was no good. That's why I came here.\nI was looking for various hospitals and finally I arrived \"here\".\n\nA quiet building in an open area beyond the birch forest.\n\n―― “Here” was my last hope.",
+  "vndb_url": "https://vndb.org/v32784"
+}

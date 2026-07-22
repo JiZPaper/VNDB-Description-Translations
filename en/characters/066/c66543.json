@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c66543",
+  "type": "character",
+  "name": "Shiina",
+  "original_name": "詩名",
+  "language": "en",
+  "source_language": "en",
+  "source": "A university student attending medical school. Aiming to be a doctor, she has a strong passion for reading. She does her best to rationally process any situation she comes across.",
+  "source_sha256": "2977e7a2b90d4e1a4376f0f999abbcd72a06fda5f85c2988a6b84ccbbbc67eb8",
+  "translation": "A university student attending medical school. Aiming to be a doctor, she has a strong passion for reading. She does her best to rationally process any situation she comes across.",
+  "vndb_url": "https://vndb.org/c66543"
+}

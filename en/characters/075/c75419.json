@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75419",
+  "type": "character",
+  "name": "The Bear",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Bear appears to threaten Kenna and her invasion force, but by paying diamonds the player can calm her down by removing a thorn from her paw.\n\nThe bear can be named by the player if chosen as an ally.",
+  "source_sha256": "aae30e115781e8b4e8d1063781bf325cd227997f2d67a2aeab43909941af11ab",
+  "translation": "The Bear appears to threaten Kenna and her invasion force, but by paying diamonds the player can calm her down by removing a thorn from her paw.\n\nThe bear can be named by the player if chosen as an ally.",
+  "vndb_url": "https://vndb.org/c75419"
+}

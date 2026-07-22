@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27521",
+  "type": "visual_novel",
+  "name": "Oathbreaker",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A veteran Warlock finds herself in a political conspiracy when she is summoned by the Sovereignty as the new Court Mage.\nIs the real danger truly one of political intrigue, or is there a darker secret hiding underneath?",
+  "source_sha256": "665b6107d74be888cd36946d86f0076629cd3fdd3a615abab7a547fde1873ddf",
+  "translation": "A veteran Warlock finds herself in a political conspiracy when she is summoned by the Sovereignty as the new Court Mage.\nIs the real danger truly one of political intrigue, or is there a darker secret hiding underneath?",
+  "vndb_url": "https://vndb.org/v27521"
+}

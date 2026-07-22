@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23819",
+  "type": "visual_novel",
+  "name": "Notes from the Cape",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An episodic visual novel series following the characters from Willy Bear Beach.",
+  "source_sha256": "8289ba632949c82b8ee0740c1ced78685638bca505a48ba1d450591c92e6e73f",
+  "translation": "An episodic visual novel series following the characters from Willy Bear Beach.",
+  "vndb_url": "https://vndb.org/v23819"
+}

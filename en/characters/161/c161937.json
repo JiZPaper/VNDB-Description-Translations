@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161937",
+  "type": "character",
+  "name": "Naoto",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist.\nReika's boyfriend.",
+  "source_sha256": "5c1d15d6b0d8a05cd28170f4941595e25ae604d487bfd436cfe57cd5647f40b1",
+  "translation": "The protagonist.\nReika's boyfriend.",
+  "vndb_url": "https://vndb.org/c161937"
+}

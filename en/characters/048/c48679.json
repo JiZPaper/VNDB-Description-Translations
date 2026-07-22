@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48679",
+  "type": "character",
+  "name": "Pharmacist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The leader of Viscantian Pharmacist Guild.",
+  "source_sha256": "06e26e1f21e87f929b07e95b53981d2f40eed5d89095f80b2ffaa262caaba4a1",
+  "translation": "The leader of Viscantian Pharmacist Guild.",
+  "vndb_url": "https://vndb.org/c48679"
+}

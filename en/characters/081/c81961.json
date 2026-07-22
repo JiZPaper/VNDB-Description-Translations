@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81961",
+  "type": "character",
+  "name": "Jerry",
+  "original_name": "ジェリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "She met Landis while working as a maid at the castle.",
+  "source_sha256": "410f69eb790cd60781ac8ef9ce55a56cd57e7f3d2063bbfb42c6c747865ac8ca",
+  "translation": "She met Landis while working as a maid at the castle.",
+  "vndb_url": "https://vndb.org/c81961"
+}

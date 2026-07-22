@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148793",
+  "type": "character",
+  "name": "Alina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A maid in the service of Nicholas.",
+  "source_sha256": "df5782153ee46232dcd0f018caa75f2fc98e0f76c12a9f37e3f511864ada913a",
+  "translation": "A maid in the service of Nicholas.",
+  "vndb_url": "https://vndb.org/c148793"
+}

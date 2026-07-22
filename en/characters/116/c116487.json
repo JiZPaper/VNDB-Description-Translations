@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116487",
+  "type": "character",
+  "name": "Valerie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the royal guards in Queen Tessa's palace.",
+  "source_sha256": "37056c6a48d691cd2f10c09532bebb70627000691f61828dc6dbe5a9192df368",
+  "translation": "One of the royal guards in Queen Tessa's palace.",
+  "vndb_url": "https://vndb.org/c116487"
+}

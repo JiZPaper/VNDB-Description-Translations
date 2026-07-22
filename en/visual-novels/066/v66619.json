@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66619",
+  "type": "visual_novel",
+  "name": "0% Chance Confession",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Visual novel where you are 100% rejected.",
+  "source_sha256": "ea67f1f2ceb221a9ff13c2722de01b748784a69410f803018b814b86298fb575",
+  "translation": "Visual novel where you are 100% rejected.",
+  "vndb_url": "https://vndb.org/v66619"
+}

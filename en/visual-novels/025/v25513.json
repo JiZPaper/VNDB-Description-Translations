@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25513",
+  "type": "visual_novel",
+  "name": "Evenicle 2 Rance",
+  "original_name": "イブニクル２ランス版",
+  "language": "en",
+  "source_language": "en",
+  "source": "If the protagonist of Evenicle 2 was Rance...\n\nGoes through the first chapter of Evenicle 2 with the protagonist being Rance instead of Alex.",
+  "source_sha256": "0beaeb0b60944b25db38613cd96948d6d2585bc7b0f7d250cd12c01c533aed08",
+  "translation": "If the protagonist of Evenicle 2 was Rance...\n\nGoes through the first chapter of Evenicle 2 with the protagonist being Rance instead of Alex.",
+  "vndb_url": "https://vndb.org/v25513"
+}

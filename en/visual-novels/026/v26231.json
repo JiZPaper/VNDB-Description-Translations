@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26231",
+  "type": "visual_novel",
+  "name": "LionHeart",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An ADV that depicts the cat's journey, and the battle between humans and kemono.",
+  "source_sha256": "dc44abe5ae725a38332b5d22bb0d2c95b5fb2ca8a14b34401caf77ba15c856b1",
+  "translation": "An ADV that depicts the cat's journey, and the battle between humans and kemono.",
+  "vndb_url": "https://vndb.org/v26231"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140812",
+  "type": "character",
+  "name": "Inukai",
+  "original_name": "犬養",
+  "language": "en",
+  "source_language": "en",
+  "source": "The manager of convenience store 515-Mart.",
+  "source_sha256": "1c993c66453b7d37c8f8efe08e5bfb1a83314143308014c8b5dbc64c8e7151d2",
+  "translation": "The manager of convenience store 515-Mart.",
+  "vndb_url": "https://vndb.org/c140812"
+}

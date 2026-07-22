@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75407",
+  "type": "character",
+  "name": "Graves",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visitor at the tavern who seems to know things about Janna, even she herself isn't aware about.",
+  "source_sha256": "e20b8b8e2307c075e9ba59ef349d3433c870f582d0ed31284e134b1b6ed30186",
+  "translation": "A visitor at the tavern who seems to know things about Janna, even she herself isn't aware about.",
+  "vndb_url": "https://vndb.org/c75407"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31969",
+  "type": "visual_novel",
+  "name": "Romeo and Juliet (Except Juliet knows chemistry, and it's backwards, kind of)",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A low resolution, short cooking sim/visual novel twist on the famous play.\n\n[From [url=https://itch.io/jam/lowrezjam-2021/rate/1151714]Itch.io[/url]]",
+  "source_sha256": "cde93cd406eb8e4826ee547cdb129e3b7c120c1572ade482de7cde2b94181d3d",
+  "translation": "A low resolution, short cooking sim/visual novel twist on the famous play.\n\n[From [url=https://itch.io/jam/lowrezjam-2021/rate/1151714]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v31969"
+}

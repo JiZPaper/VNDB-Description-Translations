@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c785",
+  "type": "character",
+  "name": "Boris Airay",
+  "original_name": "ボリス＝エレイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Boris is the Cheshire Cat. He loves riddles and will give them whenever he gets the chance. From time to time he will also give you hints, but they will usually only lead you astray.",
+  "source_sha256": "3b8fd2c81a5072eb3e13496031123e6642e0179e5772c29baf0931bcf49bd37c",
+  "translation": "Boris is the Cheshire Cat. He loves riddles and will give them whenever he gets the chance. From time to time he will also give you hints, but they will usually only lead you astray.",
+  "vndb_url": "https://vndb.org/c785"
+}

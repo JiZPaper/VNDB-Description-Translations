@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c155273",
+  "type": "character",
+  "name": "Clara",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A character in \"Miseratione non Mercede.\"",
+  "source_sha256": "8f59b3df04df0dd84343bff3dd71c6a2e2648da56dc015807e8a7b3381935d21",
+  "translation": "A character in \"Miseratione non Mercede.\"",
+  "vndb_url": "https://vndb.org/c155273"
+}

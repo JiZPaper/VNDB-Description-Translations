@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97396",
+  "type": "character",
+  "name": "Slave Woman",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of [url=/c66043]Kanekone[/url]'s slaves.",
+  "source_sha256": "8f23c49db8142920fb5363d804dd8780bf3ee0b32fbf67f5ed9340ce9924919c",
+  "translation": "One of [url=/c66043]Kanekone[/url]'s slaves.",
+  "vndb_url": "https://vndb.org/c97396"
+}

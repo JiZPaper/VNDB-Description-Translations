@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25592",
+  "type": "character",
+  "name": "President",
+  "original_name": "プレジデント",
+  "language": "en",
+  "source_language": "en",
+  "source": "The president of the Woodlink Corporation that sponsors the Tokyo Yamanote Boys tournament.",
+  "source_sha256": "6fd840bc40de9cfe54d3339e1eb09b60e14898bbffde1ef0c16202ca1fdc423b",
+  "translation": "The president of the Woodlink Corporation that sponsors the Tokyo Yamanote Boys tournament.",
+  "vndb_url": "https://vndb.org/c25592"
+}

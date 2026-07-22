@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c128467",
+  "type": "character",
+  "name": "William",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sam's old friend back from high school and currently his boss.",
+  "source_sha256": "b5f1d64d036bb7b2b8996a6d1fa56fd627b30a3b1ab43cdd85ab6e7019313913",
+  "translation": "Sam's old friend back from high school and currently his boss.",
+  "vndb_url": "https://vndb.org/c128467"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156310",
+  "type": "character",
+  "name": "Gwen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A runaway who lives at Camp Pinewood permanently.",
+  "source_sha256": "37fe9aa1fb2f9e74339d143ac76b0ae66a27c7edc0e9aa354129d44deff3cbb0",
+  "translation": "A runaway who lives at Camp Pinewood permanently.",
+  "vndb_url": "https://vndb.org/c156310"
+}

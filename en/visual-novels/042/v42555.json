@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42555",
+  "type": "visual_novel",
+  "name": "DO KI DO KI ☆ Onna no Ko Taiken ~Hoshuu Jugyou~",
+  "original_name": "DO・KI・DO・KI☆おんなのこ体験 ～補習授業～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A collection of stories involving Onna no Ko Taiken's characters.",
+  "source_sha256": "5feb93a3d7fb7ffaf2bb99acb1404c59813844d25f1720e4ecd49b87fae6e8d6",
+  "translation": "A collection of stories involving Onna no Ko Taiken's characters.",
+  "vndb_url": "https://vndb.org/v42555"
+}

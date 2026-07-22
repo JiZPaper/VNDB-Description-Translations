@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c114514",
+  "type": "character",
+  "name": "Briar",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The spring spirit.",
+  "source_sha256": "65bb78fed6f5158d39a23f61aff78632456ed7bcb5534713b648bd292e8c15ef",
+  "translation": "The spring spirit.",
+  "vndb_url": "https://vndb.org/c114514"
+}

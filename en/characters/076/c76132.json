@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76132",
+  "type": "character",
+  "name": "Mr. Davis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Daphne's boss at her work.",
+  "source_sha256": "77f6f416c30467b8bf2b9c31d2e8ff316d7b0cc4e607746030ba5b1cfbd9523a",
+  "translation": "Daphne's boss at her work.",
+  "vndb_url": "https://vndb.org/c76132"
+}

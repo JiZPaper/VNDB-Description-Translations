@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c146124",
+  "type": "character",
+  "name": "Balthorne",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Balthorne is the Regent of the realm, holding the crown in trust for the next dragon. When Adeline presents you to the court, however, he arrests her and attempts to sway you to his service. You must defeat him and retake your throne.",
+  "source_sha256": "1eda137117ded9d6083d444c0b0b29090ca25b796c47ccd782dca33db8169469",
+  "translation": "Balthorne is the Regent of the realm, holding the crown in trust for the next dragon. When Adeline presents you to the court, however, he arrests her and attempts to sway you to his service. You must defeat him and retake your throne.",
+  "vndb_url": "https://vndb.org/c146124"
+}

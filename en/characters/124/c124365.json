@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c124365",
+  "type": "character",
+  "name": "Sapphire",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A server at the nightclub.",
+  "source_sha256": "766e6462a0a10ba5f437e17da362e98a26a8b3eac408279613d0345d3d763e2a",
+  "translation": "A server at the nightclub.",
+  "vndb_url": "https://vndb.org/c124365"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55951",
+  "type": "visual_novel",
+  "name": "\"Furyoki\" The Note of the Prisoner",
+  "original_name": "「俘虜記」The Note of the Prisoner",
+  "language": "en",
+  "source_language": "en",
+  "source": "Volume 2 of SUZUNE's Digital Novel Series is a visual novel with gameplay elements. There are two possible endings, and the ending changes depending on the mini-games played during the main story.",
+  "source_sha256": "a5a493949339bb20751eb2c96cbbbc751affd68568df22533fc01c0249a340e8",
+  "translation": "Volume 2 of SUZUNE's Digital Novel Series is a visual novel with gameplay elements. There are two possible endings, and the ending changes depending on the mini-games played during the main story.",
+  "vndb_url": "https://vndb.org/v55951"
+}

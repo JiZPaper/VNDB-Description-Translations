@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96839",
+  "type": "character",
+  "name": "Assassin",
+  "original_name": "アサシン",
+  "language": "en",
+  "source_language": "en",
+  "source": "His true name is [spoiler][url=https://en.wikipedia.org/wiki/Sait%C5%8D_Hajime]Saitou Hajime[/url].[/spoiler]",
+  "source_sha256": "b88767f2e8ceb0f1fe78048d74cbb34a93086b2f9d1bde37aa0f0112b9d12219",
+  "translation": "His true name is [spoiler][url=https://en.wikipedia.org/wiki/Sait%C5%8D_Hajime]Saitou Hajime[/url].[/spoiler]",
+  "vndb_url": "https://vndb.org/c96839"
+}

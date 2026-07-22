@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123205",
+  "type": "character",
+  "name": "Wenlin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Chop Chop's assistant.",
+  "source_sha256": "73b4f1542e279191796a6f9fa28d83d324071627597dfb78f802c2a3ae31e081",
+  "translation": "Chop Chop's assistant.",
+  "vndb_url": "https://vndb.org/c123205"
+}

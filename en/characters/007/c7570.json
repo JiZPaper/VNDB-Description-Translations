@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c7570",
+  "type": "character",
+  "name": "Susan",
+  "original_name": "スーザン",
+  "language": "en",
+  "source_language": "en",
+  "source": "The only female diver on the team.\nA total tomboy but very strong.",
+  "source_sha256": "7a1c8ea943c0de2d5c3b54b96951258004b767ad05a920d98fe910a37a3b2184",
+  "translation": "The only female diver on the team.\nA total tomboy but very strong.",
+  "vndb_url": "https://vndb.org/c7570"
+}

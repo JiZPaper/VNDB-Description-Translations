@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70679",
+  "type": "character",
+  "name": "Roberto De Feo",
+  "original_name": "ロベルト・デ・フェオ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I've heard townspeople's trouble, so I'll investigate it.\"\n\nA detective of the Burlone Police.\nAs he is from another city, he isn't familiar with Burlone yet.\nHe has a strong sense of justice, and is troubled by the police's pandering towards the mafia.",
+  "source_sha256": "bdbdb2db95d34b4dfb5d27e6b47309e43aef9f0d08258a9fe5bdd87398c763be",
+  "translation": "\"I've heard townspeople's trouble, so I'll investigate it.\"\n\nA detective of the Burlone Police.\nAs he is from another city, he isn't familiar with Burlone yet.\nHe has a strong sense of justice, and is troubled by the police's pandering towards the mafia.",
+  "vndb_url": "https://vndb.org/c70679"
+}

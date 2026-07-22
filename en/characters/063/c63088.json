@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c63088",
+  "type": "character",
+  "name": "Sensei",
+  "original_name": "先生",
+  "language": "en",
+  "source_language": "en",
+  "source": "[url=/c51963]Mikari[/url] and [url=/c58188]Natsuki[/url]'s teacher",
+  "source_sha256": "8d120ca10642e3e67c11cc2e32e20e7f9cbb2f7afdf180b94afbdec54841c11b",
+  "translation": "[url=/c51963]Mikari[/url] and [url=/c58188]Natsuki[/url]'s teacher",
+  "vndb_url": "https://vndb.org/c63088"
+}

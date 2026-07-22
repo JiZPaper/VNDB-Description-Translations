@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13827",
+  "type": "visual_novel",
+  "name": "Love After School",
+  "original_name": "LOVE-AFTERSCHOOL-",
+  "language": "en",
+  "source_language": "en",
+  "source": "Features [url=http://anidb.net/perl-bin/animedb.pl?show=character&charid=2355]Lala[/url] and [url=http://anidb.net/perl-bin/animedb.pl?show=character&charid=2358]Haruna[/url] from To Love-Ru.",
+  "source_sha256": "702b5b84328eff9c4fbbf8a009c8256bc0ffc0d64e060ab393da83644f54f3cf",
+  "translation": "Features [url=http://anidb.net/perl-bin/animedb.pl?show=character&charid=2355]Lala[/url] and [url=http://anidb.net/perl-bin/animedb.pl?show=character&charid=2358]Haruna[/url] from To Love-Ru.",
+  "vndb_url": "https://vndb.org/v13827"
+}

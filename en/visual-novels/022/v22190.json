@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22190",
+  "type": "visual_novel",
+  "name": "Full Bokko Youchien",
+  "original_name": "フルボッコようちえん",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mitarou's only friend in kindergarten is Kotomi.",
+  "source_sha256": "332d6a286aafe843b040cae22fe39ed4cfeee7dca646c5cf08286149f3019261",
+  "translation": "Mitarou's only friend in kindergarten is Kotomi.",
+  "vndb_url": "https://vndb.org/v22190"
+}

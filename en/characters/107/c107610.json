@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c107610",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "A polite and well-behaved elementary schooler.",
+  "source_sha256": "f4fe75f357a9a9649e0fa0dc8274516828be1c2506a680b250a109548879b304",
+  "translation": "A polite and well-behaved elementary schooler.",
+  "vndb_url": "https://vndb.org/c107610"
+}

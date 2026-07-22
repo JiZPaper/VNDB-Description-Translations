@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c147624",
+  "type": "character",
+  "name": "Bleyr",
+  "original_name": "Блейр",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cute stranger from the bar.\n\nLawyer in a well-known law firm.\n\nHates being lied to.\n\n[In game description]",
+  "source_sha256": "8f15e427a8aad682e07d461a9111a9542a01693c6edddab7cc757a3d3ddc6fca",
+  "translation": "Cute stranger from the bar.\n\nLawyer in a well-known law firm.\n\nHates being lied to.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c147624"
+}

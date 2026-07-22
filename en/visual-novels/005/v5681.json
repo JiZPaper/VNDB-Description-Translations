@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5681",
+  "type": "visual_novel",
+  "name": "Soredemo, Watashi wa Aishiteiru",
+  "original_name": "それでも、私は愛している",
+  "language": "en",
+  "source_language": "en",
+  "source": "On a bright sunny day, a girl confesses to a boy on the school's rooftop. She's the class president. He's a delinquent. Will it work?",
+  "source_sha256": "3ae225623ad21951648b83261b375c42aab2b535a11a066c77f9f56f1a65b191",
+  "translation": "On a bright sunny day, a girl confesses to a boy on the school's rooftop. She's the class president. He's a delinquent. Will it work?",
+  "vndb_url": "https://vndb.org/v5681"
+}

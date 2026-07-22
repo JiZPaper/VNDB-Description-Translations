@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45202",
+  "type": "character",
+  "name": "Ruid",
+  "original_name": "ルイード",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the Four Heavenly Kings.\nWeapon: Rod",
+  "source_sha256": "3b267b7747c9a3b8d7c62b667a868aa8f5f75b5ab740bdf64e52bd6e9d3ac5e2",
+  "translation": "One of the Four Heavenly Kings.\nWeapon: Rod",
+  "vndb_url": "https://vndb.org/c45202"
+}

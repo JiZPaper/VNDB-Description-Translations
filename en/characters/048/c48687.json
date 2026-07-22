@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48687",
+  "type": "character",
+  "name": "Nidzche",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An employee at Zhevitz corporation.",
+  "source_sha256": "013104c11b919540828c6a3a4067a9493dd2aa36b760c66ecb86d17f9e058c60",
+  "translation": "An employee at Zhevitz corporation.",
+  "vndb_url": "https://vndb.org/c48687"
+}

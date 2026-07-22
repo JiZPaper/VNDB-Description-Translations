@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22382",
+  "type": "visual_novel",
+  "name": "Okiku's Well",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An short online visual novel Originally made for the Sakura jam.",
+  "source_sha256": "496f771d7e766c712d0a177a1511e54e241d111060261616f7f5985346b365a9",
+  "translation": "An short online visual novel Originally made for the Sakura jam.",
+  "vndb_url": "https://vndb.org/v22382"
+}

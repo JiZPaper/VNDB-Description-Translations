@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127457",
+  "type": "character",
+  "name": "Nobody",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist. He was placed into Atlantean custody before the events of the game.\nInitially, he is tasked with being the decoy of the Atlantean Queen.",
+  "source_sha256": "d33c0d9d8b669cfe78f60177808aa5d8e9c3e025e941f6a0f7776d438cb2402a",
+  "translation": "The protagonist. He was placed into Atlantean custody before the events of the game.\nInitially, he is tasked with being the decoy of the Atlantean Queen.",
+  "vndb_url": "https://vndb.org/c127457"
+}

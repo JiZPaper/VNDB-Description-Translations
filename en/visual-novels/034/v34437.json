@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34437",
+  "type": "visual_novel",
+  "name": "Mink Deluxe",
+  "original_name": "Mink でらっくす",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mink fandisc. This disc contains wallpapers and system sounds from various Mink games for Windows, as well as an original CD voice drama for game \"GOKKO vol1.2/SCHOOL GAL's\" in the form of CD-DA audio track.",
+  "source_sha256": "8d0d7d0992e2a92fd2ba83dc744997b733ba38e51872c6c672d12cb3524f441a",
+  "translation": "Mink fandisc. This disc contains wallpapers and system sounds from various Mink games for Windows, as well as an original CD voice drama for game \"GOKKO vol1.2/SCHOOL GAL's\" in the form of CD-DA audio track.",
+  "vndb_url": "https://vndb.org/v34437"
+}

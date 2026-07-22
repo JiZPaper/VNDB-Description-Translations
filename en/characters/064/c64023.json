@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c64023",
+  "type": "character",
+  "name": "Orlok",
+  "original_name": "オルロック",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I'm sorry for taking drastic measures, but this is for the sake of protecting you\" \n\nAn informant who deals with various organizations. \nHe doesn't speak much and no one know his origins.\nWhen he isn't working he seems to lack common sense.",
+  "source_sha256": "ba32f8fcd5557783d1037fa94471f543a5c73571ab41c8c54265c6f5e8a740e9",
+  "translation": "\"I'm sorry for taking drastic measures, but this is for the sake of protecting you\" \n\nAn informant who deals with various organizations. \nHe doesn't speak much and no one know his origins.\nWhen he isn't working he seems to lack common sense.",
+  "vndb_url": "https://vndb.org/c64023"
+}

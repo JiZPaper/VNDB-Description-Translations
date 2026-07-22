@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92751",
+  "type": "character",
+  "name": "Kim de Jong",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Dimitri's coworker at Mew Café.",
+  "source_sha256": "b46108a093b372572eb28c1d49df2c30e76feea272fa3270807b10175dca6149",
+  "translation": "Dimitri's coworker at Mew Café.",
+  "vndb_url": "https://vndb.org/c92751"
+}

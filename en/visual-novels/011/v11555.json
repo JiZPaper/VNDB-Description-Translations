@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11555",
+  "type": "visual_novel",
+  "name": "Clouds",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Daisuke loves looking at clouds, but his sister Nasumi has other plans for him.",
+  "source_sha256": "d65c324baec0d1741b02fbb3d581bccb6730b3ea7c6d835872b8a401f98ced1c",
+  "translation": "Daisuke loves looking at clouds, but his sister Nasumi has other plans for him.",
+  "vndb_url": "https://vndb.org/v11555"
+}

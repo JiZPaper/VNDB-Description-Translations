@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57750",
+  "type": "visual_novel",
+  "name": "The Arcana: Juliana's Route",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "While handling a task for Asra, you sense someone is quietly following your steps.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "5b0acd9c13c60da9130ed3d903da01398f4839c5a8e4b26da0c608e0fb12cef1",
+  "translation": "While handling a task for Asra, you sense someone is quietly following your steps.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "vndb_url": "https://vndb.org/v57750"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57014",
+  "type": "visual_novel",
+  "name": "Soft Toy Surrogate",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A conversation with your favorite soft toy.",
+  "source_sha256": "05ae6dc28bba313c24fb32dd416e83a77f14bd4ec778c62d02a8c49f20ee71a1",
+  "translation": "A conversation with your favorite soft toy.",
+  "vndb_url": "https://vndb.org/v57014"
+}

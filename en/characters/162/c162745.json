@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162745",
+  "type": "character",
+  "name": "Gella",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jellian representative of the Galactic Council",
+  "source_sha256": "57dd734e5b1c8fe306fd6e2b7a34843ad9a3989d0abb63aedfbb41c964ee1ccb",
+  "translation": "Jellian representative of the Galactic Council",
+  "vndb_url": "https://vndb.org/c162745"
+}

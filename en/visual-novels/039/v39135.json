@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39135",
+  "type": "visual_novel",
+  "name": "Meisaku Sound Novel Series",
+  "original_name": "名作サウンドノベルシリーズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "An adaptation of several public domain novels into sound novels.",
+  "source_sha256": "13693354297fedf401700c063a74f7cd691bc7750c53e20f3b51389d8298f8bc",
+  "translation": "An adaptation of several public domain novels into sound novels.",
+  "vndb_url": "https://vndb.org/v39135"
+}

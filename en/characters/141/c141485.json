@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141485",
+  "type": "character",
+  "name": "Stanley",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bouncer at the Pink Rose",
+  "source_sha256": "02b6fe3b4aec176bdeb86ef0bc1e192b4d6d3c536a183e0c95ed39b26f009763",
+  "translation": "Bouncer at the Pink Rose",
+  "vndb_url": "https://vndb.org/c141485"
+}

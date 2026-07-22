@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24401",
+  "type": "visual_novel",
+  "name": "END OF THE WORLD",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "In the 31st century after a 5th world war makes Earth uninhabitable mankind has to expand into outer space.",
+  "source_sha256": "10a77ba9df35c1ecee437a0f9c950083c3fbb992feead5ca7718a8a527000686",
+  "translation": "In the 31st century after a 5th world war makes Earth uninhabitable mankind has to expand into outer space.",
+  "vndb_url": "https://vndb.org/v24401"
+}

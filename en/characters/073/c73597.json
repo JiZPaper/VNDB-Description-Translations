@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c73597",
+  "type": "character",
+  "name": "Amadeus",
+  "original_name": "アマデウス",
+  "language": "en",
+  "source_language": "en",
+  "source": "An artificial intelligence created for the Amadeus system based on the memories of Kurisu, who is a neuroscience researcher at an American university. The program essentially has the same personality as the original Kurisu.",
+  "source_sha256": "96c811a528c58915dfabdcc53f5b1ca2bc89e54ea1c66b8e29dda5a0b59eba43",
+  "translation": "An artificial intelligence created for the Amadeus system based on the memories of Kurisu, who is a neuroscience researcher at an American university. The program essentially has the same personality as the original Kurisu.",
+  "vndb_url": "https://vndb.org/c73597"
+}

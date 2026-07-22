@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31367",
+  "type": "visual_novel",
+  "name": "Will You Goat Out With Me?",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The goat dating-sim you've been waiting for.",
+  "source_sha256": "cd7ee61dc32b5f08d244dacb82f7a12470cff8938122ce48d69c433ae7534b4f",
+  "translation": "The goat dating-sim you've been waiting for.",
+  "vndb_url": "https://vndb.org/v31367"
+}

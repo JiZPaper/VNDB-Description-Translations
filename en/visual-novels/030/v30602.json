@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30602",
+  "type": "visual_novel",
+  "name": "Yotsuba Struck -Summer-",
+  "original_name": "よつばstruck -summer-",
+  "language": "en",
+  "source_language": "en",
+  "source": "The main character injures her leg a few weeks before an important theater performance.",
+  "source_sha256": "b34651f3dbee3618d2709830dbb93146845cd29cdfde85785a798c15110fa943",
+  "translation": "The main character injures her leg a few weeks before an important theater performance.",
+  "vndb_url": "https://vndb.org/v30602"
+}

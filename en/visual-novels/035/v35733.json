@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35733",
+  "type": "visual_novel",
+  "name": "Weltschmerz",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A micro visual novel about two men on a mysterious train developed by tofurocks for the O2A2 (Again) Jam of 2021. Contains some point 'n click elements and three endings.\n\n[From [url=https://tofurocks.itch.io/weltschmerz]Itch.io[/url]]",
+  "source_sha256": "66a44444bcc768e7e107a0ee277e7ec735d2088efe009e9759697c73686dbda0",
+  "translation": "A micro visual novel about two men on a mysterious train developed by tofurocks for the O2A2 (Again) Jam of 2021. Contains some point 'n click elements and three endings.\n\n[From [url=https://tofurocks.itch.io/weltschmerz]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v35733"
+}

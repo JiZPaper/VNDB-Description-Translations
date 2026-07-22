@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115266",
+  "type": "character",
+  "name": "Maria",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Flint's friend in São Miguel",
+  "source_sha256": "28f92909643b3ebdd83c53acbd7ecbb06382307df29fd317df499fca476989e1",
+  "translation": "Flint's friend in São Miguel",
+  "vndb_url": "https://vndb.org/c115266"
+}

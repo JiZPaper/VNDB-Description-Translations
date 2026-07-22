@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17813",
+  "type": "visual_novel",
+  "name": "The Tale of the Talking Frog",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A retelling of the classic fairytale, with a mid-century modern twist.  It's pretty short, one play-through would take about 15 minutes, and there are 3 possible endings.",
+  "source_sha256": "66522d27e88ffbd0c3db6e43abd72c5e6774dd6eb1e629107644e775a62712a6",
+  "translation": "A retelling of the classic fairytale, with a mid-century modern twist.  It's pretty short, one play-through would take about 15 minutes, and there are 3 possible endings.",
+  "vndb_url": "https://vndb.org/v17813"
+}

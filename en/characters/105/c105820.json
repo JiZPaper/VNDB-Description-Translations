@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105820",
+  "type": "character",
+  "name": "Emma",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Social status: A nurse from the Pleasant Valley Hospital\n\nBrief: Emma is an ordinary girl. She took care of me while I was in the hospital. I don't think we would have met under any other circumstances... But that would be a major mistake.",
+  "source_sha256": "e240551577e3fa831dccf392a9fb6b75f7b4fc68a712e30c866b59c6adc19940",
+  "translation": "Social status: A nurse from the Pleasant Valley Hospital\n\nBrief: Emma is an ordinary girl. She took care of me while I was in the hospital. I don't think we would have met under any other circumstances... But that would be a major mistake.",
+  "vndb_url": "https://vndb.org/c105820"
+}

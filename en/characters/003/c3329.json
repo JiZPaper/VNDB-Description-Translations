@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c3329",
+  "type": "character",
+  "name": "Carrot",
+  "original_name": "キャロット",
+  "language": "en",
+  "source_language": "en",
+  "source": "Waitress of Mix Juice.",
+  "source_sha256": "67cfdeed4d52c4aae04ae7497993fb2ddbae3f598c38a531115cf1c65086f35a",
+  "translation": "Waitress of Mix Juice.",
+  "vndb_url": "https://vndb.org/c3329"
+}

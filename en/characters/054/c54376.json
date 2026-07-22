@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c54376",
+  "type": "character",
+  "name": "Toki",
+  "original_name": "トキ",
+  "language": "en",
+  "source_language": "en",
+  "source": "An inner-city detective.",
+  "source_sha256": "47164e11fef44dce170b518e9f26fb4ab682a8cdd02f58b12126c7c34d2bd278",
+  "translation": "An inner-city detective.",
+  "vndb_url": "https://vndb.org/c54376"
+}

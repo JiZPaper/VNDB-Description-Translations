@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23961",
+  "type": "visual_novel",
+  "name": "Hello, My Name Is",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"Hello, My Name Is\" is a visual novel featuring interactions between the employee of a convenience store and its patrons.\n\n[From [url=https://willdesign.itch.io/hellomynameis] itch.io[/url]]",
+  "source_sha256": "faadf61957750ee39223b60f6bc645a5c4f7d88d201688cc38ead08bf197b93e",
+  "translation": "\"Hello, My Name Is\" is a visual novel featuring interactions between the employee of a convenience store and its patrons.\n\n[From [url=https://willdesign.itch.io/hellomynameis] itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v23961"
+}

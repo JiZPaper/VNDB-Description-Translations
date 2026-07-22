@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29509",
+  "type": "visual_novel",
+  "name": "RE",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist, the apprentice of an alchemist, dreams of becoming a great alchemist herself too, but her master never taught her anything. \n\nOne day, the protagonist hears that the town has a drought problem this year.",
+  "source_sha256": "f681f7725984f66aa77b9e04a70d5985427e9028f5abdab852c0876e2d50ed8e",
+  "translation": "The protagonist, the apprentice of an alchemist, dreams of becoming a great alchemist herself too, but her master never taught her anything. \n\nOne day, the protagonist hears that the town has a drought problem this year.",
+  "vndb_url": "https://vndb.org/v29509"
+}

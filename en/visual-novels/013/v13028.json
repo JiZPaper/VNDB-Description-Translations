@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13028",
+  "type": "visual_novel",
+  "name": "Peacemaker",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Lovecraftian story created for Ludum Dare 26.",
+  "source_sha256": "d836b2e283f0ba981065435d7fd415d4d95afdcaf02bcd55b616eaa997c5c771",
+  "translation": "A Lovecraftian story created for Ludum Dare 26.",
+  "vndb_url": "https://vndb.org/v13028"
+}

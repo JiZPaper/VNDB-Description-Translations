@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131779",
+  "type": "character",
+  "name": "Prichina",
+  "original_name": "Причина",
+  "language": "en",
+  "source_language": "en",
+  "source": "A skull-headed creature wrapped in white sheets.",
+  "source_sha256": "887dde133a0b19ee8087727f28cfb41c4c47e0018ea2596e566004aab69e38d4",
+  "translation": "A skull-headed creature wrapped in white sheets.",
+  "vndb_url": "https://vndb.org/c131779"
+}

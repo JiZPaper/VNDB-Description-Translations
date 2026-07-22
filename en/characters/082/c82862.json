@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82862",
+  "type": "character",
+  "name": "John",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "John is the chief doctor of the settlement, he's the one responsible for the creation of RadShield, a serum which helps people resist the radiation without protective suits for a day.",
+  "source_sha256": "fa28decd54acbd10a8645e5fce766483165e7ece2a7ed378765124c9c1998061",
+  "translation": "John is the chief doctor of the settlement, he's the one responsible for the creation of RadShield, a serum which helps people resist the radiation without protective suits for a day.",
+  "vndb_url": "https://vndb.org/c82862"
+}

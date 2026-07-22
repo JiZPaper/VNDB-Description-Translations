@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133807",
+  "type": "character",
+  "name": "Eddy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Eddy is [url=/c89741]Milena[/url]'s brother.",
+  "source_sha256": "043976ced0ccf769db1e970124af59b2c1f1225350aaa40d551a43fc8d0dfc28",
+  "translation": "Eddy is [url=/c89741]Milena[/url]'s brother.",
+  "vndb_url": "https://vndb.org/c133807"
+}

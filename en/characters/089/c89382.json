@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89382",
+  "type": "character",
+  "name": "Less Surly Concubine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A female concubine in the Sultan's harem.",
+  "source_sha256": "342a63bc25a523c33b651dea270b583bc17c21a299bbff9aa5fa7dfbec95804a",
+  "translation": "A female concubine in the Sultan's harem.",
+  "vndb_url": "https://vndb.org/c89382"
+}

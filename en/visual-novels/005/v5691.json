@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5691",
+  "type": "visual_novel",
+  "name": "Umineko no Naku Koro ni Tsubasa",
+  "original_name": "うみねこのなく頃に翼",
+  "language": "en",
+  "source_language": "en",
+  "source": "A collection of the extra TIPS Ryukishi07 has written alongside the series.",
+  "source_sha256": "01088384e35f827b8b3537897357636e581b53dd8613e9247ca84a8d29eddc2e",
+  "translation": "A collection of the extra TIPS Ryukishi07 has written alongside the series.",
+  "vndb_url": "https://vndb.org/v5691"
+}

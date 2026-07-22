@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c157625",
+  "type": "character",
+  "name": "Lym",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A waitress at a cafe in 1999. She is Luna's best friend.",
+  "source_sha256": "e46292febc15c260e96699bab94a9dd5c5ce8d9b4c7ee3054f2d5d4c37bd23ae",
+  "translation": "A waitress at a cafe in 1999. She is Luna's best friend.",
+  "vndb_url": "https://vndb.org/c157625"
+}

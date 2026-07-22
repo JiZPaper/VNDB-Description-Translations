@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126221",
+  "type": "character",
+  "name": "Female Pirate B",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the female pirates who accompany Selena.",
+  "source_sha256": "bb2edf4b2287d391f9d6eb3b658fff6747071606126882c4329c8e0335fd9a3c",
+  "translation": "One of the female pirates who accompany Selena.",
+  "vndb_url": "https://vndb.org/c126221"
+}

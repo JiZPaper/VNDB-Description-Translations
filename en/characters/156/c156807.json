@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156807",
+  "type": "character",
+  "name": "Pastiche",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious girl that appears before Adelise.",
+  "source_sha256": "27274d15bb69b3a2c8feae1b59883e9893dc3df6336a3aac4a5c50d6406f17e3",
+  "translation": "A mysterious girl that appears before Adelise.",
+  "vndb_url": "https://vndb.org/c156807"
+}

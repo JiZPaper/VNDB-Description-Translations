@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110003",
+  "type": "character",
+  "name": "Chris Rover",
+  "original_name": "クリス・ローバー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A maid who temporarily worked at Ashley Househould.",
+  "source_sha256": "ae6683ffdfb15f9799ffdd68c3b5634fbbb47291fc2156f18934a2912ae20e76",
+  "translation": "A maid who temporarily worked at Ashley Househould.",
+  "vndb_url": "https://vndb.org/c110003"
+}

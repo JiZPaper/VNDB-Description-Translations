@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c54374",
+  "type": "character",
+  "name": "Karasu",
+  "original_name": "カラス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Toki's assistant. He's intelligent, but not very good at deduction. He has prosthetic right arm.",
+  "source_sha256": "3af06cb233febc516c46db9585f53163eccf668118d79821e6d62c3522b52f1a",
+  "translation": "Toki's assistant. He's intelligent, but not very good at deduction. He has prosthetic right arm.",
+  "vndb_url": "https://vndb.org/c54374"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122600",
+  "type": "character",
+  "name": "Spuck the dragon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dragon that lives with Purple Smart.",
+  "source_sha256": "5bb1041cfbc68ed47dfb7bfc2c85fa343216dacfc7db15c7e00f1de19d8f4b90",
+  "translation": "A dragon that lives with Purple Smart.",
+  "vndb_url": "https://vndb.org/c122600"
+}

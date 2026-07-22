@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55960",
+  "type": "visual_novel",
+  "name": "Moetan DS",
+  "original_name": "もえたんDS",
+  "language": "en",
+  "source_language": "en",
+  "source": "A game based in the anime inspired by the moe illustrated English textbooks.",
+  "source_sha256": "ad00268b65dbc1d6241660b817476c53a915476d187dac004a05c1c53f7a728a",
+  "translation": "A game based in the anime inspired by the moe illustrated English textbooks.",
+  "vndb_url": "https://vndb.org/v55960"
+}

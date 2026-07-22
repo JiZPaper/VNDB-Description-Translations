@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c90074",
+  "type": "character",
+  "name": "Echo",
+  "original_name": "エコー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mysterious agent that act as Taeko support. Nobody know Echo real identity be it face, sex, age or even real name.",
+  "source_sha256": "1f9ed3c237b4c82fd69f8f9548ab2396818cfeb4407825400cb1851a571e1640",
+  "translation": "Mysterious agent that act as Taeko support. Nobody know Echo real identity be it face, sex, age or even real name.",
+  "vndb_url": "https://vndb.org/c90074"
+}

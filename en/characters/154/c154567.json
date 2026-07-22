@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154567",
+  "type": "character",
+  "name": "Prester John",
+  "original_name": "プレスター・ジョン",
+  "language": "en",
+  "source_language": "en",
+  "source": "The King of the Sea..? A mysterious hero who appeared off the coast of India with a school of fish.\n\n\"The fish are being eaten... just as PJ predicted...\"",
+  "source_sha256": "3e2d60869e9235c2d22e7f3d3ca15851367380d8960521e17d4fb29ac78ab56e",
+  "translation": "The King of the Sea..? A mysterious hero who appeared off the coast of India with a school of fish.\n\n\"The fish are being eaten... just as PJ predicted...\"",
+  "vndb_url": "https://vndb.org/c154567"
+}

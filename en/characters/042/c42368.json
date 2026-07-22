@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42368",
+  "type": "character",
+  "name": "Percy Melbourne",
+  "original_name": "パーシー メルボルン",
+  "language": "en",
+  "source_language": "en",
+  "source": "The prime minister of Australia.",
+  "source_sha256": "cd67f40179c3b5524783400d5e01062072f02afd7243ba239851777d492182f1",
+  "translation": "The prime minister of Australia.",
+  "vndb_url": "https://vndb.org/c42368"
+}

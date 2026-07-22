@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170690",
+  "type": "character",
+  "name": "Ghost",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A naked ghost haunting the abandoned house, longing for clothes to wear",
+  "source_sha256": "3c584089bc492da10a608a6ba58a76cb4ec6fa936f6176686ab0ea88d50b35cc",
+  "translation": "A naked ghost haunting the abandoned house, longing for clothes to wear",
+  "vndb_url": "https://vndb.org/c170690"
+}

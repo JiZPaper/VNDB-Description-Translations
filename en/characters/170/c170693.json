@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170693",
+  "type": "character",
+  "name": "haraS",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Another Sarah appearing in mirrors developed by the lab, who speaks backwards.",
+  "source_sha256": "bb803be466016275e708281654c2f4dee1a03c45dbf71e0a7249448c2ae57bb7",
+  "translation": "Another Sarah appearing in mirrors developed by the lab, who speaks backwards.",
+  "vndb_url": "https://vndb.org/c170693"
+}

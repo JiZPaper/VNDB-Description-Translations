@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c166135",
+  "type": "character",
+  "name": "Edgar",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Young Edgar",
+  "source_sha256": "ffe6a8142c4a6eada96fd675b967298917f7f2d7afd7a4e9a0607cadca92391a",
+  "translation": "Young Edgar",
+  "vndb_url": "https://vndb.org/c166135"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18886",
+  "type": "visual_novel",
+  "name": "Guardian Angel",
+  "original_name": "ガーディアンエンジェル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist Eric will have to borrow the mysterious power from an angel to protect his beloved one.",
+  "source_sha256": "da5a2c798cd55a02fe56e8c2146e58750252911bf8e8eeba6885eb3c9d9e95db",
+  "translation": "Protagonist Eric will have to borrow the mysterious power from an angel to protect his beloved one.",
+  "vndb_url": "https://vndb.org/v18886"
+}

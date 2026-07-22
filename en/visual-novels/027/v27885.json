@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27885",
+  "type": "visual_novel",
+  "name": "Sakura Taisen Monogatari ~Mysterious Paris~",
+  "original_name": "サクラ大戦物語 〜ミステリアス巴里〜",
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel set a year after Sakura Taisen 3. A dancer has disappeared at Chatnoir Theatre, and the Japanese detective Akechi Kojirou is tasked with the case. He will be supported by the Hanagumi and his younger sister, Miki.",
+  "source_sha256": "b32cb7493a2dc5ada495e392df2578781cee3c43bf397e9a7b3830303e732ef9",
+  "translation": "A visual novel set a year after Sakura Taisen 3. A dancer has disappeared at Chatnoir Theatre, and the Japanese detective Akechi Kojirou is tasked with the case. He will be supported by the Hanagumi and his younger sister, Miki.",
+  "vndb_url": "https://vndb.org/v27885"
+}

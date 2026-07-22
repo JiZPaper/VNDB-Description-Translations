@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c33129",
+  "type": "character",
+  "name": "Hourousha",
+  "original_name": "放浪者",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I'll definitely save you. ...No matter what happens, I'll come to your aid.\"\nA mysterious man that Nadeshiko meets in the \"Dream World\".",
+  "source_sha256": "daadd382b784acdf110566d209e664d2e3b07b56707e92c5d2dc1210884b7fdd",
+  "translation": "\"I'll definitely save you. ...No matter what happens, I'll come to your aid.\"\nA mysterious man that Nadeshiko meets in the \"Dream World\".",
+  "vndb_url": "https://vndb.org/c33129"
+}

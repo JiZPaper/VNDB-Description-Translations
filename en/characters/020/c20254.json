@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20254",
+  "type": "character",
+  "name": "Slim",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The drummer in Max's band.",
+  "source_sha256": "be80e1c6635e3d3ff61a3c6901b2abe678113b3bed5ddc47f8e98fe898140619",
+  "translation": "The drummer in Max's band.",
+  "vndb_url": "https://vndb.org/c20254"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c74797",
+  "type": "character",
+  "name": "Anne Smythe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A KoiTec representative and school counselor.",
+  "source_sha256": "4a1105d06e6af465b9a19affb0b513f88e640cd97246768ed21e780e620daf9b",
+  "translation": "A KoiTec representative and school counselor.",
+  "vndb_url": "https://vndb.org/c74797"
+}

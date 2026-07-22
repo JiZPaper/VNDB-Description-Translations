@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37284",
+  "type": "character",
+  "name": "Anan Yoshio",
+  "original_name": "阿南 よしお",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Mayor of Suzushiro City.\n\nWhile rumours abound of his shady ties to corporations, he has never once been arrested, though whisperings persist.",
+  "source_sha256": "577619f38e9b280a73e8b86aff95d9d0564edabe47aadb7402e42295ce45c524",
+  "translation": "The Mayor of Suzushiro City.\n\nWhile rumours abound of his shady ties to corporations, he has never once been arrested, though whisperings persist.",
+  "vndb_url": "https://vndb.org/c37284"
+}

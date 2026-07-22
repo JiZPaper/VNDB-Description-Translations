@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c109069",
+  "type": "character",
+  "name": "Takeshita",
+  "original_name": "竹下",
+  "language": "en",
+  "source_language": "en",
+  "source": "Producer of TV programs.",
+  "source_sha256": "9ad1597ed0798081508cd231dc7671e900ba56a93eb625329a3f9994cfacff57",
+  "translation": "Producer of TV programs.",
+  "vndb_url": "https://vndb.org/c109069"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102148",
+  "type": "character",
+  "name": "Onslow",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Onslow is Eddie's father.",
+  "source_sha256": "ddf2d2590fb8d5f328523152a82d213f7818845cbe71252dc44aad8d088f981c",
+  "translation": "Onslow is Eddie's father.",
+  "vndb_url": "https://vndb.org/c102148"
+}

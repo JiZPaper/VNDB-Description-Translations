@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169822",
+  "type": "character",
+  "name": "Chance",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A friend of [url=/c169802]Brayden Willberg[/url] and a frequent customer of [url=/c169854]Joseph Lawrence[/url].",
+  "source_sha256": "9c2d4256a8e52d262ba9491eb7d1ec8d957bece66601396ee48497117e3ad203",
+  "translation": "A friend of [url=/c169802]Brayden Willberg[/url] and a frequent customer of [url=/c169854]Joseph Lawrence[/url].",
+  "vndb_url": "https://vndb.org/c169822"
+}

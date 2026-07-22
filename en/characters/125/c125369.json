@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c125369",
+  "type": "character",
+  "name": "River",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Village dweller",
+  "source_sha256": "b3ce1bd2944cb5076a36bfd640fe6f8a937ed70d745a21192f4cf08589051574",
+  "translation": "Village dweller",
+  "vndb_url": "https://vndb.org/c125369"
+}

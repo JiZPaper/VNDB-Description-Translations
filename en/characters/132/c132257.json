@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132257",
+  "type": "character",
+  "name": "Debby",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Personal trainer",
+  "source_sha256": "c6644b3efdf4c84b9bd936e0a7e6fbc35b0f8b6102cad9b3092715675b291a89",
+  "translation": "Personal trainer",
+  "vndb_url": "https://vndb.org/c132257"
+}

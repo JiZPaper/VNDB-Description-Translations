@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c6672",
+  "type": "character",
+  "name": "Hammune",
+  "original_name": "ハミュン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A young wizard's assistant with brown hair. She's a very young girl, about the \nsame size as Turner. She's not very good at battle, but attempts to hit the enemies with \na staff.",
+  "source_sha256": "3bcaa3dcc6efb14b567441527fc234aff950a454dbc60ee7ed35120a098dc1cb",
+  "translation": "A young wizard's assistant with brown hair. She's a very young girl, about the \nsame size as Turner. She's not very good at battle, but attempts to hit the enemies with \na staff.",
+  "vndb_url": "https://vndb.org/c6672"
+}

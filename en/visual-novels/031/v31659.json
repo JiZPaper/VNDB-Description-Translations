@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31659",
+  "type": "visual_novel",
+  "name": "Homestuck",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Homestuck is a webcomic written, illustrated, and animated by American author and artist Andrew Hussie. The comic centers on a group of teens who play a beta version of an upcoming computer game.\n\n[From [url=https://en.wikipedia.org/wiki/Homestuck]Wikipedia[/url]].",
+  "source_sha256": "6fa47ea177e71c0c9feae891f40cb5434bbbe2d34267da9360107c7b07fe7f39",
+  "translation": "Homestuck is a webcomic written, illustrated, and animated by American author and artist Andrew Hussie. The comic centers on a group of teens who play a beta version of an upcoming computer game.\n\n[From [url=https://en.wikipedia.org/wiki/Homestuck]Wikipedia[/url]].",
+  "vndb_url": "https://vndb.org/v31659"
+}

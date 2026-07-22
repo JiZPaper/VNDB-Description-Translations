@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11443",
+  "type": "visual_novel",
+  "name": "Shirotsume Souwa Bangai Hen \"Tsunakawa-sanchi no Christmas\"",
+  "original_name": "白詰草話番外編 『津名川さん家のクリスマス』",
+  "language": "en",
+  "source_language": "en",
+  "source": "Short, stand-alone side-story available for free from Littlewitch's website.",
+  "source_sha256": "d1f3c92cc7f82bc1303feb5f7b19e9eb3f35d10eed10a8980b3e68052495cd95",
+  "translation": "Short, stand-alone side-story available for free from Littlewitch's website.",
+  "vndb_url": "https://vndb.org/v11443"
+}

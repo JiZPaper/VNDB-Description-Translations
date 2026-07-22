@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c163762",
+  "type": "character",
+  "name": "Miranda",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Miranda is a law student at Stocklingburg University.",
+  "source_sha256": "07c16780cf74b548ac6a40dd6613edf61dd71884c3ad029e830956b8e161e9ca",
+  "translation": "Miranda is a law student at Stocklingburg University.",
+  "vndb_url": "https://vndb.org/c163762"
+}

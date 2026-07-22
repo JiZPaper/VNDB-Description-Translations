@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45842",
+  "type": "visual_novel",
+  "name": "Fletch",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You come home to a strange man inside your apartment.",
+  "source_sha256": "0f32130015d0e00c22ba1de71c23e0e710e34d4df638aa8c5c3b6751c702438c",
+  "translation": "You come home to a strange man inside your apartment.",
+  "vndb_url": "https://vndb.org/v45842"
+}

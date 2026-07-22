@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65463",
+  "type": "visual_novel",
+  "name": "Amadeusu no Negai",
+  "original_name": "アマデウスの願い",
+  "language": "en",
+  "source_language": "en",
+  "source": "At a girl's wish, humanity perished.\n\nMeno is an angel with the power to grant people's wishes. \n\"This world should just perish\", a wish Meno unknowingly granted, led to the destruction of humanity.",
+  "source_sha256": "2f10138e7d484bf336ae25e86562db69a1b77ad66a4c99ed1bef7f459e318910",
+  "translation": "At a girl's wish, humanity perished.\n\nMeno is an angel with the power to grant people's wishes. \n\"This world should just perish\", a wish Meno unknowingly granted, led to the destruction of humanity.",
+  "vndb_url": "https://vndb.org/v65463"
+}

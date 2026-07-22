@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134207",
+  "type": "character",
+  "name": "Aria",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She works at a pizza place the hero frequents.",
+  "source_sha256": "e8046e8841e6c8a66d67ad1b38a3d0981c2f0e2d07e9b5affe244f94d1c91661",
+  "translation": "She works at a pizza place the hero frequents.",
+  "vndb_url": "https://vndb.org/c134207"
+}

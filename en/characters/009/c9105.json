@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9105",
+  "type": "character",
+  "name": "Mephisto",
+  "original_name": "メフィスト",
+  "language": "en",
+  "source_language": "en",
+  "source": "Grand Duke (Duchess) of Hell",
+  "source_sha256": "3392a6ed99651de0c4ff002c4c9933e864d9e378771135d0b882e94b826127ac",
+  "translation": "Grand Duke (Duchess) of Hell",
+  "vndb_url": "https://vndb.org/c9105"
+}

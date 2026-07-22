@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76551",
+  "type": "character",
+  "name": "Stephanie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A shy but cheery student at the college. She loves baking.",
+  "source_sha256": "00b57598926ce0bb2234e9da09e07ab8d6d5bd47cc461042ad20b6b5320b9e4f",
+  "translation": "A shy but cheery student at the college. She loves baking.",
+  "vndb_url": "https://vndb.org/c76551"
+}

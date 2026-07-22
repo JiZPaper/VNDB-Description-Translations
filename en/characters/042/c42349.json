@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42349",
+  "type": "character",
+  "name": "Jean",
+  "original_name": "ジャン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Tsunderella's father.\nBecause of his work he's rarely home.",
+  "source_sha256": "521b4fd5af910d2d801d531a5b7725ca18779649814bcfb95ad2886772f06424",
+  "translation": "Tsunderella's father.\nBecause of his work he's rarely home.",
+  "vndb_url": "https://vndb.org/c42349"
+}

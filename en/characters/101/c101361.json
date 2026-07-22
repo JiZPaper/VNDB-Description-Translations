@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c101361",
+  "type": "character",
+  "name": "Leon Dompteur",
+  "original_name": "レオン＝ドントゥール",
+  "language": "en",
+  "source_language": "en",
+  "source": "The original Leon Dompteur, who died of illness as a child.\nBefore he died, he taught a slave boy who looked identical to him (his planned replacement) how to be a prince.",
+  "source_sha256": "dda08c8fb0e98b526c7347d811981a3923140571af0b194b7bf1f2fd12ee4af0",
+  "translation": "The original Leon Dompteur, who died of illness as a child.\nBefore he died, he taught a slave boy who looked identical to him (his planned replacement) how to be a prince.",
+  "vndb_url": "https://vndb.org/c101361"
+}

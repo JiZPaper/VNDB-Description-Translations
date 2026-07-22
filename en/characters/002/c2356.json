@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c2356",
+  "type": "character",
+  "name": "Julie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A philosophy major who works in the bookstore.",
+  "source_sha256": "6d40e959cc8ae27ffaad26fa4475b4e724f307b33fad9a8d73a2bf1ba6c8913b",
+  "translation": "A philosophy major who works in the bookstore.",
+  "vndb_url": "https://vndb.org/c2356"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c140987",
+  "type": "character",
+  "name": "Kyle Nelson",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Male choosable protagonist.",
+  "source_sha256": "d9239ba2a50d4d384f9693038c63b2bdeed9eda51de9e49a56c93c6578e86aa3",
+  "translation": "The Male choosable protagonist.",
+  "vndb_url": "https://vndb.org/c140987"
+}

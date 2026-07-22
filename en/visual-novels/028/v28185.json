@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28185",
+  "type": "visual_novel",
+  "name": "Weekend Fever",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "While setting up an art patronage project you visit your home town.",
+  "source_sha256": "fcab78fbc8559cb7adcd32cec990bd2a1abf70aa7bfc8150a2a22bc87ce31ec5",
+  "translation": "While setting up an art patronage project you visit your home town.",
+  "vndb_url": "https://vndb.org/v28185"
+}

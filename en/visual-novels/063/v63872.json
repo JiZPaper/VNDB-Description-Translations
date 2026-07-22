@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63872",
+  "type": "visual_novel",
+  "name": "Houmatsu no Yumemonogatari",
+  "original_name": "泡沫の夢物語",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a game where, one day out of the blue, the player finds and raises an Asu Cat. The ending changes slightly depending on how you raise it. It features plenty of special graphics and comes with an opening movie!",
+  "source_sha256": "06785cdc85f12fb2004d9f657cb2a0e9eef1d8ad14da12e1bf82480e7c53053f",
+  "translation": "This is a game where, one day out of the blue, the player finds and raises an Asu Cat. The ending changes slightly depending on how you raise it. It features plenty of special graphics and comes with an opening movie!",
+  "vndb_url": "https://vndb.org/v63872"
+}

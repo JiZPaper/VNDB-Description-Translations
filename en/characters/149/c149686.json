@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c149686",
+  "type": "character",
+  "name": "Sudo",
+  "original_name": "素多",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the employees at Chotung's Cafe. She often works in the kitchen.",
+  "source_sha256": "436cf47d6b76834d66594bd10b810ad1a27a69ccda81b6b64cf622e3ae742505",
+  "translation": "One of the employees at Chotung's Cafe. She often works in the kitchen.",
+  "vndb_url": "https://vndb.org/c149686"
+}

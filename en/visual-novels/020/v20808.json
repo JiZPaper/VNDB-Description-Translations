@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20808",
+  "type": "visual_novel",
+  "name": "Sakura Valentine's Day",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Haru juggles dates with two different girls on Valentine's Day.",
+  "source_sha256": "6080785c678f6af9416fb93198295dadf1d437d3b50bcf736f490ce0a80026a3",
+  "translation": "Haru juggles dates with two different girls on Valentine's Day.",
+  "vndb_url": "https://vndb.org/v20808"
+}

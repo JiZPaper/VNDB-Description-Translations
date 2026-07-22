@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c87258",
+  "type": "character",
+  "name": "Sakurai Haruki",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An employee at a nearby grocery store.",
+  "source_sha256": "558a56566e4e227cc2a76694ba8acc471a123b44f30469043cbac8b372ea9482",
+  "translation": "An employee at a nearby grocery store.",
+  "vndb_url": "https://vndb.org/c87258"
+}

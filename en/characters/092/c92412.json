@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c92412",
+  "type": "character",
+  "name": "Muno Manta",
+  "original_name": "むの まん太",
+  "language": "en",
+  "source_language": "en",
+  "source": "The host of the TV show Who Wants to Be a Millionaire",
+  "source_sha256": "a6560e416b1b9b575397943d5cb036ca57a4c1a3ea35808632a4e3500b7ceb98",
+  "translation": "The host of the TV show Who Wants to Be a Millionaire",
+  "vndb_url": "https://vndb.org/c92412"
+}

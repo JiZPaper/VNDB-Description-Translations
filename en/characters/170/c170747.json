@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170747",
+  "type": "character",
+  "name": "Eliza Hopper",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An outgoing and energetic Threesquare student.",
+  "source_sha256": "01664cc928bbf44133c44b814503c6bfd183748bc7e2881164fe984ff118b9ad",
+  "translation": "An outgoing and energetic Threesquare student.",
+  "vndb_url": "https://vndb.org/c170747"
+}

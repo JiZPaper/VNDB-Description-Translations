@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93747",
+  "type": "character",
+  "name": "Charlie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A teaching assistant in Mr Lee's class.",
+  "source_sha256": "43ce00f983ccf2ce52c12990fc011042e5ae2a3d0d424b2348f31dd55d872e29",
+  "translation": "A teaching assistant in Mr Lee's class.",
+  "vndb_url": "https://vndb.org/c93747"
+}

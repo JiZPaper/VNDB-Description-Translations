@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c16182",
+  "type": "character",
+  "name": "Guo Ziyi",
+  "original_name": "郭子儀",
+  "language": "en",
+  "source_language": "en",
+  "source": "Chinese tour guide.",
+  "source_sha256": "7e889e8da68152fb572ba74bd4e169868e7b2808b2e5cfdd0e562acb288be276",
+  "translation": "Chinese tour guide.",
+  "vndb_url": "https://vndb.org/c16182"
+}

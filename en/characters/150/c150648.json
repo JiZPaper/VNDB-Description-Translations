@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150648",
+  "type": "character",
+  "name": "Candy Shop Lady",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An old lady who runs the candy shop for the years in Kazamatsuri.",
+  "source_sha256": "0c979847620081ad2b4388d74f19e74a7172dcfa44aaed4e39d5b3d4d2381e30",
+  "translation": "An old lady who runs the candy shop for the years in Kazamatsuri.",
+  "vndb_url": "https://vndb.org/c150648"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55923",
+  "type": "visual_novel",
+  "name": "Aalis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about a troubled boy and Aalis, a girl whose existence is erased when the rain ceases.",
+  "source_sha256": "55b6240b9b00c7155ca82494a0b6705b0181637b4680f082b4f7ee666d4d7438",
+  "translation": "A story about a troubled boy and Aalis, a girl whose existence is erased when the rain ceases.",
+  "vndb_url": "https://vndb.org/v55923"
+}

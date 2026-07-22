@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13175",
+  "type": "visual_novel",
+  "name": "Crimson: A Story of Alienation",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A story of delusions, dreams and redemption.\n\n[From [url=https://web.archive.org/web/20210324202604/http://games.renpy.org/game/crimson.shtml]Ren'Ai Archive[/url]]",
+  "source_sha256": "aeb3e2e19c9098c25acae3bd4ddeb44645a03d3c49cc87bf550e947be2cfad91",
+  "translation": "A story of delusions, dreams and redemption.\n\n[From [url=https://web.archive.org/web/20210324202604/http://games.renpy.org/game/crimson.shtml]Ren'Ai Archive[/url]]",
+  "vndb_url": "https://vndb.org/v13175"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11878",
+  "type": "visual_novel",
+  "name": "Verschneite Weihnachtstage",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short story about 3 high school girls enjoying the days before christmas.",
+  "source_sha256": "4902cd03e5bfdd22e110d9f66dc7d8e5558bbc694e68330bead3a43f61f25a6b",
+  "translation": "A short story about 3 high school girls enjoying the days before christmas.",
+  "vndb_url": "https://vndb.org/v11878"
+}

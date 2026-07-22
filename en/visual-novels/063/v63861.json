@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63861",
+  "type": "visual_novel",
+  "name": "Seven Days",
+  "original_name": "セブンデイズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist returns home after a long absence.\nHowever, he is greeted by his younger brother, who suddenly became incredibly unfriendly to him...?\nWill his brother be able to smile again before he returns to his apartment?",
+  "source_sha256": "881d4737c198d5e0810373af367dc2aa9e819f28dfaf61a71b39abaa6b073cba",
+  "translation": "The protagonist returns home after a long absence.\nHowever, he is greeted by his younger brother, who suddenly became incredibly unfriendly to him...?\nWill his brother be able to smile again before he returns to his apartment?",
+  "vndb_url": "https://vndb.org/v63861"
+}

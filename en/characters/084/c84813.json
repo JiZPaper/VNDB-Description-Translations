@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84813",
+  "type": "character",
+  "name": "Annie Huang",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Flight engineer of the Vanguard.",
+  "source_sha256": "8d9567eb851cee4fea48a27275c8271fa6a781b71387e00bf2c26fd508fd6018",
+  "translation": "Flight engineer of the Vanguard.",
+  "vndb_url": "https://vndb.org/c84813"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c81661",
+  "type": "character",
+  "name": "Vilem Skoda",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The cook of the hotel.",
+  "source_sha256": "0ba30f4821ff6bd2ce5bac834038347d7e590cb45779da4b80cc4a9e42192cbf",
+  "translation": "The cook of the hotel.",
+  "vndb_url": "https://vndb.org/c81661"
+}

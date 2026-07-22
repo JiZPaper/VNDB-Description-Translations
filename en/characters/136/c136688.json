@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136688",
+  "type": "character",
+  "name": "Kiwabe",
+  "original_name": "際辺",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Kitayama's clients.",
+  "source_sha256": "75840fafc9543d343c4bd5c044a65b58faf8be893dbf567c141652b7413c0e44",
+  "translation": "One of Kitayama's clients.",
+  "vndb_url": "https://vndb.org/c136688"
+}

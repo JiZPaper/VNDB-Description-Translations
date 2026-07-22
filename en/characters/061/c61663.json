@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c61663",
+  "type": "character",
+  "name": "Miku",
+  "original_name": "未来",
+  "language": "en",
+  "source_language": "en",
+  "source": "Miyako's younger brother.",
+  "source_sha256": "48f371a370995ee2189ee73f60d1046d96e14b65c09bae1c59ab50e4880b00b4",
+  "translation": "Miyako's younger brother.",
+  "vndb_url": "https://vndb.org/c61663"
+}

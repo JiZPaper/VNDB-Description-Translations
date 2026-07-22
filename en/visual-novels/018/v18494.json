@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18494",
+  "type": "visual_novel",
+  "name": "Minecraft: A Dimensional Disaster",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Minecraft story based on Mob Talker characters.",
+  "source_sha256": "cc4e307c1e0d99f75c4e2537c7e20c9a8a26d85a341cc36ccd25c9d13dc04c9d",
+  "translation": "A Minecraft story based on Mob Talker characters.",
+  "vndb_url": "https://vndb.org/v18494"
+}

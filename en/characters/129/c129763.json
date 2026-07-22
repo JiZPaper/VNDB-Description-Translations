@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c129763",
+  "type": "character",
+  "name": "Edwaldo's Mother",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mother",
+  "source_sha256": "86605cac7f0646867f62ff0f03ca6af9dc3ce860f772a8673cdb6cd34dffc3b1",
+  "translation": "Mother",
+  "vndb_url": "https://vndb.org/c129763"
+}

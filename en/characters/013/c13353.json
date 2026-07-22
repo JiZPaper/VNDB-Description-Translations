@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c13353",
+  "type": "character",
+  "name": "Santa",
+  "original_name": "サンタ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Apprentice of Santa Claus",
+  "source_sha256": "29e7b241cbef5f14f29d2ed2e82a7722c6464f8974b6643e1c176b50c81b6ad3",
+  "translation": "Apprentice of Santa Claus",
+  "vndb_url": "https://vndb.org/c13353"
+}

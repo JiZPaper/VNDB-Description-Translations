@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97443",
+  "type": "character",
+  "name": "Cavalryman",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "soldiers of Lugdium.",
+  "source_sha256": "8b6f4fa76e8238a3e9d531c66bcae7ff4c7d2bce9f869c7e729d4a759ad97de2",
+  "translation": "soldiers of Lugdium.",
+  "vndb_url": "https://vndb.org/c97443"
+}

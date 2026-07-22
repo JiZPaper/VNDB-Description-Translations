@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9014",
+  "type": "visual_novel",
+  "name": "Pocky 2 ~Kaijin Aka Mantle no Chousen~",
+  "original_name": "ポッキー２ ～怪人赤マントの挑戦～",
+  "language": "en",
+  "source_language": "en",
+  "source": "Pocky Private High School is in trouble. A mysterious person plays all sorts of malicious pranks, steals valuable objects, and harasses female students. The fear of the horrible ghost, the Aka Manto (Red Cap), is surfacing. It's up to a team of female students, led by Miki, to investigate the strange occurrences and find the true culprit.\n\nThe sequel to Pocky has more streamlined gameplay, with fewer commands (only \"Ask\", \"Examine\", \"Think\" and \"Move\" have been retained) and less freedom in navigation. However, the sub-menus are more extensive, since the story often advances after the player selects various topics during conversation and uncovers more clues.\n\n[From [url=http://www.mobygames.com/game/pocky-2-kaijin-aka-manto-no-chsen]Mobygames[/url]]",
+  "source_sha256": "088eb47725188cae067e546b18d9df70065c3e4860972feb25805d96bddc7829",
+  "translation": "Pocky Private High School is in trouble. A mysterious person plays all sorts of malicious pranks, steals valuable objects, and harasses female students. The fear of the horrible ghost, the Aka Manto (Red Cap), is surfacing. It's up to a team of female students, led by Miki, to investigate the strange occurrences and find the true culprit.\n\nThe sequel to Pocky has more streamlined gameplay, with fewer commands (only \"Ask\", \"Examine\", \"Think\" and \"Move\" have been retained) and less freedom in navigation. However, the sub-menus are more extensive, since the story often advances after the player selects various topics during conversation and uncovers more clues.\n\n[From [url=http://www.mobygames.com/game/pocky-2-kaijin-aka-manto-no-chsen]Mobygames[/url]]",
+  "vndb_url": "https://vndb.org/v9014"
+}

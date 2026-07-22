@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32161",
+  "type": "visual_novel",
+  "name": "Apollo Justice: Ace Attorney IF",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Apollo Justice: Ace Attorney IF is a complete fangame based on Apollo Justice: Ace Attorney 4.",
+  "source_sha256": "f9702c3648a631cab41d36f8df9915e018f27ab15d81cfc8068ddb6028edcfd8",
+  "translation": "Apollo Justice: Ace Attorney IF is a complete fangame based on Apollo Justice: Ace Attorney 4.",
+  "vndb_url": "https://vndb.org/v32161"
+}

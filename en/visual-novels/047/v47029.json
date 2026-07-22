@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47029",
+  "type": "visual_novel",
+  "name": "Wo de Yisheng",
+  "original_name": "我的一生",
+  "language": "en",
+  "source_language": "en",
+  "source": "A small game to experience the life of an ordinary person.\n\n[From [url=https://store.steampowered.com/app/2509460/]Steam[/url]]",
+  "source_sha256": "eb2890beb65441e0ebe837dd5b11ff4305e383dd568233792275bdd92d5da08f",
+  "translation": "A small game to experience the life of an ordinary person.\n\n[From [url=https://store.steampowered.com/app/2509460/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v47029"
+}

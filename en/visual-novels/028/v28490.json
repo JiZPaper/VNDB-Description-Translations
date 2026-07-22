@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28490",
+  "type": "visual_novel",
+  "name": "She Was Red. -Ubawareta Akazukin-",
+  "original_name": "She was red.ー奪われた赤ずきんー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A retelling of Little Red Riding Hood.",
+  "source_sha256": "6e81d0c7a95c2dba1238c7b912258dd6018e6de3a37ef63efffda6d9ca93ed67",
+  "translation": "A retelling of Little Red Riding Hood.",
+  "vndb_url": "https://vndb.org/v28490"
+}

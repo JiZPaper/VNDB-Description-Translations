@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161611",
+  "type": "character",
+  "name": "\"Ivan\"",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A creature who´s looks are similar to Ivan.\nLives in Till´s appartment while taking care of him.",
+  "source_sha256": "a70be65d04b81c14f926dc69dbe1e5fc34c6d78212f7a9fb414ecb941981920f",
+  "translation": "A creature who´s looks are similar to Ivan.\nLives in Till´s appartment while taking care of him.",
+  "vndb_url": "https://vndb.org/c161611"
+}

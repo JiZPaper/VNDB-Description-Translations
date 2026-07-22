@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98349",
+  "type": "character",
+  "name": "William Prosper",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mr. William Prosper is the owner of the swankiest café in the city.",
+  "source_sha256": "26b13ab04fa503fa3bdf2413385e21019bcd5b8abfd9e8b5b486f4d2a245ae9f",
+  "translation": "Mr. William Prosper is the owner of the swankiest café in the city.",
+  "vndb_url": "https://vndb.org/c98349"
+}

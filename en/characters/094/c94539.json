@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94539",
+  "type": "character",
+  "name": "Jesse",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious man seen around campus on occasion.",
+  "source_sha256": "724948a5f48db2472a3dae01886fa1f099f00bc0da4f5b5b5da33215f4378b36",
+  "translation": "A mysterious man seen around campus on occasion.",
+  "vndb_url": "https://vndb.org/c94539"
+}

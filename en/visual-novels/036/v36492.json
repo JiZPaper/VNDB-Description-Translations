@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36492",
+  "type": "visual_novel",
+  "name": "Epitafija",
+  "original_name": "Эпитафия",
+  "language": "en",
+  "source_language": "en",
+  "source": "Made in 10 days for Anivisual Jam #4 \"Last Day\"",
+  "source_sha256": "e5d44f1664187458dd52ff1b2f94c07c564c530e3cde2aead9329e791ed4bfb2",
+  "translation": "Made in 10 days for Anivisual Jam #4 \"Last Day\"",
+  "vndb_url": "https://vndb.org/v36492"
+}

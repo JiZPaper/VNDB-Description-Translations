@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12398",
+  "type": "visual_novel",
+  "name": "Joshikousei ga Kataru Chikan Densha",
+  "original_name": "女子校生が語る痴漢電車",
+  "language": "en",
+  "source_language": "en",
+  "source": "A pair of sisters. One starts going to school on the wrong train.",
+  "source_sha256": "e25e2af51c11dd721a5af5a1098cfea0d6b9785eb3dfe44645781fadb1db8f28",
+  "translation": "A pair of sisters. One starts going to school on the wrong train.",
+  "vndb_url": "https://vndb.org/v12398"
+}

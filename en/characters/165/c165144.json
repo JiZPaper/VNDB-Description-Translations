@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165144",
+  "type": "character",
+  "name": "Miles",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist.\nJenny's husband.",
+  "source_sha256": "f2ee8b96b30d496c4bd2286bf9775019541416bae5278cf4a39ca4cda85b06f8",
+  "translation": "The protagonist.\nJenny's husband.",
+  "vndb_url": "https://vndb.org/c165144"
+}

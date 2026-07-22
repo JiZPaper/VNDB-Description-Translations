@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39645",
+  "type": "visual_novel",
+  "name": "Raining cats and dogs",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A very NSFW furry visual novel.",
+  "source_sha256": "9d856ae544a318cfbf259f297c1fac08566dbc3fc971c7ad17b7553be42d1629",
+  "translation": "A very NSFW furry visual novel.",
+  "vndb_url": "https://vndb.org/v39645"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c76314",
+  "type": "character",
+  "name": "Dr. Ken",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A doctor at Morningwood Hospital. He comes into contact with Kovit at some point in the story. He's quite friendly, perhaps as a requirement of his job. He is used to the quirks of his patients, so nothing really fazes him.",
+  "source_sha256": "f5402b345b208f8c8e6cf01c00bdf0bc2fac9e94e326a0053fdccc3cad0736b0",
+  "translation": "A doctor at Morningwood Hospital. He comes into contact with Kovit at some point in the story. He's quite friendly, perhaps as a requirement of his job. He is used to the quirks of his patients, so nothing really fazes him.",
+  "vndb_url": "https://vndb.org/c76314"
+}

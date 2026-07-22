@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25505",
+  "type": "character",
+  "name": "Ish",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is Mugen Cafe's owner and is an excellent cook to boot.",
+  "source_sha256": "d2ce0ddbaa09a9cf7d0d9da65751a82925040d7f28030003f9844195af9a323a",
+  "translation": "He is Mugen Cafe's owner and is an excellent cook to boot.",
+  "vndb_url": "https://vndb.org/c25505"
+}

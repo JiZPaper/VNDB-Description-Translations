@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43584",
+  "type": "visual_novel",
+  "name": "Lockbox",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short, kinetic visual novel about a jaded author meeting her creation.\n\n[From [url=https://cottonbell.itch.io/lockbox]Itch.io[/url]]",
+  "source_sha256": "d4222680f52b699b6122e242aaefb9f3b5ec916beb70258f0ae9fb0b013403a9",
+  "translation": "A short, kinetic visual novel about a jaded author meeting her creation.\n\n[From [url=https://cottonbell.itch.io/lockbox]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43584"
+}

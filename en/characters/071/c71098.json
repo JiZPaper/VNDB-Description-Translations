@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71098",
+  "type": "character",
+  "name": "Ars",
+  "original_name": "アルス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A craftsman who sells equipment in the City of Dusk's market.",
+  "source_sha256": "2ce1dda471142925de5776e6fdca1de371675440024f03f6fa637216cfdebd6a",
+  "translation": "A craftsman who sells equipment in the City of Dusk's market.",
+  "vndb_url": "https://vndb.org/c71098"
+}

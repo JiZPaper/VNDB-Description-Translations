@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100202",
+  "type": "character",
+  "name": "Hansberg",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A businessman who hired two assassins to kill an informant who has sensible information about his operations.",
+  "source_sha256": "d164eddb08a38af0d5492bf250f1e5addafe94c56c7ca4938b3ea4368f492eac",
+  "translation": "A businessman who hired two assassins to kill an informant who has sensible information about his operations.",
+  "vndb_url": "https://vndb.org/c100202"
+}

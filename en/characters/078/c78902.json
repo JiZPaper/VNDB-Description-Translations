@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c78902",
+  "type": "character",
+  "name": "Yonezawa",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The drummer in Yagami's band.",
+  "source_sha256": "d66d7aa08096a6c83e6d4edaf9378b2cd28f6de4f923ec20a66e7d966a2edebe",
+  "translation": "The drummer in Yagami's band.",
+  "vndb_url": "https://vndb.org/c78902"
+}

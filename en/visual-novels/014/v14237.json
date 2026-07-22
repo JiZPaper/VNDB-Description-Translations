@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14237",
+  "type": "visual_novel",
+  "name": "Shingeki no Kyojin: Wall Sina, Goodbye",
+  "original_name": "進撃の巨人 Wall Sina, Goodbye",
+  "language": "en",
+  "source_language": "en",
+  "source": "Side story about Annie Leonhart that is included in the anime Blu-ray/DVD box vol. 6.",
+  "source_sha256": "167188cf3eb433f9d1fd386cab50855457d206b3e03c19b7fa98cdc9105087c0",
+  "translation": "Side story about Annie Leonhart that is included in the anime Blu-ray/DVD box vol. 6.",
+  "vndb_url": "https://vndb.org/v14237"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c119155",
+  "type": "character",
+  "name": "Cocktail",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The self-designated bartender. Very polite and refined, the ideal image of a barman, but can he be trusted?",
+  "source_sha256": "9e0ae5574af1a43f1d5f94ff56dea18c15c68b323befcee3aa2e513c18f63411",
+  "translation": "The self-designated bartender. Very polite and refined, the ideal image of a barman, but can he be trusted?",
+  "vndb_url": "https://vndb.org/c119155"
+}

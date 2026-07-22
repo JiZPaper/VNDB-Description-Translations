@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30496",
+  "type": "visual_novel",
+  "name": "Kizuite yo Kanojo-chan",
+  "original_name": "気づいてよ彼女ちゃん",
+  "language": "en",
+  "source_language": "en",
+  "source": "There's something not right with protagonist's girlfriend.",
+  "source_sha256": "e1267c32e902ccf0c7ca080cc768d8d29a55c8518506c8f1ee049819ec3e9a8e",
+  "translation": "There's something not right with protagonist's girlfriend.",
+  "vndb_url": "https://vndb.org/v30496"
+}

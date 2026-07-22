@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136141",
+  "type": "character",
+  "name": "Thieves' Leader Kodjia",
+  "original_name": "盗賊の頭コジア",
+  "language": "en",
+  "source_language": "en",
+  "source": "The antagonist of the event \"Clever Morgiana's Day Off\".\n\nThe leader of the 40 thieves.",
+  "source_sha256": "7cc93b5c27dffd3a3908806408bedf4eff8d87b0ad84da187bbd3a78bbdd7525",
+  "translation": "The antagonist of the event \"Clever Morgiana's Day Off\".\n\nThe leader of the 40 thieves.",
+  "vndb_url": "https://vndb.org/c136141"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11609",
+  "type": "character",
+  "name": "Verrucca Rozen",
+  "original_name": "ベルカ・ローゼン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A dancer in a suspicious bar. Seems to have some kind of dark past.",
+  "source_sha256": "2b2e266412449d0bf4d3d638e630c232c1e8f4d5feb3d0ed3826a2699f645a80",
+  "translation": "A dancer in a suspicious bar. Seems to have some kind of dark past.",
+  "vndb_url": "https://vndb.org/c11609"
+}

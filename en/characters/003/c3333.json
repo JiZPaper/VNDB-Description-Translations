@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c3333",
+  "type": "character",
+  "name": "Madeleine",
+  "original_name": "マドレーヌ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Waitress at Candy House.",
+  "source_sha256": "9e5424f54aeca82860a3910fa60756a3a090365fec66027355da2192d54ecd0c",
+  "translation": "Waitress at Candy House.",
+  "vndb_url": "https://vndb.org/c3333"
+}

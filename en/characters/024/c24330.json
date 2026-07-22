@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c24330",
+  "type": "character",
+  "name": "Shukuyuu",
+  "original_name": "祝融",
+  "language": "en",
+  "source_language": "en",
+  "source": "Weapon: Dual Swords",
+  "source_sha256": "23643d1448a826d2f30f13db5971f03b513cce86e338a655403fc1f72450f740",
+  "translation": "Weapon: Dual Swords",
+  "vndb_url": "https://vndb.org/c24330"
+}

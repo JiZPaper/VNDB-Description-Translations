@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c127866",
+  "type": "character",
+  "name": "Ecclesiasticalot FF",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Robot priest you meet at the local church.",
+  "source_sha256": "01fd0029ec32c4846d38bea8d95171862cbd3ef21c4398d60d312b8547dfaf03",
+  "translation": "Robot priest you meet at the local church.",
+  "vndb_url": "https://vndb.org/c127866"
+}

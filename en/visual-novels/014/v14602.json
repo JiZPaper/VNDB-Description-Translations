@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14602",
+  "type": "visual_novel",
+  "name": "Once, There Was a Dream",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel about a dream you had. Multiple endings.\n\n[From [url=http://globalgamejam.org/2014/games/once-there-was-dream]Global Game Jam[/url]]",
+  "source_sha256": "46ac342e7140352655b7c33eb500e491f7e9d7e4582c51c16f873b88861a3a2c",
+  "translation": "A short visual novel about a dream you had. Multiple endings.\n\n[From [url=http://globalgamejam.org/2014/games/once-there-was-dream]Global Game Jam[/url]]",
+  "vndb_url": "https://vndb.org/v14602"
+}

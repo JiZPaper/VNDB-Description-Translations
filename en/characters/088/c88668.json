@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88668",
+  "type": "character",
+  "name": "Khiet",
+  "original_name": "Khiết",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hard-to-deal school cleaner.",
+  "source_sha256": "39541b0e8ff747816c50e8b527a96a1ae0087cbd6c4f72b9b6d3c96e360f79b0",
+  "translation": "Hard-to-deal school cleaner.",
+  "vndb_url": "https://vndb.org/c88668"
+}

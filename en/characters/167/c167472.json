@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c167472",
+  "type": "character",
+  "name": "Player",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The custom protagonist.",
+  "source_sha256": "e50464d5e7ea79ab26134743915caa5a93e5fa0ed6406364e0cb7087d3af4439",
+  "translation": "The custom protagonist.",
+  "vndb_url": "https://vndb.org/c167472"
+}

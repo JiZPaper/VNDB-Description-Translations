@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c49404",
+  "type": "character",
+  "name": "Liebs",
+  "original_name": "リーブス",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the enemy Night Flyer Note commanders.\nShe has a history with [url=/c30010]Fernandes[/url].",
+  "source_sha256": "e46efc19a9619d61cda0bc0a455650db7fa8d5d5f0b93fd15de14f6f6911cb0e",
+  "translation": "One of the enemy Night Flyer Note commanders.\nShe has a history with [url=/c30010]Fernandes[/url].",
+  "vndb_url": "https://vndb.org/c49404"
+}

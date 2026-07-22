@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c65157",
+  "type": "character",
+  "name": "Rose",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The college counsellor.\nShe was named Jane in the original version of the game; the name has been changed to Rose for the Relewded edition.",
+  "source_sha256": "f77cf4020b2a975b9ca97da1b5bfd89e9aa33d2db23741649392c4b21b386f2d",
+  "translation": "The college counsellor.\nShe was named Jane in the original version of the game; the name has been changed to Rose for the Relewded edition.",
+  "vndb_url": "https://vndb.org/c65157"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65149",
+  "type": "visual_novel",
+  "name": "The Golden Horde: Story of Jambul",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The first historical visual novel. 13th century - steppe, steel, and intrigue. Subedei and Jebe lead their armies westward, and it is up to you to decide: will history remain as written in the chronicles, or will you rewrite it anew?",
+  "source_sha256": "e5039f6267061ec1c682b1a6d8d7e6be809c6c05d59f6354b9709f368796df8c",
+  "translation": "The first historical visual novel. 13th century - steppe, steel, and intrigue. Subedei and Jebe lead their armies westward, and it is up to you to decide: will history remain as written in the chronicles, or will you rewrite it anew?",
+  "vndb_url": "https://vndb.org/v65149"
+}

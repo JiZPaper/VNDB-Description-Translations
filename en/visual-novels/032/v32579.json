@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32579",
+  "type": "visual_novel",
+  "name": "Akazawa Red Maniax \"Izutsun\"",
+  "original_name": "あかざわRED MANIAX「イズツン」",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a voiced game that colors and animates 3 doujin manga:\n\n1. 20-page doujin \n2. 20-page doujin \n3. 20-page doujin",
+  "source_sha256": "6d753d3bae5d2885a6d6f403fe726be1fe110ba1c50f82c366c7e44d77b9f275",
+  "translation": "This is a voiced game that colors and animates 3 doujin manga:\n\n1. 20-page doujin \n2. 20-page doujin \n3. 20-page doujin",
+  "vndb_url": "https://vndb.org/v32579"
+}

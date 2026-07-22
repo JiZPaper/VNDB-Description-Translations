@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18014",
+  "type": "visual_novel",
+  "name": "Applesauce",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Applesauce is a visual novel about one piece of fruit and the meaning of realizing your dreams.",
+  "source_sha256": "1f47ef50c435ec3c1e4d2de2520f11da15a444f87bb46fe280a44c055046e95e",
+  "translation": "Applesauce is a visual novel about one piece of fruit and the meaning of realizing your dreams.",
+  "vndb_url": "https://vndb.org/v18014"
+}

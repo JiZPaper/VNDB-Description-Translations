@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c85505",
+  "type": "character",
+  "name": "Miyamoto Musashi",
+  "original_name": "宮本 武蔵",
+  "language": "en",
+  "source_language": "en",
+  "source": "Suzaku of Heaven",
+  "source_sha256": "0c9678c1744ef15a950029fc1ae6ddfea4b248f31010a17fc83f85890ed5c255",
+  "translation": "Suzaku of Heaven",
+  "vndb_url": "https://vndb.org/c85505"
+}

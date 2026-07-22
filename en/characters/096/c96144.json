@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96144",
+  "type": "character",
+  "name": "Spade",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Spade's cat form.",
+  "source_sha256": "6b68604db1641a804e0784522aa0232c5118eb51fe2f07e9bd1f741220d64ca0",
+  "translation": "Spade's cat form.",
+  "vndb_url": "https://vndb.org/c96144"
+}

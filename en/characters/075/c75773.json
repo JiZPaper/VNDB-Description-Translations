@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75773",
+  "type": "character",
+  "name": "Pete",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Oz's boyfriend.",
+  "source_sha256": "eb6ca57e5be5f7f125c6c0cc48303f817d8f4157a49a84b3155aca1dcdf36db6",
+  "translation": "Oz's boyfriend.",
+  "vndb_url": "https://vndb.org/c75773"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31157",
+  "type": "visual_novel",
+  "name": "Higurashi no Naku Koro ni: Console Arcs",
+  "original_name": "ひぐらしのなく頃に: Console Arcs",
+  "language": "en",
+  "source_language": "en",
+  "source": "This entry is only concerned with the original content featured in the console exclusive releases of the Higurashi series, known as 'Matsuri', 'Kizuna' and 'Sui':\n\nMatsuri:\n• Taraimawashi-hen\n• Tsukiotoshi-hen\n• Miotsukushi-hen (only what mostly corresponds to the content later labeled in Sui and on as \"Miotsukushi Omote\")\n\nKizuna:\n• Someutsushi-hen (Kizuna 1)\n• Kageboushi-hen (Kizuna 2)\n• Hirukowashi-hen (Kizuna 2; was rewritten for this version, namely the addition and removal of certain characters and removal of references to plot details not yet revealed in the Kizuna series.)\n• Yoigoshi-hen (Kizuna 3)\n• Tokihogushi-hen (Kizuna 3)\n• Kotohogushi-hen (Kizuna 4)\n• Miotsukushi-hen (Kizuna 4; for the most part, only the content later labeled in Sui and on as \"Miotsukushi Ura\" is new to this release, but it also includes \"Omote\" content, albeit with some changes)\n\nSui:\n• Hajisarashi-hen",
+  "source_sha256": "64e7d4a1147f8ee495339ae832fc1a66b394673161dbf07e08c13de8df354074",
+  "translation": "This entry is only concerned with the original content featured in the console exclusive releases of the Higurashi series, known as 'Matsuri', 'Kizuna' and 'Sui':\n\nMatsuri:\n• Taraimawashi-hen\n• Tsukiotoshi-hen\n• Miotsukushi-hen (only what mostly corresponds to the content later labeled in Sui and on as \"Miotsukushi Omote\")\n\nKizuna:\n• Someutsushi-hen (Kizuna 1)\n• Kageboushi-hen (Kizuna 2)\n• Hirukowashi-hen (Kizuna 2; was rewritten for this version, namely the addition and removal of certain characters and removal of references to plot details not yet revealed in the Kizuna series.)\n• Yoigoshi-hen (Kizuna 3)\n• Tokihogushi-hen (Kizuna 3)\n• Kotohogushi-hen (Kizuna 4)\n• Miotsukushi-hen (Kizuna 4; for the most part, only the content later labeled in Sui and on as \"Miotsukushi Ura\" is new to this release, but it also includes \"Omote\" content, albeit with some changes)\n\nSui:\n• Hajisarashi-hen",
+  "vndb_url": "https://vndb.org/v31157"
+}

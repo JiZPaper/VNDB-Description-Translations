@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97504",
+  "type": "character",
+  "name": "Angela",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A famous singer.",
+  "source_sha256": "2ac9df136f2e1c8032c42765ff0b2924040c34bc7b0a314e0d2662e5e51452b0",
+  "translation": "A famous singer.",
+  "vndb_url": "https://vndb.org/c97504"
+}

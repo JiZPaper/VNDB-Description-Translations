@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c105964",
+  "type": "character",
+  "name": "Mika",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A nurse. She has a bright and refreshing personality.\n\nShe is Dr. Yabu's assistant.",
+  "source_sha256": "4de0ab4632ec593debde63ea7fcea61df90daf91cc3be8fb78e67200a2da2878",
+  "translation": "A nurse. She has a bright and refreshing personality.\n\nShe is Dr. Yabu's assistant.",
+  "vndb_url": "https://vndb.org/c105964"
+}

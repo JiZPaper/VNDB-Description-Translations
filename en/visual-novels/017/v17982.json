@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17982",
+  "type": "visual_novel",
+  "name": "Crusoe Had It Easy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A nameless 18-year-old guy is stuck with his perky cousin on a desert island in the Western Pacific.",
+  "source_sha256": "d741a66d1a8ade5e6c6fdb20a001782d10429ab38a4a082738b4d88786a031eb",
+  "translation": "A nameless 18-year-old guy is stuck with his perky cousin on a desert island in the Western Pacific.",
+  "vndb_url": "https://vndb.org/v17982"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141295",
+  "type": "character",
+  "name": "Gochou",
+  "original_name": "伍長",
+  "language": "en",
+  "source_language": "en",
+  "source": "An old homeless man who once served in the army.",
+  "source_sha256": "dc025da6e65a353b93738dfd44cd4964678de5583fc2fe44e0dfc9f02def6c00",
+  "translation": "An old homeless man who once served in the army.",
+  "vndb_url": "https://vndb.org/c141295"
+}

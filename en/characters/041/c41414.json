@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c41414",
+  "type": "character",
+  "name": "Joker",
+  "original_name": "ジョーカー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A broker who spreads information about ORACLE to the various agencies.\nA tricky person who likes toying with people.",
+  "source_sha256": "70ff6ad81b458ea35034b7c664cfeb3939950208e884fa07aa9bef729cc10da2",
+  "translation": "A broker who spreads information about ORACLE to the various agencies.\nA tricky person who likes toying with people.",
+  "vndb_url": "https://vndb.org/c41414"
+}

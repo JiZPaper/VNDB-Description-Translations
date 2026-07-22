@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23944",
+  "type": "visual_novel",
+  "name": "Love Hina Pocket",
+  "original_name": "ラブひなポケット",
+  "language": "en",
+  "source_language": "en",
+  "source": "A dating sim following an original story in the Love Hina universe.",
+  "source_sha256": "af87b50f4b48f025535ddac29c4940ac816839e3ee90ff8edc32db66e2ad1424",
+  "translation": "A dating sim following an original story in the Love Hina universe.",
+  "vndb_url": "https://vndb.org/v23944"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41128",
+  "type": "visual_novel",
+  "name": "The way she walks",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bite-sized story in which a woman walks alone on a single path. She meets various characters along the way, but you can choose not to speak with them if you wish.",
+  "source_sha256": "5d6fdf2ecb1f7cb94d801c9387fb2b05c47c04c1e702581ac5f11d350ede622a",
+  "translation": "A bite-sized story in which a woman walks alone on a single path. She meets various characters along the way, but you can choose not to speak with them if you wish.",
+  "vndb_url": "https://vndb.org/v41128"
+}

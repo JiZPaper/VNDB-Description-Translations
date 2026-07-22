@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150300",
+  "type": "character",
+  "name": "Ivan Strugatsky",
+  "original_name": "イワン・ストルガツキー",
+  "language": "en",
+  "source_language": "en",
+  "source": "The maternal grandfather of Kudryavka Noumi, and father of Chernushka Strugatskaya.",
+  "source_sha256": "a9ea801756e892675e400b73b46cb327c1a8b0c4fc773895c25bc96b352febae",
+  "translation": "The maternal grandfather of Kudryavka Noumi, and father of Chernushka Strugatskaya.",
+  "vndb_url": "https://vndb.org/c150300"
+}

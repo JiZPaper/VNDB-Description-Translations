@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11545",
+  "type": "visual_novel",
+  "name": "HellBounders",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A brief adventure through Hell and back.\nExcept we never actually get back.\nAnd we don't get very far through Hell, either.\n\nCreated for [url=https://www.glorioustrainwrecks.com/node/2097]Pirate Kart V[/url].",
+  "source_sha256": "58084df697fb03cc9627823c32beaa3b6b23194f05bc54a5ce820c1ed3e3108a",
+  "translation": "A brief adventure through Hell and back.\nExcept we never actually get back.\nAnd we don't get very far through Hell, either.\n\nCreated for [url=https://www.glorioustrainwrecks.com/node/2097]Pirate Kart V[/url].",
+  "vndb_url": "https://vndb.org/v11545"
+}

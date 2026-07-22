@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30963",
+  "type": "visual_novel",
+  "name": "Tetsu no Sougiya to Haiiro no Koi",
+  "original_name": "鉄の葬儀屋と灰色の恋",
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about a man with a strange disease that gradually turns his skin into iron.",
+  "source_sha256": "10ebd8d324a105aa15a5be9d06489aedd75795046e48f2057a1444bead48b9f9",
+  "translation": "A story about a man with a strange disease that gradually turns his skin into iron.",
+  "vndb_url": "https://vndb.org/v30963"
+}

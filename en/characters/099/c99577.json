@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99577",
+  "type": "character",
+  "name": "Judy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A worker at Maid Rental. Judy helps with the food there. She and Jack are good friends. Judy tends to tease Jack often and calls him a traitor for leaving Maid Rental.",
+  "source_sha256": "55ce4dbc7b61d6feb80ec1084100a28cac5d6633955d4a094e61af03c9bd0e2f",
+  "translation": "A worker at Maid Rental. Judy helps with the food there. She and Jack are good friends. Judy tends to tease Jack often and calls him a traitor for leaving Maid Rental.",
+  "vndb_url": "https://vndb.org/c99577"
+}

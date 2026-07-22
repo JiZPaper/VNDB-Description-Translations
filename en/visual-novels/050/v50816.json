@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50816",
+  "type": "visual_novel",
+  "name": "Break My Case",
+  "original_name": "ブレイクマイケース",
+  "language": "en",
+  "source_language": "en",
+  "source": "Set in Shinjuku, Tokyo. The player assumes the role of Yashiro Ito, the acting owner of Aporia. During the day, it is an ordinary cafe operated by its talented and extraordinary staff. When night falls, it offers a problem-solving service for a limited number of customers.",
+  "source_sha256": "078beb7e0fdd14dcdb2d09c431380a906c0331b646619e3f38e74e225d879d09",
+  "translation": "Set in Shinjuku, Tokyo. The player assumes the role of Yashiro Ito, the acting owner of Aporia. During the day, it is an ordinary cafe operated by its talented and extraordinary staff. When night falls, it offers a problem-solving service for a limited number of customers.",
+  "vndb_url": "https://vndb.org/v50816"
+}

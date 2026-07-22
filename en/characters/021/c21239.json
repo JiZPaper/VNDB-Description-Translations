@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21239",
+  "type": "character",
+  "name": "Tanaka Noriko",
+  "original_name": "田中 典子",
+  "language": "en",
+  "source_language": "en",
+  "source": "Volleyball Manager.",
+  "source_sha256": "83a2c7119902c307cd0b418c24cc9006cf5309c958ff544a048d2189a6e0ac6c",
+  "translation": "Volleyball Manager.",
+  "vndb_url": "https://vndb.org/c21239"
+}

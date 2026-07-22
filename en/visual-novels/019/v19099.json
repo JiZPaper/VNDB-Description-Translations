@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19099",
+  "type": "visual_novel",
+  "name": "Lucky☆Star - Net Idol Meister",
+  "original_name": "らき☆すた ネットアイドル・マイスター",
+  "language": "en",
+  "source_language": "en",
+  "source": "A training simulation game of Lucky Star where Konata has suddenly decided to become a net idol, and in order to stay popular, she needs a manager, who happens to be you, the protagonist. You can also manage other Lucky Star characters.",
+  "source_sha256": "ab3fbc8a96ee7008ad7d4f5ba9cc83f1f90e3a832d8fe88fbc730d9b2c22b5bc",
+  "translation": "A training simulation game of Lucky Star where Konata has suddenly decided to become a net idol, and in order to stay popular, she needs a manager, who happens to be you, the protagonist. You can also manage other Lucky Star characters.",
+  "vndb_url": "https://vndb.org/v19099"
+}

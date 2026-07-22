@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54573",
+  "type": "visual_novel",
+  "name": "Scropia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Futurustic sci fi Visual Novel",
+  "source_sha256": "e9e9c07cd44e49244fb7c2460c0ee8ca53ffbd4118c44cdc3f4aab1d472dd31f",
+  "translation": "Futurustic sci fi Visual Novel",
+  "vndb_url": "https://vndb.org/v54573"
+}

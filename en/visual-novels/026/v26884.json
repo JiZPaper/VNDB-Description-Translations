@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26884",
+  "type": "visual_novel",
+  "name": "Heian Onshijo Koi Emaki",
+  "original_name": "平安御子女恋絵巻",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fanmade visual novel inspired by the novel \"Heian Onshijo Souranki\".",
+  "source_sha256": "2d0604f45082b0608e590096242ab6d2ce389e189424cd6c653402db8de5b884",
+  "translation": "A fanmade visual novel inspired by the novel \"Heian Onshijo Souranki\".",
+  "vndb_url": "https://vndb.org/v26884"
+}

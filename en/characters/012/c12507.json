@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12507",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of the game. A kind-hearted girl who woke up without any of her memories except her name (which must be chosen by the player). The Heroine's personality and backstory depend on which route the player chooses.",
+  "source_sha256": "3fbf4db2fe905ebc66ff0f3e20bd85f05d459776a93096996c165cdc27d781dd",
+  "translation": "The protagonist of the game. A kind-hearted girl who woke up without any of her memories except her name (which must be chosen by the player). The Heroine's personality and backstory depend on which route the player chooses.",
+  "vndb_url": "https://vndb.org/c12507"
+}

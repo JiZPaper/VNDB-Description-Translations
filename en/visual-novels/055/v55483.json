@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55483",
+  "type": "visual_novel",
+  "name": "My New Neighbor Likes Me?",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short VN about getting to know your new neighbor.",
+  "source_sha256": "2878e6efbecf5b5dd16e852f70c3fa04045b6923db5d28fa77a237a1cd825ee7",
+  "translation": "A short VN about getting to know your new neighbor.",
+  "vndb_url": "https://vndb.org/v55483"
+}

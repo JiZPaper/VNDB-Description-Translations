@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c170623",
+  "type": "character",
+  "name": "Serena",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Edell's coworker, she talks a bit with her and then leaves to see her family.",
+  "source_sha256": "70ea45f43406575e8604e236de388663aed58e987ce9d63e5654c91df81d81df",
+  "translation": "Edell's coworker, she talks a bit with her and then leaves to see her family.",
+  "vndb_url": "https://vndb.org/c170623"
+}

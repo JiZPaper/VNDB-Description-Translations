@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99359",
+  "type": "character",
+  "name": "Takanashi",
+  "original_name": "小鳥遊",
+  "language": "en",
+  "source_language": "en",
+  "source": "A human patissier who works at the Sweet Tail sweets shop.",
+  "source_sha256": "93dd93ccbd1507e1e3fc01da130ddf78ccda96b481b0d2fbb389ddc8a0a785d5",
+  "translation": "A human patissier who works at the Sweet Tail sweets shop.",
+  "vndb_url": "https://vndb.org/c99359"
+}

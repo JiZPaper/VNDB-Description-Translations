@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15707",
+  "type": "character",
+  "name": "Tokunaga Keiichi",
+  "original_name": "徳永敬一",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kaoru's butler.",
+  "source_sha256": "f23d0de3aef5345423fc4d276a3eac9dccc16f922723643ba79b213ced739195",
+  "translation": "Kaoru's butler.",
+  "vndb_url": "https://vndb.org/c15707"
+}

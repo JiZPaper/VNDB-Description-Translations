@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30385",
+  "type": "visual_novel",
+  "name": "Hashiri Onna II",
+  "original_name": "走り女II",
+  "language": "en",
+  "source_language": "en",
+  "source": "Bonus game included in the Rance 4.1/4.2 hint disk.",
+  "source_sha256": "a0854a16c1c3f42f987be4cd344233ec77140610b3c129f818411b75fc7e6a81",
+  "translation": "Bonus game included in the Rance 4.1/4.2 hint disk.",
+  "vndb_url": "https://vndb.org/v30385"
+}

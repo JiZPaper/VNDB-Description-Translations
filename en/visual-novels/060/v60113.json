@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60113",
+  "type": "visual_novel",
+  "name": "Romancing the Monster",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Running from your past, you come across a mysterious monster mansion.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "c8abdc1164e045dda832cb21905cbf03d199a2a97991c309ff2c548b9a57ae71",
+  "translation": "Running from your past, you come across a mysterious monster mansion.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "vndb_url": "https://vndb.org/v60113"
+}

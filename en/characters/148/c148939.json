@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148939",
+  "type": "character",
+  "name": "Beatrice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Matilda's daughter.",
+  "source_sha256": "7d132e1009e4b148a7d29ed77cb123352e4f1251e053e2780daf02dc8c227624",
+  "translation": "Matilda's daughter.",
+  "vndb_url": "https://vndb.org/c148939"
+}

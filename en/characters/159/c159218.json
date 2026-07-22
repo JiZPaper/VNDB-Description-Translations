@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159218",
+  "type": "character",
+  "name": "Javier",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Assigned to Valkyrie Squad for the mission to the planet that the squad is assigned to.",
+  "source_sha256": "98b82cdf9e1f09ca05bae78288b08cca4222dcd12259f51fd437ac1fc75ca0c1",
+  "translation": "Assigned to Valkyrie Squad for the mission to the planet that the squad is assigned to.",
+  "vndb_url": "https://vndb.org/c159218"
+}

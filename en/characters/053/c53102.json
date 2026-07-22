@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c53102",
+  "type": "character",
+  "name": "Bruno",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the teachers for Gym classes.\n\nBruno was first introduced in Pokémon Red and Pokémon Blue versions.",
+  "source_sha256": "957a71845e2ff44fdea2afe459350aede39c005902d184d6fe2174613d471ce2",
+  "translation": "One of the teachers for Gym classes.\n\nBruno was first introduced in Pokémon Red and Pokémon Blue versions.",
+  "vndb_url": "https://vndb.org/c53102"
+}

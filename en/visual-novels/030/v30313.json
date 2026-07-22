@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30313",
+  "type": "visual_novel",
+  "name": "ALICE×BOYS ~Yume no Kuni to Shounen-tachi~",
+  "original_name": "ALICE×BOYS ～夢の国と少年達～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short Alice in Wonderland-inspired otome game.",
+  "source_sha256": "9cac2ec6255210b2e0e235e78b1de198c8c9766a9e5830df49ac9ed75b44da5d",
+  "translation": "A short Alice in Wonderland-inspired otome game.",
+  "vndb_url": "https://vndb.org/v30313"
+}

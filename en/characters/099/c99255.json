@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99255",
+  "type": "character",
+  "name": "Rin-Timber",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Height: 5'6''\nWeight: 130 lbs\nSentence: 60 life sentences.\n\nMiguel's naive cell-mate.",
+  "source_sha256": "36850fe2b730f9d0fe938a90fde9877ab6943120692af96e821344c7046bd094",
+  "translation": "Height: 5'6''\nWeight: 130 lbs\nSentence: 60 life sentences.\n\nMiguel's naive cell-mate.",
+  "vndb_url": "https://vndb.org/c99255"
+}

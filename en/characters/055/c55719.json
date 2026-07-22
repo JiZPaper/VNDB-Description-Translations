@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c55719",
+  "type": "character",
+  "name": "Fox Housekeeper",
+  "original_name": "きつねメイド長",
+  "language": "en",
+  "source_language": "en",
+  "source": "She manages the maids tending to the Overlords in the Great Overlord's castle. A very reliable and experienced maid.\n\nShe has a tendency to be a bit too upfront.",
+  "source_sha256": "7c047cb4d6e13e697206de1d3e0d4e0b063de589eb4739e2bb887aab9bfde112",
+  "translation": "She manages the maids tending to the Overlords in the Great Overlord's castle. A very reliable and experienced maid.\n\nShe has a tendency to be a bit too upfront.",
+  "vndb_url": "https://vndb.org/c55719"
+}

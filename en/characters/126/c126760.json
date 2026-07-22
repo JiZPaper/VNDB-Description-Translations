@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126760",
+  "type": "character",
+  "name": "Orkra",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A succubus barmaid that works near Ikazu's shop.",
+  "source_sha256": "4f54272360bff9ff5cfb673111641be545593d5110fe84721a8593765d932868",
+  "translation": "A succubus barmaid that works near Ikazu's shop.",
+  "vndb_url": "https://vndb.org/c126760"
+}

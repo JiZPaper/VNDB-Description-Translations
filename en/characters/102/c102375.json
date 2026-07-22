@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102375",
+  "type": "character",
+  "name": "Poppy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The child version of Poppy.",
+  "source_sha256": "6e04deb43bd6abf506446b01daeb56aea33142f206c88641a2456eb775b99ba0",
+  "translation": "The child version of Poppy.",
+  "vndb_url": "https://vndb.org/c102375"
+}

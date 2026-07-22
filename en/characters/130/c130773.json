@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130773",
+  "type": "character",
+  "name": "Jack",
+  "original_name": "ジャック",
+  "language": "en",
+  "source_language": "en",
+  "source": "Gang member.\nHe heads off to the cargo hold with Nice and Donny to retrieve Jacuzzi.\n\n[Translated from in-game profile]",
+  "source_sha256": "7040d25fe385ffb8995550920e54dd8ec58460f90de6cd05cd6998e7b1803d1d",
+  "translation": "Gang member.\nHe heads off to the cargo hold with Nice and Donny to retrieve Jacuzzi.\n\n[Translated from in-game profile]",
+  "vndb_url": "https://vndb.org/c130773"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c169344",
+  "type": "character",
+  "name": "Tiamat",
+  "original_name": "ティアマト",
+  "language": "en",
+  "source_language": "en",
+  "source": "An ancient Mesopotamian deity.",
+  "source_sha256": "fb4059ed2c2fe7364d0103703c4efee2fcd8d39b77107f578afe1f64d2632b46",
+  "translation": "An ancient Mesopotamian deity.",
+  "vndb_url": "https://vndb.org/c169344"
+}

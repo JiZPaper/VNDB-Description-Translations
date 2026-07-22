@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25848",
+  "type": "visual_novel",
+  "name": "Erumani 2",
+  "original_name": "えるまにーに",
+  "language": "en",
+  "source_language": "en",
+  "source": "An incomplete sequel to Erumani.",
+  "source_sha256": "c10a94ebd3222d4643476591a75f794e093f241e04fbb3732aa2f874c0b0f5d5",
+  "translation": "An incomplete sequel to Erumani.",
+  "vndb_url": "https://vndb.org/v25848"
+}

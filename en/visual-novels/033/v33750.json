@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33750",
+  "type": "visual_novel",
+  "name": "Rainy Train",
+  "original_name": "レイニートレイン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A story of a timid girl who has feelings for a guy she can only meet on rainy days by the train.",
+  "source_sha256": "cde19539586caec3fb98f6cf450bbf378abdde60171e298e53b9ccb54d7e8f71",
+  "translation": "A story of a timid girl who has feelings for a guy she can only meet on rainy days by the train.",
+  "vndb_url": "https://vndb.org/v33750"
+}

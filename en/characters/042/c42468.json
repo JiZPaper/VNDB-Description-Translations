@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c42468",
+  "type": "character",
+  "name": "Mysterious Boy",
+  "original_name": "謎の少年",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious boy who appears in front of the protagonist when she's on vacation and asks her to play.\nHis appearance and personality are both childish. He considers his own wants more important than his partners.",
+  "source_sha256": "99044d7265cf756cc518b68383a53e3c6f9cd353aeb8a453315e0ce66430bb89",
+  "translation": "A mysterious boy who appears in front of the protagonist when she's on vacation and asks her to play.\nHis appearance and personality are both childish. He considers his own wants more important than his partners.",
+  "vndb_url": "https://vndb.org/c42468"
+}

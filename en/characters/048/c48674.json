@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c48674",
+  "type": "character",
+  "name": "Riggs Bauen",
+  "original_name": "リッグズ・ボウエン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Used to be enrolled in a prestige CLOQKS military academy. Currently works in civil engineering.",
+  "source_sha256": "75f4827db8276dbcc87c0c5ba0a7386426964656ce81cec2f3683f734c378c3e",
+  "translation": "Used to be enrolled in a prestige CLOQKS military academy. Currently works in civil engineering.",
+  "vndb_url": "https://vndb.org/c48674"
+}

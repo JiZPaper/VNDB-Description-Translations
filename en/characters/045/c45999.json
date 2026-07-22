@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45999",
+  "type": "character",
+  "name": "Princess Dytill",
+  "original_name": "ディーティル姫",
+  "language": "en",
+  "source_language": "en",
+  "source": "Younger Princess",
+  "source_sha256": "75d1905f5ec2ab8b58cb59064840aa1e12e9c278c3f177534f70b1ae42a45463",
+  "translation": "Younger Princess",
+  "vndb_url": "https://vndb.org/c45999"
+}

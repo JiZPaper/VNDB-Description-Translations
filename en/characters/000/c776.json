@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c776",
+  "type": "character",
+  "name": "Blood Dupre",
+  "original_name": "ブラッド＝デュプレ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Blood Dupre is the Mad Hatter, boss of the mafia. He lives in a large mansion and mostly only appears at night. He loves tea and fine tableware, and often holds tea parties.",
+  "source_sha256": "20bd2bebf551fb305a82bf9ab5c11b1a83be893b1db33db4949ec28feb898ebe",
+  "translation": "Blood Dupre is the Mad Hatter, boss of the mafia. He lives in a large mansion and mostly only appears at night. He loves tea and fine tableware, and often holds tea parties.",
+  "vndb_url": "https://vndb.org/c776"
+}

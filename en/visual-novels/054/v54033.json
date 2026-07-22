@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54033",
+  "type": "visual_novel",
+  "name": "Dream Change: Kokin-chan no Fashion Party",
+  "original_name": "ドリームチェンジ 小金ちゃんのファッションパーティー",
+  "language": "en",
+  "source_language": "en",
+  "source": "The game follows a young girl who dreams of becoming a fashion model named Kokin, working to make her dreams come true. This game for the Casio Loopy is a modeling simulator.",
+  "source_sha256": "515debfd0e2f3f3d3def8381005d41f08364f7bd7e8330d2760ac5306e2a1eb6",
+  "translation": "The game follows a young girl who dreams of becoming a fashion model named Kokin, working to make her dreams come true. This game for the Casio Loopy is a modeling simulator.",
+  "vndb_url": "https://vndb.org/v54033"
+}

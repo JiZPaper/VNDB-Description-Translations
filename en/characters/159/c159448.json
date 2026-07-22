@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159448",
+  "type": "character",
+  "name": "Daphne",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Cristina's confident and laid back sister.",
+  "source_sha256": "db8babf924e61d2413d9e31fb87c951b1eeb9285b7f66e195f0a5391a52af4ac",
+  "translation": "Cristina's confident and laid back sister.",
+  "vndb_url": "https://vndb.org/c159448"
+}

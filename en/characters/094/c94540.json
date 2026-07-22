@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94540",
+  "type": "character",
+  "name": "Lance",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A worker at Dina's restaurant.",
+  "source_sha256": "f474316da2c6c2ce1bebb0af80e001390c2a0698fe040e4f9dad41e3958947b0",
+  "translation": "A worker at Dina's restaurant.",
+  "vndb_url": "https://vndb.org/c94540"
+}

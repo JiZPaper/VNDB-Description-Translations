@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30402",
+  "type": "visual_novel",
+  "name": "Dino Nite",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A novel involving inter-dimensional dinosaurs, a museum of natural history, and a lone security guard just trying to get through the night shift.",
+  "source_sha256": "18400daf72cd304d7c4214fce7e06af4e0ebd5af0bf227ef4ab3f45af1540590",
+  "translation": "A novel involving inter-dimensional dinosaurs, a museum of natural history, and a lone security guard just trying to get through the night shift.",
+  "vndb_url": "https://vndb.org/v30402"
+}

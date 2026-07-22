@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c116902",
+  "type": "character",
+  "name": "Dad",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Nerea's father.",
+  "source_sha256": "0f26a1faae2e1bb2f100d701e63f3e51760afcb41d064a788336cd2d10e2ef47",
+  "translation": "Nerea's father.",
+  "vndb_url": "https://vndb.org/c116902"
+}

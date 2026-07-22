@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c133757",
+  "type": "character",
+  "name": "Player",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The main protagonist of the story. While refusing to go home to their parents, they decide to watch an old movie that scared them as a kid: Krampus is Coming to Town.",
+  "source_sha256": "96e67747e18469802d487ec047ce488fd50eb8d9dfedfc2092e26f9a1df0ff8f",
+  "translation": "The main protagonist of the story. While refusing to go home to their parents, they decide to watch an old movie that scared them as a kid: Krampus is Coming to Town.",
+  "vndb_url": "https://vndb.org/c133757"
+}

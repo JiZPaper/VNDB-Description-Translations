@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c12648",
+  "type": "character",
+  "name": "Selenia Lasmoon",
+  "original_name": "セレニア・ラスムーン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Waitress and cook.\nLikes: Wine, seafood.\nDislikes: When she is drunk; herself.",
+  "source_sha256": "c419d67630cc7d133f497ccedc2055fee2079d700f0821487126f25351781027",
+  "translation": "Occupation: Waitress and cook.\nLikes: Wine, seafood.\nDislikes: When she is drunk; herself.",
+  "vndb_url": "https://vndb.org/c12648"
+}

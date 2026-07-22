@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25120",
+  "type": "character",
+  "name": "Ryofu Housen",
+  "original_name": "呂布 奉先",
+  "language": "en",
+  "source_language": "en",
+  "source": "Weapon: Fang Tian Hua Ji",
+  "source_sha256": "fbd85396f26289ac942027fb532cb609dcc0b6a01d846d659f4969c0cc8daab2",
+  "translation": "Weapon: Fang Tian Hua Ji",
+  "vndb_url": "https://vndb.org/c25120"
+}

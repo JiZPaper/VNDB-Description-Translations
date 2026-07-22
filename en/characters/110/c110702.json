@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c110702",
+  "type": "character",
+  "name": "Annie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Daughter of [url=/c111312]Lucy[/url] and [url=/c111313]Richard[/url].",
+  "source_sha256": "8afef5d7380a09eb1167f9c8cbe28cc5f9a7c82b72fc88153bcbeda810c90b5f",
+  "translation": "Daughter of [url=/c111312]Lucy[/url] and [url=/c111313]Richard[/url].",
+  "vndb_url": "https://vndb.org/c110702"
+}

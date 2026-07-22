@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134391",
+  "type": "character",
+  "name": "Anri",
+  "original_name": "アンリ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The director of Kamikawa Sanatorium.",
+  "source_sha256": "9ef7dc373710817f61feb5cba6a3d7b85ab7b315ccb6e4a1ca31d0362489d37a",
+  "translation": "The director of Kamikawa Sanatorium.",
+  "vndb_url": "https://vndb.org/c134391"
+}

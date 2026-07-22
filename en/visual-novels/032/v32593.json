@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32593",
+  "type": "visual_novel",
+  "name": "Natsuan Kore -Kamigyou Nightmare-",
+  "original_name": "夏庵これ -上京ナイトメア-",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a voiced game that colors and animates 3 doujin manga.",
+  "source_sha256": "b289629535e5d509eccd03ad39b1d049be6a12754850dc61d693bfecd0d29510",
+  "translation": "This is a voiced game that colors and animates 3 doujin manga.",
+  "vndb_url": "https://vndb.org/v32593"
+}

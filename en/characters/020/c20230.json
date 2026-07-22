@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c20230",
+  "type": "character",
+  "name": "Seria",
+  "original_name": "セリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Heat mode: F cup\nHobbies: Games, meditation\nLikes: Sage mode\nDislikes: Excessive meddling",
+  "source_sha256": "2d5bedba053af6ab7bed4e8d4cf5697ceb0270097c988051cbdbd215ebcd762f",
+  "translation": "Heat mode: F cup\nHobbies: Games, meditation\nLikes: Sage mode\nDislikes: Excessive meddling",
+  "vndb_url": "https://vndb.org/c20230"
+}

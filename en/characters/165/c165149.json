@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165149",
+  "type": "character",
+  "name": "Melinda",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mr. Smith's secretary.",
+  "source_sha256": "3e19f4609a2682728375b289e3874522f207dc7346658cf1c07c221999066fc5",
+  "translation": "Mr. Smith's secretary.",
+  "vndb_url": "https://vndb.org/c165149"
+}

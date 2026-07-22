@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145220",
+  "type": "character",
+  "name": "The Bride",
+  "original_name": "ドレスの女",
+  "language": "en",
+  "source_language": "en",
+  "source": "A headless woman who appears when certain words are spoken.",
+  "source_sha256": "1688cb11b29b11345523b34f8dfe84a0ba438334e1115aabc780c9342c799276",
+  "translation": "A headless woman who appears when certain words are spoken.",
+  "vndb_url": "https://vndb.org/c145220"
+}

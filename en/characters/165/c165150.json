@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165150",
+  "type": "character",
+  "name": "John Smith",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Miles' boss at work.",
+  "source_sha256": "d2a046405a3beee9aa78c74b2eefdcfee7bfcb73301c07b6eeb9970894d5e029",
+  "translation": "Miles' boss at work.",
+  "vndb_url": "https://vndb.org/c165150"
+}

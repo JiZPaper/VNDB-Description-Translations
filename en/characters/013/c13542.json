@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c13542",
+  "type": "character",
+  "name": "Lapis Mercurius Freya",
+  "original_name": "ラピス・メルクリウス・フレイア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Lapis is a regular customer at the pub Korogaru Ringotei. She sometimes requests old songs from Cliff.",
+  "source_sha256": "8eaf3ff13d5fd3223ffe0794391fd3eefc665c40991c7cff4e0358f451a3b4ee",
+  "translation": "Lapis is a regular customer at the pub Korogaru Ringotei. She sometimes requests old songs from Cliff.",
+  "vndb_url": "https://vndb.org/c13542"
+}

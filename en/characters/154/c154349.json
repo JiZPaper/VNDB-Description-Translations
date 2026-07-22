@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154349",
+  "type": "character",
+  "name": "Neuchateau",
+  "original_name": "ヌシャトー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A warrior said to be a hero from a faraway kingdom to the south. Brought into our kingdom due to connections here, he lives as a knight.",
+  "source_sha256": "3e9578dabf6c73efc3cf15b08116caf46956193cfa3dd2cf1ea9abb229e68c1a",
+  "translation": "A warrior said to be a hero from a faraway kingdom to the south. Brought into our kingdom due to connections here, he lives as a knight.",
+  "vndb_url": "https://vndb.org/c154349"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28293",
+  "type": "visual_novel",
+  "name": "The Circle",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play the owner of a small security company who is more and more involved in the activities of the \"The Circle\". This secret organization operates in particular way...",
+  "source_sha256": "e801e7ed9b1aceb830ead5748763e83356d1fa8068ae12e926b026986487078d",
+  "translation": "You play the owner of a small security company who is more and more involved in the activities of the \"The Circle\". This secret organization operates in particular way...",
+  "vndb_url": "https://vndb.org/v28293"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93223",
+  "type": "character",
+  "name": "Sensei",
+  "original_name": "先生",
+  "language": "en",
+  "source_language": "en",
+  "source": "A man who owns a medicine store in the village.\nHas a gentle personality. He is the one taking care of [url=/c93220]Serino[/url] during [url=/c93219]Tachibana[/url]'s 5-day disappearance after the trip up the snowy mountain.",
+  "source_sha256": "f1a77c82d09c491ac15454b8735e2df1ce27ca900c81a017fe47d94ae7e7de7d",
+  "translation": "A man who owns a medicine store in the village.\nHas a gentle personality. He is the one taking care of [url=/c93220]Serino[/url] during [url=/c93219]Tachibana[/url]'s 5-day disappearance after the trip up the snowy mountain.",
+  "vndb_url": "https://vndb.org/c93223"
+}

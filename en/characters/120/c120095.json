@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120095",
+  "type": "character",
+  "name": "Emma",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Angelica's mother.",
+  "source_sha256": "94be7be520032619d8ad95b452bd1b3f48301c90a5ec039542f773537900cbd0",
+  "translation": "Angelica's mother.",
+  "vndb_url": "https://vndb.org/c120095"
+}

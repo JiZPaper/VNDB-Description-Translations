@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9394",
+  "type": "visual_novel",
+  "name": "Pandora's Box",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Pandora's Box is a nightmarish text-based adventure game, with the adventure being your own mind.\n\n[From [url=http://www.terrorbullgames.co.uk/games/pandoras_box_vngame.php]Official Site[/url]]",
+  "source_sha256": "2bdcd1f60e60c86abafba99ffa2e6d5ca9e1669b9dc78a0b84a96d692f1bb199",
+  "translation": "Pandora's Box is a nightmarish text-based adventure game, with the adventure being your own mind.\n\n[From [url=http://www.terrorbullgames.co.uk/games/pandoras_box_vngame.php]Official Site[/url]]",
+  "vndb_url": "https://vndb.org/v9394"
+}

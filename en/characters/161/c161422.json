@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161422",
+  "type": "character",
+  "name": "Altira",
+  "original_name": "アルティラ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Corrupted form of Altira.",
+  "source_sha256": "ff24d6e1edf5584c6ea2564b45a4ff291bbe6473630960cea5ff662b13ec7a6c",
+  "translation": "Corrupted form of Altira.",
+  "vndb_url": "https://vndb.org/c161422"
+}

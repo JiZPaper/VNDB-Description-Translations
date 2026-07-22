@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82938",
+  "type": "character",
+  "name": "Mrs. Turner",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A hotel receptionist.",
+  "source_sha256": "a9af34e6d4f536bb1d4e5ddea8ea6fc44d56cbd5bd2233e810ecb678861d81ef",
+  "translation": "A hotel receptionist.",
+  "vndb_url": "https://vndb.org/c82938"
+}

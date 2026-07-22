@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56416",
+  "type": "visual_novel",
+  "name": "Garenburg Penitence: The Riflebird",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Garenburg Penitence is an action-puzzle arcade game and visual novel about matching sphere colors and exploring the collapsing psyche that destroyed the world.\n\nIf everything has a cost, then how much would it be to make the world a better place?",
+  "source_sha256": "f48574fee2d84ede698fa89a1a56892d48c969449e5aeec5c7b70648d627ca20",
+  "translation": "Garenburg Penitence is an action-puzzle arcade game and visual novel about matching sphere colors and exploring the collapsing psyche that destroyed the world.\n\nIf everything has a cost, then how much would it be to make the world a better place?",
+  "vndb_url": "https://vndb.org/v56416"
+}

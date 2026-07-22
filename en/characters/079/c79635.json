@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79635",
+  "type": "character",
+  "name": "Gonza",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An old servant working for Nino and Emilia.",
+  "source_sha256": "f56745f698f1b674b17b47c2b74fd4439ba5a498d017321fff746851f964717b",
+  "translation": "An old servant working for Nino and Emilia.",
+  "vndb_url": "https://vndb.org/c79635"
+}

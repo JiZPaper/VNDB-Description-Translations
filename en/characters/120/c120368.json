@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120368",
+  "type": "character",
+  "name": "Mother",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The girl's mother.",
+  "source_sha256": "8f79aaaf08919a8bf8911373a2d5d71dcca84baf3e852949adf4d192f29a9674",
+  "translation": "The girl's mother.",
+  "vndb_url": "https://vndb.org/c120368"
+}

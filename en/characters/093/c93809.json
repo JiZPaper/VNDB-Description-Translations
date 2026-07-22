@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93809",
+  "type": "character",
+  "name": "Office worker",
+  "original_name": "サラリーマン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A regular business man. He is always tired and likes to play hero to distract himself.",
+  "source_sha256": "44f2175377bb28fd074792e769bfe6036c1929993a2288af217a1bed083949ce",
+  "translation": "A regular business man. He is always tired and likes to play hero to distract himself.",
+  "vndb_url": "https://vndb.org/c93809"
+}

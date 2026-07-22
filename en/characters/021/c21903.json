@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c21903",
+  "type": "character",
+  "name": "Mouse",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bartender at The Roost.",
+  "source_sha256": "a80a92f6fbca3d4ced71652b7d1ebf6137a0d651935b4fe4194667bc89ab3fc4",
+  "translation": "Bartender at The Roost.",
+  "vndb_url": "https://vndb.org/c21903"
+}

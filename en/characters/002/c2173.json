@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c2173",
+  "type": "character",
+  "name": "Elder",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Elder is the oldest man in the village and the current village leader. He is very kind to his fellow villagers, but can be very harsh when it comes to outsiders.\n\n[from in-game character bio]",
+  "source_sha256": "93513129d43795a4b683e877f99b86cdd7c56d50c86579c5a75c98e9258a655f",
+  "translation": "Elder is the oldest man in the village and the current village leader. He is very kind to his fellow villagers, but can be very harsh when it comes to outsiders.\n\n[from in-game character bio]",
+  "vndb_url": "https://vndb.org/c2173"
+}

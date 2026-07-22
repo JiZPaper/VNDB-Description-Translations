@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c15581",
+  "type": "character",
+  "name": "Sauzer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sauzer's Death Knight form.",
+  "source_sha256": "9436af86e76b865f9977499068315559e766e103641c50b21012551c94fb2db7",
+  "translation": "Sauzer's Death Knight form.",
+  "vndb_url": "https://vndb.org/c15581"
+}

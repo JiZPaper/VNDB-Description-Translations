@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61252",
+  "type": "visual_novel",
+  "name": "MikoChat",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about two Mikonians chatting over a LAN messaging system.\n\n[From [url=https://animeida.itch.io/mikochat]Itch.io[/url]]",
+  "source_sha256": "12f6bcd513c4a8d6cfe51df0d05922544072fe4f6b80fc5621530b9f6642baef",
+  "translation": "A story about two Mikonians chatting over a LAN messaging system.\n\n[From [url=https://animeida.itch.io/mikochat]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v61252"
+}

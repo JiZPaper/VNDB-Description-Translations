@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58304",
+  "type": "visual_novel",
+  "name": "along an extremity",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A narrative game about a vampire and a dentist. \n\n[From [url=https://goblincat.neocities.org/games]official site[/url]]",
+  "source_sha256": "bf170a1f9df3e757a410dccdd4f63e897028ca736c23ad4e7b5ba0de25ee2a35",
+  "translation": "A narrative game about a vampire and a dentist. \n\n[From [url=https://goblincat.neocities.org/games]official site[/url]]",
+  "vndb_url": "https://vndb.org/v58304"
+}

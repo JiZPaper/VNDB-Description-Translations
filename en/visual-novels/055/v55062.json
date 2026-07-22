@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55062",
+  "type": "visual_novel",
+  "name": "Nolean: The Space Bartender",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "In a future where control dominates everything, being free is an act of rebellion.\n\nPlay as Nolean, an intergalactic bartender traveling across the galaxy, serving unique drinks to clandestine clients while evading the watchful eyes of the Shioncala Empire. With your trusty ship, you'll navigate space, dodge patrols, hack enemy systems, and craft custom cocktails without leaving a trace.",
+  "source_sha256": "4a260161ac6a1ce2bad7667fab7784db9fbd7cc8f23b03c3be68b75f039dbf45",
+  "translation": "In a future where control dominates everything, being free is an act of rebellion.\n\nPlay as Nolean, an intergalactic bartender traveling across the galaxy, serving unique drinks to clandestine clients while evading the watchful eyes of the Shioncala Empire. With your trusty ship, you'll navigate space, dodge patrols, hack enemy systems, and craft custom cocktails without leaving a trace.",
+  "vndb_url": "https://vndb.org/v55062"
+}

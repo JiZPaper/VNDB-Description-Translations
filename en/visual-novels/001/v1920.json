@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1920",
+  "type": "visual_novel",
+  "name": "Kidou Senkan Nadesico: The Blank of 3 Years",
+  "original_name": "機動戦艦ナデシコ The blank of 3years",
+  "language": "en",
+  "source_language": "en",
+  "source": "A follow up to the Kidou Senkan Nadesico anime, this game covers the events that occur in the storyline between the end of the series and the movie.",
+  "source_sha256": "c1b0d2a72dbbd8dbde641da8dd1a508376f0da310f48514b2535a9c9d0abb870",
+  "translation": "A follow up to the Kidou Senkan Nadesico anime, this game covers the events that occur in the storyline between the end of the series and the movie.",
+  "vndb_url": "https://vndb.org/v1920"
+}

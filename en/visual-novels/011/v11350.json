@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11350",
+  "type": "visual_novel",
+  "name": "Kita no Mori no Majo",
+  "original_name": "北の森の魔女",
+  "language": "en",
+  "source_language": "en",
+  "source": "A witch living in the forest helps a lost prince of a great country. What will become of them and will their fairy tale have a happy ending?",
+  "source_sha256": "75299741c85c527d11748dc7d9b94bad39eeff1792684ab17b6b5845868378e9",
+  "translation": "A witch living in the forest helps a lost prince of a great country. What will become of them and will their fairy tale have a happy ending?",
+  "vndb_url": "https://vndb.org/v11350"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60613",
+  "type": "visual_novel",
+  "name": "Princess Ballerina: Yumemiru 4-nin no Prima Donna",
+  "original_name": "プリンセスバレリーナ: 夢見る4人のプリ マドンナ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Immerse yourself in a fantasy world of twirls, jumps, music, fashion, and fun competition. Learn real ballet steps and routines that will help you become a famous ballet star!",
+  "source_sha256": "49571a9772f0174097d4124d903d50de9117ee1e95222bb6950e7538cdae5d37",
+  "translation": "Immerse yourself in a fantasy world of twirls, jumps, music, fashion, and fun competition. Learn real ballet steps and routines that will help you become a famous ballet star!",
+  "vndb_url": "https://vndb.org/v60613"
+}

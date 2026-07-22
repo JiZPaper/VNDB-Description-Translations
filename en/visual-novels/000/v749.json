@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v749",
+  "type": "visual_novel",
+  "name": "Shijuu Hachi (kari)",
+  "original_name": "四八 （仮）",
+  "language": "en",
+  "source_language": "en",
+  "source": "One day, you get a telephone call.\n\"You've won a chance to test a new game, please tell me about yourself.\"\nAnd you tell the person on the phone everything about yourself and your family. \nAfter a while you receive a game called Shiju Hachi. \nEver since starting the game strange things have started happening around you.\n\n[Edited from [url=http://ja.wikipedia.org/wiki/%E5%9B%9B%E5%85%AB%EF%BC%88%E4%BB%AE%EF%BC%89]Wikipedia[/url]]",
+  "source_sha256": "7e091711764459b25ff2076fe62f62e58f935e62ab2d198c72139d36de01d6ad",
+  "translation": "One day, you get a telephone call.\n\"You've won a chance to test a new game, please tell me about yourself.\"\nAnd you tell the person on the phone everything about yourself and your family. \nAfter a while you receive a game called Shiju Hachi. \nEver since starting the game strange things have started happening around you.\n\n[Edited from [url=http://ja.wikipedia.org/wiki/%E5%9B%9B%E5%85%AB%EF%BC%88%E4%BB%AE%EF%BC%89]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/v749"
+}

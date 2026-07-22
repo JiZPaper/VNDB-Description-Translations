@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122618",
+  "type": "character",
+  "name": "Zekoro",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A zebra that lives in the Everfree forest.",
+  "source_sha256": "8891890a59e9d3d8a3a05b05da146568fb2385f9573b30ed6f68a68a35f95d02",
+  "translation": "A zebra that lives in the Everfree forest.",
+  "vndb_url": "https://vndb.org/c122618"
+}

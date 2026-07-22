@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c114287",
+  "type": "character",
+  "name": "Fargo the Crow",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The university's mascot.",
+  "source_sha256": "7b6b8a8bc85b69562dcaf25867ed4a1ad0d7a9cd592d383eb5beb97efdf8c304",
+  "translation": "The university's mascot.",
+  "vndb_url": "https://vndb.org/c114287"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134120",
+  "type": "character",
+  "name": "Val",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Simulation role: AI Agent - Brain\nOccupation: Brain of the Operation",
+  "source_sha256": "7485ac8592ed5bd8a565abdca6cf80f0fd9faa0de8bc7ae246e1495cd9a98161",
+  "translation": "Simulation role: AI Agent - Brain\nOccupation: Brain of the Operation",
+  "vndb_url": "https://vndb.org/c134120"
+}

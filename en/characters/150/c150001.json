@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150001",
+  "type": "character",
+  "name": "Nameless",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]His true identity is Vermillius, the first manticore.[/spoiler]",
+  "source_sha256": "7bf52c4b1b8d18bd7de26650b248e61edf70fe2868751e8da5372814782445b7",
+  "translation": "[spoiler]His true identity is Vermillius, the first manticore.[/spoiler]",
+  "vndb_url": "https://vndb.org/c150001"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11038",
+  "type": "visual_novel",
+  "name": "Dream Club Zero",
+  "original_name": "ドリームクラブZERO",
+  "language": "en",
+  "source_language": "en",
+  "source": "The \"sequel\" to Dream C Club that takes place chronologically 4 months before the first game.\n\nOur protagonist (named by you) gets a one-year free membership to \"Dream Club\", a host-club where he pays by the hour for girls to chat and drink with him.\n\nCan he succeed in finding love?\n\nIncludes all the characters of the original, plus 3 new girls.",
+  "source_sha256": "264ab6288d6253f1fbd284d651cd4130840f57c17dc9aa8ce4985289b96786c9",
+  "translation": "The \"sequel\" to Dream C Club that takes place chronologically 4 months before the first game.\n\nOur protagonist (named by you) gets a one-year free membership to \"Dream Club\", a host-club where he pays by the hour for girls to chat and drink with him.\n\nCan he succeed in finding love?\n\nIncludes all the characters of the original, plus 3 new girls.",
+  "vndb_url": "https://vndb.org/v11038"
+}

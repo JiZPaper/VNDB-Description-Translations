@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c99282",
+  "type": "character",
+  "name": "Frobwit",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A wizard who is travelling to a convention for sorcerers with his apprentice Dirin.",
+  "source_sha256": "15741f44f9d74c324c11766fe228471865636a2b258897591d6d2b2b573fe3a6",
+  "translation": "A wizard who is travelling to a convention for sorcerers with his apprentice Dirin.",
+  "vndb_url": "https://vndb.org/c99282"
+}

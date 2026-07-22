@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37243",
+  "type": "character",
+  "name": "Wilhelm",
+  "original_name": "ヴィルヘルム",
+  "language": "en",
+  "source_language": "en",
+  "source": "The towns mascot character.",
+  "source_sha256": "0e867bbed9e6fe75aa1c7c2022e40dfa54f937a9b67153021c28b2be2338168e",
+  "translation": "The towns mascot character.",
+  "vndb_url": "https://vndb.org/c37243"
+}

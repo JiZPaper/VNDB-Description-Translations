@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13403",
+  "type": "visual_novel",
+  "name": "Saving Xenon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Xenon Sim is a visual short novel about you saving Xenon and about a ghost named Horsepoopia (from poop kingdom) that will try to kill everyone.",
+  "source_sha256": "705f5984624cab942d096098a30902d76f20ebb19f2f601de1b96b0d929ba528",
+  "translation": "Xenon Sim is a visual short novel about you saving Xenon and about a ghost named Horsepoopia (from poop kingdom) that will try to kill everyone.",
+  "vndb_url": "https://vndb.org/v13403"
+}

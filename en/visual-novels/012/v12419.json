@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12419",
+  "type": "visual_novel",
+  "name": "Night at the Hospital",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is the epic tale of Frank, conspiracies, cuddling, and some sweet, sweet mysterious-stranger lovin'.",
+  "source_sha256": "fa0cf82d886c2786b41df9ca097c174aed49c8a4d08e103f7841137a3c5a4bf3",
+  "translation": "This is the epic tale of Frank, conspiracies, cuddling, and some sweet, sweet mysterious-stranger lovin'.",
+  "vndb_url": "https://vndb.org/v12419"
+}

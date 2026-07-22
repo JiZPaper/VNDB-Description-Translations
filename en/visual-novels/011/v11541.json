@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11541",
+  "type": "visual_novel",
+  "name": "Baby-Faced Vampire",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A very short story about a silly vampire and his \"quest\" to find a meal.",
+  "source_sha256": "44836a909f48aa2e5db28e2c4a7ee2914696d8f0c4c5d7a3f0928f6a8ef4b975",
+  "translation": "A very short story about a silly vampire and his \"quest\" to find a meal.",
+  "vndb_url": "https://vndb.org/v11541"
+}

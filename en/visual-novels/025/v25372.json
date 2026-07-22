@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25372",
+  "type": "visual_novel",
+  "name": "Time Travelers",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Team HC Project No. 2",
+  "source_sha256": "8e226d2d25c3fdebe8e9f51ff955121d10e849ca00449cf54598800af70f01fb",
+  "translation": "Team HC Project No. 2",
+  "vndb_url": "https://vndb.org/v25372"
+}

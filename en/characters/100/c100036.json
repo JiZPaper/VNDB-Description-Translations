@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100036",
+  "type": "character",
+  "name": "Ellie",
+  "original_name": "エリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A new maid who now works at the Earl's manor.\nShe has a mysterious ability to predict a person's death in her dream.\n\n[Taken from the [url=http://orange-app.jp/game/GothicMurder/e/]official website[/url]]",
+  "source_sha256": "e03459b9fbfbd04257b3f0bfadd6ea4878fef10d69f2ce964e4a4c0a81b5380c",
+  "translation": "A new maid who now works at the Earl's manor.\nShe has a mysterious ability to predict a person's death in her dream.\n\n[Taken from the [url=http://orange-app.jp/game/GothicMurder/e/]official website[/url]]",
+  "vndb_url": "https://vndb.org/c100036"
+}

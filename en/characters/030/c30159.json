@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30159",
+  "type": "character",
+  "name": "Johann Poe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Professor Poe is a famous professor of magical science.",
+  "source_sha256": "ed519c22e9c87ce81f7720abcb8937eb481d77809587c477dc56a59ff970efc7",
+  "translation": "Professor Poe is a famous professor of magical science.",
+  "vndb_url": "https://vndb.org/c30159"
+}

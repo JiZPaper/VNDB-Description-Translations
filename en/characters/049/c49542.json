@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c49542",
+  "type": "character",
+  "name": "Hakua",
+  "original_name": "ハクア",
+  "language": "en",
+  "source_language": "en",
+  "source": "A timid youkai that works at a restaurant in Koutarichou.",
+  "source_sha256": "7bb719f381048f399b880c7bea0fac18897dd0b63dbcd9487972a1a635757fde",
+  "translation": "A timid youkai that works at a restaurant in Koutarichou.",
+  "vndb_url": "https://vndb.org/c49542"
+}

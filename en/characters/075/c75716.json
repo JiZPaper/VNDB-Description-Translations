@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75716",
+  "type": "character",
+  "name": "Butler",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Shuu's butler.",
+  "source_sha256": "d1657a4aa0f732cc10fd5dd13f15f43720bd780877c73f9a3a56ff833c2fb2af",
+  "translation": "Shuu's butler.",
+  "vndb_url": "https://vndb.org/c75716"
+}

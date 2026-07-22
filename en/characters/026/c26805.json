@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c26805",
+  "type": "character",
+  "name": "Crome",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dragon who works at the construction site.",
+  "source_sha256": "09e3048f5946fd501921fec54c147109c06917373ebd9adf51ba3c198764b0d9",
+  "translation": "A dragon who works at the construction site.",
+  "vndb_url": "https://vndb.org/c26805"
+}

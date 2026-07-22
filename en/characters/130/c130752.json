@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130752",
+  "type": "character",
+  "name": "Jon Panel",
+  "original_name": "ヨウン・パーネル",
+  "language": "en",
+  "source_language": "en",
+  "source": "Gang member.\nAn Irish bartender who works in the dining car of the \"Flying Pussyfoot.\"\n\n[Translated from in-game profile]",
+  "source_sha256": "6134fbf055a2202cc9ae0ef0ab2b13133c60b543201518ca2778a690ab262d23",
+  "translation": "Gang member.\nAn Irish bartender who works in the dining car of the \"Flying Pussyfoot.\"\n\n[Translated from in-game profile]",
+  "vndb_url": "https://vndb.org/c130752"
+}

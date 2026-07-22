@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160816",
+  "type": "character",
+  "name": "Chen Fenghuang",
+  "original_name": "陈凤凰",
+  "language": "en",
+  "source_language": "en",
+  "source": "The security guard at Hengshui School.",
+  "source_sha256": "ad5ede3166e5b91b864d93055b8299c0a0fc9e6d073aa90c93170c5cd748a784",
+  "translation": "The security guard at Hengshui School.",
+  "vndb_url": "https://vndb.org/c160816"
+}

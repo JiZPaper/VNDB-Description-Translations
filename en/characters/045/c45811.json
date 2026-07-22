@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45811",
+  "type": "character",
+  "name": "Acid Gurnie",
+  "original_name": "アシッド・ガーニィ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mechanic stationed in the Dive Ride hanger.\nHis nickname is Sid.\nHe has an artist's temperament and is adored by the cadets.\nHe used to be a Vector Ride pilot candidate in the past.",
+  "source_sha256": "a07ecb20e439852efd4ac94311ff7f2b9d58cbddc0524761a3e0f759522379da",
+  "translation": "A mechanic stationed in the Dive Ride hanger.\nHis nickname is Sid.\nHe has an artist's temperament and is adored by the cadets.\nHe used to be a Vector Ride pilot candidate in the past.",
+  "vndb_url": "https://vndb.org/c45811"
+}

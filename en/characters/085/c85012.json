@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c85012",
+  "type": "character",
+  "name": "Sasami",
+  "original_name": "ササミ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A male chicken kept in the garden of Grand Palace Sakura.",
+  "source_sha256": "67ab011bf18e0436cce620a2bf7722e8f5a6e33fd0c26cde0aae9c054e27fcda",
+  "translation": "A male chicken kept in the garden of Grand Palace Sakura.",
+  "vndb_url": "https://vndb.org/c85012"
+}

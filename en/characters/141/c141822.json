@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c141822",
+  "type": "character",
+  "name": "Assistant",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is a police detective that helps you in your investigation. Other than that, he doesn't like sharing any information about his private life; he is only focused on finding out the person who sent a hired man to kill the Argentinian ex-president.",
+  "source_sha256": "cd816484a517cb1fd09003afd76ccc738909647939191e22f5155c8c25513299",
+  "translation": "He is a police detective that helps you in your investigation. Other than that, he doesn't like sharing any information about his private life; he is only focused on finding out the person who sent a hired man to kill the Argentinian ex-president.",
+  "vndb_url": "https://vndb.org/c141822"
+}

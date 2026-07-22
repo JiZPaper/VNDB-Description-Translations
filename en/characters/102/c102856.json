@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102856",
+  "type": "character",
+  "name": "Tiger",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An athlete",
+  "source_sha256": "8045c3237619ab4f53513994b5f9967c1a245f2781bdaa12f2c3d28278a1bee5",
+  "translation": "An athlete",
+  "vndb_url": "https://vndb.org/c102856"
+}

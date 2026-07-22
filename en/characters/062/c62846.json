@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62846",
+  "type": "character",
+  "name": "Trash",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]His real name is Carlito.[/spoiler]",
+  "source_sha256": "f57877cd9a8a340105f95c4da99ba22ec8d84bcd32e67b79f7f61847ff991a7a",
+  "translation": "[spoiler]His real name is Carlito.[/spoiler]",
+  "vndb_url": "https://vndb.org/c62846"
+}

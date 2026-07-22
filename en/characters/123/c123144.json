@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123144",
+  "type": "character",
+  "name": "Hana Yuna",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An alternate world's version of Hana.",
+  "source_sha256": "56538c0732e277d13c7c5d33ec4e84dcd3e9411f459a334cc0b29ce976e4b6fd",
+  "translation": "An alternate world's version of Hana.",
+  "vndb_url": "https://vndb.org/c123144"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c37143",
+  "type": "character",
+  "name": "Inske",
+  "original_name": "Инске",
+  "language": "en",
+  "source_language": "en",
+  "source": "The playable character of \"Pobeg iz Frenzzony\", she’s an expert on artifacts.",
+  "source_sha256": "53fab505cf41755087b0eb9a7d42f1b4eac86aba437a26f8b0f2eda40aa760ab",
+  "translation": "The playable character of \"Pobeg iz Frenzzony\", she’s an expert on artifacts.",
+  "vndb_url": "https://vndb.org/c37143"
+}

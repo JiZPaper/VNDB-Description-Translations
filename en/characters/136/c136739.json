@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c136739",
+  "type": "character",
+  "name": "Yokohara",
+  "original_name": "横原",
+  "language": "en",
+  "source_language": "en",
+  "source": "A third-year student and captain of the baseball club.",
+  "source_sha256": "f36be5e5aa1e0479b4e2a836c9dc4edf3af96ddd5ad6fd04ddd323fb1047723c",
+  "translation": "A third-year student and captain of the baseball club.",
+  "vndb_url": "https://vndb.org/c136739"
+}

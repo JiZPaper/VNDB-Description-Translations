@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34459",
+  "type": "visual_novel",
+  "name": "Ami Love Letter",
+  "original_name": "亜美 Love Letter",
+  "language": "en",
+  "source_language": "en",
+  "source": "This fandisc contains video clips, voice recordings and pictures primarily from the Ami animation series by Cream Lemon.",
+  "source_sha256": "4532ea811e655f486f362c04dab4935cfe7eca01425b5dbd1190c9a101660fee",
+  "translation": "This fandisc contains video clips, voice recordings and pictures primarily from the Ami animation series by Cream Lemon.",
+  "vndb_url": "https://vndb.org/v34459"
+}

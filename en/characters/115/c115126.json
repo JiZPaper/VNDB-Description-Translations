@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115126",
+  "type": "character",
+  "name": "Roy",
+  "original_name": "羅",
+  "language": "en",
+  "source_language": "en",
+  "source": "Francis' bodyguard. He guards the hospital room where he is admitted.",
+  "source_sha256": "ed05ee4f52f4b21fb7676029c103790e85dc0335004b8b7b2dccd619ec273217",
+  "translation": "Francis' bodyguard. He guards the hospital room where he is admitted.",
+  "vndb_url": "https://vndb.org/c115126"
+}

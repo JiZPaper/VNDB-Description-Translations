@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126181",
+  "type": "character",
+  "name": "Camellia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Rosetta's three-eyed pet cat.",
+  "source_sha256": "cb4ba2a8bed10fd4da7e809166b5062e067ae5439a67cb5d3e46fbd6d9e7574b",
+  "translation": "Rosetta's three-eyed pet cat.",
+  "vndb_url": "https://vndb.org/c126181"
+}

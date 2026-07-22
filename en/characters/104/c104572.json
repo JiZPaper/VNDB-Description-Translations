@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c104572",
+  "type": "character",
+  "name": "Rurudo",
+  "original_name": "ルルド",
+  "language": "en",
+  "source_language": "en",
+  "source": "Dragonkin",
+  "source_sha256": "4a70eb4d8a160a77f9add633087f61e589915705e396b3acd6344f6e7b92538c",
+  "translation": "Dragonkin",
+  "vndb_url": "https://vndb.org/c104572"
+}

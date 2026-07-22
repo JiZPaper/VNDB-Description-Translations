@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30591",
+  "type": "visual_novel",
+  "name": "Oathbreaker: Season 2",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your Divine gave you one last chance to repent for your crimes.\nWill you obey her command and break her free, or will you defy her wishes for the last time?",
+  "source_sha256": "18260ed73425ed850232028f7db6ccdde439890e8b23f65bc036cb5cb2f70ba9",
+  "translation": "Your Divine gave you one last chance to repent for your crimes.\nWill you obey her command and break her free, or will you defy her wishes for the last time?",
+  "vndb_url": "https://vndb.org/v30591"
+}

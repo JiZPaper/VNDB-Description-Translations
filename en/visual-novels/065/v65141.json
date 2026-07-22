@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65141",
+  "type": "visual_novel",
+  "name": "Floor 13",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Floor 13 is a visual novel, following a character who got stuck in a hotel, and has to talk his way out of this situation.",
+  "source_sha256": "1a3383c9a2eb67b7469fa4496eb4be8a4ffb1256e23fe47080360b030026d985",
+  "translation": "Floor 13 is a visual novel, following a character who got stuck in a hotel, and has to talk his way out of this situation.",
+  "vndb_url": "https://vndb.org/v65141"
+}

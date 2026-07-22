@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41425",
+  "type": "visual_novel",
+  "name": "Winter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The coldest season is a time for recovery and restoration. Made for the Winter Visual Novel Jam 2022.",
+  "source_sha256": "41b184c4f2e647469bad2ed8b3ad373935ac444bd090e4bb1891489d6fe68d1b",
+  "translation": "The coldest season is a time for recovery and restoration. Made for the Winter Visual Novel Jam 2022.",
+  "vndb_url": "https://vndb.org/v41425"
+}

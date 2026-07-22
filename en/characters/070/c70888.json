@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70888",
+  "type": "character",
+  "name": "Isabella",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Matthew's mother.",
+  "source_sha256": "cef10f65cfdc48bde09aef27034833d40c569b5278affdd481597bd498aa67c9",
+  "translation": "Matthew's mother.",
+  "vndb_url": "https://vndb.org/c70888"
+}

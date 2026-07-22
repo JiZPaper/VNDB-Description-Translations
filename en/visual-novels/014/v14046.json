@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14046",
+  "type": "visual_novel",
+  "name": "J.B. Harold no Jikenbo - Kiss of Murder - Satsui no Kuchizuke",
+  "original_name": "J.B.ハロルドの事件簿 - キス・オブ・マーダー - 殺意の接吻",
+  "language": "en",
+  "source_language": "en",
+  "source": "Kiss of Murder, is set in a parallel world to Manhattan Requiem, and while featuring the same set of characters as that title, has a completely different scenario.\n\nEarly releases of the game were addons to \"Manhattan Requiem\" and used its graphical data. Later iterations became stand-alone.",
+  "source_sha256": "84e8505252dc8a0c9d9b57bcf774703ed9f920e03b405315f3e8b3f3fa0590a5",
+  "translation": "Kiss of Murder, is set in a parallel world to Manhattan Requiem, and while featuring the same set of characters as that title, has a completely different scenario.\n\nEarly releases of the game were addons to \"Manhattan Requiem\" and used its graphical data. Later iterations became stand-alone.",
+  "vndb_url": "https://vndb.org/v14046"
+}

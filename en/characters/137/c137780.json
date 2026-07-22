@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c137780",
+  "type": "character",
+  "name": "Gluglú",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mysterious parasite.",
+  "source_sha256": "c2e16fd3d06126a9cb0b4e54226d87b4eb4596dc546feccc2cb3c1d9a43695bf",
+  "translation": "Mysterious parasite.",
+  "vndb_url": "https://vndb.org/c137780"
+}

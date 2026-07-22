@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64203",
+  "type": "visual_novel",
+  "name": "Amor Fati",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A story about philosophy, mental health, religion and fate. \n\nAn alternate tale, where the protagonist is stuck in a time loop while trying to save his friend from committing suicide.",
+  "source_sha256": "207328a15383ccf2e1f276cc0d47f261a9385970ac98bbe085c6da44b8beb7a3",
+  "translation": "A story about philosophy, mental health, religion and fate. \n\nAn alternate tale, where the protagonist is stuck in a time loop while trying to save his friend from committing suicide.",
+  "vndb_url": "https://vndb.org/v64203"
+}

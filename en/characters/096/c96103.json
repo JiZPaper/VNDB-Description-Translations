@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96103",
+  "type": "character",
+  "name": "Cambridge Student",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A stylish man with two sparkling eyes and a bewitching accent.\nHe has a lot to say about a certain scientist.\n\n\"At Cambridge, Newton stayed for decades long. He studied, taught, and wrote Principia.\"",
+  "source_sha256": "07facc176581c0dcb95ecddf706034f0f8930f96258abde97f17a07388a0f316",
+  "translation": "A stylish man with two sparkling eyes and a bewitching accent.\nHe has a lot to say about a certain scientist.\n\n\"At Cambridge, Newton stayed for decades long. He studied, taught, and wrote Principia.\"",
+  "vndb_url": "https://vndb.org/c96103"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100490",
+  "type": "character",
+  "name": "Arisha",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Marketing Consultant\nLikes: Fashion, Indian food, dancing\nDislikes: Passive behavior, gum chewing",
+  "source_sha256": "b6829edd1683537c1154a39317945f5c5b5c2f850590e3385977b74146a9f186",
+  "translation": "Occupation: Marketing Consultant\nLikes: Fashion, Indian food, dancing\nDislikes: Passive behavior, gum chewing",
+  "vndb_url": "https://vndb.org/c100490"
+}

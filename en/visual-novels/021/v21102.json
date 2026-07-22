@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21102",
+  "type": "visual_novel",
+  "name": "Strangers",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Two strangers meet and one's fate will forever be changed. A short 10 minute visual novel based on some true events regarding society and suicide.",
+  "source_sha256": "c470c9761ca1869bfe65bc1e851f73180099023ce28ff3a68aeb7353b8402876",
+  "translation": "Two strangers meet and one's fate will forever be changed. A short 10 minute visual novel based on some true events regarding society and suicide.",
+  "vndb_url": "https://vndb.org/v21102"
+}

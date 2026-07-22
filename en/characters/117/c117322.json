@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117322",
+  "type": "character",
+  "name": "Sir Godfrey",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A noble knight whose health is failing him.",
+  "source_sha256": "f8aee0c038bf5c5aa05e03bd81c04a6a29798ff846bee5492c47d7744282de20",
+  "translation": "A noble knight whose health is failing him.",
+  "vndb_url": "https://vndb.org/c117322"
+}

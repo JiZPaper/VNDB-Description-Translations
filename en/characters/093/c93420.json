@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c93420",
+  "type": "character",
+  "name": "Catty Vitlay",
+  "original_name": "キャティ・ヴィトレイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Clerk at Mc Berry's.",
+  "source_sha256": "bf87bfb819e7592ffccdb044f0d2c3371c9a122f0d0f2b9673fbad37b15577d7",
+  "translation": "Clerk at Mc Berry's.",
+  "vndb_url": "https://vndb.org/c93420"
+}

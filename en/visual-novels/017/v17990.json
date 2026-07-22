@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17990",
+  "type": "visual_novel",
+  "name": "Girl City",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You move to Girl City, where women far outnumber men, and become the only boy in an all-girls school.",
+  "source_sha256": "412c49ecae1c8b83c4d0d81803bae78d7dd3b11e14691e1fb073f644b8eee876",
+  "translation": "You move to Girl City, where women far outnumber men, and become the only boy in an all-girls school.",
+  "vndb_url": "https://vndb.org/v17990"
+}

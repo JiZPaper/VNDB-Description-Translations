@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28991",
+  "type": "visual_novel",
+  "name": "Ruriiro Days ~Heavenly Blue~",
+  "original_name": "ルリイロデイズ ~Heavenly Blue~",
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel featuring VTuber unit Asano Sisters Project.",
+  "source_sha256": "93e024e52a8ce61cb74714d29bc865eaeaaa0d833f7f40b2a225cb811a5831b0",
+  "translation": "A visual novel featuring VTuber unit Asano Sisters Project.",
+  "vndb_url": "https://vndb.org/v28991"
+}

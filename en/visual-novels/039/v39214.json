@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39214",
+  "type": "visual_novel",
+  "name": "Seishun no Okazu",
+  "original_name": "セイシュンのオカズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"The sky is falling.\"\n\nThat was the assignment given by Okamoto Kisara.\n\nWhat could it mean for the sky, which should never fall, to actually fall? Kawafuji Sosuke searches for the answer to that question.",
+  "source_sha256": "b492d8ccbcd895d5cd6b02a368a019d482a41a555246de8f873047bdf59394ee",
+  "translation": "\"The sky is falling.\"\n\nThat was the assignment given by Okamoto Kisara.\n\nWhat could it mean for the sky, which should never fall, to actually fall? Kawafuji Sosuke searches for the answer to that question.",
+  "vndb_url": "https://vndb.org/v39214"
+}

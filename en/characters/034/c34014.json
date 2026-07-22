@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c34014",
+  "type": "character",
+  "name": "Bacchus Moore",
+  "original_name": "バッカス＝ムーア",
+  "language": "en",
+  "source_language": "en",
+  "source": "A cook from downtown. He's bright and kind with a good disposition.\nIn the daytime he works as a cook at the mansion, but after dinner he's the master of a nearby pub that [url=/c34011]Arthur[/url] owns.",
+  "source_sha256": "12458e29eea92c1612b09eae94a3766e921e760c20cedb542ccb98d37dc2e4e9",
+  "translation": "A cook from downtown. He's bright and kind with a good disposition.\nIn the daytime he works as a cook at the mansion, but after dinner he's the master of a nearby pub that [url=/c34011]Arthur[/url] owns.",
+  "vndb_url": "https://vndb.org/c34014"
+}

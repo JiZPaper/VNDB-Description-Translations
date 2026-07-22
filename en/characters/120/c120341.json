@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120341",
+  "type": "character",
+  "name": "Me",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The melancholy protagonist who has something they need to get off their chest.",
+  "source_sha256": "482243e236a09c4237f8578019614bc071112f07c9f6d8ff835dc9f56d3ca9ab",
+  "translation": "The melancholy protagonist who has something they need to get off their chest.",
+  "vndb_url": "https://vndb.org/c120341"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c132469",
+  "type": "character",
+  "name": "Katarina",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The maid at the hero's home.",
+  "source_sha256": "40b8cd9123648db2b63e55ca7237a13a78e98e979aadd407e1db050b6f370a3e",
+  "translation": "The maid at the hero's home.",
+  "vndb_url": "https://vndb.org/c132469"
+}

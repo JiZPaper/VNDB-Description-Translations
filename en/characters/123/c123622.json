@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123622",
+  "type": "character",
+  "name": "Sakurada Jun",
+  "original_name": "桜田 ジュン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Instance of Sakurada Jun in NOMAD Rozen Maiden continuation, which is also used in TAITO Visual Novels.\nJun is a boy who has not been to school since he failed an important test. He is the medium of Shinku.",
+  "source_sha256": "bb215cc6ab4c6e02b358fced3691b3c2de88b60fcbe7c769d1f97d8d95b49303",
+  "translation": "Instance of Sakurada Jun in NOMAD Rozen Maiden continuation, which is also used in TAITO Visual Novels.\nJun is a boy who has not been to school since he failed an important test. He is the medium of Shinku.",
+  "vndb_url": "https://vndb.org/c123622"
+}

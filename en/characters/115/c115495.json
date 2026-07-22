@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115495",
+  "type": "character",
+  "name": "Inspector Leung",
+  "original_name": "梁",
+  "language": "en",
+  "source_language": "en",
+  "source": "He is an apprentice police inspector belonging to the West Kowloon Police Department.\nHe is in charge of the Yanyan murder investigation.",
+  "source_sha256": "9990d36ec97ea75f62ef3f1ed38918d0c672589edcddeec32e0cde3f13af9303",
+  "translation": "He is an apprentice police inspector belonging to the West Kowloon Police Department.\nHe is in charge of the Yanyan murder investigation.",
+  "vndb_url": "https://vndb.org/c115495"
+}

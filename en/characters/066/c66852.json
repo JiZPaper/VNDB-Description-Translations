@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c66852",
+  "type": "character",
+  "name": "The King",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The current ruler.",
+  "source_sha256": "cf2b429338b2a327257aa552a8ef9f649ac1101c5fcc68d99d7da19a956d8a22",
+  "translation": "The current ruler.",
+  "vndb_url": "https://vndb.org/c66852"
+}

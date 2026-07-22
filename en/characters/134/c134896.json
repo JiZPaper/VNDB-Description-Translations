@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c134896",
+  "type": "character",
+  "name": "King Lackland",
+  "original_name": "ラックランド王",
+  "language": "en",
+  "source_language": "en",
+  "source": "The antagonist of the event \"Winds of Sherwood, Again\".\n\nA tyrant who invaded England and usurped the throne from his older brother Richard.",
+  "source_sha256": "1c08cd455294393597a63231416e2d76ed77c792ef35531f3ec72e7c8b7e99aa",
+  "translation": "The antagonist of the event \"Winds of Sherwood, Again\".\n\nA tyrant who invaded England and usurped the throne from his older brother Richard.",
+  "vndb_url": "https://vndb.org/c134896"
+}

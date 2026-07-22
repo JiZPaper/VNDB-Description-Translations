@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4919",
+  "type": "visual_novel",
+  "name": "Shin Nouryokusha",
+  "original_name": "真・脳力者",
+  "language": "en",
+  "source_language": "en",
+  "source": "Remake of [url=/v6939]Nouryokusha[/url] with additional heroine Madoka, a runaway girl.",
+  "source_sha256": "5afd72ad81f26d04f08dd25642c16c85ae7119f64bdfa8fc7716e31e3d967d4f",
+  "translation": "Remake of [url=/v6939]Nouryokusha[/url] with additional heroine Madoka, a runaway girl.",
+  "vndb_url": "https://vndb.org/v4919"
+}

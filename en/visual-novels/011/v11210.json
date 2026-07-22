@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11210",
+  "type": "visual_novel",
+  "name": "Joou Heika ni Chuusei o -Mission from Queen-",
+  "original_name": "女王陛下に忠誠を -Mission from Queen-",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a remake of the novel \"Fuyu no Himegimi -Winter Princess-\", which was released on December 2008.",
+  "source_sha256": "62f82fdf3fb2b09942afaf0e1f6acaffa0d0245f9d0435d88e00949766658792",
+  "translation": "This is a remake of the novel \"Fuyu no Himegimi -Winter Princess-\", which was released on December 2008.",
+  "vndb_url": "https://vndb.org/v11210"
+}

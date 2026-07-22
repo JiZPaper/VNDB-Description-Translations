@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123019",
+  "type": "character",
+  "name": "Ryan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Ryan is a German Shepherd living outside of Echo that Flynn has met prior to the story.",
+  "source_sha256": "47fbb47ebf04ce836ee5bae54e895a42d80bcbcad844c8adb6eebd2c7ddaaf8f",
+  "translation": "Ryan is a German Shepherd living outside of Echo that Flynn has met prior to the story.",
+  "vndb_url": "https://vndb.org/c123019"
+}

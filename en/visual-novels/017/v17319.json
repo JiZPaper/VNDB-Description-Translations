@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17319",
+  "type": "visual_novel",
+  "name": "Kimi ga Furaseta Yuki",
+  "original_name": "君が降らせた雪",
+  "language": "en",
+  "source_language": "en",
+  "source": "You are woken up by your friend, and have a conversation with him. But you're really sleepy and will soon fall back to sleep again... If only you could stay up...",
+  "source_sha256": "d917fa6beed1820be96d4363b12a565cf326c2f4921890067d1f72aec80d8b4b",
+  "translation": "You are woken up by your friend, and have a conversation with him. But you're really sleepy and will soon fall back to sleep again... If only you could stay up...",
+  "vndb_url": "https://vndb.org/v17319"
+}

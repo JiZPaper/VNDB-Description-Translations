@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c14206",
+  "type": "character",
+  "name": "Jake Dacia",
+  "original_name": "ジェイク・ダキア",
+  "language": "en",
+  "source_language": "en",
+  "source": "Race: Human\n\n[spoiler]Actually a dragonkin who has lived over a thousand years.[/spoiler]",
+  "source_sha256": "2fdf6da3d8de7c8f733296c2b79bb5f65625622150cd968fd96535f3176c3c53",
+  "translation": "Race: Human\n\n[spoiler]Actually a dragonkin who has lived over a thousand years.[/spoiler]",
+  "vndb_url": "https://vndb.org/c14206"
+}

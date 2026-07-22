@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23002",
+  "type": "visual_novel",
+  "name": "Silent Hill: Shattered Memories Fanmade",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fanmade adaptation of the game Silent Hill: Shattered Memories.",
+  "source_sha256": "26a32de99be8dd4df7ea9ea1ed35bbe15577ac1168f4f22e3fe86a01d52c26f1",
+  "translation": "A fanmade adaptation of the game Silent Hill: Shattered Memories.",
+  "vndb_url": "https://vndb.org/v23002"
+}

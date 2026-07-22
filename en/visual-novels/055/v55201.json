@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55201",
+  "type": "visual_novel",
+  "name": "Whisper of the Soul",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You find yourself cuffed in an unknown basement.\n\nWhere are you?\n\nWhat is your calling?",
+  "source_sha256": "3babbb86d7167bd3e160a0b8431817470bb711e74650e16723771dd04c05206c",
+  "translation": "You find yourself cuffed in an unknown basement.\n\nWhere are you?\n\nWhat is your calling?",
+  "vndb_url": "https://vndb.org/v55201"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c51155",
+  "type": "character",
+  "name": "Cardinal",
+  "original_name": "カーディナル",
+  "language": "en",
+  "source_language": "en",
+  "source": "A swordsman after the protagonist's life.",
+  "source_sha256": "93e1c476685b7e81d56c9adf0cb7f44ef4b6fde5ea1cf77c02171be6de53ade9",
+  "translation": "A swordsman after the protagonist's life.",
+  "vndb_url": "https://vndb.org/c51155"
+}

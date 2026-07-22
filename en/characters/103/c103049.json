@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c103049",
+  "type": "character",
+  "name": "Layla",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A classmate with whom the protaganist has done team projects for class before.",
+  "source_sha256": "b9d8b225484cd3a6404ea830330448de1ebfd9416a6f68562f1563175d1a30a3",
+  "translation": "A classmate with whom the protaganist has done team projects for class before.",
+  "vndb_url": "https://vndb.org/c103049"
+}

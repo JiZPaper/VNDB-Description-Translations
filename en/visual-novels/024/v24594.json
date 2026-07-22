@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24594",
+  "type": "visual_novel",
+  "name": "Fermata",
+  "original_name": "Фермата",
+  "language": "en",
+  "source_language": "en",
+  "source": "Fermata is a story about a young pianist from Kazakhstan and his relationship with life and religion.",
+  "source_sha256": "469ea7c6c441f5b8036b384c7c7e62ef88035311b391d90c78561801e150ed1a",
+  "translation": "Fermata is a story about a young pianist from Kazakhstan and his relationship with life and religion.",
+  "vndb_url": "https://vndb.org/v24594"
+}

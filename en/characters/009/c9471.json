@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9471",
+  "type": "character",
+  "name": "Prapancha",
+  "original_name": "プラパンチャ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on a real poet from the Majapahit Kingdom, [url=http://en.wikipedia.org/wiki/Mpu_Prapanca]Mpu Prapanca[/url].",
+  "source_sha256": "ba22a4a9f6ed4f0548c40446353c73b1025246e2ef19fad8bfd80a44d89a13af",
+  "translation": "Based on a real poet from the Majapahit Kingdom, [url=http://en.wikipedia.org/wiki/Mpu_Prapanca]Mpu Prapanca[/url].",
+  "vndb_url": "https://vndb.org/c9471"
+}

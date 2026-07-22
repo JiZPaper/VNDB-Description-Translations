@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c27302",
+  "type": "character",
+  "name": "Aqua",
+  "original_name": "アクア",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the four sub-heroines. Aqua is a robot that has been just recently activated, and whose job is mostly to clean the school's halls.",
+  "source_sha256": "4637c4acc76eb228f4efd6f1035ad4e4ba8df294b56af25cf8515813d8117f07",
+  "translation": "One of the four sub-heroines. Aqua is a robot that has been just recently activated, and whose job is mostly to clean the school's halls.",
+  "vndb_url": "https://vndb.org/c27302"
+}

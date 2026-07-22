@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56371",
+  "type": "visual_novel",
+  "name": "The Big Step",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Follow Samantha's adventures at college, at work, and at home...​",
+  "source_sha256": "77680dcb35d219b9ccd8209cf73ab4de634b374d218446993674853a5a8bb16d",
+  "translation": "Follow Samantha's adventures at college, at work, and at home...​",
+  "vndb_url": "https://vndb.org/v56371"
+}

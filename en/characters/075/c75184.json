@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75184",
+  "type": "character",
+  "name": "VA Teacher",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A character that teaches you how to be a voice actor.",
+  "source_sha256": "bab4be758e935458353e9a9c0490e97d96ee50fc403fb732f818cd7aec09392d",
+  "translation": "A character that teaches you how to be a voice actor.",
+  "vndb_url": "https://vndb.org/c75184"
+}

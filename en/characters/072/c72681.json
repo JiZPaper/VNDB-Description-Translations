@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c72681",
+  "type": "character",
+  "name": "Raymin",
+  "original_name": "レイミン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious fortune teller rumored to possess mysterious powers.\n\n[From [url=https://web.archive.org/web/20071215205316fw_/http://www.mink.co.jp/lineup/da/char17.html]Mink[/url]]",
+  "source_sha256": "2ef7b0944bccf74f5f89e2328fa4ffbe522264678ef9fba08c07a8d92f751fc3",
+  "translation": "A mysterious fortune teller rumored to possess mysterious powers.\n\n[From [url=https://web.archive.org/web/20071215205316fw_/http://www.mink.co.jp/lineup/da/char17.html]Mink[/url]]",
+  "vndb_url": "https://vndb.org/c72681"
+}

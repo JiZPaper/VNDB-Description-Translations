@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c143495",
+  "type": "character",
+  "name": "Marcel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bouncer at the nightclub where Ivy and Jeremy work",
+  "source_sha256": "28e57c9aef63e7f16af830592923dd772919a362bb8e1ff508324a81001824a2",
+  "translation": "A bouncer at the nightclub where Ivy and Jeremy work",
+  "vndb_url": "https://vndb.org/c143495"
+}

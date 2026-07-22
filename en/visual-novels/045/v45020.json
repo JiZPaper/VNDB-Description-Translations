@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45020",
+  "type": "visual_novel",
+  "name": "Help Me Talk to My Friend!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I can't figure out how to tell my friend how I feel... Please, won't you help me?\"\n\n[from [url=https://minthoodie.itch.io/help-me-talk-to-my-friend]itch.io[/url]]",
+  "source_sha256": "ddce706747a82e25209afdb45a38d88ae115d10d38a63de85d4a187318f50caa",
+  "translation": "\"I can't figure out how to tell my friend how I feel... Please, won't you help me?\"\n\n[from [url=https://minthoodie.itch.io/help-me-talk-to-my-friend]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v45020"
+}

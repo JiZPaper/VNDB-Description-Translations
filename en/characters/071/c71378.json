@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71378",
+  "type": "character",
+  "name": "DingDing",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Robot/Mini Android\n\nDingDing is Angel's personal robot assistant and a defacto \"pet\" as well friend; she's customizable in appearance.\nShe relays messages for Angel and helps Angel with her work.\n\n[From [url=http://altabestudio.com/works/ea-pinocchio/]official site[/url]]",
+  "source_sha256": "9792a17ccf851a02d5dd3fd7dd093056c6d453cb2118ad3bf615fd9ae095e0f7",
+  "translation": "Robot/Mini Android\n\nDingDing is Angel's personal robot assistant and a defacto \"pet\" as well friend; she's customizable in appearance.\nShe relays messages for Angel and helps Angel with her work.\n\n[From [url=http://altabestudio.com/works/ea-pinocchio/]official site[/url]]",
+  "vndb_url": "https://vndb.org/c71378"
+}

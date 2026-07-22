@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82908",
+  "type": "character",
+  "name": "Jeb",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Height 5'10\"",
+  "source_sha256": "487290543c5726c9160789f8c4c251d68baf0a8947062ee54cdb9c32b66f18f5",
+  "translation": "Height 5'10\"",
+  "vndb_url": "https://vndb.org/c82908"
+}

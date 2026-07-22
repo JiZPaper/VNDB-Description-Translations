@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c43697",
+  "type": "character",
+  "name": "Gobi",
+  "original_name": "ゴビー",
+  "language": "en",
+  "source_language": "en",
+  "source": "A loyal servant of [url=/c43696]Esheru[/url] that pulls her goldfish bowl satisfactorily.\nHe's very strong and will always run to help his master when she's in a pinch.",
+  "source_sha256": "c7c6c965f8105a6410af2a481493d6831031eb89f718783335d4c1d593187b78",
+  "translation": "A loyal servant of [url=/c43696]Esheru[/url] that pulls her goldfish bowl satisfactorily.\nHe's very strong and will always run to help his master when she's in a pinch.",
+  "vndb_url": "https://vndb.org/c43697"
+}

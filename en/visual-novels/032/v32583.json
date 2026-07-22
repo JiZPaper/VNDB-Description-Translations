@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32583",
+  "type": "visual_novel",
+  "name": "Kiya Shii Collection \"Yuuwaku MaiMai\"",
+  "original_name": "木谷椎コレクション「誘惑妹々」",
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a voiced game that colors and animates 3 of Kiya Shii's H-manga:\n\n1. 20-page H-manga\n2. 18-page H-manga\n3. 18-page H-manga",
+  "source_sha256": "76eb567cb0dcddcac54bf912da86ad4948a3438c7dcbd15a983aac44761d49e9",
+  "translation": "This is a voiced game that colors and animates 3 of Kiya Shii's H-manga:\n\n1. 20-page H-manga\n2. 18-page H-manga\n3. 18-page H-manga",
+  "vndb_url": "https://vndb.org/v32583"
+}

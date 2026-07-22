@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c82850",
+  "type": "character",
+  "name": "Ms. Wu",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mimi's homeroom and Mandarin teacher.",
+  "source_sha256": "e2ac6a1f2db2148afc85403ae37b2dccaf90b93f93d82409f6e635b082ff45f3",
+  "translation": "Mimi's homeroom and Mandarin teacher.",
+  "vndb_url": "https://vndb.org/c82850"
+}

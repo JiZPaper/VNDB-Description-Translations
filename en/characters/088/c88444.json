@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c88444",
+  "type": "character",
+  "name": "Mr. Edwards",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Walt's father.",
+  "source_sha256": "12b4cbaf5ee527a29eece8556c5db96428262a496b5ba7628e9a780c9921eacd",
+  "translation": "Walt's father.",
+  "vndb_url": "https://vndb.org/c88444"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122540",
+  "type": "character",
+  "name": "V2",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An artificial intelligence program created by V1.",
+  "source_sha256": "79eda78196923733c4f05cdfe9c1181775fe2f08f92c85d3fef06e45abf06ae8",
+  "translation": "An artificial intelligence program created by V1.",
+  "vndb_url": "https://vndb.org/c122540"
+}

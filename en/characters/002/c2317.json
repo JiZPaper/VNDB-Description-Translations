@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c2317",
+  "type": "character",
+  "name": "Tanaka Maasa",
+  "original_name": "田奈加 麻朝",
+  "language": "en",
+  "source_language": "en",
+  "source": "Manager of the baseball club.",
+  "source_sha256": "17d7f6f5cd63af7f7816b8fcb4a4892d6dd0653f725f797973dea234e87c42f3",
+  "translation": "Manager of the baseball club.",
+  "vndb_url": "https://vndb.org/c2317"
+}

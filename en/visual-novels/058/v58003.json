@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58003",
+  "type": "visual_novel",
+  "name": "Intimate Jest",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A jester confesses her love to her queen.",
+  "source_sha256": "dc8fd3df3326782bb2afa8e83a8e2f63b5b3e30dff4639344866ac2a98864fd4",
+  "translation": "A jester confesses her love to her queen.",
+  "vndb_url": "https://vndb.org/v58003"
+}

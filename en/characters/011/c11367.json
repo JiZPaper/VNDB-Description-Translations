@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c11367",
+  "type": "character",
+  "name": "Cleopatra VII Philopator",
+  "original_name": "クレオパトラ7世フィロパトル",
+  "language": "en",
+  "source_language": "en",
+  "source": "The famous pharaoh of Egypt, who loves vanilla ice cream.",
+  "source_sha256": "30dfe37320722bcb319098ab1063f4132809bdcfd6120a5b9fc32f3f0dfe19d3",
+  "translation": "The famous pharaoh of Egypt, who loves vanilla ice cream.",
+  "vndb_url": "https://vndb.org/c11367"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c106015",
+  "type": "character",
+  "name": "Owl",
+  "original_name": "アウル",
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I just choose the best path in the current situation.\"\n\nA quiet reaper.",
+  "source_sha256": "88e68775d1c0e9653cfec79cb71fc64f9e877c9e49794b6c6f5f027baab153dd",
+  "translation": "\"I just choose the best path in the current situation.\"\n\nA quiet reaper.",
+  "vndb_url": "https://vndb.org/c106015"
+}

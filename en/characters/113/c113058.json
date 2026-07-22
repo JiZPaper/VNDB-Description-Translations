@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c113058",
+  "type": "character",
+  "name": "Sue",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Susan's niece who works at Susan's clothing store",
+  "source_sha256": "974523638762337a3930539c7fb4cf2f5c0d557ed2d908da82e7925fb749fa46",
+  "translation": "Susan's niece who works at Susan's clothing store",
+  "vndb_url": "https://vndb.org/c113058"
+}

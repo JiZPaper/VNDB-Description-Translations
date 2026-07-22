@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150923",
+  "type": "character",
+  "name": "Angie the Angel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The female heavyweight champion of the world.",
+  "source_sha256": "9ed4c2444b26ca76f4536b8f762f0f2459111c4f4800ddeea5285bd0728f38da",
+  "translation": "The female heavyweight champion of the world.",
+  "vndb_url": "https://vndb.org/c150923"
+}

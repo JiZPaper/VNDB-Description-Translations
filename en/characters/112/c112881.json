@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c112881",
+  "type": "character",
+  "name": "Felix",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist and bartender.",
+  "source_sha256": "8990bea9410e599e36ee0c57e43e4aadc34a541b20228524c1a7dcb82384d5e7",
+  "translation": "The protagonist and bartender.",
+  "vndb_url": "https://vndb.org/c112881"
+}

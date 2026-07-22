@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9466",
+  "type": "character",
+  "name": "Morgan le Fay",
+  "original_name": "モーガン・ル・フェイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Based on the famous witch from the Arthurian legend [url=http://en.wikipedia.org/wiki/Morgan_le_Fay]Morgan le Fay[/url].",
+  "source_sha256": "5b651cafc2ef3bc7b38312c4653c6c4cbdfb95a8231e6bebe94c856dac18a321",
+  "translation": "Based on the famous witch from the Arthurian legend [url=http://en.wikipedia.org/wiki/Morgan_le_Fay]Morgan le Fay[/url].",
+  "vndb_url": "https://vndb.org/c9466"
+}

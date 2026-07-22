@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c43613",
+  "type": "character",
+  "name": "Sandalphon",
+  "original_name": "サンダルフォン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious boy the protagonist meets at Vace.\nHe appears along with [url=/c43612]Metatron[/url] a lot, but compared to him he's more mature.\nHe likes teasing and playing around with Metatron, and he often says some pretty mean things.",
+  "source_sha256": "4120568526e4876f49f392e9eaac834413b811318e28f74c9d570a7f7930a4c8",
+  "translation": "A mysterious boy the protagonist meets at Vace.\nHe appears along with [url=/c43612]Metatron[/url] a lot, but compared to him he's more mature.\nHe likes teasing and playing around with Metatron, and he often says some pretty mean things.",
+  "vndb_url": "https://vndb.org/c43613"
+}

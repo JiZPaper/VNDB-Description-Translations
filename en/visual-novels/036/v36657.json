@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36657",
+  "type": "visual_novel",
+  "name": "The Inn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You are a detective who was just passing by the inn and decided to rest there. Imagine how unlucky you are.\n\n[From [url=https://fastlite.itch.io/the-inn-old]Itch.io[/url]]",
+  "source_sha256": "f7cd1c3af23bdc6b4647a780dda9083b0fe0688625cf13cf91b2db160513ebcb",
+  "translation": "You are a detective who was just passing by the inn and decided to rest there. Imagine how unlucky you are.\n\n[From [url=https://fastlite.itch.io/the-inn-old]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v36657"
+}

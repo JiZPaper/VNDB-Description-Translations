@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c156641",
+  "type": "character",
+  "name": "Mario",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A plumber who works in Brooklyn with his brother, and the host of the Super Mario Bros. Super Show. He has decided to start a book reading club.",
+  "source_sha256": "a4cbc0c87e7c97a5f55eb9cbda1ea7adec7460ef72b76099711bfa0554851886",
+  "translation": "A plumber who works in Brooklyn with his brother, and the host of the Super Mario Bros. Super Show. He has decided to start a book reading club.",
+  "vndb_url": "https://vndb.org/c156641"
+}

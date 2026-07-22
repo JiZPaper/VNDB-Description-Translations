@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10264",
+  "type": "visual_novel",
+  "name": "Private Garden 2",
+  "original_name": "プライベートガーデン2",
+  "language": "en",
+  "source_language": "en",
+  "source": "A puzzle game, focused on sliding tiles around. Basic gameplay involves placing tiles featuring girls together, then moving a \"male\" tile in to make them disappear. Later mechanics include ice floors, collapsing floors, and so on. After every few puzzles there's a short scene, eventually leading to H.",
+  "source_sha256": "8046119b25040424b1d4fce8c71927855ee1cffc117078dc3945b19e54de75f3",
+  "translation": "A puzzle game, focused on sliding tiles around. Basic gameplay involves placing tiles featuring girls together, then moving a \"male\" tile in to make them disappear. Later mechanics include ice floors, collapsing floors, and so on. After every few puzzles there's a short scene, eventually leading to H.",
+  "vndb_url": "https://vndb.org/v10264"
+}

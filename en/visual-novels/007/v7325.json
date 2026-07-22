@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7325",
+  "type": "visual_novel",
+  "name": "Crysalis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Crysalis is an adventure game were you the hero are lost in a forest seeking a valuable crystal. While you escape the forest or will you fall to its menacing guardian. This game was made for a college class project.",
+  "source_sha256": "3fae0f6d1372cc58ba6b6815b840598ba3bf6815a2b7ce22992fe23f330fccfa",
+  "translation": "Crysalis is an adventure game were you the hero are lost in a forest seeking a valuable crystal. While you escape the forest or will you fall to its menacing guardian. This game was made for a college class project.",
+  "vndb_url": "https://vndb.org/v7325"
+}

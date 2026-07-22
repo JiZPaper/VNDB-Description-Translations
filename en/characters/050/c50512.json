@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c50512",
+  "type": "character",
+  "name": "Nicolai",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Handsome robot doctor in town",
+  "source_sha256": "f4ac15aa4946b9f2ef2eceefa3825dcc832afcede77b562b098965dd2fbab283",
+  "translation": "Handsome robot doctor in town",
+  "vndb_url": "https://vndb.org/c50512"
+}

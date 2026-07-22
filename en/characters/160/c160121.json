@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160121",
+  "type": "character",
+  "name": "Boss",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's boss.",
+  "source_sha256": "3c36c5fdfdb7a40d8427620ec7e0211206ea30490ab55d0c6c28c85527ccb2e8",
+  "translation": "The protagonist's boss.",
+  "vndb_url": "https://vndb.org/c160121"
+}

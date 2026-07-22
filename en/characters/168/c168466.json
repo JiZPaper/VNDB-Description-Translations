@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c168466",
+  "type": "character",
+  "name": "Bob",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Bob is on the higher up managers at Roy and Emily's company. \n\n[spoiler]He seems to be interested in Emily...[spoiler]",
+  "source_sha256": "b0cfb9c8ba83ea9c4bcf03ddc8a97bdb18b59901e4a7ee07be532986b3e9db90",
+  "translation": "Bob is on the higher up managers at Roy and Emily's company. \n\n[spoiler]He seems to be interested in Emily...[spoiler]",
+  "vndb_url": "https://vndb.org/c168466"
+}

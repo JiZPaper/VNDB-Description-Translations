@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32521",
+  "type": "visual_novel",
+  "name": "Vasile Traian - The Game",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This visual novel tells the story of a mysterious girl and her adventures with a man named Vasile Traian",
+  "source_sha256": "8fc73d4a9efda419c2657a934cbeabc3babb87f7c976254885981dca965456cd",
+  "translation": "This visual novel tells the story of a mysterious girl and her adventures with a man named Vasile Traian",
+  "vndb_url": "https://vndb.org/v32521"
+}

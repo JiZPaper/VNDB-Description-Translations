@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c63639",
+  "type": "character",
+  "name": "Gardiane",
+  "original_name": "ガルディエンヌ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Vincennes' security guard.",
+  "source_sha256": "999f18fd59c75493a4df0d3b551ef1f23cd49727c07f1c45e355be19569c19d0",
+  "translation": "Vincennes' security guard.",
+  "vndb_url": "https://vndb.org/c63639"
+}

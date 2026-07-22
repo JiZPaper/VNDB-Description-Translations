@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c38985",
+  "type": "character",
+  "name": "Security Guard",
+  "original_name": "警備員",
+  "language": "en",
+  "source_language": "en",
+  "source": "A friendly, but hardworking security guard.\nHis job is to patrol the hospital and check for suspicious people.\nHe mistakes the protagonist for a suspicious person and ends up checking him out often.\n\n[Translated from [url=https://web.archive.org/web/20080916134722/http://www.silkys.jp/game/shitai/chara/kebiin.html]official website, archived.[/url]]",
+  "source_sha256": "952729e1f31a45b68b2210f728c0f27b9a551976e8aff090e4f46cb136231082",
+  "translation": "A friendly, but hardworking security guard.\nHis job is to patrol the hospital and check for suspicious people.\nHe mistakes the protagonist for a suspicious person and ends up checking him out often.\n\n[Translated from [url=https://web.archive.org/web/20080916134722/http://www.silkys.jp/game/shitai/chara/kebiin.html]official website, archived.[/url]]",
+  "vndb_url": "https://vndb.org/c38985"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20987",
+  "type": "visual_novel",
+  "name": "Moonlight † Virgin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fan remake of the Sugar Beans' otome game \"Under the Moon\".",
+  "source_sha256": "b4687a4ac1f6d7285e9979dbf416de5efd33dfc71add2ba31358d75b4ccb8b27",
+  "translation": "A fan remake of the Sugar Beans' otome game \"Under the Moon\".",
+  "vndb_url": "https://vndb.org/v20987"
+}

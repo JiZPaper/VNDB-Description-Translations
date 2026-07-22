@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38501",
+  "type": "visual_novel",
+  "name": "Taisetsu na Hi.",
+  "original_name": "大切な日。",
+  "language": "en",
+  "source_language": "en",
+  "source": "A collection of birthday episodes.",
+  "source_sha256": "5e0f729afbd3128f7158876f4d7220366bb4333cb311ae2d72ef70be77a68682",
+  "translation": "A collection of birthday episodes.",
+  "vndb_url": "https://vndb.org/v38501"
+}

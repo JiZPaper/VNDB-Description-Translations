@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117443",
+  "type": "character",
+  "name": "The Co-worker",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A co-worker the protagonist meets in the lift. Both of them are going to get stuck there.",
+  "source_sha256": "7bc3ce342d4eeabe2c3f50e5d763116d214c03a1aeb74c9503e4cc47cbf49923",
+  "translation": "A co-worker the protagonist meets in the lift. Both of them are going to get stuck there.",
+  "vndb_url": "https://vndb.org/c117443"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c161606",
+  "type": "character",
+  "name": "Waitress",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The waitress at the cafe.",
+  "source_sha256": "eb95226f63c12b0ccdb22ba8e98ad66952066995e4f77ac0690b730e51f75ebf",
+  "translation": "The waitress at the cafe.",
+  "vndb_url": "https://vndb.org/c161606"
+}

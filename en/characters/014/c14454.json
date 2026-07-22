@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c14454",
+  "type": "character",
+  "name": "Konatsu",
+  "original_name": "コナツ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Cabaret lady.",
+  "source_sha256": "7ac2137b10e0571f15a74ca1e70cf898b0db1b07c5905165c6d62f00bd0a9513",
+  "translation": "Occupation: Cabaret lady.",
+  "vndb_url": "https://vndb.org/c14454"
+}

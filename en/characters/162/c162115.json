@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c162115",
+  "type": "character",
+  "name": "Sgt. Cox",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Simulation role: ??? - Employee\nOccupation: Police Officer\n\nCorrupt cop working for Zhine.",
+  "source_sha256": "d56e62c2cbd02d2c86f78a2cb9a2c2433cd9f0226be10af0cc50fe337b81b852",
+  "translation": "Simulation role: ??? - Employee\nOccupation: Police Officer\n\nCorrupt cop working for Zhine.",
+  "vndb_url": "https://vndb.org/c162115"
+}

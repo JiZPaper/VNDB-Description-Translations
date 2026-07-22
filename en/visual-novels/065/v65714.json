@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65714",
+  "type": "visual_novel",
+  "name": "FutaCity",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Follow the story of Sota, a short-statured boy who returns to the Chiba family home (you can define your relationship with each member of the family) after spending five years abroad. He was a bit afraid to return home after discovering, just days before leaving, the big secret the Chiba family had been hiding.",
+  "source_sha256": "ac50da0aea345996cd08549df86f542de2cf9f35fbaf41dea6c498d0bda09a10",
+  "translation": "Follow the story of Sota, a short-statured boy who returns to the Chiba family home (you can define your relationship with each member of the family) after spending five years abroad. He was a bit afraid to return home after discovering, just days before leaving, the big secret the Chiba family had been hiding.",
+  "vndb_url": "https://vndb.org/v65714"
+}

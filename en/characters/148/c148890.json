@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148890",
+  "type": "character",
+  "name": "Mips",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A robot shopkeeper in a clothing store.",
+  "source_sha256": "60abce0a7331bde81dd392ae78fa6d1e2b6db5e9c3f221ad296fce5d50283557",
+  "translation": "A robot shopkeeper in a clothing store.",
+  "vndb_url": "https://vndb.org/c148890"
+}

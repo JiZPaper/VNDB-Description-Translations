@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32573",
+  "type": "visual_novel",
+  "name": "TYPE.90 - Aa, Nanase-sama vol.1",
+  "original_name": "TYPE.90 ああ、七瀬さま vol.1",
+  "language": "en",
+  "source_language": "en",
+  "source": "A voiced game that colors and animates five doujin manga.",
+  "source_sha256": "86021e6046bf107e1b0a99f2b5954baabebf7ebf7e020ce4e168260ee5f97d80",
+  "translation": "A voiced game that colors and animates five doujin manga.",
+  "vndb_url": "https://vndb.org/v32573"
+}

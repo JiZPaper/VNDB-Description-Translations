@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c7363",
+  "type": "character",
+  "name": "Arya",
+  "original_name": "アーヤ",
+  "language": "en",
+  "source_language": "en",
+  "source": "His short exits and introductions are often the only transition between stories.",
+  "source_sha256": "d6b34735abcf20a50b7677ff1ee23904b8cc507e54c0b847445f8c78f8025429",
+  "translation": "His short exits and introductions are often the only transition between stories.",
+  "vndb_url": "https://vndb.org/c7363"
+}

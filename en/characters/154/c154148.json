@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c154148",
+  "type": "character",
+  "name": "Mrs. Casey",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Adoptive mother of Sarah.",
+  "source_sha256": "179734964fab2b7cba33940e57d8cfecd602c6846e1f43e18b200ecc5b8e072e",
+  "translation": "Adoptive mother of Sarah.",
+  "vndb_url": "https://vndb.org/c154148"
+}

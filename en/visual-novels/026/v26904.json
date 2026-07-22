@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26904",
+  "type": "visual_novel",
+  "name": "Harlem Beat: You're the One",
+  "original_name": "ハーレム ビート you're the one",
+  "language": "en",
+  "source_language": "en",
+  "source": "Visual novel adaptation of the hit basketball manga. The player becomes the team's manager and engages in conversation with its players while also managing their plays.",
+  "source_sha256": "35a279b3d458075deffd2f16776ea308dbf9c83b715fd375d4f638a7d19229f9",
+  "translation": "Visual novel adaptation of the hit basketball manga. The player becomes the team's manager and engages in conversation with its players while also managing their plays.",
+  "vndb_url": "https://vndb.org/v26904"
+}

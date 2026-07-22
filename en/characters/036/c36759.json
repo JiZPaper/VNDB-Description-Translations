@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36759",
+  "type": "character",
+  "name": "Alexei",
+  "original_name": "アレクセイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A boy who has lost his memory.",
+  "source_sha256": "9a75c2c0b14d551c32d24857bb8ce84c2f62ded45d0a01ee2d7fcb578c298740",
+  "translation": "A boy who has lost his memory.",
+  "vndb_url": "https://vndb.org/c36759"
+}

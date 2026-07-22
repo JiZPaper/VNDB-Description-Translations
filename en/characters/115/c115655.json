@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115655",
+  "type": "character",
+  "name": "The Girl",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A severely traumatised, mentally ill girl who has lots of things to hide.",
+  "source_sha256": "869991d7481e8bf3544d8a547c713a43d97e401a56117a7ac97d82cac59fe803",
+  "translation": "A severely traumatised, mentally ill girl who has lots of things to hide.",
+  "vndb_url": "https://vndb.org/c115655"
+}

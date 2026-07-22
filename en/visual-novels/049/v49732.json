@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49732",
+  "type": "visual_novel",
+  "name": "Rakushka",
+  "original_name": "Ракушка",
+  "language": "en",
+  "source_language": "en",
+  "source": "Made for CRAZY GAMEJAM.",
+  "source_sha256": "71a85c90e5806f91c105bd3031df99f114e5bda1072926488c01997e4ea0fe3a",
+  "translation": "Made for CRAZY GAMEJAM.",
+  "vndb_url": "https://vndb.org/v49732"
+}

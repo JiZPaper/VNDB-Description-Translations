@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130342",
+  "type": "character",
+  "name": "Bella",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The bartender.\n\nShe is only at the party because they are paying.",
+  "source_sha256": "291ed4fa16fee5f3745ad17d82357b0e15fbe488fa3eff4dd78a3eb703054016",
+  "translation": "The bartender.\n\nShe is only at the party because they are paying.",
+  "vndb_url": "https://vndb.org/c130342"
+}

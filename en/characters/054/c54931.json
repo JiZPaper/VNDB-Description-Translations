@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c54931",
+  "type": "character",
+  "name": "Passy Montbrun",
+  "original_name": "パッシーモンブラン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A young man who works for the Gordon family.",
+  "source_sha256": "f801be896977bd7f59fc3a1db652c309877f946b950a9838086ed2104778fcdb",
+  "translation": "A young man who works for the Gordon family.",
+  "vndb_url": "https://vndb.org/c54931"
+}

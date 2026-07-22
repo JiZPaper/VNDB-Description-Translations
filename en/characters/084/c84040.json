@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84040",
+  "type": "character",
+  "name": "Yuki",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist. Nameable but default name is Yuki.",
+  "source_sha256": "d7a41874e2a8c80e455bb06ecdda9e048793aa2fad08f41130182e2399cc4de6",
+  "translation": "The protagonist. Nameable but default name is Yuki.",
+  "vndb_url": "https://vndb.org/c84040"
+}

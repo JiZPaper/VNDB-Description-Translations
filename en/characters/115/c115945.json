@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c115945",
+  "type": "character",
+  "name": "Soiree",
+  "original_name": "ソワレ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The ghost dog who loves and protects the theater",
+  "source_sha256": "b92d9111078e327e1763f0d4c8bbe00924d9047eb99e478d1b9d0f2c8722289c",
+  "translation": "The ghost dog who loves and protects the theater",
+  "vndb_url": "https://vndb.org/c115945"
+}

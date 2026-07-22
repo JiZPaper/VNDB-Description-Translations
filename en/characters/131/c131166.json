@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c131166",
+  "type": "character",
+  "name": "Mistress",
+  "original_name": "ミストレス",
+  "language": "en",
+  "source_language": "en",
+  "source": "Ominous entity, spirit of the ancient witch.",
+  "source_sha256": "f3b8bf9ca05705773663027057feb89fd0fed2e518ed5ef4932e34f0c6fc67c2",
+  "translation": "Ominous entity, spirit of the ancient witch.",
+  "vndb_url": "https://vndb.org/c131166"
+}

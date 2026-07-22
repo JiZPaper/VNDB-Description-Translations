@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126069",
+  "type": "character",
+  "name": "Sarah",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Melanie's and Amy's mother.",
+  "source_sha256": "fdd2a103edf6b89e1aea00e30b8b0eb0d87ed8ea215ee5ccd7e5d8316978ba93",
+  "translation": "Melanie's and Amy's mother.",
+  "vndb_url": "https://vndb.org/c126069"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c39322",
+  "type": "character",
+  "name": "Euryale",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Medusa's two sisters.",
+  "source_sha256": "67199da21be3e4c409b8a4e5cf815b080cd5cec0d204bdc384dfa767c4ab793e",
+  "translation": "One of Medusa's two sisters.",
+  "vndb_url": "https://vndb.org/c39322"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36206",
+  "type": "character",
+  "name": "Kashima",
+  "original_name": "鹿島",
+  "language": "en",
+  "source_language": "en",
+  "source": "One of Otoha's butlers.",
+  "source_sha256": "cc717eaf10fd086ab6e50e414c9b74c1e833940d4ff8a13f7a95e19f2846dec7",
+  "translation": "One of Otoha's butlers.",
+  "vndb_url": "https://vndb.org/c36206"
+}

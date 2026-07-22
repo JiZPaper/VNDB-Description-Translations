@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c91543",
+  "type": "character",
+  "name": "Taylor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist.",
+  "source_sha256": "a2c36c93645895134e9a41c68dc09dff71125ecc0d008bd93b0cc2cdd26d2b2e",
+  "translation": "The protagonist.",
+  "vndb_url": "https://vndb.org/c91543"
+}

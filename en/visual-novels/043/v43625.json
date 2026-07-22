@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43625",
+  "type": "visual_novel",
+  "name": "Silver Spider Chapter Zero",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Superhero visual novel with point and click elements.",
+  "source_sha256": "498a06ffce4ccd0e6995db06ffa0759d9a31431fc1938f1b3e31bc9a6d52b8a6",
+  "translation": "Superhero visual novel with point and click elements.",
+  "vndb_url": "https://vndb.org/v43625"
+}

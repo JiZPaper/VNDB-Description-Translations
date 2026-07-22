@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c102858",
+  "type": "character",
+  "name": "Dragon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A gang member",
+  "source_sha256": "0fdc2f1ce969f656bc5e8f650c3c84d9d2956c47e27ad0641ecc99646662181a",
+  "translation": "A gang member",
+  "vndb_url": "https://vndb.org/c102858"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c117904",
+  "type": "character",
+  "name": "Captain V'lit",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Kliton captain.",
+  "source_sha256": "3c441734048a33db651b9b181d8e01b017107784859faa6d930407338d799dce",
+  "translation": "A Kliton captain.",
+  "vndb_url": "https://vndb.org/c117904"
+}

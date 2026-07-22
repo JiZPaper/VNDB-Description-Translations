@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62017",
+  "type": "character",
+  "name": "King Lio",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The king of Airis.",
+  "source_sha256": "a62a641cd4b61896c9599c41a0d4efe8176f996ba1aba8417f25c0d6f3487c77",
+  "translation": "The king of Airis.",
+  "vndb_url": "https://vndb.org/c62017"
+}

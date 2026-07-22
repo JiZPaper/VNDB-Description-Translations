@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75147",
+  "type": "character",
+  "name": "Pico",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Pico is the main protagonist of Nantoka City.",
+  "source_sha256": "70ba62fcd378118efe1d0bd2855e6ac064319742088916358a0fda90018abe7d",
+  "translation": "Pico is the main protagonist of Nantoka City.",
+  "vndb_url": "https://vndb.org/c75147"
+}

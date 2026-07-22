@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100250",
+  "type": "character",
+  "name": "Lana",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lana is a one-eyed begging for alms outside the bridge gate to the old capital. Or so she appears to all who don't know her true identity.",
+  "source_sha256": "fd928329e130247ff6add87cd4190bbad85e265c4ecb7ee2316582b900faa67b",
+  "translation": "Lana is a one-eyed begging for alms outside the bridge gate to the old capital. Or so she appears to all who don't know her true identity.",
+  "vndb_url": "https://vndb.org/c100250"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172350",
+  "type": "character",
+  "name": "Lucy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Cameo from [url=/v51048]Cosy Cafe[/url].",
+  "source_sha256": "197cfef25944453fcd20b9abd29245fc8782310eab659b8ab307cf502198b63d",
+  "translation": "Cameo from [url=/v51048]Cosy Cafe[/url].",
+  "vndb_url": "https://vndb.org/c172350"
+}

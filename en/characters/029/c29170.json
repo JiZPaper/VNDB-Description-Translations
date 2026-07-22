@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c29170",
+  "type": "character",
+  "name": "Doctor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gives diagnosis for hurt person later in story.",
+  "source_sha256": "c54bdbd035b2d12e09223b0beba166054fe614a3dc9c3dbb816292cc8f50b935",
+  "translation": "Gives diagnosis for hurt person later in story.",
+  "vndb_url": "https://vndb.org/c29170"
+}

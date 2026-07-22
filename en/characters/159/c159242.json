@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c159242",
+  "type": "character",
+  "name": "Maggey Byrde",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The security guard at Bluecorp 2.",
+  "source_sha256": "8be13147e2d216e4f24f0f2918af1b5eb2e7a9d126b002d46f69118c95daca8f",
+  "translation": "The security guard at Bluecorp 2.",
+  "vndb_url": "https://vndb.org/c159242"
+}

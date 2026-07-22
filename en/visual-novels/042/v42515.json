@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42515",
+  "type": "visual_novel",
+  "name": "False Acacia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Low-res FMV game about being lost in the forest.\n\nMade during Global Game Jam 2023 with theme 'roots'.\n\n[From [url=https://bearinyourheart.itch.io/false-acatia]Itch.io[/url]]",
+  "source_sha256": "2830302efdd1b9a09b498caba4fa20cd2d8e7045919ca2fa46bd90cbfe883f94",
+  "translation": "Low-res FMV game about being lost in the forest.\n\nMade during Global Game Jam 2023 with theme 'roots'.\n\n[From [url=https://bearinyourheart.itch.io/false-acatia]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v42515"
+}

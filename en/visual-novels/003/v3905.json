@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3905",
+  "type": "visual_novel",
+  "name": "Cool Story: Sugoi Monogatari",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short visual novel ridiculing various plot cliches. There are 38 different endings.",
+  "source_sha256": "4d31bd36397fe352a39a36d4fba297659767ec56564f3605c5552f09bb6005c0",
+  "translation": "A short visual novel ridiculing various plot cliches. There are 38 different endings.",
+  "vndb_url": "https://vndb.org/v3905"
+}

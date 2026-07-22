@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126158",
+  "type": "character",
+  "name": "Karl",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bartender and Ida's friend.",
+  "source_sha256": "c29f2ea79d139d8473c0741341cb8ce87c80dba47404895058f2192329dca00e",
+  "translation": "A bartender and Ida's friend.",
+  "vndb_url": "https://vndb.org/c126158"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20598",
+  "type": "visual_novel",
+  "name": "Maji de Watashi ni Koishinasai! A-1",
+  "original_name": "真剣で私に恋しなさい！A-1",
+  "language": "en",
+  "source_language": "en",
+  "source": "A fandisc featuring new routes for Benkei, Azumi, and Sayaka.",
+  "source_sha256": "7c13d1e49ea7fcb46b508cf29650d444ea112687850cf7b2120028fe5f641c00",
+  "translation": "A fandisc featuring new routes for Benkei, Azumi, and Sayaka.",
+  "vndb_url": "https://vndb.org/v20598"
+}

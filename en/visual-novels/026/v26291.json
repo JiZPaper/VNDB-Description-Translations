@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26291",
+  "type": "visual_novel",
+  "name": "Crow & Foxy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Perch’d on a lofty oak, Sir Raven held a lunch of cheese... You should know how the story ends.\n\n[Taken from https://pierrecorbinais.com/2017/05/03/crow-and-foxy/]",
+  "source_sha256": "9e718b38dab2833f923723c085a994f58bba77ef207a5c6acb5356fecc519299",
+  "translation": "Perch’d on a lofty oak, Sir Raven held a lunch of cheese... You should know how the story ends.\n\n[Taken from https://pierrecorbinais.com/2017/05/03/crow-and-foxy/]",
+  "vndb_url": "https://vndb.org/v26291"
+}

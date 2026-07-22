@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30408",
+  "type": "visual_novel",
+  "name": "Galileo",
+  "original_name": "ガリレオ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Visual novel based in the hit TV series.  It narrates the events and cases encountered by Kaoru Utsumi, a rookie detective, and Manabu Yukawa, a university associate professor, as the two pair up to solve many mysterious cases.",
+  "source_sha256": "b88d35eee75f6ae33f1c99b65778f59ea4e07e3cf392fa67c48d68b7d680ddc1",
+  "translation": "Visual novel based in the hit TV series.  It narrates the events and cases encountered by Kaoru Utsumi, a rookie detective, and Manabu Yukawa, a university associate professor, as the two pair up to solve many mysterious cases.",
+  "vndb_url": "https://vndb.org/v30408"
+}

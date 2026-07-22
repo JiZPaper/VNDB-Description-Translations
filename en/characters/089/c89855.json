@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c89855",
+  "type": "character",
+  "name": "Female Mage",
+  "original_name": "女魔道師",
+  "language": "en",
+  "source_language": "en",
+  "source": "Cubasto Tower 2nd floor boss.",
+  "source_sha256": "402dcd970625e60fa4cc05686e420490b553016fa291d492358bf255e26df8a0",
+  "translation": "Cubasto Tower 2nd floor boss.",
+  "vndb_url": "https://vndb.org/c89855"
+}

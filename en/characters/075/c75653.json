@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c75653",
+  "type": "character",
+  "name": "Pelcha",
+  "original_name": "ペルチャ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Mysterious small human. Probably a human. She ends her sentence with \"-cha!\"",
+  "source_sha256": "0246b0d9b1e5e8b627a2bccbb7780cf63bf1fbf5169c54ed3e64b4b1458ac5d9",
+  "translation": "Mysterious small human. Probably a human. She ends her sentence with \"-cha!\"",
+  "vndb_url": "https://vndb.org/c75653"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11200",
+  "type": "visual_novel",
+  "name": "Sennoujutsu",
+  "original_name": "染脳術",
+  "language": "en",
+  "source_language": "en",
+  "source": "Masaru has a crush for Saki, but she loves another guy.\nIt's time to use that trusted hypnosis manual I found in the library...",
+  "source_sha256": "8a3c343a6f7c003b234494604374c35bbbeefe85e2bcc47fcb8609170948d6ba",
+  "translation": "Masaru has a crush for Saki, but she loves another guy.\nIt's time to use that trusted hypnosis manual I found in the library...",
+  "vndb_url": "https://vndb.org/v11200"
+}

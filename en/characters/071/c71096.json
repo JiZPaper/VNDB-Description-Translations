@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c71096",
+  "type": "character",
+  "name": "Miseria",
+  "original_name": "ミセリア",
+  "language": "en",
+  "source_language": "en",
+  "source": "A necromancer of Team Forte.",
+  "source_sha256": "744848c9627571ff4d0f87d4e70b80ede3b6e97e493a0d9b146af2c82583bc50",
+  "translation": "A necromancer of Team Forte.",
+  "vndb_url": "https://vndb.org/c71096"
+}

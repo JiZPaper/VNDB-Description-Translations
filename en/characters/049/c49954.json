@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c49954",
+  "type": "character",
+  "name": "Narrator",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your guide through this journey, who isn't afraid to tell you when you've made a terrible decision.",
+  "source_sha256": "4d47ef8e1b489718dc3fe0e29cfc09ecff7b0c3a107550e77fded4d532cb2dc0",
+  "translation": "Your guide through this journey, who isn't afraid to tell you when you've made a terrible decision.",
+  "vndb_url": "https://vndb.org/c49954"
+}

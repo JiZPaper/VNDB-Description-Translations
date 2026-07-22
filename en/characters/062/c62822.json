@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c62822",
+  "type": "character",
+  "name": "Vino von Ronzado",
+  "original_name": "ヴィーノ・フォン・ロンザード",
+  "language": "en",
+  "source_language": "en",
+  "source": "Favorite food: Prosciutto, honey\nDisliked food: Maple syrup\n\nA high-ranking noble of Mildonia and a womanizer.",
+  "source_sha256": "fa651e436131580f79589cb639c99427b8bbb2e3073365a9dc6b6a7a8a7e800a",
+  "translation": "Favorite food: Prosciutto, honey\nDisliked food: Maple syrup\n\nA high-ranking noble of Mildonia and a womanizer.",
+  "vndb_url": "https://vndb.org/c62822"
+}

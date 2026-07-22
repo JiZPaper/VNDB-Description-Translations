@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c147149",
+  "type": "character",
+  "name": "Nakamura",
+  "original_name": "中村佑",
+  "language": "en",
+  "source_language": "en",
+  "source": "A waiter who works at Krishna.",
+  "source_sha256": "4e0d2229be6d3033110db1cda7ce78520982dd83e25fd9bcdffa13849371992b",
+  "translation": "A waiter who works at Krishna.",
+  "vndb_url": "https://vndb.org/c147149"
+}

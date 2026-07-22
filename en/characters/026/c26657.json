@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c26657",
+  "type": "character",
+  "name": "Isobe Katsuo",
+  "original_name": "磯辺 かつお",
+  "language": "en",
+  "source_language": "en",
+  "source": "The sole member of St. Arcadia Baseball Club. Despite his boasts about his prowess in baseball, he actually plays the game very poorly.",
+  "source_sha256": "f567ef70bc20a56e6ac7a57e94da8f0b834b1e8900aba2369aa2136f36ced66d",
+  "translation": "The sole member of St. Arcadia Baseball Club. Despite his boasts about his prowess in baseball, he actually plays the game very poorly.",
+  "vndb_url": "https://vndb.org/c26657"
+}

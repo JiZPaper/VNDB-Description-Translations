@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c69908",
+  "type": "character",
+  "name": "Fuse",
+  "original_name": "ヒューズ",
+  "language": "en",
+  "source_language": "en",
+  "source": "Maja's satelite.",
+  "source_sha256": "c123a0061bd5f225a27d4fddb0e7fb0e51e696516e4d7a95007c9a8241f8f570",
+  "translation": "Maja's satelite.",
+  "vndb_url": "https://vndb.org/c69908"
+}

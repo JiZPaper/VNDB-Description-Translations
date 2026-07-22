@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c36758",
+  "type": "character",
+  "name": "Stephan",
+  "original_name": "シュテファン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A musician with cold eyes.",
+  "source_sha256": "16b6299713511e57c5e4ec2427767d529552a1dc5ec46a90bbdd95be9489ce46",
+  "translation": "A musician with cold eyes.",
+  "vndb_url": "https://vndb.org/c36758"
+}

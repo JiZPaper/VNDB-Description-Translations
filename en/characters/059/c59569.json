@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c59569",
+  "type": "character",
+  "name": "Keshimi",
+  "original_name": "消し美",
+  "language": "en",
+  "source_language": "en",
+  "source": "A board eraser in the protagonist's school.",
+  "source_sha256": "341019a0ffdd5454714c928cf2bfa6bdaeec663b42b25255378808cfaaa3ace3",
+  "translation": "A board eraser in the protagonist's school.",
+  "vndb_url": "https://vndb.org/c59569"
+}

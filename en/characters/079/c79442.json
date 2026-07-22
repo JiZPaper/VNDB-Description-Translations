@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c79442",
+  "type": "character",
+  "name": "Clerk",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A clothing store clerk the protagonist meets at the shopping mall.",
+  "source_sha256": "0e1ea5ee35c7556d61d5f7ef6eb056b960f35f058dbcfcdf1dfab503b12bc23b",
+  "translation": "A clothing store clerk the protagonist meets at the shopping mall.",
+  "vndb_url": "https://vndb.org/c79442"
+}

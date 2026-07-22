@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c126072",
+  "type": "character",
+  "name": "Jim",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A slacker involved in porn production.",
+  "source_sha256": "df6507a9f57dac8cead7dab421d1a3ce255ec3e19ac99f90ec068fafda8f3bd2",
+  "translation": "A slacker involved in porn production.",
+  "vndb_url": "https://vndb.org/c126072"
+}

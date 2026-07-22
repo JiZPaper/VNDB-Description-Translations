@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45446",
+  "type": "character",
+  "name": "Lady Bauxmont",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your mother.",
+  "source_sha256": "9038909b4f65427c99aefa4eafe3a3b7bbe810394235364b5ddaefb298d3c100",
+  "translation": "Your mother.",
+  "vndb_url": "https://vndb.org/c45446"
+}

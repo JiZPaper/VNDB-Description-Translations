@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53157",
+  "type": "visual_novel",
+  "name": "Quest for the Teacup of Minor Sentimental Value",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A shadow grows in the frozen north, and dark forces assemble in the wilds and on the roads. Fortunately, you run a small tearoom in a quant forest village and so it is not your job to deal with any of that. Unfortunately, your favourite teacup has suddenly and mysteriously gone missing.\n\nIt shouldn't be too hard to track it down, though...right?\n\n[From [url=https://ifcomp.org/comp/2024]IFComp 2024[/url]]",
+  "source_sha256": "de54b6f9c46ce81bfb725882805f488970a7d7823fd8e4abf2e7b5fe781529d9",
+  "translation": "A shadow grows in the frozen north, and dark forces assemble in the wilds and on the roads. Fortunately, you run a small tearoom in a quant forest village and so it is not your job to deal with any of that. Unfortunately, your favourite teacup has suddenly and mysteriously gone missing.\n\nIt shouldn't be too hard to track it down, though...right?\n\n[From [url=https://ifcomp.org/comp/2024]IFComp 2024[/url]]",
+  "vndb_url": "https://vndb.org/v53157"
+}

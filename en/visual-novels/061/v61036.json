@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61036",
+  "type": "visual_novel",
+  "name": "NeonGhostCity",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A visual novel set in a desolate cyberpunk city. The amnesiac player character needs to explore the city and discover what happened to the inhabitants.",
+  "source_sha256": "db8880d7937381feb512f124837f7a42757fbd011642d9fd17ecf5242dcfa491",
+  "translation": "A visual novel set in a desolate cyberpunk city. The amnesiac player character needs to explore the city and discover what happened to the inhabitants.",
+  "vndb_url": "https://vndb.org/v61036"
+}

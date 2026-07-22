@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c100641",
+  "type": "character",
+  "name": "Lily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A resident of the library and student of magical studies under Aurora.",
+  "source_sha256": "630ff9a77855d2e2c88f43d3862d57dee01005da4cb6821b25e25d315a2b6696",
+  "translation": "A resident of the library and student of magical studies under Aurora.",
+  "vndb_url": "https://vndb.org/c100641"
+}

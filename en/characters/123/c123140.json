@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123140",
+  "type": "character",
+  "name": "Tora Chura",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An alternate world's version of Tora.",
+  "source_sha256": "112b30ca4fbdedf8bd24787778f9d48a7a14afa437a71e129c57e7285d43cc62",
+  "translation": "An alternate world's version of Tora.",
+  "vndb_url": "https://vndb.org/c123140"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41076",
+  "type": "visual_novel",
+  "name": "Days Before the Festival",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A Genshin Impact dating sim and you play as Tartaglia in it.",
+  "source_sha256": "491bb69ce569dbd0c2a80abf5b90580cbaa11050fb1d755b0edb4be3469a3408",
+  "translation": "A Genshin Impact dating sim and you play as Tartaglia in it.",
+  "vndb_url": "https://vndb.org/v41076"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56982",
+  "type": "visual_novel",
+  "name": "Naruto - A genin tale",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You take control of a boy who, after his village was attacked, is sent to the Hidden Leaf Village to continue his ninja training. You will also have to discover what happened to your family and look for those responsible for attacking your village",
+  "source_sha256": "bd17768f6e829b52b6819d12cb4c8016314cc32cbda2be1345bb34a4de9761fb",
+  "translation": "You take control of a boy who, after his village was attacked, is sent to the Hidden Leaf Village to continue his ninja training. You will also have to discover what happened to your family and look for those responsible for attacking your village",
+  "vndb_url": "https://vndb.org/v56982"
+}

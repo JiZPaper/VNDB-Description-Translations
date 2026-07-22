@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c120367",
+  "type": "character",
+  "name": "Treska",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young boy that the girl meets. He wants her to help him buy Milk.",
+  "source_sha256": "002fdd31d00bc32d9633c75295ce7ff1c31a0b7bae161e38d83e9410a428db14",
+  "translation": "A young boy that the girl meets. He wants her to help him buy Milk.",
+  "vndb_url": "https://vndb.org/c120367"
+}

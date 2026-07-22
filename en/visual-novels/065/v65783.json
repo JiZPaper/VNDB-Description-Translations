@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65783",
+  "type": "visual_novel",
+  "name": "Contact",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Main character Mike comes in the summer to see his grandmother. She runs a local store, but things are not going the way she did a couple of years ago.\nMike decides to help her grandmother restore her household and meet her old friends at the same time.",
+  "source_sha256": "c9b9fefdba2f4e935728c8244127edd130af6e7310640eefaf1ab5006722e8f0",
+  "translation": "Main character Mike comes in the summer to see his grandmother. She runs a local store, but things are not going the way she did a couple of years ago.\nMike decides to help her grandmother restore her household and meet her old friends at the same time.",
+  "vndb_url": "https://vndb.org/v65783"
+}

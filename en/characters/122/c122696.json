@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c122696",
+  "type": "character",
+  "name": "Eclair",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A traveling sculptor.",
+  "source_sha256": "28c8916f8684bee2ef0bf1f58dc9c1359f319d33a4824debc1d5c0c94533fc73",
+  "translation": "A traveling sculptor.",
+  "vndb_url": "https://vndb.org/c122696"
+}

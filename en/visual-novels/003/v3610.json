@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3610",
+  "type": "visual_novel",
+  "name": "Hyakuyaku no Sofian",
+  "original_name": "百薬のソフィアン",
+  "language": "en",
+  "source_language": "en",
+  "source": "Sofian of 100 Medicines is about a vampire who practices medicine at night.",
+  "source_sha256": "d96fad7660f5f723d2589ec931e74b6a11c66f62a7e7e6ea5ffb584f55f7ef3d",
+  "translation": "Sofian of 100 Medicines is about a vampire who practices medicine at night.",
+  "vndb_url": "https://vndb.org/v3610"
+}

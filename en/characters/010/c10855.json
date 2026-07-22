@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c10855",
+  "type": "character",
+  "name": "Kohinata Yoshiko",
+  "original_name": "小日向 よし子",
+  "language": "en",
+  "source_language": "en",
+  "source": "Yoshiko is [url=/c10851]Takako[/url]'s aunt and the principal of the high school that she attends.",
+  "source_sha256": "a94038aed6ace8af04a512cdf65096f741c811d8275b9236ae4729bdc73a11b3",
+  "translation": "Yoshiko is [url=/c10851]Takako[/url]'s aunt and the principal of the high school that she attends.",
+  "vndb_url": "https://vndb.org/c10855"
+}

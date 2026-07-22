@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17103",
+  "type": "visual_novel",
+  "name": "Little Mauve Riding Hood",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is a retelling of the Little Red Riding Hood tale, in a... modern set.",
+  "source_sha256": "83d5f8d274a3c626c3874687cae75b9fba5374a0d5d90ae799ebbae61330feb5",
+  "translation": "This is a retelling of the Little Red Riding Hood tale, in a... modern set.",
+  "vndb_url": "https://vndb.org/v17103"
+}

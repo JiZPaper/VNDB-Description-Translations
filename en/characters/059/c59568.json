@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c59568",
+  "type": "character",
+  "name": "Thermo",
+  "original_name": "サーモ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A personified thermometer.",
+  "source_sha256": "a4891300581036ee515ec422f520656e30b4aba6509f2dea9a536d8ec890f2ff",
+  "translation": "A personified thermometer.",
+  "vndb_url": "https://vndb.org/c59568"
+}

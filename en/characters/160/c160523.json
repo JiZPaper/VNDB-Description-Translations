@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c160523",
+  "type": "character",
+  "name": "Morgause",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mother of Agravain.",
+  "source_sha256": "fcdf8a4e59a229cdda6cc0bac903811a485823474baf35a924ee95d69a11e552",
+  "translation": "Mother of Agravain.",
+  "vndb_url": "https://vndb.org/c160523"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30290",
+  "type": "character",
+  "name": "Marie",
+  "original_name": "マリー",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's maid/handmaiden.",
+  "source_sha256": "61e5f9a0eadf5e0612aea9d0bf7b04b30d0c2e598e73d3019175e646bd929259",
+  "translation": "The protagonist's maid/handmaiden.",
+  "vndb_url": "https://vndb.org/c30290"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c123018",
+  "type": "character",
+  "name": "Flynn Moore",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Flynn is a Gila lizard who lives in Echo.",
+  "source_sha256": "740850ab963871119c35cba6bb3895ed9ea2b8fac6b861b31feae1f14fde3f46",
+  "translation": "Flynn is a Gila lizard who lives in Echo.",
+  "vndb_url": "https://vndb.org/c123018"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44091",
+  "type": "visual_novel",
+  "name": "Wrong Number",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You receive a phone call from an unknown number. Are you going to pick up the phone?\n\n[From [url=https://wym-lawson.itch.io/wrong-number]Itch.io[/url]]",
+  "source_sha256": "f3b7985b68593ae6d5dab6f2edf7ae8c2aed6f1179486050b5d6166973f6a180",
+  "translation": "You receive a phone call from an unknown number. Are you going to pick up the phone?\n\n[From [url=https://wym-lawson.itch.io/wrong-number]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v44091"
+}

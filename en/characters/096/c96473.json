@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c96473",
+  "type": "character",
+  "name": "Takeda-sensei",
+  "original_name": "武田先生",
+  "language": "en",
+  "source_language": "en",
+  "source": "Advisor to the newspaper club.",
+  "source_sha256": "d2a33836179b72b4d25e8839d253f51a719c1d46650acd83f3d80df2582f3659",
+  "translation": "Advisor to the newspaper club.",
+  "vndb_url": "https://vndb.org/c96473"
+}

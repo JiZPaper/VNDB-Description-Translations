@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c130831",
+  "type": "character",
+  "name": "Rachel",
+  "original_name": "レイチェル",
+  "language": "en",
+  "source_language": "en",
+  "source": "[spoiler]Freelance information broker.\nReferred to as the \"woman in coveralls.\" She makes a living by selling information to information brokers. She stows away on trains as a way to take revenge on the railway company.\n\n[Translated from in-game profile][/spoiler]",
+  "source_sha256": "a51d36e270f30787211e198777df5dd488f9ce0b2dcc0a30db83999bc4ebd1f3",
+  "translation": "[spoiler]Freelance information broker.\nReferred to as the \"woman in coveralls.\" She makes a living by selling information to information brokers. She stows away on trains as a way to take revenge on the railway company.\n\n[Translated from in-game profile][/spoiler]",
+  "vndb_url": "https://vndb.org/c130831"
+}

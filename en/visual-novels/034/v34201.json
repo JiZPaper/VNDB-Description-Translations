@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34201",
+  "type": "visual_novel",
+  "name": "Just Natsuki",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An After-Story style mod for Natsuki from DDLC, focusing on building a post-game relationship between Natsuki and her player (you!).\n\n[From the [url=https://github.com/Just-Natsuki-Team/NatsukiModDev]fan game page on GitHub[/url]]",
+  "source_sha256": "efe41ffc92a38e12f157e72c6cd72e317571c0544372b7a85ecf3add73f08df6",
+  "translation": "An After-Story style mod for Natsuki from DDLC, focusing on building a post-game relationship between Natsuki and her player (you!).\n\n[From the [url=https://github.com/Just-Natsuki-Team/NatsukiModDev]fan game page on GitHub[/url]]",
+  "vndb_url": "https://vndb.org/v34201"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c49566",
+  "type": "character",
+  "name": "Mom",
+  "original_name": "母さん",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist's mother",
+  "source_sha256": "8e46f5c440fec1d90b979b7208011acd1fbf67e08b470c0e1807eccbe8bcb3f6",
+  "translation": "The protagonist's mother",
+  "vndb_url": "https://vndb.org/c49566"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c30957",
+  "type": "character",
+  "name": "Sasaki Fumiharu",
+  "original_name": "佐々木 文春",
+  "language": "en",
+  "source_language": "en",
+  "source": "Hometown: Tokyo\nSpecialty: Testing wines\nLikes: Friendly people\nDislikes: Sake",
+  "source_sha256": "8c6d5fbcbaed5b42a837e2651167a3257484a00b2100a651d1d37570986fa74f",
+  "translation": "Hometown: Tokyo\nSpecialty: Testing wines\nLikes: Friendly people\nDislikes: Sake",
+  "vndb_url": "https://vndb.org/c30957"
+}

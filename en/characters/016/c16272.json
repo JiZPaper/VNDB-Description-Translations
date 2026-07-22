@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c16272",
+  "type": "character",
+  "name": "Miku",
+  "original_name": "Мику",
+  "language": "en",
+  "source_language": "en",
+  "source": "The only active member of the Music Club.",
+  "source_sha256": "020f344603da4da45d2bf622e8cbfb6552c0dfcc99c0c90f459482e5a2c98535",
+  "translation": "The only active member of the Music Club.",
+  "vndb_url": "https://vndb.org/c16272"
+}

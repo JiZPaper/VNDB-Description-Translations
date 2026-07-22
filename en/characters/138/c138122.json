@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c138122",
+  "type": "character",
+  "name": "Kamome",
+  "original_name": "カモメ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A tame and curious seagull who likes to tag along, hoping for food.",
+  "source_sha256": "a3629f1035fdc51648409f2c5bb24dae174ad9e9bcd654c015fc9dbd5efbde25",
+  "translation": "A tame and curious seagull who likes to tag along, hoping for food.",
+  "vndb_url": "https://vndb.org/c138122"
+}

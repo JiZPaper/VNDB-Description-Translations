@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c145123",
+  "type": "character",
+  "name": "The Professor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Professor is Bom's husband.",
+  "source_sha256": "50ef79919b294e35060b2a3a85d618eb7ff324c236c0fa03e18b962b5e7e66f7",
+  "translation": "The Professor is Bom's husband.",
+  "vndb_url": "https://vndb.org/c145123"
+}

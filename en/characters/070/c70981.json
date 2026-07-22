@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c70981",
+  "type": "character",
+  "name": "Rella Harmat",
+  "original_name": "レル＝ハルマート",
+  "language": "en",
+  "source_language": "en",
+  "source": "Right-handed\nHobby: Archaeological excavation\nLoves: Pudding\nHates: Socializing\nFavorite Color: Purple",
+  "source_sha256": "3018cb9f4523222dbbb74b08b85c038a920dd64bb890fba062d078c40399337b",
+  "translation": "Right-handed\nHobby: Archaeological excavation\nLoves: Pudding\nHates: Socializing\nFavorite Color: Purple",
+  "vndb_url": "https://vndb.org/c70981"
+}

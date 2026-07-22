@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c45820",
+  "type": "character",
+  "name": "Calamity Fawcett",
+  "original_name": "カラミティ・フォーセット",
+  "language": "en",
+  "source_language": "en",
+  "source": "She runs the PX military shop.",
+  "source_sha256": "b4f321b00f508d9d2ab80cbd7d291de88a21bfcc2215bf4603f1107032dd409e",
+  "translation": "She runs the PX military shop.",
+  "vndb_url": "https://vndb.org/c45820"
+}

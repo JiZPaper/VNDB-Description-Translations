@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c25763",
+  "type": "character",
+  "name": "Chuugoku",
+  "original_name": "中国",
+  "language": "en",
+  "source_language": "en",
+  "source": "Even though his appearance seems young, he's actually the oldest.",
+  "source_sha256": "06763618f0f7c0cd30b74049209ec78a42c166dcc394a48b1a2d73e701c72e99",
+  "translation": "Even though his appearance seems young, he's actually the oldest.",
+  "vndb_url": "https://vndb.org/c25763"
+}

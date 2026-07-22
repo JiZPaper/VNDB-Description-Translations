@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c84949",
+  "type": "character",
+  "name": "Celeste",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl Alex meets at the park.",
+  "source_sha256": "8011bb4f8652a9fa866b57155bf1b47b9be44ddd0389d307ae06cdc2f83fd696",
+  "translation": "A girl Alex meets at the park.",
+  "vndb_url": "https://vndb.org/c84949"
+}

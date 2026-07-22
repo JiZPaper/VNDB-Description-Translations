@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35983",
+  "type": "visual_novel",
+  "name": "Issho no Noroi",
+  "original_name": "いっしょののろい",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short otome game about a girl and her childhood friend.",
+  "source_sha256": "12241582cecacc0931169eb59c0f54c6a7c2f73e6f7928527f0c68753bf9ff32",
+  "translation": "A short otome game about a girl and her childhood friend.",
+  "vndb_url": "https://vndb.org/v35983"
+}

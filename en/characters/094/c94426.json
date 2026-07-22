@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c94426",
+  "type": "character",
+  "name": "Velvet",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A stripper at a club.",
+  "source_sha256": "4956ac51c67aa066665403a1e30635abbe71b3ebba3899369b169ff842236c5f",
+  "translation": "A stripper at a club.",
+  "vndb_url": "https://vndb.org/c94426"
+}

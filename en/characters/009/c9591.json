@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c9591",
+  "type": "character",
+  "name": "Acco",
+  "original_name": "アコ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A PC that was turned into a girl.",
+  "source_sha256": "d3f6e1451343cdf5df6de30961519bb0e8ec444726f7ff1ea34814febd798132",
+  "translation": "A PC that was turned into a girl.",
+  "vndb_url": "https://vndb.org/c9591"
+}
