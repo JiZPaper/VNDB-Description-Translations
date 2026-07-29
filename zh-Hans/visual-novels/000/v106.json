@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v106",
+  "type": "visual_novel",
+  "name": "Castle Fantasia ~Seima Taisen~",
+  "original_name": "キャッスルファンタジア ～聖魔大戦～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The 200 year long war between Lushiera and Injiera continues. This is the story of a hero who changes the course of this neverending war and the lives of people around him.\n\nIn Castle Fantasia 2 you play as Hewie, commander of the seventh holy knight corps. He has a keen mind for strategy and tactics, seeing through and predicting enemy plans. However, his laid-back attitude causes him to be kept in a low regard by his commanding officers, friends and even his subordinates.",
+  "source_sha256": "e1de945abb5cce7cc7e1bd75490b432aa8c9df843f8f938d795c01ac664f7b09",
+  "translation": "鲁榭拉与因裘拉之间延续了200年的战争仍未结束。这是一个英雄改变无休止战争的走向，也改变身边众人命运的故事。\n\n在《圣魔大战》中，玩家扮演第七圣骑士团指挥官修伊。他拥有敏锐的战略与战术头脑，能够洞悉并预判敌人的计划。然而散漫的处世态度，却令上司、朋友乃至部下都对他评价不高。",
+  "vndb_url": "https://vndb.org/v106"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18",
+  "type": "visual_novel",
+  "name": "To Heart",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In this game, you play as Fujita Hiroyuki, a high-school student who seems to have more interest in romance than in his studies. In his school there are several pretty girls, and his goal is to be nice to one of them, to make the right decisions when talking to her, and ultimately to win her heart.\n\n[From [url=http://www.mobygames.com/game/playstation/to-heart]Mobygames[/url]]",
+  "source_sha256": "db00f721bbfb596ecdd2e8d859977f2749bc33beebb6103e0de099fa6551d36a",
+  "translation": "在本作中，玩家将扮演高中生藤田浩之。比起学业，他似乎对恋爱更有兴趣。校园里有数名可爱的少女，玩家需要温柔地对待心仪的对象，在与她交谈时作出合适的选择，并最终赢得她的芳心。\n\n[译自[url=http://www.mobygames.com/game/playstation/to-heart]MobyGames[/url]]",
+  "vndb_url": "https://vndb.org/v18"
+}

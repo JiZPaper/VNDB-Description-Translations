@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52",
+  "type": "visual_novel",
+  "name": "Tokoyo no Hoshizora",
+  "original_name": "常世の星空",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is how the most selfish girl in the world and the most selfish boy in the world make peace:\n\nBells in the darkness that ensnare Heaven's silver light inside the inscrutable polyphony of far-off constellations. \n\n[From [url=http://www.insani.org/redshift.html]insani[/url]]",
+  "source_sha256": "f90d949a142d6257fa7ed3b5986e7aa5cfafd1050888d7541d53281ae3d0f372",
+  "translation": "世界上最自私的少女与世界上最自私的少年，就这样达成了和解：\n\n黑暗中的钟声，将天国的银色光辉困入遥远星座那难以参透的复调之中。\n\n[摘自[url=http://www.insani.org/redshift.html]insani[/url]]",
+  "vndb_url": "https://vndb.org/v52"
+}

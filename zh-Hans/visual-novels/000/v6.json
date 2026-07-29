@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6",
+  "type": "visual_novel",
+  "name": "Kira",
+  "original_name": "雪花 -きら-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A town covered in snow, a man, a mysterious little girl, and their entanglement.",
+  "source_sha256": "d1bdc14d303c93227ade57dbd9ddfdf10cccbfde886c21e31b918eb52d242ad2",
+  "translation": "一座被白雪覆盖的小镇，一个男人，一名神秘的小女孩，以及他们之间的纠葛。",
+  "vndb_url": "https://vndb.org/v6"
+}

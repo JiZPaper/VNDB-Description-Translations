@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47",
+  "type": "visual_novel",
+  "name": "Kagetsu Tooya",
+  "original_name": "歌月十夜",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "One year after the events of Tsukihime, Shiki Tohno is a victim of an accident. After this accident, Shiki awakens into a strange dream wherein he repeats the same day over and over. There are infinitely many endings to the day, but it always begins anew after each day. Eventually, Shiki discovers that he must find Len, the creator of the dream, if he wishes to escape.\n\n[From [url=http://en.wikipedia.org/wiki/Kagetsu_Tohya]Wikipedia[/url]]",
+  "source_sha256": "242a245ee4b49b39bd100906f6a4a137a344405b6348cf94fe9ec3dd864ba692",
+  "translation": "《月姬》事件过去一年后，远野志贵遭遇了一场事故。事故之后，他在一个奇异的梦境中醒来，并开始一遍又一遍地重复同一天。一天可以迎来无数种结局，却总会在结束后重新开始。最终，志贵发现，若想逃离梦境，就必须找到创造这场梦的存在——莲。\n\n[摘自[url=http://en.wikipedia.org/wiki/Kagetsu_Tohya]维基百科[/url]]",
+  "vndb_url": "https://vndb.org/v47"
+}

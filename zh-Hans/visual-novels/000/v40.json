@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40",
+  "type": "visual_novel",
+  "name": "The noose",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "My older sister killed me.\nMy younger sister hung me.\nI killed my older sister.\n\nThis was... everything her dead brother wrote in his diary.\nHe'd said he'd be right back, but he never returned.\nShortly after, they found his bloody hat.\n\n[From [url=http://www.grey-space.net/starchanchan/vn/projects-noose.html]Deja Vu[/url]]",
+  "source_sha256": "59955ce4c41e56ddaee33f9b89aa6bcd22fe6510e2038f5b080a221871f9cdbb",
+  "translation": "姐姐杀了我。\n妹妹把我吊死了。\n我杀了姐姐。\n\n这就是……她死去的哥哥在日记里写下的全部内容。\n他说自己马上回来，却再也没有出现。\n不久后，人们找到了他那顶染血的帽子。\n\n[摘自[url=http://www.grey-space.net/starchanchan/vn/projects-noose.html]Deja Vu[/url]]",
+  "vndb_url": "https://vndb.org/v40"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19",
+  "type": "visual_novel",
+  "name": "Tokimeki Memorial",
+  "original_name": "ときめきメモリアル",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a young boy who is going to study three years at the Kirameki High School in Japan. Your goal is to win the affection of one (and possibly more) of the twelve beautiful girls who also study with you, especially of Shiori, with whom you were in love some years ago. This is a simulation game with a high-developed statistics system. You have to increase your statistics in different disciplines, depending on the girl you are interested in. You communicate with people via your telephone, and date girls by going with them to various places. You have to keep your promises, otherwise a girl will become angry and even tell bad things about you to other girls, which will spoil your reputation.\n\n[From [url=http://www.mobygames.com/game/saturn/tokimeki-memorial-forever-with-you]Mobygames[/url]]",
+  "source_sha256": "38acf0f791f096bc00bae889bbe16af7c30ca74ac74426bf1709281e0e4a1da5",
+  "translation": "玩家将扮演一名少年，在日本的闪耀高中度过三年校园生活。目标是在同校的12名美少女中赢得一人——也可能不止一人——的好感，尤其是自己多年前便已喜欢上的诗织。本作是一款拥有丰富能力数值系统的模拟游戏。玩家需要根据心仪对象的喜好，提升自己在不同方面的能力。你可以通过电话与他人联络，也能邀请少女前往各种场所约会。约定必须认真遵守，否则对方不仅会生气，还可能在其他女生面前说你的坏话，使你的名声受损。\n\n[译自[url=http://www.mobygames.com/game/saturn/tokimeki-memorial-forever-with-you]MobyGames[/url]]",
+  "vndb_url": "https://vndb.org/v19"
+}

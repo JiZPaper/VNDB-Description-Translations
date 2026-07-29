@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8",
+  "type": "visual_novel",
+  "name": "Natsu no Hi no Resonance",
+  "original_name": "夏の日のレザナンス",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A delicate tale of coming-of-age, with cell phones, and friends in far-off places, and the first blush of unrequited love ...\n\n[From [url=http://www.insani.org/resonance.html]insani[/url]]",
+  "source_sha256": "815d9cbf167b3cd6fd17450e85d3d01c70bcea1c72a14a83ffe2e6aba763be04",
+  "translation": "一则细腻的成长故事，关于手机、远方的朋友，以及情窦初开时那份无果的爱恋……\n\n[译自[url=http://www.insani.org/resonance.html]insani[/url]]",
+  "vndb_url": "https://vndb.org/v8"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v76",
+  "type": "visual_novel",
+  "name": "Eien no Aselia Expansion -The Spirit of Eternity Sword-",
+  "original_name": "永遠のアセリア Expansion —The Spirit of Eternity Sword—",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Eien no Aselia Expansion re-tells the last chapter of the original game with the choice of two new routes, providing endings for Tokimi and Kyouko that didn't have one in Eien no Aselia.\n\nThe game starts right away from the beginning of the chapter five and instead of the world strategy map stages there is a maze stage to be played.\n\nThe original game is not needed to play this fandisc.",
+  "source_sha256": "0a748acc7b425170d92c0a48f937d80eb9b938c815a7b6b46102f6e398dc4774",
+  "translation": "《永远的艾塞莉娅扩展版》以两条全新路线重新讲述原作最后一章，为原本在《永远的艾塞莉娅》中没有结局的时深与今日子补充各自的结局。\n\n游戏从第五章开头直接开始，原本的世界战略地图关卡则被迷宫关卡取代。\n\n游玩这张爱好者向附加光盘不需要安装原作。",
+  "vndb_url": "https://vndb.org/v76"
+}

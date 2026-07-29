@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3",
+  "type": "visual_novel",
+  "name": "Utawarerumono",
+  "original_name": "うたわれるもの",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "[url=/c411]Hakuoro[/url], a man who wakes up in a tiny backwoods village near the mountains with heavy injuries, no memory, and a mask he cannot remove. After being nursed back to health by [url=/c412]Eruruu[/url], the girl who found him lying at the point of death in the forest, he starts to view the village as his new home. But when an oppressive ruler threatens the peaceful life of Hakuoro and his newfound friends and family, they find themselves hurtled towards war, chaos, and a destiny far greater than any of them imagined.\n\n[From [url=http://mirrormoon.org/projects/utawarerumono]Mirror Moon[/url]]",
+  "source_sha256": "3967171384a21062c0d67fa40bb40b9686b1ab674923eb13e6c1942d69e8452f",
+  "translation": "[url=/c411]哈克奥罗[/url]身受重伤，在群山附近的一座偏僻小村中醒来。他失去了记忆，脸上还戴着一副无法摘下的面具。发现他倒在森林中奄奄一息的少女[url=/c412]艾露露[/url]将他照料至康复，他也渐渐把这座村庄视作自己的新家。然而，一名残暴的统治者威胁到了哈克奥罗与新结识的亲友们原本平静的生活，他们就此被卷入战争与混乱，并走向一个远超所有人想象的宏大命运。\n\n[译自[url=http://mirrormoon.org/projects/utawarerumono]Mirror Moon[/url]]",
+  "vndb_url": "https://vndb.org/v3"
+}

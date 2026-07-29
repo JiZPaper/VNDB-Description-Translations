@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25",
+  "type": "visual_novel",
+  "name": "Ayakashi",
+  "original_name": "AYAKASHI アヤカシ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Kusaka Yuu is a student that lost his will to live after the death of a dear childhood friend, until the day a mysterious girl, named Yoake Eimu, appears. From that moment on, his life would never be the same again. Hunted by Ayakashi and their hosts, the power within Yuu awakens and a never ending battle begins.",
+  "source_sha256": "a707f88ea9d2bc48737e7b1c8c14bf57f854c4eb549d2b0017fe8c7f4d98c21d",
+  "translation": "学生久坂悠在挚爱的青梅竹马去世后失去了活下去的意志，直到名为夜明瑛梦的神秘少女出现在他面前。从那一刻起，他的人生彻底改变。面对AYAKASHI及其宿主的追杀，沉睡在悠体内的力量就此觉醒，一场永无止境的战斗也随之开始。",
+  "vndb_url": "https://vndb.org/v25"
+}

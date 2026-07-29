@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10",
+  "type": "visual_novel",
+  "name": "narcissu",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The anonymous protagonist is diagnosed with a terminal illness shortly after his twentieth birthday, and is admitted to a hospital in Mito, Ibaraki. There he meets Setsumi, a woman a few years older, who is also terminally ill. Finding that they both reject to die either in hospital or at home, they steal a car and run away together.\n\n[Edited from [url=http://en.wikipedia.org/wiki/Narcissu]Wikipedia[/url]]",
+  "source_sha256": "caf07cdff6b994d77c079dcee4a79dd6345defd5d0cb9e3c1ed26dafd1af4c26",
+  "translation": "没有留下姓名的主人公刚过20岁生日不久便被诊断出身患绝症，随后住进茨城县水户市的一家医院。在那里，他遇见了比自己年长几岁、同样身患绝症的濑津美。两人都不愿死在医院或家中，于是偷走一辆汽车，一同踏上逃亡之旅。\n\n[改写自[url=http://en.wikipedia.org/wiki/Narcissu]维基百科[/url]]",
+  "vndb_url": "https://vndb.org/v10"
+}

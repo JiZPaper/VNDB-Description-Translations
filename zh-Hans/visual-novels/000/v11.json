@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11",
+  "type": "visual_novel",
+  "name": "Fate/stay night",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In the bustling city of Fuyuki, a secret battle rages in the shadows.\nThe Holy Grail War, a brutal battle royale, pits seven mages, known as Masters, against each other. Each Master summons a formidable warrior from various eras as their Servant, all vying for the ultimate prize: the Holy Grail, a wish-granting artifact.\n\nEmiya Shirou, an ordinary high school student driven by an unwavering sense of justice, finds himself unwillingly pulled into this deadly conflict. One evening, Shirou witnesses a fierce battle between Servants. The clang of steel and the crackle of magic fill the air as they clash. Mortally wounded in the chaos, Shirou is saved by the enigmatic Tohsaka Rin and her Servant Archer. In a desperate attempt to protect himself, Shirou accidentally summons his own Servant, Saber—a noble and beautiful knight with a mysterious past.\n\nAs Shirou and Saber navigate the dangerous Holy Grail War, they form alliances and face numerous adversaries, each with their own ambitions and secrets. The bond between Master and Servant deepens as they confront perilous challenges and uncover hidden truths.",
+  "source_sha256": "8644abd2d026630181a121152fcc7de32553e0759e43dd8767ffb3f389ace084",
+  "translation": "在繁华的冬木市，一场秘密战争正在暗处激烈进行。\n这场残酷的混战名为“圣杯战争”，七名被称作御主的魔术师将在其中彼此厮杀。每位御主都会从不同的时代召唤一名强大的战士作为从者，共同争夺最终的奖赏——能够实现愿望的圣杯。\n\n卫宫士郎是一名平凡的高中生，却怀有绝不动摇的正义信念。他身不由己地被卷入这场致命冲突。一天夜里，士郎目睹了从者之间的激战，兵刃交击之声与魔力迸发的轰鸣响彻四周。他在混乱中身受致命伤，所幸被神秘的远坂凛及其从者Archer所救。为了在绝境中保护自己，士郎意外召唤出了属于自己的从者Saber——一位高洁美丽、过往成谜的骑士。\n\n士郎与Saber在危机四伏的圣杯战争中并肩前行，与他人结盟，也面对众多各怀野心与秘密的敌手。在一次次险境与逐渐揭开的真相中，御主与从者之间的羁绊愈发深厚。",
+  "vndb_url": "https://vndb.org/v11"
+}
