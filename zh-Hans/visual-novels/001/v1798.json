@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1798",
+  "type": "visual_novel",
+  "name": "DALK",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A war between the god Matis and a group of rival goddesses called Mira leaves Matis sealed away in a deserted temple. To break the seal a young monk and a group of female adventurers will have to get to the top of a mountain and seal away the goddesses of Mira in the process.",
+  "source_sha256": "231706e5a10fe4b612d4e8ad9a88481e5d50747e4dc4fdf1d9088c6eedd4ed36",
+  "translation": "神明马蒂斯与名为米拉的敌对女神集团爆发战争，马蒂斯最终被封印在一座废弃神殿中。为了解除封印，一名年轻僧侣和一群女性冒险者必须登上山顶，并在途中逐一封印米拉的众女神。",
+  "vndb_url": "https://vndb.org/v1798"
+}

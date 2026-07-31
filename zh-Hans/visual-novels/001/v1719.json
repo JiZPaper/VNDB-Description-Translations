@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1719",
+  "type": "visual_novel",
+  "name": "Gyakuten Kenji",
+  "original_name": "逆転検事",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In this [i]Ace Attorney[/i] spin-off game, taking place between [i]Phoenix Wright: Ace Attorney - Trials and Tribulations[/i] and [i]Apollo Justice: Ace Attorney[/i], prosecutor Miles Edgeworth investigates a series of cases related to an international smuggling ring. He is assisted by detective Dick Gumshoe and self-proclaimed \"Great Thief\" Kay Faraday, while his investigations also lead him to cross paths with Interpol agent Shi-Long Lang.",
+  "source_sha256": "e6a3bded9c6dda4c11156ddefa8d92314c01b331cadaa5c8ce15713b1f284718",
+  "translation": "本作是[i]《逆转裁判》[/i]系列的衍生作品，时间位于[i]《逆转裁判3》[/i]与[i]《逆转裁判4》[/i]之间。检察官御剑怜侍将调查一系列与国际走私集团有关的案件。刑警糸锯圭介和自称“大盗”的一条美云会从旁协助，而调查过程也让御剑与国际刑警狼士龙相遇。",
+  "vndb_url": "https://vndb.org/v1719"
+}

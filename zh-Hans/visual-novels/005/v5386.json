@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5386",
+  "type": "visual_novel",
+  "name": "Present for You ~Watashi o A-Ge-Ru~",
+  "original_name": "Present for you ～わたしをあ・げ・る～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Mom: \"To tell you the truth, Shun-chan, I have a present for you. That surprise present is... an \"Onee-chan\"! She will arrive one of these days so look forward to it.\"",
+  "source_sha256": "db8d3caf1374ce56cb8c5454e92aeaba2a65b256dad4ac0ac118a3cb25bae3ad",
+  "translation": "妈妈：“其实呢，小瞬，我给你准备了一份礼物。那份惊喜礼物就是……一位‘姐姐’！她过几天就会到，你好好期待吧。”",
+  "vndb_url": "https://vndb.org/v5386"
+}

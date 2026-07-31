@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1384",
+  "type": "visual_novel",
+  "name": "Toy Tsumechaimashita!",
+  "original_name": "TOYつめちゃいましたっ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Clover Heart's append disk",
+  "source_sha256": "4f2735cd16690cb36e884747af77ab9cddee9e1d8867d7807f285aa387f98866",
+  "translation": "《Clover Heart's》的追加光盘。",
+  "vndb_url": "https://vndb.org/v1384"
+}

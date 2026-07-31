@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5645",
+  "type": "visual_novel",
+  "name": "Shiro x Kuro",
+  "original_name": "シロ×クロ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "While walking home one day, you find a box in the street. Inside it are two stuffed animals. You bring them home and the next day they have turned into cute boys with animal ears!",
+  "source_sha256": "899cde9ab8c8a679eeac3bbe79a3ccf48bf2feec638a566298355d20fdf4b58c",
+  "translation": "某天回家途中，你在街上发现一个盒子，里面装着两只毛绒玩偶。你把它们带回家，第二天，它们竟变成了长着兽耳的可爱男孩！",
+  "vndb_url": "https://vndb.org/v5645"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v915",
+  "type": "visual_novel",
+  "name": "Gin'iro",
+  "original_name": "銀色",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Giniro is a beautifully crafted fantasy tale comprised of four chapters. It is a bittersweet story of the legendary Silver Thread which is fabled to grant any wish to its holder...",
+  "source_sha256": "5dc1f191bb558d6ad23ae60c487a5a26296c91d8093c90f956ffb6fe51107a9e",
+  "translation": "《银色》是一部精心构筑的奇幻故事，由四个章节组成。传说中的银丝能够实现持有者的任何愿望，而本作围绕它讲述了一段苦乐交织的故事……",
+  "vndb_url": "https://vndb.org/v915"
+}

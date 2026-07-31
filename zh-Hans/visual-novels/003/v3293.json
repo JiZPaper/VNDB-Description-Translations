@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3293",
+  "type": "visual_novel",
+  "name": "Soul Foundation 2",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Doujin game based on Gundam Seed series.",
+  "source_sha256": "b37f2af7b632569881eb5f315b00c2b6fc852ce5d50475cb472c9e8fb311054c",
+  "translation": "以《机动战士高达SEED》系列为基础的同人游戏。",
+  "vndb_url": "https://vndb.org/v3293"
+}

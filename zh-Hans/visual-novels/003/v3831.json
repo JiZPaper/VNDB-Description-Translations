@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3831",
+  "type": "visual_novel",
+  "name": "Kokoro Toshokan Communication Library Visual Drama",
+  "original_name": "ココロ図書館 コミュニケーションライブラリー ビジュアルドラマ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short visual novel included as part of the \"Kokoro Library Communication Library\" library cataloging software. Chapters are unlocked as books are entered into the library software; approximately 120 books are required to unlock the entire story.",
+  "source_sha256": "fc83f03ea7f48d95d1fd4477e13c2af749c4e0e8b8268615d5a5da69050b256a",
+  "translation": "作为“心之图书馆Communication Library”图书编目软件的一部分而附带的短篇视觉小说。向图书馆软件录入书籍后即可解锁章节；解锁完整故事大约需要录入120本书。",
+  "vndb_url": "https://vndb.org/v3831"
+}

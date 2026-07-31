@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1331",
+  "type": "visual_novel",
+  "name": "Memories Off After Rain",
+  "original_name": "メモリーズオフ After Rain",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Divided in three parts, the first one takes place in May, where Tomoya interacts with Yue and the rest of the girls. In the second one, Ken keeps his relationship with Hotaru. And in the last one, Tomoya fails his exams and enters on depression but Ken manages to pass.",
+  "source_sha256": "e38303a6ddc0f7e0753c53cd8b254c50a73c8a7754d172eae83dbb66a6540c52",
+  "translation": "本作分为3个部分。第一部分发生在5月，描写三上智也与今坂唯笑及其他女孩的互动。第二部分中，伊波健继续维系着与白河萤的恋情。最后一部分里，智也考试落榜后陷入消沉，而健顺利通过了考试。",
+  "vndb_url": "https://vndb.org/v1331"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4100",
+  "type": "visual_novel",
+  "name": "Waitress Paradise -Stay with me-",
+  "original_name": "ウェイトレスパラダイス -Stay with me-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You've become the manager of a school club, which sends out waitresses to work at restaurants. Your job is to circle through the restaurants and check that the girls are doing all right.",
+  "source_sha256": "864e3ec74f95ae7b69400d4d4f66cd22ab8cae173d500715c549c632753061a4",
+  "translation": "你成为了一个学校社团的负责人，该社团会派遣女服务员到各家餐厅工作。你的任务是巡访这些餐厅，确认女孩们一切顺利。",
+  "vndb_url": "https://vndb.org/v4100"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v525",
+  "type": "visual_novel",
+  "name": "Silhouette",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hiroshi (AKA the \"Devil of Ice\") is a high-ranking student at a private school. He's been living with his elder sister since their parents passed away in some accident. Due to this trauma, there's always been an underlying apprehension of meeting new people. This stand-offish attitude has helped his grades, but has limited him socially. One day an endearing girl he vaguely remembers from childhood comes stumbling into his life, and thus begins a chain of events that begins to melt this \"Devil of Ice\".\n\n[From White Masq]",
+  "source_sha256": "9f7cd13068196463d81ec5f71b0a97bf408607819a26d955ce1de81bc9185bdc",
+  "translation": "博史——又名“冰之恶魔”——是私立学校里成绩名列前茅的学生。父母在事故中去世后，他一直与姐姐共同生活。受这场创伤影响，他始终害怕结识陌生人。冷漠疏离的态度帮助他取得了好成绩，却也限制了他的社交生活。一天，一名惹人怜爱的女孩跌跌撞撞闯进他的生活。博史依稀记得儿时见过她，一连串事件也随之开始，逐渐融化这位“冰之恶魔”。\n\n[摘自White Masq]",
+  "vndb_url": "https://vndb.org/v525"
+}

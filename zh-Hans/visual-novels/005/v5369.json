@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5369",
+  "type": "visual_novel",
+  "name": "Univ ~Koi Hajimaru Yo~",
+  "original_name": "univ ～恋・はじまるよっ～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A story of college student and his life in the campus.\nYou have to study to make sure you pass the exam and graduate and find a part-time job to collect money to buy a gift for girls.\n\n[From Hongfire forums]",
+  "source_sha256": "4a0b2eb74e2a0f45dc0bcc67145a5c01ec232b39cf3fba081fac5c14ca36f537",
+  "translation": "这是一个关于大学生及其校园生活的故事。\n你必须努力学习，确保通过考试并顺利毕业；还要找一份兼职攒钱，为女孩们购买礼物。\n\n[摘自Hongfire论坛]",
+  "vndb_url": "https://vndb.org/v5369"
+}

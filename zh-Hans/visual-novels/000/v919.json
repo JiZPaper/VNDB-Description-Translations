@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v919",
+  "type": "visual_novel",
+  "name": "Zero - Heureum-ui Won",
+  "original_name": "제로 - 흐름의 원",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A RPG visual novel that was the first product in the \"Zero Project\" which consists of manhwas and light novels.",
+  "source_sha256": "b7940f39d1be8797502f0359ac23e8223e44e2636bc7f4d866a4d052a0694e96",
+  "translation": "一部RPG视觉小说，也是由漫画和轻小说组成的“Zero Project”推出的首部作品。",
+  "vndb_url": "https://vndb.org/v919"
+}

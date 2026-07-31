@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3600",
+  "type": "visual_novel",
+  "name": "Iterate",
+  "original_name": "ITERATE",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hagisaka Shigetaka is 28 years old. His parents have already died. The only one in the world he can depend on is himself. Due to certain circumstances, a young woman named Shirayagi Aogi is living in his house.",
+  "source_sha256": "e2a7fbb66c7f5a46daf97962183e76d7d1b5e64c253ec753767e808ca343a2c8",
+  "translation": "萩坂重孝今年28岁，双亲已经去世。世上唯一能够依靠的人只有他自己。由于某些原因，一名叫白柳仰木的年轻女子正住在他家。",
+  "vndb_url": "https://vndb.org/v3600"
+}

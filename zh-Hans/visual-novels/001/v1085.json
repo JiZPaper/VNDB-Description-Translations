@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1085",
+  "type": "visual_novel",
+  "name": "3days ~Michiteyuku Toki no Kanata de~",
+  "original_name": "3days～満ちてゆく刻の彼方で～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game revolves around the main character's 3 days repeating over and over again, where he is constantly being killed in the third day of the story (in various ways) but magically being brought back to life in the first day to repeat his 3 days. Your goal here is to solve the mystery behind the death of your senpai and also to find the identity of the murderer.\n\n[From a forum post by Adellus]",
+  "source_sha256": "31aeeb74cc056b06fc2390404a458bc36b3738d5f3fca7e85b635e714696c6c5",
+  "translation": "游戏围绕主人公反复经历的三天展开。他总会在第三天以各种方式遭到杀害，却又不可思议地在第一天复活，重新度过这三天。玩家的目标是解开学姐死亡背后的谜团，并查明凶手的身份。\n\n[摘自Adellus的一篇论坛帖子]",
+  "vndb_url": "https://vndb.org/v1085"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5438",
+  "type": "visual_novel",
+  "name": "Yuki no Okurimono",
+  "original_name": "雪の贈り物",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short flash visual novel.",
+  "source_sha256": "f002e935caa7c0c87cd2d2f1e59119609da213320de11205372a29d2584d331a",
+  "translation": "一部简短的Flash视觉小说。",
+  "vndb_url": "https://vndb.org/v5438"
+}

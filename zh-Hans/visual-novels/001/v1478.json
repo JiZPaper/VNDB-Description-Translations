@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1478",
+  "type": "visual_novel",
+  "name": "Twinkle ☆ Crusaders - Miracle Disc",
+  "original_name": "ティンクル☆くるせいだーす ミラクルディスク",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a fandisc to Twinkle ☆ Crusaders. It is a side story staged at an onsen with no relation to the main plot and does not feature any battle scenes. It also contains a harem ending and route for Amyrina.",
+  "source_sha256": "abb01bbf9dd87aa2b3e825d3619f107a69e5cc1db5de13f4639962ce7ce18ec8",
+  "translation": "《Twinkle☆Crusaders》的Fan Disc。故事是发生在温泉、与主线无关的外传，不包含任何战斗场景。另收录后宫结局与艾米莉娜路线。",
+  "vndb_url": "https://vndb.org/v1478"
+}

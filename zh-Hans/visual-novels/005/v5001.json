@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5001",
+  "type": "visual_novel",
+  "name": "Harusame Youbi",
+  "original_name": "春雨曜日",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game is set in a Japanese onsen-ryoukan (hot spring inn). The player character is working for three weeks in the inn, which belongs to his auntie. There you meet several girls, workers or customers at the inn. Some of the stories involve Japanese mysticism and supernatural elements.\n\n[Taken from [url=http://www.gamefaqs.com/dreamcast/579003-harusame-youbi/reviews/review-24170]an old review by Tarot[/url]]",
+  "source_sha256": "5d6eb1eb37e9f7731af3e116f3979af733cbd1756d0c0c241312c618fddf44e2",
+  "translation": "游戏舞台是日本的一家温泉旅馆。玩家扮演的角色将在这家属于姨母的旅馆工作三周，并在那里结识几名女性，包括旅馆员工和住客。部分故事还涉及日本神秘主义与超自然元素。\n\n[Taken from [url=http://www.gamefaqs.com/dreamcast/579003-harusame-youbi/reviews/review-24170]an old review by Tarot[/url]]",
+  "vndb_url": "https://vndb.org/v5001"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2497",
+  "type": "visual_novel",
+  "name": "Triangle Heart ~Love Love Omochabako~",
+  "original_name": "とらいあんぐるハート ～ラブラブおもちゃ箱～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fan-disc for Triangle heart, featuring new short stories, mini-games, accessories etc. Also includes a new character.",
+  "source_sha256": "b6ae951e8cf2602b3dc792aac59d67db3e9b71614d514a578c5ae7f303ddf33c",
+  "translation": "《Triangle Heart》的Fan Disc，收录了新的短篇故事、迷你游戏、配件等内容，并加入一名新角色。",
+  "vndb_url": "https://vndb.org/v2497"
+}

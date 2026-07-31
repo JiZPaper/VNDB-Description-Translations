@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v471",
+  "type": "visual_novel",
+  "name": "Reconquista",
+  "original_name": "レコンキスタ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "There is a certain town on a reclaimed island. It was developed as an international residential area, but it's in ruins now. And there is a rumor that if you walk around there at night, a girl in school uniform will appear and cut off your head...\n\n[From Himeya Shop]",
+  "source_sha256": "ef440259ad370bb5cd68c0e9df07f4286ef51ff39e7865c19979835f5b5b933c",
+  "translation": "填海岛上有一座小镇。这里原本被开发为国际居住区，如今却已化为废墟。传闻只要夜间在那里行走，就会有一名身穿校服的女孩现身，砍下你的头颅……\n\n[摘自Himeya Shop]",
+  "vndb_url": "https://vndb.org/v471"
+}

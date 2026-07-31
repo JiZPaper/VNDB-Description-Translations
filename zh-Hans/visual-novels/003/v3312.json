@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3312",
+  "type": "visual_novel",
+  "name": "Starlit Sky",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A sweet story about a boy, who departs on an epic adventure to find a way to reach the stars. Along the way, he meets a young witch who excels in making potions and they search for her sister, who can make anyone reach the stars.",
+  "source_sha256": "231c14aa2b452ed05e24f8efdda12feef55b685bcb24cd6059c9c27b099ed7fe",
+  "translation": "一个温馨的故事：一名少年踏上宏大的冒险，寻找抵达群星的方法。途中，他遇见一名擅长调制药水的年轻魔女。两人一同寻找魔女的姐姐，据说她能让任何人抵达星空。",
+  "vndb_url": "https://vndb.org/v3312"
+}

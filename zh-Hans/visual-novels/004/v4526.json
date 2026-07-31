@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4526",
+  "type": "visual_novel",
+  "name": "Another Mind",
+  "original_name": "アナザー・マインド",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A 16 year-old girl named Hitomi Hayama is involved in a car accident and admitted to a hospital. Upon waking, she realizes that another being, albeit a mind, has taken residence in her head. The player takes on the role on this separate consciousness.\n\nfrom Wikipedia",
+  "source_sha256": "3d9f6899c8bd9a6af402d3f43b6f75515277ded59afbbb6d7c99a786f476d1ab",
+  "translation": "16岁的少女叶山瞳遭遇车祸后住进医院。醒来时，她发现自己的脑海中多了另一个存在——准确地说，是另一个意识。玩家将扮演这个独立的意识。\n\n摘自Wikipedia",
+  "vndb_url": "https://vndb.org/v4526"
+}

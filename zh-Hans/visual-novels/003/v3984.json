@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3984",
+  "type": "visual_novel",
+  "name": "V.G. Neo",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The latest visual novel returns the series to its roots as a fighting tournament and features an entirely new cast.\n\n[From [url=http://en.wikipedia.org/wiki/Variable_Geo#Games]Wikipedia[/url].]",
+  "source_sha256": "0ea2b1eb350319581bf340c8eddc003ed2ecbb48d0f74740575541bfafe21f62",
+  "translation": "这部最新视觉小说令系列回归格斗大赛的本源，并采用了全新的角色阵容。\n\n[摘自[url=http://en.wikipedia.org/wiki/Variable_Geo#Games]Wikipedia[/url]。]",
+  "vndb_url": "https://vndb.org/v3984"
+}

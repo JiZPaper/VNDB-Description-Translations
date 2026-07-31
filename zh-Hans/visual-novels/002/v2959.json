@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2959",
+  "type": "visual_novel",
+  "name": "Hoshizora no Memoria -Eternal Heart-",
+  "original_name": "星空のメモリア Eternal Heart",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The fandisc for Hoshizora no Memoria.\n\nIt contains addition story routes as a sequel to complete the Yume and Mare routes of Hoshizora no Memoria, as well as an additional side story for the other heroines of the game.",
+  "source_sha256": "25cc0a1b8197c565a7e63bf1f20fbd2de128df98cca16058ce33d914f88bb672",
+  "translation": "《星空的记忆》的粉丝向光盘。\n\n其中包含作为续篇、补完《星空的记忆》中梦与梅娅路线的追加故事，也收录了其他女主角的额外支线故事。",
+  "vndb_url": "https://vndb.org/v2959"
+}

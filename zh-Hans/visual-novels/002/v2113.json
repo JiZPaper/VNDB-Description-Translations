@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2113",
+  "type": "visual_novel",
+  "name": "Solfege",
+  "original_name": "ソルフェージュ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Kagura is a high school student who returns to her old school after three years abroad. There, she wants to meet again her sempai Sukune, who she admired since she was little. But she has also more friends: the active Chiho and the serene Kotomi. But it seems Sukune has forgotten her! What's happening...?",
+  "source_sha256": "30043bf300634be59c0a28ecc41f6d81d6daf07bf347cb4a3ef00619aeabd5cd",
+  "translation": "神乐是一名高中生，在海外生活三年后回到从前的学校。她希望再次见到从小便一直仰慕的学姐天枷美纪。此外，她还有活泼的千穗与沉静的琴美两位朋友。然而，美纪似乎已经忘记她了！这究竟是怎么回事…？",
+  "vndb_url": "https://vndb.org/v2113"
+}

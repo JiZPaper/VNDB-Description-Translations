@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1196",
+  "type": "visual_novel",
+  "name": "Daisounan",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In the future, when interplanetary travel has become common, a spaceship accident leaves 9 people trapped on an unexplored planet.\nThe survivors have to find a way to escape the planet (which in the worst case might only be possible for two of them, while the rest are left behind)) while battling the Fauna and Flora of the planet (and possibly each other)\n\n[url=/v882]Nangoku Dominion[/url] in space.",
+  "source_sha256": "d36fb22ba283cec1b0ed50b69b2d5e91c82bc7e1754994b24e7c0d04b1596414",
+  "translation": "在星际旅行已经普及的未来，一场宇宙飞船事故令9人被困在一颗尚未探索的行星上。\n幸存者必须一边对抗星球上的动植物（也可能彼此争斗），一边寻找逃离的方法；最糟糕的情况下，或许只有两个人能够离开，其余人都将被抛下。\n\n太空版[url=/v882]《南国统治者》[/url]。",
+  "vndb_url": "https://vndb.org/v1196"
+}

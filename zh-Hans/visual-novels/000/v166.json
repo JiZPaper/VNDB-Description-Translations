@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v166",
+  "type": "visual_novel",
+  "name": "Binary Pot",
+  "original_name": "バイナリィ・ポット -Binary Pot-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A romantic adventure unfolding across the real world and the online realm, centered around connecting to the famous online game \"World\" and the internet cafe \"Binary Pot\", known for its delicious coffee and waitresses.\n\n[From [url=https://august-soft.com/product]Official August Website[/url]]",
+  "source_sha256": "0643897e7fd39d1fddd51bf1d4253a79770003d8e81bb5500cef9f5910ec7023",
+  "translation": "一场横跨现实世界与网络空间的恋爱冒险，以连接知名网络游戏“World”及网吧“Binary Pot”为核心展开。Binary Pot以美味的咖啡和店内的女服务员闻名。\n\n[摘自[url=https://august-soft.com/product]August官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v166"
+}

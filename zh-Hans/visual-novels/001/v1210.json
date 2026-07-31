@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1210",
+  "type": "visual_novel",
+  "name": "Akiiro Ouka ~Akiiro Renka Fandisc~",
+  "original_name": "秋色謳華 ～秋色恋華ファンディスク～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fandisc to Akiiro Renka.\nFeatures various short stories, desktop accessories, and includes the OP theme maxi single, sung by Miyuki Hashimoto.",
+  "source_sha256": "df7ecf28888223b905470f5be19dbc8aa1fd6d3f8f78450b648ba8cbbeacb61e",
+  "translation": "《秋色恋华》的Fan Disc。\n收录多篇短篇故事、桌面配件，并附有由桥本美雪演唱的片头主题曲加大单曲。",
+  "vndb_url": "https://vndb.org/v1210"
+}

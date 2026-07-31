@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4876",
+  "type": "visual_novel",
+  "name": "Himawari Aqua After - The Day the Moon Stood Still",
+  "original_name": "ひまわりアクアアフター The Day the Moon Stood Still",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fandisc taking place a year after the events of the main game, focusing on Aqua and Cosmos.",
+  "source_sha256": "191a5c518245fc6100c7766ebfc6e407a31d1b22464dc701932f7c632f394d1f",
+  "translation": "故事发生在正篇事件一年后，是一部聚焦Aqua和Cosmos的Fan Disc。",
+  "vndb_url": "https://vndb.org/v4876"
+}

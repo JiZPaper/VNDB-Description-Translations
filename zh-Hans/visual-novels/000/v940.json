@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v940",
+  "type": "visual_novel",
+  "name": "Gakuen Redux",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The past, the present and the future. The only love, the only regret and the only second chance. This is really her. This is the final school story. \n\nDescription from the game's page at Ren'Ai Archive.",
+  "source_sha256": "d9eb0f5030a6df9c3e138c5b08d58b87b2342e8a9879a34bba28c067fabb3e15",
+  "translation": "过去、现在与未来。唯一的爱情，唯一的遗憾，以及唯一一次重来的机会。真的是她。这就是最后的校园故事。\n\n简介摘自游戏在Ren'Ai Archive上的页面。",
+  "vndb_url": "https://vndb.org/v940"
+}

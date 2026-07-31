@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v921",
+  "type": "visual_novel",
+  "name": "Plus+ ~Nae Gioksog-ui Ireum~",
+  "original_name": "PLUS+ ~내 기억속의 이름~",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hope that is born after 6 years... \n\nThe karma which binds that child and I...\n\nThe name that lingers in my memories...",
+  "source_sha256": "3173457bf3967ea4f7e06363bdef933c105b7e7199d88ce8254d8d8bae27d1a8",
+  "translation": "六年后诞生的希望……\n\n将那个孩子与我紧紧束缚的因果……\n\n萦绕在记忆中的名字……",
+  "vndb_url": "https://vndb.org/v921"
+}

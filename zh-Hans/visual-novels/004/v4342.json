@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4342",
+  "type": "visual_novel",
+  "name": "Uso to Tegami to Meitantei",
+  "original_name": "ウソと手紙と名探偵",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "On April 1st, I found a letter in a shoebox. Nothing was written on the letter. Is it just a prank or is it a mystery?\n\nThere are three endings. Can you reach the truth?\n\n(summary translated from http://dreamlibrary.cside.com/game/april09.html)",
+  "source_sha256": "c9c5e157bac5040fc1a250e0bfd982fb8f6aba60d09818996300867643643bde",
+  "translation": "4月1日，我在鞋柜里发现了一封信。信上什么也没有写。这只是一场恶作剧，还是一个谜团？\n\n游戏共有3种结局。你能抵达真相吗？\n\n（简介翻译自http://dreamlibrary.cside.com/game/april09.html）",
+  "vndb_url": "https://vndb.org/v4342"
+}

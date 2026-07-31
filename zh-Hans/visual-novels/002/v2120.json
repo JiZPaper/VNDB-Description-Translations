@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2120",
+  "type": "visual_novel",
+  "name": "Twelfth Honor Deed",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Twelfth Honor Deed (a.k.a 12:12) is a Visual Novel with RPG elements. It's about alternate dimensions, survival and bonds. The main character finds himself trapped into a game where the contestants have to fight monsters to survive, but can only get stronger by killing other \"players\". Will you fight by yourself or hope to find partners that won't stab you in the back (literally)?",
+  "source_sha256": "113d2b495c1e34eb4a852f8dca2a35285582eb262110e4b6f9dafa2e7ca6e790",
+  "translation": "《Twelfth Honor Deed》（又名《12:12》）是一部带有RPG元素的视觉小说，主题包括平行维度、生存与羁绊。主人公发现自己被困在一场游戏里，参赛者必须与怪物战斗才能存活，却只能通过杀死其他“玩家”来变强。你会独自作战，还是寄希望于找到不会真的从背后捅你一刀的伙伴？",
+  "vndb_url": "https://vndb.org/v2120"
+}

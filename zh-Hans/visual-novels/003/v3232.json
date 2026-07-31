@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3232",
+  "type": "visual_novel",
+  "name": "_summer Life",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fandisk to _summer and LikeLife.",
+  "source_sha256": "7fcd7052d5287950d82b2cc08162f5e05484d6b9f7db310206ce6aeda4dbd716",
+  "translation": "《_summer》和《LikeLife》的Fan Disc。",
+  "vndb_url": "https://vndb.org/v3232"
+}

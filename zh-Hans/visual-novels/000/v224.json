@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v224",
+  "type": "visual_novel",
+  "name": "FLOOD OF TEARS",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An annoying protagonist, an ordinary school life, a few friends here and there. This is the story of a young man who falls in love willingly, and perhaps of a couple young women who fall in love somewhat less willingly.\n\n[From [url=http://www.insani.org/fot.html]insani[/url]]",
+  "source_sha256": "eea94fe8e0b1a79c72a6cf9ba621950882a7cdda86fac7320389c5cd7cad914a",
+  "translation": "一个惹人厌的主人公，一段平凡的校园生活，还有散落在身边的几位朋友。这是一个年轻人心甘情愿坠入爱河的故事，或许也是几名少女没那么情愿地陷入爱情的故事。\n\n[摘自[url=http://www.insani.org/fot.html]insani[/url]]",
+  "vndb_url": "https://vndb.org/v224"
+}

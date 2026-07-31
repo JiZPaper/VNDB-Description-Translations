@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v868",
+  "type": "visual_novel",
+  "name": "Colorless Day",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A dark world, a dark existence, a dark life. Through the unchanging days, the world becomes a faded grey.",
+  "source_sha256": "7dcc42ea0b925a6c09acf25d54ef017f660f214111269c249374f9986c5dfaf9",
+  "translation": "黑暗的世界，黑暗的存在，黑暗的人生。在一成不变的日子里，世界逐渐褪成一片灰白。",
+  "vndb_url": "https://vndb.org/v868"
+}

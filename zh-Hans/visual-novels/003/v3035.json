@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3035",
+  "type": "visual_novel",
+  "name": "The Blanket",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A young man bored of the average world awaits for his young lover...",
+  "source_sha256": "52719395066a1e165ae633ab12e132df8306ade024c2b6f62a2871271846e6ff",
+  "translation": "一个厌倦平凡世界的年轻人，等待着自己年轻的恋人…",
+  "vndb_url": "https://vndb.org/v3035"
+}

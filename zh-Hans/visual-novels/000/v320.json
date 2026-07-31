@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v320",
+  "type": "visual_novel",
+  "name": "Archimedes no Wasuremono",
+  "original_name": "アルキメデスのわすれもの",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Contains bonus material from Circus' other games.\n\nThe first story is an omake to the original Suika, about a boy, with a disease, who is visiting a village suffering from water shortage and the girl he meets. This story is included in Suika A.S+.\n\nThe second is a \"what if\" short story about Kamishiro Moe's dream. Also included in Suika A.S+.\n\nThe third is an preview to the original D.C. ~Da Capo~ taking place during Christmas.\n\nThe game also contains other extra material from Circus.",
+  "source_sha256": "8e1759dc05cd8fb4ef67015b2fee138275cd489653e4ad158f11fcad2a1c6528",
+  "translation": "收录CIRCUS其他游戏的附赠内容。\n\n第一个故事是初代《水夏》的番外，讲述一名身患疾病的少年造访缺水村庄，并在那里与一名女孩相遇的故事。该篇也收录于《水夏A.S+》。\n\n第二个故事是关于神代萌梦境的“假如”短篇，同样收录于《水夏A.S+》。\n\n第三个故事是初代《D.C.～达·卡波～》的先行短篇，发生在圣诞节期间。\n\n游戏还收录了CIRCUS其他作品的额外内容。",
+  "vndb_url": "https://vndb.org/v320"
+}

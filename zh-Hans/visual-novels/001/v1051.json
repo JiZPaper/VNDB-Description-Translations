@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1051",
+  "type": "visual_novel",
+  "name": "Yukiuta",
+  "original_name": "ゆきうた",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The town has a local legend, \"A big tree on the hill makes your wish come true.\" The main character lives a peaceful life with his classmates. One day, a transfer student comes to his class....\n\n[From Himeya Shop]",
+  "source_sha256": "209205061f0c0791096f8bd218e9cf20665f297ac763bbb659db5409e604ceea",
+  "translation": "小镇流传着一个传说：“山丘上的大树能够实现你的愿望。”主人公与同学们过着平静的生活。某天，一名转学生来到他的班级……\n\n[摘自Himeya Shop]",
+  "vndb_url": "https://vndb.org/v1051"
+}

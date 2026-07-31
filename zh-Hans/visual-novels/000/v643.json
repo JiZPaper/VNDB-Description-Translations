@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v643",
+  "type": "visual_novel",
+  "name": "Debo no Subako",
+  "original_name": "でぼの巣箱",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Debo no Subako is a fandisc for three [url=https://vndb.org/p17]Studio e.go![/url] games featuring new stories minigames and fanmaterials for each. \nThose games are:\n\n•[url=https://vndb.org/v57464]Ama Kagura[/url]\n•Suzume Kagura 雀神楽\n•[url=https://vndb.org/v619]Izumo 0[/url] \n•[url=https://vndb.org/v106]Castle Fantasia 2: The Sacred War[/url]",
+  "source_sha256": "ca0b24a44f5135d2974262cd148a58379ac5392179d5751289f9a6e71a5f47d2",
+  "translation": "《でぼの巣箱》是[url=https://vndb.org/p17]Studio e.go![/url]多部游戏的Fan Disc，为每部作品收录了新故事、小游戏与爱好者向附加内容。\n相关作品包括：\n\n•[url=https://vndb.org/v57464]《天神乐》[/url]\n•《雀神乐》\n•[url=https://vndb.org/v619]《IZUMO 0》[/url]\n•[url=https://vndb.org/v106]《Castle Fantasia 2: The Sacred War》[/url]",
+  "vndb_url": "https://vndb.org/v643"
+}

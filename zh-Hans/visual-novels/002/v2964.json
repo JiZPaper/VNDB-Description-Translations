@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2964",
+  "type": "visual_novel",
+  "name": "Manaka de Ikuno!!",
+  "original_name": "愛佳でいくの!!",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Introductory VN and launcher for games in [url=/r5841]Manaka de Iku no!! ~Leaf Amusement Soft Vol.5[/url] which includes [url=/v33943]Mananatsu[/url], [url=/v33944]Final Dragon Chronicle: Guilty Requiem[/url], and two other non-VN games. Features conversation between Manaka and Ikuno.",
+  "source_sha256": "228031420d8771009bb6d196a1bca9abc8031f2696fc68255221766c46af1639",
+  "translation": "[url=/r5841]《Manaka de Iku no!! ~Leaf Amusement Soft Vol.5》[/url]所收录游戏的导览视觉小说兼启动器。该合集包括[url=/v33943]《Mananatsu》[/url]、[url=/v33944]《Final Dragon Chronicle: Guilty Requiem》[/url]以及另外两款非视觉小说游戏。本作以爱佳和郁乃之间的对话为特色。",
+  "vndb_url": "https://vndb.org/v2964"
+}

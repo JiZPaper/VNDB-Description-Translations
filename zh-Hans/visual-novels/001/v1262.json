@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1262",
+  "type": "visual_novel",
+  "name": "Wanko to Lily",
+  "original_name": "ワンコとリリー",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Upon receiving the news of his father's death, the main character, Kurata Seiichi, returns to his parents' home for the first time in several years. What awaited him there was his childhood friend, Touko, and a small \"dog\".\n\nIt was the last souvenir his father left him.\n\nSeiichi is not fond of pets, but he cannot refuse Touko's request. They had no choice but to take in the dog....\n\n[Translated from [url=https://dlsoft.dmm.co.jp/detail/cuffs_0023/]Fanza[/url]]",
+  "source_sha256": "cdd5a7a85f042c3892fce4047c74e0fe551d3fee154687b20110307f9edea0b5",
+  "translation": "得知父亲去世的消息后，主人公仓田诚一时隔数年首次回到老家。等待他的，是青梅竹马藤子和一只小“狗”。\n\n那是父亲留给他的最后一件纪念品。\n\n诚一并不喜欢宠物，却无法拒绝藤子的请求。他们只好把这只狗收养下来……\n\n[翻译自[url=https://dlsoft.dmm.co.jp/detail/cuffs_0023/]Fanza[/url]]",
+  "vndb_url": "https://vndb.org/v1262"
+}

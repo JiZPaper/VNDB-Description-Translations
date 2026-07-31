@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v866",
+  "type": "visual_novel",
+  "name": "Reconstruction 01",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A futuristic sci-fi story set in a world where space travel is as common as plane travel is now. It's a story of a man, the ups and downs in his life, and an unusual secret he discovers by chance...",
+  "source_sha256": "a0ac8044c5ce3680e67d24e81705e706f2326544be8c960f5100fdaa650ea165",
+  "translation": "故事发生在未来世界，那时乘坐飞船遨游太空就像今天搭乘飞机一样寻常。这是一段科幻故事，讲述一名男子人生中的起起落落，以及他偶然发现的一个非同寻常的秘密……",
+  "vndb_url": "https://vndb.org/v866"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3367",
+  "type": "visual_novel",
+  "name": "Nevermore",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "“Nevermore” is a a fully voiced, moderately short kinetic novel about insomnia.\n\n[From official site]",
+  "source_sha256": "4f895713e959cdae3b189a2b1e33e3b61ded483d14686292792087fc7c2af3dc",
+  "translation": "《Nevermore》是一部全程配音、篇幅适中的失眠题材短篇视觉小说。\n\n[摘自官方网站]",
+  "vndb_url": "https://vndb.org/v3367"
+}

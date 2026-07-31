@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1480",
+  "type": "visual_novel",
+  "name": "Realizations",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "When Jake is told by his father that they will move, a lot of things change for him. But the new environment also holds new possibilities for him. Good or bad, it depends on his decisions how the realizations about his life and friends will turn out.",
+  "source_sha256": "b401df3e9b968d9850d0808fda14fe020c4c201ba339bf696c4033fb0ecf4b20",
+  "translation": "杰克从父亲口中得知他们即将搬家后，许多事都发生了变化。不过，新环境也为他带来了新的可能。结果是好是坏，取决于他的选择，以及他最终会如何认识自己的人生与朋友。",
+  "vndb_url": "https://vndb.org/v1480"
+}

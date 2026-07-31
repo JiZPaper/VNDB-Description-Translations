@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5680",
+  "type": "visual_novel",
+  "name": "Suzumiya Ha*hi no Shousoku",
+  "original_name": "涼宮ハ●ヒの消息",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A doujin visual novel where Konata from \"Lucky Star\" goes to the world of \"The Melancholy of Suzumiya Haruhi\" and Haruhi goes to the world of \"Lucky Star\".\n\n[Translated from [url=http://kbyschool.g.ribbon.to/index.html]The Official Site[/url]]",
+  "source_sha256": "144a09e5bfa02d1a6d031ab75db804e0a9420a93933aafd69f6614b81e4881ca",
+  "translation": "一部同人视觉小说：《幸运☆星》的泉此方来到《凉宫春日的忧郁》的世界，凉宫春日则来到《幸运☆星》的世界。\n\n[翻译自[url=http://kbyschool.g.ribbon.to/index.html]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v5680"
+}

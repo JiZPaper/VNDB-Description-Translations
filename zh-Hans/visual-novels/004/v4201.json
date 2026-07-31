@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4201",
+  "type": "visual_novel",
+  "name": "Friends ~Child Flower~",
+  "original_name": "フレンズ ～Child Flower～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The story of two little girls who fall in love with an adult.",
+  "source_sha256": "ff5251d226a2a389e7bb289b15334c6989ce1009527aa1acc434e5de02152905",
+  "translation": "两个小女孩爱上一名成年人的故事。",
+  "vndb_url": "https://vndb.org/v4201"
+}

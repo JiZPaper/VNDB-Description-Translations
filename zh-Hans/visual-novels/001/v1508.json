@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1508",
+  "type": "visual_novel",
+  "name": "NekoNeko Fan Disc 2",
+  "original_name": "ねこねこファンディスク2",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Contains omake material from NekoNeko's earlier games.",
+  "source_sha256": "c50ee0168029e1c39c273f256ea634ecc49aae3c9b4f05838e78aabf8df09b3d",
+  "translation": "收录了猫猫软件早期作品的附赠内容。",
+  "vndb_url": "https://vndb.org/v1508"
+}

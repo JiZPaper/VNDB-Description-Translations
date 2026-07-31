@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4571",
+  "type": "visual_novel",
+  "name": "Melty Märchen",
+  "original_name": "メルティ・メルヘン",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Remake of Mel Mel Melty Märchen with improved graphics and extended dialogue. The original version required solving \"guesstures\"-type puzzles in order to continue reading the tales, but in this port they have been replaced by \"Simon\"-type puzzles.\n\nThe main story is about a horny nerd who gets all his porn collection stolen by a goddess, and she won't return it to him until he saves the fantasy kingdom. The goddess requires him to help a fairy to retrieve all chapters from classic fairy tales, which seem to have been affected by a computer virus.",
+  "source_sha256": "0000c7480d44b22de696608a04b5e43da19e63d1f88ccc95609371fe7d28495f",
+  "translation": "本作是《Mel Mel Melty Märchen》的重制版，改善了画面并扩充了对白。原版需要解开类似“你演我猜”的谜题才能继续阅读故事，本移植版则将其替换成类似“Simon”的记忆谜题。\n\n主线讲述一个好色的书呆子。他收藏的所有色情制品都被一名女神偷走；在他拯救奇幻王国之前，女神绝不会归还。女神要求他帮助一名妖精，找回经典童话中似乎受到电脑病毒影响的所有章节。",
+  "vndb_url": "https://vndb.org/v4571"
+}

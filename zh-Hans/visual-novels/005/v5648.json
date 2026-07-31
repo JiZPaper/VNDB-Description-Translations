@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5648",
+  "type": "visual_novel",
+  "name": "Touhou Kuru Ningyou",
+  "original_name": "東方繰人形",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A story from Alice Margatroid's point of view.",
+  "source_sha256": "acc5002d5d6193630d76254c0daade2ce94f4672843eef7085c7c81420928483",
+  "translation": "以爱丽丝·玛格特洛依德视角讲述的故事。",
+  "vndb_url": "https://vndb.org/v5648"
+}

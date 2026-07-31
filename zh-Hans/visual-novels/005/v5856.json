@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5856",
+  "type": "visual_novel",
+  "name": "For The Morning Sun",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short visual novel, set in outer space.",
+  "source_sha256": "143d54a4e6cd8c7ea443657e6e10a1bd2c9a3709ebdcb3ce2867c9de77247bda",
+  "translation": "一部以外太空为舞台的短篇视觉小说。",
+  "vndb_url": "https://vndb.org/v5856"
+}

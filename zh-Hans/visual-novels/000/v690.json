@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v690",
+  "type": "visual_novel",
+  "name": "Magus Tale Infinity",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In this Fandisc for the Magus Tale players are able to play new stories with the games characters as well as a full story for a previously sub character. Also included are various fan materials such as wallpapers, musics etc.",
+  "source_sha256": "06bfe78331749fd37c6ffc672d17a079e712209066a6d29cb89d9daf38769384",
+  "translation": "在这部《Magus Tale》Fan Disc中，玩家可以体验以原作角色为主角的新故事，以及一条以原配角为主角的完整路线。此外还收录了壁纸、音乐等各种爱好者向附加内容。",
+  "vndb_url": "https://vndb.org/v690"
+}

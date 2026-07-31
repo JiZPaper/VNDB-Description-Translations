@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v306",
+  "type": "visual_novel",
+  "name": "BALDR BULLET",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Sometime in the near future, the South American rain forest serves as the backdrop of a war between two factions - those who support the Baldr governing technology and those who don't. To ensure that the skirmishes and conflicts don't expand, the BS-OSA or Baldr System - Observation Structure Army is set up to police the region. Inside the Army is a special unit known as SERR14 (Observation Structure Army South American Experimental Riot Regiment the 14th) which is comprised of elite soldiers and operatives such as Sergey Kirkland and Dullahan Cuningham.\n\n[From Game Manual]",
+  "source_sha256": "f3f01421eff9ca9334d588dfd8aa85c9b08b1af2b5bbf00ac1d5bcc313ca6375",
+  "translation": "不久的将来，南美雨林成为两派交战的舞台：一派拥护BALDR管控技术，另一派则反对它。为防止小规模交火和冲突进一步扩大，BS-OSA，即BALDR系统观察机构军，应运而生，负责警备该地区。军中设有一支名为SERR14的特种部队，其全称为“观察机构军南美第14实验镇暴团”，由谢尔盖·柯克兰、杜拉汉·坎宁安等精锐士兵与特工组成。\n\n[摘自游戏说明书]",
+  "vndb_url": "https://vndb.org/v306"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1929",
+  "type": "visual_novel",
+  "name": "Ayumi-chan Monogatari",
+  "original_name": "あゆみちゃん物語",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The premise of Ayumi-chan Monogatari is rather simple: the protagonist, a young boy named Kouichi, is in love with the most beautiful girl in his school, Ayumi Kawai. One day she admits that she also loves him, and they begin a relationship.",
+  "source_sha256": "e695b350a87faa93c23002344f6ecda7256ae769270162910ba40beb65f74be3",
+  "translation": "《步美酱物语》的故事前提十分简单：主人公是名叫浩一的少年，他爱上了学校里最美丽的女孩河合步美。一天，步美坦白自己也喜欢他，两人由此开始交往。",
+  "vndb_url": "https://vndb.org/v1929"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5454",
+  "type": "visual_novel",
+  "name": "Tegami",
+  "original_name": "手紙",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A super short visual novel.",
+  "source_sha256": "f1e6ed602f22614a697eb23c97048d622ae11c2ae6c9ddff63cc0a0cc4475069",
+  "translation": "一部极其短小的视觉小说。",
+  "vndb_url": "https://vndb.org/v5454"
+}

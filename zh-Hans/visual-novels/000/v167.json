@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v167",
+  "type": "visual_novel",
+  "name": "Brass Restoration",
+  "original_name": "ブラス・レストレイション",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The main character, Takiguchi Ryo, is a genius percussionist in high school who had a bright future ahead of him. But he loses his left arm in an accident.\n\nThe accident causes him to throw away his dream to become a percussionist like his father, and he loses all hope in life. Ryo tries to abandon music, but the girls around him encourage him to take up music once again.\n\nWill he be able to find hope in his life and a passion for music in spite of his handicap...?\n\n[From [url=https://web.archive.org/web/20081206074931/http://mirrormoon.org/projects/brass_restoration]Mirror Moon[/url]]",
+  "source_sha256": "9a9842a7df908c845300f1940206fdc55512cecd768c1d36bc723ec817525fd2",
+  "translation": "主人公泷口亮是一名天赋过人的高中打击乐手，原本拥有光明的前途，却在一场事故中失去了左臂。\n\n这场事故迫使他放弃像父亲一样成为打击乐手的梦想，也令他对生活彻底失去希望。亮试图就此告别音乐，但身边的少女们鼓励他再一次拿起乐器。\n\n即使身体留下残缺，他是否仍能重新找到生活的希望与对音乐的热情……？\n\n[摘自[url=https://web.archive.org/web/20081206074931/http://mirrormoon.org/projects/brass_restoration]Mirror Moon[/url]]",
+  "vndb_url": "https://vndb.org/v167"
+}

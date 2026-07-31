@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1311",
+  "type": "visual_novel",
+  "name": "Shakunetsu Hime",
+  "original_name": "灼熱姫",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An unusual piece about a teenaged girl's rage and her sudden urge to destroy the world.",
+  "source_sha256": "de8686e36c116ef947a6b50fb2ec2b882b13722f670bef0164a81f70fd421588",
+  "translation": "一部不同寻常的作品，讲述一名少女的愤怒，以及她突然萌生的毁灭世界之冲动。",
+  "vndb_url": "https://vndb.org/v1311"
+}

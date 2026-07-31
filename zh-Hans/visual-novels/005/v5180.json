@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5180",
+  "type": "visual_novel",
+  "name": "Hajimete no Ofuroya-san",
+  "original_name": "はじめてのおふろやさん",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Souji is a university student who went back home during the summer vacation, only to discover that there is a foreign girl living in his house. He takes the foreign girl Lena and his childhood friend Miyuki to the men's public bath, where they all will have exciting experiences.",
+  "source_sha256": "91600e12097e924e50cc4823e75a18cdb1380535aba8ff1bb72a7ed955b968ba",
+  "translation": "宗司是一名大学生，暑假期间回到家乡，却发现家里住着一名外国少女。他带着外国少女蕾娜和青梅竹马美雪前往男浴场，三人将在那里经历令人兴奋的体验。",
+  "vndb_url": "https://vndb.org/v5180"
+}

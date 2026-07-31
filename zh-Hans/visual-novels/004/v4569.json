@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4569",
+  "type": "visual_novel",
+  "name": "Houma Hunter Lime",
+  "original_name": "宝魔ハンターライム",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Once a month, a door behind the full moon opens. This door is between the human world and the magical world. Now it just so happens that on one such night, Lime and Bass are in hot pursuit of a demon who had stolen six power gems from the magical world. The demon escapes to the human world through the open door, and the two follow.\n\n[From [url=https://web.archive.org/web/20120108215803/http://psxdata.snesorama.us/games/J/H/SLPS-00020.html]Playstation DataCenter[/url]]",
+  "source_sha256": "41be6717e8a03119445bb6bfda39cfee97d27dfcab5d883a5d3ca035809b19d4",
+  "translation": "每月一次，满月背后的门会开启。这扇门连接着人界与魔界。就在这样的一个夜晚，Lime和Bass正紧追一只从魔界盗走六颗力量宝石的恶魔。恶魔穿过开启的门逃到人界，两人也随即追了过去。\n\n[摘自[url=https://web.archive.org/web/20120108215803/http://psxdata.snesorama.us/games/J/H/SLPS-00020.html]Playstation DataCenter[/url]]",
+  "vndb_url": "https://vndb.org/v4569"
+}

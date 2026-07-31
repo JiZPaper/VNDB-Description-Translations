@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3650",
+  "type": "visual_novel",
+  "name": "Sora o Kakeru Shoujo - Picture Novel",
+  "original_name": "空を翔る少女",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A conversion of the DVD extra Picture Dramas from the anime series \"Sora Kake Girl\" to a Visual Novel.",
+  "source_sha256": "a9a4c0cf7d5cf562a2f0aaf103e3a8cf2bdb0d60195b4e166db8db104a37a584",
+  "translation": "将动画《穿越宇宙的少女》DVD特典中的图像剧改编为视觉小说。",
+  "vndb_url": "https://vndb.org/v3650"
+}

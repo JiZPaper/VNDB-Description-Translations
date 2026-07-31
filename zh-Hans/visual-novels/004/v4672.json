@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4672",
+  "type": "visual_novel",
+  "name": "Yuugekitai ~Saikyoushin Fukkatsu no Maki~",
+  "original_name": "遊撃隊 ～最強神復活之巻～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The members of the punk rock band \"Yugekitai\" find out about a plot to resurrect a god of destruction Susanoo. Hilarity ensues.",
+  "source_sha256": "e32661eb0c093b07ae076eee908a8b3b2d220a40cca9217fe447f18ad5d32b53",
+  "translation": "朋克摇滚乐队“游击队”的成员发现了一个复活破坏神须佐之男的阴谋，随后引发了一连串令人捧腹的骚动。",
+  "vndb_url": "https://vndb.org/v4672"
+}

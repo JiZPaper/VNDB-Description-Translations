@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3299",
+  "type": "visual_novel",
+  "name": "SMiLE Extra",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A extra game very very very³ short!\nThis game is a test to a conversion to a web game.",
+  "source_sha256": "f7ca6a276cd99b0b4206eb9b9ac5c431d333c666cddb0ddc00d31335573febe7",
+  "translation": "一款非常非常非常³短的附加游戏！\n本作是将游戏转换为网页游戏的测试作品。",
+  "vndb_url": "https://vndb.org/v3299"
+}

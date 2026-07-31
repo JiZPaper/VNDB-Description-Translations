@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1961",
+  "type": "visual_novel",
+  "name": "Elven Relations",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Takuya is a swordsman in the Royal Army of the Kingdom of Reachfar, who is sent on a unique mission into the Endless Forest to establish diplomatic relations with the elven people. Could there be love awaiting him in the depths of the Elvenglade?\n\n[From [url=http://www.toothycat.net/~hologram/ElvenRelations/]The Official site[/url]]",
+  "source_sha256": "16c1ef71a2fc6be0ff94b6cf3adf82381b07dbd4d1f5b4cb08eb0e3f5657ea7b",
+  "translation": "拓也是里奇法尔王国皇家军队的一名剑士。他受命执行一项特殊任务，进入无尽森林，与精灵族建立外交关系。在精灵林地深处，等待着他的会不会还有爱情？\n\n[摘自[url=http://www.toothycat.net/~hologram/ElvenRelations/]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v1961"
+}

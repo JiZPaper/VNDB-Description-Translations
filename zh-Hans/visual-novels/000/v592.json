@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v592",
+  "type": "visual_novel",
+  "name": "Soyokaze no Okurimono -Wind Pleasurable Box-",
+  "original_name": "そよかぜのおくりもの -Wind Pleasurable Box-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a fandisc for Wind: A Breath of Heart.\n\nIt is divided into three parts. First part covers all the related magazine articles, posters, drawings and stories presented in the similar sources. Second part covers new stories to play including the ones written by fans and the developers. Third part is a movie chronicling the making of the game's famous video sequences.\n\n[Translated from [url=http://www.getchu.com/soft.phtml?id=19827]Getchu[/url]]",
+  "source_sha256": "7c57d0d3d50ec1e18d9620e3e734a31ec554a2689c20927de3580d7c680fbba6",
+  "translation": "这是《Wind: A Breath of Heart》的Fan Disc。\n\n内容分为三部分。第一部分收录相关杂志文章、海报、插画，以及在同类渠道发表的故事；第二部分收录可供游玩的新故事，其中包括爱好者与开发者创作的篇章；第三部分则是一部记录本作著名影像片段制作过程的影片。\n\n[翻译自[url=http://www.getchu.com/soft.phtml?id=19827]Getchu[/url]]",
+  "vndb_url": "https://vndb.org/v592"
+}

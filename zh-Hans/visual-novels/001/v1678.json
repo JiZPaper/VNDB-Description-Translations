@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1678",
+  "type": "visual_novel",
+  "name": "VitaminZ",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This game is defined as a comical ADV game and is a continuation to Vitamin X.\n\nThe scene takes place five years after the original. Kitamori Manami is assigned the F class in 3rd year, the so-called \"Class Z\", which also has its lot of problem children...",
+  "source_sha256": "7c152aca1467f35ba45f2d77917e69b20a0a4f48cadba3e1f85a6ce9d8221337",
+  "translation": "本作是一款喜剧冒险游戏，也是《Vitamin X》的续作。\n\n故事发生在前作五年后。北森真奈美被分配到三年级F班，也就是所谓的“Z班”；班里自然也少不了一群问题学生…",
+  "vndb_url": "https://vndb.org/v1678"
+}

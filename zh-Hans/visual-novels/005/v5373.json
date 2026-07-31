@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5373",
+  "type": "visual_novel",
+  "name": "Dai-chan to Issho!",
+  "original_name": "大ちゃんといっしょ！",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Visual novel featuring Daiyousei and other Touhou characters.",
+  "source_sha256": "25ed8dc404ce53873576075dab916ca5a405da2f60931fff9946977d965d3adc",
+  "translation": "一部以大妖精及其他《东方Project》角色为主角的视觉小说。",
+  "vndb_url": "https://vndb.org/v5373"
+}

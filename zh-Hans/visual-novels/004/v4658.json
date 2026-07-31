@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4658",
+  "type": "visual_novel",
+  "name": "Hokkaido Rensa Satsujin: Ohotsk ni Kiyu",
+  "original_name": "北海道連鎖殺人 オホーツクに消ゆ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game is the spiritual successor to \"Portopia Renzoku Satsujin Jiken\". A man's corpse is discovered near a sea wharf in Tokyo Bay. The player must investigate the victim's identity and learn about related events in Hokkaido. A 2nd and 3rd murder occurs one after another while the player starts investigating with Shunsuke Saruwatari, a detective from the Kushiro station. The player must discover the criminal's motivation. An examination of the relation between the victims exposes a important details from the past. \n\nfrom http://strategywiki.org",
+  "source_sha256": "75d470a5373e279c62c56da8983015b30877fa3795830c69746a3cf41fc1624f",
+  "translation": "本作是《港口镇连续杀人事件》的精神续作。东京湾一处海边码头附近发现了一具男性尸体。玩家必须查明死者身份，并了解北海道发生的相关事件。玩家与钏路警署刑警猿渡俊介展开调查时，第二起、第三起谋杀接连发生。玩家必须找出凶手的动机；梳理受害者之间的关系，将揭露过去的重要细节。\n\n摘自http://strategywiki.org",
+  "vndb_url": "https://vndb.org/v4658"
+}

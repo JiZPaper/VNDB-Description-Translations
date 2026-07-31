@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2245",
+  "type": "visual_novel",
+  "name": "Pet Tantei Y's",
+  "original_name": "ペット探偵Y’s",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "17 year old Futaba Yuuka is asked by her grandfather to look out for his pet detective agency as he is away. There to help her is his multi-use robot Barious and her friends.",
+  "source_sha256": "e54790a4db33d91f4ed0953a78b8e94201b80600b9b4fa839af6f39a038c1894",
+  "translation": "17岁的双叶优香受祖父委托，在他离开期间照看宠物侦探事务所。协助她的是祖父制造的多功能机器人巴里欧斯，以及她的朋友们。",
+  "vndb_url": "https://vndb.org/v2245"
+}

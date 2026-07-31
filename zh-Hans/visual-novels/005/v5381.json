@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5381",
+  "type": "visual_novel",
+  "name": "BLAZBLUE CALAMITY TRIGGER",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Prior to the events of BlazBlue, humanity was on the verge of extinction from the \"Black Beast\", a creature of Darkness. The world was saved by six heroes who wielded magic. They helped humanity create \"Ars Magus\", a fusion of magic and technology, to defeat the Beast.\n\nAfter the war, the Novus Orbis Librarium (the Library or NOL for short) was created to govern the world with the use of Ars Magus. A great deal of dissent was caused by the Library, partly due to Ars Magus' use in nearly every facet of society, and the widening socioeconomic gap between those who could and couldn't use Ars Magus. This dissent would eventually form years later into The Ikaruga Civil War, when the Ikaruga Union openly rebelled against the Library. After the war, the Library imposed a harsher rule on the world, punishing any rebellion against the Library with the death penalty.\n\nIn December A.D. 2199, several years after the Ikaruga Civil War, a branch of the Library was utterly destroyed by an SS-class rebel named \"Ragna the Bloodedge\" also known as the \"Grim Reaper\", in an attempt to destroy the entire Library. The Novus Orbis Librarium, hoping to stop him, immediately announced the largest bounty ever, available to anyone who could capture him. Interestingly, Ragna possesses a powerful form of Ars Magus known as the \"Azure Grimoire\" (Grimoire of the Blue in Japan), also known as the BlazBlue. This led the Librarium, as well as the Ikaruga Union and other fighters, to hunt Ragna not just for his bounty, but also his grimoire.\n\n[From [url=http://en.wikipedia.org/wiki/Blazblue]Wikipedia[/url]]",
+  "source_sha256": "acc2ed32f2c8a1694b184662ef9765cf1acbb331a15f666fb6d43f793a160b62",
+  "translation": "在《苍翼默示录》的故事发生之前，人类一度因黑暗生物“黑兽”而濒临灭绝。六名驾驭魔法的英雄拯救了世界。他们帮助人类创造出融合魔法与科技的“术式”，并以此击败黑兽。\n\n战争结束后，世界虚空情报统制机构（简称统制机构或NOL）成立，并利用术式统治世界。由于术式渗透社会生活的几乎所有层面，加之能够和不能使用术式的人之间社会经济差距不断扩大，人们产生了强烈不满。多年后，这股不满最终演变为斑鸠内战，斑鸠联盟公开反抗统制机构。战争结束后，统制机构对世界施加了更加严酷的统治，并以死刑惩处任何反抗行为。\n\n公元2199年12月，斑鸠内战结束数年后，一名绰号“死神”的SS级叛逆者“拉格纳·查·布拉德艾奇”为摧毁整个统制机构，彻底摧毁了其一处分部。为了阻止他，世界虚空情报统制机构立即宣布了史上最高额悬赏，任何能够抓获他的人都可领取。值得注意的是，拉格纳拥有一种被称为“苍之魔道书”的强大术式，也就是BlazBlue。于是，统制机构、斑鸠联盟及其他格斗家追捕拉格纳，不仅是为了赏金，也是为了夺取他的魔道书。\n\n[摘自[url=http://en.wikipedia.org/wiki/Blazblue]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/v5381"
+}

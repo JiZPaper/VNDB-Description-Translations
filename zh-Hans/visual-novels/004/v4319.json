@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4319",
+  "type": "visual_novel",
+  "name": "Kakuu Shoujo",
+  "original_name": "夏空少女",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "After the end of the world war in the near future, every human being is managed and controlled by a computer called \"Mother\". People who could not adapt to such a system were called \"irregular\", thus they lived in the educational facility \"Reclaim Garden\". The main character was sent to the garden as a \"guardian\" to re-educate its irregularities. Therefore, he will experience a world that he couldn't feel so far.\n\n[Translated and edited from [url=https://ja.m.wikipedia.org/wiki/夏空少女]Wikipedia[/url]]",
+  "source_sha256": "0fca038a692485e7ccae58d4acb136f95b28d0345bd5a11b31e841eb0f41d929",
+  "translation": "近未来的世界大战结束后，所有人类都受到名为‘Mother’的计算机管理和控制。无法适应这一体制的人被称作‘异常者’，并被送入名为‘Reclaim Garden’的教育设施生活。主人公作为‘监护人’被派往花园，负责重新教育这些异常者，也将在那里体验一个过去从未感受过的世界。\n\n[翻译并编辑自[url=https://ja.m.wikipedia.org/wiki/夏空少女]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/v4319"
+}

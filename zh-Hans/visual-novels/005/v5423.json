@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5423",
+  "type": "visual_novel",
+  "name": "Abigail",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Abigail. She's the most popular girl in school. Not in any of the usual ways. She's not the prettiest or the smartest or the richest. She's not a cheerleader and not the class president. But everybody loves her.",
+  "source_sha256": "73291a2f59628a07f7ea36f033193a6f695f7ab3eccda44511ca3614fb4f56bc",
+  "translation": "阿比盖尔是学校里最受欢迎的女孩，但她的受欢迎并非源于任何寻常理由。她不是最漂亮、最聪明或最富有的人，既不是啦啦队员，也不是班长。然而，每个人都喜欢她。",
+  "vndb_url": "https://vndb.org/v5423"
+}

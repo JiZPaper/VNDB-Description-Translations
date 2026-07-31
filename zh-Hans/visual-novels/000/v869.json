@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v869",
+  "type": "visual_novel",
+  "name": "Silliness",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Kanna wants to buy a Nintendo Wii, and Ryuuya has to go off to the mall to find one. A 5 minute long parody of otaku culture, visual novels, and old school gaming.",
+  "source_sha256": "86b717d14de5c5b1dd9378872690339ad65f17d429baf0e23a1a29014430b471",
+  "translation": "加奈想买一台任天堂Wii，龙也只好前往商场寻找。本作是一段约五分钟的短篇，戏仿了御宅文化、视觉小说与怀旧游戏。",
+  "vndb_url": "https://vndb.org/v869"
+}

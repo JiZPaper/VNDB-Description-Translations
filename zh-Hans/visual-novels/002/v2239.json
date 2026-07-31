@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2239",
+  "type": "visual_novel",
+  "name": "Himesho!",
+  "original_name": "ひめしょ！",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Our protagonist Yamada Koharu is told two surprising news at the same time: he's transferring to a former all-girls school and he's actually the heir to the throne, so several princesses from different countries will try to become his queen!",
+  "source_sha256": "87b9307a55412a4827da0b377a7f249e5eaf6dba0f3ff93ca79a640e835c1ef9",
+  "translation": "主人公山田小春同时得知两条惊人消息：自己即将转入一所由女校改制而来的学校，而且竟然还是王位继承人。来自不同国家的几位公主将努力成为他的王后！",
+  "vndb_url": "https://vndb.org/v2239"
+}

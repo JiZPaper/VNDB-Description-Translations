@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1588",
+  "type": "visual_novel",
+  "name": "Platinum Wind ~Hoshi no Uta ga Kikoetara~",
+  "original_name": "プラチナウインド～星の詩が聞こえたら～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Albeit tiny, the kingdom of Quartet is prosperous thanks to a mysterious magical light (known as \"Platina\") that envelops the region. In this bustling city, an alchemist returns home after his apprenticeship.\n\n[Edited and translated from [url=http://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%89]Wikipedia[/url]]",
+  "source_sha256": "f10a1ce14bce087b77aed9787017714179fe75d4bb5d3b7e8a9cf72ccc6674bc",
+  "translation": "四重奏王国虽然面积不大，却因笼罩当地的一种神秘魔法之光“Platina”而繁荣昌盛。在这座熙熙攘攘的城市里，一名炼金术士结束学徒生涯，回到了故乡。\n\n[编辑并翻译自[url=http://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%83%81%E3%83%8A%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%89]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/v1588"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5374",
+  "type": "visual_novel",
+  "name": "Sanae-san to Chu-chu!",
+  "original_name": "早苗さんとちゅっちゅ！",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Visual novel featuring Kochiya Sanae and other Touhou characters.",
+  "source_sha256": "57ff5f28986b85509bc18325b966bc4ba1f8c6f3d67f750afa12a8ba49be0a1e",
+  "translation": "一部以东风谷早苗及其他《东方Project》角色为主角的视觉小说。",
+  "vndb_url": "https://vndb.org/v5374"
+}

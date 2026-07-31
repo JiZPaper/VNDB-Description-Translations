@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4614",
+  "type": "visual_novel",
+  "name": "Shinsetsu Ryouki no Ori",
+  "original_name": "真説 猟奇の檻",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "There is a string of 14 mysterious dissapearances in a single department store that started about 15 years ago. Police still can't find any clues. So store manager decided to hire a private detective to solve this strange case. He has only 9 days to finish his work.",
+  "source_sha256": "4dcc668f57222c3576d12e64e445f3fb8eae6be1d9c4353f98a69a599659f5c4",
+  "translation": "大约15年前，一家百货商店开始接连发生神秘失踪事件，至今已有14人失踪，警方仍找不到任何线索。商店经理于是决定雇用一名私家侦探破解这起怪案，而他只有九天时间完成调查。",
+  "vndb_url": "https://vndb.org/v4614"
+}

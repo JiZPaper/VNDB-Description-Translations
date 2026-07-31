@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5728",
+  "type": "visual_novel",
+  "name": "Maria-sama ga Gyakuten",
+  "original_name": "マリア様が逆転",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Feat. characters of Maria-sama ga *iteru and Pho*ix Wright, focusing on a trial. You play a defense attorney Aweketta to save a culprit Defendia.\n\n[From [url=http://eng.dlsite.com/work/=/product_id/RE025307.html]DLsite English[/url]]",
+  "source_sha256": "07404c4740ea7e7d60f52686f7474fe49ce6f7a448036a192b9b698ca4316a44",
+  "translation": "一部以《玛丽亚大人》与《逆转裁判》角色为主角、聚焦庭审的作品。玩家将扮演辩护律师绫薙，拯救被告Defendia。\n\n[摘自[url=http://eng.dlsite.com/work/=/product_id/RE025307.html]DLsite English[/url]]",
+  "vndb_url": "https://vndb.org/v5728"
+}

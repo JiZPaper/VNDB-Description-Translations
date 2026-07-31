@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v399",
+  "type": "visual_novel",
+  "name": "Minikiss ~Tsuyokiss Fan Disc~",
+  "original_name": "みにきす　～つよきすファンディスク～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a fan disc of \"Tsuyokiss\", featuring new scenarios and mini games.\n\n[Edited from Himeya Shop]",
+  "source_sha256": "66c1b1530ac0a7e4483ee4d44f168d7fc74e339a7378d027a193af2a7625a176",
+  "translation": "这是《娇蛮之吻》的粉丝向附加光盘，收录新剧本和迷你游戏。\n\n[编辑自Himeya Shop]",
+  "vndb_url": "https://vndb.org/v399"
+}

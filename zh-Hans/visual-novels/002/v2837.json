@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2837",
+  "type": "visual_novel",
+  "name": "Yorikori Makuri.",
+  "original_name": "よりこりまくり。",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"Mini Mini\" fandisc to FairlyLife focusing on sub-heroine Yoriko, the former photocopier from the student council room.",
+  "source_sha256": "6474afc16b03204c704fb12aa968fc53dd7c12416530b55ffd7c1e4edf924784",
+  "translation": "《FairlyLife》的\"迷你迷你\"粉丝向光盘，聚焦配角依子——她原本是学生会室里的一台复印机。",
+  "vndb_url": "https://vndb.org/v2837"
+}

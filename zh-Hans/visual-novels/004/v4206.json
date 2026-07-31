@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4206",
+  "type": "visual_novel",
+  "name": "TO&HI: Tajna chjornoj beretki",
+  "original_name": "TO&HI: Тайна чёрной беретки",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Another game featuring Torako and Hitsuji. This time it's a surreal thriller with time loop and evil alien invaders.",
+  "source_sha256": "0374eec03f402d9c6aba80468b28ce3dc905122ef873ed6e73ffc5562f345968",
+  "translation": "另一款以托拉科与希茨吉为主角的游戏。这次是一部超现实惊悚作品，包含时间循环和邪恶外星入侵者。",
+  "vndb_url": "https://vndb.org/v4206"
+}

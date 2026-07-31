@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v230",
+  "type": "visual_novel",
+  "name": "Sore Jaa, Mata ne.",
+  "original_name": "それじゃあ、またね。",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short story. Black and white. Sparse drawings. Sparse music. Three characters. One smile.\n\n[From [url=http://www.insani.org/soremata.html]insani[/url]]",
+  "source_sha256": "f797f012a23600fde1d62beb52b1efd1b02add005646da113f02f8755301530f",
+  "translation": "一个短篇故事。黑与白。寥寥几幅画。寥寥几段音乐。三个人物。一个微笑。\n\n[摘自[url=http://www.insani.org/soremata.html]insani[/url]]",
+  "vndb_url": "https://vndb.org/v230"
+}

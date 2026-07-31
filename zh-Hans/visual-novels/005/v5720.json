@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5720",
+  "type": "visual_novel",
+  "name": "Motto! Himitsu Taiken",
+  "original_name": "もっと！ヒミツたいけん",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Takes place a year after \"Boku no Himitsu Taiken\".",
+  "source_sha256": "9b30e708178d5a4ea108dce3748e7d59e461a5d3dd915c39cade6694b288a2e7",
+  "translation": "故事发生在《我的秘密体验》一年之后。",
+  "vndb_url": "https://vndb.org/v5720"
+}

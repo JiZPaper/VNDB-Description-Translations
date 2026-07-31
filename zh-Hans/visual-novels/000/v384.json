@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v384",
+  "type": "visual_novel",
+  "name": "D.C. II ~Da Capo II~ Spring Celebration",
+  "original_name": "D.C.II Spring Celebration ～ダ・カーポII～ スプリング セレブレイション",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Features spring-time stories set after the endings for each of the six D.C. II ~Da Capo II~ heroines. It also has two scenarios set before the events of the main game, including the one featured in Harukaze no Ultimate Battle!",
+  "source_sha256": "5b74a6d377a4e9823f8f39bf6ad467e6a7c0424885f9fb2a1416c249f3f76b11",
+  "translation": "收录六位《D.C.II～达·卡波II～》女主角各自结局之后、发生在春季的故事。此外还有两个发生在本篇之前的剧本，其中包括《春风的终极之战！》所讲述的故事。",
+  "vndb_url": "https://vndb.org/v384"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3362",
+  "type": "visual_novel",
+  "name": "Embraced By Green",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Working as researchers for the Yukiyama City institute, you and your colleague Yumiko are out in the botanical garden one morning. It's nine o'clock and everything is quiet and peaceful.\n\n[From official site]",
+  "source_sha256": "741f25d5d9d665f6af911fb0cb914fa9ad936e1b8a9738eaafb4bf263143540e",
+  "translation": "你与同事Yumiko都是雪山市研究所的研究员。一天早晨，你们来到植物园。现在是九点，周围一片安静祥和。\n\n[摘自官方网站]",
+  "vndb_url": "https://vndb.org/v3362"
+}

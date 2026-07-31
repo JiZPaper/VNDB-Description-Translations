@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3192",
+  "type": "visual_novel",
+  "name": "Isogashii Hito no Tame no Koumakyou",
+  "original_name": "忙しい人のためのこうまきょう",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A doujin AVG based on the [url=http://en.wikipedia.org/wiki/Touhou_Project]Touhou Project[/url] series, specifically, the 6th game [url=http://en.wikipedia.org/wiki/The_Embodiment_of_Scarlet_Devil]The Embodiment of Scarlet Devil[/url].",
+  "source_sha256": "d6f216b4f6330f56ba8d98f3226315906b1653448fa521b8071ebaead9b3f6b2",
+  "translation": "一部以[url=http://en.wikipedia.org/wiki/Touhou_Project]东方Project[/url]系列为基础的同人AVG，具体取材自系列第六作[url=http://en.wikipedia.org/wiki/The_Embodiment_of_Scarlet_Devil]《东方红魔乡》[/url]。",
+  "vndb_url": "https://vndb.org/v3192"
+}

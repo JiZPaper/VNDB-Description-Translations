@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3039",
+  "type": "visual_novel",
+  "name": "White Princess",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game begins at the start of the second semester of your second year of high school. You play as Keisuke Shibahara and work on your relationship with nine heroines. Gameplay is focused on conversations, with interactive selection points and a backlog that keeps track of the text in case you missed out on anything.\n\n(taken from [url=http://uk.ps2.gamespy.com/playstation-2/white-princess-the-second/]GameSpy[/url])",
+  "source_sha256": "11d438764a83c1934ee2b836ec038d3784dc4a52bb966baef32032903a4e1e7d",
+  "translation": "游戏从高中二年级第二学期开始时展开。玩家扮演柴原圭介，与九名女主角培养关系。游戏玩法以对话为中心，包含互动选项，也提供记录文本的回看功能，以免玩家错过任何内容。\n\n（摘自[url=http://uk.ps2.gamespy.com/playstation-2/white-princess-the-second/]GameSpy[/url]）",
+  "vndb_url": "https://vndb.org/v3039"
+}

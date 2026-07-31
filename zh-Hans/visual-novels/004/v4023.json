@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4023",
+  "type": "visual_novel",
+  "name": "Watashi wa Onigiri",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This novel is about the relationship between an onigiri (rice ball) and a girl.",
+  "source_sha256": "89d683fa95572745397fcc8209d95017bc97b497104cbc74bb304ff63af7bc4e",
+  "translation": "这部小说讲述一个饭团与一名女孩之间的关系。",
+  "vndb_url": "https://vndb.org/v4023"
+}

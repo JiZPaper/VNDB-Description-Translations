@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v469",
+  "type": "visual_novel",
+  "name": "Clear ~Crystal Stories~",
+  "original_name": "Clear～クリスタルストーリーズ～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is the fandisc for the original Clear, featuring new stories for each of the six heroines.",
+  "source_sha256": "852204dd8c5d24e57b0aa4f6090266f5e96d70fafc519e3bc6f3607c213996ee",
+  "translation": "这是《Clear》的粉丝向附加光盘，收录六位女主角各自的全新故事。",
+  "vndb_url": "https://vndb.org/v469"
+}

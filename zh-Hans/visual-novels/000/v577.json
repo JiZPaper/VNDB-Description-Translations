@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v577",
+  "type": "visual_novel",
+  "name": "Little Witch Fan Disc ~Chiisana Majo no Okuri Mono~",
+  "original_name": "リトルウィッチファンディスク～ちいさな魔女の贈りもの～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A fandisc featuring new stories for the three previously released Little Witch games' characters.\n\nVarious puzzles and minigames featuring the same characters are also included, as well as related fan materials.",
+  "source_sha256": "5aa34846d20d9aeb15dc92eae241880eff5ca9227630f24ac02d4e4a62932114",
+  "translation": "这是一部Fan Disc，收录了此前三部Little Witch作品中各角色的新故事。\n\n此外还包含以这些角色为主题的各种谜题与小游戏，以及相关的爱好者向附加内容。",
+  "vndb_url": "https://vndb.org/v577"
+}

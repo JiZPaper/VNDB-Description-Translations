@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3852",
+  "type": "visual_novel",
+  "name": "EVEning Course",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The problem: You are in love with a foreign movie star. The solution: Take an evening course to learn the language, and before you know it, you'll have a date! \n\n[From [url=http://atpprojects.mygamesonline.org/visualnovels.htm]Official site[/url]]",
+  "source_sha256": "0d27104fc9276feb59f1cb4332b4ce5b567f1efe7369ec6f119d0afd2eac76cf",
+  "translation": "问题：你爱上了一名外国电影明星。解决方法：参加夜间课程学习语言，回过神来时，你已经与对方约会了！\n\n[摘自[url=http://atpprojects.mygamesonline.org/visualnovels.htm]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v3852"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2650",
+  "type": "visual_novel",
+  "name": "Ripple Island",
+  "original_name": "リップルアイランド",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game takes place on a small island called Ripple Island, where humans and animals lived together in peace. However, one day, the evil emperor Gerogēru suddenly appears on the island and kidnaps the king's daughter. The king promises that he will allow whoever can rescue his daughter to marry her, and a young boy named Kyle sets off on a long journey to rescue the princess.\n\n[From: [url=http://en.wikipedia.org/wiki/Ripple_Island]Wikipedia[/url]]",
+  "source_sha256": "cdfc34cf6caa77f766f8acce3b96bd0ea84e7afcb0f15fd66d7d2a017356b937",
+  "translation": "游戏发生在一座名为Ripple Island的小岛上，人类与动物原本一直和平共处。然而一天，邪恶皇帝格罗格尔突然现身岛上，绑架了国王的女儿。国王承诺，无论是谁，只要能够救回女儿，就允许对方迎娶公主。名叫凯尔的少年由此踏上漫长旅程，准备营救公主。\n\n[摘自[url=http://en.wikipedia.org/wiki/Ripple_Island]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/v2650"
+}

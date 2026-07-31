@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4134",
+  "type": "visual_novel",
+  "name": "Date Warp",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Five days ago, Janet left her dormitory to go on a date. Her very first date, with a nice young man with a good reputation.\n\nShe never came back.\n\nWhat went wrong? Where did she go? And will she ever be seen again?",
+  "source_sha256": "bd46900890aada952de023c3c0bd5f6bfb092449360303bca485f6a287c3cc0a",
+  "translation": "五天前，珍妮特离开宿舍去约会。那是她人生中的第一次约会，对象是一位口碑很好、看起来也很友善的年轻男子。\n\n她再也没有回来。\n\n究竟出了什么差错？她去了哪里？人们还能再次见到她吗？",
+  "vndb_url": "https://vndb.org/v4134"
+}

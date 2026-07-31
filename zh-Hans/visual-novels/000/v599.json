@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v599",
+  "type": "visual_novel",
+  "name": "Forest",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"I am Alice. Do let me hear a story.\"\n\nHere and there - in the space between buildings, in back alleys, perhaps even in the underground - the Forest bleeds into our world. The Forest is a forbidden place where the rules of our world do not apply.\n\nOur heroes must struggle against the Forest, without so much as the hope of assistance or understanding from the outside world.\n\nThey do battle against the \"riddles\" the Forest imposes upon them with the aid of superhuman abilities known as \"gifts.\" \n\nAnd should they know defeat in their battle against the Forest, they will face that which they fear most - expulsion from Shinjuku.\n\n[Translated from [url=http://210.155.150.146/soft.phtml?id=40362&gc=gc]Getchu[/url]]",
+  "source_sha256": "a2a5e3484d5f5d2603e8d1ca29fb0a3862eafa015da8b1c741c19b3ee33b0c91",
+  "translation": "‘我是爱丽丝。请给我讲一个故事吧。’\n\n森林从各处渗入我们的世界——楼宇之间、后巷之中，或许甚至就在地下。森林是一处禁地，我们世界的法则在那里并不适用。\n\n我们的主人公必须与森林抗争，甚至无法奢望外界给予援助或理解。\n\n他们借助名为‘天赋’的超人能力，对抗森林强加于他们的‘谜题’。\n\n一旦在与森林的战斗中落败，他们就必须面对自己最恐惧的事情——被逐出新宿。\n\n[翻译自[url=http://210.155.150.146/soft.phtml?id=40362&gc=gc]Getchu[/url]]",
+  "vndb_url": "https://vndb.org/v599"
+}

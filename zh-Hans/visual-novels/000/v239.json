@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v239",
+  "type": "visual_novel",
+  "name": "A Happy Valentine",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The side story taking place after [url=/v39]40 days and 40 nights of Rain[/url]. It's a special day, and Kyrie is trying to celebrate this special day for Yuu.\n\n[From [url=http://visual-novels.net/vn/index.php?option=com_content&task=view&id=752&Itemid=52]V-N.net[/url]]",
+  "source_sha256": "8a88deb9df919f04af59406988672941410a76a61fdaf0592d0328dc060ffa61",
+  "translation": "发生在[url=/v39]《雨之四十日与四十夜》[/url]之后的外传故事。今天是个特别的日子，Kyrie正设法为Yuu庆祝。\n\n[摘自[url=http://visual-novels.net/vn/index.php?option=com_content&task=view&id=752&Itemid=52]V-N.net[/url]]",
+  "vndb_url": "https://vndb.org/v239"
+}

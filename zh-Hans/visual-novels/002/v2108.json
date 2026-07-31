@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2108",
+  "type": "visual_novel",
+  "name": "Wasurenagusa ~Forget-me-Not~",
+  "original_name": "忘レナ草～Forget-me-Not～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A story about a boy that is destined to die, a shinigami that is given the task of taking his soul and the people he is connected...",
+  "source_sha256": "a989dc76d071254523f55b03ed7a20b13e023779e44ee3ceb3ef474afa63551e",
+  "translation": "一个命中注定将要死去的少年、一名奉命取走他灵魂的死神，以及与他有所联系的人们之间的故事…",
+  "vndb_url": "https://vndb.org/v2108"
+}

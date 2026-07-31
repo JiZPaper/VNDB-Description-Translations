@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4668",
+  "type": "visual_novel",
+  "name": "Dispersio",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A story set in a futuristic cyber-punk world.",
+  "source_sha256": "80b287a501c9807fdad5f2d1d471743566506ad2dec8dddfd71ddfd8dfe3e8d1",
+  "translation": "一个发生在未来赛博朋克世界的故事。",
+  "vndb_url": "https://vndb.org/v4668"
+}

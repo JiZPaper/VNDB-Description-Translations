@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3210",
+  "type": "visual_novel",
+  "name": "Heartbeat",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short VN about your very first anime convention. Includes all the stuff you would expect of a con - lots of jumping, love and traps.",
+  "source_sha256": "1eb3fe578ffb78061a7fe23d80177e4d92c94a03ecb5c514f6b7cc858537012e",
+  "translation": "一部讲述你第一次参加动漫展经历的短篇视觉小说。里面有漫展中能想到的一切——大量跳跃、爱情，还有伪娘。",
+  "vndb_url": "https://vndb.org/v3210"
+}

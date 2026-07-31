@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4202",
+  "type": "visual_novel",
+  "name": "Nice Day",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short and simplistic kinetic novel. It tells the story of Davis Brooks, who meets a girl on the bus and falls in love with her.",
+  "source_sha256": "2306d82128782009f50e28a6323a9da51f5e96b36153a9436af18a2d6e9deea7",
+  "translation": "一部短小而简洁的动态小说，讲述戴维斯·布鲁克斯在公交车上邂逅一名女孩，并爱上她的故事。",
+  "vndb_url": "https://vndb.org/v4202"
+}

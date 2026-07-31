@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3433",
+  "type": "visual_novel",
+  "name": "Famicom Tantei Club: Kieta Koukeisha",
+  "original_name": "ファミコン探偵倶楽部 消えた後継者",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The story begins with a man named \"Amachi\" discovering the fallen protagonist on the ground near a cliff. The protagonist discovers that he has lost his memory, and after recuperating, he revisits the cliff and meets a young girl named Ayumi Tachibana. He learns from Ayumi that he is an assistant detective investigating the death of Kiku Ayashiro.\n\n[From [url=http://en.wikipedia.org/wiki/Famicom_Tantei_Club]Wikipedia[/url]]",
+  "source_sha256": "d088cdd25f14e71a27688d3542725c7fd0e2474afb98211331dfb530a6bdc0c1",
+  "translation": "故事从一名叫天地的男子在悬崖附近发现倒在地上的主人公开始。主人公发现自己失去了记忆。身体康复后，他再次前往悬崖，并遇见名叫橘步美的少女。从步美口中，他得知自己是一名侦探助手，正在调查绫城菊之死。\n\n[摘自[url=http://en.wikipedia.org/wiki/Famicom_Tantei_Club]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/v3433"
+}

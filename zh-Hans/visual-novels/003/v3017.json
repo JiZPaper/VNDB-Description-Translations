@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3017",
+  "type": "visual_novel",
+  "name": "Hoshi o Sagashite...",
+  "original_name": "星をさがして・・・",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hoshi o Sagashite is a sci-fi text-adventure game for the Sega Mark III. It begins when the main character takes a vacation to visit his girlfriend and buys her an egg as a present. The egg hatches into a creature called a \"Mio\". You must discover what a Mio is, how to care for it.\n\n[From: [url=http://projects.mattsmessyroom.com/searchingthestars/]Matt's Messy Room[/url]]",
+  "source_sha256": "c67caf05756089b0d32376018110280ba6151fc87b592932b9dde4dffdb73a77",
+  "translation": "《寻找星星…》是世嘉Mark III平台的一款科幻文字冒险游戏。故事开始时，主人公休假前去探望女友，并买下一颗蛋作为礼物。蛋里孵出一种名叫\"Mio\"的生物。你必须查明Mio究竟是什么，以及该如何照顾它。\n\n[摘自：[url=http://projects.mattsmessyroom.com/searchingthestars/]Matt's Messy Room[/url]]",
+  "vndb_url": "https://vndb.org/v3017"
+}

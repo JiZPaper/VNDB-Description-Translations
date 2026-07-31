@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3846",
+  "type": "visual_novel",
+  "name": "Milk Swim",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Haruhiko has failed his exams and will repeat the grade, but does not dare to tell his parents. As a thick fog covers the city, he knows there are only three days left before his parents will find out. \n\n[From [url=http://atpprojects.mygamesonline.org/visualnovels.htm]Official site[/url]]",
+  "source_sha256": "7e28e38f127b874057eca35701ccd88c00eca44456f6d268800ab1b987138bd4",
+  "translation": "春彦考试不及格，将要留级，却不敢告诉父母。当浓雾笼罩城市时，他知道距离父母发现真相只剩三天。\n\n[摘自[url=http://atpprojects.mygamesonline.org/visualnovels.htm]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v3846"
+}

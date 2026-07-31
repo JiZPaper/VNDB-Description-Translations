@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5455",
+  "type": "visual_novel",
+  "name": "Subete ga Uso ni Naru",
+  "original_name": "すべてがウソになる",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An April Fools' Day themed game.",
+  "source_sha256": "e3c0616a9efc082f5e4dbae9bc89f17c658ac3133f06fcc4d53c05dd7a696c55",
+  "translation": "一款以愚人节为主题的游戏。",
+  "vndb_url": "https://vndb.org/v5455"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5230",
+  "type": "visual_novel",
+  "name": "Shinkon Seikatsu",
+  "original_name": "新婚性活",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "As birth rates decline, the government plans to create apartments are fully funded with a condition that your family needs to help the government to increase birth rates. To ensure that happens, they have created a robot to guide them but, unfortunately, nobody noticed that its computer brain is defective...",
+  "source_sha256": "e518fe7daeccb3d511fcd98ba02fb358469f9329ce418dff271230b676252db7",
+  "translation": "随着出生率持续下降，政府计划建设由公共资金全额负担的公寓，入住条件是住户家庭必须协助政府提高生育率。为了确保计划落实，他们还制造了一个负责指导居民的机器人；遗憾的是，没人发现它的电子脑存在缺陷…",
+  "vndb_url": "https://vndb.org/v5230"
+}

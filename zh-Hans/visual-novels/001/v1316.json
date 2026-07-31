@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1316",
+  "type": "visual_novel",
+  "name": "Mahoutsukai to Goshujin-sama ~Wizard and the Master~",
+  "original_name": "魔法使いとご主人様　~ wizard and the master ~",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're the princess of a magical kingdom. Everything is based on magic, and everyone can use magic...except you!\nYou have been sent on a trip to the nation's foremost magical academy: now you have 25 weeks to choose a personal servant from among its students -- or else lose your status forever.",
+  "source_sha256": "63b2c42d31666e7d6e89696254f9223ed931f6aa9ace5b847ceb6bad2cbdacad",
+  "translation": "你是魔法王国的公主。这里的一切都以魔法为基础，每个人都会使用魔法……除了你！\n你被送往国内首屈一指的魔法学院。现在，你有25周时间从学生中选出一名专属随从——否则将永远失去自己的身份。",
+  "vndb_url": "https://vndb.org/v1316"
+}

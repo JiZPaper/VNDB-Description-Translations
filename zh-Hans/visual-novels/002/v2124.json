@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2124",
+  "type": "visual_novel",
+  "name": "Another Code: R Kioku no Tobira",
+  "original_name": "アナザーコード: R 記憶の扉",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Set two years after the events of the previous game, a now 16-year-old Ashley is invited by her father to visit the campground of Juliet Lake. As the story progresses, Ashley attempts to find the truth about her mother's death.\n\n[From [url=http://en.wikipedia.org/wiki/Another_Code_R]Wikipedia[/url]]",
+  "source_sha256": "6b0ff049cd5d003b58e030c2423e1834abd83dfcf38cb75e8de4e0b166e24f97",
+  "translation": "故事发生在前作事件结束两年后。现年16岁的艾希莉受父亲邀请，前往朱丽叶湖畔的露营地。随着故事推进，她开始追寻母亲死亡的真相。\n\n[摘自[url=http://en.wikipedia.org/wiki/Another_Code_R]维基百科[/url]]",
+  "vndb_url": "https://vndb.org/v2124"
+}

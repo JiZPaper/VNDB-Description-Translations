@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v799",
+  "type": "visual_novel",
+  "name": "Aoi Umi no Tristia",
+  "original_name": "蒼い海のトリスティア",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Tristia was a beautiful seaside town which slowly fell to ruin and dilapidation, following the invasion of the dragon ten years ago. The people of the town tried rebuilding the city in the hopes of attaining its former glory, but they failed. Hopeless, the people decided to send for Prospero Flanca, a legendary inventor who was well-known for revivifying many cities that were dying out. They received an answer from Prospero, but to their confusion, it was a girl who arrived to the port of the town. That girl was Nanoca, Prospero's granddaugther, and she is the one who was assigned to do the renovation project.\n\n[From [url=http://en.wikipedia.org/wiki/Tristia_of_the_Deep-Blue_Sea]Wikipedia[/url]]",
+  "source_sha256": "20a1e942601213cf3546f8927b10b8c8c12432f97795d6b8a040c4d6f2931b97",
+  "translation": "特里斯蒂亚曾是一座美丽的海滨城市，十年前遭巨龙入侵后逐渐衰败破落。镇民试图重建城市，让它恢复昔日荣光，却以失败告终。绝望之下，他们决定向传奇发明家普罗斯佩罗·弗兰卡求助。此人以让许多濒死城市重获生机而闻名。普罗斯佩罗作出回应，但令众人困惑的是，抵达港口的竟是一名少女。她名叫娜诺卡，是普罗斯佩罗的孙女，也是获派负责城市复兴计划的人。\n\n[摘自[url=http://en.wikipedia.org/wiki/Tristia_of_the_Deep-Blue_Sea]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/v799"
+}

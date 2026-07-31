@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1687",
+  "type": "visual_novel",
+  "name": "Blue Blaster",
+  "original_name": "ブルーブラスター",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Protagonist Mytyl is working as a mechanic for the United Earth Army. While making adjustments on a new prototype named Blue Blaster, enemies attack and he is involved in actual combat.\n\nMytyl somehow manages to pilot the ship but what waits for him afterwards is getting forcefully enrolled into the the 190th Special Force, which is only made of female members...\n\n[Translated from Getchu]",
+  "source_sha256": "42bf29c4c1e9dda323dabd5b3d9e259342bab1eaa39dc00ca90a878030f78087",
+  "translation": "主人公米蒂尔是联合地球军的机械师。为新型原型机“Blue Blaster”进行调试时，敌军突然来袭，他也被卷入了实战。\n\n米蒂尔设法驾驶机体渡过危机，等待他的却是被强行编入第190特殊部队——一支成员全为女性的部队…\n\n[翻译自Getchu]",
+  "vndb_url": "https://vndb.org/v1687"
+}

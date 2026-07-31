@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1111",
+  "type": "visual_novel",
+  "name": "Mamanyonyo",
+  "original_name": "ままにょにょ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Nanus, the prince of Mamatoto has created a machine that is able to summon heroes from other universes. With their help he intends to explore an infinitely deep cave.\n\nAn SRPG game featuring a large cast from various Alice Soft and Alice Blue games",
+  "source_sha256": "ea5dff76fdae5bee81a4d79550ae90f7020fd3a24941b29b1dfacf0666b22821",
+  "translation": "《Mamatoto》的王子纳努斯制造了一台机器，能够从其他宇宙召唤英雄。他打算借助这些英雄的力量，探索一座深不见底的洞窟。\n\n本作是一款策略角色扮演游戏，众多角色来自AliceSoft与Alice Blue旗下的不同作品。",
+  "vndb_url": "https://vndb.org/v1111"
+}

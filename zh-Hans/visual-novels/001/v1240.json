@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1240",
+  "type": "visual_novel",
+  "name": "True World ~Shinjitsu no Sekai~",
+  "original_name": "TrueWorld～真実のセカイ～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Based on a fictional visual novel in NHK ni Youkoso!.\n\nCame bundled with NHK ni Youkoso! manga, volume 6, limited edition.\n\n\n\n\nIn the manga, the main character, Tatsuhiro, develops a game. \nThe game that Tatsuhiro develops is this bundled mini-game.",
+  "source_sha256": "12a33fa5b5e6bbb9ec7b23f383b54daa52dba04066469e3eb33fe3933918de66",
+  "translation": "改编自《欢迎加入NHK！》中虚构的视觉小说。\n\n作为《欢迎加入NHK！》漫画第6卷限定版的附赠内容发行。\n\n\n\n\n漫画中，主人公达广开发了一款游戏。\n达广所开发的，正是这款随书附赠的迷你游戏。",
+  "vndb_url": "https://vndb.org/v1240"
+}

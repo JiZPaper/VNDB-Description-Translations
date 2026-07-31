@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4496",
+  "type": "visual_novel",
+  "name": "Angel Crisis",
+  "original_name": "エンジェルクライシス",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're part of an all female crew on a ship exploring some planet and the crew picks up a mysterious cargo crate from an underwater ruin.",
+  "source_sha256": "a0e006330350cc7eb2554b751e775f693362e908dc31df225300aa498bf6d6bc",
+  "translation": "你是探索某颗行星的全女性飞船船员之一。众人从水下遗迹中打捞出一只神秘货箱。",
+  "vndb_url": "https://vndb.org/v4496"
+}

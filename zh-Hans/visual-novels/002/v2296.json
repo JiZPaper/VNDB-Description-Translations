@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2296",
+  "type": "visual_novel",
+  "name": "Elf All Stars Datsui Jan 3",
+  "original_name": "エルフオールスターズ脱衣雀3",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You take the role of a Mahjong player arriving in an imaginary town populated by characters from various Elf titles. Traveling through the town, it is up to you to challenge and defeat them all. This game is a non-canon crossover made by Elf itself.",
+  "source_sha256": "f336c0c759c207d5c8e39e0e30bc4058f4378f6c57bf632cb4a9eb1e021afaa5",
+  "translation": "玩家扮演一名来到幻想城镇的麻将选手，城中居民均为Elf旗下不同作品的角色。玩家需要穿行城镇，向所有人发起挑战并逐一击败。本作是Elf亲自制作的非正史跨界作品。",
+  "vndb_url": "https://vndb.org/v2296"
+}

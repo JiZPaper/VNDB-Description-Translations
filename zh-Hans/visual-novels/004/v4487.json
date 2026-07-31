@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4487",
+  "type": "visual_novel",
+  "name": "Alice no Kiseki ni Hanataba o ~Welcome to the Happy World~",
+  "original_name": "アリスのキセキに花束を　～Welcome to the happy world～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel based on \"Alice in Wonderland\".",
+  "source_sha256": "b9d6b9fe71a370aa5d38a165701ad946611e9591c9f531ea5d2ddbdaf7fe1b9c",
+  "translation": "一部以《爱丽丝梦游仙境》为基础的视觉小说。",
+  "vndb_url": "https://vndb.org/v4487"
+}

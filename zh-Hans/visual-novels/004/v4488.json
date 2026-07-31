@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4488",
+  "type": "visual_novel",
+  "name": "Getsumen no Anubis",
+  "original_name": "月面のアヌビス",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist (default name Keisuke) and heroine (default name Kaori) are astronauts living in a laboratory set on the moon. A group of American soldiers are also stationed there. Mysterious incidents begin to occur that threaten the lives of everyone there - there are multiple scenarios, but only one is explicitly horror-themed. Said scenario involves a race of mysterious space parasites that can take possession of anyone, leading the protagonist (and thus the player) to grow distrustful of the other characters.\n\n[From [url=http://endaso.blogspot.ru/2011/10/super-famicom-horror-sound-novels.html]endaso[/url]]",
+  "source_sha256": "72092faf9b4049980f5fbdd18541c2091d6008051a3cc96efded54d1646c026d",
+  "translation": "主人公（默认名圭介）与女主角（默认名香织）是生活在月球实验室中的宇航员，那里还驻扎着一队美国士兵。威胁所有人生命的神秘事件开始发生。游戏包含多个剧本，但只有一个明确以恐怖为主题；该剧本讲述一种能够附身于任何人的神秘太空寄生虫，令主人公——以及玩家——逐渐不再信任其他角色。\n\n[摘自[url=http://endaso.blogspot.ru/2011/10/super-famicom-horror-sound-novels.html]endaso[/url]]",
+  "vndb_url": "https://vndb.org/v4488"
+}

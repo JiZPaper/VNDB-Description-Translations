@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v596",
+  "type": "visual_novel",
+  "name": "Souten no Celenaria Fan Disc",
+  "original_name": "蒼天のセレナリア ファンディスク",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Souten No Serenaria Fan Disc includes new stories for the old characters as well as a new character with her own story; Genius novelist Mary.",
+  "source_sha256": "9bb34f44ac2d781461d1ecd83848fb98c0df6e68add02b3a3f6c76616879e231",
+  "translation": "《苍天的塞雷纳利亚Fan Disc》既收录了原有角色的新故事，也加入了拥有个人故事的新角色——天才小说家玛丽。",
+  "vndb_url": "https://vndb.org/v596"
+}

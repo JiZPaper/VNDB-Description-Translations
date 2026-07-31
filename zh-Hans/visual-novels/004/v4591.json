@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4591",
+  "type": "visual_novel",
+  "name": "Kabu Trader Shun",
+  "original_name": "株トレーダー瞬",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game is about a young stock trader named Shun Aiba. Shun's father was a trader who went bankrupt and disappeared when he was 13. Five years later, you are summoned by your father's former trading partner, Toru Narasaki, who wishes to teach you the tricks of the trade. Shun is joined by Hanako Kirikagura, the daughter of a family of entrepreneurs and Toru's pupil.\n\nThe gameplay is split into two parts: adventure and trading. Adventure mode is apparently much like Capcom's Ace Attorney series, where Shun travels around town furthering the story. Trading mode consists of Shun battling against rival traders, earning a set amount of money, or trading with an AI partner. Shun can purchase or gain Trading Arts to increase his skills in this mode.\n\nfrom wikipedia",
+  "source_sha256": "76d5b9a929b1e41f7ba049292baa16d68b1c9b5a2e3e437cfcc9becff34c76f7",
+  "translation": "游戏主人公是年轻股票交易员相庭瞬。瞬的父亲也是交易员，却在瞬13岁时破产失踪。五年后，父亲过去的交易伙伴成崎彻召见了你，表示愿意传授交易诀窍。与瞬同行的还有企业家之女、同为彻的学生的桐神乐花子。\n\n玩法分为冒险和交易两部分。冒险模式显然与Capcom的《逆转裁判》系列相似，瞬在城镇各处行动并推动故事发展。交易模式中，瞬需要与竞争交易员交锋、赚取指定金额，或与AI搭档共同交易。他还可以购买或获得“交易技巧”，提高自己在该模式中的能力。\n\n摘自Wikipedia",
+  "vndb_url": "https://vndb.org/v4591"
+}

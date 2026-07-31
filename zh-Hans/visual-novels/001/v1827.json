@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1827",
+  "type": "visual_novel",
+  "name": "Ningen Gari",
+  "original_name": "人間狩り",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Five girls are trapped on a small island with four hunters.\nThe hunters will have to search for the girls and stop the other hunters from getting to them first by laying traps or fighting them directly.",
+  "source_sha256": "f231b19ffebf8cfb8b1e4585c5d5091cc788a45aab5d9390f7fb754c482e2408",
+  "translation": "五名少女与四名猎人被困在一座小岛上。\n猎人必须寻找少女，同时通过设置陷阱或直接交战，阻止其他猎人抢先抓住她们。",
+  "vndb_url": "https://vndb.org/v1827"
+}

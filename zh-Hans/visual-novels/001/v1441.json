@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1441",
+  "type": "visual_novel",
+  "name": "EVE",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "It is the night of Christmas Eve. Edmund is sitting alone on a bench, waiting for the one he made a promise with.",
+  "source_sha256": "32e65978dd1fbd86f8b08628c7cb44dbaca8cd7f7d0d0487eb90640315a9313d",
+  "translation": "这是平安夜。埃德蒙独自坐在长椅上，等待与自己立下约定的人。",
+  "vndb_url": "https://vndb.org/v1441"
+}

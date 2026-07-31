@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5893",
+  "type": "visual_novel",
+  "name": "Yotsuba no Clover ~Akane Sasu Tsukiyo ni Yakata Terasarete~",
+  "original_name": "四つ葉のクローバー～茜指す月夜に館照らされて～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist, Kinoshita Kouichi, works for an insurance company and is sent to investigate the death of a famous painter. He goes to the painter's house and meets his four beautiful daughters. Can he solve the mystery without being killed himself?",
+  "source_sha256": "c21d69df1b3f1c6a608b7f890e648e941387a749ff64780bfaea07619d26df86",
+  "translation": "主人公木下浩一在一家保险公司工作，受命调查一位著名画家的死亡。他来到画家家中，见到了对方四位美丽的女儿。他能否在自己不被杀害的情况下解开谜团？",
+  "vndb_url": "https://vndb.org/v5893"
+}

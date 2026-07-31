@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5819",
+  "type": "visual_novel",
+  "name": "Sukitte Itte!",
+  "original_name": "好きっていってっ！",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short visual novel about a princess and a maid.",
+  "source_sha256": "d5756b4f3af05efae4d1297389eaf792bdf0f4dab15d4939eb3e903eeb42a7f2",
+  "translation": "一部讲述公主与女仆故事的短篇视觉小说。",
+  "vndb_url": "https://vndb.org/v5819"
+}

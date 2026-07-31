@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2097",
+  "type": "visual_novel",
+  "name": "Mahou Sensei Negima! 1-Jikanme ~Okochama Sensei wa Mahou Tsukai!~",
+  "original_name": "魔法先生ネギま！ 1時間目 お子ちゃま先生は魔法使い！",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The first PS2 game based on the manga of the same name. Very loosely corresponds to the events of the first three volumes of the manga.",
+  "source_sha256": "42f0fdfc8898e70c02b8c0fae4fe05c493a3b2c8f476f41fed41b1f9611af0a1",
+  "translation": "第一款改编自同名漫画《魔法老师》的PS2游戏，内容大致对应漫画最初三卷发生的事件。",
+  "vndb_url": "https://vndb.org/v2097"
+}

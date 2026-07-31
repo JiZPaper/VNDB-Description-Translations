@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5837",
+  "type": "visual_novel",
+  "name": "Kaeru Batake DE Tsukamaete: Natsu Chigira Sansen!",
+  "original_name": "カエル畑DEつかまえて・夏 千木良参戦!",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This fandisc takes places in summer. It includes after stories for each of the guys and \"another stories\" set in an alternative dimension.",
+  "source_sha256": "363af5373c33afb413336c92121aa31fc878a200aa84932b1822eb67d7d42c62",
+  "translation": "这部Fan Disk的故事发生在夏天，收录了各位男主角的后日谈，以及以平行维度为舞台的“Another Story”。",
+  "vndb_url": "https://vndb.org/v5837"
+}

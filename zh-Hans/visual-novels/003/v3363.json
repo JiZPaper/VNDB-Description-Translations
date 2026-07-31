@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3363",
+  "type": "visual_novel",
+  "name": "Sango",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as a guy who wakes up to find himself lost in an creeped out forest. With Sango you must figure out how you got there and why. Really, the game's better then how I word it.\n\n[From official site]",
+  "source_sha256": "985c02e28e143a4139db5c12ec60af4fe176bc814b82c2d0444fc51cbf94b74b",
+  "translation": "玩家扮演一名醒来后发现自己迷失在阴森森林中的男子。你必须与Sango一同弄清自己为何来到这里，又是如何抵达的。说真的，游戏本身比我这段描述精彩多了。\n\n[摘自官方网站]",
+  "vndb_url": "https://vndb.org/v3363"
+}

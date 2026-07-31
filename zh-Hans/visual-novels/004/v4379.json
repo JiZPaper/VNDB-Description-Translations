@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4379",
+  "type": "visual_novel",
+  "name": "1st Teen Story: Lollipop Love",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You will be playing as a 16 years old Vietnamese girl who never had a boyfriend. But this year...she'll have 3 choices...",
+  "source_sha256": "ffc142e033841382edcf2d3d6a7b6b950351625e3932890745f069d6efe3d6b8",
+  "translation": "玩家将扮演一名从未交过男朋友的16岁越南女孩。但今年…她将面对3个选择…",
+  "vndb_url": "https://vndb.org/v4379"
+}

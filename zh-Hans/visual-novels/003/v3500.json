@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3500",
+  "type": "visual_novel",
+  "name": "Shakkin Shimai 2 Afterstory",
+  "original_name": "借金姉妹2 AfterStory",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Contains the afterstories of all the routes of Shakkin Shimai 2.",
+  "source_sha256": "442bf75bdb07d222f104615245cc0f5acc2fc1be9b452b4d161251363552af3b",
+  "translation": "收录《借金姐妹2》全部路线的后日谈。",
+  "vndb_url": "https://vndb.org/v3500"
+}

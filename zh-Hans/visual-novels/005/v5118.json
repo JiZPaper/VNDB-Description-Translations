@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5118",
+  "type": "visual_novel",
+  "name": "Pia Carrot 4 FD - Pia♥Carrot e Youkoso!! 4 Fandisc",
+  "original_name": "ぴあきゃろ４ＦＤ　Pia♥キャロットへようこそ!!4ファンディスク",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This Pia Carrot 4 fandisc focuses on additional stories for Akemi, Sora and Haruna.",
+  "source_sha256": "eed5f59a3702ba903742db53b9d6c94472cc6aef62f6eb623e6a2666739d3e59",
+  "translation": "这张《Pia Carrot 4》Fan Disc主要收录明美、空与春菜的追加故事。",
+  "vndb_url": "https://vndb.org/v5118"
+}

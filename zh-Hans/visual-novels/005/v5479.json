@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5479",
+  "type": "visual_novel",
+  "name": "private canvas",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Read a different story, based on which of the two \"canvases\" you choose at the beginning.",
+  "source_sha256": "2e0fb89cce3ff37f5db548e4d7115f260162b59c67e7bb2a251b56980d3011e5",
+  "translation": "根据开篇选择的两幅“画布”之一，阅读不同的故事。",
+  "vndb_url": "https://vndb.org/v5479"
+}

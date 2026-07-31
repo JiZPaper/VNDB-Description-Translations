@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5715",
+  "type": "visual_novel",
+  "name": "Mikan",
+  "original_name": "蜜柑",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In a mysterious bookstore, Mikan, a novelist is reunited with his incomplete novel.\nSpinning this story once again, he becomes the protagonist when reality, fiction, and his past begin to merge.",
+  "source_sha256": "7a8fd3cb9187689c31e4939e07e801ad693ae04d9eaa449923a9959e6b94dc7b",
+  "translation": "小说家蜜柑在一家神秘书店中与自己未完成的小说重逢。\n他再次编织这个故事，自己也成为故事主人公，现实、虚构与过去开始逐渐交汇。",
+  "vndb_url": "https://vndb.org/v5715"
+}

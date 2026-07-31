@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1592",
+  "type": "visual_novel",
+  "name": "Erica",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Snow falls every day in this city this season. This is a story of a girl's love that blooms in one of these days.\n\n[From [url=https://vndbreview.blogspot.com/2020/04/vn-of-month-december-2006-kimi-no-koe.html]vndbreview[/url]]",
+  "source_sha256": "31ee97440f62c516eb60f311d7906b3e890db08c10fbc0b44f87e7b9dbb46357",
+  "translation": "这个季节，城市里每天都会下雪。故事讲述一名少女的爱情，在某个飘雪的日子悄然绽放。\n\n[摘自[url=https://vndbreview.blogspot.com/2020/04/vn-of-month-december-2006-kimi-no-koe.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v1592"
+}

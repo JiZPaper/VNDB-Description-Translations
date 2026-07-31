@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3854",
+  "type": "visual_novel",
+  "name": "Mahou Shoujo Pretty Sammy ~Heart no Kimochi~",
+  "original_name": "魔法少女プリティサミー　～ハートのきもち～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Contains two stories: \"Nazo no Shinheiki!? ~Codename wa Kirakira Rakuda~\" and \"Moero! Honou no Choco ~Valentine made ato 3 hi~\"",
+  "source_sha256": "494d634941809e7d873a69e908896bdf7075920fe0daca39ae78ef0d0ebcfd08",
+  "translation": "收录两篇故事：《神秘的新武器！？～代号是闪闪发光的骆驼～》与《燃烧吧！火焰巧克力～距离情人节还有3天～》。",
+  "vndb_url": "https://vndb.org/v3854"
+}

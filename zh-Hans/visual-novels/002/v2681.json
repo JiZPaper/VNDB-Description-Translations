@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2681",
+  "type": "visual_novel",
+  "name": "Broken Sky",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You lived your whole life around this place and you really like it. But now you have to leave. It's time to say goodbye...\n\n[From: [url=http://lunaen.com/]denzil's homepage[/url]]",
+  "source_sha256": "f8ec654e18bc971c42a9b2b14d7a34fe3bfb36a44429aa12b3948ce3ff6ad5ad",
+  "translation": "你一生都在这个地方生活，也非常喜欢这里。可如今，你不得不离开。是时候道别了…\n\n[摘自[url=http://lunaen.com/]denzil的主页[/url]]",
+  "vndb_url": "https://vndb.org/v2681"
+}

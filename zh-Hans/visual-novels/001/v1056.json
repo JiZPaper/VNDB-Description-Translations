@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1056",
+  "type": "visual_novel",
+  "name": "MYTH",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A world of light. A world where no person has a shadow. In this world was a boy. Because he lived in this world, he too had no shadow. Then, one day, the boy met a girl, a girl who did have a shadow. The girl invited him to come with her to a world of shadows.",
+  "source_sha256": "d7d1987e65d1bb307a17e6b054dfe5733c502356da9a19c91a1ce32347401f51",
+  "translation": "光明的世界。一个所有人都没有影子的世界。那里生活着一名少年。因为生于这个世界，他也同样没有影子。直到某天，少年遇见一名少女——一个拥有影子的少女。她邀请他与自己一同前往影子的世界。",
+  "vndb_url": "https://vndb.org/v1056"
+}

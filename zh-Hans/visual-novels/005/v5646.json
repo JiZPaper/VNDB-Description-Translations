@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5646",
+  "type": "visual_novel",
+  "name": "Touhou Kuru Ningyou 2 Alice to Issho -Alice to Eternal-",
+  "original_name": "東方繰人形2 アリスといっしょ -Alice to Eternal-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as an university student. One day you stumbled upon a sleeping girl in the woods. The two of you get acquainted and made a promise to meet again.\n\n[summary from [url=http://touhou.wikia.com/wiki/Alice_to_Eternal]Touhou Wiki[/url]]",
+  "source_sha256": "bd82662e5a0af71e3c9bac3c10e2af43b3d1e0f478d6047db1b2f201d5ac24d3",
+  "translation": "玩家扮演一名大学生。某天，你在树林里偶然发现一名沉睡的少女。二人相识，并约定再次见面。\n\n[简介摘自[url=http://touhou.wikia.com/wiki/Alice_to_Eternal]Touhou Wiki[/url]]",
+  "vndb_url": "https://vndb.org/v5646"
+}

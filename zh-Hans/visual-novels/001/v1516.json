@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1516",
+  "type": "visual_novel",
+  "name": "pXt",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short concept piece based around using only freely available resources. Tells the love story of Pyramus and Thisbe, which is a part of [url=http://en.wikipedia.org/wiki/Pyramus_and_Thisbe]Roman mythology[/url].",
+  "source_sha256": "6e5b116cadbc80c12a488da7fd578c12f62f96af57fa98274b032fcd3abc81ae",
+  "translation": "一部仅使用免费素材制作的短篇概念作品。讲述了[url=http://en.wikipedia.org/wiki/Pyramus_and_Thisbe]罗马神话[/url]中皮拉摩斯与提斯柏的爱情故事。",
+  "vndb_url": "https://vndb.org/v1516"
+}

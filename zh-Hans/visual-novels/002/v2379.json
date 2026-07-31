@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2379",
+  "type": "visual_novel",
+  "name": "flutter of birds ~Tori-tachi no Habataki~",
+  "original_name": "flutter of birds～鳥達の羽ばたき～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Matsui Yuusaku, a medical college student, receives a letter from his uncle, once a famous doctor in Tokyo who now manages a hospital in a small village, with an invitation to visit him and assist with the hospital work diring summer vacation. Yuusaku hopes that this work will help him to understand why he has chosen to be a doctor, so he decides to accept this offer.\n\nOne more thing spurs this decision, as he is looking forward to the upcoming reunion with his cousin, Ibuki, whom he has not seen for many years.",
+  "source_sha256": "dc953fb7e8cfb03e34111fe47722c2686737cbc0bca7986b727c3afb6ec8c2a8",
+  "translation": "医学院学生松井优作收到叔叔的来信。叔叔过去是东京的一名知名医生，如今在小村庄经营医院，邀请他暑假期间前去探望，并协助医院工作。优作希望这份工作能让自己明白当初为何选择成为医生，于是决定接受邀请。\n\n还有一件事促使他作出决定：他期待与多年未见的表妹伊吹重逢。",
+  "vndb_url": "https://vndb.org/v2379"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1394",
+  "type": "visual_novel",
+  "name": "Mahou Shoujo Kirara to Sarara",
+  "original_name": "魔法少女きららとさらら",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Two twins wield the power of the gods to protect what they love from the gods themselves.",
+  "source_sha256": "1ab0345d718fd992044312b7f2ff342cf3bc64feb889551756c14e256b8da3c9",
+  "translation": "一对双胞胎运用众神之力，从众神手中保护自己所爱的一切。",
+  "vndb_url": "https://vndb.org/v1394"
+}

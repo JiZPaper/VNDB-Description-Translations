@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4114",
+  "type": "visual_novel",
+  "name": "Raspberry ~Welcome to \"Cafe Moon Rabbits\"!~",
+  "original_name": "らずべりー ～Welcome to ”Cafe Moon Rabbits”!～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Cafe Moon Rabbits was built right in between two schools, Tsukioka Academy and the Hyuga Girl’s school, and has pretty much become the cafeteria for the both of them. There has always been a rivalry between the two campuses, and you play as a new student of Tsukioka who is becoming a sort of mediator between the two of them as he works at Moon Rabbits.\n\n(edited from a description by White Masq)",
+  "source_sha256": "55fc5ad4b8d0bb14e2d53e7770b8bdc3c380697c51df75ff2f0558e0c4c817f5",
+  "translation": "‘月兔咖啡厅’正好建在月丘学园与日向女子学校之间，几乎成了两校共同的食堂。两个校园一直存在竞争关系；玩家扮演月丘学园的一名新生，在月兔咖啡厅工作的同时，逐渐成为两校之间的调解者。\n\n（编辑自White Masq撰写的简介）",
+  "vndb_url": "https://vndb.org/v4114"
+}

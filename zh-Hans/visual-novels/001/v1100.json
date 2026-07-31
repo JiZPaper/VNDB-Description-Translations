@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1100",
+  "type": "visual_novel",
+  "name": "Choo☆Kanojo ~Ano Ko wa Tsuri Goro, Tsurare Goro~",
+  "original_name": "釣☆カノジョ～あの娘は釣り頃、釣られ頃～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Born and raised in the city, Taichi isn't really that much of a city person at heart. Growing weary of his work, he decides to have a week vacation and take the opportunity to go traveling and indulge in river fishing.",
+  "source_sha256": "102c26d691d9f7c99984b33be5f92a0b811b7602361d80dc5362b2d9830b888c",
+  "translation": "太一在城市出生长大，内心却并不真正属于都市。日渐厌倦工作后，他决定休假一周，趁机外出旅行并享受溪流垂钓。",
+  "vndb_url": "https://vndb.org/v1100"
+}

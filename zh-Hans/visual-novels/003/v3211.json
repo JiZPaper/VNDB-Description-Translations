@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3211",
+  "type": "visual_novel",
+  "name": "Sen Tmavomodrej Korytnačky",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A dreamy story about a dream world somewhere in the future... but what do these dreams carry with them?",
+  "source_sha256": "fffaf0a46bb89a2f504d35aa3f33ea25809c897b981cd6ca924660846a729612",
+  "translation": "一个发生在未来某处梦境世界中的梦幻故事…但这些梦境究竟会带来什么？",
+  "vndb_url": "https://vndb.org/v3211"
+}

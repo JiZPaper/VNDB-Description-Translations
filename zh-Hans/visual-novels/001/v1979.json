@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1979",
+  "type": "visual_novel",
+  "name": "Last Escort ~Kokuchou Special Night~",
+  "original_name": "ラスト・エスコート 〜黒蝶スペシャルナイト〜",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Addition disc for Last Escort.\nAdds an extra capturable hero and new endings for the existing options.",
+  "source_sha256": "bd5bef0cf9973e288054c409bc3ae9ed3588d4409f2d27eb5b26076f15fd45be",
+  "translation": "《Last Escort～深夜的黑蝶物语～》的追加光盘。\n新增一名可攻略男主角，并为原有攻略对象加入了新结局。",
+  "vndb_url": "https://vndb.org/v1979"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v910",
+  "type": "visual_novel",
+  "name": "Dal-eui Jajangga",
+  "original_name": "달의 자장가",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "On a certain night, Chae Kwang-Woo was observing the stars just like any other night. On that night, he had a chance encounter with a girl. His first meeting with this lonely yet beautiful girl was the beginning of sad memories.",
+  "source_sha256": "097b1f0b10439a6280f699068728d0a5a133fde8056872899d9e0b4a70db7a83",
+  "translation": "某个夜晚，蔡光宇像往常一样仰望星空。就在那一夜，他偶然遇见了一名少女。与这位孤独而美丽的少女初次相遇，成为一段悲伤回忆的开端。",
+  "vndb_url": "https://vndb.org/v910"
+}

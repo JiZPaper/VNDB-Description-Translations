@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v533",
+  "type": "visual_novel",
+  "name": "Miko-san Fighter! Ryouko-chan",
+  "original_name": "巫女さんファイター！涼子ちゃん",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Ryouko is a shrine maiden who works at a mountain shrine. Apparently there was some bamboozling, because the spirits of the mountain have become restless. Now she must gather the four God Gems to be able to set things right. \n\nThe gameplay involves some classic side-scrolling action while you toss your adorable red panda mascot at enemies and have him return back to you like some kind of twisted boomerang.\n\n[From White Masq]",
+  "source_sha256": "09e09295a871cad8838f1bd6eef7d8bfdae4184fa47a2929da63cb4988048b6c",
+  "translation": "凉子是在山中神社工作的巫女。山里似乎发生了某种欺骗事件，导致山中灵体变得躁动不安。她必须集齐四颗神玉，才能恢复正常。\n\n游戏采用经典横向卷轴动作玩法。你可以把可爱的红熊猫吉祥物扔向敌人，它还会像某种古怪的回旋镖一样飞回手中。\n\n[摘自White Masq]",
+  "vndb_url": "https://vndb.org/v533"
+}

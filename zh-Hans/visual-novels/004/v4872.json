@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4872",
+  "type": "visual_novel",
+  "name": "Arishi Hi no Uta",
+  "original_name": "在りし日の歌",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Tomoru Hibino lives a placid life in a placid town, and even the sudden appearance of a mysterious, self-named 'sister' in his own house doesn't change overmuch the quiet emptiness that his life has become.\nBut maybe there is still hope...",
+  "source_sha256": "0d8193a7e4c45eb462a23b2d1e8254167aec0eddc80a2d83bfae204f71745af3",
+  "translation": "日比野Tomoru在平静小镇过着平淡生活。即便一名自称是他“妹妹”的神秘女子突然出现在家中，也没有从根本上改变他已经变得安静空虚的人生。\n但或许，希望依然存在…",
+  "vndb_url": "https://vndb.org/v4872"
+}

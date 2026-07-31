@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4433",
+  "type": "visual_novel",
+  "name": "Taisen Ren'ai Simulation: Trifers Mahou Gakuen",
+  "original_name": "対戦恋愛シミュレーション トリフェルズ魔法学園",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game is a cartoon dating simulation in which the player have to compete againts other characters to win the affection of their friends. Depending of the conversation choices or if he wins the mini games the love meter will increase or decrease with each character. \n\nThe game is divided into different stages, for example the first stage takes place in a snow place where they are located in a hotel and they can make snowmans, skiing, take walks, etc. The second stage takes place in a tropical place, they can go around the beach, go to the sea, etc. \n\n[From [url=https://psxdatacenter.com/games/J/T/SLPS-03304.html]psxdatacenter[/url]]",
+  "source_sha256": "762d40c36104882cb96bf1daa9e0a9d893564ba8911461061ca137ac0ec153de",
+  "translation": "本作是一款卡通风格恋爱模拟游戏，玩家必须与其他角色竞争，赢得朋友的爱意。根据对话选择和迷你游戏胜负，各角色的好感度会相应上升或下降。\n\n游戏划分为不同阶段。例如第一阶段发生在雪地，众人住在酒店，可以堆雪人、滑雪、散步等；第二阶段则来到热带地区，可以游览海滩、下海玩耍等。\n\n[摘自[url=https://psxdatacenter.com/games/J/T/SLPS-03304.html]psxdatacenter[/url]]",
+  "vndb_url": "https://vndb.org/v4433"
+}

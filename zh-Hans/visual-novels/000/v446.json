@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v446",
+  "type": "visual_novel",
+  "name": "Aruruu to Asobo!!",
+  "original_name": "アルルゥとあそぼ！！",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A fan disc of sorts for various Leaf games.\n\nIncludes:\n\n- Witsarunemitea Senki: Action game featuring characters from Utawarerumono\n- Leapon: [url=https://en.wikipedia.org/wiki/Ponjan]Ponjan[/url] game where you can choose from six opponents: [url=/c412]Eruruu[/url], [url=/c413]Aruruu[/url], [url=/c8636]Takase Mizuki[/url], [url=/c8644]Mikage Subaru[/url], [url=/c3276]Kurihara Touko[/url], and [url=/c59896]Kida Emiri[/url]\n- Guendina no Majo: Real-time strategy game that takes place after Natsumi's route in Magical Antique\n- Routes Extra Mission: Two short scenarios that take place after the main story of Routes\n- Leaf no Tou (Leaf Battle Characters): 50 stage RPG with real-time elements, with playable characters from Magical Antique, Tasogare, Utawarerumono, and Routes\n- And other omake material",
+  "source_sha256": "d89b99dc834bc98eef69539c7781940b33b831583d4030a45a7e853ea6cd67d9",
+  "translation": "Leaf多部游戏的粉丝向附加光盘。\n\n收录内容包括：\n\n-《维茨阿鲁涅米特亚战记》：由《传颂之物》角色登场的动作游戏\n-《Leapon》：一款[url=https://en.wikipedia.org/wiki/Ponjan]碰将[/url]游戏，可从六名对手中选择：[url=/c412]艾露露[/url]、[url=/c413]阿露露[/url]、[url=/c8636]高濑瑞希[/url]、[url=/c8644]御影昴[/url]、[url=/c3276]栗原透子[/url]和[url=/c59896]木田惠美梨[/url]\n-《Guendina no Majo》：发生在《魔法古董》夏美路线之后的即时战略游戏\n-《Routes Extra Mission》：发生在《Routes》本篇之后的两个短篇剧本\n-《Leaf之塔（Leaf Battle Characters）》：包含即时要素的50层角色扮演游戏，可操作《魔法古董》《黄昏》《传颂之物》和《Routes》中的角色\n-以及其他附赠内容",
+  "vndb_url": "https://vndb.org/v446"
+}

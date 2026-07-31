@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5303",
+  "type": "visual_novel",
+  "name": "Sora no Otoshimono -DokiDoki Summer Vacation-",
+  "original_name": "そらのおとしもの -ドキドキサマーバケーション-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "One summer day, the memory network of Ikaros is suddenly initialized.... Tomoki and his friends try to give her shocks through various experiences. Will her memories and emotions successfully come back...?\n\n[From Himeya Shop]",
+  "source_sha256": "b310e63c1deb027c4df2263e5c7dbf34e09c4895458928d766e7e699c823026b",
+  "translation": "某个夏日，伊卡洛斯的记忆网络突然被初始化…智树和朋友们尝试让她经历各种事情，以此给予刺激。她的记忆与情感能否顺利恢复…？\n\n[From Himeya Shop]",
+  "vndb_url": "https://vndb.org/v5303"
+}

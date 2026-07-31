@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v229",
+  "type": "visual_novel",
+  "name": "Kawaisou na Kotori",
+  "original_name": "かわいそうな小鳥",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A little songbird goes on a journey in search of his friend who abandoned him ...\n\n[From [url=http://www.insani.org/kotori.html]insani[/url]]",
+  "source_sha256": "73d84c3b162f1751d969aae2ae6a8d69895ed4cae8085165955475c90e5cfaa9",
+  "translation": "一只小小的鸣禽踏上旅途，寻找那位抛弃了自己的朋友……\n\n[摘自[url=http://www.insani.org/kotori.html]insani[/url]]",
+  "vndb_url": "https://vndb.org/v229"
+}

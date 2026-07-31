@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4109",
+  "type": "visual_novel",
+  "name": "Sound Novel Tsukuru 2",
+  "original_name": "サウンドノベルツクール２",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The sequel to Sound Novel Tsukuru for the Super Famicom. The engine for making interactive fiction is identical to its prequel but is more complex. More choices and opportunities for interaction are possible along with superior graphics and sound quality.\n\n[[url=http://en.wikipedia.org/wiki/Sound_Novel_Tsukuru_2]Wikipedia[/url]]\n\nThe engine also features a set of premade stories.",
+  "source_sha256": "22a7fea255ea040526ab3a4ad353b250260c70a9c5cd29b4bdc41b426d34f5f3",
+  "translation": "本作是超级任天堂平台《音响小说制作大师》的续作。制作互动小说的引擎与前作基本相同，但功能更加复杂；玩家可以设置更多选项与互动机会，画面和音质也更为出色。\n\n[[url=http://en.wikipedia.org/wiki/Sound_Novel_Tsukuru_2]Wikipedia[/url]]\n\n引擎中还收录了一组预制故事。",
+  "vndb_url": "https://vndb.org/v4109"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5767",
+  "type": "visual_novel",
+  "name": "Sweet Happiness",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist is a lingerie salesman. Six months after graduating from college, he is finally getting used to his work. Can he find a good woman to marry?",
+  "source_sha256": "dc2bbc534ceb0d20032848987f0fc10e6e2b00a69a179f9d12946e3372181999",
+  "translation": "主人公是一名内衣推销员。大学毕业半年后，他终于逐渐习惯了这份工作。他能找到一位适合结婚的好女人吗？",
+  "vndb_url": "https://vndb.org/v5767"
+}

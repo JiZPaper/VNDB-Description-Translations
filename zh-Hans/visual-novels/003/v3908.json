@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3908",
+  "type": "visual_novel",
+  "name": "Cell Phone Love Letter",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Two stories of two separate, young girls: Hazuki, an artist struggling to find recognition or purpose, and Yamazaki, a hacker who inadvertantly falls in love with a girl. Their stories are seperate, but they are both connected by a single theme: long distance relationships, love via e-mail.",
+  "source_sha256": "c8d304ccdb6971dfefb6a2324afc34aa8054aef56a696564b0d54e4f291fab26",
+  "translation": "两个互不相识的年轻女孩，各自拥有一段故事：叶月是一名苦苦寻求认可与人生目标的艺术家；山崎则是一名意外爱上女孩的黑客。她们的故事彼此独立，却由同一个主题联系在一起：远距离恋爱，以及通过电子邮件萌生的爱情。",
+  "vndb_url": "https://vndb.org/v3908"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3421",
+  "type": "visual_novel",
+  "name": "K-OFF! ON!!!",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A parody game using K-ON! characters and with a lot of anime references.",
+  "source_sha256": "d249f13091cba992b0b8f20e0f033002d15132edb4ed69087d63911950fb2c58",
+  "translation": "一款使用《轻音少女！》角色制作的恶搞游戏，包含大量动画作品梗。",
+  "vndb_url": "https://vndb.org/v3421"
+}

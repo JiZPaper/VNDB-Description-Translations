@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5628",
+  "type": "visual_novel",
+  "name": "Phantom Seeds",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The events of this mysterious and sad tale take place in the traditional Asian rural landscape, and start on the day that a curious looking child enters a small village...\n\n[[url=http://vnovel.info/]vNovel Interactive[/url]]",
+  "source_sha256": "ef4d6763bbb91e581f3a362c882c52d4ff77f8b40cd6f600dcd577e35e7bc4e9",
+  "translation": "这则神秘而悲伤的故事发生在传统亚洲乡村景观中，始于一个外表奇特的孩子走进小村庄的那一天……\n\n[[url=http://vnovel.info/]vNovel Interactive[/url]]",
+  "vndb_url": "https://vndb.org/v5628"
+}

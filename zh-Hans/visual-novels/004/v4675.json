@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4675",
+  "type": "visual_novel",
+  "name": "Mahou Tenshi Misaki 2",
+  "original_name": "魔法天使ミサキ2",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as Misaki a young girl who dreams of being a magical girl. Suddenly a monster appears in front of you. Use the magical jewel to become Magical Angel Misaki and fight against evil!",
+  "source_sha256": "0a719c5bf4d7143d91305ee31062949ac3891444b282b167c7336cfbf4ade66b",
+  "translation": "玩家扮演Misaki，一名梦想成为魔法少女的年轻女孩。某天，一只怪物突然出现在你面前。使用魔法宝石变身为魔法天使Misaki，与邪恶战斗吧！",
+  "vndb_url": "https://vndb.org/v4675"
+}

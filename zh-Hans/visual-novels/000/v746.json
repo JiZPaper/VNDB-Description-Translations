@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v746",
+  "type": "visual_novel",
+  "name": "Apathy - Gakkou de Atta Kowai Hanashi ~Visual Novel Version~",
+  "original_name": "アパシー学校であった怖い話～Visual Novel Version～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Sakagami Shuuichi, a member of the school newspaper, is asked to gather information about the school's seven mysteries. He meets with six other students after school to listen to their stories.\n\nThis game is a visual novel adaption of the two novels \"Gakkou de Atta Kowai Hanashi\" written by [url=https://vndb.org/s11627]Iijima Takeo[/url], published by Aspect inside the Logout Bouken Bunko label, and released around the same time as the Super Famicom game [url=/v745]Gakkou de Atta Kowai Hanashi[/url].\nAs such, it has the same characters but different stories.\nIt is Apathy Series's first work whose epicenter is Narugami Gakuen.\nBeing a doujin game not published by Nintendo, its plot is far more violent than the SFC game.\n\nThe original release features the novels' content with no branches, and an additional scenario called \"Emi-chan no Sakagami-kun Kansatsu Nikki\" (Emi-chan's Sakagami Observation Diary), which has height different endings. It is, so to speak, a prelude to the main story of [url=/v747]Apathy - Midnight Collection ~Vol. 1~[/url], \"Emi-chan no Satsujin Club Kansatsu Nikki\" (Emi-chan's Murder Club Observation Diary).\n\nWith the permission of [url=/p227]Banpresto[/url], the game used [url=/v745]Gakkou de Atta Kowai Hanashi[/url]'s OST, after rearranging it.\n\nDifferent versions were later released which added, replaced or removed content.",
+  "source_sha256": "761838f06bd417d9126b7afb3d8a749c0f110c6266e8c8959c3c61ae85209f69",
+  "translation": "学校新闻部成员坂上修一受托搜集学校七大不可思议的资料。放学后，他与另外六名学生见面，聆听他们讲述各自的故事。\n\n本作是[url=https://vndb.org/s11627]饭岛多纪哉[/url]创作的两部小说《学校发生过的恐怖故事》的视觉小说改编版。两书由Aspect以Logout冒险文库名义出版，发售时间与超级任天堂游戏[url=/v745]《学校发生过的恐怖故事》[/url]大致相同。因此，本作采用相同角色，却讲述不同故事。它也是Apathy系列第一部以鸣神学园为中心舞台的作品。由于是未由任天堂发行的同人游戏，情节远比SFC版暴力。\n\n初版收录没有分支的小说内容，以及追加剧本‘惠美的坂上君观察日记’，后者拥有八种不同结局。某种意义上，它是[url=/v747]《Apathy - Midnight Collection ~Vol. 1~》[/url]主篇‘惠美的杀人俱乐部观察日记’的序章。\n\n经[url=/p227]Banpresto[/url]许可，本作重新编曲后采用了[url=/v745]《学校发生过的恐怖故事》[/url]的原声音乐。\n\n后来发行的不同版本又增加、替换或删除了部分内容。",
+  "vndb_url": "https://vndb.org/v746"
+}

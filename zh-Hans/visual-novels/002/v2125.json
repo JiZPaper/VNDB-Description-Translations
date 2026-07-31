@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2125",
+  "type": "visual_novel",
+  "name": "Kaigen Seito",
+  "original_name": "戒厳聖都",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Sequel to a bonus minigame [b]Kaigen's Ambition[/b].\nGameplay is in NVL/RPG minigame format.",
+  "source_sha256": "92ed2ea936e11b8774a7fce6690794952c34e3d5ff28ca42901450ac712b88a3",
+  "translation": "奖励小游戏[b]《戒严之野望》[/b]的续作。\n游戏采用NVL与RPG小游戏相结合的形式。",
+  "vndb_url": "https://vndb.org/v2125"
+}

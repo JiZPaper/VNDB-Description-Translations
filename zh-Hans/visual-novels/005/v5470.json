@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5470",
+  "type": "visual_novel",
+  "name": "Chaos Gateway",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Daylight City is no longer safe. With the sudden appearance of crazed gangs and strange monsters a small group of civilians take refuge inside a military bunker, but are they safe...",
+  "source_sha256": "5024eae424efc0219d4a75a8ea2eaf39c1a3915e0b22403dd119825b85049345",
+  "translation": "日光城已不再安全。疯狂帮派和诡异怪物突然出现，一小群平民躲进军事掩体避难，可那里真的安全吗……",
+  "vndb_url": "https://vndb.org/v5470"
+}

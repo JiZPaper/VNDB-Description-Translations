@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4347",
+  "type": "visual_novel",
+  "name": "1999ChristmasEve",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist and his female partner are driving to the house they reserved for Christmas Eve when suddenly a creepy voice comes through the radio.\n\n[Translated and summarized from [url=https://ja.wikipedia.org/wiki/1999ChristmasEve]Japanese Wikipedia[/url]]",
+  "source_sha256": "b6d5ab64e3ea679903ffd8e61e539f681de66480557c9287addaa18bfd1a9b23",
+  "translation": "主人公与女性同伴正驾车前往两人为平安夜预订的房子，收音机里却突然传出一个令人毛骨悚然的声音。\n\n[翻译并概括自[url=https://ja.wikipedia.org/wiki/1999ChristmasEve]日文Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/v4347"
+}

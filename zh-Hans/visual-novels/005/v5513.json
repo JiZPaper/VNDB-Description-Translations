@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5513",
+  "type": "visual_novel",
+  "name": "Space☆Trouble",
+  "original_name": "すぺーす☆とらぶる",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "At a common high school, there is a strange club called \"Nerima Aikoukai\". Utena, a delicate man, is forced to join this club. However since he finds a meteorite on the road, he gets involved in a space war.\n\n[From Erogeshop]",
+  "source_sha256": "2ddd599691d0dcca892f9e4b51eaa2aac8898ad789a475a840b16087ad2ac01d",
+  "translation": "一所普通高中里有个名叫“练马爱好会”的奇怪社团。纤弱的男子卯天奈被迫加入其中。然而，自从在路上捡到一块陨石，他便卷入了一场宇宙战争。\n\n[摘自Erogeshop]",
+  "vndb_url": "https://vndb.org/v5513"
+}

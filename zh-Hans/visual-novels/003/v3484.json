@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3484",
+  "type": "visual_novel",
+  "name": "Shura no Fude ~Kyouki ga Ai ni Kawaru Toki~",
+  "original_name": "修羅の筆 ～狂気が愛に変わるとき～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A popular novelist discovers he can cure his writer's block by unleashing his sadistic side.",
+  "source_sha256": "91508026d291800fccd003f8b642b196f9509e52d2fba50b8bbe4023270f8582",
+  "translation": "一名人气小说家发现，释放自己的施虐一面能够治愈创作瓶颈。",
+  "vndb_url": "https://vndb.org/v3484"
+}

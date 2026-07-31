@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v283",
+  "type": "visual_novel",
+  "name": "Collage",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Three ordinary people are thrown together, and each retells events in his or her own voice in this unconventionally told, uniquely presented, and ultimately very human novella.\n\n[From [url=http://at2006.haeleth.net/game.php?id=6]AstCd2[/url]]",
+  "source_sha256": "8eb76ba0aa1d4b1611d9c0a97cf9ad1ad1f650f107f41716f3e0a771e7cf2d7b",
+  "translation": "三个平凡的人因缘际会地走到一起，各自以自己的声音重述发生过的事情。这部短篇小说叙事方式反常规，表现形式别具一格，最终讲述的却是一个无比真实的人性故事。\n\n[摘自[url=http://at2006.haeleth.net/game.php?id=6]AstCd2[/url]]",
+  "vndb_url": "https://vndb.org/v283"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3401",
+  "type": "visual_novel",
+  "name": "Sixty Nine2",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A collection of 69 mini-scenarios.\n\nYou are a player luckily picked to try out a brand new virtual reality system.",
+  "source_sha256": "1014c553ebef0ba56a4ca677c568da1fa3c628a0aa031d9c77676c0b227d47e5",
+  "translation": "由69个迷你剧本组成的合集。\n\n你是一名幸运获选的玩家，将参与全新虚拟现实系统的测试。",
+  "vndb_url": "https://vndb.org/v3401"
+}

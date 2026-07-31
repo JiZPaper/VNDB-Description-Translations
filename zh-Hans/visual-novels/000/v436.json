@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v436",
+  "type": "visual_novel",
+  "name": "Dra†Koi",
+  "original_name": "竜†恋",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A boy-meets-girl story in a world under attack by dragons.",
+  "source_sha256": "96ba5f7d42b6283e2eacb50c53e6bf72db1619f20a8ef406da12ac0374ee88bc",
+  "translation": "一个发生在龙族袭击世界中的男孩邂逅女孩的故事。",
+  "vndb_url": "https://vndb.org/v436"
+}

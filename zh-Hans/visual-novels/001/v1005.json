@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1005",
+  "type": "visual_novel",
+  "name": "RenAi Blogger",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Play as a young man named Chase who recently moved to New York to study Japanese language and culture. A short dating-sim/visual novel involving certain popular figures in the anime blogosphere and the task of getting a date to an anime con.",
+  "source_sha256": "df93ac24130b848945a805a2ab3d7ea7b97d0aad4872a93fb5dee1e6db7b3d3b",
+  "translation": "玩家将扮演名叫蔡斯的年轻男子。他最近搬到纽约，学习日本语言与文化。这是一部简短的恋爱模拟视觉小说，部分角色取材自动画博客圈的知名人物；玩家的任务是找到一名愿意陪自己参加动漫展的约会对象。",
+  "vndb_url": "https://vndb.org/v1005"
+}

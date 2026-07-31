@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5530",
+  "type": "visual_novel",
+  "name": "Frozen Essence",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In a world balanced by essence, you play as a girl unsealed from her ice crystal prison. Without a memory and with dark powers feared by many, how will she get by? Will she find love? With the guidance and protection from the oracle within her realm, her journey begins.\n\n[From [url=http://unbrokenhours.com/frozenessence.html]Official site[/url]]",
+  "source_sha256": "390b886f9ebbbca64c8819e3dd4558ffc0e5924ff45f8768e81cfd3180ff1218",
+  "translation": "在一个由精华维系平衡的世界里，玩家将扮演一名从冰晶牢笼中解除封印的少女。她失去记忆，又拥有众人恐惧的黑暗力量，该如何生存下去？她能找到爱情吗？在本界域神谕者的指引和保护下，她的旅程开始了。\n\n[摘自[url=http://unbrokenhours.com/frozenessence.html]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v5530"
+}

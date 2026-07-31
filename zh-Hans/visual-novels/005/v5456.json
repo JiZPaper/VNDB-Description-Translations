@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5456",
+  "type": "visual_novel",
+  "name": "Koyoi Santa wa Machikado de.",
+  "original_name": "今宵サンタは街角で。",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A Christmas-themed VN containing four episodes:\n\n1. \"Good night, Santa\"\n2. \"Santa's Promise\"\n3. \"Santa Call\"\n4. \"Santa Caught a Cold\"",
+  "source_sha256": "61bbe3df11d70d08ca15fc6fdd03303ec0c44da6bd8e60209fafe849aa255d77",
+  "translation": "一部以圣诞节为主题、包含四个章节的视觉小说：\n\n1.《晚安，圣诞老人》\n2.《圣诞老人的约定》\n3.《圣诞来电》\n4.《圣诞老人感冒了》",
+  "vndb_url": "https://vndb.org/v5456"
+}

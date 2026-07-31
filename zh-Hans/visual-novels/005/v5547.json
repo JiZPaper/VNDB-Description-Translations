@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5547",
+  "type": "visual_novel",
+  "name": "Yayoi☆Private Lesson",
+  "original_name": "弥生☆プライベートレッスン",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A very limited release game that was only available to members of the official Orbit fanclub. You play as Kusano Fumiyasu, tutoring a student named Yayoi.",
+  "source_sha256": "04e339a99e0ed4df3befbb317442a6289992af7282f6599f4090712927891415",
+  "translation": "一款发行量极少、仅向Orbit官方爱好者俱乐部会员提供的游戏。玩家将扮演草野文康，为名叫弥生的学生补习。",
+  "vndb_url": "https://vndb.org/v5547"
+}

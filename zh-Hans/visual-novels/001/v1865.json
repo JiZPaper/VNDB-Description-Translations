@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1865",
+  "type": "visual_novel",
+  "name": "podzim",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "'Autumn' is told by Takiguchi, a young seventeen years old boy who has just moved to a small town with his parents. He goes to the autumn nature to find some water, sky, mushrooms, self-realization, three lovely girls and other pointless things.",
+  "source_sha256": "58a5b1e0ae2edd65dedfbead692c3fd86f064dbdfc39323d9ff303f6a3bb9ccb",
+  "translation": "《秋天》由17岁的少年泷口讲述。他刚随父母搬到一座小镇，走进秋日自然之中，寻找水、天空、蘑菇、自我认知、三名可爱的少女，以及其他毫无意义的东西。",
+  "vndb_url": "https://vndb.org/v1865"
+}

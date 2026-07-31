@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4618",
+  "type": "visual_novel",
+  "name": "Ranma 1/2 - Byakuran Aika",
+  "original_name": "らんま１/２　白蘭愛歌",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game features an original story centering on a new character, Arisa Nanjo. After Ranma Saotome's friends go missing, it is up to him to track them down.\n\n[From [url=http://ranma.wikia.com/wiki/Ranma_%C2%BD:_Byakuran_Aika]ranma.wikia.com[/url]]",
+  "source_sha256": "726e0378f7051e99e0e9a4277f94df8479333af66af85749731bba498cfc2e53",
+  "translation": "游戏采用原创剧情，以新角色南条亚里沙为中心。早乙女乱马的朋友们失踪后，追查他们下落的重任便落在乱马身上。\n\n[摘自[url=http://ranma.wikia.com/wiki/Ranma_%C2%BD:_Byakuran_Aika]ranma.wikia.com[/url]]",
+  "vndb_url": "https://vndb.org/v4618"
+}

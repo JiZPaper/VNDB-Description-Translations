@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1568",
+  "type": "visual_novel",
+  "name": "Moon Childe",
+  "original_name": "MOON CHILDe",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "What is there for us in future?\nWhat if you could predict the future?\nWhat if you knew in advance what would happen?\nIs it possible to avoid the \"Worst future\" after foreseeing it?\n\nA story of a boy who has the power to see the future.",
+  "source_sha256": "24ebdc385e000b63be69c44d55bb612dcefbeee428086d5a3281cdfdd60da12a",
+  "translation": "未来会有什么在等待着我们？\n如果你能够预知未来呢？\n如果你事先知道将会发生什么呢？\n看见“最糟糕的未来”之后，还有可能避开它吗？\n\n这是一个拥有预见未来能力的少年的故事。",
+  "vndb_url": "https://vndb.org/v1568"
+}

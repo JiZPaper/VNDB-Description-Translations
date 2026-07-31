@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v144",
+  "type": "visual_novel",
+  "name": "Kuro no Tsuki",
+  "original_name": "蒼黒の月",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Kuro no Tsuki tells the story of two royal brothers, Roland and Altraud. A sudden change in the once-kind Roland brings about the downfall of their kingdom and a hurt Altraud, having lost everything, begins the search to find out why. Could the Black Kingdom, having been vanquished centuries ago, be pulling the strings?\n\n[From [URL=http://novelnews.net/2008/02/17/from-boys-with-love/]encubed[/URL]]",
+  "source_sha256": "3e96795a864e030db7bc808e85273e9c982bba3081737c73f9535bfb6346bda4",
+  "translation": "《苍黑之月》讲述了王族兄弟罗兰与阿尔特劳德的故事。原本善良的罗兰突然性情大变，致使王国走向覆灭。失去一切、满心伤痛的阿尔特劳德由此踏上追寻真相之路。难道，这一切都是数百年前便已覆亡的黑之王国在幕后操纵？\n\n[译自[url=http://novelnews.net/2008/02/17/from-boys-with-love/]encubed[/url]]",
+  "vndb_url": "https://vndb.org/v144"
+}

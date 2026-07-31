@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v289",
+  "type": "visual_novel",
+  "name": "~Uta~",
+  "original_name": "～歌～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A piece about a lonely (and apparently unpopular) young musician and the quiet girl who listens to him sing every day.\n\n[From [url=http://altogether.insani.org/2005/resources/index/phase02-plainsong.html]Misu-Net & Seung Park[/url]]",
+  "source_sha256": "c6ac50d6f80b31ecc5fc09fa512c5998b5bcba2c63ab7543ab5a4bd7c0d1f6be",
+  "translation": "一篇讲述孤独（而且显然不受欢迎）的年轻音乐人与每天静静聆听他歌唱的女孩的短篇作品。\n\n[摘自[url=http://altogether.insani.org/2005/resources/index/phase02-plainsong.html]Misu-Net & Seung Park[/url]]",
+  "vndb_url": "https://vndb.org/v289"
+}

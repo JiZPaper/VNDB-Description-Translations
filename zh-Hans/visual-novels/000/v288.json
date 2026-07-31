@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v288",
+  "type": "visual_novel",
+  "name": "Aru Fuyu no Monogatari",
+  "original_name": "ある冬の物語",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Jun is an average student that lives with his mother in their apartment. During the winter holidays, his childhood friend, Kaede Sakurai helps him with his homework and even some housework. By the time Jun realizes his feelings for Kaede, several misunderstandings have already taken place, and they have already parted ways.",
+  "source_sha256": "da2f89d5629630081dc33dc953e2e4ada58d83403c26859d0b4ea3f5e77bc198",
+  "translation": "淳是一名普通学生，与母亲一同住在公寓里。寒假期间，青梅竹马樱井枫不仅辅导他的功课，还帮忙处理一些家务。然而等淳察觉自己对枫的感情时，两人之间早已发生了数场误会，并就此分道扬镳。",
+  "vndb_url": "https://vndb.org/v288"
+}

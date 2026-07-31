@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v236",
+  "type": "visual_novel",
+  "name": "WHITE ALBUM",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play a university student named Fuji Touya. Your long-term girlfriend, Morikawa Yuki, is starting to become a very popular idol singer. Unfortunately, her popularity begins to pull the two of you apart; you must either try to maintain your relationship with her or find someone else.",
+  "source_sha256": "8d62656b156c2ec8e2a78338aef0538307bf01866645927423e0a765ec2eccd3",
+  "translation": "玩家将扮演名叫藤井冬弥的大学生。与你交往已久的女友森川由绮正逐渐成为人气偶像歌手。遗憾的是，她日益高涨的人气也开始令你们渐行渐远；你必须设法维系这段感情，或是另寻他人。",
+  "vndb_url": "https://vndb.org/v236"
+}

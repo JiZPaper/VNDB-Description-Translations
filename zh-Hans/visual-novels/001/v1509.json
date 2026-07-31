@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1509",
+  "type": "visual_novel",
+  "name": "Mahjong",
+  "original_name": "麻雀",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "As the title implies, the game focuses on Mahjong and was released in celebration NekoNeko's 5th anniversary.",
+  "source_sha256": "c012a2ccf7224e0131186f58ec77b8b5b87bf811037b53b0c6dfe870c07da19d",
+  "translation": "正如标题所示，本作以麻将为主题，为纪念猫猫软件成立五周年而推出。",
+  "vndb_url": "https://vndb.org/v1509"
+}

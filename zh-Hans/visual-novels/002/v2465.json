@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2465",
+  "type": "visual_novel",
+  "name": "The Stolen Diamond Ring",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as Katharine, a young woman invited to her friend's engagement party. \nThe atmosphere is getting awkward during dinner and worse yet, the next morning the pink diamond engagement ring is missing! While a bitter ex-boyfriend is an obvious first suspect, everyone in this close circle of friends and relatives seems to have something to hide.",
+  "source_sha256": "548d462135e28e7ab39cac4c41f838fd7b10efc56e873940d92770ec71851bbd",
+  "translation": "玩家扮演年轻女子凯瑟琳，受邀参加朋友的订婚宴。\n晚餐期间，气氛逐渐变得尴尬。更糟的是，第二天早晨，那枚粉红钻石订婚戒指竟然不翼而飞！心怀怨恨的前男友显然是头号嫌疑人，但在这个由亲友组成的亲密圈子里，每个人似乎都隐藏着秘密。",
+  "vndb_url": "https://vndb.org/v2465"
+}

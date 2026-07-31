@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5774",
+  "type": "visual_novel",
+  "name": "1/2 BLOOD",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist, Kamiyama Shouma, was born of a human father and a vampire mother. He lives in a small strange town where humans and demons coexist.",
+  "source_sha256": "04c4a21fe4a7fad473e904de0e411c715e68a0a0de46a74f683993e1ec3c709b",
+  "translation": "主人公神山翔真是人类父亲与吸血鬼母亲所生的混血儿。他生活在一座人类与魔族共存、略显奇异的小镇上。",
+  "vndb_url": "https://vndb.org/v5774"
+}

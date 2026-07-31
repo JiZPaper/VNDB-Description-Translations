@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v884",
+  "type": "visual_novel",
+  "name": "Sailor Moon Dating Simulator: Sailor Saturn",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The goal of the game is to win love of Hotaru Tomoe by asking her out on dates and giving her gifts.\n\n[From [url=http://web.archive.org/web/20080701130357/http://sailorvgame.org/mg/smds/smds_saturn.htm]Sailorvgame.org[/url]]",
+  "source_sha256": "07916e8a3b4ab6243400058ce459e02a8052dd26af6800de939b26955669e142",
+  "translation": "游戏目标是通过邀请土萌萤约会并赠送礼物，赢得她的爱情。\n\n[摘自[url=http://web.archive.org/web/20080701130357/http://sailorvgame.org/mg/smds/smds_saturn.htm]Sailorvgame.org[/url]]",
+  "vndb_url": "https://vndb.org/v884"
+}

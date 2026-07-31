@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5184",
+  "type": "visual_novel",
+  "name": "Tonari no Vampire",
+  "original_name": "となりのヴァンパイア",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist goes to explore a Western-style building that is rumored to have a ghost. There he finds his classmate sleeping inside a coffin, as in reality she is a vampire.",
+  "source_sha256": "95af3872d2b16f7d9ddfb864cb93fe1df11d62b78a15e93f91a9fedb17c24576",
+  "translation": "主人公前去探索一栋传闻闹鬼的西式建筑，却在那里发现自己的同班同学睡在棺材里——原来她其实是一名吸血鬼。",
+  "vndb_url": "https://vndb.org/v5184"
+}

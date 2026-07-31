@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5839",
+  "type": "visual_novel",
+  "name": "Caduceus no Noroi",
+  "original_name": "カドゥケウスの呪い",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A Dragon Quest III-based, transsexual-themed visual novel.",
+  "source_sha256": "eef803e6b0ed77ce586e8e602ec046acc42e98ff1ec0a783cb3bdf13c7c79624",
+  "translation": "一部以《勇者斗恶龙III》为基础、以性别转换为主题的视觉小说。",
+  "vndb_url": "https://vndb.org/v5839"
+}

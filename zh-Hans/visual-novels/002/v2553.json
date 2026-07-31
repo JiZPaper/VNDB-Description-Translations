@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2553",
+  "type": "visual_novel",
+  "name": "Princess Party Camellia",
+  "original_name": "Princess Party Camellia ～プリンセスパーティーカメリア～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a fan disc of Princess Party, featuring some short stories.",
+  "source_sha256": "072a640d92703405b6344b88ee9c1fcd3b5eb11df190a9b40d2579d2fbf4258b",
+  "translation": "《Princess Party》的Fan Disc，收录了数篇短篇故事。",
+  "vndb_url": "https://vndb.org/v2553"
+}

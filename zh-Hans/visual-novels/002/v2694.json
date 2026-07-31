@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2694",
+  "type": "visual_novel",
+  "name": "luv wave",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "September 2039. XINN, the computer virus that shutdown the world's computers, threatens us again. You, detective  Kaoru, must solve who and why, with your new cyborg partner, Alice. However, haven't you met her before?",
+  "source_sha256": "fa11761266252dcc50e507f07fafd15541b833217b3a47cc698ee4e0eaa60090",
+  "translation": "2039年9月。曾令全球计算机陷入停摆的电脑病毒XINN再度构成威胁。身为侦探的你——薰——必须与新的生化人搭档爱丽丝一起，查明幕后之人及其目的。然而，你以前是否见过她？",
+  "vndb_url": "https://vndb.org/v2694"
+}

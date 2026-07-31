@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2998",
+  "type": "visual_novel",
+  "name": "Oujou Ibun - First part \"Kare ga Shinanakereba Ikenakatta Riyuu\"",
+  "original_name": "鴎城異聞 第一聞「彼が死ななければいけなかった理由」",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A mysterious tale of romance unfolds in Kowloon -- a walled city where there is no \"sky\".\n\nOriginally planned as the first part of a five-part series.",
+  "source_sha256": "c0e2c3bbc4fa3b1e60ccc3b0a2c77722dee9eb401330e4141c76b1940189f23e",
+  "translation": "一段神秘的恋爱故事在九龙展开——这是一座看不见\"天空\"的城寨。\n\n本作原计划作为五部曲的第一部。",
+  "vndb_url": "https://vndb.org/v2998"
+}

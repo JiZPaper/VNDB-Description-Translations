@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5442",
+  "type": "visual_novel",
+  "name": "RoseRose ~BaraBara~",
+  "original_name": "RoseRose～バラ薔薇～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Following a sweet fragrance, a man entered a rose garden. He met a beautiful girl there.\n\nWhat was the meaning of her sad expression...?\n\n[edited from the official website]",
+  "source_sha256": "bc40b466c4e153bc21b6ef03135e0920a3b4cfe4edd176f86826ee5d1cc72bfe",
+  "translation": "一名男子循着甜美的香气走进玫瑰园，在那里遇见了一位美丽的少女。\n\n她悲伤的表情究竟意味着什么……？\n\n[编辑自官方网站]",
+  "vndb_url": "https://vndb.org/v5442"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v329",
+  "type": "visual_novel",
+  "name": "GADGET -FanDisc-",
+  "original_name": "ガジェット -Fandisk-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This fandisc includes six stories selected by fan votes.",
+  "source_sha256": "6625d689a3f0f4670055966e5bb51dccc2c4e77f519e49fc08175ef4ef7b94aa",
+  "translation": "这款粉丝投票选出的迷你续作收录了六个故事。",
+  "vndb_url": "https://vndb.org/v329"
+}

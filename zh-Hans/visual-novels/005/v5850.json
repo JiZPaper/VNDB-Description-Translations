@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5850",
+  "type": "visual_novel",
+  "name": "Yume no Tsubasa",
+  "original_name": "夢のつばさ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Your dream is to fly, and you’ve spent years restoring an old plane, hoping that you will be able to fly in the sky just like your father. However, one day, after a test run you find a mysterious girl collapsed near the runway. Who is she? And why is she here? Even though you don’t know anything, you let her stay at your house, and a chain of events have begun to turn…\n\n(taken from [url=http://calamitousintents.wordpress.com/2009/08/08/short-vn-reviews-would-a-bishi-kill-you-huh/]Calamitous Intent[/url])",
+  "source_sha256": "07505caf1014d2d35d090749e2a1a2bcdfb81ea4f29f1a1a1263d9a3326f5680",
+  "translation": "你的梦想是飞上天空。多年来，你一直修复一架老旧飞机，希望自己能像父亲一样翱翔天际。然而某一天，在一次试飞结束后，你发现一名神秘少女倒在跑道附近。她是谁？为什么会出现在这里？尽管一无所知，你还是让她暂住家中，一连串事件也由此开始转动…\n\n（摘自[url=http://calamitousintents.wordpress.com/2009/08/08/short-vn-reviews-would-a-bishi-kill-you-huh/]Calamitous Intent[/url]）",
+  "vndb_url": "https://vndb.org/v5850"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2305",
+  "type": "visual_novel",
+  "name": "Ensemble ~Maioriru Hane no Ensemble~",
+  "original_name": "ENSEMBLE～舞降る羽のアンサンブル～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fifteen years ago, Hiyoshi Kaede got separated from his sister after the divorce of his parents. They planted a maple tree on their house's garden as a way to remember each other. Now, he returns to the tree once again...",
+  "source_sha256": "54b8a220300083a85473a53b678901abe05ad58ef29f7f4ab69c790b9663a207",
+  "translation": "十五年前，日吉枫因父母离婚与妹妹分离。兄妹二人在自家庭院里种下一棵枫树，作为彼此的纪念。如今，他再次回到了这棵树下…",
+  "vndb_url": "https://vndb.org/v2305"
+}

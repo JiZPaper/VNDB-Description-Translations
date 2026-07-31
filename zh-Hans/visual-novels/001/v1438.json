@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1438",
+  "type": "visual_novel",
+  "name": "The Fucking Question",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A parody of the demo included in the current build of ren'py. Short, nicely drawn, and extremely offensive. Not for those with tender sensibilities.",
+  "source_sha256": "7e804fad88d43445d68b6b2a7adba09323f793a61f9afbb1750bace483343fef",
+  "translation": "对当前Ren'Py版本所附演示程序的戏仿。篇幅短小、画面精美，而且极其冒犯。不适合心理敏感的人。",
+  "vndb_url": "https://vndb.org/v1438"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v458",
+  "type": "visual_novel",
+  "name": "August Fan Box",
+  "original_name": "オーガストファンBOX",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a fandisk for August games Binary Pot,  Princess Holiday and Tsuki wa Higashi ni Hi wa Nishi ni: Operation Sanctuary. Featuring characters from those games with new stories to play as well as puzzle games and related fan material.",
+  "source_sha256": "cdcc52dc76d6c3eecea3682f6544aabc46c5f491b607cb777645f95524845be5",
+  "translation": "这是August旗下《Binary Pot》《Princess Holiday》和《月东日西～Operation Sanctuary～》的粉丝向附加光盘。上述作品的角色会在全新故事中登场，此外还收录益智游戏及相关粉丝向资料。",
+  "vndb_url": "https://vndb.org/v458"
+}

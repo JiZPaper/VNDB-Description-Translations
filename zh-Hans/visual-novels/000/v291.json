@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v291",
+  "type": "visual_novel",
+  "name": "io [Christmas Eve]",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "One man. One woman. One little girl. And in their midst, a lot of the second movement of Beethoven's 8th piano sonata.\n\n[From [url=http://altogether.insani.org/2005/resources/index/phase02-io.html]Zalas[/url]]",
+  "source_sha256": "2ca91c5ac1bd109a0055ef879a288f4f3170c94c379d0576825c6e03128f73c5",
+  "translation": "一个男人。一个女人。一个小女孩。而萦绕在三人之间的，是反复响起的贝多芬第八钢琴奏鸣曲第二乐章。\n\n[摘自[url=http://altogether.insani.org/2005/resources/index/phase02-io.html]Zalas[/url]]",
+  "vndb_url": "https://vndb.org/v291"
+}

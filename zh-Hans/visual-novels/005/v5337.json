@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5337",
+  "type": "visual_novel",
+  "name": "Round and Round",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A \"Tales of the Abyss\" fangame.",
+  "source_sha256": "f217dc43b31dac829476ad0e241e20ebfa04ec9d3bcbad6b052796abd7268e1f",
+  "translation": "一部《深渊传说》同人游戏。",
+  "vndb_url": "https://vndb.org/v5337"
+}

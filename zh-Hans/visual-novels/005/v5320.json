@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5320",
+  "type": "visual_novel",
+  "name": "Hello and Goodbye",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hoshi has one chance to tell Takuo how she feels about him.",
+  "source_sha256": "ec5fbb377a7b121cb1dfb7798634f7c83cb081e92794fedc9a4c932de4e150aa",
+  "translation": "星只有一次机会，能够向拓夫说出自己的心意。",
+  "vndb_url": "https://vndb.org/v5320"
+}

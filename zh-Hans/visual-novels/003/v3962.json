@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3962",
+  "type": "visual_novel",
+  "name": "The Wonders of Glue",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short story about... well, glue. Metaphorically speaking.",
+  "source_sha256": "ba577e49c3800b6d260c99bc6e1e786429ae560db18a40381c0d5f03928bd317",
+  "translation": "一个关于…嗯，胶水的短篇故事。当然，这是比喻意义上的。",
+  "vndb_url": "https://vndb.org/v3962"
+}

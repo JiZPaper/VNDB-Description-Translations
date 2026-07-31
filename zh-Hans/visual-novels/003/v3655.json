@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3655",
+  "type": "visual_novel",
+  "name": "Karamemo Ensemble",
+  "original_name": "カラメモ アンサンブル",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A game continuing the karaoke theme with a group of great boys, but this time it's needed to type your story when there is window for input.\n\n[From [url=https://vndbreview.blogspot.com/2019/07/vn-of-month-may-2004-carnival.html]vndbreview[/url]]",
+  "source_sha256": "d777f5f19bd94126abd4f633f987b24e8c8bad891c6c247fffdc7aff2dc4683b",
+  "translation": "本作延续了与一群优秀男生唱卡拉OK的主题，不过这一次，每当出现输入窗口时，玩家都需要亲手键入自己的故事。\n\n[摘自[url=https://vndbreview.blogspot.com/2019/07/vn-of-month-may-2004-carnival.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v3655"
+}

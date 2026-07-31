@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4402",
+  "type": "visual_novel",
+  "name": "Tsuki Jan",
+  "original_name": "月雀",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Strip mahjong with heroines drawn by more than 20 different illustrators.\n\n[From [url=https://vndbreview.blogspot.com/2019/04/vn-of-month-december-2002-popotan.html]vndbreview[/url]]",
+  "source_sha256": "ddf3f8e5391c521bc0574e12c72546249c20b4a3fda6aee92b85567db2022d53",
+  "translation": "与20多位不同画师绘制的女主角们进行脱衣麻将。\n\n[摘自[url=https://vndbreview.blogspot.com/2019/04/vn-of-month-december-2002-popotan.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v4402"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v871",
+  "type": "visual_novel",
+  "name": "Real Life: A Bishoujo Adventure",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A 20-something year old otaku and student somehow winds up living with 4 girls. Visual novel parody and light romance undertones.",
+  "source_sha256": "5d99b712ebb366252cc7eb42cbcfc6ce4b48b264992a65a6903b2877e90ecf0b",
+  "translation": "一名二十多岁的御宅族学生不知为何开始与四名女孩共同生活。本作是视觉小说戏仿作品，略带轻松的恋爱氛围。",
+  "vndb_url": "https://vndb.org/v871"
+}

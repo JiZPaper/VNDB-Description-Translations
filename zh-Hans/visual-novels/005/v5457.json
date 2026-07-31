@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5457",
+  "type": "visual_novel",
+  "name": "CRESCENT MOON Girl",
+  "original_name": "CRESCENT MOON がぁる",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as a cat that walks into a tent and is transformed into a human by a breaking a crystal ball. You don't want to be a human, though! You liked being a cat! The owner of the broken crystal ball says that she'll reverse the curse if you can go through town and bring her the Crescent Moon Girl. That is how your quest begins.",
+  "source_sha256": "2265d896f816e12b33721d51412cbae043e59351fb351c62ae6a42b0f0b3bfd4",
+  "translation": "玩家将扮演一只走进帐篷的猫，却因打碎水晶球而变成人类。可你根本不想做人！你更喜欢当猫！水晶球的主人说，只要你穿过城镇，把“新月少女”带到她面前，她就会解除诅咒。你的旅程由此开始。",
+  "vndb_url": "https://vndb.org/v5457"
+}

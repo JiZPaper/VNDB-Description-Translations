@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v857",
+  "type": "visual_novel",
+  "name": "Tokimeki Memorial Girl's Side",
+  "original_name": "ときめきメモリアル Girl's Side",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The player is the main character, a new student at Habataki High, Habataki City. The goal of the game is to create a relationship with one of the ten males that are available to you, so that on the last day of your high school, you will receive his confession of love at the chapel in the school. \n\n[From [url=http://habataki.piyo-piyo.org/]Utsukushiki Sekai[/url]]",
+  "source_sha256": "16261b555abcca704ebde032c62013652d06571574a7b848452d6a668bfba57e",
+  "translation": "玩家将扮演主人公，一名转入羽丘市羽丘高中的新生。游戏目标是与十名可攻略男性中的一人建立感情，并在高中生活最后一天，于校内教堂前接受他的告白。\n\n[摘自[url=http://habataki.piyo-piyo.org/]Utsukushiki Sekai[/url]]",
+  "vndb_url": "https://vndb.org/v857"
+}

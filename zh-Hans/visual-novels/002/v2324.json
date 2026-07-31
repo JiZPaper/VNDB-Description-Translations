@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2324",
+  "type": "visual_novel",
+  "name": "Eye's Only ~Sono Kagayaki wa Mabushisa ni Michite~",
+  "original_name": "eye’s only～その輝きはまぶしさに満ちて～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "It's spring time, and Yousuke is entering university. In these three months until summer vacation, he meets some interesting girls and starts to have a relationship with them.",
+  "source_sha256": "08ccf564831dd274beab33842725c14735ffd0279ced3e59ab68fab1498efc25",
+  "translation": "春天到来，洋介也即将进入大学。在暑假前的三个月里，他会邂逅几名有趣的少女，并开始与她们交往。",
+  "vndb_url": "https://vndb.org/v2324"
+}

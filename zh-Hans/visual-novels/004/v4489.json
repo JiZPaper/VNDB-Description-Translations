@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4489",
+  "type": "visual_novel",
+  "name": "Kachou Shima Kousaku: Super Business Adventure",
+  "original_name": "課長 島 耕作 スーパービジネスアドベンチャー",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game allows the player to play the role as a Japanese salaryman as he goes on his \"employment adventure\" in order to accomplish negotiations for business deals. Occasionally, the player will have to do stuff with his girlfriend and explore his office building in order to accomplish things from his employer.\n\nFrom wikipedia",
+  "source_sha256": "2828228b33caf284644abe73237e2e9e9fef769a4fd4b39f78bcdb41d5eb0345",
+  "translation": "游戏让玩家扮演一名日本上班族，踏上‘职场冒险’，通过谈判完成商业交易。为了达成雇主交代的任务，玩家偶尔还需要陪伴女友，并探索办公楼。\n\n摘自Wikipedia",
+  "vndb_url": "https://vndb.org/v4489"
+}

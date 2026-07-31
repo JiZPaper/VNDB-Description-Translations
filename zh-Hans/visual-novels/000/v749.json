@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v749",
+  "type": "visual_novel",
+  "name": "Shijuu Hachi (kari)",
+  "original_name": "四八 （仮）",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "One day, you get a telephone call.\n\"You've won a chance to test a new game, please tell me about yourself.\"\nAnd you tell the person on the phone everything about yourself and your family. \nAfter a while you receive a game called Shiju Hachi. \nEver since starting the game strange things have started happening around you.\n\n[Edited from [url=http://ja.wikipedia.org/wiki/%E5%9B%9B%E5%85%AB%EF%BC%88%E4%BB%AE%EF%BC%89]Wikipedia[/url]]",
+  "source_sha256": "7e091711764459b25ff2076fe62f62e58f935e62ab2d198c72139d36de01d6ad",
+  "translation": "一天，你接到一通电话。\n‘你获得了测试一款新游戏的机会，请告诉我关于你自己的事情。’\n于是，你向电话另一端的人讲述了自己与家人的一切。\n一段时间后，你收到一款名为《四八（暂定）》的游戏。\n从启动游戏的那一刻起，怪事便接连发生在你身边。\n\n[编辑自[url=http://ja.wikipedia.org/wiki/%E5%9B%9B%E5%85%AB%EF%BC%88%E4%BB%AE%EF%BC%89]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/v749"
+}

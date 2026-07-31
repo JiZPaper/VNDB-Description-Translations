@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1885",
+  "type": "visual_novel",
+  "name": "Angel Egg",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're a high school student who's secretly an accomplished writer.\n\nAll the upperclassmen of the drama club suddenly decide to quit due to a conflict, and the remains of the club need to do a play for the upcoming school festival. You end up being responsible for the script.",
+  "source_sha256": "c18f2fe9c46feb8b722bc3eca40d6aea4487cd8c685197b47a942086543a91c6",
+  "translation": "玩家扮演一名暗中已经颇有成就的高中生作家。\n\n戏剧部所有高年级成员因冲突突然决定退出，剩余成员却必须为即将到来的学园祭上演一出舞台剧。最终，编写剧本的责任落到了你身上。",
+  "vndb_url": "https://vndb.org/v1885"
+}

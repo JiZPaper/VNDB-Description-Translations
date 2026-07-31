@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4083",
+  "type": "visual_novel",
+  "name": "Yakouchuu",
+  "original_name": "夜光虫",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist (name customizable) is the captain of the cargo ship \"Diana\". During a routine voyage, a number of strange and deadly incidents begin to occur: typhoons, men falling overboard, murder, ghost sightings, stowaways, and even the appearance of killer bees! \n\nWill our intrepid captain be able to successfully complete his voyage and return to Japan where his fiancée, Yuka, is waiting? \n\n[Translated from the [url=https://web.archive.org/web/20071225150003fw_/http://www.athena-game.co.jp/yakogb/ygb.html]Official website[/url]]",
+  "source_sha256": "7d9ccde8f3b52d3a0c8684ee3b8a7227dfcb2d7aaa1aecdea74306bbc757c15d",
+  "translation": "主人公（可自定义姓名）是货轮‘戴安娜号’的船长。一次例行航行中，接连发生了多起离奇而致命的事件：台风、船员落水、谋杀、幽灵目击、偷渡客，甚至还有杀人蜂出现！\n\n我们无畏的船长能否顺利完成航程，回到正在日本等候他的未婚妻由香身边？\n\n[翻译自[url=https://web.archive.org/web/20071225150003fw_/http://www.athena-game.co.jp/yakogb/ygb.html]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v4083"
+}

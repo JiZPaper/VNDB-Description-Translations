@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v877",
+  "type": "visual_novel",
+  "name": "Jesus",
+  "original_name": "ジーザス",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In the year 2061, a manned space mission was planned for Halley’s Comet, which would once again be nearing Earth. A team was assembled from eight countries around the world, and split into two spaceships for the mission, dubbed the “Comet” and the “Corona.” They would depart from the Space Station Jesus.\n\nA primary objective of the mission was to collect gas samples from the tail of Halley’s Comet. These samples were to be gathered not only for the advancement of materials science or astronomy, but also to test the theory that life on Earth may have been seeded by comets. The knowledge the crew gained had the potential to solve one of the last enigmas of biology.\n\nImmediately after extracting the gas from the comet, however, communications from the spaceship Comet mysteriously stop.\n\nWhat has happened to the Comet?\n\n[From the instruction manual]",
+  "source_sha256": "58e770aa2f406c4260e07e17869d83c5ee663720539c0b406b7550013219c14d",
+  "translation": "2061年，哈雷彗星将再次接近地球，人类为此策划了一次载人太空任务。来自世界八个国家的成员组成考察队，分别搭乘名为“Comet”和“Corona”的两艘飞船，从Jesus空间站启程。\n\n任务的首要目标之一，是采集哈雷彗星彗尾中的气体样本。这些样本不仅将用于推动材料科学与天文学发展，也可用来验证地球生命是否可能由彗星播撒而来的理论。考察队获得的知识，有望解开生物学最后的谜团之一。\n\n然而，刚从彗星中提取完气体，“Comet”号飞船便离奇中断了通信。\n\n“Comet”号究竟发生了什么？\n\n[摘自说明书]",
+  "vndb_url": "https://vndb.org/v877"
+}

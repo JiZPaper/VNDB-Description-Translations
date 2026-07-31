@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3132",
+  "type": "visual_novel",
+  "name": "Signal Heart Plus",
+  "original_name": "Signal Heartぷらす",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Prologue is the same as in [url=/v1551]Signal Heart[/url], but now hero can choose between Mayuki, Eiko and Tsurugi instead of four main heroines.",
+  "source_sha256": "7a6da1784e62535662fa2ccae881eebeec5a0d734e5fb190d9f109a2c6a65378",
+  "translation": "序章与[url=/v1551]《Signal Heart》[/url]相同，但这一次，主人公可以在真雪、映子和剑三人中选择，而非原作的四名主要女主角。",
+  "vndb_url": "https://vndb.org/v3132"
+}

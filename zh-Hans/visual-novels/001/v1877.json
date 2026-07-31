@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1877",
+  "type": "visual_novel",
+  "name": "Kaitou Apricot",
+  "original_name": "怪盗アプリコット",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You take control of Anzu. She is a high school girl during the day, but she becomes a mysterious thief, Apricot, at night. Your mission is to steal someone's heart...\n\n[From Himeya Shop]",
+  "source_sha256": "832c38c57bf8550a2ff84a4a8a1bd025a519823b7c01c00a7a0ef5e0945d82c0",
+  "translation": "玩家将操纵杏。白天，她是一名高中女生；到了夜晚，她便化身神秘怪盗“Apricot”。你的任务是偷走某个人的心…\n\n[摘自Himeya Shop]",
+  "vndb_url": "https://vndb.org/v1877"
+}

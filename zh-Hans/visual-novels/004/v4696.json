@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4696",
+  "type": "visual_novel",
+  "name": "Iriya no Sora, UFO no Natsu II",
+  "original_name": "イリヤの空、UFOの夏2",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Contains volumes 3 and 4 of the original light novel.",
+  "source_sha256": "cbc910e2e28f3baa23b10b27beeb7a9631615463fe82bc8fb6e8e237291d7b60",
+  "translation": "收录原作轻小说第3卷和第4卷。",
+  "vndb_url": "https://vndb.org/v4696"
+}

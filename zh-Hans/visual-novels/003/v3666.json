@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3666",
+  "type": "visual_novel",
+  "name": "Kao no Nai Tsuki Limited Collection",
+  "original_name": "顔のない月 LIMITED COLLECTION",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Contains two side stories of [url=/v240]Kao no nai Tsuki[/url]:\n\n\"Affection\", about the protagonist's life after the True End of the game.\n\n\"Shikaku\", about the protagonist's life before the start of the game.",
+  "source_sha256": "daa45505eed5a14278a4932755b22594f1106ff2b69bb2c42a7d2ecc5c93c277",
+  "translation": "收录[url=/v240]《无颜之月》[/url]的两篇外传：\n\n《Affection》，讲述主人公在游戏真结局之后的生活。\n\n《死角》，讲述主人公在游戏故事开始前的生活。",
+  "vndb_url": "https://vndb.org/v3666"
+}

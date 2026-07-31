@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5043",
+  "type": "visual_novel",
+  "name": "Alone",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "When the military ship USS Empire docks somewhere in the port of Red Sea, strange things start to happen.",
+  "source_sha256": "88ea7284260f134da593fb78db69bd31f58d25288129faa9bdd48eced0ca018a",
+  "translation": "军舰“帝国号”停靠在红海某处港口后，奇怪的事情开始接连发生。",
+  "vndb_url": "https://vndb.org/v5043"
+}

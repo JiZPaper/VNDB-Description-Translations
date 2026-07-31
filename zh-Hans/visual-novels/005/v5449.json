@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5449",
+  "type": "visual_novel",
+  "name": "Tsukiyo no Deai",
+  "original_name": "月夜の出会い",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A heartwarming story about a rabbit girl.",
+  "source_sha256": "7bbd78f7ecfccf5a662a796ac1d912f4ef6d54e88060241d2d31ba4804893701",
+  "translation": "一个关于兔耳少女的温馨故事。",
+  "vndb_url": "https://vndb.org/v5449"
+}

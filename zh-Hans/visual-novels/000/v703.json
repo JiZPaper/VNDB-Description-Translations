@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v703",
+  "type": "visual_novel",
+  "name": "Ojou-sama Kumikyoku",
+  "original_name": "お嬢様組曲",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist's name is Kaoru — a name typically given to girls. Thanks to that, he one day gets transferred to an all-girls high school by mistake. While he's unhappy with this turn of events at first, he soon grows to like his new school.",
+  "source_sha256": "4ba46920c291a609f19b47eefdf1656a92cfda1f4d3abe0222b98ed7b09be4fe",
+  "translation": "主人公名叫薰——这是个通常用于女孩的名字。正因如此，某天他被误转入一所女子高中。起初，他对这场意外十分不满，但很快便开始喜欢上新学校。",
+  "vndb_url": "https://vndb.org/v703"
+}

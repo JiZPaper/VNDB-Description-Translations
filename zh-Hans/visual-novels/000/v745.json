@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v745",
+  "type": "visual_novel",
+  "name": "Gakkou de Atta Kowai Hanashi",
+  "original_name": "学校であった怖い話",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Sakagami Shuuichi, a member of the school newspaper, is asked to gather information about the school's seven mysteries. He meets with six other students after school to listen to their stories.",
+  "source_sha256": "d222f507131208a375ea35140c4fca881f9586f12d784bd22217b81602734477",
+  "translation": "学校新闻部成员坂上修一受托搜集学校七大不可思议的资料。放学后，他与另外六名学生见面，聆听他们讲述各自的故事。",
+  "vndb_url": "https://vndb.org/v745"
+}

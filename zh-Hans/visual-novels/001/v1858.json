@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1858",
+  "type": "visual_novel",
+  "name": "@HoneyComing RoyalSweet",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This fandisc features short scenarios for the five heroines of [url=/v180]Honey Coming[/url] and adds scenarios for four sub-heroines.",
+  "source_sha256": "520c1cf6d1500c714411092d264a9fcea8e38ef9bf055002f6342eab70ec9f5f",
+  "translation": "这张Fan Disc收录了[url=/v180]《Honey Coming》[/url]五名女主角的短篇故事，并为四名次要女主角追加了剧情。",
+  "vndb_url": "https://vndb.org/v1858"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4467",
+  "type": "visual_novel",
+  "name": "True Love Story: Fan Disk",
+  "original_name": "トゥルー・ラブストーリー・ファンディスク",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In this fandisc, the protagonist has two little sisters who are twins. The player must choose the correct topics of conversation so he can win the heart of one (or even both!) of the twins.",
+  "source_sha256": "78f0e897999769009405146e41d1dcbde1ffec761016a5a9c5844b0ea728dd55",
+  "translation": "在这张Fan Disc中，主人公有一对双胞胎妹妹。玩家必须选择正确的谈话话题，赢得其中一人——甚至两人——的芳心。",
+  "vndb_url": "https://vndb.org/v4467"
+}

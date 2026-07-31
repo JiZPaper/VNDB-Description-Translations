@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4468",
+  "type": "visual_novel",
+  "name": "True Love Story 3",
+  "original_name": "トゥルーラブストーリー3",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "True Love Story 3 places the player in the shoes of a young male protagonist experiencing his third year of Junior High with the goal of confessing his love to one of a number of female peers. As the year opens he is introduced to the girl he has long had a crush on, Aotsuki Takane, by his twin sister who commutes to the same school, Kaname. \n\nConsistent with other games in the series, True Love Story 3 features an unusually high amount of player interactivity in proportion to story content. Brief, stock dialogs are often repeated when the player character encounters characters he has already met several times.\n\nThe game tracks characters' \"level of friendship\" (友人度) and \"level of affection\" (恋愛度) towards the player character on a triangular diagram that the player can learn the status of regularly by consulting with his twin sister at the end of a day. Instead of playing each day of the school year, the player selects \"try-your-best days\" (頑張る日), the frequency of which affects his level of enthusiasm (やる気), which in turn influences the occurrence of special events.\n\nBut the most distinguishing feature of the game and of the series as a whole is its unique conversation system. At the end of a weekday, if the weather is sunny, the player has three chances to try to meet a girl who he can invite to walk home with (or be invited to walk home with) and the invite, if successful, leads to a complex conversation mode in which numerous topics can be selected, the goal being to raise the girl's \"hearthrob gauge\" (ときめきゲージ) without filling up her \"pounding heart\" （ドキドキハート） and possibly invite her out on a date before the walk home concludes.",
+  "source_sha256": "2e8b4006bd0a4a69bf42e8accea57f9941429ec53d134c6609c95448969937ab",
+  "translation": "《True Love Story 3》中，玩家扮演一名正在经历初中三年级生活的少年，目标是向多名女性同龄人中的一位告白。学年开始时，与他就读同一所学校的双胞胎妹妹要，将他介绍给一直暗恋的女孩青月高岭。\n\n与系列其他作品一样，《True Love Story 3》相对于故事内容提供了异常丰富的玩家互动。玩家角色再次遇见已经见过多次的人物时，经常会重复简短的固定对话。\n\n游戏以三角图追踪各角色对玩家的‘友人度’与‘恋爱度’，玩家每天结束时可以向双胞胎妹妹询问，定期了解当前状态。玩家不必游玩学年里的每一天，而是选择‘努力日’；其频率会影响‘干劲’，进而影响特殊事件发生。\n\n本作乃至整个系列最鲜明的特色，是独特的对话系统。工作日结束时，如果天气晴朗，玩家有3次机会寻找一名女孩，邀请她一同回家，或接受她的邀请。成功后会进入复杂的对话模式，可以选择大量话题；目标是在不填满女孩‘心跳之心’的前提下提升‘心动槽’，并可能在回家前邀请她约会。",
+  "vndb_url": "https://vndb.org/v4468"
+}

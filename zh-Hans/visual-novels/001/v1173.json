@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1173",
+  "type": "visual_novel",
+  "name": "Memories Off ~Sorekara Again~",
+  "original_name": "Memories Off ～それから again～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a sequel to 2004's Memories Off ~Sorekara~. It contains scenarios that focus on the days following the events of the original, featuring the heroines Inori Misasagi, Miyabi Fujiwara and Karin Hanamatsuri.\n\n(Source: GameSpy)",
+  "source_sha256": "0ae05fec67bd2ec5b370282af269be9056e019faa20d42deba2019c1dfccb2a7",
+  "translation": "本作是2004年《秋之回忆～从今以后～》的续篇，收录了接续原作事件之后的剧情，聚焦陵祈、藤原雅和花祭果凛三位女主角。\n\n（来源：GameSpy）",
+  "vndb_url": "https://vndb.org/v1173"
+}

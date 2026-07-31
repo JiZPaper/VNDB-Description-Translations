@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2187",
+  "type": "visual_novel",
+  "name": "Hinatarte ~Hinatabokko Fandisc~",
+  "original_name": "ひなたると～ひなたぼっこファンディスク～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hinatarte is a fandisc for Hinatabokko.\nIt includes 4 afterstories (Koharu, Hinata, Koori and Shizuma) and one bonus story about Nanase.\nAlso disc contains wallpapers and screensaver.",
+  "source_sha256": "41dec42170aa7a4c608ef5894a2948ae468a5be36e27261d4bb3539277e33a29",
+  "translation": "《ひなたると》是《ひなたぼっこ》的Fan Disc。\n收录小春、日向、冰与静马四篇后日谈，以及一篇围绕七濑展开的附赠故事。\n光盘中还包含壁纸与屏幕保护程序。",
+  "vndb_url": "https://vndb.org/v2187"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4523",
+  "type": "visual_novel",
+  "name": "The Death Trap",
+  "original_name": "ザ・デストラップ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game's plot is set during the 1980s. In the game, the Cold War has become tense, and many countries have begun to prepare for a global-scale war, working on new weapons. One of such countries is the mysterious \"B country\" in Eastern Africa, which in an attempt to create biological weapons kidnaps the famous scientist Dr. Gitanes. An agent named Benson is sent to B country in order to rescue the doctor and avert the new threat to world peace.\n\n[from Wikipedia]",
+  "source_sha256": "ac736cb5ea52f0c10e1efac7ba1d395e4b07cfa13006e7709ae523d6ee910aed",
+  "translation": "游戏故事发生在20世纪80年代。冷战局势日趋紧张，许多国家开始为一场全球战争做准备，并着手研发新式武器。东非神秘的“B国”便是其中之一；为制造生物武器，该国绑架了著名科学家Gitanes博士。特工Benson受命前往B国营救博士，并阻止这场威胁世界和平的新危机。\n\n[摘自Wikipedia]",
+  "vndb_url": "https://vndb.org/v4523"
+}

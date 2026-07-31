@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1713",
+  "type": "visual_novel",
+  "name": "Hiiro no Kakera ~Ano Sora no Shita de~",
+  "original_name": "緋色の欠片 ～あの空の下で～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A fandisc of Hiiro no Kakera 1.",
+  "source_sha256": "05b33e0e2cba1346aea0937077dbd217fd3ccbdbd3379149a6f8a610781de731",
+  "translation": "《绯色的欠片》第一作的Fan Disc。",
+  "vndb_url": "https://vndb.org/v1713"
+}

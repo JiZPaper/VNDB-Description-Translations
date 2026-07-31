@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4585",
+  "type": "visual_novel",
+  "name": "Anata o Yurusanai",
+  "original_name": "アナタヲユルサナイ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Anata o Yurusanai puts you in the shoes of a female detective who tails suspects around Tokyo as she tries to prove their guilt in various crimes. Holding the PSP vertically, players use the analog nub to tail a suspect and hide behind objects. \n\n[From http://psp.ign.com]",
+  "source_sha256": "0f9ce75c13671367aadc27924f0a2ecabe5133554f083eed876013ba6a0e6fe8",
+  "translation": "《不可饶恕》让玩家扮演一名女侦探。她在东京各处跟踪嫌疑人，试图证明他们犯下了不同罪行。玩家需竖持PSP，使用摇杆尾随目标，并躲藏在各种物体后方。\n\n[摘自http://psp.ign.com]",
+  "vndb_url": "https://vndb.org/v4585"
+}

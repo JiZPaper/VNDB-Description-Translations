@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1563",
+  "type": "visual_novel",
+  "name": "Miracle No-ton ~Negai o Uchikonde!~",
+  "original_name": "みらくるのーとん 願いを打ちこんで！",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A fool's day themed typing game. Akira loses memory, but he still has the notebook that grants any wishes written. Conversation, event and attack modes are presented.\n\n[From [url=https://vndbreview.blogspot.com/2020/07/vn-of-month-april-2008-gouen-no-soleil.html]vndbreview[/url]]",
+  "source_sha256": "00d9e2ec7a55b5a82b414d6317a32d9b6349321021e5517745c6cf9ba77876a7",
+  "translation": "一款以愚人节为主题的打字游戏。明失去了记忆，但手中仍有那本可以实现任何书面愿望的笔记。游戏包含对话、事件和攻击模式。\n\n[摘自[url=https://vndbreview.blogspot.com/2020/07/vn-of-month-april-2008-gouen-no-soleil.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v1563"
+}

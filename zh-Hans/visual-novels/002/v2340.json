@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2340",
+  "type": "visual_novel",
+  "name": "Isaku",
+  "original_name": "遺作",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Unlike the sequels that follows you take on the role of Kenta, a high school student trapped by Isaku, the eldest brother of the Itou Family on the last floor of an abandoned school building together with fellow classmates and a teacher. \n\nThe main objective of the game is to have the player and his companions escape from a locked school building, and to avoid having your companions captured by Isaku.\n\nThe only way out is through a stairwell, the doors of which are locked on every floor. The player must search the rooms on each floor for clues and items that will lead him to locate the keys that will open the stairwell doors and allow him to descend to the next level and ultimately to a final confrontation with Isaku himself.",
+  "source_sha256": "d446471571ea2dba26a2e637fcb9ec40c025650be2d69352a0217551b3d8e020",
+  "translation": "与后续作品不同，本作中玩家扮演高中生健太。他与同班同学及一名教师一同被伊头家的长兄遗作困在一座废弃校舍的顶层。\n\n游戏的主要目标是让玩家与同伴逃出封锁的校舍，同时避免同伴被遗作抓走。\n\n唯一的出口是一座楼梯间，但每层楼的门都被锁住。玩家必须搜索各楼层的房间，寻找线索与物品，借此找到打开楼梯间大门的钥匙，逐层向下，最终与遗作本人正面对决。",
+  "vndb_url": "https://vndb.org/v2340"
+}

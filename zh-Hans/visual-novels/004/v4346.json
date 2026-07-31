@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4346",
+  "type": "visual_novel",
+  "name": "Hoshinono.",
+  "original_name": "ほしのの。",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A heartwarming rural adventure.",
+  "source_sha256": "4259a518c85d7109cc1aae660e8923fb1a054d0b488f2f681a165318a82cc6f8",
+  "translation": "一段温暖人心的乡村冒险。",
+  "vndb_url": "https://vndb.org/v4346"
+}

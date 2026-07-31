@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1924",
+  "type": "visual_novel",
+  "name": "Angelic Orbs: Broken Memories",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as Kevin, whose life changes one day with a chance meeting with a demon hunting for a glass orb. Running for his life he ends up in a nearby town, where he encounters a strange group of people also on the lookout for this strange glass orb.\n\nSoon he is dragged along unwillingly, and may even have to choose what side in this hunt he wishes to take.",
+  "source_sha256": "3418e84164400d06c2c7938df0fc0759a116009508358eeef81191e1d3ea6fef",
+  "translation": "玩家将扮演凯文。一天，他偶然遇见了一头正在寻找玻璃宝珠的恶魔，人生也从此发生改变。为了逃命，他来到附近的一座城镇，并在那里遇见了一群同样正在寻找这颗奇异玻璃宝珠的人。\n\n很快，他便身不由己地被卷入事件，甚至不得不决定自己要在这场争夺中站在哪一边。",
+  "vndb_url": "https://vndb.org/v1924"
+}

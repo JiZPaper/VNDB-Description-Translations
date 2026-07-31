@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1025",
+  "type": "visual_novel",
+  "name": "ef - First Fan Disc",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A prelude fandisk that introduces the story of 'ef - the first tale'.",
+  "source_sha256": "1947d44c03f08c9b3d7bb42f610e75c73bd8ebd4121500987e8c94cd0c62985b",
+  "translation": "一部前传Fan Disc，用于介绍《ef - the first tale》的故事。",
+  "vndb_url": "https://vndb.org/v1025"
+}

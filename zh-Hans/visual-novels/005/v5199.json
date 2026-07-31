@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5199",
+  "type": "visual_novel",
+  "name": "Tayumi.",
+  "original_name": "たゆみ。",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Tayumi has the day off from school today. \nShe decides to spend the day thinking about the number 0. \nWhy can't you divide by zero? \nYou can divide by any other number. Why is zero the only number you can't divide? \nThat feels a little... lonely.",
+  "source_sha256": "2d8b09f43b81e70ab420ee80ad98ada69dc6619c28103963b25443959568175d",
+  "translation": "今天，弛美请假没有去学校。\n她决定用一整天思考数字0。\n为什么不能除以零？\n任何其他数字都可以作为除数，为什么只有零不行？\n这让人觉得有点…孤单。",
+  "vndb_url": "https://vndb.org/v5199"
+}

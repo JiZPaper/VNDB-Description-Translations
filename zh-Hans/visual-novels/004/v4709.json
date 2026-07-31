@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4709",
+  "type": "visual_novel",
+  "name": "Kindaichi Shounen no Jikenbo: Hihoutou Aratanaru Sangeki",
+  "original_name": "金田一少年の事件簿 悲報島 新たなる惨劇",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Treasure Isle is rumored to hide a vast bounty of gold said to be guarded by the legendary beast \"Yamawara\", which Kindaichi and other treasure hunters gather to search for. But the host is killed before the group even arrives, and a bloody slaying takes place during a time in which none of the people on the island could have done it. Will the island's mythical monster-guardian claim more victims?\n\n[from [url=http://psxdata.snesorama.us/games/J/K/SLPS-00601.html]Playstation DataCenter[/url]]",
+  "source_sha256": "58f986287d436ea6e05f745b209cefce3f815428162ab170720c185a57917b98",
+  "translation": "传闻秘宝岛隐藏着巨额黄金，并由传说中的怪兽“山童”守护。金田一与其他寻宝者为此聚集而来。然而众人尚未抵达，召集者便已遭杀害；随后又发生一场血腥杀戮，而当时岛上的任何人似乎都不可能犯案。岛上传说中的怪兽守护者还会夺走更多生命吗？\n\n[摘自[url=http://psxdata.snesorama.us/games/J/K/SLPS-00601.html]Playstation DataCenter[/url]]",
+  "vndb_url": "https://vndb.org/v4709"
+}

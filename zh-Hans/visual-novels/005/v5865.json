@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5865",
+  "type": "visual_novel",
+  "name": "Allusions: A Vampire Story",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short kinetic novel about a girl and a vampire.",
+  "source_sha256": "ca4685c1c4eee877b3ea2fedcea0ceeaafd17d7ed6849b7aae235a363470bd57",
+  "translation": "一部讲述女孩与吸血鬼的短篇视觉小说。",
+  "vndb_url": "https://vndb.org/v5865"
+}

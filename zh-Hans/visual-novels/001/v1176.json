@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1176",
+  "type": "visual_novel",
+  "name": "Angel Wish ~Houkago no Meshitsukai ni Chu!~",
+  "original_name": "AngelWish～放課後の召使いにチュッ!～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are an average high school student that has just moved to a new town. Suddenly, a girl in a maid outfit comes in front of you and says you are the prince of the country of Stella. Thus, you go with the girl to the country and you start living your life as a prince, attending school with cute girls!",
+  "source_sha256": "cdde04f9654fbb3cecd875b828b32fadfbd6ca14135354ba67d500b303322f2b",
+  "translation": "你是一名刚搬到新城镇的普通高中生。突然，一名身穿女仆装的少女出现在你面前，声称你是斯特拉王国的王子。于是，你跟随她来到那个国家，从此以王子的身份生活，与可爱的女孩们一同上学！",
+  "vndb_url": "https://vndb.org/v1176"
+}

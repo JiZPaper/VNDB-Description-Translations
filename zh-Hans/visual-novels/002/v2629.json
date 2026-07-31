@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2629",
+  "type": "visual_novel",
+  "name": "Yukigatari",
+  "original_name": "雪語り",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game takes place in a snowy mountain area, where the protagonist takes part in a skiing course. Of course he isn't alone and, conveniently-enough, ends up with a lot of female company.\n\n(from [url=http://www.rpgfan.com/news/2002/1937.html]RPGFan[/url])",
+  "source_sha256": "079f9e32ae23b847002c8a21d4fab07191fb51c2452a38fd525d77aae900a683",
+  "translation": "故事发生在白雪覆盖的山区，主人公参加了一项滑雪课程。他当然不是独自前往，而且十分幸运地与许多女性结伴同行。\n\n[摘自[url=http://www.rpgfan.com/news/2002/1937.html]RPGFan[/url]]",
+  "vndb_url": "https://vndb.org/v2629"
+}

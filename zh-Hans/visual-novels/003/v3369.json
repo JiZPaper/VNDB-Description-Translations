@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3369",
+  "type": "visual_novel",
+  "name": "River Trap",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The river, that flows through your city... there is something mystical and majestic to it. And years after, you can't seem to avoid getting drawn to it. It is as if the river... liked you.\n\n[From official site]",
+  "source_sha256": "f83b28130391b0623bb505fd70b96c7add3b6111992ac80be1c391f4e3952606",
+  "translation": "那条流经你所在城市的河流…总带着某种神秘而庄严的气息。多年后，你仍无法避免被它吸引。仿佛这条河…喜欢着你。\n\n[摘自官方网站]",
+  "vndb_url": "https://vndb.org/v3369"
+}

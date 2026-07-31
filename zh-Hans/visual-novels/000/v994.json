@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v994",
+  "type": "visual_novel",
+  "name": "Tail Tale",
+  "original_name": "ている・ている",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Ginta is a veterinary doctor at a large hospital. One day, he's appointed to treat six patients, who much to his surprise aren't animals... but people!",
+  "source_sha256": "f9aba4f617ee267c27d9ce5cf21b0754ebee763c56b3b3083ed51c577e154d66",
+  "translation": "金太是一家大型医院的兽医。某天，他接到任务，要为六名患者诊疗；令他惊讶的是，这些患者并不是动物……而是人类！",
+  "vndb_url": "https://vndb.org/v994"
+}

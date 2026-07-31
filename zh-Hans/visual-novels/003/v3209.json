@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3209",
+  "type": "visual_novel",
+  "name": "Seitokai no Ichizon - DS Suru Seitokai",
+  "original_name": "生徒会の一存 -DSする生徒会-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You take control of Sugisaki Ken, the sole male member of Hekiyou Academy's student council. Your mission is to make the rest of the student council members his harem by Christmas Day by improving popularity for nine months from April to December. \n\n[From Himeya Shop]",
+  "source_sha256": "ec0d9deec0154a2a1bc9df172958db1c3010663eb4cb387a1d8067dc5c50e05f",
+  "translation": "玩家将操纵碧阳学园学生会唯一的男性成员杉崎键。你的任务是在四月至十二月的九个月间提高人气，争取在圣诞节前让学生会的其他成员都成为他的后宫。\n\n[摘自Himeya Shop]",
+  "vndb_url": "https://vndb.org/v3209"
+}

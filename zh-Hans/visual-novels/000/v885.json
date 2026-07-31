@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v885",
+  "type": "visual_novel",
+  "name": "Sailor Moon Dating Simulator: Moon Maid",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The goal of the game is to win love of Usagi Tsukino by asking her out on dates, giving her gifts or playing mini-games.\n\nUsagi's outfit is inspired by ep.#193.\n\n[From [url=https://web.archive.org/web/20130116034308/http://www.sailorvgame.org/mg/smds/smds_maid.htm]Sailorvgame.org[/url]]",
+  "source_sha256": "146e9fa3c448cfdc4161f730aff964d6cb51bb78dd0ae48282eab5466ef9027d",
+  "translation": "游戏目标是通过邀请月野兔约会、赠送礼物或游玩小游戏，赢得她的爱情。\n\n月野兔的服装灵感来自第193集。\n\n[摘自[url=https://web.archive.org/web/20130116034308/http://www.sailorvgame.org/mg/smds/smds_maid.htm]Sailorvgame.org[/url]]",
+  "vndb_url": "https://vndb.org/v885"
+}

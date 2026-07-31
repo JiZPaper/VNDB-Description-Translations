@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1471",
+  "type": "visual_novel",
+  "name": "Monochromie : Blanche",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A cold doll, embedded with the knowledge of the world. This is the VN version of an entry for the PenOfChaos Novel contest 2007. This year's theme was \"The door\".\n\nBuilt with Ren'Py, source code provided.",
+  "source_sha256": "4201460fedcd9e15f5e1ff97fcf9475e8eace32a2e3b5f8cb2a7bbe3008a6e63",
+  "translation": "一具冰冷的人偶，体内嵌入了全世界的知识。本作是参加2007年PenOfChaos小说大赛作品的视觉小说版本，当年主题为“门”。\n\n使用Ren'Py制作，并提供源代码。",
+  "vndb_url": "https://vndb.org/v1471"
+}

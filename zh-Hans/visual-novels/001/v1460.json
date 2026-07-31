@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1460",
+  "type": "visual_novel",
+  "name": "MinDeaD BlooD ~Mayu to Mana no Yuketsubako~",
+  "original_name": "MinDeaD BlooD ～麻由と麻奈の輸血箱～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An expansion/fandisk to MinDeaD BlooD.\nIncludes extra endings, CG's, and other features.",
+  "source_sha256": "4422c6e91da1000695b576771dc529de8ab197a28604d00918fc5636d207abd8",
+  "translation": "《MinDeaD BlooD》的扩展包与Fan Disc。\n收录追加结局、CG及其他内容。",
+  "vndb_url": "https://vndb.org/v1460"
+}

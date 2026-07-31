@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2099",
+  "type": "visual_novel",
+  "name": "Love Plus",
+  "original_name": "ラブプラス",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You will meet a girl at a town called Towanoshi, where you moved to, and pile up memories with her as \"friends\". And the day, on which you tell your love to her, will finally come... But your story won't end yet. Your love story will still last as \"boyfriend/girlfriend\".\n\n[From HimeyaShop]",
+  "source_sha256": "4609a7ad4abd87fc2525a31a2de4771dae8698e724d8d8584638ea39e9984f93",
+  "translation": "你将在搬入的十羽野市邂逅一名少女，并以“朋友”的身份与她共同积累回忆。终于有一天，你会向她倾诉爱意…然而故事并不会就此结束。成为“恋人”之后，你们的爱情故事仍将继续。\n\n[摘自HimeyaShop]",
+  "vndb_url": "https://vndb.org/v2099"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4603",
+  "type": "visual_novel",
+  "name": "Toki no Tabibito",
+  "original_name": "時空の旅人",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Based on the events of anime work with the same title. Time Stranger is the story of several teenagers getting transported back in time through Japan's history, and getting mixed up with samurai shenanigans.",
+  "source_sha256": "9d1597d6cb2c306def413945fb8a5bcccbd59904d01b6d2bc1923e75db2a767e",
+  "translation": "本作改编自同名动画。《时空的旅人》讲述几名少年穿越回日本历史上的不同时代，并被卷入武士引发的种种风波。",
+  "vndb_url": "https://vndb.org/v4603"
+}

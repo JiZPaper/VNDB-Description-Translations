@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1332",
+  "type": "visual_novel",
+  "name": "Mikuri Makuri",
+  "original_name": "みくりまくり",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fandisc of Fairly Life focusing on the heroine Takaoka Miku.",
+  "source_sha256": "37bb73b643800858947e9244b2260205e6e502acbea8ad44810c42bfcf2064f0",
+  "translation": "《Fairly Life》的Fan Disc，主要聚焦女主角高冈未来。",
+  "vndb_url": "https://vndb.org/v1332"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2703",
+  "type": "visual_novel",
+  "name": "Kao no nai Tsuki Select Story",
+  "original_name": "顔のない月 Select Story",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "All ages version of Suzuna's route from [url=/v240]Kao no nai Tsuki[/url].",
+  "source_sha256": "2b167fc9cab025fa12274402a14e5e64eeb65e7a7cbe4736ab2f73ddf9b0bdc2",
+  "translation": "[url=/v240]《无颜之月》[/url]铃菜路线的全年龄版。",
+  "vndb_url": "https://vndb.org/v2703"
+}

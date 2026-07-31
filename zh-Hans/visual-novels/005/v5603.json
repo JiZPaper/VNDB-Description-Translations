@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5603",
+  "type": "visual_novel",
+  "name": "El Dorado Denki",
+  "original_name": "エルドラド伝奇",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Your friend has been murdered. His sister has been kidnapped. You have to save her! In order to do so, you'll have to go to El Dorado, the land of the Amazonekos, or cat girl amazons.",
+  "source_sha256": "fd5400d4e803efe1b761bf39776bdbcecf7fa88f53a4917bd2b651565a1c9409",
+  "translation": "你的朋友遭到杀害，他的妹妹也被绑架。你必须救出她！为此，你需要前往黄金乡——猫耳女亚马逊人的国度。",
+  "vndb_url": "https://vndb.org/v5603"
+}

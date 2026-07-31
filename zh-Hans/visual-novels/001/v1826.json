@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1826",
+  "type": "visual_novel",
+  "name": "Zero Shiki",
+  "original_name": "零式",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In order to find their father who has gone missing, the twins Akane and Naomi participate in 'Chariot Fest', a tournament in which people try and amass the most points by destroying robots in an underground maze.",
+  "source_sha256": "2e259884e7cccb12831eb51a2b3c02049b4f317be3dcbab266835275c99ff936",
+  "translation": "为了寻找失踪的父亲，双胞胎茜与直美参加了“Chariot Fest”。参赛者要在地下迷宫中摧毁机器人，尽可能积累更多分数。",
+  "vndb_url": "https://vndb.org/v1826"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v532",
+  "type": "visual_novel",
+  "name": "Bra-Ban!",
+  "original_name": "ぶらばん！",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as part of the brass section of the school band. However, they have closed your school due to low student population and have redistricted all who went there to another school. That school's brass band has already been well established there, and your new school cannot have two brass bands. Not only that, but they ridicule you and your classmates and consider the lot of you untalented. To remedy this situation, the two bands have been issued a contest--judged by the student body--to see who is truly better and who will be the formal brass band. You only have a month to practice and be the best.\n\n[From White Masq]",
+  "source_sha256": "ad0bc5c663c3d5304b3662ae5dbca79edd5c5d4c2c7dace9cfa8a7d02c0d76b5",
+  "translation": "玩家是学校乐队铜管声部的一员。然而，由于学生人数过少，你的学校遭到关闭，所有学生都被重新分配到另一所学校。新学校早已有一支成熟的铜管乐队，而校内不能同时存在两支。更糟的是，对方嘲笑你和同学，认为你们毫无才华。为解决争端，两支乐队将举行一场由全体学生评判的比赛，决定谁的实力更强、谁能成为学校正式乐队。你只有一个月时间练习，必须做到最好。\n\n[摘自White Masq]",
+  "vndb_url": "https://vndb.org/v532"
+}

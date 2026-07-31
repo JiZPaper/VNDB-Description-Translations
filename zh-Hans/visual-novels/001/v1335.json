@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1335",
+  "type": "visual_novel",
+  "name": "Suzunone Seven!",
+  "original_name": "スズノネセブン！",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Suzunone Magic Academy is a prestigious educational and research establishment where magic meets science. Established shortly after magic has been first discovered, it has departments dedicated both to the study of magic itself, and to the engineering of devices that use magic.\n\nKido Yukimura is a student in the Academy's engineering division. He cannot use magic, and his unorthodox engineering approach has landed him in Suzunone Trial, a special training camp where the worst seven students from the academy are chosen every year. Each of those students is given a special personal assignment they have to pass in order to avoid getting expelled, and the assignment Yukimura gets is to \"fulfill someone's wish using magic\", which, given his inability to use magic, is challenging to say the least. How will he get out this predicament? And whose wish will he choose to fulfill?",
+  "source_sha256": "ee73f46412e833b9897366e10bb1ca5249af15fa8e1e79f49c5adb4b5fcb69ba",
+  "translation": "铃之音魔法学园是一座魔法与科学交汇的著名教育研究机构。魔法被发现后不久，学园便宣告成立，既设有专门研究魔法本身的部门，也设有研发魔法装置的工程部门。\n\n城户幸村是学园工程部的学生。他无法使用魔法，非传统的工程思路又让他被送进“铃之音试炼”——一座每年从学园选出最差7名学生参加的特殊训练营。每名学生都会得到一项必须完成的个人课题，否则便会遭到退学处分。幸村的课题是“使用魔法实现某人的愿望”。考虑到他根本不会使用魔法，这项任务至少可以说极具挑战。他要如何摆脱困境？又会选择实现谁的愿望？",
+  "vndb_url": "https://vndb.org/v1335"
+}

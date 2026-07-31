@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5815",
+  "type": "visual_novel",
+  "name": "Doushiyou mo nai Boku ni Akuma ga Oritekita",
+  "original_name": "どうしようもない僕に悪魔が降りてきた",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel with a typing minigame.\n\nThe setting is a small provincial city.\nThe protagonist is a miserably unpopular high-schooler.\nThen one day he meets a girl who says she is a devil.",
+  "source_sha256": "7ac0b240824c0ecbdc19f81972e19a9cb857ad2c289614a75ae18c019c01f162",
+  "translation": "一部带有打字小游戏的视觉小说。\n\n故事发生在一座地方小城。\n主人公是一名极不受欢迎的可怜高中生。\n某一天，他遇见了一名自称恶魔的女孩。",
+  "vndb_url": "https://vndb.org/v5815"
+}

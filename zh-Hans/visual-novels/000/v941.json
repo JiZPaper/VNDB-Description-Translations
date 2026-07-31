@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v941",
+  "type": "visual_novel",
+  "name": "Wings",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short non-branching anime-themed visual novel created with the renpy engine. Features include full-color original artwork and atmospheric sound effects and music. The story is mostly emotional and psychological drama told from the point of view of the only two characters. \n\n[From [url=https://web.archive.org/web/20250330003252/https://renai.us/game/wings]Ren'Ai Archive[/url]]",
+  "source_sha256": "5a82d2f9298566440ab2dc4b7686d6ee782e9cf3b6794bc167892eaba407c36e",
+  "translation": "一部使用Ren'Py引擎制作、无分支的动画风格短篇视觉小说。特色包括全彩原创画面，以及烘托氛围的音效和音乐。故事主要是一部情感与心理剧，以仅有的两名角色之视角展开。\n\n[摘自[url=https://web.archive.org/web/20250330003252/https://renai.us/game/wings]Ren'Ai Archive[/url]]",
+  "vndb_url": "https://vndb.org/v941"
+}

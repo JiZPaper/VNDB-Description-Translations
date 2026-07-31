@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4525",
+  "type": "visual_novel",
+  "name": "Suishou no Dragon",
+  "original_name": "水晶の龍",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The interstellar shuttle your friends were on has mysteriously disappeared, so you've flown out to\ninvestigate. Before you can find them, however, you're attacked by a fiercely territorial dragon. You only survive thanks to the timely intervention of a crystal-eyed woman who warns you not to pull any more stunts.\n\nSo begins Crystal Dragon, over the course of which you'll pull basically\nnothing BUT reckless stunts in an attempt to find out what happened to your friends.\n\n[From [url=http://mute.vblank.net/snd.txt]Mute[/url]]",
+  "source_sha256": "403ec37900160646bab767b34a9230be8de4542345e964544fb412afddc7810b",
+  "translation": "你朋友们乘坐的星际穿梭机神秘失踪，于是你驾机前去调查。然而，还没找到他们，你便遭到一条领地意识极强的龙袭击。幸亏一名拥有水晶般双眸的女子及时出手，你才得以幸存；她还警告你不要再做任何鲁莽之举。\n\n《水晶之龙》的故事由此展开。在寻找朋友下落的过程中，你几乎做的全都是这种鲁莽之举。\n\n[摘自[url=http://mute.vblank.net/snd.txt]Mute[/url]]",
+  "vndb_url": "https://vndb.org/v4525"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5745",
+  "type": "visual_novel",
+  "name": "Shinobi Kokoro",
+  "original_name": "忍ココロ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist, Takumi Maeda, is in his second year at Shiranuiouka School. It seemed like it was just a normal school, but it turns out that part of it is a ninja training school!",
+  "source_sha256": "30b9f1a840598a94dd992178887deae4fcc66956506f4b37143be5c06047c8db",
+  "translation": "主人公前田匠就读于不知火丘学园二年级。这里看起来只是一所普通学校，但其中一部分实际上是忍者培训学校！",
+  "vndb_url": "https://vndb.org/v5745"
+}

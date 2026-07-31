@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v952",
+  "type": "visual_novel",
+  "name": "Sakura Taisen",
+  "original_name": "サクラ大戦",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The original storyline, said to be inspired by the Shochiku Kagekidan, takes place in an alternate 1920s Tokyo. It follows the adventures of an all-female secret task force known as the Imperial Assault Force — Flower Division as they defend the Imperial Capital Tokyo against evil. They are led by Ichiro Ogami, a newly graduated Imperial Navy Ensign who had been assigned to the squad partly due to his unique ability to use a special type of armor that only women having high levels of spiritual powers could previously operate.\n\n[From [url=http://en.wikipedia.org/wiki/Sakura_Wars]Wikipedia[/url]]",
+  "source_sha256": "d08893a5371a8f4cf44b713191801eb3a4015ba01a2a7fa778d120b017cdd7b3",
+  "translation": "原作故事据说受松竹歌剧团启发，舞台设定在另一个版本的20世纪20年代东京。故事讲述一支名为帝国华击团·花组的全女性秘密部队守护帝都东京、对抗邪恶的冒险。她们由刚从帝国海军学校毕业的少尉大神一郎率领。大神被派往该部队，部分原因在于他拥有独特能力，能够操纵一种过去只有灵力高强的女性才能驾驶的特殊装甲。\n\n[摘自[url=http://en.wikipedia.org/wiki/Sakura_Wars]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/v952"
+}

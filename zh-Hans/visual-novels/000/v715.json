@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v715",
+  "type": "visual_novel",
+  "name": "Gyakuten Saiban 2",
+  "original_name": "逆転裁判2",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The setting for the game takes place roughly one year after the events of the first game. Like the first game, the first trial is a tutorial one that guides the player, Phoenix Wright, into all of the elements of the Ace Attorney courtroom. This is established by having Phoenix receive amnesia due to a head trauma. The remaining three trials are united by the mysterious disappearance of prosecutor Miles Edgeworth.\n\nJustice For All plays similarly to the first Ace Attorney game as a visual novel/adventure game. While the game has been adapted from the GBA version to use the DS touch screen, none of the special investigation techniques introduced in the \"Rise from the Ashes\" case from the first game reappear.\n\nA small but significant change is that a player can now present the profiles of people involved with the case, in addition to the evidence in the Court Record. The player can present them either during the court room or investigative phases.\n\nJustice for All features a new gameplay concept called Psyche-Lock. Phoenix Wright has to unlock several locks that have been placed over a witness' heart in order to reveal the truth.\n\n[Edited from [url=http://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney_-_Justice_for_All]Wikipedia[/url]]",
+  "source_sha256": "c7120c4e3573a640259e9071866217edc25562f785025a7709c5249c25453311",
+  "translation": "本作发生在前作约一年后。与第一部一样，第一场审判是引导玩家熟悉《逆转裁判》法庭系统的教学关卡，安排成步堂龙一因头部受伤而暂时失忆。其余三场审判则由检察官御剑怜侍的神秘失踪串联起来。\n\n《逆转裁判2》的玩法与前作相似，仍是一部视觉小说与冒险游戏。虽然游戏从GBA移植到DS并支持触摸屏，但第一部追加章节‘复苏的逆转’引入的特殊调查技术并未回归。\n\n一项虽小却重要的变化是，除了法庭记录中的证物，玩家如今也能出示案件相关人物的档案，无论在法庭还是调查阶段都可以使用。\n\n本作还加入名为‘心灵枷锁’的新系统。成步堂必须解开锁在证人心中的数道枷锁，才能揭示真相。\n\n[编辑自[url=http://en.wikipedia.org/wiki/Phoenix_Wright:_Ace_Attorney_-_Justice_for_All]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/v715"
+}

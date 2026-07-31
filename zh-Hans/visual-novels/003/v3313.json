@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3313",
+  "type": "visual_novel",
+  "name": "The Scaglietti",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The insurance company sends you to oversee the restoration of paintings supervised by professor Claudia Ascari. However, soon there appears to be evidence of a possible crime.\n\n[From [url=https://atpprojects.itch.io/scaglietti]Itch.io[/url]]",
+  "source_sha256": "fb20dd8411f366aad952bfbcc43a50873055d87b5ddf375820fd948ac1fe4b67",
+  "translation": "保险公司派你监督由Claudia Ascari教授主持的画作修复工作。然而不久，现场似乎出现了某起犯罪的证据。\n\n[摘自[url=https://atpprojects.itch.io/scaglietti]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v3313"
+}

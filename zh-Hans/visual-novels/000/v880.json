@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v880",
+  "type": "visual_novel",
+  "name": "Akira",
+  "original_name": "アキラ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Akira is a graphic adventure game based on the 1988 animated movie of Katsuhiro Otomo's epic Manga. Released in 1988 by Taito for the Famicom console, the video game version has the player in the role of Kaneda. Events begin with Kaneda and his motorcycle gang in police custody after their friend Tetsuo has been abducted by the military.\n\n[From [url=http://en.wikipedia.org/wiki/Akira_(video_game)]Wikipedia[/url]]",
+  "source_sha256": "62644e05a81301d34c8f8a659f249de3cf97fa7887db7e19af8779570556a20f",
+  "translation": "《阿基拉》是一款根据大友克洋史诗漫画改编的1988年同名动画电影制作的图像冒险游戏。电子游戏版由太东于1988年在红白机平台发售，玩家扮演金田。故事从金田和他的摩托车党被警方拘留开始，他们的朋友铁雄则已遭军方绑架。\n\n[摘自[url=http://en.wikipedia.org/wiki/Akira_(video_game)]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/v880"
+}

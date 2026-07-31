@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3694",
+  "type": "visual_novel",
+  "name": "The Boy Who Loved Crows",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A chance meeting between a down-to-earth farmer and an idealistic young boy can change how both view the world around them.\n\n[From the [url=https://web.archive.org/web/20240714234120/https://games.renpy.org/game/tbwlc]Ren'Ai Archive[/url]]",
+  "source_sha256": "ca02f3b990e2548b2fd3d55751bf19a86d5259c4b8cb243d964ca82ee3ff6e8c",
+  "translation": "一名脚踏实地的农夫偶然遇见了一位怀抱理想的少年，这次相遇或许会改变两人看待周遭世界的方式。\n\n[摘自[url=https://web.archive.org/web/20240714234120/https://games.renpy.org/game/tbwlc]Ren'Ai Archive[/url]]",
+  "vndb_url": "https://vndb.org/v3694"
+}

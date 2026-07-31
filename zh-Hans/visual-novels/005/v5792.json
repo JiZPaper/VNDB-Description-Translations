@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5792",
+  "type": "visual_novel",
+  "name": "Nanpa-machi",
+  "original_name": "ナンパまち",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "On a boring day with nothing to do, the protagonist goes around town. Could she perhaps find love?",
+  "source_sha256": "0fefde6595e27c739513462a214cb826fe1fcdca0f326247e9d4b9c251010541",
+  "translation": "在一个无聊又无事可做的日子里，主人公走上街头四处闲逛。她会不会就此邂逅爱情呢？",
+  "vndb_url": "https://vndb.org/v5792"
+}

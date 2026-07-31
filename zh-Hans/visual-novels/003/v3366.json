@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3366",
+  "type": "visual_novel",
+  "name": "Amatire",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A lone ranger meets a young woman who wants to be his apprentice in the woods.",
+  "source_sha256": "3629009d9e6727a8d0017ca28ac9064e63dc5b822b78bc7e96b5d52974ab4a51",
+  "translation": "一名独行侠在森林中遇见了一位希望拜他为师的年轻女子。",
+  "vndb_url": "https://vndb.org/v3366"
+}

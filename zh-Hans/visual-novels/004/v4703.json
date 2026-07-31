@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4703",
+  "type": "visual_novel",
+  "name": "Kurai Heya",
+  "original_name": "暗い部屋",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Seitaro Hino has lived a life secluded from society, together with his mother since childhood. He easily gets ill whenever he inhales the polluted air outdoors, so he spends his days by indulging in self-studies and literature in his apartment, darkened by the boarded-up windows. One day, when his mother suddenly dies, Seitaro is forced out into society and surprisingly his respiratory disease seems to have been cured by itself.\n\nNevertheless, all these sudden happenings and new impressions are too much for him, and he is soon struck by aphonia. His aunt, Yoko Oshikawa, decides to take care of him until he has adapted himself to the new environment and is able to stand on his own.",
+  "source_sha256": "9c774ec6a1ff0df4a921f559247ba3de5fa2b451c26f4daf7dd2c72fa85f6a73",
+  "translation": "日野清太郎从小便与母亲一起过着远离社会的生活。他只要吸入户外受污染的空气就很容易生病，因此终日待在窗户被木板封住、昏暗不见天日的公寓里，自学知识、沉浸文学。一天，母亲突然去世，清太郎被迫走入社会，而他的呼吸系统疾病竟似乎自行痊愈了。\n\n然而，接踵而来的变故和全新体验令他难以承受，很快又患上失语症。姨母押川洋子决定照顾他，直到他适应新环境，能够独立生活。",
+  "vndb_url": "https://vndb.org/v4703"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3112",
+  "type": "visual_novel",
+  "name": "Kyokugen Dasshutsu - 9-Jikan 9-Nin 9 no Tobira",
+  "original_name": "極限脱出 9時間9人9の扉",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Nine people have been kidnapped by a mysterious person called Zero and are forced to participate in a survival game called the \"Nonary Game\". Each player has a bracelet numbered 1–9, which they must use to pass through doors numbered 1–9 to reach the exit before 9 hours run out and the ship in which they are in sinks. Various puzzles must be solved in order to advance through the ship and reach the exit, while uncovering the mysteries behind the Nonary Game.\n\n[Edited from a post from ntsc-uk]",
+  "source_sha256": "a470d8a9efb30364a8c90666e7029409e3be20838755932c60a3b19f0d37d2f6",
+  "translation": "九人遭名为Zero的神秘人物绑架，被迫参加一场名为“Nonary Game”的生存游戏。每名玩家都佩戴编号一至九的手环，必须用它通过同样编号一至九的门，在九小时结束、所乘船只沉没之前抵达出口。众人需要解开各种谜题，在船内不断前进、寻找出口，同时揭开Nonary Game背后的秘密。\n\n[编辑自ntsc-uk的一篇帖子]",
+  "vndb_url": "https://vndb.org/v3112"
+}

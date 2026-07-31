@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2101",
+  "type": "visual_novel",
+  "name": "Carriban -Carriere Fandisc-",
+  "original_name": "キャリばん-キャリエールファンディスク-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fandisc to games made by Carriere",
+  "source_sha256": "d53683068b8a9db376c0becdea6ff67416b58dbb4d85037f6432381c0d0f7a7c",
+  "translation": "Carriere旗下游戏的Fan Disc。",
+  "vndb_url": "https://vndb.org/v2101"
+}

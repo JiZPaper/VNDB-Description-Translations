@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4859",
+  "type": "visual_novel",
+  "name": "High School Terra Story",
+  "original_name": "ハイスクールテラストーリー",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Basically, you have about three and an half months to finish the game with one girl. Each day, you start out at school and you have a parameter with three sections: Studies, Athletics, and Art. Depending on how you build up this parameter and how you interact with the characters, the story will change. You also receive love points if you answers questions by the girls you interact with correctly. You do not freely move in this game, it directs you by your parameter and how you answer questions with the girls. You can choose which girl you want to finish the game with by using that method. You also earn money and you have a meter that tells you how tired you are.",
+  "source_sha256": "69350950d840dffd5ae34d80b39648e8c9681f1715a18596f51d2b701f091a5e",
+  "translation": "玩家大约有三个半月时间，与一名女孩共同完成游戏。每天从学校开始，角色拥有学习、体育和艺术三项能力。故事会根据能力培养方式以及与人物互动的情况发生变化。正确回答女孩提出的问题还会获得恋爱点数。玩家无法在游戏中自由移动，流程会根据能力数值和回答方式自动引导。通过这些机制，可以选择希望共同进入结局的女孩。此外，玩家还能赚钱，并通过一个计量表查看疲劳程度。",
+  "vndb_url": "https://vndb.org/v4859"
+}

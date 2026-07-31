@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v319",
+  "type": "visual_novel",
+  "name": "Suika ~Oo 157 Shou~",
+  "original_name": "水夏 ~SUIKAおー・157章~",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A 'Learning Software' of sorts officially endorsed by the Japanese government aiming to educate people on how to avoid food poisoning, and specifically the 'Escherichia coli O157:H7' bacteria strain, a leading cause of foodborne illness.\n\n[From [url=http://bluemist.animeblogger.net/archives/circus/]Blue Mist[/url]]\n\nIt was released simultaneously with the all ages version of the original Suika and features chibi versions of the game's characters in an ADV/Quiz game consisting of four different chapters, each one with it's own individual story including tasks like finding a way to cure an infection or to master the art of cooking.",
+  "source_sha256": "e49f94eb1b96791dfbf58dd263c3944674e46ba5b4ce7b7cd10f49d16893e801",
+  "translation": "这是一款获得日本政府正式认可的“学习软件”，旨在教育人们如何预防食物中毒，尤其是由食源性疾病主要致病菌之一——大肠杆菌O157:H7型引发的中毒。\n\n[摘自[url=http://bluemist.animeblogger.net/archives/circus/]Blue Mist[/url]]\n\n本作与初代《水夏》的全年龄版同步发售，采用游戏角色的Q版形象，是一款由四个章节组成的冒险／问答游戏。各章都有独立故事，其中包括寻找治疗感染的方法、掌握烹饪诀窍等任务。",
+  "vndb_url": "https://vndb.org/v319"
+}

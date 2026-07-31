@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2366",
+  "type": "visual_novel",
+  "name": "The Cute, Light and Fluffy Project",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An anthology of four short games with the common theme of cute, light, and fluffy.\n\nStories included:\n\"Five Minutes\"\n\"My Eternal Rival\"\n\"Cloud Fairy\"\n\"Cuter than Fiction\"",
+  "source_sha256": "daffb0648db69a194c31edd15216abc19afb58a1fe7bda99dce040ab73900744",
+  "translation": "由四部短篇游戏组成的合集，主题均为可爱、轻松而温馨。\n\n收录故事：\n《Five Minutes》\n《My Eternal Rival》\n《Cloud Fairy》\n《Cuter than Fiction》",
+  "vndb_url": "https://vndb.org/v2366"
+}

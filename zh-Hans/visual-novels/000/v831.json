@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v831",
+  "type": "visual_novel",
+  "name": "Happy Princess ~Another Fairytale~",
+  "original_name": "はっぴぃプリンセス～Another Fairytale～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In this fandisc for Happy Princess you can play new stories with the main games heroines as well as a unique story with a new heroine, Nikita.",
+  "source_sha256": "7ebff806a8bd755fd53b73f8523fe6d9dce893767c237eaaea06274b1f94422e",
+  "translation": "在《Happy Princess》的这部Fan Disc中，你不仅可以体验与本篇女主角们有关的新故事，还能游玩以新女主角妮基塔为中心的独立篇章。",
+  "vndb_url": "https://vndb.org/v831"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1818",
+  "type": "visual_novel",
+  "name": "Hane-kun no Yuuutsu",
+  "original_name": "羽くんの憂鬱",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "When Kisaragi Hane's father dies, he goes to live with his beautiful mother and his three lovely sisters. Can he adjust to living in a house full of women?",
+  "source_sha256": "bb81b1c471a2783200b012db592f498dc8f47957e1aa366d7a7f4c2337f1a8be",
+  "translation": "如月羽的父亲去世后，他搬去与美丽的母亲和三个可爱的姐妹共同生活。他能适应这个满是女性的家吗？",
+  "vndb_url": "https://vndb.org/v1818"
+}

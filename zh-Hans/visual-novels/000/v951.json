@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v951",
+  "type": "visual_novel",
+  "name": "Higurashi no Naku Koro ni Fun",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short Higurashi parody starring the horned goddess Hanyuu, the energetic Satoko and Keiichi, whoever that is. \n\n* Taken from the game's page at Ren'Ai Archive.",
+  "source_sha256": "2f844666695954ce6d06b1527c3e1c26f2131a9a345b99438bb1d972aa9d55f5",
+  "translation": "一部以头上长角的神祇羽入、精力充沛的沙都子和圭一——不管圭一是谁——为主角的《寒蝉鸣泣之时》短篇戏仿作品。\n\n*摘自游戏在Ren'Ai Archive上的页面。",
+  "vndb_url": "https://vndb.org/v951"
+}

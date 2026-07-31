@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3261",
+  "type": "visual_novel",
+  "name": "Harukanaru Toki no Naka de 3: Izayoiki",
+  "original_name": "遙かなる時空の中で3 十六夜記",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Alternative version of Harutoki 3, contains new endings and new routes for Shirogane and ending for Taira no Tomomori.",
+  "source_sha256": "b1af84d2ccd750b7e39f6ebe61cebc9530c712a90d9d994fbbe6e81439aa2399",
+  "translation": "《遥远时空中3》的另一版本，收录全新结局、银的新路线，以及平知盛的结局。",
+  "vndb_url": "https://vndb.org/v3261"
+}

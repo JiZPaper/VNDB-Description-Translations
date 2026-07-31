@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4563",
+  "type": "visual_novel",
+  "name": "Love Hina - Smile Again",
+  "original_name": "ラブひな スマイル・アゲイン",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Gameplay is mostly just dialogue, but it has a few mini-games and the storyline can be changed based on a luck system. You take control over Keitaro and talk with the girls in Hinata House. Game starts with a menu screen, where you can choose between Story mode, Message Cards or Gallery Mode (Purikura). The story mode has 9 chapterss; Naru's Story, Mutsumi's Story, Motoko's Story, Kitsune's Story, Suu's Story, Shinobu's Story, Muzuho's Story, Bonus Story and Omake.\nOmake is the last chapter and you can only unlock it if you get a 100% score on the Story mode by completing the other chapters. Each chapter turns into a gold colored square when you have completed it.\n\nLucky Roulette\nThe player has to be lucky in order for the storyline to progress without problems. Between scenarios, the player must spin a wheel which has x's and o's on it. If you are lucky, you will land on an \"o\" and the storyline will continue without problems. If you are unlucky, you get an \"x\" and the storyline will take a turn for the worse.\n\nPurikura (Gallery)\nBased on Keitaro's Print Club book, this is the gallery in the game. When you win a picture anytime in the game, it will automaticly appear in the gallery.\n\nMessage Cards\nEach girl has certain message cards which are located throughout the Hinata House. If the player obtains them all, his ranking with that girl will increase.\n\n[From [url=http://lovehina.wikia.com/wiki/Love_Hina:_Smile_Again]Lovehina Wikia[/url]]",
+  "source_sha256": "b29a321feb6c41999fc20ce2f4eb5c0ac3c8a6dc7cdc1b875f7e66ea1f9924f4",
+  "translation": "游戏大部分内容由对话构成，但也包含少量小游戏，剧情会根据运气系统发生变化。玩家操控景太郎，与日向庄的女孩们交谈。开始菜单可选择故事模式、留言卡或相册模式（大头贴）。故事模式共有九章：奈留篇、睦美篇、素子篇、狐狸篇、苏篇、忍篇、瑞穗篇、奖励篇和附录篇。\n附录是最后一章，只有完成其余章节、令故事模式达成率达到100%后才能解锁。每完成一章，对应方格便会变成金色。\n\n幸运轮盘\n玩家需要足够幸运，剧情才能顺利发展。每段情节之间，玩家都必须转动一个标有叉和圆圈的轮盘。运气好时会停在圆圈上，剧情顺利继续；运气不好时则会停在叉上，故事也会朝更糟的方向发展。\n\n大头贴（相册）\n这是以景太郎的大头贴相册为基础制作的游戏画廊。在游戏中获得的任何图片都会自动出现在这里。\n\n留言卡\n每位女孩都有若干留言卡散落在日向庄各处。玩家集齐某位女孩的全部卡片后，与她的关系等级便会提高。\n\n[摘自[url=http://lovehina.wikia.com/wiki/Love_Hina:_Smile_Again]Lovehina Wikia[/url]]",
+  "vndb_url": "https://vndb.org/v4563"
+}

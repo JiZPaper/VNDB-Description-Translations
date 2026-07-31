@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4231",
+  "type": "visual_novel",
+  "name": "The Life Of A Pacifist Is Often Fraught With Conflict",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A day on job for a pacifist game maker.",
+  "source_sha256": "044356cd136a8128d665953e7707b9a57ecd3c504147cc76d10cd3da2bc259d2",
+  "translation": "一名和平主义游戏制作者的普通工作日。",
+  "vndb_url": "https://vndb.org/v4231"
+}

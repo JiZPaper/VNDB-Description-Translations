@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3679",
+  "type": "visual_novel",
+  "name": "Salem no Majo-tachi",
+  "original_name": "セイレムの魔女たち",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Year 1699. A young priest, named Kevin, sailed to the peaceful town in the British colony in the New World. This town's name was Salem. He is yet to know all of the horrors of the Salem's witch-hunt.",
+  "source_sha256": "7362803a96ea1c3ae90f39d2ab2ccddae676b903c1d068f85e2b393fb942fcf0",
+  "translation": "1699年，一名叫凯文的年轻牧师乘船来到新大陆英国殖民地的一座宁静小镇。这座小镇名叫塞勒姆。此时的他还不知道，塞勒姆猎巫将带来何等恐怖的一切。",
+  "vndb_url": "https://vndb.org/v3679"
+}

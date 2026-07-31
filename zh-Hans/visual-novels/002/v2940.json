@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2940",
+  "type": "visual_novel",
+  "name": "NekoNeko Fan Disc 3",
+  "original_name": "ねこねこファンディスク3",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Third fandisc for [url=/p135]NekoNeko[/url]'s games.",
+  "source_sha256": "7da4f6f5cea839e668a311f0563eb52c438e9c66030db4c39a7ff19111b0bdd9",
+  "translation": "[url=/p135]NekoNeko[/url]旗下游戏的第三部粉丝向光盘。",
+  "vndb_url": "https://vndb.org/v2940"
+}
