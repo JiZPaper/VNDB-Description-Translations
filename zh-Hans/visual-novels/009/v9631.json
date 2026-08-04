@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9631",
+  "type": "visual_novel",
+  "name": "Thief and Sword: Another Stories",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Collection of ten stories, showing what happend to the heroines of the \"Thief and Sword\" after the game and introducing them into the \"Thief and Troll\" game.",
+  "source_sha256": "27c28382fcc544f2859af9a414d96a07c6fad62a333cd1f3031e934903091f35",
+  "translation": "收录10篇故事的合集，讲述《盗贼与剑》各位女主角在本篇结束后的遭遇，并为她们在《盗贼与巨魔》中的登场铺陈背景。",
+  "vndb_url": "https://vndb.org/v9631"
+}

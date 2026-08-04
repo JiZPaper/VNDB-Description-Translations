@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9837",
+  "type": "visual_novel",
+  "name": "D.C. II ~Da Capo II~ Harukaze no Ultimate Battle!",
+  "original_name": "D.C.II ～ダ・カーポII～ 春風のアルティメットバトル!",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short scenario set in the graduation party before the events of DCII. The characters will compete to see whose class is the better!",
+  "source_sha256": "8f4a8f4723c77c8ae54fca4ee20f4872a76558faa350e154ba480d91b5f8907e",
+  "translation": "这是发生在《D.C.II》剧情开始前、毕业派对上的短篇剧本。角色们将展开竞争，争夺“哪个班级更优秀”的称号！",
+  "vndb_url": "https://vndb.org/v9837"
+}

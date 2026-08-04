@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9917",
+  "type": "visual_novel",
+  "name": "Lucian Bee's Justice Yellow",
+  "original_name": "ルシアンビーズ ジャスティス イエロー",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A fandisc for Lucian Bee's Resurrection Supernova focusing on METROPOLIS V.",
+  "source_sha256": "42f224163646cd7425bdf2ddfc3e4f9cc27957bf6e2cbe293cf2231b49dc770b",
+  "translation": "《Lucian Bee's》续作《Resurrection Supernova》的粉丝盘，主角为METROPOLIS V。",
+  "vndb_url": "https://vndb.org/v9917"
+}

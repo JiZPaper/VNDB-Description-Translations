@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9825",
+  "type": "visual_novel",
+  "name": "Guardian",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Our guy woke up in a dungeon without his memory. What will you have him do? Live life unknown, or go to town and find out who he is? This may sound like a role playing game, but it is a pick your choice adventure game with 90 different endings.\n\n[From [url=https://web.archive.org/web/20161210003249/http://www.members.shaw.ca/lisun/jhag-wng.htm]Li's Fun House[/url]]",
+  "source_sha256": "19c9eff9d4e126e4461c8c42ce6c58f41832a6b144863e2d1ae7cfd2ce004ccc",
+  "translation": "主人公在一座地牢里醒来，却失去了记忆。你会让他怎么做？就这样过着不知身份的生活，还是前往城镇，查明自己究竟是谁？这听起来或许像角色扮演游戏，但实际上是一款拥有90种不同结局的选择式冒险游戏。\n\n[引自[url=https://web.archive.org/web/20161210003249/http://www.members.shaw.ca/lisun/jhag-wng.htm]Li's Fun House[/url]]",
+  "vndb_url": "https://vndb.org/v9825"
+}

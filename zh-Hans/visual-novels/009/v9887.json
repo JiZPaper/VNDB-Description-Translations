@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9887",
+  "type": "visual_novel",
+  "name": "STEINS;GATE: Hen'i Kuukan no Octet",
+  "original_name": "STEINS;GATE 変移空間のオクテット",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An extension of the True End of the original game. Unlike the modern visual novel format of the original game, this retro game perfectly mimics the style of graphical text adventure games from the 8-bit PC era (e.g. PC-88), with the player typing short commands to interact with and explore the game world. It features all backgrounds and characters drawn in a low-color pixelated style with emulated scanlines, chiptune music played through an emulated FM chip, and no voice acting. The premise of the game features Okabe receiving a D-Mail from himself in 2025 that states that he must save the future by reclaiming an IBN 5100 from a person under of the alias \"Neidhardt\".\n\n[From [url=http://en.wikipedia.org/wiki/Steins;Gate#Sequels]Wikipedia[/url]]",
+  "source_sha256": "9bd8428f68eff39ec821969eb405001557fbc7f0c0dc07233617c7872f9b8ee8",
+  "translation": "这是原作真结局的延伸作品。与原作采用现代视觉小说形式不同，本作完全复刻了8位元电脑时代（如PC-88）的复古图像文字冒险风格，玩家需要输入简短指令，与游戏世界互动并探索其中。所有背景与角色都采用低色数像素风绘制，并加入模拟扫描线效果；音乐通过模拟FM芯片播放芯片音乐；全程没有语音。\n\n故事设定是：冈部伦太郎在2025年收到自己发来的D-Mail，得知必须从一名化名“疾风迅雷骑士”的人手中夺回IBN5100，才能拯救未来。\n\n[引自[url=http://en.wikipedia.org/wiki/Steins;Gate#Sequels]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/v9887"
+}

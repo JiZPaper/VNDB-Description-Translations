@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9958",
+  "type": "visual_novel",
+  "name": "Flavor of Chocolate",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Make chocolate. Give chocolate to people.",
+  "source_sha256": "22f8bd4450728ce3ad770588b862424cd04dc8e9791485d14aa6ddc93d2bb72f",
+  "translation": "制作巧克力，再把巧克力送给大家。",
+  "vndb_url": "https://vndb.org/v9958"
+}

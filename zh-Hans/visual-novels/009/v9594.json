@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9594",
+  "type": "visual_novel",
+  "name": "Ao no Tobira Shiro no Kagi",
+  "original_name": "青の扉　白の鍵",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're on your way to becoming a sports coach, but then you get into a car accident and get hospitalised. There you meet girls and reflect on your past life.",
+  "source_sha256": "978557915c9d9e0b6b43b413c91b090b2024957c3c298170460c315e734b65a2",
+  "translation": "你原本正在为成为一名体育教练而努力，却在一场车祸后住进了医院。在那里，你遇见了数名女孩，也开始反思自己过往的人生。",
+  "vndb_url": "https://vndb.org/v9594"
+}

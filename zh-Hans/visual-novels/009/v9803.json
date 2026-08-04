@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9803",
+  "type": "visual_novel",
+  "name": "Faust",
+  "original_name": "ファウスト",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In a peaceful city, a series of strange \"vampire\" murders happened. As if to ridicule people who don't believe in the existence of such monsters victims appear one after another in a swift succession. Meanwhile, the hero who works in the university encounters a girl. Upon that encounter, he feels \"something\" that can sacrifice even a precious and sacred life in that girl.",
+  "source_sha256": "30e2610f428558be70ddd5690cba70ca459a3418edb6eab19f25a7173df0ff78",
+  "translation": "在一座宁静的城市里，一连串诡异的“吸血鬼”杀人事件接连发生。仿佛是在嘲弄那些不相信此类怪物存在的人，受害者一个接一个地迅速出现。与此同时，在大学工作的主人公邂逅了一名少女。在与她相遇的瞬间，他从少女身上感受到某种“东西”——那甚至能够牺牲一条珍贵而神圣的生命。",
+  "vndb_url": "https://vndb.org/v9803"
+}

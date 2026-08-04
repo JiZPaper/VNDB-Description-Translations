@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9796",
+  "type": "visual_novel",
+  "name": "-NVL☆MGK- Novel Magika",
+  "original_name": "-NVL☆MGK-ノベルマギカ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A game taking place after the events of Madoka Magika.",
+  "source_sha256": "b307184825ffcebb7b2f0a99b41a60455078b3199d3525952562132eaa805e96",
+  "translation": "一款以《魔法少女小圆》本篇事件之后为舞台的游戏。",
+  "vndb_url": "https://vndb.org/v9796"
+}

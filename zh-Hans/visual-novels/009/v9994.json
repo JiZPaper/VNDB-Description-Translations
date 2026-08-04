@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9994",
+  "type": "visual_novel",
+  "name": "Love Sniper",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A comedy visual novel about a boy who tried to win his crush's heart.",
+  "source_sha256": "7f79fc9d7dc3637596fb7fc131d1fdc8f4408dd1709fdb3b9e8df01cde59e63c",
+  "translation": "一部喜剧视觉小说，讲述一名少年努力赢得心上人芳心的故事。",
+  "vndb_url": "https://vndb.org/v9994"
+}

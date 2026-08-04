@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9918",
+  "type": "visual_novel",
+  "name": "Lucian Bee's Evil Violet",
+  "original_name": "ルシアンビーズ イビル ヴァイオレット",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A fandisc for Lucian Bee's Resurrection Supernova focusing on HONEYBUZZARD Ⅵ.",
+  "source_sha256": "0bdb05f9fbfabbc5b68720db64779026ed8144212f6420c19d4d6c82c210bf50",
+  "translation": "《Lucian Bee's》续作《Resurrection Supernova》的粉丝盘，主角为HONEYBUZZARD Ⅵ。",
+  "vndb_url": "https://vndb.org/v9918"
+}

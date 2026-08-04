@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10017",
+  "type": "visual_novel",
+  "name": "Der Totengräber",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short dark visual novel based on a bohemian fable. It's a about an old gravedigger receiving a mysterious visitor on Christmas Eve.",
+  "source_sha256": "b6ffbbd279da5b34bf7c9bdd247cc76d0b426bed57918276c7301ee3c056890f",
+  "translation": "一部改编自波希米亚寓言的黑暗短篇视觉小说。故事讲述圣诞夜里，一名年迈的掘墓人迎来了一位神秘访客。",
+  "vndb_url": "https://vndb.org/v10017"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9955",
+  "type": "visual_novel",
+  "name": "AKB",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A love angel appears to grant me love! Surprising!",
+  "source_sha256": "d16e00e52d492d00c32eb790a8ef2593550c1cd973d191a46261cd346e848458",
+  "translation": "为了让我得到爱情，恋爱天使竟然现身了！真令人吃惊！",
+  "vndb_url": "https://vndb.org/v9955"
+}
