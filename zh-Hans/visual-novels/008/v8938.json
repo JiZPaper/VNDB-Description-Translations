@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8938",
+  "type": "visual_novel",
+  "name": "Kudokikata Oshiemasu",
+  "original_name": "口説き方教えます",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A simple nanpa game with CG reward for the right answers in dialogue for each girl.\n\n[From [url=https://vndbreview.blogspot.com/2017/04/vn-of-year-1986.html]vndbreview[/url]]",
+  "source_sha256": "5da26b285c40a34f42c8b5ce8dcc7d180da5a12f76a1b52cd557c7ab623ba620",
+  "translation": "一款简单的搭讪游戏。与每名女孩对话时答对问题，便可获得CG奖励。\n\n[引自[url=https://vndbreview.blogspot.com/2017/04/vn-of-year-1986.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v8938"
+}

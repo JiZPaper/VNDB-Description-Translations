@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8650",
+  "type": "visual_novel",
+  "name": "Maria ni Sasageru Ballade",
+  "original_name": "マリアに捧げるバラード",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In \"Ballade For Maria\", you control Jake Snipes, a detective from New York. Recently, terrible murders have been happening at a number of cities in the United States. An unknown killer seeks out women, brutally murders and mutilates them. As Jake investigates a missing person case for an actress he met at a party, the string of murders reaches his very city.\n\n[Heavily modified from Moby Games]",
+  "source_sha256": "9f6fdece6badd66fea59921e0141529c55d3cc94e964f1804568c0b395f7deaf",
+  "translation": "在《献给玛丽亚的叙事曲》中，玩家将扮演来自纽约的侦探杰克·斯奈普斯。近来，美国多座城市接连发生骇人命案。身份不明的凶手专门猎杀女性，并残忍地杀害、肢解她们。杰克受一位曾在派对上结识的女演员委托，调查一宗失踪案；与此同时，这连串凶案也蔓延到了他所在的城市。\n\n[根据Moby Games大幅改写]",
+  "vndb_url": "https://vndb.org/v8650"
+}

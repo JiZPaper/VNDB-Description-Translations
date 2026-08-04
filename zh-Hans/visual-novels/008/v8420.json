@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8420",
+  "type": "visual_novel",
+  "name": "Hope in the Morning: Willow's Dream Diary",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Short story placed in the universe of \"Sandman\" by Neil Gaiman.",
+  "source_sha256": "3c0850b45ef779b474954c6d708fa366c732130074f452303052e06a48c2d63b",
+  "translation": "一篇以尼尔·盖曼《睡魔》的世界观为背景的短篇故事。",
+  "vndb_url": "https://vndb.org/v8420"
+}

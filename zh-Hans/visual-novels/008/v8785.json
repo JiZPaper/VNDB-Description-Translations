@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8785",
+  "type": "visual_novel",
+  "name": "Dangerous Toys",
+  "original_name": "デンジャラス・トイズ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This game has 10 stories about girls having fun with interesting toys and other girls.\n\n[From [url=https://web.archive.org/web/20150502131520/http://members.shaw.ca:80/lisun/jhag-wna.htm]Li's Fun House[/url]]",
+  "source_sha256": "6ef2ccae5d9b3813200bb6218c17035df6b9cf075f96ae93914eb3a152e0c5bc",
+  "translation": "本作收录10篇故事，讲述女孩们用各种新奇玩具与彼此寻欢作乐的经历。\n\n[引自[url=https://web.archive.org/web/20150502131520/http://members.shaw.ca:80/lisun/jhag-wna.htm]Li's Fun House[/url]]",
+  "vndb_url": "https://vndb.org/v8785"
+}

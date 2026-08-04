@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8127",
+  "type": "visual_novel",
+  "name": "Acid Ware",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "C'sware fandisk, contains side story of Re-leaf, a couple of short novels, desktop accessories and pictures collection.",
+  "source_sha256": "692a31ac85c99fa6497161632228d53f62c0b16ee86fa778a9b601dfc7c913f9",
+  "translation": "C's ware推出的Fan Disc，收录《Re-leaf》的支线故事、数篇短篇小说、桌面配件与图片集。",
+  "vndb_url": "https://vndb.org/v8127"
+}

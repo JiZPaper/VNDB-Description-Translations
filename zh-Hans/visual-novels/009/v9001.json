@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9001",
+  "type": "visual_novel",
+  "name": "Paradise Arena",
+  "original_name": "ごくらくアリーナ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A man named Shin'ichi encounters a mysterious young girl who tells him that she and her friends developed new technology that allows unprecedented immersion in virtual worlds. Shin'ichi is then chosen to be the test subject of the new virtual reality device, participating in adventures where his sexual powers are tested above all.\n\n[edited from [url=http://www.mobygames.com/game/pc98/paradise-arena]MobyGames[/url]]",
+  "source_sha256": "4aee771a7057f23d92695ba24ba7e17b68205672b2c40d683d2ce64eff748786",
+  "translation": "一名叫真一的男子遇见一位神秘少女。少女告诉他，自己与伙伴们开发出了一项新技术，可以让人以前所未有的沉浸感进入虚拟世界。随后，真一获选成为新型虚拟现实设备的测试者，在一场场冒险中接受考验——尤其是对其性能力的考验。\n\n[根据[url=http://www.mobygames.com/game/pc98/paradise-arena]MobyGames[/url]修改]",
+  "vndb_url": "https://vndb.org/v9001"
+}

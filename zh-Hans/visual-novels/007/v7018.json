@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7018",
+  "type": "visual_novel",
+  "name": "DUNAMIS15",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Takatsuki Tougo is leading a boring life at Ceres Academy, located on an isolated island called Dunamis Base. One day, while rushing to class after having overslept, Tougo stumbles upon a mysterious girl in the school hallway. This brief encounter then changes Tougo's life forever.\n\nTime in the game will loop, so the player will end up experiencing the same story repeatedly. The player will need to follow the proper route in order to escape from this loop.\n\n[Edited from [url=https://en.wikipedia.org/wiki/Dunamis_15]Wikipedia[/url]]",
+  "source_sha256": "3ed364ff61812c284e98726d02a460603e66e573ddec840cc044f17619b96835",
+  "translation": "高槻冬悟在名为“杜那米斯基地”的孤岛上、瑟瑞斯学园中过着乏味生活。某天，因睡过头而匆忙赶去上课时，冬悟在学校走廊撞见一名神秘女孩。这次短暂相遇从此改变了他的生活。\n\n游戏中的时间会循环，玩家将反复体验同一段故事。必须走上正确路线，才能逃离循环。\n\n[改编自[url=https://en.wikipedia.org/wiki/Dunamis_15]维基百科[/url]]",
+  "vndb_url": "https://vndb.org/v7018"
+}

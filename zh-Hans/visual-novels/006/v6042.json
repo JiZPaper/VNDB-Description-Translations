@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6042",
+  "type": "visual_novel",
+  "name": "The Other World",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In a broken world, someone wanders trying to do nothing more than avoid things from the other world.\n\n[From [url=http://neotable.blogspot.com/p/other-world.html]Official Site[/url]]",
+  "source_sha256": "a837069916330fa272e179a9cfcc4ecdb311b5c5fd038396f2123fa78e4bd95b",
+  "translation": "在一个残破的世界里，某人四处流浪，唯一想做的只是避开来自异世界的种种事物。\n\n[摘自[url=http://neotable.blogspot.com/p/other-world.html]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v6042"
+}

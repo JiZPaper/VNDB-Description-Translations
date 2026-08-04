@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6987",
+  "type": "visual_novel",
+  "name": "Torikago no Mukougawa",
+  "original_name": "鳥篭の向こうがわ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are summoned as a liberator in a world called Femto. A liberator is someone who can perform the ritual of freeing someone's mind. Your goal is to escape the world of Femto and return to your own world, and only way to do so is by freeing people's minds.\n\nThe game consists of two main gameplay elements. The adventure part which is where the story unfolds and the typical visual novel dialogues are gone through, and a puzzle part which consists of two phases, a phase for moving puzzle pieces, and a phase for moving to a location. The puzzle picture consists of 15 key pieces in total, and you need to put them all in their right place to be able to escape. Each phase gives you limited number of turns and/or points you can spend until it is finished, after which another phase will start. By determining location, you will move onto corresponding adventure part. In each location during adventure element, various events will occur and you will be able to talk to characters there. After the adventure part is over, you will return to the puzzle screen and continue with the next moving phase of puzzle pieces.\n\n[from [url=https://www.mobygames.com/game/torikago-no-mukougawa]MobyGames[/url]]",
+  "source_sha256": "ce597fae59427a41ad3fad1b5cc8ba4da0a66dabc34a4c67a1a86d7f432b9247",
+  "translation": "你被召唤到名为“费姆托”的世界，成为一名解放者。解放者能举行解放心灵的仪式。你的目标是逃离费姆托、回到自己的世界，而唯一方法就是解放心灵。\n\n游戏分为两大部分：推进剧情、进行典型视觉小说对话的冒险部分，以及由移动拼图块与移动至地点两个阶段构成的解谜部分。拼图共有15块关键碎片，必须全部拼到正确位置才能逃离。每个阶段都有有限回合数或可消耗点数；阶段结束后，下一阶段开始。决定地点后便进入相应冒险部分，触发各种事件并与角色交谈。冒险结束后，回到拼图画面，继续下一次拼图移动阶段。\n\n[摘自[url=https://www.mobygames.com/game/torikago-no-mukougawa]MobyGames[/url]]",
+  "vndb_url": "https://vndb.org/v6987"
+}

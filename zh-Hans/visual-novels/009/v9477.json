@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9477",
+  "type": "visual_novel",
+  "name": "Lolita Hime no Enikki",
+  "original_name": "ロリータ姫の絵日記",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A kinetic novel containing graphic strips of Lolita Hime alongside with a bit of text.\n\n[From [url=https://vndbreview.blogspot.com/2017/04/vn-of-year-1987.html]vndbreview[/url]]",
+  "source_sha256": "7e764daf2c5f8151ed649c90d6e0c535fddc1a81ab10546870ca3f476d5c2a35",
+  "translation": "一部单线视觉小说，收录了数幅描绘洛丽塔公主的连环画，并配有少量文字。\n\n[引自[url=https://vndbreview.blogspot.com/2017/04/vn-of-year-1987.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v9477"
+}

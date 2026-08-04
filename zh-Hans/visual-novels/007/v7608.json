@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7608",
+  "type": "visual_novel",
+  "name": "Kimi to Issho ni",
+  "original_name": "君と一緒に",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An online adventure dating simulation game with a different character designer for each character. Also features time limited heroines.",
+  "source_sha256": "8700f20830162acdce84678410d67cd18d5d473ce443e587d1e37c34071ccb68",
+  "translation": "一款在线冒险恋爱模拟游戏，每名角色都由不同画师负责设计，并会推出限时登场的女主角。",
+  "vndb_url": "https://vndb.org/v7608"
+}

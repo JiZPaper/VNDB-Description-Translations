@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8821",
+  "type": "visual_novel",
+  "name": "Star Trap",
+  "original_name": "スタートラップ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A space ship was sent to the planet Neptune, to investigate strange disturbances spotted on the planet's surface. Some time later, the nearest space station picked up a SOS signal from the ship. An agent named Takuya, in command of an elite team of female fighters, is sent to Neptune. But their ship crashes, and Takuya must fight for his life and the lives of the girls, which are threatened by Neptune's fearsome monsters.\n\n[From [url=http://www.mobygames.com/game/pc98/star-trap_]Moby Games[/url]]",
+  "source_sha256": "b3b77ceab53721c67442a90836f4b200c13ad364a7dae7e18dab15ba821f63df",
+  "translation": "一艘宇宙飞船被派往海王星，调查人们在星球表面发现的异常活动。一段时间后，最近的空间站收到了飞船发出的SOS信号。特工拓也奉命率领一支由精锐女战士组成的小队前往海王星。然而，他们的飞船不幸坠毁，拓也必须为自己和女孩们的性命而战，抵御海王星上令人胆寒的怪物。\n\n[引自[url=http://www.mobygames.com/game/pc98/star-trap_]Moby Games[/url]]",
+  "vndb_url": "https://vndb.org/v8821"
+}

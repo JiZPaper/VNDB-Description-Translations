@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6054",
+  "type": "visual_novel",
+  "name": "Novus Magus Amorous",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Story about a boy who attends a magic academy.",
+  "source_sha256": "c5c86582e52a1447f8401a3510aa2d75c74a591abb2d5d0be768aa9f3c8e6360",
+  "translation": "一名少年在魔法学园求学的故事。",
+  "vndb_url": "https://vndb.org/v6054"
+}

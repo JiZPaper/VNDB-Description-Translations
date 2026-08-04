@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6488",
+  "type": "visual_novel",
+  "name": "Enemy Of The Solid State",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel about spies and the like.\n\n[from [url=http://bentosmile.com/gameslist/enemy-of-the-solid-state/]the official website[/url]]",
+  "source_sha256": "ebb8775fcc65c91de18a05006a5e905528aa7f9aeceed0410d1e24437c87ccd2",
+  "translation": "一部关于间谍等事物的视觉小说。\n\n[摘自[url=http://bentosmile.com/gameslist/enemy-of-the-solid-state/]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v6488"
+}

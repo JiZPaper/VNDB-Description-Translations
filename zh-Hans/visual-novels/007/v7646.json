@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7646",
+  "type": "visual_novel",
+  "name": "Dare ni Demo Ura ga Aru Happy Gift",
+  "original_name": "誰にでも裏がある Happy Gift",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fandisk to Dare ni Demo Ura ga Aru -True or Lie?-",
+  "source_sha256": "dd9d15e7ba23e68256fc6fc62e7a929fce1d22c7521ac7105ac3333d356ed3a2",
+  "translation": "《谁都有秘密－True or Lie?－》的资料片。",
+  "vndb_url": "https://vndb.org/v7646"
+}

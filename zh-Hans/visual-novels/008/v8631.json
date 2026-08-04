@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8631",
+  "type": "visual_novel",
+  "name": "Christine",
+  "original_name": "クリスチーヌ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "See that girl on the box? You play as her. An evil witch has turned your boyfriend into stone and you want to break the spell and get revenge. How will you get revenge? Kill her!\n\nChristine takes place a strange world populated almost entirely by women. The only male character in the entire game dies in opening. The game itself has a strange sense of humor and is filled to the brim with rape and death.\n\nChristine is also a text adventure and requires text input through the text parser.",
+  "source_sha256": "7eb2122f3c341a4f2adac466c06810ee878d4cd9b885ee2ca3f6c21ea067add7",
+  "translation": "看见包装盒上的那个女孩了吗？玩家扮演的就是她。一个邪恶女巫把她的男朋友变成石头，她决心解除诅咒并展开复仇。要怎样复仇？当然是杀掉女巫！\n\n《Christine》的舞台是一个几乎全部由女性居住的奇异世界。整个游戏唯一的男性角色，在开场时便会死去。游戏有着诡异的幽默感，到处充斥着强暴与死亡。\n\n《Christine》也是一款文字冒险游戏，玩家需要通过文字解析器输入指令。",
+  "vndb_url": "https://vndb.org/v8631"
+}

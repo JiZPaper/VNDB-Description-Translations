@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6980",
+  "type": "visual_novel",
+  "name": "Presence",
+  "original_name": "プレゼンス",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist lives a mundane and repetitive life until he meets a mysterious girl who disrupts the pattern by causing everyone's time to reset every seven days except for his own. He must decide whether to use this power to prevent misfortune from befalling the people around him or to indulge in selfish desires. As he interacts with various girls who also retain their memories through the time loops, he grapples with his choices and their consequences, ultimately leading to potential changes for the world and himself.\n\n[Condensed from [url=https://dlsoft.dmm.co.jp/detail/hobe_0438/]DMM[/url]]",
+  "source_sha256": "8a9af0456784517eb04535f008ee2593878ff240df337ea71ac02d334bdd862a",
+  "translation": "主人公过着平凡重复的生活，直到遇见一名神秘女孩。她打破了这种规律：除主人公外，所有人的时间每7天重置一次。他必须决定是利用这股力量阻止身边的人遭遇不幸，还是放纵自私欲望。在与同样能保留时间循环记忆的不同女孩互动时，他不断挣扎于选择及其后果，最终可能改变世界与自己。\n\n[节译自[url=https://dlsoft.dmm.co.jp/detail/hobe_0438/]DMM[/url]]",
+  "vndb_url": "https://vndb.org/v6980"
+}

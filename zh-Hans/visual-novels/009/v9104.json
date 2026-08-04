@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9104",
+  "type": "visual_novel",
+  "name": "Sweet Emotion",
+  "original_name": "スウィートエモーション",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "There are five scenarios presented from different viewpoints and connected with each other. Together they let us approach the truth about Slan murder.\n\n[From [url=https://vndbreview.blogspot.ru/2017/05/vn-of-month-july-1991.html]vndbreview[/url]]",
+  "source_sha256": "8db17d5ea66d7ff8a844fca4bc6bb54fabfb93f189070bd6a9ad1e0913dc7e67",
+  "translation": "五篇故事分别从不同人物的视角展开，彼此又紧密相连。将它们拼在一起，便能逐步接近斯兰·戴维斯遇害案的真相。\n\n[引自[url=https://vndbreview.blogspot.ru/2017/05/vn-of-month-july-1991.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v9104"
+}

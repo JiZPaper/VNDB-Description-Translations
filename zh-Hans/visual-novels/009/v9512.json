@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9512",
+  "type": "visual_novel",
+  "name": "Corridor",
+  "original_name": "コリドール",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "King sends three princes on a journey so that the prince who gets the most wonderful journey becomes his successor. The player prince is searching for the legendary cursed castle to become next king.\n\n[From [url=http://vndbreview.blogspot.ru/2017/04/vn-of-year-1984.html]vndbreview[/url]]",
+  "source_sha256": "bbeb119b75aa87bb0178f1344c974c877050b554d4dbdd97790537470e223ad1",
+  "translation": "国王派3位王子外出游历，并宣布经历最精彩旅程的人将成为他的继承者。玩家扮演的王子为了登上王位，决定去寻找传说中遭受诅咒的城堡。\n\n[引自[url=http://vndbreview.blogspot.ru/2017/04/vn-of-year-1984.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v9512"
+}

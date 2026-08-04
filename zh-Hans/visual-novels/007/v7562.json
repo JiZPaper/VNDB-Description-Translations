@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7562",
+  "type": "visual_novel",
+  "name": "Gaming Buddy",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short Kinetic Novel about playing video games with a friend.",
+  "source_sha256": "b761c5b870a4fc36c38235ef59dcfb501dcf4efdced6c2ad6a3164d6db186cb4",
+  "translation": "一部短篇动态小说，讲述与朋友一起玩电子游戏的时光。",
+  "vndb_url": "https://vndb.org/v7562"
+}

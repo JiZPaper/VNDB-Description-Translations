@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8996",
+  "type": "visual_novel",
+  "name": "Onna no Ko no Shikumi",
+  "original_name": "女の子の仕組み",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This game has stories for 3 girls, with 2 stories each. They are picture stories of course.\n\n[From [url=https://web.archive.org/web/20160403171040/http://members.shaw.ca:80/lisun/jhag-wns.htm]Li's Fun House[/url]]",
+  "source_sha256": "e052c7a4f43e1dd4d1bf3d702311b05059a8e4ebcaf1a2dfe887eff1d5b842b7",
+  "translation": "本作收录三名女孩的故事，每人各有两篇。当然，这些都是以图片呈现的故事。\n\n[引自[url=https://web.archive.org/web/20160403171040/http://members.shaw.ca:80/lisun/jhag-wns.htm]Li's Fun House[/url]]",
+  "vndb_url": "https://vndb.org/v8996"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6133",
+  "type": "visual_novel",
+  "name": "Hi School Jam",
+  "original_name": "Hiすく～るJam",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You start off as a second year student of the school and you are on the student's council as well. Your goal is to be elected as the next student council's president at game end when the seniors graduate.\n\n[From[url=http://densetsu.com/display.php?id=248&style=alphabetical] Anime Densetsu[/url]]",
+  "source_sha256": "25607acf4305607bbccdeefa68306df246a5ff10627c12e1237040cc037e8f12",
+  "translation": "游戏开始时，玩家是一名高中二年级学生，同时也是学生会成员。你的目标是在高年级学生毕业时举行的选举中胜出，成为下一任学生会长。\n\n[摘自[url=http://densetsu.com/display.php?id=248&style=alphabetical]Anime Densetsu[/url]]",
+  "vndb_url": "https://vndb.org/v6133"
+}

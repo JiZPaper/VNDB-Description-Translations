@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6238",
+  "type": "visual_novel",
+  "name": "\"Chou\" Kowai Hanashi DS: Ao no Shou",
+  "original_name": "「超」怖い話DS 青の章",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Alchemist gathers together a total of 63 scary stories and bulks them up into visual novels filled with images, sound effects, and narration from Akira Hirayama.\n\n[from [url=http://www.shopncsx.com/aonoshou.aspx]National Console Support, Inc[/url]]",
+  "source_sha256": "ccd1b733c0f78cab961f7dcb97c947bbb727fdf95d37aa14547db9e748e82961",
+  "translation": "Alchemist收集了共63则恐怖故事，将它们扩充为包含图像、音效以及平山梦明旁白的视觉小说。\n\n[摘自[url=http://www.shopncsx.com/aonoshou.aspx]National Console Support, Inc[/url]]",
+  "vndb_url": "https://vndb.org/v6238"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8906",
+  "type": "visual_novel",
+  "name": "Ikenie ~Kyouraku no Shinden~",
+  "original_name": "いけにえ ～享楽の神殿～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This short game has a rather cryptic plot. The identity of the hero is unclear: we know only that he is a young male, most probably living in our time. One day he is resting after having had sex with a girl, and is mysteriously transported into a strange temple. Without knowing what this temple is, and only presuming it must be built by the Aztecs of Yucatan, the hero must find a way out of it, and back home.\n\n[From [url=http://www.mobygames.com/game/pc98/ikenie-kyraku-no-shinden]Moby Games[/url]]",
+  "source_sha256": "8fd7e4f582ff5144f0e2dfc08e8c0334bb59507a01831feb47d36fb3c3279b78",
+  "translation": "这部短篇游戏的剧情颇为晦涩。主人公身份不明，只知道他是一名年轻男性，很可能生活在现代。一天，他刚与女孩做完爱，正在休息，却神秘地被传送到一座陌生神殿。主人公不知道这里究竟是什么地方，只能猜测它或许由尤卡坦的阿兹特克人建造。他必须设法逃离神殿，返回自己的家。\n\n[引自[url=http://www.mobygames.com/game/pc98/ikenie-kyraku-no-shinden]Moby Games[/url]]",
+  "vndb_url": "https://vndb.org/v8906"
+}

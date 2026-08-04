@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7149",
+  "type": "visual_novel",
+  "name": "Yanzuma Koharu ~Omae no Yome wa Ore no Mono~",
+  "original_name": "ヤンヅマ心春 ～お前の嫁は俺のモノ～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play the husband of a happily married couple.\nSome day an old friend of your wife appears and suggest that she become a model for a sexy magazine...",
+  "source_sha256": "9e2c8fd86982a40f0674cf5b3b42c9f0ba7271549021d81a16bab5bbf800c9d8",
+  "translation": "你扮演一对幸福夫妻中的丈夫。某天，妻子的旧友出现，提议让她担任性感杂志的模特……",
+  "vndb_url": "https://vndb.org/v7149"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7717",
+  "type": "visual_novel",
+  "name": "Mobile Food Madness",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short cartoon-style skit featuring Nekochan and her quest for dinner without going to Bath.\n\n[From Ren'Ai Archive]",
+  "source_sha256": "4ca4032a02e35606c87024e1e1296331e0ac8d2c13da82080a2e89ced0742ca1",
+  "translation": "一段卡通风格短剧，讲述猫酱为了不用去巴斯也能吃上晚餐而展开的行动。\n\n[译自Ren'Ai Archive]",
+  "vndb_url": "https://vndb.org/v7717"
+}

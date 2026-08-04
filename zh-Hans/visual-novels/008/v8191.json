@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8191",
+  "type": "visual_novel",
+  "name": "Kuro Niji Short Story",
+  "original_name": "黒虹ショートストーリー",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Contains a short story for Saiminjutsu & Saimin Gakuen.",
+  "source_sha256": "7d0bf793cf3e6c53938520d9de16d8dbeee63dfcadf298af703256e2799e6f40",
+  "translation": "收录《催眠术》与《催眠学园》的短篇故事。",
+  "vndb_url": "https://vndb.org/v8191"
+}

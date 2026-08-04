@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8856",
+  "type": "visual_novel",
+  "name": "Yaritai Houdai",
+  "original_name": "やりたい放題",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A nanpa game to choose one of four women and seek their favor in a dialogue.\n\n[From [url=https://vndbreview.blogspot.com/2017/04/vn-of-year-1988.html]vndbreview[/url]]",
+  "source_sha256": "1ed3d5f917b57773bda0ba3a22129f8d99d9f00e0f133a702ee3697bb55cfa77",
+  "translation": "一款搭讪游戏。玩家从四名女性中选择一人，通过对话博取她的好感。\n\n[引自[url=https://vndbreview.blogspot.com/2017/04/vn-of-year-1988.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v8856"
+}

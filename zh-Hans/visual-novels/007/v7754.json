@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7754",
+  "type": "visual_novel",
+  "name": "Mahou Gengo Lyrical ☆ Lisp",
+  "original_name": "魔法言語 リリカル☆Lisp",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Learn the programming language Lisp with Arisa and Suzuka. The premise is that LISP (actually it's Scheme they're teaching you in the game) is the language used to program the AI's of the intelligent Devices used by the mages in the Lyrical Nanoha world.",
+  "source_sha256": "60a9462293e1bdf6f618a9cc024f658b53ed6814248c4805fca9a80230a50c73",
+  "translation": "与亚里沙和铃香一起学习Lisp程序设计语言。故事设定中，《魔法少女奈叶》世界的魔导师会使用智慧型魔导器，而为其中人工智能编程的语言正是LISP——不过，游戏实际教授的是Scheme。",
+  "vndb_url": "https://vndb.org/v7754"
+}

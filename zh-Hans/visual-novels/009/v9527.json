@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9527",
+  "type": "visual_novel",
+  "name": "Kaze no Tani no Nausicaa",
+  "original_name": "風の谷のナウシカ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An adventure game adaptation inspired by the manga and film by Hayao Miyazaki.\n\nTaking place in a post-apocalyptic world in the far future, the game tells the story of Nausicaä, the young princess of the Valley of the Wind. She becomes embroiled in a struggle with Tolmekia, a kingdom that tries to use an ancient weapon to eradicate a jungle of mutant giant insects, and attempts to stop the Tolmekians from enraging these creatures.",
+  "source_sha256": "c4f5d55b5da17811a80c2e69d44d5c6a8af9fb9ec761eac324e38c44f33bea10",
+  "translation": "本作是一款改编自宫崎骏同名漫画与电影的冒险游戏。\n\n故事发生在遥远未来的末日世界，讲述风之谷的年轻公主娜乌西卡如何被卷入与多鲁美奇亚王国的争斗。多鲁美奇亚企图利用古代兵器消灭栖息着变异巨虫的腐海，娜乌西卡则要设法阻止他们激怒这些生物。",
+  "vndb_url": "https://vndb.org/v9527"
+}

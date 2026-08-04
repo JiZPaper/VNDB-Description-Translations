@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8534",
+  "type": "visual_novel",
+  "name": "Akai Majo",
+  "original_name": "赤い魔女",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Dark fairy tale...",
+  "source_sha256": "9144dc269ca962e7bbaa2659f7bb1ec8284394df5579ef3f0a4bfa73106d821f",
+  "translation": "黑暗童话……",
+  "vndb_url": "https://vndb.org/v8534"
+}

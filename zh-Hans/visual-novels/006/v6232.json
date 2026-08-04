@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6232",
+  "type": "visual_novel",
+  "name": "Shame☆On",
+  "original_name": "しぇいむ☆おん",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "One summer, the protagonist finds a strange cafe where the waitresses are all tsundere!",
+  "source_sha256": "a0b64dfdfe87d5ad0ff866fb98113e4c747deaf53c9f6eee977d0590b5e632dd",
+  "translation": "某个夏天，主人公发现了一家奇怪的咖啡馆，里面的女服务员居然全都是傲娇！",
+  "vndb_url": "https://vndb.org/v6232"
+}

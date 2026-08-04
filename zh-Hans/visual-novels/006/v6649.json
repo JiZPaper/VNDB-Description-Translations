@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6649",
+  "type": "visual_novel",
+  "name": "Apricot Tei Monogatari ~Egao o Wasureta Koneko~",
+  "original_name": "アプリコット邸物語～笑顔を忘れた仔猫～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist's grandfather leaves him to care a mansion where a certain maid serves...",
+  "source_sha256": "4f3ce434c461d1431c49947d7b38242cc6a3f6ec67a4986ba869a72223097846",
+  "translation": "主人公的祖父留下他，让他照料一座由一名女仆侍奉的宅邸……",
+  "vndb_url": "https://vndb.org/v6649"
+}

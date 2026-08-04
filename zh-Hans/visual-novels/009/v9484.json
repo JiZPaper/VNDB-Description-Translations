@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9484",
+  "type": "visual_novel",
+  "name": "Five Sweet Dream",
+  "original_name": "ファイブスイートドリーム",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "There are five rooms and you are to fulfill the wishes spoken aloud there.\n\n[From [url=https://vndbreview.blogspot.com/2017/04/vn-of-year-1986.html]vndbreview[/url]]",
+  "source_sha256": "7900eb8505d7f7969239724929d74ad576f01e6dc312b4654ffead4fd9353831",
+  "translation": "这里共有5个房间，你需要实现每个房间里有人说出口的愿望。\n\n[引自[url=https://vndbreview.blogspot.com/2017/04/vn-of-year-1986.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v9484"
+}

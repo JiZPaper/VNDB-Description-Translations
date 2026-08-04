@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7013",
+  "type": "visual_novel",
+  "name": "Rapunzel",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A kinetic novel reimagining of the classic fairytale Rapunzel.\n\nSee through the eyes of the girl in the tower, the prince who finds her and the witch who had stolen her away as the story unfolds, very close to the original versions, but unique unto itself.\n\n[from [url=http://happybackwards.deviantart.com/blog/39512164/]official blog[/url]]",
+  "source_sha256": "e24593835cf721ab0125641aac3c44491b6b19b3b50feb2f46a8f999f2896d37",
+  "translation": "以经典童话《长发公主》为基础重新诠释的线性小说。\n\n故事透过高塔中的女孩、找到她的王子，以及将她掳走的女巫的视角展开，贴近原版却又独具特色。\n\n[摘自[url=http://happybackwards.deviantart.com/blog/39512164/]官方博客[/url]]",
+  "vndb_url": "https://vndb.org/v7013"
+}

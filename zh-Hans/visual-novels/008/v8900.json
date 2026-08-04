@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8900",
+  "type": "visual_novel",
+  "name": "Princess Evangile W Happiness",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fandisc of Princess Evangile, composing of 4 after stories for the heroines and 5 short stories for the sub-heroines. Includes part of the original game's common route as a refresher.",
+  "source_sha256": "d81068d95af949a2645dccbbef56ea2f3c37353b95d3120544182412768dcfeb",
+  "translation": "《福音公主的W幸福》是《福音公主》的粉丝向扩展作品，由四篇主要女主角后日谈和五篇次要女主角短篇组成。游戏还收录了原作共通路线的部分内容，方便玩家重温剧情。",
+  "vndb_url": "https://vndb.org/v8900"
+}

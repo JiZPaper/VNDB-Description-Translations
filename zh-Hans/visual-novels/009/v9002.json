@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9002",
+  "type": "visual_novel",
+  "name": "Paradise Call",
+  "original_name": "パラダイスコール",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "At a place where girls phone in, a guy waits. When a girl calls in, he talks with her. If he respond right, he will meet the girl and have fun. This game is a simpler version of Virtuacall 1.\n\n[From [url=https://web.archive.org/web/20160403170830/http://members.shaw.ca:80/lisun/jhag-wnm.htm]Li's Fun House[/url]]",
+  "source_sha256": "fa5ab76c89c5f1f6f5c5430b10c380baf80371eac3202e3520bcc6974122e891",
+  "translation": "在一个接听女孩来电的地方，一名男子守在电话旁。女孩打来电话时，他便与对方交谈；只要应答得当，就能与女孩见面并共度欢乐时光。本作可视为《Virtuacall 1》的简化版。\n\n[引自[url=https://web.archive.org/web/20160403170830/http://members.shaw.ca:80/lisun/jhag-wnm.htm]Li's Fun House[/url]]",
+  "vndb_url": "https://vndb.org/v9002"
+}

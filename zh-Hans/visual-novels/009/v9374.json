@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9374",
+  "type": "visual_novel",
+  "name": "Otome Party",
+  "original_name": "おとめぱーてぃ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "There is a short story prepared for each game character, but story is chosen according to gender and one of the five age categories selected. The contents varies from a child story about the kitten if woman is chosen to the nursing story about the hospital if an old man is chosen.\n\n[From [url=https://vndbreview.blogspot.com/2017/04/vn-of-year-1989.html]vndbreview[/url]]",
+  "source_sha256": "6f14a018f29cde3543cb2908e179d980b16cbce5d67ed9308d47dd81d09ded84",
+  "translation": "游戏为每类角色都准备了一段短篇故事，具体内容取决于玩家选择的性别以及五个年龄段之一。不同组合会看到截然不同的故事：例如选择女性与年幼年龄段时，内容是关于小猫的童话；选择老年男性时，则会变成医院里的看护故事。\n\n[引自[url=https://vndbreview.blogspot.com/2017/04/vn-of-year-1989.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v9374"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5987",
+  "type": "visual_novel",
+  "name": "Tantei Jinguuji Saburou Detective Story: Fuserareta Shinjitsu",
+  "original_name": "探偵 神宮寺三郎DS 伏せられた真実",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A DS exclusive story hence no numerical. Also includes stories 11 to 15 from the Mobile lineup and six chibi style minigames.",
+  "source_sha256": "51a3186ff3405a383d32427ec96cd2251e60fae7e29c37c1878ef29b92b2453c",
+  "translation": "本篇为DS独占故事，因此没有数字编号。游戏还收录了手机系列第11至15篇，以及六款Q版小游戏。",
+  "vndb_url": "https://vndb.org/v5987"
+}

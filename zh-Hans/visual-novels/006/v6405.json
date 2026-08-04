@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6405",
+  "type": "visual_novel",
+  "name": "Triangle Again",
+  "original_name": "トライアングル・アゲイン",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Triangle Again games are often referred to as music adventures rather than typical visual novels in a way that when the branching in the story occurs, choices are presented in a way of notes rather than text. The game story is centered around young Akari Tateshina and her debut as a pop singer.\n\n[From [url=https://www.mobygames.com/game/triangle-again]Mobygames[/url]]",
+  "source_sha256": "9b6f72027affc5178bb55d8a5af3607814be4b87d046f0ab5d43f6f95f2301bb",
+  "translation": "《Triangle Again》系列常被称为音乐冒险，而非典型视觉小说：剧情出现分支时，选项会以音符而非文字的形式呈现。故事围绕年轻的蓼科灯及其作为流行歌手的出道展开。\n\n[摘自[url=https://www.mobygames.com/game/triangle-again]MobyGames[/url]]",
+  "vndb_url": "https://vndb.org/v6405"
+}

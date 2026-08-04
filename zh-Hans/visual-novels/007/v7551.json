@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7551",
+  "type": "visual_novel",
+  "name": "Tokyo Conspiration",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The Kizuna satellite from Jaxa, Japan Aerospace Exploration Agency, promises to give Asia a 1.2 Gbps bandwidth connection, anywhere and anytime. Be BiFrost, one of the biggest hackers in the world, and help a strange guy who seeks the development secrets of the Project Kizuna.\n\n[From Ren'Py wiki]",
+  "source_sha256": "b76e1872efddd1a4af51e1cf8b57ea422fd4066a5a483ab5816b9e61a1363edd",
+  "translation": "日本宇宙航空研究开发机构的KIZUNA卫星承诺，无论何时何地，都能为亚洲提供1.2Gbps的网络连接。玩家将化身世界顶尖黑客之一“Bifröst”，协助一名神秘男子寻找“绊计划”的开发机密。\n\n[译自Ren'Py Wiki]",
+  "vndb_url": "https://vndb.org/v7551"
+}

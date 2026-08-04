@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9238",
+  "type": "visual_novel",
+  "name": "Exile Gear Raynar",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A young woman named Kuni's dream of becoming a robot pilot comes true when she's invited to the base home to the world's most powerful robot, Raynar.\n\n[From [url=http://games.renpy.org/game/raynar.shtml]Ren'Ai Archive[/url]]",
+  "source_sha256": "e5bfc3ee1a209dcc6b23c2f0ba2b1cb0b873da1ee92a7c78df416d17171628df",
+  "translation": "名叫库妮的年轻女子受邀前往一座基地。那里停放着世界上最强大的机器人“雷纳尔”，她成为机器人驾驶员的梦想也终于实现。\n\n[引自[url=http://games.renpy.org/game/raynar.shtml]Ren'Ai Archive[/url]]",
+  "vndb_url": "https://vndb.org/v9238"
+}

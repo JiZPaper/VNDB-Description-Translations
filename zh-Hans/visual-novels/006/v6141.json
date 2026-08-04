@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6141",
+  "type": "visual_novel",
+  "name": "Ikemen Bengoshi",
+  "original_name": "イケメン弁護士",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fall in love with one of five handsome lawyers.",
+  "source_sha256": "4f9531ac38e725c304afed57f91a3ae56f4de58c9dfe9a78e0e254c5d0a8b6b2",
+  "translation": "与五名英俊律师中的一人坠入爱河。",
+  "vndb_url": "https://vndb.org/v6141"
+}

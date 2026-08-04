@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7309",
+  "type": "visual_novel",
+  "name": "Memory Loss",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a man with no memory. Assassins are after you, the police is after you. Can you escape from all of them? What will happen to you?",
+  "source_sha256": "f635148f4f9eacd8357684a02fd6528e74069dff68de30df4d46886c1cf684ce",
+  "translation": "你是一个失去全部记忆的男人。杀手在追你，警察也在追你。你能逃过双方追捕吗？等待你的又会是什么？",
+  "vndb_url": "https://vndb.org/v7309"
+}

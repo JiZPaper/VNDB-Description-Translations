@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7700",
+  "type": "visual_novel",
+  "name": "Nine☆Lives ~Hanyafuda Suru Nyan!~",
+  "original_name": "ないん☆らいぶす 〜はニャ札するにゃん！〜",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a majong like tile matching game. In the Story mode, our guy found a were-cat that used one of her spare lives to save him. He still has to collect 8 more lives in order not to be turned into a zombie. That and a weird gem makes his life exciting. In the Tournament mode, you can pick one of 8 girls to play with.\n\n[From [url=https://web.archive.org/web/20050209185814/http://members.shaw.ca:80/lisun/jhag-wna.htm]Li's Fun House[/url]]",
+  "source_sha256": "dd33ee18f5896532364975d86bed62375467c42c13a6872cfbf1e17cd9a4abd5",
+  "translation": "本作是一款类似麻将的牌块配对游戏。故事模式中，主人公遇见一名猫人少女，她耗费一条备用性命救了他。为了不变成僵尸，他还必须收集另外八条性命。一块奇怪宝石也让他的生活越发热闹。大会模式则可从八名女孩中选择一人进行游戏。\n\n[译自 [url=https://web.archive.org/web/20050209185814/http://members.shaw.ca:80/lisun/jhag-wna.htm]Li's Fun House[/url]]",
+  "vndb_url": "https://vndb.org/v7700"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7350",
+  "type": "visual_novel",
+  "name": "Magical Boutique",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Welcome to the Magical Boutique! My name is Framboise and I will be your guide. The shop is based on a daily routine. Every day, our owner assigns tasks. The owner, who is a talented brewer, can make new potions using the ingredients. And at the end of the day, we look at the sales. If a potion has sold particularly well, it might be good to brew more of it the next day.",
+  "source_sha256": "71f494eba23092cd28239001971d837e5c03810ccbab00bb98875809663b651e",
+  "translation": "欢迎来到魔法精品店！我叫弗朗布瓦兹，将担任你的向导。店铺按日程运作，每天由店主分配任务。店主是一名技艺高超的药剂师，能够利用各种原料调配新药水。一天结束时，我们会查看销售情况。如果某种药水特别畅销，第二天或许应该多调配一些。",
+  "vndb_url": "https://vndb.org/v7350"
+}

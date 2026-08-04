@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8185",
+  "type": "visual_novel",
+  "name": "Guardian Recall ~Shugo Juu Shoukan~",
+  "original_name": "ガーディアンリコール ～守護獣召還～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "1999: Japan is hit by a sudden earthquake and is left in ruins.\n\n2017: After a period of reconstruction life in Japan nearly returns to normal. However Egubado, the organization behind the earthquake, occupies Tokyo and once again plots to destroy Japan. \n\nTake control of one of two groups of girls who have the ability to control guardian beasts and journey to Tokyo to put an end to Egubado's schemes.",
+  "source_sha256": "7b1d4fe108bbdd1dee8d6f0855432d2350d664184eedfe6a4ca1f87d593aad20",
+  "translation": "1999年，日本突遭大地震袭击，举国化为废墟。\n\n2017年，经过漫长的重建，日本人的生活终于基本恢复正常。然而，制造那场地震的组织“Egubado”占领了东京，再度图谋毁灭日本。\n\n玩家将操纵两支少女队伍中的一支。她们拥有驾驭守护兽的能力，将向东京进发，彻底粉碎Egubado的阴谋。",
+  "vndb_url": "https://vndb.org/v8185"
+}

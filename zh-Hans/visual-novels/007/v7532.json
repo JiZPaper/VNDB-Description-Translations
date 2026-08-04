@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7532",
+  "type": "visual_novel",
+  "name": "Sentimental Graffiti ~Yakusoku~",
+  "original_name": "センチメンタルグラフティ 〜約束〜",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Sentimental Graffiti Yakusoku is a sound novel game based on the Sentimental Graffiti series of dating simulation games. It is not actually a game, it is more like a text novel with voice-over about the first meeting of protagonist and each of twelve girls during childhood.\n\nThere is only one CG for each girl and the background is just the place where the conversation or action takes place.\n\n[Edited from [url=https://psxdatacenter.com/games/J/S/SLPS-03183.html]psxdatacenter[/url]]",
+  "source_sha256": "03da04e053c441a2046e8521278736a2b113fa2b792d0405545d1592b8f911ac",
+  "translation": "《青涩宝贝～约定～》是根据恋爱模拟游戏《青涩宝贝》系列制作的有声小说。它其实称不上游戏，更像是一部配有语音的文字小说，分别讲述主人公童年时与12名女孩初次相遇的经过。\n\n每名女孩只有一张电脑图像，背景也只是对话或行动发生的地点。\n\n[根据 [url=https://psxdatacenter.com/games/J/S/SLPS-03183.html]psxdatacenter[/url]修改]",
+  "vndb_url": "https://vndb.org/v7532"
+}

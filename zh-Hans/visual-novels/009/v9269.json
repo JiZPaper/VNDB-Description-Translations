@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9269",
+  "type": "visual_novel",
+  "name": "Conversation",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "He didn’t expect to meet her. She didn’t expect to stop.\n\nTwo strangers. One umbrella. A conversation that could end in silence – or something more.",
+  "source_sha256": "a078edb83650e118b9e457f87b58f30c1e86fe4049319b93d231e555f1150090",
+  "translation": "他没想到会遇见她。她没想到自己会停下脚步。\n\n两个陌生人，一把雨伞。一场交谈，可能以沉默收场——也可能发展成别的什么。",
+  "vndb_url": "https://vndb.org/v9269"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7826",
+  "type": "visual_novel",
+  "name": "WONPARA Wars",
+  "original_name": "ＷＯＮＰＡＲＡウォーズ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Board strategy game that is a knock-off of Archon. There is a war between a men society and a women society, and you control the male team. Whenever you defeat a female opponent, you get to undress her and use your manly \"persuasion\" skills to convice her to abandon the fight.",
+  "source_sha256": "d67be562fb9235207404e146c337df18f4357dd5b1165c37225717e987d1f30a",
+  "translation": "一款模仿《Archon》的棋盘策略游戏。男性社会与女性社会正在交战，玩家控制男方队伍。每击败一名女性对手，便可脱掉她的衣服，再运用充满男子气概的“说服”技巧，劝她放弃战斗。",
+  "vndb_url": "https://vndb.org/v7826"
+}

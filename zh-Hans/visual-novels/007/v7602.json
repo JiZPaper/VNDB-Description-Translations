@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7602",
+  "type": "visual_novel",
+  "name": "Fate/EXTRA",
+  "original_name": "フェイト/エクストラ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "According to Nasu, Fate/EXTRA is a JRPG which takes place set in an alternate universe that split from the Fate/stay night timeline in the 1980s to 1990s.\n\nThe Story is set in the in a school called Tsukumihara Academy, a fictional place existing with an artificial environment called the Moon Cell. There, the Moon Cell orchestrates a replication of the Holy Grail War using a system called Serial Phantasm or SE.RA.PH, which handles the summoning of Servants. Servant data is taken from the Automaton (Moon Cell Automaton), a spiritual computer system built on the lunar surface by a pre-human civilization and discovered by humans in the year 2032.\nThe Automaton has monitored and recorded all occurrences on the Earth (including the activities of human heroes) since time immemorial. In this sense, it is similar to the Throne of Heroes, but it's possible to summons beings which aren't present in the Throne.\n\nEach of the 128 participants in the war must duel the other Masters in a place called the Arena, where failure results in deletion from both the real and digital worlds. When only one remains, the \"Holy Grail\" shall grant the victor's wish.",
+  "source_sha256": "936dc403952d93a5440b48e7c8abb14a1f94feaa59ca1f51b32aa8a2468da953",
+  "translation": "据奈须蘑菇介绍，《Fate/EXTRA》是一款日式角色扮演游戏，舞台位于另一个宇宙；该世界线在20世纪80至90年代从《Fate/stay night》的时间线分岔。\n\n故事发生在月海原学园。这是一处存在于“月灵晶体”人工环境中的虚构空间。月灵晶体通过名为“灵子虚构世界（SE.RA.PH）”的系统重现圣杯战争，并负责召唤从者。从者资料取自“月灵晶体·自律演算器”——史前文明建造在月球表面的灵子计算机系统，人类于2032年发现了它。\n\n自远古以来，自律演算器一直监视并记录地球上发生的一切，其中也包括人类英雄的事迹。就此而言，它与英灵座颇为相似，却还能召唤英灵座中并不存在的生命。\n\n战争共有128名参与者。每位御主都必须在“斗技场”与其他御主决斗，失败者会同时从现实世界与数码世界被删除。当最后只剩一人时，“圣杯”便会实现胜者的愿望。",
+  "vndb_url": "https://vndb.org/v7602"
+}

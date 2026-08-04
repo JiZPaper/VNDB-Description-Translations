@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6192",
+  "type": "visual_novel",
+  "name": "Milkyway 1.8",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A kinetic mini adventure to show what happens between Milkyway 1 and Milkyway 2\n\n[From [url=https://vndbreview.blogspot.com/2019/04/vn-of-month-march-2002-kikokugai-cyber.html]vndbreview[/url]]",
+  "source_sha256": "442a52b802d4d77f6dd066e34d0906420173ba28140eeed2a542bbd13eada79d",
+  "translation": "一部无选项的短篇视觉小说，讲述《Milkyway 1》与《Milkyway 2》之间发生的故事。\n\n[摘自[url=https://vndbreview.blogspot.com/2019/04/vn-of-month-march-2002-kikokugai-cyber.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v6192"
+}

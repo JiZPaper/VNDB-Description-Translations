@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8145",
+  "type": "visual_novel",
+  "name": "Sentou Gakuen",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Sentou Gakuen is the very first Online Visual Novel that is combined with MMORPG elements.\n\nIn Sentou Gakuen, players are free to choose their own path. They can just study and work, do bad things at school, protect the weak, or exploit their weakness. Spend money to help friends or horde it for themselves. Form a club and become the most respected group of students in the school. Declare war on an enemy, or an innocent bystander.\n\n[From [url=https://sentou.gakuen.pw/login.php]Official Site[/url]]",
+  "source_sha256": "40098ce5f1054f81322155dc712b49d3734b42190dad65fa757ae11bba136a30",
+  "translation": "《Sentou Gakuen》是第一部融合MMORPG元素的在线视觉小说。\n\n玩家可以自由选择自己的道路：埋头学习、努力工作，或在学校为非作歹；保护弱者，或利用他们的弱点；花钱帮助朋友，或把财富全部据为己有。还可以成立社团，打造全校最受尊敬的学生组织；向敌人宣战，甚至对无辜路人开战。\n\n[译自 [url=https://sentou.gakuen.pw/login.php]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v8145"
+}

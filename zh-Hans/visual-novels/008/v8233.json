@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8233",
+  "type": "visual_novel",
+  "name": "Garasu no Yakata ~Kimi ga Inai Yoru~",
+  "original_name": "硝子の館～キミがいない夜～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Your car breaks down in the middle of the woods, and you and your girlfriend find shelter at a remote mansion.",
+  "source_sha256": "25b7b76cb3f9771973e5073eee7aa6710b3e7db8c0304f8c21ced7fcb7e6e278",
+  "translation": "你的汽车抛锚在森林深处。无奈之下，你和女友只得前往一座与世隔绝的宅邸寻求庇护。",
+  "vndb_url": "https://vndb.org/v8233"
+}

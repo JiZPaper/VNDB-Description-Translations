@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9100",
+  "type": "visual_novel",
+  "name": "Strush",
+  "original_name": "ストラッシュ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Strush is a 1991 PC-98 adventure game by Orange House that follows the story of Shinobu Aiba, a somewhat agreeable detective that's investigating why students from an elite high school have been disappearing. Enlisted by student council president Rika Izumi to look into the disappearances, Shinobu goes undercover at the school and navigates relationships, coverups, and scandals, all while a formidable woman from his past seems to follow his every move.\n\nThe story is told like a slow-burning romance story, so there's a lot of text and options to explore\n\n[From [url=https://www.romhacking.net/forum/index.php?topic=29759.0]link[/url]]",
+  "source_sha256": "318a59951bad95c0458c698db8f1c846ac81b308e310714ed244fb5addc25fda",
+  "translation": "《Strush》是Orange House于1991年推出的一款PC-98冒险游戏，讲述性格颇为随和的侦探相场忍调查名牌高中学生接连失踪之谜。学生会长和泉梨花请他查明真相，忍于是隐瞒身份潜入学校，在人际关系、掩盖事实与丑闻之间周旋。与此同时，过去认识的一名强势女性似乎在暗中注视着他的一举一动。\n\n故事以慢热恋爱剧的方式展开，因此包含大量文本和可供探索的选项。\n\n[引自[url=https://www.romhacking.net/forum/index.php?topic=29759.0]此链接[/url]]",
+  "vndb_url": "https://vndb.org/v9100"
+}

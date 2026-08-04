@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7503",
+  "type": "visual_novel",
+  "name": "Girls Are Weird",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fantastic dating game which you cannot win! Therefore, it's just like talking to a REAL girl! :D\n\n(Made for Pirate Kart 2)",
+  "source_sha256": "d9d82036b595f99f1066b2906199c8101f58ddd9d6d75b4c3324b46290d8be57",
+  "translation": "一款你绝对无法获胜的奇妙恋爱游戏！所以，它就像和现实中的女孩聊天一样真实！:D\n\n（为Pirate Kart 2制作）",
+  "vndb_url": "https://vndb.org/v7503"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8426",
+  "type": "visual_novel",
+  "name": "Tristan & Iseult",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A millennium before Romeo and Juliet, another doomed love - that between the Breton Tristan and the Irish princess Iseult - passed into legend. Some of the stories have the pair running off to France to live out their days; in others, they're both murdered by a jealous husband. Sometimes Tristan is a knight at King Arthur's court, other times a wandering Pict. Against a backdrop of war between the Irish and the Celtic peoples of ancient Britain, the pair fall in love and play out their respective roles in the fate of the whole of the British Isles.\n\n[From [url=https://games.renpy.org/game/tristan]Ren'Ai Archive[/url]]",
+  "source_sha256": "b1d3137ad21a132bf9a8305d76a6533fa42060613d550e0155db09b31d5a133c",
+  "translation": "早在《罗密欧与朱丽叶》诞生的一千年前，另一段注定以悲剧收场的爱情便已化为传说——布列塔尼人特里斯坦与爱尔兰公主伊索尔德的恋情。\n\n部分传说中，两人私奔法国，共度余生；另一些版本里，他们双双被嫉妒的丈夫杀害。有时，特里斯坦是亚瑟王宫廷的骑士，有时则是四处漂泊的皮克特人。在爱尔兰人与古代不列颠凯尔特民族交战的时代背景下，两人坠入爱河，也各自在整个不列颠群岛的命运中扮演着自己的角色。\n\n[内容取自[url=https://games.renpy.org/game/tristan]Ren'Ai Archive[/url]]",
+  "vndb_url": "https://vndb.org/v8426"
+}

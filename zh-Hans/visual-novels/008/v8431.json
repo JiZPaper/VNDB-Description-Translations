@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8431",
+  "type": "visual_novel",
+  "name": "Akamakigami",
+  "original_name": "アカマキガミ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "It's a story about a lonely king unable to trust those around him. The war and the need to protect his territory made ​​him cruel. People say that her hair is red because of blood.\n\nUntil he meets in the woods a wild little girl.",
+  "source_sha256": "82c93ffb2cfdd9e8edd9f7b07c4ca84b50631d2417a585e6fe9877ae864b51e0",
+  "translation": "这是一位孤独国王的故事。他无法信任身边的任何人，战争与保卫领土的重担也令他变得残酷。人们说，那一头红发之所以呈现血色，是因为沾染了太多鲜血。\n\n直到有一天，他在森林中遇见了一个野性十足的小女孩。",
+  "vndb_url": "https://vndb.org/v8431"
+}

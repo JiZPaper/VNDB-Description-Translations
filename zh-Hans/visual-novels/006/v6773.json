@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6773",
+  "type": "visual_novel",
+  "name": "Oshiete Miko Sensei Ni Gaiden ~Harem Hen~",
+  "original_name": "おしえて巫女先生弐 外伝～ハーレム編～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The Harem Route of the original game as a Fandisk.",
+  "source_sha256": "797b6c31eda5d61f02acce6913208d5907e86f8947a2c4574341170c2f8d8c36",
+  "translation": "本作是原作后宫路线的Fandisc。",
+  "vndb_url": "https://vndb.org/v6773"
+}

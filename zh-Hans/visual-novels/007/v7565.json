@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7565",
+  "type": "visual_novel",
+  "name": "Roof & Dragon",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "As a personal challenge, a mood piece made in 24 hours. With music and everything.",
+  "source_sha256": "7fbc33bd4dcbbce16e376834ccbffcf1ccdca6e0737b2da35b71c93e7f7bb1fc",
+  "translation": "作者为挑战自己，在24小时内完成的一部氛围小品，音乐等内容一应俱全。",
+  "vndb_url": "https://vndb.org/v7565"
+}

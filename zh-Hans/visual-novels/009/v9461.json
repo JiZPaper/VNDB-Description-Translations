@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9461",
+  "type": "visual_novel",
+  "name": "Motoko Hime Adventure",
+  "original_name": "素子姫アドベンチャー",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Motoko Hime is science fiction writer. After finishing writing a novel she was sucked into the novel and you're the only one who can save her.\n\n[From [url=http://vndbreview.blogspot.ru/2017/04/vn-of-year-1987.html]vndbreview[/url]]",
+  "source_sha256": "cb4d0386407db54ee5248ef1b3c9a815f7fd1a70d88d2606bace381db501bba3",
+  "translation": "科幻作家新井素子写完一部小说后，竟被吸进自己创作的故事中。如今只有你能救她。\n\n[引自[url=http://vndbreview.blogspot.ru/2017/04/vn-of-year-1987.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v9461"
+}

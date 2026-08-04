@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8955",
+  "type": "visual_novel",
+  "name": "Lua",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Lua Melinda is security guard in a factory. Bad people are sneaking inside the factory and you need to investigate what is going on.\n\n[From [url=https://vndb.org/t9058]vndb[/url]]",
+  "source_sha256": "b0cbffc42bba98c1f118f19c4fe2720e84bc671d1ad4a898511fb4af1ff7cbc5",
+  "translation": "露娅·梅琳达是工厂保安。坏人正偷偷潜入厂区，你需要查明他们的目的。\n\n[引自[url=https://vndb.org/t9058]vndb[/url]]",
+  "vndb_url": "https://vndb.org/v8955"
+}

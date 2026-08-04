@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8739",
+  "type": "visual_novel",
+  "name": "Pia Carrot G.O. Toybox ~Summer Fair~",
+  "original_name": "ぴあきゃろG.O. TOYBOX ～サマーフェア～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Contains 3 mini adventures:\n-Rumi no Cosplay Contest\n-Sweet are the uses of adversity\n-Koharu no Fortune Cookie",
+  "source_sha256": "baa4f10027123c7a65c383a25b21fa5a6c0b60f2516cdfe9f350a21acf075253",
+  "translation": "本作收录三篇迷你冒险故事：\n—《留美的角色扮演大赛》\n—《逆境亦有甘甜》\n—《小春的幸运饼干》",
+  "vndb_url": "https://vndb.org/v8739"
+}

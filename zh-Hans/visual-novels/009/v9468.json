@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9468",
+  "type": "visual_novel",
+  "name": "Guin Saga ~Hyoutou no Kamen~",
+  "original_name": "グインサーガ ～豹頭の仮面～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Based on first volume of Guin Saga novels. You are the survivor of the royal family and are chased by mongolian raids.\n\n[From [url=http://vndbreview.blogspot.ru/2017/04/vn-of-year-1987.html]vndbreview[/url]]",
+  "source_sha256": "ea44fa040422b0731ab189fae2b4beff15a40bea5087947e1089182b238fdd58",
+  "translation": "本作改编自《豹头王传说》第一卷。你是王室的幸存者，正遭蒙戈尔侵略军追杀。\n\n[引自[url=http://vndbreview.blogspot.ru/2017/04/vn-of-year-1987.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v9468"
+}

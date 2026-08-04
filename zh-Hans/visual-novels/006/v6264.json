@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6264",
+  "type": "visual_novel",
+  "name": "Eva no Majo",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Conversion from the EP3 Battler vs. Eva-Beatrice battle.\nGame made using sprites from Ougon Musou Kyoku.",
+  "source_sha256": "7bfb4162a04cd870b52a1b4a573649728f99c7f30fe96a2e4b1d901d95eac17b",
+  "translation": "改编自《海猫鸣泣之时》EP3中战人与绘羽·贝阿朵莉切的战斗。\n\n本作使用《黄金梦想曲》的精灵图制作。",
+  "vndb_url": "https://vndb.org/v6264"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9060",
+  "type": "visual_novel",
+  "name": "Ripple Cafe",
+  "original_name": "リップルカフェ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A collection of three short stories:\n\n1) Maze dungeon\n2) Life in Neorvous\n3) Orchestra hit\n\n[From [url=https://vndbreview.blogspot.ru/2017/06/vn-of-month-april-1993.html]vndbreview[/url]]",
+  "source_sha256": "262ae8afc5d3a7732d6581325916db87069913fd7a882a701183aef9745875d2",
+  "translation": "由三个短篇故事组成的合集：\n\n一、《迷宫地牢》；\n二、《神经质生活》；\n三、《管弦乐重击》。\n\n[引自[url=https://vndbreview.blogspot.ru/2017/06/vn-of-month-april-1993.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v9060"
+}

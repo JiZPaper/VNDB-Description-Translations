@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9108",
+  "type": "visual_novel",
+  "name": "Tasogare no Kyoukai",
+  "original_name": "黄昏の境界",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a horror-adventure about a high school student who is a treasure hunter. You'll need to explore some horrifying dungeons to investigate a mysterious sequence of murders.",
+  "source_sha256": "8350186e84045f8792efd58872e8fe213191d3e15a43df0480dd75c92a33b9e4",
+  "translation": "一部恐怖冒险作品，主人公是兼任宝藏猎人的高中生。为了调查一连串神秘凶杀案，玩家必须探索数座骇人的地牢。",
+  "vndb_url": "https://vndb.org/v9108"
+}

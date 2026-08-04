@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6968",
+  "type": "visual_novel",
+  "name": "charade",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Charade describes the daily high-school routine of a girl named Kazumi. The game proceeds from one school day to another, putting Kazumi in the same situations, facing the same choices. Those choices, as well as random events and meetings with other characters, schoolmates and teachers (only female), change Kazumi's viewpoints as well as relationships with the other girls.\n\n[from [url=http://www.mobygames.com/game/pc98/charade]MobyGames[/url]]",
+  "source_sha256": "4ace66f7d82dc3b9d2672350e220190dbb80fa027879cb9c4eb09a207701e1e0",
+  "translation": "《charade》描写名为和美的女孩日复一日的高中生活。游戏从一个上学日进入下一个，让和美面对同样的情境与选择。这些选择，以及随机事件和与其他角色、同学、教师的相遇，都会改变和美的观点，以及她与其他女孩的关系。\n\n[摘自[url=http://www.mobygames.com/game/pc98/charade]MobyGames[/url]]",
+  "vndb_url": "https://vndb.org/v6968"
+}

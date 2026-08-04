@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6050",
+  "type": "visual_novel",
+  "name": "Incubus",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Incubus features the story of a notorius pirate Daelin as he sails the Leras sea in search of love and wealth. Will his piracy lead him to find love or will he die trying?",
+  "source_sha256": "c45ea9e30ba784147f7dbaa08036844430fb6ffe136d33d47494dde1d56a3386",
+  "translation": "《Incubus》讲述恶名昭彰的海盗戴林航行于莱拉斯海，寻找爱情与财富的故事。他的海盗生涯会为他带来爱情，还是令他在追寻途中丧命？",
+  "vndb_url": "https://vndb.org/v6050"
+}

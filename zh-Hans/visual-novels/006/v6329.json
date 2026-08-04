@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6329",
+  "type": "visual_novel",
+  "name": "Fairy Tales",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This visual novel is based on the tales of Madame d'Aulnoy.",
+  "source_sha256": "33aed876d9184b3ae1314142be0081a50dbf2242c16c544a101183dee680676b",
+  "translation": "这部视觉小说以多诺夫人的童话为基础。",
+  "vndb_url": "https://vndb.org/v6329"
+}

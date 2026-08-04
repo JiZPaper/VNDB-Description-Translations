@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6919",
+  "type": "visual_novel",
+  "name": "Maison de Kyouko ~Kanrinin-san no Himitsu~",
+  "original_name": "めぞん de 響子 ～管理人さんの秘蜜～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A doujin game featuring Otonashi Kyouko from Maison Ikkoku.",
+  "source_sha256": "a9520e1b0bf81c0cc1211b0cbf8d00fd53e1e282ac74e51cd88cd92d4f41d2c5",
+  "translation": "一部以《相聚一刻》的音无响子为主角的同人游戏。",
+  "vndb_url": "https://vndb.org/v6919"
+}

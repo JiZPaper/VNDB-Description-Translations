@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9495",
+  "type": "visual_novel",
+  "name": "Abyss II ~Tears of Emperor~",
+  "original_name": "アビス Ⅱ ～帝王の涙～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In the year 3006, various organizations in the galaxy are searching for a legendary weapon known as Tears of Emperor. It is said that possession of this weapon will allow its owner to dominate the entire world. A criminal syndicate called Grimp has devised its own scheme for procuring the weapon. They kidnapped a well-known space explorer and infused his body with a tiny neutron bomb. If the explorer will not obtain Tears of Emperor for them, the bomb will detonate...\n\nAbyss II: Tears of Emperor is a follow-up to Abyss. Like its predecessor, the game is a text adventure with graphics. The player inputs commands combined from verbs and objects. Some of the more frequent commands are mapped to the function keys. Unlike the previous game, the commands are in Japanese and must be typed with katakana syllables.\n\n[From [url=http://www.mobygames.com/game/abyss-ii-tears-of-emperor]mobygames[/url]]",
+  "source_sha256": "eb36107c1e4bec8db14ee4044c71cf3da565a54be73a478972dc40c9bbcabd4b",
+  "translation": "3006年，银河系中的多个组织都在寻找传说武器“帝王之泪”。据说只要拥有它，便能支配整个世界。犯罪集团格林普也制订了夺取武器的计划：他们绑架一名著名宇宙探险家，在他体内植入微型中子弹。如果探险家不替他们找到帝王之泪，炸弹就会爆炸……\n\n《深渊II：帝王之泪》是《深渊》的续作。与前作相同，本作也是一款带图像的文字冒险游戏。玩家要输入由动词和宾语组合而成的指令，部分常用指令则映射到了功能键上。与前作不同，本作的指令是日语，必须用片假名输入。\n\n[引自[url=http://www.mobygames.com/game/abyss-ii-tears-of-emperor]mobygames[/url]]",
+  "vndb_url": "https://vndb.org/v9495"
+}

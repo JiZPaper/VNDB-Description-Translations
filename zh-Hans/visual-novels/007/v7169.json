@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7169",
+  "type": "visual_novel",
+  "name": "LoveMail",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"I love you.\"\nThese simple words came suddenly to my email.\nNo return address. No clues. Just a message.\nCould it have been a mistake?\nWas there another meaning?\n\nAt the time I didn't think deeply on it...\n\n[from [url=http://www.dlsite.com/eng/work/=/product_id/RE073539.html]DLsite English[/url]]",
+  "source_sha256": "6d9d8cb82ee48d65eae8dd25c7eb72d6b6eaac282f001c03bd922c94428afb7c",
+  "translation": "“我爱你。”\n\n这几个简单的字突然出现在我的电子邮件中。\n\n没有回信地址，没有线索，只有讯息。\n\n会是寄错了吗？\n\n还是另有含义？\n\n当时，我没有深入思考……\n\n[摘自[url=http://www.dlsite.com/eng/work/=/product_id/RE073539.html]DLsite English[/url]]",
+  "vndb_url": "https://vndb.org/v7169"
+}

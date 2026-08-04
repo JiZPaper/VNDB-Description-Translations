@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8992",
+  "type": "visual_novel",
+  "name": "NOVA",
+  "original_name": "ノ・ヴァ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist of the game awakens in the cryogenic chamber of a spaceship, unable to remember anything from his past and only vaguely recalling his name. Something strange is happening on board the ship, and it is possible that unknown creatures have found their way into it. The protagonist meets other crew members and together they try to find out what exactly is going on.\n\n[From [url=http://www.mobygames.com/game/pc98/nova__]Moby Games[/url]]",
+  "source_sha256": "7f56e339122649423008b8a3537cd71b5a4dc7353252bfe454b5fb3eb2d200c5",
+  "translation": "主人公在一艘宇宙飞船的低温休眠舱中醒来。他完全不记得自己的过去，对姓名也只有模糊印象。飞船上正发生着某种怪事，未知生物或许已经潜入其中。主人公遇见其他船员后，与他们一同设法查明真相。\n\n[引自[url=http://www.mobygames.com/game/pc98/nova__]Moby Games[/url]]",
+  "vndb_url": "https://vndb.org/v8992"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9469",
+  "type": "visual_novel",
+  "name": "Twilight Zone",
+  "original_name": "トワイライトゾーン",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Twilight Zone is a text adventure game with graphics. The protagonist is a young man who finds himself in a mysterious mansion created by an equally mysterious old woman. His goal is to escape the mansion and have sex with as many young women living there as possible. The interaction with the game is performed by inputting text commands (Japanese kana only). Navigation is performed by typing the Japanese words for the four directions, and locations are represented as still first-person screens. The game has no real puzzles and very limited item usage.\n\n[From [url=http://www.mobygames.com/game/pc88/twilight-zone_]mobygames[/url]]",
+  "source_sha256": "7477a16841b300f66211062cbd981618d96404cecb4eb8c7fb30534e0cabdfa6",
+  "translation": "《暮光地带》是一款带图像的文字冒险游戏。主人公是个年轻男子，被困在神秘老妇创造的诡异宅邸中。他的目标是逃离宅邸，并尽可能与住在其中的年轻女性发生性关系。\n\n玩家通过输入文字指令与游戏互动，且只能使用日语假名。移动时要输入表示四个方向的日语词语，各地点则以第一人称静态画面呈现。游戏没有真正意义上的谜题，道具用途也十分有限。\n\n[引自[url=http://www.mobygames.com/game/pc88/twilight-zone_]mobygames[/url]]",
+  "vndb_url": "https://vndb.org/v9469"
+}

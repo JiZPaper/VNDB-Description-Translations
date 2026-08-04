@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7502",
+  "type": "visual_novel",
+  "name": "Fish Soup",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "It's about a fish stuck on the beach.",
+  "source_sha256": "d958eb4b8217489112f602aff5204e56cde159fc52338763d97c015b07791892",
+  "translation": "一条鱼被困在了沙滩上。故事讲的就是它的遭遇。",
+  "vndb_url": "https://vndb.org/v7502"
+}

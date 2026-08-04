@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7310",
+  "type": "visual_novel",
+  "name": "Finding a Murderer",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "When Detective Ivy Viviana is killed, can her lover Carrington Richardson find out the murderer?  Or will he end up dead?",
+  "source_sha256": "5ba7da22cce55f1961e5119117bdcdb6539aa67653d11c51e0c5a62cfbbfcbd4",
+  "translation": "女侦探艾薇·薇薇安娜遇害后，她的恋人卡林顿·理查森能否找出凶手？还是会连自己也命丧黄泉？",
+  "vndb_url": "https://vndb.org/v7310"
+}

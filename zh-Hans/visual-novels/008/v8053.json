@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8053",
+  "type": "visual_novel",
+  "name": "Kono Hareta Sora no Shita de",
+  "original_name": "この晴れた空の下で",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game takes place in the near future where so-called \"Mimic\" robots work in place of humans. Playing as Reichi Kuroha, a member of a government investigation team, your job is to investigate the mysterious suicide of a Mimic -- a strange occurrence, since Mimics are not supposed to kill themselves. The game includes a number of heroines, both Mimic and human, with whom you'll get involved as the story progresses. \n\n[from [url=http://uk.ps2.ign.com/objects/721/721654.html]IGN.com[/url]]",
+  "source_sha256": "4e7bccd3026b190974bbba3ff826e59e10f6956146295af2cd56b40d28dbee43",
+  "translation": "故事发生在近未来，名为“拟态者”（Mimic）的机器人已经代替人类工作。玩家扮演政府调查组成员黑羽玲一，负责调查一台拟态机器人离奇自杀的案件——这件事十分反常，因为拟态者原本不应该能够自杀。随着故事发展，玩家会与多名女主角产生交集，其中既有拟态者，也有真正的人类。\n\n[译自 [url=http://uk.ps2.ign.com/objects/721/721654.html]IGN.com[/url]]",
+  "vndb_url": "https://vndb.org/v8053"
+}

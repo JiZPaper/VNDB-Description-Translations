@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7830",
+  "type": "visual_novel",
+  "name": "Scapegrace",
+  "original_name": "困り者",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Old Japan about 1610:\n\nGoro is a scapegrace. When his father forces him to go with him to Edo he does not know that he will not see his family in a long time. Goro has to grow up.",
+  "source_sha256": "9025c5afb292730457ee09612c7340b6fa351c329d2584931c939841fb58e3a8",
+  "translation": "约1610年的日本：\n\n毅志五郎是个不成器的麻烦人物。父亲强迫他一同前往江户时，他并不知道自己将有很长时间无法再见家人。五郎必须学会成长。",
+  "vndb_url": "https://vndb.org/v7830"
+}

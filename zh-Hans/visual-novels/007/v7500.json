@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7500",
+  "type": "visual_novel",
+  "name": "Despair Witch",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Satoru is a wizard who stays in human world for magic training. Here he meets a girl who is a wizard as well and he decides to make her his slave...",
+  "source_sha256": "2a130df188693db732e310dd5f8865db261f864d02008233823b18a70c93605c",
+  "translation": "宇井悟是一名为修炼魔法而留在人类世界的魔法师。在这里，他遇见了同为魔法师的女孩市井瑠那，并决定让她成为自己的奴隶……",
+  "vndb_url": "https://vndb.org/v7500"
+}

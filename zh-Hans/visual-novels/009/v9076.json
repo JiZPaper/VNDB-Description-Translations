@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9076",
+  "type": "visual_novel",
+  "name": "Seiki ~Ryoujoku no Kamen~",
+  "original_name": "性鬼 ～陵辱の仮面～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist is a high school student who has been bullied daily. One day a mysterious man sells him a magical mask that promises to bring happiness to the wearer, until he discovers later that the true nature of the mask is to empower the wearer to avenge against enemies...",
+  "source_sha256": "e84c178c30ecafeb49fe36590c42888546bd95e2c4cf53f68562cf4eb84e6113",
+  "translation": "主人公是一名每天都遭受霸凌的高中生。一天，一名神秘男子卖给他一副魔法面具，声称面具能为佩戴者带来幸福。直到后来，主人公才发现面具真正的力量，是让佩戴者获得向仇敌复仇的能力……",
+  "vndb_url": "https://vndb.org/v9076"
+}

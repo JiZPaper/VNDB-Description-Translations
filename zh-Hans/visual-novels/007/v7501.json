@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7501",
+  "type": "visual_novel",
+  "name": ">Start >Fight >Run",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "‘This is a small visual novel made for Ludum Dare (and as such, I made it easy as to not try anyone’s patience.) The theme was, “It’s dangerous to go alone! Take this!”’\n\n[From [url=http://bentosmile.com/mini-games/start-fight-run/]official website[/url]]",
+  "source_sha256": "3141e0e6676ad8edbafbec0d9d809110940d0639090075b155e3fd6bc862f51f",
+  "translation": "“这是一部为Ludum Dare制作的小型视觉小说，因此我刻意降低了难度，免得消磨玩家的耐心。比赛主题是：‘独自上路太危险了！带上这个！’”\n\n[译自 [url=http://bentosmile.com/mini-games/start-fight-run/]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v7501"
+}

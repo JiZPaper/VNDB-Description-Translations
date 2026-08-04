@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9215",
+  "type": "visual_novel",
+  "name": "Cosmos Cube",
+  "original_name": "こすもすきゅーぶ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel based on the webcomic of the same name.",
+  "source_sha256": "1d662025e1484c34e57ad026757b2610a859fe1fe5f68ca48d24b98f7370270f",
+  "translation": "一部改编自同名网络漫画的视觉小说。",
+  "vndb_url": "https://vndb.org/v9215"
+}

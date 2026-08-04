@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7403",
+  "type": "visual_novel",
+  "name": "[Phase Shift]",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Boy meets girl. Boy is a cynic. Girl is just a tad bit strange and not what she seems on the surface... A friendship is born and perhaps a new phase in their lives will begin to move. But this is just a small story within a bigger picture.\n\n[From [url=http://games.renpy.org/game/phaseshift.shtml]Ren'Py Archive[/url]]",
+  "source_sha256": "a913b01563556ae4737d494d9d401a6a23d3621d61423416d4d324292f41c5d0",
+  "translation": "少年遇见少女。少年愤世嫉俗，少女则有些古怪，远非表面看起来那么简单……两人由此结下友谊，人生或许也将迈入新的阶段。然而，这不过是宏大图景中的一则小故事。\n\n[译自 [url=http://games.renpy.org/game/phaseshift.shtml]Ren'Py Archive[/url]]",
+  "vndb_url": "https://vndb.org/v7403"
+}

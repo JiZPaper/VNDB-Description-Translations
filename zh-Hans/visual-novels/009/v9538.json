@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9538",
+  "type": "visual_novel",
+  "name": "Doukyou ~Kaisou Densetsu~",
+  "original_name": "道鏡 ～怪僧伝説～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Game is a fantasy based on legend of Doukyou - a yokai of a mirror at Nara period (8th century).\n\n[From [url=http://vndbreview.blogspot.ru/2017/04/vn-of-year-1984.html]vndbreview[/url]]",
+  "source_sha256": "cd6d1ed3183ac12cfe16f427bfb011601d394e9d5e853cce26459fe561a4972a",
+  "translation": "本作是一部奇幻游戏，以日本奈良时代（8世纪）怪僧道镜的传说为蓝本。\n\n[引自[url=http://vndbreview.blogspot.ru/2017/04/vn-of-year-1984.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v9538"
+}

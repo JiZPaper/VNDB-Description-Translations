@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7761",
+  "type": "visual_novel",
+  "name": "Anthridercynantide",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A street worker gathers all his savings to go abroad and face a woman who he believes shares a common past with him.\n\n[From the [url=http://atpprojects.mygamesonline.org/visualnovels.htm]Official site[/url]]",
+  "source_sha256": "caac51d16f21d9e3ca3780a09b99d8306c0997f20050324e6a325feb4cfe8726",
+  "translation": "一名街头工作者拿出全部积蓄前往异国，与一个他认定和自己拥有共同过去的女人当面对质。\n\n[译自 [url=http://atpprojects.mygamesonline.org/visualnovels.htm]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v7761"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9453",
+  "type": "visual_novel",
+  "name": "Shin Tamatori Monogatari",
+  "original_name": "新玉取物語",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The hero needs to find five balls scattered around the four worlds.\n\n[From [url=https://vndbreview.blogspot.com/2017/04/vn-of-year-1987.html]vndbreview[/url]]",
+  "source_sha256": "284717b6f4a3f44b5f154eb0e10075d486f9ea1b27a036d76cf3539e79622003",
+  "translation": "主人公需要找回散落在四个世界中的5颗宝珠。\n\n[引自[url=https://vndbreview.blogspot.com/2017/04/vn-of-year-1987.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v9453"
+}

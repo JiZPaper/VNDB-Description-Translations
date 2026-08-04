@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5993",
+  "type": "visual_novel",
+  "name": "Tantei Jinguuji Saburou Detective Story: Akai Chou",
+  "original_name": "探偵 神宮寺三郎DS 赤い蝶",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A DS exclusive story hence no numerical. Also includes stories 16-20 from the Mobile lineup and 6 chibi style minigames.",
+  "source_sha256": "168830e451b5023b804c200e262930dd85ed662253e54728a0409d3b873a78dc",
+  "translation": "本篇为DS独占故事，因此没有数字编号。游戏还收录了手机系列第16至20篇，以及六款Q版小游戏。",
+  "vndb_url": "https://vndb.org/v5993"
+}

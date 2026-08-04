@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9254",
+  "type": "visual_novel",
+  "name": "Sour Prince",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "When Kylie tries to confess her crush on the school idol, she accidentally discovers his mysterious secret.",
+  "source_sha256": "f44c4015cf215a7fba629aa855faa6192ad8719b070bd357dd4fd4840ae5c086",
+  "translation": "凯莉想向自己暗恋的校园偶像表白，却阴差阳错地发现了他不为人知的秘密。",
+  "vndb_url": "https://vndb.org/v9254"
+}

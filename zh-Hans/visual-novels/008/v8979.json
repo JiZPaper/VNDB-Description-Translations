@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8979",
+  "type": "visual_novel",
+  "name": "Muppet Box",
+  "original_name": "まぺっとぼっくす",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A collection of three stories\n\n[From [url=https://vndbreview.blogspot.com/2017/08/vn-of-month-november-1996.html]vndbreview[/url]]",
+  "source_sha256": "9a53418cfb145f1c565c048f2ee2604bcecf0c8aa5f92ec54e583210f992de18",
+  "translation": "由三个故事组成的合集。\n\n[引自[url=https://vndbreview.blogspot.com/2017/08/vn-of-month-november-1996.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v8979"
+}

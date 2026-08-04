@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7282",
+  "type": "visual_novel",
+  "name": "Caught in Between",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A flashback of a girl named Tanaka Shione. The flashback was all about how she was when she was a child, and how she met her first set of friends.",
+  "source_sha256": "d9d75f12a9eb275903e842fe4efbc8bb94f63012713c24ecf57e4b8ba8adfb22",
+  "translation": "一段关于田中诗音的回忆。内容讲述她童年时的模样，以及她如何结识最初的一群朋友。",
+  "vndb_url": "https://vndb.org/v7282"
+}

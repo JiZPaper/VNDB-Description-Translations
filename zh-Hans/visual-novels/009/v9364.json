@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9364",
+  "type": "visual_novel",
+  "name": "Yesterday",
+  "original_name": "イエスタディ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In the far future, human beings learned to travel to faraway solar systems; as a result, human civilization has spread across the entire galaxy. However, as they tried to explore the outer space beyond it, they encountered a huge black hole. It was said that a strange light emanated from it. A brave scientist and pilot named Sonya traveled to the black hole, and discovered a medieval-like world, whose inhabitants consider her a divine savior...\n\nDespite the side-scrolling perspective for navigation, Yesterday is an RPG without any action elements, similar to its \"sister games\" Caroll and Emerald Densetsu. The player navigates the heroine through vast side-scrolling environment, fighting randomly appearing enemies. During the turn-based battles, the game switches to first-person view. Items and equipment can be bought in friendly areas. Leveling up is automatic; magic spells are learned depending on the protagonist's level.\n\n[From [url=http://www.mobygames.com/game/pc88/yesterday]Mobygames[/url]]",
+  "source_sha256": "8c0a29726fdd0685dd8d701319a3e8a7eeeea3c3779e7e41d47b26512ec25087",
+  "translation": "遥远的未来，人类已经掌握前往遥远恒星系的技术，文明也由此扩张至整个银河系。然而，当人们试图探索银河之外的宇宙时，却遇见了一个巨大的黑洞。据说，那里会放射出一种奇异的光。勇敢的科学家兼飞行员索尼娅前往黑洞调查，竟发现了一个宛如中世纪的世界；当地居民更将她视为神明派来的救世主……\n\n尽管探索时采用横向卷轴视角，《Yesterday》与姊妹作《Caroll》和《Emerald传说》一样，是一款不含动作要素的RPG。玩家要操纵女主人公在广阔的横向卷轴场景中移动，并迎战随机出现的敌人。进入回合制战斗后，画面会切换为第一人称视角。玩家可以在友好地区购买道具和装备；角色会自动升级，并根据当前等级习得魔法。\n\n[引自[url=http://www.mobygames.com/game/pc88/yesterday]MobyGames[/url]]",
+  "vndb_url": "https://vndb.org/v9364"
+}

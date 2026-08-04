@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7691",
+  "type": "visual_novel",
+  "name": "Okinawa Slave Island",
+  "original_name": "沖縄スレイブアイランド",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play the role of a man who is shipped off to Okinawa by his boss and takes advantage of the remoteness of one of the islands of Okinawa and builds a slave island, capturing men and chaining them up for his pleasure.",
+  "source_sha256": "d332deb8b8dd1e0b5eb4a57ae4289fd26103222087f840336e967e6bf4fe3167",
+  "translation": "玩家扮演一名被上司派往冲绳的男子。他利用冲绳某座岛屿地处偏远的特点，把那里建成“奴隶岛”，抓来男人锁上锁链，供自己享乐。",
+  "vndb_url": "https://vndb.org/v7691"
+}

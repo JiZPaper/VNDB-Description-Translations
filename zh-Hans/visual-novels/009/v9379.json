@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9379",
+  "type": "visual_novel",
+  "name": "Koube Ren'ai Monogatari",
+  "original_name": "神戸恋愛物語",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A love story unfolds while sightseeing in Kobe.\n\n[From [url=http://vndbreview.blogspot.ru/2017/04/vn-of-year-1989.html]vndbreview[/url]]",
+  "source_sha256": "07663aca3405e8bb878ce87be847c599d15e9ab00fb49d78bc9484ceedb85fb5",
+  "translation": "一段在游览神户名胜的旅途中悄然展开的爱情故事。\n\n[引自[url=http://vndbreview.blogspot.ru/2017/04/vn-of-year-1989.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v9379"
+}

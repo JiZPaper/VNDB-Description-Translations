@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8562",
+  "type": "visual_novel",
+  "name": "Arbeit ~Futari no Omoi~",
+  "original_name": "アルバイト ～二人の想い～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A couple is preparing for a holiday together, and need money to do that. Both go for a part-time job.\n\nYou get to see both the boyfriend's and girlfriend's points of view.",
+  "source_sha256": "1e12daec9ebe28ba264979bd19218eaca419ce7a343553a91e06e72dc26b0e9b",
+  "translation": "一对情侣正在筹备共同度假，但他们需要先赚到旅费。于是，两人都找了一份兼职。\n\n玩家可以分别从男友与女友的视角观看故事。",
+  "vndb_url": "https://vndb.org/v8562"
+}

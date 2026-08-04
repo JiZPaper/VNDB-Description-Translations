@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9279",
+  "type": "visual_novel",
+  "name": "Otouto Freaks",
+  "original_name": "弟フリークス",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "One day, my younger brother was chosen to become a hero!\n\nHe's going to defeat the demon king,\nso let's go and gather some useful (not that I know what he could do with them) items!\n\n[Translated from [url=http://cocoon.daa.jp/freaks/index.htm]official website[/url]]",
+  "source_sha256": "d5f34cfb0c7840fe9b857838d8919a162832b46951055e8c617a232c469435a0",
+  "translation": "有一天，我弟弟被选为勇者！\n\n他要去打败魔王，\n所以我们也去收集一些有用的道具吧（虽然我也不知道他能拿这些做什么）！\n\n[译自[url=http://cocoon.daa.jp/freaks/index.htm]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v9279"
+}

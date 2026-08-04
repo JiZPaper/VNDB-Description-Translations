@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7219",
+  "type": "visual_novel",
+  "name": "Welcome to Ukraine",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short Hetalia-inspired dating simulator, focused on the character of Ukraine. Includes interactions with her little sister Belarus and her little brother Russia.",
+  "source_sha256": "75be09c9e85f760bc9aa15f38725cc224dfa5f057fdc08fd56ab6a4efed2f6e8",
+  "translation": "一部受《黑塔利亚》启发的短篇恋爱模拟游戏，以乌克兰为主角。玩家也会与她的妹妹白俄罗斯和弟弟俄罗斯互动。",
+  "vndb_url": "https://vndb.org/v7219"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7756",
+  "type": "visual_novel",
+  "name": "The Gift of the Magi",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "O. Henry's short story 'The Gift of the Magi' in visual novel form.",
+  "source_sha256": "3eb5bc2822de30885f992f6b827d3705555c08381c66bd19450d41b03e1e616c",
+  "translation": "欧·亨利短篇小说《麦琪的礼物》的视觉小说版本。",
+  "vndb_url": "https://vndb.org/v7756"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7671",
+  "type": "visual_novel",
+  "name": "Kare to Kare no Hazama De ~Wedding March~",
+  "original_name": "カレと彼の間で　～ウェディングマーチ～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A fandisc to the second Kare to Kare no Hazama De game. The heroine must choose who of the two boys she wants to marry and the consequences of her choice.",
+  "source_sha256": "71b9809e8316fecd255f6bf4bd7eeeb012541d75776cce099ea43333a82ee65a",
+  "translation": "《カレと彼の間で》第二作的资料片。女主角必须从两名男孩中选出想要结婚的对象，并面对这一选择带来的后果。",
+  "vndb_url": "https://vndb.org/v7671"
+}

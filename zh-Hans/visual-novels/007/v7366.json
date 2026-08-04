@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7366",
+  "type": "visual_novel",
+  "name": "Nise no Chigiri Omoide no Saki e",
+  "original_name": "二世の契り 想い出の先へ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fandisc of Nise no Chigiri.",
+  "source_sha256": "4aaa1b2fd883ebe3b6e1722ada4b2a40f2ba996405efc1ea12b778bf581884ac",
+  "translation": "《二世之契》的资料片。",
+  "vndb_url": "https://vndb.org/v7366"
+}

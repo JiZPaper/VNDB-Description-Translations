@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7550",
+  "type": "visual_novel",
+  "name": "Pegasus",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You want to be a great poet!\nYou are given a very important decision in regards to it, therefore choose wisely!\n\n[From Lemma Soft Forums]",
+  "source_sha256": "3fc54743089359bd3ff3bcbaec2d0c2bed706be5a5d73eb8bd63468cd0530bf2",
+  "translation": "你想成为一名伟大的诗人！\n如今，一个至关重要的抉择摆在面前，务必慎重选择！\n\n[译自Lemma Soft Forums]",
+  "vndb_url": "https://vndb.org/v7550"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7487",
+  "type": "visual_novel",
+  "name": "Faery Tale",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Once upon a time there was a fair maiden... In \"Faery Tale,\" the choices the player makes determines what Faery Tale the Fair Maiden ends up in with 8 possible endings. Fairy tales Featured: Red Riding Hood, The Nixie of the Millpond, Cinderella, The Red Shoes.",
+  "source_sha256": "9a8ec95ebfb9b1858c29dbc9e3a47f7a1bc360f4759c9a83239a6c8fa6ce03eb",
+  "translation": "很久很久以前，有一位美丽少女……在《Faery Tale》中，玩家的选择将决定少女进入哪一则童话，故事共有八种结局。登场童话包括《小红帽》《磨坊池塘的水妖》《灰姑娘》与《红舞鞋》。",
+  "vndb_url": "https://vndb.org/v7487"
+}

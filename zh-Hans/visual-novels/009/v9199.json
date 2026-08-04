@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9199",
+  "type": "visual_novel",
+  "name": "Mio-chan to A-so-bo",
+  "original_name": "みおちゃんとあ・そ・ぼ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Features [url=http://anidb.net/perl-bin/animedb.pl?show=character&charid=4425]Mio[/url] from K-On.",
+  "source_sha256": "4268492f779d55f7658de8e71ed41beb8989efe3a097f282fc821001397bf68d",
+  "translation": "本作以《轻音少女》中的[url=http://anidb.net/perl-bin/animedb.pl?show=character&charid=4425]秋山澪[/url]为主角。",
+  "vndb_url": "https://vndb.org/v9199"
+}

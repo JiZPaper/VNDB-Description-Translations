@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8923",
+  "type": "visual_novel",
+  "name": "Ginga Tetsudou no Tabi",
+  "original_name": "銀河鉄道の旅",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Based on novel by Kenji Miyazawa.",
+  "source_sha256": "8f66912db41c36e800dc4411974e676cd59c8672bb0df576682bca010accdcc3",
+  "translation": "改编自宫泽贤治的小说《银河铁道之夜》。",
+  "vndb_url": "https://vndb.org/v8923"
+}

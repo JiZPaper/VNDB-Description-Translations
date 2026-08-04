@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7776",
+  "type": "visual_novel",
+  "name": "The Rain was Ending, and Light",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This visual novel was inspired by a poem with the same title by Laurence Binyon. A boy, no older then seven, lying on a bed watches the first rainfall the town has had in twenty years. \n\n[From [url=http://weouxus.weebly.com/]Weouxus[/url]]",
+  "source_sha256": "05aa1406962f8fa433f65e7aabc65ea0d67185d4e08f575dde86dcb83c9c646b",
+  "translation": "本作灵感来自劳伦斯·比尼恩的同名诗歌。一个不超过七岁的男孩躺在床上，望着小镇二十年来的第一场雨。\n\n[译自 [url=http://weouxus.weebly.com/]Weouxus[/url]]",
+  "vndb_url": "https://vndb.org/v7776"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6453",
+  "type": "visual_novel",
+  "name": "Hajimari no Kisetsu ~Izakaya Fuyu Monogatari~",
+  "original_name": "はじまりの季節 ～居酒屋冬物語～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist's relationship with his girlfriend is not doing very well. She's even being courted by his boss! In an effort to rekindle their love, he takes her on a vacation to a ski resort. But will that be enough to win back her heart?",
+  "source_sha256": "ad3a756539cb54964b148cd81b8ca64f510418f443e64fac6380831eea074306",
+  "translation": "主人公与女友的关系并不顺利，她甚至受到他上司的追求！为了重燃爱火，他带她去滑雪胜地度假。但这足以挽回她的心吗？",
+  "vndb_url": "https://vndb.org/v6453"
+}

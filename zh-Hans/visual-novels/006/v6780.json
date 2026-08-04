@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6780",
+  "type": "visual_novel",
+  "name": "Pandora no Bikkuribako",
+  "original_name": "パンドラのびっくり箱",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fandisc for Pandora no Yume. \nThe main content is Pandora no Yume - Another Story, two after stories for the main game. Yume is set several years after the main story, with Yuito studying robotics. In Gokuraku the characters give a party half a year after the story.\nIt also includes mini-games and user apported illustrations and stories, along other extras.",
+  "source_sha256": "e2ce8427c3a9c1ced95e3d0fcc266d4a9a8e8c319fdf18b4d34e37af20d4c049",
+  "translation": "《潘多拉之梦》的Fandisc。\n主要内容为《潘多拉之梦：另一段故事》，即本篇的两则后日谈。\n其中，《梦》设定在本篇数年后，唯人正在学习机器人技术；《极乐》则描写角色们在故事结束半年后举办的一场派对。\n此外还包含小游戏、用户投稿的插画与短篇故事等特典。",
+  "vndb_url": "https://vndb.org/v6780"
+}

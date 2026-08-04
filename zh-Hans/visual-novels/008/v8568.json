@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8568",
+  "type": "visual_novel",
+  "name": "Bacta",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Jinpachi Tanaka is a paranormal investigator who possesses the powers of detecting and fighting demonic creatures. As these demons are usually female and pretty, they can easily pose as humans, and Jinpachi must use somewhat unorthodox (though physically pleasing) techniques to tell friend from foe. Jinpachi and his employees must cooperate with the police and avert grave dangers posed by an angry female demon who has sworn revenge against the hero.\n\nBacta is a Japanese-style adventure game. The player is presented with a text menu containing verbs, most of which lead to sub-menus with objects. Some of these commands are context-specific, while others (\"Look\", \"Talk\", \"Move\", etc.) are present in every situation. Sometimes events must be triggered by repeatedly selecting commands.\n\n[From [url=http://www.mobygames.com/game/bacta]Mobygames[/url]]",
+  "source_sha256": "0bf1e4fe2676b5fee4eef64fbadb0e566732214ffc150995c60bca1e216506e0",
+  "translation": "田中甚八是一名超自然现象调查员，拥有侦测并对抗魔物的力量。由于这些魔物通常都是容貌美丽的女性，她们很容易伪装成人类；甚八必须使用一些不太寻常——但肉体上颇为愉悦——的手段分辨敌友。为了阻止一个发誓向甚八复仇的愤怒女魔物带来的巨大危机，他与事务所员工必须同警方携手合作。\n\n《Bacta》是一款日式冒险游戏。玩家会看到由动词组成的文字菜单，其中大多数指令还会打开包含不同对象的子菜单。一部分指令只会在特定情境出现，另一些则在任何场景中都能使用，例如“观察”“交谈”“移动”等。有时，玩家必须反复选择同一指令，才能触发事件。\n\n[引自[url=http://www.mobygames.com/game/bacta]MobyGames[/url]]",
+  "vndb_url": "https://vndb.org/v8568"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6376",
+  "type": "visual_novel",
+  "name": "Space Cadet",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An extraterrestrial female cadet has to complete a survival assignment on Earth.",
+  "source_sha256": "88fcbffab4503deaae7cab9c2d9fc9e33966b3aadaabaf6877cbea5902dc6b10",
+  "translation": "一名外星女学员必须在地球完成一项生存任务。",
+  "vndb_url": "https://vndb.org/v6376"
+}

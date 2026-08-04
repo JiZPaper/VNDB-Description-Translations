@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9493",
+  "type": "visual_novel",
+  "name": "Dezeni Land",
+  "original_name": "デゼニランド",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In Dezeni Land, your job is to find your way into the theme park, make your way through its six attractions, find the treasures that lie within and escape on a helicopter. Each of these attractions is patterned after a prominent area of Tokyo Disneyland from the early 80s – the International Bazaar is the World Bazaar (an adaptation of Main Street USA, as it’s known in America), The Pirates of the Sento Island Sea is The Pirates of the Caribbean, Jungle Claws is the Jungle Cruise, Horror Mansion is the Haunted Mansion, Space River is Space Mountain (and features Momotarou taking a spaceship into orbit) and Underneath Plum Manor is a spoof of Meet the World, the equivalent of the Carousel of Progress. The progression through the game is linear, with puzzles often requiring items from previous areas. Most tasks simply revolve around simple lock and key type fetch quests, and are fairly straightforward.\n\n[From [url=http://www.hardcoregaming101.net/dezeni-land/]hardcoregaming101[/url]]",
+  "source_sha256": "ed50140561d462a470c25f7821e6070858cf8d017091d0f050d107793e1fc630",
+  "translation": "在《迪泽尼乐园》中，玩家要设法进入主题公园，闯过6处游乐设施，找到其中的宝物，最后乘直升机逃离。\n\n这些设施全都戏仿1980年代初东京迪士尼乐园的知名区域：“国际市集”对应“世界市集”（美国“美国小镇大街”的改编版）；“钱汤岛海盗”对应“加勒比海盗”；“丛林之爪”对应“丛林巡航”；“恐怖公馆”对应“幽灵公馆”；“太空河”对应“飞越太空山”，其中还有桃太郎乘飞船进入轨道的情节；“梅庄地下”则恶搞“环游世界”，后者相当于“进步大转盘”。\n\n游戏流程为线性，谜题经常要求使用此前区域取得的道具。大多数任务只是简单的取物与开锁，整体相当直观。\n\n[引自[url=http://www.hardcoregaming101.net/dezeni-land/]hardcoregaming101[/url]]",
+  "vndb_url": "https://vndb.org/v9493"
+}

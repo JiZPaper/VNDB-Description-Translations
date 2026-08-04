@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8924",
+  "type": "visual_novel",
+  "name": "Kaettekita Tanteidan X",
+  "original_name": "帰ってきた探偵団Ｘ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A parody game to Tanteidan X and many other games. There are three stories: \"Legend of Brivary\", \"Gambare Earth Self-Defense Forces\" and \"Otome tears at the bottom of deep ocean\".\n\n[From [url=http://vndbreview.blogspot.ru/2017/05/vn-of-year-1990.html]vndbreview[/url]]",
+  "source_sha256": "d8be9701e1a7f238825992fd9c347501752cae3e042e6953d5dab8eaec5683e1",
+  "translation": "本作是对《侦探团X》等众多游戏的戏仿，共包含三个故事：《勇气传说》《加油，地球自卫队》与《少女泪洒深海之底》。\n\n[引自[url=http://vndbreview.blogspot.ru/2017/05/vn-of-year-1990.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v8924"
+}

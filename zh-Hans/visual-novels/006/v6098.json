@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6098",
+  "type": "visual_novel",
+  "name": "Galfro ~Gal's Frontier~",
+  "original_name": "ぎゃるふろ ～Gal's Frontier～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Protagonist is a magazine photographer tasked with taking erotic photos of girls.",
+  "source_sha256": "2111a9a5137c0459d2b944f80a34082f8252b98efa681ae807fed11c345374f1",
+  "translation": "主人公是一名杂志摄影师，受命拍摄少女们的色情照片。",
+  "vndb_url": "https://vndb.org/v6098"
+}

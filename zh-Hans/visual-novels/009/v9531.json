@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9531",
+  "type": "visual_novel",
+  "name": "Kidou Senshi Gundam",
+  "original_name": "機動戦士ガンダム",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Gundam Daichi ni Tatsu!! (Gundam stands on the ground!!) is also the name for the very first episode of the anime. It is based on the first 3 episodes of the anime series. The game begins with Amuro exploring the colony, and eventually finds himself onboard the Gundam to defend against the Zeon attack. It starts out as a regular text parser adventure, but in the final part there is a shooting segment where the player goes up against a couple of Zaku mechs.\n\n[From [url=http://pixelmenu.22web.org/features/gundam/gundam1.html]pixelmenu[/url]]",
+  "source_sha256": "82ebb241aabea12ac3382aaa65b8f933e73fcb2584e49ba22c9727a83819c5b7",
+  "translation": "《高达屹立于大地之上！！》也是动画第1集的标题。游戏改编自电视动画的前3集，开场时，阿姆罗正在殖民卫星中探索，最终登上高达，挺身抵御吉翁军的进攻。前半部分是常规的文字指令冒险游戏，最后则会进入射击环节，玩家需要对付数台扎古机体。\n\n[引自[url=http://pixelmenu.22web.org/features/gundam/gundam1.html]pixelmenu[/url]]",
+  "vndb_url": "https://vndb.org/v9531"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8971",
+  "type": "visual_novel",
+  "name": "Naomi ~Bishoujo-tachi no Yakata~",
+  "original_name": "奈緒美　～美少女たちの館～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Naomi has entered a forbidden place, The House of Beautiful Women. What happens to innocent girls there? Come on and open the door! You control their fate!\n\n[translated from [url=http://fandc.co.jp/catalog/pc/44]fandc.co.jp[/url]]",
+  "source_sha256": "0e599c942b8d74e3b8de9bc71f8ac0fdb274e4f2f6b53dee111593a68e979593",
+  "translation": "奈绪美闯入了禁地“美少女之馆”。天真无邪的女孩们会在那里遭遇什么？来吧，推开大门！她们的命运由你掌控！\n\n[译自[url=http://fandc.co.jp/catalog/pc/44]fandc.co.jp[/url]]",
+  "vndb_url": "https://vndb.org/v8971"
+}

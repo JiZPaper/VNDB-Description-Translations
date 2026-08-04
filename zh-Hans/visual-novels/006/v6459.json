@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6459",
+  "type": "visual_novel",
+  "name": "Are you Alice?",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "After throwing away his dreams, a boy wanders into \"Wonderland\" and he holds the name of \"Alice\" which is the primary requirement in the \"Game to kill the White Rabbit\". In a crazy story where common sense does not apply and everything is bound by the rules of the game and the orders of the Queen of Hearts, Alice decides to take the gun in his hand.",
+  "source_sha256": "b98e1ff303f48325b4b38e03240f1383df4fee0ce47311697576288df2ff5615",
+  "translation": "抛弃梦想后，一名少年徘徊至“仙境”。他持有“爱丽丝”这个名字，而这正是参与“杀死白兔的游戏”的首要条件。在常识不适用、一切都受游戏规则与红心女王命令束缚的疯狂故事中，爱丽丝决定拿起手中的枪。",
+  "vndb_url": "https://vndb.org/v6459"
+}

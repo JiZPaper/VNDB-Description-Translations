@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6928",
+  "type": "visual_novel",
+  "name": "Inclusion",
+  "original_name": "Inclusion～インクルージョン～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A group of people got involved in a mysterious murder case, where everyone of them became either a victim or a culprit. Reading through each character's perspective, will answer what is that everyone hides behind the case.",
+  "source_sha256": "f9469e57536eca4ec3ef17224b27d1180b7debcc6b6e73371b37a6981696eb16",
+  "translation": "一群人卷入一桩神秘谋杀案，所有人都成了受害者或凶手。通过阅读每名角色的视角，将揭开每个人在案件背后隐藏的真相。",
+  "vndb_url": "https://vndb.org/v6928"
+}

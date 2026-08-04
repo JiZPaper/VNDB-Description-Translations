@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9544",
+  "type": "visual_novel",
+  "name": "Joshiryou Panic",
+  "original_name": "女子寮パニック",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You infiltrate a girl's dormitory to try to find your kidnapped lover.",
+  "source_sha256": "b72d2bf23b513a999d91b08aef9dfa38b864fd350a5725c96ef05ff421fc623c",
+  "translation": "你潜入女子宿舍，试图找到遭人绑架的恋人。",
+  "vndb_url": "https://vndb.org/v9544"
+}

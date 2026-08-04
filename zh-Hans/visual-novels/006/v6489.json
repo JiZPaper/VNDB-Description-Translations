@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6489",
+  "type": "visual_novel",
+  "name": "All The Better To See You",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A very short, somewhat surreal visual novel about Red Riding Hood and the wolf.",
+  "source_sha256": "05b0b0d880cdaef98c993ac1648d5a975ee22e9513065e008ce7036859c01b25",
+  "translation": "一部非常短、略带超现实色彩的视觉小说，讲述小红帽与狼。",
+  "vndb_url": "https://vndb.org/v6489"
+}

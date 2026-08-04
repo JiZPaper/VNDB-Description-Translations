@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9189",
+  "type": "visual_novel",
+  "name": "Zimnjaja Skazka",
+  "original_name": "Зимняя Сказка",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short visual novel, New Year greeting card, featuring characters from Everlasting Summer.",
+  "source_sha256": "1049a3fc305c282560d95bb355bb305640e3e1cf8a8262d17fc92ff1b0be0213",
+  "translation": "一部以《永恒之夏》角色为主角、作为新年贺卡制作的短篇视觉小说。",
+  "vndb_url": "https://vndb.org/v9189"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7572",
+  "type": "visual_novel",
+  "name": "Naraku Reigi",
+  "original_name": "奈落隷戯",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A trio of military recruits faced with being turned into comfort women for the military.\n\n[from a comment by DarkSpooky]",
+  "source_sha256": "26c47f94893e8e9caa5c4a6c22ecf75bc6a0af1ec3ca0f83ab56b117bed7ca10",
+  "translation": "三名新兵面临被军方变成慰安妇的命运。\n\n[译自DarkSpooky的评论]",
+  "vndb_url": "https://vndb.org/v7572"
+}

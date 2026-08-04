@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8182",
+  "type": "visual_novel",
+  "name": "Nanashi no Game",
+  "original_name": "ナナシ ノ ゲエム",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Rumors have been circulating about a cursed role-playing game; anyone who plays it and does not complete it dies seven days after starting. You are one of the victims playing the game; having started playing it several days after your friend recommended it to you. You visit your friend’s apartment to discover he is already dead. Starting that day strange things happens to you; everything you experience in the game resembles something in real life, and so-on.",
+  "source_sha256": "52beedcf2ea0bd6f5f7fe7c7432bb3fbf6ecbfbab52fc353dfb356b29784f2dc",
+  "translation": "近来流传着一则关于诅咒角色扮演游戏的传闻：无论是谁，只要开始游玩后没能在七天内通关，就会在第七天死去。\n\n你正是这款游戏的受害者之一。几天前，你听从朋友的推荐开始游玩；如今来到朋友的公寓，却发现他早已死去。自那天起，怪事便接二连三地发生在你身边。你在游戏中经历的一切，似乎都能在现实里找到对应之物……",
+  "vndb_url": "https://vndb.org/v8182"
+}

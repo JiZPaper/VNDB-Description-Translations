@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6495",
+  "type": "visual_novel",
+  "name": "Hotaru III",
+  "original_name": "炎多留III",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Journey along with Nakayama Makato and find out what destiny has in store for him.",
+  "source_sha256": "5151da88258cdcbda6971174837be6dd3a2ba7b30b1cdf64421b9f0db3dd81ce",
+  "translation": "跟随中山诚的旅程，一探命运为他准备了什么。",
+  "vndb_url": "https://vndb.org/v6495"
+}

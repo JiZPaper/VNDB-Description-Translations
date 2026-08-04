@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8443",
+  "type": "visual_novel",
+  "name": "Team Innocent: The Point of No Return",
+  "original_name": "チーム・イノセント -ザ・ポイント・オブ・ノー・リターン-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The events of the game are set in the future. The Galactic Police discovers that a scientist named Cronus has conducted genetic experiments on human beings. The police chief rescues three little girls, each one of whom bears the traces of these experiments. Fast-forward fifteen years: the three young women - Saki, Lilis, and Ariel - now work for the Galactic Police, determined to find out the truth about their origins and the nature of experiments. They are sent on three dangerous missions - missions they might not survive...",
+  "source_sha256": "3188712ecec441b32bd886097ddeff9721c17c6a68d1d2102531239baca225e3",
+  "translation": "故事发生在未来。银河警察发现，名叫克洛诺斯的科学家一直在以人类为对象进行基因实验。警察局长救出了三个小女孩，而她们每个人身上都留有实验的痕迹。十五年转瞬即逝：沙姬、莉莉丝与艾莉儿已经长大成人，并加入银河警察。她们决心查明自己的身世，以及那些实验的真相。三人受命执行三项危险任务——而这些任务，或许会令她们有去无回……",
+  "vndb_url": "https://vndb.org/v8443"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6924",
+  "type": "visual_novel",
+  "name": "Anaheim Girl's Love Story",
+  "original_name": "アナハイム・ガールズ・ラブストーリー",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A girls' love story between two Anaheim Electronics engineers.\n\nIt also chronicles the development and construction of the fourth unit in the Gundam Development Project (GP-04 Gerbera), and its subsequent alteration into the Gerbera Tetra as seen in the \"Gundam 0083: Stardust Memories\" anime.",
+  "source_sha256": "8bf08188b874c1ecea420236e880a46019f6ebfd904ab1f9c2876aa53a3e2f45",
+  "translation": "两名阿纳海姆电子公司的工程师之间的百合故事。\n\n本作也记录了高达开发计划第四单元GP-04“天竺葵”的研发与建造，以及它后来改造为动画《机动战士高达0083：星尘回忆》中登场的卡贝拉·提特拉的过程。",
+  "vndb_url": "https://vndb.org/v6924"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8003",
+  "type": "visual_novel",
+  "name": "Poison Needle",
+  "original_name": "ポイゾンニードル",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A collection of three short stories:\n\n1) \"Yuka's after-school\"\n2) \"PM 12:00\"\n3) \"Melody played with a finger\"\n\n[From [url=https://vndbreview.blogspot.ru/2017/06/vn-of-month-august-1993.html]vndbreview[/url]]",
+  "source_sha256": "e74475eca3307d1defc54aed551d13a5157d3be341f07196405d339a347fe022",
+  "translation": "由3篇短篇故事组成的合集：\n\n1.《瑠香的放学后》\n2.《午夜12点》\n3.《指尖奏响的旋律》\n\n[译自 [url=https://vndbreview.blogspot.ru/2017/06/vndb-of-month-august-1993.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v8003"
+}

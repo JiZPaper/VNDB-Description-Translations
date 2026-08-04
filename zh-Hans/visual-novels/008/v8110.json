@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8110",
+  "type": "visual_novel",
+  "name": "Daraku no Kuni no Angie ~Kyoukai no Mesu Dorei-tachi~",
+  "original_name": "堕落の国のアンジー ～狂界の牝奴隷達～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Did you read \"Alice in Wonderland\" written by Lewis Carroll?\nIf not, then this alternative version of events for you.\nThe game tells about two girls named Angie and Ruby, who fell down the rabbit hole and ended up \nin Wonderland (The Decadence-land) populated by peculiar, anthropomorphic creatures.",
+  "source_sha256": "3462757a460da9490a1eb3a0deb34c63f70de77724c5ea05e08973a81da102b6",
+  "translation": "你读过刘易斯·卡罗尔创作的《爱丽丝梦游仙境》吗？\n如果没有，那么这个另类版本正适合你。\n游戏讲述安吉与露比两名女孩跌入兔子洞，来到由奇特拟人化生物居住的仙境——“堕落之国”的故事。",
+  "vndb_url": "https://vndb.org/v8110"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7445",
+  "type": "visual_novel",
+  "name": "Mankai Chirarism",
+  "original_name": "満開ちらリズム",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Aims to be the best worst vn of all time.",
+  "source_sha256": "dfde2879307dfa60889fad84a36b22d4bef1783ef994324c0c6b468ea20dde5e",
+  "translation": "目标是成为有史以来最出色的烂视觉小说。",
+  "vndb_url": "https://vndb.org/v7445"
+}

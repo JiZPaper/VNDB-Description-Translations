@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6070",
+  "type": "visual_novel",
+  "name": "Maimu",
+  "original_name": "まいむ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Apparently, Tomoe Misaki is just another nerd mysteriously popular with beautiful women, in the true eroge tradition.\nBut maybe he's hiding something...",
+  "source_sha256": "da3557a4c5f97aca1d95c4e97af50ba92ceca37d9da40db2d8041243390ce89a",
+  "translation": "表面看来，御崎巴只是又一个遵循成人游戏传统、莫名受到美女欢迎的宅男。\n不过，他或许隐藏着某个秘密……",
+  "vndb_url": "https://vndb.org/v6070"
+}

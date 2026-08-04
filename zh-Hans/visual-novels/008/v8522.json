@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8522",
+  "type": "visual_novel",
+  "name": "White Christmas",
+  "original_name": "Ｗｈｉｔｅクリスマス",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Mamoru had planned to spend this winter vacation at home playing online games. However, on a whim, he went outside to look at the snow that had suddenly fallen.\n\n[summarized from [url=http://www.geocities.jp/nanaminamo/white.htm]official page[/url]]",
+  "source_sha256": "fc150c2479b8a373861a59337005da71e0f86348efdb640b24e4e64e6dc7c35e",
+  "translation": "守原本打算整个寒假都待在家里玩网络游戏。然而一时兴起，他走出家门，想看看这场突如其来的雪。\n\n[概述自[url=http://www.geocities.jp/nanaminamo/white.htm]官方页面[/url]]",
+  "vndb_url": "https://vndb.org/v8522"
+}

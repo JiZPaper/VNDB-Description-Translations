@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8386",
+  "type": "visual_novel",
+  "name": "Finding a Prom Date",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play the part of Arisa, a high school girl two days before her prom. Unfortunately, she doesn't have a date yet. And in an emergency situation like this, what does she do? Why, calling her male friends, of course. To determine which one would be the best choice, she remembers several situations with each of the 3 guys. Each boy has a story during which you have to make 3 decisions which determine whether your date of choice is available or not.",
+  "source_sha256": "90e1735936f16ce29f3f112e8a7b9bee49c7ef6a63c816824122848cb4f086ae",
+  "translation": "玩家将扮演高中女生有纱。毕业舞会只剩两天，她却仍然没有舞伴。遇到这种紧急情况，她该怎么办？当然是打电话给自己的男性朋友们。\n\n为了判断三名男生中谁最适合自己，有纱回忆起与每个人共同经历的几件往事。每名男生都有一段专属故事，玩家需要在其中作出三次决定；这些选择将决定你心仪的对象最后能否成为舞伴。",
+  "vndb_url": "https://vndb.org/v8386"
+}

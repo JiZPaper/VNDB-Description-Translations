@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9509",
+  "type": "visual_novel",
+  "name": "Kaitei Gunkan",
+  "original_name": "海底軍艦",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Game's based on year 1963 Japanese film about submarine. It is divided in two parts: first you search for an enemy with command input and then action based underwater battle.\n\n[From [url=http://vndbreview.blogspot.ru/2017/04/vn-of-year-1984.html]vndbreview[/url]]",
+  "source_sha256": "65a2ee9fe43138a93580f2528c371287de6cc2e4f88437677aee90903b47466a",
+  "translation": "本作改编自1963年的日本电影《海底军舰》，游戏分为两部分：首先通过输入指令寻找敌人，随后进入以动作玩法为主的水下战斗。\n\n[引自[url=http://vndbreview.blogspot.ru/2017/04/vn-of-year-1984.html]vndbreview[/url]]",
+  "vndb_url": "https://vndb.org/v9509"
+}

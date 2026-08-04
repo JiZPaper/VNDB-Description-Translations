@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6560",
+  "type": "visual_novel",
+  "name": "V.G. Adventure",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A text-based adventure game featuring the V.G. waitresses. The player takes control of Tamao Mitsurugi as she attempts to locate the missing Yuka Takeuchi and foil Miranda's latest plot. Fights are executed in a rock-paper-scissors fashion. With each successful attack, energy is added to a super meter that appears under the fighter's lifebar. Once full, the fighter can unleash a powerfully (in most characters' cases) unblockable attack. While Tamao is the only playable character in the story mode, there is a CPU versus mode that allows the player to pick from any character in the game.\n\n[From [url=http://en.wikipedia.org/wiki/Variable_Geo#Games]Wikipedia[/url].]",
+  "source_sha256": "31b3a7c2add63e4e8de25139c5249d2cf1b1b8c9de634b12efd2bdbadd8b455c",
+  "translation": "以V.G.女服务员为主角的文字冒险游戏。玩家操控御剑珠绪，寻找失踪的武内优香，并挫败米兰达最新的阴谋。战斗采用猜拳形式。每次成功攻击，角色生命条下方的超级槽都会积累能量；蓄满后，角色便可发动强力攻击，且多数角色的此类攻击无法防御。剧情模式中只有珠绪可以操作，另设有CPU对战模式，玩家可从游戏中任意角色中选择。\n\n[摘自[url=http://en.wikipedia.org/wiki/Variable_Geo#Games]Wikipedia[/url]。]",
+  "vndb_url": "https://vndb.org/v6560"
+}

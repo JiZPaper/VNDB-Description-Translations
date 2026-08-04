@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6801",
+  "type": "visual_novel",
+  "name": "Punishment of Heretic",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Yuna is captured by the priests of the some evil cult. They're trying to convince her to become their servant.",
+  "source_sha256": "652cba9618ee96d11e320f3320e04e951d25406ba28fcdc11abb14fba16286c7",
+  "translation": "优奈被某个邪教的祭司抓住。他们正试图说服她成为自己的侍从。",
+  "vndb_url": "https://vndb.org/v6801"
+}

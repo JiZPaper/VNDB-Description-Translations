@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6907",
+  "type": "visual_novel",
+  "name": "Mezhdu snegom i nebom",
+  "original_name": "Между снегом и небом",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This game tells a story which started in a small Swedish boarding school somewhere near the Norwegian border at the beginning of World War II.",
+  "source_sha256": "9569bdaca003a496f3894787673b8c215703b3e75c028e916a46f26ef98b47bb",
+  "translation": "本作讲述一个发生在第二次世界大战初期、瑞典与挪威边境附近某所小型寄宿学校的故事。",
+  "vndb_url": "https://vndb.org/v6907"
+}

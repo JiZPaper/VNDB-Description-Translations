@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7720",
+  "type": "visual_novel",
+  "name": "Jasmine",
+  "original_name": "ジャスミン",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Originally announced in 2011, the project was cancelled in 2015 but resumed development in 2024.",
+  "source_sha256": "8166a664b7a4c733ce05e8d83d9bf76a8fda665193e6bba475c6e05f15bf8136",
+  "translation": "本企划最初于2011年公布，2015年取消，随后在2024年恢复开发。",
+  "vndb_url": "https://vndb.org/v7720"
+}
