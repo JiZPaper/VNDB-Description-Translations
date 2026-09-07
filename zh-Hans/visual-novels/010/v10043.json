@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10043",
+  "type": "visual_novel",
+  "name": "...in white",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "6 x 6 = 36\n36 x 4 = 144\n\nLocked away in an altogether strange room of sheer white,\nYuki passed her days counting the bolts in the ceiling.\nOut of nowhere, the speaker declared the being of \"another subject\" ...\n\n[From [url=https://kaisernet.org/games/inwhite/index.htm]KAISERNET[/url]]",
+  "source_sha256": "309838de566307257e58a48c84108ec32de60c2ea9f6d70747a6510e4ea76870",
+  "translation": "6×6=36\n36×4=144\n\n被关在一间纯白色的奇异房间里，\n雪日复一日地数着天花板上的螺栓。\n突然，扬声器宣告了“另一个实验体”的存在……\n\n[引自[url=https://kaisernet.org/games/inwhite/index.htm]KAISERNET[/url]]",
+  "vndb_url": "https://vndb.org/v10043"
+}

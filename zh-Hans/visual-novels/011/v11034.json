@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11034",
+  "type": "visual_novel",
+  "name": "ACE OF SPADES",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Enter a secret, members only casino. Nobody bets in money here: dealers and players alike have their own sex-slaves and the loser's will get punished for her master's lack of skill. The masters can even lose their slaves, if they lose enough matches. You can try your luck either in blackjack or in poker.",
+  "source_sha256": "02ab2b6e988792adcfed53b7b2e459e59d4f408fe13a2c76662ab6f592016264",
+  "translation": "进入一家秘密的会员制赌场。这里没人用金钱下注：庄家和玩家都有自己的性奴隶，输了的一方会因主人的技艺不足而受到惩罚。如果输的次数足够多，主人们甚至会失去自己的奴隶。你可以在二十一点或扑克中试试运气。",
+  "vndb_url": "https://vndb.org/v11034"
+}

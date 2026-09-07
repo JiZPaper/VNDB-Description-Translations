@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12071",
+  "type": "visual_novel",
+  "name": "Look Twice",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In Look Twice you find yourself in a strange world, piecing together what you can about your situation and the unknown girl who is with you.\n\n[from the [url=http://atpprojects.mygamesonline.org/visualnovels.htm]official site[/url]]",
+  "source_sha256": "34cd6582e50044ed0219f8cadd4158e8093e4c3b5f8e72cbd842ef3bd177b6db",
+  "translation": "在《再看一眼》中，你发现自己身处一个奇异的世界，拼凑着关于自己的境遇和身边那位未知女孩的信息。\n\n[来自[url=http://atpprojects.mygamesonline.org/visualnovels.htm]官网[/url]]",
+  "vndb_url": "https://vndb.org/v12071"
+}

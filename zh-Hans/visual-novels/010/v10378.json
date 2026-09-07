@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10378",
+  "type": "visual_novel",
+  "name": "Thanksgiving Special",
+  "original_name": "サンクスギビングSPECIAL",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The CD has five mini games that come in the form of three Adventure games, Jan-Ken-Pon and a Shooter game. \nGameplay of the Adventure games is linear.\n\n[From [url=http://www.densetsu.com/display.php?id=503&style=alphabetical]animedensetsu[/url]]",
+  "source_sha256": "0a2fa4197eedc0743f678942a9b6b1a625c06e5b34b58853f922b00a1d2b20f5",
+  "translation": "这张光盘收录了五个小游戏，包括三个冒险游戏、猜拳和一个射击游戏。冒险游戏的玩法是线性的。\n\n[来自[url=http://www.densetsu.com/display.php?id=503&style=alphabetical]animedensetsu[/url]]",
+  "vndb_url": "https://vndb.org/v10378"
+}

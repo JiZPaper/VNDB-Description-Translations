@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11025",
+  "type": "visual_novel",
+  "name": "Frog",
+  "original_name": "フロッグ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The story of me and that green guy. \nJust a very short digital novel!\n\n[from [url=http://www.dlsite.com/eng/work/=/product_id/RE099958.html]DLsite English[/url]]",
+  "source_sha256": "9f9f5ce551f5f1a3118fbeea252bf9c02da4d124fdf3a3c416085b854572e325",
+  "translation": "我和那个绿色家伙的故事。只是一部非常短的数字小说！\n\n[来自[url=http://www.dlsite.com/eng/work/=/product_id/RE099958.html]DLsite English[/url]]",
+  "vndb_url": "https://vndb.org/v11025"
+}

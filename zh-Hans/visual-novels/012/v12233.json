@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12233",
+  "type": "visual_novel",
+  "name": "Truce for a Moment",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Truce for a Moment is a short dark post-apocalyptic underwater war \"huis-clos\" with a twist... or maybe two! It features mini-mini-games using numbers, letters and... a French voice!\n\n[From [URL=http://games.renpy.org/game/truce.shtml]Ren'Py Games List[/URL]]",
+  "source_sha256": "b02a2ce9438ac3ac3065e102ca087fb80bf8b3f13757ccbc96178563462120c4",
+  "translation": "《片刻休战》是一部短小的、黑暗的末世水下战争“密室剧”，带有一个……也许两个转折！它使用数字、字母和……法语配音来实现迷你小游戏！\n\n[来自[URL=http://games.renpy.org/game/truce.shtml]Ren'Py Games List[/URL]]",
+  "vndb_url": "https://vndb.org/v12233"
+}

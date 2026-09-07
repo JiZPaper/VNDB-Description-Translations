@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10256",
+  "type": "visual_novel",
+  "name": "Legend of the Piper Girl",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Gray stumbles upon the piper girl legend while staying at his grandpa's place. Play as Gray and search for music to discover the truth.",
+  "source_sha256": "d86362a7f19730e68d7abfe800be39a7cd16e6e8d3f8c41704a5574cca51128f",
+  "translation": "格雷在爷爷家暂住期间偶然发现了吹笛少女的传说。扮演格雷，通过寻找音乐来揭开真相。",
+  "vndb_url": "https://vndb.org/v10256"
+}

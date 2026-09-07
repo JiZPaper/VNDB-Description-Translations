@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10264",
+  "type": "visual_novel",
+  "name": "Private Garden 2",
+  "original_name": "プライベートガーデン2",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A puzzle game, focused on sliding tiles around. Basic gameplay involves placing tiles featuring girls together, then moving a \"male\" tile in to make them disappear. Later mechanics include ice floors, collapsing floors, and so on. After every few puzzles there's a short scene, eventually leading to H.",
+  "source_sha256": "8046119b25040424b1d4fce8c71927855ee1cffc117078dc3945b19e54de75f3",
+  "translation": "一款以滑动方块为核心的益智游戏。基本玩法是将描绘女孩的方块移到一起，然后移动一个“男性”方块使其消失。后续机制包括冰面地板、塌陷地板等。每完成几道谜题后会出现一段短剧情，最终会进入H场景。",
+  "vndb_url": "https://vndb.org/v10264"
+}

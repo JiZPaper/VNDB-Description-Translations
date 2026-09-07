@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12421",
+  "type": "visual_novel",
+  "name": "9 Maja",
+  "original_name": "9 Мая",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Erogame Project presents a tiny visual novel to celebrate the 9th of May (Victory Day), a great day, which marks the capitulation of Nazi Germany to the Soviet Union in the Second World War, a national holiday in Russia and many other countries. \n\n[From [url=http://games.renpy.org/game/9mar.shtml]Ren'Py Games List[/url]]",
+  "source_sha256": "edf22e6d4784f648778e77bf0bf39d0dc31c9cf251fbbf1d862cf3f40de45de4",
+  "translation": "Erogame Project呈献一部迷你视觉小说，庆祝5月9日胜利日——标志着第二次世界大战中纳粹德国向苏联投降的伟大日子，这是俄罗斯和许多其他国家的国定假日。\n\n[来自[url=http://games.renpy.org/game/9mar.shtml]Ren'Py Games List[/url]]",
+  "vndb_url": "https://vndb.org/v12421"
+}

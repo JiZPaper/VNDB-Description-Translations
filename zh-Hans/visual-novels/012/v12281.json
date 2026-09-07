@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12281",
+  "type": "visual_novel",
+  "name": "SummerCamp",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A girl is sent to an all-boys summer camp for juvenile delinquents.",
+  "source_sha256": "dd81ae45ea4a058fe82712612ab9e8fb9174a90e2a7926549aed3fa25e46f2b7",
+  "translation": "一个女孩被送往一个专为少年犯设立的全男子夏令营。",
+  "vndb_url": "https://vndb.org/v12281"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10977",
+  "type": "visual_novel",
+  "name": "Locked-In",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Locked-In is a short visual novel about Jacqueline Brown, an executive who has an accident that leaves her paralyzed and blind with locked-in syndrome. Jacqueline struggles to remember what happened to her, and as she sifts through her memories and reflects on her life she comes to the realization that someone close to her is a murderer.",
+  "source_sha256": "0e826a2e287ec0accb92b052f8cb15c6b3c59aba0989860a6df666d06652ca1b",
+  "translation": "《Locked-In》是一部关于杰奎琳·布朗的短篇视觉小说——一位因事故而全身瘫痪并失明、陷入闭锁综合征的高管。杰奎琳努力回忆发生了什么，在翻阅记忆和反思人生的过程中，她意识到身边亲近的人中有一个是杀人凶手。",
+  "vndb_url": "https://vndb.org/v10977"
+}

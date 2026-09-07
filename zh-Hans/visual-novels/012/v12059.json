@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12059",
+  "type": "visual_novel",
+  "name": "Physical examination",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A fan-fiction BL game starring Lloyd Asplund and Suzaku Kururugi from Code Geass.",
+  "source_sha256": "14fc544cbb2ac9f23003ae0bfb6073934731cb01f14bbfbf3bf789aa16a6463a",
+  "translation": "一款以《反叛的鲁路修》中的罗伊德·阿斯普林德和枢木朱雀为主角的同人BL游戏。",
+  "vndb_url": "https://vndb.org/v12059"
+}

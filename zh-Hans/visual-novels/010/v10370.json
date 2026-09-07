@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10370",
+  "type": "visual_novel",
+  "name": "Event e Ikou! Sono 2",
+  "original_name": "イベントへ行こう!その2",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Features [url=http://anidb.net/perl-bin/animedb.pl?show=character&charid=3044]Leina[/url] from Queen's Blade.",
+  "source_sha256": "0df4941ee2123a1bd68f1ecf5e27a8b97a49cb0ba931a3baeacb836071c123c9",
+  "translation": "收录了《女王之刃》中的[url=http://anidb.net/perl-bin/animedb.pl?show=character&charid=3044]蕾娜[/url]。",
+  "vndb_url": "https://vndb.org/v10370"
+}

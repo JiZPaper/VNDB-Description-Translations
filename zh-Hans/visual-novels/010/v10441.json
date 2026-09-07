@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10441",
+  "type": "visual_novel",
+  "name": "Yasoumu",
+  "original_name": "夜想夢",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "At night, the park connects reality and fantasy. The majority of people pass through without noticing. But one day, this door might open. You pass through the park on your way home. What on Earth will happen there?\n\n[Translated from [url=https://www.getchu.com/soft.phtml?id=1355]Getchu.com[/url]]",
+  "source_sha256": "cdc62bcdaf8d65a518272645166148bf123d78b3c519bf10c3b1cc210f38081e",
+  "translation": "夜晚，公园连接着现实与幻想。大多数人都毫无察觉地走过。但有一天，这扇门可能会打开。你回家路上经过公园。在那里究竟会发生什么？\n\n[译自[url=https://www.getchu.com/soft.phtml?id=1355]Getchu.com[/url]]",
+  "vndb_url": "https://vndb.org/v10441"
+}

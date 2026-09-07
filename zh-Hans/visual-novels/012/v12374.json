@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12374",
+  "type": "visual_novel",
+  "name": "Tajny Sadovogo Tovarischestva",
+  "original_name": "Тайны Садового Товарищества",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The story is about a weekend trip to the house of the protagonist's deceased uncle where he once stayed as a child and which his uncle left to him as an inheritance.\n\n[Translated from [url=https://anivisual.net/stuff/2-1-0-176]Anivisual[/url]]",
+  "source_sha256": "d487899bf69a1f9a17dbb81e8b730f59ad109cb23d572ce98026358d2994a8f1",
+  "translation": "故事讲述了主人公在周末前往已故叔叔留给他的房子——一个他小时候曾住过的地方。\n\n[翻译自[url=https://anivisual.net/stuff/2-1-0-176]Anivisual[/url]]",
+  "vndb_url": "https://vndb.org/v12374"
+}

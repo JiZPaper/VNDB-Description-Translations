@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10489",
+  "type": "visual_novel",
+  "name": "Shounen Wolf",
+  "original_name": "少年ウルフ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"This is the record of my time spent with the Boy Wolf--the child said to be raised by wolves.\"\n\nBiologist Ozaki Yuusuke visits a small town in a foreign country where the Boy Wolf is said to live.  He has come to find out if the story is true.",
+  "source_sha256": "984e87ba8796dd571a22509fb39ed2d447d2e588035623c101cfa0a19521a17f",
+  "translation": "“这是我与少年狼——那个据说是被狼群抚养长大的孩子——共度时光的记录。”\n生物学家尾崎佑介前往一个据说少年狼居住的外国小镇。他来此是为了查明这个故事是否属实。",
+  "vndb_url": "https://vndb.org/v10489"
+}

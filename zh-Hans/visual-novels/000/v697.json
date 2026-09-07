@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v697",
+  "type": "visual_novel",
+  "name": "Wish Room: Tenshi no Kioku",
+  "original_name": "ウィッシュルーム 天使の記憶",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game takes place in the fictional Hotel Dusk, a small, somewhat rundown hotel located in the southwestern United States near Los Angeles, California during the year 1979. The game's protagonist is Kyle Hyde, a former member of the New York Police Department searching for his old partner, Brian Bradley. During his stay at the hotel, Kyle unravels a mystery shrouded in hotel's past that may lead him to the answers he's looking for.\n\n[From [url=http://en.wikipedia.org/wiki/Hotel_Dusk]Wikipedia[/url]]",
+  "source_sha256": "091352ef5a231dd6f2ec8715b45bf8ac83332f8e9fda2db45727515cdda616dd",
+  "translation": "故事发生在虚构的黄昏旅馆——一家位于美国西南部加利福尼亚州洛杉矶附近的小型旅馆，有些破旧，时间设定在1979年。游戏的主人公是凯尔·海德，一名纽约警察局的前警员，正在寻找他的旧搭档布莱恩·布拉德利。在旅馆逗留期间，凯尔逐步揭开了一段笼罩在旅馆过往中的谜团，这可能会引导他找到他一直在追寻的答案。\n\n[来自[url=http://en.wikipedia.org/wiki/Hotel_Dusk]Wikipedia[/url]]",
+  "vndb_url": "https://vndb.org/v697"
+}

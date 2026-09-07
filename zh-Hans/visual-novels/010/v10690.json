@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10690",
+  "type": "visual_novel",
+  "name": "Nakanai Makeinu",
+  "original_name": "なかない負け犬",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "My father is the king. My mother, a beggar.\nThe kid born between them, is a noble, or a loser?\n\nEven if it's the later-\n\nI won't cry.\n\n[From [url=http://hanikamuaisuman.web.fc2.com/game/nm/nm.html]homepage[/url]]",
+  "source_sha256": "33c3efdf0a2e3aaf51a76c63a4a2277dd27abb94a22a19d7eac812e2c7160911",
+  "translation": "我的父亲是国王。我的母亲是乞丐。他们生下的孩子，是贵族，还是失败者？即使是后者——我也不会哭。\n\n[来自[url=http://hanikamuaisuman.web.fc2.com/game/nm/nm.html]主页[/url]]",
+  "vndb_url": "https://vndb.org/v10690"
+}

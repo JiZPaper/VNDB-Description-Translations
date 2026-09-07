@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v727",
+  "type": "visual_novel",
+  "name": "Princess Maker 4",
+  "original_name": "プリンセスメーカー4",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The human kingdom is at war with the kingdom of magical creatures, commonly known as \"demons\". Human heroine Isabelle puts a stop to war, but disappears. Protagonist, a human soldier, sets out to search for her. 10 years later, when the war between humans and demons is igniting again, he finds her, only for her to pass a little girl into his care, along with a demon servant Cube, and disappear again. The fate of the girl is now in protagonist's hands. And with it - the fate of both kingdoms.",
+  "source_sha256": "9ef0cfacb5b29450533bb9a8a9d6739f1b34c0354aaca5cc8f0ed4e8570c00a8",
+  "translation": "人类王国与魔法生物——通常被称为\"魔族\"——的王国正处于战争之中。人类女英雄伊莎贝尔终结了战争，却随后消失不见。主人公，一名人类士兵，踏上了寻找她的旅程。10年后，当人类与魔族的战火再次点燃时，他终于找到了她，但她只是将一个小女孩和一位名叫库贝的魔族仆人托付给他照顾，便再次消失了。这个女孩的命运如今掌握在主人公手中。与之相伴的，是两个王国的命运。",
+  "vndb_url": "https://vndb.org/v727"
+}

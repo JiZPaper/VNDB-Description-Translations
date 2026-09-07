@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12180",
+  "type": "visual_novel",
+  "name": "Tsuisou no Augment",
+  "original_name": "終奏のオーグメント",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A fandisk of Tsuisou no Augment. Written in different kanji but still read \"Tsuisou no Augment\".\n\nThe game features after stories for each 3 heroines, and routes for Kawashima Hideya's older sister Kawashima Youko, Susonobe Nami's older sister Susonobe Minami, and the Shinigami Augment.",
+  "source_sha256": "1d700d69e120b62861712edb39387005d294b720efec6c095a8b5c8f47638fe9",
+  "translation": "《终奏的增幅》的Fan Disc。虽然用了不同的汉字但读音仍然是“Tsuisou no Augment”。\n\n游戏收录了三位女主角各自的后日谈，以及川岛秀哉的姐姐川岛洋子、须园波的姐姐须园波南、以及死神增幅的路线。",
+  "vndb_url": "https://vndb.org/v12180"
+}

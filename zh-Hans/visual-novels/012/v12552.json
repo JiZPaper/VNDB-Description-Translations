@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12552",
+  "type": "visual_novel",
+  "name": "Mitsuiro no Yuki",
+  "original_name": "蜜色の雪",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "It is the Autumn of the year 1918.\n\nAfter the death of his father who was his last remaining blood relative, Yukihiko moves from the country to the imperial capital of Tokyo to live with his father's friend. Unused to the glamour of a European style mansion, it'll take him a while as he tries to get used to it along with the rest of the mansion's inhabitants.",
+  "source_sha256": "89eca1deedb2c988d821166e8a38585c7fb424d75dd6fa8738b205ca732079fa",
+  "translation": "1918年的秋天。\n\n在最后一位血亲——父亲去世后，雪彦从乡下搬到帝都东京，寄住在父亲的朋友家中。不习惯欧式宅邸的华丽，他需要一段时间来适应，与宅邸的其他居民一起生活。",
+  "vndb_url": "https://vndb.org/v12552"
+}

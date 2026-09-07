@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10064",
+  "type": "visual_novel",
+  "name": "Last Day in Life",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Ben woke up and found his wife dead next to him.\nHe did not mourn or weep, but felt it was fair because of their age.\nBen decided to do his routine; make tea.\nHe thought long enough and finally made an important decision for his life.",
+  "source_sha256": "9117953c81cfd4c0fcd7e65890eda4172ac7cd048ffc15d5152dd8f840d0e2ee",
+  "translation": "本醒来后发现妻子死在了身旁。\n他没有悲伤或哭泣，只是觉得以他们的年龄这是公平的。\n本决定照常做他的日常——泡茶。\n他思考了很久，最终为自己的人生做出了一个重要的决定。",
+  "vndb_url": "https://vndb.org/v10064"
+}

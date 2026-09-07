@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v199",
+  "type": "visual_novel",
+  "name": "Prism Heart",
+  "original_name": "プリズム・ハート",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "There is a tournament for knights at Windland once every three years, a kingdom named after its famous fragrant winds. Seven heroines stand out above everyone else in this years tournament with their fighting spirit. Swords clash, horses race  and hearts beat against each other under the famous winds...",
+  "source_sha256": "a567a2f3eda569ab51956978b2af872f6b6985ee95539eb9b6da4c8fa332d8ad",
+  "translation": "在风之国——一个以芬芳之风闻名的王国，每三年举办一次骑士比武大会。在今年的比赛中，七位女主角以其战斗精神脱颖而出。在那著名的风中，剑光交错、骏马飞驰、心灵碰撞……",
+  "vndb_url": "https://vndb.org/v199"
+}

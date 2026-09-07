@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11189",
+  "type": "visual_novel",
+  "name": "Room with Lina",
+  "original_name": "ルームウィズリナ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "",
+  "source_sha256": "37a0212404cd72d043959be6d537604ce00ae57f4493d2d1c7b9aa120c6e1795",
+  "translation": "神崎莉奈在主人公淋雨喝醉时帮助了他。她带着某种目的继续住在他家里。通过成为朋友，他将了解莉奈的秘密。",
+  "vndb_url": "https://vndb.org/v11189"
+}

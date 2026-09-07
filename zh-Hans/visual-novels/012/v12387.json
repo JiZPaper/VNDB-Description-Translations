@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12387",
+  "type": "visual_novel",
+  "name": "Zayay",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Zayo Byron is the last person you want to meet while wandering around alone at night. Well, guess what fate has brought to you~",
+  "source_sha256": "eaca7345888cad364474c5afebdf47b7d8b9779dbea48b649013b64bc685e2db",
+  "translation": "佐约·拜伦是你在夜间独自游荡时最不想遇到的人。那么，猜猜命运给你带来了什么~",
+  "vndb_url": "https://vndb.org/v12387"
+}

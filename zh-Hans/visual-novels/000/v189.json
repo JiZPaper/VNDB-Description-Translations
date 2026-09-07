@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v189",
+  "type": "visual_novel",
+  "name": "Maple Colors H",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Compared to the original, Maple Colors H is more for fun (i.e. “H”) than character development and gameplay. You play with the familiar characters from the original in a series in some random plots.\n\n[From White Masq]",
+  "source_sha256": "81a525a151015f97f2637ca3cfe007cba6e2d4789ac4fc6337c59065f225ccb7",
+  "translation": "与原作相比，《Maple Colors H》更侧重于“H”方面的乐趣，而非角色发展和玩法。你将与原作中熟悉的角色们一起，在一系列随机剧情中展开游戏。\n\n[引自White Masq]",
+  "vndb_url": "https://vndb.org/v189"
+}

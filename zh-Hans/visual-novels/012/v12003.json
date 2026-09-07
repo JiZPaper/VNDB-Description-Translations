@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12003",
+  "type": "visual_novel",
+  "name": "180 Degrees",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as a college student, going to visit his long-distance female friend after five years since meeting each other. However, things don't seem to go well with the two of you...",
+  "source_sha256": "c49afe0e1445528542d82bfbaeeb0633ec5d997398cc91fb0b2e827e7581308f",
+  "translation": "你将扮演一名大学生，前去拜访与自己相识五年却久未见面的女性朋友。然而，你们之间的进展似乎并不顺利……",
+  "vndb_url": "https://vndb.org/v12003"
+}

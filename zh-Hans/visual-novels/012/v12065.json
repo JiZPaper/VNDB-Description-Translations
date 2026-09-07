@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12065",
+  "type": "visual_novel",
+  "name": "Xian Shounen",
+  "original_name": "西安少年",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Kuramoto is a Japanese businessman who's spent the last few years working in Shanghai.\n\nWhen he visits Xi'an for the first time, he makes an unexpected connection with a teenage tour guide.",
+  "source_sha256": "4a1247b5f2f7c028b03c99c74be046342430acfd8a89fa4ebf21e3c69eeea2aa",
+  "translation": "仓本是一名日本商人，过去几年一直在上海工作。\n\n当他第一次访问西安时，与一名少年导游产生了意想不到的联系。",
+  "vndb_url": "https://vndb.org/v12065"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12346",
+  "type": "visual_novel",
+  "name": "Knifepoint Horror",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A series of short stories, each telling a frightening supernatural tale.\n\nThe KPH set is set apart from its contemporaries by its personal, minimalist style and focus on the primal aspects of storytelling by concentrating primarily on the raw experience, cutting away all unnecessary filler which leaves us with a tightly-plotted tale whose fascination the reader will find themselves hard-pressed to escape from.",
+  "source_sha256": "93c86474148ad134e9dbe87ff80086cddbdc84455d3e6327ae91581a3b73b487",
+  "translation": "一系列短篇故事，每一篇都讲述着一个令人毛骨悚然的超自然故事。\n\n《刀锋恐怖》以其个人化、极简主义的风格以及对叙事原始方面的关注而与众不同，主要集中在原始体验上，削减所有不必要的填充，留给我们一个紧凑的故事，读者会发现自己难以逃脱它的魅力。",
+  "vndb_url": "https://vndb.org/v12346"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12571",
+  "type": "visual_novel",
+  "name": "Glass Heart Princess: Platinum",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A fandisc for Glass Heart Princess, featuring afterstories for each character, seacoast scenario, main characters' POVs and special chapter dedicated to troll maid Satsuki.",
+  "source_sha256": "7b10ae17ba256807b96154cacf0a8f07314a3f6f33c954e86505f58e45eeca97",
+  "translation": "《玻璃心公主》的Fan Disc，收录了每个角色的后日谈、海边场景、主要角色的视角以及专门献给巨魔女仆五月的特别章节。",
+  "vndb_url": "https://vndb.org/v12571"
+}

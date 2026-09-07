@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v882",
+  "type": "visual_novel",
+  "name": "Nangoku Dominion",
+  "original_name": "南国ドミニオン",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as Aloha, a young man with amnesia who is stranded on a volcanic tropical island with nine other people (six girls and three men), and the objective is to survive on the island, and perhaps regain your memory or gain the love of one of the girls and escape with them. \n\n\nTo survive on the island, you must gather food for yourself and the colony, which are gained in mini-game type commands (such as a memory card game or target-shooting), and build helpful structures on the island. You also must interact with the other people on the island, by talking to them, learning more about them, and building their affection -- or disaffection, as you can actually fight and kill other members of the island, or they can kill you! After gaining enough affection with one of the ladies, you can get H events with them, and try to escape the island with them if you have the appropriate means to get their ending.\n\n[Based upon Mastress' review]",
+  "source_sha256": "0ab3b48f2498b0ef2e4c13b981bf17f0d65f0036adcff843ff239238a3755f74",
+  "translation": "你将扮演阿罗哈——一个患有失忆症的年轻人，与另外九个人（六女三男）一起被困在一座火山热带岛上。目标是在岛上生存下来，或许还能恢复记忆，或者赢得某个女孩的芳心并与她一起逃离。\n\n为了在岛上生存，你必须为自己和众人采集食物——通过小游戏指令获得（如记忆翻牌游戏或射击游戏），并在岛上建造有用的设施。你还需要与岛上的其他人互动——与他们交谈、了解他们、提升他们的好感度——或者降低好感度，因为你实际上可以与其他成员战斗甚至杀死他们，他们也可以杀你！在赢得某位女士足够的好感度后，你可以与她触发H事件，如果拥有合适的方式达成她的结局，就可以与她一起逃离小岛。\n\n[基于Mastress的评论]",
+  "vndb_url": "https://vndb.org/v882"
+}

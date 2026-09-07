@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10512",
+  "type": "visual_novel",
+  "name": "Inanimate Alice",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Set in the early years of the 21st century and told through text, sound, images, music and games, Inanimate Alice is the story of Alice and her imaginary digital friend Brad.\n\n[from the [url=http://www.inanimatealice.com/index.html]official site[/url]]",
+  "source_sha256": "bcc8da0009982fdc25605471267831a16a26c52524c8b7b7ccb8794f6335929a",
+  "translation": "《Inanimate Alice》的故事设定在21世纪初，通过文字、声音、图像、音乐和游戏来讲述，是关于爱丽丝和她想象中的数字朋友布拉德的故事。\n\n[来自[url=http://www.inanimatealice.com/index.html]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v10512"
+}

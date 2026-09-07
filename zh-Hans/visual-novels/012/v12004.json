@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12004",
+  "type": "visual_novel",
+  "name": "Final Week",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as a guy who is a successful college student, but has trouble finding a girlfriend. It's your final week of college before graduation, and all of a sudden, your luck changes. Which girl will you end up with?",
+  "source_sha256": "15dbd962711803335e75e3c900961115c26b00fbd15d879281ced2b7471bbddb",
+  "translation": "你将扮演一名学业优秀却始终找不到女朋友的大学生。毕业前的最后一周，你的运气突然发生了转机。你最终会和哪位女孩走到一起？",
+  "vndb_url": "https://vndb.org/v12004"
+}

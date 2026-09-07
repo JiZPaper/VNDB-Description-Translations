@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12215",
+  "type": "visual_novel",
+  "name": "Mizukabe",
+  "original_name": "みずかべ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Mizukabe is a direct sequel to one of the endings of the game Suigetsu. The game also includes wallpapers of Suigetsu.",
+  "source_sha256": "52763476a38a514d34708402d81e2b82a712aec6d555a217960f9a9ca8469a3e",
+  "translation": "《水壁》是游戏《水月》其中一个结局的直接续篇。游戏还收录了《水月》的壁纸。",
+  "vndb_url": "https://vndb.org/v12215"
+}

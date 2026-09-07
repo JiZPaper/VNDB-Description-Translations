@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12510",
+  "type": "visual_novel",
+  "name": "A.C.D.C. Rumbling Angel",
+  "original_name": "A.C.D.C.ランブリングエンジェル",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Jun'ichi lives with his sister Nemu and his friends in a prehistoric village in the island of Hatsune. However, a certain day mysterious cards appear, and all his friends start acting weirdly. So it's up to Jun'ichi to beat them using those mysterious cards and return them to normal.\n\nA.C.D.C. includes card battle segments using the Rumbling Angel system.",
+  "source_sha256": "c01a2500798dbd038df29e74ead2de2075ee57c7269c01e811111dd756d9b3cc",
+  "translation": "纯一和妹妹奈美以及朋友们一起住在初音岛上的一个原始村庄里。然而某天，神秘的卡片出现了，他所有的朋友都开始表现得奇怪。所以纯一必须使用那些神秘卡片击败她们，让她们恢复正常。\n\nA.C.D.C.包含使用Rumbling Angel系统的卡牌战斗环节。",
+  "vndb_url": "https://vndb.org/v12510"
+}

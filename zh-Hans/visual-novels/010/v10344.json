@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10344",
+  "type": "visual_novel",
+  "name": "Schrodinger no Shiroi Hako",
+  "original_name": "シュレディンガーの白い箱",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "I don't know how it happened.  All I know is that suddenly, without warning, I was here, in this white box.  All there is here is me, a mysterious man, and this white box we're in.  That's all there is.",
+  "source_sha256": "0a4d57a10b754e7e2fe50373666706dec72a21ce180628b96f72f9973b1c7e79",
+  "translation": "我不知道这一切是怎么发生的。我只知道，突然之间，毫无预兆地，我来到了这里——这个白色的箱子里。这里只有我、一个神秘的男人，以及我们所在的这个白色箱子。仅此而已。",
+  "vndb_url": "https://vndb.org/v10344"
+}

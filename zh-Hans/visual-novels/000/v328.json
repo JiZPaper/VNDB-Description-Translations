@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v328",
+  "type": "visual_novel",
+  "name": "GADGET",
+  "original_name": "ガジェット",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're playing as an average schoolboy. He's the usual bright and cheerful fellow, and hangs out with his best friend and fellow classmates. He now lives with his cousin since the death of his parents. Turns out the cousin is some kind of inventive genius...\n\n[From White Masq]",
+  "source_sha256": "1008feaae5bbcc61c0d0ad42b9783fc7c1413f6052a23c8551718e08de45e481",
+  "translation": "你扮演一个普通的男生。他是个阳光开朗的家伙，和最好的朋友及同学们一起玩耍。父母去世后，他现在和表亲住在一起。原来那位表亲还是某种发明天才……\n\n[引自White Masq]",
+  "vndb_url": "https://vndb.org/v328"
+}
