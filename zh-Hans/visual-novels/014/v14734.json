@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14734",
+  "type": "visual_novel",
+  "name": "Scumbag",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "SCUMBAG is a game that throws you into the first-person view of a character whose actions you'll figure out by playing through this short visual novel a few times.\n\nThe depressing game is sort of a mix between visual novel and text adventure, in the way it conveys the story in a world of anonymous-looking, agender-looking people whose feelings are conveyed not only by postures, but also by colours.\n\nYou get only one chance to redeem your actions and make peace with those you've hurt. Who knows if that one chance is worth anything, though?\n\n[From [url=http://www.ludumdare.com/compo/ludum-dare-28/?action=preview&uid=6155]official site[/url]]\n\nCreated for Ludum Dare 28.",
+  "source_sha256": "c62d1eee7f123706fad47de9727a093ff13dbffc780c19a4c8149d303061ba35",
+  "translation": "SCUMBAG是一款游戏，让你以第一人称视角了解某个角色，你可以通过玩几次这部简短的视觉小说来了解该角色的行为。\n\n这款令人沮丧的游戏有点像视觉小说和文字冒险的混合体，它在一个充满匿名、无性别的人的世界中传达故事，他们的感受不仅通过姿势，还通过颜色来传达。\n\n你只有一次机会来弥补你的行为并与那些你伤害过的人和解。但谁知道这一次机会是否有价值呢？\n\n[来自[url=http://www.ludumdare.com/compo/ludum-dare-28/?action=preview&uid=6155]官方网站[/url]]\n\n为Ludum Dare 28创建。",
+  "vndb_url": "https://vndb.org/v14734"
+}

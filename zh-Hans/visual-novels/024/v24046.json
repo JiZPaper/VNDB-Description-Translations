@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24046",
+  "type": "visual_novel",
+  "name": "Not Heaven",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Not Heaven is a short kinetic novel i made to practice in Ren'py, its like a short illustrated story book but with music and some effects\n\nFeaturing the story of a man guiding a lost kid\nInspired in a song (good luck finding what song it is)\n\n[From [url=https://borelight.itch.io/not-heaven] itch.io[/url]]",
+  "source_sha256": "7f28b83a5cb152d956f94a778931fd097e3d52eca31b0be722ad0a9946cf1309",
+  "translation": "不是天堂是我在Ren'py中练习的一部简短的动态小说，它就像一本简短的插图故事书，但有音乐和一些效果\n\n讲述一个男人引导迷路孩子的故事\n灵感来自于一首歌（祝你好运找到这首歌）\n\n[来自[url=https://borelight.itch.io/not-heaven] itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v24046"
+}

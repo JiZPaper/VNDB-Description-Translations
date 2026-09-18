@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32609",
+  "type": "visual_novel",
+  "name": "The Mating Season",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short little game that I put a lot of effort into. Special thanks goes to DAHR for creating the title screen and the VHS selection menu.\n\n[From [url=https://akabur.itch.io/tms]itch.io[/url]].",
+  "source_sha256": "eb5aae79baf732f37760388cc358946aedc24e23530530e43b90f88faa491a26",
+  "translation": "一个简短的小游戏，我投入了很多精力。特别感谢DAHR创建标题屏幕和VHS选择菜单。\n\n[来自[url=https://akabur.itch.io/tms]itch.io[/url]]。",
+  "vndb_url": "https://vndb.org/v32609"
+}

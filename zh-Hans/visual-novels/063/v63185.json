@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63185",
+  "type": "visual_novel",
+  "name": "Volcaldera Ashfall",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "James, an alcoholic college student, feels his life collapsing around him. After randomly attending a stoner party, he meets a dinosaur girl.",
+  "source_sha256": "21bd1bacc93c9d922017f932fcc4ddb4656764900d361250126929504d3174a2",
+  "translation": "詹姆斯是一名酗酒的大学生，他感觉自己的生活正在崩溃。在随机参加一个吸毒者聚会后，他遇到了一个恐龙女孩。",
+  "vndb_url": "https://vndb.org/v63185"
+}

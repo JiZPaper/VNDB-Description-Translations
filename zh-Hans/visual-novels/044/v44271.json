@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44271",
+  "type": "visual_novel",
+  "name": "Jingai Makyou",
+  "original_name": "塵骸魔京",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The scrapped version of Jingai Makyou that was released at Comiket in 2003! It differs significantly from the final version and was only ever released as a short demo.",
+  "source_sha256": "7a058f3f9108512034a363c982f6b74fc9c60e2b71cc1b6bf3dabf5c6afbb733",
+  "translation": "2003年在Comiket上发售的《神界魔镜》的废弃版本！它与最终版本有很大不同，并且仅作为简短的演示版本发布。",
+  "vndb_url": "https://vndb.org/v44271"
+}

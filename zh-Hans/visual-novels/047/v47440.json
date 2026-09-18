@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47440",
+  "type": "visual_novel",
+  "name": "Foresight Dolly",
+  "original_name": "フォーサイト・ドリィ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Dolly is an android who escaped from the factory under mysterious circumstances. She was captured by its creators, but eventually managed to flee with the help of the science technician Amy. The two girls suddenly find themselves teleported to a fantasy world, and must find a way to return home.\n\nForesight Dolly is a role-playing game that can be described as \"light\". The player controls Dolly who travels through interconnected areas, most of which consisting of dungeon-like passages. Dolly can equip a weapon and one item as armor. Enemies are visible on screen, and contact with them triggers a turn-based battle, where Dolly can attack physically or use special techniques. Experience and money are gained from combat. The game also has a day and night cycle; Dolly and Amy would automatically go to sleep late in the evening, restoring Dolly's hit points.\n\n[From [url=https://www.mobygames.com/game/61633/foresight-dolly/]Moby Games[/url]]",
+  "source_sha256": "59b2192691592d127bd74b0806ada25ec15fdba5f29459d5ab7e2375458f7c42",
+  "translation": "多莉是一个在神秘情况下逃离工厂的机器人。她被其创造者捕获，但最终在科学技术员艾米的帮助下成功逃脱。两个女孩突然发现自己被传送到了一个幻想世界，必须找到回家的方法。\n\n《预见多莉》是一款可以用“轻”来形容的角色扮演游戏。玩家控制多莉穿越相互关联的区域，其中大部分由类似地牢的通道组成。多莉可以装备一件武器和一件物品作为盔甲。敌人在屏幕上可见，与他们接触会触发回合制战斗，多莉可以进行物理攻击或使用特殊技术。经验和金钱都是从战斗中获得的。游戏也有昼夜循环；多莉和艾米会在晚上自动入睡，恢复多莉的生命值。\n\n[来自[url=https://www.mobygames.com/game/61633/foresight-dolly/]Moby Games[/url]]",
+  "vndb_url": "https://vndb.org/v47440"
+}

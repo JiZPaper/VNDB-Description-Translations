@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59249",
+  "type": "visual_novel",
+  "name": "How to Make a DDLC Mod",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Monika attempts to teach you how to make DDLC mods, but only in Ren'Py 7 since that's what was used to make this mod. \n\n[Edited from [url=https://dokimods.me/mods/htmaddlcm/]DokiMods[/url]]",
+  "source_sha256": "f4441fdb1e99ece49bc96293474e757426f25e1cf867b29ddafd3f79c8440031",
+  "translation": "Monika尝试教你如何制作DDLC模组，但仅限于Ren'Py 7，因为这就是制作此模组的工具。\n\n[编辑自[url=https://dokimods.me/mods/htmaddlcm/]DokiMods[/url]]",
+  "vndb_url": "https://vndb.org/v59249"
+}

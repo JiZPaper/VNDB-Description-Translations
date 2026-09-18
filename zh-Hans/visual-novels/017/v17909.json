@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17909",
+  "type": "visual_novel",
+  "name": "Tsukihime -A piece of blue glass moon-",
+  "original_name": "月姫 -A piece of blue glass moon-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The first half of the remake of Type-Moon's classic doujin game Tsukihime, featuring a rewritten scenario with major differences in its setting and plot, as well as several new characters.\n\nThis release includes the Near Side routes (45 hours with voicelines, double their original length).",
+  "source_sha256": "38a8fe4bacf2562b2af987f2cb25aca2cdecb2d619dea4b337052435260d6928",
+  "translation": "Type-Moon的经典同人游戏《月姬》重制版的前半部分，重写了剧本，在设定和情节上有很大的不同，并增加了几个新角色。\n\n此版本包括近端路线（45小时语音线路，是原始长度的两倍）。",
+  "vndb_url": "https://vndb.org/v17909"
+}

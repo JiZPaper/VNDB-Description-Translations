@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64125",
+  "type": "visual_novel",
+  "name": "World Fell Silent",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A game about depression and suicide.\n\nOriginally made in 2007 about a series of events in 2005. All names and most dialogue has been altered to provide anonymity to the people involved, though some dialogue (like between \"Tom\" and \"San\") is unaltered.\n\nPart of Remar Games' Scrap pack 2.\n\n[Adapted from game manual]",
+  "source_sha256": "e5adab78ee8d521a17504ebe31a921023974a90e44e586a78ba8e20d0d43cc2c",
+  "translation": "一款关于抑郁症和自杀的游戏。\n\n最初制作于2007年，讲述了2005年的一系列事件。所有名字和大部分对话都已更改，以便让相关人员匿名，但某些对话（例如“Tom”和“San”之间的对话）没有改变。\n\nRemar Games的Scrap pack 2的一部分。\n\n[改编自游戏手册]",
+  "vndb_url": "https://vndb.org/v64125"
+}

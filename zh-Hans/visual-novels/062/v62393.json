@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62393",
+  "type": "visual_novel",
+  "name": "Carousel",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Tarou is your average high schooler with an average life. Though everything goes awry when his classmate Ainisa claims to be his girlfriend, who he has no recollection of.\n\n[From [url=https://lunariamv.tumblr.com/post/741000819810451456]the developer's blog[/url]]",
+  "source_sha256": "94db29844c1b0f941aeab63db1bdb1f68abdcb3bc001b19e9dddf1ba8135126f",
+  "translation": "太郎是一个普通的高中生，过着普通的生活。然而，当他的同学艾尼萨声称自己是他的女朋友时，一切都出了问题，而他却不记得是谁了。\n\n[来自[url=https://lunariamv.tumblr.com/post/741000819810451456]开发者博客[/url]]",
+  "vndb_url": "https://vndb.org/v62393"
+}

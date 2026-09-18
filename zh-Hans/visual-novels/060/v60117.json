@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60117",
+  "type": "visual_novel",
+  "name": "Lucky Stars",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You’ve become the manager of a rock band of furry bad boys called Lucky. They’re notorious for being difficult to work with. Can you handle them?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "86822e16f98d350f8a55a43b86b9488436973e866b756f05379ca52eeb9bcc20",
+  "translation": "你已经成为一支由毛茸茸的坏男孩组成的摇滚乐队Lucky的经理。他们因难以合作而臭名昭著。你能应付他们吗？\n\n[来自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian应用程序[/url]]",
+  "vndb_url": "https://vndb.org/v60117"
+}

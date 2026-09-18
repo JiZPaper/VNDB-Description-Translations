@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21594",
+  "type": "visual_novel",
+  "name": "Physics Otome",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This project is a physics-tutorial/dating-sim.  The goal is to have a ten week physics course, covering ten popular physics topics at a beginner's level:\nWeek 01 - Newton's Laws\nWeek 02 - Kinematic motion\nWeek 03 - Energy/Momentum Conservation\nWeek 04 - Harmonic oscillators\nWeek 05 - Thermodynamics (ideal gas)\nWeek 06 - Wave motion\nWeek 07 - Electrostatics\nWeek 08 - Magnetostatics\nWeek 09 - Optics\nWeek 10 - Special Relativity\n\nEach topic is a basic tutorial of the subject, presenting beginning physics.  At the beginning of each class, you have conversations with four boys in your class.  You can earn or lose their affection depending upon your interaction.  The instructor then starts a lecture and you have the choice to either pay attention to the lecture or not.  If you chose to pay attention, the instructor will stop class one or twice to ask a concept question.  All the information needed to answer the concept questions is given in the lecture.  You have the choice to answer or not, and whether or not you get the answer right can affect how the boys in the class feel about you.  The lecture ends with another concept question.  You are then presented with a homework problem.  You can ask the boys for help or give them help, this can also affect how they feel about you.  Once you answer the answer, you will either be approached by the boys or you can approach them.  If the affection level is high enough, you can spend time with them after class.  Once you are done for the day, you can check your class grade.  If you fall below a 25%, you will have to speak with the instructor who may give you a chance to raise your grade if you have answered enough concept questions.  Otherwise, you will fail the course.",
+  "source_sha256": "72442cbeac2bc6907705b023235c3f77302642da48ba20837e53591a15341fb3",
+  "translation": "这个项目是一个物理教程/约会模拟。目标是进行十周的物理课程，涵盖初学者水平的十个流行物理主题：\n第01周 - 牛顿定律\n第02周 - 运动学运动\n第03周 - 能量/动量守恒\n第04周 - 谐波振荡器\n第05周 - 热力学（理想气体）第06周 - 波动\n第07周 - 静电\n第08周 - 静磁学\n第09周 - 光学\n第10周 - 狭义相对论\n\n每个主题都是该主题的基本教程，介绍物理学入门。每节课开始时，你都会与班上的四个男孩进行对话。你可能会赢得或失去他们的喜爱，这取决于你的互动。然后讲师开始讲座，你可以选择是否听讲座。如果你选择集中注意力，老师会在一到两次课上停下来问一个概念问题。讲座中给出了回答概念问题所需的所有信息。你可以选择回答或不回答，而你的答案是否正确会影响班上男生对你的看法。讲座以另一个概念问题结束。然后你会遇到一个家庭作业问题。你可以向男孩寻求帮助或给予他们帮助，这也会影响他们对你的感觉。一旦你回答了答案，男孩们要么会接近你，要么你可以接近他们。如果感情足够高，你可以在课后花时间和他们在一起。完成当天的课程后，你可以检查你的班级成绩。如果你的分数低于25%，你将必须与讲师交谈，如果你回答了足够的概念问题，他可能会给你提高成绩的机会。否则，你将无法通过该课程。",
+  "vndb_url": "https://vndb.org/v21594"
+}

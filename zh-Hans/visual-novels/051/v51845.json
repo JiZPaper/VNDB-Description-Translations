@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51845",
+  "type": "visual_novel",
+  "name": "NieR Replicant: Red and Black",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"Red and Black\" was originally a short story featured within the pages of Grimoire NieR, telling the events that led up to the start of Route A from the perspective of Brother Nier.\n\nHere, is an attempt to adapt said story into the VN style from the game.\n\n(Edited from itch.io page description)",
+  "source_sha256": "b8e6d3f017646c879606469d777b0a0b10e6ac7eab3d22beaa43ff669653372a",
+  "translation": "《红与黑》原本是《魔法书尼尔》中的短篇小说，以尼尔兄弟的视角讲述了导致A路线开始的事件。\n\n在这里，我们尝试将游戏中的故事改编成VN风格。\n\n（编辑自itch.io页面描述）",
+  "vndb_url": "https://vndb.org/v51845"
+}

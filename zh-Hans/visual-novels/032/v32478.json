@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32478",
+  "type": "visual_novel",
+  "name": "Louder Than Words ~The Story of a Field Trip~",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Louder Than Words tells a dramatic coming of age story, following Teijo's path as he enters the adult world and faces its different hurdles, as well as the innocent relationships at school, which soon turn to serious commitments later in life.",
+  "source_sha256": "197ae4f9c42bc63223d3b476478db42822d92868333d973988665684675805f0",
+  "translation": "《胜于雄辩》讲述了一个戏剧性的成长故事，跟随帝城进入成人世界并面临不同障碍的道路，以及学校里天真无邪的关系，这些关系很快转变为后来生活中的严肃承诺。",
+  "vndb_url": "https://vndb.org/v32478"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60174",
+  "type": "visual_novel",
+  "name": "Haitai Kaisei",
+  "original_name": "胚胎回生",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A boy's love game about two somewhat unstable people.\nThe young \"Yura\" is sheltered by \"Sara\", who is pursuing a career in medicine. What will happen to the two of them as their lives become entangled in an unsettling way?",
+  "source_sha256": "a69511c4efc2213c88b81e4f22ea9dfe9a8e4aa37ae3e9f181c6e2825d898515",
+  "translation": "关于两个有些不稳定的人的男孩爱情游戏。\n年轻的“尤拉”受到正在从事医学事业的“萨拉”的庇护。当他们的生活以一种令人不安的方式纠缠在一起时，他们会发生什么呢？",
+  "vndb_url": "https://vndb.org/v60174"
+}

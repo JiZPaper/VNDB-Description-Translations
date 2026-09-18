@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15865",
+  "type": "visual_novel",
+  "name": "Wolfram's Birthday Present",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "It's Wolfram's birthday. What can Yuuri do for a last-minute present?",
+  "source_sha256": "8320d42761e0bbd28d6afb2e4aeb3daa88c1c5294847dfdb2e96b9efbc3432d2",
+  "translation": "今天是沃尔夫勒姆的生日。勇利可以为最后一刻的礼物做什么？",
+  "vndb_url": "https://vndb.org/v15865"
+}

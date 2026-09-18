@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32799",
+  "type": "visual_novel",
+  "name": "Akairo Kimi to, Shiawase ni",
+  "original_name": "あかいろきみと、しあわせに",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Let's go find our happiness. Carefully, so we don't drown in this red twilight.\n\n[Translated from [url=https://www.freem.ne.jp/win/game/25530]Freem![/url]]",
+  "source_sha256": "d6fb75fb33c0a0ef448a261bb595161681d04d04dcd2acce74d23e66fe5ac697",
+  "translation": "让我们一起去寻找我们的幸福吧。小心一点，免得我们淹没在这红色的暮色中。\n\n[译自[url=https://www.freem.ne.jp/win/game/25530]Freem![/url]]",
+  "vndb_url": "https://vndb.org/v32799"
+}

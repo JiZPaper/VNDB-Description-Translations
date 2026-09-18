@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26345",
+  "type": "visual_novel",
+  "name": "The Algernon Affair",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The Algernon Affair is a sci-fi Otome visual novel set on an intergalactic railway. Locked in a closed space train, a million miles away from help, Serenity must use her courage and wits to survive the trip.",
+  "source_sha256": "3e8f21d0c9681f77c734548b1798e9f1561a9a113decc3eb4b4f17c03e1a64bf",
+  "translation": "《阿尔杰农事件》是一部以星际铁路为背景的科幻乙女视觉小说。宁静被锁在封闭的太空列车中，距离救援一百万英里，她必须运用她的勇气和智慧在旅途中生存下来。",
+  "vndb_url": "https://vndb.org/v26345"
+}

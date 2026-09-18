@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16943",
+  "type": "visual_novel",
+  "name": "Yomogi TYPOLOGIC",
+  "original_name": "よもぎTYPOLOGIC",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short story where your schoolmate asks you what kind of guy you like.",
+  "source_sha256": "a9d12c1a6e4f59ef71af30b940be814bd6c18e3fce03803facc6588bbdb6142b",
+  "translation": "一个小故事，你的同学问你喜欢什么样的人。",
+  "vndb_url": "https://vndb.org/v16943"
+}

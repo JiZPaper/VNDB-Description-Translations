@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20594",
+  "type": "visual_novel",
+  "name": "Hoshi no Oka Gakuen Monogatari: Gakuensai",
+  "original_name": "星の丘学園物語 学園祭",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Our hero Kanata Muriya (name changeable) has just transferred to a new school and he has one month to prepare for the school festival. During that time, he'll have to make sure the festival is a success, while interacting and developing new relationships with his classmates.",
+  "source_sha256": "080cf8397fc33f075f4a4afdb9da30d72b31462e17d6bf36aa4f63e2a2d03d25",
+  "translation": "我们的英雄卡纳塔穆里亚（化名）刚刚转学到一所新学校，他有一个月的时间为学园祭做准备。在此期间，他必须确保节日取得成功，同时与同学互动并发展新的关系。",
+  "vndb_url": "https://vndb.org/v20594"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62405",
+  "type": "visual_novel",
+  "name": "Ohota na Snarka",
+  "original_name": "Охота на Снарка",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The visual novel tells the story of how the fates of random people intertwine after destiny brings them to a strange desert world, where the wreckage of giant mechanisms towers on the horizon. Yet, they experience the very same problems, joys, and sorrows as we do.",
+  "source_sha256": "5d0b2514c58f9db4d9d9f6d94a3d16597c3d5b9959556fc93d8e0271ea2db3c7",
+  "translation": "这部视觉小说讲述了命运将随机的人们带到一个奇怪的沙漠世界后，他们的命运如何交织在一起的故事，巨大机械的残骸耸立在地平线上。然而，他们和我们一样经历着同样的问题、欢乐和悲伤。",
+  "vndb_url": "https://vndb.org/v62405"
+}

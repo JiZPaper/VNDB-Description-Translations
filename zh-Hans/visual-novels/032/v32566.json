@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32566",
+  "type": "visual_novel",
+  "name": "Zero no Mono",
+  "original_name": "ゼロの者",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a voiced game that colors and animates 5 doujin manga:\n\n1. 18-page doujin from Comic \"Zenshin Nenmaku Shoujo\" by Zero no Mono\n2. 16-page doujin from Comic \"Iku Made Okashite Miru?\" by Zero no Mono\n3. 24-page doujin from Comic \"Yaritai Kibun\" by Zero no Mono\n4. 16-page doujin from Comic \"Zenshin Nenmaku Shoujo\" by Zero no Mono\n5. 16-page doujin \"Rarirurero (ラリるれろ)\" by Zero no Mono (from Comic Bijin Sensee Chitsunai Shasei 08-2002)",
+  "source_sha256": "ada3868d526480375f1cceb631ae768a96eb15486f3f9da8bd7c54b0b0d5d6ac",
+  "translation": "这是一款为5部同人漫画着色和制作动画的有声游戏：\n\n1. 零之物漫画《善心念幕少女》18页同人2. 漫画《Iku Made Okashite Miru？》中的16页同人零无单声道3. 零之物漫画《Yaritai Kibun》24页同人4. 零之物漫画《善心念幕少女》16页同人5. 16页同人《Rarirurero (ラリるれろ)》，作者：Zero no Mono（摘自漫画美人Sensee Chitsunai Shasei 08-2002）",
+  "vndb_url": "https://vndb.org/v32566"
+}

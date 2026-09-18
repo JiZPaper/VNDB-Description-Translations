@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29250",
+  "type": "visual_novel",
+  "name": "Claudia's Spy",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "John, the protagonist of Vampire Lips, was sent by Claudia to discover her rival's secrets. Will he manage to do it while keeping his cover?​",
+  "source_sha256": "e0ece140f0d40d293d84c60ffe4a3528ebbe166bf302f17dbe92d5f49ad5fdec",
+  "translation": "《吸血鬼之唇》的主角约翰被克劳迪娅派去发现她情敌的秘密。他能在保持掩护的情况下做到这一点吗？",
+  "vndb_url": "https://vndb.org/v29250"
+}

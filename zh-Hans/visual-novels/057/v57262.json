@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57262",
+  "type": "visual_novel",
+  "name": "Bonding, Now",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A black-and-white stylized collection of visual novel stories with pixel graphics gameplay and lineart artwork. Each story might have a different setting, but the characters repeat like actors throughout movies. The common motive of all the stories is the bonding of people in everyday life, regardless of where and when.",
+  "source_sha256": "d23fe66d2bb4ef807df010402ca17048fed2f7e7c1de437ec69388abc4976325",
+  "translation": "黑白风格的视觉小说故事合集，具有像素图形游戏玩法和艺术线条。每个故事可能有不同的背景，但角色在电影中就像演员一样重复出现。所有故事的共同动机是人们在日常生活中的联系，无论何时何地。",
+  "vndb_url": "https://vndb.org/v57262"
+}

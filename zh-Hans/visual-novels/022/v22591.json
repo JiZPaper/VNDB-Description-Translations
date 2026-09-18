@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22591",
+  "type": "visual_novel",
+  "name": "Saya no Uta - Derangement",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An unofficial remake of the original Saya no Uta. The plot has been greatly expanded and re-envisioned. The number of endings has been increased to 12, new routes have been added, characters have been supplemented, and one new character has been added.\n\nMany bugs have been fixed, full Russian audio localization was added and menus and some art of the original game have been upscaled and redrawn to fit 16:9 resolution (Most of the CGs were cropped), among other general improvements. \n\nThis visual novel also includes the original Saya no Uta (with some cropped and some smushed backgrounds to match 16:9 and Russian voice acting) and an unfinished demo of a sequel story called \"Saya no Uta 2\". It was going to tell the story of what happened immediately following the end of original novel, showing how the world changed and what happened to the characters and to humanity.",
+  "source_sha256": "19ee45d3d41668d5e17c35682c40b0040805207f350c2768b32bc768629ec9f1",
+  "translation": "原作《沙耶之歌》的非官方翻拍版。情节已大大扩展和重新设想。结局数量增加至12个，增加了新路线，补充了角色，增加了1个新角色。\n\n许多错误已被修复，添加了完整的俄语音频本地化，菜单和原始游戏的一些艺术已被放大和重新绘制以适应16:9分辨率（大部分CG被裁剪），以及其他一般改进。\n\n这部视觉小说还包括原版《Saya no Uta》（为了配合16:9和俄罗斯配音，有一些裁剪和模糊的背景）以及未完成的续集故事“Saya no Uta 2”演示。它将讲述原著小说结束后立即发生的故事，展示世界如何变化以及人物和人类发生了什么。",
+  "vndb_url": "https://vndb.org/v22591"
+}

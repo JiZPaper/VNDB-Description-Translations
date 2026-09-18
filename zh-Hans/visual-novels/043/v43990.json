@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43990",
+  "type": "visual_novel",
+  "name": "Hero's Last Words",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are Seren, the Hero of these lands. You've almost reached the summit of the mountain where you are set to defeat a great evil; but before that, your fiancée wants a word.\n\n[From [url=https://maneki-mushi.itch.io/heros-last-words]Itch.io[/url]]",
+  "source_sha256": "714a9e2e4ae835e4c8ceb1860254280a3f8798ef75dbb8eba6a8b4e08d305857",
+  "translation": "你是塞伦，这片土地的英雄。你已经快要到达山顶了，你将在那里打败一个巨大的恶魔；但在此之前，你的未婚妻想要说句话。\n\n[来自[url=https://maneki-mushi.itch.io/heros-last-words]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43990"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14603",
+  "type": "visual_novel",
+  "name": "Witness",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Witness is a visual novel/murder mystery game in which you question three witnesses about a recent murder. You play as The Detective, analyzing various objects at the crime scene and piecing together exactly what happened that night.\n\n[From [url=http://globalgamejam.org/2014/games/witness]Global Game Jam[/url]]",
+  "source_sha256": "e543c7bdebdac319d7b58ef27dd6e69362c2347611c99437111517ed50b67b17",
+  "translation": "《证人》是一款视觉小说/谋杀悬疑游戏，你在其中向三名证人询问最近发生的一起谋杀案。你扮演侦探，分析犯罪现场的各种物品，并拼凑出当晚到底发生了什么。\n\n[来自[url=http://globalgamejam.org/2014/games/witness]全球游戏嘉年华[/url]]",
+  "vndb_url": "https://vndb.org/v14603"
+}

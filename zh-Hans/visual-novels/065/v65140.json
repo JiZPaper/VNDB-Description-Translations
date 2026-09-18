@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65140",
+  "type": "visual_novel",
+  "name": "OYAN",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "OYAN (AWAKEN) is an original psychological horror visual novel that immerses you in one of humanity’s most haunting legends. Inspired by the unforgettable image of the \"mankurt\" from the works of Chinghiz Aitmatov, the game explores the limits of human will under the terror of absolute loss of identity.",
+  "source_sha256": "277b91a0914878cd3c711f57fc3cea0803f35c3461d207c772260c2e728c9739",
+  "translation": "OYAN（觉醒）是一部原创心理恐怖视觉小说，让你沉浸在人类最令人难忘的传奇之一中。游戏受到成吉思汗·艾特玛托夫作品中令人难忘的“mankurt”形象的启发，探索在身份绝对丧失的恐惧下人类意志的极限。",
+  "vndb_url": "https://vndb.org/v65140"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58278",
+  "type": "visual_novel",
+  "name": "Between Love & Date",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You've had feelings for your best friend since childhood... He doesn't know, and he has a girlfriend who discreetly hates you. Will he ever return your feelings? Or will you give up?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "232b7fef495aa61c8dd553a45b24c91fd870647dc0497b1de52b4c54f6ac686c",
+  "translation": "你从小就对你最好的朋友有感情……他不知道，他有一个暗地里讨厌你的女朋友。他会回报你的感情吗？或者你会放弃吗？\n\n[来自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian应用程序[/url]]",
+  "vndb_url": "https://vndb.org/v58278"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20210",
+  "type": "visual_novel",
+  "name": "Corridor ~Meikairou~",
+  "original_name": "Corridor ～迷回廊～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Rumina never new her father and her mother suddenly passed away. On the dying bed her mother gave her a note with a name on it, so having nowhere else to go Rumina came to this mysterious person in search of shelter. She was allowed to get inside. But this new family has a lot of dark secrets that she will have to face now.",
+  "source_sha256": "50df01ae5f7691afd126d9c7027a10d874d717ce55fc70623c9123a3912892be",
+  "translation": "鲁米娜从来不知道她的父亲，而她的母亲却突然去世了。临终前，母亲给了她一张写有名字的字条，无处可去的鲁米娜来到这个神秘人的身边寻求庇护。她被允许进去。但这个新家庭有很多黑暗的秘密，她现在必须面对。",
+  "vndb_url": "https://vndb.org/v20210"
+}

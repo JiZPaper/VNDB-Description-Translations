@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25783",
+  "type": "visual_novel",
+  "name": "Siwang Lüdian",
+  "original_name": "死亡旅店",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A group of people who didn't know each other found a dead body in a haunted house called \"Death Inn\". And when this group of people returned to the lobby again, ready to leave the place, the door was no longer there...\n\n[Edited from [url=https://store.steampowered.com/app/1081880/]Steam[/url]]",
+  "source_sha256": "000186a1761c7edbe127a67444cc04ab5efffab7e9f184c0b489ce044c72d0c9",
+  "translation": "一群互不相识的人在一所名为“死亡旅馆”的鬼屋里发现了一具尸体。而当这群人再次回到大厅，准备离开这里的时候，门却已经不在了……\n\n[编辑自[url=https://store.steampowered.com/app/1081880/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v25783"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57822",
+  "type": "visual_novel",
+  "name": "DO&GS",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Where death is celebrated, this little chocolate dogs have nothing but each other to pass the time up until they get eaten.\n\n[from [url=https://kommei.itch.io/dogs]itch.io[/url]]",
+  "source_sha256": "9a9fc8b15ac21f3e956b88e14d85f53347724cba53338dd57f45ef4e67fbcdec",
+  "translation": "在庆祝死亡的地方，这只小巧克力狗除了互相打发时间之外别无他物，直到被吃掉。\n\n[来自[url=https://kommei.itch.io/dogs]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v57822"
+}

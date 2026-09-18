@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13433",
+  "type": "visual_novel",
+  "name": "Tanjoubi ni wa Kotetsu-san o Kudasai!",
+  "original_name": "誕生日には虎徹さんをください!",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "For his birthday, Barnaby only wants one thing: Kotetsu. So he kidnaps Kotetsu and brings him to his apartment...",
+  "source_sha256": "384f83846364b82f91cffb0f524a747cfeb8aa33f2bd9e69d13cb56efb755323",
+  "translation": "在他的生日那天，巴纳比只想要一件东西：虎彻。于是他绑架了虎彻并把他带到了自己的公寓……",
+  "vndb_url": "https://vndb.org/v13433"
+}

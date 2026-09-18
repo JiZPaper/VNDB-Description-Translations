@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45698",
+  "type": "visual_novel",
+  "name": "Terraria 2",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A tale of two souls who are tasked to venture into a realm of existence they have never seen before. \n\nWill they find what Mr Sink failed to retrieve?\nWill they learn the value of what the essence of life truly is?",
+  "source_sha256": "b308d94f448f5ce6db9fc7d34e3d09821d565a6bd857e3714e276a7abb7b0f94",
+  "translation": "这是一个关于两个灵魂的故事，他们的任务是冒险进入他们从未见过的存在领域。\n\n他们会找到辛克先生未能取回的东西吗？\n他们会了解生命本质的真正价值吗？",
+  "vndb_url": "https://vndb.org/v45698"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49178",
+  "type": "visual_novel",
+  "name": "S_pookie",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You find yourself in a speed dating event and get to sit with a cute girl, you have 5 minutes to win her over.\n\nWhat happens if you fail to win her over?\n\n[From [url=https://realpookie.itch.io/spookie]Itch.io[/url]]",
+  "source_sha256": "31a9c7a44fd6734b5aa285396d147b4aef4c7ffbb9b4c010a8c4777eb9f68263",
+  "translation": "你发现自己参加了一场快速约会活动，并与一个可爱的女孩坐在一起，你有5分钟的时间来赢得她的芳心。\n\n如果你没能赢得她的芳心怎么办？\n\n[来自[url=https://realpookie.itch.io/spookie]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v49178"
+}

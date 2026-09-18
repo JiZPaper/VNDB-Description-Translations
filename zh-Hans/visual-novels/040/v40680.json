@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40680",
+  "type": "visual_novel",
+  "name": "Steamed Hams - An Unforgettable Luncheon",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Steamed Hams is an adaptation of the 22 Short Films About Springfield skit of the same name; this adaptation was made as part of a game jam, where the goal was to learn Ren'Py and create an experience in 8 hours.\n\nThis experience needed to incorporate the genre of visual novel and theme of sacrfices must be made. This project was completed in the scope of 8 hours, enjoy.",
+  "source_sha256": "b5edc574fc3622348106962e4dc525dc661efbddb8c36942aa8f830581f70372",
+  "translation": "《蒸火腿》改编自同名短剧《关于斯普林菲尔德的22部短片》；此改编是游戏Jam的一部分，目标是学习Ren'Py并在8小时内创造一种体验。\n\n这种体验需要将视觉小说的类型和牺牲的主题结合起来。本项目在8小时内完成，欣赏。",
+  "vndb_url": "https://vndb.org/v40680"
+}

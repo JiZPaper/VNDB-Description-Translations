@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18356",
+  "type": "visual_novel",
+  "name": "White Noise",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Created for the TyranoBuilder Gamejam 2015.\n\nDara, a Cyber-Ware scrounger, finds an old cartridge in the garbage and soon discovers how important it is.\n\nContains course[sic] language.\n\n[From [url=http://thedoctor.itch.io/white-noise]itch.io[/url]]",
+  "source_sha256": "da068e069e5ad15f127650cf8030ee2925ce8782d6d1082739d7f56f80eb64ad",
+  "translation": "为TyranoBuilder Gamejam 2015创建。\n\n达拉 (Dara) 是一名网络软件拾荒者，她在垃圾堆中发现了一个旧墨盒，很快就发现它有多么重要。\n\n包含课程[sic]语言。\n\n[来自[url=http://thedoctor.itch.io/white-noise]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v18356"
+}

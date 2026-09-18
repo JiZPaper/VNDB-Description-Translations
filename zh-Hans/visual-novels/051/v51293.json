@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51293",
+  "type": "visual_novel",
+  "name": "Salacious Desire",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Due to some unforeseen consequences, you have to take control of a college as a principal.\nTake care of salacious desires awakened by girls around you.",
+  "source_sha256": "f40fb3207ee581d979fba588c2c60ca3a6b89bec0fa857fe5a414a5a73e40218",
+  "translation": "由于一些不可预见的后果，你必须以校长的身份控制一所大学。\n照顾好周围女孩唤醒的淫欲。",
+  "vndb_url": "https://vndb.org/v51293"
+}

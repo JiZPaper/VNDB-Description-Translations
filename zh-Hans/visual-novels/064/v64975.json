@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64975",
+  "type": "visual_novel",
+  "name": "Battle Sisters",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel inspired by Warhammer40k.",
+  "source_sha256": "14b7b3c7046f8f1119c519c90830233fbe5dbf29861c3a109b8724e469a48b9f",
+  "translation": "一部受战锤40k启发的视觉小说。",
+  "vndb_url": "https://vndb.org/v64975"
+}

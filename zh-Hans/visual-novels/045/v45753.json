@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45753",
+  "type": "visual_novel",
+  "name": "Izzy's Confession",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Izzy has something to tell you.\n\nA short story about a girl in love.\n\n[From [url=https://elleran.itch.io/izzys-confession]Itch.io[/url]]",
+  "source_sha256": "7bdfb6623347af0123ffd9c17d65a2243e4346c221f04e142e65ad71682756c1",
+  "translation": "伊兹有话要告诉你。\n\n一个关于一个恋爱中的女孩的短篇故事。\n\n[来自[url=https://elleran.itch.io/izzys-confession]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v45753"
+}

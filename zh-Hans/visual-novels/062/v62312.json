@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62312",
+  "type": "visual_novel",
+  "name": "Planetary Attraction",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A blossoming love between two wayward planets. Can it endure the constraints of the universe?\n\n[From [url=https://violetx.itch.io/planetary-attraction]itch.io[/url]]",
+  "source_sha256": "9c3a37df92e8e8c81136253cdf3803f5ef9177a5fa3066b5b8796ced55dc649c",
+  "translation": "两个任性的行星之间绽放的爱情。它能承受宇宙的束缚吗？\n\n[来自[url=https://violetx.itch.io/planetary-attraction]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v62312"
+}

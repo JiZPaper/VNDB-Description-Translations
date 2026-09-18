@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38095",
+  "type": "visual_novel",
+  "name": "Quest for the Fifth Element",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a young wizard who encountered the mythical monster that can only be defeated by the fifth element. Only problem is you were told all your life that their is no fifth element. After consulting your mentor, you are told the one person who might know it's identity is the oracle. However, the oracle does not like to be disturbed and one misstep along the way could be fatal.\n\n[From [url=https://kobato-games.itch.io/quest-for-the-fifth-element]Itch.io[/url]]",
+  "source_sha256": "681f5922e6ed2b9f0155ea7557cd42b82d481ea521339bcdea0d2a60b945eea1",
+  "translation": "你是一位年轻的巫师，遇到了只能被第五元素击败的神话怪物。唯一的问题是你一生都被告知它们不是第五元素。在咨询了你的导师后，你被告知可能知道其身份的人就是神谕者。然而，神谕不喜欢被打扰，一路上的一个失误都可能是致命的。\n\n[来自[url=https://kobato-games.itch.io/quest-for-the-fifth-element]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v38095"
+}

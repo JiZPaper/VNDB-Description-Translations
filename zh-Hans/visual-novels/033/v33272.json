@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33272",
+  "type": "visual_novel",
+  "name": "Geminism",
+  "original_name": "Geminism 〜げみにずむ〜",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Two twin sisters, Hirosoma Kikyou and Hirosoma Shinku, clash together in a nook of a midnight city. The fight is watched over by two mysterious men, Yamaga and Tsukishiro. Just what is at stake in their battle?\n\n[Translated from BugBug May 2022 Edition]",
+  "source_sha256": "318abd35ebcba6ab27b603f42cf4092618097c108f7b709192b4f7ecb9e9eef3",
+  "translation": "两对孪生姐妹，广间桔梗和广间真久，在午夜之城的一角发生冲突。这场战斗由两名神秘男子山鹿和月城监督。他们的战斗到底有什么利害关系？\n\n[翻译自BugBug 2022年5月版]",
+  "vndb_url": "https://vndb.org/v33272"
+}

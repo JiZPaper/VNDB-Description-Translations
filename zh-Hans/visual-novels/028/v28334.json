@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28334",
+  "type": "visual_novel",
+  "name": "Koushuu Denwa",
+  "original_name": "公衆電話",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "After a long night of drinking, you wake up locked inside an isolated phone booth. All you have to your name are three 10-yen coins. That’s it. The only way you’re getting out is with your words. So… whom do you call?",
+  "source_sha256": "75abfbc0605b746293efda98be2412aaa8b8cdfdd1686166b0761c33c1c3bb31",
+  "translation": "经过一夜的酗酒之后，你醒来时发现自己被锁在一个孤立的电话亭里。你所拥有的只是三枚10日元硬币。就是这样。你摆脱困境的唯一方法就是用你的言语。那么……你给谁打电话？",
+  "vndb_url": "https://vndb.org/v28334"
+}

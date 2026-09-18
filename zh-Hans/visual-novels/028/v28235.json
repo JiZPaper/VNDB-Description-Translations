@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28235",
+  "type": "visual_novel",
+  "name": "Angelique Retour",
+  "original_name": "アンジェーリーク ルトゥール",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist has been chosen as one of the new queen candidates, together with her rival they take the examination.\nSupported by the 9 guardians who serve the queen she works to complete the exam.\nWill love bloom along the way?\n\nA complete remake of the first Angelique game with redone art and new capturable characters.",
+  "source_sha256": "63bc9aeab696570de2aac504066af69abf37d80d3b941ca8aecc0d363e176268",
+  "translation": "主角被选为新任女王候选人之一，与竞争对手一起参加考试。\n在侍奉女王的9位监护人的支持下，她努力完成考试。\n爱情会一路绽放吗？\n\n完全重制第一款Angelique游戏，重做艺术和新的可捕捉角色。",
+  "vndb_url": "https://vndb.org/v28235"
+}

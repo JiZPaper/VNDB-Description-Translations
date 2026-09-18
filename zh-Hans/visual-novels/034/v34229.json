@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34229",
+  "type": "visual_novel",
+  "name": "Winds Of Love",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A set of unlucky events locks up you, your ex-fiancé, and a new guy, who accidentally walked into your life, together. Will you let the winds of love take you to a new romance, or will you go back to what you once had and give your ex a chance?\n\n[From in-app]",
+  "source_sha256": "ba32732a7f64975f7c92f071a54e5dd81727b36d87e30fcb9481ce6ec5e1aa7f",
+  "translation": "一系列不幸的事件将你、你的前未婚夫和一个意外闯入你生活的新人锁在一起。你会让爱之风带你走向新的浪漫，还是会回到曾经的状态，给你的前任一个机会？\n\n[来自应用程序内]",
+  "vndb_url": "https://vndb.org/v34229"
+}

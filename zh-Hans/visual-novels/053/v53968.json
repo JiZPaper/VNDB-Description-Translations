@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53968",
+  "type": "visual_novel",
+  "name": "You Are a Boar",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a boar. This world wasn't made for you. An exploration of belonging and finding community.",
+  "source_sha256": "e1d20ea530220f1a98162886ae2b6f60269ba183571bc8d2808c3aeb7ba4ae0e",
+  "translation": "你是一头野猪。这个世界不是为你而造的。探索归属感和寻找社区。",
+  "vndb_url": "https://vndb.org/v53968"
+}

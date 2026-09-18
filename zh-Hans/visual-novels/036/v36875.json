@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36875",
+  "type": "visual_novel",
+  "name": "Smiley's game",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You wake up in a strange room surrounded by strangers. How did you get here? But more importantly, how do you get out of here? Can you survive Smiley's game?\n\n[From [url=https://johanofkarlsson.itch.io/smileys-game]Itch.io[/url]]",
+  "source_sha256": "30e79ce5b2423d21898255238b91eeb35f0afc44aa64036834c398c27a633ec4",
+  "translation": "你在一个陌生的房间里醒来，周围都是陌生人。你是怎么到这里来的？但更重要的是，你如何离开这里？你能在史迈利的游戏中生存下来吗？\n\n[来自[url=https://johanofkarlsson.itch.io/smileys-game]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v36875"
+}

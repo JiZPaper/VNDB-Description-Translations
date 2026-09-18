@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56159",
+  "type": "visual_novel",
+  "name": "Shutka",
+  "original_name": "Шутка",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Semyon is blind. 'How can it be?' - you may ask. - 'After all, we see the world through his eyes!'\nWell, it can. Our protagonist's eyes are replaced by a rich imagination and what the people he meets tell him. But can he trust their words?",
+  "source_sha256": "88b82194018682e3bbfcb0d1e54003bc56e53db7a36b1371aa812b388154d9e3",
+  "translation": "谢苗是个盲人。“怎么可能？” - 你可能会问。- “毕竟，我们通过他的眼睛看世界！”\n嗯，可以。我们的主角的眼睛被丰富的想象力和他遇到的人告诉他的事情所取代。但他能相信他们的话吗？",
+  "vndb_url": "https://vndb.org/v56159"
+}

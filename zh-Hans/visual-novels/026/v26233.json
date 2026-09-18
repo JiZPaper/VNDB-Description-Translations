@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26233",
+  "type": "visual_novel",
+  "name": "Darkseeker",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "For those who like the atmosphere of old adventure games like Zork or Mystery House.",
+  "source_sha256": "8f6a76adb22f10f481005cd510299c9389013606aced996285d3f70671a3270c",
+  "translation": "适合那些喜欢Zork或Mystery House等老冒险游戏氛围的人。",
+  "vndb_url": "https://vndb.org/v26233"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13417",
+  "type": "visual_novel",
+  "name": "A Familiar Story",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A \"familiar\" is a magic animal companion, such as a witch's black cat. Familiars are used to boost the magic strength of their companions and have a history of being valuable allies. \n\nFollow the adventure and friendship between two lonely young heroes. Recruit allies and meet people and creatures along the way toward the boss battle.\n\nThis game was programmed in 48 hours for the Ludum Dare miniLD #27 on June 25-26, 2011.\n\n[From [url=http://mcfunkypants.com/miniLD27/]McFunkypants[/url]]",
+  "source_sha256": "11db07014917aec4e3faa4d2e907e8c2c73eaacd8059a2bfe083745d282b0167",
+  "translation": "“魔宠”是一种神奇的动物伙伴，比如女巫的黑猫。魔宠用于增强同伴的魔法强度，并且有着成为宝贵盟友的历史。\n\n跟随两个孤独的年轻英雄之间的冒险和友谊。招募盟友，并在通往Boss战的途中遇到人和生物。\n\n该游戏于2011年6月25日至26日为Ludum Dare miniLD #27在48小时内编写完成。\n\n[来自[url=http://mcfunkypants.com/miniLD27/]麦克芬基裤[/url]]",
+  "vndb_url": "https://vndb.org/v13417"
+}

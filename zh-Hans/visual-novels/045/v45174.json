@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45174",
+  "type": "visual_novel",
+  "name": "Malignant",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A man receives the worst news of his life, and it's only the start of his troubles. Time has become suddenly finite.\nForces beyond his control push and guide him. His thoughts are no longer his own, and all of it is directed toward Emmie, his little girl.",
+  "source_sha256": "3ade101fb53f5773be5df22e896a741cf6a4ae8032e62e74a6b821827a4f5a31",
+  "translation": "一个男人收到了他一生中最糟糕的消息，而这只是他麻烦的开始。时间突然变得有限。\n他无法控制的力量推动并引导他。他的思绪不再是他自己的，所有的思绪都指向他的小女儿艾米。",
+  "vndb_url": "https://vndb.org/v45174"
+}

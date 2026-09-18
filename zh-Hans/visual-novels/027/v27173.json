@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27173",
+  "type": "visual_novel",
+  "name": "Nenshou!",
+  "original_name": "ねんしょう！",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Players train in real life with the help of childhood friend Mayu Uehara, and progress the story by clearing preset “trials” like performing 50 sit-ups in three minutes. As the story advances you become closer with Mayu, but the trials become more demanding. Clearing the story may take several months of training, but stick with it and you’ll have something to show for in the real world as well!",
+  "source_sha256": "277930edbc0567fc66f822ae2469b49ea2de71b20ee1ff8311c2ea97b33ecc68",
+  "translation": "玩家在儿时朋友上原麻友的帮助下在现实生活中进行训练，并通过清除预设的“考验”（例如在三分钟内做50个仰卧起坐）来推进故事。随着故事的进展，你和麻友的关系越来越亲密，但考验也变得更加艰巨。清除故事可能需要几个月的训练，但坚持下去，你也会在现实世界中有所表现！",
+  "vndb_url": "https://vndb.org/v27173"
+}

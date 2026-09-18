@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15961",
+  "type": "visual_novel",
+  "name": "Escape from Puzzlegate",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "When Ken wanders into the forest out of boredom, he finds himself trapped behind a mystical door to another world. Though it appears it can be unlocked with a puzzle, the door is locked, and the 4 keys needed to open it are scattered across this strange world.\n\nLuckily, he gains the trust of a baby sphinx, Ari, who is willing to help him locate the missing keys.\n\nHowever, even with Ari's help, Ken will come to discover that getting them will not be so straightforward....",
+  "source_sha256": "4c77ca50157ee37865acc07400d153cfeca01c9b1372be96ec675490ae087806",
+  "translation": "当肯出于无聊而漫步进入森林时，他发现自己被困在一扇通往另一个世界的神秘门后面。虽然看起来可以用拼图解锁，但门是锁着的，打开门所需的4把钥匙分散在这个奇怪的世界中。\n\n幸运的是，他得到了小狮身人面像阿里的信任，阿里愿意帮助他找到丢失的钥匙。\n\n然而，即使有阿里的帮助，肯也会发现要得到它们并不那么容易……",
+  "vndb_url": "https://vndb.org/v15961"
+}

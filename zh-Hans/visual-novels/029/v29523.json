@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29523",
+  "type": "visual_novel",
+  "name": "Kabocha Danshaku to Halloween",
+  "original_name": "カボチャ男爵とハロウィン",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A pumpkin-headed baron who lives in a mansion invites you to a Halloween party. When you arrive at the mansion, there is someone who claims to be a demon...?",
+  "source_sha256": "be7ba1d2fee94cf08f83b312235043c5d52d111631503fadedf2230a630da283",
+  "translation": "住在豪宅里的南瓜头男爵邀请你参加万圣节派对。当你到达宅邸时，有人自称是恶魔……？",
+  "vndb_url": "https://vndb.org/v29523"
+}

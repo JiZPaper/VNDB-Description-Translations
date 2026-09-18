@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11961",
+  "type": "visual_novel",
+  "name": "This Is Where I Want To Die",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short kinetic novel about the last moments of a person who tries to remember what happened. It is a sad story and it has no happy end but there is an important message.",
+  "source_sha256": "9a5f0e69951e572bb256ac64c14a5fb43d3a95f30bc2631f4f1157443b209629",
+  "translation": "一部简短的动态小说，讲述一个人试图回忆发生过的事情的最后时刻。这是一个悲伤的故事，没有美好的结局，但有一个重要的信息。",
+  "vndb_url": "https://vndb.org/v11961"
+}

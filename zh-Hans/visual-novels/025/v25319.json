@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25319",
+  "type": "visual_novel",
+  "name": "Orange Trainer",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A long time ago, in a galaxy far, far away...\nYou wake up in an abandoned space station, having lost most of your memories. A togruta Jedi named Ashoka and a droid called J4-S-ON are also there.\nIn order to repair the station, Hypermatter is needed, and although the girl is quite aggressive, there should be a way to get her to help you.",
+  "source_sha256": "fb2c1e6f1a5bfae4aa3040b52b0d91da3b722c92b59659931db7d54283b2455a",
+  "translation": "很久以前，在一个遥远的星系里……\n你在一个废弃的空间站中醒来，失去了大部分记忆。一位名叫阿育王的托格鲁塔绝地武士和一个名叫J4-S-ON的机器人也在那里。\n为了修复空间站，需要Hypermatter，虽然这个女孩很有攻击性，但应该有办法让她帮助你。",
+  "vndb_url": "https://vndb.org/v25319"
+}

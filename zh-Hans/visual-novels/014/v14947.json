@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14947",
+  "type": "visual_novel",
+  "name": "Guynarock R",
+  "original_name": "ガイナロックＲ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Elly and her space station crew of four other women must defend the base from an alien invasion.",
+  "source_sha256": "cba84868102a260e18bc66fbf04c624fd852b7c5d940641981117fbe38e16f4f",
+  "translation": "艾莉和她的空间站其他四名女性工作人员必须保卫基地免受外星人入侵。",
+  "vndb_url": "https://vndb.org/v14947"
+}

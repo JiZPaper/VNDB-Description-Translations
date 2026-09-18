@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40640",
+  "type": "visual_novel",
+  "name": "Once Upon A Honeymoon",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You may be honeymooning on the Amalfi Coast, but you can never outrun New York.\n\n[From in-app]",
+  "source_sha256": "1a37548a1206c2b1839042df4a9cbdfbe55f619ff0e7af4681beecaf3cd7e793",
+  "translation": "你可能在阿马尔菲海岸度蜜月，但你永远无法超越纽约。\n\n[来自应用程序内]",
+  "vndb_url": "https://vndb.org/v40640"
+}

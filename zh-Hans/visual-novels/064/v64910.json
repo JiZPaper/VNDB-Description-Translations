@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64910",
+  "type": "visual_novel",
+  "name": "IIT Quest",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "IIT Quest is a choice based visual novel game where the story changes with every decision. \n\nTime-warp to the past and stop World War III. Have fun with your friends and enemies, make tough choices to solve \"impossible\" problems, unlock branching paths and achieve multiple endings.",
+  "source_sha256": "8ffdde7f4c00901bba793d03279b3906a91f972569eb453ec65cc0c46e503671",
+  "translation": "IIT Quest是一款基于选择的视觉小说游戏，故事会随着每个决定而变化。\n\n时间扭曲到过去并阻止第三次世界大战。与你的朋友和敌人一起享受乐趣，做出艰难的选择来解决“不可能”的问题，解锁分支路径并实现多个结局。",
+  "vndb_url": "https://vndb.org/v64910"
+}

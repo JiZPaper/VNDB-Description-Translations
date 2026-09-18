@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61886",
+  "type": "visual_novel",
+  "name": "Haiu",
+  "original_name": "灰雨",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"Legau, I love you. So please, be happy.\"  \nMy sister, who left on that rainy day after saying those words, never returned. Without ever revealing what was in his heart to anyone, Legau lived on while searching for her shadow.",
+  "source_sha256": "e79fbd3b61749ce8c6655f40739d40366173035dbec6851b41ea9ad085665deb",
+  "translation": "“Legau，我爱你。所以，请你幸福吧。”  \n说完这句话后，姐姐就在那个雨天离开了，再也没有回来。雷高没有向任何人透露自己的内心，他一边寻找着自己的影子，一边继续生活。",
+  "vndb_url": "https://vndb.org/v61886"
+}

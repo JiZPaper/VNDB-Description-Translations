@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22319",
+  "type": "visual_novel",
+  "name": "Xmas Bonus",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "As Alex was expelled from his home by Alexandra, he has two options for Christmas: to spend the holidays with Lucy or Milena.",
+  "source_sha256": "728f4dedcfbd69a5a0fa737d941ab8e2231219c5c7a016390a79bd782d8a5747",
+  "translation": "由于亚历克斯被亚历山德拉驱逐出家，他在圣诞节有两个选择：与露西或米莱娜一起度过假期。",
+  "vndb_url": "https://vndb.org/v22319"
+}

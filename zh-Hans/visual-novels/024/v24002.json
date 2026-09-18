@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24002",
+  "type": "visual_novel",
+  "name": "Evenicle Rance",
+  "original_name": "イブニクル・ランス版",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "If the protagonist of Evenicle was Rance...\n\nWas a pre-order bonus which stars Rance as the main character instead of Aster through the events of Evenicle up to the end of chapter 1.",
+  "source_sha256": "623331c2a3ffedfa5a68afe1d1588c0c3d057d58303815cc5ebfcdeb0590813f",
+  "translation": "如果埃文尼克的主角是兰斯的话……\n\n这是一个预购奖励，在《埃文尼克》的事件中直到第一章结束，主角都是兰斯而不是艾斯特。",
+  "vndb_url": "https://vndb.org/v24002"
+}

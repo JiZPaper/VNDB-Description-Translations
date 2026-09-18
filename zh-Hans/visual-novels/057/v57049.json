@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57049",
+  "type": "visual_novel",
+  "name": "Yibing Zhentan",
+  "original_name": "異病偵探",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Psycho-Sleuth is a mystery adventure blending classic detective puzzles with cognitive disorders. Solve twisted murder cases shaped by distorted perceptions, logic battles, and uncover the truth hidden behind cognitive chaos.",
+  "source_sha256": "df563751e3248428af05e0597809f8acef7e5190f81c0baecda4b3d65c3d2d13",
+  "translation": "《心理侦探》是一款将经典侦探谜题与认知障碍融为一体的神秘冒险游戏。解决因扭曲的认知、逻辑斗争而形成的扭曲谋杀案，并揭开隐藏在认知混乱背后的真相。",
+  "vndb_url": "https://vndb.org/v57049"
+}

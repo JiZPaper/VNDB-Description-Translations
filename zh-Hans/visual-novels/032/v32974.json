@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32974",
+  "type": "visual_novel",
+  "name": "Hakoniwa Neoteny",
+  "original_name": "箱庭ネオテニー",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Today is April 1st! It's April Fools!\nWhat sort of lie should I come up with?\n\n......\nHuh?\nWhy, am I......\n\n[Translated from [url=https://www.freem.ne.jp/win/game/11900]Freem![/url]]",
+  "source_sha256": "bd52c703b39b6d7f97a0f1f85caafabefb23c6c2ea9798006174ff850373057a",
+  "translation": "今天是4月1日！今天是愚人节！\n我应该编出什么样的谎言呢？\n\n……\n啊？\n为什么，我是……\n\n[译自[url=https://www.freem.ne.jp/win/game/11900]Freem![/url]]",
+  "vndb_url": "https://vndb.org/v32974"
+}

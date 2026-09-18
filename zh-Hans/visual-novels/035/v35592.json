@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35592",
+  "type": "visual_novel",
+  "name": "Torikago no Uso",
+  "original_name": "鳥籠の嘘",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "I'm trapped in a prison.\nCan I get out of this dark and cold place surrounded by stone walls on all sides?\n\n[From [url=https://www.freem.ne.jp/win/game/21980]Freem![/url]]",
+  "source_sha256": "848f97fe91ad3323436ac7ae49f2356decafca64415b33ca3b2b67d18e33f7f4",
+  "translation": "我被困在监狱里了。\n我能离开这个四面都是石墙的又黑又冷的地方吗？\n\n[来自[url=https://www.freem.ne.jp/win/game/21980]Freem！[/url]]",
+  "vndb_url": "https://vndb.org/v35592"
+}

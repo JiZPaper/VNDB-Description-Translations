@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29490",
+  "type": "visual_novel",
+  "name": "Bloom for me",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "'Bloom for me' is about two young girls and their struggles to cope with the world around them.",
+  "source_sha256": "27b454c5fbec8fb7416f0f720b2a520882ddac19c8babb6357d993d81b2457d1",
+  "translation": "《为我绽放》讲述了两个年轻女孩如何应对周围世界的故事。",
+  "vndb_url": "https://vndb.org/v29490"
+}

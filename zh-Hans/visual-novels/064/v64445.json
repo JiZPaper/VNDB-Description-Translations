@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64445",
+  "type": "visual_novel",
+  "name": "Kamikaze Kenshi Rosetta + Nobara no Hime",
+  "original_name": "神風剣士ロゼッタ+野薔薇の姫",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This visual novel is a collection of works from [url=https://vndb.org/p9885]Ohimesama Club[/url] which includes the first digital novel of the popular \"Kamikaze Kenshi Rosetta\" and the short digital novel \"Nobara no Hime\".",
+  "source_sha256": "a5523dc28a9eeaea6c1796153640fbc211b0672f521a92cb3624ff2c951352e1",
+  "translation": "这部视觉小说是[url=https://vndb.org/p9885]Ohimesama Club[/url]的作品合集，其中包括流行的《神风剑士罗塞塔》的第一部数字小说和短篇数字小说《野原之姬》。",
+  "vndb_url": "https://vndb.org/v64445"
+}

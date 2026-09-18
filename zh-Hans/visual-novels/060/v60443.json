@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60443",
+  "type": "visual_novel",
+  "name": "Dump[ster] of Fears",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Nazar and Kateryna's ordinary working day meets them with a number of unpredictable problems that need to be solved as soon as possible, because every second is a countdown to the appearance of death itself, which aims to take someone's life forever.",
+  "source_sha256": "670796c284f14fca336c92ca802b63da074f6503bc8f3fe06f4ac804d8c13c00",
+  "translation": "纳扎尔和凯特琳娜平凡的工作日遇到了许多不可预测的问题，需要尽快解决，因为每一秒都是死亡本身出现的倒计时，死亡的目的是永远夺走某人的生命。",
+  "vndb_url": "https://vndb.org/v60443"
+}

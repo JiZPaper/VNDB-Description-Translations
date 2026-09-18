@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63856",
+  "type": "visual_novel",
+  "name": "Futatsu no Michi",
+  "original_name": "ふたつのみち",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Yoshino and Kyouichi are stepbrothers and lovers.\nThey meet secretly, hiding from the adults, but one snowy day, their teacher finds out. \n\"We only need each other\" \nThese words never reach the adults. \nA story without any branching paths.",
+  "source_sha256": "8485476c36648c7ae236cc27b0447e81cef81f1d06c0dfa466d519d6001f02d0",
+  "translation": "吉野和恭一是继兄弟和恋人。\n他们躲着大人偷偷见面，但在一个下雪天，他们的老师发现了。\n“我们只需要彼此” \n这些话永远不会传到大人那里。\n一个没有任何分支的故事。",
+  "vndb_url": "https://vndb.org/v63856"
+}

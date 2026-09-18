@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56368",
+  "type": "visual_novel",
+  "name": "Ooedo Blacksmith",
+  "original_name": "大江戸BlackSmith",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Ooedo Blacksmith (大江戸ブラックスミス) is a Visual Novel video game published by Nippon Ichi Software released on November 27th, 2014 for the VITA.",
+  "source_sha256": "dcf6decd3b24180a3d3239371fb60c197c735810124fea03dff795d96df81333",
+  "translation": "大江戸ブラックスミsu（大江戸ブラックsumミsu）是一款由Nippon Ichi Software发行的视觉小说视频游戏，于2014年11月27日在VITA上发布。",
+  "vndb_url": "https://vndb.org/v56368"
+}

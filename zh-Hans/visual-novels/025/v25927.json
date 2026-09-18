@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25927",
+  "type": "visual_novel",
+  "name": "The Coroner Saga",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Sara is a young doctor who just completed Med School with the highest degrees. Uncertain about her future she joins the Coroners' State Institute and the adventure begins!\n\n[From [url=https://www.thecoronersaga.com/]official website[/url]]",
+  "source_sha256": "7c4f01acbbd7440a9c285dcad75bae9298ff83ae14783b11489252680e302498",
+  "translation": "萨拉是一位年轻的医生，刚刚完成医学院的最高学位。由于对自己的未来充满不确定性，她加入了州立验尸官研究所，冒险开始了！\n\n[来自[url=https://www.thecoronersaga.com/]官网[/url]]",
+  "vndb_url": "https://vndb.org/v25927"
+}

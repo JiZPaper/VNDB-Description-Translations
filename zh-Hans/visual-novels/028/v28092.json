@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28092",
+  "type": "visual_novel",
+  "name": "Nightruth #1 Yami no Tobira",
+  "original_name": "ナイトゥルース闇の扉",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Yami no Tobira is an adventure game about a group of five children (two boys and three girls) who investigate paranormal phenomena and get strange powers.\n\nGame begins with one girl seeing another girl die from spontaneous combustion. Main character learns about this story from TV and starts investigation together with friends.\n\n[Edited from [url=https://psxdatacenter.com/games/J/N/SLPS-00561.html]Psxdatacenter[/url]]",
+  "source_sha256": "d0215044a58279498db4c27145d40bf77984ca9f39f9d6828997ef99708e9c69",
+  "translation": "《Yami no Tobira》是一款冒险游戏，讲述了五个孩子（两个男孩和三个女孩）调查超自然现象并获得奇怪力量的故事。\n\n游戏开始时，一个女孩看到另一个女孩死于自燃。主角从电视中得知这个故事，并与朋友们一起开始调查。\n\n[编辑自[url=https://psxdatacenter.com/games/J/N/SLPS-00561.html]Psxdatacenter[/url]]",
+  "vndb_url": "https://vndb.org/v28092"
+}

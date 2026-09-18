@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11530",
+  "type": "visual_novel",
+  "name": "Ren'py Dating Sim",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a sim date where you win hearts of ren'py characters! Eileen, Lucy & Sylvie.",
+  "source_sha256": "70e12669a1235840954499eb09afa4eaa552c4271a27cd49195fde2004c438ff",
+  "translation": "这是一场模拟约会，你可以赢得ren'py角色的心！艾琳、露西和西尔维。",
+  "vndb_url": "https://vndb.org/v11530"
+}

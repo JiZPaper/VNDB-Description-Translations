@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11751",
+  "type": "visual_novel",
+  "name": "Ki ni Naru Otoko no Ko?",
+  "original_name": "きになるおとこのこ？",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "There's someone I really like.\nI'd never had the courage to talk to them before but...\nToday, I'm going to do it!",
+  "source_sha256": "7987e426c68072b5fbbcabccdf438da2dd4b23cf76a3562d40375acdeec168b2",
+  "translation": "我真的有喜欢的人了\n我以前从来没有勇气和他们说话，但是……\n今天，我就去做！",
+  "vndb_url": "https://vndb.org/v11751"
+}

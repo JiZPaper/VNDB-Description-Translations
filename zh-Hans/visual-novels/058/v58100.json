@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58100",
+  "type": "visual_novel",
+  "name": "The Girl in Yellow",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're a journalist investigating the disappearance of the \"Girl in Yellow.\" The trail leads you to an infamous phone booth, where victims reportedly vanished. Now, you must piece together the truth by dialling the correct numbers. \n\n[From [url=https://midnighteclipsy.itch.io/thegirlinyellow]itch.io[/url]]",
+  "source_sha256": "5695414f79f7aceb8a002208fa704801813bb1c458f1e875c12bf899184fd71b",
+  "translation": "你是一名记者，正在调查“黄衣女孩”失踪事件。沿着这条小路，你会到达一个臭名昭著的电话亭，据报道受害者在那里失踪了。现在，你必须拨打正确的号码来拼凑出真相。\n\n[来自[url=https://midnighteclipsy.itch.io/thegirlinyellow]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v58100"
+}

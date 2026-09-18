@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49862",
+  "type": "visual_novel",
+  "name": "Hermeneus no Hakoniwa",
+  "original_name": "ヘルメネウスの箱庭",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a miniature story that only 'me' and 'him' know.\n\nThe player becomes 'me', the linguist who decipher the language of the beastman 'him'.\nThis is the story of 90 days of communicating with him.\n\n[Translated from [url=https://novelgame.jp/games/show/9456]NovelGame[/url]]",
+  "source_sha256": "55aa7b6f2fe2ffa62b6ff7d6b1ffd1709656100cd80074da8bfd4799990da2f6",
+  "translation": "这是一个只有‘我’和‘他’知道的微型故事。\n\n玩家成为“我”，破译兽人“他”语言的语言学家。\n这就是与他交流90天的故事。\n\n[译自[url=https://novelgame.jp/games/show/9456]NovelGame[/url]]",
+  "vndb_url": "https://vndb.org/v49862"
+}

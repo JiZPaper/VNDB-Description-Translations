@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29752",
+  "type": "visual_novel",
+  "name": "Flatline",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You stumble upon a computer which is running a peculiar program. A wave stretches across the screen, and it is up to you to find out what it means, by questioning the less than helpful AI inhabiting the computer.\n\n[From http://www.drakkashi.com/portfolio/flatline.php]",
+  "source_sha256": "93ed48d59bd5e6bfe7b5d52cdda6cf4892c31ffa6a94814f8b32a2039d47c58b",
+  "translation": "你偶然发现一台正在运行特殊程序的计算机。一道波浪在屏幕上延伸，你需要通过质疑计算机中不太有用的人工智能来找出它的含义。\n\n[来自http://www.drakkashi.com/portfolio/flatline.php]",
+  "vndb_url": "https://vndb.org/v29752"
+}

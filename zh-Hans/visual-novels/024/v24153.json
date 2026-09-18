@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24153",
+  "type": "visual_novel",
+  "name": "Happy Thoght",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Welcome to \"Happy Thoght\" Game a fating visual novel games.\n\n[From [url=https://mulkigt.itch.io/happt-thoght-english] itch.io[/url]]",
+  "source_sha256": "1b82dbe00d38e89f58190854b9eacd886ca554d7686e4de6a1ee92e6c012b11b",
+  "translation": "欢迎来到“Happy Thoght”游戏，这是一款命运视觉小说游戏。\n\n[来自[url=https://mulkigt.itch.io/happt-thoght-english] itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v24153"
+}

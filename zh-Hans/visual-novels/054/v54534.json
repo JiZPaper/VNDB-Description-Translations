@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54534",
+  "type": "visual_novel",
+  "name": "Musume",
+  "original_name": "ムスメ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Musume is a short dating game.\n\nGet to know the daughter through her father, Itaru.\n\n[From [url=https://darksummer0953.itch.io/musume]itch.io[/url]]",
+  "source_sha256": "e6e8277143d534feb1bbdb789cf04510dcb4a32235711eb716e05511e477ef39",
+  "translation": "Musume是一款短暂的约会游戏。\n\n通过女儿的父亲Itaru认识了女儿。\n\n[来自[url=https://darksummer0953.itch.io/musume]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v54534"
+}

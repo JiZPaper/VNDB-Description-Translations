@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58518",
+  "type": "visual_novel",
+  "name": "Babyfood",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A late-night text from a stranger pleads for your help. How much are you willing to risk for someone you’ve never met?\n\n[From [url=https://stzhoucy.itch.io/babyfood]Itch.io[/url]]",
+  "source_sha256": "a557a5eaf96f36208d2b8e8dfd58e8d0e3ae01dc14fccf5046c4e2af9ba6b461",
+  "translation": "一位陌生人在深夜发来短信请求你的帮助。你愿意为一个你从未见过的人冒多大的风险？\n\n[来自[url=https://stzhoucy.itch.io/babyfood]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v58518"
+}

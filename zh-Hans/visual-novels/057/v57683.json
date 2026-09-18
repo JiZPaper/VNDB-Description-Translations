@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57683",
+  "type": "visual_novel",
+  "name": "Dark Arrangement",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Let's play a game, shall we?\n\nThen I shall answer a question for every round you survive without spinning the magazine. If you make it past the third one I will let you go.\n\nYou don't remember who I am, do you?\n\n[From [url=https://banya.itch.io/darkarrangement]Itch.io[/url]]",
+  "source_sha256": "6d80c4383cef791b4296df001c8d3cdd20702b5f3349b09aafd12758d5569ec4",
+  "translation": "我们来玩个游戏吧？\n\n然后我将为你在不旋转杂志的情况下生存的每一轮回答一个问题。如果你能熬过第三关，我就放你走。\n\n你不记得我是谁了，是吗？\n\n[来自[url=https://banya.itch.io/darkarrangement]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v57683"
+}

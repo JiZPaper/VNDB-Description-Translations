@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41793",
+  "type": "visual_novel",
+  "name": "Za Graniu Zhelaemogo",
+  "original_name": "За гранью желаемого",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Miss Vale travels from London to Arkham to meet her uncle, whom she has never seen. But what awaits her in the city? Will she be able to receive the inheritance and fulfill the last will of the dying man?..",
+  "source_sha256": "a899b05bb52e9e8a345260a7778841da16bd43170cfab264c61dc70eeb21761c",
+  "translation": "维尔小姐从伦敦前往阿卡姆去见她从未见过的叔叔。但这座城市里等待着她的是什么？她能否继承遗产，完成垂死之人的遗愿呢？",
+  "vndb_url": "https://vndb.org/v41793"
+}

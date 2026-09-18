@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13412",
+  "type": "visual_novel",
+  "name": "Love You More",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel about the last ten seconds of a bank robbery aftermath and why things escalated the way they did.\n\n[From [url=http://www.ludumdare.com/compo/ludum-dare-27/?action=preview&uid=20442]official site[/url]]\n\nCreated for [url=http://www.ludumdare.com/compo/ludum-dare-27/]Ludum Dare 27[/url].",
+  "source_sha256": "1f7c3027dc0fc6ce50c67317e2f9ae21bc205167d946823d159520f00cfda404",
+  "translation": "一部关于银行抢劫案后果的最后十秒以及事情为何如此升级的视觉小说。\n\n[来自[url=http://www.ludumdare.com/compo/ludum-dare-27/?action=preview&uid=20442]官方网站[/url]]\n\n创建于[url=http://www.ludumdare.com/compo/ludum-dare-27/]卢杜姆敢于27[/url]。",
+  "vndb_url": "https://vndb.org/v13412"
+}

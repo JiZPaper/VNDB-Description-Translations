@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28806",
+  "type": "visual_novel",
+  "name": "Tsui no Sora Remake",
+  "original_name": "終ノ空 remake",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A remake of Tsui no Sora included in the 10th anniversary Subarashiki Hibi package, including a fully rewritten script that is 1.5 times the size of the original and a \"whole new work of its own\".",
+  "source_sha256": "d10a5a481978bdebe7014bf00d2ae626059ac3415dff76ba80559d4504e3b672",
+  "translation": "《翠之空》的翻拍版包含在十周年纪念版《Subarashiki Hibi》包中，其中包括完全重写的剧本，其大小是原版的1.5倍，并且是“自己的全新作品”。",
+  "vndb_url": "https://vndb.org/v28806"
+}

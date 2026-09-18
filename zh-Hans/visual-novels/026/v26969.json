@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26969",
+  "type": "visual_novel",
+  "name": "Mystery House",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Mystery House is a monochrome interactive fiction adventure game that places the player in a Victorian mansion with seven other people. As the player explores the mansion, he discovers that there is a killer murdering each guest one by one. The objective of the game is to figure out who the murderer is before the murderer finds the hero. Players explore and manipulate objects by typing in one or two-word phrases such as \"north\" or \"get knife\".\n\n[From [url=https://www.mobygames.com/game/hi-res-adventure-1-mystery-house]Mobygames[/url]]",
+  "source_sha256": "454b891cfc9c3930875d6d88292fb8e1917cdcc7988e7157752b1d0c3583ba28",
+  "translation": "Mystery House是一款单色互动小说冒险游戏，玩家将与另外七个人一起置身于维多利亚时代的豪宅中。当玩家探索这座豪宅时，他发现一名杀手正在将每一位客人一一谋杀。游戏的目标是在凶手找到英雄之前找出凶手是谁。玩家通过输入一两个单词短语（例如“向北”或“拿刀”）来探索和操纵物体。\n\n[来自[url=https://www.mobygames.com/game/hi-res-adventure-1-mystery-house]Mobygames[/url]]",
+  "vndb_url": "https://vndb.org/v26969"
+}

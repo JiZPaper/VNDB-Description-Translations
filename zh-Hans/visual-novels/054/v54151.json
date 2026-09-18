@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54151",
+  "type": "visual_novel",
+  "name": "On My Way Home",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You will take the place of a young man who is about to embark on a journey that will change his life forever. After the strange death of his parents, the only thing he has left is his uncle and his best friends. He and his best friends will move to the city. Along the way he will find many conflicts, lovers and a place to call home.",
+  "source_sha256": "fdd44d116ce79280a546ec6a913102fc8997702380120f85d109027ff7d6b7cc",
+  "translation": "你将扮演一个年轻人，他即将踏上一段将永远改变他生活的旅程。父母离奇去世后，他只剩下叔叔和最好的朋友。他和他最好的朋友将搬到这座城市。一路上他会遇到许多冲突、恋人以及一个可以称之为家的地方。",
+  "vndb_url": "https://vndb.org/v54151"
+}

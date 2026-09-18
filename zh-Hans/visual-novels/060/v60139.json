@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60139",
+  "type": "visual_novel",
+  "name": "Loop Tide",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "For some reason, you find yourself drowning. A strange person saves you.\n\n[From [URL=https://oyunorka.itch.io/looptide]Itch.io[/URL]]",
+  "source_sha256": "a8a23f7892677ebc444596243529ec092e329e3ca75076576223ec4e73c2eff8",
+  "translation": "由于某种原因，你发现自己溺水了。一个陌生的人救了你。\n\n[来自 [URL=https://oyunorka.itch.io/looptide]Itch.io[/URL]]",
+  "vndb_url": "https://vndb.org/v60139"
+}

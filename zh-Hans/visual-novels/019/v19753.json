@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19753",
+  "type": "visual_novel",
+  "name": "Buried",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"I can't remember what happened...\"\n\nYou awaken in the middle of the forest with vague memories of an accident. Your logging crew is missing. But when you start searching, you uncover something that should have stayed hidden...\n\n[From [url=http://www.buriedgame.com/]official website[/url]]",
+  "source_sha256": "56b0b218de054035703afb1b1071c322abcc49815bec6dde46126d1ad168600d",
+  "translation": "“我不记得发生了什么……”\n\n你在森林中央醒来，对一场事故有模糊的记忆。你们的伐木人员失踪了。但当你开始寻找时，你会发现一些本应隐藏的东西……\n\n[来自[url=http://www.buriedgame.com/]官网[/url]]",
+  "vndb_url": "https://vndb.org/v19753"
+}

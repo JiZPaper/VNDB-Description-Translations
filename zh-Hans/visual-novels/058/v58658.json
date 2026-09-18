@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58658",
+  "type": "visual_novel",
+  "name": "Artefakt Sol' i Mani",
+  "original_name": "Артефакт Соль и Мани",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The adventures of young Max, a newcomer to a strange world, unfold through the voices of its native dwellers. The story is divided into two parts: one told by a girl, the other by a boy.",
+  "source_sha256": "626232783797e02cebc449a787a27f9eb7146ce63ee3ad65fe29b76e3a15256b",
+  "translation": "年轻的麦克斯是一个陌生世界的新来者，他的冒险通过当地居民的声音展开。故事分为两部分：一部分由女孩讲述，另一部分由男孩讲述。",
+  "vndb_url": "https://vndb.org/v58658"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58069",
+  "type": "visual_novel",
+  "name": "Paradox Idol",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Just as the idol group you manage is about to debut, one member quits. You're forced to take his place. Will you become a true K-pop idol?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "14cfb93bf01f6209d870a661f03fbc00f2ca79a443fbeeb544353cd506f5014b",
+  "translation": "正当你管理的偶像团体即将出道时，一名成员退出了。你被迫取代他的位置。你会成为真正的韩国流行偶像吗？\n\n[来自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian应用程序[/url]]",
+  "vndb_url": "https://vndb.org/v58069"
+}

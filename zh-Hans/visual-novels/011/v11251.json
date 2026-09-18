@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11251",
+  "type": "visual_novel",
+  "name": "Canon Gaiden - Kitagawa de Ikou!!",
+  "original_name": "Canon外伝 北川でイこう!!",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A side-story fan-fiction VN featuring Ka*on's characters - Sayuri and Mai.",
+  "source_sha256": "445c2fcfc147a361bcd170ddab45c6cc3a42b304b85b82430c1b2c8ffc0735e7",
+  "translation": "一部以《Kanon》角色沙耶里与舞为主角的外传同人视觉小说。",
+  "vndb_url": "https://vndb.org/v11251"
+}

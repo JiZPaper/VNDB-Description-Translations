@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61878",
+  "type": "visual_novel",
+  "name": "Yasashiku Suru no mo Hodohodo ni!",
+  "original_name": "優しくするのも程々に！",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short story game where you simply annoy non-humans with physical contact.",
+  "source_sha256": "8d9b1b74802d3d5ceea5fc44dac59be622e056f42ed63c740baee4a9ecc96f23",
+  "translation": "一款短篇故事游戏，你只需通过身体接触来惹恼非人类。",
+  "vndb_url": "https://vndb.org/v61878"
+}

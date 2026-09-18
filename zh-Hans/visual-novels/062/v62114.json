@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62114",
+  "type": "visual_novel",
+  "name": "Supervisor Sato!",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "SupervisorSato! is a Kinetic Visual Novel which tells the story of Saori Sato, a Japanese Highschool student who gets hired as the new Supervisor for Sayama Highschool, an Elite Girl-Only school, known for its secrets and mysteries",
+  "source_sha256": "a4846454976f8af652982e16e69afa3ed59adb8d10627adeb3962a1e344ad584",
+  "translation": "佐藤监督！是一部动感视觉小说，讲述了日本高中生佐藤沙织被聘为狭山高中的新主管的故事，狭山高中是一所精英女子学校，以其秘密和神秘而闻名",
+  "vndb_url": "https://vndb.org/v62114"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22528",
+  "type": "visual_novel",
+  "name": "Exit/Corners",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Five strangers find themselves trapped in an abandoned hotel that’s set to collapse in 24 hours. To escape alive, they'll have to solve their captor’s riddles and unravel the mystery behind their abduction.\n\n[From [url=http://exitcorners.com/index.html]Official site[/url]]",
+  "source_sha256": "db17d65b5b8d4ea28ad900c39c7bcca85a039861669ec74556bdccba1b356f37",
+  "translation": "五名陌生人发现自己被困在一家废弃酒店中，该酒店将在24小时内倒塌。为了活着逃脱，他们必须解开绑架者的谜团，并揭开绑架背后的谜团。\n\n[来自[url=http://exitcorners.com/index.html]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v22528"
+}

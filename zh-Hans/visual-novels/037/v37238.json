@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37238",
+  "type": "visual_novel",
+  "name": "nullPerfection",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short VN about a girl talking to herself and examining past actions. About letting go and forgiveness.\n\n[From [url=https://clematys.itch.io/nullperfection]Itch.io[/url]]",
+  "source_sha256": "aef04f28de0426173540d1f8fba119e5be067f58b7d723dbe42c51396e228732",
+  "translation": "一段简短的VN，讲述一个女孩自言自语并审视过去的行为。关于放手和宽恕。\n\n[来自[url=https://clematys.itch.io/nullperfection]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v37238"
+}

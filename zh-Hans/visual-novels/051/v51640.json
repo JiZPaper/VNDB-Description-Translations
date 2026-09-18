@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51640",
+  "type": "visual_novel",
+  "name": "Apocalyptic World",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Open world, RPG, sandbox. You've survived nuclear war but at what cost?\nYou survived in a bunker while others had to adapt to live their brutal new lives.​",
+  "source_sha256": "d4468dcd74c135eb87b8188550113e3f6290e6839901f8c8491ffa5e50f0e0f1",
+  "translation": "开放世界、角色扮演、沙盒。你在核战争中幸存下来，但付出了什么代价？\n你在地堡中幸存下来，而其他人则必须适应残酷的新生活。",
+  "vndb_url": "https://vndb.org/v51640"
+}

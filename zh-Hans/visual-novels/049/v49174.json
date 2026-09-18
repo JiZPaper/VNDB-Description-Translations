@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49174",
+  "type": "visual_novel",
+  "name": "Time Tribunal",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Have you ever heard of the space-time continuum? Have you ever had the luck (or misfortune) to find yourself face to face with the laws of time? Two completely ordinary teenagers find themselves in an unequal mortal battle at a mysterious pioneer camp.",
+  "source_sha256": "a5b580a922a1865bf009c0abcda82e4990dc76ffbdf0871632a559568182dc5d",
+  "translation": "你听说过时空连续体吗？你是否曾有幸（或不幸）发现自己与时间法则面对面？两个完全平凡的青少年发现自己在一个神秘的拓荒者营地中陷入了一场不平等的殊死战斗。",
+  "vndb_url": "https://vndb.org/v49174"
+}

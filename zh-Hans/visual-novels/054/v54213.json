@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54213",
+  "type": "visual_novel",
+  "name": "Sargasso",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual short story with interaction, Sargasso immerses you in a stranding afloat on the mysterious Sargasso Sea with three potentially dangerous characters onboard. There may or may not be a monster in the seaweed. Your only goal is to survive.",
+  "source_sha256": "c994883d6a4373c03dde49cee7c9c2c872b308db081e56575465af1dfbc42cc3",
+  "translation": "《马尾藻》是一部带有互动的视觉短篇故事，让你沉浸在神秘的马尾藻海中搁浅的情景中，船上有三个潜在的危险角色。海藻里可能有怪物，也可能没有。你唯一的目标就是生存。",
+  "vndb_url": "https://vndb.org/v54213"
+}

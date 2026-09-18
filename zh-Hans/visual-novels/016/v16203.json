@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16203",
+  "type": "visual_novel",
+  "name": "Eosforit",
+  "original_name": "Эосфорит",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game takes place in a fantasy world resembling the 19th century. In the Kingdom of Seraphinite, you must investigate the murder of your uncle, from whom you've inherited a house, debts, and a mysterious pendant — Eosphorite. Your choices will determine who stays by the heroine's side, whether she uncovers the killer, and if she survives at all.",
+  "source_sha256": "0f33156a0fb7bafc761691d2b09fef6276b9f77456bb7788a7db4a77bacdbd95",
+  "translation": "游戏发生在一个类似19世纪的奇幻世界。在塞拉芬尼特王国，你必须调查你叔叔的谋杀案，你从他那里继承了房子、债务和神秘的吊坠——Eosphorite。你的选择将决定谁会留在女主角身边，她是否能找出凶手，以及她是否能活下来。",
+  "vndb_url": "https://vndb.org/v16203"
+}

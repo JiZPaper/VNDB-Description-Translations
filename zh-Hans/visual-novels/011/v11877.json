@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11877",
+  "type": "visual_novel",
+  "name": "The Fantastic Flying Books of Mr. Morris Lessmore",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An iPad app based on the award-winning short film.  Morris Lessmore is a man who has been left with nothing after a violent storm sweeps away his home and belongings. After discovering a woman with flying books, Morris becomes the custodian of a magical library.",
+  "source_sha256": "f5d0251b0144562acb906ad40e72542de0859e94528e7d46ddc3ddd530175593",
+  "translation": "基于获奖短片的iPad应用程序。莫里斯·莱斯莫尔 (Morris Lessmore) 是一个在一场猛烈的风暴席卷了他的房屋和财物后一无所有的人。莫里斯发现一名拥有会飞的书籍的女人后，成为了一座魔法图书馆的管理员。",
+  "vndb_url": "https://vndb.org/v11877"
+}

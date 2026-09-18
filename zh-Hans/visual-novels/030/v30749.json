@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30749",
+  "type": "visual_novel",
+  "name": "The Joob-Joob",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Many men dream of controlling the minds of women. You have that power, but your dreams are no longer your own. Women and fortunes can be yours to command, but the statue granting your power has an agenda you cannot guess. And if it can dominate their will, what of your own?",
+  "source_sha256": "15b256180ea3e0cac3ad99e07d519c46cbc273d42a33f78f7f2f0417bed2007a",
+  "translation": "许多男人梦想着控制女人的思想。你有那种力量，但你的梦想不再是你自己的。女人和财富都可以由你掌控，但授予你力量的雕像却有着你无法猜测的议程。如果它能主宰他们的意志，那你自己的意志又如何呢？",
+  "vndb_url": "https://vndb.org/v30749"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24717",
+  "type": "visual_novel",
+  "name": "Kin'iro Loveriche -Golden Time-",
+  "original_name": "金色ラブリッチェ-Golden Time-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is the fandisc for \"Kin'iro Loveriche\" with after stories for each of the five heroines. There are also new routes for Ayaka and Caminal.",
+  "source_sha256": "8b16777f7383fca33b8d9a73c6b07d1495c71423f39c4aaa0c4339a997e31ce5",
+  "translation": "这是“Kin'iro Loveriche”的同人光盘，包含五位女主角的后续故事。Ayaka和Caminal也有新路线。",
+  "vndb_url": "https://vndb.org/v24717"
+}

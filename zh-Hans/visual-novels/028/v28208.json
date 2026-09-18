@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28208",
+  "type": "visual_novel",
+  "name": "On the Island of Falling Stars",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "As another hazy summer begins on the small island of Cóiméad, strange rumors start to circulate about the end of the world. A few whispers accumulate; the sea runs red, and the rains continue. \n\nThe first chapter covers three friends' search for the source of these rumors and what truth they may hold.",
+  "source_sha256": "250b4d5bf5b509923c8c4cf4f4c3d11a0320568989b76e481e98c8428201e0f0",
+  "translation": "当科伊梅德小岛上又一个朦胧的夏天开始时，关于世界末日的奇怪谣言开始流传。一些窃窃私语累积起来；海水变成红色，雨还在继续。\n\n第一章讲述了三个朋友寻找这些谣言的来源以及其中可能包含哪些真相的故事。",
+  "vndb_url": "https://vndb.org/v28208"
+}

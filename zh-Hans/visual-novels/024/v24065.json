@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24065",
+  "type": "visual_novel",
+  "name": "Pacific Road",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Pacific Road is a little visual novel created for the Game Boy Jam 6 (2018).\n\n[From [url=https://suzuka.itch.io/pacific-road] itch.io[/url]]",
+  "source_sha256": "3552376975f32c9b365189c0ddc24069985418db3adbaf2be26bf87123dedd7e",
+  "translation": "《太平洋路》是为Game Boy Jam 6 (2018) 创作的一部视觉小小说。\n\n[来自[url=https://suzuka.itch.io/pacific-road] itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v24065"
+}

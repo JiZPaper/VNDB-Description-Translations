@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14980",
+  "type": "visual_novel",
+  "name": "Stuffing Rori",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Feed a cute catboy to stretch his round tummy.",
+  "source_sha256": "eae4bbb55b41c9402d2d2063e39fea644cde171ae104bdcc1b9995e80779359d",
+  "translation": "给可爱的猫小子喂食，让他圆圆的肚子舒展一下。",
+  "vndb_url": "https://vndb.org/v14980"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64955",
+  "type": "visual_novel",
+  "name": "the red pearls of borneo",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A detective noir puzzle deduction game. Explore a non-linear timeline as a clairvoyant investigator in 1941 Borneo. Jump between time and locations to uncover motives and discover what truly happened in the Goodwill tobacco plantation that fateful night on the eve of the WW2 Japanese invasion.",
+  "source_sha256": "4756e3f8576337078a573c3f1f3b97b5911a41a81863252a6832ebfa5e4b8861",
+  "translation": "一款黑色侦探解谜推理游戏。作为一名千里眼调查员，探索1941年婆罗洲的非线性时间线。在时间和地点之间跳跃，揭开动机，并了解二战日本入侵前夕那个决定命运的夜晚在善意烟草种植园到底发生了什么。",
+  "vndb_url": "https://vndb.org/v64955"
+}

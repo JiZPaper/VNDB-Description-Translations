@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57729",
+  "type": "visual_novel",
+  "name": "Love Olympus",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "When Zeus chooses you as his target, you need to seduce another god to save your life. Who will you choose?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "4a2b7d7bc568a0615f86426e0101bff90e8657f909b082c2deffc8781780764c",
+  "translation": "当宙斯选择你作为他的目标时，你需要引诱另一位神来拯救你的生命。你会选择谁？\n\n[来自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian应用程序[/url]]",
+  "vndb_url": "https://vndb.org/v57729"
+}

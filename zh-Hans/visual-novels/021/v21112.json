@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21112",
+  "type": "visual_novel",
+  "name": "Moujuu-tachi to Ohime-sama ~in blossom~",
+  "original_name": "猛獣たちとお姫様 ~in blossom~",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Contains after stories for everyone set after the happiest endings in the original game.\n\nIF story of what if there was no fighting that relates to Julia's powers\nand introduces a new character Czarny.",
+  "source_sha256": "345ac3f57e543f0a6595da9183360a35654dbdbfa026d924c39499c412a7cd65",
+  "translation": "包含原版游戏中最幸福的结局之后为每个人提供的后续故事。\n\n如果没有与朱莉娅的力量有关的战斗会怎样的故事\n并介绍了一个新角色Czarny。",
+  "vndb_url": "https://vndb.org/v21112"
+}

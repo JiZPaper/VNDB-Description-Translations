@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22262",
+  "type": "visual_novel",
+  "name": "Hentami: Vol. 4 - The Thousand Halls",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short visual novel set within Bakkerverse (the [url=https://en.wikipedia.org/wiki/Prince_of_Nothing]Prince of Nothing[/url] series).",
+  "source_sha256": "aeb9d2b27cecdf950b9a86aa4f235cc4e23c93ed2c999e3aabe6b9fe0b60dc64",
+  "translation": "一部以Bakkerverse为背景的短篇视觉小说（[url=https://en.wikipedia.org/wiki/Prince_of_Nothing]Prince of Nothing[/url] 系列）。",
+  "vndb_url": "https://vndb.org/v22262"
+}

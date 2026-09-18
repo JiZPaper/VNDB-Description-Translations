@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11537",
+  "type": "visual_novel",
+  "name": "The Blue Water",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A brief story about a girl (Annamarie) who tries to find someone who saved her life 15 years ago with a promise.",
+  "source_sha256": "99b95d3ad5caa42cea8a6b8502cbeb7fe5dbe55adbeb271930c595e2b4091d4d",
+  "translation": "一个简短的故事，讲述了一个女孩（安娜玛丽饰）试图寻找15年前曾许诺救了她一命的人。",
+  "vndb_url": "https://vndb.org/v11537"
+}

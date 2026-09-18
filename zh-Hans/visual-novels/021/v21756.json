@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21756",
+  "type": "visual_novel",
+  "name": "Beach Vacation",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The player controls Floyd, Milena's and Lucy's classmate. He is vacationing at the beach, where he meets the two girls, accompanied by Milena's mother Maela.",
+  "source_sha256": "fa2da20ac987ac27c860a5c66fce6d82fe95c36d1ee0d40bd8e5c268f6ffa435",
+  "translation": "玩家控制弗洛伊德、米莱娜和露西的同学。他正在海滩度假，并在米莱娜的母亲梅拉的陪同下遇见了两个女孩。",
+  "vndb_url": "https://vndb.org/v21756"
+}

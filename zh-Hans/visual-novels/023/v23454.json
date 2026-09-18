@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23454",
+  "type": "visual_novel",
+  "name": "Amuro Tooru no Ren'ai Jijou",
+  "original_name": "安室透の恋愛事情",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A dating simulator featuring Amuro Tooru from Detective Conan.",
+  "source_sha256": "99f33c9b635c67d82faaea4d43bd7034bb0a389cf61841ffb299bbd61ea0c831",
+  "translation": "以《名侦探柯南》中的阿姆罗彻为主角的约会模拟器。",
+  "vndb_url": "https://vndb.org/v23454"
+}

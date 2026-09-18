@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39067",
+  "type": "visual_novel",
+  "name": "Mike Days",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A game where you make choices for the main character, Mike, and you can get multiable endings.",
+  "source_sha256": "6a284da098e5260872e295a2a774d70da99766e99c746b1023aa9ee3775ff411",
+  "translation": "在这款游戏中，你为主角迈克做出选择，并且可以获得多种结局。",
+  "vndb_url": "https://vndb.org/v39067"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11313",
+  "type": "visual_novel",
+  "name": "Tokyo Yamanote Boys Pure Raspberry Disc",
+  "original_name": "TOKYOヤマノテBOYS PURE RASPBERRY DISC",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fandisc of the Yamanote Boys series featuring Momose Ayumu (Honey Milk), Kujou Takumi (Super Mint), and Rudo Jesus (Dark Cherry).",
+  "source_sha256": "71b5e43f484e662fbf27e53b0f1a826ebeb527aacc42671d2be8c9fa18d9dfb1",
+  "translation": "山手男孩系列的同人唱片由百濑步（蜂蜜牛奶）、九条拓海（超级薄荷）和鲁多·耶稣（黑樱桃）组成。",
+  "vndb_url": "https://vndb.org/v11313"
+}

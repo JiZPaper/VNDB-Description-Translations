@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29341",
+  "type": "visual_novel",
+  "name": "Soft Serve",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "When a young woman and her new friend visit an odd ice-cream parlor deep in the city her world becomes strange.",
+  "source_sha256": "5623ec03886a3fa3cc2e6a369156db21a482159fc20202aa0869f59dfcb017de",
+  "translation": "当一位年轻女子和她的新朋友参观城市深处一家奇怪的冰淇淋店时，她的世界变得陌生。",
+  "vndb_url": "https://vndb.org/v29341"
+}

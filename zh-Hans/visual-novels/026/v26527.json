@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26527",
+  "type": "visual_novel",
+  "name": "Out of the Bag",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short Natsume Yuujinchou fangame about Tanuma meeting a cat that looks suspiciously like Natsume, and the shenanigans that ensue.\n\n[From [url=https://cattowngames.itch.io/out-of-the-bag]itch.io[/url]]",
+  "source_sha256": "fd56373774b23465608942deb661ab49956a03daa49dadfa852d0b285b030a10",
+  "translation": "一部简短的夏目友人帐同人游戏，讲述了田沼遇到一只长得可疑的夏目猫，以及随之而来的恶作剧的故事。\n\n[来自[url=https://cattowngames.itch.io/out-of-the-bag]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v26527"
+}

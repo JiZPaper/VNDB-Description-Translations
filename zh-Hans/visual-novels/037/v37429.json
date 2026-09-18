@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37429",
+  "type": "visual_novel",
+  "name": "Krila",
+  "original_name": "Крила",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "What is the novel about? Everything is very simple! About the girl Marie, who is stuck in a traumatic situation. The girl's psyche tries to protect itself from even more trauma by escaping from reality. Where will it lead her? Will she be able to adapt to a new place - in an orphanage - and solve all its secrets?",
+  "source_sha256": "44f7d72a476532990c04ac4810f9099028155c722e943613c46a1d95509bff74",
+  "translation": "小说讲了什么？一切都很简单！关于陷入创伤境地的女孩玛丽。女孩的心灵试图通过逃避现实来保护自己免受更多创伤。它将把她引向何方？她能否适应新的地方——孤儿院——并解开其中的所有秘密？",
+  "vndb_url": "https://vndb.org/v37429"
+}

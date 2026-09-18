@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18960",
+  "type": "visual_novel",
+  "name": "Summer Fling",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game follows Kasumi as he spends his first weekend of summer break with two girls from school, at his family's lake house, before he begins the summer of cramming before his college entrance exams.\n\n[From [url=https://www.kickstarter.com/projects/dharkerstudio/army-gals/description]Kickstarter campaign[/url]]",
+  "source_sha256": "c85660d120d4d4c49a624a67731ee617f792ad2a63419807f4ef1f0a611e8c32",
+  "translation": "游戏讲述了霞与两个放学的女孩在自家的湖边小屋度过暑假的第一个周末，然后开始高考前的临时抱佛脚的暑假。\n\n[来自[url=https://www.kickstarter.com/projects/dharkerstudio/army-gals/description]Kickstarter活动[/url]]",
+  "vndb_url": "https://vndb.org/v18960"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52231",
+  "type": "visual_novel",
+  "name": "Yagi Shoukougun",
+  "original_name": "ヤギ症候群",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Find the truth behind an old kidnapping incident with a group of perverts.\nTwelve years ago, several children were abducted by a man only known as \"Mr. Yagi.\" Despite the hell they'd gone through, some survived and tried to live normal lives as adults. Still deeply affected by such traumatic events, the survivors return to try and uncover the truth behind their abduction.",
+  "source_sha256": "ac31ad6194456a0291b2d834e872cac404ea85466ddc76cfe15f3edc8132cacb",
+  "translation": "找出一群变态绑架事件背后的真相。\n十二年前，几名儿童被一名自称“八木先生”的男子绑架。尽管他们经历了地狱般的苦难，但有些人幸存下来并尝试像成年人一样过上正常的生活。幸存者仍然深受此类创伤事件的影响，他们返回试图揭开绑架背后的真相。",
+  "vndb_url": "https://vndb.org/v52231"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25918",
+  "type": "visual_novel",
+  "name": "Magistrannicy",
+  "original_name": "Магистранницы",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Short kinetic visual novel about three girls get caught in a quite mysterious situation.\n\n[Edited from [url=https://store.steampowered.com/app/1129110/]Steam[/url]]",
+  "source_sha256": "6cf53ac5f52dbb53c0c0092caa02b5966a3bd5dc5bcb859b02f9073f403eb48a",
+  "translation": "简短的动态视觉小说讲述了三个女孩陷入一个相当神秘的境地的故事。\n\n[编辑自[url=https://store.steampowered.com/app/1129110/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v25918"
+}

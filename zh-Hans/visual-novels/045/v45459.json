@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45459",
+  "type": "visual_novel",
+  "name": "Kouenji Joshi Soccer",
+  "original_name": "高円寺女子サッカー",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Kouenji women's soccer is an adventure game that tells the story of Moeru Toushi, a former soccer player who stopped playing due to an injury. He arrives at a ladies school (called Kouenji Joshi) as the new physical education teacher. He will have to train a group of girls to become a soccer team, while the vice-principal of the school is against it because it goes against the school's image. \n\nThe game features a lot of different endings depending of the player choices during the game, the same for the team members, there are some members that will be available if the player choose a route in the game and make the proper choices that will make the possible member to join the team.\n\nDuring the matches the player decide the tactics during some parts of each match (like decide the kind of tackle that his player will do, the kind of shoot, etc.) and that will leave to a lose, a victory or a draw.",
+  "source_sha256": "a7a46cc188898a3e69aa36dfaa28e5469fc2e479e89d2b5385c27a86ab3220fb",
+  "translation": "《高圆寺女子足球》是一款冒险游戏，讲述了因伤停止踢球的前足球运动员莫埃鲁·托斯的故事。他来到一所女子学校（称为高圆寺女子学校），担任新的体育老师。他必须训练一群女孩成为一支足球队，而学校的副校长则反对，因为这有损学校的形象。\n\n游戏中有很多不同的结局，具体取决于玩家在游戏过程中的选择，对于团队成员来说也是如此，如果玩家在游戏中选择一条路线并做出正确的选择，就会有一些成员可以加入团队。\n\n在比赛期间，球员决定每场比赛某些部分的战术（例如决定球员将采取的铲球类型、射门类型等），这将导致输、赢或平局。",
+  "vndb_url": "https://vndb.org/v45459"
+}

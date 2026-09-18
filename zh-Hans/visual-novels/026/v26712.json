@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26712",
+  "type": "visual_novel",
+  "name": "Gakuen Alice ~WakuWaku★Happy Friends~",
+  "original_name": "学園アリス～わくわく★ハッピーフレンズ～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "There are rumors that Gakuen Alice will disappear. In order to prevent this, we will save money in the piggy bank. The method of saving is to synthesize items collected in forests, create items, and submit them to the auction. All items that can be synthesized are specially made by firefly. You can make ketchup bullets, Pigler No. 3, pengie badges, etc. that appear in the original. You can make many other items without getting bored. There are events from previous GBA game such as the Kurigo rice competition as well.",
+  "source_sha256": "ed9395567a5120772ebb44ee4475e67608efd74015725cc917ecf527f9fa06aa",
+  "translation": "有传言说学园爱丽丝将会消失。为了防止这种情况发生，我们会把钱存到存钱罐里。保存的方法是合成在森林中收集的物品，制造物品，然后提交拍卖。所有可以合成的物品都是萤火虫特制的。可以制作原作中出现的番茄酱子弹、小猪三号、彭吉徽章等。你可以制作许多其他物品而不会感到无聊。还有以前的GBA游戏中的活动，例如栗子大米比赛。",
+  "vndb_url": "https://vndb.org/v26712"
+}

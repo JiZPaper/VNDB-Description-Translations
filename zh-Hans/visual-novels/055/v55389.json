@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55389",
+  "type": "visual_novel",
+  "name": "Hysteria",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Four bear brothers are tasked to collect food for their town.\n\nUnfortunately, things don't go as planned.\n\n[From [url=https://mariaddity.itch.io/hysteria-game]itch.io[/url]]",
+  "source_sha256": "7b97e3c5b53ba85e8824ef98f1be7ff3628aa798a127a82b5d9fe3a118250b5c",
+  "translation": "四名熊兄弟的任务是为他们的城镇收集食物。\n\n不幸的是，事情并没有按计划进行。\n\n[来自[url=https://mariaddity.itch.io/hysteria-game]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v55389"
+}

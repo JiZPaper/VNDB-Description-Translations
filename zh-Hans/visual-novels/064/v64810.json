@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64810",
+  "type": "visual_novel",
+  "name": "Monte Lua",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Monte Lua is an endless AI visual novel set in Sintra, Portugal.\n\nYou play through an open-ended story where scenes, dialogue, choices, character moments, and special illustrations can keep evolving instead of ending at a fixed route. Type what you want to do, follow the generated choices, or let the story pull you into school life, friendships, romance, rivalry, everyday drama, and unexpected turns around Monte Lua.\n\nhttps://montelua.ai\nhttps://luisml77.itch.io/monte-lua \n\nMonte Lua is built by Continual MI as part of MDL, an endless visual novel engine for long-running AI worlds.",
+  "source_sha256": "9f830731df3dd70b61dfdf4cbf7b051c6de07a9497a9649f26fdfc9d50d3735f",
+  "translation": "Monte Lua是一部以葡萄牙辛特拉为背景的无尽人工智能视觉小说。\n\n你可以玩一个开放式的故事，其中的场景、对话、选择、角色时刻和特殊插图可以不断发展，而不是在固定的路线上结束。输入你想做的事情，按照生成的选择进行操作，或者让故事将你带入学校生活、友谊、浪漫、竞争、日常戏剧以及蒙特卢亚周围的意外转折。\n\nhttps://montelua.ai\nhttps://luisml77.itch.io/monte-lua \n\nMonte Lua由Continual MI构建，作为MDL的一部分，MDL是一个用于长期运行的AI世界的无尽视觉小说引擎。",
+  "vndb_url": "https://vndb.org/v64810"
+}

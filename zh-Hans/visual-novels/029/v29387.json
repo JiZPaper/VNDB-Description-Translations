@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29387",
+  "type": "visual_novel",
+  "name": "Killer Project",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Killer Project is a story about a hitman who, after faking his own death, tries to live a normal life in the city of White Raven, a city full of opportunities, adventures and of course women.",
+  "source_sha256": "be5f0a96023e7ad92784182ab5a58e42bfaefec673faf381e0fefe42e0a0f125",
+  "translation": "《杀手计划》讲述了一名杀手假装死亡后，试图在白鸦市过上正常生活的故事，这座城市充满了机会、冒险，当然还有女人。",
+  "vndb_url": "https://vndb.org/v29387"
+}

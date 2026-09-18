@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35615",
+  "type": "visual_novel",
+  "name": "Mahoutsukai no Kusuriya",
+  "original_name": "魔法使いの薬屋",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Once upon a time, in an era when humans and wizards still hated each other's existence,\na very gentle wizard who ran a apothecary lived there.\n\n[From [url=https://novelgame.jp/games/show/6432]NovelGame[/url]]",
+  "source_sha256": "80ddf41fa4d16c30fd27cfdbae6e78ea8a8c802dfd0399748a6fc27daddc8429",
+  "translation": "曾几何时，在一个人类和巫师仍然互相憎恨对方存在的时代，\n一位非常温柔的巫师住在那里，他经营着一家药店。\n\n[来自[url=https://novelgame.jp/games/show/6432]NovelGame[/url]]",
+  "vndb_url": "https://vndb.org/v35615"
+}

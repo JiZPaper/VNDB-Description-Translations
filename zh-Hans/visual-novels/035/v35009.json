@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35009",
+  "type": "visual_novel",
+  "name": "Ghost Switch",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Ghost Switch is a wordless visual novel game about a con artist and a ghost who work together to swindle money out of clients who call to have their homes \"exorcised.\" Things have been going swimmingly so far, but the two may have gotten more than they bargained for with their next gig.\n\nThis is a visual novel told through symbols as dialogue, rather than with traditional text.",
+  "source_sha256": "70418fa4fc47b38a1bbd6b156f6b671ed0386560a3432e644c7109d6da2fd4d6",
+  "translation": "《Ghost Switch》是一款无字视觉小说游戏，讲述了一个骗子和一个鬼魂联手从打电话要求“驱魔”的客户那里骗取金钱的故事。到目前为止，一切进展顺利，但两人在下一场演出中得到的可能超出了他们的预期。\n\n这是一部视觉小说，通过符号作为对话来讲述，而不是使用传统的文本。",
+  "vndb_url": "https://vndb.org/v35009"
+}

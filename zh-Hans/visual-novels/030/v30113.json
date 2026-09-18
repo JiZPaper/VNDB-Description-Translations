@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30113",
+  "type": "visual_novel",
+  "name": "Big's Big Fishing Adventure 3: The Trial",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Sega of Virgin Islands presents a game of a big cat, his friend frog, and serious deadlines.",
+  "source_sha256": "eb6718beabba11b582b33fec82cf5e09f2fea8ef199709eb043bb206abe30a5d",
+  "translation": "维尔京群岛的世嘉推出了一款关于一只大猫、他的朋友青蛙和严格的截止日期的游戏。",
+  "vndb_url": "https://vndb.org/v30113"
+}

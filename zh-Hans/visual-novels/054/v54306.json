@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54306",
+  "type": "visual_novel",
+  "name": "Svet moego koshmara",
+  "original_name": "Свет моего кошмара",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Visual novel on the \"Heaven Official's Blessing\" in Modern AU.",
+  "source_sha256": "2ccf30db99d46544f8d17607a909715332172013f70e6f72690836ade6259149",
+  "translation": "以现代AU中的“天官赐福”为主题的视觉小说。",
+  "vndb_url": "https://vndb.org/v54306"
+}

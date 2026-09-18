@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63765",
+  "type": "visual_novel",
+  "name": "Four-Feather Dinner",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short story about four Witches.",
+  "source_sha256": "43ff5716bfb4afb3ee2e5d4c55407e7aaf6aeb423c3606bcbb41fdc699b84c69",
+  "translation": "一个关于四个女巫的短篇故事。",
+  "vndb_url": "https://vndb.org/v63765"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67244",
+  "type": "visual_novel",
+  "name": "Mary, and Xmas...",
+  "original_name": "Mary, and Xmas... -メアリー・アンド・クリスマス-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "On Christmas Eve, a woman reflects on her beloved late grandmother and Hans Christian Andersen's \"The Little Match Girl.\" Drawn by the sound of a record, she sees something appear before her.",
+  "source_sha256": "21474ed2f0cb49a3a056030e6d503f93b2c8ce005eeb1d3ced137f40c540d12b",
+  "translation": "平安夜，一位女士回顾了她深爱的已故祖母和安徒生的《卖火柴的小女孩》。被唱片的声音吸引，她看到有东西出现在她面前。",
+  "vndb_url": "https://vndb.org/v67244"
+}

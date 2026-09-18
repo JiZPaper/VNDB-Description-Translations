@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26291",
+  "type": "visual_novel",
+  "name": "Crow & Foxy",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Perch’d on a lofty oak, Sir Raven held a lunch of cheese... You should know how the story ends.\n\n[Taken from https://pierrecorbinais.com/2017/05/03/crow-and-foxy/]",
+  "source_sha256": "9e718b38dab2833f923723c085a994f58bba77ef207a5c6acb5356fecc519299",
+  "translation": "雷文爵士栖息在一棵高大的橡树上，享用了一顿奶酪午餐……你应该知道故事的结局。\n\n[摘自https://pierrecorbinais.com/2017/05/03/crow-and-foxy/]",
+  "vndb_url": "https://vndb.org/v26291"
+}

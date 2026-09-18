@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26652",
+  "type": "visual_novel",
+  "name": "Werewolf Game",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Mini game based on the theme of werewolf game featuring Stardust Blue Topia and [url=/v21721]Hoshikuzu Heliograph[/url].",
+  "source_sha256": "933b2e7e2ba523b1052f69837e2d377c9d2a22c9e2ee222249f5956c6792d19e",
+  "translation": "以狼人游戏为主题的迷你游戏，以星尘蓝托皮亚和[url=/v21721]Hoshikuzu Heliograph[/url]为特色。",
+  "vndb_url": "https://vndb.org/v26652"
+}

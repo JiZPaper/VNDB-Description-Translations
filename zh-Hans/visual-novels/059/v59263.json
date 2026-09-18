@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59263",
+  "type": "visual_novel",
+  "name": "Clover Revenge",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Can you survive in a land ruled by a ruthless kingdom?\nAre you strong enough to be king?\nCan you reclaim your rightful throne?\nBecome the hero of a story that will unfold according to your choices!​",
+  "source_sha256": "b41e2736f0ea48458ccedab2f45a2bd5836164525980ca4e26a4855dc6c442da",
+  "translation": "你能在残酷王国统治的土地上生存吗？\n你有足够的实力成为国王吗？\n你能夺回你应有的王位吗？\n成为故事的英雄，故事将根据你的选择展开！​",
+  "vndb_url": "https://vndb.org/v59263"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26642",
+  "type": "visual_novel",
+  "name": "Eidolon",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In Eidolon you play a new student at Eidolon University. While it starts as a traditional dating sim, things quickly become strange, with unusual events happening at the school that cause the other students to question the nature of their reality. By the end of the game, you and the students will have to make critical decisions involving their fate - and yours.",
+  "source_sha256": "cb5b237c0d263c68ddf4632f110ee98c2c7d97470c9af689eca1c17c7ae96cba",
+  "translation": "在Eidolon中，你扮演Eidolon大学的一名新生。虽然它一开始是一款传统的约会模拟游戏，但事情很快就变得奇怪，学校里发生了不寻常的事件，导致其他学生质疑他们现实的本质。游戏结束时，你和学生们将不得不做出涉及他们和你的命运的关键决定。",
+  "vndb_url": "https://vndb.org/v26642"
+}

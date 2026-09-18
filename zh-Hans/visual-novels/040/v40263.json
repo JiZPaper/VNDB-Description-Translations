@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40263",
+  "type": "visual_novel",
+  "name": "Silat Warrior",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A story about warriors travelling to save a girl who has been lost in the forest.\n\n[From [url=https://jayzen.itch.io/silat-warrior]Itch.io[/url]]",
+  "source_sha256": "68468da303a80cfc0aa13c3aaa954ef41aed512f2ce8d607701b59ddca2aaeb5",
+  "translation": "讲述了战士们前往拯救在森林中迷路的女孩的故事。\n\n[来自[url=https://jayzen.itch.io/silat-warrior]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v40263"
+}

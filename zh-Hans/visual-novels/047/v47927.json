@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47927",
+  "type": "visual_novel",
+  "name": "EGO DISTURBANCE",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A skateboarder, a guitarist and an athlete use their experiences in handling emotions to help guide their mutual friend out of the illusion of perfection.",
+  "source_sha256": "e7ad55b54d981b80d3e618f0293347568196d29d25e2749588733044942a8e3a",
+  "translation": "一名滑板手、一名吉他手和一名运动员利用他们处理情绪的经验来帮助他们共同的朋友摆脱完美的幻想。",
+  "vndb_url": "https://vndb.org/v47927"
+}

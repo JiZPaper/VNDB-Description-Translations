@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29023",
+  "type": "visual_novel",
+  "name": "The Call Centre",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The Call Centre is a Visual Novel game in which you take the role of a call centre agent on their first day of the job ready to take calls from customers having technical issues. You’ll help identify and solve their problems. Or maybe not.\n\n[From [url=https://store.steampowered.com/app/1384440/]Steam[/url]]",
+  "source_sha256": "c0374bb32c99fb1383c76a9014bf7ecf26e0c40c061c02ab18b5b228e499253c",
+  "translation": "《呼叫中心》是一款视觉小说游戏，你在其中扮演呼叫中心代理的角色，在工作的第一天准备接听有技术问题的客户的电话。你将帮助识别并解决他们的问题。或者也许不是。\n\n[来自[url=https://store.steampowered.com/app/1384440/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v29023"
+}

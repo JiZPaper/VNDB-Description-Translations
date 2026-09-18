@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54481",
+  "type": "visual_novel",
+  "name": "Quiz Saitama Rengou no Yabou",
+  "original_name": "クイズ埼玉連合の野望",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Quiz game created through a collaboration between Witch, Circus, and NekoNeko Soft.",
+  "source_sha256": "b83d1bf318ae7822180d3174460bada30847e9ecccfb165d7152db42a1fcb13b",
+  "translation": "Witch、Circus和NekoNeko Soft合作开发的问答游戏。",
+  "vndb_url": "https://vndb.org/v54481"
+}

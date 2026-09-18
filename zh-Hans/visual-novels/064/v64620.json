@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64620",
+  "type": "visual_novel",
+  "name": "Shota Shota",
+  "original_name": "ショッタショタ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Two boys who were just best friends gradually develop a relationship that goes beyond friendship, influenced by the knowledge imparted to them by the girl next door.",
+  "source_sha256": "ee843f7efcd3e60443b2a2dcbb787289f06ef5fe2fc4afc6aee119f93519c409",
+  "translation": "两个原本只是最好朋友的男孩受到邻家女孩传授的知识的影响，逐渐发展出超越友谊的关系。",
+  "vndb_url": "https://vndb.org/v64620"
+}

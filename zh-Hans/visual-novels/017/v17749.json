@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17749",
+  "type": "visual_novel",
+  "name": "The Censor",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The Censor is a dystopian visual novel. After years spent assimilating into the System, CJ489775 is visited by a ghost from her past and must decide whether to support the System or those who live Outside.",
+  "source_sha256": "036197d552cae2a6611030f5e86ee75a38ecbe39a7f3cae83873801237132963",
+  "translation": "《审查员》是一部反乌托邦视觉小说。经过多年融入系统后，CJ489775被来自她过去的鬼魂拜访，她必须决定是支持系统还是那些生活在系统之外的人。",
+  "vndb_url": "https://vndb.org/v17749"
+}

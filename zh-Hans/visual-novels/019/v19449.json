@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19449",
+  "type": "visual_novel",
+  "name": "Talk To Me",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as Ordell Harrison, a guy in his twenties who is just trying to get through the day. After his mother dies, Ordell moves to a different town to start over, but things don’t seem to be getting any better for him.\n\n[From [url=https://boop-studios.itch.io/talk-to-me]itch.io[/url]]",
+  "source_sha256": "000a48a195c3dfd7aa00a6e09fb57a6ca97f0b767fd086c1845e6d7c78ffcc2f",
+  "translation": "你扮演奥德尔·哈里森，一个二十多岁的人，只是想度过这一天。母亲去世后，奥德尔搬到另一个城镇重新开始，但他的情况似乎并没有好转。\n\n[来自[url=https://boop-studios.itch.io/talk-to-me]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v19449"
+}

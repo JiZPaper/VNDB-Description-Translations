@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55209",
+  "type": "visual_novel",
+  "name": "Poslednij geroj: Luchshaja krazha.",
+  "original_name": "Последний герой: Лучшая кража.",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An alternative story that tells about the fate of Maxim, who manages to get on the trail of a missing friend, and follow him into a strange world that we all already know about. But even once in the right place, the main character will have to try to meet Andrey face to face.",
+  "source_sha256": "8141e908f366bc71cb577e4a021698214f18ea97f345d48e3c901b76160e82e7",
+  "translation": "另一个故事讲述了马克西姆的命运，他设法追踪一位失踪的朋友，并跟随他进入一个我们都已经知道的陌生世界。但即使在正确的地方，主角也必须尝试与安德烈面对面。",
+  "vndb_url": "https://vndb.org/v55209"
+}

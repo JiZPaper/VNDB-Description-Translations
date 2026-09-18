@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15668",
+  "type": "visual_novel",
+  "name": "Kyuuketsuki Quiz de Nogarero Ryouri!",
+  "original_name": "きゅうけつクイズで逃れろ料理！",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A quiz game on [url=/p4516]Tabun Osoraku Kitto[/url]'s games. It stars Ai-chan from [url=/v15628]Kyuuketsuki no Yomichi[/url] and Sayuri from the [url=/v15627]Ryouri[/url] series.",
+  "source_sha256": "f632bb3b562806db12afa6a7097ef3b6314446f39201b43b702117773684f603",
+  "translation": "关于 [url=/p4516]Tabun Osoraku Kitto[/url] 游戏的问答游戏。它由来自[url=/v15628]Kyuuketsuki no Yomichi[/url]的Ai-chan和来自[url=/v15627]Ryouri[/url]系列的小百合主演。",
+  "vndb_url": "https://vndb.org/v15668"
+}

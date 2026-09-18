@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23457",
+  "type": "visual_novel",
+  "name": "M ~Kimi o Tsutaete~",
+  "original_name": "M ～君を伝えて～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "M is a love/dating simulation game. The game immediately starts by asking you a series of questions to determine your personality, after which the heroine is determined based on your personality. Similar to other simulation games, player has a set of skills that may be upgraded by performing various tasks. Things like sleeping, working, shopping and such. The game story takes time during the 85 days where you exchange the diary with others, reaching good ending if you connect with someone by the time the time runs out.\n\n[from [url=http://www.mobygames.com/game/playstation/m-kimi-wo-tsutaete]MobyGames[/url]]",
+  "source_sha256": "251168c8dff316ee5b04b3caeb9d3e55737d767777902a1471c65fa1a4c8d99b",
+  "translation": "M是一款恋爱/约会模拟游戏。游戏一开始会问你一系列问题来确定你的性格，之后根据你的性格确定女主角。与其他模拟游戏类似，玩家拥有一套可以通过执行各种任务来升级的技能。比如睡觉、工作、购物等等。游戏故事需要85天的时间，你与他人交换日记，在时间耗尽时与某人取得联系，即可达成好结局。\n\n[来自[url=http://www.mobygames.com/game/playstation/m-kimi-wo-tsutaete]MobyGames[/url]]",
+  "vndb_url": "https://vndb.org/v23457"
+}

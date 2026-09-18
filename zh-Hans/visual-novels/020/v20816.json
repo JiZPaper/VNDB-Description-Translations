@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20816",
+  "type": "visual_novel",
+  "name": "Echoes of Kai Anders",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Kai Anders is missing. You need to find her. Use your empathy enhancement chip to discover clues by reading the brain waves of the last person to be seen with her. Will you be able to figure out the puzzle in this Neon Noir Visual Novel?\n\n[From [url=http://globalgamejam.org/2017/games/echoes-kai-anders]Global Game Jam[/url]]\n\nCreated for Global Game Jam 2017.",
+  "source_sha256": "64e963ace47113b997eb6c3a8dfe1a5590618acd5d18518abd402b96966d24b5",
+  "translation": "凯·安德斯失踪了。你需要找到她。使用同理心增强芯片，通过读取最后一个与她在一起的人的脑电波来发现线索。你能解开这部霓虹黑色视觉小说中的谜题吗？\n\n[来自[url=http://globalgamejam.org/2017/games/echoes-kai-anders]Global Game Jam[/url]]\n\n为2017年Global Game Jam创建。",
+  "vndb_url": "https://vndb.org/v20816"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62781",
+  "type": "visual_novel",
+  "name": "Terror by Night",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hurry Watson! Get this movie-based game where YOU control the outcome! Type H for a HUNCH or T for THOUGHT (you can type lower case H or T). Sometimes you should go with your hunch, other times with your thought.\n\n[From Itch.io]",
+  "source_sha256": "034e01dd50f95cdfcd8878d9781c6321fbd226ba33481a446abd1a5d331c5285",
+  "translation": "华生快点！获取这款基于电影的游戏，你可以控制结果！键入H表示HUNCH，键入T表示THOUGHT（你可以键入小写H或T）。有时你应该跟随你的直觉，有时你应该跟随你的想法。\n\n[来自Itch.io]",
+  "vndb_url": "https://vndb.org/v62781"
+}

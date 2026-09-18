@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40501",
+  "type": "visual_novel",
+  "name": "Zajchik: Drugaja Istorija",
+  "original_name": "Зайчик: Другая История",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Tiny Bunny: Other Story tells a tale of [url=/c92053]Anton[/url]'s alternative choices and his new relationships with friends. It reveals the characters from a different perspective, introduces an element of mystery, and invites you to immerse yourself in exploring our storylines.\n\nAnton must decide whether to play a part in the investigation or, conversely, try to avoid the dangers lurking for him, both in the forest and among people.\n\n[Translated from [url=https://vk.com/tinybunny_otherstory?w=club210479272]VK[/url]]",
+  "source_sha256": "a2f23b3176b91ab3ccbfb4629930cddc83a5c5704169a7ea76fe261a22fd24c3",
+  "translation": "小兔子：其他故事讲述了 [url=/c92053]Anton[/url] 的另类选择以及他与朋友的新关系的故事。它从不同的角度揭示角色，引入神秘元素，并邀请你沉浸在探索我们的故事情节中。\n\n安东必须决定是否参与调查，或者相反，尽量避免潜伏在森林和人群中的危险。\n\n[译自[url=https://vk.com/tinybunny_otherstory?w=club210479272]VK[/url]]",
+  "vndb_url": "https://vndb.org/v40501"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11293",
+  "type": "visual_novel",
+  "name": "The adventure of Bacon",
+  "original_name": "La aventura de Tocino",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The cheerful adventures of a little piggy that loves to explore and his first experience in the world outside the farm.\n\nA children book with simple drawings and easy lecture that all ages will enjoy.",
+  "source_sha256": "ebeb5fab60a233359c7285e4748e1b3214c096efa2aaafe765d2d58f8b39c8f0",
+  "translation": "一只爱探索的小猪的欢乐冒险，以及他第一次体验农场外的世界。\n\n一本儿童读物，配有简单的图画和简单的讲座，所有年龄段的人都会喜欢。",
+  "vndb_url": "https://vndb.org/v11293"
+}

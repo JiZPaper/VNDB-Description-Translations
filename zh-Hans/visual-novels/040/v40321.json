@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40321",
+  "type": "visual_novel",
+  "name": "The Last Day",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The female protagonist says goodbye to two male friends who live together on different floors of the same apartment before moving to a new place.\n\n[From [url=https://citystream-studios.itch.io/the-last-day]Itch.io[/url]]",
+  "source_sha256": "82e29ce7daf7ca38be56849d314ed57973f9fffc6944346733e2f8ab61d548d4",
+  "translation": "女主角告别了住在同一公寓不同楼层的两个男性朋友，搬到了新的地方。\n\n[来自[url=https://citystream-studios.itch.io/the-last-day]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v40321"
+}

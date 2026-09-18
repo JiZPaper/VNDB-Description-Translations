@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57013",
+  "type": "visual_novel",
+  "name": "CATALYST [ACT 3]",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A story about two brothers on the opposite sides of a planet wide conflict.\n\nThis is the conclusion to the tale which can be found on [url=https://www.questden.org/wiki/Catalyst]Questden[/url].\n\n[From Itch.io]",
+  "source_sha256": "998b20737e4cb952b4b413c3872a28b91f15e365ab50793152660cc25b9c2391",
+  "translation": "一个关于两兄弟在一场全球性冲突中处于对立面的故事。\n\n这是故事的结论，可以在 [url=https://www.questden.org/wiki/Catalyst]Questden[/url] 上找到。\n\n[来自Itch.io]",
+  "vndb_url": "https://vndb.org/v57013"
+}

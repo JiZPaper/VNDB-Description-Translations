@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57162",
+  "type": "visual_novel",
+  "name": "Mnogogrannik",
+  "original_name": "Многогранник",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Made for Chapel Jam 2.",
+  "source_sha256": "a0e5465ae15a31e183d41261b46affbb744d443c04cad9af278243c24b1e98ef",
+  "translation": "专为Chapel Jam 2制作。",
+  "vndb_url": "https://vndb.org/v57162"
+}

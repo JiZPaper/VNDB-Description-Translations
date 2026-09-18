@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50949",
+  "type": "visual_novel",
+  "name": "Death Detective",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Death Detective is a horror investigative visual novel set in rural coastal town in New England about a detective being contracted by [redacted] herself to track down a wizard before something irreparable happens.\n\n[Edited from [url=https://aster-zerone.itch.io/death-detective]itch.io[/url]]",
+  "source_sha256": "b182408883759ffa11650ea2afab5a0a166bd0be8a9115f7535ab63ec7340a3b",
+  "translation": "《死亡侦探》是一部以新英格兰沿海乡村小镇为背景的恐怖调查视觉小说，讲述了一名侦探与[redacted]签约，在无法挽回的事情发生之前追查一名巫师的故事。\n\n[编辑自[url=https://aster-zerone.itch.io/death-detective]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v50949"
+}

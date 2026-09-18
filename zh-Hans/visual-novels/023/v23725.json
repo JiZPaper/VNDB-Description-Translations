@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23725",
+  "type": "visual_novel",
+  "name": "Memories Off -Innocent Fille- for Dearest",
+  "original_name": "メモリーズオフ -Innocent Fille- for Dearest",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Features happy endings for all the characters in Innocent Fille while also maintaning the bittersweet atmosphere of the MemOff series. Also includes cameos by several characters from previous Memories Off games.",
+  "source_sha256": "22fe6a5ab1544c4a939ae933f5ef02609c5bc53f5a548fa98cc35cb29eaa99b8",
+  "translation": "《Innocent Fille》中的所有角色都有幸福的结局，同时也保持了《MemOff》系列苦乐参半的氛围。还包括之前《Memories Off》游戏中的几个角色的客串。",
+  "vndb_url": "https://vndb.org/v23725"
+}

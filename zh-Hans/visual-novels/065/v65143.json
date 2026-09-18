@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65143",
+  "type": "visual_novel",
+  "name": "The Echo Line",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The Echo Line is a mobile service number that be used to check the audio quality for phone calls. No one will answer you, besides the echo of your own voice. Akira uses this echo as proof of his and the world's existence. These calls, alongside video recordings of day-to-day life, make up his \"anchors\", helping him stay grounded. That is until someone else answers from the other side of the Echo Line.",
+  "source_sha256": "46b61768c6a8a31ee1727b3c1b4f2b719ab561de6073507c644ac2ccf469d48f",
+  "translation": "Echo Line是一个移动服务号码，用于检查电话的音频质量。除了你自己声音的回声之外，没有人会回答你。阿基拉用这个回声作为他和世界存在的证据。这些电话以及日常生活的视频记录构成了他的“锚”，帮助他脚踏实地。直到有人从回声线的另一边接听。",
+  "vndb_url": "https://vndb.org/v65143"
+}

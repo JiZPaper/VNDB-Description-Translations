@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61918",
+  "type": "visual_novel",
+  "name": "The Memory Machine",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "What if someone invented a machine that allowed you to view a person's memories?\nOr even better yet, record them and turn them into video games...\n\nIt's a deep dive into a \"complicated relationship\" between an older man and a younger woman that happens to live with him.",
+  "source_sha256": "15d74822e6201d78f1dc652c9871ae4251bae524bac4f4622d306d59e5e78287",
+  "translation": "如果有人发明了一台机器可以让你查看一个人的记忆怎么办？\n或者更好的是，记录它们并将它们变成视频游戏……\n\n这是对一位年长男子和一位恰好与他住在一起的年轻女子之间“复杂关系”的深入探讨。",
+  "vndb_url": "https://vndb.org/v61918"
+}

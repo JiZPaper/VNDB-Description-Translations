@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55202",
+  "type": "visual_novel",
+  "name": "Hunting A Wraith",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short story from the universe of Dactylion, following an assassin sent on a hunt...but it turns out the target is more interesting than anticipated.\n\nYou play as a Hunter, sent to eliminate a certain someone only known to you as the Draemor's Wraith. How the night will develop is dependent on your choices.",
+  "source_sha256": "53f2d74d7fca72f5446b5ca0ffab2b9e1225e171b09998ffb045b5204ba1cc26",
+  "translation": "这是一个来自Dactylion宇宙的短篇故事，讲述一名刺客被派去狩猎……但事实证明，目标比预期的更有趣。\n\n你扮演一名猎人，被派去消灭一个只有你所知的德拉莫幽灵。夜晚将如何发展取决于你的选择。",
+  "vndb_url": "https://vndb.org/v55202"
+}

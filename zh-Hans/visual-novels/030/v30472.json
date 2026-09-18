@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30472",
+  "type": "visual_novel",
+  "name": "Magium",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Barry is an ordinary twenty-year-old guy, with one dream: To become a mage. But to do so he must win a tournament against the most powerful mages in the world.",
+  "source_sha256": "3641798d3b812675b83c5a9f8ec389cccfe3d083b9a0dcd098eb6b974c33f9d7",
+  "translation": "巴里是一个普通的二十岁男孩，有一个梦想：成为一名法师。但要做到这一点，他必须赢得一场对抗世界上最强大法师的锦标赛。",
+  "vndb_url": "https://vndb.org/v30472"
+}

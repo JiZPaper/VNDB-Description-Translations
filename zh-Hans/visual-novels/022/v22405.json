@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22405",
+  "type": "visual_novel",
+  "name": "Sleeping Delivery",
+  "original_name": "슬리핑 딜리버리",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "[We deliver you a Good Night Sleep.]\n\n\n\"A girl who cannot sleep from her nightmares,\nand the 5 Delivery Agents to help her fall asleep.\"\nWho will you choose as your Delivery Agent?",
+  "source_sha256": "7677ec560b8dd3d0a53e7cae402fadddef8068f6cfbb11b315cfe42753fb0927",
+  "translation": "[我们为你提供良好的睡眠。]\n\n\n“一个因噩梦而无法入睡的女孩，\n还有5名送货员来帮助她入睡。”\n你会选择谁作为你的送货代理？",
+  "vndb_url": "https://vndb.org/v22405"
+}

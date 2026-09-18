@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19690",
+  "type": "visual_novel",
+  "name": "Tactical Striker",
+  "original_name": "タクティカル・ストライカー",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An original doujin game release by Atelier-G, in which one plays in an original card battle system to progress the story and get H-scenes with the heroines.",
+  "source_sha256": "d98e588ffd251fda331dfefba5c792322f609bdb9a4fd665bfac310f01130238",
+  "translation": "Atelier-G推出的一款原创同人游戏，在原创卡牌战斗系统中进行游戏，推动故事发展，并与女主角们一起获得H场景。",
+  "vndb_url": "https://vndb.org/v19690"
+}

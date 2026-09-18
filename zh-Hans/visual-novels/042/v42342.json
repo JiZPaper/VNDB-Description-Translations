@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42342",
+  "type": "visual_novel",
+  "name": "Mother Cat",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short VN, help Mother Cat save her adorable kittens from the evils of A.I.!",
+  "source_sha256": "9eab7d5cd0fc5a8819d6cc0665a248510a4b15fb20cefa5f08ba5139d8693cec",
+  "translation": "简短的VN，帮助猫妈妈从人工智能的邪恶手中拯救她可爱的小猫们！",
+  "vndb_url": "https://vndb.org/v42342"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51686",
+  "type": "visual_novel",
+  "name": "Light de Deux",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Ballet is a lot like love: in both, the partners' connection is all about trust. But will this bond be strong enough to keep two burning hearts together?",
+  "source_sha256": "e57d89ab499581455e85a33fcfe4586e749c0316d25bb571945ac6e7ac59a76d",
+  "translation": "芭蕾舞很像爱情：在两者中，舞伴之间的联系都是基于信任。但这种纽带是否足以将两颗燃烧的心粘在一起？",
+  "vndb_url": "https://vndb.org/v51686"
+}

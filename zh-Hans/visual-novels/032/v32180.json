@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32180",
+  "type": "visual_novel",
+  "name": "Problem Sleuth",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An adventure about a hard boiled detective in his office.",
+  "source_sha256": "bf31921292de9f9b154085774fe6d3a8ed216d94134694939bc32428f0a4d9e6",
+  "translation": "讲述一位冷酷侦探在办公室里的冒险经历。",
+  "vndb_url": "https://vndb.org/v32180"
+}

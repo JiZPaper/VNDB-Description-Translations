@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32052",
+  "type": "visual_novel",
+  "name": "(in)finite girl",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You meet a gorgeous girl on the way home from work, she drags you away to get coffee and then reality shatters.\n\n[Edited from the in-game introduction]",
+  "source_sha256": "646c17938d9fe3546b7c99f7f209099475fcd2ee881d5aef766c653b87ca4a56",
+  "translation": "你在下班回家的路上遇到了一个漂亮的女孩，她拉着你去喝咖啡，然后现实就破碎了。\n\n[编辑自游戏内介绍]",
+  "vndb_url": "https://vndb.org/v32052"
+}

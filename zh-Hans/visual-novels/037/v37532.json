@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37532",
+  "type": "visual_novel",
+  "name": "Hanazakari no Kimitachi e ~Boys love you~",
+  "original_name": "花ざかりの君たちへ～Boys love you～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Inspired by the hit manga \"Hana-Kimi: For You in Full Blossom\". The protagonist joins an all-male high school and must hide her true gender, but love will get in the way.",
+  "source_sha256": "440854f069ff9a3ca37a2052db6444347f9b43197d50ad73c8af8bce7b2946db",
+  "translation": "灵感源自热门漫画《花君：为盛开的你》。主角加入了一所全男性高中，必须隐藏自己的真实性别，但爱情会阻碍她。",
+  "vndb_url": "https://vndb.org/v37532"
+}

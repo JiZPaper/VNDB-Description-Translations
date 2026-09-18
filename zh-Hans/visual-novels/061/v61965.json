@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61965",
+  "type": "visual_novel",
+  "name": "Luxuria Server",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The Hidden Server. A rumor that has been plausibly circulating within ALO.\nIt is said that hidden rare events exist there.\nThis is the story of the players who have encountered the mysterious server \"Luxuria.\"",
+  "source_sha256": "f4dd79362ac56fceb3cd65fe06f082e5cc405026983b286399223f1f3a2ff3fb",
+  "translation": "隐藏服务器。ALO内部流传的谣言。\n据说那里隐藏着罕见的事件。\n这是遇到神秘服务器“Luxuria”的玩家的故事。",
+  "vndb_url": "https://vndb.org/v61965"
+}

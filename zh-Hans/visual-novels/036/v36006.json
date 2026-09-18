@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36006",
+  "type": "visual_novel",
+  "name": "Centenarian",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The story is about a boy who strikes up a friendship with a mermaid, who, through the efforts of the player, is able to fulfill her single desire (or not to fulfill it at all).",
+  "source_sha256": "9f96f0ab136ac0d0889b08e24d795df85f533ec82eee2c9e15c7f69048bd72a1",
+  "translation": "故事讲述了一个男孩与一条美人鱼建立了友谊，通过玩家的努力，美人鱼能够实现她的单一愿望（或者根本无法实现）的故事。",
+  "vndb_url": "https://vndb.org/v36006"
+}

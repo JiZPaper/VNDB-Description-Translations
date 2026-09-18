@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29979",
+  "type": "visual_novel",
+  "name": "Kissed by the Stars",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Play a chapter of the life of the magical Monster Doctor. Will this new encounter have him head over heels in love with this mysterious new being? Or will he continue his journey on his own?",
+  "source_sha256": "1e11f59120768178ba12e1acda39516f62058d4dff1b4c0e4521a21ac61b88f9",
+  "translation": "扮演神奇怪物医生的人生篇章。这次新的邂逅会让他爱上这个神秘的新存在吗？还是他会独自继续他的旅程？",
+  "vndb_url": "https://vndb.org/v29979"
+}

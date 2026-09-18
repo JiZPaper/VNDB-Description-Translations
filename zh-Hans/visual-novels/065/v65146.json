@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65146",
+  "type": "visual_novel",
+  "name": "Inversum",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Deep in the forgotten industrial zone stands an abandoned building with a single door. Rumor has it that if you leave your phone inside and count to ten, you will find a way into the city’s Reverse Side…\n\nMia’s story is about a choice she cannot escape — to uncover the truth, or to stay who she is.",
+  "source_sha256": "f14af9208708a5521d3177d6a12002d26611aa39ce6dc9e446a6f8045dc69355",
+  "translation": "在被遗忘的工业区深处，矗立着一座只有一扇门的废弃建筑。有传言说，如果你把手机留在里面并数到十，你就会找到进入城市反面的方法……\n\n米娅的故事讲述了她无法逃避的选择——揭露真相，还是保持自己的身份。",
+  "vndb_url": "https://vndb.org/v65146"
+}

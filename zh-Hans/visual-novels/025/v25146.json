@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25146",
+  "type": "visual_novel",
+  "name": "The Kanshikikan",
+  "original_name": "THE 鑑識官",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In the near future, Japanese justice has been reformed and investigations are managed by both the government and private police forces. Step into the shoes of newbie inspector Enami Shikiko, who will have to solve cases with the help of her partners.",
+  "source_sha256": "8a826b2267831ead7842abf8543dfc7fe31712985d96458c6ea33cb21c44c565",
+  "translation": "在不久的将来，日本司法进行了改革，调查由政府和私人警察部队共同管理。扮演新手督察江波志纪子，她必须在伙伴的帮助下侦破案件。",
+  "vndb_url": "https://vndb.org/v25146"
+}

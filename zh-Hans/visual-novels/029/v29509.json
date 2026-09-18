@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29509",
+  "type": "visual_novel",
+  "name": "RE",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist, the apprentice of an alchemist, dreams of becoming a great alchemist herself too, but her master never taught her anything. \n\nOne day, the protagonist hears that the town has a drought problem this year.",
+  "source_sha256": "f681f7725984f66aa77b9e04a70d5985427e9028f5abdab852c0876e2d50ed8e",
+  "translation": "主角是炼金术士的学徒，梦想自己也能成为一名伟大的炼金术士，但她的师父却从未教过她任何东西。\n\n有一天，主角听说小镇今年遭遇干旱。",
+  "vndb_url": "https://vndb.org/v29509"
+}

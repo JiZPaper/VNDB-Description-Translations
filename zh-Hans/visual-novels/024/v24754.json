@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24754",
+  "type": "visual_novel",
+  "name": "A Day with Spongebob",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A Fangame based on an American animated television series Created by Stephen Hillenburg.\nIt was Meant to be Another Joke, so, don't even take it seriously.",
+  "source_sha256": "b2ca34d983df1d65017c2cd981fdb4ecef8946ea37dd18ffab3a3acc05091f14",
+  "translation": "一款根据斯蒂芬·海伦伯格 (Stephen Hillenburg) 创作的美国动画电视连续剧改编的同人游戏。\n这本来是另一个笑话，所以，甚至不要认真对待它。",
+  "vndb_url": "https://vndb.org/v24754"
+}

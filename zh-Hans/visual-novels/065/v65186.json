@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65186",
+  "type": "visual_novel",
+  "name": "This Little Life",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This Little Life is a small kinetic visual novel made by Team Awkward Smile telling the story of a cold stormy winter night, where an on-duty Grimm reaper has her panties stolen by a mischievous cat.",
+  "source_sha256": "a2840adbcd43e53a54ec2d21d6c265e010f172a6770fc3b89844309dbb58f447",
+  "translation": "《这个小生命》是一部由Awkward Smile团队制作的小型动态视觉小说，讲述了一个寒冷的暴风雨冬夜的故事，值班的格林收割者的内裤被一只顽皮的猫偷走了。",
+  "vndb_url": "https://vndb.org/v65186"
+}

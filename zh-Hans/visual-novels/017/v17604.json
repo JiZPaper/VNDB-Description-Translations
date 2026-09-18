@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17604",
+  "type": "visual_novel",
+  "name": "Canis Carus",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as a 19-year-old Finnish high school girl who is about to take graduation exams. Canis Carus stems from the scientific name of grey wolf Canis Lupus. Carus means 'dear, beloved, expensive.' Since in Latin 'lupus' means wolf and 'canis' means dog, the name is actually 'Dear Dog.'\n\n[From [url=http://rpgmaker.net/games/7500/]RPGMaker.net[/url]]",
+  "source_sha256": "217b5969094349a6ccddaaf668cfc43d5c668f88a1a94163a789cf4670d8d027",
+  "translation": "你扮演一名19岁的芬兰高中女生，即将参加毕业考试。Canis Carus源自灰狼Canis Lupus的学名。Carus的意思是“亲爱的、心爱的、昂贵的”。由于在拉丁语中，“lupus”的意思是狼，“canis”的意思是狗，所以这个名字实际上是“亲爱的狗”。\n\n[来自[url=http://rpgmaker.net/games/7500/]RPGMaker.net[/url]]",
+  "vndb_url": "https://vndb.org/v17604"
+}

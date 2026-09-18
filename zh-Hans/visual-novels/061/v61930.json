@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61930",
+  "type": "visual_novel",
+  "name": "Aiseki",
+  "original_name": "逢席",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short novel about a family restaurant where sharing tables is mandatory.\n[from NovelGame description]",
+  "source_sha256": "5ede0d86bd855d0d7563e0f269f1151e164786738e0d92b1326b7fd0a51cca62",
+  "translation": "一部关于一家家庭餐馆的短篇小说，该餐馆必须共用餐桌。\n[摘自小说游戏描述]",
+  "vndb_url": "https://vndb.org/v61930"
+}

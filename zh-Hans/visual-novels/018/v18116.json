@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18116",
+  "type": "visual_novel",
+  "name": "Lull",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Lull is a macro-narrative visual novel set in a town where sound has ceased to exist. Beginning as the town is settled in 1865, players' choices will affect the culture and politics of the town throughout the generations as they adapt to a silent world. \n\n[From [url=http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=45841]Ludum Dare[/url]]\n\nCreated for [url=http://ludumdare.com/compo/2014/12/03/welcome-to-ludum-dare-31/]Ludum Dare 31[/url] (Theme: Entire Game on One Screen)",
+  "source_sha256": "bbd2a804ce52b284db73ff7bb7f51c106c2d850fde3036e3e269c25acddb9b76",
+  "translation": "《平静》是一部宏观叙事视觉小说，故事发生在一个没有声音的小镇。从1865年小镇定居开始，玩家的选择将影响小镇几代人适应沉默世界的文化和政治。\n\n[来自[url=http://ludumdare.com/compo/ludum-dare-31/?action=preview&uid=45841]Ludum Dare[/url]]\n\n为 [url=http://ludumdare.com/compo/2014/12/03/welcome-to-ludum-dare-31/]Ludum Dare 31[/url] 创建（主题：一屏上的整个游戏）",
+  "vndb_url": "https://vndb.org/v18116"
+}

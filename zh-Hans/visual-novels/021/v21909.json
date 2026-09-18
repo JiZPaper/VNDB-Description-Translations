@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21909",
+  "type": "visual_novel",
+  "name": "Cuento ~Wasureenu Hibi ni~",
+  "original_name": "クエント ～忘れ得ぬ日々に～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A collection of three short stories.\n\n1. Rainy Blue: A sad story about a Japanese expatriate with terminal illness, his adopted western daughter, and his original families in Japan, told from each other's perspective.\n\n2: Secret School Diary: A guy lays down a bet against his female teacher to pick up 4 girls in one day, for the reward of a date with her.\n\n3: Lament Song of Autumn and Winter: The protagonist drops school after the failure to rescue a kitten. Shortly afterwards a little girl pops up at his door and starts to live with him...",
+  "source_sha256": "3f16bca122f515b190a958f4083f462a1704ed2373b0348a30c67cf0b12cef31",
+  "translation": "三篇短篇小说集。\n\n1.《雨蓝》：一个身患绝症的日本侨民、他收养的西方女儿以及他在日本的原生家庭，从彼此的角度讲述的悲伤故事。\n\n2：秘密学校日记：一名男子与他的女老师打赌，一日之内泡上四个女孩，以换取与她约会的奖励。\n\n3：秋冬季悲歌：主角因救小猫失败而辍学。不久之后，一个小女孩突然出现在他家门口，并开始和他住在一起……",
+  "vndb_url": "https://vndb.org/v21909"
+}

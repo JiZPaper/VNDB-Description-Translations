@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42737",
+  "type": "visual_novel",
+  "name": "Spleteni nytkamy",
+  "original_name": "Сплетені нитками",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A silly and cozy story about whimsical girls who still struggle to navigate people relationships.",
+  "source_sha256": "2befc0bbfac8b1f3a7535d6af9344308464657e3f0fbb5216c3818c43524f443",
+  "translation": "这是一个关于异想天开的女孩仍在努力处理人际关系的愚蠢而温馨的故事。",
+  "vndb_url": "https://vndb.org/v42737"
+}

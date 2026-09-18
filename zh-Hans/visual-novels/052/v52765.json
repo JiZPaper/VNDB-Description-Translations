@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52765",
+  "type": "visual_novel",
+  "name": "Mother's Love",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "After getting separated from her mother, a small bear cub named Faith comes across a strange manor in the forest. There, she meets a woman named Gwen who takes her in, but then strange things begin to happen during her stay.\n\nCan Faith reunite with her mother while safely navigating the strange manor?",
+  "source_sha256": "874cc547a6d6f969143d1cf258cd9c9003da34d6cc8c5d28922fa7ba8a21b534",
+  "translation": "一只名叫菲丝的小熊与母亲走散后，在森林里遇到了一座陌生的庄园。在那里，她遇到了一位名叫格温的女士，格温收留了她，但在她逗留期间，奇怪的事情开始发生。\n\n菲丝能否安全地穿越陌生的庄园并与母亲团聚？",
+  "vndb_url": "https://vndb.org/v52765"
+}

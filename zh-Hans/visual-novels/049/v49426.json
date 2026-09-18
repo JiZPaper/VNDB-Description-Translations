@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49426",
+  "type": "visual_novel",
+  "name": "Wonder High School Simulator",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as Tsukasa Tenma, a high school junior. The game is set in a stereotypical american high school. All the Project Sekai characters attend this school, so in later parts you might encounter characters who logically shouldn't be in the same school as Tsukasa.\n\nPart 1 of 3",
+  "source_sha256": "25f6df56fe542f96623a52a367d37a0d6f81752855cb7da2e844a5c538475ac7",
+  "translation": "你扮演的是高中生天马司。游戏以一所典型的美国高中为背景。《世界计划》中的所有角色都在这所学校就读，所以在后面的部分中你可能会遇到逻辑上不应该与司在同一所学校的角色。\n\n第1部分（共3部分）",
+  "vndb_url": "https://vndb.org/v49426"
+}

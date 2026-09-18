@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13103",
+  "type": "visual_novel",
+  "name": "Roy-san Jiken Desu!",
+  "original_name": "ロイさん事件です！",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Colonel Roy Mustang investigates a series of mysterious crimes. He can either look into them alone or ask Hawkeye, Havoc, Maes, or Ed for help.",
+  "source_sha256": "22435dac4bddbe3287f6c26a1acdd8620cc10b42d44cce1ccec5d7160f8dac12",
+  "translation": "罗伊·马斯坦上校调查一系列神秘犯罪。他可以单独调查它们，也可以向鹰眼、浩劫、梅斯或艾德寻求帮助。",
+  "vndb_url": "https://vndb.org/v13103"
+}

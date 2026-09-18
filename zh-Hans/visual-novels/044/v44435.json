@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44435",
+  "type": "visual_novel",
+  "name": "The Circular Ruins",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Based on the short story with the same name \"The Circular Ruins\" of Jorge Luis Borges - a masterpiece of surrealism or magic surrealism.",
+  "source_sha256": "143fc1cb7980faac0a04174e36e23b9c76fafc61b167df1aaab8efed50a36890",
+  "translation": "改编自豪尔赫·路易斯·博尔赫斯的同名短篇小说《圆形废墟》——超现实主义或魔幻超现实主义的杰作。",
+  "vndb_url": "https://vndb.org/v44435"
+}

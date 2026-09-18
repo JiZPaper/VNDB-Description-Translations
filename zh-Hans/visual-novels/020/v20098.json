@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20098",
+  "type": "visual_novel",
+  "name": "Murder On The Island",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Murder on the Island is a Visual Novel story, which takes place on a beautiful tropical island, where one of the 14 vacationers found murdered.\nPaul Parker, the owner of the island has only one week to find out what happened on the first night, before the killer can get away with the scheduled boat service.\nCan he solve the mystery? Find out yourself!",
+  "source_sha256": "580bbd8ce4294dd14e95adac5228282b8723ebc4367ab70973672bda100d7562",
+  "translation": "《岛上谋杀案》是一部以美丽热带岛屿为舞台的视觉小说。十四名度假客中，有一人被发现遭到谋杀。\n\n岛主保罗·帕克只有一周时间查明第一晚究竟发生了什么，否则凶手就会乘预定的船离开。\n\n他能解开谜团吗？答案由你亲自揭晓！",
+  "vndb_url": "https://vndb.org/v20098"
+}

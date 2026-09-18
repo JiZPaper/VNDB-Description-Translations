@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3335",
+  "type": "visual_novel",
+  "name": "Yami no Koe II",
+  "original_name": "闇の声II",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Sayoko sends K off the island to a secluded private academy, where she makes an ally of the principal and begins to influence the students and faculty, slowly degenerating the entire school. However, one of the students is a miko who resists K's influence.",
+  "source_sha256": "5e34c98e9f03485e7448be20ce0f99c990416b038ad938d7aac91c4d36ae8f29",
+  "translation": "小夜子将K送出岛，去一所僻静的私立学院，在那里她与校长成为盟友，并开始影响学生和教师，慢慢地败坏了整个学校。然而，其中一名学生是反抗K影响的巫女。",
+  "vndb_url": "https://vndb.org/v3335"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34044",
+  "type": "visual_novel",
+  "name": "Kimi no Nisemono ni Koi o Suru",
+  "original_name": "キミのニセモノに恋をする",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In the midst of the snowy season, a young salaryman meets a doppelganger of his ex girlfriend who broke his heart by disappearing without a word a year earlier.",
+  "source_sha256": "43ecb51e7a90a64761c4e76f1a491a05fe3ec7fdf586eb07103b7951d71def2d",
+  "translation": "大雪纷飞的季节里，一名年轻的工薪族遇到了他前女友的分身，她一年前一声不吭地失踪，让他心碎。",
+  "vndb_url": "https://vndb.org/v34044"
+}

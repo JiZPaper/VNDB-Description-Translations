@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34370",
+  "type": "visual_novel",
+  "name": "Raptus",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A young boy has been locked for several years in a mental health facility because of his illness and the crimes he committed as a kid, finally free to return to his past life he can't wait to fulfill his desires and let out all the anger and hate he built up in these years.",
+  "source_sha256": "b1d179779f36b08c43782329dd93ab99c7edeca4b2886ca1362050a6144f2c2b",
+  "translation": "一个小男孩因为疾病和小时候犯下的罪行而被关在精神病院里几年，终于可以自由地回到过去的生活，他迫不及待地想要实现自己的愿望，发泄这些年来积累的所有愤怒和仇恨。",
+  "vndb_url": "https://vndb.org/v34370"
+}

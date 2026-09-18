@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30500",
+  "type": "visual_novel",
+  "name": "Kikai na Kanojo",
+  "original_name": "キカイなカノジョ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "I've got a girlfriend. She's smart, sporty, always on top of her chores and exactly my type.\nShe's perfect, save for one thing.\n\n[Translated from [url=https://www.freem.ne.jp/win/game/21631]Freem![/url]]",
+  "source_sha256": "d408ea1a2c766d9605400bd710fe21ba8f168c5d04993866001a8366004cdb55",
+  "translation": "我有一个女朋友了。她很聪明，很有运动精神，总是能出色地完成家务，这正是我喜欢的类型。\n她很完美，除了一件事。\n\n[译自[url=https://www.freem.ne.jp/win/game/21631]Freem![/url]]",
+  "vndb_url": "https://vndb.org/v30500"
+}

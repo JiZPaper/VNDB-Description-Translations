@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37303",
+  "type": "visual_novel",
+  "name": "Turritopsis",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Following Oliver, a trans man attempting to socially transition. The theme of this jam was rebirth, so I decided to make it a metaphorical rebirth in that he's transitioning to become what he should be. You have two stats to keep track of: your mental health and your reputation. If either one of these gets low, it affects the other option. If both of them get to 0, you get a bad ending. You determine these stats by making choices throughout the game, and the bars will vary depending on your choice. \n\n[From [url=https://hexmozart88.itch.io/turritopsis]Itch.io[/url]]",
+  "source_sha256": "fc11fc6cde189e03ec02cf6aaff44631a570250cfdd5b245fd6e0a99c0752f39",
+  "translation": "跟随奥利弗，一位试图社会转型的跨性别者。这次即兴表演的主题是重生，所以我决定将其作为隐喻性的重生，因为他正在转变为他应该成为的人。你有两个统计数据需要跟踪：你的心理健康状况和你的声誉。如果其中任何一个变低，都会影响另一个选项。如果两者都为0，你就会得到一个糟糕的结局。你可以通过在整个游戏中做出选择来确定这些统计数据，并且条形会根据你的选择而变化。\n\n[来自[url=https://hexmozart88.itch.io/turritopsis]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v37303"
+}

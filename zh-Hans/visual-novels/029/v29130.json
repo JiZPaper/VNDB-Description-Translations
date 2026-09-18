@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29130",
+  "type": "visual_novel",
+  "name": "Pretty Mahjong Soldier Mu",
+  "original_name": "美少女雀士ムウ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Space aliens come to earth and turn an ordinary Sailor Moon look-alike into a magical mahjongg girl. You then play several opponents in mahjongg, who look like they've been ripped from other animes. Relatively easy as far as mahjongg games go.",
+  "source_sha256": "f93e8f8048f8daa715eb2d21b36fb72ea2ce99f6a62d7ce1fce60ca92024a70d",
+  "translation": "太空外星人来到地球，将一个长得像美少女战士的普通人变成了神奇的麻将女孩。然后你会在麻将中与几个对手对战，他们看起来就像是从其他动漫中抄袭来的。就麻将游戏而言相对容易。",
+  "vndb_url": "https://vndb.org/v29130"
+}

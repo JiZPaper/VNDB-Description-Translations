@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11197",
+  "type": "visual_novel",
+  "name": "Encarmine",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Encarmine is a gothic fantasy/adventure game featuring stark pulp visuals about Lucia and Maurus, two friends tracking a wayward spirit across the countryside. Play through two parallel campaigns to experience the complete story.",
+  "source_sha256": "089d5049c3be4e505bf791e9aaa097fe727a897e4cbe23084d1c2350afcdf061",
+  "translation": "《Encarmine》是一款哥特幻想冒险游戏，以鲜明的通俗小说风格画面讲述露西亚与毛鲁斯的故事。两位朋友在乡间追踪一个失控的灵体。通过两条平行战役，你将体验完整剧情。",
+  "vndb_url": "https://vndb.org/v11197"
+}

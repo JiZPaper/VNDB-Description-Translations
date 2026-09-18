@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14646",
+  "type": "visual_novel",
+  "name": "Voices from the Sea",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Follow the story of a young boy, Cantus as he meets Maris, the mysterious girl by the sea - an experience that will change his life forever.\n\n[From [url=http://zeiva.net/games/voices.html]official site[/url]]",
+  "source_sha256": "14df5bd8041e586fa3fc4854a4753bdad0dd18af7d62660047e7e46a4caa800f",
+  "translation": "跟随小男孩坎图斯在海边遇见神秘女孩玛丽斯的故事 - 这段经历将永远改变他的生活。\n\n[来自[url=http://zeiva.net/games/voices.html]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v14646"
+}

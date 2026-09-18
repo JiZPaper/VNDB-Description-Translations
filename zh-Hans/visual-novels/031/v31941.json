@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31941",
+  "type": "visual_novel",
+  "name": "Royal Blood",
+  "original_name": "로얄 블러드",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Your life changed upside down on the day of your mother's funeral. While the secrets of vampires are revealed to you, three suitors await your answer to their proposal. Who will you choose at the end of this alluring tale?\n\n[From in-app]",
+  "source_sha256": "4a6399ce0dc1788448bab6e8b543f0f9477eb0f7d4aafc46992ae3a72f5acd71",
+  "translation": "在你母亲葬礼的那天，你的生活发生了天翻地覆的变化。当吸血鬼的秘密向你揭晓时，三位追求者正在等待你对他们求婚的答复。在这个诱人的故事的结尾，你会选择谁？\n\n[来自应用程序内]",
+  "vndb_url": "https://vndb.org/v31941"
+}

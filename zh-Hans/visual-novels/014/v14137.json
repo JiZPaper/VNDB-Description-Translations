@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14137",
+  "type": "visual_novel",
+  "name": "Ontomo",
+  "original_name": "ONTOMO",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist is an immature fledgling onmyoji.\nThe qualifications required to become a first-class onmyoji is the Shikigami test (commonly known as Shikiken).  The examination day is approaching.\nLet's aim for passing!\n\n-\n\nThere is a character creation system to design your own shikigami.",
+  "source_sha256": "0617e2655a572bfacd582a28b6064f0f4d6ae8946afa78351a95b69887959171",
+  "translation": "主角是一个未成熟的阴阳师。\n成为一流阴阳师所需的资格就是式神测试（俗称式剑）。考试的日子临近了。\n让我们以通过为目标吧！\n\n-\n\n有角色创建系统，可以设计自己的式神。",
+  "vndb_url": "https://vndb.org/v14137"
+}

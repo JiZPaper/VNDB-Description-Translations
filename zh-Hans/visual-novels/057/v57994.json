@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57994",
+  "type": "visual_novel",
+  "name": "Interview with the Vampire: The Blood Hunter",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A young detective tries to get to the bottom of recent vampiric murders in New Orleans, only to find himself 'interviewing' the culprit.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "1ff2e0107060a87eb10b2a2bd2b34fd798620b074b4fd409bb0fc1e16170dbb0",
+  "translation": "一名年轻的侦探试图查明新奥尔良最近发生的吸血鬼谋杀案的真相，却发现自己正在“采访”罪魁祸首。\n\n[来自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian应用程序[/url]]",
+  "vndb_url": "https://vndb.org/v57994"
+}

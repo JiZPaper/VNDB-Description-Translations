@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20019",
+  "type": "visual_novel",
+  "name": "Le Futur du Travail",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Short visual novel about the possible evolutions of labour.",
+  "source_sha256": "55008865105d36936a0990b73ce7e2f8861ded7b508cecb10515289517bc6756",
+  "translation": "关于劳动力可能的演变的简短视觉小说。",
+  "vndb_url": "https://vndb.org/v20019"
+}

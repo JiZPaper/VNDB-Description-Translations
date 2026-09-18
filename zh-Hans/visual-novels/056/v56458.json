@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56458",
+  "type": "visual_novel",
+  "name": "Vertin in detention",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Vertin breaks a lot of rules, and she gets detention and is punished for her bad deeds. This is not the first time, and not the last time, she will get into this situation again for sure.",
+  "source_sha256": "f18791968b1a60ae783b51182c6e057b1f660fd87af934fc5b96b26a150749bc",
+  "translation": "韦尔廷违反了很多规则，她因自己的不良行为而被拘留并受到惩罚。这不是第一次，也不是最后一次，她肯定还会陷入这样的境地。",
+  "vndb_url": "https://vndb.org/v56458"
+}

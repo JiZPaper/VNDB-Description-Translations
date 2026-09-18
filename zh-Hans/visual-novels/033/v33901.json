@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33901",
+  "type": "visual_novel",
+  "name": "Chunsampocha",
+  "original_name": "춘삼포차",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "I open a food stall- and three girls come to me like a warm spring breeze. Can I have some flings this spring?\n\n[From in-app]",
+  "source_sha256": "6fb8e175a8594161c9b808b30008d8b8045657d116e841d643ca1d784b5dbb03",
+  "translation": "我开了一个小吃摊，三个女孩像温暖的春风一样来到我身边。今年春天，我可以来一场狂欢吗？\n\n[来自应用程序内]",
+  "vndb_url": "https://vndb.org/v33901"
+}

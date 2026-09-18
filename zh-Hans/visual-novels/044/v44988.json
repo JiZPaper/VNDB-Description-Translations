@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44988",
+  "type": "visual_novel",
+  "name": "Life as a Meme",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "After ending up in the crosshairs of a cyberbullying campaign, a teenager named Alan must find a way to overcome his struggles as he navigates a turbulent online landscape.",
+  "source_sha256": "fbcf9a0e5604bcdb0a2ecc5a1fe4076af40c8f53cc2d240f3542a3a609b3b5cc",
+  "translation": "成为网络欺凌活动的焦点后，一位名叫艾伦的青少年必须找到一种方法来克服自己的挣扎，并在动荡的网络环境中前行。",
+  "vndb_url": "https://vndb.org/v44988"
+}

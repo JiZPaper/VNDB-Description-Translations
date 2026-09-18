@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63167",
+  "type": "visual_novel",
+  "name": "The North Star",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Earth has fallen and their forces decimated by Rogue AI, Demons and an Undead threat. The last remaining ship, a prototype, The North Star is all that stands between humanity’s certain destruction. Can you resist temptations long enough to fight back?",
+  "source_sha256": "fdc609a5622a212d72ea2517d7ea64de4b19833b4d01af248dd4c35e2e3da210",
+  "translation": "地球已经陷落，他们的军队被盗贼人工智能、恶魔和亡灵威胁摧毁。最后剩下的一艘船，原型，北极星是人类必将遭到毁灭的唯一障碍。你能抵抗诱惑足够长的时间来反击吗？",
+  "vndb_url": "https://vndb.org/v63167"
+}

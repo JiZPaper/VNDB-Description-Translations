@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61625",
+  "type": "visual_novel",
+  "name": "Gyakuten Touhou 4",
+  "original_name": "逆転東方4",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Sequel to [url=/v26568]Gyakuten Touhou 3[/url] with ten new characters.",
+  "source_sha256": "178abed4dca132d43c2ee34e35759357378b6c3749c87a2e3d1390f4fd7271a9",
+  "translation": "[url=/v26568]《逆转东方3》[/url] 的续作，新增十个角色。",
+  "vndb_url": "https://vndb.org/v61625"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62777",
+  "type": "visual_novel",
+  "name": "Cherry Week",
+  "original_name": "～ちぇり・うぃーく～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a romance game where you befriend boys from a young man's perspective. You play as the protagonist, a young man, and your goal is to find and become close with your favorite boy among the five (plus one) boys you meet in town.",
+  "source_sha256": "24db4f18c4c9e6b5b20ad2659f436a9530841a0e474aa7f1d61d8267d528492a",
+  "translation": "这是一款以年轻人的视角与男孩们交朋友的浪漫游戏。你扮演主角，一个年轻人，你的目标是在镇上遇到的五个（加一个）男孩中找到你最喜欢的男孩并与他建立亲密关系。",
+  "vndb_url": "https://vndb.org/v62777"
+}

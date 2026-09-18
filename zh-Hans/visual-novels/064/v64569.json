@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64569",
+  "type": "visual_novel",
+  "name": "ToMyX",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You follow a protagonist invited to a mysterious television show where he must confront his past relationships. Each encounter unfolds primarily through dialogue, player choices, and branching interactions, exploring different perspectives on love, memory, and personal growth.",
+  "source_sha256": "f2b6e9b35a2d2614ffdf36051c97469308649b5b60f90a350b2f766803129f45",
+  "translation": "你跟随一位受邀参加神秘电视节目的主角，他必须面对自己过去的恋情。每次遭遇主要通过对话、玩家选择和分支互动展开，探索关于爱情、记忆和个人成长的不同视角。",
+  "vndb_url": "https://vndb.org/v64569"
+}

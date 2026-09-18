@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59504",
+  "type": "visual_novel",
+  "name": "Harmony Bisection",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short story about a woman's relationships in the the past and the present. Made for Noise Jam 2025.",
+  "source_sha256": "b1d382c69490079b3a612b9e203c905701ba0c5cceda005ae52deef0286d8055",
+  "translation": "一个关于女人过去和现在的关系的短篇故事。专为Noise Jam 2025打造。",
+  "vndb_url": "https://vndb.org/v59504"
+}

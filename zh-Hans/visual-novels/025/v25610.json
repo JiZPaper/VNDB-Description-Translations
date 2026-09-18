@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25610",
+  "type": "visual_novel",
+  "name": "Pour the Tea",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In the middle of the woods, a mysterious tea party is taking place. You don't know your guests, or why you're even here, but one thing is certain: you won't make any progress until you pour the tea.",
+  "source_sha256": "ca1da4594aa5adc8cc204f678449af371a1340f079bc026ce0b7042178a3d462",
+  "translation": "树林中央，一场神秘的茶会正在举行。你不认识你的客人，也不知道你为什么在这里，但有一件事是肯定的：除非你倒茶，否则你不会取得任何进展。",
+  "vndb_url": "https://vndb.org/v25610"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60763",
+  "type": "visual_novel",
+  "name": "Island Date",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Small virtual novel where you explore an island with a girl and uncover the dark secrets it contains.\n\n[from [url=https://weisa.itch.io/island-date]itch.io[/url]]",
+  "source_sha256": "948ba45c1fc69c5d2d439ace24d2cf1a249ab45c959f788aae7a551ce1e4078d",
+  "translation": "小型虚拟小说，你与一个女孩一起探索一座岛屿，并揭开其中隐藏的黑暗秘密。\n\n[来自[url=https://weisa.itch.io/island-date]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v60763"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61054",
+  "type": "visual_novel",
+  "name": "The Lost Coffin of Andrew and Ashley",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The story about Andrew and Ashley trying to deal with Nina's ghost, who started hunting them. It revolves around how their relationship could change due to this situation.\n\nThe events start after the end of Episode 2 of [url=/v43438]The Coffin of Andy and Leyley[/url], diverging due to this abnormal event.",
+  "source_sha256": "21fef944814ab5a8aab7fbc89b090ae94bca7c14928fc54292e8fd4bbdfa73ab",
+  "translation": "关于安德鲁和阿什利试图对付尼娜的鬼魂的故事，尼娜的鬼魂开始追捕他们。它围绕着他们的关系如何因这种情况而改变。\n\n事件在[url=/v43438]安迪和莱利的棺材[/url]第二集结束后开始，由于这个异常事件而出现分歧。",
+  "vndb_url": "https://vndb.org/v61054"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19393",
+  "type": "visual_novel",
+  "name": "Detective Hank; A Prelude to Tea",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Detective Hank finds himself at tea after work hours when his cookie gets stolen. Since Hank is a detective, he's going to find out who took his cookie and in the mean time, get himself another cookie from the kitchen.",
+  "source_sha256": "e1f2bba374e0b3383c294286a4af7bebc7e85860cd750c50e26532c4208c43f4",
+  "translation": "汉克侦探下班后正在喝茶，这时他的饼干被偷了。由于汉克是一名侦探，他要找出谁拿走了他的饼干，同时从厨房给自己拿另一块饼干。",
+  "vndb_url": "https://vndb.org/v19393"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34553",
+  "type": "visual_novel",
+  "name": "Ami Tokimeki Digital Doll",
+  "original_name": "亜美 ときめきパソコンプリンセス",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This fandisc contains video clips, festival scenarios, wallpapers, system voices and screensavers for Windows 3.1, all from Cream Lemon Ami animation series.",
+  "source_sha256": "9a46aa65644b90b084bf5dbd3cb0281753972a3f5740df87e18caed254f829a9",
+  "translation": "此同人光盘包含Windows 3.1的视频剪辑、节日场景、壁纸、系统声音和屏保，全部来自奶油柠檬阿米动画系列。",
+  "vndb_url": "https://vndb.org/v34553"
+}

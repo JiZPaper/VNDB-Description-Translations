@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54873",
+  "type": "visual_novel",
+  "name": "Sumrak",
+  "original_name": "Сумрак",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Twilight is a small dividing line between light and darkness. Sometimes you have to choose where you should stay and for what purpose.\n\n[From [url=https://store.steampowered.com/app/3484310/]Steam[/url]]",
+  "source_sha256": "111ed7e6af04cc03a1ec5ae28c930138a7af1fdc1f9d9e87c833c2e989e5aace",
+  "translation": "暮光是光明与黑暗之间的一条小分界线。有时你必须选择应该住在哪里以及出于什么目的。\n\n[来自[url=https://store.steampowered.com/app/3484310/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v54873"
+}

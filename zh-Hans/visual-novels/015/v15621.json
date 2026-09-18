@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15621",
+  "type": "visual_novel",
+  "name": "Furry Delivery Service",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Deliveryman Garret has a crush on a customer, Dan. One rainy night, he’s delivering a package and Dan invites him inside…",
+  "source_sha256": "4ed8eba7742806658142c097eb6e010e4c5ddfaf8271b43c605ec3d6c72a924b",
+  "translation": "送货员加勒特迷恋上了一位顾客丹。一个雨夜，他正在送包裹，丹邀请他进去……",
+  "vndb_url": "https://vndb.org/v15621"
+}

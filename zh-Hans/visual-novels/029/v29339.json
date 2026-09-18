@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29339",
+  "type": "visual_novel",
+  "name": "Three Houses",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are an overly privileged 20-year-old man who is forced to return to school and become a knight. Along the way, you will meet several other students of the opposite sex and form the ultimate harem.​",
+  "source_sha256": "a3b94440270527e79d410dd22df212c94dc5463f57607030deed21d6a4854c6a",
+  "translation": "你是一个享有太多特权的20岁男人，被迫重返学校并成为一名骑士。一路上，你会遇到其他几位异性学生，组成终极后宫。​",
+  "vndb_url": "https://vndb.org/v29339"
+}

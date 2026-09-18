@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58723",
+  "type": "visual_novel",
+  "name": "Jikireul Wihayeo",
+  "original_name": "지킬을 위하여",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A combination of first-person and visual novel! Immersive horror. The choice is yours. Live or die.",
+  "source_sha256": "98feb61532813143c7678728850d77ec30e1b15fb95a9cc6dc8bb2465871416a",
+  "translation": "第一人称与视觉小说的结合！沉浸式恐怖。选择权在你。生或死。",
+  "vndb_url": "https://vndb.org/v58723"
+}

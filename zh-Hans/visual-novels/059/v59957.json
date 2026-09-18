@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59957",
+  "type": "visual_novel",
+  "name": "Re-Imagined",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short visual novel game about discovering the mystery behind yourself. \n\n[From [url=https://yuriyesterday.itch.io/re-imagined]itch.io[/url]]",
+  "source_sha256": "a3a3d501a8cbe093c01e4bbf10450891c767a5540d3b2fb107453fab38127940",
+  "translation": "一款关于发现自己背后的秘密的简短视觉小说游戏。\n\n[来自[url=https://yuriyesterday.itch.io/re-imagined]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v59957"
+}

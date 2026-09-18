@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19400",
+  "type": "visual_novel",
+  "name": "Sugoi!!",
+  "original_name": "すごいっ！！",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Part of the Twinkle-Noesis \"Sugoi!!\" collaboration campaign.\nIncludes:\nCURE GIRL (early trial, Noesis)\nD-EVE in you (early trial, Twinkle)\nSugoi—!! (collaboration trial, Twinkle-Noesis)",
+  "source_sha256": "fbcc974c3d9ce8a4716eb53ac2201265ec8946db17bef0a204b114572b9f4b64",
+  "translation": "Twinkle-Noesis“Sugoi!!”的一部分合作活动。\n包括：\nCURE GIRL（早期试用，Noesis）\nD-EVE in you（早期试用，Twinkle）须盖——!! （合作试验，Twinkle-Noesis）",
+  "vndb_url": "https://vndb.org/v19400"
+}

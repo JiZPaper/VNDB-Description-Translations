@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29753",
+  "type": "visual_novel",
+  "name": "Porcelain Hearts",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Choose your character, then venture into an abandoned house in search for treasure. But be wary, the old mansion may not be as abandoned as it would first seem.\nFrom http://www.drakkashi.com/portfolio/p10.php",
+  "source_sha256": "4256d44b52304062b4d0dd8f839c5a0c29e92df29315d6164630fd14d0f6acdb",
+  "translation": "选择你的角色，然后冒险进入一座废弃的房子寻找宝藏。但要小心，这座古老的宅邸可能并不像乍看起来那样被遗弃。\n来自http://www.drakkashi.com/portfolio/p10.php",
+  "vndb_url": "https://vndb.org/v29753"
+}

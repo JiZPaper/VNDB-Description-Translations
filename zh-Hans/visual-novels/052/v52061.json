@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52061",
+  "type": "visual_novel",
+  "name": "Weeping Amber",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Among the willow branches, a city of mushrooms passes another quiet night. Something is ending, something else beginning.\n\n[From [url=https://store.steampowered.com/app/3056720/]Steam[/url]]",
+  "source_sha256": "bc817c8fc4c8c6953ef559b618fe38e54cfce091eac4ddec926027f698e2468d",
+  "translation": "柳枝间，蘑菇城又度过了一个安静的夜晚。有些事情正在结束，有些事情正在开始。\n\n[来自[url=https://store.steampowered.com/app/3056720/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v52061"
+}

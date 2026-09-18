@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47873",
+  "type": "visual_novel",
+  "name": "Lovi",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"You're far from home, aren't you?\"\n\nLovi is a visual novel inspired by Finno-Ugric myths and folklore relating to the Underworld, following the journey of a lost human. \n\n[From [url=https://lumi-lumo-art.itch.io/lovi-demo]itch.io[/url]]",
+  "source_sha256": "2e039fd62f389c29ddf9ca16d8fe1ec854fd099c5341bbc1e0cb3c2ea72dd696",
+  "translation": "“你离家很远，是吗？”\n\n《洛维》是一部视觉小说，灵感源自芬兰-乌戈尔神话和与地狱有关的民间传说，讲述了一个迷失人类的旅程。\n\n[来自[url=https://lumi-lumo-art.itch.io/lovi-demo]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v47873"
+}

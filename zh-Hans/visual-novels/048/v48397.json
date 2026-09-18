@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48397",
+  "type": "visual_novel",
+  "name": "Kono Sekai ni Bad End wa Sonzai Shinai",
+  "original_name": "この世界にバッドエンドは存在しない",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Murder Mystery x Visual novel game that requires two people to cooperate through Discord voice chat.\n\nSet in a deep-sea laboratory located in the United States.\nTwo people woke up without memories but one thing: the world is looping.\n\nThe world keeps repeating itself after 23:59:59. \n\nAlong with their memories of a horrific incident come back to life, can they reach the ending in the broken world?\n\nEven if it is a road that leads to hell or stopping on a bad end.",
+  "source_sha256": "b2bf23aa0a33f0e1de2d26aa6a8c23deaa1b05f396cfb3ee9290e3ccf54173e0",
+  "translation": "谋杀之谜x视觉小说游戏，需要两个人通过Discord语音聊天进行合作。\n\n故事发生在位于美国的一个深海实验室。\n两个人醒来时都失去了记忆，只有一件事：世界在循环。\n\n23:59:59之后世界不断重演。\n\n随着可怕事件的记忆苏醒，他们能否到达破碎世界的结局呢？\n\n即使这是一条通向地狱的路，或者止步不前的路。",
+  "vndb_url": "https://vndb.org/v48397"
+}

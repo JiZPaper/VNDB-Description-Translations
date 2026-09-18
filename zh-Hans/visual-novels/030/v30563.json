@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30563",
+  "type": "visual_novel",
+  "name": "North Star",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You just got assigned team of the best adventurers on the travel following North Star. Will one of them become your love?",
+  "source_sha256": "09f9700b039793c2f4471b29b4ae693803d70c9985c1937726730f4c7dc961e3",
+  "translation": "你刚刚被分配了由最好的冒险家组成的团队，踏上北极星之旅。其中一位会成为你的挚爱吗？",
+  "vndb_url": "https://vndb.org/v30563"
+}

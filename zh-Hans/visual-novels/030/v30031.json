@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30031",
+  "type": "visual_novel",
+  "name": "Slave U",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Slave high is a a renpy game that takes place in the same world as \"Second Class\". It follows an experienced young boy as he arrives at a new school and tries to make a life for himself.\n\n[From [url=https://www.patreon.com/user?u=2418744]Patreon[/url]]",
+  "source_sha256": "cac5811f251253d95aa0a17b1334537b64478cb1cb2de5adeca3c3474a448afd",
+  "translation": "《Slave High》是一款与《Second Class》发生在同一世界的renpy游戏。影片讲述了一个经验丰富的小男孩来到一所新学校并试图为自己谋生的故事。\n\n[来自[url=https://www.patreon.com/user?u=2418744]Patreon[/url]]",
+  "vndb_url": "https://vndb.org/v30031"
+}

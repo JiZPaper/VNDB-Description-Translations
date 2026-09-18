@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30474",
+  "type": "visual_novel",
+  "name": "Zettai Keiyaku Shite Kudasai!",
+  "original_name": "ゼッタイ契約してください！",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A \"fantasy x romance\" themed gal game about an encounters with alien girls.",
+  "source_sha256": "dade6b81a14313b7c42b2bbfcee054b5137e6ca82b5faafaee6a01a7533dd9f6",
+  "translation": "一款以“奇幻×浪漫”为主题的少女游戏，讲述与外星女孩的邂逅。",
+  "vndb_url": "https://vndb.org/v30474"
+}

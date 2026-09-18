@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11648",
+  "type": "visual_novel",
+  "name": "Akagawa Jirou: Yasoukyoku",
+  "original_name": "赤川次郎 夜想曲",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This adventure game is adapted from Akagawa Jirou's classic mystery novel Yasoukyoku – Hon ni Manekaereta Satsujin (Nocturne – Books that beckon murder) that contains two separate detective stories. The stage is set in Nonomiya Library, a mansion hidden amongst the trees in a darkened forest where a collection of books related to death are stored.\n\n[from [url=https://psxdatacenter.com/games/J/A/SLPS-01415.html]PlayStation DataCenter[/url]]",
+  "source_sha256": "4594a50c78e087ad17d637b072c23f06587db953e84e1161d3ea80634ce6e7f1",
+  "translation": "这款冒险游戏改编自赤川次郎的经典悬疑小说《夜曲 - Hon ni Manekaereta Satsujin》（夜曲 - 召唤谋杀的书），其中包含两个独立的侦探故事。舞台设置在野宫图书馆，这是一座隐藏在黑暗森林中树林中的豪宅，里面存放着与死亡有关的书籍。\n\n[来自[url=https://psxdatacenter.com/games/J/A/SLPS-01415.html]PlayStation DataCenter[/url]]",
+  "vndb_url": "https://vndb.org/v11648"
+}

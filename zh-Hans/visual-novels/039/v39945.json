@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39945",
+  "type": "visual_novel",
+  "name": "Coffee and a Porsche",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short visual novel game that follows your adventures as a coffee shop employee.\n\n[From [url=https://cone-coin.itch.io/coffee-and-a-porsche]Itch.io[/url]]",
+  "source_sha256": "343c74c2c22d2c567b70d0c74e385e884916dc266fc3676d01e2f5a74c879056",
+  "translation": "一款简短的视觉小说游戏，讲述你作为咖啡店员工的冒险经历。\n\n[来自[url=https://cone-coin.itch.io/coffee-and-a-porsche]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v39945"
+}

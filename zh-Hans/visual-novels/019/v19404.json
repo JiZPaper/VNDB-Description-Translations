@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19404",
+  "type": "visual_novel",
+  "name": "Deadpool Dating Simulator",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're new to the Mutant Academy, and looking for love. Deadpool is all for a good time, until Wolverine shows up to get in on the action. Your choices will decided the fate of CryoSpectre's love life.",
+  "source_sha256": "dd21a40b64772d7a86b6c670272b1c31177c39eb91c5bda4343d09728a8919bc",
+  "translation": "你是变种人学院的新人，正在寻找爱情。死侍的一切都是为了度过美好时光，直到金刚狼出现并参与其中。你的选择将决定CryoSpectre爱情生活的命运。",
+  "vndb_url": "https://vndb.org/v19404"
+}

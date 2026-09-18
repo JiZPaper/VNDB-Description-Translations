@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20145",
+  "type": "visual_novel",
+  "name": "Love: A Desperate Addiction",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A little 3d visual novel containing Mamonos and Yandere based story.",
+  "source_sha256": "1c8d2a82ae53930157d6e1aae727681cd59555fad90acc06cbac6648b56c4165",
+  "translation": "一部小型3D视觉小说，包含基于Mamonos和Yandere的故事。",
+  "vndb_url": "https://vndb.org/v20145"
+}

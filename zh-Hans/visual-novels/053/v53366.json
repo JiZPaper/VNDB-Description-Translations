@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53366",
+  "type": "visual_novel",
+  "name": "New Life + (2) Disturbed Side",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The story tells about events that took place before and in parallel to [url=/v53360]New Life +[/url].",
+  "source_sha256": "7ddb295e50200e8f1b276675c7ca5d40341b3fb930809ba1d7bb45fae976890f",
+  "translation": "这个故事讲述了在[url=/v53360]New Life +[/url]之前和同时发生的事件。",
+  "vndb_url": "https://vndb.org/v53366"
+}

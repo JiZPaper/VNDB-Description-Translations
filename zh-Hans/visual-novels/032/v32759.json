@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32759",
+  "type": "visual_novel",
+  "name": "Kimi ga Ita Kisetsu ~Primary~",
+  "original_name": "君がいた季節 ～Primary～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Maejima Masaki is an aspiring photographer presented with an opportunity to study under a world famous photographer, due to a photo he took of one of the 4 Isumi sisters with whom he is close to which managed to attract attention. However, he must make a choice of whether he wishes to pursue that opportunity or not.",
+  "source_sha256": "729735623c6b7ea4807a2ba845f04690fb792c291f5060408df5fbdd56549382",
+  "translation": "前岛正树是一位有抱负的摄影师，他有机会跟随一位世界著名摄影师学习，因为他拍摄的一张与他关系密切的夷隅四姐妹之一的照片引起了人们的关注。然而，他必须选择是否愿意抓住这个机会。",
+  "vndb_url": "https://vndb.org/v32759"
+}

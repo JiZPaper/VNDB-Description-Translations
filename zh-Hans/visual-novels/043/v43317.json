@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43317",
+  "type": "visual_novel",
+  "name": "Ookami Game Another",
+  "original_name": "狼ゲーム アナザ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An alternate telling of the original Wolf Game story. It was created due to the number of fans that wanted to see The Wolf Game with different characters as the Wolves and Sheep.\n\n[From [url=https://wolf-game.fandom.com/wiki/Wolf_Game_Another]Wolf Game Wiki[/url]]",
+  "source_sha256": "f15dfc30577f79a6a735e82a9cbc90775b695586b3b8d1202faf5a054b16c1a0",
+  "translation": "原版《狼游戏》故事的另一种讲述方式。它的创建是因为许多粉丝希望看到狼和羊等不同角色的《狼游戏》。\n\n[来自[url=https://wolf-game.fandom.com/wiki/Wolf_Game_Another]狼游戏维基[/url]]",
+  "vndb_url": "https://vndb.org/v43317"
+}

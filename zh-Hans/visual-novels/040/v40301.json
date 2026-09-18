@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40301",
+  "type": "visual_novel",
+  "name": "The Ivory Stairs",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A Vampire: the Masquerade Visual Novel where your choices matter, and may lead you to fifteen different endings.",
+  "source_sha256": "8d5cacfc10cc23da8c22eaa6ba00ee931079693643ef787342475a21090a85f4",
+  "translation": "《吸血鬼：假面舞会》视觉小说，你的选择很重要，可能会导致你走向十五个不同的结局。",
+  "vndb_url": "https://vndb.org/v40301"
+}

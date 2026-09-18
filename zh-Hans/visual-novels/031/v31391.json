@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31391",
+  "type": "visual_novel",
+  "name": "Apathy - Arai Shouji",
+  "original_name": "アパシー荒井昭二",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Join Arai Shouji as he tells a different version of Bokujou Kitan.\n\nThis version of Bokujou Kitan is different from the one included in [url=https://vndb.org/v34196]Narunana[/url] and [url=https://vndb.org/v24563]Shinsei[/url] as this one has a branching scenario.",
+  "source_sha256": "fc184759a216fac878926e4d82bc9c81c04035fb2d0365874e7de8c09f0985f0",
+  "translation": "跟随新井庄司讲述不同版本的《我的奇谈》。\n\n这个版本的Bokujou Kitan与 [url=https://vndb.org/v34196]Narunana[/url] 和 [url=https://vndb.org/v24563]Shinsei[/url] 中包含的版本不同，因为这个版本有分支场景。",
+  "vndb_url": "https://vndb.org/v31391"
+}

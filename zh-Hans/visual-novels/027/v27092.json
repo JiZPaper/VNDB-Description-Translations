@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27092",
+  "type": "visual_novel",
+  "name": "Maji de Watashi ni Koishinasai! A - Ryouken Route After",
+  "original_name": "真剣で私に恋しなさい! A 猟犬ルートアフター",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A sequel of Margit's after story in Majikoi A-5.",
+  "source_sha256": "3c79e18d911a472af5b6e0fa5fd9c8203ff305f4df0c3c6a77ce36cd9c512924",
+  "translation": "Majikoi A-5中玛吉特的故事的续集。",
+  "vndb_url": "https://vndb.org/v27092"
+}

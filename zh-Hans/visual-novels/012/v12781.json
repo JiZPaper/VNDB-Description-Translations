@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12781",
+  "type": "visual_novel",
+  "name": "re]de[flection",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An anthology of four short stories tied together by a framing story known as 'mise en abyme', which describes the experience of standing between two mirrors and seeing infinite reflections receding into the distance. The player dips in and out of the stories, each set in a different time period of human history, journeying from the worlds of ancient Polynesia and Egypt to the edges of the galaxy and back to Earth again thousands of years in the future.\n\n[From [url=http://games.renpy.org/game/redeflection.shtml]Ren'Py[/url]]",
+  "source_sha256": "997327f61ae9d782e849c538f3480830b99fd218908dae391bf7972940f5e4bc",
+  "translation": "这是一部由四个短篇故事组成的选集，由一个名为“mise en abyme”的框架故事联系在一起，该故事描述了站在两面镜子之间并看到无限倒影逐渐消失的体验。玩家沉浸在故事中，每个故事都以人类历史的不同时期为背景，从古代波利尼西亚和埃及的世界到银河系的边缘，然后在数千年后再次回到地球。\n\n[来自[url=http://games.renpy.org/game/redeflection.shtml]仁派[/url]]",
+  "vndb_url": "https://vndb.org/v12781"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62548",
+  "type": "visual_novel",
+  "name": "PivoRonpa 2+1",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Did the characters survive the destruction of the apartment building, or is this just another figment of Hinata's imagination?",
+  "source_sha256": "c1869e368ff4b17d16aaf88778635c625b4b0b4f43a401b720e2dda9ba751695",
+  "translation": "公寓大楼被毁后，角色们是否幸存了下来，还是这只是日向的又一个虚构故事？",
+  "vndb_url": "https://vndb.org/v62548"
+}

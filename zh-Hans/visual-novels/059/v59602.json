@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59602",
+  "type": "visual_novel",
+  "name": "Love Nocturna",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You stumble into a town, enshrouded and plagued, and straight into a beast's clutches. Can you earn your escape?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "a1b7daab4e90318893fbd574e25e524a5e82f9628311d47c14ed79f93a58df7c",
+  "translation": "你跌跌撞撞地走进了一座被笼罩和困扰的城镇，并直接落入了野兽的魔爪。你能逃脱吗？\n\n[来自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian应用程序[/url]]",
+  "vndb_url": "https://vndb.org/v59602"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18417",
+  "type": "visual_novel",
+  "name": "Laika Dosha",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A complex western science-fiction visual novel where the player is the Hive Mind controlling five characters spread across four species. When tragedy strikes, and a mysterious rescue mission goes horribly wrong, the survivors will be plunged into a conflict pitting morals and choices against neurology and a threat as old as the stars. \n\nWe sent Laika to space, and she died there. For better or worse, wherever there is a dog, man is never alone.",
+  "source_sha256": "ab88113f54500ac379ee4c92310ed9fca76c60e80beaf415dd419c1caa688027",
+  "translation": "一部复杂的西方科幻视觉小说，玩家是蜂巢思维，控制分布在四个物种中的五个角色。当悲剧发生，一场神秘的救援任务出现严重错误时，幸存者将陷入道德和选择与神经学和与恒星一样古老的威胁之间的冲突。\n\n我们把莱卡送入太空，她死在那里。无论好坏，只要有狗的地方，人就永远不会孤单。",
+  "vndb_url": "https://vndb.org/v18417"
+}

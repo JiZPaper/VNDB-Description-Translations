@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55178",
+  "type": "visual_novel",
+  "name": "Shine Private Basic School: True Face",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You really think the school is gonna be bad, but it's actually good!",
+  "source_sha256": "b33a0907cee3d54513fe05160b52751db65d21aa62bdb59efeb8edd9762c21ed",
+  "translation": "你真的认为学校会很差，但实际上它很好！",
+  "vndb_url": "https://vndb.org/v55178"
+}

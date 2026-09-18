@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20909",
+  "type": "visual_novel",
+  "name": "Makoto Mobius",
+  "original_name": "まことメビウス",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Watarou, the main character, and Makoto, the girl who sits next to him, are classmates who have never really spoken to each other.\nOne day, Makoto suddenly passes away.\nWatarou uses Mobius’ help to try and save her, but…",
+  "source_sha256": "9777fd203274eddfec5cb2574b69ca68e1135ea55f2c6fe1af54b7359ec8414d",
+  "translation": "主角渡郎和坐在他旁边的女孩真琴是从未真正说过话的同学。\n有一天，诚突然去世了。\n渡郎利用莫比乌斯的帮助试图拯救她，但是……",
+  "vndb_url": "https://vndb.org/v20909"
+}

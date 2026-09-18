@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24694",
+  "type": "visual_novel",
+  "name": "Gekidan Prince",
+  "original_name": "劇団プリンス",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"Gekidan Prince\" is a theater company composed of handsome members.\nWho would've thought that after visiting you'd become their manager?\n\nParody game of music-themed otome games which features a cast of utaites.",
+  "source_sha256": "8d11265681c3c089abdaac5b632cc09fca53b0489778c842c7e8a7964da38e4e",
+  "translation": "“剧团王子”是由帅气的成员组成的剧团。\n谁会想到你来访后就成了他们的经理？\n\n以音乐为主题的乙女游戏的恶搞游戏，以歌迷为特色。",
+  "vndb_url": "https://vndb.org/v24694"
+}

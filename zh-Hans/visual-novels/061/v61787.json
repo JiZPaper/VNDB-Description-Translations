@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61787",
+  "type": "visual_novel",
+  "name": "Pere Noel",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Christmas is fast approaching. Amid the year-end busyness, there are extra lessons to attend and Christmas presents to buy. What kind of Christmas will the two of them have?",
+  "source_sha256": "ac054e83f1dba2f761fca681def8953a8f25d54b24280b20ec167a701455889a",
+  "translation": "圣诞节即将来临。在年末的忙碌中，还有额外的课程要参加，还有圣诞礼物要购买。两人会过一个怎样的圣诞节呢？",
+  "vndb_url": "https://vndb.org/v61787"
+}

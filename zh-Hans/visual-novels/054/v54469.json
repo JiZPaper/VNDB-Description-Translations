@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54469",
+  "type": "visual_novel",
+  "name": "Just Floating around",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are stationed at an ISS when suddenly, an alarm goes on. \n\nHelp Echo tell their story. \n\nThis is a very short visual novel made for the O2A2 game jam. \n\n[From [url=https://cuaima.itch.io/just-floating-around]Itch.io[/url]]",
+  "source_sha256": "9c8dde5b78b636a4bc691522c85956e8b6fbc33d95d2cb7af9cd3f023d8efa1c",
+  "translation": "你驻扎在国际空间站，突然警报响起。\n\n帮助Echo讲述他们的故事。\n\n这是为O2A2 game jam制作的非常短的视觉小说。\n\n[来自[url=https://cuaima.itch.io/just-floating-around]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v54469"
+}

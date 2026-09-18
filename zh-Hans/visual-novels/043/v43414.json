@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43414",
+  "type": "visual_novel",
+  "name": "The Story of Sanelma",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short magical adventure featuring a witch searching for a missing ingredient.\n\n[From [url=https://kartsuli.itch.io/the-story-of-sanelma]Itch.io[/url]]",
+  "source_sha256": "1c092cafe85d2dfb71717938d1921e616a09c16616550f51eda63b6113cb037a",
+  "translation": "一段简短的魔法冒险，讲述了女巫寻找失踪原料的故事。\n\n[来自[url=https://kartsuli.itch.io/the-story-of-sanelma]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43414"
+}

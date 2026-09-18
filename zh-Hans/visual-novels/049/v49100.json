@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49100",
+  "type": "visual_novel",
+  "name": "Dollville",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "One day, Jack moves into the mansion as an assistant to a private doctor. There, he makes friends with a sick girl who spends almost all her time in bed. Nothing darkens Jack's newfound idyll, until one day he notices that the girl's left hand has become doll-like.\n\nMade for /ruvn/ contest #6.",
+  "source_sha256": "25c224e8d77cfe27d4d610f777f6126ec13b9f4a66b0c524a7722bd7287cd22c",
+  "translation": "有一天，杰克搬进豪宅，担任一名私人医生的助理。在那里，他和一个生病的女孩成了朋友，她几乎所有的时间都躺在床上。没有什么能让杰克新发现的田园生活变得黯淡，直到有一天他注意到女孩的左手变得像洋娃娃一样。\n\n为 /ruvn/ 比赛#6制作。",
+  "vndb_url": "https://vndb.org/v49100"
+}

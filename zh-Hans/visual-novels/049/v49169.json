@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49169",
+  "type": "visual_novel",
+  "name": "Zolotoj gorod",
+  "original_name": "Золотой город",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Three explorers come to an abandoned mining town, hoping to find forgotten gold. The recording shows shabby houses standing in the middle of a wide pine forest, a river and a mysterious workshop in the distance. The smell of rot rises, a howl is heard from the depths of the workshop...",
+  "source_sha256": "745317d0104f2d97723e15e28bb8f35946cbc9ca13896b3a7ad04d919aa45486",
+  "translation": "三名探险家来到一座废弃的采矿小镇，希望找到被遗忘的黄金。录音中，宽阔的松树林中矗立着破旧的房屋，远处有一条河流和一个神秘的作坊。腐臭味升腾，车间深处传来一声嚎叫……",
+  "vndb_url": "https://vndb.org/v49169"
+}

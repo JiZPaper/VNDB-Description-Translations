@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27872",
+  "type": "visual_novel",
+  "name": "Nine Lives",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You find yourself trapped inside the body of an adorable kitten. Well, things don’t seem to be going exactly your way this time…\n\n[From official site]",
+  "source_sha256": "dcade6fab5250088447eeffe210f5ec7450157716bbb4f0ccc8c5a03cc368f49",
+  "translation": "你发现自己被困在一只可爱小猫的身体里。好吧，这次事情似乎并不完全按照你的方式进行……\n\n[来自官方网站]",
+  "vndb_url": "https://vndb.org/v27872"
+}

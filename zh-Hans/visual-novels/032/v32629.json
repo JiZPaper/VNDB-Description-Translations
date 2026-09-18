@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32629",
+  "type": "visual_novel",
+  "name": "Alone",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You wake up in the middle of a rainy night because of some strange noises coming from the door. Lights won't work, and those noises are getting closer...\n\nWhatever you do, don't stop her. Do not \"refuse\".\nShe's a nice girl, so be nice back.",
+  "source_sha256": "e631c20dbab90f5ef4c92a43976fb615a3e0f2fc2fcd6b29812914a978760cb3",
+  "translation": "你在一个雨夜醒来，因为门外传来一些奇怪的声音。灯不亮了，那些声音越来越近……\n\n不管你做什么，都不要阻止她。不要“拒绝”。\n她是个好女孩，所以你也要对她好一点。",
+  "vndb_url": "https://vndb.org/v32629"
+}

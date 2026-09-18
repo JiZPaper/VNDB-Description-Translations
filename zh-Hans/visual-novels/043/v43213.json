@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43213",
+  "type": "visual_novel",
+  "name": "DOGTEETH",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are Dog, an unknown individual trapped in a greyscale purgatory with three other entities that visit you each night. One morning, you wake to find your bedroom door chained up tight, with locks that have no keyholes.\n\nThe only way out is through the wardens of your nightmare.\n\n[From [url=https://roisinrot.itch.io/dogteeth-demo]Itch.io[/url]]",
+  "source_sha256": "00945c8b0dc5c5f22261971710ded9b8295a8f34504235fbcb14f9714c629fea",
+  "translation": "你是狗，一个未知的个体，与每晚拜访你的另外三个实体一起被困在灰度炼狱中。一天早上，你醒来发现卧室的门被锁得紧紧的，锁上没有钥匙孔。\n\n唯一的出路就是穿过噩梦的看守者。\n\n[来自[url=https://roisinrot.itch.io/dogteeth-demo]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43213"
+}

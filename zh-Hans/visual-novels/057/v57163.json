@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57163",
+  "type": "visual_novel",
+  "name": "31BR",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An entry into the 2008 TIGSource Commonplace Book Competition, where the participants had to make a game inspired by an entry from H.P. Lovecraft's notebook.\n\n\"31BR is a short visual novel where you're a man who's trying to sell a museum one of his pieces. It has 4 possible endings.\"\n\n[Source: [url=https://forums.tigsource.com/index.php?topic=3757.0]TIGSource forums[/url]]",
+  "source_sha256": "23e0a005a71d93edf07adb9c6da42e9b6152117e0afef6a61fad0dea04fc0d3c",
+  "translation": "参加2008年TIGSource Commonplace图书竞赛的参赛作品，参赛者必须根据H.P. 的参赛作品制作一款游戏。洛夫克拉夫特的笔记本。\n\n“《31BR》是一部短篇视觉小说，其中你是一个试图向博物馆出售他的一件作品的男人。它有4个可能的结局。”\n\n[来源：[url=https://forums.tigsource.com/index.php?topic=3757.0]TIGSource论坛[/url]]",
+  "vndb_url": "https://vndb.org/v57163"
+}

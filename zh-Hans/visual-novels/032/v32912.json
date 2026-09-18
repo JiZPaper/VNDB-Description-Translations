@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32912",
+  "type": "visual_novel",
+  "name": "Autumn Date & Winter Date",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a bonus mini-game related to the previous titles Reset→Move -Möbius loop- and Rotate180° Converter.\nThere are parts that won’t make sense unless you’ve cleared both games, so we strongly recommend playing those two first.\n\nIt’s an otome game where you go on dates with each of the four male characters from Reset→Move -Möbius loop- and Rotate180° Converter.",
+  "source_sha256": "dc21af453594fac4d0a53bc7d2eb0301be505576b5f72634a276d00b00e05902",
+  "translation": "这是与之前的游戏重置→移动 - 莫比乌斯环 - 和旋转180° 转换器相关的奖励迷你游戏。\n除非你通关了这两款游戏，否则有些部分就没有意义，因此我们强烈建议你先玩这两款游戏。\n\n这是一款乙女游戏，你可以与重置→移动-莫比乌斯环-和旋转180°转换器中的四个男性角色中的每一个约会。",
+  "vndb_url": "https://vndb.org/v32912"
+}

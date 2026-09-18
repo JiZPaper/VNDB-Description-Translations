@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19005",
+  "type": "visual_novel",
+  "name": "Kamakiri Ritual",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Santi is a mantis. Year after year he managed to stay locked in his own house when \"the time comes.\" But this year is different; his employer's daughter is here. And Santi has no choice but to attend her... in some way.\n\n[Edited from [url=http://globalgamejam.org/2016/games/kamakiri-ritual]Global Game Jam[/url]]",
+  "source_sha256": "7ee2b26ad8f2a6374b60caad44459959460fe4a0c1abec522cf063f7d022f76e",
+  "translation": "桑蒂是一只螳螂。年复一年，当“时机成熟”时，他设法把自己锁在自己的房子里。但今年不同了；他雇主的女儿在这里。桑蒂别无选择，只能以某种方式照顾她。\n\n[编辑自[url=http://globalgamejam.org/2016/games/kamakiri-ritual]Global Game Jam[/url]]",
+  "vndb_url": "https://vndb.org/v19005"
+}

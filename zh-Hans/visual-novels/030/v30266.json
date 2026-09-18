@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30266",
+  "type": "visual_novel",
+  "name": "Steadfast",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Steadfast is a gay furry love story in a medieval setting.",
+  "source_sha256": "206bc4a2ddf18d3ea4d3ef7791ab32a6a12e2606932103cd1d27d508b8cc3571",
+  "translation": "《坚定》是一个发生在中世纪背景的同性恋毛茸茸的爱情故事。",
+  "vndb_url": "https://vndb.org/v30266"
+}

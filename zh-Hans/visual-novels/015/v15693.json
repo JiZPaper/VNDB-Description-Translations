@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15693",
+  "type": "visual_novel",
+  "name": "Mozart's Name Day: Fourth",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The fourth installment of \"Mozart's Name Day - Halloween stories for music lovers.\"\n\nA man takes his wife to a magic show where nothing is what it seems.",
+  "source_sha256": "45055651292a805bcc6c2699bb1b1fc6abdf55d266bc984dc2192c413427bf02",
+  "translation": "“莫扎特命名日 - 音乐爱好者的万圣节故事”的第四部分。\n\n一个男人带着他的妻子去看一场魔术表演，但一切都不像看上去的那样。",
+  "vndb_url": "https://vndb.org/v15693"
+}

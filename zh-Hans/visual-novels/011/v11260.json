@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11260",
+  "type": "visual_novel",
+  "name": "Chobinove",
+  "original_name": "ちょびノベ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A fan-fiction VN based on the anime/manga Chobits.",
+  "source_sha256": "11d3688346a49e8143313b42097ed1e638c4729a54c04274928cf9af9ead5688",
+  "translation": "一部根据动画与漫画《Chobits》创作的同人视觉小说。",
+  "vndb_url": "https://vndb.org/v11260"
+}

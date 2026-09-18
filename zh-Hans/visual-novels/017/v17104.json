@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17104",
+  "type": "visual_novel",
+  "name": "One Night at Amphora",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A five-act comic fantasy about whiskey, jello, dubstep, and bereavement.\n\nCreated for NaNoRenO 2015.",
+  "source_sha256": "cb5fb56304f42a90f551374717bca7aee5894f03a9762c171cbf8b94edea7b71",
+  "translation": "一部关于威士忌、果冻、回响贝斯和丧亲之痛的五幕喜剧奇幻作品。\n\n为NaNoRenO 2015创建。",
+  "vndb_url": "https://vndb.org/v17104"
+}

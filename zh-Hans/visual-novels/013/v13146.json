@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13146",
+  "type": "visual_novel",
+  "name": "Adventures in the Public Domain",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An entry into the mini Ludum Dare competition of June 2011, dealing with the theme of 'all talk'.\n\nAdventures in the Public Domain is a Visual Novel/Choose-Your-Own-Adventure type game, with player choices to determine the flow of the plot. These choices might end up being the death of you, so choose wisely!\n\nThe title comes from the fact that all graphical and musical resources within the game are taken from public domain repositories, with minimal editing to create a relatively unique style.\n\nThere are three distinct paths through the game, featuring zombies, aliens and... kissing a dog, which will lead you to one of two endings. As a result, I suggest you play through the game at least three times in order to experience all of the dialogue, because it's pretty good (if I do say so myself).\n\nControls are nice and simple, and are detailed on the title screen.\n\n[From [url=http://gamejolt.com/games/adventure/adventures-in-the-public-domain/5532/]Game Jolt[/url]]",
+  "source_sha256": "a3e2a4c2d4f991e9a876a6890bb50b96841ed58e99370a89bb70974054c9d680",
+  "translation": "2011年6月举办的迷你Ludum Dare比赛的参赛作品，主题为“all talk”。\n\nAdventures in the Public Domain是一款视觉小说/选择你自己的冒险类型的游戏，玩家的选择决定了情节的发展。这些选择可能会导致你的死亡，所以请明智地选择！\n\n这个标题来源于这样一个事实：游戏中的所有图形和音乐资源均取自公共领域存储库，经过最少的编辑以创建相对独特的风格。\n\n游戏中有3条不同的路径，分别是僵尸、外星人和……亲吻狗，这将引导你到达两个结局之一。因此，我建议你至少玩三遍游戏才能体验所有对话，因为它非常好（如果我自己这么说的话）。\n\n控件漂亮又简单，标题屏幕上有详细说明。\n\n[来自[url=http://gamejolt.com/games/adventure/adventures-in-the-public-domain/5532/]游戏震动[/url]]",
+  "vndb_url": "https://vndb.org/v13146"
+}

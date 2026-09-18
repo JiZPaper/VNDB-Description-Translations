@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55712",
+  "type": "visual_novel",
+  "name": "Istorija odnoj radosti",
+  "original_name": "История одной радости",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Adaptation of Yegor Letov's prose with the same name.\n\nThis is a [url=/v3126]Beskonechnoe leto[/url] mod.",
+  "source_sha256": "64485b6c8023de0cd22e6d3b67f78d6aa4e13cb0d545957c58c4538932ea3b24",
+  "translation": "改编自叶戈尔·莱托夫的同名散文。\n\n这是一个 [url=/v3126]Beskonechnoe leto[/url] 模组。",
+  "vndb_url": "https://vndb.org/v55712"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65354",
+  "type": "visual_novel",
+  "name": "The Cursed Heart: Spring Fling",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A springtime celebration for Fae and mortals alike... but can they find common ground the way you and Kieran have?",
+  "source_sha256": "2845bffca86aa04bcb5d89ee87452256c81d2e3adc6f192ba2499ab5500bfe2c",
+  "translation": "精灵和凡人的春天庆典……但他们能像你和基兰那样找到共同点吗？",
+  "vndb_url": "https://vndb.org/v65354"
+}

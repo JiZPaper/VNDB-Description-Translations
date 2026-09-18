@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38188",
+  "type": "visual_novel",
+  "name": "Toaru Shoujo no Koi Gatari",
+  "original_name": "とある少女の恋語り",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hey, will you lend me an ear? I want to fall in love.\n\nA kinetic novel that is just under five minutes.\n\n[Translated from [url=https://www.freem.ne.jp/win/game/4643]Freem[/url]]",
+  "source_sha256": "11cc70d9106fd15723353199b0549c780092768f3454ef36e3286bd6977d98d3",
+  "translation": "嘿，你愿意听我说吗？我想坠入爱河。\n\n一部不到五分钟的动态小说。\n\n[译自[url=https://www.freem.ne.jp/win/game/4643]Freem[/url]]",
+  "vndb_url": "https://vndb.org/v38188"
+}

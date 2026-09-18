@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26087",
+  "type": "visual_novel",
+  "name": "Flourish",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a houseplant.\n\nYou watch from the windowsill. \n\nYou see everything.",
+  "source_sha256": "c24c63ff3d96a2b6b0ba8e55792efeb4fd39e276fba7fec287dbf94918930f19",
+  "translation": "你是室内植物。\n\n你从窗台上观看。\n\n你看到了一切。",
+  "vndb_url": "https://vndb.org/v26087"
+}

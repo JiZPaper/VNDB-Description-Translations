@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17688",
+  "type": "visual_novel",
+  "name": "Moore's Machine",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Moore's Machine features a scientist named Dr. Moore, who gets a little more than he bargained for when he makes an unusual request of an AI.\n\nThis visual novel has mild language, and might not be suitable for younger people.\n\n[From [url=https://web.archive.org/web/20160708122543/http://www.thebeeskneesstories.com:80/portfolio/moores-machine/]Official site[/url]]",
+  "source_sha256": "483f9dcbfadf30c49f30fd297a70f65cd037e2502034b2ae1d93f92351cea158",
+  "translation": "《摩尔机器》的主角是一位名叫摩尔博士的科学家，当他向人工智能提出不寻常的要求时，他得到了比他预想的更多的东西。\n\n这部视觉小说语言温和，可能不适合年轻人。\n\n[来自[url=https://web.archive.org/web/20160708122543/http://www.thebeeskneesstories.com:80/portfolio/moores-machine/]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v17688"
+}

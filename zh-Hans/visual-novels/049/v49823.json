@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49823",
+  "type": "visual_novel",
+  "name": "Spirit Bonds",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel made for the 2020 League of Legends Spirit Blossom event that was playable in the League of Legends client.\n\nThey say the Spirit Blossom Festival represents a thinning of the veil between our world and the Spirit Realm. Keep your wits about you! Cross over to the other side, and you would have to place your trust in the spirits there to guide you home. Some are playful, others conniving, but each has a story to tell for those that are willing to listen. The Spirit Blossom Festival brings with it the chance to forge new bonds and interact with champions channeling the spirits from beyond our world.\n\nSource: https://leagueoflegends.fandom.com/wiki/Spirit_Bonds",
+  "source_sha256": "09d82027fcbad7f5ceccdc66ed930d1f09877f96b87feb6f935448ba7bf4bdba",
+  "translation": "专为2020年英雄联盟盛灵绽放活动制作的视觉小说，可在英雄联盟客户端中玩。\n\n他们说，灵花节代表着我们的世界和灵界之间的面纱变薄了。保持你的智慧！跨越到另一边，你必须相信那里的灵魂会引导你回家。有些是顽皮的，有些是纵容的，但每个人都有一个故事要讲给那些愿意倾听的人。灵魂绽放节带来了建立新纽带并与引导来自世界之外的灵魂的冠军互动的机会。\n\n资料来源：https://leagueoflegends.fandom.com/wiki/Spirit_Bonds",
+  "vndb_url": "https://vndb.org/v49823"
+}

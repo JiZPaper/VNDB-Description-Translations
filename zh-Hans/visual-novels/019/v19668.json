@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19668",
+  "type": "visual_novel",
+  "name": "Fairy",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "New job and new place, it feels like a habit. It's a bit tiring and makes it hard to make friends. But you get to see new places and despite the sudden cold you enjoy discovering this new city and maybe this time will be different from the usual. \n\n[From [url=http://lunaen.com/games/fairy/]official site[/url]]",
+  "source_sha256": "65a730e82d42412e11c072768b1f2b870c6ea68081c0f2cf4c1f3eec6d36313a",
+  "translation": "新工作、新地方，感觉就像一种习惯。有点累，而且很难交到朋友。但你会看到新的地方，尽管突然寒冷，你还是喜欢探索这个新城市，也许这次会与平常不同。\n\n[来自[url=http://lunaen.com/games/fairy/]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v19668"
+}

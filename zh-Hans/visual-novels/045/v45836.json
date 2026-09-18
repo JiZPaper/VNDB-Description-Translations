@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45836",
+  "type": "visual_novel",
+  "name": "Phantasm",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Can you survive a strange encounter?\n\n[From [url=https://wolfwantsred.itch.io/phantasm]Itch.io[/url]]",
+  "source_sha256": "ba1ef95b54461b020c1367d998c369609ca1acdcd0ccfa655a05bb328928eee1",
+  "translation": "你能在一次奇怪的遭遇中幸存下来吗？\n\n[来自[url=https://wolfwantsred.itch.io/phantasm]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v45836"
+}

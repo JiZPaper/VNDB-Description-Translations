@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55323",
+  "type": "visual_novel",
+  "name": "Na vysote",
+  "original_name": "На высоте",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A game about a father and daughter, almost entirely repeating the plot of a folk tale.",
+  "source_sha256": "61e78c64e6ce91dd256c942ff2404488c5ffe075ad5d574e14193cd2314e09ee",
+  "translation": "一款关于父女的游戏，几乎完全重复民间故事的情节。",
+  "vndb_url": "https://vndb.org/v55323"
+}

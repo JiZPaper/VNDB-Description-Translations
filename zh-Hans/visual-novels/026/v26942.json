@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26942",
+  "type": "visual_novel",
+  "name": "Visions of Peace",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a ninja who has been chosen to serve the prince of a certain land. Meeting your master drastically changes your destiny.",
+  "source_sha256": "432a8969f1ca2fca3e12e3043d94bf5ce17709d04f61d70013380486976a3b76",
+  "translation": "你是一名忍者，被选中为某个国家的王子服务。遇见你的主人彻底改变你的命运。",
+  "vndb_url": "https://vndb.org/v26942"
+}

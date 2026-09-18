@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51945",
+  "type": "visual_novel",
+  "name": "Haruki's Magical Adventure",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Magical Girl Haruki needs help saving his prince, Chi-chi, from the evil bad guys trying to take him away! Follow him as he fights bad guys and spends time with his beloved and makes sure Chi-chi is safe from the ever-growing number of murders in their town!\n\nMade by Kryouma as part of Magical Girl Game Jam 3 and then finished development under NaNoReno",
+  "source_sha256": "845003c3e4bca33c66ce56c5416790af5d4a90750e8249ae111eace973566e5d",
+  "translation": "魔法少女春树需要帮助，从试图把他带走的邪恶坏人手中拯救他的王子琪琪！跟随他一起对抗坏人，与心爱的人共度时光，并确保琪琪免受镇上不断增加的谋杀案的伤害！\n\n由Kryouma制作，作为Magical Girl Game Jam 3的一部分，然后在NaNoReno的领导下完成开发",
+  "vndb_url": "https://vndb.org/v51945"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28094",
+  "type": "visual_novel",
+  "name": "Greenlyapie",
+  "original_name": "Гринляпи",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game takes place in 2027. Progress has gone so far that a team of enthusiasts from all over the world gathered to create a virtual reality system with absolute immersion. The first testers of this system were Julia Gavery and Alexandra Vasilieva and Yevgeniya Myaukina. However, the limited knowledge base and low level of system protection caused an emergency situation, which is primarily experienced by testers themselves.",
+  "source_sha256": "2c380c767d84353411ea1f2b66e404b87abb79f86e411d5e7425b37ee74ac7c0",
+  "translation": "游戏发生在2027年。进展如此之大，以至于来自世界各地的爱好者团队聚集在一起，创建了一个具有绝对沉浸感的虚拟现实系统。该系统的第一批测试者是Julia Gavery、Alexandra Vasilieva和Yevgeniya Myaukina。然而，有限的知识库和低水平的系统保护导致了紧急情况，这主要是测试人员自己经历的。",
+  "vndb_url": "https://vndb.org/v28094"
+}

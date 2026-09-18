@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29226",
+  "type": "visual_novel",
+  "name": "Hananusubito",
+  "original_name": "花盗人",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A story about myself, who only wakes up in the winter.\n\n[Translated from the [url=https://www.freem.ne.jp/win/game/11336]official site[/url]]",
+  "source_sha256": "c9588007493e94e4669090a699b5225d105523e50be6342967b40416a0f67f0f",
+  "translation": "一个关于我自己的故事，我只在冬天醒来。\n\n[翻译自[url=https://www.freem.ne.jp/win/game/11336]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v29226"
+}

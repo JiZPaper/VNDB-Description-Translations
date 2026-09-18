@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59232",
+  "type": "visual_novel",
+  "name": "In between",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A simple 15-20 minutes text-based experience surrounding themes related to death.\n\nIs it peaceful in the presence of death? Is it the end? Or is it merely the beginning of a new cycle?",
+  "source_sha256": "df6a8cbf6d46f7c4d179e5b9e5d7e3c01932c6f7d185fa76bcb26d35cff7b356",
+  "translation": "围绕与死亡相关的主题进行15-20分钟的简单文本体验。\n\n死亡面前是否平静？是结束了吗？或者这仅仅是一个新周期的开始？",
+  "vndb_url": "https://vndb.org/v59232"
+}

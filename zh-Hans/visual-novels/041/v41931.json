@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41931",
+  "type": "visual_novel",
+  "name": "The Roommate",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Some time after the passing of your last living relative, you get a promotion and move back to Seattle, a city you left in your youth.\n\nA friend offers you the use of an apartment, but he'd previously told a young woman from your company that she could stay there, and your arrival means she could end up homeless.\n\nHowever, if you don't mind sharing, you'll get to know the beautiful and enigmatic Kari.\n\nAs you settle into your new life, you discover that much of what you were told growing up was untrue and you find yourself with more questions than answers.",
+  "source_sha256": "b1f07f9ce35d922eb9f279843e4748086698880827cc0377213e9c56f18a4e88",
+  "translation": "在你最后一位在世亲人去世后一段时间，你获得晋升并搬回西雅图，一座你年轻时离开的城市。\n\n一位朋友向你提供了一套公寓，但他之前告诉你公司的一位年轻女士，她可以住在那里，而你的到来意味着她可能会无家可归。\n\n然而，如果你不介意分享，你将会认识美丽而神秘的卡里。\n\n当你适应新生活时，你会发现你成长过程中被告知的很多事情都是不真实的，你发现自己的问题多于答案。",
+  "vndb_url": "https://vndb.org/v41931"
+}

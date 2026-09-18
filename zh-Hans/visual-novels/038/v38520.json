@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38520",
+  "type": "visual_novel",
+  "name": "Rongxue",
+  "original_name": "融雪",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "By chance, you meet the hostess of the \"Yusetsu\" bar, Fengxiang and she brings you there. Here you can drink and chat with girls and as their friendliness improves, they will slowly open up to you.",
+  "source_sha256": "c887066e41173f4def4e76a660714a6c84e329622c448b0cc5c8517acc26da32",
+  "translation": "一次偶然的机会，你遇到了“游雪”酒吧的女主人凤翔，她带你去了那里。在这里你可以和女孩们喝酒聊天，随着她们的友善程度提高，她们也会慢慢向你敞开心扉。",
+  "vndb_url": "https://vndb.org/v38520"
+}

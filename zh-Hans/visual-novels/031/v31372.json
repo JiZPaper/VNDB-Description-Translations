@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31372",
+  "type": "visual_novel",
+  "name": "Kampo",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In Kampo you play as a shaman whose goal is to help the villagers to keep the village alive.\n\nTo do this you will have at your disposal various herbs whose virtues you alone know, but beware! Your stocks are limited, so it's up to you to diagnose your patients in order to know whether or not care is necessary so that the population of your village doesn't disappear.\n\nTo help you in this mission you can call upon the favors of the spirits, only the shaman can contact them, but it is up to you to discern which ones are here to help you...",
+  "source_sha256": "44222ed4f9590a79852f4848f2e4a33a667779bade37f8c08cd49b917da6efae",
+  "translation": "在《Kampo》中，你扮演一名萨满，其目标是帮助村民维持村庄的生存。\n\n为此，你将可以使用各种草药，其优点只有你知道，但要小心！你的库存有限，所以你需要对你的病人进行诊断，以确定是否需要护理，这样你村庄的人口才不会消失。\n\n为了帮助你完成这项任务，你可以召唤神灵的恩惠，只有萨满可以联系他们，但要由你来辨别哪些神灵在这里帮助你……",
+  "vndb_url": "https://vndb.org/v31372"
+}

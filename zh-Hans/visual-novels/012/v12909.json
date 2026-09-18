@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12909",
+  "type": "visual_novel",
+  "name": "Bacon Lettuce Retsuden",
+  "original_name": "ベーコンレタス列伝",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A school-based boys' love fairy tale adventure.",
+  "source_sha256": "e0b085cd828601f44cf9ebc5b094c5abd4212c75bced7b948c9f3fe886a8090e",
+  "translation": "一场以学校为基础的男孩爱情童话冒险。",
+  "vndb_url": "https://vndb.org/v12909"
+}

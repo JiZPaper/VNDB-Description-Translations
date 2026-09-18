@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16490",
+  "type": "visual_novel",
+  "name": "Regeria Hope",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In Regeria Hope, you play as a female lawyer who must prove her clients innocent of crimes they did not commit, similar to the Phoenix Wright games. It is an episodic game, where your choices affect the story, and new play styles will be available as new episodes become available. There are plans to include a jury, so you must appease jury members to have your client pronounced innocent, and to include ways to increase the replay value of trials by having your decisions in previous trials affect future trials in meaningful ways.\n\nThe first trial has you defending a husband whose wife has been poisoned during the wedding reception. Currently, you have the ability to interrupt witnesses and other characters while they are speaking, but be careful, as you have a time limit to solve the case!\n\n[Edited from [url=http://goldengamebarn.com/regeria-hope]official site[/url]]",
+  "source_sha256": "a574e151192c4f08755ca19b97f739ac5c763525c4176ac5994c2da851de626e",
+  "translation": "在《Regeria Hope》中，你扮演一名女律师，必须证明她的客户没有犯下的罪行，类似于菲尼克斯赖特游戏。这是一款情景游戏，你的选择会影响故事的发展，并且随着新剧集的出现，新的游戏风格也会出现。有计划包括一个陪审团，所以你必须安抚陪审团成员，让你的当事人被宣告无罪，并包括通过让你在以前的审判中的决定以有意义的方式影响未来的审判来增加审判的重播价值。\n\n第一个审判是让你为一位妻子在婚宴上中毒的丈夫辩护。目前，你可以在证人和其他角色说话时打断他们，但要小心，因为破案有时间限制！\n\n[编辑自[url=http://goldengamebarn.com/regeria-hope]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v16490"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23951",
+  "type": "visual_novel",
+  "name": "The Call",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Ask question, get answers, \nand unveil the mystery \nthat surrounds this insistent caller.\n\n[From [url=https://fullmontis.itch.io/the-call] itch.io[/url]]",
+  "source_sha256": "26bc5ab50887b16c617b6cd1a06d79a0b85631c8e327cd43cec429a312fff900",
+  "translation": "提出问题，得到答案，\n并揭开谜底 \n围绕着这个坚持不懈的来电者。\n\n[来自[url=https://fullmontis.itch.io/the-call] itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v23951"
+}

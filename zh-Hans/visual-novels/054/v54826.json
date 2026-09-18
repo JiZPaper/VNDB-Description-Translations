@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54826",
+  "type": "visual_novel",
+  "name": "The Witch's Hat",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A lone witch encounters the devil. She is caught and tried for her magicks and sexuality.",
+  "source_sha256": "f995ba4e559d846d72e7925f1f4a427135e3c96ab3b7f52577b53f3e7fee8a50",
+  "translation": "孤独的女巫遭遇了恶魔。她因魔法和性欲而被捕并受到审判。",
+  "vndb_url": "https://vndb.org/v54826"
+}

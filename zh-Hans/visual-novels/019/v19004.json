@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19004",
+  "type": "visual_novel",
+  "name": "Birth Rite",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Rhea has just become a mother on an island with a strange custom: the islanders must devour their firstborn children. Will she be able to save her own child?\n\n[From [url=http://globalgamejam.org/2016/games/birth-rite] Global Game Jam[/url]]",
+  "source_sha256": "877edb76c43a504b0648f8354ad2a70cc262c7d606e727a69734ebea275e5bf3",
+  "translation": "瑞亚刚刚成为一名母亲，岛上有一个奇怪的习俗：岛民必须吃掉他们的长子。她能拯救自己的孩子吗？\n\n[来自[url=http://globalgamejam.org/2016/games/birth-rite] Global Game Jam[/url]]",
+  "vndb_url": "https://vndb.org/v19004"
+}

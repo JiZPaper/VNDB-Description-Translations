@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66760",
+  "type": "visual_novel",
+  "name": "Ural",
+  "original_name": "Урал",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A family is forced to flee Moscow and move to Transbaikalia, where they settled in the house of their late grandmother.\n\nThe protagonist, being the eldest son, is forced to work hard in the Urals and solve problems that neither the parents nor the children can handle.\n\n[Based on the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3628772854]Steam description[/url]]",
+  "source_sha256": "86b10d25ab019e6b0c0c13c5cf143646eb9db0d73e304b3524db9b22c191879c",
+  "translation": "一个家庭被迫逃离莫斯科，搬到外贝加尔地区，在已故祖母的家里定居。\n\n主角作为长子，被迫在乌拉尔打工，解决父母和孩子都无法解决的问题。\n\n[基于 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3628772854]Steam描述[/url]]",
+  "vndb_url": "https://vndb.org/v66760"
+}

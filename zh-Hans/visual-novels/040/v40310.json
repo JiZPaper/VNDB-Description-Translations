@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40310",
+  "type": "visual_novel",
+  "name": "Elfie",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In this short visual novel you follow Elfie on her way home, together with her best friend Abelone.\n\n[From [url=https://motheous.itch.io/elfie]Itch.io[/url]]",
+  "source_sha256": "e2e760cb62705692eac41df873f7f94dd4dd6bedd5cf50d5ad4f51c67495b521",
+  "translation": "在这部短篇视觉小说中，你将跟随艾尔菲和她最好的朋友阿贝隆一起踏上回家的路。\n\n[来自[url=https://motheous.itch.io/elfie]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v40310"
+}

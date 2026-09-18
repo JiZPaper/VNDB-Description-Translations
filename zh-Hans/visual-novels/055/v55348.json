@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55348",
+  "type": "visual_novel",
+  "name": "Vosmoy den nedeli",
+  "original_name": "Восьмой день недели",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The events of the mod take place on the eighth day of the shift, after Semyon fails to get out of Sovenok on the bus.\n\n[Translated from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=506740780]Steam[/url]]",
+  "source_sha256": "35cfbac45c38bb0264ee7cf5816998b4d188323c937d9da6ab15ae7852c158b6",
+  "translation": "该模组的事件发生在轮班的第八天，当时谢苗未能乘坐公共汽车离开索维诺克。\n\n[译自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=506740780]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v55348"
+}

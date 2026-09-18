@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31989",
+  "type": "visual_novel",
+  "name": "Mawangnimeun Ulil Silheohae!",
+  "original_name": "마왕님은 우릴 싫어해!",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You have achieved countless things in your quest to become the rightful Lord of Demons. During this difficult journey, three men appear right in the nick of time as you are in danger! Will you be able to claim the throne at the end of this journey?\n\n[From in-app]",
+  "source_sha256": "500650f400530f82877826d6e8f9a3c4dc7ca5fdc33204a994022939a2581fbb",
+  "translation": "为了成为合法的恶魔之主，你已经取得了无数的成就。在这段艰难的旅程中，三个男人在你面临危险的关键时刻出现！你能在旅程结束时夺取王位吗？\n\n[来自应用程序内]",
+  "vndb_url": "https://vndb.org/v31989"
+}

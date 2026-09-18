@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29309",
+  "type": "visual_novel",
+  "name": "Devil's Door",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A horror drama visual novel set in the countryside town of Marbrooke. Being the new kid in a small town is never easy. Will you live long enough to discover Marbrooke's secrets?\n\nAn ode to classic horror films, tropes, and the good ole' spirit of Halloween.",
+  "source_sha256": "f01bb3f9d8117162dcf1d1d06dde148b581535c947fcd01b08603f793a01b90d",
+  "translation": "一部以马尔布鲁克乡村小镇为背景的恐怖剧情视觉小说。作为小镇上的新孩子绝非易事。你能活到发现马布鲁克的秘密吗？\n\n对经典恐怖电影、比喻和万圣节美好精神的颂歌。",
+  "vndb_url": "https://vndb.org/v29309"
+}

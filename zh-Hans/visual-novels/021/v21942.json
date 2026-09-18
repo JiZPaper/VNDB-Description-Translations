@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21942",
+  "type": "visual_novel",
+  "name": "Book of Stones",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The end is nigh.\n\nMonsters are at the city gates, and only your alchemy holds them back. With dwindling resources and a whole two days before reinforcements arrive, the situation looks bleak.\n\nAs the High Alchemist, you must choose how to defend your city from threats both outside and inside the city walls until reinforcements can break the enemy siege.\n\nWhat are you willing to sacrifice to protect your city?\n\n[From [url=https://whirlystudios.itch.io/bookofstones]itch.io[/url]]",
+  "source_sha256": "972b6e4c6d9a3e765c35c93eac4fb13c171d84062f7e67c98bda33f88873a6c1",
+  "translation": "末日已近。\n\n怪物已经来到城门口，只有你的炼金术才能阻止它们。由于资源日益减少，距离增援部队抵达还有整整两天，形势看起来十分严峻。\n\n作为高级炼金术士，你必须选择如何保卫你的城市免受城墙内外的威胁，直到援军能够突破敌人的围困。\n\n为了保护你的城市，你愿意牺牲什么？\n\n[来自[url=https://whirlystudios.itch.io/bookofstones]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v21942"
+}

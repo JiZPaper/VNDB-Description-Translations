@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57500",
+  "type": "visual_novel",
+  "name": "CaveGals",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Set in the Stone Age. A shut-in Cave Woman named Smoke meets a strange woman (with glasses) who supposedly came from the mystical land called \"Future.\" Together, they set out to explore the island, meet wacky characters, find hidden truths, and maybe find love?",
+  "source_sha256": "05f3ac2f75f10bacdbe7e0b3e0dc21ac8070ed95911e759546810eb35be88649",
+  "translation": "以石器时代为背景。一个名叫斯莫克的被关起来的洞穴女人遇到了一个陌生的女人（戴着眼镜），据说她来自名为“未来”的神秘土地。他们一起出发探索岛屿，遇到古怪的人物，寻找隐藏的真相，也许还找到爱情？",
+  "vndb_url": "https://vndb.org/v57500"
+}

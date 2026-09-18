@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21143",
+  "type": "visual_novel",
+  "name": "Cupid Bistro!!",
+  "original_name": "愛神餐館Cupid Bistro!!",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The player takes control of a bistro in the Cinnamon Kingdom. During his job, he'll meet several girls.",
+  "source_sha256": "a095c4d276cf1e74a05f77c379d471b35d81a263ffee76af3222a9a0523dd025",
+  "translation": "玩家控制肉桂王国的一家小酒馆。在工作期间，他会认识几个女孩。",
+  "vndb_url": "https://vndb.org/v21143"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23496",
+  "type": "visual_novel",
+  "name": "Ja - Monstr?",
+  "original_name": "Я - монстр?",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You have become a werewolf! But that beastly appearance is not as dangerous as the beast growing inside you. Are you a monster or a human? That is the answer you need to discover.\n\t\n[From [url=https://nlbproject.com/hub/game?name=am_i_a_monster_vn]official website[/url]]",
+  "source_sha256": "456eb7944068ac55e3a131a8f934cbfb188af75db016e789e1e3c75c70b98656",
+  "translation": "你已经变成狼人了！但那种野兽般的外表并不像你体内生长的野兽那么危险。你是怪物还是人类？这就是你需要发现的答案。\n\t\n[来自[url=https://nlbproject.com/hub/game?name=am_i_a_monster_vn]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v23496"
+}

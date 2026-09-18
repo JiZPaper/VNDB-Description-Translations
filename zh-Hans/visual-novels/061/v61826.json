@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61826",
+  "type": "visual_novel",
+  "name": "Hello, Japan!",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Welcome to our visual novel titled “Hello, Japan!”\n\nWe created this visual novel as material for novice Japanese learners to read for fun. You can start reading this visual novel after just a few chapters into your 1st-year Japanese textbook.\n\nThis visual novel is designed as supplementary material for the textbook「TOBIRA 1: Beginning Japanese」but we believe that you can read this visual novel along with other major 1st-year Japanese textbooks as well.\n\n[From the [url=http://hello-japan-vn.com/]official site[/url]]",
+  "source_sha256": "1f42cfec4ff8d54fbfd7483fcdfb5039aad5bf228f5ae531170463162f316a6d",
+  "translation": "欢迎来到我们的视觉小说《你好，日本！》我们创作了这本视觉小说，作为日语初学者的有趣阅读材料。只需读完一年级日语教科书的几章后，你就可以开始阅读这部视觉小说。\n\n这部视觉小说是作为教科书“TOBIRA 1：初级日语”的补充材料而设计的，但我们相信你也可以将这部视觉小说与其他主要的一年级日语教科书一起阅读。\n\n[来自[url=http://hello-japan-vn.com/]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v61826"
+}

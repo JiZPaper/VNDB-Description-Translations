@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42522",
+  "type": "visual_novel",
+  "name": "Destro",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a police officer living in destro one of the greatest cities in the country with your best friend.\n\nOne day you get assigned your first case, a murder.\n\nBut you'll find out as the story progresses that it wasn't just a simple murder...\n\n[From Itch.io]",
+  "source_sha256": "6fbebb05293d356743a5021611473b2b8b91c2d3dda87ecc16fd989ce0334f8a",
+  "translation": "你是一名警察，和你最好的朋友住在这个国家最伟大的城市之一的城市。\n\n有一天，你接到了第一个案件：谋杀案。\n\n但随着故事的进展你会发现这不仅仅是一起简单的谋杀案……\n\n[来自Itch.io]",
+  "vndb_url": "https://vndb.org/v42522"
+}

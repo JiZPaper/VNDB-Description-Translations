@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34428",
+  "type": "visual_novel",
+  "name": "Jigoku Sensei Nuubee",
+  "original_name": "地獄先生ぬ〜べ〜",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A simulation game in which the main character, a boy (whose name is decided by the player), moves into the 3rd grade of Domori Elementary School and experiences a school year with Nuubee and the rest of children and Nuubee, becoming involved in the school's seven mysteries.",
+  "source_sha256": "42ed78c9862baf2b22a27b4f089a1ef07bc01601198c22b37c4672dae6aa4942",
+  "translation": "这是一款模拟游戏，主角是一名男孩（名字由玩家决定），进入多森小学三年级，与Nuubee和其他孩子们一起经历一个学年，并卷入学校的七大谜团。",
+  "vndb_url": "https://vndb.org/v34428"
+}

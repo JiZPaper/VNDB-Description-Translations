@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57783",
+  "type": "visual_novel",
+  "name": "For Ever Melancholia",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An archaeology student is sent to do his summer training in a place far away from civilization. There he meets three beautiful girls who share his passion for cinema and art. What can possibly go wrong?",
+  "source_sha256": "f7ce2b5ba64edda0b0411fe0b60627dd74462f2b579ff36e85d36be2c1fe2bf1",
+  "translation": "一名考古专业的学生被派往远离文明的地方进行暑期训练。在那里，他遇到了三个美丽的女孩，她们和他一样对电影和艺术充满热情。可能会出现什么问题？",
+  "vndb_url": "https://vndb.org/v57783"
+}

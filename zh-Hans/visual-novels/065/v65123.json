@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65123",
+  "type": "visual_novel",
+  "name": "Nulevoj kilometr",
+  "original_name": "Нулевой километр",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "After disturbing the silence of a Karelian forest, a young woman finds herself trapped, where the only way to survive is through honest conversations with people just as lost as she is. Through urban legends and shared stories, they must remember what brought them there and choose between redemption and eternal oblivion.\nBut the forest hears everything, and some paths offer no way back.",
+  "source_sha256": "308f217fb27e30262a595c77b12b1b884f173e2de786b81b20e4d9be41873a52",
+  "translation": "一名年轻女子扰乱了卡累利阿森林的寂静后，发现自己陷入了困境，唯一的生存之道就是与像她一样迷失的人们进行诚实的对话。通过都市传说和共同的故事，他们必须记住是什么将他们带到了这里，并在救赎和永恒的遗忘之间做出选择。\n但森林能听到一切，有些道路没有回头路。",
+  "vndb_url": "https://vndb.org/v65123"
+}

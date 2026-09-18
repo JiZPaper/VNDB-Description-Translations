@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16777",
+  "type": "visual_novel",
+  "name": "Coda",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hannibal fan game.",
+  "source_sha256": "dd10e18d4c0cb5d8ebb01989bff9d52e715eb2fac7f100ce2c5850d6f2d29939",
+  "translation": "汉尼拔粉丝游戏。",
+  "vndb_url": "https://vndb.org/v16777"
+}

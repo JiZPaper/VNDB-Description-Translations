@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60160",
+  "type": "visual_novel",
+  "name": "Love Sign",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A smoldering stranger invades your vision and gives you a mission. What will you do?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "51a357ae2dfc3ac96eecef2e4c721aecd8fd9b52af33e4dd8241a0423df0eb21",
+  "translation": "一个阴燃的陌生人侵入你的视野并赋予你一个使命。你会怎么做？\n\n[来自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian应用程序[/url]]",
+  "vndb_url": "https://vndb.org/v60160"
+}

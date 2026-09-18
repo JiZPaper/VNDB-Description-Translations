@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65135",
+  "type": "visual_novel",
+  "name": "ANGELY",
+  "original_name": "АНГЕЛЫ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "What will remain of you in this city once you are truly alone?",
+  "source_sha256": "f2ca4b970e96e0d8a02c195603db8184e77b29a02815b6ceebda5b907b7a5543",
+  "translation": "当你真正孤独时，你在这个城市还剩下什么？",
+  "vndb_url": "https://vndb.org/v65135"
+}

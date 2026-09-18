@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60423",
+  "type": "visual_novel",
+  "name": "Dreaming Blue",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This visual novel takes place in a fantasy world where humans, gods, and spirits coexist. The protagonist has a curse that draws entities (strangelings) to her, so she must find a way to break the curse. She meets two gods who can help her fulfill her objectives.\n\n[From [url=https://store.steampowered.com/app/2940920/Dreaming_Blue/?beta=0]Steam[/url]]",
+  "source_sha256": "4ce2141e3e15a66b9b30f3365b4dfbbde52e94fb2b4c1538000a656e37605793",
+  "translation": "这部视觉小说发生在人类、神灵共存的奇幻世界。主角有一个诅咒，会吸引实体（怪人）到她身边，所以她必须找到打破诅咒的方法。她遇到了两位可以帮助她实现目标的神。\n\n[来自[url=https://store.steampowered.com/app/2940920/Dreaming_Blue/?beta=0]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v60423"
+}

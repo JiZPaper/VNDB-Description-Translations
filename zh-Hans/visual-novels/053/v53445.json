@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53445",
+  "type": "visual_novel",
+  "name": "The Haunting of Monika After Story",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A Doki Doki Literature Club Mod;Play as an adolescent broke male who is a chronic Monika After Story player. However, his life turns upside down when he installs an unreleased mod.",
+  "source_sha256": "5f5f4e7353013a6e2c4a3d15817633f9d3bf66058226a582b7135a463e5a308e",
+  "translation": "Doki Doki文学俱乐部模组；扮演一名身无分文的青少年男性，长期沉迷于Monika After Story玩家。然而，当他安装了一个未发布的模组后，他的生活发生了翻天覆地的变化。",
+  "vndb_url": "https://vndb.org/v53445"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55233",
+  "type": "visual_novel",
+  "name": "Tessa",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're a military black budget operator sent to inspect a future weapons platform. Rumors of a new AI capable of passing a Turing test brings you face to face with model T3554 (Tessa).​",
+  "source_sha256": "50a35873c68c130fb3051d6d78ac49a9a0caebce1c7f651c2d57ce952e3bbace",
+  "translation": "你是一名军事黑色预算操作员，被派去检查未来的武器平台。关于能够通过图灵测试的新人工智能的传言让你与型号T3554 (Tessa) 面对面。​",
+  "vndb_url": "https://vndb.org/v55233"
+}

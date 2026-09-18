@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30990",
+  "type": "visual_novel",
+  "name": "Gallery Fake",
+  "original_name": "ギャラリーフェイク",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Gallery Fake is a pure adventure game that takes after the anime/manga of the same name. You play as Fujita Reiji and must solve the mysterious events surrounding a few priceless pieces of artwork. Gameplay seems to be centered on dialogue, giving you options to \"break\" into conversations and determine when you're being told something that's \"fake.\" New scenarios featuring famous real pieces of artwork will feature in this portable adaptation",
+  "source_sha256": "5aa437d059358a19c2d16658e74c621d7abfb7d8ef628975f6c09d80b7d23c29",
+  "translation": "Gallery Fake是一款纯粹的冒险游戏，改编自同名动漫/漫画。你扮演藤田丽二，必须解决围绕一些无价艺术品的神秘事件。游戏玩法似乎以对话为中心，让你可以选择“闯入”对话并确定何时被告知“假”的东西。这个便携式改编版本中将出现以著名真实艺术品为特色的新场景",
+  "vndb_url": "https://vndb.org/v30990"
+}

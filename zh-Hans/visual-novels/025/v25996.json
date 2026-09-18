@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25996",
+  "type": "visual_novel",
+  "name": "Senjou de Shoujo wa Karada o Kakeru - Dark Side",
+  "original_name": "戦場デ少女ハ躰ヲカケル Dark Side",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Dark Side is an if scenario released only as a privilege through mail order.\nIt asks what would have happened \"if\" Nicolette had destroyed Sean's unit when he was away, forcing him to start over with new recruits.",
+  "source_sha256": "e05a19eaad3b57e65bca501c72d29548ec5c5a51161e10b1232eec9d9aa7f439",
+  "translation": "《黑暗面》是一个仅通过邮购作为特权发布的场景。\n它询问“如果”尼科莱特在肖恩离开时摧毁了他的部队，迫使他重新招募新兵，会发生什么。",
+  "vndb_url": "https://vndb.org/v25996"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31660",
+  "type": "visual_novel",
+  "name": "MEGALITH",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short story about the last man on Earth.\n\n[From [url=https://nikita-kryukov.itch.io/]Itch.io[/url]]",
+  "source_sha256": "b48ef7a53c498e3cdb15d1444bf4bcf655a4a4b79117ea05f7e3631c24f6a9e0",
+  "translation": "关于地球上最后一个人的短篇故事。\n\n[来自[url=https://nikita-kryukov.itch.io/]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v31660"
+}

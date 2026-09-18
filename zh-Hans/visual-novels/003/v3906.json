@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3906",
+  "type": "visual_novel",
+  "name": "Sketchbook: Schoolgirls in Love and Other Assorted Heartbreak",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A slice-of-life melodrama that's all about the important parts of growing up: falling in love with another girl, impeaching a corrupt student council president, uncomfortable sex, and not colouring within the lines.",
+  "source_sha256": "2a4b9cbfadcfda9e5c1c7a72bf10e5225f32dc164e6de7409db26f835ba4277f",
+  "translation": "这是一部生活片段的情节剧，讲述了成长中的重要部分：爱上另一个女孩、弹劾腐败的学生会主席、不舒服的性行为以及不墨守成规。",
+  "vndb_url": "https://vndb.org/v3906"
+}

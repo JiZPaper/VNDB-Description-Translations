@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51292",
+  "type": "visual_novel",
+  "name": "Lost Days 0: Queen's Dream",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Lost Days 0: Queen's Dream is a Sci-Fi isual novel for the Sega Saturn about Io, a pilot/spy who was sent to United Europe to investigate Cornelli, meanwhile, the arrival of a skilled assassin threatens her mission.",
+  "source_sha256": "4191eca1295c52aeeac22b90f3aa635d09659207c72d8316cb014385575358e2",
+  "translation": "《失落的日子0：女王之梦》是世嘉土星的一部科幻小说，讲述了艾欧（Io）是一名飞行员/间谍，被派往联合欧洲调查科内利，与此同时，一名熟练刺客的到来威胁了她的使命。",
+  "vndb_url": "https://vndb.org/v51292"
+}

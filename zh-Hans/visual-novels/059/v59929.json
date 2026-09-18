@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59929",
+  "type": "visual_novel",
+  "name": "Yandere Game",
+  "original_name": "ヤンデレゲーム",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "—A tragedy befalls a girl who has just been dumped by her boyfriend—\n\nThis browser game, originally released on April Fools’ Day 2012, has been ported to Kirikiri and made available for download.\nPlease keep in mind that it was created as an “April Fools’ Day game” when playing.",
+  "source_sha256": "b9bf43f8b775d5a404462322f8bc1e2aaee468f0bd614a9dd52ab5a6298c5fed",
+  "translation": "——悲剧降临在一个刚刚被男友甩掉的女孩身上——\n\n这款浏览器游戏最初于2012年愚人节发布，现已移植到Kirikiri并可供下载。\n玩时请记住，它是作为“愚人节游戏”创建的。",
+  "vndb_url": "https://vndb.org/v59929"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58691",
+  "type": "visual_novel",
+  "name": "Peeping Pool",
+  "original_name": "ピーピングプール",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a linear visual novel about a friend who became the manager of the swimming club.\nIt’s slightly yuri-leaning (but male characters also appear and are involved in the romance).",
+  "source_sha256": "3fb9da3582fb09193adc82253647acfb21740036d327491f908fae94a141ea18",
+  "translation": "这是一部线性视觉小说，讲述了一位成为游泳俱乐部经理的朋友的故事。\n它有点尤里倾向（但男性角色也出现并参与浪漫）。",
+  "vndb_url": "https://vndb.org/v58691"
+}

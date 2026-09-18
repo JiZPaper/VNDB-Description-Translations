@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30463",
+  "type": "visual_novel",
+  "name": "Rain & Chamomile Tea",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The story of a girl who wakes up in an unfamiliar beachside town after a nightmarish sort of mania. The air is thick with fog and the smell of rot; it almost seems as if something is hiding from her.\n\n[From [url=https://denpa.neocities.org/rain.html]official website[/url]]",
+  "source_sha256": "c581e8984bff8295397bd8b5759c36eeed70d32455ab53ab903a1e46e89530a7",
+  "translation": "一个女孩在经历了一场噩梦般的狂热后在一个陌生的海滨小镇醒来的故事。空气中弥漫着浓浓的雾气和腐烂的气味。似乎有什么事情瞒着她。\n\n[摘自[url=https://denpa.neocities.org/rain.html]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v30463"
+}

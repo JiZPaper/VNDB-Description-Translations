@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29477",
+  "type": "visual_novel",
+  "name": "St.ChocolateDay",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist is an ordinary guy. On Valentine's Day, February 14th, he receives chocolate from a girl. On White Day, he wants to return the favor.",
+  "source_sha256": "b02eeb1b9060a6e7fb54bf0e0efe34c936a095d3dffa19be0423858095d55e86",
+  "translation": "主角是一个普通人。2月14日情人节，他收到了一个女孩送的巧克力。白色情人节，他要报恩。",
+  "vndb_url": "https://vndb.org/v29477"
+}

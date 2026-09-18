@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13048",
+  "type": "visual_novel",
+  "name": "White City Dating Sim (Proof of Concept / Game Jam Version)",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An inanimate object dating sim created in one day for [url=http://electricopolis.tumblr.com/post/47453738354/pphsjam-roundup-post]PPHSJAM[/url].\n\nConcept was later used to create a full game of the same name.",
+  "source_sha256": "23430873bdc664890892371ee07f06ca8b92e93f78863d80d9f04764c8b736d8",
+  "translation": "一天内创建的无生命物体约会模拟游戏[url=http://electricopolis.tumblr.com/post/47453738354/pphsjam-roundup-post]PPHSJAM[/url]。\n\n概念后来被用来创建同名的完整游戏。",
+  "vndb_url": "https://vndb.org/v13048"
+}

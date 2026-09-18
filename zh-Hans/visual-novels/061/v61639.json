@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61639",
+  "type": "visual_novel",
+  "name": "XS Crossing Fate",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You've never been one to believe in fate. But when you save a beautiful girl one day at a crossroad, fate throws you in for a ride you won't forget!​",
+  "source_sha256": "06651e58ddf62317a866d4ed3bc6ac27edd20680e35fff4b1932431c7dea308d",
+  "translation": "你从来都不是一个相信命运的人。但有一天，当你在十字路口拯救了一位美丽的女孩时，命运就会让你踏上一段难忘的旅程！​",
+  "vndb_url": "https://vndb.org/v61639"
+}

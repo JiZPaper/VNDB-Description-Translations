@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60135",
+  "type": "visual_novel",
+  "name": "Past Twelve",
+  "original_name": "باست تويلف",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Two sisters are suddenly evicted from their apartment, forcing themselves into a series of misadventures filled with bizarre situations. Their daily quarrels and the decisions they make will lead them to encounter unexpected surprises, including dark secrets about the people around them and the places they visit.",
+  "source_sha256": "8a7748be63c956453068d8b8163725afb02792a8dd218d13233d45c1122034d3",
+  "translation": "两姐妹突然被赶出公寓，被迫陷入一系列充满奇异情况的不幸遭遇中。他们每天的争吵和做出的决定会让他们遇到意想不到的惊喜，包括关于他们周围的人和他们去过的地方的黑暗秘密。",
+  "vndb_url": "https://vndb.org/v60135"
+}

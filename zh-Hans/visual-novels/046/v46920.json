@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46920",
+  "type": "visual_novel",
+  "name": "Duke's Donuts",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a private investigator searching for clues to find a missing person. So far they have led you to the abandoned Duke's Donuts location she was last seen. \n\n[from [url=https://axxisproductions.itch.io/dukes-donuts]itch.io[/url]]",
+  "source_sha256": "f9a46897569e41025f0272e353fb5b2095d68dfef97327ae11e0513749f57d40",
+  "translation": "你是一名私家侦探，正在寻找线索以寻找失踪者。到目前为止，他们已经带你到了她最后一次出现的废弃的杜克甜甜圈地点。\n\n[来自[url=https://axxisproductions.itch.io/dukes-donuts]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v46920"
+}

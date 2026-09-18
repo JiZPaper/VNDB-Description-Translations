@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47074",
+  "type": "visual_novel",
+  "name": "Mr. Rainer's Solve-It Service",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Mr. Rainer's Solve-It Service follows the story of ÜLAR, a newly recruited Solver with an empty stomach in a world without hunger.\nAs his inner emptiness grows and Termination looms over the twelve Domes, the silent voices echoing in the minds of hjöriankind begin to take over.",
+  "source_sha256": "911e61af7322d9a34d73352c25c9105fa6f8e6ba7d3952d91a89830407ed45b5",
+  "translation": "Rainer先生的Solve-It服务讲述了 ÜLAR的故事，ÜLAR是一位新招募的求解者，在一个没有饥饿的世界中空腹。\n随着他内心的空虚感日益增强，十二个穹顶上空的终结迫在眉睫，在hjöriankind的脑海中回荡的无声声音开始占据主导地位。",
+  "vndb_url": "https://vndb.org/v47074"
+}

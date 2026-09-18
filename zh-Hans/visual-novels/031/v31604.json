@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31604",
+  "type": "visual_novel",
+  "name": "Nightowl",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A group of high school friends reunite over a chat room and try to relive the good times of when they were all together, but can their friendship endure the lost time?\n\n[From [url=https://crystalgameworks.itch.io/nightowl]itch.io[/url]]\n\nEntry for Ludum Dare 37.",
+  "source_sha256": "463ff0d7d73cca74194e2d17e2a632e66ff77fc979f634f3cf08b45b88818dd4",
+  "translation": "一群高中好友在聊天室重聚，试图重温在一起的美好时光，但他们的友谊能否承受失去的时光？\n\n[来自[url=https://crystalgameworks.itch.io/nightowl]itch.io[/url]]\n\nLudum Dare 37的参赛作品。",
+  "vndb_url": "https://vndb.org/v31604"
+}

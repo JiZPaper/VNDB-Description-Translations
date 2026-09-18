@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29935",
+  "type": "visual_novel",
+  "name": "Mayonaka no Juliet",
+  "original_name": "真夜中のジュリエット",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You may be a trust fund baby, but you work hard to achieve your dreams:\nMaking your mark, and maybe finding love along the way.\nSadly, your parents have other plans, surprising you with a fiance.\n\nAre you bound by your parents' choice?\nOr does the voice beyond your balcony offer something more?",
+  "source_sha256": "629c604f16b1053d0e7ed9d6a09c34b137a546f91567f4f864152ab8d06e73d5",
+  "translation": "你可能是信托基金宝贝，但你为实现梦想而努力：\n留下你的印记，也许一路上找到爱情。\n可悲的是，你的父母另有计划，给你带来了未婚夫的惊喜。\n\n你会被父母的选择所束缚吗？\n或者阳台外的声音是否提供了更多信息？",
+  "vndb_url": "https://vndb.org/v29935"
+}

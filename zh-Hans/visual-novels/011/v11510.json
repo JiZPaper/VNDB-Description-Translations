@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11510",
+  "type": "visual_novel",
+  "name": "Ryouko no Oshaberi Room",
+  "original_name": "涼子のおしゃべりルーム",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fandisc to the Inoue Ryouko series. Includes four modes:\n\nChat mode: Talk about different subjects with Ryouko. Her responses change depending on the time.\n\nMemory album: View CGs and illustrations from the various games.\n\nQuiz mode: Ryouko quizzes you about things.\n\nWhat day is it today?: Ryouko tells you what holiday it is today.",
+  "source_sha256": "9e3557ecd4be284c06fbfbb43b06ac4cdbbc5ec1f3e46b6d88a6a30b97672b38",
+  "translation": "井上凉子系列的Fandisc。包括四种模式：\n\n聊天模式：与凉子谈论不同的话题。她的反应会根据时间而变化。\n\n记忆相册：查看各种游戏的CG和插图。\n\n测验模式：Ryouko会向你提问一些事情。\n\n今天星期几？：凉子告诉你今天是什么节日。",
+  "vndb_url": "https://vndb.org/v11510"
+}

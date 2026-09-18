@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54099",
+  "type": "visual_novel",
+  "name": "Restaurant Yadorigi",
+  "original_name": "料理店　宿り木",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist, Lucy, has been running the restaurant “Yadorigi” alone after losing her father in an accident.\nOne day, she loses the secret recipe, making it difficult to recreate her father’s signature flavor.\nAs customers begin to leave and the restaurant nears closure, her childhood friend—a chef—returns to town.\nEncouraged by Lision, she decides to create a “signature dish” using a “special ingredient” together with him.\nWill Lucy be able to complete her signature dish?",
+  "source_sha256": "5fbca91f8454addae86e2773fa1a874b5f544ef65fea0cd6d9c603f1acbcece3",
+  "translation": "主人公露西在父亲因事故去世后，独自经营着餐厅“Yadorigi”。\n有一天，她失去了秘方，使得她很难重现父亲的招牌风味。\n随着顾客开始离开，餐厅即将关门，她儿时的朋友——一名厨师——回到了城里。\n在Lision的鼓励下，她决定与他一起用“特殊食材”打造一道“招牌菜”。\n露西能完成她的招牌菜吗？",
+  "vndb_url": "https://vndb.org/v54099"
+}

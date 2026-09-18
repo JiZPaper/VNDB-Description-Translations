@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31157",
+  "type": "visual_novel",
+  "name": "Higurashi no Naku Koro ni: Console Arcs",
+  "original_name": "ひぐらしのなく頃に: Console Arcs",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This entry is only concerned with the original content featured in the console exclusive releases of the Higurashi series, known as 'Matsuri', 'Kizuna' and 'Sui':\n\nMatsuri:\n• Taraimawashi-hen\n• Tsukiotoshi-hen\n• Miotsukushi-hen (only what mostly corresponds to the content later labeled in Sui and on as \"Miotsukushi Omote\")\n\nKizuna:\n• Someutsushi-hen (Kizuna 1)\n• Kageboushi-hen (Kizuna 2)\n• Hirukowashi-hen (Kizuna 2; was rewritten for this version, namely the addition and removal of certain characters and removal of references to plot details not yet revealed in the Kizuna series.)\n• Yoigoshi-hen (Kizuna 3)\n• Tokihogushi-hen (Kizuna 3)\n• Kotohogushi-hen (Kizuna 4)\n• Miotsukushi-hen (Kizuna 4; for the most part, only the content later labeled in Sui and on as \"Miotsukushi Ura\" is new to this release, but it also includes \"Omote\" content, albeit with some changes)\n\nSui:\n• Hajisarashi-hen",
+  "source_sha256": "64e7d4a1147f8ee495339ae832fc1a66b394673161dbf07e08c13de8df354074",
+  "translation": "此条目仅涉及Higurashi系列的控制台独家版本（称为“Matsuri”、“Kizuna”和“Sui”）中的原始内容：\n\n祭：\n• 塔赖马瓦什编\n• 月岁编\n• Miotsukushi-hen（仅与后来在Sui中标记为“Miotsukushi Omote”的内容大部分对应）伤无：\n• 染毛编（伤1）\n• Kageboushi-hen (Kizuna 2)\n• Hirukowashi-hen（《绊2》；为此版本进行了重写，即添加和删除了某些角色，并删除了对《绊》系列中尚未透露的情节细节的引用。）\n• 与越编（绊3）\n• Tokihogushi-hen (Kizuna 3)\n• Kotohogushi-hen (Kizuna 4)\n• Miotsukushi-hen（Kizuna 4；大多数情况下，只有后来在Sui中标记为“Miotsukushi Ura”的内容是此版本的新增内容，但它也包括“Omote”内容，尽管有一些更改）隋：\n• Hajisarashi编",
+  "vndb_url": "https://vndb.org/v31157"
+}

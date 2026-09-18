@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60689",
+  "type": "visual_novel",
+  "name": "Doctor Visit",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel where you play as a doctor's patient. You have something mysterious growing on your hand. Your issue gets worse and worse as more days passes. Will the doctor help you or a much worse fate awaits you?\n\n[From [url=https://store.steampowered.com/app/4144840/]Steam[/url]]",
+  "source_sha256": "5808ae08a3142c9acff1850ab23a8cb74a050b2f0dd21acf617c88d6eca63eba",
+  "translation": "一部视觉小说，你在其中扮演医生的病人。你的手上长着一些神秘的东西。随着时间的推移，你的问题会变得越来越严重。医生会帮助你还是更糟糕的命运等待着你？\n\n[来自[url=https://store.steampowered.com/app/4144840/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v60689"
+}

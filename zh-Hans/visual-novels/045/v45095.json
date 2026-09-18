@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45095",
+  "type": "visual_novel",
+  "name": "Secret of Evangelion",
+  "original_name": "シークレット オブ エヴァンゲリオン",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "First released in December 21, 2006 for the PlayStation 2, Secret of Evangelion is based on the events of TV series and the movie \"The End of Evangelion\". It follows the original character, Kyoya Kenzaki, discovering secrets of the Human Instrumentality Project and other events regarding Evangelion Unit-04. Depending on the choices made, there are 10 different endings.\n\n[Edited from [url=https://evangelion.fandom.com/wiki/Secret_of_Evangelion]Evangelion Wiki[/url]]",
+  "source_sha256": "c805eb90b3206703ad301e845049e41303fdf89cd6505de1a161abb7347b77c6",
+  "translation": "《新世纪福音战士的秘密》于2006年12月21日首次在PlayStation 2上发布，基于电视剧和电影《新世纪福音战士的终结》中的事件。它讲述了原作角色Kyoya Kenzaki发现人类补足计划的秘密以及有关新世纪福音战士Unit-04的其他事件的故事。根据所做的选择，有10种不同的结局。\n\n[编辑自[url=https://evangelion.fandom.com/wiki/Secret_of_Evangelion]新世纪福音战士维基[/url]]",
+  "vndb_url": "https://vndb.org/v45095"
+}

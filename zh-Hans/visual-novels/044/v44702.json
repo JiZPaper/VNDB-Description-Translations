@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44702",
+  "type": "visual_novel",
+  "name": "Vizzy's Room",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hello! My name is Vizzy! But you can call me Viz for short. Welcome to my room! \n\nVizzy's Room is a short visual novel that explores how a game might feel after it's been abandoned for so long. What happens when you find out that a program that's been sitting on your hard drive for years is sentient and has feelings? How far would you go to keep them company before ultimately forgetting about them once more?\n\n[from [url=https://mettaseven.itch.io/vizzys-room]Itch.io[/url]]",
+  "source_sha256": "bd4299334b60ffaa76ae17e2b0e71a05d01b0d0b6ad54b26e0b75ef4f0d0ee4c",
+  "translation": "你好！我的名字是维兹！但你可以简称我为Viz。欢迎来到我的房间！\n\n《Vizzy's Room》是一部简短的视觉小说，探讨了一款游戏在被废弃这么长时间后的感受。当你发现一个在你的硬盘上保存多年的程序具有感知能力并且有感情时，会发生什么？在最终再次忘记他们之前，你会花多长时间陪伴他们？\n\n[来自[url=https://mettaseven.itch.io/vizzys-room]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v44702"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13210",
+  "type": "visual_novel",
+  "name": "Only One",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Game about boy, who had lived quietly until he discovered the truth about his destiny. The boy will have to choose who is going to die. Only he can destroy the original hybrid - Niklaus and save the world.",
+  "source_sha256": "3ca71e537ad0069f77ef35ca1494d67c014a123c8db62ac1c31bd6cff045f9da",
+  "translation": "游戏讲述的是一个男孩，他一直平静地生活，直到他发现了自己命运的真相。男孩必须选择谁将死去。只有他才能摧毁最初的混血儿——尼克劳斯并拯救世界。",
+  "vndb_url": "https://vndb.org/v13210"
+}

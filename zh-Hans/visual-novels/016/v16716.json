@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16716",
+  "type": "visual_novel",
+  "name": "Nothing Happened",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A young genius and his female AR companion are given a mission at the Ateneo de Manila University: to be productive.\n\n[From [url=http://globalgamejam.org/2015/games/nothing-happened]Global Game Jam[/url]]",
+  "source_sha256": "4d6435d039445cdf739f7ba920bdaca6ec2ceed80b401c247aa8db16304ae171",
+  "translation": "一位年轻的天才和他的AR女伙伴在马尼拉雅典耀大学被赋予了一项使命：提高生产力。\n\n[来自[url=http://globalgamejam.org/2015/games/nothing-happened]Global Game Jam[/url]]",
+  "vndb_url": "https://vndb.org/v16716"
+}

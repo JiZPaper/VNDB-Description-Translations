@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58538",
+  "type": "visual_novel",
+  "name": "BatteryNote",
+  "original_name": "バッテリーノート",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You, a mechanic, have picked up three robots from a scrapyard.\n\n\"J.S.C.A\" : a robot waitress at the diner.\n\n\"Surverry\" : a security robot for monitoring offices.\n\n\"Devind R7\" : a combat robot that seems to have been developed for military use.\n\nIn a dimly lit garage, you charge and revive the robots.\n\nAfter that, you can peek into their memories through dialogue.\n\nOr you can enjoy the robots' reactions by applying high voltage to them.\n\nHowever, their batteries only have a short lifespan left.\n\nHow they spend the rest of their lives is in your hands...\n\n[From [url=https://store.steampowered.com/app/3005930/]Steam[/url]]",
+  "source_sha256": "41a9bdebcd72e86e4f8fe5136506f43cd0988824b0bbdf656837adf038d5e5f4",
+  "translation": "你，一名机械师，从废品场捡起了三个机器人。\n\n“J.S.C.A”：餐厅的机器人女服务员。\n\n“Surverry”：用于监控办公室的安全机器人。\n\n“Devind R7”：一款似乎是为军事用途而开发的战斗机器人。\n\n在灯光昏暗的车库里，你给机器人充电并复活。\n\n之后，你可以通过对话窥探他们的记忆。\n\n或者，你可以通过向机器人施加高电压来欣赏机器人的反应。\n\n然而，它们的电池只剩下很短的使用寿命了。\n\n他们如何度过余生，就掌握在你的手中……\n\n[来自[url=https://store.steampowered.com/app/3005930/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v58538"
+}

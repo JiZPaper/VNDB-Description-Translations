@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38327",
+  "type": "visual_novel",
+  "name": "Coalescence",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Coalescence is a visual novel that takes you deep within Moniker Labs to explore its secrets. Play as one of three characters, each with their own storyline and dialogue options. Form relationships with the companions you encounter and try to make it out alive!\n\n[From [url=https://store.steampowered.com/app/1979220/]Steam[/url]]",
+  "source_sha256": "2ce1309b13566b314c1a3108f8bf82608527211c95382f5deb4ee209ebb93df0",
+  "translation": "《Coalescent》是一部视觉小说，带你深入Moniker Labs探索其秘密。扮演三个角色之一，每个角色都有自己的故事情节和对话选项。与你遇到的同伴建立关系，并努力活下去！\n\n[来自[url=https://store.steampowered.com/app/1979220/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v38327"
+}

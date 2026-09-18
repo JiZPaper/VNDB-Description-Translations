@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55021",
+  "type": "visual_novel",
+  "name": "Real Sound: Liquid Dreams",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Explore the ocean and talk to fishes while uncovering the truth about an ancient meteorite that could shed light on the origin of life on the planet.",
+  "source_sha256": "3a86516632e4a96c430131159c1c856f12508dcff1fe27a0dc12abc4fe39a86b",
+  "translation": "探索海洋并与鱼类交谈，同时揭开一颗古老陨石的真相，这颗陨石可能会揭示地球上生命的起源。",
+  "vndb_url": "https://vndb.org/v55021"
+}

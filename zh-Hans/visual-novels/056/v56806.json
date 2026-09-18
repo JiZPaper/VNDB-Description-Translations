@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56806",
+  "type": "visual_novel",
+  "name": "Naruto: The Cursed Jutsu",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as Naruto, as he embarks on a journey to discover the truth behind a mysterious new chakra.",
+  "source_sha256": "e9634bb31d189e358052b9c55830ea24bd46461175723b4898b518e18316f11e",
+  "translation": "你扮演鸣人，踏上探索神秘新脉轮背后真相的旅程。",
+  "vndb_url": "https://vndb.org/v56806"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7044",
+  "type": "visual_novel",
+  "name": "Custom Reido V",
+  "original_name": "カスタムレイドV",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This game generates fully rendered 2D CG out from the kind of girl you create in the slave creator. If you make a petite short girl, she will be petite and short in the CG you gain, obviously she will share the same body pose as any other girl in the same situations, but her breast size, height, hair color and all that will be reflected in the CG.",
+  "source_sha256": "7c5e7f4bf2300865f9940c3ce916403dca3e1df955b778b7d69a7a0c4b331aec",
+  "translation": "该游戏根据你在奴隶创造者中创建的那种女孩生成完全渲染的2D CG。如果你制作的是一个娇小的矮个子女孩，那么你获得的CG中她会显得又小又矮，显然她在相同的情况下会和其他女孩有相同的身体姿势，但她的胸部大小、身高、头发颜色等等都会反映在CG中。",
+  "vndb_url": "https://vndb.org/v7044"
+}

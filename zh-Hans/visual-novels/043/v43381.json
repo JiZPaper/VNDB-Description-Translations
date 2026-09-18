@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43381",
+  "type": "visual_novel",
+  "name": "Jorge's Bizarre Adventures",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Have you ever wanted more from life? Jorge did, and one day he got his wish granted...",
+  "source_sha256": "c326d5da54648bd298c0335b2316ffcb637f66f1f3f7b2dc7b17573669550a1c",
+  "translation": "你是否曾经想过从生活中获得更多？豪尔赫做到了，有一天他的愿望实现了……",
+  "vndb_url": "https://vndb.org/v43381"
+}

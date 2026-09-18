@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40434",
+  "type": "visual_novel",
+  "name": "Watashi wa SCP-185-KO Desu.",
+  "original_name": "私はSCP-185-KOです。",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "If you have noticed this game, it means you are qualified.\nIn other words, you are a chosen one for me.\nPlease come and meet me.\nAnd... let's achieve our goal.",
+  "source_sha256": "9e370da9b6853223316942b51e46da8da5225e0bf76422ac189e939285e90ca8",
+  "translation": "如果你注意到了这款游戏，就说明你已经合格了。\n换句话说，你是我选中的人。\n请来见我。\n而且…让我们实现我们的目标。",
+  "vndb_url": "https://vndb.org/v40434"
+}

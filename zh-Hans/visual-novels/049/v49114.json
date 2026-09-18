@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49114",
+  "type": "visual_novel",
+  "name": "Lost Witch",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You just woke up from a long slumber. In front of you is a strangely dressed girl. \n\n[From [url=https://yohsk13.itch.io/lost-witch]Itch.io[/url]]",
+  "source_sha256": "6a8ebca58705fc0f3c22085b7d05d31045e479a6ebce118eb80af3710eaa68ab",
+  "translation": "你刚刚从漫长的沉睡中醒来。眼前是一个衣着奇怪的女孩。\n\n[来自[url=https://yohsk13.itch.io/lost-witch]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v49114"
+}

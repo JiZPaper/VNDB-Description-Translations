@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34922",
+  "type": "visual_novel",
+  "name": "Filia Regis",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a short demo for an ongoing furry pixel visual novel made in Ren'Py about the post-revolution state of a deposed evil queen.\n\n[From [url=https://prettyflowerdog.itch.io/filia-regis]Itch.io[/url]]",
+  "source_sha256": "42820ed1fdedc8569d5c2e2fff65c18496497e4207e49f1b77b67b44f4c23ffd",
+  "translation": "这是在Ren'Py中制作的一部毛茸茸的像素视觉小说的简短演示，讲述了被废黜的邪恶女王的革命后状态。\n\n[来自[url=https://prettyflowerdog.itch.io/filia-regis]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v34922"
+}

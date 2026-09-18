@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22015",
+  "type": "visual_novel",
+  "name": "The Mute",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are Doctor Bezmolvniy, a Capitolian Healer, who is practicing medicine in various spheres. Your career goes calmly and steadily, until one day, you receive a letter from the Officials. It says that you must visit a nearby country.\n\nWhy?          \n\nTo participate in a recent investigation on several deaths, caused by an unknown drug.\n\nNo details included.\n\nNothing unusual, one might think. But, if only you could have known, that after this particular business trip your life would never be the same…",
+  "source_sha256": "4abeb9a4b3e63194f86130df3cbe182e270043f6a046fe0731dd5a25ef0b6a13",
+  "translation": "你是Bezmolvniy医生，一位Capitolian治疗师，在各个领域行医。你的事业进展平静而稳定，直到有一天，你收到一封来自官员的信。它说你必须访问附近的国家。\n\n为什么？\n\n参与最近对不明药物造成的几起死亡事件的调查。\n\n没有包含任何细节。\n\n人们可能会想，这没什么不寻常的。但是，如果你知道，在这次特别的商务旅行之后，你的生活将永远不会一样……",
+  "vndb_url": "https://vndb.org/v22015"
+}

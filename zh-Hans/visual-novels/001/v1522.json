@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1522",
+  "type": "visual_novel",
+  "name": "Puchipuchi Gohoushi",
+  "original_name": "ぷちぷち・ご奉仕",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hero is new one and only teacher in closed school for genius girls. He may teach with any methods he want...",
+  "source_sha256": "a31af28f28cbb1fcfe96b7ce8933597fda90781b5fbdd9855b550b1ca072ea34",
+  "translation": "英雄是天才女孩封闭学校的新老师，也是唯一的老师。他可以用任何他想要的方法来教学……",
+  "vndb_url": "https://vndb.org/v1522"
+}

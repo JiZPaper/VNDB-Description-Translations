@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30454",
+  "type": "visual_novel",
+  "name": "Eternal Secret",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You come back to school at the beginning of second semester. A lot has changed during your absence. Are you able to solve the mystery which not many people know about?\n\n[From [url=https://store.steampowered.com/app/1489020/Eternal_Secret/]Steam[/url]]",
+  "source_sha256": "22a629e76a5b4475df7ca8cf55ddcfa55ccd0c2e76571da76de7974c7927a36b",
+  "translation": "你在第二学期开始时回到学校。你不在期间发生了很多变化。你能解开很多人不知道的谜团吗？\n\n[来自[url=https://store.steampowered.com/app/1489020/Eternal_Secret/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v30454"
+}

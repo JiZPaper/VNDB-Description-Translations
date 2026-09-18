@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56207",
+  "type": "visual_novel",
+  "name": "Aperture Dating Simulator",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "After a missing employee leaves a maintenance position vacant, Aperture swoops you out of manufacturing to take his place. Will you stay true to your contract, or fall for your subordinates?\n\n[From [url=https://store.steampowered.com/app/3723280/]Steam[/url]]",
+  "source_sha256": "21af888b1742681a8fa1e23c97310f5974fe404811162fdbeb9650022856e694",
+  "translation": "一名失踪员工留下了一个维护职位空缺后，Aperture将你从制造业中调出以取代他的位置。你会遵守合同，还是会爱上你的下属？\n\n[来自[url=https://store.steampowered.com/app/3723280/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v56207"
+}

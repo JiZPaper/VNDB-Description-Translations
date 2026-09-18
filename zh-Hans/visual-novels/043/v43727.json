@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43727",
+  "type": "visual_novel",
+  "name": "Gabriel",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You meet a clergyman, and in the limited time of 5 days, have a small talk.\n\n[Translated from [url=https://novelgame.jp/games/show/7903]NovelGame[/url]]",
+  "source_sha256": "0f754189cc65248b6b197992cdebaffd26aeef94705e7bf34b980169c5606369",
+  "translation": "你遇到一位牧师，并在有限的5天时间内闲聊。\n\n[译自[url=https://novelgame.jp/games/show/7903]NovelGame[/url]]",
+  "vndb_url": "https://vndb.org/v43727"
+}

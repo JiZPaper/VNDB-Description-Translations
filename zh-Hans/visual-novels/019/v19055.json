@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19055",
+  "type": "visual_novel",
+  "name": "Jorei Club",
+  "original_name": "除霊倶楽部",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "New transfer student Takamine Kanako, who has a strong sixth sense for ghosts, gets roped into joining the exorcism club.",
+  "source_sha256": "899373c61c632b48fa3c8abb2073e167c399bf8c31113ad68b711a1420f25342",
+  "translation": "对鬼有强烈第六感的新转校生高峰加奈子被拉加入驱魔俱乐部。",
+  "vndb_url": "https://vndb.org/v19055"
+}

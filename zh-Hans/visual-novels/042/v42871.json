@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42871",
+  "type": "visual_novel",
+  "name": "I was transferred to an all boys school and met a cute girl!",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "After an unknown incident at his last school, Tume transfers to an all boys school, where he meets a girl.",
+  "source_sha256": "a2c00a4452686c7d9a5c34fb8315e87cbd84ddb40505e83f95e2fbeccd3cd44d",
+  "translation": "在上一所学校发生了一场不明事件后，图姆转学到一所男子学校，在那里他遇到了一个女孩。",
+  "vndb_url": "https://vndb.org/v42871"
+}

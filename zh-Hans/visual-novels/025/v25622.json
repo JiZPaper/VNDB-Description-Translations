@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25622",
+  "type": "visual_novel",
+  "name": "Rape Day",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You can rape and murder women during a zombie apocalypse with your choices.",
+  "source_sha256": "5aab55021be9c6baf941a28e7dcfa2b65bbee1eb2ec92e39775430ade0beb6fc",
+  "translation": "你可以根据自己的选择在僵尸末日期间强奸和谋杀妇女。",
+  "vndb_url": "https://vndb.org/v25622"
+}

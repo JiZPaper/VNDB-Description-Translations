@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43514",
+  "type": "visual_novel",
+  "name": "FLOWER-PON! -Heta DE Puzzle!-",
+  "original_name": "FLOWER-PON! -ヘタDEパズル!-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is an easy-to-understand puzzle game with a storyline where\nyou pair up from among the four characters and use that combination to advance the story. Defeat all the enemies that appear and escape from this world as quickly as possible! Opponents may also pair up and challenge you to a battle. If you find yourself in a pinch, fight back with your special move!\n\n[Translated from [url=https://www.dlsite.com/home/work/=/product_id/RJ093134.html]DLsite[/url]]",
+  "source_sha256": "47f632cf5052079213db02a1577abfa11e34386d1d1277ac9c4905da8fd8bd61",
+  "translation": "这是一款简单易懂的益智游戏，故事情节\n你从四个角色中进行配对，并利用这种组合来推进故事的发展。击败所有出现的敌人并尽快逃离这个世界！对手也可能会配对并挑战你进行战斗。如果你发现自己陷入困境，请用你的特殊动作进行反击！\n\n[译自[url=https://www.dlsite.com/home/work/=/product_id/RJ093134.html]DLsite[/url]]",
+  "vndb_url": "https://vndb.org/v43514"
+}

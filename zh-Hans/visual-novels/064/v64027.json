@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64027",
+  "type": "visual_novel",
+  "name": "LEVATE",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short atmospheric visual novel about a teenager who tries to hide from his thoughts and problems. \nBut the longer he avoids reality, the more it distorts around him.",
+  "source_sha256": "cb91addeead8aad6de6d8d4a6a193653bc05037e4c62264e0b33b69426568637",
+  "translation": "一部简短的大气视觉小说，讲述了一个试图隐藏自己的想法和问题的青少年的故事。\n但他逃避现实的时间越长，现实对他的扭曲就越大。",
+  "vndb_url": "https://vndb.org/v64027"
+}

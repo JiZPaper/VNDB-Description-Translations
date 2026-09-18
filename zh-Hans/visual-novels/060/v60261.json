@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60261",
+  "type": "visual_novel",
+  "name": "BloodBound",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You’re caught between two rival vampire clans – one bathed in light, the other thriving in shadow. You must choose who to trust, who to love, and whose hunger to feed.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "6eb8833fbf662dccb542dd1ac720e949b46a3c0c41ce8d79af22736c16b8bfc5",
+  "translation": "你被夹在两个敌对的吸血鬼部落之间——一个沐浴在光明中，另一个在阴影中蓬勃发展。你必须选择信任谁、爱谁以及满足谁的饥饿。\n\n[来自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian应用程序[/url]]",
+  "vndb_url": "https://vndb.org/v60261"
+}

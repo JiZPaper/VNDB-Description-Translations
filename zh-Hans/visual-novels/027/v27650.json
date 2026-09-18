@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27650",
+  "type": "visual_novel",
+  "name": "OP9",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The story begins on June 25th, 1991. Play as Ami Madison, professional translator and new recruit in a secret organization known only as OP9 (short for Operation 9). When asked to leave your desk job and join six advanced recruits on a dangerous mission into the Soviet Union, will you accept?",
+  "source_sha256": "9d4c6fc27816e77356f438f26b8a3f00b38d72920a21a2676612b28318396969",
+  "translation": "故事开始于1991年6月25日。玩家扮演Ami Madison，一名专业翻译，也是一个名为OP9（9号行动的缩写）的秘密组织的新成员。当你被要求辞去办公室工作，与六名新兵一起执行进入苏联的危险任务时，你会接受吗？",
+  "vndb_url": "https://vndb.org/v27650"
+}

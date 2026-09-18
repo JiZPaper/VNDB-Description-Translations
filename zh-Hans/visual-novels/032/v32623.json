@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32623",
+  "type": "visual_novel",
+  "name": "LastCall",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as a bartender named Felix. Felix makes cocktails for his unusual customers and converses with them. Mostly, he just listens and lets them do all the talking. \n\nHelp Felix make the right drinks to please his customers and possibly change their moods.\n\n[From [url=https://maryphun.itch.io/lastcall]Itch.io[/url]]",
+  "source_sha256": "5d5e20fab03354d19316ab831b46b2283d5155fd302ff2c5cd1193eaef750c86",
+  "translation": "你扮演一位名叫菲利克斯的调酒师。菲利克斯为他不寻常的顾客调制鸡尾酒并与他们交谈。大多数情况下，他只是倾听并让他们进行所有的谈话。\n\n帮助菲利克斯制作合适的饮料来取悦他的顾客，并可能改变他们的情绪。\n\n[来自[url=https://maryphun.itch.io/lastcall]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v32623"
+}

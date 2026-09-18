@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58513",
+  "type": "visual_novel",
+  "name": "Another Day",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The story repeats the same loop over and over each day. You remember. No one else does.\n\n[From [url=https://caitlynss.itch.io/another-day]Itch.io[/url]]",
+  "source_sha256": "d64b904696dc00fe0aff243b3a584ed7c653d731f04f8a52e1d5fc5aa4b23926",
+  "translation": "这个故事每天都在重复同样的循环。你记得。没有其他人这样做。\n\n[来自[url=https://caitlynss.itch.io/another-day]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v58513"
+}

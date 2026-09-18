@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52893",
+  "type": "visual_novel",
+  "name": "Kyoukai ni Tatsu",
+  "original_name": "境界に立つ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Here’s an entry for the 29th Three-Minute Game Contest. \nA visual novel that wraps up in about three minutes, \nno branching choices or replays needed. \nIt tells a quick story that hits home fast. \nBlurring lines between nations, \nMemories drifting between past and present, \nThe unknown lurking right next to our daily routines. \nAnd, the flow of consciousness recalling and gently touching on those memories.\n\n[Translated from [url=https://whiteophidion.sakuraweb.com/software/border/]the official website[/url]]",
+  "source_sha256": "36992c2066b7964c800c9bd45fd835bc538a064f124fd52a485bc45241777fd1",
+  "translation": "这是第29届三分钟游戏大赛的参赛作品。\n一部大约三分钟就完结的视觉小说，\n无需分支选择或重播。\n它讲述了一个快速击中要点的故事。\n国家之间的界限变得模糊，\n记忆在过去与现在之间飘荡，\n未知的事物潜伏在我们的日常生活旁边。\n并且，意识的流动回想起并轻轻触碰那些记忆。\n\n[翻译自[url=https://whiteophidion.sakuraweb.com/software/border/]官网[/url]]",
+  "vndb_url": "https://vndb.org/v52893"
+}

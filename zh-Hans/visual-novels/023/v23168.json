@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23168",
+  "type": "visual_novel",
+  "name": "Obrenor: The Outcast Prince",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as the youngest prince of a wealthy kingdom, who must defy the odds to protect his people from mysterious threats. You'll make friends, encounter enemies, and maybe even find love along the way.\n\n[From [url=https://www.patreon.com/LazyTigerStudio]Patreon[/url]]",
+  "source_sha256": "0267dbd865f4d15b10eb9dfca1a61bb9c09fe6bd1b4e85450323da4f979fb7ea",
+  "translation": "你扮演一个富裕王国最年轻的王子，他必须克服困难保护他的人民免受神秘威胁。你会结交朋友，遇到敌人，甚至可能一路上找到爱情。\n\n[来自[url=https://www.patreon.com/LazyTigerStudio]Patreon[/url]]",
+  "vndb_url": "https://vndb.org/v23168"
+}

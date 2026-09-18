@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59120",
+  "type": "visual_novel",
+  "name": "Donggyeonghaneun Mabeopsonyeoege",
+  "original_name": "동경하는 마법소녀에게",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a story of two people that began with admiration.\n\"Maybe we were destined to meet.\"",
+  "source_sha256": "cc605581ab86f4c0463a481b31b3511e2b1d37babe5b8ba9befe18aa2e320935",
+  "translation": "这是两个人的故事，始于仰慕。\n“也许我们是命中注定的相遇。”",
+  "vndb_url": "https://vndb.org/v59120"
+}

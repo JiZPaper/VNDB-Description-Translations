@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21260",
+  "type": "visual_novel",
+  "name": "Hayarigami 3: Keishichou Kaii Jiken File",
+  "original_name": "流行り神3 警視庁怪異事件ファイル",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The third in Nippon Ichi's series of urban legend themed visual novels.",
+  "source_sha256": "fa56647978d1441b8c0400ce4a0de8323c52c887f323285bf71edbae75d263e3",
+  "translation": "日本一都市传说主题视觉小说系列的第三部。",
+  "vndb_url": "https://vndb.org/v21260"
+}

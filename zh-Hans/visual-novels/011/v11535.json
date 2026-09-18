@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11535",
+  "type": "visual_novel",
+  "name": "Magical Mess",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A girl suddenly get powers and be requested to join a team called \"Magical Mess\" will she be able to join the team? will she be able to find love? will she be successful?",
+  "source_sha256": "1fddd7850e6089b93664d82d6b0d1f637eba0a80c327ca0850c1f590cb2c1330",
+  "translation": "一个女孩突然获得超能力，被要求加入一支名为“魔法混乱”的队伍，她能加入吗？她能找到爱情吗？她会成功吗？",
+  "vndb_url": "https://vndb.org/v11535"
+}

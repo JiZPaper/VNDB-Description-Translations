@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42265",
+  "type": "visual_novel",
+  "name": "Danganronpa: LIVe or Die",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Danganronpa: LIVe or Die is a Fangan made in RPG Maker 2003 by Aru & Raven.\n\nFollow Megumi and 15 other people locked inside a luxurious mansion. An evil mechanical bear known as Monokuma forces them to play a killing game. Will they start killing each other? Who will survive?\n\nEach chapter contains a Daily Life section, which contains various scenes with all the characters and personal Free Time events, and a Deadly Life section which contains a murder investigation and a trial (with several minigames, such as Logic Drive and Letter Labirynth).\n\n[From official [url=https://drliveordie.carrd.co/#about]Carrd[/url]]",
+  "source_sha256": "77b3d702645d7efbae9f44d456db79139db40b7f5a5f0680593bd49f0fe280f1",
+  "translation": "Danganronpa: LIVe or Die是Aru & Raven在RPG Maker 2003中制作的一款Fangan。\n\n跟随被锁在豪华宅邸内的惠和其他15个人。一只被称为“Monokuma”的邪恶机械熊迫使他们玩杀人游戏。他们会开始互相残杀吗？谁能活下来？\n\n每章都包含“日常生活”部分，其中包含所有角色和个人空闲时间事件的各种场景，以及“致命生活”部分，其中包含谋杀调查和审判（带有多个迷你游戏，例如逻辑驱动器和字母迷宫）。\n\n[来自官方 [url=https://drliveordie.carrd.co/#about]Carrd[/url]]",
+  "vndb_url": "https://vndb.org/v42265"
+}

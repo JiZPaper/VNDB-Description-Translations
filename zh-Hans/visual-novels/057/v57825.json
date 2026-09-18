@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57825",
+  "type": "visual_novel",
+  "name": "Love Stranded",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You wake up on an island, remembering nothing but your name... At least you're not alone – five strangers awaken beside you. But they might not be as friendly as they seem...\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "2bdecc5aad1626dfd88dfbb4c37233a432f452a0295c5ad153979131d06035e4",
+  "translation": "你在一座岛上醒来，除了你的名字什么都不记得……至少你并不孤单——五个陌生人在你身边醒来。但他们可能并不像看上去那么友好……\n\n[来自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian应用程序[/url]]",
+  "vndb_url": "https://vndb.org/v57825"
+}

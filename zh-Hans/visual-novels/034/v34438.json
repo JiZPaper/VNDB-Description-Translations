@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34438",
+  "type": "visual_novel",
+  "name": "Mink Deluxe 2",
+  "original_name": "Mink でらっくす 2",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Mink fandisc the second. This disc contains wallpapers, system sounds, screensavers and clock gadgets for Windows related to various Mink games, as well as an original CD voice drama for game \"Wonpara Wars II\" in the form of CD-DA audio track.",
+  "source_sha256": "544237efb30bc688b4dc4cbdbcecce56d5afb52d5d74444f2b4d232549c4f0f9",
+  "translation": "第二张是Mink同人唱片。该光盘包含与各种Mink游戏相关的Windows壁纸、系统声音、屏保和时钟小工具，以及CD-DA音轨形式的游戏“Wonpara Wars II”的原创CD语音剧。",
+  "vndb_url": "https://vndb.org/v34438"
+}

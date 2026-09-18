@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26199",
+  "type": "visual_novel",
+  "name": "Last Halloween Night",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Last night as a child in the village where Halloween is held every year. I will go to them. For those who will come only on Halloween night.",
+  "source_sha256": "ce5e74588011211d2c45397bf276d6f8330fae8bb972eb64d08e25c41364504c",
+  "translation": "小时候，我住在一个每年都会举办万圣节活动的村庄。某天夜里，我决定去找那些只会在万圣节夜晚出现的人。",
+  "vndb_url": "https://vndb.org/v26199"
+}

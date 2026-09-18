@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56432",
+  "type": "visual_novel",
+  "name": "Homeward Bound",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Homeward Bound is an interactive, post-apocalyptic survival novel with RPG elements and over 2000 pages of branching narrative. Told entirely in the second person, the story puts you in the shoes of a survivor navigating a world torn apart by a zombie outbreak, moral collapse, and the fading memory of what it means to be human.",
+  "source_sha256": "43341b5e65512dc905f1974099092a4dc80ea395eb1aa4fd4e706ed18288604d",
+  "translation": "《Homeward Bound》是一部互动式后世界末日生存小说，带有RPG元素和超过2000页的分支叙事。这个故事完全以第二人称讲述，你将扮演一名幸存者，在一个因僵尸爆发、道德崩溃和人类意义的记忆衰退而四分五裂的世界中航行。",
+  "vndb_url": "https://vndb.org/v56432"
+}

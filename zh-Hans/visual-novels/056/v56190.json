@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56190",
+  "type": "visual_novel",
+  "name": "Time",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You wake up with no recollection of where you are or what has happened to you, continue on as best you can in this scenario.\nAttempt to understand just what you have become while figuring out ways to overcome your obstacles as you journey along in this first person short visual novel.",
+  "source_sha256": "0f8895a588e43a285f0b36186b7f77b124c129f84b3ce6eabd1d287c4d0799f5",
+  "translation": "你醒来时不记得自己在哪里或发生了什么事，在这种情况下尽你所能继续前进。\n在这部第一人称短篇视觉小说中，尝试了解自己已经成为什么样的人，同时找出克服障碍的方法。",
+  "vndb_url": "https://vndb.org/v56190"
+}

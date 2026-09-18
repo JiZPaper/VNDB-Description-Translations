@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25425",
+  "type": "visual_novel",
+  "name": "3",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Following the events of 2, this story continues where it left off with further secrecy. What secrets of the church will you unveil, what must you endure, and most of all who are you?",
+  "source_sha256": "8457d78de3701c80f80cf68fe137f8f5a699bef0c7025f118c0238827e813507",
+  "translation": "继2的事件之后，这个故事从上次结束的地方继续，并进一步保密。你将揭开教会的哪些秘密，你必须忍受什么，最重要的是你是谁？",
+  "vndb_url": "https://vndb.org/v25425"
+}

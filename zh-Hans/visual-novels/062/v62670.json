@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62670",
+  "type": "visual_novel",
+  "name": "day : dream",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A linear visual novel about memories from long ago, taking place in the distant future.\n\nA Game by it's Cover 2023 entry.\n\nBased on [url=https://famicase.com/23/softs/027.html]Famicase by Samuel Cooke[/url].\n\n[From [url=https://m-9.itch.io/daydream]itch.io[/url]]",
+  "source_sha256": "ce24fd27b8de00a80c3711fd31d60166b54b5b1c289492838687857a13629db1",
+  "translation": "一部关于很久以前的记忆的线性视觉小说，发生在遥远的未来。\n\n2023年封面的游戏。\n\n基于 [url=https://famicase.com/23/softs/027.html]Samuel Cooke的Famicase[/url]。\n\n[来自[url=https://m-9.itch.io/daydream]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v62670"
+}

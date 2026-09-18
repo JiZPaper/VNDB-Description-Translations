@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32200",
+  "type": "visual_novel",
+  "name": "Mystical Magical Butterfly",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A VN about how a suddenly magical girl is created and how she deals with it and whatever situations she finds herself in.\n\n[From itch.io]",
+  "source_sha256": "21c137426006f409f719d12cbed5ee7738a1cc11214984f3bd0c91d4a18f5cf2",
+  "translation": "一个关于如何突然创造出一个魔法女孩以及她如何处理它以及她遇到的任何情况的VN。\n\n[来自itch.io]",
+  "vndb_url": "https://vndb.org/v32200"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55765",
+  "type": "visual_novel",
+  "name": "Shine Private Basic School: Sakura Blossom",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Welcome to SPBS: Sakura Blossom!\n\nThis game is about finding the Sakura tree.",
+  "source_sha256": "4ba11b4ebf1c0eb768b1999a72c22b4bea2cf602b7493a4ed34443b5b5d23b28",
+  "translation": "欢迎来到SPBS：樱花盛开！\n\n这个游戏是关于寻找樱花树的。",
+  "vndb_url": "https://vndb.org/v55765"
+}

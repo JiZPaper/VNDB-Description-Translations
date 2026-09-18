@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29090",
+  "type": "visual_novel",
+  "name": "Cartomante",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short, branching story game about fortune telling with tarot cards.\n\nIn Cartomante, play one afternoon in the life of the mystic Miss Cartomante, a witch with the very important job of giving somewhat accurate and foretelling card readings to the eccentric residents of the Metropolis and helping solve their highly questionable problems.",
+  "source_sha256": "f7f9b99dbf1198641772cefbca7c131fe7a5c4476706f2f27a772df0cf1e9b41",
+  "translation": "一款关于用塔罗牌算命的简短分支故事游戏。\n\n在《卡托曼特》中，体验神秘卡托曼特小姐的生活中的一个下午，她是一位女巫，肩负着一项非常重要的工作，即为大都会的古怪居民提供准确的预言牌读数，并帮助解决他们高度可疑的问题。",
+  "vndb_url": "https://vndb.org/v29090"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55851",
+  "type": "visual_novel",
+  "name": "Pacific Dominion",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A mystery thriller death game. The story follows a group of fourteen high school friends, who reunite after not seeing each other for 2 years. However, the night takes a sudden turn when one of them winds up dead and their party is hijacked, forcing the remaining group to play detective in a death game with twisted rules.",
+  "source_sha256": "a1261da03889316ee8bbb4b57b30e069b6a7d0fa9d4f7fddce894f8855a9fd55",
+  "translation": "一款悬疑惊悚死亡游戏。故事讲述了十四位高中好友两年不见后重聚的故事。然而，夜晚突然发生了转变，其中一人死亡，他们的队伍被劫持，迫使剩下的人在一场规则扭曲的死亡游戏中扮演侦探。",
+  "vndb_url": "https://vndb.org/v55851"
+}

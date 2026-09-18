@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61303",
+  "type": "visual_novel",
+  "name": "Burden",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A quiet journey through a town suspended in ritual and silence, where two travelers confront faith, loss, and the unsettling comfort of surrender.\n\nBurden (BurdƎEn) is a short Kinetic Sound Visual Novel developed in under a month as a personal proof of concept and challenge. It is a standalone prologue or Act 1, imagined as the opening act of a larger work that may never come to be.",
+  "source_sha256": "9c7a9f76673653f7423013d099880b5c8e8c46fcf44b77bb18c995ba752561fe",
+  "translation": "这是一段穿越小镇的安静旅程，充满了仪式和寂静，两名旅行者面对信仰、失落和投降带来的令人不安的安慰。\n\n《负担》（BurdƎEn）是一部在不到一个月的时间内开发的短篇动能声音视觉小说，作为个人概念证明和挑战。它是一个独立的序言或第一幕，被想象为一部可能永远不会实现的更大作品的开场。",
+  "vndb_url": "https://vndb.org/v61303"
+}

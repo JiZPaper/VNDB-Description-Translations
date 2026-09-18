@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15419",
+  "type": "visual_novel",
+  "name": "Sleeping Beauty",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A surreal game in which you try to pleasure a sleeping woman without waking her.",
+  "source_sha256": "cebaaa104fd9cda4dc514732047f16e7b2b6b140fc844a2e7940ac5db10e1a9e",
+  "translation": "一款超现实的游戏，你试图在不吵醒熟睡的女人的情况下取悦她。",
+  "vndb_url": "https://vndb.org/v15419"
+}

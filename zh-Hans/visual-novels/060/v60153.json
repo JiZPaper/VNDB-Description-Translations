@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60153",
+  "type": "visual_novel",
+  "name": "This House is Haunted",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "There’s a ghost in this house, and it only likes one of us.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "676df28a7abffbe57efe7ff084d56555829685329363c0b867ac3ba048f3256d",
+  "translation": "这房子里有一个鬼魂，它只喜欢我们一个人。\n\n[来自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian应用程序[/url]]",
+  "vndb_url": "https://vndb.org/v60153"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19109",
+  "type": "visual_novel",
+  "name": "Neko No Yume",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Konekomaru Takagi is a student who was born in Japan but he had to moved a University in England. There, he will see lots of mysterious situations.",
+  "source_sha256": "9cd02eadaa04bf5f17a1181493c457c4680a2ce474c96dd2cf11632089d2005c",
+  "translation": "高木小丸是一名出生在日本的学生，但他不得不搬到英国的一所大学。在那里，他会看到很多神秘的情况。",
+  "vndb_url": "https://vndb.org/v19109"
+}

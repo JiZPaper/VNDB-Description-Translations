@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1948",
+  "type": "visual_novel",
+  "name": "Uchi no Imouto no Baai - Pure Love Edition",
+  "original_name": "うちの妹のばあい 純愛版",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This version of Uchi no Imouto no Baai removes the \"bad route\" from the original game, making this game into a \"pure love\" story that everyone can enjoy.\n\nIncludes two new heroines and more CG events. There is also the new \"harem mode\" featured.",
+  "source_sha256": "5183b21a0f6216a60671298fe7d26bbdb3b342c424d54c9f8f6446646c6fd54c",
+  "translation": "这个版本的《内之妹妹》去掉了原作中的“烂路线”，让这款游戏变成了一个人人都能享受的“纯爱”故事。\n\n包括两位新女主角和更多CG事件。还有新的“后宫模式”。",
+  "vndb_url": "https://vndb.org/v1948"
+}

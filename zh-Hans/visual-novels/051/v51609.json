@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51609",
+  "type": "visual_novel",
+  "name": "NOISZ STΔRLIVHT",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Rhythm Game/Bullet Hell/Visual Novel hybrid for mobile about an idol group fighting interdimensional music monsters.",
+  "source_sha256": "85cbf0d60c8c32e7f0847b9a8945733d7cac40b22fa794d187973a2761684073",
+  "translation": "节奏游戏/弹幕射击/视觉小说混合体，讲述一个偶像团体对抗跨维度音乐怪物的故事。",
+  "vndb_url": "https://vndb.org/v51609"
+}

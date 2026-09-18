@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55293",
+  "type": "visual_novel",
+  "name": "Suzaku Shijuusou -\"Saikyou\" no Katana Hime-",
+  "original_name": "朱雀四重奏 -\"最強\"ノ刀姫-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game is set in the 5th sea-top special district, the Sumiyoshi Academic Centre.\nThings seem somewhat strange today at Murakumo Academy, the only place you can learn Jindou.\nThe uniforms that were once unified are now all over the place, but the students don't seem find it strange at all.\nIt seems that a boundary has been set up all throughout the Sumiyoshi Academic Centre.\n\n[Translated from [url=https://dlsoft.dmm.co.jp/detail/spal_0198/]DMM[/url]]",
+  "source_sha256": "0887dccddd466945277c51d5381f46184a67558fa6b1094314fb360349683793",
+  "translation": "比赛地点是第五个海上特区——住吉学术中心。\n村云学园是唯一可以学习神道的地方，今天的情况似乎有些奇怪。\n曾经统一的校服现在到处都是，但学生们似乎一点也不觉得奇怪。\n整个住吉学术中心似乎都划定了界限。\n\n[译自[url=https://dlsoft.dmm.co.jp/detail/spal_0198/]DMM[/url]]",
+  "vndb_url": "https://vndb.org/v55293"
+}

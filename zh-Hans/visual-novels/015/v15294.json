@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15294",
+  "type": "visual_novel",
+  "name": "Thought Police",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A neon-noir visual novel about interrogating witnesses, the latest in bio-sensor technology, and street violence. \n\nContent warning for blood and a handful of f-words. \n\nYou play as Alexis Brambilla - a detective inspector for the richest and most technologically advanced police force in the world. You have been given access to their latest research project - an interrogation room that can give you real-time feed back on a subjects emotions. \n\nWhat might you uncover when you put it to the test? \n\n[From [url=http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&uid=26423]Ludum Dare[/url]]\n\nCreated for [url=http://www.ludumdare.com/compo/ludum-dare-29/]Ludum Dare 29[/url].",
+  "source_sha256": "075186f69fa0f71cc40963b766b7e105b91a76ab33f06ccaf9c8611834ce6324",
+  "translation": "一部关于审问证人、最新生物传感器技术和街头暴力的霓虹黑色视觉小说。\n\n内容警告血腥和一些脏话。\n\n你扮演亚历克西斯·布兰比拉（Alexis Brambilla）——世界上最富有、技术最先进的警察部队的一名侦探督察。你已经获得了他们最新研究项目的访问权限 - 一个审讯室，可以为你提供有关受试者情绪的实时反馈。\n\n当你进行测试时，你可能会发现什么？\n\n[来自[url=http://www.ludumdare.com/compo/ludum-dare-29/?action=preview&uid=26423]Ludum Dare[/url]]\n\n为 [url=http://www.ludumdare.com/compo/ludum-dare-29/]Ludum Dare 29[/url] 创建。",
+  "vndb_url": "https://vndb.org/v15294"
+}

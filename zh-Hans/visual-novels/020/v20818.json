@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20818",
+  "type": "visual_novel",
+  "name": "Pulse",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Pulse is a visual novel which leads the player through three meaningful moments of a life, allowing them to face them in many different ways. Our experiences will be crucial to define us as a unique person. Because even the smallest decisions matter in our lives.\n\n[From [url=http://globalgamejam.org/2017/games/pulse-13]Global Game Jam[/url]]\n\nCreated for Global Game Jam 2017.",
+  "source_sha256": "38835a483e33552c81a32ef8c959a2fa1ea6d103fc5a6cc67a60c6b61c667389",
+  "translation": "《Pulse》是一款视觉小说，带领玩家经历人生中三个有意义的时刻，让他们以多种不同的方式面对它们。我们的经历对于将我们定义为一个独特的人至关重要。因为即使是最小的决定对我们的生活也很重要。\n\n[来自[url=http://globalgamejam.org/2017/games/pulse-13]Global Game Jam[/url]]\n\n为2017年Global Game Jam创建。",
+  "vndb_url": "https://vndb.org/v20818"
+}

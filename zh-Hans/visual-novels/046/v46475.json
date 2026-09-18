@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46475",
+  "type": "visual_novel",
+  "name": "The King's Wish",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "It has been a hundred days since your father, the king, passed away. You have spent a hundred days in your high tower with the knight who ended his life, and who has sworn to end yours as well.\n\nIt's time to make a choice.\n\n[from [url=https://littlerat.itch.io/the-kings-wish]itch.io[/url]]",
+  "source_sha256": "b4e47b09bbb79ac30c89254289426df67fd4491816e1d381e8a595a190429ff6",
+  "translation": "你的父亲国王去世已经一百天了。你已经在你的高塔里和那个结束了他生命的骑士一起度过了一百天，他也发誓要结束你的生命。\n\n是时候做出选择了。\n\n[来自[url=https://littlerat.itch.io/the-kings-wish]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v46475"
+}

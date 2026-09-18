@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31709",
+  "type": "visual_novel",
+  "name": "NicoRonpa",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A non-profit fan game based on Danganronpa, NicoB, and the Picky Penguin Community.\n\n16 talented high-schoolers suddenly find themselves captured aboard the mysterious S.S. LP by the maniacal Monoguin and forced into a death game with a simple rule: murder one of your classmates to escape, without getting caught.",
+  "source_sha256": "80f2918a3b04115b46015d2cf2000a093212b408c302c60071417d9ef5e18322",
+  "translation": "一款基于《弹丸论破》、NicoB和Picky Penguin社区的非盈利同人游戏。\n\n16名才华横溢的高中生突然发现自己在神秘的S.S. LP上被疯狂的莫古因人俘获，并被迫进入一场死亡游戏，规则很简单：谋杀一名同学以逃脱，而不被抓到。",
+  "vndb_url": "https://vndb.org/v31709"
+}

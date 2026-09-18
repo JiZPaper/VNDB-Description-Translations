@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24831",
+  "type": "visual_novel",
+  "name": "Grizzly Tech",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as a cynical older man who witnesses the advent of a nanotechnology breakthrough in medical research. \n\nNavigate through his life story up to his 'happy' ending, or maybe not? \n\nThis was adapted to Ren'py from Gryphbear's original novel, \"Grizzly Science\", and the really early demo was made for participation of the Bara Jam 2018. \n\n[Edited from [url=https://gryphbear.itch.io/grizzly-science]itch.io[/url]]",
+  "source_sha256": "ffb8b46ca29365460f9520f2364e2f4be88358ec7204544f131b04d3d2edf5bd",
+  "translation": "你扮演一个愤世嫉俗的老人，目睹了医学研究中纳米技术突破的出现。\n\n浏览他的人生故事直至他的“幸福”结局，或者也许不是？\n\n这是根据Gryphbear的原著小说《Grizzly Science》中的Ren'py改编的，早期的演示是为了参加2018年Bara Jam制作的。\n\n[编辑自[url=https://gryphbear.itch.io/grizzly-science]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v24831"
+}

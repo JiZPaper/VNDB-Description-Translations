@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54355",
+  "type": "visual_novel",
+  "name": "Celebrity Boyfriend",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A movie star hires you to be her for a week. But everything gets complicated when her hot boyfriend moves in with you.",
+  "source_sha256": "e889e82c3ff84c3f8d5da9b2de3e8fd527a03799ce0ee2e923e874f9efcdf945",
+  "translation": "一位电影明星雇用你扮演她一周。但当她的性感男友搬来和你住在一起时，一切都变得复杂了。",
+  "vndb_url": "https://vndb.org/v54355"
+}

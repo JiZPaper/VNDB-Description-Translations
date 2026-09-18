@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33566",
+  "type": "visual_novel",
+  "name": "Jinshin Kugi no Shi",
+  "original_name": "人身供犠の詩",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "I wonder how many days have passed since I got locked up in here.\nI've stopped counting. I've lost the desire to count.\n\nI'm not restrained by ropes or chains.\nI haven't said or done anything to warrant this.\nThe fox-eared guy will occasionally hold my hand, caressing it gently.\nThat's all he does. Nothing more, nothing less.\nBut still, he won't let me out.\n\n[Translated from [url=https://www.freem.ne.jp/win/game/26940]Freem![/url]]",
+  "source_sha256": "09c28d519d213425cf51f74ca2bceaa60ab528600a035e0a377df8721c9db367",
+  "translation": "我想知道我被关在这里已经多少天了。\n我已经停止计数了。我已经失去了数数的欲望。\n\n我不受绳索或锁链的束缚。\n我没有说过或做过任何事情来证明这一点。\n狐耳家伙偶尔会握住我的手，轻轻地抚摸着。\n这就是他所做的一切。不多不少。\n但他还是不肯放我出去。\n\n[译自[url=https://www.freem.ne.jp/win/game/26940]Freem![/url]]",
+  "vndb_url": "https://vndb.org/v33566"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22553",
+  "type": "visual_novel",
+  "name": "Kamimachi Sana-chan",
+  "original_name": "神待ちサナちゃん",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A poor girl called Takao Sana ran away from home. She download an app called “Diafre”. An then she met the protagonist through that app.",
+  "source_sha256": "21a974250ca0791037056f2a71150b4d460acf015602f0f84066085d36d31bf8",
+  "translation": "一个名叫高尾纱奈的可怜女孩离家出走。她下载了一款名为“Diafre”的应用程序。然后她通过那个应用程序认识了主角。",
+  "vndb_url": "https://vndb.org/v22553"
+}

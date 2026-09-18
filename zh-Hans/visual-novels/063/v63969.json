@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63969",
+  "type": "visual_novel",
+  "name": "Butterfly Girl",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A puzzle-adventure game blended with visual novel storytelling. A mysterious girl and butterflies appear each time you solve a puzzle inside the room. Who are they? What do they want? Unravel each puzzle one by one — and the truth draws ever closer.\n\nhttps://store.steampowered.com/app/4521240/Butterfly_Girl/",
+  "source_sha256": "3d51e736b0a7826ae1e93408337929bc7371f5e872dd1598cb0506e402739941",
+  "translation": "一款与视觉小说叙事相结合的解谜冒险游戏。每次你解决房间内的谜题时，都会出现一个神秘的女孩和蝴蝶。他们是谁？他们想要什么？逐一解开每个谜题——真相就会越来越近。\n\nhttps://store.steampowered.com/app/4521240/Butterfly_Girl/",
+  "vndb_url": "https://vndb.org/v63969"
+}

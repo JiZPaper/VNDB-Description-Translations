@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12916",
+  "type": "visual_novel",
+  "name": "The Twins",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short, slice of life otome game.",
+  "source_sha256": "f7db88498aa7550aa9c2192c79d108f594cb4be5cfc927351919bc1b5d600a85",
+  "translation": "一款简短的乙女生活片段游戏。",
+  "vndb_url": "https://vndb.org/v12916"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60161",
+  "type": "visual_novel",
+  "name": "Lovers of the Galaxy",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Your plan for a diplomatic peace conference goes up in smoke when a giant rift tears through space.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "a2d00f52ae8d51638e1529d164ddbb9068f5c5f0e93c45a4432ca3c5dcbeaf35",
+  "translation": "当巨大的裂缝撕裂太空时，你的外交和平会议计划就泡汤了。\n\n[来自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian应用程序[/url]]",
+  "vndb_url": "https://vndb.org/v60161"
+}

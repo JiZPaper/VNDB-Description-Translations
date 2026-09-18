@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32509",
+  "type": "visual_novel",
+  "name": "Oyako Meikyuu",
+  "original_name": "母子迷宮",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Somewhere in the world, there is a dungeon that is said to be blessed with children if both men and women capture it.\n\nA pair of adventurer parents and children are about to enter the dungeon ...",
+  "source_sha256": "ce634e238c2e153f52ba9afe2d48ba43d391f7bc9a53e624f3adc2beae25f205",
+  "translation": "在世界的某个地方，有一个地下城，据说如果男人和女人都占领了它，就会有孩子。\n\n一对冒险家父母和孩子即将进入地牢……",
+  "vndb_url": "https://vndb.org/v32509"
+}

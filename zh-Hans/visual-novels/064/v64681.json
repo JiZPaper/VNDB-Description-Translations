@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64681",
+  "type": "visual_novel",
+  "name": "Nikutai Douka de Jikken!",
+  "original_name": "肉体同化で実験!",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Kurusu, a young man defeated by a wizard, is bought by the male wizard Thesis—and violated, both body and soul.",
+  "source_sha256": "ac565d4b1d34fe5b5158a35924f1ab11fc9ec05d93f94ec4da5dfa63cda472b4",
+  "translation": "来栖是一个被巫师打败的年轻人，被男巫师提斯收买——身体和灵魂都受到了侵犯。",
+  "vndb_url": "https://vndb.org/v64681"
+}

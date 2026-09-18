@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58677",
+  "type": "visual_novel",
+  "name": "A Fireworks Meeting",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short, simple story about two people who although very much in love, only have one last day to spend together.\n\n[From [url=https://ashlex.itch.io/a-fireworks-meeting]Itch.io[/url]]",
+  "source_sha256": "227e677e370897f288e404a97cadfc5bfa044fcbc623dff118cf57d38dce543d",
+  "translation": "一个简短而简单的故事，讲述了两个人虽然非常相爱，但只有最后一天可以在一起度过的故事。\n\n[来自[url=https://ashlex.itch.io/a-fireworks-meeting]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v58677"
+}

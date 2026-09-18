@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61032",
+  "type": "visual_novel",
+  "name": "Alt.",
+  "original_name": "Alt.　- オルト -",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A night town where \"red night kidnappers\" abound.　\nThis is the story of a single night in which the main character, running away from something, becomes a model for a painter who says he will shelter him.",
+  "source_sha256": "b0d307cd3a5256485251dafc24b30b3974911096decd8a0f05d2ca06e3859176",
+  "translation": "“红夜绑匪”盛行的夜镇。　\n这是一个关于一个夜晚的故事，主人公为了逃避某事，成为了一位画家的模特，画家说他会庇护他。",
+  "vndb_url": "https://vndb.org/v61032"
+}

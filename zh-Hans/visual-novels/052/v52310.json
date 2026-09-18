@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52310",
+  "type": "visual_novel",
+  "name": "Devil's Terminal",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Possessed by an evil voice, a teen comes to a spiritual retreat camp. Aided by a fortune-telling computer, the kid bonds with fellow troubled teens, confronts inner demons, and solves an occult mystery.",
+  "source_sha256": "66b65531261bfabcc3e91dc340f5f78aaf6b73ec952d10a178bebaf50a1faa2d",
+  "translation": "一名青少年被邪恶的声音附身，来到一个精神静修营。在算命电脑的帮助下，这个孩子与其他陷入困境的青少年建立了联系，直面内心的恶魔，并解开了一个神秘的谜团。",
+  "vndb_url": "https://vndb.org/v52310"
+}

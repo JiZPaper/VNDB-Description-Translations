@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26944",
+  "type": "visual_novel",
+  "name": "Unlikely Partners",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Meet Phil the writer and the rowdy Emery! Tag along on this pair’s danger-filled adventure!",
+  "source_sha256": "ed20d8df0f73e8d24a319691bc85511fd93f3d1f331106afc9dc4633ec8d2505",
+  "translation": "认识一下作家菲尔和吵闹的埃默里！跟随这对搭档踏上充满危险的冒险之旅！",
+  "vndb_url": "https://vndb.org/v26944"
+}

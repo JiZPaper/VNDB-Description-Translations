@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29436",
+  "type": "visual_novel",
+  "name": "STK kara Nigerarenai",
+  "original_name": "STKから逃げられない",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a short doujin with 5 endings where you try to escape from a female stalker.",
+  "source_sha256": "74fd43aa3e9af1d361bc509bf5d03209139b4b4f22be3bd84b41cb75d05cb885",
+  "translation": "这是一个有5个结局的短篇同人，你试图逃离女性跟踪者。",
+  "vndb_url": "https://vndb.org/v29436"
+}

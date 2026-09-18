@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30491",
+  "type": "visual_novel",
+  "name": "Tamayorihime",
+  "original_name": "たまよりひめ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A young girl, Tamaki, who is spending a boring summer vacation at her grandmother's house, meets a boy with an unusual appearance. Years later, she returns to the village to fulfill the promise she made to him.",
+  "source_sha256": "e906b5e148341aff399170ed582ecf25f073f20a5f0899584603c7adc641408b",
+  "translation": "年轻女孩环在祖母家度过了一个无聊的暑假，她遇到了一个外表不寻常的男孩。多年后，她回到村庄，履行对他的承诺。",
+  "vndb_url": "https://vndb.org/v30491"
+}

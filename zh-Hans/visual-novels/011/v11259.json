@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11259",
+  "type": "visual_novel",
+  "name": "Burumania 3",
+  "original_name": "ぶるまにあ３",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A fan-fiction VN featuring Koyori Kokubunji from Nurse Witch Komugi.",
+  "source_sha256": "a995d930dbe143f17280f738528160b0b841bf4f04e812a624d5d1add4cfa44c",
+  "translation": "一部以《护士小麦》的国分寺小依为主角的同人视觉小说。",
+  "vndb_url": "https://vndb.org/v11259"
+}

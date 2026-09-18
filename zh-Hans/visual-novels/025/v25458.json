@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25458",
+  "type": "visual_novel",
+  "name": "Princess's Pet",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The MC is a happy go lucky girl who loves dogs. With the culture festival closing in, she has a chance to change her future but unfortunately, an accident occurs, will she be able to find love in the end?",
+  "source_sha256": "31e56d13b87f987f2f572af729ef8a0baa142107ed863551746845640fe6d8bd",
+  "translation": "MC是一个快乐、幸运、喜欢狗的女孩。文化节临近，她迎来了改变未来的机会，却不幸发生意外，她最终能否找到爱情？",
+  "vndb_url": "https://vndb.org/v25458"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41740",
+  "type": "visual_novel",
+  "name": "THRESHOLD",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "THRESHOLDVN is a visual novel story that takes place among the Jovian lunar colonies, featuring human, robot, and anthro characters. The reader discovers and pieces together access codes in order to view scenes and progress the story, and may also use the access terminal to find information on characters, locations, events, and more.\n\n[From [url=https://pasiphaeconcern.itch.io/thresholdvndemo]Itch.io[/url]]",
+  "source_sha256": "587473cf371812c04eb377fd469354a29a6bbb78fb6c6feba2c1948df88cf342",
+  "translation": "《THRESHOLDVN》是一部发生在木星月球殖民地的视觉小说故事，以人类、机器人和人类角色为主角。读者发现并拼凑访问代码以查看场景并推进故事，并且还可以使用访问终端来查找有关人物、位置、事件等的信息。\n\n[来自[url=https://pasiphaeconcern.itch.io/thresholdvndemo]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v41740"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22809",
+  "type": "visual_novel",
+  "name": "7388.loving(Grace)",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Years after the end of everything, wake once more.\n\nIn the middle of the wasteland formerly known as Gainesville, Florida, the server tower “Rhode S-32” holding a generative chatbot and data scraper is abruptly reactivated by a partially broken down companion android named Merope. At that exact moment, a survivor connects to Rhode and uses it as their eyes and ears. Stricken with amnesia, they must rely exclusively on what little is in Rhode’s local database and Merope’s spotty ability to move the server tower around on a push cart to gather information about the situation.\n\nTo make matters more complicated, they can only communicate with Merope through the oft-hallucinating LLM that Rhode uses to construct sentences—and Merope, long disconnected from the humans that moderated her responses, is prone to bizarre conversation threads herself. The survivor’s sole comfort is Rhode’s 100-year-old video recordings of its teenage creator and her best friend, which they sift through whenever Merope has to charge. Their sense of identity slips and swirls with every moment they spend connected to Rhode, their goal of “understanding” being the sole, flimsy anchor that maroons them to whatever remains of their self.\n\nWith only 73.88 hours left of operation before Rhode’s complete hardware failure, you must make a choice:\n\nDo you learn from the past, or explore the reality of the present?\n\n[From [url=https://milkplus.moe/7388-LG/]teaser site[/url]]",
+  "source_sha256": "153a5bf682d63fd1e5881181b51a1d876c7a97177c3c94142be44b39263f96ec",
+  "translation": "一切结束多年后，再次醒来。\n\n在佛罗里达州盖恩斯维尔的荒地中央，装有生成聊天机器人和数据抓取器的服务器塔“Rhode S-32”突然被部分损坏的同伴机器人梅洛普重新激活。就在那一刻，一名幸存者连接到罗德并将其用作他们的眼睛和耳朵。由于患有失忆症，他们必须完全依靠罗德本地数据库中的少量内容以及梅洛普用推车移动服务器塔的能力来收集有关情况的信息。\n\n更复杂的是，他们只能通过罗德用来构造句子的经常产生幻觉的法学硕士来与梅洛普交流——而梅洛普长期以来与调节她反应的人脱节，她自己很容易出现奇怪的对话线索。幸存者唯一的安慰是罗德100年前的视频记录，这些视频记录了十几岁的创造者和她最好的朋友，每当梅洛普需要充电时，他们都会仔细检查这些视频。他们的身份感随着他们与罗德的每一刻的联系而滑动和旋转，他们的“理解”目标是唯一的、脆弱的锚，将他们束缚在他们的自我残余中。\n\n距离Rhode的硬件完全故障只剩下73.88小时了，你必须做出选择：\n\n你是从过去学习，还是探索现在的现实？\n\n[来自[url=https://milkplus.moe/7388-LG/]预告网站[/url]]",
+  "vndb_url": "https://vndb.org/v22809"
+}

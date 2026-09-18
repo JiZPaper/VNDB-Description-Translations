@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56596",
+  "type": "visual_novel",
+  "name": "Every Letter",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Go through a day of your new job as a letter writer, typing everything from casual hellos to love letters and theater scripts.  Enjoy a light story, over a dozen possible letter requests, and beautiful hand drawn art.",
+  "source_sha256": "bdda4dcd6538a8b4df83d5f56afbf6f1f5a361ee6accaf42283ec976f3f923e2",
+  "translation": "度过你作为一名写信人的新工作的一天，输入从随意的问候到情书和戏剧脚本的所有内容。享受轻松的故事、十多个可能的信件请求以及精美的手绘艺术。",
+  "vndb_url": "https://vndb.org/v56596"
+}

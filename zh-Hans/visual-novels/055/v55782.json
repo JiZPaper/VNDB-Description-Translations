@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55782",
+  "type": "visual_novel",
+  "name": "Lager', chto ne zabyt' nikogda.",
+  "original_name": "Лагерь, что не забыть никогда.",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist is an ordinary guy living an ordinary life. But one day, something happens that completely turns his life upside down...",
+  "source_sha256": "25181df64598c3bf91630facd487e125b5464651026bb964443148a8ac9a05d0",
+  "translation": "主角是一个平凡的人，过着平凡的生活。但有一天，发生了一件事，彻底颠覆了他的生活……",
+  "vndb_url": "https://vndb.org/v55782"
+}

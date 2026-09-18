@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50268",
+  "type": "visual_novel",
+  "name": "Merystema",
+  "original_name": "Меристема",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "After the ecological disaster, all the vegetation in the region died. Scientists deployed a mobile laboratory in the affected area to find a solution and bring life back to the wasteland.\n\n...However, their development was stolen.\n\n[Translated from [url=https://purple-mallow.itch.io/meristem]itch.io[/url]]",
+  "source_sha256": "70955c8db1bb6d6acbd811f0d5cb035f223e0261c15e6ff260d5e251792af806",
+  "translation": "生态灾难发生后，该地区的植被全部死亡。科学家们在受影响地区部署了一个移动实验室，寻找解决方案，让荒地恢复生机。\n\n……然而，他们的开发被窃取了。\n\n[译自[url=https://purple-mallow.itch.io/meristem]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v50268"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16813",
+  "type": "visual_novel",
+  "name": "Programme 404",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A YouTuber, Cryaotic, downloads a file which creates multiple versions of himself. He struggles to cope with it, causing the lack of content uploaded onto the internet. As a concerned fan and acquaintance, you visit him and see if he’s alright.\n\n[From [url=http://programme404.tumblr.com/]official site[/url]]",
+  "source_sha256": "dc67ffe17eeec97acf5bba8bc7fa1aef155d87ec701034992d38eeec02e44f8d",
+  "translation": "YouTuber Cryaotic下载了一个文件，该文件创建了他自己的多个版本。他难以应对，导致上传到互联网的内容缺乏。作为一个关心的粉丝和熟人，你去看望他，看看他是否还好。\n\n[来自[url=http://programme404.tumblr.com/]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v16813"
+}

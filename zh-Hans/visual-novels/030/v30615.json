@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30615",
+  "type": "visual_novel",
+  "name": "church on the hill",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Anna, a girl who believes she's cursed, meets Drew, a boy who struggles with his faith in God.",
+  "source_sha256": "a4b846587c99242a086e5f5de205428f688b53d1468c1fd8faf7d2520d2423e8",
+  "translation": "安娜，一个相信自己被诅咒的女孩，遇到了德鲁，一个在对上帝的信仰中挣扎的男孩。",
+  "vndb_url": "https://vndb.org/v30615"
+}

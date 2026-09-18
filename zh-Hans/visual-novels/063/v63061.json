@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63061",
+  "type": "visual_novel",
+  "name": "Rust",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "On the way home from school, you lose consciousness. When you wake up, you find yourself trapped in a rusty room. Can you escape? Can you return to your original world?",
+  "source_sha256": "91644359bc0746bdf205f38dcd43c05495d998d57627d26b31352d15b22eefd2",
+  "translation": "放学回家的路上，你失去了知觉。当你醒来时，你发现自己被困在一个生锈的房间里。你能逃脱吗？你能回到原来的世界吗？",
+  "vndb_url": "https://vndb.org/v63061"
+}

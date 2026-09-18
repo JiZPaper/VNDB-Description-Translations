@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56726",
+  "type": "visual_novel",
+  "name": "The Holiday Bakeoff",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You need to win your town's holiday bake-off, but you'll have to do it alongside the frostiest chef on TV.\n\n[From [url=https://choices-stories-you-play.fandom.com/wiki/The_Holiday_Bakeoff]Choices Wikia[/url]]",
+  "source_sha256": "e168e9794db544bd575078db92bacc5e87f5259fa79fc149c63fdd84f509f4cc",
+  "translation": "你需要赢得镇上的假日烘焙大赛，但你必须与电视上最冷酷的厨师一起完成任务。\n\n[来自[url=https://choices-stories-you-play.fandom.com/wiki/The_Holiday_Bakeoff]Choices Wikia[/url]]",
+  "vndb_url": "https://vndb.org/v56726"
+}

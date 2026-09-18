@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40318",
+  "type": "visual_novel",
+  "name": "Solar Terminator",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The player plays the role of AI and talks to the two protagonists respectively.\n\nThe spaceship crashes on a planet where time passes quickly. Any choice of the player may accelerate the aging of the protagonist and consume their lives.\n\nThe Player needs to guide the two protagonists to meet before their lives end, or end the game with a bad ending.\n\n[From [url=https://zoiliart.itch.io/solar-terminator]Itch.io[/url]]",
+  "source_sha256": "26c6d50dde3839e7f0abefeb94655ef4c24452770061ed99e13677bf207f3045",
+  "translation": "玩家扮演AI角色，分别与两位主角对话。\n\n宇宙飞船坠毁在一个时间过得很快的星球上。玩家的任何选择都可能加速主角的衰老，消耗他们的生命。\n\n玩家需要引导两位主角在生命结束前相遇，或者以糟糕的结局结束游戏。\n\n[来自[url=https://zoiliart.itch.io/solar-terminator]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v40318"
+}

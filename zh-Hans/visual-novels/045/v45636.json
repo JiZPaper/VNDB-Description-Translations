@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45636",
+  "type": "visual_novel",
+  "name": "Shared Visions",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Protopia Island has become a hotspot for paranormal activity, with its residents reporting numerous unexplainable events, leading many to believe that the island is haunted. A reporter is sent to the island to document the experiences of the locals to create an audio documentary for the radio.",
+  "source_sha256": "710f831c7cb8bb231aca87b110702e826f8be8d7fed09ab331366ba38005a643",
+  "translation": "普罗托皮亚岛已成为超自然现象活动的热点，岛上居民报告了许多无法解释的事件，导致许多人相信该岛闹鬼。一名记者被派往岛上记录当地人的经历，为电台制作一部音频纪录片。",
+  "vndb_url": "https://vndb.org/v45636"
+}

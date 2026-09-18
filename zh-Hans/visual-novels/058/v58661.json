@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58661",
+  "type": "visual_novel",
+  "name": "Smuta: Zov serdca",
+  "original_name": "Смута: Зов сердца",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Step into a visual novel set in Russia’s Time of Troubles. Immerse yourself in political scheming, epic clashes, and passionate affairs!",
+  "source_sha256": "8db6fb294b8df60d258c112ca8e86949628d1b76a34de235cb81f3e26c01954d",
+  "translation": "走进一部以俄罗斯动荡时期为背景的视觉小说。沉浸在政治阴谋、史诗冲突和激情事件中！",
+  "vndb_url": "https://vndb.org/v58661"
+}

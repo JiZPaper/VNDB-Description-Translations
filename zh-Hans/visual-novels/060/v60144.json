@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60144",
+  "type": "visual_novel",
+  "name": "Noblesse Oblige",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The player shall take a role of evil mastermind, trying to defeat a Sentai squad.",
+  "source_sha256": "8dc53bf0adf872c76c45b13dcf7f0f653689fd27a01b35ba8e6831ad42f484a0",
+  "translation": "玩家将扮演邪恶策划者的角色，试图击败战队小队。",
+  "vndb_url": "https://vndb.org/v60144"
+}

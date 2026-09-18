@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37200",
+  "type": "visual_novel",
+  "name": "Corporate Culture",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "It's a story about an ordinary guy and his ordinary life. He works at an ordinary office, and his future does not offer any hope. Sad.​",
+  "source_sha256": "d7a8ab4fb14eafd95f630a72bdca45cf5ab7691d8451879fe386c6ee497aeb9c",
+  "translation": "这是一个关于一个普通人及其平凡生活的故事。他在一个普通的办公室工作，他的未来没有任何希望。悲伤。​",
+  "vndb_url": "https://vndb.org/v37200"
+}

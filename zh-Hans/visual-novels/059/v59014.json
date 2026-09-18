@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59014",
+  "type": "visual_novel",
+  "name": "Don't Leave",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short visual novel in which a man, long stuck in an empty limbo, encounters a girl from his past who helps him recall lost memories.\n\n[From [url=https://ozonikki.itch.io/dont-leave]Itch.io[/url]]",
+  "source_sha256": "720aa9b4deaf1f216dbab199d915c69cecfd58e06eb1898aa2db5c4b6e3cd6ac",
+  "translation": "一部短篇视觉小说，讲述了一个长期陷入空虚边缘的男人遇到了一个过去的女孩，她帮助他回忆起失去的记忆。\n\n[来自[url=https://ozonikki.itch.io/dont-leave]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v59014"
+}

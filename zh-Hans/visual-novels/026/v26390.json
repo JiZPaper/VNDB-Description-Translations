@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26390",
+  "type": "visual_novel",
+  "name": "07th Theater",
+  "original_name": "07thシアター",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Crossover between Higurashi, Umineko, Higanbana and Rose Guns Days. It contains spoilers for all of these works.",
+  "source_sha256": "b82cfc7900f201f8e8e80a3c1890af69c7fb2ab75bfe1293d94008ead0c6f9f5",
+  "translation": "寒蝉、海猫、彼岸花和玫瑰枪日的交叉。它包含所有这些作品的剧透。",
+  "vndb_url": "https://vndb.org/v26390"
+}

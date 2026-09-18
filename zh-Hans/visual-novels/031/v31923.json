@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31923",
+  "type": "visual_novel",
+  "name": "Pokgunui Bodyguard",
+  "original_name": "폭군의 보디가드",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The Korean Empire is under the rule of a constitutional monarchy. You receive a mission to protect the Royal Prince. But the prince who is threatened by terrorist attacks has a goal to overthrow the empire…?\n\n[From in-app]",
+  "source_sha256": "fd9072bee7b1287015eaeccd79671c3f02c4662ae0c4e28251f1d54a517e7184",
+  "translation": "大韩帝国实行君主立宪制。你接到一项保护皇家王子的任务。但受到恐怖袭击威胁的王子的目标是推翻帝国……？\n\n[来自应用程序内]",
+  "vndb_url": "https://vndb.org/v31923"
+}

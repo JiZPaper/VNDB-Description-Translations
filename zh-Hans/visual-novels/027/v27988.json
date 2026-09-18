@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27988",
+  "type": "visual_novel",
+  "name": "King of Vikings",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "King of Vikings is an adventure visual novel set in Viking fantasy land. Ragnar the Silver, a Viking noble summoned by Queen Mathilde to defeat this tentacled menace by assembling an elite unit of warriors.",
+  "source_sha256": "1dbf46e7e5afd01ef83eabee3775af9ce339a9ecd4494fa36a6b94311b01f136",
+  "translation": "《维京之王》是一部以维京幻想之地为背景的冒险视觉小说。白银拉格纳是一位维京贵族，受玛蒂尔德女王的召唤，集结了一支精英战士部队，以击败这种触手威胁。",
+  "vndb_url": "https://vndb.org/v27988"
+}

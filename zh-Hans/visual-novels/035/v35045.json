@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35045",
+  "type": "visual_novel",
+  "name": "Custom Super Hero",
+  "original_name": "カスタムスーパーヒーロー",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In Custom Hero, you play as an Evil Organization making experiments on a veteran superhero they have freshly captured.\n\n[From [url=https://satyroom.itch.io/customherobonus-scene]Itch.io[/url]]",
+  "source_sha256": "978915ef00ed46b2c8893f55b688f6815cf4a180f7d9a3760a5d79ecc92f087c",
+  "translation": "在“自定义英雄”中，你扮演一个邪恶组织，对他们刚刚捕获的资深超级英雄进行实验。\n\n[来自[url=https://satyroom.itch.io/customherobonus-scene]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v35045"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59597",
+  "type": "visual_novel",
+  "name": "One Thousand Lies Remake",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A remake of [url=/v19014]One Thousand Lies[/url]. The reason it has its own page separate from the original is due to its massive expansion in scope, which adds a new central mystery, multiple character routes, and content that extends far beyond the original's conclusion.",
+  "source_sha256": "16b637731d1c291290aa41db5f63bd7f3c129bddc5ef22706f0c3bea9f00c588",
+  "translation": "[url=/v19014]一千个谎言[/url]的翻拍。它拥有与原作分开的独立页面的原因是其范围的巨大扩展，增加了新的中心谜团、多个角色路线以及远远超出原作结论的内容。",
+  "vndb_url": "https://vndb.org/v59597"
+}

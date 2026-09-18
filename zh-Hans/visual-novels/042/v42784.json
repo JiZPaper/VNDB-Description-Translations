@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42784",
+  "type": "visual_novel",
+  "name": "Under The Moonlight: Tokyo Revengers Mikey Otome Game",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Valentines Otome game featuring Mikey from Tokyo Revengers.",
+  "source_sha256": "243f1cb9bf2bd4d60c7bbcf64be8d1eca43978cc813880dd84c03ed9bc00302b",
+  "translation": "以《东京复仇者》中的Mikey为主角的情人节乙女游戏。",
+  "vndb_url": "https://vndb.org/v42784"
+}

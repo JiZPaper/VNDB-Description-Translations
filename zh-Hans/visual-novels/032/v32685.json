@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32685",
+  "type": "visual_novel",
+  "name": "Kimi to Issho ni Ikitai no Desu",
+  "original_name": "君といっしょにいきたいのです",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The story of two people who have nothing left to lose.\n\n\"On days when the sky is this beautiful, I feel like I could do anything.\nI wish for the other world to be less painful than this one.\"\n\n[Translated from [url=https://www.freem.ne.jp/win/game/26798]Freem![/url]]",
+  "source_sha256": "12d265bbb2ad34b9f709c17a753134f2a73e1e263b9c068a48a077813dd5ac23",
+  "translation": "两个已经没有什么可失去的人的故事。\n\n“在天空如此美丽的日子里，我觉得我可以做任何事情。\n我希望另一个世界能比这个世界少一些痛苦。”\n\n[译自[url=https://www.freem.ne.jp/win/game/26798]Freem![/url]]",
+  "vndb_url": "https://vndb.org/v32685"
+}

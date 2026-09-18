@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44297",
+  "type": "visual_novel",
+  "name": "The Florist",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a florist in a small town. Now that Spring is here, there's plenty of flowers to care for and orders to fill. Check up on your friends and neighbors and get them the flowers they need.\n\n[From [url=https://skylilywolf.itch.io/the-florist]Itch.io[/url]]",
+  "source_sha256": "ca2d1464a3126b45da7b41a211efea4d5c5ca039560a6a8a31d7974afa1f0420",
+  "translation": "你是一个小镇上的花店。现在春天来了，有很多鲜花需要照顾，有很多订单需要完成。查看你的朋友和邻居，并为他们提供所需的鲜花。\n\n[来自[url=https://skylilywolf.itch.io/the-florist]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v44297"
+}

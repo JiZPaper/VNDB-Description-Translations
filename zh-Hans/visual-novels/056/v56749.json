@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56749",
+  "type": "visual_novel",
+  "name": "Worn Out",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A presence lingers in the dark, waiting. It asks. It doubts. It knows. What happened? Why are you here? Do you deserve this? The answers are yours to decide. What you choose matters. Every path leads somewhere. But will you like where it takes you?",
+  "source_sha256": "ad9d0e98899e238cd9db552933388d0f28b77332ab46a88e9d5c635ba11fcde6",
+  "translation": "一个存在在黑暗中徘徊，等待着。它问。它怀疑。它知道。发生了什么？你为什么在这里？你值得这个吗？答案由你决定。你的选择很重要。每条路都通向某个地方。但你会喜欢它带你去的地方吗？",
+  "vndb_url": "https://vndb.org/v56749"
+}

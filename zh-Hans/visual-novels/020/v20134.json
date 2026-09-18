@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20134",
+  "type": "visual_novel",
+  "name": "Butterfly Gloss",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist worked at a fancy cafe in her neighborhood and met a guy there, they eventually start dating and living together.\nBut suddenly a childhood friend of hers comes back into her life and they start getting closer.",
+  "source_sha256": "fd066daaaa324aa06af100c1116d960c02e35eae0588bdab58ce9e0498c2f6d8",
+  "translation": "主角在附近的一家高档咖啡馆工作，并在那里遇到了一个男人，他们最终开始约会并同居。\n但突然，她儿时的一个朋友又回到了她的生活中，他们开始变得更加亲密。",
+  "vndb_url": "https://vndb.org/v20134"
+}

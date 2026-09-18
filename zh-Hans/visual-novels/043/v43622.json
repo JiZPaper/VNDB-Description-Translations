@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43622",
+  "type": "visual_novel",
+  "name": "Seating Plan",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Seating Plan is a visual novel in which you play as Alexis, a kind-hearted teacher who strives to give her students a good head start.\n\n[From [url=https://romromrow.itch.io/seating-plan-demo]Itch.io[/url]]",
+  "source_sha256": "dec89a17329be73beb237370bb80cfff461fb92ad3de350e40de3c831e3ba073",
+  "translation": "《座位计划》是一部视觉小说，你在其中扮演亚历克西斯，一位善良的老师，努力为学生提供良好的开端。\n\n[来自[url=https://romromrow.itch.io/seating-plan-demo]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43622"
+}

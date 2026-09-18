@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13360",
+  "type": "visual_novel",
+  "name": "Hime to Majo to CANDY no Kishi",
+  "original_name": "姫と魔女とCANDYの騎士",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Valiant knight Hiroshi goes on a quest to rescue Princess Mahiru from the evil witch Kairi -- but it turns out that none of them are exactly what they seem.",
+  "source_sha256": "32b7394f0d53df89fd45fdf3e4fa473e8b9df6f44a8dc41a430bc1bba9522961",
+  "translation": "勇敢的骑士浩踏上征途，从邪恶女巫凯丽手中拯救真昼公主，但事实证明，他们中的任何一个都不是表面上看起来的那样。",
+  "vndb_url": "https://vndb.org/v13360"
+}

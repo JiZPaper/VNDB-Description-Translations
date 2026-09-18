@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32178",
+  "type": "visual_novel",
+  "name": "Bard Quest",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In an unlikely turn of events, a simple bard becomes appointed the head dragon slayer of the kingdom.\n\n[Paraphrased from the visual novel].",
+  "source_sha256": "7775c53a8e59e1d2f8bacebe72d60c5251934aadc49a0505d0fd12eb3b8f7533",
+  "translation": "在一次意想不到的事件中，一位普通的吟游诗人被任命为王国的首席屠龙者。\n\n[摘自视觉小说]。",
+  "vndb_url": "https://vndb.org/v32178"
+}

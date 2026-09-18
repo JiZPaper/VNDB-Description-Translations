@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55713",
+  "type": "visual_novel",
+  "name": "LETOV V SOVJONKE",
+  "original_name": "ЛЕТОВ В СОВЁНКЕ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "One day, Letov ends up in Sovenok and SUCH A THING happens to him...",
+  "source_sha256": "64cf0356512d8d4b6ef9001969b17a2322538c8dfed9e7488b07489cf45f72b2",
+  "translation": "有一天，莱托夫最终来到了索维诺克，这样的事情发生在他身上……",
+  "vndb_url": "https://vndb.org/v55713"
+}

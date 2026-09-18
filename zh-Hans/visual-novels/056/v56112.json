@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56112",
+  "type": "visual_novel",
+  "name": "Kodoku",
+  "original_name": "Кодоку",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Riyo Sagisu is a young Japanese woman expecting a child. After a family tragedy, she joins a cult in hopes of starting a new life — but she has no idea that she’s about to become a participant in a deadly survival game.",
+  "source_sha256": "7e952c32598f30c0be421fd50a478afc16086879c528c3e1df443e1cab8c7ebe",
+  "translation": "Riyo Sagisu是一位即将生孩子的日本年轻女性。经历了一场家庭悲剧后，她加入了一个邪教，希望开始新的生活，但她不知道自己即将成为一场致命生存游戏的参与者。",
+  "vndb_url": "https://vndb.org/v56112"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23880",
+  "type": "visual_novel",
+  "name": "Lucy Returns",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"A young woman waits under the dim light of a street lamp, swaying on a park swing.\"\n\n[From [url=https://alte.itch.io/lucy-returns] itch.io[/url]]",
+  "source_sha256": "6c1931a5747d72bad03899343a6fc32a750fa794394242721ec9a812cdad8a12",
+  "translation": "“一名年轻女子在路灯昏暗的灯光下等待，在公园的秋千上摇摆。”\n\n[来自[url=https://alte.itch.io/lucy-returns] itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v23880"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28110",
+  "type": "visual_novel",
+  "name": "Kirizaki-kun wa.",
+  "original_name": "キリザキ君は。",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In the classroom of the protagonist, Moriko Taka (changeable), a strange transfer student, Kirizaki-kun, has arrived! \nMoriko's days with the strange Kirizaki-kun are about to begin.",
+  "source_sha256": "9fc67d619c229ef9c3d415c5562b2cd1a54316a21e2cbdbbc163705afca19902",
+  "translation": "主角高森子（可变）的教室里，来了一位奇怪的转校生桐崎君！\n森子与奇怪的桐崎君的日子即将开始。",
+  "vndb_url": "https://vndb.org/v28110"
+}

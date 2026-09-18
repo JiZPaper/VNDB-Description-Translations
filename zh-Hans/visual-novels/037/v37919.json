@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37919",
+  "type": "visual_novel",
+  "name": "Destiny's Cycle",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel made in a month where you play as a fox who is desperately trying to win the love of a rabbit.\n\n[From [url=https://youchoosewhodies.itch.io/destinys-cycle]Itch.io[/url]]",
+  "source_sha256": "e2345f994c02fb5166a64401d778686f2ebc081dc7f30ff2c4b6defd5f09a88a",
+  "translation": "这是一部花了一个月时间制作的视觉小说，你扮演一只狐狸，拼命想要赢得兔子的爱。\n\n[来自[url=https://youchoosewhodies.itch.io/destinys-cycle]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v37919"
+}

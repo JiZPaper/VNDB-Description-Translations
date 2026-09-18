@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35450",
+  "type": "visual_novel",
+  "name": "Nanopesos",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This game is a budget management simulator inspired by the low salaries and high living costs in Chile.\n\nYou are a young worker with no children, currently single.\nYou live in a dark and small studio apartment in the capital.\n\nYou feel lucky for having your own place, even though you're paying $200.000 for 17 square meters (183 sq ft). You know that if you lose it, it will be really hard to get another apartment for that price in the capital.\n\nWith a monthly wage of $301.000 or $400.000, you need to live trough the month, paying rent, medical care, bills, food and transport.\n\n[From [url=https://laburatory.itch.io/nanopesos]Itch.io[/url] and edited from in-game introduction]",
+  "source_sha256": "c9554d3bfd3519670079bea13715b8eb36cf255eb850c56e7eb2ed4444aa4036",
+  "translation": "该游戏是一款预算管理模拟器，其灵感来自于智利的低工资和高生活成本。\n\n你是一名年轻工人，没有孩子，目前单身。\n你住在首都一间又暗又小的单间公寓里。\n\n即使你花费20万美元购买17平方米（183平方英尺）的房屋，你仍会为拥有自己的住所而感到幸运。你知道，如果你失去了它，那么在首都就很难再以这个价格买到另一套公寓了。\n\n月薪为301,000美元或400,000美元，你需要支付房租、医疗、账单、食物和交通来度过这个月的生活。\n\n[来自[url=https://laburatory.itch.io/nanopesos]Itch.io[/url] 并根据游戏内介绍进行编辑]",
+  "vndb_url": "https://vndb.org/v35450"
+}

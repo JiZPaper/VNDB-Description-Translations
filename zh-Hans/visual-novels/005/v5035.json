@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5035",
+  "type": "visual_novel",
+  "name": "Pico to Chico - Shota Idol no Oshigoto",
+  "original_name": "ぴことちこ ショタアイドルのオシゴト",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An alternate canon from the anime, where Pico and Chico are shota idols, and the protagonist acts as their manager.",
+  "source_sha256": "e9b7b6a0d41ed8937d22729a9dbcd9ef637d3968325ecb8640ed3d952a28ad19",
+  "translation": "动画中的另类经典，其中Pico和Chico是正太偶像，主角担任他们的经理。",
+  "vndb_url": "https://vndb.org/v5035"
+}

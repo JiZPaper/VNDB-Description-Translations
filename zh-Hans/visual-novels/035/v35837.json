@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35837",
+  "type": "visual_novel",
+  "name": "Summer Adventure with: Wakan Tanka",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fangame based off of the gacha RPG Tokyo Houkago Summoners.",
+  "source_sha256": "2f4d6dc2c733766af84f5087fe5c4cf6b68ef89125ee920877f804c66000f308",
+  "translation": "基于扭蛋角色扮演游戏《东京崩香召唤师》的同人游戏。",
+  "vndb_url": "https://vndb.org/v35837"
+}

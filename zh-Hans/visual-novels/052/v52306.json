@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52306",
+  "type": "visual_novel",
+  "name": "under the lighthouse",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In the middle of a stormy night, Liv reunites with an old friend.\n\n[From [url=https://rombuffer.itch.io/lighthouse]itch.io[/url]]",
+  "source_sha256": "d0e1a5a8f5c68a57df84a32841aefa75a8daca84b7742cf237c7c7af6b2c2c35",
+  "translation": "在一个风雨交加的夜晚，丽芙与一位老朋友重逢。\n\n[来自[url=https://rombuffer.itch.io/lighthouse]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v52306"
+}

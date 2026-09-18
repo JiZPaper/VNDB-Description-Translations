@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55211",
+  "type": "visual_novel",
+  "name": "Hearts Sing True",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Open a window into several characters' lives and unravel the bonds between their hearts.\n\nHearts Sing True is a short pixel art visual novel where you can explore the relationships between characters from all around the world, all while putting yourself in their shoes and seeing through their eyes (and windows)!",
+  "source_sha256": "a1f6b740851617cf23ba93103c8403a343c6b0b63e1a4967a0d50a776510c636",
+  "translation": "打开一扇窗，了解几个角色的生活，解开他们之间的心灵纽带。\n\n《Hearts Sing True》是一部简短的像素艺术视觉小说，你可以在其中探索来自世界各地的角色之间的关系，同时设身处地为他们着想，通过他们的眼睛（和窗户）观察！",
+  "vndb_url": "https://vndb.org/v55211"
+}

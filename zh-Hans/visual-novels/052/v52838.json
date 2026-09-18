@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52838",
+  "type": "visual_novel",
+  "name": "Doctor Simulator",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Examine female patients who enter your private practice.  Convince them to strip naked and undergo your thorough examination. But be careful not to raise their suspicion too high!",
+  "source_sha256": "bc71a1b6929bbd7ad25b5bfd9d902839d8f8b4c8669f7cdb788a3dcad1ef93ce",
+  "translation": "检查进入你私人诊所的女性患者。说服他们脱光衣服并接受彻底的检查。但要小心，不要让他们的怀疑太高！",
+  "vndb_url": "https://vndb.org/v52838"
+}

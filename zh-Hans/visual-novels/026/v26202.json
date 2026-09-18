@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26202",
+  "type": "visual_novel",
+  "name": "Traumend ~Etude~",
+  "original_name": "トレイメント～Etude～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A car accident in her youth cost the protagonist's mother her life and left the girl unable to walk. She finds peace in playing the piano - her only link to her deceased mother - and shuts herself off from the rest of the world.",
+  "source_sha256": "3a587f5d2ddb8f3b5ab09d4ba51d5064aa180aec40672544a52dd021ad2f3124",
+  "translation": "年轻时的一场车祸夺走了主角母亲的生命，也让女孩无法行走。她在弹钢琴中找到了平静——她与已故母亲的唯一联系——并将自己与世隔绝。",
+  "vndb_url": "https://vndb.org/v26202"
+}

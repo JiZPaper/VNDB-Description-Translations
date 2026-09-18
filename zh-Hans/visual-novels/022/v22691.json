@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22691",
+  "type": "visual_novel",
+  "name": "Power Pro Kun Pocket 14",
+  "original_name": "パワプロクンポケット14",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Final game of the series. This title concludes the story that started in the first game of the series.",
+  "source_sha256": "b0d9b9c0baaa7382be13c9bfb6b0c96acc3bc122983d781d57aae70518546130",
+  "translation": "系列赛的最后一场比赛。这个标题结束了该系列第一款游戏开始的故事。",
+  "vndb_url": "https://vndb.org/v22691"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48985",
+  "type": "visual_novel",
+  "name": "A Pocketful of Snow",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A hobby botanist comes across snow-covered ruins in the middle of summer and goes to investigate.\n\n[From [url=https://glueblade.itch.io/a-pocketful-of-snow]itch.io[/url]]",
+  "source_sha256": "75cd5f76b8101c167d1734ac654cf148cb536317b9d3cd2c000f259ff2ac8e05",
+  "translation": "一位业余植物学家在仲夏时节偶然发现了白雪覆盖的废墟，并前去调查。\n\n[来自[url=https://glueblade.itch.io/a-pocketful-of-snow]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v48985"
+}

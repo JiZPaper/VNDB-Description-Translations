@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56314",
+  "type": "visual_novel",
+  "name": "BANGYA Simulator",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "[i]Have you ever heard about Visual Kei?[/i]\n\nBANGYA Simulator is a Visual Kei themed visual novel with dating sim elements. \n\nExperience being a fan of unpopular vkei band, going to live concerts, meeting your favorite bandman, making friends with other fans and more!",
+  "source_sha256": "fa4211ad1c6fda791a2141cd97175941c6acca967068e6bff777e9ff802aba24",
+  "translation": "[i]你听说过Visual Kei吗？[/i]\n\nBANGYA Simulator是一款以Visual Kei为主题的视觉小说，带有约会模拟元素。\n\n体验成为不受欢迎的vkei乐队的粉丝、参加现场音乐会、与你最喜欢的乐队成员见面、与其他粉丝交朋友等等！",
+  "vndb_url": "https://vndb.org/v56314"
+}

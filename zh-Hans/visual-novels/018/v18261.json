@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18261",
+  "type": "visual_novel",
+  "name": "Sakura Swim Club",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In Sakura Swim Club, follow the story of Kaede, just your average high school guy. Upon transferring to a new school, he meets two beautiful girls in the swim club. Things haven't gone well for the swim club lately, but with Kaede's help, that all changes.",
+  "source_sha256": "c7f95f7175d11561217885c32afd049c43d0c875683460ea694da069128ef7e2",
+  "translation": "在樱花游泳俱乐部中，跟随枫的故事，他只是一个普通的高中生。转学到新学校后，他在游泳俱乐部遇到了两个美丽的女孩。游泳俱乐部最近的情况不太顺利，但在枫的帮助下，一切都改变了。",
+  "vndb_url": "https://vndb.org/v18261"
+}

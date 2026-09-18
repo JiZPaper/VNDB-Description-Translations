@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57190",
+  "type": "visual_novel",
+  "name": "Hypocrite",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as Rhain, trying to uncover the truth about himself, and the twisted world around him. \n\n[From [url=https://rhinosoup.itch.io/hypocrite]Itch.io[/url]]",
+  "source_sha256": "1724a6ebb20b6fa3538653b6762298ed7165d480afaf8543641192c9ab23b1df",
+  "translation": "你扮演莱恩，试图揭开关于他自己以及他周围扭曲世界的真相。\n\n[来自[url=https://rhinosoup.itch.io/hypocrite]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v57190"
+}

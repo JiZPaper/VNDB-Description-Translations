@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64549",
+  "type": "visual_novel",
+  "name": "Escape The Lab",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An escape adventure set in a lab. This is pretty tricky, there are some red herrings and some hidden variables which means the outcome of certain actions may depend on previous actions. There are clues in the text, so read carefully. Have fun!",
+  "source_sha256": "f2e5e2a83b5b639e4349b0785db467862f2c94e1efb738df1cad3c3eede8f918",
+  "translation": "一场以实验室为背景的逃脱冒险。这非常棘手，有一些转移注意力的因素和一些隐藏变量，这意味着某些操作的结果可能取决于之前的操作。文中已有线索，请仔细阅读。玩得开心！",
+  "vndb_url": "https://vndb.org/v64549"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52274",
+  "type": "visual_novel",
+  "name": "Skrepljonnye krov'ju",
+  "original_name": "Скреплённые кровью",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hi! How are you doing? I hope you're not passing by... You know, I'm all alone. They left me. And now I'm lying in the toilet. It's so nice, I don't even want to leave. But the blood coming out of the rusty tap is getting a bit annoying. Would you like to keep me company? There's not much time left.",
+  "source_sha256": "18ef6f0562cc7dc83755feb4fe81c1a2d83918e538363005161472ade888d60c",
+  "translation": "你好！你好吗？我希望你没有路过……你知道，我孤身一人。他们离开了我。现在我正躺在厕所里。真是太好了，我什至不想离开。但从生锈的水龙头里流出来的血有点烦人。你愿意陪我吗？剩下的时间不多了。",
+  "vndb_url": "https://vndb.org/v52274"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50660",
+  "type": "visual_novel",
+  "name": "Getsumei no Nokiera",
+  "original_name": "月明のノキエラ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In a different world where there is a war between humans and monsters, humans established an organization called the \"Church.\"\n\nIn order to fight against monsters, the Church succeeded in creating human \"angels\" who have magical powers built in like monsters.\n\n[Translated from [url=https://novelgame.jp/games/show/9693]NovelGame[/url]]",
+  "source_sha256": "6d35b64119133eed39221ee84aff42436a7305d9e24a01bf56d73962de6a81c0",
+  "translation": "在人类与魔物战争的异世界里，人类建立了一个名为“教会”的组织。\n\n为了对抗怪物，教会成功地创造了人类“天使”，他们像怪物一样拥有神奇的力量。\n\n[译自[url=https://novelgame.jp/games/show/9693]NovelGame[/url]]",
+  "vndb_url": "https://vndb.org/v50660"
+}

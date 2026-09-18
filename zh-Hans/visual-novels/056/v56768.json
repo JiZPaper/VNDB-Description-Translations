@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56768",
+  "type": "visual_novel",
+  "name": "Cover U: Raora Route",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're a third-year university student in Cover University, taking a class in Introduction to Web Development. For your final project, you're grouped with the last people you'd expect.\n\nCan you survive late-night coding sessions, a little miscommunications, and team drama long enough to finish your website before the deadline? \n\n[From [url=https://blu-asul.itch.io/cover-u-raora-route]Itch.io[/url]]",
+  "source_sha256": "a25bb34f7a48bb35e8209cf3fa72f93ad806181cee635c63e449fd8cc28117d9",
+  "translation": "你是Cover大学的三年级学生，正在学习Web开发入门课程。对于你的最终项目，你将与你最不期望的人员分组。\n\n你能熬过深夜的编码会议、一点点沟通不畅和团队闹剧，在截止日期前完成你的网站吗？\n\n[来自[url=https://blu-asul.itch.io/cover-u-raora-route]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v56768"
+}

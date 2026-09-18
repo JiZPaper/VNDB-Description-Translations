@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29712",
+  "type": "visual_novel",
+  "name": "Arcane City: Alive",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short visual novel about a boy, his friend, and trying to keep alive in a creepy old house.\n\nA sequel to \"The Dreams in the Witch House\" by HP Lovecraft.",
+  "source_sha256": "6190a7d33f40fd4904649f88f2c14db2f7bce71cff8c726fe218591b51164ca3",
+  "translation": "一部简短的视觉小说，讲述了一个男孩和他的朋友试图在一座令人毛骨悚然的老房子里生存的故事。\n\n惠普·洛夫克拉夫特的《女巫屋之梦》的续集。",
+  "vndb_url": "https://vndb.org/v29712"
+}
