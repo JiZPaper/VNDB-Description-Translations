@@ -8,7 +8,7 @@
 
 # 将 VNDB 翻译到你的语言
 
-这是一个翻译 VNDB 的项目。你可以提交 Pull Request 来翻译 VNDB 简介。它将被用于 PaperVN App 中，当然，所有人都可以使用这些译文。关于 PaperVN App 的更多信息，请查阅：https://github.com/JiZPaper/PaperVN-Localizations。
+这是一个翻译 VNDB 的项目。你可以提交 Pull Request 来翻译 VNDB 简介。它将被用于 PaperVN App 中，当然，所有人都可以使用这些译文。关于 PaperVN App 的更多信息，请查阅：https://github.com/JiZPaper/PaperVN-Localizations
 
 ## 目录结构
 
