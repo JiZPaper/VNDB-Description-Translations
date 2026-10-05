@@ -1,13 +1,1 @@
-{
-  "schema_version": 1,
-  "id": "v13913",
-  "type": "visual_novel",
-  "name": "ChuSinGura 46+1 Sayo no Chiisana Tsubomi. Onii-chan! Soko wa Dame! Dame!",
-  "original_name": "ChuSingura 46+1 小夜の小さな蕾。お兄ちゃん!そこは駄目!駄目!",
-  "language": "zh-Hans",
-  "source_language": "en",
-  "source": "A short fandisc separate from the main story's continuity. Features Sayo talking about the setting of ChuSinGura 46+1 and the related history, along with gags and fanservice.",
-  "source_sha256": "dd44c58c98fbea47fa13f53bc8f14a30516abcbc141cdde135a79e74f24e0b42",
-  "translation": "与主要故事的连续性分开的简短同人光盘。以Sayo谈论ChuSinGura 46+1的背景和相关历史，以及搞笑和粉丝服务为特色。",
-  "vndb_url": "https://vndb.org/v13913"
-}
+{"schema_version":1,"id":"v13913","type":"visual_novel","name":"ChuSinGura 46+1 Sayo no Chiisana Tsubomi. Onii-chan! Soko wa Dame! Dame!","original_name":"ChuSingura 46+1 小夜の小さな蕾。お兄ちゃん!そこは駄目!駄目!","language":"zh-Hans","source_language":"en","source":"A short fandisc separate from the main story's continuity. Features Sayo talking about the setting of ChuSinGura 46+1 and the related history, along with gags and fanservice.","source_sha256":"dd44c58c98fbea47fa13f53bc8f14a30516abcbc141cdde135a79e74f24e0b42","translation":"这是一部独立于主线故事的小型粉丝碟。小夜会介绍《ChuSinGura 46+1》的世界观及相关历史，同时还收录搞笑桥段和粉丝向内容。","vndb_url":"https://vndb.org/v13913"}

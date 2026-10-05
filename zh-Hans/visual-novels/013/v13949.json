@@ -1,13 +1,1 @@
-{
-  "schema_version": 1,
-  "id": "v13949",
-  "type": "visual_novel",
-  "name": "Yandere in 100 Words",
-  "original_name": null,
-  "language": "zh-Hans",
-  "source_language": "en",
-  "source": "A collection of 100-word short stories - or free verse poetry - about yandere.",
-  "source_sha256": "91e2ab3f3e9431f7ab34ba3b6ca51b1f903cc57aeb9bcb65b5e068e2ce73a85b",
-  "translation": "关于病态的100字短篇小说集（或自由诗）。",
-  "vndb_url": "https://vndb.org/v13949"
-}
+{"schema_version":1,"id":"v13949","type":"visual_novel","name":"Yandere in 100 Words","original_name":null,"language":"zh-Hans","source_language":"en","source":"A collection of 100-word short stories - or free verse poetry - about yandere.","source_sha256":"91e2ab3f3e9431f7ab34ba3b6ca51b1f903cc57aeb9bcb65b5e068e2ce73a85b","translation":"收录以病娇为主题的百字短篇故事，或自由诗。","vndb_url":"https://vndb.org/v13949"}

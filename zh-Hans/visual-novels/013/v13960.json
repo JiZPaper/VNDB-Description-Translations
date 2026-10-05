@@ -1,13 +1,1 @@
-{
-  "schema_version": 1,
-  "id": "v13960",
-  "type": "visual_novel",
-  "name": "Eunyeolsoi - Jukeun Yeonin",
-  "original_name": "은열쇠 - 죽은 연인",
-  "language": "zh-Hans",
-  "source_language": "en",
-  "source": "As humans, there is no avoiding death. However, every and anyone possesses the method to stare death in the eye.",
-  "source_sha256": "e641e6586860c4e54fdf9db5efd0f825ed92c3759034904cf4ecac7a2db8e986",
-  "translation": "作为人类，死亡是不可避免的。然而，每个人都拥有直视死亡的方法。",
-  "vndb_url": "https://vndb.org/v13960"
-}
+{"schema_version":1,"id":"v13960","type":"visual_novel","name":"Eunyeolsoi - Jukeun Yeonin","original_name":"은열쇠 - 죽은 연인","language":"zh-Hans","source_language":"en","source":"As humans, there is no avoiding death. However, every and anyone possesses the method to stare death in the eye.","source_sha256":"e641e6586860c4e54fdf9db5efd0f825ed92c3759034904cf4ecac7a2db8e986","translation":"作为人类，死亡无可避免。然而，每个人都拥有直视死亡的方式。","vndb_url":"https://vndb.org/v13960"}

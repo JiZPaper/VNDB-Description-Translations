@@ -1,13 +1,1 @@
-{
-  "schema_version": 1,
-  "id": "v13951",
-  "type": "visual_novel",
-  "name": "SwitzerlandXShy!Blind!Reader - A New Hope",
-  "original_name": null,
-  "language": "zh-Hans",
-  "source_language": "en",
-  "source": "A short Hetalia fan game.",
-  "source_sha256": "86d87cd89957fe54dfa8d08566b1611a313a16e49cd58d87f85d0d581b20f3d7",
-  "translation": "一个简短的黑塔利亚粉丝游戏。",
-  "vndb_url": "https://vndb.org/v13951"
-}
+{"schema_version":1,"id":"v13951","type":"visual_novel","name":"SwitzerlandXShy!Blind!Reader - A New Hope","original_name":null,"language":"zh-Hans","source_language":"en","source":"A short Hetalia fan game.","source_sha256":"86d87cd89957fe54dfa8d08566b1611a313a16e49cd58d87f85d0d581b20f3d7","translation":"一部短篇《黑塔利亚》同人游戏。","vndb_url":"https://vndb.org/v13951"}

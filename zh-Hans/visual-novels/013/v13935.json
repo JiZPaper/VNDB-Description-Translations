@@ -1,13 +1,1 @@
-{
-  "schema_version": 1,
-  "id": "v13935",
-  "type": "visual_novel",
-  "name": "Proekt \"Keramicheskoe serdce\"",
-  "original_name": "Проект \"Керамическое сердце\"",
-  "language": "zh-Hans",
-  "source_language": "en",
-  "source": "When it became known that the experience of Kayaba Akihiko by transferring his consciousness into the network was successful , the research in this area continued. The main sponsor was the Ministry of Defence, which is very interested in a way to avoid the loss of highly skilled pilots and drivers in armed clashes . An intermediate step was the development of the medical module \" Medikuboyd \" which monitors the patient's brain and body , removing the data in a more dynamic and gentle , does not lead to the destruction of the brain. The final goal of the experiment was a complete recreation of the individual in the form of implanting artificial intelligence.",
-  "source_sha256": "ecbdb83a0a6a842293e02e2631f40ac81245d566ed9a967e85ee08cbb6347d9d",
-  "translation": "当得知茅场明彦将意识转移到网络的经验成功后，这方面的研究仍在继续。主要赞助商是国防部，它对避免武装冲突中损失高技能飞行员和司机的方法非常感兴趣。中间步骤是开发医疗模块“Medikuboyd”，该模块监测患者的大脑和身体，以更加动态和温和的方式删除数据，不会导致大脑的破坏。该实验的最终目标是以植入人工智能的形式对个体进行完全的再创造。",
-  "vndb_url": "https://vndb.org/v13935"
-}
+{"schema_version":1,"id":"v13935","type":"visual_novel","name":"Proekt \"Keramicheskoe serdce\"","original_name":"Проект \"Керамическое сердце\"","language":"zh-Hans","source_language":"en","source":"When it became known that the experience of Kayaba Akihiko by transferring his consciousness into the network was successful , the research in this area continued. The main sponsor was the Ministry of Defence, which is very interested in a way to avoid the loss of highly skilled pilots and drivers in armed clashes . An intermediate step was the development of the medical module \" Medikuboyd \" which monitors the patient's brain and body , removing the data in a more dynamic and gentle , does not lead to the destruction of the brain. The final goal of the experiment was a complete recreation of the individual in the form of implanting artificial intelligence.","source_sha256":"ecbdb83a0a6a842293e02e2631f40ac81245d566ed9a967e85ee08cbb6347d9d","translation":"当得知茅场晶彦将意识转移到网络中的实验成功后，该领域的研究继续推进。主要赞助方是国防部，他们十分关注如何避免高技能飞行员和驾驶员在武装冲突中损失。中间阶段是开发名为“医疗模块”的系统，用于监测患者的大脑和身体，以更动态、更温和的方式移除数据，不会破坏大脑。实验的最终目标，是通过植入人工智能，完整重现一个人的个体。","vndb_url":"https://vndb.org/v13935"}

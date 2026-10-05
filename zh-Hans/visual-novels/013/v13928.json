@@ -1,13 +1,1 @@
-{
-  "schema_version": 1,
-  "id": "v13928",
-  "type": "visual_novel",
-  "name": "TR∀P DEAD",
-  "original_name": null,
-  "language": "zh-Hans",
-  "source_language": "en",
-  "source": "At his best friend Satoya's suggestion, Hodaka decides to do a test of courage with him at the school.\nBut that marked the start of a tiny tragedy.\n\n[Translated from the [url=http://winter.vivian.jp/mo/game/td/story.html]official website[/url]]",
-  "source_sha256": "a18d05c5d1428686f9a4a626faaaa6d7af7209f05ba0a909effd0e1b7a4de45c",
-  "translation": "在最好的朋友里也的建议下，帆高决定和他一起在学校进行勇气测试。\n但这标志着一场小悲剧的开始。\n\n[翻译自[url=http://winter.vivian.jp/mo/game/td/story.html]官方网站[/url]]",
-  "vndb_url": "https://vndb.org/v13928"
-}
+{"schema_version":1,"id":"v13928","type":"visual_novel","name":"TR∀P DEAD","original_name":null,"language":"zh-Hans","source_language":"en","source":"At his best friend Satoya's suggestion, Hodaka decides to do a test of courage with him at the school.\nBut that marked the start of a tiny tragedy.\n\n[Translated from the [url=http://winter.vivian.jp/mo/game/td/story.html]official website[/url]]","source_sha256":"a18d05c5d1428686f9a4a626faaaa6d7af7209f05ba0a909effd0e1b7a4de45c","translation":"在挚友里谷的提议下，穗高决定和他一起在学校进行试胆。\n然而，这标志着一场微小悲剧的开始。\n\n[译自[url=http://winter.vivian.jp/mo/game/td/story.html]官方网站[/url]]","vndb_url":"https://vndb.org/v13928"}
