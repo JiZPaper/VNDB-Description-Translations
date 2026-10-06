@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19406",
+  "type": "visual_novel",
+  "name": "Date Ariane",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Go on a date with Ariane. Meet her at her home, have dinner, and choose from around 50 activities which can lead to success or failure of your night out.\n\nDate Ariane is the original western style \"date simulator\" first published online in 2004. Three things that make it unique from Japanese dating sims is 1. it actually simulates a night out with a woman, 2. there is only one dateable character, 3. the graphics are 3D rendered images instead of anime style. \n\nIt has inspired over a hundred similar games since then. It was converted from an online game to a downloadable Renpy visual novel in 2015. Released as donationware it has had over 2 million downloads and translated in to 5 languages.",
+  "source_sha256": "4779c58306681d9d12b4fca323bae5ad86521c471267898ac7fac820e0657c71",
+  "translation": "和阿丽亚娜约会。去她家见她，一起吃晚餐，并从大约50项活动中选择，决定这次外出的成败。\n\n《Date Ariane》是最初于2004年在线发布的西式“约会模拟器”。它区别于日本约会模拟游戏的三点是：1.它确实模拟了和女性外出约会；2.只有一名可约会角色；3.画面是3D渲染图，而非动画风格。\n\n此后，它启发了一百多款类似游戏。2015年，它从在线游戏转换为可下载的Ren’Py视觉小说。作为捐赠软件发布后，下载量超过200万次，并被翻译成5种语言。",
+  "vndb_url": "https://vndb.org/v19406"
+}

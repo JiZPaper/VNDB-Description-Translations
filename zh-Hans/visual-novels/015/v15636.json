@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15636",
+  "type": "visual_novel",
+  "name": "Stargazer -Shoujo wa Hoshi no Yume o Miru-",
+  "original_name": "Stargazer-少女は星の夢を見る-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Miku has just transferred schools due to her parents work. She wanders into the infirmary, where she meets a mysterious girl named Hoshimi. Will that encounter change the fate of the two girls?",
+  "source_sha256": "21bd717928fb837f26324ac2fd05dcfedf37e6e659446ee00f20dcb463b44802",
+  "translation": "美久因父母工作调动而转学。她误入医务室，在那里遇见神秘女孩星见。这次相遇会改变两个女孩的命运吗？",
+  "vndb_url": "https://vndb.org/v15636"
+}

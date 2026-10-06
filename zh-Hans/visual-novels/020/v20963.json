@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20963",
+  "type": "visual_novel",
+  "name": "Meguri Aishite",
+  "original_name": "めぐり愛して",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Our protagonist goes back to the city of his childhood as a high school transfer student. For one year and a half, he'll live an ordinary school life full of friendship, meetings and love.\n\nThe game is presented as a collection of memories between the protagonist and the heroine of his choosing, who remember their high school years after graduation.",
+  "source_sha256": "e4fdd30ad480e4dd48dfef89e864f43ead11ead73b55d81048d9f9ae787d1696",
+  "translation": "主人公以高中转学生的身份，回到童年生活过的城市。在接下来的一年半里，他将度过充满友谊、邂逅与恋爱的平凡校园生活。\n\n游戏以一系列回忆展开：毕业之后，主人公与玩家选择的女主角共同回顾他们的高中岁月。",
+  "vndb_url": "https://vndb.org/v20963"
+}

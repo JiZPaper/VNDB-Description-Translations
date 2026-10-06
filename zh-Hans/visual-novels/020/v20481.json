@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20481",
+  "type": "visual_novel",
+  "name": "Dead Frontier: Outbreak",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "During the zombie outbreak a man must survive long enough to return home and be reunited with his wife.",
+  "source_sha256": "5dfff95ff832b51d4e90b8acbc6271776c1519f3fdfb8e6ca508353c171bb566",
+  "translation": "僵尸爆发期间，一名男子必须坚持活下去，直到回到家中与妻子团聚。",
+  "vndb_url": "https://vndb.org/v20481"
+}

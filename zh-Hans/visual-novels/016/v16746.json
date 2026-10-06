@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16746",
+  "type": "visual_novel",
+  "name": "You're Worth Your Weight In Wheat",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel that explores the concept where the player is playing as an Non-Player Character in the game world and despairs over the thought of being trapped in the eternal scripted loop of an NPC. There are multiple endings and choices of how someone may take action in this fantasy world.\n\n[From [url=http://globalgamejam.org/2015/games/youre-worth-your-weight-wheat]Global Game Jam[/url]]",
+  "source_sha256": "1e5f63fb3730f613559915dcb3983489ee92b241d4790cdb8072d3c4705f7901",
+  "translation": "这是一部探讨以下概念的视觉小说：玩家扮演游戏世界中的非玩家角色，并因被困在NPC永恒的脚本循环中而陷入绝望。本作有多个结局，玩家也可以选择在这个幻想世界中采取行动的方式。\n\n[来自[url=http://globalgamejam.org/2015/games/youre-worth-your-weight-wheat]Global Game Jam[/url]]",
+  "vndb_url": "https://vndb.org/v16746"
+}

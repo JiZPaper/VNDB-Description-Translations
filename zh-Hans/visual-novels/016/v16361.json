@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16361",
+  "type": "visual_novel",
+  "name": "Inferno - Mayonaka no Kyoufu Geki",
+  "original_name": "Inferno 真夜中の恐怖劇",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Maria moved into an old western mansion, but even though nobody should be there a monster and a ghost were living there.",
+  "source_sha256": "2e4dbb5e66561ff96fbe9a64573800081c814846daf30cf0ef78383537950e2c",
+  "translation": "玛丽亚搬进一座古老的西式宅邸，那里本应无人居住，却住着一个怪物和一个幽灵。",
+  "vndb_url": "https://vndb.org/v16361"
+}

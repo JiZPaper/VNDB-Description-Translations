@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18117",
+  "type": "visual_novel",
+  "name": "Crisis Culture",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A Visual Novel that's part 60s futurism, part theme park, and ridiculous from start to finish. \n\nThe ISS Subculture used to be a unified craft of all of the galaxy's weirdos and outliers - until they all split apart to their own custom Planet-Cities, connected by a maze of transport tubes. \n\nAs one of the only Peacekeeper Corps officers on duty, you must visit the Reps of every Planet-City, solve their problems, and maybe do battle against a gigantic Space Cat. \n\n[From [url=http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=26423]Ludum Dare[/url]]\n\nCreated for [url=http://www.ludumdare.com/compo/2014/08/20/welcome-to-ludum-dare-30/]Ludum Dare 30[/url] (Theme: Connected Worlds).",
+  "source_sha256": "3757ebd8af40d5c3d06f0ce8d1c42d1a48c8e52aeaf8680e6af2341a6718164a",
+  "translation": "一部从头到尾都荒诞不经的视觉小说，融合了20世纪60年代的未来主义与主题乐园风格。\n\n国际空间站“亚文化”曾是银河系怪人和边缘人的统一飞船，直到他们各自分裂，建立了定制的行星城市，并用运输管道迷宫彼此连接。\n\n作为仅有的几名和平维护队军官之一，你必须拜访每座行星城市的代表，解决他们的问题，也许还要与一只巨大的太空猫战斗。\n\n[来源：[url=http://ludumdare.com/compo/ludum-dare-30/?action=preview&uid=26423]Ludum Dare[/url]]\n\n本作参加了[url=http://www.ludumdare.com/compo/2014/08/20/welcome-to-ludum-dare-30/]Ludum Dare 30[/url]（主题：相连的世界）。",
+  "vndb_url": "https://vndb.org/v18117"
+}

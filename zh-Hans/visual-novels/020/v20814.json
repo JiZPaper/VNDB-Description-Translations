@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20814",
+  "type": "visual_novel",
+  "name": "Brainwaves - Memory Influx",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A puzzle visual novel style game where a detective must solve a murder but his haunted past may get in his way.\n\n[From [url=http://globalgamejam.org/2017/games/brainwaves-0]Global Game Jam[/url]]\n\nCreated for Global Game Jam 2017.",
+  "source_sha256": "7d02ba4f8ae246acb9daf3794482f3271ec09c6bef031028e1d4637a64021b45",
+  "translation": "一部解谜视觉小说风格的游戏，讲述侦探必须解决谋杀案，却可能受到自己缠绕不去的过去阻碍。\n\n为2017年Global Game Jam制作。\n\n（来源：[url=http://globalgamejam.org/2017/games/brainwaves-0]Global Game Jam[/url]）",
+  "vndb_url": "https://vndb.org/v20814"
+}

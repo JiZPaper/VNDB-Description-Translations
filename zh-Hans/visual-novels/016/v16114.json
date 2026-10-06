@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16114",
+  "type": "visual_novel",
+  "name": "AKUMANGEL",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Entirely crafted in Italian, AKUMANGEL is a story centered on Samael, a cynic and lazy demon whose struggles with life are healed by the meeting with three \"angels\".",
+  "source_sha256": "5516d4e5fa0f86499e2c25e6b254545f3d7016284d0e371134d4dbde57ecc706",
+  "translation": "《AKUMANGEL》完全以意大利语制作，讲述了恶魔萨麦尔的故事。他愤世嫉俗又懒惰，直到遇见三位“天使”，生活中的烦恼才得到治愈。",
+  "vndb_url": "https://vndb.org/v16114"
+}

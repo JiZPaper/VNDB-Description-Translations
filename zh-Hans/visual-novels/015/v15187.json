@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15187",
+  "type": "visual_novel",
+  "name": "ThisArmor Kaisetsu 6 Shuunen Kinen Game",
+  "original_name": "ThisArmor開設6周年記念ゲーム",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short game to commemorate ThisArmor's sixth anniversary.\n\nKenichi, dressed in his yukata for the festival, wants to go see the fireworks with you. But you have something else in mind...",
+  "source_sha256": "d7b61290729156c77f13f106348e9fdf3e6562e03179fba5c37d29dbd933156b",
+  "translation": "为纪念ThisArmor成立六周年制作的短篇游戏。\n\n健一穿着参加祭典的浴衣，想和你一起去看烟花。但你另有打算……",
+  "vndb_url": "https://vndb.org/v15187"
+}

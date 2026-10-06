@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19502",
+  "type": "visual_novel",
+  "name": "The Life Threads",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A teacher and his bodyguard on a journey across the desert sands, what sort of fate awaits them?",
+  "source_sha256": "843fa30b2fe8341e7b626215f730b52214faeeb72e3ad9e01ccf519aab115edd",
+  "translation": "一名教师与他的保镖踏上穿越沙漠的旅程，他们将迎来怎样的命运？",
+  "vndb_url": "https://vndb.org/v19502"
+}

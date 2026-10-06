@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16816",
+  "type": "visual_novel",
+  "name": "Steal My Artificial Heart",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A robot P.I. is called upon to solve a murder case in a bar on the moon.\n\nCreated for [url=http://www.antholojam.com/]Antholojam 1: Golden Era of Sci Fi[/url].",
+  "source_sha256": "19561bd9c9ab4626f6b81025fad443d45c63749f83dd69a16454a867ff988e75",
+  "translation": "一名机器人私家侦探受邀调查月球酒吧里的一起谋杀案。\n\n为[url=http://www.antholojam.com/]Antholojam 1：科幻黄金时代[/url]制作。",
+  "vndb_url": "https://vndb.org/v16816"
+}

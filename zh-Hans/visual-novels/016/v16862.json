@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16862",
+  "type": "visual_novel",
+  "name": "Rebellions: Secret Game 2nd Stage",
+  "original_name": "リベリオンズ Secret Game 2nd Stage",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Remake of Secret Game Code: Revise with 80% altered story.\n\n14 people have been abducted and confined to small rural village . Each one has a metallic collar around their neck and a PDA representing a playing card from Ace to Joker with unique special function and clear condition, which they have to fulfill before the last day of the game. Clear conditions range from \"simple\" ones like \"Survive until the last day of the game\" to more complicated ones like \"Clear conditions of all players with cards that represent a prime number are fulfilled\". If anyone tries to leave the designated area, breaks one of the game's rules or fail to achieve their clear condition in their own PDA, their collar explodes killing them.\n\nThis is the \"game\" of death, where mistrust and manipulation runs rampart and death is common and when \"rain starts to fall\" ...",
+  "source_sha256": "4e3c0b70194ed8fdbff58a0edb7d12c784a8596fbcdf5fc620c7b6fef321bca5",
+  "translation": "《Secret Game Code：Revise》的重制版，故事改动幅度达80%。\n\n14人遭到绑架，被囚禁在偏僻的乡村里。每个人的脖子上都戴着金属项圈，并拥有一台PDA，上面显示着从A到Joker的一张扑克牌，以及各自独特的特殊功能和通关条件。他们必须在游戏最后一天之前完成条件。通关条件有“存活到游戏最后一天”这类“简单”要求，也有“代表质数的牌所对应的所有玩家都完成通关条件”这类复杂要求。若有人试图离开指定区域、违反游戏规则，或未能在自己的PDA上完成通关条件，项圈就会爆炸，将其杀死。\n\n这是一场死亡“游戏”，猜疑与操纵肆意蔓延，死亡随处可见，而当“雨开始落下”时……",
+  "vndb_url": "https://vndb.org/v16862"
+}

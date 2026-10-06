@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18857",
+  "type": "visual_novel",
+  "name": "Osomatsu-san The Game: Hachamecha Shuushoku Advice -Dead or Work-",
+  "original_name": "おそ松さん THE GAME はちゃめちゃ就職アドバイス -デッド オア ワーク-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Visual novel game based on 2015 anime adaptation of Akatsuka Fujio's 1962 \"Osomatsu-kun\".\n\nThe story of \"Osomatsu-kun\" revolves around the Matsuno sextuplets, whose faces are all the same: Osomatsu, Karamatsu, Choromatsu, Ichimatsu, Juushimatsu, and Todomatsu. \"Osomatsu-san\" tells their story 20 years later, as they try to survive in the middle of the modern era.",
+  "source_sha256": "5a2a2e57b3ce37ff144ec634f148ca9b9d4406710efed4b2f31fcd291f3fb79c",
+  "translation": "本作改编自赤冢不二夫于1962年创作、后于2015年动画化的《阿松君》。\n\n《阿松君》围绕松野家的六胞胎展开：他们长着一模一样的脸，分别叫阿松、唐松、轻松、一松、十四松和椴松。《阿松先生》讲述他们20年后的故事：六人努力在现代社会中生存下去。",
+  "vndb_url": "https://vndb.org/v18857"
+}

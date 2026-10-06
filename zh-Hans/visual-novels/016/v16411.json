@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16411",
+  "type": "visual_novel",
+  "name": "Tokyo Yamanote Boys Sweet Jelly Beans Disc",
+  "original_name": "TOKYOヤマノテBOYS SWEET JELLY BEANS DISC",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A Tokyo Yamanote Boys All Star Disc.\nThe story spans 3 days from the start of the confession tournament.\nExperience a different story from what has been written so far.",
+  "source_sha256": "c45b124e4f0641d8aa4003309a334f468504363f0977828a8ec16f08f79adab7",
+  "translation": "《东京山手男孩》全明星碟。故事从告白大赛开始，跨越3天。体验与此前作品不同的故事。",
+  "vndb_url": "https://vndb.org/v16411"
+}

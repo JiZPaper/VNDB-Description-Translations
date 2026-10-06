@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15406",
+  "type": "visual_novel",
+  "name": "Diaries of the Doomguy",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This photo-journal was found in a demon-infested lab on Phobos. It contains the Doomguy's last thoughts, most of which are, not surprisingly, pretty close to that Doom Comic!\n\n[From [url=http://www.glorioustrainwrecks.com/node/760]Glorious Trainwrecks[/url]]",
+  "source_sha256": "a78f17b2869b21b94943d8aaab4498d8a3be4e616a171d9e018dc9c6e7f4f244",
+  "translation": "这本照片日记是在被恶魔侵占的火卫一实验室里发现的。它记录了毁灭战士最后的想法，其中大部分内容果然与那部《毁灭战士漫画》非常相似！\n\n[译自[url=http://www.glorioustrainwrecks.com/node/760]Glorious Trainwrecks[/url]]",
+  "vndb_url": "https://vndb.org/v15406"
+}

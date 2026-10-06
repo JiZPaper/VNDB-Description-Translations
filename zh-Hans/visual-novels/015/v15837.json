@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15837",
+  "type": "visual_novel",
+  "name": "The Vigilante: Single Shot Justice",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The Vigilante: Single Shot Justice is an interactive visual mystery novel. In it, you play as a vigilante trying to stop a murder that she know is going to happen.\n\n[From [url=http://www.ludumdare.com/compo/ludum-dare-28/comment-page-4/?action=preview&uid=3595]Ludum Dare[/url]]\n\nCreated for [url=http://www.ludumdare.com/compo/ludum-dare-28/comment-page-4/?action=preview]Ludum Dare 28[/url].",
+  "source_sha256": "5933c0fe89e8cc688285238bb732eca1fe1bdee928244593239d72f8aa465f58",
+  "translation": "《义警：一发正义》是一部互动视觉推理小说。你将扮演一名义警，试图阻止一场她知道必然会发生的谋杀。\n\n[译自[url=http://www.ludumdare.com/compo/ludum-dare-28/comment-page-4/?action=preview&uid=3595]Ludum Dare[/url]]\n\n本作是为[url=http://www.ludumdare.com/compo/ludum-dare-28/comment-page-4/?action=preview]Ludum Dare 28[/url]制作的。",
+  "vndb_url": "https://vndb.org/v15837"
+}

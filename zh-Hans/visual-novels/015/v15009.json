@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15009",
+  "type": "visual_novel",
+  "name": "Kusarimono",
+  "original_name": "クサリモノ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A world where \"zombies\" and \"humans\" coexist.\nIn this world, the protagonist works a strange part-time job in order to save up money, but then one day, he runs into trouble...\n\n[translated from [url=https://www.freem.ne.jp/win/game/5505]Freem![/url]]",
+  "source_sha256": "07fca742b28f77804a8d02567d7b46cb94faf31e5ffe25235cbfeec69606fd7e",
+  "translation": "这是一个“僵尸”与“人类”共存的世界。\n在这个世界里，主角为了攒钱而做着一份奇怪的兼职，但有一天，他遇到了麻烦……\n\n[译自[url=https://www.freem.ne.jp/win/game/5505]Freem！[/url]]",
+  "vndb_url": "https://vndb.org/v15009"
+}

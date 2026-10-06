@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19476",
+  "type": "visual_novel",
+  "name": "Black October",
+  "original_name": "ブラックオクトウバー",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Mystery of a student suicide in Tokyo.",
+  "source_sha256": "27659983b3d182856de50eb189ab4f1a7876dcf0351c141f161e853c589589d1",
+  "translation": "东京一名学生自杀事件的谜团。",
+  "vndb_url": "https://vndb.org/v19476"
+}

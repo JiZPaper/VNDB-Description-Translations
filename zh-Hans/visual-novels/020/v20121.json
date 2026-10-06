@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20121",
+  "type": "visual_novel",
+  "name": "Magicana ~ Ruins",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Explore old ruins by solving puzzles with three young witches, Iryna, Sorinne, and Rimia, searching for a magical crystal!\n\nAs part of their class assignment, their class was split into teams to go out and find a crystal, which gives witches more power. While trying to find it, Iryna, Sorinne, and Rimia stumble upon ancient ruins near a crystal site. Help them solve various puzzles to find the crystal!\n\nJam entry for Ludum Dare #36, a 72-hour game jam. The theme was \"Ancient Technology\".\n\n[From [url=https://mikomikisomi.itch.io/magicana-ruins]itch.io[/url]]",
+  "source_sha256": "10e570b2f6a96e09a7bc895f8cb1c6aae276dd5df84522265df2f8810f232f76",
+  "translation": "与伊琳娜、索琳和莉米娅三名年轻女巫一起解开谜题，探索古老遗迹，寻找魔法水晶！\n\n作为课堂作业的一部分，她们班被分成若干小组，外出寻找能增强女巫力量的水晶。在寻找过程中，伊琳娜、索琳和莉米娅偶然发现，水晶产地附近有一处古代遗迹。帮助她们解开各种谜题，找到水晶吧！\n\n本作参加了限时72小时的游戏创作活动Ludum Dare第36届，主题为“古代科技”。\n\n[摘自[url=https://mikomikisomi.itch.io/magicana-ruins]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v20121"
+}

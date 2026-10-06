@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17933",
+  "type": "visual_novel",
+  "name": "Our War Everlasting",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A kinetic novel (sort of like mix between a picture book and a game) about two soldiers who face the horrors of war and must learn to deal with the consequences together.",
+  "source_sha256": "3794bc1fdce0eeb5950aa1f5b6721317b982c842b3ef7bf8c6d7839c5ff2ab4d",
+  "translation": "这是一部动感小说，形式介于绘本与游戏之间，讲述两名士兵面对战争的恐怖，并学会共同承担后果。\n\n[摘自[url=https://aviala.itch.io/our-war-everlasting]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v17933"
+}

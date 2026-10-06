@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16767",
+  "type": "visual_novel",
+  "name": "The Residuals",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Throughout the course of their operation, the many worlds generate superfluous data that ends up unused and gets discarded. This data is drawn across the expanse between worlds and accumulates, giving form to a place known to its residents as「Remnant Central Boundary」Due to the collision of incongruent concepts, you can never be sure what might happen next. One thing is certain: it's sure to be a wild ride.",
+  "source_sha256": "9af3edc97701dd06999973eab998ec17e9bc62ed7b112ca64d195829e370faad",
+  "translation": "在运转过程中，众多世界会产生最终无人使用、遭到丢弃的多余数据。这些数据横跨世界之间的空间，被吸引并不断积累，最终形成了一个居民称为“残余中央边界”的地方。由于不相容概念相互碰撞，谁也无法确定接下来会发生什么。唯一可以确定的是：这将是一段狂野旅程。",
+  "vndb_url": "https://vndb.org/v16767"
+}

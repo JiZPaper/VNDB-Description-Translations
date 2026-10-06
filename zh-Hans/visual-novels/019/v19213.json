@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19213",
+  "type": "visual_novel",
+  "name": "Sotsugyou Vacation",
+  "original_name": "卒業VACATION",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The player is on a southern island called Suzunari Jima. The 15 girls from Seika Joshi high school are also on the island for summer vacation.\nThe game starts as the master of the hotel tells a story of a hidden treasure on this island. Since many of the girls are pretty bored on the island, they decide to go look for the treasure.\n\nEach day, the girls break up into several groups, and go looking for clues in finding the treasure. There are ten different locations on the island, and there are three times during the day (morning, noon, afternoon) that the player/girls can go to these locations. Then during dinner, everyone talks about what happened that day and makes plans for the next day.\n\n[from [url=http://www.usagi.org/doi/s-v/sv-story.html]Hitoshi Doi's site[/url]]",
+  "source_sha256": "60be45eac9373310d6dddc7d2f6846edb8a7989fd07df48a2b89be93f0b2f69b",
+  "translation": "玩家身处南方的铃鸣岛。圣华女子高中15名女孩也来到岛上度过暑假。\n游戏从旅馆老板讲述岛上隐藏宝藏的故事开始。由于许多女孩在岛上感到无聊，她们决定去寻找宝藏。\n\n每天，女孩们分成几个小组，四处寻找宝藏线索。岛上有十个地点，玩家和女孩们可以在一天中的三个时段（早晨、中午、下午）前往这些地点。晚餐时，所有人会谈论当天发生的事情，并制定第二天的计划。\n\n[来自 [url=http://www.usagi.org/doi/s-v/sv-story.html]土井仁志的网站[/url]]",
+  "vndb_url": "https://vndb.org/v19213"
+}

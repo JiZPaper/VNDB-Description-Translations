@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17426",
+  "type": "visual_novel",
+  "name": "A Worthy Hero",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a hero looking for a great weapon to wield while on your adventures, but first you must prove yourself worthy.\n\nAre you worthy?\n\n[From [url=http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=51525]Ludum Dare[/url]]\n\nCreated for [url=http://ludumdare.com/compo/ludum-dare-32/?action=preview]Ludum Dare 32[/url] (Theme: An Unconventional Weapon).",
+  "source_sha256": "71c2b973069796d42a9488d87745822b2d61f91271b3d7eb09b6839484834b81",
+  "translation": "你是一名英雄，正在冒险途中寻找一把强大的武器，但首先必须证明自己配得上它。\n\n你够资格吗？\n\n[摘自[url=http://ludumdare.com/compo/ludum-dare-32/?action=preview&uid=51525]Ludum Dare[/url]]\n\n为[url=http://ludumdare.com/compo/ludum-dare-32/?action=preview]Ludum Dare 32[/url]制作（主题：非传统武器）。",
+  "vndb_url": "https://vndb.org/v17426"
+}

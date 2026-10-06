@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15479",
+  "type": "visual_novel",
+  "name": "Cottage on the Moor",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Cottage on the Moor tells the tale of a young writer on a trip to freshen his mind. Wandering a salt marsh far from civilization, he stumbles upon a small cottage inhabited by a middle-aged woman and her daughter. It seems he has found something more than just inspiration for his next story.",
+  "source_sha256": "f52638a45f5f95f56330aa34cb92244d5910102917a98234097569232fac30aa",
+  "translation": "《荒原小屋》讲述一名年轻作家为放松心情而旅行的故事。他在远离文明的盐沼中漫步，偶然发现一座小屋，里面住着一名中年女性和她的女儿。看来，他找到的不只是下一部作品的灵感。",
+  "vndb_url": "https://vndb.org/v15479"
+}

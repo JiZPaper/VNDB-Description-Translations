@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16478",
+  "type": "visual_novel",
+  "name": "Oni no Kamen",
+  "original_name": "鬼ノ仮面",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "While walking down the street one night I suddenly smelt the scent of tobacco, and the sound of shoes hitting the concrete.\n\nSensing a presence, I turned around.\nIt turned out to be someone else - but even now, I still can't get rid of the fear that it may be \"him\".\n\n[Translated from the official site]",
+  "source_sha256": "9795748646a68a2258240835c81cf94cc9e627e3209a5a8d2cb1f8f69adcaf7d",
+  "translation": "某晚走在街上，我突然闻到烟草味，以及鞋底敲击混凝土的声音。\n\n察觉到身后有人，我转过身。\n那是另一个人——可直到现在，我仍无法摆脱“可能是他”的恐惧。\n\n[译自官方网站]",
+  "vndb_url": "https://vndb.org/v16478"
+}

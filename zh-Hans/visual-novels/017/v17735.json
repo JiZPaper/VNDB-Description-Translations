@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17735",
+  "type": "visual_novel",
+  "name": "Invisible",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An interactive narrative game about homelessness in Montreal.",
+  "source_sha256": "49e9f6e4c221e112ecca9126abd399d92748d4d2b2ee548565508fda8f455e88",
+  "translation": "一款关于蒙特利尔无家可归者的互动叙事游戏。",
+  "vndb_url": "https://vndb.org/v17735"
+}

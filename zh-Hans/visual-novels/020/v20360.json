@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20360",
+  "type": "visual_novel",
+  "name": "Mass Effect 3: Endings Edition",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A very dodgy, very short little interactive version of the endings that allows for a number of different outcomes depending on the choices you make. None of them are SUPER happy, and the basic structure is very similar to the game (anything else would require too much writing :)) but there's certainly room for better outcomes (and worse ones) if you play your cards right.\n\n[From [url=http://archiveofourown.org/works/364928]Archive of Our Own[/url]]",
+  "source_sha256": "751426cc9c35e75c2ab0f8441b33b66308f909dc51378863fbbfb9aa0d03bac3",
+  "translation": "一部非常粗糙、非常短小的互动作品，讲述游戏结局。玩家的选择会导向不同结果。没有哪个结局超级幸福，基本结构也与游戏非常相似（要是写出别的内容，就得花太多时间:)），但只要选择得当，确实可能得到更好（或更糟）的结果。\n\n（来源：[url=http://archiveofourown.org/works/364928]Archive of Our Own[/url]）",
+  "vndb_url": "https://vndb.org/v20360"
+}

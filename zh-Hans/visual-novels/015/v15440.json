@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15440",
+  "type": "visual_novel",
+  "name": "Invisible Apartment",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A cyberpunk visual novel about a girl hacker struggling in a modern world. The story revolves around surveillance, hacking, artificial intelligence, cybernetic implants and those who want to lead a normal life in a high tech society.\n\n[From [url=https://milankazarka.itch.io/invisible-apartment]Itch.io[/url]]",
+  "source_sha256": "7dd74559e021188acc842ad8a65be5e9578a3b27db007e3d828736a4552b35cf",
+  "translation": "一款赛博朋克视觉小说，讲述一名女黑客在现代社会中苦苦挣扎的故事。剧情围绕监控、黑客、人工智能、赛博植入物，以及想在高科技社会过普通生活的人展开。\n\n[译自[url=https://milankazarka.itch.io/invisible-apartment]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v15440"
+}

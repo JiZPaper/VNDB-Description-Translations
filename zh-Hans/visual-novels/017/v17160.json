@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17160",
+  "type": "visual_novel",
+  "name": "Calling Cipher",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Senior year, Riley Mills finds herself in real trouble when she finally decrypted a locked file she found last year in her computer club, turns out to be more than what she bargained for.\n\n[No longer under development.]",
+  "source_sha256": "a02532829eb063c8169d5d32cb71f39d193313d4f0961f5deb924f8735a7264a",
+  "translation": "高年级学生莱莉·米尔斯终于解开了去年在电脑社发现的加密文件，却发现自己陷入了真正的麻烦之中，因为文件的内容远远超出了她的预料。\n\n［已停止开发。］",
+  "vndb_url": "https://vndb.org/v17160"
+}

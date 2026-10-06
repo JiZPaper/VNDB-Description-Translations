@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18805",
+  "type": "visual_novel",
+  "name": "Fortune Harmony",
+  "original_name": "포춘 하모니",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"Hi! You are Lucky!\"\n\nOne day the infamously unlucky protagonist received a phone call. With that call, the three girls from Fortune came to bring good luck for him.\n\nThe way to give good luck is to make them happy. So the three girls begin the mission to make him happy.",
+  "source_sha256": "538c29e7c6e00f75f7962f9b7d42b980d2cd0a3ea9d9b6dc7f1d8d6b1f7e8028",
+  "translation": "“嗨！你真幸运！”\n\n某天，出了名倒霉的主人公接到一通电话。来自“幸运”的三个女孩来到他身边，为他带来好运。\n\n带来好运的方法，就是让她们开心。于是，三个女孩开始了让他幸福的任务。",
+  "vndb_url": "https://vndb.org/v18805"
+}

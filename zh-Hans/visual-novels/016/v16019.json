@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16019",
+  "type": "visual_novel",
+  "name": "13 Minutes of Light",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Mars is, at best, 13 minutes of light removed from Earth. So when your girlfriend gets on the Commercial Virgin spaceflight to teach at Mars University, you realize the relationship has... a bit of a challenge. Will your penmanship be enough to keep the relationship warm? \n\n[From [url=http://www.ludumdare.com/compo/ludum-dare-30/?action=preview&uid=20442]Ludum Dare[/url]]\n\nCreated for [url=http://www.ludumdare.com/compo/ludum-dare-30/?action=preview]Ludum Dare 30[/url] (theme: Connected Worlds).",
+  "source_sha256": "6e8f311646a73ae0534987fc57bbcee7edbf1f0efcb60ffca3aa21ff0550a5b9",
+  "translation": "火星距离地球，至少有13光分之遥。所以，当你的女朋友登上维珍商业航天公司的航班，前往火星大学任教时，你意识到这段感情将面临……一些挑战。你的笔迹能否让这段关系保持温度？\n\n[译自[url=http://www.ludumdare.com/compo/ludum-dare-30/?action=preview&uid=20442]Ludum Dare[/url]]\n\n本作参加了[url=http://www.ludumdare.com/compo/ludum-dare-30/?action=preview]Ludum Dare 30[/url]（主题：相连的世界）。",
+  "vndb_url": "https://vndb.org/v16019"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18831",
+  "type": "visual_novel",
+  "name": "Grisaia no Zankou",
+  "original_name": "グリザイアの残光",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This game was released with the fifth DVD and Blu-ray Disc volume for the Grisaia no Rakuen anime. It contains several short stories taking place somewhere during Grand Route of Grisaia no Meikyuu, revealing some interesting facts about Yuuji's and Asako's past.",
+  "source_sha256": "bf51d986d443e5d1d22274f4e69798ba480fd58ec0ce254ffe6011c50e33d49f",
+  "translation": "本作随《灰色乐园》动画第五卷DVD与蓝光光盘发售。\n\n收录数个发生在《灰色迷宫》主线期间的短篇故事，揭示雄二与麻子过去的一些有趣事实。",
+  "vndb_url": "https://vndb.org/v18831"
+}

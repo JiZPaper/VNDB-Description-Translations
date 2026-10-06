@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18954",
+  "type": "visual_novel",
+  "name": "Subject",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Subject is a very simple and short text adventure game. Make your choices and decide where to go next and what to do to unlock a total of 8 different endings.",
+  "source_sha256": "8099b507134260da292e4e111ec82eeab09bdf45a89eb2b98127ab89b55ed457",
+  "translation": "这是一款非常简单、篇幅很短的文字冒险游戏。作出选择，决定接下来前往哪里、做什么，解锁总共8种不同结局。",
+  "vndb_url": "https://vndb.org/v18954"
+}

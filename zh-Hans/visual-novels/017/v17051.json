@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17051",
+  "type": "visual_novel",
+  "name": "Aurora Fall",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Aurora Fall follows the insignificant moments surrounding the story of Adrian and a disaster that forever changes the world.\n\n[From [url=http://atpprojects.mygamesonline.org/visualnovels.htm]official site[/url]]",
+  "source_sha256": "6cd7216c854bc0fe12b56f80f2db9a4c9c3911292852a0385b706f0d77c9562c",
+  "translation": "《极光坠落》讲述阿德里安的故事，以及那些看似微不足道、却最终改变世界的日常片段。\n\n[摘自[url=http://atpprojects.mygamesonline.org/visualnovels.htm]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v17051"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19429",
+  "type": "visual_novel",
+  "name": "Harry Potter and the Transformency Spell",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A Harry Potter fangame taking place after the Wizarding War, when Harry, Ron, Hermione, and Draco return to Hogwarts to catch up on their last year's lessons.",
+  "source_sha256": "a80b3e0312466349825fbad71f13ba5b9b114222256514d075ba71d1a85e167a",
+  "translation": "一款《哈利·波特》同人游戏，故事发生在巫师战争结束后。哈利、罗恩、赫敏和德拉科回到霍格沃茨，补上上一学年的课程。",
+  "vndb_url": "https://vndb.org/v19429"
+}

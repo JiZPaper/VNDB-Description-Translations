@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17507",
+  "type": "visual_novel",
+  "name": "DE;lete",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Ao is a normal guy who starts thinking about the real face of his city, knowing the horrible truth about his family and everyone around him.",
+  "source_sha256": "280906a2860403b5b23a889af4f09961f30bf9932492f510c7ab4d79394a34ab",
+  "translation": "青是一名普通男子，在得知家人和身边所有人的可怕真相后，开始思考自己城市真正的面貌。",
+  "vndb_url": "https://vndb.org/v17507"
+}

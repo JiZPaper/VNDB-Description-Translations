@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16941",
+  "type": "visual_novel",
+  "name": "Otouto: Nichijoukei",
+  "original_name": "おとうと：日常系",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Mom and Dad have gone on a one-night, two-day trip!\nI’m the only one who can calm my quarrelsome little brothers!\nIt’s an ordinary day, but with a slightly unusual morning—will I be able to get through it safely…?",
+  "source_sha256": "bb5b3f146475dcc240952677d4ba03f7ca14b6b94e39ebc7b5a96b0a7c4e8e9c",
+  "translation": "爸爸妈妈去进行为期两天一夜的旅行了！\n只有我能让吵闹的弟弟们安静下来！\n这是平凡的一天，却从有些不寻常的早晨开始——我能平安度过吗……？",
+  "vndb_url": "https://vndb.org/v16941"
+}

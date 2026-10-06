@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16702",
+  "type": "visual_novel",
+  "name": "Mikagura Shoujo Tanteidan",
+  "original_name": "御神楽少女探偵団",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "At the beginning of the Taisho Era there was a man in Tokyo running his private detective agency, and Mikagura Tokita was his name.\nThree young girls attracted by his genius joined him to help with his job.\nWill there be any culprit who would surpass their united wits?",
+  "source_sha256": "e98140bf899ab23fadf43248a81650beda841d986c67a2ca759f9c8bb18d731a",
+  "translation": "大正时代初期，东京有一名经营私人侦探社的男子，他名叫时田御神乐。\n三名被他的天才吸引的少女加入事务所，协助他工作。\n究竟有没有犯人能胜过她们团结一心的智慧？",
+  "vndb_url": "https://vndb.org/v16702"
+}

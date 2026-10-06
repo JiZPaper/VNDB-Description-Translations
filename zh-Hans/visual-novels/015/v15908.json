@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15908",
+  "type": "visual_novel",
+  "name": "Dollboy",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A story of a boy who plays with dolls, and what happens when he begins to hear their voices.",
+  "source_sha256": "5619d7cf9ce08d727de27f297911a3f7a53b1e524b3c1fe3738bb93df628f95e",
+  "translation": "一个男孩与玩偶玩耍的故事，以及当他开始听见玩偶声音后发生的一切。",
+  "vndb_url": "https://vndb.org/v15908"
+}

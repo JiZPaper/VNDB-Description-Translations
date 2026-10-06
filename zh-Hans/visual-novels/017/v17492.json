@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17492",
+  "type": "visual_novel",
+  "name": "Gated Community",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The high class residential apartments, \"Gated Community\"\nEven though they're called apartments, they are used for high class condominiums, but the rents are low so it's not hard for people with ordinary salaries to live there.\nHowever, to live there you must be accepted by the property owner.\nHowever, that is bait, and the hopeful tenants have no idea what is in store for them...",
+  "source_sha256": "9e862b9eefeafc7650fd98b29f4f463c2189e87848a5e884cefa90bd815322f9",
+  "translation": "高档住宅公寓“封闭社区”。\n\n虽然被称为公寓，实际上是面向上流阶层的高级住宅，但租金低廉，普通工薪阶层也不难入住。\n然而，想住进去必须得到房产所有者的认可。\n\n但这只是诱饵，满怀希望的租客们完全不知道等待自己的是什么……",
+  "vndb_url": "https://vndb.org/v17492"
+}

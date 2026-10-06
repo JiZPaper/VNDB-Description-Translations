@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15690",
+  "type": "visual_novel",
+  "name": "Mozart's Name Day: First",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The first installment of \"Mozart's Name Day - Halloween stories for music lovers.\"\n\nA strange occurrence during a performance of Mozart's \"Don Giovanni.\"",
+  "source_sha256": "89735cc87c968df8f18d769a4295b1ab55fda601d38bcf8e8a7f16128b9f0651",
+  "translation": "“莫扎特命名日——献给音乐爱好者的万圣节故事”第一部。\n\n莫扎特《唐·乔望尼》演出期间发生的奇怪事件。",
+  "vndb_url": "https://vndb.org/v15690"
+}

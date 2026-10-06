@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16171",
+  "type": "visual_novel",
+  "name": "Blackgate",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game begins as the player character drives his car through the night, on a forest road. After a long and exhausting journey, he thinks he's finally near his destination until the car gives up on him. He understands something's wrong when he notices the two moons in the sky, and hears a strange message on the radio, about a \"disturbance\" on the road. Things get even more confusing when a massive boar-man cop arrives, arrests him and takes him away in his car.\n\nHe is then brought to Blackgate, a little town populated by all kinds of monsters, where he learns he somehow arrived in a place located on the crossroads of multiple worlds, such as Earth. He doesn't know how he got here, nor does he know how to get away. But he now has to live here, and pick a job to work, as the only human in the town.",
+  "source_sha256": "83f501b4c8a2e96ab7a506d0500dc3a95cdeb925cb2e1b7e1cf9d81f97e723c8",
+  "translation": "游戏开始时，玩家角色驾驶汽车在夜间穿过森林公路。经过漫长而疲惫的旅程，他以为终于快到目的地，汽车却抛锚了。当他注意到天空中有两轮月亮，又从收音机里听见关于道路“骚乱”的奇怪消息时，意识到事情不对。随后，一名巨大的野猪人警察赶来逮捕他，把他带上警车，情况变得更加混乱。\n\n他被带到Blackgate，这是一座住着各种怪物的小镇。在那里，他得知自己不知怎么来到了一个位于多个世界（包括地球）交汇处的地方。他不知道自己为何来到这里，也不知道如何离开。但作为镇上唯一的人类，他现在必须在此生活并选择一份工作。",
+  "vndb_url": "https://vndb.org/v16171"
+}

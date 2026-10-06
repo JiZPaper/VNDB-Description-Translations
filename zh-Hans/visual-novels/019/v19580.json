@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19580",
+  "type": "visual_novel",
+  "name": "Children of the Gate",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In a world where humans are besieged by demons, two strangers must work together to survive. How are they ever going to trust each other when neither of them want to tell the whole truth?",
+  "source_sha256": "82d7f79bb780d039ece51ed3b140cf4ef31bfe13f53a7a7e4200107a52d4b7ea",
+  "translation": "在一个人类被恶魔围攻的世界里，两个陌生人必须合作生存。当两人都不愿说出全部真相时，他们要怎样才能互相信任？",
+  "vndb_url": "https://vndb.org/v19580"
+}

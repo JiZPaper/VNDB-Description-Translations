@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18937",
+  "type": "visual_novel",
+  "name": "DOS65",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In the near future, Earth launched a series of orbital ships to offset the growing overpopulation problem, and in preparation for the eventual shift towards sending generation ships out into the universe, to colonize other planets.\n\nOnboard one of these ships, a limited form of Artificial Intelligence was developed. It wasn’t much more complex than the chatbot or personal assistant technology that was common during the 21st century. Relying on algorithms based on written scripts provided by the developer, it was coined as “Scripted Intelligence”.\n\nAs time went on, the scripts became more and more complex. Then, something terrible happened.",
+  "source_sha256": "d919ef5bd4bd64665bfa93b4b2749642e0243a87fa0f93fd25ee726df2bf41ff",
+  "translation": "不久的将来，地球为缓解日益严重的人口过剩问题，发射了一系列轨道飞船，并为最终把世代飞船送入宇宙、殖民其他行星做准备。\n\n其中一艘飞船上开发出一种功能有限的人工智能。它并不比21世纪常见的聊天机器人或个人助理技术复杂多少。由于依赖开发者提供的文字脚本与算法，它被称为“脚本智能”。\n\n随着时间推移，脚本变得越来越复杂。然后，可怕的事情发生了。",
+  "vndb_url": "https://vndb.org/v18937"
+}

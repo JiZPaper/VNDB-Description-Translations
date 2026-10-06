@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16046",
+  "type": "visual_novel",
+  "name": "O2",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In the year 2095, the planet's atmosphere is all but depleted of oxygen, but humanity hasn't lost its knack for survival. With a combination of advanced cybernetics, smart drugs, and protective gear, our species has secured a future where there should have been none. In order for many to live, however, some must go breathless... and their numbers are on the rise. \n\n[From [url=http://rpgmaker.net/games/6827/]RPGmaker.net[/url]]",
+  "source_sha256": "2998644dd94fb0b4847bfbe4566bb8a3ebd87b734318017a465d5e25180cd284",
+  "translation": "2095年，地球大气层中的氧气几乎耗尽，但人类并没有失去生存的本领。借助先进的控制论技术、智能药物和防护装备，人类为本不该有未来的世界争取到了未来。然而，为了让多数人活下去，有些人必须失去呼吸……而这样的人越来越多。\n\n[译自[url=http://rpgmaker.net/games/6827/]RPGmaker.net[/url]]",
+  "vndb_url": "https://vndb.org/v16046"
+}

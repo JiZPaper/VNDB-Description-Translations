@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16072",
+  "type": "visual_novel",
+  "name": "Don't Go Out",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're a college student waking up in your room, and you can't remember anything.",
+  "source_sha256": "45143cce74e86aa24adbc8e933e3cdbb5ef9860d5bbcbcd30ed5ff1e31080503",
+  "translation": "你是一名大学生，在自己的房间里醒来，却什么都想不起来。",
+  "vndb_url": "https://vndb.org/v16072"
+}

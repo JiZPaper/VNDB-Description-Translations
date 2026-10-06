@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20554",
+  "type": "visual_novel",
+  "name": "Airen",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An exploration of courtship in late Imperial China. Done as the final project for a college history seminar on private life in China.",
+  "source_sha256": "e80eb3c4529553e5acc5ad244b683d957a86ff7858d51f37a6238d0d552f6721",
+  "translation": "探索帝国晚期中国的求爱与恋爱。这是为大学历史研讨课“中国私人生活”完成的期末项目。",
+  "vndb_url": "https://vndb.org/v20554"
+}

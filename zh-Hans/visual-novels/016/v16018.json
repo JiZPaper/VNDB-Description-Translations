@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16018",
+  "type": "visual_novel",
+  "name": "Revenge or Romance",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Follow the story of a woman from Ohio who travels to California in search of the man responsible for the death of her son. Will she find the revenge she seeks or something else?\n\n[From [url=http://wolflore.net/viewtopic.php?f=37&t=903]Wolflore[/url]]",
+  "source_sha256": "11a55d9bfd0cb619ab2bd54435a851a449bf4e3ce11fdcc0604bdaa096fb5fa9",
+  "translation": "一名来自俄亥俄州的女子前往加利福尼亚，寻找杀害自己儿子的凶手。她最终能得到渴望的复仇，还是会遇到别的什么？\n\n[译自[url=http://wolflore.net/viewtopic.php?f=37&t=903]Wolflore[/url]]",
+  "vndb_url": "https://vndb.org/v16018"
+}

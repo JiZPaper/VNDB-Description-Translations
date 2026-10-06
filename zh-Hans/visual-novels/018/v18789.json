@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18789",
+  "type": "visual_novel",
+  "name": "iNeedU. Meeting with Angela.",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "iNeedU. Meeting with Angela.\nIf you lucky. U will meet With Angela.\nThe meeting can be different. It all depends on your actions.",
+  "source_sha256": "63e8d28ef609030ef1ea318799aad71fa6ae44277baf37352a68e445f378a581",
+  "translation": "《iNeedU：与安吉拉相遇》。\n\n如果你足够幸运，就会遇见安吉拉。\n\n相遇的方式各不相同，一切取决于你的行动。",
+  "vndb_url": "https://vndb.org/v18789"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19550",
+  "type": "visual_novel",
+  "name": "Warmth of Winter",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel, set in a small town, about the choices we make in life.\n\n\nYou are a fox in a small European village, interacting with the locals and trying to understand the world around you. \n\n\nFrom https://www.facebook.com/pages/Earthshine-Games/365725533592686",
+  "source_sha256": "ee69d46352b8de35035c7e3ee84dee51b3ef81384d2623ae16e9ded6e3edd5ef",
+  "translation": "一部以小镇为背景、讲述人生选择的视觉小说。\n\n你将扮演一只生活在欧洲小村庄的狐狸，与当地居民互动，试图理解周围的世界。\n\n来源：https://www.facebook.com/pages/Earthshine-Games/365725533592686",
+  "vndb_url": "https://vndb.org/v19550"
+}

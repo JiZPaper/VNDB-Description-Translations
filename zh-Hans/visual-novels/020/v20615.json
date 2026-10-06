@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20615",
+  "type": "visual_novel",
+  "name": "Zutto Issho",
+  "original_name": "ずっといっしょ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The main game's hero has to start living by his own when his parents had gone due to a job transfer. He got an apartment and started living with a girl. \n\n[From [url=https://psxdatacenter.com/games/J/Z/SLPS-01238.html]psxdatacenter[/url]]",
+  "source_sha256": "a39f8901d7978e450e6e5e7a1864fab8dfd65c06c007eabcbc47ed486ff02e75",
+  "translation": "主角的父母因工作调动离开后，他不得不开始独自生活。他租下一间公寓，与一名女孩开始共同生活。\n\n（来源：[url=https://psxdatacenter.com/games/J/Z/SLPS-01238.html]psxdatacenter[/url]）",
+  "vndb_url": "https://vndb.org/v20615"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17905",
+  "type": "visual_novel",
+  "name": "Black Sands: Legends of the Rift",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Western visual novel about mortal gods facing ancient aliens in an alternate dimension to prove they are powerful enough to leave and build empires in the ancient world!",
+  "source_sha256": "2d180f03b6927616f4cc96848230123c23d5c94c3c172dfec1871b8874e71c9e",
+  "translation": "西部风格视觉小说：凡人之神在异次元面对古代外星人，证明自己足够强大，离开并在古代建立帝国。",
+  "vndb_url": "https://vndb.org/v17905"
+}

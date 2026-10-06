@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15552",
+  "type": "visual_novel",
+  "name": "The Outbreak: First Light",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The Outbreak: First Light picks up right where Day Zero left off, continuing the parallel stories of the previous survivors.\n\n[Edited from [url=https://web.archive.org/web/20170627214505/https://theoutbreakseries.wordpress.com/2014/03/15/the-outbreak-first-light-part-1/]official site[/url]]",
+  "source_sha256": "cea327efbcb86fb99b6488e1bb26bcc4ecf410b0779492335216afed59aea5d2",
+  "translation": "《爆发：第一道曙光》紧接《零日》结尾，继续讲述前作幸存者们的平行故事。\n\n[改自[url=https://web.archive.org/web/20170627214505/https://theoutbreakseries.wordpress.com/2014/03/15/the-outbreak-first-light-part-1/]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v15552"
+}

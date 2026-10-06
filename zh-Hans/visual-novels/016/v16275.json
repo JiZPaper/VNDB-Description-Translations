@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16275",
+  "type": "visual_novel",
+  "name": "Tensei Hakkenshi Fuumaroku",
+  "original_name": "転生八犬士封魔録",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A game based on the classic Edo era literary work 'Nansou Satomi Hakkenden\".\n\nJust after transferring into a new high school the protagonist Kirisawa Yuna realizes that she is the reincarnation of the ancient Satomi clan princess Fusehime.\nShe has to set out to find the reborn Hakkenshi while fighting of apparitions around campus.",
+  "source_sha256": "fce5bf409d6c6438c8079286bdc5d1d4a128a21fbc9c45ae9132cc455b7eb091",
+  "translation": "本作改编自江户时代经典文学作品《南总里见八犬传》。\n\n刚转入新高中的主人公桐泽由奈意识到，自己正是古代里见氏公主伏姬的转世。\n她必须一边对抗校园周围的幽灵，一边寻找转世的八犬士。",
+  "vndb_url": "https://vndb.org/v16275"
+}

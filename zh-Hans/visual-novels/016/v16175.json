@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16175",
+  "type": "visual_novel",
+  "name": "Crazy Hospital Fushigi no Kuni no Tenshi",
+  "original_name": "クレイジー・ホスピタル ふしぎの国の天使",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The player controls a young man who feels sick and visits a hospital. Once there, the plot split into different paths, depending on the choices of locations, dialogue responses and actions made by the player. All the branches involve focusing on one of the several available female characters (patients, nurses, the receptionist, etc.) and pursuing the short courting process to the point of its intimate conclusion.\n\n[From [url=http://www.mobygames.com/game/crazy-hospital-fushigi-na-kuni-no-tenshi]Mobygames[/url]]",
+  "source_sha256": "dd967cdab6f5cbd6c726af9a1c95b9ae662a61d6b93bb269e91809c9d7726e69",
+  "translation": "玩家操控一名感到身体不适、前往医院的年轻男子。到达医院后，剧情会根据玩家选择的地点、对话回应与行动，分裂成不同路线。每条路线都围绕一名可攻略女性角色（患者、护士、前台接待等）展开，并逐步追求她，直到迎来亲密结局。\n\n[译自[url=http://www.mobygames.com/game/crazy-hospital-fushigi-na-kuni-no-tenshi]Mobygames[/url]]",
+  "vndb_url": "https://vndb.org/v16175"
+}

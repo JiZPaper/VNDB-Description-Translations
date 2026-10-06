@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16106",
+  "type": "visual_novel",
+  "name": "Taimanin Asagi ~Kessen Arena~",
+  "original_name": "対魔忍アサギ～決戦アリーナ～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Battle card game by Lilith which is happening in the Taimaninverse, but outside the main canon timeline of the Visual Novels, where the heir of the Fuuma clan wants to weight into the balance between the three forces (Taimanin, US and Demons) after the collapse of his tribe.\n\nIt is a massive crossover with characters from multiple games where most stories are hypothetical \"what if\" scenarios.\nTaimanin Asagi Battle Arena takes place instead of the events of [url=/v10899]Taimanin Asagi 3[/url], in an alternative timeline.",
+  "source_sha256": "283a5241483d185b20c5175e3c3a0c74ffd8442427afa0f83ee11670dcc41a53",
+  "translation": "Lilith制作的战斗卡牌游戏，舞台位于对魔忍世界观，却不在视觉小说主线时间线上。风魔一族覆灭后，其继承人试图介入对魔忍、美国与魔族三方势力之间的平衡。\n\n本作是一次大型联动，汇集了多部作品中的角色，大多数故事都是假设性的“如果”情节。\n《对魔忍浅葱战斗竞技场》的故事发生在[url=/v10899]《对魔忍浅葱3》[/url]的事件取代时间线中，是一条平行世界线。",
+  "vndb_url": "https://vndb.org/v16106"
+}

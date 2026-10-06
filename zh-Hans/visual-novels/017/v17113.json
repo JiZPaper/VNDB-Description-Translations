@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17113",
+  "type": "visual_novel",
+  "name": "Fujiwara Culture Festival",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play Aya, a 15-year-old girl. This is the day of the Fujiwara High School festival to which your cousin invited you -- but it seems that she is late. Instead, you take a walk around the school with two other students.\n\nCreated for NaNoRenO 2015.",
+  "source_sha256": "c44ef76ddde74a11422b85cf8935b541c63e15d9e3025b4c66310db8dc858b34",
+  "translation": "你将扮演15岁的女孩绫。这一天，你受表亲邀请参加藤原高中校园祭，可她似乎迟到了。于是，你和另外两名学生一起在学校里散步。\n\n为NaNoRenO 2015创作。",
+  "vndb_url": "https://vndb.org/v17113"
+}

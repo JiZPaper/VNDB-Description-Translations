@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20152",
+  "type": "visual_novel",
+  "name": "Abandoned: A Tale of Forgotten Lives",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as Victor Trend, who was just scanning some rocks in an asteroid field for minerals and metals, while he chanced upon a secret abandoned base from a former empire.\n\nAn artificial intelligence contacts you and asks to provide assistance in exchange for the complete control of the base.\n\nIn the story you will discover some naughty secrets in this base, along with two main heroines.",
+  "source_sha256": "3ec0ee0379b0325d84da8fe94181e55db52b9d22fc73a52639216faeb9f117fe",
+  "translation": "你将扮演维克托·特伦德。他原本正在一片小行星带中扫描岩石，寻找矿物与金属，却偶然发现了一座旧帝国遗留下来的秘密废弃基地。\n\n一个人工智能联系了你，请求你提供帮助，并以基地的全部控制权作为交换。\n\n在故事中，你将与两位主要女主角一起，发现这座基地里一些不太正经的秘密。",
+  "vndb_url": "https://vndb.org/v20152"
+}

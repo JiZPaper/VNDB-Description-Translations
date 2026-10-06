@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19667",
+  "type": "visual_novel",
+  "name": "Fairy: ~Shopping Day~",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Yesterday you met a fairy named Illea and become friends. Today you will spend your first day together in the city you moved to. \n\n[From [url=http://lunaen.com/games/fairy/]official site[/url]]",
+  "source_sha256": "3962ce1ee01aa67c06ddcf0c165369190a726b5f1202451be60911bf559b4975",
+  "translation": "昨天，你遇见了名叫伊莉娅的妖精，并和她成为朋友。今天，你将在自己搬来的城市里与她共度第一次时光。\n\n[来源：[url=http://lunaen.com/games/fairy/]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v19667"
+}

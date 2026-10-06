@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17595",
+  "type": "visual_novel",
+  "name": "Millefiori",
+  "original_name": "みるひおれ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The main character, Kojirou, is an average student. Rikana Millefiori, a friend of his who stopped going to school, suddenly calls him one day to arrange a meeting. From there, they start hanging out together.",
+  "source_sha256": "3595e96d05750cdbe0caa47602dd7c117c51af15667ead71f5b0635a8e9527d2",
+  "translation": "主人公小次郎是一名普通学生。他的朋友里卡娜·米勒菲奥里已经不再上学，某天突然打电话给他，约他见面。从那以后，两人开始一起消磨时光。",
+  "vndb_url": "https://vndb.org/v17595"
+}

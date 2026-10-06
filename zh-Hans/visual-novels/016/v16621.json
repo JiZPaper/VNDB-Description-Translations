@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16621",
+  "type": "visual_novel",
+  "name": "Muted: The Never",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play a girl named Rachel. You and your friend, Aliian, enter the house even though the voice said ‘Never enter the house…’ Who is the real monster of The Never?\n\n[From [url=http://ha-kun.com/games/muted-the-never/]official site[/url]]",
+  "source_sha256": "1610f362b8c681ce7f1046f036015df75b034c1b44593a8e9987b4d7c50746a8",
+  "translation": "你扮演名叫瑞秋的女孩。你与朋友阿利安进入房子，尽管声音说“永远不要进屋……”。《Never》真正的怪物是谁？\n\n[译自[url=http://ha-kun.com/games/muted-the-never/]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v16621"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16429",
+  "type": "visual_novel",
+  "name": "Miu",
+  "original_name": "みう",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Kouichi's cousin, Miu, is left in charge of his family for a period of one year. This is the story of two cousins who like each other and must keep their relationship hidden from the rest of their family.",
+  "source_sha256": "110f9b7eca378ae09bddacec31c20bf86aeed3655fd7d219042538688fea3055",
+  "translation": "幸一的表妹美羽被托付照料他的家一年。这是两个彼此喜欢、必须向家人隐瞒关系的表亲的故事。",
+  "vndb_url": "https://vndb.org/v16429"
+}

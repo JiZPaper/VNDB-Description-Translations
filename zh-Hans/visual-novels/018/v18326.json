@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18326",
+  "type": "visual_novel",
+  "name": "Dead End 99%",
+  "original_name": "데드엔드 99%",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist awakes in a classroom, and sees a cat-eared grim reaper standing in front of her.",
+  "source_sha256": "4b142b5842c3224acb2b33e6e313f63229248042f0fefb64d99212954cd5b37c",
+  "translation": "主人公在教室里醒来，看见一名长着猫耳的死神站在面前。",
+  "vndb_url": "https://vndb.org/v18326"
+}

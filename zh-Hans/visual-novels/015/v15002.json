@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15002",
+  "type": "visual_novel",
+  "name": "Serdcebienie",
+  "original_name": "Сердцебиение",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist decides to commit suicide: otherwise he should deal with a problem the solution to which does not exist. Despite his intention, he continues to live and tries to sort out the true reasons of past events, as well as his own actions.\n\nThe player lives several days together with the protagonist, choosing actions, opinions and intentions in various situations, which will have a direct or indirect, instant or postponed effect on the plot development.\n\n[from [url=http://heartbeat-game.blogspot.com/p/blog-page_60.html]official blog[/url]]",
+  "source_sha256": "9f776affed5d5933c887f926f7f43122af220a2a4f6607db170fe974263475b6",
+  "translation": "主角决定自杀：否则，他就必须面对一个无从解决的问题。尽管抱有这样的打算，他仍继续活着，并试图理清过去事件的真正原因，以及自己的所作所为。\n\n玩家将与主角共度数日，在各种情境中选择行动、观点和意图；这些选择会直接或间接、即时或延后地影响剧情发展。\n\n[译自[url=http://heartbeat-game.blogspot.com/p/blog-page_60.html]官方博客[/url]]",
+  "vndb_url": "https://vndb.org/v15002"
+}

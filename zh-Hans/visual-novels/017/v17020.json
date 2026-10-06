@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17020",
+  "type": "visual_novel",
+  "name": "Mon Puchi",
+  "original_name": "モンプチ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're a genius magician that lives in an out of the way town making medicine and leisurely studying magic. One day an adventure comes to visit you. \"I want you to look after them for a while.\" They say, and leave a half elf child in your care.",
+  "source_sha256": "f0301ae587f94c9617371d32a505328d8d03ef8961eef7e168b271c2c60368ea",
+  "translation": "你是一名天才魔法师，住在偏僻小镇里，一边制作药物，一边悠闲地钻研魔法。某天，一名冒险者来找你，说：“想请你暂时照顾一下这个孩子。”说完便把一个半精灵孩子交给了你。",
+  "vndb_url": "https://vndb.org/v17020"
+}

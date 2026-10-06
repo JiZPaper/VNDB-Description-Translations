@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20120",
+  "type": "visual_novel",
+  "name": "We Are Here To Help",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Did aliens really help build the pyramids? They certainly think so! \n\nCreated for [url=http://ludumdare.com/compo/ludum-dare-36/?action=preview]Ludum Dare 36[/url] (Theme: Ancient Technology).",
+  "source_sha256": "24043f18f1ebc1213d59232d547d6b91596cd2004ad5b994c159807cfe1df4cc",
+  "translation": "外星人真的帮忙建造过金字塔吗？至少，他们自己是这么认为的！\n\n为[url=http://ludumdare.com/compo/ludum-dare-36/?action=preview]Ludum Dare 36[/url]创作的作品（主题：古代科技）。",
+  "vndb_url": "https://vndb.org/v20120"
+}

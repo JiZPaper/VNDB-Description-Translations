@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17677",
+  "type": "visual_novel",
+  "name": "Girlfriend (Kari) - Kimi to Sugosu Natsuyasumi",
+  "original_name": "ガールフレンド(仮) きみと過ごす夏休み",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A spin-off game based on Ameba's game apps \"Girlfriend (Kari)\". In the visual novel game, player takes the role of a male sophomore at Seiou Academy, where the event is currently set on a summer vacation.",
+  "source_sha256": "4e17b9a9da26329de15d80f1fdc7d3dc329f22a837019fc0447e2181109bbcd9",
+  "translation": "一款基于Ameba游戏应用《女朋友（暂定）》的衍生游戏。在这部视觉小说中，玩家扮演圣央学园的男高中二年级学生，故事发生在暑假。",
+  "vndb_url": "https://vndb.org/v17677"
+}

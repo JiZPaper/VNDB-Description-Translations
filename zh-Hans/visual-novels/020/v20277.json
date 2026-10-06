@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20277",
+  "type": "visual_novel",
+  "name": "Taishou x Alice: HEADS&TAILS",
+  "original_name": "大正×対称アリス HEADS&TAILS",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fandisc of the Taishou x Alice series. Contains after-stories for the original characters and includes new routes for sub-characters Ookami and Ryoushi. Also featuring a school-parody story with routes for all the original characters.",
+  "source_sha256": "66c3b5d7c38b98cb894542a1338d6268a48a161daa581dc29e8d78b64e551724",
+  "translation": "《大正×对称爱丽丝》系列的粉丝碟。收录原作角色的后日谈，并为配角狼与猎人加入新路线。此外还包含一篇校园戏仿故事，原作所有角色均有对应路线。",
+  "vndb_url": "https://vndb.org/v20277"
+}

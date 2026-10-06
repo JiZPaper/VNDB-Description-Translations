@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20182",
+  "type": "visual_novel",
+  "name": "The Prologue to a Dream of Home",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "One hundred years before the events of A Dream of Home, Dr. Seth Schumann's reality simulation is nearly complete. With the birth of the Narcissus Project, Eridean scientists have discovered a means to project the soul as art. Who will finish Schumann's unfinished masterpiece?",
+  "source_sha256": "5cf417d758e0de4dc4a05e567664d640e93c2f4d9980162c449de61912d0c9c4",
+  "translation": "在《A Dream of Home》的故事发生一百年前，塞思·舒曼博士的现实模拟系统已接近完成。随着“水仙计划”的诞生，Eridean科学家找到了一种将灵魂投射为艺术的方式。谁将完成舒曼尚未完成的杰作？",
+  "vndb_url": "https://vndb.org/v20182"
+}

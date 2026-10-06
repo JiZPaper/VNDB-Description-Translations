@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17865",
+  "type": "visual_novel",
+  "name": "Tetsu to Ra",
+  "original_name": "鉄と裸",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Ashley Garland, a dark sorcerer, awakens from a long slumber. Disguising himself as an aspiring female warrior, he infiltrates an all-female order of holy knights in search of a magic artifact, now in-possession of the descendant of the Saint that defeated him. Taking advantage of his unaware peers, he begins to conquer the order.",
+  "source_sha256": "e94f1484912e04d82211b65fe9ece9fdc3f6667ac54e5b36cf297492ca828035",
+  "translation": "黑暗术士阿什莉·加兰从漫长沉睡中醒来。他伪装成志向远大的女战士，潜入全是女性的圣骑士团，寻找如今由打败过他的圣女后裔持有的魔法遗物。利用那些毫不知情的同伴，他开始征服整个骑士团。",
+  "vndb_url": "https://vndb.org/v17865"
+}

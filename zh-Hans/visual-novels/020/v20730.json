@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20730",
+  "type": "visual_novel",
+  "name": "Fix Me Fix You",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "After losing his girlfriend and his job on the same day one could easily say that Austin Lewis is having a very bad day until a unique opportunity knocks on his door.",
+  "source_sha256": "e723ebff4860174d35c71eaa8ac92e53faf34f882b15fb33913c6f8b114e23d8",
+  "translation": "Austin Lewis在同一天失去了女友和工作，任谁都会说他这一天糟透了。直到一个独特的机会敲响了他的门。",
+  "vndb_url": "https://vndb.org/v20730"
+}

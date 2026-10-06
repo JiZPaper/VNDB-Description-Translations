@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19226",
+  "type": "visual_novel",
+  "name": "Late for Chocolate",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist received a request from her lover Reit.\n\"I'll definitely come and meet you so have a Valentine prepared!\"\nOn that certain day, as promised she had chocolate at hand, but he...",
+  "source_sha256": "b536548aef6dcdd61f4a22012db86b3000ef17c931b5b3cd2ed03bf1d50d659f",
+  "translation": "主人公收到了恋人莱特的请求。\n“我一定会来见你，所以请准备好情人节礼物！”\n到了约定的那天，她手里拿着巧克力，可是他……",
+  "vndb_url": "https://vndb.org/v19226"
+}

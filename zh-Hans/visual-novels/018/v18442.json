@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18442",
+  "type": "visual_novel",
+  "name": "Restart!",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A fan-fiction otome game based on Kuroko no Basuke.",
+  "source_sha256": "5fafc353c455e5807d1e0e0973a90385a4877cff64eb134ba95df1a00b071bec",
+  "translation": "一款以《黑子的篮球》为基础的同人乙女游戏。",
+  "vndb_url": "https://vndb.org/v18442"
+}

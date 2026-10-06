@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17967",
+  "type": "visual_novel",
+  "name": "My Girlfriend Is a Witch!",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Mako is a middle school girl without much going on in life. But all of that changes when she finds herself embroiled in the strange world of mysterious creatures known as Witches.\n\nA short fan-made visual novel based on the anime Madoka Magica.",
+  "source_sha256": "70c7bf3ab5b42d6341ed878af3c6343de10c1a2c8e9145798ed977f87c834641",
+  "translation": "真子是个平凡的初中女生，生活没有什么波澜。然而，当她卷入名为“女巫”的神秘生物所构成的奇异世界后，一切都改变了。\n\n这是一部以动画《魔法少女小圆》为基础的短篇同人视觉小说。",
+  "vndb_url": "https://vndb.org/v17967"
+}

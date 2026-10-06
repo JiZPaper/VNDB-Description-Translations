@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20006",
+  "type": "visual_novel",
+  "name": "Sakura Maid",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A maid performs her daily tasks while awaiting the return of her beloved master.",
+  "source_sha256": "e4c360d9728a7dfc73b9f286434379f211b35950d0bac4a08489e88585b87228",
+  "translation": "一位女仆一边做着日常工作，一边等待心爱的主人归来。",
+  "vndb_url": "https://vndb.org/v20006"
+}
