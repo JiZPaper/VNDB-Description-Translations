@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23785",
+  "type": "visual_novel",
+  "name": "Long Nights",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A tired space cabbie ferries her last passenger for the day... with an unexpected result.\n\n[From [url=https://watto.itch.io/long-nights]itch.io[/url]]",
+  "source_sha256": "d6cbbe59a459e9e3b3869d165ee6017ab904f3b27ed8c4e10369ffb7795db020",
+  "translation": "疲惫的太空出租车司机载着当天最后一名乘客回家……却迎来了意想不到的结果。\n\n（来源：[url=https://watto.itch.io/long-nights]itch.io[/url]）",
+  "vndb_url": "https://vndb.org/v23785"
+}

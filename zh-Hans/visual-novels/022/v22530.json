@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22530",
+  "type": "visual_novel",
+  "name": "R Academy",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A story based in the player's decisions with more than 50 endings including 'bad end', 'fatal end' 'true end' and many more. The game has mostly 3 heroines, but is at least possible to get a route (at least 1) with any girl that appears.\n\nR Academy doesn't have consistent story, as it changes with every decision, whether is immediate or at the end of the game. Basically an experience in acts.  \n[From [url=http://store.steampowered.com/app/779780/]Steam[/url]]",
+  "source_sha256": "68c6e62efdb04b4c7ef8a9e4981caca4b813b54918dadb32d73e4252e8586193",
+  "translation": "这是一个由玩家决定故事走向的游戏，拥有超过50个结局，包括“坏结局”“致命结局”“真结局”等。游戏主要有三名女主角，但玩家至少可以让每一位登场女孩进入一条路线。\n\n《R学院》没有固定剧情，每次选择都会改变故事，无论是立即改变还是在游戏结尾改变。它本质上是一段由多个章节组成的体验。\n\n[来源：[url=http://store.steampowered.com/app/779780/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v22530"
+}

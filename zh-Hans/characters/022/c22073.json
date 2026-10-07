@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c22073",
+  "type": "character",
+  "name": "Tristan Spade",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The Protagonist of the story and Nikki's older brother who is a GEAR pilot.\n\nHe is nameable but the name he is given if you leave the name slots blank is Tristan Spade.",
+  "source_sha256": "fc7e480d4a96938b802ef7ece3f1314560a84d18a430f2c9de96db613de38123",
+  "translation": "故事主人公，妮琪的哥哥，同时也是一名GEAR驾驶员。\n\n可以为他命名，但如果不填写名字，默认名称就是特里斯坦·斯佩德。",
+  "vndb_url": "https://vndb.org/c22073"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21238",
+  "type": "visual_novel",
+  "name": "A Letter",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An Indonesian-language VN that tells the love story of two people who have physical disabilities and both can not communicate with each other because they are mute and blind.",
+  "source_sha256": "d295aa46216ab7c9de39ff83001b9b031d5938cbf6ca4e716d32a93c1cdd850a",
+  "translation": "一部印度尼西亚语视觉小说，讲述两名身体残障者之间的爱情故事。他们既是哑巴又是盲人，无法彼此交流。",
+  "vndb_url": "https://vndb.org/v21238"
+}

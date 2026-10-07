@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22217",
+  "type": "visual_novel",
+  "name": "Katya",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Katya is the barmaid at the bar you go to after work. You never got up the nerve to talk to her. Till Tonight.",
+  "source_sha256": "cd75b997849ce4a49b331b8961454d23442cf9cffdfaf4fc5f1276d9eb3dad46",
+  "translation": "卡佳是你下班后常去的酒吧里的女服务员。你一直没有鼓起勇气和她说话。直到今晚。",
+  "vndb_url": "https://vndb.org/v22217"
+}

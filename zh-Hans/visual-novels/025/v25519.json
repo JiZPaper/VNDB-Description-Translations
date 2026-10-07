@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25519",
+  "type": "visual_novel",
+  "name": "melonade",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Spend a day with ham the ghost as she ponders why she's still here, despite dying.\nMade for Ghost Jam 2018.\n\n[Edited from [url=https://itch.io/jam/ghost-jam/rate/233184]Itch.io[/url]]",
+  "source_sha256": "e6030b64694577ff4ab3236e2af98f8163dbdbe7833d4d5009be02a26ed6c0fa",
+  "translation": "和幽灵火腿度过一天，听她思考自己明明已经死去，为何仍然留在这里。\n\n为Ghost Jam2018制作。\n\n[编辑自[url=https://itch.io/jam/ghost-jam/rate/233184]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v25519"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21547",
+  "type": "visual_novel",
+  "name": "Shuuen no Juunigatsu ~ Fuyu - Shuukaku no Juunigatsu Tsuika Episode-Shuu Vol. 1",
+  "original_name": "周縁の十二月～冬-収穫の十二月追加エピソード集vol.1",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Includes three short stories:\nOuterworld September (血縁の九月)\nLily April (鈴蘭の四月)\nTraveling December (今昔の十二月)",
+  "source_sha256": "c44ffa330241507fd5fb74f3c7fe60fb3eafa3dc0ce7b74989ecb0317d68aa5a",
+  "translation": "收录三篇短篇故事：\n\n《异界九月》（血缘之九月）\n《百合四月》（铃兰之四月）\n《旅行十二月》（今昔之十二月）",
+  "vndb_url": "https://vndb.org/v21547"
+}

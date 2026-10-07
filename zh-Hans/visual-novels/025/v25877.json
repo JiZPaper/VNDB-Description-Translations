@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25877",
+  "type": "visual_novel",
+  "name": "Watashi no Alice",
+  "original_name": "私のアリス",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "My little brother's name is Alice.\nUnlike me, he is beautiful.\nUnlike me, everyone loves him.\nUnlike me, he is innocent and sweet.\nI am not like Alice.\nBecause every night, I have the same dream...",
+  "source_sha256": "39764981b46a54eefdffe0e5a1a0c3789fef9d8b0429ac0181674fd36e49e1e8",
+  "translation": "我弟弟的名字叫Alice。\n\n和我不同，他很漂亮。\n和我不同，所有人都喜欢他。\n和我不同，他天真又可爱。\n我和Alice不一样。\n因为每天晚上，我都会做同一个梦……",
+  "vndb_url": "https://vndb.org/v25877"
+}

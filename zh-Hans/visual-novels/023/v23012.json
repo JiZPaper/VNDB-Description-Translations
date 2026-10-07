@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23012",
+  "type": "visual_novel",
+  "name": "The Inn",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The Inn tells the story of down on his luck kind of guy. He's been living by himself in the big city ever since his father kicked him out of his house at the age of 18. He really lives a miserable life... But it's all about to take a 180º turn when he meets a certain person one night.",
+  "source_sha256": "d49c6e0b442a467ef3a0088360e94ae9218e2e3d599a2ceb3d62ae8c3b26dc14",
+  "translation": "《旅馆》讲述了一个穷困潦倒的男人的故事。自从18岁那年被父亲赶出家门后，他就一直独自生活在大城市里。他的生活实在悲惨……但某天夜里遇见某个人后，一切即将发生180度的转变。",
+  "vndb_url": "https://vndb.org/v23012"
+}

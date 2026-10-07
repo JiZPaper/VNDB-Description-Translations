@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25472",
+  "type": "visual_novel",
+  "name": "Spectra",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hi everyone! \n\nAre you ready to dive into this experience? I can't wait to meet you! But before you go ahead and download, let me tell you a little bit about Spectra. \n\nSo as you may or may not already know, Spectra is a software I've been working on very hard to get out there. I didn't create Spectra myself, but Spectra is very important to me.  But before you dive into the software there are some things you need to know,\n\nWhat is Spectra?\n\nThat's easy! Spectra, to keep it short, is an advanced drawing software. It will survey you, once you run it, and after that, it'll give you a personalized palette to draw with. It also has a lot of different brush settings and everything you need to create some awesome masterpieces from the comfort of your own computer! \n\nThere is a big problem though.\n\nDue to Spectra being so advanced, it runs into issues quite often. (That's why you really need to read the textdocument in the Spectra folder first, before running Spectra itself.)  When this happens, you need to troubleshoot. But troubleshooting Spectra is actually not that bad! If you run into an issue, Spectra will automatically run it's troubleshooting program called: \"The Internals of Spectra\". There, you'll be guided through a process of fixing the program so it functions correctly.\n\nThe process might be a little weird, since The Internals don't function like anything else you are probably used to, but if you are patient, and if you enjoy videogames, you'll have a great time during this process! I've made sure of it.\n\nI'll be waiting for you on the other side!\n\n[From [url=https://daleeny.itch.io/spectra]Itch.io[/url]]",
+  "source_sha256": "209bfaf5701153e85a78e7974b292aade1771a0fbde0ddd84057efe0f4ecb883",
+  "translation": "大家好！\n\n准备好投入这场体验了吗？我迫不及待想见到你！不过在你下载之前，先让我介绍一下《Spectra》。\n\n正如你可能已经知道的，《Spectra》是我努力开发、希望发布的软件。我并不是《Spectra》的创造者，但它对我非常重要。在投入软件之前，有几件事必须知道。\n\n什么是《Spectra》？\n\n很简单！简而言之，《Spectra》是一款高级绘图软件。运行后，它会调查你，然后为你提供个性化绘画调色板。它还有各种笔刷设置，以及在电脑上创作优秀作品所需的一切！\n\n不过存在一个大问题。\n\n由于《Spectra》过于先进，它经常遇到问题。（所以在运行《Spectra》前，务必先阅读文件夹中的文本文档。）发生问题时，你需要排查故障。但排查《Spectra》其实并不难！遇到问题后，《Spectra》会自动运行名为“Spectra内部”的故障排查程序。在那里，你会获得修复程序、让它正常运行的引导。\n\n这个过程可能有点奇怪，因为“内部”不像你熟悉的任何东西那样运行；但只要你有耐心，又喜欢电子游戏，就会在过程中玩得很开心！我保证。\n\n我会在另一边等你！\n\n[来源：[url=https://daleeny.itch.io/spectra]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v25472"
+}

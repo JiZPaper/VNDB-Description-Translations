@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25120",
+  "type": "visual_novel",
+  "name": "Shi no Homura",
+  "original_name": "紫の焔",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Our protagonist Takashi Akito is the young heir to a large conglomerate.\n\nHe just came back to Japan after graduating from an English university so he can take the ropes but... his father's will is hiding several secrets! What will be of Akito and the men he becomes entangled with...?",
+  "source_sha256": "2bd8011aa2a9948516b47dd78bfcf49423e4bfb732175c3d0fe2429c54ab602f",
+  "translation": "主人公高桥明人是大型企业集团的年轻继承人。\n\n他从英国大学毕业后刚回到日本，准备接手家族事业，却发现父亲的遗嘱隐藏着数个秘密！明人以及与他纠缠在一起的男人们将迎来怎样的命运……？",
+  "vndb_url": "https://vndb.org/v25120"
+}

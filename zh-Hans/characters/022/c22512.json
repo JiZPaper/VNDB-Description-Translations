@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c22512",
+  "type": "character",
+  "name": "Hanabishi Anzu",
+  "original_name": "花菱 杏",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The youngest of Hanabishi sisters.\n\nOccupation: High school student\nHobbies: Teasing and playing pranks on the protagonist\nLikes: Games\nDislikes: Subjects that aren't math or science",
+  "source_sha256": "7c0eaac80526997ef0e9070ff2aec9820f624e94fbfc08ad5105ee382cda663d",
+  "translation": "花菱姐妹中最小的妹妹。\n职业：高中生\n爱好：捉弄主人公、恶作剧\n喜欢：游戏\n讨厌：数学和理科以外的科目",
+  "vndb_url": "https://vndb.org/c22512"
+}

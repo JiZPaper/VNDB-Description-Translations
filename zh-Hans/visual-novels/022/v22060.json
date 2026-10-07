@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22060",
+  "type": "visual_novel",
+  "name": "Super Erect Taisen S・EX",
+  "original_name": "スーパーエレクト大戦Ｓ・ＥＸ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You begin with the main hero and 3 girls and battle through 15 SRPG style stages, using their school as a home base between battles. At the school, you may buy items, change party members, and speak to girls on your team. After each stage, a new girl will join you, and, in total, there are 19 girls. \n\nEach girl has at least one H-scene.",
+  "source_sha256": "157818f136a8a07a361e96de16bf8e4d819c0eb6dc53bcfa667f04752ac7de17",
+  "translation": "你将与主人公和三名女孩一起开始游戏，使用学校作为战斗间隙的基地，完成15个SRPG风格的关卡。在学校里，你可以买道具、更换队伍成员，并与队伍中的女孩交谈。每完成一个关卡，就会有一名新女孩加入，合计共有19名女孩。\n\n每名女孩至少拥有一场H场景。",
+  "vndb_url": "https://vndb.org/v22060"
+}

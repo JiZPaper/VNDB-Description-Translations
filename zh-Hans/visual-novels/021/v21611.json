@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21611",
+  "type": "visual_novel",
+  "name": "Mayoikonda Guest wa?",
+  "original_name": "迷い込んだゲストは？",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Collaborative venture between:\n\n~ Renge (in charge of the writing)\n~ Yuniu (in charge of the sprite and CG artwork)\n~ Kirue (in charge of scripting and system graphics)",
+  "source_sha256": "67a8d95332ebed10f5b8c564dc974fc057cd54bff29e99c7dd295c6124d2ec83",
+  "translation": "合作项目，参与者包括：\n\n~莲华（负责写作）\n~由纽（负责立绘与CG美术）\n~桐江（负责脚本与系统画面）",
+  "vndb_url": "https://vndb.org/v21611"
+}

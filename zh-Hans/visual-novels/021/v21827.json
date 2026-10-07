@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21827",
+  "type": "visual_novel",
+  "name": "Cry and Fear",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You suffer from dysthymia and have reached a critical point in your life. You will depart this world in the hope to escape...",
+  "source_sha256": "dc31a5f806156e284102a0f9db8a4b6a1568c3c7ecfef7e110493cecafea34b8",
+  "translation": "你患有持续性抑郁障碍，人生已经到了危急关头。为了逃避一切，你将离开这个世界……",
+  "vndb_url": "https://vndb.org/v21827"
+}

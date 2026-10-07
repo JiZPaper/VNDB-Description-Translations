@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24122",
+  "type": "visual_novel",
+  "name": "Mirai Tantei Sola to Piyo-chan Series",
+  "original_name": "未来探偵ソラとピヨちゃん シリーズ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A Episodic Novel with 4 Episodes:\n\nEpisode 01+02 (エピソード01+02)\nEpisode Haunted (エピソード・ホーンテッド)\nInvisible Restaurant (注文のできない料理店)\nEpisode Essential (エピソード・エッセンシャル)",
+  "source_sha256": "7f1ac663ac739b3fc92fc15d5e1d27d7c1c5fecd002789454643168502937581",
+  "translation": "一部包含四个章节的分集小说：章节01+02、闹鬼章节、隐形餐厅，以及必需章节。",
+  "vndb_url": "https://vndb.org/v24122"
+}

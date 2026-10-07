@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c22008",
+  "type": "character",
+  "name": "Horinouchi Yuusaku",
+  "original_name": "堀ノ内 雄作",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The player's boss at the company. Also plays for the company's rugby team. Athletic yet meek but also caring and hard working.",
+  "source_sha256": "c7da55ae17263062b9900c9b76ef527b97b9997bbe3c2167a535b9d447212bfd",
+  "translation": "主人公所在公司的上司，同时也是公司橄榄球队的队员。他虽然运动能力出众，却性格温和，同时体贴又勤奋。",
+  "vndb_url": "https://vndb.org/c22008"
+}

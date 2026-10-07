@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25616",
+  "type": "visual_novel",
+  "name": "Tasokare Hotel",
+  "original_name": "誰ソ彼ホテル",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"Tasokare Hotel\" is located between death and life.\nAll guests who come to this hotel are spirits wandering that thin line...\n\nThe protagonist will have to solve the mysteries her partners in the hotel hide.",
+  "source_sha256": "f1b2fe5a977945056d485d7542dfc8e79e963bfdaa35ef585ad6b08a5c8084fe",
+  "translation": "“黄昏酒店”位于生与死之间。所有来到这里的客人，都是徘徊在那条纤细界线上的灵魂……\n\n主人公必须解开酒店同伴隐藏的谜团。",
+  "vndb_url": "https://vndb.org/v25616"
+}

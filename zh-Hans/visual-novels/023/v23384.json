@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23384",
+  "type": "visual_novel",
+  "name": "Nikushoku to Soushoku",
+  "original_name": "肉食と草食",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Two friends, a wolfboy Ruti and a sheepboy Johan get trapped in a cave after an earthquake. Before long, Ruti starts to become hungry...",
+  "source_sha256": "75febe86a8902ae4214603d42bb15c916542410956791048f7178aafa27ab922",
+  "translation": "地震后，两个朋友——狼男孩鲁蒂和羊男孩约翰——被困在洞穴里。不久，鲁蒂开始感到饥饿……",
+  "vndb_url": "https://vndb.org/v23384"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c22718",
+  "type": "character",
+  "name": "Han Hui",
+  "original_name": "韩 卉",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Freshman with an introverted personality.",
+  "source_sha256": "330f6f1c2de6b7be42f79943abd9cefed115216301cd55176fa849585c442caf",
+  "translation": "性格内向的一年级学生。",
+  "vndb_url": "https://vndb.org/c22718"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23688",
+  "type": "visual_novel",
+  "name": "Recurrent",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Recurrent is an interactive story game about three lost souls at the mercy of a sinister girl, and her otherworldly Playground.\n[From [url=https://sydneya.itch.io/recurrent] itch.io[/url]]",
+  "source_sha256": "a42bac03ec807f7de69c4c501529b2dad61539d9a80e00faa10d8dd3f962f4a8",
+  "translation": "《循环》是一款互动故事游戏，讲述三个迷失灵魂受邪恶女孩及其异界游乐场摆布的故事。\n\n（来源：[url=https://sydneya.itch.io/recurrent]itch.io[/url]）",
+  "vndb_url": "https://vndb.org/v23688"
+}

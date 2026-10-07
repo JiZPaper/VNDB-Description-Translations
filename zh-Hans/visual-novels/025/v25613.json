@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25613",
+  "type": "visual_novel",
+  "name": "Potato Paradox Plus",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A fry-cook is stuck in a time loop and you play though his day to figure out why.\n\nPotato Paradox Plus is a visual novel inspired by 90's cartoons that crosses the streams of classic point and click adventures and modern visual novels into a funky potat-stic tale about growing up, college, and mass corporate conspiracy.",
+  "source_sha256": "edfeb2374f0a9b5fbcc13d02f17db3f1f048039d6a43a5a1231ed1bf294cf0df",
+  "translation": "一名炸薯条厨师被困在时间循环中，你要陪他度过一天，弄清循环原因。\n\n《土豆悖论Plus》是一部受90年代动画启发的视觉小说，将经典点击式冒险与现代视觉小说结合成一则关于成长、大学与大型企业阴谋的奇妙土豆故事。",
+  "vndb_url": "https://vndb.org/v25613"
+}

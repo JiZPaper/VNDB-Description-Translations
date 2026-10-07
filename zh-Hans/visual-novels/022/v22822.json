@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22822",
+  "type": "visual_novel",
+  "name": "Motto IxSHE Tell Ayaka & Yoshino Mini After Story",
+  "original_name": "もっとIxSHE Tell 彩楓＆芳乃 ミニアフターストーリー",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fandisc containing after stories for Ayaka and Yoshino based on fan and user feedback event that ran for a week since its announcement.",
+  "source_sha256": "9462cacde78ae1b42fb4b4107efc90105acdcbfa4632e3a19015c0aa78a407af",
+  "translation": "《Motto IxSHE Tell》的粉丝碟，收录彩枫与芳乃的后日谈；内容根据宣布后持续一周的粉丝与用户反馈活动制作。",
+  "vndb_url": "https://vndb.org/v22822"
+}

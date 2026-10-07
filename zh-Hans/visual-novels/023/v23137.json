@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23137",
+  "type": "visual_novel",
+  "name": "After School Romance",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A nurse's office at a local high school. You've been working here as a school nurse since the spring and you’re finally getting used to the environment. But there are a couple of students that concern you...",
+  "source_sha256": "e9743641c076204bf735c0fe4488acafbb30c7fbe03c6520093a043bee30af11",
+  "translation": "当地高中的保健室。你从春天起就在这里担任校医，如今终于逐渐适应了环境。不过，有几名学生让你有些在意……",
+  "vndb_url": "https://vndb.org/v23137"
+}

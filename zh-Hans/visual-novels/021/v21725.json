@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21725",
+  "type": "visual_novel",
+  "name": "Fate/Grand Husbando",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A doujin game based off of the Fate universe, specifically Fate/Grand Order. This has been in development since last year at r/GrandOrder and it's finally gotten to a point where the prologue can be played through. There's working affection, choices, a CG gallery and nine endings.\n\n[From [url=https://darkbunnyrabbit.itch.io/fategrand-husbando-preview-version]Itch.io[/url]]",
+  "source_sha256": "b3882e04423de46b7f094b76e0d4a141531a0ec9c95a74d555f350718f123e4b",
+  "translation": "一款以《Fate》系列世界观、尤其是《Fate/Grand Order》为基础创作的同人游戏。本作自去年起在r/GrandOrder开发，如今终于完成了可游玩的序章。包含好感度系统、选项、CG画廊与9个结局。\n\n[来源：[url=https://darkbunnyrabbit.itch.io/fategrand-husbando-preview-version]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v21725"
+}

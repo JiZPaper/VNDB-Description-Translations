@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22269",
+  "type": "visual_novel",
+  "name": "Wishcraft",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Star light, star bright,\nFirst star I see tonight,\nTo her I pray, beneath this light\nGrant this wish you wish tonight.\n\nThe last wishmaker lives deep in the woods, waiting for humans and monsters alike to fullfill their wishes.\n\nBut what if she has a wish for her own?",
+  "source_sha256": "d7bb196358fa6bddd0003dafa0d47e3e07a618cd7a82a062edc34b314d554e37",
+  "translation": "星光明亮，星光闪耀，\n今晚我看见的第一颗星，\n我在这光下向她祈祷，\n实现她今晚许下的愿望。\n\n最后一位愿望制造者住在森林深处，等待人类与怪物前来实现愿望。\n\n但如果她也有自己的愿望呢？",
+  "vndb_url": "https://vndb.org/v22269"
+}

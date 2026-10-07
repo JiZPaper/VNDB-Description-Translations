@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22567",
+  "type": "visual_novel",
+  "name": "Wei Wan Dai Xu",
+  "original_name": "未完待續",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game follows the life of a young Taiwanese college graduate and his circle of friends. Includes multiple routes with both good and bad endings.",
+  "source_sha256": "dc166aa8969296d06516d2cba856bfed2fb016d45ab53453a952c8b2c020a327",
+  "translation": "游戏讲述一名年轻台湾大学毕业生及其朋友圈的生活。包含多条路线，既有好结局，也有坏结局。",
+  "vndb_url": "https://vndb.org/v22567"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21207",
+  "type": "visual_novel",
+  "name": "Legal Today",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A widowed father hits it off with his daughter's babysitter.",
+  "source_sha256": "a45fde8f8393f4509fc813ffe2b841b099d7dfaedb63b59e0b6496cf739d86fe",
+  "translation": "丧偶的父亲与女儿的保姆一拍即合。",
+  "vndb_url": "https://vndb.org/v21207"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22621",
+  "type": "visual_novel",
+  "name": "Sect",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Sect is a romance, intrigue and story-focused visual novel.\n\nSect follows a young adult in a corrupted city where various shady organizations and groups exist, among them, the Sect of Illuminated stands supreme in instilling fear and brainwashing the masses.\n\nTo take revenge for the death of his parents, our protagonist decides to create a Sect of his own.",
+  "source_sha256": "0665fe7525b3766548648e08f5e7d5f1dadd6f9b8af0803ff5a017a6e4b87fab",
+  "translation": "《教派》是一部以恋爱、阴谋和剧情为核心的视觉小说。\n\n故事跟随一名年轻成年人，生活在一座腐败城市中。城里存在各种可疑组织与团体，其中“光明教派”在制造恐惧、给大众洗脑方面占据绝对优势。\n\n为了报父母被杀之仇，主人公决定建立属于自己的教派。",
+  "vndb_url": "https://vndb.org/v22621"
+}

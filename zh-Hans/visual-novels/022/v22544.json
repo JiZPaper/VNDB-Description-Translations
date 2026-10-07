@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22544",
+  "type": "visual_novel",
+  "name": "A Salem Witch Trial",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "When a murdered family is discovered in 17th Century Salem, at the height of a witch hysteria, people start to suspect something supernatural to blame. An atmospheric murder mystery. Connect the evidence and see if you can deduce the secrets behind the mystery.",
+  "source_sha256": "e0ac10104efa6898e26c2cc2b71972a0439127e552c217396c030ab264442015",
+  "translation": "17世纪，塞勒姆正处于女巫恐慌最严重的时期，人们发现一家人惨遭杀害，开始怀疑背后有超自然力量作祟。这是一部氛围感十足的谋杀悬疑游戏。串联证据，看看你能否推断出谜团背后的秘密。",
+  "vndb_url": "https://vndb.org/v22544"
+}

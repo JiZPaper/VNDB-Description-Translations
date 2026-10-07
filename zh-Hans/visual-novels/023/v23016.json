@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23016",
+  "type": "visual_novel",
+  "name": "Iron & Rust",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "2016. Marius Friedrich is a young student during day and a hacktivist at night. When he discovers the track to a top secret program on artificial intelligence, DARPA's \"Thunderbird\" project, and he steps on an unknown and dangerous ground, begins an adventure that will lead him to the limits of human understanding.",
+  "source_sha256": "0af12ecbb40a82091834e73d1acbbfcbcbc5f89477a7cb29a3dc2b301eb54865",
+  "translation": "2016年。马里乌斯·弗里德里希白天是一名年轻学生，夜晚则是黑客行动主义者。当他发现通往DARPA“雷鸟”人工智能绝密项目的线索，踏入一片未知而危险的领域时，一场将人类认知推向极限的冒险就此开始。",
+  "vndb_url": "https://vndb.org/v23016"
+}

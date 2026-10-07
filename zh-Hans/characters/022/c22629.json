@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c22629",
+  "type": "character",
+  "name": "Duran",
+  "original_name": "デュラン",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A cyborg with a curious accent who specializes in gadgets. He goes by the alias ”Braniac Duran” and seems to have a crush on Hilko.",
+  "source_sha256": "5d080697b77bae2b4f6e76c2cc759784cb4b53d4093c3399d62f2d99628440d7",
+  "translation": "擅长各种小工具、口音奇怪的半机械人。他使用“天才杜兰”这一别名，似乎暗恋希尔科。",
+  "vndb_url": "https://vndb.org/c22629"
+}

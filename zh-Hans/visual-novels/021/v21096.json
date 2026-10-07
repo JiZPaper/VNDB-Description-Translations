@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21096",
+  "type": "visual_novel",
+  "name": "The Reset",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Machines are sentient, and full interfaces with humans have been developed. One day, you reset your supporting systems, and lose your persona during the process - a consequence of the reset your AI assistant Bios had warned you about. Why didn't you listen to her? Did you have such a powerful reason to reset your systems? Memory loss, however, is not your only concern. You are alone. There is no one in the facility you find yourself in, nor anywhere else. What's going on?\n\nYou explore the world looking for answers.",
+  "source_sha256": "14b5960f61fa201bde2d26b7647a08c296c991dc9400bd559620cec26762cf94",
+  "translation": "机器拥有了自我意识，人类与机器之间也已开发出完整的交互界面。一天，你重置了辅助系统，并在过程中丢失了自己的身份人格——这正是AI助手比奥斯曾警告过你的重置后果。你为什么没有听她的话？你当时究竟有什么非重置系统不可的理由？\n\n然而，失忆并不是你唯一的担忧。你孤身一人，身处的设施里没有任何人，外界也没有人。究竟发生了什么？\n\n你探索这个世界，寻找答案。",
+  "vndb_url": "https://vndb.org/v21096"
+}

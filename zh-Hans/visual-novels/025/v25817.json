@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25817",
+  "type": "visual_novel",
+  "name": "DIVINATION",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short game where you act as a fortune teller in a futuristic  world. Talk and listen to people's stories, then foresee their future using the runes they had drawn.\n\nThe result of your divination will stir the fate of human and robot alike.\n\n[From the [url=https://mojiken.itch.io/divination]official site[/url]]",
+  "source_sha256": "0733e11d3dcad15323d837ce6dfc634d74aec74fc664f910308442378487c477",
+  "translation": "一款短篇游戏：你将在未来世界扮演占卜师。与人们交谈，倾听他们的故事，再用他们抽取的符文预见未来。\n\n你的占卜结果将搅动人类与机器人的命运。\n\n[来源：[url=https://mojiken.itch.io/divination]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v25817"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24123",
+  "type": "visual_novel",
+  "name": "LoveBug",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "LoveBug is a dating sim parody where you get the opportunity to date young game developers at a game jam. Your goal is to finish a game project in just one weekend while teaming up with a bunch of strangers and fighting bugs late into the night powered only by coffee and passion for games. Should you be spending precious development time flirting? Maybe not, but who cares as long as you have fun! Will you finish your game? Will you find love? Will you survive your first game jam? Or will game dev will be the game death of you?\n\n[From [url=https://store.steampowered.com/app/909010/]Steam[/url]]",
+  "source_sha256": "ecd307ad39352cf2c1edbf2c1511eff887c3da49e12ea28aba2154cab9c6b03a",
+  "translation": "《LoveBug》是一款约会模拟游戏的恶搞作品：你有机会在游戏创作活动中与年轻开发者约会。目标是在一个周末完成游戏项目，与一群陌生人组队，在深夜仅靠咖啡和对游戏的热情与程序错误搏斗。你该把宝贵的开发时间花在调情上吗？也许不该，但只要玩得开心，谁在乎呢！你能完成游戏吗？找到爱情吗？熬过第一次游戏创作活动吗？还是游戏开发会要了你的命？\n\n[来源：[url=https://store.steampowered.com/app/909010/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v24123"
+}

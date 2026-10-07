@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22449",
+  "type": "visual_novel",
+  "name": "Natsu Shoujo Summer Disc",
+  "original_name": "夏少女サマーディスク",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fandisc of Natsu Shoujo.",
+  "source_sha256": "aed5efa8381be0084251bdf81f55c07dacc98ba2bb0cdb3e23d54222ae49d667",
+  "translation": "《夏少女》的粉丝碟。",
+  "vndb_url": "https://vndb.org/v22449"
+}

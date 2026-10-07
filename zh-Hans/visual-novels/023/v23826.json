@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23826",
+  "type": "visual_novel",
+  "name": "Otomeru",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Otomeru is a Visual Novel made in Ren’Py about an amnesiac (you!) who stumbles upon a cast of 14 different Tibumeru (a hybrid of fish/shark humanoids originally created for the deviantArt group \"Tibumeru\"). It is up to you to decide who you want to befriend, and hopefully regain your memories along the way…\n\n[From [url=https://flarechess.itch.io/otomeru] itch.io[/url]]",
+  "source_sha256": "e4126e936254d52692502df4d6c65f118427a969c0fea71cef4dc633ee9cf82e",
+  "translation": "《Otomeru》是一款用Ren’Py制作的视觉小说。你扮演失去记忆的主人公，在偶然之间遇见14名不同的Tibumeru——一种最初为DeviantArt群组“Tibumeru”创作的鱼／鲨鱼人类混合生物。想和谁成为朋友由你决定，希望你也能在旅途中找回记忆……\n\n（来源：[url=https://flarechess.itch.io/otomeru]itch.io[/url]）",
+  "vndb_url": "https://vndb.org/v23826"
+}

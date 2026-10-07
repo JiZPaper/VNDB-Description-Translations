@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25522",
+  "type": "visual_novel",
+  "name": "Welcome To... Chichester OVN 1 : The Beach",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "When everyone gets an invite from a mysterious person  to \"The Beach\", on the unluckiest day of the year, the girls presume it's an invite to a private bathing area.\n\nUnfortunately, everyone ends up at a haunted bungalow and are forced to look for three parts of a sword before they are allowed to leave.",
+  "source_sha256": "495ce5c84dd2752e2cb52c5e7ed97d175eb1f612d944536aa206cc9057744f22",
+  "translation": "在一年中最不走运的一天，所有人都收到神秘人物发来的“海滩”邀请。女孩们以为那是私人浴场的邀请。\n\n不幸的是，她们最终来到一座闹鬼的平房，被迫寻找一把剑的三个部分，才能获准离开。",
+  "vndb_url": "https://vndb.org/v25522"
+}

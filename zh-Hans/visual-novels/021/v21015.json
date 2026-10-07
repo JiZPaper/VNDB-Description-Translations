@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21015",
+  "type": "visual_novel",
+  "name": "Eberouge",
+  "original_name": "エーベルージュ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The story happens in a parallel world named EbeLand. The setting is similar to the medieval age in Europe. Magic is common and is a common subject taught in colleges. In this world, the ecosystem is originated and supported by a central huge tree. However, due to the overdevelopment of industries and use of fossil fuel, global warming is rampant. The huge tree is dying, which endangers the game world.\n\nLong ago, this land was saved by the Goddess Ebe from total destruction, but years later, an archeologist among the survivors felt the balance of the land tipping again. So he created institutes to train a student that can create magic, as the Goddess did, to save the land once more.",
+  "source_sha256": "743d63e7dd54f06c254479006f0e395fed74f7c338f903c94ba124e760e9eacf",
+  "translation": "故事发生在名为埃贝兰德的平行世界。这里的社会形态与欧洲中世纪相似，魔法十分普遍，也是大学里的常见课程。这个世界的生态系统源自并依靠一棵巨大的中央之树。然而，工业过度发展、化石燃料大量使用，导致全球变暖日益严重。巨树正在死去，整个游戏世界也因此陷入危机。\n\n很久以前，女神艾贝曾将这片土地从毁灭中拯救出来。然而多年后，一名幸存者中的考古学家察觉到大地的平衡再次倾斜。于是，他建立学院，训练能够像女神那样创造魔法的学生，再次拯救这片土地。",
+  "vndb_url": "https://vndb.org/v21015"
+}

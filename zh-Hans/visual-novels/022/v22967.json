@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22967",
+  "type": "visual_novel",
+  "name": "Mark of Belial",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a police officer who is hunting a ruthless serial killer that the media has dubbed Belial. He leaves large marks all over his crime scenes and always leaves the bodies in a grotesque manner.\n\n[From [url=https://electricpuke.itch.io/mark-of-belial]itch.io[/url]]",
+  "source_sha256": "ac985976b213ef408f3c8aa610625f2d899a742aa270e1bccbffd843b1c7b243",
+  "translation": "你是一名警察，正在追捕残酷的连环杀手。媒体给他起名“贝利亚尔”。他会在每个犯罪现场留下巨大标记，并总以令人毛骨悚然的方式摆放尸体。\n\n[来源：[url=https://electricpuke.itch.io/mark-of-belial]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v22967"
+}

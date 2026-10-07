@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25355",
+  "type": "visual_novel",
+  "name": "School Navigation!",
+  "original_name": "スクールなびげーしょん!",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An anthology consisting of multiple parts:\n\n- [b]Youkoso, Shiritsu Seijuujika Gakuen e![/b] An illustrated audio drama about a transfer student being introduced to a wide variety of school clubs.\n- [b]Happy Day[/b]. A bonus episode for the previous audio drama. Contains a voice actor Q&A at the end.\n- [b]mislead ~Michibikareshi Hikari~[/b]. A visual novel about two orphan siblings fighting demons.\n- A preview for an unreleased game titled [b]Kaze ga Fuku Machi[/b].\n- A collection of illustrations titled [b]Kaze no Tayori[/b], accompanied by narration.",
+  "source_sha256": "0ce22b6ddef53c0170ad12d94c3f7bca7fbf2d0e31b1960ce354f6a788e582d6",
+  "translation": "由多个部分组成的合集：\n\n- [b]欢迎来到私立圣十字学院！[/b]一部插画广播剧，讲述转学生认识各种学校社团的故事。\n- [b]Happy Day[/b]。上一部广播剧的特别篇，结尾包含声优问答。\n- [b]mislead～被引导的光～[/b]。一部讲述孤儿兄妹对抗恶魔的视觉小说。\n- 未发行游戏[b]风吹过的城镇[/b]的预告。\n- 插画合集[b]风的消息[/b]，附带旁白。",
+  "vndb_url": "https://vndb.org/v25355"
+}

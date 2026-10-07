@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22167",
+  "type": "visual_novel",
+  "name": "Ojou-sama wa Sunao ni Narenai ~Daisuki o Kimi dake ni~",
+  "original_name": "お嬢様は素直になれない ～大好きをキミだけに～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fandisc for Ojou-sama wa Sunao ni Narenai. The game contains the after-stories of the 5 heroines from the original game as well a new route starring Wakaba.",
+  "source_sha256": "f4eb37e3f3e65200f18183cd1869c39b97f4a1889cbfd013fd78706d2f37e0f4",
+  "translation": "《大小姐无法坦率》粉丝碟。收录原作五名女主角的后日谈，以及以若叶为主角的新路线。",
+  "vndb_url": "https://vndb.org/v22167"
+}

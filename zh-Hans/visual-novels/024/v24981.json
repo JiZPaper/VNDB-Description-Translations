@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24981",
+  "type": "visual_novel",
+  "name": "Naxos",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An island in the sea, and two souls inhabiting it, alone in their misery. Until fate or some such tawdry thing compels them from the darkness to seek each other out. \n\nAn atmospheric mini visual novel about the monsters within and without us.",
+  "source_sha256": "ddee3212cd45359c6a21667d1b25a60d05060eb180c102aafbe0c15fdda673a4",
+  "translation": "海上的岛屿，两个灵魂独自在痛苦中生活。直到命运或类似的俗套事物迫使他们走出黑暗，寻找彼此。\n\n这是一部描写内外怪物的氛围感短篇视觉小说。",
+  "vndb_url": "https://vndb.org/v24981"
+}

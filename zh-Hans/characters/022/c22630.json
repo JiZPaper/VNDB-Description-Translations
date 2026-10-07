@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c22630",
+  "type": "character",
+  "name": "Joseph",
+  "original_name": "ジョセフ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A dog who whose neural pathways have been modified to allow him to speak. He conducts himself with dignity most of the time, but he can’t entirely hide his animalistic tendencies -- after all, he’s still a dog.",
+  "source_sha256": "ec43944bdc1340366d9edc23f6339679ed0ba205c1a0874969cbb765d9983c05",
+  "translation": "一条经过神经通路改造、能够说话的狗。他大多数时候举止高贵，却无法完全隐藏动物本性——毕竟他仍然是狗。",
+  "vndb_url": "https://vndb.org/c22630"
+}

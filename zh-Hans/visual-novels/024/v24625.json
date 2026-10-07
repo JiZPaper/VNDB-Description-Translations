@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24625",
+  "type": "visual_novel",
+  "name": "Counter-Strike NEO -White Memories-",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Neo includes several major and minor changes. The game does not feature traditional Terrorist versus Counter-Terrorist scenarios, the two sides are renamed CSF and NEO respectively. It incorporates a matchmaking and Elo-derived rating system to help keep players and teams on even footing. The game is anime-styled to better market it in Japan.\n\nAlong with Neo, there are several Flash visual novels spin-offs set within the same setting made by developer Romancework, titled Counter-Strike NEO -WHITE MEMORIES-. The visual novels have a continuing storyline and even some portions that loosely resemble Counter-Strike gameplay.",
+  "source_sha256": "0390964a511ce4af69d18fa5b03b66ac243b8003f5403958f7ac4b58ca3c3b30",
+  "translation": "《反恐精英NEO》加入多项重大与细微改动。不再采用传统的恐怖分子对反恐精英场景，双方分别改名为CSF与NEO。游戏加入匹配与基于Elo的评分系统，让玩家和队伍实力保持相对平衡。为了更好地在日本市场推广，游戏采用动漫风格。\n\n开发者Romancework还制作了数部以同一世界观为背景的Flash视觉小说衍生作，标题为《Counter-Strike NEO -WHITE MEMORIES-》。视觉小说拥有连续剧情，其中部分内容也以较为宽松的方式呈现了类似《反恐精英》的玩法。",
+  "vndb_url": "https://vndb.org/v24625"
+}

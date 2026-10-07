@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25006",
+  "type": "visual_novel",
+  "name": "Prelude",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A very short VN about a man walking in the woods.",
+  "source_sha256": "574fe86c78554ea8f133299a481f612f09feede7c575785ffdb79318697a7b1a",
+  "translation": "一部讲述男人在树林中行走的超短视觉小说。",
+  "vndb_url": "https://vndb.org/v25006"
+}

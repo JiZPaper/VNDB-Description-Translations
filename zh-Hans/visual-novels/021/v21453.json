@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21453",
+  "type": "visual_novel",
+  "name": "Answer or Die",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You must answer questions for 60 seconds on a game show called \"Answer or Die\" and win the host's favor... or else you die.\n\n[From [url=https://beamingghost.itch.io/answer-or-die] itch.io[/url]]",
+  "source_sha256": "b10d14fc0ecce0b8853851d99ad98c7a3d4392f2e414dcbd3df6ea435c4d2acc",
+  "translation": "你必须在名为“答对或死亡”的电视节目中回答60秒的问题，赢得主持人的好感……否则就会死。\n\n[来源：[url=https://beamingghost.itch.io/answer-or-die]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v21453"
+}

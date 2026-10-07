@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23415",
+  "type": "visual_novel",
+  "name": "Don't be fooled",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist departs on a journey to defeat the demon king, with a hero in tow.\n\nSaid hero, however, is self-centered and overbearing.\n\nShe gradually starts getting fed up with him...\n\n[translated from [url=https://www.freem.ne.jp/win/game/18046]Freem![/url]]",
+  "source_sha256": "52f6b3130668db997cb03020b580cedbecbce8e80b40e33a6652f976b9bb3f9b",
+  "translation": "主人公踏上旅程，身边带着一位勇者，目标是打败魔王。\n\n然而，这位勇者以自我为中心又盛气凌人。\n\n她逐渐开始受够了他……\n\n（译自[url=https://www.freem.ne.jp/win/game/18046]Freem![/url]）",
+  "vndb_url": "https://vndb.org/v23415"
+}

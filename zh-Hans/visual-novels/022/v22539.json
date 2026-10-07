@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22539",
+  "type": "visual_novel",
+  "name": "Harald's Dusk",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "With a magical item in his possession, Harald III is conquering the world. When a rebellion breaks out in Scotland, Einar, a soldier and a friend of Harald's, is sent out to snuff it out. The visual novel follows Einar's story.",
+  "source_sha256": "8a2a529704ddb2ef01ba3ea14655b22d33565cd6a7bd34c97c64d92f2adbcc43",
+  "translation": "哈拉尔德三世凭借手中的魔法道具征服世界。当苏格兰爆发叛乱时，哈拉尔德的士兵兼朋友埃纳尔被派去镇压叛乱。视觉小说将讲述埃纳尔的故事。",
+  "vndb_url": "https://vndb.org/v22539"
+}

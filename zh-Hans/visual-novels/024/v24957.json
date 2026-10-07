@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24957",
+  "type": "visual_novel",
+  "name": "Ray Gigant",
+  "original_name": "レイギガント",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Ray Gigant is a unique dungeon crawler RPG which combines dungeon crawling adventure with Japanese visual novel like story telling. Players will first be introduced to the gripping tale of Ichiya who is a young fighter shrouded in mystery.",
+  "source_sha256": "35a039cf178ff9e1f270ed340af71906e70821cf4b6a497cc347e051d5dccfe9",
+  "translation": "《神依骑士》是一款独特的迷宫探索RPG，将地牢冒险与日式视觉小说式叙事结合。玩家首先会接触神秘年轻战士天风一弥的扣人心弦故事。",
+  "vndb_url": "https://vndb.org/v24957"
+}

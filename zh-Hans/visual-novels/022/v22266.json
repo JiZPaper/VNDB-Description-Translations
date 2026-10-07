@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22266",
+  "type": "visual_novel",
+  "name": "Senpai Simulator",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a student in your final year at a Japanese high school. As an upperclassman—a senpai—there is a rule amongst your kouhais which shadows your every move: Senpai will never notice you.\n\nHow will you interact with your kouhais? Notice them, ignore them, string them along? The choice is up to you!\n\n[From [url=http://www.brainscraps.net/projects/senpai/]official site[/url]]",
+  "source_sha256": "718ae68af3e77f7e1f3485b1c2e090d8203a60d04007f34b2295fa6d982af008",
+  "translation": "你是日本高中最后一年级的学生。作为前辈，后辈之间流传着一条笼罩你一举一动的规则：前辈永远不会注意到你。\n\n你会如何与后辈相处？注意他们、无视他们，还是吊着他们？选择权在你手中！\n\n[来源：[url=http://www.brainscraps.net/projects/senpai/]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v22266"
+}

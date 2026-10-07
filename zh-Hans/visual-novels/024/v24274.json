@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24274",
+  "type": "visual_novel",
+  "name": "Maplestory After Story",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You awake from your sleep in Maple Island!\n\nYou saw these bizarre characters such as Mercedes, Tenshi, Kyoko, Kanna, Battle Mage, Pink Bean and Yuka, who is Angelic Buster in disguise.",
+  "source_sha256": "9c23b312b29ab90de0fc35561547dfb8eafce49463071c2e0c2e7016f38f115d",
+  "translation": "你在枫之岛醒来！眼前出现了梅赛德斯、天使、京子、阴阳师、战斗法师、品克缤，以及伪装成天使破坏者的由香等奇怪角色。",
+  "vndb_url": "https://vndb.org/v24274"
+}

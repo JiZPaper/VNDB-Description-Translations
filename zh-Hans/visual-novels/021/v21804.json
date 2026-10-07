@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21804",
+  "type": "visual_novel",
+  "name": "JoJo's Diner",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"Welcome to JoJo's Diner! How may we help you?\"\n\nYear 21XX, somewhere deep in space, at JoJo's Diner. You (protagonist nameable) are working your usual shift alongside a bot named Vev, just waiting for the rush hour, when two individuals with a broken ship engine stumble in. Do you want to stay where you are or do you want to explore space? And what is \"home\" actually?\n\n[From [url=https://qbstudios.itch.io/jojos-diner]itch.io[/url]]",
+  "source_sha256": "ef5f9bb6c5c39b5ba311555e12985838681a9f98188481e79c704b1f81a94fdd",
+  "translation": "“欢迎来到乔乔餐馆！有什么可以为您效劳？”\n\n21XX年，宇宙深处的乔乔餐馆。你（可自定义名字的主人公）和名叫薇芙的机器人一起上着平常的班，等待客流高峰；这时，两名飞船引擎损坏的人跌跌撞撞地走进来。\n\n你想留在原地，还是探索宇宙？而“家”究竟是什么？\n\n[来源：[url=https://qbstudios.itch.io/jojos-diner]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v21804"
+}

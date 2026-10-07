@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22261",
+  "type": "visual_novel",
+  "name": "Hentami: Vol. 3 - Columbiana",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hentami vacations in Mexico with a secret mission to kill a notorious drug lord.",
+  "source_sha256": "4001bce1df74b31591e8804d107f67253381c591d12e322d82433695401d2f45",
+  "translation": "亨塔米在墨西哥度假，同时执行秘密任务：刺杀臭名昭著的毒枭。",
+  "vndb_url": "https://vndb.org/v22261"
+}

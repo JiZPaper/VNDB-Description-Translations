@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23769",
+  "type": "visual_novel",
+  "name": "My Dream ~On Air ga Matenakute~",
+  "original_name": "My Dream ～On Airが待てなくて～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "My Dream is an simulation game focusing on the world of voice-actors. There are eight different heroines in the game, and each has been voiced by three different actresses. Voice actress for each heroine can be set up at the beginning of a new game, right after entering the player's name. The game doesn't feature default name for the player, and other characters will address you by the name you enter (both Japanese and Latin letters are available during name creation). The player focuses on a single heroine and by setting up a weekly schedule for her, the game advances as a visual novel with selectable dialogue and action choices at certain locations and during certain conversations. The weekly schedule is set by selecting locations on the map you wish to visit, one location per day. Different location offer different actions and participation in various events and meeting and talking to other characters. Each heroine has a default set of attributes which change over time, such as physical strength, self-confidence, stress, speaking skill, and other. During gameplay, static character images with mild animations such as talking, are glued over blurred real-life photos which are used as backgrounds.\n\n[From [url=http://www.mobygames.com/game/playstation/my-dream-on-air-ga-matenakute]Mobygames[/url]]",
+  "source_sha256": "57930282e695a913911f7c361cb144f63f1d2f468235794359b9ad699d7ba161",
+  "translation": "《My Dream》是一款以配音演员世界为主题的模拟游戏。游戏中有八名不同的女主角，每名女主角都由三位不同的演员配音。开始新游戏、输入玩家姓名后，就可以设置每名女主角所使用的配音演员。玩家没有默认姓名，其他角色会用你输入的名字称呼你（创建姓名时可以使用日文和拉丁字母）。\n\n玩家专注于一名女主角，为她安排每周日程；游戏随后会以视觉小说形式推进，在特定地点和某些对话中提供可选的对话与行动。每周日程通过地图选择想去的地点来安排，每天一个地点。不同地点会提供不同活动，并让女主角参加各种事件、遇见其他角色并与之交谈。每名女主角都有一组初始属性，会随时间变化，例如体力、自信、压力、口才等。游戏过程中，带有轻微说话动画的静态角色图像会叠放在作为背景的模糊实景照片上。\n\n（来源：[url=http://www.mobygames.com/game/playstation/my-dream-on-air-ga-matenakute]Mobygames[/url]）",
+  "vndb_url": "https://vndb.org/v23769"
+}

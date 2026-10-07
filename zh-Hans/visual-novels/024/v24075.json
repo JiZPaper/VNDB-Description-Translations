@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24075",
+  "type": "visual_novel",
+  "name": "Birch Sapling",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Welcome to Coffins, where the coffee is so good it's deadly!\n\nBirch Sapling is a short visual novel about two friends meeting for the first time. \n\n[From [url=https://koimarina.itch.io/birch-sapling] itch.io[/url]]",
+  "source_sha256": "03f4dd87298c1e2f23454c5b69614aae23aeab9f2e610b5082fe02b57c81e723",
+  "translation": "欢迎来到“棺材”咖啡馆，这里的咖啡好喝到致命！《白桦幼苗》是一部短篇视觉小说，讲述两位朋友第一次见面的故事。\n\n[来源：[url=https://koimarina.itch.io/birch-sapling]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v24075"
+}

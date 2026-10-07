@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21521",
+  "type": "visual_novel",
+  "name": "Code: Realize ~Shirogane no Kiseki~",
+  "original_name": "Code:Realize ～白銀の奇跡～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Second fandisc in the Code: Realize series, containing after stories for the new routes from Shukufuku no Mirai. It also contains stories about the first Christmas Cardia spends with the bachelors, as well as a new story featuring the new character Cantarella.",
+  "source_sha256": "e9c26b06c7c14adbd74fbb482ff24107bce63cdf47bca4c66b4c501093562e6b",
+  "translation": "《Code:Realize》系列第二张粉丝光盘，收录《祝福未来》新增路线的后日谈，也包含卡尔迪娅与男性角色共度的第一个圣诞节，以及新角色坎塔雷拉的故事。",
+  "vndb_url": "https://vndb.org/v21521"
+}

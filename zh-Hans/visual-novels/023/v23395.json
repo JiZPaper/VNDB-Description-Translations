@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23395",
+  "type": "visual_novel",
+  "name": "The Chain Witches",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are an ordinary student who loves fantasy. \nOne day, some beautiful witches appear in your dreams, seeking your help ... \"Only you can save this world,\" they say, \nand the door to another world opens ... \nWhen you wake up, you find yourself in the world of witches!\nThey tell you that they want you to protect the world of witches.",
+  "source_sha256": "4179015f6cd1c514fa31f0c311ba7e3c57bbc6ec61605b00a45ad4c453df0195",
+  "translation": "你是一名喜欢幻想的普通学生。\n某天，几位美丽的女巫出现在梦中，寻求你的帮助……她们说：“只有你能拯救这个世界。”随后，通往异世界的大门打开了……\n\n醒来后，你发现自己身处女巫的世界！\n她们告诉你，希望你保护女巫的世界。",
+  "vndb_url": "https://vndb.org/v23395"
+}

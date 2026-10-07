@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22540",
+  "type": "visual_novel",
+  "name": "Till Death Do Us Part",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In this spiritual successor to the BTD, you're married to some horrible people.\n\n[taken from ElectricPuke's itch.io page]",
+  "source_sha256": "cace6fb37d1a5cae6e679fb24e843fd95c26ca7fb3ee9721d390b4f806e1bdeb",
+  "translation": "在这部《BTD》的精神续作中，你和一些可怕的人结婚了。\n\n[摘自ElectricPuke的Itch.io页面]",
+  "vndb_url": "https://vndb.org/v22540"
+}

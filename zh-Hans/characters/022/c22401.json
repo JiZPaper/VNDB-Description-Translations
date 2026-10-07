@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c22401",
+  "type": "character",
+  "name": "David Fafnir",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Faction:\tAres\nBirthday:\tUnknown\nPlace of Birth:\tUnknown\nOccupation:\tCommodore\nAffiliation:\tAres Confederation\nVoice Actor:\tChris Thurman\n\nProfile:\n[--NO DATA PROVIDED--]",
+  "source_sha256": "4838672aff729445f3af17fa6f7b53a4d04689805dbb8d2a359ae10b75646046",
+  "translation": "阵营：阿瑞斯\n生日：未知\n出生地：未知\n职业：准将\n所属：阿瑞斯邦联\n配音：Chris Thurman\n\n简介：\n[未提供资料]",
+  "vndb_url": "https://vndb.org/c22401"
+}

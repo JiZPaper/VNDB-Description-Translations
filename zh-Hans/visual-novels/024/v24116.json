@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24116",
+  "type": "visual_novel",
+  "name": "Distress: A Choice-Driven Sci-Fi Adventure",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A fading distress signal from a space station that’s gone silent. A metropolis filled with dark secrets, death lurking in every alleyway. Welcome to Nova-8. Step into the boots of Demetria Barton, one of the galaxy’s greatest bounty hunters, and lead her team to a mysterious city in search of answers and riches.\n\nDistress is a branching visual novel for PC/Mac/Linux inspired by the likes of Silent Hill, Snatcher, and Mass Effect. Trapped in a city filled with deadly creatures and a ruthless militarized task force controlled by a shadowy administrator, you’ll have to use your wits and make tough decisions in order to survive. You’re responsible not just for your own life, but the lives of your crew as well. Make your choices. Live with the consequences. \n\nGood luck, captain.",
+  "source_sha256": "437ca162b636189df413fe9d3eebad0619a91834629f74807da1c94a0317b8d4",
+  "translation": "一座陷入沉默的空间站传来逐渐消失的求救信号。一座充满黑暗秘密、每条小巷都潜伏着死亡的大都市。欢迎来到新星-8。扮演银河系最出色的赏金猎人之一德米特里娅·巴顿，带领团队前往神秘城市寻找答案与财富。\n\n《求救信号》是一部面向PC、Mac和Linux的分支视觉小说，灵感来自《寂静岭》《Snatcher》和《质量效应》。你被困在一座充满致命生物的城市中，还要面对由神秘管理员控制的残酷军事化特遣队。为了生存，你必须运用智慧并作出艰难决定；你负责的不只是自己的生命，还有船员们的性命。作出选择，并承担后果。\n\n祝你好运，舰长。",
+  "vndb_url": "https://vndb.org/v24116"
+}

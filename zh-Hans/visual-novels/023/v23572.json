@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23572",
+  "type": "visual_novel",
+  "name": "SHOTAxMONSTERS L2D",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A spin-off game based on the doujin RPG \"SHOTAxMONSTERS.\"",
+  "source_sha256": "81b6d59c7281ddeac8dbe1dd357227a2be739a201dcf12e549544e2e61c691af",
+  "translation": "一款基于同人RPG《SHOTAxMONSTERS》的外传游戏。",
+  "vndb_url": "https://vndb.org/v23572"
+}

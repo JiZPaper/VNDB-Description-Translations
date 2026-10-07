@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21218",
+  "type": "visual_novel",
+  "name": "Rad Science",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A freak failed science experiment turns Nick into a girl. Will he try to return to his previous form or embrace his new femininity?",
+  "source_sha256": "201234d93403c58f3eade57be63082a43e2c05580933f95ca2f313fdb7c15e09",
+  "translation": "一次离奇失败的科学实验让尼克变成了女孩。他会尝试恢复原来的形态，还是接受全新的女性身份？",
+  "vndb_url": "https://vndb.org/v21218"
+}

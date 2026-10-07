@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21280",
+  "type": "visual_novel",
+  "name": "Zero G. Academy",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a talented student from Earth, who has been given a chance to study in a prestigious Zero G. Academy. However, even though you have a very high opinion of yourself, the teachers and students in this institute of learning might not consider you the supreme being, based just on your word.",
+  "source_sha256": "000bef46a4b98d9c2544c277c9f4eddf9ef56d0a07037c85123f5a984299d554",
+  "translation": "你是一名来自地球的天才学生，获得了进入著名零重力学院学习的机会。然而，尽管你对自己评价极高，学院的教师和学生或许不会仅凭你的话就把你当成至高无上的存在。",
+  "vndb_url": "https://vndb.org/v21280"
+}

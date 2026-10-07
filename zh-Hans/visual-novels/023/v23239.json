@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23239",
+  "type": "visual_novel",
+  "name": "Doki Heika Banzai!",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A DDLC Mod That is a Comedy set in WW2 Imperial Japan.",
+  "source_sha256": "ee6c6fea4bd6945fb482a8014f61aa7701337def214ac848e5b2d3b6a5296785",
+  "translation": "一款以第二次世界大战时期日本帝国为背景的《心跳文学部》模组，类型为喜剧。",
+  "vndb_url": "https://vndb.org/v23239"
+}

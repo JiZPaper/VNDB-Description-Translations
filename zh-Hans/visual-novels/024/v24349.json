@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24349",
+  "type": "visual_novel",
+  "name": "MyWorstGift",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "MyWorstGift is a horror novel story for Android devices that will make you feel sad and scared.\nit is filled with horror thriller scary tale for fans whom like the suspense atmosphere, creepy background music and chilling sound effects.",
+  "source_sha256": "1f515e53b9408eb2df8ed179de04c62b917bb65c86b88071051d079da6f0400b",
+  "translation": "《我最糟糕的礼物》是一部面向安卓设备的恐怖小说故事，会让你悲伤又害怕，充满惊悚恐怖情节，适合喜欢悬疑的玩家。",
+  "vndb_url": "https://vndb.org/v24349"
+}

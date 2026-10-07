@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22376",
+  "type": "visual_novel",
+  "name": "Doubt ~Celeb wa Karei ni Uso o Tsuku~",
+  "original_name": "ダウト～セレブは華麗に嘘をつく～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're living a successful life as the student of a prestigious university. However, suddenly, your parents start looking for a man to engage you with! You have time from your third year to your graduation to find a lover who fits their tastes to avoid being matchmaked. What lies do these celebrities hide?",
+  "source_sha256": "495aa6a436dc56ae5a8532ec0f581bc5eb7e23ce57af5fef07cf6332ba3dc7f7",
+  "translation": "你作为名牌大学的学生，过着人人称羡的生活。然而，父母突然开始为你寻找订婚对象！从大三到毕业，你有时间找到符合他们心意的恋人，以免被安排相亲。\n\n这些名人究竟隐藏着怎样的谎言？",
+  "vndb_url": "https://vndb.org/v22376"
+}

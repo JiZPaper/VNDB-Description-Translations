@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21477",
+  "type": "visual_novel",
+  "name": "Coercion",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as a college guy trying to pass his last semester... but all the women in his life are making it hell!\n\nYou make a few decisions, find out a few secrets and take advantage where you can.",
+  "source_sha256": "20e7371f00aa025267cdda1447d43b65b824cb39ba5c6920ea594774550f20cb",
+  "translation": "你将扮演一名努力通过最后一个学期的大学男生……可生活中的所有女性都让日子变成地狱！\n\n作出几个决定，发现几个秘密，并在力所能及之处占便宜。",
+  "vndb_url": "https://vndb.org/v21477"
+}

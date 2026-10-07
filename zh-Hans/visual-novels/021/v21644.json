@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21644",
+  "type": "visual_novel",
+  "name": "Rewrite: Cradles Tale",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This game act as an epilogue to the anime's story and was released with the last DVD and Blu-ray Disc volume for the Rewrite anime.",
+  "source_sha256": "350e5551ad6e3a9efb47d5121c57ae5119c6dd96084d36d0942e09483a4c06b3",
+  "translation": "本作是动画故事的后日谈，与《Rewrite》动画最后一卷DVD和蓝光光盘一同发售。",
+  "vndb_url": "https://vndb.org/v21644"
+}

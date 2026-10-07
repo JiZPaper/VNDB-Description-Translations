@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25142",
+  "type": "visual_novel",
+  "name": "James: The Visual Novel",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A dating sim game based around James, who is also known as AmbushedOrange.",
+  "source_sha256": "854020b6acc42690d4b148ee7fa15e6bd91fde3f378ff496c58c933c1937e291",
+  "translation": "一款以詹姆斯（也被称为AmbushedOrange）为主角的恋爱模拟游戏。",
+  "vndb_url": "https://vndb.org/v25142"
+}

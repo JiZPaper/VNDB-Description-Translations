@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25220",
+  "type": "visual_novel",
+  "name": "You to Koisuru 90 Kakan",
+  "original_name": "Youと恋する90日間",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A dream-like story where you'll become the assistant of a Japanese Youtuber for 90 days! Will love blossom between the two of you...?",
+  "source_sha256": "6b7ef0e2a6264c06533bce0c4836b0102f053ddd324547e4628b5e91ebae9b8b",
+  "translation": "一段梦幻般的故事：你将成为一名日本YouTuber的助理，度过90天！你们之间会萌生爱情吗……？",
+  "vndb_url": "https://vndb.org/v25220"
+}

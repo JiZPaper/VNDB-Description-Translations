@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23450",
+  "type": "visual_novel",
+  "name": "Shogun-sama wa Otoshigoro Fandisc -Gosanke Da yo! Zen'in Shuugou-",
+  "original_name": "将軍様はお年頃 ふぁんでぃすく -御三家だヨ！ 全員集合-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is the fandisc for \"Shogun-sama wa Otoshigoro\" with after stories for each of the four heroines. There are also new routes for new character \"Tokugawa Mitsukuni\".",
+  "source_sha256": "4ed8d44a71181c87d8b2a45411e42c380332ac19b1459b37126027f70989e790",
+  "translation": "这是《将军大人正值妙龄》的粉丝碟，收录四位女主角的后日谈，并加入新角色德川光圀的新路线。",
+  "vndb_url": "https://vndb.org/v23450"
+}

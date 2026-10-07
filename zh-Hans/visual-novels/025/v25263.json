@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25263",
+  "type": "visual_novel",
+  "name": "be you",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Your character develops different personality types depending on your choices, so they respond uniquely to different situations. With around three different choices to make and three unique lines of dialogue for each of them there's around nine different texts you can see and six endings.\n\n[From [url=https://store.steampowered.com/app/997180/]Steam[/url]]",
+  "source_sha256": "8c86b4824eb87310759f0229c04607be3104a0f1b65cb0287a9c00fbba0c5482",
+  "translation": "你的角色会根据选择发展出不同人格，因此会以独特方式回应各种情境。游戏大约有3个不同选择，每个选择对应3句独特台词，总共能看到约9段不同文本，并迎来6个结局。\n\n[来源：[url=https://store.steampowered.com/app/997180/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v25263"
+}

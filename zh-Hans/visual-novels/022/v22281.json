@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22281",
+  "type": "visual_novel",
+  "name": "Our Fate",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You've just found out you may have a daughter somewhere, a girl you know nothing about.\nHow will you react, what decisions will you make?\n\n[From  [url=https://www.patreon.com/cedsense]Patreon[/url]]",
+  "source_sha256": "2b909004ece1bf5d97545f067292d5d965e52665f8f620c69b018aa413c97f96",
+  "translation": "你刚发现自己可能在某处有一个女儿，一个你一无所知的女孩。\n\n你会如何反应，又会作出什么决定？\n\n[来源：[url=https://www.patreon.com/cedsense]Patreon[/url]]",
+  "vndb_url": "https://vndb.org/v22281"
+}

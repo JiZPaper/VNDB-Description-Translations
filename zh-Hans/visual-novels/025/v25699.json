@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25699",
+  "type": "visual_novel",
+  "name": "Fata Morgana no Yakata - Ninkitouhyou 2",
+  "original_name": "ファタモルガーナの館 - 人気投票2",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Results of the 2015 character popularity contest from [url=http://vndb.org/v12402]Fata Morgana no Yakata[/url] in a minigame form!",
+  "source_sha256": "fe9eeaf044818a393ea60085695e74d5c3b7f865dc565c76af07ad5eba6d6b62",
+  "translation": "《海市蜃楼之馆》2015年角色人气投票的结果，以小游戏形式呈现！\n\n[来源：[url=http://vndb.org/v12402]VNDB[/url]]",
+  "vndb_url": "https://vndb.org/v25699"
+}

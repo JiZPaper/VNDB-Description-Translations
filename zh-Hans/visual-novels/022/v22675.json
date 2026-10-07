@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22675",
+  "type": "visual_novel",
+  "name": "Power Pro Kun Pocket",
+  "original_name": "パワプロクンポケット",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Spin-off of Konami's baseball game series Jikkyou Powerful Pro Yakyuu. Unlike the main series, it focuses on story and dating sim components.",
+  "source_sha256": "1a14962b59c134932ec44b4484337e4224bf5a5b44c3e4ba94c5fa2f110a8590",
+  "translation": "《实况野球君口袋》是Konami棒球游戏系列《实况力量职业棒球》的衍生作品。与主系列不同，本作更侧重剧情和恋爱模拟要素。",
+  "vndb_url": "https://vndb.org/v22675"
+}

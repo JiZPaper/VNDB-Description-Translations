@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25356",
+  "type": "visual_novel",
+  "name": "Angel Profile",
+  "original_name": "エンジェル・プロファイル",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A \"bishonen raising game\" in the vein of the Princess Maker franchise, the player becomes the \"mother\" of a prince who was cursed by a dragon to become a child. With the help of two tutors, the angel Michael and the devil Mephisto, you'll need to raise the child back to his original age... but what will become of him depends on you!",
+  "source_sha256": "d70f2a47f1050d6ab5b89621f104ef85c038c290170ec73cb9304e22daadad75",
+  "translation": "一款沿袭《美少女梦工厂》系列的“美少年养成游戏”。玩家将成为一名王子的“母亲”：王子被龙诅咒，变成了孩子。在天使米迦勒与恶魔梅菲斯特两名导师帮助下，你必须把孩子养回原本的年龄……但他最终会变成什么样，取决于你！",
+  "vndb_url": "https://vndb.org/v25356"
+}

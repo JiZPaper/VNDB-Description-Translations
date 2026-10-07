@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22363",
+  "type": "visual_novel",
+  "name": "Christmas Tale",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Christmas tale - it's a short choice-based visual novel about two days before Christmas.\n\nYou will decide which choice to make, hoping it somehow will change your life.\n\n[From [url=http://store.steampowered.com/app/765400/]Steam[/url]]",
+  "source_sha256": "5af333e8b6217c1af150a278ffaff0037ffcf2c8cca4d89b6df158bfcc4a4bc8",
+  "translation": "《圣诞故事》是一部以选择为核心、讲述圣诞节前两天的短篇视觉小说。\n\n你要作出选择，希望某个决定能以某种方式改变自己的人生。\n\n[来源：[url=http://store.steampowered.com/app/765400/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v22363"
+}

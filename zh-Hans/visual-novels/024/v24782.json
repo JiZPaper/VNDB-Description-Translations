@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v24782",
+  "type": "visual_novel",
+  "name": "Koi wa Sotto Saku Hana no You ni ~Futari wa Eien ni Yorisotte Iku~",
+  "original_name": "恋はそっと咲く花のように～二人は永遠に寄り添っていく～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fandisc for Koi wa Sotto Saku Hana no you ni, with after stories for each of the six heroines.",
+  "source_sha256": "6f5aa15669a7d7810b7028c0e3c4807f0dd8c6cef08993fbd562a5394cb000f2",
+  "translation": "《恋爱如悄然绽放的花》的同人碟，包含六名女主角各自的后日谈。",
+  "vndb_url": "https://vndb.org/v24782"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25474",
+  "type": "visual_novel",
+  "name": "Princess Tears",
+  "original_name": "プリンセスティアーズ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The hero is a girl swordsman Elsie Istari. \nBecause of the unavoidable circumstances, you will be forced to participate in a dangerous battle tournament in a big city. \nThe purpose of the game is to defend her chastity from perverts who are like mountains and escape from the city safely.",
+  "source_sha256": "1550767dd0ba84e380d1b3e5bf7c7f2b05e835cee6ef2d956d5484d48699418e",
+  "translation": "英雄是一名女剑士，名叫埃尔茜·伊斯塔里。\n由于不可避免的情况，你被迫参加大城市里危险的战斗锦标赛。\n游戏目标是守护她的贞操，抵御山一样多的变态，并安全逃出城市。",
+  "vndb_url": "https://vndb.org/v25474"
+}

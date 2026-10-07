@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21792",
+  "type": "visual_novel",
+  "name": "Gakuen Rensenki",
+  "original_name": "学園恋戦記",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An otome game based on the popular bonus drama CD of the Sangoku Rensenki series (also titled \"Gakuen Rensenki\").",
+  "source_sha256": "f58c7fd0b175dfc4f4035de6686411295525c82d5baf4d8d7ac189c65599e454",
+  "translation": "一款改编自人气附赠广播剧CD的乙女游戏，属于《三国恋战记》系列（也称《学园恋战记》）。",
+  "vndb_url": "https://vndb.org/v21792"
+}
