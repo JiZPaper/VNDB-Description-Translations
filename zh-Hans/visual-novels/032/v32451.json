@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32451",
+  "type": "visual_novel",
+  "name": "Limbo Line",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Welcome to SSL, one of Limbo's many offices! Taking control of our protagonist, Nine, you must serve your sentence by taking on support calls from denizens of the multiverse.\n\n[From [url=https://melancholy-marionette.itch.io/limbo-line]Itch.io[/url]]",
+  "source_sha256": "2337b8b3a6524b7fe0ca21fe37195e44a9ec8a0f2d9fc84fdef8ecbc2be940a3",
+  "translation": "欢迎来到SSL，这里是灵薄狱众多办事处之一！你将扮演主人公Nine，通过接听多元宇宙居民打来的求助电话，完成自己的刑期。\n\n[摘自[url=https://melancholy-marionette.itch.io/limbo-line]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v32451"
+}

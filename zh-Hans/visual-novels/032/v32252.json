@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32252",
+  "type": "visual_novel",
+  "name": "VT Harmony",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Play as VT, a lonely TV boy who seeks solitude until the sudden message from a strange bunny named IV.\n\n[From [url=https://yun-seven.itch.io/vt-harmony]itch.io[/url]]",
+  "source_sha256": "f35a3cc86f538b355a44c4017d874c0a1af26e23a35c55e589d6bfbdbe72c281",
+  "translation": "扮演VT，一位孤独、只想独处的电视少年。直到某天，一只名叫IV的古怪兔子，突然给他发来消息。\n\n[摘自[url=https://yun-seven.itch.io/vt-harmony]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v32252"
+}

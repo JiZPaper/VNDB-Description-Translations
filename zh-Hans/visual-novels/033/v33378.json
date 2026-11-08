@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33378",
+  "type": "visual_novel",
+  "name": "Assassin at Crimson Keep",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Assassin at Crimson Keep is a short visual novel set in a dark, quasi-fantasy world. After a botched assassination attempt, you pursue the King into his lair known as the Crimson Keep. Your small choices can have great consequences, either for good or for evil.",
+  "source_sha256": "e332506936de1872a44e6b721a92f0b9590bd7665a18eeff75ed9cd2cbe1febb",
+  "translation": "《Assassin at Crimson Keep》是一部短篇视觉小说，舞台是一个阴暗、略带奇幻色彩的世界。一次刺杀行动失败后，你追着国王来到他的巢穴“绯红堡垒”。微小的选择，也可能带来巨大的后果，无论是好是坏。",
+  "vndb_url": "https://vndb.org/v33378"
+}

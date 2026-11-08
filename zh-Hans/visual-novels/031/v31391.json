@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31391",
+  "type": "visual_novel",
+  "name": "Apathy - Arai Shouji",
+  "original_name": "アパシー荒井昭二",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Join Arai Shouji as he tells a different version of Bokujou Kitan.\n\nThis version of Bokujou Kitan is different from the one included in [url=https://vndb.org/v34196]Narunana[/url] and [url=https://vndb.org/v24563]Shinsei[/url] as this one has a branching scenario.",
+  "source_sha256": "fc184759a216fac878926e4d82bc9c81c04035fb2d0365874e7de8c09f0985f0",
+  "translation": "听荒井昭二，讲述另一个版本的《牧场奇谭》。\n\n本作的《牧场奇谭》，与[url=https://vndb.org/v34196]《鸣神学园七不思议》[/url]及[url=https://vndb.org/v24563]《新生》[/url]中收录的版本不同，采用了分支剧情。\n",
+  "vndb_url": "https://vndb.org/v31391"
+}

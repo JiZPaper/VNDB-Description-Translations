@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33427",
+  "type": "visual_novel",
+  "name": "Sleduj za chjornym kotikom",
+  "original_name": "Следуй за черным котиком",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You buy a laptop with your hands. You find an interactive collection of short stories on your laptop and something else. Or someone? What will all this lead to?\n\n[From [url=https://store.steampowered.com/app/1805390/]Steam[/url]]",
+  "source_sha256": "7dabc4a3ca6c4565808a51c26249ece15470a4c0763ffa518f1cca05566d7612",
+  "translation": "你买了一台二手笔记本电脑，在里面发现了一部可互动的短篇故事集，还有别的某样东西。或者说，某个人？这一切，究竟会通向何方？\n\n[摘自[url=https://store.steampowered.com/app/1805390/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v33427"
+}

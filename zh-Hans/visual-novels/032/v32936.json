@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32936",
+  "type": "visual_novel",
+  "name": "Endgames : Persistence",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An omake set within the Endgames MMORPG, bridging between chapter 11 and chapter 12 of Megatokyo.\n\n[Edited from [url=https://wikitokyo.org/wiki/Endgames_:_Persistence]Wikitokyo[/url]]",
+  "source_sha256": "6f1e0d2760edc4a4088b04074613c1804e3004f7e0a775b48ff2d96344eb457c",
+  "translation": "以大型多人在线角色扮演游戏《Endgames》的世界为舞台的番外篇，衔接《Megatokyo》第11章与第12章之间的故事。\n\n[编译自[url=https://wikitokyo.org/wiki/Endgames_:_Persistence]Wikitokyo[/url]]",
+  "vndb_url": "https://vndb.org/v32936"
+}

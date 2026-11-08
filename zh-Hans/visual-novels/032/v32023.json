@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32023",
+  "type": "visual_novel",
+  "name": "More Than Just a Kiss",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "It's your first day in Atleos, and when you go out for a night on the town, nothing goes as planned. Luckily, a handsome stranger shows up to give you a tour of the island you won't soon forget.",
+  "source_sha256": "acca5c8297ef67ea5777a02bec98b695fe9050617101bcd281cc761bdf0837c9",
+  "translation": "这是你来到Atleos的第一天。夜里，你出门感受当地的夜生活，却发现一切都不按计划发展。幸好，一位英俊的陌生人出现了，要带你进行一场令人久久难忘的海岛之旅。",
+  "vndb_url": "https://vndb.org/v32023"
+}

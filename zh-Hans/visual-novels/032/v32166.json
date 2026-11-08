@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32166",
+  "type": "visual_novel",
+  "name": "Konran;Zanki",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fujita Anju finds herself trapped in an unfamiliar location with several other people.\nAs their memory loss, as well as the ominous situation, seems to indicate that \nsomething wrong is going on, a weird cubic creature named Dokuroku appears \nwith the intention to hack into their Prisms, a daily-use microchip implanted in the ear at birth, in order to intrude their memories and retrieve a key element that has been lost in a foggy past.",
+  "source_sha256": "efcf6beb7d4e23ee1a6a77e301ab29539a1a51dbc28cd629649163e72f8dbc05",
+  "translation": "Fujita Anju发现，自己与其他几个人一起，被困在一个陌生的地方。\n众人的失忆，加上不祥的处境，都表明有哪里不对劲。此时，一个名叫Dokuroku的古怪立方体生物出现了。它打算入侵他们的“棱镜”，那是一种出生时便植入耳中的日用微芯片。它想借此侵入他们的记忆，找回一项遗失在模糊往昔中的关键要素。",
+  "vndb_url": "https://vndb.org/v32166"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31774",
+  "type": "visual_novel",
+  "name": "The Question",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"Carrie has been crushing on Hamza for what feels like forever. When she finally gets the chance to talk to him one-on-one, will things go the way she's always dreamed?\n\nA short, mostly kinetic visual novel about romance and unexpected confessions. Made in one day for the Nonbinary Game Jam. \n\nContains discussion of dysphoria.\" From Itch.io game page",
+  "source_sha256": "8b7d940b83fc71544ac35966ae3eb44781752f142f79adb65a39489c7629965a",
+  "translation": "卡丽暗恋哈姆扎，仿佛已经有一辈子那么久。终于有机会，与他单独交谈时，事情能否像她一直梦想的那样发展？\n\n一部关于恋爱与意外告白的短篇视觉小说，主要采用无分支叙事。作品为Nonbinary Game Jam，在一天内制作完成。\n\n包含对性别焦虑的讨论。\n\n[摘自itch.io游戏页面]",
+  "vndb_url": "https://vndb.org/v31774"
+}

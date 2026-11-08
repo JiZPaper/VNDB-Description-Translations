@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32066",
+  "type": "visual_novel",
+  "name": "Prototype Mint B",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You have just received a file containing an AI fresh out of the digital oven and ready for its final phase of testing.\n\nThe company you work for is awaiting your judgement on whether this little pile of data should continue on to the next step.\n\n[From [url=https://alva-radio.itch.io/prototypemintb]Itch.io[/url]]",
+  "source_sha256": "7c868851715f7e6f878fdd497be63f398f4b46f6c8bba20029ba4e0f6a5afcd5",
+  "translation": "你刚收到一个文件，里面装着一套新鲜出炉的人工智能，即将进入最后的测试阶段。\n\n你供职的公司正等待你的判断，决定这小小的一团数据是否应该进入下一阶段。\n\n[摘自[url=https://alva-radio.itch.io/prototypemintb]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v32066"
+}

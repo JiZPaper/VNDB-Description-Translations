@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31442",
+  "type": "visual_novel",
+  "name": "Ensemble Girls!",
+  "original_name": "あんさんぶるガールズ！",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Kimisaki Academy is a prestigious all-girls school. Though, in the coming academic year, it's planned to become a coeducational academy. The player, a new transfer student, is the first male student to be enrolled. It's his job to help make school life fun and exciting for everyone at Kimisaki Academy.",
+  "source_sha256": "0e061cdb26d777c376508a34dcc165eace419634580313f471701a24f909696f",
+  "translation": "君咲学院是一所声名卓著的女子学校，计划在即将到来的新学年，改为男女合校。玩家作为新转入的学生，是这里招收的第一名男生。他的任务，就是让君咲学院每个人的校园生活，都变得有趣而精彩。",
+  "vndb_url": "https://vndb.org/v31442"
+}

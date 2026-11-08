@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33080",
+  "type": "visual_novel",
+  "name": "yurisprudence: whispers from the local library",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An epistolary romance about two law students.\n\nWhether it's more about yuri or jurists is open to discussion in the existing doctrine.\n\n[From [url=https://mlkrn.itch.io/yurisprudence]itch.io[/url]]",
+  "source_sha256": "e7090fc9f7d3a4448064a1076e328e878304da8f3996f8c9221a1e49bae5c33b",
+  "translation": "一部讲述两名法学生之间爱情的书信体作品。\n\n究竟更侧重百合，还是更侧重法学家，现有学说对此尚有争议。\n\n[摘自[url=https://mlkrn.itch.io/yurisprudence]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v33080"
+}

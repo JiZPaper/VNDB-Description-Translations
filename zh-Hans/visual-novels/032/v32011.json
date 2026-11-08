@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32011",
+  "type": "visual_novel",
+  "name": "Seeing Red",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You know you're going to die... and then your world turns red. Being a vampire isn't what you expected... You need to learn fast and trust no one. You're still being hunted.",
+  "source_sha256": "68f463b6efe90aa70c0be40b25d31cc3a8d4cca1f7bba1809510e2afe53e7619",
+  "translation": "你知道自己就要死了……随后，你的世界染上了一片血红。吸血鬼的生活与你想象的截然不同……你必须尽快学会生存，谁也不能相信。追杀你的人仍未罢休。",
+  "vndb_url": "https://vndb.org/v32011"
+}

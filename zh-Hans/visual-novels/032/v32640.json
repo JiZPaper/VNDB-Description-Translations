@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32640",
+  "type": "visual_novel",
+  "name": "Solar Memory",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a remake of [url=/v32638]Solar Power[/url].\nThe ending is the same but about a year was spent to revise the game based on feedback.",
+  "source_sha256": "765cba10877aeac49fcef5f5252ee477c0086ce126b7c24ed2c2ddaa941e2d95",
+  "translation": "本作是[url=/v32638]《Solar Power》[/url]的重制版。\n结局与原版相同，但根据玩家反馈，花费了约一年时间进行修改。",
+  "vndb_url": "https://vndb.org/v32640"
+}

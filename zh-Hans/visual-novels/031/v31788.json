@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31788",
+  "type": "visual_novel",
+  "name": "A New Dawn",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "While leaving Sinnoh for no particular reason, meet a cute girl headed for the same destination. With nothing better to do, share the cruise together and maybe learn a thing or two from each other.\n\nAmateur lovey dovey visual novel for those with a love for Dawn.",
+  "source_sha256": "f3ff44d364391cfaeac48bebbee599fb06c1d4d84b7c1f0bb94b2a60dd7e4d63",
+  "translation": "没有什么特别的理由，你离开了神奥地区，途中，遇见了一位与你前往同一目的地的可爱女孩。既然也没别的事，不如一起度过这段海上旅程，或许，还能从彼此身上学到些什么。\n\n一部为喜爱小光的玩家制作甜甜蜜蜜的业余视觉小说。",
+  "vndb_url": "https://vndb.org/v31788"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31259",
+  "type": "visual_novel",
+  "name": "7Days",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A number of dead spirits have been assigned to an interactive fiction test. Successfully completing the interactive story test ensures they will be resurrected. The messenger of death has assigned them each a task. They must attack one another or work together to solve mystery and complete their tasks. Your character, Kirell, must also complete the choice based games task she has been assigned. But her tasks requires her to be the decision maker for others die.",
+  "source_sha256": "07c3adcd95ec497ed13fb2c0d5b3f8be80941a78a39508755da34c2dee2bfcc7",
+  "translation": "一群亡灵被安排参加一场互动故事试炼。只要顺利完成试炼，就能复活。死神的使者为每个人分配了任务。他们必须互相攻击，或携手合作，破解谜团，完成各自的任务。你扮演的奇睿尔，也必须通过选择完成自己的试炼。可她的任务，却要求她决定其他人的死亡。",
+  "vndb_url": "https://vndb.org/v31259"
+}

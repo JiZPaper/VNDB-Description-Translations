@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32743",
+  "type": "visual_novel",
+  "name": "Black Tarot",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Gambles of lives have been made throughout the years. Contracts between tarot decks and people who wished for something would see themselves having their souls trapped in the cards, becoming the cards themselves, their bodies left on Earth, but nowhere to be seen. Used and abused, they no longer believe in promises made by others. Will you be their last hope? Or their final nightmare?\n\n[From the [url=https://www.dulcetgames.com/blacktarot]official website[/url]]",
+  "source_sha256": "304fc4327589d5df10b8c4416a153458e9d2a4b22832a371b6471885e4d3022f",
+  "translation": "多年来，人们不断以生命为赌注。为了实现愿望，他们与塔罗牌组缔结契约，灵魂却被困进牌中，成为卡牌本身。肉体虽然留在人间，却再也无处可寻。饱受利用与虐待的他们，早已不再相信别人的承诺。你会成为他们最后的希望，还是最后的噩梦？\n\n[摘自[url=https://www.dulcetgames.com/blacktarot]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v32743"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32229",
+  "type": "visual_novel",
+  "name": "Birushana Senki ~Ichiju no Kaze~",
+  "original_name": "ビルシャナ戦姫 ～一樹の風～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is the fandisc of Birushana: Rising Flower of Genpei, includes “sweet” after stories that took place after the best endings of each main route, as well as new routes of the sub-characters.",
+  "source_sha256": "e434c2777b66b35f5cdbcf757b94d31d08212906e3072a03923ba408b5a33268",
+  "translation": "《毗卢遮那战姬～源平飞花梦想～》的Fan Disc，收录了各条主线最佳结局之后的“甜蜜”后日谈，以及配角们的全新路线。",
+  "vndb_url": "https://vndb.org/v32229"
+}

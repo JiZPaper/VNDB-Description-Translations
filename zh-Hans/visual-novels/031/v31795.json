@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31795",
+  "type": "visual_novel",
+  "name": "Lady Blue",
+  "original_name": "レディ・ブルー",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "It's Valentine's Day and you're spending it with your cheerful girlfriend! Why is she acting different from usual, though?",
+  "source_sha256": "7ff3759226f1d955f3fd3385375db9e26354b22f38887a6043bca9dbd0037c99",
+  "translation": "情人节，你正与开朗的女友一起度过！不过，她为什么和平时有些不一样？",
+  "vndb_url": "https://vndb.org/v31795"
+}

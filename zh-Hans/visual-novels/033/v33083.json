@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33083",
+  "type": "visual_novel",
+  "name": "Maia",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Ruby video calls her girlfriend Maia. They haven't talked in awhile.",
+  "source_sha256": "3f563bb11b95a6f7ac17358b01abafdc4b9ced41562d542fbffd2f3ff0d9c40b",
+  "translation": "露比与女友玛雅接通了视频。她们已经有一阵子没聊过了。",
+  "vndb_url": "https://vndb.org/v33083"
+}

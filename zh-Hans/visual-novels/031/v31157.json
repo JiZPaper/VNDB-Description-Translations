@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31157",
+  "type": "visual_novel",
+  "name": "Higurashi no Naku Koro ni: Console Arcs",
+  "original_name": "ひぐらしのなく頃に: Console Arcs",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This entry is only concerned with the original content featured in the console exclusive releases of the Higurashi series, known as 'Matsuri', 'Kizuna' and 'Sui':\n\nMatsuri:\n• Taraimawashi-hen\n• Tsukiotoshi-hen\n• Miotsukushi-hen (only what mostly corresponds to the content later labeled in Sui and on as \"Miotsukushi Omote\")\n\nKizuna:\n• Someutsushi-hen (Kizuna 1)\n• Kageboushi-hen (Kizuna 2)\n• Hirukowashi-hen (Kizuna 2; was rewritten for this version, namely the addition and removal of certain characters and removal of references to plot details not yet revealed in the Kizuna series.)\n• Yoigoshi-hen (Kizuna 3)\n• Tokihogushi-hen (Kizuna 3)\n• Kotohogushi-hen (Kizuna 4)\n• Miotsukushi-hen (Kizuna 4; for the most part, only the content later labeled in Sui and on as \"Miotsukushi Ura\" is new to this release, but it also includes \"Omote\" content, albeit with some changes)\n\nSui:\n• Hajisarashi-hen",
+  "source_sha256": "64e7d4a1147f8ee495339ae832fc1a66b394673161dbf07e08c13de8df354074",
+  "translation": "本条目仅涵盖《寒蝉鸣泣之时》系列家用机独占版本《祭》《绊》与《粹》中收录的原创内容。\n\n《祭》\n·盥回篇\n·凭落篇\n·澪尽篇（仅包含大致对应后来在《粹》及后续版本中标记为“澪尽篇·表”的内容）\n\n《绊》\n·染传篇（《绊》第一卷）\n·影纺篇（《绊》第二卷）\n·昼坏篇（《绊》第二卷。本篇在该版本中经过改写，主要调整为增删部分角色，以及删去涉及《绊》系列尚未揭晓剧情细节的内容。）\n·宵越篇（《绊》第三卷）\n·解结篇（《绊》第三卷）\n·言祝篇（《绊》第四卷）\n·澪尽篇（《绊》第四卷。该版本新增内容大多仅限于后来在《粹》及后续版本中标记为“澪尽篇·里”的部分，不过也包含经过部分修改的“表”篇内容。）\n\n《粹》\n·羞晒篇",
+  "vndb_url": "https://vndb.org/v31157"
+}

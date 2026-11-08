@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32046",
+  "type": "visual_novel",
+  "name": "The King's Matchmaker",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A letter arrives asking you to serve as the king's matchmaker. You immediately say yes. Arriving at the castle, you are greeted by a handsome prince and you can't help but wonder what might happen...",
+  "source_sha256": "fc8302d815440fa59958d4d18f70f9cd2876961616487e45238382be81a25a14",
+  "translation": "你收到一封信，邀请你担任国王的媒人。你立刻答应了。抵达城堡后，一位英俊的王子前来迎接，让你不禁开始遐想，接下来究竟会发生什么……",
+  "vndb_url": "https://vndb.org/v32046"
+}

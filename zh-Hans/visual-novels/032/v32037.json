@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32037",
+  "type": "visual_novel",
+  "name": "Paige no Jikenbo",
+  "original_name": "ペイジの事件簿",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A rookie cop has been taken off the case of her friend's murder. In order to solve the mystery, she joins forces with an investigator... an AI. By solving the puzzles with the investigator, she discovers the origin and reason of the AI's creation. Will you be able to select the path that leads to the truth?",
+  "source_sha256": "a4ec329335bff6d8cdc03de327998fe64e52ff6b8d61313b94c910fe802837f3",
+  "translation": "一名新人女警被调离了好友遇害案的调查工作。为了解开谜团，她与一位调查员联手……而对方竟是人工智能。在与这位调查员一同破解谜题的过程中，她逐渐发现了这个人工智能的来历，以及它被创造出来的原因。你能选出通向真相的道路吗？",
+  "vndb_url": "https://vndb.org/v32037"
+}

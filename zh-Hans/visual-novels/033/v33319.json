@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33319",
+  "type": "visual_novel",
+  "name": "One-Hit Wonder",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short visual novel for Game Boy written in Catalan language, the first of its kind.\nOur protagonist joins a young man called Ismael in his nocturnal journey through a cyberpunk Barcelona... and down memory lane.",
+  "source_sha256": "57000d486cd0f79da9b9b6e8cc94d5b983ab12aa48627bdd46f53cac66749683",
+  "translation": "第一部以加泰罗尼亚语创作的Game Boy短篇视觉小说。\n主人公与名叫伊斯梅尔的青年结伴，在赛博朋克风格的巴塞罗那展开一段夜间旅程，也一同走进回忆。",
+  "vndb_url": "https://vndb.org/v33319"
+}

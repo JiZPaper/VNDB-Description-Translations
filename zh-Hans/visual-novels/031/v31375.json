@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31375",
+  "type": "visual_novel",
+  "name": "Underworld Office",
+  "original_name": "언더월드오피스",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The main character is Eugene who accidentally falls into the world of ghosts and almost gets killed by monsters. A mysterious ghost saves Eugene and demands him to work at the Underworld Office in return…",
+  "source_sha256": "b9877627f16957d22ddf5db7352d9391a1fddd89dce459367ca2f8047610e149",
+  "translation": "主角尤金意外落入幽灵的世界，险些被怪物杀死。一位神秘的幽灵救了他，却要求他到幽灵事务所工作，以此作为回报……",
+  "vndb_url": "https://vndb.org/v31375"
+}

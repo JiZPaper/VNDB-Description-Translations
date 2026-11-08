@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32267",
+  "type": "visual_novel",
+  "name": "Yoru no Rojiura Annai",
+  "original_name": "夜の路地裏案内",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "On Christmas Eve, a girl got lost in an alley. Her only guide is a homeless dog. Help her go through all the circles of hell to get to the main street. But remember that in the alley, everything is not what it seems at first glance!",
+  "source_sha256": "0296a9cd48843ae005389c0575a71472a8aa9533f76e5348fc60d87e7f940b33",
+  "translation": "平安夜，一个女孩在小巷中迷了路。唯一能为她引路的，是一只流浪狗。帮助她穿过重重地狱，回到大街上吧。但请记住，在这条巷子里，一切都不像乍看之下那么简单！",
+  "vndb_url": "https://vndb.org/v32267"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32254",
+  "type": "visual_novel",
+  "name": "Poopinteetha's Domain",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Experience an encounter with the Urban Legend Poopinteetha. She will visit you at 3AM if you lose as Palutena three times in a row in Super Smash Bros.\nCan you survive?\n\n[From [url=https://bagelo-masterson.itch.io/poopinteetha]Itch.io[/url]]",
+  "source_sha256": "f66c849e481a1ca95d616d760e58a3777e82623349bc3d1654cfde6f0873c903",
+  "translation": "亲身遭遇都市传说中的Poopinteetha。如果你在《任天堂明星大乱斗》中使用帕露蒂娜连续输掉三场，她就会在凌晨三点来找你。\n你能活下来吗？\n\n[摘自[url=https://bagelo-masterson.itch.io/poopinteetha]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v32254"
+}

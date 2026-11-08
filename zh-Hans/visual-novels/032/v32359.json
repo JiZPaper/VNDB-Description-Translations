@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32359",
+  "type": "visual_novel",
+  "name": "Feathers",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A young harpy has too many feathers and, possibly, too many friends...",
+  "source_sha256": "ce74a08a1818ce0e7463fb890a037f37437451778c00e942dd12ea981f20e437",
+  "translation": "一只年轻的鹰身女妖有着太多羽毛，而她的朋友，或许也太多了……",
+  "vndb_url": "https://vndb.org/v32359"
+}

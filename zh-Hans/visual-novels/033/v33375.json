@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33375",
+  "type": "visual_novel",
+  "name": "Sennai ni Nazo no Seimei Hannou Ari! 2",
+  "original_name": "船内に謎の生命反応アリ!2",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Two female members of the space police receive an SOS signal coming from an old, rusted freighter.\nAs they investigate the strange noise that fills the ship, they see...​",
+  "source_sha256": "c9c242e23a87b16704e759b3abcbb7372a76cea586689f91dceeefe31f8af3c2",
+  "translation": "两名太空警察女队员，收到一艘锈迹斑斑的老旧货船发出的求救信号。\n调查弥漫整艘船的怪声时，她们看见了……",
+  "vndb_url": "https://vndb.org/v33375"
+}

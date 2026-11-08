@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32751",
+  "type": "visual_novel",
+  "name": "The Devils - A Visual Novel Of WWII",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The Devils is a horror story based on actual events at the end of WWII. Two Japanese soldiers struggle to make it through a deadly island swamp as the unforgivable sins of their less honorable Japanese soldier comrades come back to exact their bloody revenge.\n\nBased on the comic series from ROKiT Comics.",
+  "source_sha256": "b0c9fd2204c0b71631c30b1ce7339f10356bdcaef4a2fe80046d5e32aedaf2af",
+  "translation": "《The Devils》是一则根据第二次世界大战末期真实事件改编的恐怖故事。两名日本士兵挣扎着穿越一座海岛上致命的沼泽，而那些品行更为卑劣的日军同僚犯下的不可饶恕之罪，正回来索取血腥的报应。\n\n根据ROKiT Comics的同名漫画系列改编。",
+  "vndb_url": "https://vndb.org/v32751"
+}

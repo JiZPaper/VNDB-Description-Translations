@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32360",
+  "type": "visual_novel",
+  "name": "Tech and Blood",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A very short cyberpunk story that follows Gwen (a new cyborg recruit) and Liam (an experienced detective from the homicide department) during an homicide investigation.",
+  "source_sha256": "f34db4534316e14e78afd8b753adfb089686a928fd628e7a6657f66165f74311",
+  "translation": "一则极短篇赛博朋克故事，讲述新入职的半机械人格温与凶杀组的资深警探利亚姆共同调查一宗凶杀案的经历。",
+  "vndb_url": "https://vndb.org/v32360"
+}

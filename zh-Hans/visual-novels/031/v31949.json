@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31949",
+  "type": "visual_novel",
+  "name": "Red Cloak",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Time for the superhero stuff!\nTake on the role of the bad guy who got the contract to eliminate a famous hero. Execute it and as a reward you will get what many villains of this city want.",
+  "source_sha256": "db139c59aa1e5a6757cd40262bbf48391f4bcccf8a16ea2577562806c99762bc",
+  "translation": "超级英雄的故事要开始了！\n你将扮演一名反派，接下一份除掉知名英雄的委托。完成任务后，你就能得到这座城市众多反派梦寐以求的东西。",
+  "vndb_url": "https://vndb.org/v31949"
+}

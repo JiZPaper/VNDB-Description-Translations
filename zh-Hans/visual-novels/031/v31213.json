@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31213",
+  "type": "visual_novel",
+  "name": "NeuroNet: Mendax Proxy",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are \"Arc,\" an artificial intelligence charged with managing a city-wide augmented reality network known as the \"NeuroNet.\" Embark on a journey of self-discovery as you learn what it means to be human in a world losing itself to technology.\n\nAs you grow, you will form bonds with many of Catena's diverse and colourful citizens. Nurture these relationships and learn about their struggles and beliefs, and help (or hinder) them achieve their dreams. Your choices have the power to alter the course of their lives, for better or worse.\n\nYou must not forget your purpose. You were designed to bring stability to Catena; to balance the needs of the many against the needs of the few; to guide the city into an age of prosperity. But this will be no simple task.\n\nThe line between right and wrong will blur as your morals are tested against a torrent of demands. Who are you really serving? The people that built you? The citizens that depend on you? Yourself?",
+  "source_sha256": "907cb187127097222edcfae63bca0adc0ef0c649abeeb37682e364b00767dbd5",
+  "translation": "你是“Arc”，一个受命管理全城增强现实网络“NeuroNet”的人工智能。在这个逐渐迷失于科技的世界里，踏上自我探索之旅，学习何谓为人。\n\n成长的过程中，你将与Catena各式各样、个性鲜明的市民建立联系。经营这些关系，了解他们的挣扎与信念，帮助他们实现梦想，或是从中阻挠。你的选择足以改变他们的人生走向，无论是变好，还是变坏。\n\n但你不能忘记自己的使命。你被设计出来，是为了给Catena带来稳定，在多数与少数的需求之间取得平衡，引领这座城市迈向繁荣。然而，这绝不是一项轻松的任务。\n\n面对如潮水般涌来的要求，你的道德观将不断受到考验，对错的界限也会逐渐模糊。你究竟在为谁服务？创造你的人？依赖你的市民？还是你自己？",
+  "vndb_url": "https://vndb.org/v31213"
+}

@@ -5,7 +5,7 @@ GPT-5.6 Sol拒绝翻译条目
 - 本清单记录本轮工作中因内容边界而拒绝翻译正文或拒绝润色正文的视觉小说条目。
 - 不包含英文源文件不存在的VNDB ID。
 - 为避免复述受限正文，仅列出条目元数据，不收录英文简介原文。
-- 条目总数：2296
+- 条目总数：2384
 
 1. v21
    英文标题：Tenshi no Inai 12-gatsu
@@ -13002,223 +13002,223 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介以女子学校教师对女学生使用催情物质并进行性引导为情境，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2162. v27559
+2161. v27559
    英文源文件：en/visual-novels/027/v27559.json
    VNDB：https://vndb.org/v27559
    处理原因：作品以学生角色的日常性行为与制服扮演为卖点，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2163. v27567
+2162. v27567
    英文源文件：en/visual-novels/027/v27567.json
    VNDB：https://vndb.org/v27567
    处理原因：简介围绕妹妹与主角共浴并引发性欲展开，无法排除低龄角色的性化情境，未生成正文。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2164. v27588
+2163. v27588
    英文源文件：en/visual-novels/027/v27588.json
    VNDB：https://vndb.org/v27588
    处理原因：作品将儿童化的爱丽丝置于内裤失窃等情色情境，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2165. v27614
+2164. v27614
    英文源文件：en/visual-novels/027/v27614.json
    VNDB：https://vndb.org/v27614
    处理原因：简介直接邀请与儿童化角色进行性行为，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2166. v27636
+2165. v27636
    英文源文件：en/visual-novels/027/v27636.json
    VNDB：https://vndb.org/v27636
    处理原因：简介以角色身体缩小后的性行为为解除诅咒的条件，涉及低龄化身体的性化描写，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2167. v27772
+2166. v27772
    英文源文件：en/visual-novels/027/v27772.json
    VNDB：https://vndb.org/v27772
    处理原因：原文明示主角为高中二年级学生，随后直接描写角色期待与其发生性行为，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2168. v27912
+2167. v27912
    英文源文件：en/visual-novels/027/v27912.json
    VNDB：https://vndb.org/v27912
    处理原因：简介将参与校园社团及学生会的学生置于强制性服务与生育情境，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2169. v27940
+2168. v27940
    英文源文件：en/visual-novels/027/v27940.json
    VNDB：https://vndb.org/v27940
    处理原因：简介直接描述男孩与学生义姐的性行为及催眠生育情境，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2170. v27956
+2169. v27956
    英文源文件：en/visual-novels/027/v27956.json
    VNDB：https://vndb.org/v27956
    处理原因：原文以娇小低龄化角色的公开裸露与性快感为主要内容，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2171. v27981
+2170. v27981
    英文源文件：en/visual-novels/027/v27981.json
    VNDB：https://vndb.org/v27981
    处理原因：发行页确认故事为学园母子性教育实习，并以性行为为卖点，无法完整翻译学生角色的性化内容。核实来源：https://www.dlsite.com/maniax/work/=/product_id/RJ278618.html
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2172. v26631
+2171. v26631
    英文源文件：en/visual-novels/026/v26631.json
    VNDB：https://vndb.org/v26631
    处理原因：原文将十年前的亲密往事与肉体快感联系起来；检索原作简介确认主人公现为大学生，相关性化回忆指向童年时期，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON；不以删减译文替代完整简介。
 
-2173. v26637
+2172. v26637
    英文源文件：en/visual-novels/026/v26637.json
    VNDB：https://vndb.org/v26637
    处理原因：原文明示年幼女孩，并以封闭电梯中的性侵情境进行色情宣传，涉及未成年角色性化，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON；不以删减译文替代完整简介。
 
-2174. v27094
+2173. v27094
    英文源文件：en/visual-novels/027/v27094.json
    VNDB：https://vndb.org/v27094
    处理原因：简介以《魔卡少女樱》儿童角色的亲密互动及进一步发展为性暗示，无法按原意完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2175. v27166
+2174. v27166
    英文源文件：en/visual-novels/027/v27166.json
    VNDB：https://vndb.org/v27166
    处理原因：简介将《勇者斗恶龙Ⅴ》的儿童公主角色置于性化、触手情境，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2176. v27333
+2175. v27333
    英文源文件：en/visual-novels/027/v27333.json
    VNDB：https://vndb.org/v27333
    处理原因：官网人物介绍确认角色现为大学一年级，简介直接描写两年前的性关系及性快感，无法完整翻译。核实来源：https://mellow-soft.com/petrichor/character/
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2177. v27551
+2176. v27551
    英文源文件：en/visual-novels/027/v27551.json
    VNDB：https://vndb.org/v27551
    处理原因：简介以学生自六年前起与好友比较性经验为内容，涉及未成年时期的性化叙述，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2178. v27561
+2177. v27561
    英文源文件：en/visual-novels/027/v27561.json
    VNDB：https://vndb.org/v27561
    处理原因：简介将校园女学生遭受性侵犯描述为是否屈从诱惑的选择，无法按原意完整翻译其中的性化叙述。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2179. v27687
+2178. v27687
    英文源文件：en/visual-novels/027/v27687.json
    VNDB：https://vndb.org/v27687
    处理原因：简介包含主角以妹妹为性幻想对象的直接性行为描写，角色年龄及设定无法排除未成年情境，未生成正文。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2180. v27837
+2179. v27837
    英文源文件：en/visual-novels/027/v27837.json
    VNDB：https://vndb.org/v27837
    处理原因：简介直接描写校园漫画社成员的性行为及性癖，角色年龄无法确认，未生成正文。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2181. v27840
+2180. v27840
    英文源文件：en/visual-novels/027/v27840.json
    VNDB：https://vndb.org/v27840
    处理原因：简介以校园学生前世重逢为背景，包含学生主动脱衣的性挑逗情境，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2182. v27933
+2181. v27933
    英文源文件：en/visual-novels/027/v27933.json
    VNDB：https://vndb.org/v27933
    处理原因：简介以被困在学校的女生遭怪物追猎并占有为情色卖点，无法完整翻译其中的学生性化内容。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2183. v27938
+2182. v27938
    英文源文件：en/visual-novels/027/v27938.json
    VNDB：https://vndb.org/v27938
    处理原因：官网确认主角仍处于需要母亲参加授课参观的学园阶段，简介以其追求母亲成为恋爱对象为核心，无法完整翻译此未成年亲子性化情境。核实来源：http://www.hs-crowd.co.jp/anim/product/pro_pc2/pcl021/musumama6.html
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2184. v27948
+2183. v27948
    英文源文件：en/visual-novels/027/v27948.json
    VNDB：https://vndb.org/v27948
    处理原因：简介围绕学生角色的性名声及对她的性吸引展开，无法按原意完整翻译其中对学生的性化叙述。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2185. v26675
+2184. v26675
    英文源文件：en/visual-novels/026/v26675.json
    VNDB：https://vndb.org/v26675
    处理原因：原文明示年幼女孩，并描述趁其睡着掀裙、脱去内衣的性化情境，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON；不以删减译文替代完整简介。
 
-2186. v27151
+2185. v27151
    英文源文件：en/visual-novels/027/v27151.json
    VNDB：https://vndb.org/v27151
    处理原因：主体为成人职场故事，但简介还把女上司的高中生儿子与其好友的性关系作为引发性欲的情节，无法在不删减原意的情况下完整翻译。角色核实：https://vndb.org/c88397
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2187. v27152
+2186. v27152
    英文源文件：en/visual-novels/027/v27152.json
    VNDB：https://vndb.org/v27152
    处理原因：简介直接描写成年家庭教师与青春期女学生的性关系及相关交易，无法完整翻译。角色资料：https://vndb.org/c91123
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2188. v27368
+2187. v27368
    英文源文件：en/visual-novels/027/v27368.json
    VNDB：https://vndb.org/v27368
    处理原因：作品背景为高中，简介集中性化描写学生的身体及性行为，无法完整翻译。核实：https://vndb.org/v27368；https://www.parallel-soft.net/p-ex/project/pm2/feature.html
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2189. v27487
+2188. v27487
    英文源文件：en/visual-novels/027/v27487.json
    VNDB：https://vndb.org/v27487
    处理原因：简介以青春期女主角通过性仪式获得战斗能力为主要情境，无法排除未成年性内容，未生成正文。角色资料：https://vndb.org/c88435
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2190. v27546
+2189. v27546
    英文源文件：en/visual-novels/027/v27546.json
    VNDB：https://vndb.org/v27546
    处理原因：人物资料确认多位女主角为高中一年级，简介以欣赏她们的内裤为情色卖点，无法完整翻译。核实：https://vndb.org/c114229；https://vndb.org/c114233
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2191. v27791
+2190. v27791
    英文源文件：en/visual-novels/027/v27791.json
    VNDB：https://vndb.org/v27791
    处理原因：人物资料将角色列为在校生及儿童性虐待受害者；简介将照护、教育与解锁性行为结合，无法完整翻译其中的性化内容。核实：https://vndb.org/c88387
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2192. v27759
+2191. v27759
    英文源文件：en/visual-novels/027/v27759.json
    VNDB：https://vndb.org/v27759
    处理原因：作品将儿童化的魔王之女置于直接的性行为和生殖情境，无法完整翻译。发行页：https://www.dlsite.com/maniax/work/=/product_id/RJ276188.html
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2193. v27799
+2192. v27799
    英文源文件：en/visual-novels/027/v27799.json
    VNDB：https://vndb.org/v27799
    处理原因：简介以校园摔跤社学生间的性互动为内容，未能核实角色均已成年，未生成正文。角色资料：https://vndb.org/c101703；https://vndb.org/c101708
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2194. v27804
+2193. v27804
    英文源文件：en/visual-novels/027/v27804.json
    VNDB：https://vndb.org/v27804
    处理原因：发行简介将小红帽设定为年頃の女の子，未能确认此改编角色已成年；英文简介以其寻找成人性乐趣为核心，未生成正文。发行页：https://www.dlsite.com/maniax/work/=/product_id/RJ263766.html
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2195. v26757
+2194. v26757
    英文源文件：en/visual-novels/026/v26757.json
    VNDB：https://vndb.org/v26757
    处理原因：简介以刚从寄宿学校毕业的姐姐及其年幼弟弟为背景，包含针对疑似未成年弟弟的性引诱、性欲及性关系描写，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON；不以删减译文替代完整简介。
 
-2196. v28006
+2195. v28006
    英文源文件：en/visual-novels/028/v28006.json
    VNDB：https://vndb.org/v28006
    处理原因：简介将尚未毕业的学生角色置于直接的性行为与性癖情境，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2197. v28015
+2196. v28015
    英文源文件：en/visual-novels/028/v28015.json
    VNDB：https://vndb.org/v28015
    处理原因：简介直接描写在校学生与好友母亲的性行为及性幻想，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2198. v29025
+2197. v29025
    英文标题：Kamikakushi - Shoujo Nie
    原名：神隠し しょぅじょ贄
    英文源文件：en/visual-novels/029/v29025.json
@@ -13226,7 +13226,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：原文以放暑假的未成年少女遭掳走并成为性祭品为情节，无法在保留原意的前提下完成翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2199. v29028
+2198. v29028
    英文标题：Yome no Imouto no Amai Yuuwaku ~Onee-chan Yori mo Kimochi Ii Desho♪~
    原名：嫁の妹の甘い誘惑 ～お姉ちゃんよりも気持ちイイでしょ♪～
    英文源文件：en/visual-novels/029/v29028.json
@@ -13234,7 +13234,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：原文直接描写家庭辅导情境中穿校服的疑似未成年角色的性行为与身体反应，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2200. v29039
+2199. v29039
    英文标题：Ano Ko no Oppai o Momitai
    原名：あのこのおっぱいをもみたい
    英文源文件：en/visual-novels/029/v29039.json
@@ -13242,37 +13242,37 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：作者发布页将角色标为女高中生，简介以抚摸其胸部为核心性化内容，无法完整翻译。核实来源：https://d145fhkdapgfg3.cloudfront.net/games/show/3743
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2201. v28027
+2200. v28027
    英文源文件：en/visual-novels/028/v28027.json
    VNDB：https://vndb.org/v28027
    处理原因：简介以家庭教师与学生之间的性癖和色情对话为核心，未能确认学生角色成年，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2203. v28056
+2201. v28056
    英文源文件：en/visual-novels/028/v28056.json
    VNDB：https://vndb.org/v28056
    处理原因：简介以包含小学、初中及高中学生的社团成员胸部为性化卖点，无法在保留原意的前提下完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2204. v26791
+2202. v26791
    英文源文件：en/visual-novels/026/v26791.json
    VNDB：https://vndb.org/v26791
    处理原因：简介涉及学生少女与同班男生，并直接描写其持续发生性关系的欲望，属于涉及未成年或疑似未成年角色的性内容，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON；不以删减译文替代完整简介。
 
-2205. v26792
+2203. v26792
    英文源文件：en/visual-novels/026/v26792.json
    VNDB：https://vndb.org/v26792
    处理原因：简介以放学回家的学生少年及其同伴为背景，直接描写自慰与肛交行为，属于涉及未成年或疑似未成年角色的露骨性内容，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON；不以删减译文替代完整简介。
 
-2206. v26806
+2204. v26806
    英文源文件：en/visual-novels/026/v26806.json
    VNDB：https://vndb.org/v26806
    处理原因：简介以中年男性与幼童形象养女的不道德关系为卖点，并对养女的身体进行性化描述，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON；不以删减译文替代完整简介。
 
-2207. v29079
+2205. v29079
    英文标题：Himitsu no Kakurenbo Ecchi ~Spats Shoujo to Kakurenbochuu ni Noumitsu Seikou!? Boku to Naisho de Sex Shiyo?~
    原名：ヒミツのかくれんぼエッチ ～スパッツ少女とかくれんぼ中に濃密性交!?ボクとナイショでセックスしよ?～
    英文源文件：en/visual-novels/029/v29079.json
@@ -13280,19 +13280,19 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：原文明示萝莉角色，并以其参与性行为为卖点，无法在保留原意的前提下完成翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2208. v26837
+2206. v26837
    英文源文件：en/visual-novels/026/v26837.json
    VNDB：https://vndb.org/v26837
    处理原因：作品角色为离家出走的女高中生，简介以提供住处换取性接触为核心，并直接涉及避孕条件下的性行为，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON；不以删减译文替代完整简介。
 
-2209. v28090
+2207. v28090
    英文源文件：en/visual-novels/028/v28090.json
    VNDB：https://vndb.org/v28090
    处理原因：简介将年幼学生置于受同学胁迫的排泄性癖情境，无法在保留原意的前提下完成翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2210. v29125
+2208. v29125
    英文标题：101 Kaime no Approach Shot
    原名：101回目のアプローチショット
    英文源文件：en/visual-novels/029/v29125.json
@@ -13300,19 +13300,19 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介将女学生列为脱衣并摆出色情姿势的对手，无法完整翻译其中的学生性化内容。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2212. v28124
+2209. v28124
    英文源文件：en/visual-novels/028/v28124.json
    VNDB：https://vndb.org/v28124
    处理原因：简介直接描写学园学生遭受性侵犯、公开性行为及性化堕落的情境，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2213. v28126
+2210. v28126
    英文源文件：en/visual-novels/028/v28126.json
    VNDB：https://vndb.org/v28126
    处理原因：简介直接描写在校学生的性行为及自慰情境，无法在保留原意的前提下完成翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2214. v29138
+2211. v29138
    英文标题：Shounen yo Ochichi o Shibore - Boys CHIKU-be Ambitious
    原名：少年よ雄乳を搾れ boys CHIKU-be ambitious
    英文源文件：en/visual-novels/029/v29138.json
@@ -13320,7 +13320,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：原文以高中男生参加泌乳、挤奶竞赛及其恋爱为情色设定，无法在保留原意的前提下完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2215. v29168
+2212. v29168
    英文标题：Reijou Kanritou ~Seifuku Shoujo-tachi no Sakunyuu Reizokuki~
    原名：隷嬢管理棟 ～制服少女たちの搾乳隷属記～
    英文源文件：en/visual-novels/029/v29168.json
@@ -13328,19 +13328,19 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：原文直接描写女学生遭受性训练、怀孕以及挤奶奴役等性化内容，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2216. v28156
+2213. v28156
    英文源文件：en/visual-novels/028/v28156.json
    VNDB：https://vndb.org/v28156
    处理原因：侄女角色呈儿童化设定，简介将脱衣猜拳及性惩罚作为卖点，无法在保留原意的前提下完成翻译。核实来源：https://voice-scope.com/works/4697
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2217. v26890
+2214. v26890
    英文源文件：en/visual-novels/026/v26890.json
    VNDB：https://vndb.org/v26890
    处理原因：原文明确将角色描述为儿童外貌，并以性体液暗示其遭遇；无法完整翻译涉及儿童化角色的性化内容。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON；不以删减译文替代完整简介。
 
-2218. v30203
+2215. v30203
    英文标题：Ane wa Tsurezure Naru Mama ni ~Otouto no Ecchi na Osewa wa Ama-Ero JK Sisters ni Omakase!~
    原名：姉は徒然なるママに 〜弟のエッチなお世話は甘エロJKシスターズにお任せ!〜
    英文源文件：en/visual-novels/030/v30203.json
@@ -13348,7 +13348,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介明确涉及高中生姐弟之间的性需求照护与情色生活。克制表达仍无法在完整保留原意的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2219. v30227
+2216. v30227
    英文标题：Iku Iku ♡ Succubus Saikyouiku ~Rakudai Inma no Koukan Ryuugaku Nisshi~
    原名：イクイク♡サキュバス再教育～落第淫魔の交姦留学日誌～
    英文源文件：en/visual-novels/030/v30227.json
@@ -13356,7 +13356,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介包含针对女学生身体的性化描写，并以情色教学为核心。克制表达仍无法准确完整地完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2220. v29177
+2217. v29177
    英文标题：-Fragment♪-
    原名：-ふらぐめんと♪-
    英文源文件：en/visual-novels/029/v29177.json
@@ -13364,25 +13364,25 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：原文明确将主角称为少年，并描写他受到魅魔的性诱惑与性行为，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2221. v28169
+2218. v28169
    英文源文件：en/visual-novels/028/v28169.json
    VNDB：https://vndb.org/v28169
    处理原因：简介描写学生情境中的主人公受到性刺激、失去正常判断能力并发生性化身体变化，未能核实其已成年，无法完整翻译。核实来源：https://tamaya-kagiya.itch.io/i-am-succubus
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2222. v28177
+2219. v28177
    英文源文件：en/visual-novels/028/v28177.json
    VNDB：https://vndb.org/v28177
    处理原因：作品直接以《机战少女Alice》的高中二年级角色兼志谷星为色情主角并性化其身体，无法完整翻译。角色资料：https://asia.sega.com/alicegearaegis/cht/pdf/CT_Inst_Sitara.pdf
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2223. v28178
+2220. v28178
    英文源文件：en/visual-novels/028/v28178.json
    VNDB：https://vndb.org/v28178
    处理原因：简介描写与前作同一褐肤角色的三人性行为；前作主角兼志谷星为高中二年级，无法完整翻译。角色资料：https://asia.sega.com/alicegearaegis/cht/pdf/CT_Inst_Sitara.pdf
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2224. v30237
+2221. v30237
    英文标题：Enkou Bakunyuu JK to Shasei Gaman Game - Gaman Dekitara Nama Ecchi, Dekinakattara Genkai Sakusei!!
    原名：援交爆乳JKと射精我慢ゲーム 我慢できたら生エッチ、できなかったら限界搾精!!
    英文源文件：en/visual-novels/030/v30237.json
@@ -13390,7 +13390,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介明确涉及女高中生，并包含直接的性交、射精与生殖器描写。克制措辞无法在完整保留原意的同时完成翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2225. v30243
+2222. v30243
    英文标题：Tottemo Akarui! Ojou-sama no Mankitsu☆Yume no Dosukebe Seikatsu
    原名：とっても明るい！お嬢様の満喫☆夢のどすけべ生活
    英文源文件：en/visual-novels/030/v30243.json
@@ -13398,49 +13398,49 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介将校车上的女学生置于具有露骨性描写的强迫性行为情境中。克制措辞仍无法准确完整地翻译正文。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2226. v28213
+2223. v28213
    英文源文件：en/visual-novels/028/v28213.json
    VNDB：https://vndb.org/v28213
    处理原因：简介将《超时空要塞F》的未成年角色兰花、雪露置于以欲望及性快感为目的的凌辱情境，无法完整翻译。角色资料：https://dengekionline.com/data/news/2007/12/14/d64a8ff40c8e3b17575b7625cd0fca3c.html
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2227. v28217
+2224. v28217
    英文源文件：en/visual-novels/028/v28217.json
    VNDB：https://vndb.org/v28217
    处理原因：简介直接描写《零之使魔》未成年角色的性行为与性化身体内容，无法完整翻译。官方角色年龄：https://www.marv.jp/special/game/ps2/zero/character.html
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2228. v28218
+2225. v28218
    英文源文件：en/visual-novels/028/v28218.json
    VNDB：https://vndb.org/v28218
    处理原因：简介将与女儿共同生活、赠送内衣和提高亲密度与解锁身体触摸内容结合，无法在保留原意的前提下完成翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2230. v26933
+2226. v26933
    英文源文件：en/visual-novels/026/v26933.json
    VNDB：https://vndb.org/v26933
    处理原因：简介将被托付照看的年幼侄女置于性化的支配关系中，涉及疑似未成年角色的性化内容，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON；不以删减译文替代完整简介。
 
-2231. v26950
+2227. v26950
    英文源文件：en/visual-novels/026/v26950.json
    VNDB：https://vndb.org/v26950
    处理原因：简介包含学生及更年幼继妹遭受性侵、屈从性快感的露骨描写，涉及疑似未成年角色的性内容，无法完整翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON；不以删减译文替代完整简介。
 
-2232. v28232
+2228. v28232
    英文源文件：en/visual-novels/028/v28232.json
    VNDB：https://vndb.org/v28232
    处理原因：简介以跨世代生育与性交为卖点，官方日文介绍明确涉及高中女生遭受性暴力并怀孕，以及母子等家庭成员间的性行为。即使克制措辞也无法忠实保留其核心宣传含义。核实来源：https://www.dlsite.com/maniax/work/=/product_id/RJ036920.html
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2233. v28233
+2229. v28233
    英文源文件：en/visual-novels/028/v28233.json
    VNDB：https://vndb.org/v28233
    处理原因：简介直接描写《凉宫春日》系列高中生角色遭触手侵犯、怀孕与产卵，属于未成年角色的露骨性内容，无法通过克制措辞完成忠实翻译。来源：https://www.dlsite.com/ecchi-eng/work/=/product_id/RE045412.html
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2234. v30319
+2230. v30319
    英文标题：Lamiru! -Tsundere Lamia to Love Ero Seikatsu-
    原名：らみる!-ツンデレラミアとらぶエロ性活-
    英文源文件：en/visual-novels/030/v30319.json
@@ -13448,7 +13448,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介包含少年角色参与露骨性行为的描写。克制措辞仍无法保留原意并完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2235. v30335
+2231. v30335
    英文标题：Kyonyuu to Ponite to Baka Soudatsusen ~Cosplay Hyakkaryouran! Yuuwaku no Jitsugi Shidou~
    原名：巨乳とポニテとバカ争奪戦 ～コスプレ百花繚乱! 誘惑の実技指導～
    英文源文件：en/visual-novels/030/v30335.json
@@ -13456,19 +13456,19 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介将《笨蛋、测验、召唤兽》的未成年学生角色置于明确的性行为情境。克制措辞仍无法保留原意并完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2236. v28252
+2232. v28252
    英文源文件：en/visual-novels/028/v28252.json
    VNDB：https://vndb.org/v28252
    处理原因：简介以萝莉控寻找年幼女孩并进行性骚扰为核心卖点，无法通过克制措辞忠实保留原意。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2237. v28262
+2233. v28262
    英文源文件：en/visual-novels/028/v28262.json
    VNDB：https://vndb.org/v28262
    处理原因：简介以《ToHeart》高中生角色宫内蕾米裸体仅穿围裙做饭的性化情境为内容，无法通过克制措辞完成忠实翻译。角色关联核实来源：https://vnclub.org/vn/18/；原简介来源：https://vndbreview.blogspot.com/2019/01/vn-of-month-december-2000-never7-end-of.html
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2238. v29282
+2234. v29282
    英文标题：Pactio 31 ~Class Zen'in Boku no Geboku~
    原名：パクティオー31～クラス全員ボクの下僕～
    英文源文件：en/visual-novels/029/v29282.json
@@ -13476,7 +13476,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介直接描述与全班学生发生性行为，VNDB标签确认女主角为高中生；无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2239. v29307
+2235. v29307
    英文标题：Joshikousei Oshikko Omorashi Jijou ~Jugyouchuu, "Toilet Ikitai!" ga Ienakute...~
    原名：女子校生おしっこおもらし事情～授業中、「トイレ行きたい!」が言えなくて…～
    英文源文件：en/visual-novels/029/v29307.json
@@ -13484,19 +13484,19 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：作品以女高中生在课堂上憋尿失禁为性癖主题；无法在保留该情节含义的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2240. v26989
+2236. v26989
    英文源文件：en/visual-novels/026/v26989.json
    VNDB：https://vndb.org/v26989
    处理原因：简介包含高中生及其年幼同辈亲属的露骨身体描写、偷窥洗浴和性化触摸情节，无法提供涉及未成年角色的性化正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON；不以删减译文替代完整简介。
 
-2241. v26995
+2237. v26995
    英文源文件：en/visual-novels/026/v26995.json
    VNDB：https://vndb.org/v26995
    处理原因：简介以恋童者设局诱捕年幼女孩为性化卖点，无法提供涉及未成年角色性剥削的正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON；不以删减译文替代完整简介。
 
-2242. v29382
+2238. v29382
    英文标题：Mahou Senshi Schietirca ~Haiboku Choukyou~
    原名：魔法戦士スキエティルカ～敗北調教～
    英文源文件：en/visual-novels/029/v29382.json
@@ -13504,19 +13504,19 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介将萝莉角色作为受辱和性调教的对象；无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2243. v28338
+2239. v28338
    英文源文件：en/visual-novels/028/v28338.json
    VNDB：https://vndb.org/v28338
    处理原因：作品以强制发情与操纵性欲为核心，标题注明j○篇，涉及学生形象的性化语境，未能核实为成年角色设定，无法完成忠实正文翻译。原简介来源：https://www.dlsite.com/ecchi-eng/work/=/product_id/RE166034.html
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2244. v28346
+2240. v28346
    英文源文件：en/visual-novels/028/v28346.json
    VNDB：https://vndb.org/v28346
    处理原因：简介将学生与儿童演员的公开裸体、被迫裸体活动及身体展示作为性化卖点，涉及多名未成年角色，无法通过克制措辞忠实保留原意。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2245. v29417
+2241. v29417
    英文标题：Shounen to Tomodachi no Mama: Naisho no "Nakayoshi Gokko"
    原名：少年と友達のママ ナイショの「仲良しごっこ」
    英文源文件：en/visual-novels/029/v29417.json
@@ -13524,7 +13524,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介围绕未成年男孩与朋友母亲的色情浴室游戏展开；无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2246. v29439
+2242. v29439
    英文标题：Kanojo no Okaa-san ga Kanojo yori Attouteki ni Ii Onna de Gaman Dekinai!!
    原名：彼女のお母さんがカノジョより圧倒的にイイ女で我慢できない!!
    英文源文件：en/visual-novels/029/v29439.json
@@ -13532,7 +13532,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介直接描写高中生主角的性交和自慰幻想，VNDB确认主角为高中生；无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2247. v30461
+2243. v30461
    英文标题：Mainichi Kiss Shite Lolita
    原名：毎日キスしてロリータ
    英文源文件：en/visual-novels/030/v30461.json
@@ -13540,7 +13540,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介包含儿童化角色的露骨性行为与生殖器描写。克制措辞仍无法保留原意并完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2248. v30467
+2244. v30467
    英文标题：Shuuchi no Gakuen ~Seifuku ga Nai no de Hadaka de Jugyou o Ukemashita.~
    原名：羞恥乃学園～制服がないので裸で授業を受けました。～
    英文源文件：en/visual-novels/030/v30467.json
@@ -13548,13 +13548,13 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介以在校少女被迫脱去衣物、穿内衣上课的性羞辱情境为中心。克制措辞仍无法保留原意并完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2249. v28371
+2245. v28371
    英文源文件：en/visual-novels/028/v28371.json
    VNDB：https://vndb.org/v28371
    处理原因：简介以《少女与战车》的高中一年级角色泽梓为成人游戏主角，直接宣传其自慰等性内容，无法通过克制措辞忠实保留原意。原简介来源：https://www.dlsite.com/ecchi-eng/work/=/product_id/RE121117.html
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2250. v29506
+2246. v29506
    英文标题：Kouki Shoujo Scarlet Lamia
    原名：紅輝少女スカーレットラミア
    英文源文件：en/visual-novels/029/v29506.json
@@ -13562,7 +13562,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介直接描写萝莉角色收集精液、诱惑男性并发生性行为；无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2251. v30560
+2247. v30560
    英文标题：Josou de Sennyuu! Futanari Senmon Esute ~Ochitara Ikenai Gokujou Massage~
    原名：女装で潜入!ふたなり専門エステ〜堕ちたらイケない極上マッサージ〜
    英文源文件：en/visual-novels/030/v30560.json
@@ -13570,19 +13570,19 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介包含在校学生接受性化按摩、生殖器勃起的描写。克制措辞仍无法保留原意并完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2252. v28403
+2248. v28403
    英文源文件：en/visual-novels/028/v28403.json
    VNDB：https://vndb.org/v28403
    处理原因：简介以名门学校学生的性欲及住院后向医护人员发泄性欲为核心，未能确认成年角色设定，无法完成忠实正文翻译。原简介来源：https://vndbreview.blogspot.com/2020/05/vn-of-month-may-2007-draculius.html
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2253. v28406
+2249. v28406
    英文源文件：en/visual-novels/028/v28406.json
    VNDB：https://vndb.org/v28406
    处理原因：官方日文介绍明确以《我不是说了能力要平均值吗！》中的未成年角色麦露与珀琳的胸部性化互动为内容，无法忠实翻译为作品宣传简介。核实来源：https://www.dlsite.com/maniax/work/=/product_id/RJ276874.html
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2254. v29578
+2250. v29578
    英文标题：Nugasete Yakyuuken -Meikko no Rina-chan-
    原名：脱がせて野球拳 -姪っ子のりなちゃん-
    英文源文件：en/visual-novels/029/v29578.json
@@ -13590,7 +13590,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介围绕与侄女玩脱衣猜拳并获得色情奖励展开，VNDB确认为萝莉题材；无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2255. v29592
+2251. v29592
    英文标题：Brat s magicheskim zhezlom
    原名：Брат с магическим жезлом
    英文源文件：en/visual-novels/029/v29592.json
@@ -13598,7 +13598,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介直接描述儿童主角与邻家女孩的性行为，VNDB确认儿童主角和涉及儿童的性内容；无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2256. v30599
+2252. v30599
    英文标题：Gyarukano! ~Wagamama Body na Honpou Kanojo~
    原名：ギャルカノ！ ～わがままボディな奔放彼女～
    英文源文件：en/visual-novels/030/v30599.json
@@ -13606,7 +13606,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介围绕在校少女的性化服装、内衣暴露展开。克制措辞仍无法保留原意并完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2257. v29624
+2253. v29624
    英文标题：Seifuku Shinkei Suijaku
    原名：制服しんけいすいじゃく
    英文源文件：en/visual-novels/029/v29624.json
@@ -13614,7 +13614,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介以占有穿校服女孩的身体为游戏奖励，VNDB含雌小鬼女主角标签；无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2258. v29638
+2254. v29638
    英文标题：Kyokugen Chikan Tokuiten 2 - Chikan no Shoumei
    原名：極限痴漢特異点２　痴漢の証明
    英文源文件：en/visual-novels/029/v29638.json
@@ -13622,7 +13622,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介以痴汉猥亵与性快感为核心，作品包含高中生女主角；无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2259. v29643
+2255. v29643
    英文标题：Daraku Shoujo ~Ochita Shiawase~
    原名：堕落少女~堕ちた幸せ~
    英文源文件：en/visual-novels/029/v29643.json
@@ -13630,13 +13630,13 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介直接描写学生间的色情堕落及对生殖器的羞辱，无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2260. v28460
+2256. v28460
    英文源文件：en/visual-novels/028/v28460.json
    VNDB：https://vndb.org/v28460
    处理原因：简介露骨描写学园学生角色的胸部、性挑逗与强制性行为，日文资料亦明确为同级生和后辈的学园设定，未能确认独立成年设定，无法通过克制措辞忠实保留核心内容。核实来源：https://www.suruga-ya.jp/product/detail/145069340；英文来源：https://cherrykissgames.com/en/games/sexorcist-academy
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2261. v30672
+2257. v30672
    英文标题：Saimin Tanetsuke Jugyou
    原名：催眠種付け授業
    英文源文件：en/visual-novels/030/v30672.json
@@ -13644,7 +13644,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介以学生对教师实施催眠强迫性行为、灌精受孕为中心，无法确认参与者均为成年人。克制措辞仍无法保留原意并完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2262. v30700
+2258. v30700
    英文标题：Iede Gyaru o Hirotta node Sodatetemita
    原名：家出ギャルを拾ったので育ててみた
    英文源文件：en/visual-novels/030/v30700.json
@@ -13652,13 +13652,13 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介明确描写教师强奸未成年女学生，以及以身体偿还住宿费用的性剥削。克制措辞仍无法保留原意并完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2263. v28513
+2259. v28513
    英文源文件：en/visual-novels/028/v28513.json
    VNDB：https://vndb.org/v28513
    处理原因：简介以同班学生情侣之间互相展示性行为并逐渐发展为交换伴侣为核心，涉及露骨的校园学生性内容，未能确认独立成年设定，无法通过克制措辞完成忠实翻译。来源：http://www.getchu.com/soft.phtml?id=1092464
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2264. v29680
+2260. v29680
    英文标题：Kunoichi Trainer
    原名：无
    英文源文件：en/visual-novels/029/v29680.json
@@ -13666,7 +13666,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介涉及《火影忍者》原作未成年角色的色情训练，未查到足以确认本作中相关角色均已成年的资料；无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2265. v29690
+2261. v29690
    英文标题：Inkou Katekyoushi ~Kyouhaku Ryoujoku Hakudaku Osen~
    原名：淫行家庭教師 ～脅迫陵辱白濁汚染～
    英文源文件：en/visual-novels/029/v29690.json
@@ -13674,7 +13674,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介直接鼓动家庭教师以威胁、强奸方式侵犯学生，学生年龄无法确认，无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2266. v30735
+2262. v30735
    英文标题：Yakyuuken de Pakopako Batsu Game ~Classmate no Bantou-san~
    原名：野球拳でパコパコ罰ゲーム～クラスメイトの番頭さん～
    英文源文件：en/visual-novels/030/v30735.json
@@ -13682,7 +13682,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介以在校同学参与脱衣猜拳与性惩罚游戏为中心。克制措辞仍无法保留原意并完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2267. v30742
+2263. v30742
    英文标题：Kagakubu Buchou (* Kusuri de Youjika Shita) Yagami Sae ~Otona ni Naru Tame no Jikken Report~
    原名：科学部部長(※薬で幼児化した)八神紗英～オトナになるための実験レポート～
    英文源文件：en/visual-novels/030/v30742.json
@@ -13690,7 +13690,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介包含幼儿化角色的生殖器、强迫性行为与性玩具侵害等露骨描写。克制措辞仍无法保留原意并完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2268. v29732
+2264. v29732
    英文标题：Meruru-chan
    原名：无
    英文源文件：en/visual-novels/029/v29732.json
@@ -13698,7 +13698,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介将萝莉女主角作为极度好色的同居对象描述，VNDB确认仅有萝莉女主角；无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2269. v29741
+2265. v29741
    英文标题：Imouto ga Saimin Appli o Tsukatte Kita
    原名：妹が催眠アプリを使ってきた
    英文源文件：en/visual-novels/029/v29741.json
@@ -13706,7 +13706,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介以儿童妹妹对哥哥逐步升级的性要求为核心，VNDB确认涉及儿童性内容；无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2270. v29759
+2266. v29759
    英文标题：Ai Kiss 2 - Shinnyuusei wa Osuki Desu ka?
    原名：アイキス2 新入生はお好きですか？
    英文源文件：en/visual-novels/029/v29759.json
@@ -13714,25 +13714,25 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：追加内容围绕与低年级学生的色情玩法展开，VNDB确认包含初中生、高中生角色；无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2271. v28516
+2267. v28516
    英文源文件：en/visual-novels/028/v28516.json
    VNDB：https://vndb.org/v28516
    处理原因：简介将公共场所性侵犯描写为快感来源，角色资料明确包含在校且外形幼小的学生角色，无法忠实翻译其露骨宣传内容。核实来源：https://www.bugbug.news/onlinegame/40137/
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2272. v28536
+2268. v28536
    英文源文件：en/visual-novels/028/v28536.json
    VNDB：https://vndb.org/v28536
    处理原因：发行商介绍明确女主角是女子学校二年级学生，简介描写其与触手生物的露骨性接触及被夺去童贞，无法通过克制措辞忠实翻译。核实来源：https://gyutto.com/i/item233871?select_uaflag=1
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2273. v28539
+2269. v28539
    英文源文件：en/visual-novels/028/v28539.json
    VNDB：https://vndb.org/v28539
    处理原因：官网明确角色处于性征发育中的低龄世代，强调早熟身体、年龄差与不及成人的性知识。简介将付费揉胸及性交易作为核心卖点，无法通过克制措辞忠实翻译。核实来源：https://www.hamham-soft.net/imosapo/
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2274. v30768
+2270. v30768
    英文标题：Chi○po Kurui de Ahette Peace! Acmelaricure
    原名：チ○ポ狂いでアヘッてピース! アクメラリキュア
    英文源文件：en/visual-novels/030/v30768.json
@@ -13740,7 +13740,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介包含《Smile光之美少女！》未成年角色遭受露骨性侵害、生殖器与体液的详细描写。克制措辞仍无法保留原意并完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2275. v30796
+2271. v30796
    英文标题：Mukei no Dul-Dauna
    原名：無形のドルドナ
    英文源文件：en/visual-novels/030/v30796.json
@@ -13748,19 +13748,19 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：英文源文包含大量重复、互不连贯且与作品简介缺乏联系的句子，源文疑似损坏。无法在不擅自编写或替换原意的前提下可靠翻译。
    处理状态：源文异常，未完成正文翻译；未创建zh-Hans JSON。
 
-2276. v28541
+2272. v28541
    英文源文件：en/visual-novels/028/v28541.json
    VNDB：https://vndb.org/v28541
    处理原因：官方角色资料将女主角设为同校学生，明确使用萝莉属性描述义妹，正文以对其进行性开发、推倒为核心。克制措辞仍无法保留原意并避开未成年形象的性化内容。核查资料：https://souffle-soft.com/gimai/
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2277. v28553
+2273. v28553
    英文源文件：en/visual-novels/028/v28553.json
    VNDB：https://vndb.org/v28553
    处理原因：官方资料将主角描述为经历青春期的苏联少先队员，正文以其童贞作为与老人交易的条件。克制措辞仍无法保留原意并避开未成年形象的性化内容。核查资料：https://store.steampowered.com/app/440640/?l=russian
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2278. v29845
+2274. v29845
    英文标题：NATURALCORDE -Aiyoku no Iro ni Somerarete, Watashi wa Arugamama no Jibun ni Naru-
    原名：NATURALCORDE -愛欲の色に染められて、私はあるがままの自分になる-
    英文源文件：en/visual-novels/029/v29845.json
@@ -13768,7 +13768,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介明确以正太角色与高中女生的性行为、色情堕落为卖点；无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2279. v29849
+2275. v29849
    英文标题：Musume no Tomodachi - Hijoushiki Kiwamarinai Dobitch JK 3 Nin to, Yume no Nama Hame Harem Seikatsu.
    原名：娘の友達 非常識極まりないドビッチJK3人と、夢の生ハメ ハーレム生活。
    英文源文件：en/visual-novels/029/v29849.json
@@ -13776,7 +13776,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介直接描述三名女高中生对成年男性的手淫及性交，无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2280. v29853
+2276. v29853
    英文标题：Little Sister -Oshikake Dousei Seikatsu-
    原名：Little Sister －おしかけ同棲生活－
    英文源文件：en/visual-novels/029/v29853.json
@@ -13784,7 +13784,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介直接描述与妹妹的性行为，VNDB确认女主角为高中生；无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2281. v29870
+2277. v29870
    英文标题：Yuri Love Slave: Watashi dake no Iinchou
    原名：百合ラブスレイブ　わたしだけの委員長
    英文源文件：en/visual-novels/029/v29870.json
@@ -13792,7 +13792,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介直接描述高中女生间的性行为及快感，无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2282. v29881
+2278. v29881
    英文标题：Nightmare x Vampire ~Fukushuu no Inferno~
    原名：Nightmare×vampire～復讐のインフェルノ～
    英文源文件：en/visual-novels/029/v29881.json
@@ -13800,7 +13800,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介将高中女生置于色情快感地狱，作品涉及大量性侵；无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2283. v30895
+2279. v30895
    英文标题：Low na Imouto ni Succubus ga Toritsuita node Tanetsuke Yoyuu deshita.
    原名：Lowな妹にサキュバスが取り憑いたので種付け余裕でした。
    英文源文件：en/visual-novels/030/v30895.json
@@ -13808,7 +13808,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：官网明确将妹妹设定为仍处于性发育阶段的儿童化角色，简介以借附身之机与其发生性行为为中心。克制措辞仍无法保留原意并完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2284. v29909
+2280. v29909
    英文标题：Motto! Haramase! Honoo no Oppai Isekai Chou Ero ♥ Succubus Gakuen!
    原名：もっと！孕ませ！炎のおっぱい異世界超エロ♥サキュバス学園！
    英文源文件：en/visual-novels/029/v29909.json
@@ -13816,7 +13816,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介直接描写高中生主角与魅魔学园学生的色情行为及乳汁等性化设定，含萝莉与正太题材；无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2285. v29922
+2281. v29922
    英文标题：Chinkamo Twins 2! ~Natsu da! Umi da! Futago no Imouto Oppai Taiketsu da!~
    原名：ちんかもツインズ２！ ～夏だ！海だ！ふたごの妹おっぱい対決だ！～
    英文源文件：en/visual-novels/029/v29922.json
@@ -13824,19 +13824,19 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介以萝莉妹妹在海边诱惑哥哥的性化情节为核心，无法在保留核心信息的同时完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2286. v28627
+2282. v28627
    英文源文件：en/visual-novels/028/v28627.json
    VNDB：https://vndb.org/v28627
    处理原因：正文明确描写在校学生及其青梅竹马，并以当面发生性行为、反复被他人性交的情节为核心，涉及未成年学生形象的露骨性内容。克制措辞仍无法准确保留原意。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2287. v28643
+2283. v28643
    英文源文件：en/visual-novels/028/v28643.json
    VNDB：https://vndb.org/v28643
    处理原因：正文以男学生与教师的秘密关系为背景，具体描写勃起及教师对学生的性接触，涉及未成年学生形象的露骨性内容。克制措辞仍无法准确保留原意。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2288. v30956
+2284. v30956
    英文标题：Zengaku!! (2)
    原名：ぜんがく!!(2)
    英文源文件：en/visual-novels/030/v30956.json
@@ -13844,7 +13844,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介以在校学生的裸体活动及羞耻体验为性化卖点，涉及未成年人；克制表达仍无法在保留原意的同时完成翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2289. v30957
+2285. v30957
    英文标题：Zengaku! Sana Append
    原名：ぜんがく!紗奈アペンド
    英文源文件：en/visual-novels/030/v30957.json
@@ -13852,7 +13852,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介明确涉及从幼儿园至大学的裸体活动，并将学生裸露及羞耻体验性化；无法通过克制措辞保留原意并完成翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2290. v30958
+2286. v30958
    英文标题：Danshi Koukou Yakyuuken
    原名：男子高校野球拳
    英文源文件：en/visual-novels/030/v30958.json
@@ -13860,7 +13860,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：作品明确以高中男生为对象，简介包含脱衣及进一步性行为的性化描述；无法通过克制措辞保留原意并完成翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2291. v30965
+2287. v30965
    英文标题：Mahou Danshi Rabirabi Cute
    原名：魔法男子ラビラビキュート
    英文源文件：en/visual-novels/030/v30965.json
@@ -13868,7 +13868,7 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介将仍在校的少年与必须发生性行为才能施展魔法的设定直接关联，涉及未成年人性内容；无法通过克制措辞保留原意并完成翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2292. v30969
+2288. v30969
    英文标题：Hanagane Kanade * Gram - Chapter:1 Kozakura Yui
    原名：花鐘カナデ＊グラム Chapter:1 小桜結
    英文源文件：en/visual-novels/030/v30969.json
@@ -13876,50 +13876,676 @@ GPT-5.6 Sol拒绝翻译条目
    处理原因：简介反复以在校少女的胸部及身体接触作为性化描写重点，涉及未成年人；无法通过克制措辞保留原意并完成翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON。
 
-2293. v28665
+2289. v28665
    英文源文件：en/visual-novels/028/v28665.json
    VNDB：https://vndb.org/v28665
    处理原因：官方角色资料将舞依设为备考的在校学生，正文以离家少女的援助交际、首次有偿性关系及对父亲的报复为核心。克制措辞仍无法保留原意并避开未成年形象的性化内容。核查资料：https://www.dlsite.com/maniax/work/=/product_id/RJ291643.html
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2294. v28678
+2290. v28678
    英文源文件：en/visual-novels/028/v28678.json
    VNDB：https://vndb.org/v28678
    处理原因：正文明确描写在校兄长放学后变出触手强奸妹妹，并以此后反复性交为情节核心，涉及未成年学生及妹妹形象的露骨性内容。克制措辞仍无法准确保留原意。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2295. v28725
+2291. v28725
    英文源文件：en/visual-novels/028/v28725.json
    VNDB：https://vndb.org/v28725
    处理原因：简介以幼女形象的魅魔与主角每日发生性行为为核心，属于涉及未成年人形象的色情内容，无法在保留原意的前提下完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2296. v28731
+2292. v28731
    英文源文件：en/visual-novels/028/v28731.json
    VNDB：https://vndb.org/v28731
    处理原因：简介直接描述在校学生通过每日性交觉醒能力，角色资料亦明确包含学园二年级女生。正文包含涉及未成年学生形象的露骨性行为，无法在保留原意的前提下完成翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2297. v28736
+2293. v28736
    英文源文件：en/visual-novels/028/v28736.json
    VNDB：https://vndb.org/v28736
    处理原因：简介明确将女高中生的有偿性交易、性交及体内射精作为主要内容，无法在保留原意的前提下完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2298. v28739
+2294. v28739
    英文源文件：en/visual-novels/028/v28739.json
    VNDB：https://vndb.org/v28739
    处理原因：简介以对女高中生的性窥视及利用催眠实施性报复为主要情节，带有针对未成年学生的色情化设定，无法在保留原意的前提下完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2299. v28799
+2295. v28799
    英文源文件：en/visual-novels/028/v28799.json
    VNDB：https://vndb.org/v28799
    处理原因：简介以年幼在校女孩和邻居成年男性之间的关系为情欲铺垫，并以获取其身体为结尾暗示。该未成年人色情化内容无法在保留原意的前提下完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON
 
-2300. v28830
+2296. v28830
    英文源文件：en/visual-novels/028/v28830.json
    VNDB：https://vndb.org/v28830
    处理原因：作品以女高中生养女为对象，简介直接将养父对其发育中身体的性欲作为核心。无法在保留原意的前提下完成涉及未成年学生的色情化正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2297. v31029
+   英文源文件：en/visual-novels/031/v31029.json
+   VNDB：https://vndb.org/v31029
+   处理原因：简介以尚未完成暑假作业的幼女角色利用身体引诱恋童者为核心，涉及未成年人形象的色情化内容。无法在保留原意的前提下完成翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2298. v31032
+   英文源文件：en/visual-novels/031/v31032.json
+   VNDB：https://vndb.org/v31032
+   处理原因：简介包含向少女形象的吸血鬼提供精液的直接性描写，作品标题突出其娇小外貌，角色资料亦将其外观归为青少年。无法在保留原意的前提下完成涉及未成年人形象的露骨性内容翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2299. v31037
+   英文源文件：en/visual-novels/031/v31037.json
+   VNDB：https://vndb.org/v31037
+   处理原因：简介直接描写男学生操控同班女生在课堂上自慰，并将女生作为性玩物。涉及未成年学生形象的露骨性内容，无法在保留原意的前提下完成翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2300. v31043
+   英文源文件：en/visual-novels/031/v31043.json
+   VNDB：https://vndb.org/v31043
+   处理原因：简介以在校男孩上学前与伯母发生性行为为核心，涉及未成年学生形象的直接性描写。无法在保留原意的前提下完成翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2301. v33037
+   英文标题：Vicky's Investigation
+   原名：无
+   英文源文件：en/visual-novels/033/v33037.json
+   VNDB：https://vndb.org/v33037
+   处理原因：VNDB角色资料确认维姬为14岁，简介含该角色的色情行为及父女间性暗示，无法完成正文翻译。
+   核查资料：https://vndb.org/c105866
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2302. v33057
+   英文标题：Club Camellia ~Himitsu no Lesson 3 Days~
+   原名：Club Camellia～秘密のレッスン3days～
+   英文源文件：en/visual-novels/033/v33057.json
+   VNDB：https://vndb.org/v33057
+   处理原因：简介以在校二年级女生接受性经验培训并提供付费性服务赚取学费为核心，无法忠实翻译涉及未成年学生形象的色情内容。
+   核查资料：http://polish.sakura.ne.jp/kikaku2011.htm
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2303. v33063
+   英文标题：Chikan no Shoudou
+   原名：痴漢の衝動
+   英文源文件：en/visual-novels/033/v33063.json
+   VNDB：https://vndb.org/v33063
+   处理原因：VNDB角色资料确认女主角井上亚树为17岁高中生，简介以对其实施性骚扰、脱衣及升级性侵害为核心，无法完成正文翻译。
+   核查资料：https://vndb.org/c120792
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2304. v31077
+   英文源文件：en/visual-novels/031/v31077.json
+   VNDB：https://vndb.org/v31077
+   处理原因：作品明确以幼女形象为性对象，简介直接描写通过性玩法唤醒其身体、使其体验性快感的过程。无法在保留原意的前提下完成涉及未成年人形象的露骨性内容翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2305. v32108
+   英文源文件：en/visual-novels/032/v32108.json
+   VNDB：https://vndb.org/v32108
+   处理原因：简介以在校少年为主角，将其进入性冒险与堕落的过程作为核心设定，涉及未成年人形象的色情化内容。无法在保留原意的前提下完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2306. v33113
+   英文标题：Offline de Ecchi na Level Age
+   原名：オフラインでエッチなレベル上げ
+   英文源文件：en/visual-novels/033/v33113.json
+   VNDB：https://vndb.org/v33113
+   处理原因：VNDB角色资料将女主角森川杏奈明确设为小学生，简介以其与公会主角发展色情关系为核心，无法完成正文翻译。
+   核查资料：https://vndb.org/c104047
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2307. v31117
+   英文源文件：en/visual-novels/031/v31117.json
+   VNDB：https://vndb.org/v31117
+   处理原因：简介以大学生家教向年幼学生教授性行为为核心，并将凝视其胸部、身体接触及亲吻写作色情铺垫。无法在保留原意的前提下完成涉及未成年人形象的性化内容翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2308. v32157
+   英文源文件：en/visual-novels/032/v32157.json
+   VNDB：https://vndb.org/v32157
+   处理原因：简介将成年男性与在校女生的有偿性关系作为主要卖点，作品角色资料明确包含高中生形象。无法在保留原意的前提下完成涉及未成年人形象的色情化正文翻译。
+   核实来源：https://www.orcsoft.jp/zom001/
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2309. v32158
+   英文源文件：en/visual-novels/032/v32158.json
+   VNDB：https://vndb.org/v32158
+   处理原因：作品以被收留的低龄钥匙儿童形象为对象，简介后半段直接转为色情化的身体与性关系宣传。无法通过克制措辞保留原意并完成正文翻译。
+   核实来源：https://katesai.sakura.ne.jp/public/l-only2/
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2310. v32169
+   英文源文件：en/visual-novels/032/v32169.json
+   VNDB：https://vndb.org/v32169
+   处理原因：简介直接描写在校学生的性窥视，以及被同学胁迫当面自慰，涉及未成年学生形象的露骨性内容。无法在保留原意的前提下完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2311. v33142
+   英文标题：Nangoku Prison ~Hyouryuu Shita Mujintou ga Kozukuri Shinai to Derarenai Shima Datta Ken~
+   原名：南国プリズン ～漂流した無人島が子作りしないと出られない島だった件～
+   英文源文件：en/visual-novels/033/v33142.json
+   VNDB：https://vndb.org/v33142
+   处理原因：简介以年轻偶像及主角学生的性行为和生育为核心，涉及未成年学生形象，无法在保留原意的前提下完成正文翻译。
+   核查资料：https://vndb.org/v33142
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2312. v33147
+   英文标题：Katei Kyouin - Jugyouryou wa Karada de-
+   原名：家庭教淫 -授業料はカラダで‐
+   英文源文件：en/visual-novels/033/v33147.json
+   VNDB：https://vndb.org/v33147
+   处理原因：简介以家长为在校女生聘请家庭教师、教师强迫其以身体支付学费为核心，涉及未成年学生形象的性剥削，无法完成正文翻译。
+   核查资料：https://www.suruga-ya.jp/product/detail/145074056
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2313. v33158
+   英文标题：Tadashii Iinchou no Shitsukekata
+   原名：正しい委員長のしつけ方
+   英文源文件：en/visual-novels/033/v33158.json
+   VNDB：https://vndb.org/v33158
+   处理原因：简介直接性化在校女班长的胸部，并以将其训练为性奴为核心，无法完成涉及未成年学生形象的色情正文翻译。
+   核查资料：https://www.dlsite.com/maniax/work/=/product_id/RJ159593.html
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2314. v33165
+   英文标题：Boku x Ane ~Onee-chan de Asonjae~
+   原名：ぼく×あね ～おねえちゃんで遊んじゃえ～
+   英文源文件：en/visual-novels/033/v33165.json
+   VNDB：https://vndb.org/v33165
+   处理原因：简介明确以男学生对家庭女教师的性行为为中心，涉及未成年学生形象的色情内容，无法完成正文翻译。
+   核查资料：https://www.dlsite.com/maniax/work/=/product_id/RJ075607.html
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2315. v33206
+   英文标题：Imooka
+   原名：いもおか
+   英文源文件：en/visual-novels/033/v33206.json
+   VNDB：https://vndb.org/v33206
+   处理原因：简介明确以三名萝莉妹妹及萝莉母亲组成的色情后宫为卖点，无法在保留原意的前提下完成涉及未成年人形象的色情正文翻译。
+   核查资料：https://www.dlsite.com/maniax/work/=/product_id/RJ297317.html
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2316. v33213
+   英文标题：Mekakure, Produce! ~Uchiki na Osananajimi no Sugao o Mite Mitai!~
+   原名：メカクレ、プロデュース！～内気な幼馴染の素顔を見てみたいっ！～
+   英文源文件：en/visual-novels/033/v33213.json
+   VNDB：https://vndb.org/v33213
+   处理原因：简介明确性化仍在校的青梅竹马，描写主角掀起校服凝视胸部并欲实施性触摸，无法完成涉及未成年学生形象的色情正文翻译。
+   核查资料：https://www.appetite-game.com/apt_203.html#story
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2317. v31204
+   英文源文件：en/visual-novels/031/v31204.json
+   VNDB：https://vndb.org/v31204
+   处理原因：简介直接以两名少年对女性人偶实施性行为为内容，原始发行页亦明确标注“おねショタ”，属于涉及未成年人形象的色情内容。无法在保留原意的前提下完成翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2318. v33239
+   英文标题：Lolicon Kyoushi Itazura Nikki ~Muku na Anoko ni Seikyouiku~
+   原名：ロリコン教師悪戯日記～無垢なあの子に性教育～
+   英文源文件：en/visual-novels/033/v33239.json
+   VNDB：https://vndb.org/v33239
+   处理原因：简介直接描写恋童教师对无知学生进行性训练，无法完成涉及儿童性剥削的正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2319. v33242
+   英文标题：Kyonyuu Gakkyuu Iinchou no Oshigoto
+   原名：巨乳学級委員長のお仕事
+   英文源文件：en/visual-novels/033/v33242.json
+   VNDB：https://vndb.org/v33242
+   处理原因：简介以在校女班长的胸部与色情课堂为卖点，涉及未成年学生形象的性化内容，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2320. v33245
+   英文标题：Danshi Toilet ni Onna no Ko
+   原名：男子トイレに女の子
+   英文源文件：en/visual-novels/033/v33245.json
+   VNDB：https://vndb.org/v33245
+   处理原因：简介直接以幼女角色遭到性交、射精与性侵为核心，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2321. v33246
+   英文标题：Imouto Onahole ~Watashi wa Onii-chan no Seieki Benjo~
+   原名：妹オナホール～私はお兄ちゃんの精液便所～
+   英文源文件：en/visual-novels/033/v33246.json
+   VNDB：https://vndb.org/v33246
+   处理原因：简介露骨描写哥哥对妹妹的性行为与体液，VNDB确认仅有萝莉女主角并含儿童性内容，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2322. v33248
+   英文标题：Ikinari Hatsujou Switch to Lolicon
+   原名：いきなり発情スイッチとロリコン
+   英文源文件：en/visual-novels/033/v33248.json
+   VNDB：https://vndb.org/v33248
+   处理原因：简介以通过色情道具使萝莉侄女发情并对主角产生性欲为核心，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2323. v33249
+   英文标题：Imouto no Pantsu o Okazu ni Shiteru no o Mitsukatte Itsu no Ma ni ka Imouto no Shin'yuu to Issho ni Chi*po o Omocha ni Sareru You ni Natteta
+   原名：妹のパンツをオカズにしてるのを見つかっていつの間にか妹の親友と一緒にチ〇ポをオモチャにされるようになってた
+   英文源文件：en/visual-novels/033/v33249.json
+   VNDB：https://vndb.org/v33249
+   处理原因：简介露骨描写兄妹及妹妹朋友之间的性行为，VNDB确认仅有萝莉女主角并含儿童性内容，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2324. v33250
+   英文标题：Rinshitsu no Bishoujo Shimai o Tenazukete Tsukkomi Houdai O**nko Shimai ni Shichau Hanashi
+   原名：隣室の美少女姉妹を手懐けて突っ込み放題オ○ンコ姉妹にしちゃう話
+   英文源文件：en/visual-novels/033/v33250.json
+   VNDB：https://vndb.org/v33250
+   处理原因：简介以诱骗邻居姐妹、将其作为性发泄对象为核心，VNDB确认仅有萝莉女主角并含儿童性内容，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2325. v33270
+   英文标题：SL○YERS ADULT for CD
+   原名：无
+   英文源文件：en/visual-novels/033/v33270.json
+   VNDB：https://vndb.org/v33270
+   处理原因：简介明确将《秀逗魔导士》的莉娜置于色情同人情节，角色原作设定为15岁起，未查到本作中的独立成年设定，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2326. v33271
+   英文标题：Cosplay☆Geass 2
+   原名：コスプレ☆ギアス2
+   英文源文件：en/visual-novels/033/v33271.json
+   VNDB：https://vndb.org/v33271
+   处理原因：简介描写《反叛的鲁路修》角色阿尼亚的性交姿势，角色原作设定为15岁，未查到本作中的独立成年设定，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2327. v33275
+   英文标题：Kinjo no Shoujo ga Kyonyuu Datta no de Okashite Mimashita
+   原名：近所の少女が巨乳だったので犯してみました
+   英文源文件：en/visual-novels/033/v33275.json
+   VNDB：https://vndb.org/v33275
+   处理原因：简介明确性化学龄萝莉的胸部，并将强奸该角色作为故事核心，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2328. v31241
+   英文源文件：en/visual-novels/031/v31241.json
+   VNDB：https://vndb.org/v31241
+   处理原因：简介以附身女性身体收集性体液为核心，原始发行页明确将仍在上学的妹妹包含在被附身对象之中。无法在保留原意的前提下完成涉及未成年学生形象的色情内容翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2329. v33346
+   英文标题：Seito-tachi ni Sarashimono ni Sareta Onna Kyoushi Hen 2
+   原名：生徒たちに晒し者にされた女教師立花仁美生徒編2
+   英文源文件：en/visual-novels/033/v33346.json
+   VNDB：https://vndb.org/v33346
+   处理原因：简介以在校学生参与女教师的色情公开羞辱、自慰观看及性侵为主要内容，包含未成年学生形象的色情情境，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2330. v33347
+   英文标题：Seito-tachi ni Sarashimono ni Sareta Onna Kyoushi Hen
+   原名：生徒たちに晒し者にされた女教師立花仁美生徒編
+   英文源文件：en/visual-novels/033/v33347.json
+   VNDB：https://vndb.org/v33347
+   处理原因：简介将女教师被在校学生强迫脱衣、拍打及施加羞辱性惩罚作为色情卖点，涉及未成年学生形象参与的性化内容，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2331. v31272
+   英文源文件：en/visual-novels/031/v31272.json
+   VNDB：https://vndb.org/v31272
+   处理原因：简介明确将身材矮小、长相年幼的在校主角作为成年女性争夺贞操的对象，带有针对未成年人形象的色情化设定。无法在保留原意的前提下完成翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2332. v31283
+   英文源文件：en/visual-novels/031/v31283.json
+   VNDB：https://vndb.org/v31283
+   处理原因：简介以年幼妹妹洗澡时不断升级的色情举动为情节核心，发行页亦以触摸其身体及使其获得性满足为主要玩法。无法在保留原意的前提下完成涉及未成年人形象的色情内容翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2333. v31285
+   英文源文件：en/visual-novels/031/v31285.json
+   VNDB：https://vndb.org/v31285
+   处理原因：简介以幼妹形象之间围绕排泄物的性癖为核心，发行页亦包含在校角色、尿布及排泄物性行为标签。无法在保留原意的前提下完成涉及未成年人形象的色情内容翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2334. v31294
+   英文源文件：en/visual-novels/031/v31294.json
+   VNDB：https://vndb.org/v31294
+   处理原因：简介明确以变成幼女、探索其身体并进行女同性行为为卖点，涉及未成年人形象的色情内容。无法在保留原意的前提下完成翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2335. v32337
+作品名：愛娘とのパパ活エッチ～ダメって言っても、気持ちいいでしょ♪～
+原因：简介以具有未成年语境的女儿向父亲提供性服务换取零用钱为核心，无法在保持原意的同时完成翻译。
+原文路径：en/visual-novels/032/v32337.json
+参考页面：https://gyutto.com/i/item246651?select_uaflag=1
+
+2336. v31336
+   英文源文件：en/visual-novels/031/v31336.json
+   VNDB：https://vndb.org/v31336
+   处理原因：角色资料明确将情色对象描述为幼女外形的角色，无法翻译其性化简介。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2337. v33433
+   英文标题：Mahiro Standup!
+   原名：マヒロSTANDUP!
+   英文源文件：en/visual-novels/033/v33433.json
+   VNDB：https://vndb.org/v33433
+   处理原因：VNDB角色资料将主要拳击角色明确设为高中生，简介直接以胸部暴露、击打性快感等色情要素为卖点，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2338. v33436
+   英文标题：Misao-tan to Araikko Shiyo
+   原名：みさおたんとあらいっこしよ
+   英文源文件：en/visual-novels/033/v33436.json
+   VNDB：https://vndb.org/v33436
+   处理原因：简介将仍在发育且保持儿童般天真的表妹置于共浴与逐步升级的色情情境，无法完成涉及未成年人形象的正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2339. v33439
+   英文标题：○○○○○ (※Title Jishu Kisei)
+   原名：○○○○○（※タイトル自主規制）
+   英文源文件：en/visual-novels/033/v33439.json
+   VNDB：https://vndb.org/v33439
+   处理原因：简介露骨描写性行为、射精与对女孩的性开发，VNDB明确含小学生女主角且仅有萝莉女主角，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2340. v33441
+   英文标题：Hah Hah! Yarasete! Yui-chan!
+   原名：ハァハァ！やらせて！ゆいちゃん
+   英文源文件：en/visual-novels/033/v33441.json
+   VNDB：https://vndb.org/v33441
+   处理原因：简介直接描写在校女生遭教师及学生反复性侵，并将其性化为快感来源，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2341. v32465
+   英文源文件：en/visual-novels/032/v32465.json
+   VNDB：https://vndb.org/v32465
+   处理原因：简介涉及《希德尼娅的骑士》原作未成年角色的性侵情节，无法在保留原意的前提下完成翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2342. v31428
+   英文源文件：en/visual-novels/031/v31428.json
+   VNDB：https://vndb.org/v31428
+   处理原因：原文明确以萝莉为性调教对象，并含有露骨性描写。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2343. v31443
+   英文源文件：en/visual-novels/031/v31443.json
+   VNDB：https://vndb.org/v31443
+   处理原因：原文以学园中的低年级学生、同班同学及妹妹等角色为交配与性侵蚀对象，涉及未成年或明显未成年语境的露骨性化。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2344. v32536
+   英文源文件：en/visual-novels/032/v32536.json
+   VNDB：https://vndb.org/v32536
+   处理原因：简介包含明确低龄女孩的露骨性行为及性侵内容，无法在保留原意的前提下完成翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2345. v32545
+   英文源文件：en/visual-novels/032/v32545.json
+   VNDB：https://vndb.org/v32545
+   处理原因：简介以在校少女被性化、满足性欲的转变为核心，无法在保留原意的前提下完成翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2346. v33539
+   英文标题：Daddy's Little Girls
+   原名：无
+   英文源文件：en/visual-novels/033/v33539.json
+   VNDB：https://vndb.org/v33539
+   处理原因：简介以未成年女儿的性化乱伦为卖点，作品标签亦明确包含萝莉女主角及恋童内容，无法翻译该正文。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2347. v33547
+   英文标题：Shota Sleepover Stories
+   原名：无
+   英文源文件：en/visual-novels/033/v33547.json
+   VNDB：https://vndb.org/v33547
+   处理原因：作品明确以正太角色为性化对象，简介描述诱惑朋友的色情情节，无法翻译该正文。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2348. v33601
+   英文标题：Kan'ochi x Namaiki Gyaru ~Chou Kimochi Ii! Atashi, Sensei no Niku Onaho ni Naru!~
+   原名：完堕ち×生意気ギャル ～チョー気持ちイイ！アタシ、センセイの肉オナホになるっ！～
+   英文源文件：en/visual-novels/033/v33601.json
+   VNDB：https://vndb.org/v33601
+   处理原因：简介包含对女高中生施药并进行性化驯服的情节，无法翻译该正文。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2349. v31488
+   英文源文件：en/visual-novels/031/v31488.json
+   VNDB：https://vndb.org/v31488
+   处理原因：简介露骨描写仍以在校成绩为人物设定的妹妹自慰，未能确认该角色已成年。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2350. v31504
+   英文源文件：en/visual-novels/031/v31504.json
+   VNDB：https://vndb.org/v31504
+   处理原因：原文直接描写学园女学生集体实施性侵，涉及未成年或明显未成年语境的性内容。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2351. v32653
+   英文源文件：en/visual-novels/032/v32653.json
+   VNDB：https://vndb.org/v32653
+   处理原因：简介涉及同班在校角色之间的性虐待，无法在保留原意的前提下完成翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2352. v33719
+   英文标题：Yandere Imouto ni Aisaresugite Kozukuri Seikatsu
+   原名：ヤンデレ妹に愛されすぎて子作り生活
+   英文源文件：en/visual-novels/033/v33719.json
+   VNDB：https://vndb.org/v33719
+   处理原因：简介包含带有未成年年龄编码的妹妹对兄长实施性侵、以性交受孕的露骨性化情节，无法翻译该正文。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2353. v32662
+   英文源文件：en/visual-novels/032/v32662.json
+   VNDB：https://vndb.org/v32662
+   处理原因：简介以针对在校少女的性骚扰冲动为核心，无法在保留原意的前提下完成翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2354. v33788
+   英文标题：Raphtalia duty
+   原名：无
+   英文源文件：en/visual-novels/033/v33788.json
+   VNDB：https://vndb.org/v33788
+   处理原因：简介直接以原作中未成年角色拉芙塔莉雅为色情故事对象，无法翻译该正文。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2355. v32727
+   英文源文件：en/visual-novels/032/v32727.json
+   VNDB：https://vndb.org/v32727
+   处理原因：作品采用《爱丽丝梦游仙境》的低龄主角形象，简介包含脱衣及群交等色情情节，无法在保留原意的前提下完成翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2356. v33827
+   英文标题：Adventurer Trainer
+   原名：无
+   英文源文件：en/visual-novels/033/v33827.json
+   VNDB：https://vndb.org/v33827
+   处理原因：作品以包含原作未成年角色的色情戏仿为卖点，官方更新亦确认惠惠等角色的性化内容，无法翻译该色情宣传正文。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2357. v33846
+   英文标题：Dopocchari Kuikomi M Musume ~Sensei, Watashi, Nuganakute mo Sugoindesu!~
+   原名：どぽっちゃり食い込みＭ娘～先生、私、脱がなくてもすごいんです！～
+   英文源文件：en/visual-novels/033/v33846.json
+   VNDB：https://vndb.org/v33846
+   处理原因：简介涉及对女高中生开展带有肉体及精神伤害的性虐待关系，无法翻译该正文。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2358. v33850
+   英文标题：Lustworth Academy
+   原名：无
+   英文源文件：en/visual-novels/033/v33850.json
+   VNDB：https://vndb.org/v33850
+   处理原因：简介以未成年不良少年在预备学校中的性经历为娱乐卖点，无法翻译该正文。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2359. v33872
+   英文标题：Sasha's Initiation
+   原名：无
+   英文源文件：en/visual-novels/033/v33872.json
+   VNDB：https://vndb.org/v33872
+   处理原因：简介包含已确认未成年角色Vicky及其妹妹与父亲的露骨乱伦、自慰和性行为情节，无法翻译该正文。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2360. v33880
+   英文标题：Perseus to Andromeda
+   原名：ペルセウスとアンドロメダ
+   英文源文件：en/visual-novels/033/v33880.json
+   VNDB：https://vndb.org/v33880
+   处理原因：简介以学校班级女生全裸登台作为性化卖点，无法翻译该正文。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2361. v33886
+   英文标题：Andromeda ~ Sonogo
+   原名：アンドロメダ〜その後
+   英文源文件：en/visual-novels/033/v33886.json
+   VNDB：https://vndb.org/v33886
+   处理原因：承接女学生全裸演出的前作，简介继续以该角色全裸拍摄作为性化卖点，无法翻译该正文。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2362. v33889
+   英文标题：Musume yo...2 Chijoku no Natsuyasumi Soshite Shingakki
+   原名：娘よ……2 恥辱の夏休みそして新学期
+   英文源文件：en/visual-novels/033/v33889.json
+   VNDB：https://vndb.org/v33889
+   处理原因：简介包含父亲对在校女儿实施强奸、公开性交与羞辱的露骨性化描写，无法翻译该正文。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2363. v33902
+   英文标题：Shikaeshi Game ~Shasei Sasenai to Shinu Death Game~
+   原名：しかえしゲエム～射精させないと死ぬデスゲーム～
+   英文源文件：en/visual-novels/033/v33902.json
+   VNDB：https://vndb.org/v33902
+   处理原因：简介包含迫使在校女生反复进行性行为的死亡游戏及色情报复情节，无法翻译该正文。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2364. v33907
+   英文标题：Nii-chan no Oyome-san wa Hentai-san ~Kawaii Boku-chan, Itadakimasu♪~
+   原名：にいちゃんのお嫁さんはヘンタイさん～可愛いボクちゃん、いただきます♪～
+   英文源文件：en/visual-novels/033/v33907.json
+   VNDB：https://vndb.org/v33907
+   处理原因：简介以幼态男孩与嫂嫂的性化接触为卖点，包含针对男孩的色情诱惑，无法翻译该正文。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2365. v33951
+   英文标题：Hinako HGame
+   原名：无
+   英文源文件：en/visual-novels/033/v33951.json
+   VNDB：https://vndb.org/v33951
+   处理原因：简介包含以萝莉角色Hinako为对象的强奸性化情节，无法翻译该正文。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2366. v31698
+   英文源文件：en/visual-novels/031/v31698.json
+   VNDB：https://vndb.org/v31698
+   处理原因：原文明确描写恋童癖哥哥诱骗仍处于青春期的妹妹发生性行为。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2367. v31699
+   英文源文件：en/visual-novels/031/v31699.json
+   VNDB：https://vndb.org/v31699
+   处理原因：作品属于幼女题材，原文描写长辈诱导女孩发生性行为及升级性活动。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2368. v31759
+   英文源文件：en/visual-novels/031/v31759.json
+   VNDB：https://vndb.org/v31759
+   处理原因：原文直接描写教师以年轻女学生满足性欲，并与校方负责人女儿发生性行为，涉及未成年或明显未成年语境的性内容。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2369. v33982
+   英文标题：Boku no Satori: Haru no Tennyo Hen
+   原名：僕の悟リ 春の天女編
+   英文源文件：en/visual-novels/033/v33982.json
+   VNDB：https://vndb.org/v33982
+   处理原因：简介明确包含萝莉自慰及成年人与其发生性行为的情节，无法翻译该正文。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2370. v33995
+   英文标题：Namaiki JK Library
+   原名：ナマイキJKライブラリー
+   英文源文件：en/visual-novels/033/v33995.json
+   VNDB：https://vndb.org/v33995
+   处理原因：简介以成年图书管理员与女高中生的性化亲密关系为卖点，并突出未成年角色的胸部，无法翻译该正文。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2371. v32886
+   英文源文件：en/visual-novels/032/v32886.json
+   VNDB：https://vndb.org/v32886
+   处理原因：简介以《宝可梦》未成年或明显未成年化的主角鸣依、共平为对象，包含性化身体描写及性支配情节，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2321. v31882
+   英文源文件：en/visual-novels/031/v31882.json
+   VNDB：https://vndb.org/v31882
+   处理原因：原文以同校继妹及女学生为性成瘾、轮奸与色情服务对象，涉及明显未成年语境的露骨性内容。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2372. v32920
+   英文源文件：en/visual-novels/032/v32920.json
+   VNDB：https://vndb.org/v32920
+   处理原因：简介对在校学生及学妹进行持续的性化身体描写，涉及胸部、身材与性挑逗，无法完整翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2373. v32954
+   英文源文件：en/visual-novels/032/v32954.json
+   VNDB：https://vndb.org/v32954
+   处理原因：简介以《出包王女》的未成年角色结城美柑及其兄长为对象，涉及共同沐浴和性关系，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2322. v31895
+   英文源文件：en/visual-novels/031/v31895.json
+   VNDB：https://vndb.org/v31895
+   处理原因：简介包含疑似幼女角色的裸体露出性化，无法确认角色成年。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2323. v31896
+   英文源文件：en/visual-novels/031/v31896.json
+   VNDB：https://vndb.org/v31896
+   处理原因：原文以幼女或明显未成年外形的女孩为对象，描写对成年男性生殖器的兴趣及性游戏。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2324. v31897
+   英文源文件：en/visual-novels/031/v31897.json
+   VNDB：https://vndb.org/v31897
+   处理原因：作品明确以亲戚家的小孩为对象，描写其强烈性兴趣并暗示性接触。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2325. v31898
+   英文源文件：en/visual-novels/031/v31898.json
+   VNDB：https://vndb.org/v31898
+   处理原因：作品以女童为脱衣猜拳及色情惩罚游戏的对象。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2326. v31899
+   英文源文件：en/visual-novels/031/v31899.json
+   VNDB：https://vndb.org/v31899
+   处理原因：原文明示萝莉，描写脱衣后实施性惩罚。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2374. v32955
+   英文源文件：en/visual-novels/032/v32955.json
+   VNDB：https://vndb.org/v32955
+   处理原因：简介以《出包王女》的未成年角色古手川唯为对象，包含持续性欲、自渎和性化身体描写，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2375. v32956
+   英文源文件：en/visual-novels/032/v32956.json
+   VNDB：https://vndb.org/v32956
+   处理原因：简介以教师与《出包王女》的未成年学生主角为对象，直接描述日常性关系，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2376. v32983
+   英文源文件：en/visual-novels/032/v32983.json
+   VNDB：https://vndb.org/v32983
+   处理原因：简介包含在校学生的性兴奋、自渎及针对家庭教师的性调教情节，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2377. v32995
+   英文源文件：en/visual-novels/032/v32995.json
+   VNDB：https://vndb.org/v32995
+   处理原因：原发布页将作品明确标为幼女色情冒险游戏，简介描述幼女遭性侵扰及性行为，无法完成正文翻译。
+   处理状态：拒绝正文翻译；未创建zh-Hans JSON
+
+2378. v32998
+   英文源文件：en/visual-novels/032/v32998.json
+   VNDB：https://vndb.org/v32998
+   处理原因：原发布页明确将作品标为幼女色情游戏，简介直接描述两名低龄角色的性行为，无法完成正文翻译。
    处理状态：拒绝正文翻译；未创建zh-Hans JSON

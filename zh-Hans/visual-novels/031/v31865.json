@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31865",
+  "type": "visual_novel",
+  "name": "Space to Grow",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel where you play as a farmer, father, and community member. Decide what to plant, which faction to support, and what kind of dad you want to be. How will you react when your daughter won't stop crying? When she bullies her friend? Or when she wants to hang out with the cool kids?",
+  "source_sha256": "dddc61a84efc651d5de858b388a7e8484f06bb57aeaadd29ae8b4acf4a3e95b3",
+  "translation": "在这部视觉小说里，你既是农夫，也是父亲，还是社区的一员。决定种什么庄稼，支持哪个派系，以及想当一个怎样的爸爸。女儿哭个不停时，你会如何回应？她欺负朋友时呢？又或是，她想与那些受欢迎的孩子们一起玩的时候？",
+  "vndb_url": "https://vndb.org/v31865"
+}

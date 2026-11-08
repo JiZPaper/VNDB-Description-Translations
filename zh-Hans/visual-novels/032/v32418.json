@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32418",
+  "type": "visual_novel",
+  "name": "Electric Sleep",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You wake up in a strange lab and head out to explore a desolate landscape. Through the course of your travels, you find yourself waking up in that lab over and over, but each time in the grip of a new emotion. Discover how each emotion colours your experience of the world, and the means by which you might find answers.",
+  "source_sha256": "872e4bedb9ba47aaf7470288414f8d72ce55c084fb981192b5628bf0a77340aa",
+  "translation": "你在一间陌生的实验室醒来，随后走出去，探索荒凉的大地。旅途中，你发现自己一次又一次地在那间实验室醒来，而每次都被一种全新的情绪支配。体验不同情绪如何为眼中的世界染上色彩，并寻找能够解开谜团的方法。",
+  "vndb_url": "https://vndb.org/v32418"
+}

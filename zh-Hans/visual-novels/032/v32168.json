@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32168",
+  "type": "visual_novel",
+  "name": "Who is the Red Queen?",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Alice falls down the rabbit hole into a Wonderland not quite right. Meeting an eclectic collection of people, animals, and somethings in between, she sets out on an adventure in this odd new place to find the missing Red Queen. Or, more specifically, to find the pieces of the dismembered queen whose body has been strewn across the land.",
+  "source_sha256": "28efc3d8a314edb89e3c309df1147e26e6cc96196da15dc60df98b0b83564b18",
+  "translation": "爱丽丝掉进兔子洞，来到一个不太对劲的仙境。遇见形形色色的人、动物，以及介于两者之间的存在后，她在这片奇异的新天地展开冒险，寻找失踪的红女王。更准确地说，是寻找那位遭到肢解、身体散落各地的女王的残肢。",
+  "vndb_url": "https://vndb.org/v32168"
+}

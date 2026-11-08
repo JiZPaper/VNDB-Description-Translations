@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32656",
+  "type": "visual_novel",
+  "name": "Summer Horrordays",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"Relive the Summer holidays and go on a journey through 6 short stories spanning a single day. Take a peek through rose-tinted glasses, then rip away the curtain to see the monsters lurking beneath. Don't forget to send us a postcard, have a nice trip...\"\n\nSummer Horrordays is an anthology collection of short stories with a horror twist. The game was made as an entry to the Spooktober VN Game Jam, and is free to download and play from itch.io\n\nThis game has been made compatible with Ren'py's self-voicing function, including image descriptions and menu item descriptions on hover. To enable or disable self-voicing, please press V when in the game. For more details, see the official itch page for the game.",
+  "source_sha256": "deadf051e19764ae47a5cfa21d60cf161ee20d5189cb298a988d2688194f9a89",
+  "translation": "“重温暑假，在横跨同一天的六则短篇故事中踏上旅程。先透过玫瑰色眼镜看一看，再揭开帷幕，看看底下潜伏的怪物。别忘了给我们寄张明信片，祝你旅途愉快……”\n\n《Summer Horrordays》是一部带有恐怖转折的短篇故事合集，为Spooktober视觉小说创作活动制作，可在itch.io免费下载游玩。\n\n本作支持Ren'Py的自动朗读功能，包括图片说明，以及鼠标悬停时的菜单选项说明。游戏中按V键，即可开启或关闭自动朗读。更多详情，请参阅本作的itch页面。",
+  "vndb_url": "https://vndb.org/v32656"
+}

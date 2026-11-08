@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32013",
+  "type": "visual_novel",
+  "name": "Score My Love",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "It's your final year and last chance to go pro! But what happens when a sexy superstar becomes your coach? Will you score, or will you stumble? The game has just begun.",
+  "source_sha256": "f3b770019ca332a5cee23abfe751b4c186268dc9569ea527827528f3257b40bf",
+  "translation": "最后一个学年，也是你进军职业赛场的最后机会！可当一位性感的超级球星成了你的教练，又会发生什么？你会成功得分，还是遭遇挫折？比赛才刚刚开始。",
+  "vndb_url": "https://vndb.org/v32013"
+}

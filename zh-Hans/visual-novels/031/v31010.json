@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31010",
+  "type": "visual_novel",
+  "name": "Outerspace Cafe",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're just chilling in your cafe and [B]BAM![/B] A small alien child comes to bug you! It's up to you to decide her fate into the alien she grows up to be!\n\n[From [URL=https://spicyskull.itch.io/outerspace-cafe]itch.io[/URL]]",
+  "source_sha256": "143925b0a64893541471c358480aee0caba209871f0aef6f690a082638bab46e",
+  "translation": "你正悠闲地待在自己的咖啡馆里，[B]砰！[/B]一个外星小女孩突然冒出来缠上了你！她的命运由你决定，你的选择将影响她长大后成为怎样的外星人！\n\n[摘自[URL=https://spicyskull.itch.io/outerspace-cafe]itch.io[/URL]]",
+  "vndb_url": "https://vndb.org/v31010"
+}

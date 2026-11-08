@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32802",
+  "type": "visual_novel",
+  "name": "Shirouto Iede Musume to Ore",
+  "original_name": "シロウト家出娘と俺",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "My life has just started together with this runaway girl.\nShe's naturally rather closed-off and suspicious of me at first,\nbut as we communicate and spend more time together, she comes to open up to me.",
+  "source_sha256": "3b3f24df8a97e552035cd3aad6d1d607b24dae2f191143a13830f4efe54d3abd",
+  "translation": "我与这位离家出走的女孩，刚刚开始共同生活。\n起初，她自然有些封闭，对我心存戒备。\n但随着交流增多，相处的时间越来越长，她也逐渐向我敞开了心扉。",
+  "vndb_url": "https://vndb.org/v32802"
+}

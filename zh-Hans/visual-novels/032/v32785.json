@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32785",
+  "type": "visual_novel",
+  "name": "Muv-Luv Alternative Chronicles: Shokuzai",
+  "original_name": "マブラヴ オルタネイティヴ クロニクルズ 贖罪",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A Muv Luv Alternative spin off about Sergent [url=/c112]Jinguuji Marimo[/url]'s past.",
+  "source_sha256": "88c6f68bde7f2e3c1610e37fdace8f71698d04a9fae04b8176db419e5ba8e791",
+  "translation": "《Muv-Luv Alternative》的衍生作品，讲述[url=/c112]神宫司麻理茉[/url]军士的过去。",
+  "vndb_url": "https://vndb.org/v32785"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31075",
+  "type": "visual_novel",
+  "name": "The Epic of Inanna",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An epic story of love, courage, and sacrifice, the tale of Inanna stretches across dozens of cultures and thousands of years. Follow the adventures of four heroes on their journeys of discovery and redemption.\n\n[From [url=https://store.steampowered.com/app/1506900/]Steam[/url]]",
+  "source_sha256": "20090587f154b1ae3ddb83b07122b9e6b938c24cc0aa43b57ce3a4dac5ba91c6",
+  "translation": "伊南娜的传说跨越数十种文化、数千年岁月，是一段关于爱、勇气与牺牲的史诗。跟随四位英雄，踏上探索与救赎之旅。\n\n[摘自[url=https://store.steampowered.com/app/1506900/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v31075"
+}

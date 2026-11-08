@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33946",
+  "type": "visual_novel",
+  "name": "To Make a Game",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short meta story about the struggles of procrastination, and never finishing the things you start. Help motivate me, and give me the confidence I need to finish something.\n\n[From [url=https://store.steampowered.com/app/1889000/]Steam[/url]]",
+  "source_sha256": "1a97982510f70fd73ce02579562ea0902e76e2123054f36cf692713e302e3632",
+  "translation": "一篇短篇元叙事，讲述与拖延抗争，以及开始的事总也无法完成的困境。请帮我振作起来，给我把一件事做完所需的信心。\n\n[译自[url=https://store.steampowered.com/app/1889000/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v33946"
+}

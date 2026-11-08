@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32139",
+  "type": "visual_novel",
+  "name": "Imposter Syndrome",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Due to reasons out of anyone's control, you've found yourself playing understudy for someone else's life. Too bad you don't know a thing about them.\n\nThink fast, act casual, and don't let anyone know that you're not the person they want you to be. And if you mess up? ...Well, there's always Plan C.",
+  "source_sha256": "2975d8648e032ba86c8af17664592147279f44a9c1ee3dcd2c9499d244515d1c",
+  "translation": "由于谁也无法控制的原因，你发现自己竟要代演另一个人的人生。糟糕的是，你对这个人一无所知。\n\n反应要快，表现要自然，别让任何人发现，你并不是他们以为的那个人。至于搞砸了怎么办？……嗯，总还有C计划。",
+  "vndb_url": "https://vndb.org/v32139"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31163",
+  "type": "visual_novel",
+  "name": "Only Girl in High School",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Finally, I'm a high student now. I dreamt about my fun school life,\nbut wait, Am I the only girl in this school?!\n\nWho is going to be your school boyfriend?",
+  "source_sha256": "94e9cd604cc141f7c670d62165d8d41a68d67165171cfcb3d1d9df37688448f8",
+  "translation": "终于，我也成为高中生了。原本还憧憬着欢乐的校园生活，\n可等等，这所学校里，难道只有我一个女生？！\n\n谁会成为你的校园男友呢？",
+  "vndb_url": "https://vndb.org/v31163"
+}

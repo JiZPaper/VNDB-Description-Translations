@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32666",
+  "type": "visual_novel",
+  "name": "Halloween Scrooge",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Halloween Scrooge is \"A Christmas Carol\" meets Halloween, and you can flirt with the ghosts!  You're the grumpy main character, freshly moved to a new town and unenthusiastic about celebrating Halloween. Three handsome ghosts make it their mission to convince you otherwise.",
+  "source_sha256": "a26c0d9a367edc3096354166f585077b72b41257a0815ee653be37e7cd71cfc1",
+  "translation": "《Halloween Scrooge》将《圣诞颂歌》与万圣节结合，而且，你还能与鬼魂调情！你将扮演一位刚搬到新镇上、脾气不好的主人公，对庆祝万圣节毫无兴趣。三个英俊的鬼魂，却把说服你改变心意当成了自己的使命。",
+  "vndb_url": "https://vndb.org/v32666"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31310",
+  "type": "visual_novel",
+  "name": "Hygge Game",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel about a guy moving to Copenhagen and meeting a girl who teaches him about hygge.\n\nThe visual novel contains two possible endings.\n\nFrom [url=https://maya-dk.itch.io/hygge-game]itch.io[/url]",
+  "source_sha256": "fc1c78aa3eb7e95c2fe7925685f7d0a730ba920b29360a5264eadaab6c78d463",
+  "translation": "一部讲述男子搬到哥本哈根，遇见一位教他体验Hygge——温暖惬意的生活方式——的女孩的视觉小说。\n\n游戏有两种结局。\n\n摘自[url=https://maya-dk.itch.io/hygge-game]itch.io[/url]",
+  "vndb_url": "https://vndb.org/v31310"
+}
