@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26835",
+  "type": "visual_novel",
+  "name": "Rainbow Stage",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short (10 minutes) original visual novel about a plus-sized person who starts up an idol group. Among the members include a transgender man, a person-of-color dancer, and a disabled singer.\n\n[From the Itch.io page]",
+  "source_sha256": "7b65e7430b73e60e375551be334c6447471746b41bc3e94f2530ec3e4e75584e",
+  "translation": "一部约十分钟的原创短篇视觉小说，讲述一位身材丰腴的人组建偶像团体的故事。团体成员中有跨性别男性、有色人种舞者，以及残障歌手。\n\n[摘自Itch.io页面]",
+  "vndb_url": "https://vndb.org/v26835"
+}

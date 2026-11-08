@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26957",
+  "type": "visual_novel",
+  "name": "Time Zone",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Time Zone is a multi-disk graphical adventure game written and directed by Roberta Williams for the Apple II. Developed in 1981 and released in 1982 by On-Line Systems (later Sierra Entertainment), the game was shipped with six double-sided floppy disks and contained 1,500 areas (screens) to explore along with 39 scenarios to solve. Produced at a time when most games rarely took up more than one side of a floppy, Time Zone is one of the first games of this magnitude released for home computer systems.",
+  "source_sha256": "2f42157d5ddd193630bec53a49400fe233ac68d4998e6f17c25ef866b0b0168e",
+  "translation": "《Time Zone》是由罗伯塔·威廉姆斯编剧并执导、面向Apple II开发的一款多磁盘图形冒险游戏。游戏于1981年开发，1982年由On-Line Systems（后来的雪乐山娱乐）发行，使用六张双面软盘，包含1500个可供探索的区域（画面）及39个待解的情境谜题。当时，大多数游戏连一张软盘的单面容量都很少占满，而《Time Zone》是最早登陆家用电脑的同等规模游戏之一。",
+  "vndb_url": "https://vndb.org/v26957"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29198",
+  "type": "visual_novel",
+  "name": "Twin Hill's Tale",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as a scriptwriter who is tired of living his current life and he decides to move away and chase his dream to become an accomplished bestseller writer. Teaching in the local university, our protagonist is starting his new life and you can help him.\n\n[From [url=https://www.patreon.com/fokkenproductions]Patreon[/url]]",
+  "source_sha256": "e9a43ed1010a3549654a05e1a2d1c82cb82b041e4833b8f6c90735b811889f02",
+  "translation": "你将扮演一名厌倦了当下生活的编剧。他决定搬离原来的地方，追逐成为畅销书作家的梦想。主角在当地大学任教，开始了自己的新生活，而你可以帮助他。\n\n[摘自[url=https://www.patreon.com/fokkenproductions]Patreon[/url]]",
+  "vndb_url": "https://vndb.org/v29198"
+}

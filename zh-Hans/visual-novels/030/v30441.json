@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30441",
+  "type": "visual_novel",
+  "name": "Doctor Voldritch's Experiment",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "It seems you signed up for an experiment at a lab testing the effects of mind control. The experiment is led by a rather calm yet eccentric doctor named Voldritch who will help you through the experiment and ease your mind leaving you, well, mindless.\n\n[From [url=https://bloofbloof.itch.io/drvoldritch]Itch.io[/url]]",
+  "source_sha256": "e02b78c863b178f8279ce5335ea5f7cfa6e2e88879294871cfc975d036ab4c8d",
+  "translation": "看来，你报名参加了实验室的一项实验，测试精神控制的效果。主持实验的是一位名叫沃尔德里奇的博士，他相当沉着，却又有些古怪。他会引导你完成实验，让你的心神放松，直到你……嗯，什么都不再想。\n\n[摘自[url=https://bloofbloof.itch.io/drvoldritch]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v30441"
+}

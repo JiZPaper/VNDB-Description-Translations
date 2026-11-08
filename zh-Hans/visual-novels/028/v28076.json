@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28076",
+  "type": "visual_novel",
+  "name": "Twilight",
+  "original_name": "トワイライト",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "I spent my unchanging, peaceful days with Cyrus, who’s like an elder brother and a parent to me.\nIf only these days would last forever, that’s what I thought.\nUntil that windy night, when he appeared.\n\n[Translated from the [url=http://ksrg.sakura.ne.jp/twilight/]official website[/url]]",
+  "source_sha256": "e408f3200f8db037749f216cf53baf459b3f5e55ed858950781c9ad1a78496b2",
+  "translation": "我和赛勒斯一起，过着平静而一成不变的日子。他于我而言，既像兄长，也像父亲。\n要是这样的日子能永远持续下去就好了，我曾这样想。\n直到那个起风的夜晚，他出现在我面前。\n\n[译自[url=http://ksrg.sakura.ne.jp/twilight/]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v28076"
+}

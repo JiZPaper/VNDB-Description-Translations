@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30525",
+  "type": "visual_novel",
+  "name": "Cold Hearts",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Cold Hearts is a visual novel about refrigerators, loneliness and the meaning of life. Befriend and date household appliances, melt their frozen hearts, solve the crime story and uncover the truth - the real reason why these girl-fridges made contact with you, of all people!",
+  "source_sha256": "ee57db4229941b6aa4d8af3e1b7ae7075f6be357ca97e527a05200872b908455",
+  "translation": "《Cold Hearts》是一部关于冰箱、孤独与生命意义的视觉小说。与家用电器交朋友、谈恋爱，融化她们冰封的心，破解犯罪谜案，揭开真相——这些冰箱女孩，究竟为什么偏偏找上了你！",
+  "vndb_url": "https://vndb.org/v30525"
+}

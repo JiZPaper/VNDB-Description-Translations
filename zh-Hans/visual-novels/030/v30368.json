@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30368",
+  "type": "visual_novel",
+  "name": "The Mask Game",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A group of friends (and one uninvited interloper) put their bonds to the test by performing an arcane ritual in a basement on Halloween. What could go wrong?\n\nThis is a short, completely standalone side story set in an alternate timeline of the game R. I. P. Tour.",
+  "source_sha256": "3d5b0441ebcc9ec6c5b38da87157d7ed654e70121c23af18051b83fd751ce900",
+  "translation": "万圣节，一群朋友和一名不请自来的闯入者，在地下室举行了一场神秘仪式，借此考验彼此的羁绊。能出什么岔子呢？\n\n这是一个发生在《R. I. P. Tour》另一条时间线中的短篇番外故事，可以完全独立阅读。",
+  "vndb_url": "https://vndb.org/v30368"
+}

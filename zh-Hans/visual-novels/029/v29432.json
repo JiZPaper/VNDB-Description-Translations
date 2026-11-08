@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29432",
+  "type": "visual_novel",
+  "name": "Come Home",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "When your father goes missing, you return home to help find him, while also negotiating relationships with the many other people in your life.",
+  "source_sha256": "7f245e37e727dac6849affa7d713d28a724b521d10d3b64ad87581d5605c46e6",
+  "translation": "父亲失踪后，你回到家中，协助寻找他的下落，同时也要处理与生活中许多人之间的关系。",
+  "vndb_url": "https://vndb.org/v29432"
+}

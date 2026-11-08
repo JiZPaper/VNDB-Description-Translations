@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29331",
+  "type": "visual_novel",
+  "name": "The Interactive History of Interactive Novels",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Curious about the history of visual and interactive fiction? Funded my Miami University, and with help from Dr. Phill Alexander, the Interactive History of Interactive Novels not only dives into the development of games such as Zork and ADVENT, but explains the motivations of their creations, libraries of games where one could buy and purchase interactive fiction, the different genres of interactive fiction, how people create interactive fiction, how to write your own interactive fiction, and more!\n\n[From [url=https://games.renpy.org/game/the-interactive-history-of-interactive-novels]Ren'Ai Archive[/url]]",
+  "source_sha256": "95e89de1f9d1175a76d49a7c44c7546a52871a512ca93fd8d0c7852db5d79168",
+  "translation": "想了解视觉小说与互动小说的历史吗？在迈阿密大学的资助和菲尔·亚历山大博士的协助下，《The Interactive History of Interactive Novels》不仅深入介绍了《Zork》和《ADVENT》等游戏的发展历程，也探讨了创作它们的动机、可供选购互动小说的游戏库、互动小说的不同类型、人们如何制作这类作品、如何创作属于自己的互动小说，以及更多内容！\n\n[摘自[url=https://games.renpy.org/game/the-interactive-history-of-interactive-novels]Ren'Ai Archive[/url]]",
+  "vndb_url": "https://vndb.org/v29331"
+}

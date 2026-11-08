@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27163",
+  "type": "visual_novel",
+  "name": "Tsukegi Uri no Adauchi",
+  "original_name": "付け木売りの仇討ち",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A man who leaves his hometown to seek vengeance is unable to find his target, and settles down into life as a kindling seller.\nOne snowy night in a freezing room, he uses some of his kindling to make a fire, and sees a nostalgic vision in the smoke.",
+  "source_sha256": "221c2ab8883b782696d9ab91d9d168d0d274ab8903948f42d1c55cfc0ef122cb",
+  "translation": "一个男人离开故乡，踏上复仇之路，却始终找不到仇人，最后定居下来，以卖引火木片为生。\n一个雪夜，他在冰冷的房间里用自己的木片生火，却从烟雾中看见了令人怀念的幻景。",
+  "vndb_url": "https://vndb.org/v27163"
+}

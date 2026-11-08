@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29323",
+  "type": "visual_novel",
+  "name": "Pinnacle or Precipice",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A former black ops operative returns home after a ten year long absence. Complications arise when he is immediately involved in a murder plot, and hired to be a bodyguard for a teen pop star.",
+  "source_sha256": "1b06cc699291cfc63b52e9d013e0819d99c2e422083e41aeab9bff0eaebf78fd",
+  "translation": "一名前秘密行动人员阔别十年后回到故乡，却立刻卷入一场谋杀阴谋，还受雇成为一位少年流行歌星的保镖，局面由此愈发复杂。",
+  "vndb_url": "https://vndb.org/v29323"
+}

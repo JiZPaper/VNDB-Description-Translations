@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26116",
+  "type": "visual_novel",
+  "name": "Shinobi Kakuran Musou",
+  "original_name": "忍カクランムソウ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Will you follow your destiny, or your fate as a Shinobi?\n\nThe protagonist's life is one day endangered by a mysterious masked group, and she soon learns of the enemy's evil plot. In order to protect her comrades and village, she decides to disguise herself as a man to enter the enemy territory.",
+  "source_sha256": "8a38568005b1998237b8fbf8c2ed684ef06c5ae1ab128de410e32a6e9eb93ec6",
+  "translation": "你会顺从自己的命运，还是背负忍者的宿命？\n\n某天，主角遭到一群神秘蒙面人的袭击，生命受到威胁，随后得知了敌人的邪恶阴谋。为了保护伙伴和村庄，她决定女扮男装，潜入敌方领地。",
+  "vndb_url": "https://vndb.org/v26116"
+}

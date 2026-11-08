@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28447",
+  "type": "visual_novel",
+  "name": "State of Mind",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Couriers are special envoys tasked with assisting others on a mysterious island and beyond.\nVery few survive their training before being put on active duty. You play as one of these couriers.​\n\n[From F95Zone]",
+  "source_sha256": "731f65cd531fc8f8e97aff9b04905b14e79f6c6596b8d03217ce58594496118e",
+  "translation": "信使是一群特殊使者，受命在一座神秘岛屿及岛外各地帮助他人。\n在正式服役前的训练中，能够活下来的人寥寥无几。你将扮演其中一名信使。\n\n[摘自F95Zone]",
+  "vndb_url": "https://vndb.org/v28447"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27946",
+  "type": "visual_novel",
+  "name": "Two Weeks in Painland",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Two Weeks in Painland is a story-driven game about a run-of-the-mill hacker spying on gangsters who are anything but, all while trying to keep his life and limbs in the process. Easier said than done.",
+  "source_sha256": "44b2e8ea6a3f1ad84329db70a14510819fb7078e72fed4450fb637b3425368bd",
+  "translation": "《Two Weeks in Painland》是一款以剧情为核心的游戏。一个平平无奇的黑客，要监视一群一点也不平凡的黑帮分子，还得设法保住性命和四肢。说起来容易，做起来可难了。",
+  "vndb_url": "https://vndb.org/v27946"
+}

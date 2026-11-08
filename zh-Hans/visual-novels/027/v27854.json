@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27854",
+  "type": "visual_novel",
+  "name": "Bittersweet",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Suffering from a recent heartbreak, you find consolation in an unexpected person\nExperience the bittersweet romance, as fate brings the two of you closer together\n\n[From official site]",
+  "source_sha256": "481fcb3a1cf2332a158edd07b9a787fa14334fe602a0d47703e8496c08f2d87f",
+  "translation": "刚刚失恋的你，从一个意想不到的人那里得到了慰藉。\n命运让你们越走越近，体验这段苦乐交织的恋情吧。\n\n[摘自官方网站]",
+  "vndb_url": "https://vndb.org/v27854"
+}

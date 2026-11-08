@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30080",
+  "type": "visual_novel",
+  "name": "Adapted Adventures: Crystal Cave",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Adapted Adventures: Crystal Cave is a short visual novel following our protagonist Hikari and team HARK as they (Hikari, Audrey, Robin, and Kyra) investigate disappearances in the neo crystal world.\n\n[From [url=https://store.steampowered.com/app/1378670/]Steam[/url]]",
+  "source_sha256": "b4abe51933bfde940b37bf96bc70eace41d5ad34b42a078938427497c26eb928",
+  "translation": "《Adapted Adventures: Crystal Cave》是一部短篇视觉小说，讲述主人公Hikari与HARK小队的冒险。小队由Hikari、奥黛丽、罗宾和凯拉组成，她们将一同调查新水晶世界中的失踪事件。\n\n[摘自[url=https://store.steampowered.com/app/1378670/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v30080"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27997",
+  "type": "visual_novel",
+  "name": "Pandora",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Here we will follow a team of scientists and explorers, on a mission at sea that might unveil some legendary mystery.\n\n[From [url=http://www.mortzeart.com/?page_id=21]Official site[/url]]",
+  "source_sha256": "a7cf81a50d1d9fbfbcd03a420d371f38ac87818cbaa186ffd9f411bac6f134f6",
+  "translation": "在这里，我们将跟随一支由科学家和探险者组成的队伍，执行一次海上任务，或许能揭开某个传说中的谜团。\n\n[摘自[url=http://www.mortzeart.com/?page_id=21]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v27997"
+}

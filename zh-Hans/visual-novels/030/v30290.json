@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30290",
+  "type": "visual_novel",
+  "name": "NVDA",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hugo, a student who is about to finish high school and goes through the dilemma of every young person: entrance exam. He dreams of producing a film and needs to decide between following his dream or pursuing something that guarantees financial stability. During the game Hugo will have to balance his time between study, leisure, friends and learn, in practice, the step by step necessary to produce his film, from the development of the script to fundraising and sponsorship so that he can finance it.",
+  "source_sha256": "2b2d5f7f213dc6186021247586eae805558a3a607c70b6309a40ab0b84f949c8",
+  "translation": "雨果是一名即将高中毕业的学生，正面临许多年轻人都会遭遇的难题，升学考试。他梦想拍摄一部电影，却必须在追逐梦想，与选择一条能保障经济稳定的道路之间作出决定。游戏中，雨果需要在学习、休闲与朋友之间分配时间，并通过实践，逐步学习制作电影所需的各个环节，从剧本创作，到募集资金、寻求赞助，为电影筹措经费。",
+  "vndb_url": "https://vndb.org/v30290"
+}

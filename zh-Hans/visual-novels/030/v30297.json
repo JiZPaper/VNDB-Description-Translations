@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30297",
+  "type": "visual_novel",
+  "name": "Koufuku no Lalka",
+  "original_name": "幸福のラルカ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"Welcome to Cafe Estacion.\"\n\nA flower smiles up at the sky.\nThe sunshine that seems to melt everything.\nThe wind that carries unreachable wishes.\nAnd the snow never melts.\n\nIn the midst of the changing seasons\nThey quietly weave their hearts together.",
+  "source_sha256": "017ce9c00a2c2cfd70833d35f2874e6cf07250e1cbfc22d216cbb8122e50d2fe",
+  "translation": "“欢迎来到Estacion咖啡馆。”\n\n花儿仰望天空，绽放笑颜。\n仿佛能融化一切的阳光。\n捎去无法传达的心愿的风。\n还有，永不消融的雪。\n\n在流转更迭的季节中，\n他们静静将彼此的心编织在一起。",
+  "vndb_url": "https://vndb.org/v30297"
+}

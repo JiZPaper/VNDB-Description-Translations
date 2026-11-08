@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30171",
+  "type": "visual_novel",
+  "name": "The End of the Summer \"Saigo no Natsu\"",
+  "original_name": "The End of the Summer「最後の夏」",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A tale of two sisters, \"The End of the Summer\" is a meditation on how we face loss — be it the dramatic disappearance of a family's housecat, or the slow wearing away that can go unnoticed for years at a stretch.",
+  "source_sha256": "7eb3d7b2092d5ff82391848bea111f7e499f7e53acbabd064bd1273e3bc9574a",
+  "translation": "《The End of the Summer》讲述一对姐妹的故事，思考我们如何面对失去。失去可以是家猫突然失踪这样剧烈的变故，也可以是日积月累、数年间都未被察觉的缓慢消磨。",
+  "vndb_url": "https://vndb.org/v30171"
+}

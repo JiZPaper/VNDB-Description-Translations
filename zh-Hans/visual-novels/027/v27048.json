@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27048",
+  "type": "visual_novel",
+  "name": "Niflheim Academy",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Enjoy the start of your romance-filled school days in the world of the dead! What mysteries await you in your new life?",
+  "source_sha256": "236c7975baeb3894008ed67e18bad08277a13a7eaabbe027b243bc48bca4d356",
+  "translation": "在亡者的世界，开启充满浪漫的校园生活吧！崭新的生活中，会有什么谜团等待着你？",
+  "vndb_url": "https://vndb.org/v27048"
+}

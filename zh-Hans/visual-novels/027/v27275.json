@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27275",
+  "type": "visual_novel",
+  "name": "Roommate",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Two young people under the same roof. Living together brings them closer. Anything could happen.\n\n[From [url=https://store.steampowered.com/app/1787070/]Steam[/url]]",
+  "source_sha256": "b9f653dcdd04e9196e20ac1f503618332cb741b6256a3875d17cfb0308637576",
+  "translation": "两个年轻人，同住一个屋檐下。共同生活让彼此逐渐亲近。一切皆有可能。\n\n[摘自[url=https://store.steampowered.com/app/1787070/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v27275"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29245",
+  "type": "visual_novel",
+  "name": "A Frigid Space",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You awaken in a town and meet a mysterious young man. He tells you the town has been abandoned.\n\nWho is he and why is he here? How will you get home?\n\nWill you trust him or avoid him?",
+  "source_sha256": "f473c56e41b81eb1b6bba2e0eef4b5ff8223e66cbfda124369aee5c6947f66ff",
+  "translation": "你在一座小镇醒来，遇见一名神秘青年。他告诉你，这座小镇已经被废弃了。\n\n他是谁，为什么会在这里？你又该怎样回家？\n\n你会相信他，还是远离他？",
+  "vndb_url": "https://vndb.org/v29245"
+}

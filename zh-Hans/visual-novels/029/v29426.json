@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29426",
+  "type": "visual_novel",
+  "name": "D'ark",
+  "original_name": "ディー・アーク",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Somewhere lies a beautiful island, which for centuries has been the battle ground for the titanic war between the forces of Light and Darkness. No side was able to control the island for a long time; after a while, the war raged anew, and the island fell under the control of the other side.\n\nForty years ago, the Light, represented by human being, prevailed in the latest battle. The island was occupied by humans. One day, a strange-looking man appeared on it. He had no memory of his own past, except his name, Dulldeek, and the hatred to humans. Without knowing what this hatred was caused by, Dulldeek feels the rage of the Dark inside him. He decides to infiltrate the castle of Veevik, the humans' fortress, to satisfy his burning anger...\n\nD'ark is a very simple solo first-person dungeon crawler. As Dulldeek, the player navigates maze-like pseudo-3D dungeons (with auto-mapping), encountering randomly appearing enemies and fighting them in turn-based combat to gain experience points and level up. The magic system is very basic, the sole choice being \"attack spell\" or \"healing spell\", both of which consume magic points. A somewhat unusual feature is the option to turn off random encounters completely at any time.",
+  "source_sha256": "b3848fa8af28a566b0bddc79ed9321b052e95830779e619b6a3ea16502444156",
+  "translation": "某处有一座美丽的岛屿，数百年来一直是光明与黑暗两大势力激烈交战的战场。任何一方都无法长期控制这座岛。每隔一段时间，战火便会再起，岛屿也随之易主。\n\n四十年前，由人类代表的光明势力赢得了最近的一场战争，占领了岛屿。某天，一个外貌古怪的男人来到岛上。他不记得自己的过去，只记得名字叫达尔迪克，以及对人类的仇恨。他不知道这份仇恨从何而来，却能感受到体内黑暗的怒火。他决定潜入人类的据点维维克城堡，宣泄这份熊熊燃烧的愤怒……\n\n《D'ark》是一款十分简单的单人第一人称迷宫探索游戏。玩家扮演达尔迪克，在带有自动绘图功能的伪3D迷宫中穿行，随机遭遇敌人，通过回合制战斗获取经验并升级。魔法系统十分基础，只能选择“攻击魔法”或“治疗魔法”，两者都会消耗魔力值。一项比较特别的功能是，玩家可以随时彻底关闭随机遇敌。",
+  "vndb_url": "https://vndb.org/v29426"
+}

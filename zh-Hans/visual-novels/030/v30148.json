@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30148",
+  "type": "visual_novel",
+  "name": "Halfway Home",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Halfway Home is a stat-management visual novel game created by students at DigiPen Institute of Technology. As the house’s most reclusive resident, get to know the other residents, manage your time between different rooms, and improve your social skills.\n\n[From [url=https://store.steampowered.com/app/950250/Halfway_Home/]Steam[/url]]",
+  "source_sha256": "a98c193d63325c42fc41618c645670e55893c827542c1a71645baed08dd1a173",
+  "translation": "《Halfway Home》是一款由迪吉彭理工学院学生制作、以数值管理为玩法的视觉小说。你将扮演屋子里最不合群的住客，认识其他住客，安排在不同房间活动的时间，并提升自己的社交能力。\n\n[摘自[url=https://store.steampowered.com/app/950250/Halfway_Home/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v30148"
+}

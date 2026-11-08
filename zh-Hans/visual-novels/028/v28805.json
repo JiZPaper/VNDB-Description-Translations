@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28805",
+  "type": "visual_novel",
+  "name": "Penny's Path",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In this interactive story game, a brush with the coronavirus sends Penny back in time to the New England witch hunts. As Penny meets strong female characters who challenge past and present stereotypes, she discovers her own special role in the changing seasons of time.",
+  "source_sha256": "873530b7abe6b1dd1375d84f50a219a73f4622c299acd2ccf7669db0000c0e10",
+  "translation": "在这部互动故事游戏中，一次与新冠病毒的接触，让佩妮穿越时空，回到了新英格兰猎巫运动的年代。她结识了坚强的女性，她们挑战着古往今来的刻板印象。而在时间流转之中，佩妮也发现了自己独特的使命。",
+  "vndb_url": "https://vndb.org/v28805"
+}

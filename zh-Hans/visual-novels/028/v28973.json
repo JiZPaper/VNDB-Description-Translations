@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28973",
+  "type": "visual_novel",
+  "name": "Harry Potter and the NLP Generated Visual Novel",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short and silly story about Harry and his friends at Hogwarts.\nThe plot of the novel and some quotes were generated using Natural Language Processing (NLP).\n\n[Edited from [url=https://tauntybird.itch.io/harry-potter-nlp-vn]itch.io[/url]]",
+  "source_sha256": "c7b1c92224a295cd131254bbebc14fea6c8b088063b0671473b97a1acb7882a7",
+  "translation": "一个简短又无厘头的故事，讲述哈利和朋友们在霍格沃茨的经历。\n本作的剧情与部分台词使用自然语言处理（NLP）生成。\n\n[编译自[url=https://tauntybird.itch.io/harry-potter-nlp-vn]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v28973"
+}

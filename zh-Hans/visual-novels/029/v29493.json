@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29493",
+  "type": "visual_novel",
+  "name": "Djinn",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Your father died in a farm accident, and now you and your mother have moved to the city.\n\nDjinn is made of two separate projects called Shade and Sins of Her Father which were merged together into the current Djinn.",
+  "source_sha256": "ccf7b5ff5e64212027a70b34e2654e32da2f8f6ff7d0fa7e450cb1f235b21b87",
+  "translation": "父亲在一场农场事故中去世后，你与母亲搬到了城市。\n\n《Djinn》由《Shade》与《Sins of Her Father》两个独立项目合并而成。",
+  "vndb_url": "https://vndb.org/v29493"
+}

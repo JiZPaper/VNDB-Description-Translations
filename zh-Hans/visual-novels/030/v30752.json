@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30752",
+  "type": "visual_novel",
+  "name": "Watashi no Riajuu Keikaku ~Henshin Mattemasu!‪~",
+  "original_name": "私のリア充計画～返信待ってます！‪～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Otome Chat Connection is a new game made by SEEC, featuring text conversations with different characters. When having conversations with characters, you are given three choices: each one is either Excellent, Good, or Bad. Excellent usually increases heart percentage by 4%, Good increases by 2%, and Bad decreases by 2%.\n\nIn order to unlock the date stories, you must have at least 80%. And in order to unlock the Epilogues, you must complete the initial 8 characters as well as completing 96% or higher for each character.",
+  "source_sha256": "87fa63f8c0fa42368e17d774f33148f427c8144265165de7dc4ec278b2899b4d",
+  "translation": "《Otome Chat Connection》是SEEC推出的新游戏，以与不同角色进行文字聊天为主要内容。交谈时，你会得到三个选项，分别对应“极佳”“良好”或“差”。通常，“极佳”会让好感度增加4%，“良好”增加2%，“差”则减少2%。\n\n想解锁约会故事，好感度必须至少达到80%。而要解锁尾声，则需要先完成最初八位角色的故事，并让每位角色的好感度达到96%或以上。",
+  "vndb_url": "https://vndb.org/v30752"
+}

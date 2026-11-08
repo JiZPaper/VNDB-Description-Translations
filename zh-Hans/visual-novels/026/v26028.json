@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26028",
+  "type": "visual_novel",
+  "name": "Death Game",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "While attending a mysterious party with your best friend, you find yourselves knocked out and kidnapped. When you wake up, you find yourself in an unfamiliar room with several other people captured the same way.\n\nA masked man introduces himself as the Game Master and says you’ve all been chosen to play a game. The rules are simple.\n\nThere is a killer among you. Every three days, you will need to vote for someone to be executed. If the winner of the vote is the killer, you can go free. The game will continue until the killer is found—or until all of you die.\n\nWho is the Game Master? Why has he brought you here? And most importantly of all…\n\nCan you survive the game?",
+  "source_sha256": "938cc4f8d8e7bb174f18a8029670a7ca9130d355a29a09ab40f09fe658f4f017",
+  "translation": "你和最好的朋友参加了一场神秘聚会，却双双被弄晕绑走。醒来时，你发现自己身处陌生的房间，周围还有几个遭遇相同的人。\n\n一名戴着面具的男子自称“游戏主持人”，告诉你们，所有人都被选中参加一场游戏。规则很简单。\n\n你们之中藏着一名杀手。每隔三天，大家都必须投票选出一人处决。如果得票最多的人就是杀手，你们便能重获自由。游戏将一直持续，直到找到杀手，或是你们全部死去。\n\n游戏主持人究竟是谁？他为什么把你们带到这里？而最重要的是…\n\n你能在这场游戏中活下来吗？",
+  "vndb_url": "https://vndb.org/v26028"
+}

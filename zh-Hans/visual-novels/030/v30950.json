@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30950",
+  "type": "visual_novel",
+  "name": "Quercus Alba Dating Simulator",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Ten years before the events of Ace Attorney Investigations: Miles Edgeworth, the story follows Protagonist, a podiatry student at Allebahst Academy, as he falls in love on first sight with the impenetrable Ambassador Quercus Alba, and becomes involved in an incident that would forever scar the school.",
+  "source_sha256": "33d54995a75bec86a7d254ffd2be5900afb5a7f9bee01ee15d35c76bbbaeebde",
+  "translation": "故事发生在《逆转检事》事件的十年前。主角是一名就读于阿雷巴斯特学院的足病医学学生，对高深莫测的大使卡内基·欧雷德一见钟情，并卷入一场将给学校留下永久创伤的事件。",
+  "vndb_url": "https://vndb.org/v30950"
+}

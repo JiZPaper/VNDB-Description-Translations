@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26141",
+  "type": "visual_novel",
+  "name": "Usagi Syndrome",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An Irisu Syndrome fangame about the main character (You) that is exploring a town that you just moved in, but suddenly you realised that the town is mysteriously empty. What will you find there and is there a reason why it's all empty?",
+  "source_sha256": "0ec5f31277dffe91fc9659aaa188ac9adfbbd8de3750021c5010a67d87169faa",
+  "translation": "这是一部《Irisu Syndrome》的同人游戏。主角（你）正在探索刚刚搬来的小镇，却突然发现镇上竟神秘地空无一人。你会在那里发现什么？小镇为何空无一人？",
+  "vndb_url": "https://vndb.org/v26141"
+}

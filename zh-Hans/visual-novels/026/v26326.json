@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26326",
+  "type": "visual_novel",
+  "name": "Maria: Kimitachi ga Umareta Wake",
+  "original_name": "マリア 君たちが生まれた理由",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In this game, you play as a young psychiatrist named Takano. One day a new patient is brought into the hospital you work in - Maria, a young woman who has attempted suicide. She suffers from amnesia, and you try to find out more about her, visiting her and talking to her. Before long you discover that Maria has schizophrenia - a split personality. Her \"other self\" appears to be evil and threatens to take over her. The fight for Maria's sanity begins.\n\nThe game plays like an interactive novel or movie: you read text and from time to time make a choice from two or more available ones. Instead of the standard 2D animé-style graphics the game utilizes semi-realistic CG pre-rendered backgrounds and characters. There are also CG animated movies in the game.",
+  "source_sha256": "2638bbcc0949010d57c4f082d90a1d928d7f07b2b4bbc1e64add607bfd046947",
+  "translation": "在本作中，你将扮演一位名叫高野的年轻精神科医生。某天，你工作的医院收治了一名新病人——自杀未遂的年轻女子玛丽亚。她失去了记忆，你通过探望和交谈，试图进一步了解她。不久后，你发现玛丽亚患有原文所称的“精神分裂症”——在故事中表现为人格分裂。她的“另一个自我”似乎十分邪恶，随时可能夺取她的主导权。一场守护玛丽亚理智的斗争就此开始。\n\n游戏的玩法如同互动小说或电影：阅读文字，并不时从两个或更多选项中作出选择。本作并未采用常见的二维动画风格画面，而是使用偏写实风格的预渲染CG背景与人物，同时也穿插了CG动画影片。",
+  "vndb_url": "https://vndb.org/v26326"
+}

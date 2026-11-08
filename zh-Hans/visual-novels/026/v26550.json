@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26550",
+  "type": "visual_novel",
+  "name": "Dead Mail",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Dead mail refers to mail that is undeliverable as addressed or undeliverable at a forwarding address and cannot be returned to the sender.\n\nThis is a game about some mail that the USPS, as well any other sane postal agency, would definitely classify as dead.\n\n[From [url=https://shantaram.itch.io/dead-mail]itch.io[/url]]",
+  "source_sha256": "ef9408a84cf573ce93604e13f52d7ef0eb6b7e5d79d33b79774e4f0734cb4d2d",
+  "translation": "死信，是指既无法按原地址或转寄地址投递，也无法退回寄件人的邮件。\n\n这款游戏讲述的是几封邮件的故事。美国邮政署，以及任何其他头脑正常的邮政机构，都会毫不犹豫地将它们归入“死信”。\n\n[摘自[url=https://shantaram.itch.io/dead-mail]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v26550"
+}

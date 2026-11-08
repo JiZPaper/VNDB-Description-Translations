@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29724",
+  "type": "visual_novel",
+  "name": "9-nine- Shinshou",
+  "original_name": "9-nine- 新章",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a standalone version of the \"New Episode\" chapter added in 9-nine- Complete Edition (r74265). The new episode ties up the loose ends from the previous 4 chapters, and contains after stories for each heroine (the scenario part totals about 230kb). It contains 10 CGs.",
+  "source_sha256": "b67d5e162850e52faa53c5f10ae7c23ba307835ac75d5fbf8c7a83fa70b6e8b4",
+  "translation": "《9-nine- Complete Edition》（r74265）新增章节“New Episode”的独立版本。新篇章收束了前四章遗留的伏笔，并包含每位女主角的后日谈，剧本部分总计约230KB，收录10张CG。",
+  "vndb_url": "https://vndb.org/v29724"
+}

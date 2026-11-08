@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29934",
+  "type": "visual_novel",
+  "name": "EraStorm - Episode 1: SandStorm",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You just joined some friends in what was supposed to be a tourist journey in Egypt.\nHowever, the visit turned sour quite quickly and you got thrown into an epic adventure full of ancient mysteries.\n\n[From Patreon]",
+  "source_sha256": "896aecbc1be8b5358ae64a1b09d19b9171738234891f053ccd26a7eec5882cb6",
+  "translation": "你刚与几位朋友会合，原本准备在埃及度过一场观光之旅。\n然而，旅程很快变了味，你被卷入一场充满古老谜团的史诗冒险。\n\n[摘自Patreon]",
+  "vndb_url": "https://vndb.org/v29934"
+}

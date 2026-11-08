@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29010",
+  "type": "visual_novel",
+  "name": "Dawn of Malice",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "It's a game about a guy who moved to a new town. Actually, it's the one that he was born in and spent most of his childhood at. There, he gets involved in romantic adventures.\n\n[From Patreon]",
+  "source_sha256": "9c132462d16da0bd53b5cfe540a75e6502fcc8c31afd2382321a10fc33112fa4",
+  "translation": "故事讲述一个搬到新镇子的男生。其实，那正是他出生、并度过大半童年的地方。在这里，他将经历一段段恋爱冒险。\n\n[摘自Patreon]",
+  "vndb_url": "https://vndb.org/v29010"
+}

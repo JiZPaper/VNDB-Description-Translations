@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27362",
+  "type": "visual_novel",
+  "name": "The Man Called Crimson",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The main character, Schwartz Kant Flame, whose lover has been killed by the mysterious organization \"A\", becomes an agent of the anti-intelligence agency \"Ein\" and devotes himself to the days of battle. Many other secret organisations surround him, some enemies, some allies. Standing in the wilderness of revenge, he fights for what he loves.",
+  "source_sha256": "1417b7f7b5e397a4c191500dcfbede50281a91ccbf4794e6d19bff020eebab84",
+  "translation": "主人公施瓦茨·康德·焰的恋人被神秘组织“A”杀害。此后，他成为反情报机构“艾因”的特工，投身于日复一日的战斗之中。在他周围，还有许多亦敌亦友的秘密组织。置身复仇的荒野，他为自己所爱的一切而战。",
+  "vndb_url": "https://vndb.org/v27362"
+}

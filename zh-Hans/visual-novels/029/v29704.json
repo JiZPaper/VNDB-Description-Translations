@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29704",
+  "type": "visual_novel",
+  "name": "Lighthouse Keeper",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This dark act takes place from a single day of the Lighthouse Keeper. Listen to keeper carefully and help him to interrupt his twenty-years-old shift at the Lighthouse.\n\n[From [url=https://store.steampowered.com/app/1469370/]Steam[/url]]",
+  "source_sha256": "59e178ccc484b0a54acc7f6607e9881cefaaa2232fd9f36f2383b029a8a43c7b",
+  "translation": "这场阴暗的故事，发生在灯塔守护人一天的生活中。仔细聆听他的话，帮助他结束那场长达二十年的灯塔值守。\n\n[摘自[url=https://store.steampowered.com/app/1469370/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v29704"
+}

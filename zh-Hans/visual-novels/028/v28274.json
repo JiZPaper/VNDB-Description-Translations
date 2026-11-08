@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28274",
+  "type": "visual_novel",
+  "name": "Determinable Unstable",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is another side project from Ray-Kbys. The story is about a man encountered a mysterious being after getting lost in the woods. But he decided to make contact with it after narrowly escaped the first time.​",
+  "source_sha256": "34471455ce69970b3073446125fee97f852c9b9b39171747ff58118bd232b505",
+  "translation": "这是Ray-Kbys的另一部业余作品。故事讲述了一名男子在森林中迷路后，遭遇了一个神秘的存在。虽然第一次侥幸逃脱，他却决定再次与它接触。",
+  "vndb_url": "https://vndb.org/v28274"
+}

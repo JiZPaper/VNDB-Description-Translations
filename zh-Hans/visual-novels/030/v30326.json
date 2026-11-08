@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30326",
+  "type": "visual_novel",
+  "name": "This Mortal Coil",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a spirit detective who is investigating the last regret of a ghost tied to this world. Show keepsakes related to the ghost's past and navigate your way through her distant memories. Depending on the order you choose to present the items, the conversation may be easier to traverse. Can you discover the ghost's lingering regrets and bring her peace?",
+  "source_sha256": "340b1896cf848d9400bb4710bb8c4eeb8cfa1225f8af4a028b4f5bda11a509fe",
+  "translation": "你是一名灵异侦探，正在调查一位滞留人间的幽灵最后的遗憾。向她出示与其过去有关的纪念物，探寻那些遥远的记忆。出示物品的顺序不同，对话的推进也可能更加顺利。你能查明幽灵迟迟无法释怀的遗憾，让她得到安宁吗？",
+  "vndb_url": "https://vndb.org/v30326"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30449",
+  "type": "visual_novel",
+  "name": "Iede Shounen Hokoro-kun",
+  "original_name": "家出少年ほころくん",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hokoro-kun is a child actor who decided to run away from home in preparation for a dream role. However, the kindly oneesan who takes him in might not be as sweet as she appears.",
+  "source_sha256": "4d14d04e4c5d6169054fd3fd247c360e5bfc9bd594f9f84270b070cf7d93c574",
+  "translation": "童星Hokoro为了准备一个梦寐以求的角色，决定离家出走。然而，收留他的温柔大姐姐，或许并没有看上去那么亲切。",
+  "vndb_url": "https://vndb.org/v30449"
+}

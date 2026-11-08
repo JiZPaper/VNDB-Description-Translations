@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28820",
+  "type": "visual_novel",
+  "name": "Eclair's House",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "My name is Eclair! I am a little sick.\nThat's serious.A ghost appears in my house.\nWhat should I do? Help me!\nThere is no choice but to kill.:D",
+  "source_sha256": "7d017debc9b93fad2128f9d02c2f4764c2fd42d9fd072a5b66c425d0aa458885",
+  "translation": "我叫Eclair！我有点病。\n事情可严重了，我家里出现了幽灵。\n该怎么办？救救我！\n只能杀掉了。:D",
+  "vndb_url": "https://vndb.org/v28820"
+}

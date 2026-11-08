@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28764",
+  "type": "visual_novel",
+  "name": "Terminus Reach: Sentinel",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "TRS is a story about psionic named Garrett, former assassin pushed into a new role in which he will determine the fate of the Sentinel Station.​",
+  "source_sha256": "29f6ecdbb164d30e5be77a5e4d4d8088f1f7c54219d2ba038e62257a09656656",
+  "translation": "《Terminus Reach: Sentinel》讲述了一位名叫加勒特的灵能者的故事。他曾是一名刺客，如今被迫承担全新的职责，而他的行动将决定哨兵空间站的命运。",
+  "vndb_url": "https://vndb.org/v28764"
+}

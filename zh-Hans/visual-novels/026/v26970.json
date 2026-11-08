@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26970",
+  "type": "visual_novel",
+  "name": "Mission Asteroid",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Mission Asteroid (shown as Mission: Asteroid in the manual and on the title screen) is a graphic adventure game for the Apple II written by Ken and Roberta Williams and released in 1980 by On-Line Systems.It was later ported to the Atari 8-bit family and Commodore 64.\n\nThe game was released as Hi-Res Adventures #0, despite being released after Mystery House and Wizard and the Princess. It was meant as an introduction to the adventure game genre so it was made easier than the rest of Hi-Res Adventures games.",
+  "source_sha256": "9d254d7bf74d83edbc9f5a5715339db6cbe15cacf140b0073148c98b2da64322",
+  "translation": "《Mission Asteroid》（说明书及标题画面中写作《Mission: Asteroid》）是肯·威廉姆斯与罗伯塔·威廉姆斯为Apple II编写的一款图形冒险游戏，于1980年由On-Line Systems发行。后来，游戏又移植到了Atari 8位机系列和Commodore 64。\n\n虽然发售时间晚于《神秘屋》和《Wizard and the Princess》，本作却以《Hi-Res Adventures》系列第0作的名义推出。它旨在让玩家入门冒险游戏，因此难度比该系列的其他作品更低。",
+  "vndb_url": "https://vndb.org/v26970"
+}

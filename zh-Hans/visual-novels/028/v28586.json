@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28586",
+  "type": "visual_novel",
+  "name": "Elektrichka",
+  "original_name": "Электричка",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Fabulous atmosphere, fascinating plot, a lot of different endings - all this you will not find here.\n\nA short kinetic novel that tells the story of Maxim's trip on the morning snow-covered train.",
+  "source_sha256": "b5f7457c0919e1b2d578cf55ab7f0b9bf6e9bb99fa6562542570b546c3f72641",
+  "translation": "奇妙的氛围、引人入胜的情节、各式各样的结局——这些，你在这里都找不到。\n\n这是一部短篇单线视觉小说，讲述马克西姆乘坐清晨那班覆雪列车的旅程。",
+  "vndb_url": "https://vndb.org/v28586"
+}

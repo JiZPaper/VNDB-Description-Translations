@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30593",
+  "type": "visual_novel",
+  "name": "Pillars on Poppy Hills",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Atop the poppy hills are ruins to what was once revered and feared. One man wants to paint this scenery, while another wants to research it, while the forgotten god wants to have silence once and for all.",
+  "source_sha256": "32cbda63c8d9b654dd774258d6247edfa0fe711a8fa164d0dfb524ab036bc42d",
+  "translation": "罂粟山丘之巅，留存着昔日备受崇敬与畏惧之物的遗迹。一个男人想描绘这里的景色，另一个想研究它，而被遗忘的神明，只想得到永远的宁静。",
+  "vndb_url": "https://vndb.org/v30593"
+}

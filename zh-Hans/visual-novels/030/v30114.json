@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30114",
+  "type": "visual_novel",
+  "name": "Toaru Otoko-tachi no Hanashi",
+  "original_name": "とある男たちの話",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A story about people closing in on a young man who relentlessly continues to kill monsters.\n\n[Translation of [url=https://www.freem.ne.jp/win/game/17037]Freem summary[/url].]",
+  "source_sha256": "b90a75d15832f6eff4cbf938e4cb90da0a0f1ca590d37df470a26a6923e9515b",
+  "translation": "一名青年不断猎杀怪物，一群人逐渐向他逼近。\n\n[译自[url=https://www.freem.ne.jp/win/game/17037]Freem!简介[/url]。]",
+  "vndb_url": "https://vndb.org/v30114"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30889",
+  "type": "visual_novel",
+  "name": "Colorado Cocoa Club",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Mikaela Cohen, a workaholic junior architect based in Boston, is in for a surprisingly long vacation. While accompanying her boss on a business trip in Aspen, an unexpected blizzard traps the two architects at the ski resort where they are staying.",
+  "source_sha256": "96f88ddbef28d202f62eb237f19de51864d1d765e7b7cbb51bf90f6d1584528c",
+  "translation": "在波士顿工作的初级建筑师米凯拉·科恩，是个工作狂，却即将迎来一场意外漫长的假期。陪同上司到阿斯彭出差时，一场突如其来的暴风雪，将两位建筑师困在了入住的滑雪度假村。",
+  "vndb_url": "https://vndb.org/v30889"
+}

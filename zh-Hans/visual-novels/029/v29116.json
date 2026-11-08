@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29116",
+  "type": "visual_novel",
+  "name": "Two People One Animal Love",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Protagonist goes to visit an old college friend, decides to stay at his house because of the rain, and something unexpected happens.",
+  "source_sha256": "06ed87b427d76163021c9485e37edd78da7d57d22d865e6e546dd5fe963e44c0",
+  "translation": "主角前去探望大学时代的老朋友，因为下雨，决定在对方家中留宿，随后发生了意想不到的事。",
+  "vndb_url": "https://vndb.org/v29116"
+}

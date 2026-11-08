@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27176",
+  "type": "visual_novel",
+  "name": "Inagawa Junji: Kyoufu no Yashiki",
+  "original_name": "稲川淳二　恐怖の屋敷",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Inagawa Junji - Kyoufu no Yashiki is a horror adventure game that stars japanese actor Inagawa Junji (contemporary master storyteller of Japanese ghost tales).\n\nGame begins when player enters a haunted mansion. As soon as he arrives, he finds a TV where Inagawa Junji appears and introduced different ghosts stories.\n\n[Edited from [url=https://psxdatacenter.com/games/J/I/SLPS-02142.html]Psxdatacenter[/url]]",
+  "source_sha256": "04712efdb817dd753a63fb60865932920b48d67b7687a22376f818245a023799",
+  "translation": "《稻川淳二恐怖之屋》是一款恐怖冒险游戏，由日本演员、当代日本怪谈讲述名家稻川淳二出演。\n\n游戏从玩家进入一座鬼宅开始。刚到那里，玩家便发现一台电视，屏幕上出现了稻川淳二，向玩家讲述各种鬼故事。\n\n[编译自[url=https://psxdatacenter.com/games/J/I/SLPS-02142.html]Psxdatacenter[/url]]",
+  "vndb_url": "https://vndb.org/v27176"
+}

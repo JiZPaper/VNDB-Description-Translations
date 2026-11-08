@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30244",
+  "type": "visual_novel",
+  "name": "Perfumare",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A dark fantasy visual novel with elements of mystery and romance set in a fictional world not so different from ours, where some people are born with a strange affliction called 'the gift'.\n\n[From [url=https://pdrr.itch.io/perfumare]itch.io[/url]]\n\nThe developer retooled this game into the non-VN interactive fiction [url=https://pdrr.itch.io/perfumare-avulsion]Perfumare: Avulsion[/url].",
+  "source_sha256": "294fa3d3cc8ef537290607ddc0cb87c1eac8c4e23a0c027d52857dcf582d7768",
+  "translation": "一部融合悬疑与爱情元素的黑暗奇幻视觉小说。故事设定在一个与现实相差无几的虚构世界，那里有些人生来就患有一种名为“天赋”的奇异症状。\n\n[摘自[url=https://pdrr.itch.io/perfumare]itch.io[/url]]\n\n开发者将本作重新设计为一部互动小说[url=https://pdrr.itch.io/perfumare-avulsion]《Perfumare: Avulsion》[/url]，已采用视觉小说以外的形式。",
+  "vndb_url": "https://vndb.org/v30244"
+}

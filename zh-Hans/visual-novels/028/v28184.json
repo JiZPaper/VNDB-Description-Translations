@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28184",
+  "type": "visual_novel",
+  "name": "Another Aurelie",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You decide to treat your daughter to a nice day at the zoo before she starts school next week.",
+  "source_sha256": "c0f80f64d24486d28d78183497104fe8e5ba0ab7389e4b672178d65422482bbb",
+  "translation": "女儿下周就要开学了，你决定趁此之前，带她去动物园痛痛快快地玩上一天。",
+  "vndb_url": "https://vndb.org/v28184"
+}

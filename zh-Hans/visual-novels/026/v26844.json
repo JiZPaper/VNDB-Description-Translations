@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26844",
+  "type": "visual_novel",
+  "name": "Pokémon Let's Go... To Hell!",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Pokémon Let's Go... To Hell! is a strange homage to/parody of Pokémon creepypasta. It is a visual novel, created for Halloween 2019. About 1,000 words and has some mechanics that use the Ren'py engine that couldn't be pulled off in a purely text based medium like the Creepypasta Wiki.",
+  "source_sha256": "d803cc946a85b2afb116200760ad7d94f12a765cba2f8b25f0513db040e25fde",
+  "translation": "《Pokémon Let’s Go… To Hell!》是一部向宝可梦网络恐怖故事致敬、同时加以恶搞的古怪作品。这部视觉小说为2019年万圣节制作，篇幅约一千词，并运用了Ren’Py引擎的一些机制，呈现出Creepypasta Wiki这类纯文字媒介无法实现的效果。",
+  "vndb_url": "https://vndb.org/v26844"
+}

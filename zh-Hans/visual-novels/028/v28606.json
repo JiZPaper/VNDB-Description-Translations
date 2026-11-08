@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28606",
+  "type": "visual_novel",
+  "name": "Sofia's Secret",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You move to a new apartment and your roommate shares the same tastes as you. You will make choices which influence your relationship with Sofia.",
+  "source_sha256": "f7cc402d128747bc09bd42861d30c2724b236c6981f8c95795d7c22d7fcd69f7",
+  "translation": "你搬进了新公寓，发现室友与你志趣相投。你做出的选择，将影响自己与索菲娅的关系。",
+  "vndb_url": "https://vndb.org/v28606"
+}

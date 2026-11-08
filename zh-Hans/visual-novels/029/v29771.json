@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29771",
+  "type": "visual_novel",
+  "name": "A Normal Lost Phone",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A Normal Lost Phone is a game about exploring the intimacy of an unknown person whose phone was found by the player.\n\nThe game takes the shape of a narrative investigation: you have to search the phone’s text messages, pictures and applications, in order to learn about its former owner. Through this phone, you uncover Sam’s life, friends, family and relationships, until the evening when they turn 18 and mysteriously disappear.\n\n[From [url=https://anormallostphone.com/#en]official site[/url]]",
+  "source_sha256": "ad0243cc693b353140cf6e4ae3ad91ed61f0752eda3c30583138332e087c4fce",
+  "translation": "《A Normal Lost Phone》是一款通过玩家捡到的手机，探索陌生人私密生活的游戏。\n\n游戏以叙事调查的形式展开。你需要翻查手机中的短信、照片与应用，了解原来的主人。透过这部手机，你将逐渐认识萨姆的生活、朋友、家人及各种关系，直到其年满18岁、神秘失踪的那个夜晚。\n\n[摘自[url=https://anormallostphone.com/#en]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v29771"
+}

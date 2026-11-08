@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30299",
+  "type": "visual_novel",
+  "name": "Garandou no Hoozuki",
+  "original_name": "伽藍洞の鬼灯",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Karaoko, a man with two horns on his head. He slips through everything and is invisible to others, but you can see and touch him.\n\n\"Will you be my companion?\"\n\nThe sights he's seen, the times he lives in, the events that happened today. As you talk with him, you learn about him.\n\nThrough conversations, you can increase your intimacy with Karako. The story progresses depending on your level of intimacy.",
+  "source_sha256": "88e0cb96be597318c6415f9628c65d53b1f2006440042646ce73b18eb4a0fa39",
+  "translation": "壳炬，一个头上长着两只角的男人。他能穿过一切，本该不为人所见，你却能看见他，也能触碰他。\n\n“你愿意陪我说说话吗？”\n\n他曾见过的风景，如今所处的时代，今天发生的事情。在与他交谈的过程中，你渐渐了解他。\n\n通过对话，你能提高与壳炬的亲密度。故事会随着亲密度的变化而推进。",
+  "vndb_url": "https://vndb.org/v30299"
+}

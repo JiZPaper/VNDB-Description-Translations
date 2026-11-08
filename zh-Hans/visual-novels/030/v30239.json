@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30239",
+  "type": "visual_novel",
+  "name": "Ren'ai x Royale - Mari & Shione & Ao Mini After Story",
+  "original_name": "恋愛×ロワイアル まり＆汐音＆蒼 ミニアフターストーリー",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The fandisk for Ren'ai x Royale with after stories for Shione, Mari & Ao.",
+  "source_sha256": "b47a4ba3030e1dda386fe6dce852c592530d54ed71291d88256ad08605838fed",
+  "translation": "《恋爱×决胜战》的FanDisc，收录汐音、茉莉与苍的后日谈。",
+  "vndb_url": "https://vndb.org/v30239"
+}

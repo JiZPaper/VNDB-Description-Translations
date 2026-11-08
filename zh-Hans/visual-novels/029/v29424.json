@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29424",
+  "type": "visual_novel",
+  "name": "Apathy - Gakkou de Atta Kowai Hanashi - Himitsu",
+  "original_name": "アパシー学校であった怖い話 秘密",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Project celebrating the 25th anniversary of [url=/v745]Gakkou de Atta Kowai Hanashi[/url].\nThe choices were chosen based on Twitter's polls and a contest was held to find new branching scenarios. As a result, each branching route was written by a fan of the series.\n\nThis version of Himitsu is much bigger and has many more choices than the one included in [url=https://vndb.org/v34196]Narunana[/url].",
+  "source_sha256": "0790da21cbef2f9fe1b766839836e45c1f17d7503e85ae01f2b140e7de64c7f4",
+  "translation": "为庆祝[url=/v745]《学校发生过的恐怖故事》[/url]25周年而推出的企划。\n选项通过Twitter投票决定，同时举办了征集新分支剧情的比赛。因此，每条分支路线都由系列粉丝执笔。\n\n这个版本的《秘密》，比[url=https://vndb.org/v34196]《鸣神学园七大不可思议》[/url]所收录的版本篇幅更大，选项也多得多。",
+  "vndb_url": "https://vndb.org/v29424"
+}

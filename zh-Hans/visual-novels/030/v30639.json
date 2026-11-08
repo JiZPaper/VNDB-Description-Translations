@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30639",
+  "type": "visual_novel",
+  "name": "Dungeon Friends",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Join Pepsi and Fritte on their roleplay adventure as they travel through a dungeon inhabited by some droll folks.\n\n[Taken from [URL=https://deaundfroggy.itch.io/dungeon-friends]itch[/URL]]",
+  "source_sha256": "fbaa0b91252fb0e04eea903b4322cebc80821f25ed1df82bffe8f0ad62a5396b",
+  "translation": "与Pepsi和Fritte一起，踏上角色扮演冒险，穿越一座住着许多滑稽人物的地牢。\n\n[摘自[URL=https://deaundfroggy.itch.io/dungeon-friends]itch.io[/URL]]",
+  "vndb_url": "https://vndb.org/v30639"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26207",
+  "type": "visual_novel",
+  "name": "Mission's C.U.R.E.",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An SLG game for women to interact with attractive soldiers while also experiencing events based on the passage of real time.",
+  "source_sha256": "cd0b8bb34bdd736342c9463e88b57962b67a95c546bb6aa2f51b95cc76d5b9c9",
+  "translation": "一款女性向模拟游戏，玩家可以与魅力十足的士兵互动，并体验随现实时间流逝而发生的事件。",
+  "vndb_url": "https://vndb.org/v26207"
+}

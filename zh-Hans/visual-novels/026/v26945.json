@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26945",
+  "type": "visual_novel",
+  "name": "Lost in the Void",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The space-ship was on its way elsewhere. It lost its course and crashed. Almost every crew-member died. These, who survived, try hard to find a way out of the mess. The problem is - there are creatures who want to control humans. And they won't let them out.\n\nMade for Community Game Jam #1\n\n[Edited from [url=https://hisaribi.itch.io/lostinthevoid]Itch.io[/url]]",
+  "source_sha256": "f333412ad7c9d08c89079f4d87631d7ee6a4a84eb9531acff02e27f9fd17a93b",
+  "translation": "飞船原本正驶向别处，却偏离航线，最终坠毁。几乎所有船员都死了，幸存者们则竭力寻找脱困的办法。问题在于，这里有一些想要控制人类的生物，而它们不会放人离开。\n\n为第一届Community Game Jam制作。\n\n[编译自[url=https://hisaribi.itch.io/lostinthevoid]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v26945"
+}

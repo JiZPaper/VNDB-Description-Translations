@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30128",
+  "type": "visual_novel",
+  "name": "Dice Rollers",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "One table, a pack of dice, five participants: This story is about playing a tabletop RPG with swords and dragons while overcoming inner weaknesses.\n\n[From [url=https://store.steampowered.com/app/1483330/]Steam[/url]]",
+  "source_sha256": "03bd2c85ed3a1ef2167b6bbb0f1b58bb88f7f7990f9348db11c00d81480e9bb3",
+  "translation": "一张桌子，一套骰子，五名参与者。这是一个在刀剑与巨龙的桌上角色扮演游戏中冒险，同时克服内心弱点的故事。\n\n[摘自[url=https://store.steampowered.com/app/1483330/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v30128"
+}

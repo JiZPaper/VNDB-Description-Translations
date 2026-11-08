@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27140",
+  "type": "visual_novel",
+  "name": "Dystopia no Ou",
+  "original_name": "ディストピアの王",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Our story takes place in a time where the world is governed by a debilitating network of A.I.ーThe poor and rich deeply divided, neither party ever associating with the other. It is a world that once revolved around joy and pleasure, but that was coming to an end.\n\nBarely surviving, “music” itself, in all aspects of the term, was also becoming obsolete. \n\nHaving grown up in a privileged environment, “Inga Kiriku” leaves home and heads to the slums to become a rock star that will have the world on its knees.",
+  "source_sha256": "76998bb8b5832dd6278ee7a597a90bdb397e43c93f33089b8258c4c8210cf62e",
+  "translation": "故事发生在一个被人工智能网络统治、逐渐失去活力的时代。贫富之间横亘着深深的鸿沟，彼此从不往来。这个曾围绕欢乐与享乐运转的世界，正走向终结。\n\n“音乐”本身也已奄奄一息，无论从哪个层面来看，都在逐渐被时代淘汰。\n\n在优渥环境中长大的“印我桐久”离家奔赴贫民窟，立志成为让整个世界为之倾倒的摇滚巨星。",
+  "vndb_url": "https://vndb.org/v27140"
+}

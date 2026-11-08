@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26840",
+  "type": "visual_novel",
+  "name": "Aibou DS",
+  "original_name": "相棒DS",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Visual novel adaptation of the hit drama AIBOU: Tokyo Detective Duo.\n\nThe drama features Ukyō Sugishita, a police inspector assigned to the fictional Special Missions Unit of the Tokyo Metropolitan Police Department and his partners.",
+  "source_sha256": "92f284cbee8aaa167bc5b845ed6a420b0c86e1c867ca099e40c7cea62f8553e0",
+  "translation": "改编自热门电视剧《相棒》的视觉小说。\n\n原剧围绕杉下右京及其搭档展开。杉下右京是一名警部，任职于东京都警视厅下属的虚构部门“特命系”。",
+  "vndb_url": "https://vndb.org/v26840"
+}

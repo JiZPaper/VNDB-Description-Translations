@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28848",
+  "type": "visual_novel",
+  "name": "MazM: Pechka",
+  "original_name": "MazM: 페치카",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In the early 20th century, people of a lost nation begin a fight for their country.\nThe journey of “Pyotr,” for whom no nation could be his home.\n\nBecome the protagonist in a story based on real historical events!",
+  "source_sha256": "9218fc3eda60de58a3e78d06de066c5b1d340cc12faf340c07d1cd573f5e8042",
+  "translation": "20世纪初，一个失去国家的民族，开始为祖国而战。\n没有任何国家能成为他归处的“彼得”，也踏上了自己的旅程。\n\n在以真实历史事件为基础的故事中，成为主人公！",
+  "vndb_url": "https://vndb.org/v28848"
+}

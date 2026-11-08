@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28436",
+  "type": "visual_novel",
+  "name": "Chiyoda",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Visiting central Tokyo, you meet up with an old work friend who lives in Japan now.",
+  "source_sha256": "f881000eadc65489e9da991c964587bb9c16ea8a875fafea9a91032994ddba51",
+  "translation": "来到东京市中心的你，与一位如今住在日本的老同事见了面。",
+  "vndb_url": "https://vndb.org/v28436"
+}

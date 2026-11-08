@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26156",
+  "type": "visual_novel",
+  "name": "Star Girls",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Star girls is a dating sim with a bullet hell combat system and light RPG elements in it. The story is character driven with many different endings depending on your choices. You only have 60 days to make a Star girl fall in love with you or become cursed forever.\n\n[From [url=https://store.steampowered.com/app/842430/]Steam[/url]]",
+  "source_sha256": "b03058b73ab4a414d4668249efdd50201a95ec3b0b98a22f2d72211a298fd54c",
+  "translation": "《Star Girls》是一款融合弹幕战斗系统与少量角色扮演要素的恋爱模拟游戏。故事以角色为中心展开，并根据你的选择通向多种不同结局。你只有60天时间让一位星之少女爱上你，否则就会永远遭受诅咒。\n\n[摘自[url=https://store.steampowered.com/app/842430/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v26156"
+}

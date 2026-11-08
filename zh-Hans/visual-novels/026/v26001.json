@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26001",
+  "type": "visual_novel",
+  "name": "Sen no Hatou, Tsukisome no Kouki -Hana Akari-",
+  "original_name": "千の刃濤、桃花染の皇姫 -花あかり-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is the fandisc for Sen no Hatou, Tsukisome no Kouki.  featuring after stories for all heroines. Also includes new stories for side-characters[spoiler] Isuzu, Chihaya, Himi no Mikoto and Sekka[/spoiler].",
+  "source_sha256": "b6f241f87d69f7f004b7805699ce6812ec10864fade1a410d7f479881df76f61",
+  "translation": "本作是《千之刃涛、桃花染之皇姬》的后日谈合集，收录了所有女主角的后续故事，还为配角[spoiler]五十铃、千波矢、绯弥之命和雪花[/spoiler]增添了全新故事。",
+  "vndb_url": "https://vndb.org/v26001"
+}
