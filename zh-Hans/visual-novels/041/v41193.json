@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41193",
+  "type": "visual_novel",
+  "name": "Two Interviewees",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Two people are unemployed. They are going to be interviewed today and if they manage to make a good impression they will get the job.\n\nThe questions are the same, the answers are the same, but the interviewees are not the same: one is Martin, a man, the other one is Irene, a woman. Should it make any difference?\n\n[From [url=https://maurovanetti.itch.io/2i]Itch.io[/url]]",
+  "source_sha256": "544864c409c19a2ffa2f67720aed34d1d25983e80f86992ada111daba43b24b4",
+  "translation": "有两个失业的人今天要去参加面试，只要能留下好印象，就能得到这份工作。\n\n面试的问题相同，回答也相同，但面试者却不同：一个是男性马丁，另一个是女性艾琳。这本该有什么区别吗？\n\n[引自[url=https://maurovanetti.itch.io/2i]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v41193"
+}

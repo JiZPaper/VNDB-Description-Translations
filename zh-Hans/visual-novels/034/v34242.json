@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34242",
+  "type": "visual_novel",
+  "name": "Meta Form",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Surrealist point-and-click adventure game with some word play, a whole lot of escapism, a dab of humor, and a dollop of existential dread.\n\nThe idea for the story came from constantly dreaming about being stuck in small indoor spaces and looking for nature. Likely a reflection of living in quarantine.\n\nWhile not the first creation in The Abandoned universe, this is the first released creation.\n\n[From [url=https://boz-float.itch.io/meta-form]itch.io[/url]]",
+  "source_sha256": "d665908ee5bd4b71cee4b5e39c7f533b2d93482eabf215c7c5ce05c8dc2cfc48",
+  "translation": "一款超现实主义点击式冒险游戏，加入了些许文字游戏、大量逃避现实的幻想、一点幽默，以及一份对存在本身的恐惧。\n\n故事的灵感来自反复出现的梦境：被困在狭小的室内空间，渴望寻找自然。这或许正是隔离生活的映照。\n\n它并非“The Abandoned”世界观下最早创作的作品，却是其中第一部正式发布的作品。\n\n[摘自[url=https://boz-float.itch.io/meta-form]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v34242"
+}

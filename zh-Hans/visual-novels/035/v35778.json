@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35778",
+  "type": "visual_novel",
+  "name": "Automaton Story",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The story of a guy who lives with his sister without parents. He suddenly finds a robot (automaton) that looks like a girl, but it is broken.\n\nThe main character will have to repair the automaton and face the problems that she brought herself.\n\n[From the [url=https://angryfur.com/download/]official website[/url]]",
+  "source_sha256": "067d770ca77647ab7eed87c7349092f49194e56d3208cf31e189fa2bceaaa534",
+  "translation": "故事的主人公是一个与姐妹相依为命、父母不在身边的年轻人。某天，他意外发现了一台外形酷似少女的机器人，也就是自动人偶，但她已经损坏了。\n\n主人公必须修好这台自动人偶，并面对她带来的种种麻烦。\n\n[摘自[url=https://angryfur.com/download/]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v35778"
+}

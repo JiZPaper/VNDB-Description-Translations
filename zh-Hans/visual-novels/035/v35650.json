@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35650",
+  "type": "visual_novel",
+  "name": "Super Health Club",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "[B]You’re the new branch manager of a local health club.[/b]\nThe previous manager made a huge mess of it and left the health club heavy in debt. It’s now up to you to make the health club profitable again. Make all the daily business decisions to achieve the most profit but remember to keep your staff members happy or you will see your goal slipping out of your fingers.\n\n[From the [url=https://oonyxgames.com/game/shc-reg/] official website[/url]]",
+  "source_sha256": "6d9a758b63a435e0001586dfedcb70afd209fb3f7466209ba2bceef474d598b4",
+  "translation": "[B]你是当地一家健身俱乐部的新任分店经理。[/b]\n前任经理把这里弄得一团糟，留下了沉重的债务。如今，重振俱乐部、让它重新盈利的重任落在你肩上。做出日常经营决策，争取最大利润，但也别忘了让员工们保持满意，否则目标就会从指间溜走。\n\n[摘自[url=https://oonyxgames.com/game/shc-reg/]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v35650"
+}

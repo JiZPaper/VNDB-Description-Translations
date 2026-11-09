@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37064",
+  "type": "visual_novel",
+  "name": "Path of Least Existence",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A very short visual novel speculating the nature of existence.\n\nContains four endings with certain doom, existential dread and even some hope.\n\n[From [url=https://indifferential.itch.io/path-of-least-existence]Itch.io[/url]]",
+  "source_sha256": "a042356ae79c58a225b3de39ac54feda42d8eda8c1e733bbce2b2734f8ea764b",
+  "translation": "一部探讨存在本质的极短视觉小说。\n\n包含4种结局，涉及注定的毁灭、存在主义的恐惧，也留有一丝希望。\n\n[来源：[url=https://indifferential.itch.io/path-of-least-existence]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v37064"
+}

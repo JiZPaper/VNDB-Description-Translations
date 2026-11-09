@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41528",
+  "type": "visual_novel",
+  "name": "Paedagogium",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Bothered by a miserable school life and his classmates' unawareness of the situation, Renato passes his days in solitude until he meets a new friend, Jacques.",
+  "source_sha256": "b30964af6ca2f7f4f61855c41d12c10237b84ad627ee4e93f1d7378c4d5377c7",
+  "translation": "饱受悲惨校园生活以及同班同学们对此毫无察觉的困扰，雷纳托一直在孤独中度日，直到他结识了一位新朋友——雅克。",
+  "vndb_url": "https://vndb.org/v41528"
+}

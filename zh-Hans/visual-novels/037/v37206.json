@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37206",
+  "type": "visual_novel",
+  "name": "Qiu zhi Huiyi Qiwang",
+  "original_name": "秋之回忆 祈望",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This game is the prequel of the Memories Off Sorekara Inori route, which contains many scenes that were briefly mentioned in the main story, and shows them in detail in front of our eyes. Let us experience the slightly sad tenderness of Inori again~\n\n(Source: Readme file in patch)",
+  "source_sha256": "ee41cb5d02121693d7cb69042c0400b7549b54b024425da7e712fa416ad3e336",
+  "translation": "本作是《秋之回忆：从今以后》Inori路线的前传，补充了主线中曾被一笔带过的许多场景，并将其详细呈现在眼前。让我们再次体验Inori那略带忧伤的温柔吧～\n\n（来源：补丁中的Readme文件）",
+  "vndb_url": "https://vndb.org/v37206"
+}

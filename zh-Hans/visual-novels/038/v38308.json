@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38308",
+  "type": "visual_novel",
+  "name": "Isegye Maid",
+  "original_name": "이세계 메이드",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Isegye maid is a beautiful girl romance simulation in which an ordinary protagonist is trapped in a world called a \"mansion\" and spends three days with four maids.",
+  "source_sha256": "57c0a3737b9405e3f76d098dfaccf6661137c7b5fc1bbb700a1844eaf729a4c4",
+  "translation": "《异世界女仆》是一款美少女恋爱模拟游戏，讲述一名平凡主角被困在名为“宅邸”的世界，与四位女仆共度三天的故事。",
+  "vndb_url": "https://vndb.org/v38308"
+}

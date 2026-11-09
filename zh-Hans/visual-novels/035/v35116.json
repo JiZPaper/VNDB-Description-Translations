@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35116",
+  "type": "visual_novel",
+  "name": "Age of Awakening",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a visual novel recapping some of the events of a D&D campaign that the author had been playing in. This particular installment explains their character's backstory and introduces a few other characters.\n\n[Edited from [url=https://draite.itch.io/age-of-awakening]Itch.io[/url]]",
+  "source_sha256": "ece6633eb08588d1d1f22f4b7c5437aecf4b98502f4270fcef641a603be590ff",
+  "translation": "这部视觉小说回顾了作者参与的一场《龙与地下城》跑团中的部分事件。本篇主要讲述作者所扮演角色的过往，并介绍其他几位角色。\n\n[编译自[url=https://draite.itch.io/age-of-awakening]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v35116"
+}

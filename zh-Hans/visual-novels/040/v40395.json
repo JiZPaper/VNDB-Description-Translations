@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40395",
+  "type": "visual_novel",
+  "name": "Goncharov",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short visual novel about time, dreams and regrets.\n\n[From [url=https://martinscorsese.itch.io/goncharov]Itch.io[/url]]\n\nVisual novel adaptation of a [url=https://knowyourmeme.com/memes/goncharov]Tumblr meme[/url] about a non-existent movie directed by Martin Scorsese.",
+  "source_sha256": "e0edf5e25686cb66e85b741df7bbd71f6c15f46c4806274d89673530faf98e11",
+  "translation": "一部关于时间、梦想与悔恨的短篇视觉小说。\n\n[引自[url=https://martinscorsese.itch.io/goncharov]Itch.io[/url]]\n\n本作改编自一则[url=https://knowyourmeme.com/memes/goncharov]Tumblr网络迷因[/url]：马丁·斯科塞斯导演了一部并不存在的电影。",
+  "vndb_url": "https://vndb.org/v40395"
+}

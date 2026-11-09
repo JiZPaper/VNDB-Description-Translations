@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40680",
+  "type": "visual_novel",
+  "name": "Steamed Hams - An Unforgettable Luncheon",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Steamed Hams is an adaptation of the 22 Short Films About Springfield skit of the same name; this adaptation was made as part of a game jam, where the goal was to learn Ren'Py and create an experience in 8 hours.\n\nThis experience needed to incorporate the genre of visual novel and theme of sacrfices must be made. This project was completed in the scope of 8 hours, enjoy.",
+  "source_sha256": "b5edc574fc3622348106962e4dc525dc661efbddb8c36942aa8f830581f70372",
+  "translation": "《Steamed Hams》改编自《辛普森一家》“春田镇的22个短篇故事”中同名的桥段。本作是一次游戏创作活动的作品，目标是在8小时内学习Ren'Py并制作一段游戏体验。\n\n本作需要采用视觉小说形式，并以“必须有所牺牲”为主题。项目在8小时内完成，祝你游玩愉快。",
+  "vndb_url": "https://vndb.org/v40680"
+}

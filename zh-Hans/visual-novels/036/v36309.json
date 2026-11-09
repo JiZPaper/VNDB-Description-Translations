@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36309",
+  "type": "visual_novel",
+  "name": "Ivy and Blue",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Ivy & Blue is a short, kinetic novel (i.e no choices, one ending) that follows the budding relationship between potential friends. \n\n[From [url=https://neeka-of-obp.itch.io/ivy-and-blue]Itch.io[/url]]",
+  "source_sha256": "27bd902a4f1e72a1bbd76f3ce67d050fd4c060ff8fb2dfdff5a4dc5f2e1e846e",
+  "translation": "《Ivy & Blue》是一部短篇无选项视觉小说，即没有选项、只有一个结局，讲述两个有望成为朋友的人之间，逐渐萌芽的关系。\n\n[摘自[url=https://neeka-of-obp.itch.io/ivy-and-blue]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v36309"
+}

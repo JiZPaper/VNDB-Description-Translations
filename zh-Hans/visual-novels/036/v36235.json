@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36235",
+  "type": "visual_novel",
+  "name": "The Creature",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You enter a room only to find it empty except for a window, an old mattress, and a strange creature. You are sure that its eyes just glowed brighter with life.\n\n[From [url=https://anizyart.itch.io/the-creature]Itch.io[/url]]",
+  "source_sha256": "cb7bff7fc8f97c359cab1fc4b2aa418c175d796a20a868bef8ac538a89e3147e",
+  "translation": "你走进一间房，发现里面空空荡荡，只有一扇窗、一张旧床垫，以及一只奇怪的生物。你确信，它的双眼刚才亮了起来，闪动着生命的光芒。\n\n[摘自[url=https://anizyart.itch.io/the-creature]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v36235"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37757",
+  "type": "visual_novel",
+  "name": "The Guild",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You work as a receptionist in an adventurer guild and listen to the tales of adventurers, which are depicted in this picture book style. \n\nYour job is to catch lies or exagerations the adventurer tells you. For that you have your notebook, that shows you information about the quest the adventurer was on and some of his biography as well as their personality.\n\n[From [url=https://whythree.itch.io/theguild]Itch.io[/url]]",
+  "source_sha256": "4234d48be14fb4e4d013f2a9d73f6c6b2ba144cb4ae4294d67f065fa3fa9ecc7",
+  "translation": "你在冒险者公会担任接待员，聆听冒险者们的故事。这些故事以绘本风格呈现。\n\n你的工作是识破冒险者故事中的谎言或夸大之处。为此，你有一本笔记本，里面记录着他们接受的委托、部分个人经历和性格信息。\n\n[来源：[url=https://whythree.itch.io/theguild]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v37757"
+}

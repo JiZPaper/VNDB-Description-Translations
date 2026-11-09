@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35036",
+  "type": "visual_novel",
+  "name": "WINTERS",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Short story about a group of people taking refuge in an abandoned house during a blizzard.\n\n[From [url=https://lazytigermade.itch.io/winters]Itch.io[/url]]",
+  "source_sha256": "b179200d5998a40180d79e636859d45d19dc35ce2666cf161e861c76fa14ec40",
+  "translation": "一则短篇故事，讲述一群人在暴风雪中躲进一栋废弃房屋避难的经历。\n\n[摘自[url=https://lazytigermade.itch.io/winters]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v35036"
+}

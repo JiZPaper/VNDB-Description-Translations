@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40668",
+  "type": "visual_novel",
+  "name": "The Legacy of Lunatic Omsk",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This visual novel based on the events of the 15th installment of the Touhou Project, but the plot changes everything into Russian realities. Playing as Marisa Kirisame, you embark on a journey with one of your 3 friends: Reimu, Reisen or Sanae.",
+  "source_sha256": "b5faf5fc6367baaa58351bfa9572148e985c48421ea1d5be2fbdbd04bfc4628a",
+  "translation": "本作根据《东方Project》第15作的事件改编，但将剧情全部改写成俄罗斯背景。你将扮演雾雨魔理沙，和博丽灵梦、铃仙或东风谷早苗中的一人踏上旅程。",
+  "vndb_url": "https://vndb.org/v40668"
+}

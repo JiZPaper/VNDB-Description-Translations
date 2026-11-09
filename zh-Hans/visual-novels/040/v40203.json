@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40203",
+  "type": "visual_novel",
+  "name": "Necroverse",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Your birthday is coming soon, though you may not get the gift you requested. Quickly running out of reasons, you decide to run away from it all, unaware that a new unfamiliar world exists after death; The Necroverse.\n\n[From [url=https://kale-slice.itch.io/necroverse-beta]itch.io[/url]]",
+  "source_sha256": "0dd2b6fc0aeaef40460b81e052adde924fc6f07e3f589651a8c370bbedb828da",
+  "translation": "你的生日就要到了，不过你未必能收到自己想要的礼物。你很快就找不到留下来的理由，于是决定逃离这一切，却不知道死后还存在一个陌生的新世界：死灵界。[引自[url=https://kale-slice.itch.io/necroverse-beta]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v40203"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39353",
+  "type": "visual_novel",
+  "name": "Ardente ~Ano Hi no Shita de~",
+  "original_name": "Ardente ～あの日の下で～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Goryo Academy—an expansive institution spanning from university level down to kindergarten. You transfer in during your third year of high school, right in the middle of the second semester—a rather awkward time. It is a short stay, but in this vast campus...what will you discover?",
+  "source_sha256": "c4941768e6908dbb032df24786ce95b91a305c47ea1d1d5a87fd8d8e7a561df7",
+  "translation": "Goryo Academy是一所规模庞大的学府，涵盖大学至幼儿园各阶段。你在高中三年级第二学期中途转入，时机相当尴尬。虽然只会短暂停留，但在这座广阔的校园里……你会发现什么？",
+  "vndb_url": "https://vndb.org/v39353"
+}

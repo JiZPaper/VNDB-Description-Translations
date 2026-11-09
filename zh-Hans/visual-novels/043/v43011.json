@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43011",
+  "type": "visual_novel",
+  "name": "Pet",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Pet is a horror visual novel about being in a city after a fun day out and how sometimes you gotta get home to take care of your cat. \n\nIt's a late night on an unseasonably warm day. On your way home to feed your cat Kuma, you stumble upon a vending machine in a dark alley.\n\n[From [url=https://beepsalt.itch.io/pet]Itch.io[/url]]",
+  "source_sha256": "d779b8738790ef9075d17b2bd0217ef9d48aa7c3e93136abf172044ee87026fb",
+  "translation": "《Pet》是一部恐怖视觉小说：在城里痛快玩了一天之后，有时你还是得回家照顾猫。\n\n那是一个反常暖和的日子，时间已到深夜。你正赶回家给猫咪Kuma喂食，却在一条昏暗的小巷里偶然发现了一台自动售货机。\n\n[摘自[url=https://beepsalt.itch.io/pet]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43011"
+}

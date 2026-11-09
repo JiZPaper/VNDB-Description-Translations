@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35325",
+  "type": "visual_novel",
+  "name": "Rainy Days",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A first person linear VN that allows you to interact with a hot dragon.\n\n[From [url=https://vkywrufwe.itch.io/rainy-days]Itch.io[/url]]",
+  "source_sha256": "a1473ebbf50af118e00e7a4cbf40fb85d40be0285bad4391d42f9c1c938b1cd8",
+  "translation": "一部以第一人称展开的线性视觉小说，让你与一条性感的龙互动。\n\n[摘自[url=https://vkywrufwe.itch.io/rainy-days]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v35325"
+}

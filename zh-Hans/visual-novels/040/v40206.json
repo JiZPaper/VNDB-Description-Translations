@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40206",
+  "type": "visual_novel",
+  "name": "Sonic Colors VN",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Sonic Colors VN is a fanmade remake of Sonic Colors DS in a Visual Novel format\n\n[From [url=https://sonicfangameshq.com/forums/showcase/sonic-colors-vn-sage-22-demo.1494/]SFGHQ[/url]]",
+  "source_sha256": "30c8f1eef4f06f639acf244cbd1775455c1e1cead67f1c2e7372b1b07a1931d5",
+  "translation": "这是一款以视觉小说形式重制的粉丝作品，重制对象是《Sonic Colors》的DS版。[引自[url=https://sonicfangameshq.com/forums/showcase/sonic-colors-vn-sage-22-demo.1494/]SFGHQ[/url]]",
+  "vndb_url": "https://vndb.org/v40206"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35341",
+  "type": "visual_novel",
+  "name": "Into the City",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A 'Papers, Please' style game set in a dystopian cyberpunk world. Think of \"Do Androids Dream of Electric Sheep?\"\n\nOfficer WY4tt, you are tasked with letting people into Webflow, the last standing city. Check to see if the potential citizen's are up to code through their search history, you know the drill. \n\n[From [url=https://single-cell-studios.itch.io/into-the-city-demo]Itch.io[/url]]",
+  "source_sha256": "879ce34e7a15748a799c079622a85e2137f3c652e4c4910dcec0c9ceb5647c92",
+  "translation": "一款采用《请出示证件》式玩法、以反乌托邦赛博朋克世界为舞台的游戏。可以想象一下《仿生人会梦见电子羊吗？》那样的世界。\n\nWY4tt警官，你的任务是审核入境者，决定谁能进入最后一座尚存的城市——网流城。检查这些准市民的搜索记录，确认他们是否符合规定，流程你都懂。\n\n[摘自[url=https://single-cell-studios.itch.io/into-the-city-demo]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v35341"
+}

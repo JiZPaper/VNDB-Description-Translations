@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39200",
+  "type": "visual_novel",
+  "name": "Namiiro",
+  "original_name": "なみいろ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "With four girls to choose from, you can \"talk\" with them every day to increase their love level. With enough points you can access some events for each heroine.\n\nSome unique events are locked behind a \"secret love point\", which can only be accessed with a gacha type system, with two free rolls per day, and other paid content.\n\nThere are also some limited special scenes based on seasonal events and holidays.",
+  "source_sha256": "cfb80e483935a49f18b13393f954f95027f7509fcf50cd6ca64acefdad4d9a3d",
+  "translation": "你可以从四位女孩中选择对象，每天与她们“交谈”来提升好感度。点数足够后，便能解锁各位女主角的专属事件。\n\n部分特殊事件需要“隐藏好感度”才能解锁，而隐藏好感度只能通过抽卡系统获取；每天有两次免费抽取机会，此外还有付费内容。\n\n游戏中也有根据季节活动和节日推出的限时特别剧情。",
+  "vndb_url": "https://vndb.org/v39200"
+}

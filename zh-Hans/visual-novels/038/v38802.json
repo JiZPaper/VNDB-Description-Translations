@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38802",
+  "type": "visual_novel",
+  "name": "NastyLand",
+  "original_name": "纳斯蒂兰",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Strings of many fates lay in front of you.\nYou may observe and control them.\nHear the sounds from the fissures of space and time.\nWhat will you see? What will you know?\n\n[From [url=https://nastyzeus.itch.io/nastyland]Itch.io[/url]]",
+  "source_sha256": "1f77241a812661624f37619beb7ac4dbd7a6d7e3c27dec68d40bd8bccc38000f",
+  "translation": "许多命运之线铺展在你面前。\n你可以观察它们，也可以操纵它们。\n聆听时空裂隙中传来的声音。\n你会看见什么？又会知道什么？\n\n[来源：[url=https://nastyzeus.itch.io/nastyland]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v38802"
+}

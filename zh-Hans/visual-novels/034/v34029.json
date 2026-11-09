@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34029",
+  "type": "visual_novel",
+  "name": "Suzumiya Haruhi no Gyakuten 2",
+  "original_name": "涼宮ハルヒの逆転２",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game is split up into three cases, each with its own storyline and scenario. The concept is that various characters have been put on trial for crimes they claim they are innocent of. You play Haruhi, as she defends them.\n\nThe cases are split up into two phases. The investigation phases, where the player explores the school as Kyon, talking with other characters and gathering evidence, and the trial phases, where the player must defend their client in court as Haruhi.\n\n[From [url=https://haruhi.fandom.com/wiki/Suzumiya_Haruhi_no_Gyakuten_2%2B1]Haruhi Wiki[/url]]",
+  "source_sha256": "6eadc8db491df4d28713be361be4082d4eb0ef832cc46cd5a63da19f30dd4c7a",
+  "translation": "游戏分为三个案件，各自拥有独立的故事与情境。几位角色被控犯罪、接受审判，却都声称自己无辜。你将扮演春日，为他们辩护。\n\n每个案件都分为两个阶段：调查阶段，玩家扮演阿虚在学校里探索，与其他角色交谈并收集证据；庭审阶段，玩家则扮演春日，在法庭上为委托人辩护。\n\n[摘自[url=https://haruhi.fandom.com/wiki/Suzumiya_Haruhi_no_Gyakuten_2%2B1]凉宫春日维基[/url]]",
+  "vndb_url": "https://vndb.org/v34029"
+}

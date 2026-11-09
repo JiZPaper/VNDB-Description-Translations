@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37130",
+  "type": "visual_novel",
+  "name": "Mech Cocoon",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An adventure visual novel game, inspired on scifi stories, mechs and personal struggles, it's a story based on Daiken, a man trapped without a clear purpose or path.\n\n[From [url=https://studio-lemi.itch.io/cocoon-mech-visual-novel]Itch.io[/url]]",
+  "source_sha256": "f00b679d57efbeada33d3526e68ab2007541a372495db07abc302d212b10506a",
+  "translation": "一款受科幻故事、机甲与个人挣扎启发的冒险视觉小说，讲述一个名叫Daiken的男人被困其中，既没有明确目标，也找不到前进方向。\n\n[来源：[url=https://studio-lemi.itch.io/cocoon-mech-visual-novel]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v37130"
+}

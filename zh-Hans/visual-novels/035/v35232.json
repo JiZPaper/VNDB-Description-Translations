@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35232",
+  "type": "visual_novel",
+  "name": "High School Days",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game is an Adult DateSim/Visual Novel made by Ren'Py. It follows the story of “Andy”, a young student who has to make the best of a family crisis.\n\nHaving to move with his grandmother while his parents sort things out, in this new city, he will be reunited with friendly faces and meet new people, some which will be friends, and other not so much.\n\n[From [url=https://www.thehighschooldays.com/about/]official website[/url]]",
+  "source_sha256": "3b3c18155f1da6e6493f9f6c60f7d495432f22ef75af592d66977afec789847c",
+  "translation": "这是一款使用Ren’Py制作的成人恋爱模拟／视觉小说。故事的主角安迪是一名年轻学生，面对家庭危机，他必须尽力应对。\n\n父母需要时间解决彼此的问题，安迪只好搬去与祖母同住。在这座陌生的城市里，他既会与熟悉的友人重逢，也会结识新面孔。其中有些会成为朋友，有些则未必。\n\n[摘自[url=https://www.thehighschooldays.com/about/]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v35232"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39072",
+  "type": "visual_novel",
+  "name": "FF&S: Scenes That Didn't Happen",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "When an author is creating a story, many times there are scenes that sound good, but don't end up making the cut.\nIn addition, sometimes there are scenes that could go \"this way\" or \"that way.\" If \"this way\" is chosen, people still might be interested in seeing \"that way.\"\n\nThis project is designed to address this.\nIt consists of scenes or story lines from the \"Family, Friends and Strangers\" world that aren't part of the FF&S story itself.\nOver time, it will also allow the author to present content that fans have asked for,\nbut which didn't fit into the \"FF&S story proper.\"",
+  "source_sha256": "bd3a7993e6e9569cd862c40bd9431a5db296db7d3756d0c3dbe8eba4c318d474",
+  "translation": "作者创作故事时，常会有一些听起来不错、最终却没能采用的场景。\n此外，有时某段情节也能朝“这样”或“那样”发展。即使选择了“这样”，读者或许仍会想看看“那样”的版本。\n\n这个企划正是为此而设。\n它收录《Family, Friends and Strangers》（FF&S）世界中的场景或故事线，但这些内容并不属于FF&S正篇。\n之后，作者也会在这里呈现粉丝希望看到、却不适合纳入《FF&S》正篇的内容。",
+  "vndb_url": "https://vndb.org/v39072"
+}

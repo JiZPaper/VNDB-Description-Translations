@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35300",
+  "type": "visual_novel",
+  "name": "The Domovoi",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Your friend, a folk storyteller, has offered to perform her latest work. As her audience, it is your task to advise how her tale should unfold.\n\n[From [url=https://bravemule.itch.io/domovoi]Itch.io[/url]]",
+  "source_sha256": "26141aee9598f79baf445a1980c9954309806410e01b82a609906d74b835acbb",
+  "translation": "你的朋友是一位民间说书人，她提出为你讲述自己最新的故事。作为听众，你需要给出建议，决定故事将如何发展。\n\n[摘自[url=https://bravemule.itch.io/domovoi]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v35300"
+}

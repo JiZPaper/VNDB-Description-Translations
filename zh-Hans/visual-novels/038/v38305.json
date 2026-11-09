@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38305",
+  "type": "visual_novel",
+  "name": "Aletta",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An adventure visual novel with a pixel art style. About ghosts, past love, and a world of the unconscious.\n\nIt has a simple click-to-advance mechanic, with minimalistic controls.\nWill you follow the scent of spider lilies, or will you ride again the engine steam?\nOr maybe, both?\n\n[From [url=https://store.steampowered.com/app/1980400/Aletta__Visual_Novel/]Steam[/url]]",
+  "source_sha256": "11c33fc4e08e1f30a27eb02cb6951381dda2344aa3e9996e501d61299a2e6ecd",
+  "translation": "一部像素风格的冒险视觉小说，讲述幽灵、旧日恋情与无意识世界。\n\n游戏采用简单的点击推进机制，操作极为简洁。\n你会循着彼岸花的香气前行，还是再次乘上蒸汽列车？\n又或者，两者兼而有之？\n\n[摘自[url=https://store.steampowered.com/app/1980400/Aletta__Visual_Novel/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v38305"
+}

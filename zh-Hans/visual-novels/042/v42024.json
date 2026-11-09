@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42024",
+  "type": "visual_novel",
+  "name": "The Cold's Hold",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "What if one seeks who one is, but as the exploration deepens the mystery only complicates further? Uses old paintings as a backdrop, integrated within the narrative. Related to the RPG Entropic Summons (a different story, in the same universe), whose plain novel form is A Snowed Abode (same characters as ES, written in a descriptive format, with an added comedic narration), connected to a shorter (possibly funnier) action RPG The Pet Cat Who Does A Minuet.",
+  "source_sha256": "3e985e2f156a32c71b8196119f4e0c0737516ced75452e0d6151661e548566e8",
+  "translation": "如果一个人试图寻找自我，却在探索不断深入时，发现谜团反而越来越复杂，会怎样？本作以古老的画作为背景，并将它们融入叙事。故事与角色扮演游戏《Entropic Summons》相关——两者发生在同一世界，讲述不同的故事。后者的纯文字小说版本为《A Snowed Abode》，沿用《Entropic Summons》的角色，以描写性文字呈现，并加入诙谐的旁白；它还与篇幅更短、也许更有趣的动作角色扮演游戏《The Pet Cat Who Does A Minuet》有所关联。",
+  "vndb_url": "https://vndb.org/v42024"
+}

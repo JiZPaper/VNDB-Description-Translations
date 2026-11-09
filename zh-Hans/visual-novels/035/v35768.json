@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35768",
+  "type": "visual_novel",
+  "name": "Wildwood",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Wildwood is a short anthology visual novel about fairy tales and folklore from Europe, Britain and Russia. \n\n[From [url=https://ogdred.itch.io/wildwood]Itch.io[/url]]",
+  "source_sha256": "000d6519419c55ad038efea71a7cfb8ed38751ecffe8214c128e5e931d5547a0",
+  "translation": "《Wildwood》是一部短篇故事集形式的视觉小说，取材于欧洲、英国和俄罗斯的童话与民间传说。\n\n[摘自[url=https://ogdred.itch.io/wildwood]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v35768"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37455",
+  "type": "visual_novel",
+  "name": "Myeongtamjeong S",
+  "original_name": "명탐정S",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The loss of my one and only family. The only reason I became a detective is to solve the case!\n\n[Edited from official site]",
+  "source_sha256": "d5a58affaa46c38a17596dc881aae4a779d44a23d9708e7f5930a2f1646effdd",
+  "translation": "我失去了唯一的家人。成为侦探的唯一理由，就是查明这起案件！\n\n[改编自官方网站。]",
+  "vndb_url": "https://vndb.org/v37455"
+}

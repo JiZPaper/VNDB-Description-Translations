@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39078",
+  "type": "visual_novel",
+  "name": "Morning Rituals",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A game about a girl choosing her morning rituals, made during Godot Wild Jam #50.\n\n[From [url=https://dania-code.itch.io/morningrituals]Itch.io[/url]]",
+  "source_sha256": "81f1a57e804b9ca7e4b083006b66477ff9cb213498400f5bb3b48e67f1add9ee",
+  "translation": "这是一款描写女孩选择晨间仪式的游戏，制作于Godot Wild Jam #50期间。\n\n[来源：[url=https://dania-code.itch.io/morningrituals]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v39078"
+}

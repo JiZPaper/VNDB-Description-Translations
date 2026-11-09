@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37828",
+  "type": "visual_novel",
+  "name": "A Favor For A Friend",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A choice based visual novel by ntrgames, This is a standalone release and has nothing to do with HOTN.\nThe Dev just using the same characters.​",
+  "source_sha256": "ef39d3af9e5be4aa6a253a748db8e092e583aca203aa3ae5d196b5a11c2b376a",
+  "translation": "一部由ntrgames制作、以选择为导向的视觉小说。本作独立发行，与HOTN毫无关系。开发者只是沿用了同一批角色。",
+  "vndb_url": "https://vndb.org/v37828"
+}

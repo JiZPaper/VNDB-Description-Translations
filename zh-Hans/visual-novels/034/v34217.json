@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34217",
+  "type": "visual_novel",
+  "name": "Subserial Network",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Dive into the mesh network of the post-singularity. Synthetic humans, built in individual recreations of original human selves, are creating a revolution against their directive: they are installing a serial port, modifying their bodies away from human image, and becoming more machine.\n\nUsing a multi-window communication suite on your desktop, your directive is to find and terminate their leader. But who's giving the order? Why did they build the mesh network? Who are they hiding from? And why is this all just a game for you?\n\n[From [url=https://aether.in.net/releases/]official website[/url]]",
+  "source_sha256": "a6e24e8b42763e38ba4fd644f59b4ff113b83d62933480c16a871c5066a3151c",
+  "translation": "潜入后奇点时代的网状网络。合成人原本分别依照某个人类的样貌与人格制造，如今却开始反抗自身的指令：他们为自己装上串行接口，改造身体，舍弃人类的形态，让自己变得更像机器。\n\n你的指令是使用桌面上的多窗口通信工具，找到并终止他们的领袖。但下达指令的是谁？他们为何建立这个网状网络？他们在躲避谁？而对你而言，这一切又为何只是一场游戏？\n\n[摘自[url=https://aether.in.net/releases/]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v34217"
+}

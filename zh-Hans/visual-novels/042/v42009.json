@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42009",
+  "type": "visual_novel",
+  "name": "Christmas Market",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A fun point-and-click adventure about last minute Christmas shopping! Join Ellen and her friend Kim as they rush out on New Year's Eve to grab their gifts!\n\nFeaturing an interactive environment and inventory system that allows you to combine objects and play with your surroundings!\n\n[From [url=https://poliasgames.itch.io/christmas-market]Itch.io[/url]]",
+  "source_sha256": "730331a32230a427ea79d5e56b59288beabe5ad7977d1d3d7d5e90fbdfffd2e5",
+  "translation": "一场围绕节日前夕抢购圣诞礼物展开的趣味点击式冒险！和Ellen及她的朋友Kim一起，在跨年夜匆忙出门买齐礼物吧！\n\n游戏设有可互动的环境和物品栏系统，让你组合物品，并与周围的事物互动！\n\n[摘自[url=https://poliasgames.itch.io/christmas-market]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v42009"
+}

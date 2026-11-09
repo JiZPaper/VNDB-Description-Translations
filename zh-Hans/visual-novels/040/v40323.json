@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40323",
+  "type": "visual_novel",
+  "name": "flesh",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Embraced into clan Tzimisce by your lover, you've been bound by her blood more often than not. Tonight, you must decide: would this be your forever, or perhaps it's all trick of the blood.\n\n[From [url=https://bloodpraxis.itch.io/flesh]Itch.io[/url]]",
+  "source_sha256": "582e627b22fbaf95f2eb0b4d0a016bf429b11d530c0fb86c9c84c3390acc99ae",
+  "translation": "你的恋人将你转化为茨密希族吸血鬼，从那以后，你大多数时候都受她血液的束缚。今晚，你必须作出决定：这会成为你们永远的关系吗？还是这一切不过是血液造成的幻觉？[引自[url=https://bloodpraxis.itch.io/flesh]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v40323"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35784",
+  "type": "visual_novel",
+  "name": "Earthen Hearts",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A vacation gone wrong leads you into a ghost-island, where you meet its otherworldly inhabitants. Will you befriend them, or focus on escaping? \n\n[From [url=https://yerdad.itch.io/earthen-hearts-demo]Itch.io[/url]]",
+  "source_sha256": "8a126a92d41eae68f4203a8bdc68448f1c650344b64057ba2917ae5c975e9e08",
+  "translation": "一次出了岔子的假期，将你带到了一座幽灵岛上，你在那里遇见了来自另一个世界的居民。你会与他们交朋友，还是一心寻找逃离的方法？\n\n[摘自[url=https://yerdad.itch.io/earthen-hearts-demo]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v35784"
+}

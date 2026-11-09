@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38093",
+  "type": "visual_novel",
+  "name": "Kitty Care",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Dating sim mixed with fantasy and talking animals take place in a pet daycare.",
+  "source_sha256": "a4c1529ad5b2ff77ad56b7d426f08ec12b5fde6490cb61f0b5fbe1e03f2a00fe",
+  "translation": "一款以宠物托儿所为舞台，融合奇幻元素与会说话动物的恋爱模拟游戏。",
+  "vndb_url": "https://vndb.org/v38093"
+}

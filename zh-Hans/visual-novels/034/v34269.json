@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34269",
+  "type": "visual_novel",
+  "name": "Heartbeats",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Sunnyridge Memorial Hospital is a place where your heart is broken, but there isn't a broken heart that can't be healed by a new co-worker, a cardiologist. However, it isn't easy to begin a new relationship after a divorce. Will you manage to go on, or will you let the past stand in your way?\n\n[From in-app]",
+  "source_sha256": "b16761a3c7fc46dbaaac2a6d0ecca7e63142d43e2078be2e9e8c1f97c72f0027",
+  "translation": "晴岭纪念医院曾让你心碎，但新来的心脏科医生同事，或许能够治愈你受伤的心。然而，离婚后想要开始一段新感情，并不容易。你能继续向前，还是会任由过去挡住自己的脚步？\n\n[摘自应用内介绍]",
+  "vndb_url": "https://vndb.org/v34269"
+}

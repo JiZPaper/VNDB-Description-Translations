@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44001",
+  "type": "visual_novel",
+  "name": "A Diplomatic Exchange",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Pauline is a human diplomat assigned to the space-faring vessel, USS Plaiedes, tasked with creating diplomacy between organics and androids through a conversation with Juno, an android diplomat aboard the ESS Robotica, the first all-android StarShip. \n\n[From [url=https://semisinful.itch.io/a-diplomatic-exchange]Itch.io[/url]]",
+  "source_sha256": "e29374052060b6a2a4ec165f9db7e906ce8bb0c72b3921a3438a4c7049141407",
+  "translation": "保琳是一名被派驻USS Plaiedes号星际飞船的人类外交官。她的任务是与朱诺展开对话，促成有机生命与仿生人之间的外交关系。朱诺是ESS Robotica号上的仿生人外交官，而这艘飞船也是首艘全员均为仿生人的星舰。\n\n（摘自[url=https://semisinful.itch.io/a-diplomatic-exchange]itch.io[/url]）",
+  "vndb_url": "https://vndb.org/v44001"
+}

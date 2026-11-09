@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36182",
+  "type": "visual_novel",
+  "name": "what's your name?",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"what's your name?\" is a semi-fictional visual novel about name change process - the paperwork you have to file, the people you have to talk to, the time you have to wait.\n\n[Edited from [url=https://sxilin.itch.io/namegame]Itch.io[/url]]",
+  "source_sha256": "45355b7ca539edf5ed4b25939bf1b07cc530d83b669d2fb349cc4b1a72c31add",
+  "translation": "《你叫什么名字？》是一部半虚构的视觉小说，讲述更改姓名的过程：需要递交的文件、需要交涉的人，以及必须耗费的等待时间。\n\n[摘编自[url=https://sxilin.itch.io/namegame]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v36182"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36035",
+  "type": "visual_novel",
+  "name": "STRANDED",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Michael Bester is the last survivor on a planet many light-years from Earth. His monotonous existence is shaken when a mysterious second survivor appears in the facility.\n\n[From [url=https://jyagger.itch.io/stranded]Itch.io[/url]]",
+  "source_sha256": "58bd0ead79545c4657e3fb28c3a5ef4973bac1074874b8b0fb6a2f4882caa2c1",
+  "translation": "迈克尔·贝斯特是某颗距离地球许多光年远的星球上最后的幸存者。一名神秘的幸存者出现在设施中，打破了他单调的生活。\n\n[摘自[url=https://jyagger.itch.io/stranded]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v36035"
+}

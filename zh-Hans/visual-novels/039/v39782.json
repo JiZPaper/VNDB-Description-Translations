@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39782",
+  "type": "visual_novel",
+  "name": "Yarn of Echoes",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Adventurers! Pack your bags and set off on the roads of Yarn øf Echoes, a land full of surprises in a totally new fantasy world!\n\nWeave your own destiny and that of your colourful companions.",
+  "source_sha256": "d3d20f03d27dea0d4ffaae63539b4f252097122248ecde04e08e8f549a30b5e9",
+  "translation": "冒险者们！收拾行囊，踏上Yarn øf Echoes的道路吧！这片土地位于一个全新的奇幻世界，处处充满惊喜。\n\n编织你自己的命运，也编织色彩缤纷的同伴们的命运。",
+  "vndb_url": "https://vndb.org/v39782"
+}

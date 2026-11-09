@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39657",
+  "type": "visual_novel",
+  "name": "Demon Boy Saga",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A wealthy and well-established family will have an economic mishap that will change their lives for the worse.\nA catastrophe for some, except for our protagonist, who will use what is coming to his advantage.",
+  "source_sha256": "9c4eb5742badaf2c9b75fa948d38affb45e9151f4f66b94fa930f6b054f4256d",
+  "translation": "一个富裕且声望卓著的家庭遭遇经济变故，生活从此一落千丈。\n\n这场灾难令家人们陷入困境，唯独主角打算利用即将发生的一切为自己谋利。",
+  "vndb_url": "https://vndb.org/v39657"
+}

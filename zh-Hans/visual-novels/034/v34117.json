@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34117",
+  "type": "visual_novel",
+  "name": "Loretta no Shouzou: Sherlock Holmes",
+  "original_name": "ロレッタの肖像 —Sherlock Holmes—",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Loretta no Shouzou or Loretta's Portrait is an adventure game. In this title you play as Sherlock Holmes at the end of the 19th century who has agreed to find the portrait stolen from the art gallery. Basic gameplay is based around choosing appropriate commands such as Look, Take, Talk, Examine and so on, a separate menu also summons up the verbs related to movement such as Move or Enter. Despite those commands being in English, the majority of game text is in Japanese only, as the game was not released anywhere else.\n\nTo solve the case you are free to explore the city of London which is presented as a grid map with 34 square in total, each of whose could be visited by a persistent investigator. To advance the plot you'll have to search the locations for clues, collect them in your inventory and speak with the characters by asking them about things you have learned so far. You can highlight objects and people using a cursor to get descriptions from Holmes which makes Loretta no Shouzuo somewhat a point'n'click title. Besides the city map, there are also a couple of maze-like locations that needs to be explored on their own.\n\n[From [url=https://www.mobygames.com/game/sg-1000/loretta-no-shouzou-sherlock-holmes]Mobygames[/url]]",
+  "source_sha256": "20aced188e716910f78cb5140d3d38bf948f9eb4d83aef09f69cc82817ba37d0",
+  "translation": "《洛蕾塔的肖像》，也称《Loretta's Portrait》，是一款冒险游戏。你将扮演19世纪末的夏洛克·福尔摩斯，受托寻找一幅从画廊失窃的肖像画。基本玩法是选择“查看”“拿取”“交谈”“调查”等合适的指令；另有独立菜单，提供“移动”“进入”等与行动有关的指令。虽然这些指令使用英文，但游戏并未在日本以外发行，因此绝大部分文本都只有日文。\n\n为了解决案件，你可以自由探索伦敦。城市以总计34格的网格地图呈现，锲而不舍的调查者可以走遍每一格。要推进剧情，就得在各个地点寻找线索、将其收进物品栏，并根据已掌握的情报向角色提问。你也可以用光标选中物品或人物，听取福尔摩斯的描述，因此本作也带有一定的点击式冒险游戏色彩。除了城市地图，还有几处迷宫般的场景，需要另外探索。\n\n[摘自[url=https://www.mobygames.com/game/sg-1000/loretta-no-shouzou-sherlock-holmes]MobyGames[/url]]",
+  "vndb_url": "https://vndb.org/v34117"
+}

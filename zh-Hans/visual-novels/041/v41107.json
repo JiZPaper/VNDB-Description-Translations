@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41107",
+  "type": "visual_novel",
+  "name": "Treasured Memories",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "One night you come across an injured girl and decide to help her.",
+  "source_sha256": "084ae5fb57408700e6c2501c40e3ee96fba906f50068855963c920e68e186cee",
+  "translation": "某天夜里，你偶遇了一名受伤的少女，并决定向她伸出援手。",
+  "vndb_url": "https://vndb.org/v41107"
+}

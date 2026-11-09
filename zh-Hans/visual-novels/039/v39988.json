@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39988",
+  "type": "visual_novel",
+  "name": "Heart no Otome no Hitosoudou",
+  "original_name": "ハートの乙女の一騒動",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The peace in the Castle of Hearts is broken by an intruder.\nJack, one of the playing card soldiers, turns to the King in response to this emergency, but...\n\n[translated from [url=https://www.freem.ne.jp/win/game/17207]Freem![/url]]",
+  "source_sha256": "bcd4c12d7080d9f606317c853de8b1d9062b7741375e816c2eb2405018b2f327",
+  "translation": "红心城堡的和平被一名闯入者打破。危急之下，扑克牌士兵之一Jack前去向国王求助，但……\n\n[改译自[url=https://www.freem.ne.jp/win/game/17207]Freem![/url]]",
+  "vndb_url": "https://vndb.org/v39988"
+}

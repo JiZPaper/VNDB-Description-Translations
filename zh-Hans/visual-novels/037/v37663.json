@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37663",
+  "type": "visual_novel",
+  "name": "Lovely Kana",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Lovely Kana is a PC-9801 inspired visual novel revolving around the life of a humble, overworked office lady.\n\nLive life through the eyes of a hard working office lady, as a big deadline looms in the future at work. As the day progresses, she’ll accumulate more stress. Balance stress, laziness, and other day to day chores to keep Kana employed.\n\nThe story changes as your stress goes up; Kana is more likely to snap and go ballistic if her stress is too high, and more likely to slack off if she becomes too lazy.\n\n[From [url=https://ldjam.com/events/ludum-dare/40/lovely-kana]Ludum Dare[/url]]",
+  "source_sha256": "25b8eb7be70fa3536fed78da7b5bb38eb7e12c2bf7ac7e852f96d1487a79379d",
+  "translation": "《Lovely Kana》是一部受PC-9801启发的视觉小说，讲述一名普通却过劳的职场女性的生活。\n\n以这位勤奋的上班族女性的视角体验日常生活，同时工作中还有一个大限期迫近。随着一天逐渐过去，她的压力不断累积。平衡压力、懒散心情和其他日常琐事，让Kana保住工作。\n\n她的故事会随着压力值变化；压力过高时，Kana更容易发怒失控，懒散值过高时则更容易偷懒。\n\n[来源：[url=https://ldjam.com/events/ludum-dare/40/lovely-kana]Ludum Dare[/url]]",
+  "vndb_url": "https://vndb.org/v37663"
+}

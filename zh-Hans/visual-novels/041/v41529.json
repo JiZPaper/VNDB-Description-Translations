@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41529",
+  "type": "visual_novel",
+  "name": "Lost in Paradise",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A married couple is shipwrecked in the ocean and the MC ended up on the desert island, along with other people.\n\nDepending on which route the main character chooses, it will be determined who exactly will be with him on the island.",
+  "source_sha256": "d7224807abfdd20e909aa04ed2c936991b41cf641fe4befa4e4308f48a5ca98b",
+  "translation": "一对夫妻在海上遭遇海难，男主角与其他几人一同流落到了荒岛上。\n\n根据男主角选择的路线不同，最终与他在岛上相伴的人也会有所不同。",
+  "vndb_url": "https://vndb.org/v41529"
+}

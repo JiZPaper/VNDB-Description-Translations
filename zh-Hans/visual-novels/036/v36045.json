@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36045",
+  "type": "visual_novel",
+  "name": "Yoko",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Follow the origin story of Yoko and her friends.\n\n[From [url=https://caracas.itch.io/yoko]Itch.io[/url]]",
+  "source_sha256": "522f7428b40e5667eb2f33a3b4b51ec86d4c99d1665ad71ffed561c55219d222",
+  "translation": "了解Yoko和她的朋友们最初的故事。\n\n[摘自[url=https://caracas.itch.io/yoko]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v36045"
+}

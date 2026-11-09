@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34644",
+  "type": "visual_novel",
+  "name": "MARIA",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short story investigating the android \"MARIA\" sleeping in ancient ruins for historical research.\nConsider the background based on fragmentary information.\n\n[From [url=https://www.freem.ne.jp/win/game/27265]Freem![/url]]",
+  "source_sha256": "fb6886a7f0792259d494ac606b226787a8b041962b1e5b29b1f4989ce63e8c2a",
+  "translation": "一则短篇故事：为了开展历史研究，调查沉睡于古代遗迹中的人造人“MARIA”。\n\n根据零碎的信息，推想故事背后的来龙去脉。\n\n[摘自[url=https://www.freem.ne.jp/win/game/27265]Freem![/url]]",
+  "vndb_url": "https://vndb.org/v34644"
+}

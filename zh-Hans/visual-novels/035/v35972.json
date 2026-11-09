@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35972",
+  "type": "visual_novel",
+  "name": "those you call monsters",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You wake up in an unfamiliar forest. You don't remember how you got there, or why. You're all alone, until you stumble upon a strange creature.\n\n[From [url=https://decadencethief.itch.io/those-you-call-monsters]Itch.io[/url]]",
+  "source_sha256": "5ca04fa9463153bae02af170d09260a3c295357fcec58747f7639cfec057c91f",
+  "translation": "你在一片陌生的森林中醒来，记不清自己为何会来到这里，又是怎么来的。你孤身一人，直到偶然遇见了一只奇异的生物。\n\n[摘自[url=https://decadencethief.itch.io/those-you-call-monsters]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v35972"
+}

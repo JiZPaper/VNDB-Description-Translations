@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38330",
+  "type": "visual_novel",
+  "name": "Trials of Tait",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as a young college student, living at home with your parents. You're flunking pretty bad, on the verge of getting kicked out! Luckily, your Mom, Katherine, proposes a solution that will change your lives forever... Can you handle the challenge that Katherine and the many other women of Greenville will throw at you?​",
+  "source_sha256": "bc27f266d899bce3b4cac200d20d21c8114ca6d6433d4a4411da26afd5a95515",
+  "translation": "你是一名年轻的大学生，住在父母家里。你的成绩一塌糊涂，快要被学校开除了！幸好，妈妈Katherine提出了一个能永远改变你们人生的解决方案……你能应付Katherine和Greenville其他女性带给你的挑战吗？",
+  "vndb_url": "https://vndb.org/v38330"
+}

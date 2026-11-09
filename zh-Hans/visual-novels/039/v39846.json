@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39846",
+  "type": "visual_novel",
+  "name": "Zero End",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as the unconventional magician Caleb Watson--a man with an uncontrollable desire to get to the truth, no matter the cost. But will you be able to pay that cost when the time comes?\n\n[From [url=https://stolenrose.itch.io/zero-end]Itch.io[/url]]",
+  "source_sha256": "55959cc91aa79e4977860306b7faf00e858b71ee12aa7c39e9c2f037878e2ecd",
+  "translation": "你将扮演特立独行的魔法师Caleb Watson。他对真相有着无法抑制的渴望，不惜付出任何代价也要查明真相。但代价真正到来时，你承担得起吗？\n\n[摘自[url=https://stolenrose.itch.io/zero-end]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v39846"
+}

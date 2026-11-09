@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36719",
+  "type": "visual_novel",
+  "name": "CoffeeShop",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A love story about a university student and his rival, that get to know each other throughout days of running into each other, hardships, and drinking hot chocolate at a coffee shop.\n\n[From [url=https://ivetten.itch.io/coffeshopbetademo]itch.io[/url]]",
+  "source_sha256": "7bf8405998e7305aaa71eb7a0aa6f93432970a931df4082b9f994f2ebfcac555",
+  "translation": "一则关于大学生与他的对手的爱情故事。两人在一次次偶遇、共同经历的困境，以及在咖啡馆喝热巧克力的时光中，逐渐了解彼此。\n\n[摘自[url=https://ivetten.itch.io/coffeshopbetademo]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v36719"
+}

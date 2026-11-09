@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41618",
+  "type": "visual_novel",
+  "name": "Fractal",
+  "original_name": "フラクタル",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In the year 2100 AD, the world was thrown into chaos by an attack by an unknown monster.\nOf course, Japan is no exception.\nThe main character is a member of the fighting group \"Fractal\" that fights such monsters.\nAlthough they were self-indulgent business, after receiving a certain request, a disturbing atmosphere gradually drifts out.",
+  "source_sha256": "d4e96340c794ed5f39399ff4e8990abd7deace1762ba39d5734dfa8f99e20d3b",
+  "translation": "公元2100年，不明怪物的袭击令整个世界陷入混乱。\n日本自然也不例外。\n主角是对抗这类怪物的战斗组织“分形”（Fractal）的一员。\n虽然他们平时行事散漫随性，但在接下某桩委托之后，一股令人不安的气息开始渐渐弥漫开来。",
+  "vndb_url": "https://vndb.org/v41618"
+}

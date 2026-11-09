@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34140",
+  "type": "visual_novel",
+  "name": "F.I.L.F.",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are the main character who returns home after a long time. Greeted by your mom and sister you come to find out that your aunt and cousin have also moved into town!\n\n[from spicyadventures.com]",
+  "source_sha256": "2d35cbd43d5627aed085dd5069f8abe86ce8519b901ecd8eb0d70655269e8afc",
+  "translation": "你将扮演久别归家的主角。母亲和妹妹迎接了你，你还发现，姨妈和表亲也搬到了镇上！\n\n[摘自spicyadventures.com]",
+  "vndb_url": "https://vndb.org/v34140"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42018",
+  "type": "visual_novel",
+  "name": "I'm Okay",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "I know how you feel. I know this feeling. Of not truly feeling like yourself. But 2047. Something terrible will happen. You have to find out.\n\n[From [url=https://burnagangson.itch.io/im-okay-epi-1]Itch.io[/url]]",
+  "source_sha256": "f122fd2935e85f1bf7824422963696cbfe60d949f39472f5af84ab8e00e77a56",
+  "translation": "我知道你的感受。我知道那种感觉：觉得自己并不是真正的自己。可是，2047年会发生可怕的事情。你必须查明真相。\n\n[摘自[url=https://burnagangson.itch.io/im-okay-epi-1]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v42018"
+}

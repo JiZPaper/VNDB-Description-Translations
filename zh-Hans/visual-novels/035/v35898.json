@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35898",
+  "type": "visual_novel",
+  "name": "Zhadnost' kapitana",
+  "original_name": "Жадность капитана",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "All people make mistakes. Sometimes a mistake is just a mistake, and sometimes it leads to irreversible consequences. It's hard to say whether a person can forgive themselves if their mistake causes a tragedy.\nThis is the story of someone who couldn’t come to terms with what happened.",
+  "source_sha256": "26672cbc190264183e683578bb3f25a505341f5b53211289b419de8a4935c2b6",
+  "translation": "人人都会犯错。有时，错误只是错误；有时，却会带来无法挽回的后果。如果自己的过失酿成了悲剧，一个人还能否原谅自己，很难说。\n这是一个始终无法接受既成事实的人的故事。",
+  "vndb_url": "https://vndb.org/v35898"
+}

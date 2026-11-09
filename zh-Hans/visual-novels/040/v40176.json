@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40176",
+  "type": "visual_novel",
+  "name": "Gen'ei Sengokutan",
+  "original_name": "幻影戦国譚",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A compilation of three BL stories.\n\n1. Gen'ei Sengokutan\n\n2. Return together.\n\n3. Nani mo Shiranai",
+  "source_sha256": "6921dd650578f4f933d5ce3f7524c12e6c263d2fad6a64e292f87bb0e693a7b6",
+  "translation": "本作收录了3篇BL故事：\n1.《幻影战国谭》\n2.《一起归来》\n3.《一无所知》",
+  "vndb_url": "https://vndb.org/v40176"
+}

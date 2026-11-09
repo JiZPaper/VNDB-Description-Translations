@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37772",
+  "type": "visual_novel",
+  "name": "Hero Complex",
+  "original_name": "히어로 컴플렉스",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The story of a failing protagonist who wanted to be a hero. \nYeah. Even when he's broken and knocked down, he has to get up again.\nBecause his dream is to be a \"hero\"....",
+  "source_sha256": "a887732ca59e6d627125719cf33abc2ba6020b54bc5960ddcec79d9a21ee25c7",
+  "translation": "故事讲述一个不得志的主角，他曾梦想成为英雄。\n是啊，即使他遍体鳞伤、被打倒在地，也必须再次站起来。\n因为他的梦想是成为“英雄”……",
+  "vndb_url": "https://vndb.org/v37772"
+}

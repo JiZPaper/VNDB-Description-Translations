@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39601",
+  "type": "visual_novel",
+  "name": "spell",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"I summoned you here by accident.\"\n\nDespite seeming taken aback, the boy was still smiling.\n\n[Translated from [url=https://sites.google.com/site/spell2017000/]official website[/url]]",
+  "source_sha256": "5024baa207122249e38cedad311631537c27c0c51c746ac4cf1e6e11d7899ec3",
+  "translation": "“我不小心把你召唤到这里来了。”\n\n男孩虽然看起来有些惊讶，却仍面带微笑。\n\n[译自[url=https://sites.google.com/site/spell2017000/]官方网站[/url]]",
+  "vndb_url": "https://vndb.org/v39601"
+}

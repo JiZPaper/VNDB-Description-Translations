@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35102",
+  "type": "visual_novel",
+  "name": "Tokyo Houkago Summoners",
+  "original_name": "東京放課後サモナーズ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist awakens in a version of Tokyo where \"transients\" – supernatural beings from fantasy and mythology – live among humans. In this world, both humans and transients utilize mysterious artifacts to fight in duels; duelists organize into guilds, which fight for control of the 23 special wards of Tokyo. The player controls the protagonist as they form a guild of their own, gather companions, and attempt to uncover how they have arrived in this world.\n\n[From [url=https://en.wikipedia.org/wiki/Tokyo_Afterschool_Summoners#Plot]Wikipedia[/url]]",
+  "source_sha256": "5c5a3bec583525a7b306582e5dc456565388cf1108919f0a53e94642f8d982cb",
+  "translation": "主人公在另一个东京醒来。在这里，被称为“转光生”的奇幻与神话中的超自然存在，与人类共同生活。人类与转光生都会使用神秘的“神器”进行决斗，并组成公会，争夺东京23个特别区的控制权。玩家将操控主人公，建立自己的公会、召集伙伴，并试图查明自己为何会来到这个世界。\n\n[摘自[url=https://en.wikipedia.org/wiki/Tokyo_Afterschool_Summoners#Plot]维基百科[/url]]",
+  "vndb_url": "https://vndb.org/v35102"
+}
