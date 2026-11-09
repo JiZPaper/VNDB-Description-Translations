@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43331",
+  "type": "visual_novel",
+  "name": "Parasite Days",
+  "original_name": "パラサイトデイズ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Good morning, Hostbody!\n\nYou awaken to find a strange but cute creature growing from your arm.\nIt turns out to be a terrible parasite that will drain all of its host's vitality.\nDo you kill it, or let it kill you?",
+  "source_sha256": "540c4538a9d128456ff097bbbb8861cd2bb61eac667ab659bec6ecd3fb14f9a4",
+  "translation": "早上好，宿主！\n\n醒来时，你发现自己的手臂上，长出了一个奇怪却可爱的生物。\n原来，它是个可怕的寄生体，会吸干宿主的全部生命力。\n你要杀了它，还是任由它杀死你？",
+  "vndb_url": "https://vndb.org/v43331"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44991",
+  "type": "visual_novel",
+  "name": "CakeDream",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In CakeDream, you're in a magical world where you go on a cake ingredient-gathering adventure to make yourself a cake. Along the way, you may encounter choices that result in inevitable consequences. \n\n[edited from [url=https://clover1031.itch.io/cakedream]Itch.io[/url]]",
+  "source_sha256": "b121c5241c229fa2aeba8f277af09a010e80d4036a44bb245c9c40a4f2f8ada5",
+  "translation": "在《CakeDream》中，你置身于一个魔法世界，为了给自己做个蛋糕，踏上收集材料的冒险。途中，你可能遇到各种选择，而每个选择都将带来无法避免的后果。\n\n[根据[url=https://clover1031.itch.io/cakedream]itch.io[/url]内容编辑]",
+  "vndb_url": "https://vndb.org/v44991"
+}

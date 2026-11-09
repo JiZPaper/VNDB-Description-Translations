@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44302",
+  "type": "visual_novel",
+  "name": "Death is NOT for Today",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A little visual novel where you need to convince the death to leave you alive! Retry a few times because there is more than one ending to your story!\n\n[From [url=https://mimstar.itch.io/death-is-not-for-today]Itch.io[/url]]",
+  "source_sha256": "912f11aef0031c3e91788775464fd0e025fedef1b961bdf910823dc074232df7",
+  "translation": "一部小型视觉小说，你需要说服死神，让自己活下去！多试几次吧，你的故事可不只有一种结局！\n\n[摘自[url=https://mimstar.itch.io/death-is-not-for-today]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v44302"
+}

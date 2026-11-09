@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42496",
+  "type": "visual_novel",
+  "name": "Ensnared",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A mysterious alchemical accident occurs, and suddenly your whole village slowly turns into plants! \n\nEntangled is an apothecary-themed visual novel where you can talk to and potentially date people that become plants developed during the 2023 Global Game Jam.\n\n[From [url=https://creepy-vine.itch.io/ensnared]Itch.io[/url]]",
+  "source_sha256": "edf44adaac0dae7475f496a829663695fe4b4ddfca61df58d2e26e04bb18fac8",
+  "translation": "一场神秘的炼金术事故发生了，整个村庄的人竟开始慢慢变成植物！\n\n《Entangled》是一部以草药师为主题的视觉小说，制作于2023年Global Game Jam。你可以与逐渐变成植物的人们交谈，甚至与他们约会。\n\n[摘自[url=https://creepy-vine.itch.io/ensnared]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v42496"
+}

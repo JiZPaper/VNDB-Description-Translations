@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44520",
+  "type": "visual_novel",
+  "name": "Another Day",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "‘Another Day’ is a single-player, slice of life Visual Novel which allows you to experience the story of a student who attends school in modern day Japan along with your family and friends. However, you must study to take tests and confront the school bullies when problems arise. Your choices will decide the outcome.\n\n[From [url=https://aosekai3107.itch.io/another-day]Itch.io[/url]]",
+  "source_sha256": "ca0c3454fcb18fce3cf8119bcc6b6805e42a1aa8c0edaf01195b42c4e66b37e8",
+  "translation": "《Another Day》是一部单人日常视觉小说。你将扮演一名在当代日本上学的学生，与家人和朋友共同经历故事。不过，你也必须学习备考，并在问题出现时直面校园霸凌者。你的选择，将决定结果。\n\n[摘自[url=https://aosekai3107.itch.io/another-day]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v44520"
+}

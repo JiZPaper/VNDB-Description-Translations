@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43505",
+  "type": "visual_novel",
+  "name": "Something Is In Your Closet",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You have always had a hard time sleeping at night. And it's just your luck that tonight you see SOMETHING moving in your closet. \n\nMaybe you should go back to sleep. But what's the harm in checking it out?\n\n[From [url=https://drewscrib.itch.io/siiyc]Itch.io[/url]]",
+  "source_sha256": "56dcfeb72470e551f722e3e50a47593966fca7b0855378e38ddbdd79169ed843",
+  "translation": "你一向很难在夜里入睡。偏偏今晚运气又这么好，竟看见衣柜里有什么东西在动。\n\n也许你该继续睡。但去看一眼，又能有什么坏处呢？\n\n[摘自[url=https://drewscrib.itch.io/siiyc]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43505"
+}

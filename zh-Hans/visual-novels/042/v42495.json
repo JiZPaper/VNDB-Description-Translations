@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42495",
+  "type": "visual_novel",
+  "name": "Will You Sign?",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are elected president of a country and must choose whether or not to sign the documents that may or may not be beneficial and ensure your approval in power during your three-year term.\n\nSign the laws that you deem necessary for the country's growth based on the parameters of the economy, health, society and security of the population. But beware! The laws are not quite what you expect. Be careful what you decide, because your decisions can have side effects...\n\n[Translated from [url=https://cheesaki.itch.io/will-you-sign]Itch.io[/url]]",
+  "source_sha256": "238dfc25da38129878e21bc0a2ba6cccad2d7b06f0589fa12adccce33ace62ed",
+  "translation": "你当选了一个国家的总统，必须决定是否签署摆在面前的文件。这些文件可能有利于国家，也可能适得其反，还会影响你在三年任期内的支持率。\n\n根据经济、医疗、社会和民众安全等指标，签署你认为对国家发展必不可少的法律。但要小心！这些法律并不完全是你想象的那样。谨慎作出决定，因为你的选择可能带来意想不到的后果……\n\n[译自 [url=https://cheesaki.itch.io/will-you-sign]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v42495"
+}

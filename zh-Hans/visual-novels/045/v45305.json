@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45305",
+  "type": "visual_novel",
+  "name": "Pizza Tower Dating Sim",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A dating sim parody of \"Pizza Tower\" where you come across Peppino's pizzzeria, order a pizza and try to seduce Peppino himself.",
+  "source_sha256": "a746870e4f15191e3dd44235f62113c67fafa9230c082ce9bc070c600f12ab1a",
+  "translation": "一款恶搞《披萨塔》的恋爱模拟游戏。你偶然来到佩皮诺的披萨店，点上一份披萨，并试着勾引佩皮诺本人。",
+  "vndb_url": "https://vndb.org/v45305"
+}

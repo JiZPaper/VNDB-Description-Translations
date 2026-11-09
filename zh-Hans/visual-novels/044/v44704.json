@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44704",
+  "type": "visual_novel",
+  "name": "NIRVANA: ZETA II",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Nirvana is a Japanese Adventure game developed by Will and published by Tonkinhouse, which was released in 1994. While the gameplay style remains similar, Nirvana does not have any apparent link to Zeta at the start, and appears to take place in a different time period, with the new protagonist being Rex, a criminal living in the slums on Earth.",
+  "source_sha256": "08bc15393948b1c41c14432ece67c5ded300beae1e9333a4a962f5e8a580fa64",
+  "translation": "《Nirvana》是一款由Will开发、Tonkin House发行的日本冒险游戏，于1994年推出。虽然玩法风格依旧相似，但本作开篇与《Zeta》没有明显联系，故事似乎发生在另一个时代。新主人公Rex是一名生活在地球贫民窟的罪犯。",
+  "vndb_url": "https://vndb.org/v44704"
+}

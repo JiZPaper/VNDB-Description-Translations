@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44505",
+  "type": "visual_novel",
+  "name": "disconnected",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In a post-apocalyptic world, you search for oxygen in order to survive outdoors. The air isn't safe anymore, after all. So you scavenge for materials... and may just make a friend along the way.\n\n[From [url=https://stormmv.itch.io/disconnected]Itch.io[/url]]",
+  "source_sha256": "b94777484c2fb6d16fb3b8365b600a63e29ed76346396b584a58fb652222aca1",
+  "translation": "在末日后的世界里，你四处寻找氧气，好让自己能在户外存活。毕竟，空气早已不再安全。于是，你开始搜寻物资……也许，还会在路上交到一个朋友。\n\n[摘自[url=https://stormmv.itch.io/disconnected]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v44505"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43591",
+  "type": "visual_novel",
+  "name": "Josef and the Toy Fair",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Revitalize a business with the nostalgia of classics, or the pursuit of modernity?",
+  "source_sha256": "6fd97c786f135e4e7f773fbcaefa16b51720df038f4d4d453cbf2ebf3752ef61",
+  "translation": "是用经典的怀旧情怀，还是对现代潮流的追求，让生意重获生机？",
+  "vndb_url": "https://vndb.org/v43591"
+}

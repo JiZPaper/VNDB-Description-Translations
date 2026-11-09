@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43881",
+  "type": "visual_novel",
+  "name": "Brother",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You lost your dear little sister, the only person in this world you cared about. \nNow you must bring her back.\n\n[From [url=https://soulofkazak.itch.io/brother]Itch.io[/url]]",
+  "source_sha256": "85f53c3873f86c461a66ecfd329575550db2449458a7eac20ada00d30472c0eb",
+  "translation": "你失去了亲爱的妹妹，那个世界上唯一让你在乎的人。\n现在，你必须把她带回来。\n\n[摘自[url=https://soulofkazak.itch.io/brother]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43881"
+}

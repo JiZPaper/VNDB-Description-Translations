@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42972",
+  "type": "visual_novel",
+  "name": "Yanchat",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Yanchat is a question and answer forum board for completely normal people.\n\nUsers can ask from a variety of topics but the most common topics here are relationship advice. Our members strive to give helpful and rational advice and always abide by our rules and guidelines.\n\n[From [url=https://domomo-games.itch.io/yanchat]Itch.io[/url]]",
+  "source_sha256": "79ab1ede05c03234934eba9a81c12e6164c3e39e1d3362bd49b10a3ded023722",
+  "translation": "Yanchat是一个供完全正常的人使用的问答论坛。\n\n用户可以就各种话题提问，不过这里最常见的还是感情咨询。我们的成员致力于提供有帮助且理性的建议，并始终遵守各项规则与准则。\n\n[摘自[url=https://domomo-games.itch.io/yanchat]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v42972"
+}

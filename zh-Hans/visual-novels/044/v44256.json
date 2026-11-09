@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44256",
+  "type": "visual_novel",
+  "name": "Coffee Dates",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Coffee Dates is a passionately crafted visual novel about getting to know your oddball co-workers at a humble little coffee shop. Each one of them has their own unique ambitions that you'll get roped into, which only escalate in scale and weirdness as you progress.\n\n[From [url=https://store.steampowered.com/app/2384390/]Steam[/url]]",
+  "source_sha256": "8ef291d6fe3a8069e092cdc909c6abfa8f854b839d5d83817dff3b108bd69821",
+  "translation": "《Coffee Dates》是一部倾注热情制作的视觉小说，讲述你在一家朴素的小咖啡馆里，逐渐了解那些古怪同事的故事。每个人都有自己的独特抱负，而你会被卷入其中。随着故事推进，他们的目标也变得越来越宏大、越来越离奇。\n\n[摘自[url=https://store.steampowered.com/app/2384390/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v44256"
+}

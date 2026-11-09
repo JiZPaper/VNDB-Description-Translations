@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43950",
+  "type": "visual_novel",
+  "name": "inziva",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel about you. Yes, you. \"inziva\" examines talking with your alter egos about your depression and traumas.\n\n[From [url=https://store.steampowered.com/app/2355710/]Steam[/url]]",
+  "source_sha256": "d1b676a3e4fda3ba2997f84f06bb8d7a6870dc3a2cda3c70e0e0f3107e04df0f",
+  "translation": "一部关于你的视觉小说。没错，就是你。《inziva》探讨与另一个自己谈论抑郁与创伤的经历。\n\n[摘自[url=https://store.steampowered.com/app/2355710/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v43950"
+}

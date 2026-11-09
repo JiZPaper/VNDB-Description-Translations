@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44284",
+  "type": "visual_novel",
+  "name": "Deicide",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Deicide is a psychological and atmospheric visual novel about an egg and a teenager.",
+  "source_sha256": "8d7009d673b9deee1c6351a6fe37064ed4032d77fed6fdb19c9f2f0d4c08e510",
+  "translation": "《Deicide》是一部注重心理描写与氛围营造的视觉小说，讲述一颗蛋与一名少年的故事。",
+  "vndb_url": "https://vndb.org/v44284"
+}

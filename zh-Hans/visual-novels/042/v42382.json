@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42382",
+  "type": "visual_novel",
+  "name": "Go-toubun no Hanayome: Gotopazu Story",
+  "original_name": "五等分の花嫁 ごとぱずストーリー",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The visual novel version of the franchise's online puzzle game. Contains all original event story from the first year of the game and the story adaptation from anime's first season. Players can also collect the event cards present in the mobile game.",
+  "source_sha256": "27e419cad134413728b9c78b29fe0e063d3c5dea2c20c4e2f15285bf3b844c0e",
+  "translation": "该系列在线消除游戏的视觉小说版本，收录手游第一年的全部原创活动剧情，以及改编自动画第一季的故事。玩家也可以收集手游中登场的活动卡牌。",
+  "vndb_url": "https://vndb.org/v42382"
+}

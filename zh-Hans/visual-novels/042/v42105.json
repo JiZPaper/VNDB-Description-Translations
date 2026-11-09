@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42105",
+  "type": "visual_novel",
+  "name": "ZETA",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Zeta is an adventure game with light dungeon crawling elements. The star ship Pilgrims is sent to investigate an accident on the planet Z (or Zeta-3) in the Zeta star system, and find out what happened to the first investigation team sent earlier, and to search for the lost transport ship Sanctuary. A development base on Z was destroyed under mysterious circumstances 100 years ago, which is suspected to be related to the more recent disappearances. Players take control of crew member Kou Asamiya aboard the Pilgrims, as it encounters an emergency in an asteroid belt, and some crew members appear to suffer from memory loss.",
+  "source_sha256": "6745537cac1208c2fc0d775a90da61d7f686da6de3cadf5ad824968aee15f0da",
+  "translation": "《ZETA》是一款带有轻度迷宫探索要素的冒险游戏。星际飞船“朝圣者号”受命调查Zeta星系中Z星——又称Zeta-3——上的事故，查明先前派出的第一支调查队遭遇了什么，并搜寻失踪的运输船“圣所号”。100年前，Z星的一座开发基地曾在不明状况下遭到摧毁，人们怀疑那起事件与近期的失踪有关。玩家操控“朝圣者号”的船员Kou Asamiya；飞船在小行星带中突遭险情，部分船员似乎还出现了失忆症状。",
+  "vndb_url": "https://vndb.org/v42105"
+}

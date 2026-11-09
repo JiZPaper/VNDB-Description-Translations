@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43074",
+  "type": "visual_novel",
+  "name": "fHeartbreaker",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short adult visual novel about a man and a woman doing things men and women do together. Although only one of them leaves satisfied.",
+  "source_sha256": "1d910db6d5437e9507d74244ae0b064b112314204b4f36271019fc0622f3e89a",
+  "translation": "一部成人短篇视觉小说，讲述一男一女做着男女之间会做的事。只是，最终心满意足离开的，只有其中一人。",
+  "vndb_url": "https://vndb.org/v43074"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44318",
+  "type": "visual_novel",
+  "name": "HEADER",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Ted the Head in trouble! He must beat the debts of the barons of hell if he wants to leave this place. Will he succeed?",
+  "source_sha256": "352d07cf2bf6351219c76e8d9b8672ccb25edbff5a847ca6108138ff9963b419",
+  "translation": "只有一颗脑袋的泰德遇上麻烦了！想离开这里，他就必须清偿地狱男爵们的债务。他能成功吗？",
+  "vndb_url": "https://vndb.org/v44318"
+}

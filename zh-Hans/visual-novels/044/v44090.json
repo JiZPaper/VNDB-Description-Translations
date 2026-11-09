@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44090",
+  "type": "visual_novel",
+  "name": "today, tomorrow",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short piece of interactive fiction about making the difficult, even impossible, choice of leaving home for greener grasses... even if you're not sure it's the right choice.\n\nInspired by the challenges that many Venezuelans, young and old, face today: should I stay or should I go?\n\n[From [url=https://wwade.itch.io/ttmr]Itch.io[/url]]",
+  "source_sha256": "fe405c27bfd5ee8eca3e8a3b130adae42251c4d313baec1bbbbe3ebdfe46ff47",
+  "translation": "一部短篇互动小说，讲述为了更好的前景而离开家园的艰难抉择。这个决定甚至可能让人觉得无法作出……即便你也不确定，这究竟是不是正确的选择。\n\n灵感来自如今许多委内瑞拉人，无论年轻还是年长，都要面对的难题：留下，还是离开？\n\n（摘自[url=https://wwade.itch.io/ttmr]itch.io[/url]）",
+  "vndb_url": "https://vndb.org/v44090"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42340",
+  "type": "visual_novel",
+  "name": "Kyomu, Arui wa Kizuna no Ie",
+  "original_name": "虚無、あるいは絆の家",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "I'm a robot doctor, specializing in android repairs. My services were requested today, so I came to this house...\n\n[Translated from [url=https://www.freem.ne.jp/win/game/18857]Freem![/url]]",
+  "source_sha256": "4fe49108550f334de613142baf06f3453307036c7093e4205db1f2d6cc2429f9",
+  "translation": "我是一名专门修理仿生人的机器医生。今天接到了上门服务的委托，于是来到了这栋房子……\n\n[译自 [url=https://www.freem.ne.jp/win/game/18857]Freem![/url]]",
+  "vndb_url": "https://vndb.org/v42340"
+}

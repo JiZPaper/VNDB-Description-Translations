@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42698",
+  "type": "visual_novel",
+  "name": "Di 0 Falü",
+  "original_name": "第 0 法律",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Asimov proposed the \"Three Laws of Robotics\". The three laws are as follows:\n-First Law: A robot may not injure a human being or, through inaction, allow a human being to come to harm.\n-Second Law: A robot must obey the orders given it by human beings except where such orders would conflict with the First Law.\n-Third Law: A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.\n\nBut in these laws, an important condition is missed:\n-Zeroth Law: Robots are not human beings.\n\n[Translated from [url=https://quinnathy.itch.io/thezerothlaw]Itch.io[/url]]",
+  "source_sha256": "f87728fcea47754424aff50fac6c908ed5f1bb10a20918c92f9595de60a02ff8",
+  "translation": "阿西莫夫提出了“机器人三定律”，内容如下：\n—第一定律：机器人不得伤害人类，也不得因不作为而让人类受到伤害。\n—第二定律：机器人必须服从人类的命令，但不得违背第一定律。\n—第三定律：机器人必须保护自身的存在，但不得违背第一或第二定律。\n\n然而，这些定律遗漏了一个重要条件：\n—第零定律：机器人并不是人类。\n\n[译自 [url=https://quinnathy.itch.io/thezerothlaw]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v42698"
+}

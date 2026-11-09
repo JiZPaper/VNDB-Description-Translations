@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45834",
+  "type": "visual_novel",
+  "name": "Hello! My Name is Zack",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "While taking a walk, you stumble upon a weird guy dragging a dead body to a dumpster.\n\nHis name is Zack. \n\nMaybe you can talk your way out of also going into the dumpster?\n\n[From [url=https://yuyu-mortis.itch.io/hello-my-name-is-zack]Itch.io[/url]]",
+  "source_sha256": "4730cbe9c5e975a6002d867c7ed653e80a866c82b6025ffd69111aae13739d6d",
+  "translation": "散步时，你偶然遇见一个古怪的家伙，正拖着尸体，准备扔进垃圾箱。\n\n他叫扎克。\n\n也许，你能靠口才脱身，免得自己也被扔进去？\n\n[摘自[url=https://yuyu-mortis.itch.io/hello-my-name-is-zack]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v45834"
+}

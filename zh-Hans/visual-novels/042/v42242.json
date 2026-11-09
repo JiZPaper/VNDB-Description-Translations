@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42242",
+  "type": "visual_novel",
+  "name": "eXDetective",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as a detective who died after a life of crime fighting and then found himself a ghost in what is called the afterlife. Anyway, there is no crime in the afterlife, so our detective has changed his jobs into helping women.\n\n[From Itch.io]",
+  "source_sha256": "0133183ab15541249c41c1337227b5ea23e342523c77198041fa1bd156633bc6",
+  "translation": "你扮演一名打击犯罪一生、死后发现自己化为鬼魂来到所谓来世的侦探。然而，来世没有犯罪，于是我们的侦探便改行，专门帮助女性。\n\n[摘自Itch.io]",
+  "vndb_url": "https://vndb.org/v42242"
+}

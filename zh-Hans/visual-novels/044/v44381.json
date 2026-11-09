@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44381",
+  "type": "visual_novel",
+  "name": "The Wish Granting Songbird",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're in a coma, there's some guy here, and they're telling you nonsense about making wishes.\n\n[From [url=https://glassesgirldev.itch.io/the-wish-granting-song]Itch.io[/url]]",
+  "source_sha256": "da60fa1f8927067e2359c9ebdff742e6b967926e1518e631ef3f6df903e044a0",
+  "translation": "你陷入昏迷，这里有个家伙，正对你说着许愿之类的胡话。\n\n[摘自[url=https://glassesgirldev.itch.io/the-wish-granting-song]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v44381"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42940",
+  "type": "visual_novel",
+  "name": "Altered Destiny",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You, the MC and your best friend, Kimberly stumble upon an ancient.... artifact. Upon touch you witness a vague catastrophic event that takes place in the near future. Unbeknownst to it's true meaning, you both are then linked to another timeline... nearly two decades into the past. While you may freely travel between these two timelines of the same world, you must figure out a way to prevent a catastrophic event that is lurking ahead.",
+  "source_sha256": "2756e2519fb0396ec5a57f4b417c44d301109ddbb602b06ada165a77e4856e4f",
+  "translation": "你与最好的朋友金伯莉偶然发现了一件古老的……遗物。触碰它时，你模糊地看到了不久后将发生的一场灾难。还没弄清这段景象究竟意味着什么，你们就与另一条时间线产生了联系——那是将近二十年前的过去。你可以自由往返于同一个世界的这两条时间线，但必须找到阻止未来那场灾难的方法。",
+  "vndb_url": "https://vndb.org/v42940"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43449",
+  "type": "visual_novel",
+  "name": "Can You Finish The Hike?",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a game meant to educate players on various survival tips in a low-stakes fun setting. Everything from poisonous mushrooms to how to use bear spray. Keep your friend safe and happy to reach the end!\n\n[From [url=https://lokittles.itch.io/can-you-finish-the-hike]Itch.io[/url]]",
+  "source_sha256": "38514e94d1ea7c896710e38ce57d3d02b368ae1d5514d8cec3d5f3c6b97c670a",
+  "translation": "本作以轻松有趣、无需承担真实风险的方式，向玩家介绍各种野外生存知识，从有毒蘑菇到防熊喷雾的使用方法，应有尽有。照顾好你的朋友，让对方平安愉快地抵达终点！\n\n[摘自[url=https://lokittles.itch.io/can-you-finish-the-hike]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43449"
+}

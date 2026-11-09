@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44086",
+  "type": "visual_novel",
+  "name": "Go Home.",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are Meff, an ordinary bunny with a great life, but after losing your memory, you have a strange encounter with Death itself after going through an alleyway.\n\n[From [url=https://mege-mege.itch.io/go-home]Itch.io[/url]]",
+  "source_sha256": "15343d3640cad07516eb0332c2f4b81c266bcacba229c9edb2087436a8a13eff",
+  "translation": "你是梅夫，一只生活美满的普通兔子。然而失去记忆后，你穿过一条小巷，竟与死神本尊有了一场奇异的邂逅。\n\n（摘自[url=https://mege-mege.itch.io/go-home]itch.io[/url]）",
+  "vndb_url": "https://vndb.org/v44086"
+}

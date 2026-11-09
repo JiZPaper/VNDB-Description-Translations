@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42226",
+  "type": "visual_novel",
+  "name": "Parallel Cat",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are doing your day to day stuff: wake up, go to school, and sleep.\n\nBut one day it's different like it was a different universe. Will you find out what is really happening?\n\n[Edited from [url=https://slepice24.itch.io/parallel-cat]Itch.io[/url]]",
+  "source_sha256": "dec75a878fc340c84dee1954fb9d0630e5b49fd666d0988e01a2e3f267a3f7bb",
+  "translation": "你照常过着每天的生活：起床、上学、睡觉。\n\n但某一天，一切都变了，仿佛来到了另一个宇宙。你能弄清到底发生了什么吗？\n\n[编译自 [url=https://slepice24.itch.io/parallel-cat]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v42226"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44169",
+  "type": "visual_novel",
+  "name": "Captain's Farewell",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "What would you write if you had time for only a few lines? Would you reveal the things left unsaid? A pirate captain writes her last words in a letter during a decisive battle. \n\n[From [url=https://ebbasuke.itch.io/captains-farewell]Itch.io[/url]]",
+  "source_sha256": "3c12d56e0476a7e2fb0d0d4dbd0bb2e6fb0ad3ed1ee1a6272ef7198d6ecc9c76",
+  "translation": "如果只来得及写下寥寥数行，你会写些什么？你会倾诉那些从未说出口的话吗？在一场决定胜负的战斗中，一位女海盗船长将最后的话语写进信里。\n\n[摘自[url=https://ebbasuke.itch.io/captains-farewell]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v44169"
+}

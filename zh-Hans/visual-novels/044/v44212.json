@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44212",
+  "type": "visual_novel",
+  "name": "Curvy Town",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is VN about a city in which everything changes at some point in the life of every girl.\nThe player will have to meet these changes together with Sam.​\n\n[From F95Zone]",
+  "source_sha256": "bd64c74ffade780d4885fa84a442569688829e289c287b8bca48f8135fc1bdb0",
+  "translation": "这部视觉小说讲述一座城市的故事：每个女孩的人生，都会在某个时刻迎来翻天覆地的变化。\n玩家将与萨姆一起面对这些变化。\n\n[摘自F95Zone]",
+  "vndb_url": "https://vndb.org/v44212"
+}

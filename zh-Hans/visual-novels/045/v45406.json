@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45406",
+  "type": "visual_novel",
+  "name": "Final Spell",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The Supernatural doesn't wait for anyone to believe or understand the power of the dark arts.\nWhen the dark forces call, there's no ignore button. If your time has come, there's no place you can run to try and hide.\nSo, you think you're ready for this adventure? It doesn't matter!",
+  "source_sha256": "56af518f25c8546cd3ef30d74572ed8bc804d612013d01b22681c1a1bcc1aa42",
+  "translation": "超自然力量，不会等谁相信或理解黑暗秘术的威力。\n黑暗力量呼唤时，没有忽略按钮。若时辰已到，你便无处可逃，无处可藏。\n所以，你觉得自己准备好这场冒险了吗？无所谓！",
+  "vndb_url": "https://vndb.org/v45406"
+}

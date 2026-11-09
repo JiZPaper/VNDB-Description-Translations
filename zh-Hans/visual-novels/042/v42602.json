@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42602",
+  "type": "visual_novel",
+  "name": "Play time",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Konata and his father do a luck ritual for getting some rare loot.\n\n[From [url=https://www.dlsite.com/maniax/work/=/product_id/RJ369777.html?locale=en_US]DLsite English[/url]]",
+  "source_sha256": "4aeaf5d896b351771bbb32a84e7b6574634f58aa95fc8a67dd11f314a8f991cd",
+  "translation": "此方和父亲一起举行求好运的仪式，希望能获得稀有战利品。\n\n[摘自[url=https://www.dlsite.com/maniax/work/=/product_id/RJ369777.html?locale=en_US]DLsite English[/url]]",
+  "vndb_url": "https://vndb.org/v42602"
+}

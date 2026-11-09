@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44120",
+  "type": "visual_novel",
+  "name": "shutdown.",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Play as a Doll on the operating table. You have mere minutes before you're disassembled and dead... But who is that, picking away at your rivets.?\n\n[From [url=https://kale-chips.itch.io/shutdown]itch.io[/url]]",
+  "source_sha256": "dceb80119f27ba001d2ee83a3c03b53c5ded0fd341f502f3d21bac4e0f614480",
+  "translation": "扮演一具躺在手术台上的人偶。再过几分钟，你就将被拆解，迎来死亡……可那个正在一点点拆除你身上铆钉的人，究竟是谁？\n\n（摘自[url=https://kale-chips.itch.io/shutdown]itch.io[/url]）",
+  "vndb_url": "https://vndb.org/v44120"
+}
