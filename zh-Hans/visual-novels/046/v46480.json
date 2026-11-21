@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46480",
+  "type": "visual_novel",
+  "name": "Robotryzna",
+  "original_name": "Роботризна",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Even decades after the death of the last human, the autonomous wind farm continues to operate. You are one of the robots that supports its functionality. But why, if nobody consumes electricity?\n\nThe further, the more breakdowns - soon the last windmills will fail. Should you fight for your existence, even if it makes no sense, or should you accept your fate?\n\n[Translated from [url=https://web.archive.org/web/20240401091956/https://shreibikus.itch.io/robotrizna]itch.io[/url]]",
+  "source_sha256": "a87ddd71a955366336e3cddadecd77fa1ae04bf37d2958276f6f0f1bb7f2add8",
+  "translation": "最后一个人类死去数十年后，无人值守的风力发电场仍在运转。你是负责维护它的机器人之一。可是，既然已经没有人用电，这又是为了什么？\n\n故障越来越多，很快，最后几台风机也会停转。即使毫无意义，你还是要为自己的存在而抗争，还是就此接受命运？\n\n［译自[url=https://web.archive.org/web/20240401091956/https://shreibikus.itch.io/robotrizna]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v46480"
+}

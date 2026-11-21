@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46895",
+  "type": "visual_novel",
+  "name": "Gekka Kaidan",
+  "original_name": "月下怪談",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The main character, who had been completely drenched by a sudden downpour, sought shelter from the rain in a abandoned Western-style mansion. Coincidentally, a mysterious young man appeared and they decided to pass the time by sharing scary stories.",
+  "source_sha256": "de45c6285b9eb5b902adcfe190dc0ee0f93b291a3276b6926046c6a72b0f66ed",
+  "translation": "一场突如其来的倾盆大雨把主人公浇了个透，他只好躲进一座废弃的洋馆避雨。恰在此时，一个神秘青年现身，两人便决定轮流讲鬼故事打发时间。",
+  "vndb_url": "https://vndb.org/v46895"
+}

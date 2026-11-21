@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50125",
+  "type": "visual_novel",
+  "name": "This Date is TOAST(r)",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A weird dating app has appeared on your phone, and you've matched with three people! Pick one, and go on a (bad) date with our characters in this short, cute visual novel. \n\n[From [url=https://princegeist.itch.io/toastr]itch.io[/url]]",
+  "source_sha256": "8f20262cd9f0f4821ebce54cb37986c4fc06e480b13b41172a52e0117a498d02",
+  "translation": "你的手机上突然多了一款奇怪的约会软件，还一下子匹配到了三个人！挑一个，在这个可爱的短篇视觉小说里，跟我们的角色来一场（糟糕的）约会吧。\n\n［摘自[url=https://princegeist.itch.io/toastr]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v50125"
+}

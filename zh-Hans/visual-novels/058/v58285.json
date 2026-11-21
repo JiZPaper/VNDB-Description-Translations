@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58285",
+  "type": "visual_novel",
+  "name": "One Birthday",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "One Birthday is about a young couple who celebrated and will be celebrating each other's birthdays. Boyfriend and girlfriend, their love, and their tragic fate.\n\n[From the game's Extras]",
+  "source_sha256": "e2e235823c72c403d2a5f9a5f96d14250f8fecd9a845ad1d3215a25d47b3eddf",
+  "translation": "《One Birthday》讲的是一对年轻恋人。他们曾为彼此过生日，也将继续为彼此庆生。男朋友，女朋友，他们的爱，还有他们悲剧性的命运。\n\n［取自游戏的附加内容］",
+  "vndb_url": "https://vndb.org/v58285"
+}

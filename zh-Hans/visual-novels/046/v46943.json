@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46943",
+  "type": "visual_novel",
+  "name": "Wenhou Wujiang.",
+  "original_name": "问候无疆。",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"Hello.\" (hereinafter referred to as \"the game\") is a fan-made visual novel game based on the game \"The Smoke Room\", which is a derivative work .\n\nThe game is a small-scale ensemble adventure that tells the story of an exploration team led by GR , including members Can , Seaon , and Romin , investigating anomalies in a cave. Meanwhile, characters from the \"The Smoke Room\" world, Nik , Sam , and Yao , find themselves unexpectedly in the world of this game due to an \"in-plan\" event gone \"out-of-plan\". Accompanying them is Todd .\n\nWhy do the exploration team and the \"The Smoke Room\" quartet cross paths? What unexpected situations will arise during their adventures? Will sparks fly between them? Can the \"The Smoke Room\" quartet eventually return to their original world, and what will be the cost? The answers to these questions will be revealed within the game, and the course of the story and their fate will be determined by you.\n\n[From [url=https://github.com/HelloVNProject/HelloVN]GitHub[/url]]",
+  "source_sha256": "b5658d6fcb231a570554b16a8ce4ef696f90456c736ad38550b957bad1cb58da",
+  "translation": "《问候无疆。》是根据《吸烟室》创作的同人视觉小说。\n\n这场小小的群像冒险从一座洞穴开始。基阿带着队员参、西昂和罗明前去调查洞中的异象。与此同时，一件原本在计划之内的事出了岔子，《吸烟室》里的尼克、塞姆和耀意外来到了这个世界。跟着他们一起来的，还有托德。\n\n探险队为什么会碰上这四位异乡来客？一路上又会遇到哪些意外，彼此擦出怎样的火花？四人能否回到原来的世界，又要为此付出什么代价？答案都在游戏里。至于故事会走向哪里、他们会迎来怎样的结局，就由你来决定。\n\n［摘自[url=https://github.com/HelloVNProject/HelloVN]GitHub[/url]］",
+  "vndb_url": "https://vndb.org/v46943"
+}

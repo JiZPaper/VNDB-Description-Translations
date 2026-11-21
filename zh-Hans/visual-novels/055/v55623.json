@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55623",
+  "type": "visual_novel",
+  "name": "Five Dates at Freddy's",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "First day on the job. Freddy smiles, Foxy greets me like a pirate, and Bonnie flirts shamelessly. Who should I follow on my tour?",
+  "source_sha256": "968c22dc2e4147b2145cd6817ca0464496bff1cbb1296cce683353262380a302",
+  "translation": "上班第一天。弗雷迪朝我微笑，霍斯像个海盗一样跟我打招呼，邦尼更是毫不掩饰地跟我调情。我该跟着谁参观呢？",
+  "vndb_url": "https://vndb.org/v55623"
+}

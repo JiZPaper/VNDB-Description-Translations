@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46135",
+  "type": "visual_novel",
+  "name": "ShardChat",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Welcome to ShardChat, the chat program for the popular MMO Shardfall!\n\nYou are MacabrePixie, the leader of Asylum, one of the top raiding guilds on your server. Following a rough raid night, one of your guild officers and good friend, Necronomicon,  has asked for a private chat. After a quick AFK, you log into ShardChat to receive his call...\n\n[from [url=https://frozenstar.itch.io/shardchat]itch.io[/url]]",
+  "source_sha256": "70e9ead6de49323f59fc8080f4bc8ea22c989460b5a983c877c75e7cebd39e88",
+  "translation": "欢迎使用ShardChat，热门大型多人在线游戏《Shardfall》的聊天软件！\n\n你的网名是MacabrePixie，是服务器顶尖副本公会Asylum的会长。今晚打本不太顺利，公会管理之一、也是你好朋友的Necronomicon想找你私聊。短暂离开键盘后，你重新登录ShardChat，接起了他的通话…\n\n［摘自[url=https://frozenstar.itch.io/shardchat]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v46135"
+}

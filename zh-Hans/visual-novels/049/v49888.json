@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49888",
+  "type": "visual_novel",
+  "name": "You're My Poison",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An abnormal detective sets out to solve a mystery and purge a virus, using only cryptic riddles to link the case together.\n\n[From [url=https://stephenw313.itch.io/youre-my-poison]Itch.io[/url]]",
+  "source_sha256": "6078a5ef365c76ded704c626e44fb71d0f8aecf5003a000510cf572bd3c2aad9",
+  "translation": "一个异于常人的侦探着手破解谜案、清除病毒。能将整起案件串联起来的线索，只有一道道晦涩的谜语。\n\n（来源：[url=https://stephenw313.itch.io/youre-my-poison]itch.io[/url]）",
+  "vndb_url": "https://vndb.org/v49888"
+}

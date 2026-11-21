@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52129",
+  "type": "visual_novel",
+  "name": "ROGUE",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're an Inspector for Vardyger Corporation, the largest technological company among the stars. As an Inspector, you sacrificed your entire life to uphold Vardyger's supremacy by destroying counterfeit products, smashing competition to bits, taking care of rogue facilities, and making sure that nobody stands in the way of progress and order.\n\nBut your time is up now - someone hacked his way into your brain... and there's nothing you can do to stop him from completely frying it.\n\n[From [url=https://naarel.itch.io/rogue]Itch.io[/url]]",
+  "source_sha256": "185350178cfdf22b9e764868e386f3e16d0c10842bbc442246bc36b49f4e2729",
+  "translation": "你是群星间最大的科技企业瓦迪格公司的一名监察员。为了维护瓦迪格的霸权，你奉献了自己的一生：销毁仿冒产品，把竞争对手碾个粉碎，处置脱离掌控的设施，确保没人挡在进步与秩序的路上。\n\n可现在，你的时候到了——有人黑进了你的大脑…而你什么也做不了，阻止不了他把它彻底烧坏。\n\n［取自[url=https://naarel.itch.io/rogue]Itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v52129"
+}

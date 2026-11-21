@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55302",
+  "type": "visual_novel",
+  "name": "Shunkyoku no Tyrhhia - Gensaku Digital Novel",
+  "original_name": "瞬旭のティルヒア 原作デジタルノベル",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A standalone visual novel version of a [url=https://www.liar.co.jp/tyrhhia/book01.html]doujin short story[/url] by Sakurai Hikaru originally published in 2011. It would later serve as a base for Shunkyoku no Tyrhhia ~What a Beautiful Dawn~.",
+  "source_sha256": "0365194f9b717b20518e77e3a7a7163ed9cba6c546c61d5d1fac3c5a57c58496",
+  "translation": "将樱井光最初发表于2011年的一篇[url=https://www.liar.co.jp/tyrhhia/book01.html]同人短篇小说[/url]改编而成的独立视觉小说。这篇作品后来成为《瞬旭的蒂尔希亚～What a Beautiful Dawn～》的蓝本。",
+  "vndb_url": "https://vndb.org/v55302"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52188",
+  "type": "visual_novel",
+  "name": "lostticket",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're trying to board a train, when you end up losing your ticket. Try to convince the ticketer to let you board despite your lack of ticket.",
+  "source_sha256": "76b379033269e892ba53c80999b7db862a1971cc5848bed4dcaf93e30484abe2",
+  "translation": "你正要登上火车，却把票弄丢了。试着说服检票员，让没票的你也能上车吧。",
+  "vndb_url": "https://vndb.org/v52188"
+}

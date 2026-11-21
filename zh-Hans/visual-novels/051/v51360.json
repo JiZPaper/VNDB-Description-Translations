@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51360",
+  "type": "visual_novel",
+  "name": "Convento",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Follow a group of players who meet in an online game. They have different situations, but end up with a common goal, to exploit a loophole and make a living playing videogames.\n\n[From [url=https://store.steampowered.com/app/2816590/]Steam[/url]]",
+  "source_sha256": "20115540f05a753ac14d12ce3a7037788a10e06b13eeff2d73d8132ddbb0a458",
+  "translation": "故事讲述一群在网络游戏里相识的玩家。他们境遇各异，最终却有了共同的目标：钻个空子，靠打电子游戏谋生。\n\n［摘自[url=https://store.steampowered.com/app/2816590/]Steam[/url]］",
+  "vndb_url": "https://vndb.org/v51360"
+}

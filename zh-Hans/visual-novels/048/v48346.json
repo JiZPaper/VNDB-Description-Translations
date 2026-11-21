@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48346",
+  "type": "visual_novel",
+  "name": "Damselfly",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Damselfly is a short visual novel following a navigator trying to balance her job working for a shady company with the trust of her close friends. The player can explore her relationship with these friends and decide whom to trust, whom to keep in the dark, and whom to have a deeper relationship with.\n\n[From [url=https://mollipop.itch.io/damselfly]itch.io[/url]]",
+  "source_sha256": "784fcdbe99699f2d2ea2bab9522f858a595b1bad1d2ea16fbbf043f94e37fb0d",
+  "translation": "在短篇视觉小说《Damselfly》中，一名领航员受雇于一家行事可疑的公司，还想保住亲密朋友对自己的信任。你可以深入了解她和朋友们的关系，决定该相信谁、该对谁有所隐瞒，又愿意和谁更进一步。\n\n〔摘自[url=https://mollipop.itch.io/damselfly]itch.io[/url]〕",
+  "vndb_url": "https://vndb.org/v48346"
+}

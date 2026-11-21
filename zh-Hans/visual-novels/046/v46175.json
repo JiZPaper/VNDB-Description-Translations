@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46175",
+  "type": "visual_novel",
+  "name": "Waiter, my spaghetti is cold!",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Ignoring your calls and ghosting you for weeks is one thing, giving you cold spaghetti leftovers after tracking him down is another.\n\n[from [url=https://cripticbite.itch.io/waiter-my-spaghetti-is-cold]itch.io[/url]]",
+  "source_sha256": "4ae1c5810a754902efef23d8021143e84b97cdbad86afed95cb7aa589f7b7a5b",
+  "translation": "你打电话他不接，一连几个星期玩消失，这是一回事。你好不容易找到他，他居然拿吃剩的冷意面招待你，这可就是另一回事了。\n\n［摘自[url=https://cripticbite.itch.io/waiter-my-spaghetti-is-cold]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v46175"
+}

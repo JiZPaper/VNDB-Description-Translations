@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57703",
+  "type": "visual_novel",
+  "name": "Red",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short horror game about getting gaslit in the woods.\n\n[From [url=https://amirillustrations.itch.io/red]Itch.io[/url]]",
+  "source_sha256": "242b4cfc9fd659b098ed4db31ac43a4f0f5132e5911dc287216e04df7ab9b337",
+  "translation": "一款短篇恐怖游戏，讲的是在树林里遭人精神操控，开始怀疑自己对现实的判断。\n\n［摘自[url=https://amirillustrations.itch.io/red]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v57703"
+}

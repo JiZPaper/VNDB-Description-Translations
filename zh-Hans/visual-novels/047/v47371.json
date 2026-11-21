@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47371",
+  "type": "visual_novel",
+  "name": "Vampire Maid",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a linear visual novel game based on Vampire Maid, a short story by James Hume Nisbet (published in 1900). The game was made during Spooktober Visual Novel Jam 2023.\n\nThe story is about a man who has lost his inspiration, and while searching for it at the Westmorland moors he comes across a cottage where he meets a mysterious girl. Has he met his muse... or his doom?\n\n[From [url=https://ebbasuke.itch.io/vampire-maid]itch.io[/url]]",
+  "source_sha256": "91248f3e0a5309dbc2f569347b6b39864526b24cf1c955829306a376b69d8d4e",
+  "translation": "这部线性视觉小说改编自詹姆斯·休姆·尼斯贝特于1900年发表的短篇《吸血鬼少女》，创作于2023年Spooktober视觉小说创作活动期间。\n\n一名失去灵感的男子来到威斯特摩兰的荒原上寻找灵感，偶然发现一栋乡间小屋，在那里遇见了一个神秘的姑娘。他遇见的究竟是自己的缪斯…还是劫数？\n\n［摘自[url=https://ebbasuke.itch.io/vampire-maid]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v47371"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55880",
+  "type": "visual_novel",
+  "name": "Don't Shoot The Messenger",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a young courier who must deliver news of the war's end. Travel with a mismatched group of soldiers where you navigate dangerous terrain, unexpected encounters, and tricky relationships on the long road to peace.\n\n[From [url=https://indecisiv.itch.io/dont-shoot-the-messenger]itch.io[/url]]",
+  "source_sha256": "5f826f79e820ede4ba777299ad1b37d3da4beb5082bf1f5b15dc77418fe5b193",
+  "translation": "你是一名年轻的信使，肩负着传递战争结束消息的任务。与一群彼此不太合得来的士兵同行，在通往和平的漫长路上，经过险峻地形，应对意外相逢，也要处理棘手的人际关系。\n\n［摘自[url=https://indecisiv.itch.io/dont-shoot-the-messenger]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v55880"
+}

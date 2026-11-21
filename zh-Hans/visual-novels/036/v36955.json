@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36955",
+  "type": "visual_novel",
+  "name": "A Life Worth Living",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "As a player, you take control of Fred (or name of your choice), an Ex-Military. He is happily married but has been through many ups and downs in his life. You'll be a part of this journey as you make important decisions on his behalf.\n\n[From F95Zone]",
+  "source_sha256": "b60eb5509806c0c5410227713260bbd199ff39099a3f8259275c6fc53037e85b",
+  "translation": "你将扮演退役军人弗雷德（也可自行命名）。他的婚姻美满，一生却经历过许多起落。替他做出重要决定，参与他接下来的人生旅程。\n\n[摘自F95Zone]",
+  "vndb_url": "https://vndb.org/v36955"
+}

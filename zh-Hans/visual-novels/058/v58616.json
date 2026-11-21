@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58616",
+  "type": "visual_novel",
+  "name": "Detai Heya kara Otouto to!",
+  "original_name": "出たい部屋から弟と！",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The third installment of the game-loving siblings series.\n(There’s no problem playing without having played the previous titles, but those who have may enjoy it even more.)",
+  "source_sha256": "abfed17bcdcddacab8f890bd10c432fd2d1e6583c9b5345cae0ad279538ecf0b",
+  "translation": "爱打游戏的姐弟系列第三作。\n（没玩过前作也能直接玩，不过玩过的人也许会觉得更有意思。）",
+  "vndb_url": "https://vndb.org/v58616"
+}

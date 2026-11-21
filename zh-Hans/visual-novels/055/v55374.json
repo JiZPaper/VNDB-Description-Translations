@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55374",
+  "type": "visual_novel",
+  "name": "\"Konec2k16\"",
+  "original_name": "\"Конец2к16\"",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist, Alex Hikkanov, leads an ordinary hikikomori life, but then comes December 31st... The end of 2k16...",
+  "source_sha256": "d0c084771a9b0849a1ee8b16c61648d75655e808fe798d789157e69279f32cc4",
+  "translation": "主人公阿列克斯·希卡诺夫过着寻常的家里蹲生活，直到12月31日来临…2016年就要结束了…",
+  "vndb_url": "https://vndb.org/v55374"
+}

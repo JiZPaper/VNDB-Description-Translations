@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54930",
+  "type": "visual_novel",
+  "name": "PockeDate! - Pocket Dating Simulator",
+  "original_name": "PockeDate! - Кишеньковий Симулятор Побачень",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Your Pocket-Sized Dating Simulator! Every launch brings a new date with unique dialogues! Spend endless hours with your adorable, love-struck virtual girlfriend.",
+  "source_sha256": "fe691208daa2aeb4973b5e4d58c1a5cdee826d23e697b1352946b3c0da24efd3",
+  "translation": "你的口袋约会模拟器！每次启动都是一次全新的约会，还有独特的对白！和可爱又迷恋着你的虚拟女朋友一起，度过数不尽的美好时光吧。",
+  "vndb_url": "https://vndb.org/v54930"
+}

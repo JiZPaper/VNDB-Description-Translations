@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54071",
+  "type": "visual_novel",
+  "name": "Behind His Mask",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "How wrong can a make-out session get? One, he’s your new neighbor. Two, he’s the hottest streamer. Three, it was live-streamed in front of thousands of people on accident…",
+  "source_sha256": "be4d65d0712fed0b641f2200ba789b232609095dde9dcfa01500ef89d42d3429",
+  "translation": "一场热吻能出多大岔子？第一，他是你的新邻居。第二，他是当下最火的主播。第三，你们亲热的样子一不小心直播给了几千人看…",
+  "vndb_url": "https://vndb.org/v54071"
+}

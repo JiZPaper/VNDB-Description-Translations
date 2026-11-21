@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53535",
+  "type": "visual_novel",
+  "name": "Sinthesis",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are Gray Ebratir, a paladin initiate who met a grim fate during a harrowing mission against dark cult. Believed to be slain, Gray instead awoke to a nightmare—his life preserved through a profane ritual by the dark cult he sought to destroy.\n\nNow imbued with otherworldly powers, Gray embarks on a quest to not only uncover the truth behind his mysterious resurrection, but to prevent an ancient evil from consuming the world. Only by gathering the sacred vessels of the archangels can Gray hope to stop the rise of this primordial threat. Can he hold true to his noble cause and redeem himself? Or will he be consumed by the very powers that give him a chance at salvation?",
+  "source_sha256": "92afd7d51d3453cc4ed2afb04e7848272d8b4109e7f24d81c8405239277712f0",
+  "translation": "你是格雷·埃布拉蒂尔，一名见习圣骑士，在对抗黑暗邪教的艰险任务中遭遇了可怖的命运。人人都以为格雷战死了，他却醒来置身于一场噩梦——他一心要铲除的黑暗邪教施行了亵渎的仪式，保住了他的性命。\n\n如今，格雷身负异界之力，踏上旅途，要查明自己神秘复活的真相，也要阻止古老的邪恶吞噬世界。唯有集齐大天使们的神圣容器，格雷才有望阻止这个太古威胁崛起。他能否不负自己的崇高目标，实现自我救赎？还是会反被那赋予自己一线救赎希望的力量吞噬？",
+  "vndb_url": "https://vndb.org/v53535"
+}

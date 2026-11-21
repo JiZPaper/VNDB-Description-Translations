@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46228",
+  "type": "visual_novel",
+  "name": "Mastera Osu Online",
+  "original_name": "Мастера Осу Онлайн",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Mastera Osu Online is a visual novel with famous Osu players.\nThe plot is that several osu! players are testing a special development vr helmet from a man with the nickname xxdstem. It turns out this evil developer has made a device that transports them into a deadly game where players must fight each other. Also in another world they gain special superpowers.",
+  "source_sha256": "a402b8aa7828c103af466ff452a6974c097fe1046bc03614f149b70118b4c8b6",
+  "translation": "《Mastera Osu Online》是一部由知名《osu!》玩家登场的视觉小说。\n几位《osu!》玩家替网名xxdstem的人测试一款特制的虚拟现实头盔。没想到，这个心怀恶意的开发者造出了一台能把他们送进死亡游戏的装置，玩家们必须互相战斗。到了另一个世界，他们还各自获得了特殊能力。",
+  "vndb_url": "https://vndb.org/v46228"
+}

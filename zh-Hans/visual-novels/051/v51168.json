@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51168",
+  "type": "visual_novel",
+  "name": "Mobius Chord",
+  "original_name": "メビウス・コード",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A \"Illustrated novel game\" collaboration project between Cybird and Kansai TV.\n\nIt is a youth love story that revolves around a group of friends who were connected in a band during their college days, and their ability to travel back into time to change the future as well reconcile their strained relationships.",
+  "source_sha256": "9c3d6e171617f06c35c728806b134dbd88a76de3f91c5706ad82569c4dce666f",
+  "translation": "由CYBIRD与关西电视台合作推出的“插画小说游戏”。\n\n这是一段青春恋爱故事。一群朋友在大学时代因组乐队而结缘，如今，他们可以用穿越时间的能力回到过去，改变未来，也修复彼此间已经变得紧张的关系。",
+  "vndb_url": "https://vndb.org/v51168"
+}

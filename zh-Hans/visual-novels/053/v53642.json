@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53642",
+  "type": "visual_novel",
+  "name": "Uno DX",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game follows Shunichi, a member of his school's Uno club, who wants to be the best Uno player in his school. The game can be best described as a visual novel ware Uno is a core mechanic and the only way to progress the story or get the occasional CG is playing many rounds of said card game",
+  "source_sha256": "5f3dd8725d296329199d8dc7b0666383e98b18f24e09459283a45e55635c6727",
+  "translation": "俊一是学校UNO社的成员，一心想成为全校最厉害的UNO玩家。最贴切的说法是，这是一部以UNO为核心玩法的视觉小说，想推进剧情或偶尔得到一张CG，唯一的办法就是一轮接一轮地打这款牌。",
+  "vndb_url": "https://vndb.org/v53642"
+}

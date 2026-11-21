@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56387",
+  "type": "visual_novel",
+  "name": "Engine: Anthromachy",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are Evander, champion of Apollo, tasked with redeeming himself after failing to capture Melantha, the exiled oracle of Delphi and leader of a heretical cult. Ordered to infiltrate the cult and lure Melantha into capture, Evander soon finds himself sympathizing with its members, who reveal secrets about the gods' injustices against humanity and their vision of breaking mankind free from its shackles.\nAs the weight of his mission bears down on him, and the line between duty and conscience blurs, Evander must confront all that he has ever known.",
+  "source_sha256": "6f3d378570fe8a79603ad2c94e6f9d580b167f95d9df158018354b6069e1c756",
+  "translation": "你是阿波罗的勇士埃万德。你没能捕获遭放逐的德尔斐神谕者、异端教团首领梅兰莎，如今得设法将功补过。埃万德奉命潜入教团，引诱梅兰莎落网，却很快对教众生出同情。他们向他揭露众神不公对待人类的秘密，也诉说了让人类挣脱枷锁的理想。\n使命的重量压在身上，职责与良知的界限日渐模糊，埃万德必须重新审视自己所熟知的一切。",
+  "vndb_url": "https://vndb.org/v56387"
+}

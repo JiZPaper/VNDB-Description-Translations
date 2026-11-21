@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55529",
+  "type": "visual_novel",
+  "name": "ghost in the mirror",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "an experimental game about a boy, a mirror in a dirty gas station bathroom, and his reflection. or is it his twin? \n\nwho knows.\n\n[From [url=https://labyrintheexe.itch.io/ghost-in-the-mirror]itch.io[/url]]",
+  "source_sha256": "2758f56f21eeafe713aaa7cfb1fe806bbdba49c16491e73a4215b9e3ec33a4dd",
+  "translation": "一个实验性游戏，讲的是一个男孩、一面脏兮兮的加油站厕所里的镜子，还有镜子里的他。又或者，那是他的双胞胎手足？\n\n谁知道呢。\n\n［摘自[url=https://labyrintheexe.itch.io/ghost-in-the-mirror]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v55529"
+}

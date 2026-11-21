@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49272",
+  "type": "visual_novel",
+  "name": "User Unknwn",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "User Unknwn follows the story of Sami Abel, who discovers some homebrew software for their PlayStation Portable that allows them to alter their physical appearance in real life. These changes have various effects on their personal life, including their interactions with their co-worker Gabe.\n\nEntry for VN CUP 2023.",
+  "source_sha256": "c4d999f7b9b8c4364111d33d3d9621cc35f6b4c76afb6139637a59e385a6fe37",
+  "translation": "《User Unknwn》的主人公萨米·阿贝尔发现了一款能在PSP上运行的自制软件，竟可借它改变自己在现实中的外貌。这些变化以种种方式影响着萨米的私生活，也改变了萨米与同事盖布的相处。\n\n本作为VN CUP 2023参赛作品。",
+  "vndb_url": "https://vndb.org/v49272"
+}

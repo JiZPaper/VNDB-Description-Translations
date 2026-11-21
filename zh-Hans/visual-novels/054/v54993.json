@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54993",
+  "type": "visual_novel",
+  "name": "GuruGuruGaō",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Welcome to Taiki Institute, a unique educational facility that accepts students of all species. As a new maintenance technician, you're just settling into your role when an unexpected event turns your world upside down. Uncover the mystery by piecing together clues from a diverse cast of characters.",
+  "source_sha256": "36388578b5d7e1c87a776a6783c420358e5ac9dd3df28f74d1fcf7aea51a8d59",
+  "translation": "欢迎来到泰基学院，一所接收所有物种学生的独特学府。作为新来的维修技师，你刚刚开始适应自己的工作，一桩突发事件便将你的世界整个翻转过来。从形形色色的人物那里拼凑线索，揭开谜团。",
+  "vndb_url": "https://vndb.org/v54993"
+}

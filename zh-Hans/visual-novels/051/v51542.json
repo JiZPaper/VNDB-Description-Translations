@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51542",
+  "type": "visual_novel",
+  "name": "tinyONE",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "tinyONE is Gameboy doujin title developed by MisakiMix featuring characters from One ~Kagayaku Kisetsu e~ and ToHeart.",
+  "source_sha256": "792a0ece8fe34935f4b66485cf3fac016a3a5dbd69df2e09ec237b2d35fdc38e",
+  "translation": "《tinyONE》是MisakiMix为Game Boy开发的同人游戏，登场角色来自《ONE～辉之季节～》和《ToHeart》。",
+  "vndb_url": "https://vndb.org/v51542"
+}

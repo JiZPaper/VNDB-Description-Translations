@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51181",
+  "type": "visual_novel",
+  "name": "Mikrorajon",
+  "original_name": "Микрорайон",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Night is falling on an ordinary post-soviet neighborhood. The holidays start tomorrow, which means you can stay up and have fun until morning! It remains to find a company...\n\n[From [url=https://store.steampowered.com/app/2537050/]Steam[/url]]",
+  "source_sha256": "a826d356705ed73a0ab673035c853f7ef13c45d72498553cf9540fca7c6dfb7f",
+  "translation": "夜幕降临在一片寻常的后苏联居民区。明天就放假了，也就是说，你可以通宵不睡，一直玩到天亮！现在就差找个伴了…\n\n［摘自[url=https://store.steampowered.com/app/2537050/]Steam[/url]］",
+  "vndb_url": "https://vndb.org/v51181"
+}

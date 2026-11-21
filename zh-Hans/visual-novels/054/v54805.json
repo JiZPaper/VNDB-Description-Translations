@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54805",
+  "type": "visual_novel",
+  "name": "Aihvala",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The classic story of a poor young man living in an insignificant village, but things take a drastic turn(very original)",
+  "source_sha256": "2b73a9a57099660b2c0e389ea77214f0f2788d031c7c7cdf33e0ad23feb5e4e0",
+  "translation": "一个穷小子住在一个不起眼的村庄里，随后事态急转直下。经典故事（真有创意）。",
+  "vndb_url": "https://vndb.org/v54805"
+}

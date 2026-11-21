@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58465",
+  "type": "visual_novel",
+  "name": "Midnight Lies",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "One moment you're behind the wheel. The next, you're being dragged from the wreck by a stranger… who may be more dangerous than the crash itself.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "d6359f798195b31016fe7024f3c2768f3a8bb6e2669739b184a26a35d12ca0d7",
+  "translation": "前一刻，你还坐在方向盘后面。下一刻，就有个陌生人把你从车祸残骸里拖出来…而这个人，也许比车祸本身更加危险。\n\n［取自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian应用[/url]］",
+  "vndb_url": "https://vndb.org/v58465"
+}

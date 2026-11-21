@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54377",
+  "type": "visual_novel",
+  "name": "Georgia",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Grace questions everything she was raised on after meeting Theo, a brooding boy haunted by a dark past.",
+  "source_sha256": "183131201e89e9efd5b16a4dee558c5ab83099c8d09864fb54cabe2b492c07e4",
+  "translation": "格蕾丝遇见了忧郁的男孩西奥。他一直被一段黑暗的过去纠缠，而她开始质疑自己从小接受的一切教诲。",
+  "vndb_url": "https://vndb.org/v54377"
+}

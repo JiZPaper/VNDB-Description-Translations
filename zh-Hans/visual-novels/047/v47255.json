@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47255",
+  "type": "visual_novel",
+  "name": "Found in Translation",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You missed the bus that morning and decide to just walk to work. On the way, you save two homeless girls from being accosted by a hobo. After deciding to help them get off the street for the night, things don't go to plan.",
+  "source_sha256": "80521d605c24780ee3ce8c11a0bc0464a563f791491381c7af6f4c29b6c341a4",
+  "translation": "那天早上你没赶上公交车，索性决定走路上班。半路上，你替两个无家可归的女孩解了围，帮她们摆脱一个纠缠不休的流浪汉。你打定主意，至少今晚别让她们露宿街头。可事情没按计划发展。",
+  "vndb_url": "https://vndb.org/v47255"
+}

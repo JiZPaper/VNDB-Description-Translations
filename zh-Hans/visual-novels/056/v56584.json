@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56584",
+  "type": "visual_novel",
+  "name": "Someone's Watching Me",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are an ordinary college student. One night, you just finished your part-time job and are getting ready to go home. As you walk alone on the street, you suddenly hear footsteps behind you. When you turn around, there is no one in sight. You think it's just your imagination, but what you don't know is that someone is secretly watching you.",
+  "source_sha256": "f40490fda4ad254e8d21aaf6479b49ff225e7a98df3117e98f8bd97705b019ae",
+  "translation": "你只是个普通大学生。一天晚上，兼职刚下班，你正准备回家。独自走在街头，身后突然传来脚步声。回头一看，却不见半个人影。你只当是自己的错觉，殊不知，真有个人正在暗中盯着你。",
+  "vndb_url": "https://vndb.org/v56584"
+}

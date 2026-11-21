@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58097",
+  "type": "visual_novel",
+  "name": "Unfinished Portrait",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're an artist, alone in a dusty old studio. It's late, and you're tired. But you can't sleep just yet. You need to finish this last portrait, before it's too late.\n\n[From [url=https://dondonpatapon.itch.io/unfinished-portrait]itch.io[/url]]",
+  "source_sha256": "8ade4f1992aafa030eb08454be888ddf659d64bf9e33a2a67c2aaa33a5b63f11",
+  "translation": "你是个画家，独自待在积满灰尘的老画室里。夜已经深了，你也累了。可你还不能睡。在来不及之前，你得画完最后这幅肖像。\n\n［取自[url=https://dondonpatapon.itch.io/unfinished-portrait]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v58097"
+}

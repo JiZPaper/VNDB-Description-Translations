@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56214",
+  "type": "visual_novel",
+  "name": "The Pizza Knight Saves The Princess",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Play as the Pizza Knight, a kind & gallant but somewhat bumbling knight made of cheese pizza on a planet where everything & everyone is made out of food. (The planet itself is a giant cake pop.) Explore the castle of the evil Chocolate Count as you try to rescue the Water Ice Princess before it's too late, aided by magical pizza toppings whose powers help you get past the count's gumbots and traps. Choose your topping wisely, brave knight, and maybe you'll find your truth along the way.",
+  "source_sha256": "66abc4d56d8c930b20853f9c19edac5ca44effc4dff75d0574d34e7c0c50b831",
+  "translation": "扮演披萨骑士吧！在这个人和万物都由食物构成的星球上，你是个由芝士披萨做成的骑士，善良英勇，就是有点笨手笨脚。（星球本身就是一个巨大的棒棒糖蛋糕。）探索邪恶巧克力伯爵的城堡，赶在为时已晚之前救出刨冰公主。具有魔力的披萨配料将助你一臂之力，靠它们的力量越过伯爵的口香糖机器人与陷阱。勇敢的骑士，慎选你的配料，也许你能在途中找到属于你的真相。",
+  "vndb_url": "https://vndb.org/v56214"
+}

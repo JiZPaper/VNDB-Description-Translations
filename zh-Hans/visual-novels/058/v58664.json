@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58664",
+  "type": "visual_novel",
+  "name": "FRACTURED RED",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "2025. A mysterious explosion occurs on Mars, resulting in a massive fissure. Humanity begins active preparations for the first expedition to Mars to investigate the incident.\nOver the next four years, the first ship is assembled, and the crew is selected. During the closest approach between Mars and Earth, in April 2029, the first rocket is launched toward Mars.\nAfter a successful landing, a team of six: expedition captain Yuri Mamarin, surgeon and astrobiologist Hannah Vikhrov, cosmogeologist Sel Shi, radiochemist-anomalist Maria Courie, space roboticist John Doe, and aerospace engineer Jerry Midnight, - sets up the base and prepares for exploration.\nHaving completed all their first-day tasks, the captain discovers that communication with Earth has been lost. Left alone on the Red Planet, the expedition team must uncover the secret behind the fissure's origin.",
+  "source_sha256": "903080cb4ff5d2419b0485928b978001e7536d894f5b411ff2e65c66b0c5bc03",
+  "translation": "2025年，火星发生一场神秘爆炸，地表裂开了巨大的缝隙。为了调查这起事件，人类积极筹备第一次火星探险。\n接下来的四年里，第一艘飞船组装完毕，乘员也遴选就绪。2029年4月，趁火星与地球距离最近之际，第一枚火箭发射升空，飞往火星。\n成功着陆后，六名队员着手建立基地，准备展开探索。他们分别是探险队长尤里·马马林、外科医生兼天体生物学家汉娜·维赫罗夫、行星地质学家塞尔·希、放射化学及异常现象专家玛丽亚·库里、太空机器人工程师约翰·多伊，以及航空航天工程师杰里·米德奈特。\n第一天的任务全部完成后，队长却发现，与地球的通信已经中断。孤立无援地留在这颗红色星球上，探险队必须查清裂隙形成的秘密。",
+  "vndb_url": "https://vndb.org/v58664"
+}

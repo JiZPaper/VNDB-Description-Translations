@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54515",
+  "type": "visual_novel",
+  "name": "Millie's room V2",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short visual novel where you meet this weird ass dog girl.\n\nCONTENT WARNING: eyestrain inducing imagery, loud music",
+  "source_sha256": "8915f73f56f57fdfa6d55ca192cc9d60860a647681fce9f5afd14d99f52efb50",
+  "translation": "在这部短篇视觉小说里，你会遇见一个怪得要命的狗耳女孩。\n\n内容提示：可能引起视觉疲劳的画面、响亮的音乐。",
+  "vndb_url": "https://vndb.org/v54515"
+}

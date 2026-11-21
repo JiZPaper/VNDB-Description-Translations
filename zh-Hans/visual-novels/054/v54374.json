@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54374",
+  "type": "visual_novel",
+  "name": "College Makeover",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Brooke’s always been the other face in the crowd. She and her friends decide to make the rest of their years in college memorable ones,",
+  "source_sha256": "973f30cb426866ec61ec185d946880a4c087031bca6d86768cbcf11bbd6715c6",
+  "translation": "布鲁克向来只是人群中不起眼的一张面孔。她和朋友们决定，要让余下的大学时光变得值得回忆。",
+  "vndb_url": "https://vndb.org/v54374"
+}

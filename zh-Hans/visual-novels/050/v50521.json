@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50521",
+  "type": "visual_novel",
+  "name": "Dahlia",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A vampire has snuck into your room while you were sleeping. The only question is - are you next on her menu?\n\n[From [url=https://crystalgameworks.itch.io/dahlia]itch.io[/url]]",
+  "source_sha256": "e166be654a99f176993e182d9be7c9cf043d7875cadeb1edc12ca149b90db811",
+  "translation": "你睡着时，一位吸血鬼溜进了房间。现在只剩一个问题：她菜单上的下一道菜，会是你吗？\n\n［摘自[url=https://crystalgameworks.itch.io/dahlia]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v50521"
+}

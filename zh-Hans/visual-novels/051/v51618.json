@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51618",
+  "type": "visual_novel",
+  "name": "Creators Death Game",
+  "original_name": "クリエイターズ・デスゲーム",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Indie game developer Suzuya, alongside a group of five other creatives, are trapped in a building by the mysterious exposé VTuber Anzai Moe and made to partake in a \"Judgement Game\", where each participant must collect evidence of each other's darkest secrets and expose them.",
+  "source_sha256": "25605af2152d07527133e9e3621fca2d4e593dacd83ea03cb0ec183fe302978b",
+  "translation": "独立游戏开发者铃屋和另外五名创作者，被神秘的爆料系虚拟主播安西萌困在一栋楼里，被迫参加一场“审判游戏”。每名参与者都必须搜集证据，把其他人最黑暗的秘密揭发出来。",
+  "vndb_url": "https://vndb.org/v51618"
+}

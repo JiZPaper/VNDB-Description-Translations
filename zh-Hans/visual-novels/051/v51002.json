@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51002",
+  "type": "visual_novel",
+  "name": "Oedipus/Antigone",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The Theban tragedies of Sophocles have been staged countless times and they will be staged and adapted over and over again as long as mankind exists. This interpretation of the Ancient Greek drama has a fairly obvious distinct feature: it takes the form of a visual novel.\n\nThere are three tragedies included: Oedipus the King (also known as Oedipus Rex), Oedipus at Colonus and Antigone.\n\nThe Theban plays deal with the story of Oedipus and his family, but it is important to understand that they don't comprise a formal trilogy. Originally they were written over the course of almost four decades. Oedipus at Colonus is one of the last plays of Sophocles and it was staged after his death. And the earliest play here is actually Antigone.\n\nAll of the characters in the game are represented as marble sculptures. Usually quite damaged sculptures. The sole developer of the Oedipus/Antigone project is perfectly aware of the fact that ancient statues were painted. And that actors in ancient theaters wore masks. The choice of this particular style was absolutely conscious and one of the main ideas was to evoke a certain feeling. This is pretty much how objects of material culture from classical antiquity came down to us. This is how we frequently perceive classical antiquity. And it has this flavor of the beauty of the broken things that fits the subject matter of these tragedies quite well.\n\nThe imagery was generated with the aid from the AI (most of the time using references) and then tweaked manually.\n\nThe translation (by Richard Jebb) is in prose and accompanied by the original text in Ancient Greek (for reference) on the right side of the screen. The soundtrack is by FEBRVVM.",
+  "source_sha256": "4ca48a02b62a060cffcd9443516dbbf33f22a34b54d22425d24120fcfd2fe010",
+  "translation": "索福克勒斯的底比斯悲剧已经上演过无数次，只要人类还在，后人就会一次又一次地把它们搬上舞台，重新改编。这次对古希腊戏剧的演绎有个一眼就能看出的独特之处：它采用了视觉小说的形式。\n\n本作收录了三部悲剧：《俄狄浦斯王》（英文名Oedipus the King，亦称Oedipus Rex）、《俄狄浦斯在科罗诺斯》和《安提戈涅》。\n\n这几部底比斯题材的剧作讲述的都是俄狄浦斯及其家人的故事，不过有一点值得留意：它们并非正式的三部曲。三部作品的写作时间前后跨越了近四十年。《俄狄浦斯在科罗诺斯》是索福克勒斯晚年的最后几部作品之一，在他去世后才登台上演。三部中成书最早的其实是《安提戈涅》。\n\n游戏里所有角色都以大理石雕像的形象出现，而且大多残损得颇为厉害。独自开发《俄狄浦斯／安提戈涅》的作者当然知道古代雕像原本施有彩绘，也知道古代剧场的演员要戴面具。选择这种风格完全出于有意，其中一个主要用意是唤起一种感受。古典时代的器物传到我们手中，大抵就是这副模样。我们也常常是这样认识那个时代的。残损之物自有一种美，其中的韵味与这些悲剧的题材颇为相称。\n\n画面在AI辅助下生成（多数时候用到了参考图），再由作者手工调整。\n\n理查德·杰布的译本采用散文体，屏幕右侧附有古希腊语原文，供读者对照。配乐由FEBRVVM创作。",
+  "vndb_url": "https://vndb.org/v51002"
+}

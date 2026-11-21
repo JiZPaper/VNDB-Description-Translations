@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52528",
+  "type": "visual_novel",
+  "name": "RAYS",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In the game \"RAYS,\" you take on the role of Adam, a character who wakes up in a hospital with no memory of his past. Completely alone, he is forced to embark on a challenging journey filled with numerous trials and unexpected events.\n\n[From [url=https://store.steampowered.com/app/3154870/]Steam[/url]]",
+  "source_sha256": "9c67af13dbfbae4267c6c16767352b9662a5667bdb5cacea77b49855f6ce8733",
+  "translation": "在《RAYS》中，你将扮演亚当。他在医院里醒来，完全不记得自己的过去。孤身一人的他不得不踏上艰难的旅途，面对接连不断的考验与意外。\n\n［取自[url=https://store.steampowered.com/app/3154870/]Steam[/url]］",
+  "vndb_url": "https://vndb.org/v52528"
+}

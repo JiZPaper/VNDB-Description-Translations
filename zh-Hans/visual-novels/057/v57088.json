@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57088",
+  "type": "visual_novel",
+  "name": "The Demons Told Me to Make This Game",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as Dark Wisp, a disembodied spirit who is unable to interact with the physical world directly, but instead can possess people and speak into their ears, influencing their behavior.\n\nYour hosts have agency and will keep trying to act on their own accord, but you mustn't let them do that. They're dumbasses, and without your help they will imminently perish. Fortunately, you have control over the flow of time, so you can undo their stupidity whenever you want.",
+  "source_sha256": "1d64d4e4c6154df2589632a2d8d0854e9418b0b0f661746237426f03997cd051",
+  "translation": "你扮演的是“暗灵”，一个没有肉身的灵体。你无法直接碰触物质世界，却能附在人身上，在他们耳边低语，影响他们的行为。\n\n宿主各有各的主意，总想照自己的意愿行事，你可不能由着他们。这些蠢货要是没有你帮忙，转眼就得没命。好在时间怎么流动由你掌控，他们干的蠢事，你想什么时候撤销都行。",
+  "vndb_url": "https://vndb.org/v57088"
+}

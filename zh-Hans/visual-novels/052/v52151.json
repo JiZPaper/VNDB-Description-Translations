@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52151",
+  "type": "visual_novel",
+  "name": "I SUPPOSE",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A story of a simple walk home, with a sprinkling of intrusive thoughts. Make a few choices, decide what's best, and please, try not to overthink.\n\n[From [url=https://store.steampowered.com/app/3086910/]Steam[/url]]",
+  "source_sha256": "a27d0425f2c3de491e7817f380c69fa80ecad711cf53a43514eb4fcac30a0ab3",
+  "translation": "这是一段平凡的步行回家路，偶尔掺进几个不由自主冒出来的念头。作几个选择，想想怎样最好，拜托，尽量别想太多。\n\n［取自[url=https://store.steampowered.com/app/3086910/]Steam[/url]］",
+  "vndb_url": "https://vndb.org/v52151"
+}

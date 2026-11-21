@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49046",
+  "type": "visual_novel",
+  "name": "Xingmu Xieyue A.A.A.",
+  "original_name": "星幕协约 A.A.A.",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"Starveil protocol A.A.A.\" was originally called \"Reconnect\", and it is a short text adventure experimental DEMO mixed with traditional role-playing game elements. The current version of the game is a new version based on the old \"Reconnect\" game which was made in a 3 week long Chinese game jam (Gcores BOOOM 2023 Vol.1). This new version adds some system refinement updates and iterations of art assets.\n\nThe main feature of this game is that the gameplay will feature a fair amount of random encounters and random scenarios to explore with in the story, and players will need to overcome these scenarios with the luck of a dice and their character's skill building as in traditional tabletop role-playing games.\n\n[From [url=https://inkfield.itch.io/starveil-protocol]itch.io[/url]]",
+  "source_sha256": "82f952c0297a856c5b784c24d2460a66e1c5e2ba15a2ff9e3798ce3d1f8a80b6",
+  "translation": "《星幕协约A.A.A.》原名《再连接》，是一部融入传统角色扮演要素的短篇实验性文字冒险试玩作品。《再连接》最初是在机核2023年第一期BOOOM游戏创作活动的三周里做出来的。现在的版本以当时的作品为基础，改进了部分系统，也更新了美术素材。\n\n游戏的一大特色，是在故事中穿插了许多随机遭遇和可供探索的随机情境。和传统桌上角色扮演游戏一样，能否渡过难关，既看你如何培养角色的技能，也看骰子肯不肯帮忙。\n\n（来源：[url=https://inkfield.itch.io/starveil-protocol]itch.io[/url]）",
+  "vndb_url": "https://vndb.org/v49046"
+}

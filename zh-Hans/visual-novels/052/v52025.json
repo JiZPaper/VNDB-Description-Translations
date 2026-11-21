@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52025",
+  "type": "visual_novel",
+  "name": "Chassis Aberration",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A micro visual novel about a futuristic/sci-fi production line worker assigned to scan and analyze broken, synthetic humanoid shells, or \"chassis\". The scanning tool at their disposal can be quirky though...\n\n[Edited from [url=https://ebbasuke.itch.io/chassis-aberration]itch.io[/url]]",
+  "source_sha256": "83a2e3c79a474be623dd19af13b5c563157fb75f965e4c1af7370c0c789e4a5f",
+  "translation": "在这部微型视觉小说里，你是一名未来科幻世界里的生产线工人，任务是扫描、分析损坏的人造人形外壳，也就是所谓的“机体”。只不过，你手里的扫描工具有时会闹点怪脾气…\n\n［改写自[url=https://ebbasuke.itch.io/chassis-aberration]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v52025"
+}

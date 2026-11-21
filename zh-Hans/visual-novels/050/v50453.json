@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50453",
+  "type": "visual_novel",
+  "name": "Rakuen ni Sumu Otoko -Man in the Garden of Eden-",
+  "original_name": "楽園に住む男-Man in the Garden of Eden-",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a private investigator tasked with what appears to be a mere case of marital infidelity.\n\nWhile pursuing the shadow of a woman, you come across a variety of characters in a depraved city.\n\nWhen the mystery eventually comes to light, you realize that nothing was what it seemed.",
+  "source_sha256": "574286a8446855c5ef6e97b063779b48ac992bbd61b4e857a26ae499d341a175",
+  "translation": "你是个私家侦探，接到的委托看起来只是一桩平常的婚外情调查。\n\n你循着一个女人的踪迹，在一座堕落的城市里与各色人物打交道。\n\n直到谜底揭晓，你才明白最初看见的一切有多靠不住。",
+  "vndb_url": "https://vndb.org/v50453"
+}

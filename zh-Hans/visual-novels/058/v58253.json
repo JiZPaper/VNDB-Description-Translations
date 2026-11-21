@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58253",
+  "type": "visual_novel",
+  "name": "Continua",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Emma calls you. She wants you to come over, because she feels unsafe.\n\nWhile you try to prevent a death, you are stuck in a time loop. Every decision matters as you solve the circumstances of the murder case and uncover the mystery of the time loop.",
+  "source_sha256": "4dfe52973b9bcdc7282bfca956a95736867bfdf73ebd16e3a2ff168098f909eb",
+  "translation": "艾玛打来电话。她觉得不安全，希望你过去陪她。\n\n为了阻止一个人死去，你被困在了时间循环里。你要查明谋杀案的来龙去脉，解开时间循环之谜，而你做的每一个决定都至关重要。",
+  "vndb_url": "https://vndb.org/v58253"
+}

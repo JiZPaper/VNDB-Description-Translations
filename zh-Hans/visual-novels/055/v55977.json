@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55977",
+  "type": "visual_novel",
+  "name": "Spread Thin: We're Toast!",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A chatsim game jam game about making a game jam game.\n\n[Edited from [url=https://lunamakaio.itch.io/spreadthin]itch.io[/url]]",
+  "source_sha256": "ab04c8b383534afe496b208dc32eaa40a26013b4c678f2eb18bbae8d3e10ecad",
+  "translation": "一款在限时游戏创作活动中做出来的聊天模拟游戏，讲的就是在限时创作活动里做游戏这件事。\n\n［编译自[url=https://lunamakaio.itch.io/spreadthin]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v55977"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54241",
+  "type": "visual_novel",
+  "name": "Midnight Terror",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A young man and a loved one travel together to Tokyo for the latter's piano concert. Despite police warnings about the escape of a maniacal killer, the young man doesn’t seem to take it seriously, and the night turns into a nightmare. The maniac puts them through a trial that pushes the boundaries of their relationship.",
+  "source_sha256": "94bda6b5e96d3ff7c38c89e1cd0fe66943ffded7ac5b74ddd7151988dd862d45",
+  "translation": "一名年轻男子陪一位心爱之人前往东京，参加对方的钢琴音乐会。警察警告他们，有个疯狂的杀人犯逃了出来，可年轻人似乎没放在心上，这一夜也随之成了噩梦。杀人狂让两人经历一场直逼他们关系极限的考验。",
+  "vndb_url": "https://vndb.org/v54241"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54842",
+  "type": "visual_novel",
+  "name": "Kingmaker",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You will be a young prince that is not only in the middle of a crisis, but whose road to the throne is less than certain. The kingdom is ravaged by war, schemes, debt, and death among other things.\n\nYou will play the first day of each week, which is meant to set the example of what your character does the rest of that week. I found this made more sense than a day to day game for the logic of how fast skills increase, how quickly relationships develop, and the time between game events, etc.\nThat first day will then be divided in four stages. Morning, Noon, Evening and Night.\nDuring the morning you will hold court. That is the time when subjects of the kingdom will bring you petitions for you to give your judgement.\nYour choices will affect how the kingdom sees you as a ruler. With this in mind it will be near impossible to please all the factions, and they might rebel or scheme if their support reaches zero. Having a good relationship with them on the other hand might unlock different things that are more pleasant.\nYour skill level might also unlock different solutions for the problems brought to the court. These options are usually better.\nAfter holding court, the noon and evening times you will spend them in the map menu. There you can decide which skills you will develop during the week.",
+  "source_sha256": "4bdf6ac36254321ad9149f1e59df09bacba34eaa9d064f7f277bd43f5cfa09f2",
+  "translation": "你将成为一名年轻王子，既身处危机之中，通往王位的路也远非十拿九稳。战争、阴谋、债务、死亡，还有诸多其他灾祸，都在摧残这个王国。\n\n你要游玩每周的第一天，以这一天为例，决定角色在本周余下的日子里做什么。考虑到技能提升和关系发展的速度，以及游戏事件之间的间隔等因素，我觉得这种安排比逐日游玩更合理。\n第一天又分成四个阶段：早晨、正午、傍晚和夜间。\n早晨你要主持朝会，王国的臣民会向你呈上请愿，等候你的裁决。\n你的选择会影响王国上下如何看待你这位统治者。要让所有派系都满意几乎不可能，支持度一旦降到零，他们就可能起兵反叛或密谋作乱。反过来，与他们保持良好关系，则可能解锁一些较为愉快的事件。\n你的技能等级也可能为朝会上呈的问题解锁不同的解决办法。这类选项通常更好。\n朝会结束后，正午和傍晚将在地图界面度过。你可以在那里决定本周要提升哪些技能。",
+  "vndb_url": "https://vndb.org/v54842"
+}

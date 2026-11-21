@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49331",
+  "type": "visual_novel",
+  "name": "Why do you love me?",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short romantic novel about modern relationships. We took some situations from life and tried to answer the question \"why do people love each other?\".\n\n[From [url=https://store.steampowered.com/app/2802790/]Steam[/url]]",
+  "source_sha256": "4aec89215f8ec1dda44cdcd436f0f1b227715adaa4e88814e5ea95ea7fed842f",
+  "translation": "一部关于当代亲密关系的短篇爱情小说。我们从生活中选取了几个情境，试着回答这个问题：“人为什么会爱上彼此？”\n\n（来源：[url=https://store.steampowered.com/app/2802790/]Steam[/url]）",
+  "vndb_url": "https://vndb.org/v49331"
+}

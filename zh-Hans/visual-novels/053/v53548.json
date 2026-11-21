@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53548",
+  "type": "visual_novel",
+  "name": "Good Morning",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Good Morning is a psychological visual novel where every choice matters. Trapped in a repeating morning, your decisions unlock hidden paths and multiple endings. Each replay reveals new secrets as you try to break free from the loop. Can you escape, or will you be stuck forever?\n\n[From [url=https://store.steampowered.com/app/3285200/]Steam[/url]]",
+  "source_sha256": "9591beab802da07ac76547d3c1fafe38d8da8a0b4de1b837c6e2199b93387e2f",
+  "translation": "《Good Morning》是一部每个选择都举足轻重的心理视觉小说。你被困在不断重复的早晨，你的决定将开启隐藏路线和多种结局。每次重玩都会揭开新的秘密，而你仍在设法打破循环。你能逃出去，还是会被永远困住？\n\n［摘自[url=https://store.steampowered.com/app/3285200/]Steam[/url]］",
+  "vndb_url": "https://vndb.org/v53548"
+}

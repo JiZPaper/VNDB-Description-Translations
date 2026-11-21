@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57237",
+  "type": "visual_novel",
+  "name": "Loki",
+  "original_name": "Локи",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The character wakes up in an abandoned house with amnesia. The atmosphere is eerie, you never leave the feeling that something terrible has happened. You need to collect clues, uncover the secrets of the house and your own past to find out the truth.\n\n[From [url=https://echolran.itch.io/the-locks]Itch.io[/url]]",
+  "source_sha256": "23e685a5fba5289741fa40a419a105877a649fa464ebc88740229ff9ac22a726",
+  "translation": "主人公在一栋废弃的房子里醒来，丧失了记忆。屋里气氛诡异，仿佛曾经发生过什么可怕的事，那种感觉始终挥之不去。你需要搜集线索，挖出这栋房子以及自己过往的秘密，才能查明真相。\n\n［摘自[url=https://echolran.itch.io/the-locks]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v57237"
+}

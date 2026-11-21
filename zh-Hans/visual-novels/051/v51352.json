@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51352",
+  "type": "visual_novel",
+  "name": "Ghost of Gunsmoke",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're a bounty hunter living on No Man's Land, barely scrapping by with your mysterious robot companion. One day, you come across someone from your past and grab the interest of a certain Humanoid Typhoon...\n\n(from https://aquaberri.itch.io/ghost-of-gunsmoke-demo)",
+  "source_sha256": "6e3325b7c4170a6e48bc02f4c0ff8013825e0f11bdcaa03ae512dadc724dc581",
+  "translation": "你是个生活在无人之地的赏金猎人，带着神秘的机器人搭档，日子过得勉勉强强。一天，你遇见了过去认识的人，还引起了某位“人形台风”的兴趣…\n\n（摘自https://aquaberri.itch.io/ghost-of-gunsmoke-demo）",
+  "vndb_url": "https://vndb.org/v51352"
+}

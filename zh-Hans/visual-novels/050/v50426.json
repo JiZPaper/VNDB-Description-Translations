@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50426",
+  "type": "visual_novel",
+  "name": "Wonderful",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In Wonderful, you are a guy who made his fortune very young but who also lost everything very early.\n\nIn debt you return to your mother, on the road you will find a kitsune saying she comes from another world, find the truth about this world and this kistune.",
+  "source_sha256": "fcb5faa118e2c0a0a724f49ae96cb5f58b978890b4c2fc91718ec560df0af6b5",
+  "translation": "在《Wonderful》中，你曾年纪轻轻就发了大财，却也很早便失去了一切。\n\n如今债务缠身的你踏上投奔母亲的路，途中遇见了一只自称来自异世界的狐妖。去查明这个世界的真相，也揭开她的秘密吧。",
+  "vndb_url": "https://vndb.org/v50426"
+}

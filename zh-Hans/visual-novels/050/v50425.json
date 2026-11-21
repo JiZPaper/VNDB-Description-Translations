@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50425",
+  "type": "visual_novel",
+  "name": "Arhe",
+  "original_name": "Архэ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This story takes place in a world governed by the Numerals, powerful ancient creatures known as Arkhe, representing the essence of creation itself.\n\nThe Arkhe divided the world two thousand years ago and crafted diverse races to rule. But over time, a struggle for supremacy ignited among them, sparking an enduring conflict that still rages on. \n\n[From [url=https://store.steampowered.com/app/2977310/Arkhe/]Steam[/url]]",
+  "source_sha256": "0d3ed06e82d2297db09931b672334efa48eb13ec44311d427b7507273437fbc2",
+  "translation": "世界由“数”支配。它们是名为“阿尔刻”的强大远古生灵，体现着创造本身的本质。\n\n两千年前，阿尔刻瓜分世界，创造了各不相同的种族供自己统治。随着时间流逝，它们之间燃起争夺霸权的战火，一场漫长的冲突就此开始，至今仍未停息。\n\n［摘自[url=https://store.steampowered.com/app/2977310/Arkhe/]Steam[/url]］",
+  "vndb_url": "https://vndb.org/v50425"
+}

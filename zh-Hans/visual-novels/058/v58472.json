@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58472",
+  "type": "visual_novel",
+  "name": "imigo",
+  "original_name": "忌子",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "you are a big black man who kidnaps little girls and brutally tortures and rapes them.",
+  "source_sha256": "13b4e2dcd9d89f2bdf9307fc118da3daf4ff5269837d2f5e1e07376f46c629d0",
+  "translation": "你是个身材魁梧的黑人男子，会绑架小女孩，对她们施以残忍的折磨并强奸她们。",
+  "vndb_url": "https://vndb.org/v58472"
+}
