@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65340",
+  "type": "visual_novel",
+  "name": "Kamilia",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Kamilia is a story-driven, choices-matter detective mystery. Follow a talented painter who finds himself wrapped up in an unsolved case, as he tries to unveil a hidden truth that has been buried for years.\n\n[From [url=https://store.steampowered.com/app/2654030]Steam[/url]]",
+  "source_sha256": "d6f531ddbd919960f4d64cae15f66089eaeb963fdcca8d1beba80cfcc01c8146",
+  "translation": "《Kamilia》是一款以剧情为主的侦探悬疑游戏，你的选择会影响故事。跟随一位才华横溢的画家，看他如何身陷一桩悬案，试图揭开埋藏多年的真相。\n\n［摘自[url=https://store.steampowered.com/app/2654030]Steam[/url]］",
+  "vndb_url": "https://vndb.org/v65340"
+}

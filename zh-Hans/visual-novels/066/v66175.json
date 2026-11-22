@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66175",
+  "type": "visual_novel",
+  "name": "First Change",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are 21 years old.You just finished university.You live alone.So what will you do now?How will you make money?How will you make friends?How will the girls you meet affect your life?You will feel the change.",
+  "source_sha256": "e2d50fcc63d1431d06d523afe4c01a4f1f629826b0e3b0ceaa9ac119c06f0c20",
+  "translation": "你21岁，刚从大学毕业，一个人住。接下来怎么办？你打算怎么赚钱？怎么交朋友？你遇到的女孩们会给你的生活带来怎样的影响？你将亲身感受这些变化。",
+  "vndb_url": "https://vndb.org/v66175"
+}

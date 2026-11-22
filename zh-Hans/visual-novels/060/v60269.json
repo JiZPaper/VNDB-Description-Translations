@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60269",
+  "type": "visual_novel",
+  "name": "Entre Chien et Loup",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"To Nyarindë, the Wandering Witch,\"\n\n\"You once said that name means ‘the storyteller’ — one born to preserve every tale across the land of Myaloú.\nBut you never realized that you yourself were the tale left untold.\"\n\n\"If Nyarindë is the storyteller, then who will tell her story?\"\n\n\"And so, I wrote this book... to keep the memory of a time I will never forget.\"\n\n— Baldur, Entre Chien et Loup",
+  "source_sha256": "9c2b7a385c68795856adcece93cbb37430c7519f2e5bf2213e2d59c70da72676",
+  "translation": "“致流浪女巫尼娅琳德：”\n\n“你曾说过，这个名字的意思是‘讲故事的人’——一个生来便要为米亚卢大陆留存每段故事的人。\n可你从未意识到，那个一直无人讲述的故事，正是你自己。”\n\n“倘若尼娅琳德是讲故事的人，又有谁来讲她的故事呢？”\n\n“于是我写下了这本书…以此留住那段我永远不会忘记的时光。”\n\n——巴尔德尔，《Entre Chien et Loup》",
+  "vndb_url": "https://vndb.org/v60269"
+}

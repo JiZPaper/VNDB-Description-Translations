@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59580",
+  "type": "visual_novel",
+  "name": "Don't Get Your Hopes Up",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're looking for a new apartment in Amsterdam. Your once-confident search is morphing into panic. Nothing is available. Anything will do. ANYTHING.\n\nDon't Get Your Hopes Up is a short visual novel about housing shortage and horror in architecture. Based on desperate apartment searches undertaken in 2022 and 2024, and drawing from a half decade of conversations about Amsterdam's \"woningnood\", the game moves between fiction, documentary, and social commentary. With disquiet and creeping unease, it dismantles the consoling fictions of abundance, and laments a feeling of home that's always just beyond reach.",
+  "source_sha256": "a03a9f979e08c7ffaf53490fb17c6a0a61414f80de47db1c535e3b11b62e0bf8",
+  "translation": "你正在阿姆斯特丹找新公寓。起初还很有信心，如今却越来越慌。根本没房。什么样的都行。什么样的都行！\n\n《Don’t Get Your Hopes Up》是一部短篇视觉小说，讲的是住房短缺，以及建筑空间本身所带来的恐怖。游戏取材于2022年和2024年间令人绝望的找房经历，也汲取了五年来人们围绕阿姆斯特丹“住房荒”（woningnood）的种种交谈，在虚构、纪实和社会评论之间穿行。伴随一丝不安和逐渐滋长的惶恐，那个让人宽心的“房源充足”的幻想被一点点拆穿。至于家的感觉，似乎永远差一点才够得着，令人怅然。",
+  "vndb_url": "https://vndb.org/v59580"
+}

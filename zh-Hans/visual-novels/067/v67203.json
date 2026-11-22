@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67203",
+  "type": "visual_novel",
+  "name": "Apple Pie Delivery",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Your cute baker friend brings an apple pie to your house! She's done this many times before, but why does something feel off about this time...?\n\n[From [url=https://misstullie.itch.io/apple-pie-delivery]itch.io[/url]]",
+  "source_sha256": "0380cf913c49e6d2eeb3053eab32901ad29125dda1df849da97328d86a838e3e",
+  "translation": "你那位可爱的烘焙师朋友给你家送来了一个苹果派！她以前也送过很多次，可为什么这次总觉得有哪里不对劲…？\n\n（摘自[url=https://misstullie.itch.io/apple-pie-delivery]itch.io[/url]）",
+  "vndb_url": "https://vndb.org/v67203"
+}

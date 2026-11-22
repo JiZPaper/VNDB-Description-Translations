@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64154",
+  "type": "visual_novel",
+  "name": "Select Kiss",
+  "original_name": "せれくとKiss",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You've been hired for a part-time job picking two people to lock in The Room Where You Must Kiss to Leave.\nSelect from a cast of six colorful characters, see how they bounce off one another, and imagine how things might unfold from there.\n\n[From [url=https://vgperson.com/games/selectkiss.htm]vgperson[/url]]",
+  "source_sha256": "1cb75b61331cdb341607c51fa3a8b899d571778c09331f9f1fb6c39b4ac05aea",
+  "translation": "你应聘了一份兼职，要挑出两个人，关进“不接吻就出不来的房间”。\n从六个个性鲜明的角色中挑选组合，看他们会擦出怎样的火花，再想象一下，接下来事情会如何发展。\n\n［摘自[url=https://vgperson.com/games/selectkiss.htm]vgperson[/url]］",
+  "vndb_url": "https://vndb.org/v64154"
+}

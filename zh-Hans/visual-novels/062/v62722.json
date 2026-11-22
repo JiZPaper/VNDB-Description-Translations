@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62722",
+  "type": "visual_novel",
+  "name": "Project Lab",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A mad doctor has trapped you in his lab and wants to turn you therianthropic. Your task is to escape, whether alone or not. Depending on your choice, you will meet 10 theriomorphs. These could be friends, lovers or foes.\n\n[Edited from [url=https://huenaindie.itch.io/project-lab-dev]Itch.io[/url]]",
+  "source_sha256": "c82d5e3d74b6506a7962fbdb34c8536c6f3679e15ab9d75fac6e91d0346e7bd5",
+  "translation": "一个疯狂的医生把你关在实验室里，想把你变成兽人。你的任务就是逃出去，独自逃，或是带人一起。取决于你的选择，你会遇到十个兽形人。他们可能是朋友、恋人，也可能是敌人。\n\n［编译自[url=https://huenaindie.itch.io/project-lab-dev]Itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v62722"
+}

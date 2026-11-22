@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65786",
+  "type": "visual_novel",
+  "name": "Vacation!",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Before you go on vacation, you need a good work out! The main character Chase Reed is going on vacation. But not really, he's going to his dream job to earn his vacation money.",
+  "source_sha256": "4d0fae73342ad2896377ac1cd0dffea944f05f7d0cdc4bb56d9735b8dc07986e",
+  "translation": "去度假之前，得先好好活动活动！主人公蔡斯·里德要去度假了。其实也不算，他要去做自己梦寐以求的工作，把度假的钱挣出来。",
+  "vndb_url": "https://vndb.org/v65786"
+}

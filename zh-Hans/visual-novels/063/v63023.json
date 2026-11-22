@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63023",
+  "type": "visual_novel",
+  "name": "Choice of Dinosaur",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "https://disastrophism.itch.io/choice-of-dinosaur\n\nChoice of Dinosaur is a choose your own adventure game for the game boy color that follows the story of a carnotaurus trying to survive the cataclysm brought by the meteor.",
+  "source_sha256": "9f97a1aa10738cbdc4082ce7077cd610a556636a5ae87cfe7df8f63cb9f92b6a",
+  "translation": "https://disastrophism.itch.io/choice-of-dinosaur\n\n《恐龙的抉择》是一款登陆Game Boy Color的自选冒险游戏，讲述一头食肉牛龙如何在陨石引发的浩劫中求生。",
+  "vndb_url": "https://vndb.org/v63023"
+}

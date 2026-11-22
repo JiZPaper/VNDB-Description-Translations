@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60085",
+  "type": "visual_novel",
+  "name": "The Grim Mansion",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Visit the Grim Mansion, a place for humans and monsters alike, and face your inevitable fate as you try to escape death. Will anyone survive, or will you all meet the same gruesome end?\n\n[From [url=https://hungryhn.itch.io/the-grim-mansion]Itch.io[/url]]",
+  "source_sha256": "6a7359958f73c661429687effe2f3b4d14166cccad3cea45d0071eb00040d926",
+  "translation": "走进阴森宅邸吧，这里既接待人类，也接待怪物。你想要逃过死亡，却必须面对避无可避的命运。会有人活下来吗？还是说，你们全都会落得同样惨烈的下场？\n\n［摘自[url=https://hungryhn.itch.io/the-grim-mansion]Itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v60085"
+}

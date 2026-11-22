@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63848",
+  "type": "visual_novel",
+  "name": "One Night Liar",
+  "original_name": "ワンナイトライアー",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"Who killed \"me\"?\"\n\nYou infiltrate a luxury cruise ship reunion pretending to be the murdered woman.\n\nWhether you can identify the killer without being discovered depends on your \"lies.\"\n\nA one-night-only deception adventure game.",
+  "source_sha256": "464b4bc39901e513688d1a578964cd50573727854ec43b4c38e52d02e9bcbc5b",
+  "translation": "“是谁杀了‘我’？”\n\n你假扮成被害的女子，潜入一场在豪华邮轮上举办的同学聚会。\n\n你能否在身份暴露之前找出凶手，取决于你撒的“谎”。\n\n一款只此一夜的欺瞒冒险游戏。",
+  "vndb_url": "https://vndb.org/v63848"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62530",
+  "type": "visual_novel",
+  "name": "Danganronpa Blood of Despair",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Our protagonist is trapped on an unknown island with 19 other people, all equally confused, and a Bear is back with a new game to kill. Can we survive?\n\n[Edited from [url=https://gamejolt.com/games/DRBOD/419811]GameJolt[/url]]",
+  "source_sha256": "188472afcd4d36b821fdc317d42e2ce7bf94b1c4da98ccae7c8e5541b1194635",
+  "translation": "主角和另外19个人被困在一座陌生的岛上，谁也弄不清是怎么回事。那只熊又回来了，还带来了一场全新的杀人游戏。我们能活下去吗？\n\n［编译自[url=https://gamejolt.com/games/DRBOD/419811]GameJolt[/url]］",
+  "vndb_url": "https://vndb.org/v62530"
+}

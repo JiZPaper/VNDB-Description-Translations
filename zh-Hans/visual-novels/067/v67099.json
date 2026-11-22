@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67099",
+  "type": "visual_novel",
+  "name": "Kosakai Fuboku Sakuhinshu",
+  "original_name": "小酒井不木 作品集",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Collected Works\n\nMemoirs of a Suicide\nThe Fool's Revenge\nThe Fool's Poison\nThe Surgery\nThe Love Curve",
+  "source_sha256": "add809eb450f46b179c37660c6b9dcddb790303b0485c76075137efebf5ddaa5",
+  "translation": "作品集\n\n《一个自杀者的手记》\n《痴人的复仇》\n《愚人之毒》\n《手术》\n《恋爱曲线》",
+  "vndb_url": "https://vndb.org/v67099"
+}

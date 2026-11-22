@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59009",
+  "type": "visual_novel",
+  "name": "Dwaeji Meori",
+  "original_name": "돼지 머리",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In an isolated Joseon village, a strange disease kills pigs and infects humans. The villagers respond with a desperate ritual: pig heads for the sick, then isolation.\n\n[From [url=https://gunyanggae.itch.io/pig-head]Itch.io[/url]]",
+  "source_sha256": "b28272b7858ec0ec5307eba8a787b345e74b725183e67a951f5d7bb87b1290a0",
+  "translation": "朝鲜王朝时期，一个与世隔绝的村庄里出现了一种怪病。村里的猪纷纷病死，人也染上了病。走投无路的村民举行了一场仪式，先给病人套上猪头，再把他们隔离起来。\n\n［摘自[url=https://gunyanggae.itch.io/pig-head]Itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v59009"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60037",
+  "type": "visual_novel",
+  "name": "Street Fighter-tachi no Yoru",
+  "original_name": "ストリートファイターたちの夜",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A night of tragedy unfolds after a group of fighters find a mysterious note. On it reads the words \"Tonight@midnight=d...\"\n\n[From scenario selection menu]\n\nA collaboration Sound Novel between Street Fighter 6 and [url=/v1241]Kamaitachi no Yoru[/url], featured as a free-update campaign for Street Fighter 6.",
+  "source_sha256": "847194fd4678896c4aa177843236cbd55d347f1e20fadf1f1f0a51547566462d",
+  "translation": "一群格斗家发现了一张神秘的字条，悲剧之夜就此拉开帷幕。字条上写着“今晚@午夜=d…”\n\n［摘自剧本选择菜单］\n\n这是《街头霸王6》与[url=/v1241]《镰鼬之夜》[/url]合作推出的有声小说，作为免费更新活动在《街头霸王6》中登场。",
+  "vndb_url": "https://vndb.org/v60037"
+}

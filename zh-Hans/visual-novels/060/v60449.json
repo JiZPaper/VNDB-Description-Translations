@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60449",
+  "type": "visual_novel",
+  "name": "Veronika",
+  "original_name": "Вероника",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Many dreamers, lost in their childish fantasies, yearn for glory and adventure, forgetting that a story is only as strong as its hero.\nThis is the tale of an ordinary soul, crushed by the weight of the extraordinary fate that found him.",
+  "source_sha256": "9b8b0a102a6947f9fbc8a92c3ddbf0e657ee9f81bfc9391b2bb816c9dc83ca3b",
+  "translation": "许多做梦的人沉迷在孩子气的幻想里，向往荣耀与冒险，却忘了一个故事能有多少力量，终究取决于它的主角。\n这是一个平凡灵魂的故事。非凡的命运找上了他，而他被它的重量压垮了。",
+  "vndb_url": "https://vndb.org/v60449"
+}

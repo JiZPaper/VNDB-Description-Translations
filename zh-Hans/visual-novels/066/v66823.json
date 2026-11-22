@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66823",
+  "type": "visual_novel",
+  "name": "This this the end",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You've finally decided to confess your love to a foreign girl, your best friend, whom you've cherished and protected for years. What could possibly go wrong?",
+  "source_sha256": "00bddf20fef2de77852eed7d2192d39fe79122a850ad0f7df8846ff5d768558e",
+  "translation": "多年来，你始终珍惜并保护着自己最好的朋友，一个来自异国的女孩。如今，你终于决定向她表白。能出什么岔子呢？",
+  "vndb_url": "https://vndb.org/v66823"
+}

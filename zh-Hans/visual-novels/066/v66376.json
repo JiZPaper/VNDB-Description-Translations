@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66376",
+  "type": "visual_novel",
+  "name": "Another Dimension",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The protagonist wakes up in a strange world, alongside a group of people, none of them remembers anything, not even their own names. Soon, they’ll discover that this world is nothing like the one they came from. Filled with creatures of all kinds living in a delicate balance, the protagonist must uncover why they’re here… and figure out how to set things right.",
+  "source_sha256": "d96bc855d7249b4b4ade4ffa97ea3460cce000b570208990412f594ede7981f7",
+  "translation": "主人公与一群人一同在陌生的世界里醒来。谁都不记得任何事，就连自己的名字都忘了。很快，他们就会发现，这里和原来的世界全然不同。形态各异的生灵维持着微妙的平衡。主人公必须查清他们为何来到这里…再想办法让一切回到正轨。",
+  "vndb_url": "https://vndb.org/v66376"
+}

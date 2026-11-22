@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65133",
+  "type": "visual_novel",
+  "name": "Grove of Myths - Heroes of the Storm",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Streamer Anel vanishes without a trace during a livestream from a forest grove, and her friend Arai, together with the skeptical Daniil, sets out to find her.\nBut beneath the shadows of the ancient trees, logic holds no power. To save their friend, they will have to play by the forest’s rules — or remain there forever…",
+  "source_sha256": "bed2a97ea9dba553e889ea91fb390286b2d60edaa91245e1004d2443a540d555",
+  "translation": "主播阿内尔在林间直播时消失得无影无踪。她的朋友阿拉伊和对此半信半疑的丹尼尔结伴去找她。\n可在古树的阴影下，逻辑根本派不上用场。想要救回朋友，他们只能照森林的规矩行事，否则就会永远留在那里…",
+  "vndb_url": "https://vndb.org/v65133"
+}

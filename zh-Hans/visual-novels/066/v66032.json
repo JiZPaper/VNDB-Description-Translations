@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66032",
+  "type": "visual_novel",
+  "name": "Fall Flavors",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are the older brother who is staying with your sibling. You are trying to find a direction in life.\nThe game is built on choices that will have an impact on the gameplay.  Scenes will unfold based on your decisions.\nThis is a semi kinetic story with some options along the way.",
+  "source_sha256": "811d57de0010575c511d5ae455392d7745e7d7a2cf1abff8b47271cb1892d9d2",
+  "translation": "你是家里的哥哥，暂时和自己的弟弟或妹妹同住，试着为人生找个方向。\n游戏中的选择会影响玩法，接下来上演哪些场景，全看你怎么决定。\n故事大致沿着一条主线展开，途中有些地方可以选择。",
+  "vndb_url": "https://vndb.org/v66032"
+}

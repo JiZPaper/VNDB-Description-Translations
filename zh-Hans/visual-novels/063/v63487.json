@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63487",
+  "type": "visual_novel",
+  "name": "Welcome to Wimblewick",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "One day, Ryo is informed that he’ll have to move to Wimblewick Isle. And while the place isn’t too far from his city, you could say some of the people there have a little...  extra charm to them.",
+  "source_sha256": "bda29531bca16ca7c25a2b432f35fcda9992d5df05b34e67a7d2c0ba69b298c5",
+  "translation": "有一天，凉被告知必须搬到温布尔维克岛。虽然那地方离他居住的城市并不远，不过可以说，岛上的一些人身上有那么一点…格外的魅力。",
+  "vndb_url": "https://vndb.org/v63487"
+}

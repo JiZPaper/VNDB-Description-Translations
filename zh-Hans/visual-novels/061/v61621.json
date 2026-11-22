@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61621",
+  "type": "visual_novel",
+  "name": "Crony Letter ～Piqtat e Haru o Okuru～",
+  "original_name": "クローニーレター ～ピックタットへ春を送る～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Otto writes a letter to his family about what he's been up to.\nIncludes three stories:\nOne about a day when he was sick, one about a midnight talk with Garfiel, one just messing around with Subaru.",
+  "source_sha256": "7e68ab6d5b9a65321982ee4a726d70c57eb8a088842ff8ccd075aa75fbe46bb5",
+  "translation": "奥托写信给家人，说起自己的近况。\n信中有三个故事：一个讲他生病那天的事，一个讲他和加菲尔深夜谈心，还有一个只是他和昴在一块儿胡闹。",
+  "vndb_url": "https://vndb.org/v61621"
+}

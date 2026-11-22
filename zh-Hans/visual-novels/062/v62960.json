@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62960",
+  "type": "visual_novel",
+  "name": "Kyou no Jihaku Gohan",
+  "original_name": "きょうの自白ごはん",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The police have captured Aoki, the boss of a hacker organization.\n\nHowever, he's planted a government data leak program that's set to activate in 7 days.\n\nIf left unchecked, citizens' personal information will be scattered everywhere. The only way to deactivate the program is through a 5-digit code that only he knows.\n\n...Well, the criminal bastard seems to like my cooking. Might as well strike a deal.\n\n[Translated from [url=https://novelgame.jp/games/show/13446]Novelgame[/url]]",
+  "source_sha256": "fbca57d2714a15464da2d3a72a7e1a9d620c8dd4cd13a78eae7a67971415e3c4",
+  "translation": "警方抓到了黑客组织的头目碧木。\n\n可他事先埋下了一个泄露政府数据的程序，再过七天就会启动。\n\n再这样下去，市民的个人信息就会被散布得到处都是。要停掉程序，必须输入一个五位数密码，而密码只有碧木本人知道。\n\n…说来，这个混账罪犯好像还挺喜欢我做的菜。干脆跟他做个交易吧。\n\n［译自[url=https://novelgame.jp/games/show/13446]Novelgame[/url]］",
+  "vndb_url": "https://vndb.org/v62960"
+}

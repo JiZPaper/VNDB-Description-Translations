@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59843",
+  "type": "visual_novel",
+  "name": "Hanako's Flower Shop",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hanako’s Flower Shop is a heartfelt visual novel where you run a flower shop, crafting bouquets using the language of flowers. Listen to customers’ stories, shape Hanako’s journey through choices, and navigate her struggle to honor her grandpa’s legacy while discovering her own path.",
+  "source_sha256": "f677b1ba3801bca598e85312c4d9085e4869ad08d1377c24e7ecb991ca7a22cc",
+  "translation": "《花子的花店》是一部温情的视觉小说。你将经营一家花店，用花语搭配花束。倾听客人们的故事，作出选择，改变花子的人生旅程。她想守住爷爷留下的事业，也想找到自己的路，而你将陪她经历这份挣扎。",
+  "vndb_url": "https://vndb.org/v59843"
+}

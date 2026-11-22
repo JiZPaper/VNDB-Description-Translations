@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61475",
+  "type": "visual_novel",
+  "name": "Sousei no Eden",
+  "original_name": "創世のエデン",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Become Adam and Eve and survive for 30 days.\nYour HP will continuously decrease, so you must keep searching for food.\nSince the outcomes are random, try different choices, experience the events that occur along the way, and guide them toward their ending.\n\nEight characters appear: God, Goddess, Grim Reaper, three angels, Adam, and Eve!\n\n[From [url=https://www.nintendo.com/us/store/products/eden-of-creation-switch]Nintendo[/url]]",
+  "source_sha256": "f4199bb485a9c223b75cfa0f762c8a1c5ea3e0a447ac4ff6a784f4cb690e4398",
+  "translation": "化身亚当和夏娃，设法生存三十天。\n生命值会持续下降，你必须不断寻找食物。\n每次行动的结果都是随机的。试试不同的选择，体验沿途触发的事件，引导两人走向属于他们的结局。\n\n共有八个角色登场：上帝、女神、死神、三名天使，以及亚当和夏娃！\n\n［摘自[url=https://www.nintendo.com/us/store/products/eden-of-creation-switch]Nintendo[/url]］",
+  "vndb_url": "https://vndb.org/v61475"
+}

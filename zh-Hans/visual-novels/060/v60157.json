@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60157",
+  "type": "visual_novel",
+  "name": "Whistle from the Fog",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A mysterious plague haunts your town. You discover strange letters accusing an Apothecary of witchcraft. But when you meet her, you can't help but be drawn in.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "6cadc605bb29b6854feeb6c0fdc1ef1f138526e21df58585c36df82fff8e8ea7",
+  "translation": "一场神秘的瘟疫笼罩着你的小镇。你发现了一些奇怪的信，指控一名药剂师施行巫术。可当你见到她，却情不自禁地被她吸引。\n\n［摘自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian应用[/url]］",
+  "vndb_url": "https://vndb.org/v60157"
+}

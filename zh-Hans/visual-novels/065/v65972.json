@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65972",
+  "type": "visual_novel",
+  "name": "Sicktrace!",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Follow the story of a male protagonist who leaves his small town behind to start fresh at college, navigating a world of unfamiliar experiences and relationships.\nYour choices will shape his journey, influencing friendships and romantic encounters along the way.",
+  "source_sha256": "2410d13e5c81358e0234e959b982787cde944a379a4712e167e43e95dc4bb47b",
+  "translation": "跟随男主人公离开生活的小镇，在大学里重新开始，面对从未有过的经历，也学着与新认识的人相处。\n你的选择将塑造他的旅程，影响沿途结下的友谊和浪漫邂逅。",
+  "vndb_url": "https://vndb.org/v65972"
+}

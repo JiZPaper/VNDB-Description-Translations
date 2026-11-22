@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61582",
+  "type": "visual_novel",
+  "name": "Char's Ennui",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A doujin Gundam visual novel set set in a CCA AU where the war is averted in exchange for Amuro's permanent residence in Char's custody.\n\n[From [url=https://x.com/esshemasha/status/2009566324582936667]X[/url]]",
+  "source_sha256": "7867e67cc683853f7519437a95131afd10301366397e13dd37ded132f91ee264",
+  "translation": "一部《高达》同人视觉小说，故事发生在《逆袭的夏亚》的平行世界。在这里，战争得以避免，代价是阿姆罗从此永远要受到夏亚的监禁。\n\n［摘自[url=https://x.com/esshemasha/status/2009566324582936667]X[/url]］",
+  "vndb_url": "https://vndb.org/v61582"
+}

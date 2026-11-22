@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65119",
+  "type": "visual_novel",
+  "name": "Lost Memory Desperate",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "They say that somewhere in a dark forest, inside an abandoned bus, there lives a creature. A mistake the world itself carries within it, for it devours a person’s very existence — as though they had never existed at all. Erasing every trace of their being from reality itself.\nAnd yet, some people seek it out willingly. Desperate souls searching for salvation in the void.",
+  "source_sha256": "31d112d18933f49bfd0c4544a4b22aa9be6b4459ca4ed8a7438dd3086826c1b8",
+  "translation": "听说在一片幽暗的森林里，有辆废弃的公交车，里面住着一种生物。它是世界自身孕育的一个错误，因为它吞噬的是一个人的存在，把那个人存在过的一切痕迹从现实里抹掉，仿佛对方根本不曾存在。\n可是，有些人却心甘情愿地去找它。那是些走投无路的灵魂，想在虚无中寻求救赎。",
+  "vndb_url": "https://vndb.org/v65119"
+}

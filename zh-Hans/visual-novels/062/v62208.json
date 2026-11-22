@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62208",
+  "type": "visual_novel",
+  "name": "Rangu y Eric en los Juegos Olímpicos",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The unofficial visual novel developed by a Cobra for the Cobras! Join Eric at the Olympic Games and discover why Rangu betrayed him.",
+  "source_sha256": "ed95f651f072a07712919c1b42646da642790dbb05f31191e813e4652eeb3335",
+  "translation": "一部由眼镜蛇粉丝为同好们制作的非官方视觉小说！跟随埃里克参加奥运会，查明兰古为何背叛了他。",
+  "vndb_url": "https://vndb.org/v62208"
+}

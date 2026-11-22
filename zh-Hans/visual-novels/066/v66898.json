@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66898",
+  "type": "visual_novel",
+  "name": "Fear Of Gods",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Inspired by the Strugatsky brothers' novella \"Roadside Picnic\".",
+  "source_sha256": "71af47ae8eb61d222dcade768e6b6b3669a79fea714fc27c000b9e82e99f90d4",
+  "translation": "灵感来自斯特鲁加茨基兄弟的中篇小说《路边野餐》。",
+  "vndb_url": "https://vndb.org/v66898"
+}

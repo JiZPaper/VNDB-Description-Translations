@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60122",
+  "type": "visual_novel",
+  "name": "Divine Devotion",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You awaken from a deep sleep and find yourself at the feet of five powerful gods. Why are you here? And what will they do with you?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "613469a4ee592c03f76a931a2ed13ad91db95c620360462dea6a263ae35de4a5",
+  "translation": "你从沉睡中醒来，发现自己正躺在五位强大神祇的脚边。你为什么会在这里？他们又会如何处置你？\n\n［摘自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian应用[/url]］",
+  "vndb_url": "https://vndb.org/v60122"
+}

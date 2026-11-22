@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62119",
+  "type": "visual_novel",
+  "name": "Okuriya",
+  "original_name": "送り屋",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short story about the protagonist meeting the villagers.\nIt has a subtle Japanese feel and no horror elements.\n\n*While this is not a horror story, the production may create a sense of unease.",
+  "source_sha256": "3cf6f60994946da8b5ee067624e904bc573067b8c95ff66c502f98b0fff9b73b",
+  "translation": "主角与村民们相遇的短篇故事。\n带着淡淡的日式风情，没有恐怖元素。\n\n※虽然不是恐怖故事，但演出手法可能会让人感到不安。",
+  "vndb_url": "https://vndb.org/v62119"
+}

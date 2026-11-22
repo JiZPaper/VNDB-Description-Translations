@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60150",
+  "type": "visual_novel",
+  "name": "The Golden Myth",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You're a prince, and he's a creature thought extinct. Your secret bond could save the kingdom... or doom it. Will you choose love over duty?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "cf1ec3fd0dd5f42192c971cc371a9dbb13d7935b90ad77383f35f9a23dda54d0",
+  "translation": "你是一位王子，他则是世人以为早已灭绝的生灵。你们之间不为人知的羁绊，或许能拯救王国…也可能将它推向毁灭。当爱与职责冲突时，你会选择爱情吗？\n\n［摘自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian应用[/url]］",
+  "vndb_url": "https://vndb.org/v60150"
+}

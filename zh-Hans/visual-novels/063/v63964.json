@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63964",
+  "type": "visual_novel",
+  "name": "Cupid",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"Cupid: 5 Days of Memories\" is a free web-based visual novel developed by ArcherLab. \n\nPlayers take on the role of a transfer student, experiencing a 5-day school romance that begins on their very first day. The game features five unique heroines—Seoyeon, Yuna, Dain, the School Nurse, and the Homeroom Teacher—each offering different story paths and multiple endings influenced by AI. \n\nKey features:\n- No installation or registration required (playable directly in the browser).\n- Supports 6 languages: Korean, English, Spanish, Japanese, French, German, and Portuguese.\n- Features a gallery system and affinity gauges to track relationship progress.\n\nOfficial Website: \nhttps://cupid.archerlab.dev",
+  "source_sha256": "7354556893b3227c48ce1b6568b3b7fe589648a2d8f6c086b7aaf05c49dd8980",
+  "translation": "《Cupid: 5 Days of Memories》是一部由ArcherLab开发的免费网页视觉小说。\n\n你将扮演一名转学生，从转学第一天开始，经历一段为期五天的校园恋爱故事。游戏共有五位各具特色的女主角：瑞妍、宥娜、多仁、校医和班主任。每位女主角都有各自的故事路线，并有多个受人工智能影响的结局。\n\n主要特色：\n- 无须安装或注册，可直接在浏览器中游玩。\n- 支持6种语言：韩语、英语、西班牙语、日语、法语、德语和葡萄牙语。\n- 内置画廊和好感度量表，可随时查看关系进展。\n\n官方网站：\nhttps://cupid.archerlab.dev",
+  "vndb_url": "https://vndb.org/v63964"
+}

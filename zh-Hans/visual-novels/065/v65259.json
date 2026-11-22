@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65259",
+  "type": "visual_novel",
+  "name": "Soft Launch",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Play as a new developer joining a small, slightly chaotic team at a game studio. Get to know your coworkers, settle into the job, and see where things might go.\n\n[From [url=https://bunnychloe.itch.io/soft-launch-demo]Itch.io[/url]]",
+  "source_sha256": "401356420ff857e9c25708bae9847a870b7776fb0159a1a0e67d1d49b32bc130",
+  "translation": "你将扮演游戏工作室新来的开发者，加入一个有点乱糟糟的小团队。认识一下同事们，慢慢熟悉手头的工作，看看接下来会有什么发展。\n\n［摘自[url=https://bunnychloe.itch.io/soft-launch-demo]Itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v65259"
+}

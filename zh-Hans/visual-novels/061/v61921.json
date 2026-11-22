@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61921",
+  "type": "visual_novel",
+  "name": "Telvoikai",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You've been tasked with collecting data on an alien planet. Choose between exploring the jungle tropics or navigating deep into the bioluminescent sea.\n\n[From [url=https://store.steampowered.com/app/2652740/Telvoikai/]Steam[/url]]",
+  "source_sha256": "c7cb1a829e27319053b65cf57fcf6d66e745e73118bd6733e2a05cc2610ed917",
+  "translation": "你受命前往一颗外星球收集数据。要探索热带丛林，还是潜入闪着生物荧光的深海？由你选择。\n\n［摘自[url=https://store.steampowered.com/app/2652740/Telvoikai/]Steam[/url]］",
+  "vndb_url": "https://vndb.org/v61921"
+}

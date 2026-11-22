@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64228",
+  "type": "visual_novel",
+  "name": "Second Memory",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a romance adventure game presented in an anthology format. The stories tackle the theme that \"love and romance are invisible and unpredictable things, but sometimes they become important issues\" .\n\n[Edited from TAKERU Press 1995-8/9]",
+  "source_sha256": "ab6a7fc4baa0ca14bcde693a45fa8fc1654194b5c5cdc9ff20e0573664b53783",
+  "translation": "这是一款以短篇合集形式呈现的恋爱冒险游戏。各篇故事围绕同一主题展开：“喜欢也好，恋爱也好，本是看不见、猜不透的东西，可有时偏能成了不起的大事。”\n\n［改编自1995年8／9月号《TAKERU Press》］",
+  "vndb_url": "https://vndb.org/v64228"
+}

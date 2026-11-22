@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60378",
+  "type": "visual_novel",
+  "name": "White Silence",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as Hale, a clerk stranded after the Terra Nova Expedition goes wrong. Each day, you choose how to survive. But the longer you last, the harder it becomes to tell what’s real – and what remains of you in the white.\n\n[From [url=https://quill-studio.itch.io/white-silence]Itch.io[/url]]",
+  "source_sha256": "56598f184365b54b1c6ab2c5bbdc4e9435298bd9301aa1b87457119aa8ebe23c",
+  "translation": "你将扮演文书黑尔。“新地号”探险出了岔子，你被困在此地。每一天，你都要决定如何活下去。可你撑得越久，就越难分清什么是真实，也越说不清这茫茫白色之中，自己还剩下些什么。\n\n［摘自[url=https://quill-studio.itch.io/white-silence]Itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v60378"
+}

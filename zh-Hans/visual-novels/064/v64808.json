@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64808",
+  "type": "visual_novel",
+  "name": "Aura of Gold",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Aura of Gold follows Elara, a young woman who experiences \nburnout while living in a large city. Following the death \nof her aunt Bella, she inherits a small stone house in the \nValley of Sun, a rural region in Italy.\n\nThe player guides Elara as she explores the valley, meets \nits residents, and gradually recovers. The game presents \nlow-stakes branching choices that influence the direction \nof the story.\n\nThe game features watercolor-style visuals generated with \nAI tools across approximately 70 illustrated scenes.",
+  "source_sha256": "0377d9b92aa11d566ccf76f8e29d6aa0b95de410e63160e22534cae79e25bf8b",
+  "translation": "《Aura of Gold》的主人公埃拉拉是一位年轻女子，在大城市的生活令她身心俱疲。姨妈贝拉去世后，她继承了意大利乡间阳光谷的一间小石屋。\n\n玩家将引导埃拉拉探索山谷，结识当地居民，看着她逐渐恢复精神。游戏中有多个影响故事走向的分支选择，无须承担太沉重的后果。\n\n游戏以水彩风格呈现约70个插画场景，画面使用人工智能工具生成。",
+  "vndb_url": "https://vndb.org/v64808"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60149",
+  "type": "visual_novel",
+  "name": "Poisoned Apple",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "With no past to remember, you live peacefully with your companions in the forest. But as beasts and nightmares emerge, how long can it truly last?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "6ee5d9b677762be462deda4d6add6c1114bd8caf2b4da880bc485accd90caf4e",
+  "translation": "你记不起自己的过去，和同伴们一起在森林里过着平静的生活。可当野兽和噩梦接连出现，这样的日子究竟还能持续多久？\n\n［摘自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian应用[/url]］",
+  "vndb_url": "https://vndb.org/v60149"
+}

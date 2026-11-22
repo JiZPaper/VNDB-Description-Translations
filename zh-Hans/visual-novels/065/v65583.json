@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65583",
+  "type": "visual_novel",
+  "name": "Wandering Relics",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Mina Drumarsstad, 1935. A city of Art Deco shadows where butterfly entities hold power over fate. You arrive as a stranger — but the city already knows your name. Three beings. Three natures: Enigma, Alpha, Omega. One choice that changes everything.",
+  "source_sha256": "be8fb07a72f1f79347ccf60826d4dbed17c7391a8f53aaff4ccac0eedfb8bb4b",
+  "translation": "1935年，米纳·德鲁马尔斯塔德。一座笼罩在装饰艺术风格阴影里的城市，蝴蝶般的生灵在这里掌控着命运。你初来乍到，这座城却已知道你的名字。三个存在，三种天性：Enigma、Alpha、Omega。一个足以改变一切的选择。",
+  "vndb_url": "https://vndb.org/v65583"
+}

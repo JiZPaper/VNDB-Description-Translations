@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65131",
+  "type": "visual_novel",
+  "name": "Detective INNA DUKE",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Detective Inna Duke is a noir story-driven visual novel where you team up with lieutenant Inna Duke and her partner corporal Fernal to investigate the mysterious abduction of the popular streamer Oleh Hamston. But will you manage to track down the poor hamster in rainy city?",
+  "source_sha256": "fd71c662024ecd4ce0946c84ec3164deaf0455408dfb3c0ddfda580ddb7d351d",
+  "translation": "《Detective INNA DUKE》是一部以叙事为主的黑色侦探视觉小说。你将与伊娜·杜克警督和她的搭档警察下士费尔纳尔联手，调查人气主播奥列赫·哈姆斯顿神秘遭绑架的案件。在这座阴雨绵绵的城市里，你们能找到那只可怜的仓鼠吗？",
+  "vndb_url": "https://vndb.org/v65131"
+}

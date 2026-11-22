@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59399",
+  "type": "visual_novel",
+  "name": "Unholy Confessions",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Unholy Confessions is a romantic and supernatural visual novel where you can explore a tiny church in the middle of nowhere and meet its tennants. Everything is not what it seems, so be careful to not fall for into the clutches of the beasts.",
+  "source_sha256": "bb54c0874082ecd64925f32abc6b6f754766df26d277c7e2dc349168955e7edb",
+  "translation": "《Unholy Confessions》是一部超自然恋爱视觉小说。你可以探索一座坐落在荒郊野外的小教堂，认识住在里面的人。事情并不像表面看上去那样，当心别落进野兽的爪子里。",
+  "vndb_url": "https://vndb.org/v59399"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63860",
+  "type": "visual_novel",
+  "name": "Valentine Kyousoukyoku",
+  "original_name": "バレンタイン狂想曲",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Kei is a boy who is in love with his childhood friend, Kakinuma Tadashi.\nHe's secretly anxious about the large amount of chocolate Tadashi receives every year.",
+  "source_sha256": "bb2c5824e39c83592b21c73932c6c384bf2b9da86c7dcb44d785fc56871490aa",
+  "translation": "启喜欢上了自己的竹马垣沼忠司。\n每年，看到他收到那么多巧克力，启都会暗自不安。",
+  "vndb_url": "https://vndb.org/v63860"
+}

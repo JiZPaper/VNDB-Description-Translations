@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60265",
+  "type": "visual_novel",
+  "name": "Into the Mist",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Welcome to Eldergrove – a small town shrouded in mist, where magic weaves through everyday life. Following the trail of your best friend, Mistral, you arrive with a seemingly simple task: selling herbs to the townsfolk. But Eldergrove is not as peaceful as it appears…",
+  "source_sha256": "cd5b862bc2d12f542fc6d9c13c165d344ec2a50b7b0fbe8ac58944e9189f9a63",
+  "translation": "欢迎来到古林镇。这座小镇终年雾气笼罩，魔法穿行在人们的日常生活之中。你循着挚友米斯特拉尔的足迹来到这里，手头的差事看似简单：向镇民出售草药。可古林镇远没有表面上那么平静…",
+  "vndb_url": "https://vndb.org/v60265"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66958",
+  "type": "visual_novel",
+  "name": "Alice on Delivery",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Alice on Delivery is a bespoke, hand-drawn delivery game that follows Alice through a magical realm full of whimsical characters and mysterious intrigue. Sit back and relax as you explore the city, befriend and uncover the secrets of the residents, and become the Heartlier's best post office worker!",
+  "source_sha256": "d2ea3cd795ec26dd37c9341ec8d72c898bf8f28fa43b55a79e9d43d856c53a99",
+  "translation": "《Alice on Delivery》是一款专门手绘打造的送件游戏。跟随爱丽丝穿过这片神奇的国度，见识形形色色的古怪人物与神秘阴谋。放松身心，探索城市，与居民交上朋友，揭开他们的秘密，成为哈特利尔最出色的邮局员工！",
+  "vndb_url": "https://vndb.org/v66958"
+}

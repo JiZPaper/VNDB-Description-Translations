@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63254",
+  "type": "visual_novel",
+  "name": "Utro s Ul'jankoj",
+  "original_name": "Утро с Ульянкой",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a short slice-of-life story from one of Semyon's many loops at the camp. It focuses on a conflict between our protagonist and the energetic, restless Ulyana.",
+  "source_sha256": "4d433e104d0a53850d3bcf384468430f9c15927a2d8eddbb1c23daf9f2cab1f0",
+  "translation": "这是谢米扬在夏令营的无数次轮回中，发生在其中一次的一段日常小故事。故事围绕主角与精力充沛、片刻也闲不住的乌里扬娜之间的一场冲突展开。",
+  "vndb_url": "https://vndb.org/v63254"
+}

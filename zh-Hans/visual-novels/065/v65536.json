@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65536",
+  "type": "visual_novel",
+  "name": "Tokyo Freaks",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Akira can steal your soul without ever laying a hand on you. In rain-soaked Neo-Tokyo, he is the “Voice” of the Unholy Three, forging digital lies that kill. Bound to Kenji—the child-bodied mastermind—and Goro, the brutal cybernetic enforcer, he cannot escape. But as their empire rises from Akihabara’s shadows to Roppongi’s bloodlit towers, his conscience begins to fracture. In a city of manufactured truth, finding your own voice might be the deadliest mistake of all.",
+  "source_sha256": "4c0ecaca43363c8cdaaf59bc5a888cc40d06867edcab6421e6b9c880eeb926bb",
+  "translation": "Akira连碰都不用碰你一下，就能偷走你的灵魂。在大雨浸透的新东京，他是邪恶三人组的“声音”，编造足以杀人的数字谎言。童身的幕后主谋Kenji、手段残暴的义体执行者Goro，都和他绑在一起，他无法脱身。他们的帝国从秋叶原的阴影里崛起，直抵六本木血光映照的高楼，他的良知也开始出现裂痕。在这座连真相都是制造出来的城市里，说出自己的声音，也许才是最致命的错误。",
+  "vndb_url": "https://vndb.org/v65536"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59373",
+  "type": "visual_novel",
+  "name": "Duo Storia",
+  "original_name": "デュオストーリア",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Neshika, a “Creation Magician” who can transmute mana into matter, travels the world with her younger brother Elmano, a self-proclaimed “genius alchemist.”\nHowever, Elmano, who is supposed to be a genius, fails at a spell and accidentally crystallizes part of his power.\n\nTheir adventure continues as the sister and brother seek the scattered fragments of Elmano across the world caused by the runaway magic.",
+  "source_sha256": "817e0784a6b3d098ff40e89babe01536e9bed5b9eba6ed0d3b0b2084c404132c",
+  "translation": "妮希卡是一名“创造魔法师”，能够将魔力转化为物质。她与自称“天才炼金术师”的弟弟埃尔马诺周游世界。\n谁知这位自诩天才的弟弟施法失败，竟不小心让自己的一部分力量结成了晶体。\n\n失控的魔法使埃尔马诺的碎片散落到世界各处。为了找回它们，姐弟俩的冒险仍将继续。",
+  "vndb_url": "https://vndb.org/v59373"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63170",
+  "type": "visual_novel",
+  "name": "Jay In The Frame",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You and your childhood friend/girlfriend have been dating for about a year now when suddenly you meet a new photographer who just moved to town. What could ever go wrong?",
+  "source_sha256": "096a67801b79d6ef931cf62867cf12a094fa710d05484a278c963da923303b43",
+  "translation": "你和青梅竹马的女朋友已经交往了大约一年，忽然有一天，你们遇到一位刚搬来镇上的摄影师。这能出什么岔子呢？",
+  "vndb_url": "https://vndb.org/v63170"
+}

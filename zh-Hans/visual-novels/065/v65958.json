@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65958",
+  "type": "visual_novel",
+  "name": "Natsu Matsuri",
+  "original_name": "夏祭り技術",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Spend a festival night with your best friend in this small technical demo! There are different paths to choose, with different consequences. How would you enjoy a festival if you were back to 5th or 6th grader with your best friend?",
+  "source_sha256": "9e9a10713c61f435392458b238dd5520bc8c81452129496d07524cb763fced12",
+  "translation": "在这个小小的技术演示里，与最要好的朋友共度一个祭典之夜！你可以选择不同的路线，迎来不同的结果。如果回到小学五六年级，和好朋友一起逛祭典，你想怎么玩？",
+  "vndb_url": "https://vndb.org/v65958"
+}

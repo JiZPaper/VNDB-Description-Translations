@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59928",
+  "type": "visual_novel",
+  "name": "retrospect",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The story begins when a girl named Nayu comes to visit Subaru, an Onmyoji.\n\nNayu asks Subaru to mourn four ghosts who are her friends and family. The player will enter Subaru's point of view and trace the memories of the ghosts in the process of mourning.\n\n[Taken from Steam]",
+  "source_sha256": "3aa4fb66b84d516d053678cbefacd35e14147385ed4ee763feac33f4093af70b",
+  "translation": "故事始于一位名叫Nayu的少女前去拜访阴阳师Subaru。\n\nNayu请求Subaru吊唁四个幽灵，他们都是她的亲友。你将从Subaru的视角出发，在悼念的过程中沿着这些幽灵留下的记忆回溯往昔。\n\n［摘自Steam］",
+  "vndb_url": "https://vndb.org/v59928"
+}

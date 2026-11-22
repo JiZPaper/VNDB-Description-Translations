@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61044",
+  "type": "visual_novel",
+  "name": "Uno Game",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A pseudo sequel to Uno DX about a nameable protagonist joining an Uno tournament and defeating a wide variety of quirky opponents.",
+  "source_sha256": "999db683df81225f2ce00c269b689aeee03dd980c049b70b894b9ede55c0c6cc",
+  "translation": "本作可以算是《UNO DX》的续篇。你可以为主人公起名，看主人公参加一场UNO大赛，打败形形色色、个性古怪的对手。",
+  "vndb_url": "https://vndb.org/v61044"
+}

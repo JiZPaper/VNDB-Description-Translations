@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66530",
+  "type": "visual_novel",
+  "name": "Dorogaya Alisa 2",
+  "original_name": "Дорогая Алиса 2",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "After a failed attempt to escape with Alisa, Semyon is stuck in \"Sovyonok\" for many years, but eventually escapes to meet one of his versions.",
+  "source_sha256": "a351c235df1ff59d0c8f008c0b9010e861356a7de08e9f345eda83d7e2e9ed99",
+  "translation": "与艾丽莎一同逃离的尝试失败后，谢苗困在“小猫头鹰”许多年，最终才逃了出来，与另一个版本的自己相遇。",
+  "vndb_url": "https://vndb.org/v66530"
+}

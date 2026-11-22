@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63361",
+  "type": "visual_novel",
+  "name": "Being Dead Simulator",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Have you ever wondered how it is to be dead?\n\nThis great simulator will let you experience that, which would normally be out of human's reach.\n\nNot only does it simulate the state of being dead, but also some (as for now) possible scenarios that may occur while being burried underground.\n\n[From [url=https://gamejolt.com/games/being-dead-simulator/30204]Game Jolt[/url]]",
+  "source_sha256": "0084a72c0193d32d33b7f505cad24cd585a32568ff2ffdd48581bf25cba4da5b",
+  "translation": "你想过死了是什么感觉吗？\n\n这款超棒的模拟器能让你体验到这种通常超出人类体验范围的事。\n\n它既模拟了死亡状态，也模拟了（就目前而言）被埋在地下时可能发生的几种情形。\n\n［摘自[url=https://gamejolt.com/games/being-dead-simulator/30204]Game Jolt[/url]］",
+  "vndb_url": "https://vndb.org/v63361"
+}

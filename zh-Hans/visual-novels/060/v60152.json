@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60152",
+  "type": "visual_novel",
+  "name": "The Plague",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Her father's life hangs by a thread. A stranger in a mask may hold the cure… or the dagger.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "30fa3efb04a838b99db4de5655609240bbf142e50eaf6afdb3bf93017ed89358",
+  "translation": "她的父亲命悬一线。那蒙面陌生人手里握着的，或许是解药…也可能是匕首。\n\n［摘自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian应用[/url]］",
+  "vndb_url": "https://vndb.org/v60152"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65128",
+  "type": "visual_novel",
+  "name": "Pjatnica trinadcatoe",
+  "original_name": "Пятница тринадцатое",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Kamil tells an urban legend about the school and Jason Voorhees. Sveta doesn’t believe a word of it. Will you survive — or become a ghost yourself?",
+  "source_sha256": "973872604aae7fab3eeeda8a5b3158c670bd1e716c1fdcb3ad20308cc0046618",
+  "translation": "卡米尔讲了个都市传说，说的是这所学校和杰森·沃赫斯的事。斯韦塔一个字都不信。你能活下来吗？还是说，你自己也会变成鬼？",
+  "vndb_url": "https://vndb.org/v65128"
+}

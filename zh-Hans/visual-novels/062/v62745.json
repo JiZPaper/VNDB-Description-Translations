@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62745",
+  "type": "visual_novel",
+  "name": "Blind",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short visual novel for NaNoRenO 2020.\n\nSomeone wakes with no memory and can't move their body or see anything. They try to understand who they are while the trauma of their past catches up to them.\n\nInspired by PSX sound novels with very little art but instead a focus on sound effects and music to build atmosphere.\n\n[From [url=https://773tk.itch.io/blind]itch.io[/url]]",
+  "source_sha256": "014885b64868fa06ebd55c623d45dc29872859ffd8a8e092877239360bf89f63",
+  "translation": "为NaNoRenO 2020制作的短篇视觉小说。\n\n一个人醒来后失去了记忆，身体动弹不得，眼前也什么都看不见。此人试图弄清自己究竟是谁，而过去的创伤也追了上来。\n\n本作的灵感来自初代PlayStation上的有声小说，画面很少，主要靠音效与音乐营造氛围。\n\n［摘自[url=https://773tk.itch.io/blind]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v62745"
+}

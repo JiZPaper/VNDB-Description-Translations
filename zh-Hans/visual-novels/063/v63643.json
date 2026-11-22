@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63643",
+  "type": "visual_novel",
+  "name": "EULA ~2026 Inryu Changjak Bogoseo~",
+  "original_name": "EULA ~2026 인류 창작 보고서~",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel that asks whether Al-generated art is really yours.\n\nYour wrist is shot, your posts get hate instead of likes, nothing you draw\nfeels right ...\nThen a friend recommends HumbleAl to you.\n\"Maybe just use it as a helper tool?\"\n\nThe terms of service appear on screen.\n[Agree] - your cursor hovers over the button.\n\nTo not fall behind: [Agree]\nTo not give in: [Refuse]\n\nOrganic: Hand-drawn by the creator.\nAl: Generated in a single click.\nOne story splits into two worlds.\n\n[From [url=https://www.moeater.com/eula?lang=en]official website[/url]]",
+  "source_sha256": "5979a814766d4ef860ffdfc14eb9e0c1404d8bac2d42ff056a4a10741f246b57",
+  "translation": "一部追问“AI生成的艺术真的属于你吗”的视觉小说。\n\n手腕已经废了，发出去的帖子没人点赞，反而招来一堆恶意。无论画什么，\n都觉得哪里不对…\n这时，有个朋友把HumbleAI推荐给了你。\n“要不，就拿它当个辅助工具？”\n\n服务条款出现在屏幕上。\n［同意］——鼠标指针悬在按钮上。\n\n为了不落后：［同意］\n为了不屈服：［拒绝］\n\n人工创作：创作者亲手绘制。\nAI创作：轻轻一点，即可生成。\n同一个故事，就此分成两个世界。\n\n［摘自[url=https://www.moeater.com/eula?lang=en]官方网站[/url]］",
+  "vndb_url": "https://vndb.org/v63643"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59031",
+  "type": "visual_novel",
+  "name": "Fallen",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short visual novel about the events leading up to Cherub becoming a fallen angel, and about the human that set it all in motion.\n\n[From [url=https://cheruboki.itch.io/fallen] Itch.io[/url]]",
+  "source_sha256": "bd21db04494df159048a978cd27a1fad95f0f0026ff89b51f64c8426f6fa8c4d",
+  "translation": "基路伯是如何一步步成为堕天使的？又是怎样一个人类让这一切开始的？这部短篇视觉小说讲述的就是他们的故事。\n\n［摘自[url=https://cheruboki.itch.io/fallen]Itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v59031"
+}

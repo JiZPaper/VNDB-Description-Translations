@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65642",
+  "type": "visual_novel",
+  "name": "Once Upon a Naked Nightmare",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A woman has a nightmare about a wardrobe malfunction during a fishing trip.",
+  "source_sha256": "eadde556460780e5b7559bd558476b7ef114cc100b09c2ab97e6b1e0b0d2fc1f",
+  "translation": "一个女人做了场噩梦，梦见自己在钓鱼途中因为衣服出了岔子而走光。",
+  "vndb_url": "https://vndb.org/v65642"
+}

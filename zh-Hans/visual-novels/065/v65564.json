@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65564",
+  "type": "visual_novel",
+  "name": "Potato Chip Quest",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are some mage named Rumex who got transported into some normal earth town so your magic doesnt work but who fuicking cares, you just want some delicious potato chips.",
+  "source_sha256": "7de02ff6e97bc099cab42b4a05c15429c4a67abec790c8da30611bb92f626305",
+  "translation": "你是个叫鲁梅克斯的法师，莫名其妙被传送到地球上一座再普通不过的小镇，魔法也使不出来了。可谁他妈在乎啊，你就想吃点好吃的薯片。",
+  "vndb_url": "https://vndb.org/v65564"
+}
