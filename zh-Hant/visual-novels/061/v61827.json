@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61827",
+  "type": "visual_novel",
+  "name": "Cascade Theater",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A somber story with branching narratives following a guilt-ridden Phoenix Wright after the death of Maya Fey.",
+  "source_sha256": "55d0a6665fb1f88130fbcef4609642153add81ef8e9a9412fa8e1e739535a3dc",
+  "translation": "綾裡真宵死後，成步堂龍一深陷愧疚。這個沉重的故事沿著不同的敘事分支，講述他此後的經歷。",
+  "vndb_url": "https://vndb.org/v61827"
+}

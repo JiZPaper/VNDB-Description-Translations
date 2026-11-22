@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55849",
+  "type": "visual_novel",
+  "name": "Mandatory Fun",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You play as an 18-year-old conscript in the Finnish army. You meet new people, learn new rules, and try to get through it. The game contains comedy, romance, and drama.",
+  "source_sha256": "993857a393656b0a3c0c30119fbb96f00330b0d4780748db7827d63b4cdf9bc7",
+  "translation": "你是一名在芬蘭軍隊服義務兵役的18歲青年。認識新朋友，學習新規矩，努力熬過去。遊戲包含喜劇、戀愛與戲劇性的情節。",
+  "vndb_url": "https://vndb.org/v55849"
+}

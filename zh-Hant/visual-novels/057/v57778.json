@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57778",
+  "type": "visual_novel",
+  "name": "Texting a Tiger Shark",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A mysterious app installs itself on your phone... What does the sender want? Are they even the ones responsible?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "f2844407c0e519c9ceafd113e087981764513a9cec5805351e305118e5dc3aee",
+  "translation": "你的手機自行安裝了一款神祕的App……發信人究竟想要什麼？這事當真是對方做的嗎？\n\n［摘自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian App[/url]］",
+  "vndb_url": "https://vndb.org/v57778"
+}

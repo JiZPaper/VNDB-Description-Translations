@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53446",
+  "type": "visual_novel",
+  "name": "Higurashi no Naku Koro ni - Kuradashi-hen",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Fan visual novel adapting the light novel Higurashi no Naku Koro ni - Kuradashi-hen, originally released in June 2007.\n\nContains a collection of short scenes written during the creation of Higurashi but ultimately discarded during the writing process, along with author commentary and illustrations courtesy of the Higurashi manga artists.",
+  "source_sha256": "577d916663c90ad07fb2fff0933115bbfe2f2cacdb03730bfd330638203aaa22",
+  "translation": "一部改編自輕小說《暮蟬悲鳴之時 藏出篇》的同人視覺小說，原作於2007年6月首次出版。\n\n書中收錄了創作《暮蟬悲鳴之時》期間寫下、最終卻在寫作過程中捨棄的多個短篇場景，另外還有作者解說和《暮蟬悲鳴之時》漫畫作家們繪製的插圖。",
+  "vndb_url": "https://vndb.org/v53446"
+}

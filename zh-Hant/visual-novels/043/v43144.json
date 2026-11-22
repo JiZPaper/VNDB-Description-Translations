@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43144",
+  "type": "visual_novel",
+  "name": "Yordle Party",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Based on fuzzy characters from a certain MOBA game.\n\nYou are a young yordle, a fae creature that usually resembles bipedal woodland mammals trying to discover his place in the worlds..\n\n[From [url=https://mousecat.itch.io/yordleparty]Itch.io[/url]]",
+  "source_sha256": "b3c93b01d0ea78b80d98b0660caba44e0ea477e872cfe7bd50a19e35fcf1ac59",
+  "translation": "以某款MOBA遊戲中毛茸茸的角色為原型。\n\n你是一名年輕的約德爾人。這種精靈生物通常長得像用兩條腿行走的森林哺乳動物。你正試著尋找自己在世界中的位置……\n\n[摘自[url=https://mousecat.itch.io/yordleparty]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43144"
+}

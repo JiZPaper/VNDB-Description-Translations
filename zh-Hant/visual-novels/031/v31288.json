@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31288",
+  "type": "visual_novel",
+  "name": "Grumpy Librarian",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Welcome!\n\nYou are the new assistant librarian at the Library at the University of Esoteric and Occult Accademia. Your task is to in a “helpful” and “friendly” manner keep customers from taking out the books by referring to the (possibly cursed) Book of Library Rules.\n\nThis visual narrative / kafkaesque game is around 20 minutes long, features 7 quirky  library patrons and will definitely ruin your afternoon. Don't make a cup of tea and don't cuddle up with your cat!\n\nAnd please do not try to check out the Forbidden books.",
+  "source_sha256": "c08cef81ade199739a1733de648a218f99aad457f8a07334b2cc5aad82c451c5",
+  "translation": "歡迎！\n\n你是秘學與神秘學大學圖書館新來的助理館員。你的任務，是參照那本可能遭到詛咒的《圖書館規章》，以「樂於助人」和「友善」的態度，阻止讀者把書借走。\n\n這款視覺敘事／卡夫卡式遊戲，約需20分鐘，有七位古怪的圖書館讀者，而且絕對會毀掉你的下午。別泡茶，也別抱著貓窩下來！\n\n還有，請不要試圖借閱禁書。",
+  "vndb_url": "https://vndb.org/v31288"
+}

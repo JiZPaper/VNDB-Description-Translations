@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61485",
+  "type": "visual_novel",
+  "name": "friday night",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "after a long day of work, a young game dev has to return home at night, haunted by the heaviness of her work and personal life.\n\nduring this short trip, she will reflect on various issues with her life, leading her to one choice: going home or leaving.\n\n[From [url=https://rinkaku.itch.io/friday-night]itch.io[/url]]",
+  "source_sha256": "1cf8cdb607d42e62e7e9ec3a8e49a5ab8fc2ee7370fc72928fe9e00b9385df23",
+  "translation": "忙了一整天，一位年輕的遊戲開發者不得不趁夜回家。工作與私生活的重擔始終壓在她心頭。\n\n在這段短短的路上，她會回想生活中的種種難題，最後面對一個選擇：回家，還是離開。\n\n［摘自[url=https://rinkaku.itch.io/friday-night]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v61485"
+}

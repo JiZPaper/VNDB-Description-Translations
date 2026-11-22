@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58028",
+  "type": "visual_novel",
+  "name": "Children of Terra",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Children of Terra is a visual novel set in the universe of the game Final Fantasy IX. The first half of the game will tell the story of the inhabitants of the dying planet Terra, while the second half is devoted to the events on Gaia one year after the conclusion of Final Fantasy IX. Both parts of the story are interconnected, and the plot is presented in a manner that will be comprehensible even to those unfamiliar with the original game.",
+  "source_sha256": "1b0e4df50140aaff12e6e6e14623ac2b097242ca8ab765b2026d4ca48673a9bf",
+  "translation": "《Children of Terra》是一部以《太空戰士9》的世界為背景的視覺小說。前半部講述了垂死星球泰拉上居民們的故事，後半部則聚焦於《太空戰士9》結局一年後蓋亞發生的事件。兩部分相互關聯，即使沒玩過原作，也能看懂這裡的故事。",
+  "vndb_url": "https://vndb.org/v58028"
+}

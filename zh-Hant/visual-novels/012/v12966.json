@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12966",
+  "type": "visual_novel",
+  "name": "L's Difficult Successors",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The player controls L. The goal is to convince Mello and Near to be intimate with each other before Watari comes back to the room. Their level of intimacy will be displayed in the shape of empty hearts (initially), that will be eventually filled as their attraction for each other raises. The more you manage to make Mello and Near attracted to each other, the further they will accept to go.\n\n[From [url=http://web.archive.org/web/20110823093531/http://www.cursedmoons.com/fan/game/successors/]Cursed MoonS[/url]]",
+  "source_sha256": "d4cba9d234d4e288aa640869e2c3657af43499ac28b76e4445452ffea0bd6be4",
+  "translation": "玩家將扮演L，設法在渡回到房間之前，說服梅洛和尼亞與彼此親近。兩人的親密度以心形圖示顯示。起初這些心都是空的，隨著雙方的好感上升，它們也會逐漸填滿。你越能讓兩人彼此吸引，他們就越願意讓關係更進一步。\n\n［摘自[url=http://web.archive.org/web/20110823093531/http://www.cursedmoons.com/fan/game/successors/]Cursed MoonS[/url]］",
+  "vndb_url": "https://vndb.org/v12966"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60127",
+  "type": "visual_novel",
+  "name": "Codebreak",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You are new at SwifTech University, eager to start this new chapter of your life... but something strange is happening on campus. Students are facing a corrupting computer virus.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "d9f0c9cf605a43c20288df365b476ba2d2c8bde5838637f241395891bbfac8f4",
+  "translation": "你剛進入斯威夫科技大學，滿心期待地翻開人生的新篇章……可校園裡正發生著怪事。學生們面臨著一種能造成侵蝕的電腦病毒。\n\n［摘自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian App[/url]］",
+  "vndb_url": "https://vndb.org/v60127"
+}

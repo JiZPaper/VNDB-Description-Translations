@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53585",
+  "type": "visual_novel",
+  "name": "The Five Sided Triangle",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "In the distant future, a political meeting is the target of a string of successive murders. Will the culprit be found out? \nCurrently only 1 chapter has been released. A second has been confirmed to be in production.",
+  "source_sha256": "4f7b31e462f2cdfb42c6d9b261ab58341d34eadbee181dcdc184e417d601e652",
+  "translation": "在遙遠的未來，一場政治會議成了連環謀殺的目標。兇手會被揭穿嗎？\n目前只發布了第一章，第二章已確認在製作中。",
+  "vndb_url": "https://vndb.org/v53585"
+}

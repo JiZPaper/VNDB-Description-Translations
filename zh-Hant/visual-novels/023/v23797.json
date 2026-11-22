@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23797",
+  "type": "visual_novel",
+  "name": "Unfamiliar",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Unfamiliar is a visual novel/click-through game that attempts to show the affects Alzheimer's on a family.\n\n[From [url=https://kovakomes.itch.io/unfamiliar] itch.io[/url]]",
+  "source_sha256": "4b1aee1fc445b19f090d1164ac2072a2f24c18675d38e8dbecae7e0dbd4d00e9",
+  "translation": "《Unfamiliar》是一款視覺小說／點擊式遊戲，試圖展現阿茲海默症對一個家庭造成的影響。\n\n（來源：[url=https://kovakomes.itch.io/unfamiliar]itch.io[/url]）",
+  "vndb_url": "https://vndb.org/v23797"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25233",
+  "type": "visual_novel",
+  "name": "The Story of My Life",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The Story of My Life is a kinetic visual novel that explores the life of Noah. From his tween years into young adulthood, dealing with love, loss, and his mental health.\n\n[From [url=https://store.steampowered.com/app/917610/]Steam[/url]]",
+  "source_sha256": "0827a7526361521f120a927342ae0a41eeb0046adb970cfada5996bf33955544",
+  "translation": "《我的人生故事》是一部無選項視覺小說，探索諾亞的一生：從少年時期到成年，經歷愛情、失去與心理健康問題。\n\n[來源：[url=https://store.steampowered.com/app/917610/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v25233"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29969",
+  "type": "visual_novel",
+  "name": "Doll Recollect",
+  "original_name": "ドールリコレクト",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A young girl named Barako ends up trapped in a mansion with eleven magic dolls, with a size and anatomy different to humans in order to play a death game where each murder will put the life of one of Barako's three friends on the line.",
+  "source_sha256": "608266a38bab4aaf60763b94924b8b83bb1649a3f2212fb632fa8e5056dc5b7a",
+  "translation": "名叫Barako的少女，被困在一座宅邸裡，與十一具體型和身體構造都與人類不同的魔法人偶，展開死亡遊戲。每發生一次謀殺，Barako的三位朋友裡，就有一人會有生命危險。",
+  "vndb_url": "https://vndb.org/v29969"
+}

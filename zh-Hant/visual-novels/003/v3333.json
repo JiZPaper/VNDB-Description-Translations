@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3333",
+  "type": "visual_novel",
+  "name": "Disgaea Infinite",
+  "original_name": "ディスガイア インフィニット",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A visual novel based on the [url=http://en.wikipedia.org/wiki/Disgaea]Disgaea[/url] RPG series. The story shares many characters with the games, but focuses on a Prinny trying to solve a murder mystery.",
+  "source_sha256": "d1bad35ab87f4c183c6e223a3951b275da839a2a72337671b3203c56d94df0b7",
+  "translation": "一部以[url=http://en.wikipedia.org/wiki/Disgaea]《魔界戰記》[/url]RPG系列為基礎的視覺小說。故事沿用遊戲中的許多角色，但主角則是一隻試圖解開謀殺案之謎的普利尼。",
+  "vndb_url": "https://vndb.org/v3333"
+}

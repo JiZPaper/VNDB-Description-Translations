@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46864",
+  "type": "visual_novel",
+  "name": "Fatal Paws",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A visual novel with dark humor, turn based combat, and stat building. Experience the fatal strength in companionship and the emotional bond that can come from it.\n\n[From [url=https://store.steampowered.com/app/1807600/]Steam[/url]]",
+  "source_sha256": "d8852893eb3877f9062bcac2ea4e14a3e1a15c52973c65cb8d89cc3c30c57040",
+  "translation": "一部融合黑色幽默、回合制戰鬥與屬性養成的視覺小說。體會同伴之情所蘊含的致命力量，以及由此生出的情感羈絆。\n\n［摘自[url=https://store.steampowered.com/app/1807600/]Steam[/url]］",
+  "vndb_url": "https://vndb.org/v46864"
+}

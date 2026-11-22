@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51988",
+  "type": "visual_novel",
+  "name": "The Whispers Forest",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A visual novel of mystery and horror about a post-life supernatural journey.",
+  "source_sha256": "ac60ffa1a258dc496c0d044ab9092db85a847c855ddda2db9128c46106c4100f",
+  "translation": "一部懸疑恐怖視覺小說，講述一段死後的超自然旅程。",
+  "vndb_url": "https://vndb.org/v51988"
+}

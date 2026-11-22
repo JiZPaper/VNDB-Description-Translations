@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15884",
+  "type": "visual_novel",
+  "name": "Kachiku Oji-san ~Oji-san o Kau Koto ni Shita~",
+  "original_name": "家畜おじさん ～おじさんを飼うことにした～",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "By the telephone pole a guy had been abandoned.\nHe was hurt so I took pity on him.\nI thought, I should take him home with me.\nBut in order not to anger Uncle, I had to keep him in secret.\n\n[Translated from the official site]",
+  "source_sha256": "7bf362351c71d7b8941681ed656a5300bdcdd6fc19727c60c67dfef53ba81c1b",
+  "translation": "電線桿旁丟著一個男人。\n他受了傷，我同情他。\n我想，應該把他帶回家。\n但為了不惹叔叔生氣，我必須把他藏起來。\n\n［譯自官方網站］",
+  "vndb_url": "https://vndb.org/v15884"
+}

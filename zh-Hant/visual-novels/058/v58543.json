@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58543",
+  "type": "visual_novel",
+  "name": "Dancing with Shadows",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Dahlia, a witch with unmatched cunning, hunts the arcane and bends mortals to her will. Only the brave – or the clever – can navigate her schemes, uncover ancient secrets, and survive the crypt’s deadly embrace.",
+  "source_sha256": "8b47e55b7745ec13dd107a224b068ef6c436a91dc9bd0e4a3be0ed5170c84282",
+  "translation": "達莉婭是個狡黠無人能及的女巫，四處追獵奧秘，迫使凡人服從她的意志。唯有勇敢的人——或是聰明的人——才能周旋於她的算計之間，揭開古老秘密，從墓穴致命的懷抱中活著出來。",
+  "vndb_url": "https://vndb.org/v58543"
+}

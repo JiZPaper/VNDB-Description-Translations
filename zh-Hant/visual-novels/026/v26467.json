@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26467",
+  "type": "visual_novel",
+  "name": "Noonday Descent: The Path of Listlessness and Torpor",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A satiric epistolary visual novel about three Noonday Demons giving advice to a new member of their ministry. They work together to teach her the only thing they know: how to tempt humans and damn souls efficiently.",
+  "source_sha256": "baee9218a4f14207ead2befd7336c18c44e9e876fef546d0f0b7f5ea7e15ad22",
+  "translation": "一部帶有諷刺意味的書信體視覺小說，講述三名正午惡魔向部門裡一位新成員傳授經驗的故事。它們合力教她一件事，也是牠們唯一擅長的事：如何有效率地誘惑人類，讓靈魂墮入地獄。",
+  "vndb_url": "https://vndb.org/v26467"
+}

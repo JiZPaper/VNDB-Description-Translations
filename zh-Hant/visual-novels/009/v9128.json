@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9128",
+  "type": "visual_novel",
+  "name": "Water's Edge",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A traumatic incident in his childhood has left Mizutani Nagisa with an irrational fear of water. When storms afflict the neighborhood he stays in for a full week, his occasional nightmares begin to plague him every single night -- until one day he finds himself stranded in his school building, which is slowly filling up with water...",
+  "source_sha256": "4138455864bcfdc6c2a98f295a64e99bb3ed9320729976da90b2f0edde9810ad",
+  "translation": "童年時的一場創傷事件，讓水谷渚患上了毫無道理可言的恐水症。當暴風雨連續一週侵襲他居住的地區後，原本偶爾出現的惡夢開始夜夜糾纏著他——直到某一天，他發現自己被困在校舍裡，水位正緩緩上漲……",
+  "vndb_url": "https://vndb.org/v9128"
+}

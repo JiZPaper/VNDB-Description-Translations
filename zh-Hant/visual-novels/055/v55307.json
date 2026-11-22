@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55307",
+  "type": "visual_novel",
+  "name": "Mystery Invitation",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A girl name Julieta gets a Msytery Invitaiton to the Mansion. So dose here friends. They go..but there's a dark secret.",
+  "source_sha256": "0db148a502fb1d0ccf0fa822672cada82564dcb345b9bb693d445669a2b24d28",
+  "translation": "一個叫朱麗葉塔的女孩收到了一封邀她前往宅邸的神秘請柬。她的朋友們也收到了。他們去了……可那裡藏著一個黑暗的秘密。",
+  "vndb_url": "https://vndb.org/v55307"
+}

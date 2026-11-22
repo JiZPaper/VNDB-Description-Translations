@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50397",
+  "type": "visual_novel",
+  "name": "Last Lunatic Rondo",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "In a town cursed to hold a Werewolf Game each century,\n\nEstranged father discovers that his son is a Werewolf, \n\nand decides to play the role of Traitor.",
+  "source_sha256": "a6e176e12aeed8899d3641900fde7a593c5f208a84cfe9e11b5cdf3c00baaf12",
+  "translation": "在一座受詛咒、每隔百年便要舉行一次狼人遊戲的小鎮上，一個早已和兒子疏遠的父親發現，兒子的身分是狼人。於是，他決定來當那個叛徒。",
+  "vndb_url": "https://vndb.org/v50397"
+}

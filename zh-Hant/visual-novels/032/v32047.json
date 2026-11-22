@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32047",
+  "type": "visual_novel",
+  "name": "Guardian Angel",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "As an ex-special forces soldier, a brash, rich, playboy artist wants to hire you as his personal bodyguard. What's more, you're feeling drawn closer to the widowed husband of your former commander.",
+  "source_sha256": "286b1eb2e2b7153e7372711899da6714ea9020463fef69efbd56b51033d4131b",
+  "translation": "你是一名退役特種部隊成員。一位張揚富有、風流成性的藝術家想聘請你做他的私人保鏢。與此同時，你也漸漸被已故前任指揮官的丈夫所吸引。",
+  "vndb_url": "https://vndb.org/v32047"
+}

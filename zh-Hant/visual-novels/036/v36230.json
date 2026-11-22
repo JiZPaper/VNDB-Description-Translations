@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36230",
+  "type": "visual_novel",
+  "name": "Buried Desires",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Mc, who quit teaching for a while due to a traumatic incident at his old school,\nand then he is offered a job in the country's most prestigious school.How are you going to keep up with this new school?\nAccording to the choices you make, you will face the consequences.",
+  "source_sha256": "d602604e4fdd91170faf189bcfa77a46a3a30c4f324b0afb19ac11f2724056f3",
+  "translation": "主角因在原來的學校經歷了一起創傷事件，暫時離開了教職。\n之後，他收到了全國最負盛名的學校發來的工作邀約。你將如何適應這所新學校？\n你所做的每一個選擇，都將帶來相應的後果。",
+  "vndb_url": "https://vndb.org/v36230"
+}

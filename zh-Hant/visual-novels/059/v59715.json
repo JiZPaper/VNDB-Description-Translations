@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59715",
+  "type": "visual_novel",
+  "name": "Within",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Traverse the rancid labyrinth that is the insides of a massive dying whale as you, a grief-stricken skuba diver, wander aimlessly in search of your swallowed family.\n\n[From [url=https://itch.io/jam/spooktober-2025/rate/3911114]itch.io[/url]]",
+  "source_sha256": "f1cdc655be363547f4401e7a6756001838327f3699706ff3a3e1e62b423c7efc",
+  "translation": "你是個悲痛欲絕的水肺潛水員，在一頭瀕死巨鯨的體內穿過惡臭的迷宮，漫無方向地尋找被它吞下的家人。\n\n［摘自[url=https://itch.io/jam/spooktober-2025/rate/3911114]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v59715"
+}

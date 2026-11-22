@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4108",
+  "type": "visual_novel",
+  "name": "Sound Novel Gekijou: Natsu no Ki ni Sumu Nymph",
+  "original_name": "サウンドノベル劇場 夏の樹に棲む妖精",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Sound Novel Gekijou: Natsu no Ki ni Sumu Nymph is the premade story featured in Sound Novel Tsukuru; a software allowing people to create their own sound novels.",
+  "source_sha256": "0f311a7c77c2d4ddf8f51941cf3b77e705c078af35e6064b9a4903b344611c0c",
+  "translation": "《有聲小說劇場：棲於夏樹的妖精》是《有聲小說製作大師》中預先收錄的故事；後者是一款允許使用者創作自己有聲小說的軟體。",
+  "vndb_url": "https://vndb.org/v4108"
+}

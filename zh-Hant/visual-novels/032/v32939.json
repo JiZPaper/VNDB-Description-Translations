@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32939",
+  "type": "visual_novel",
+  "name": "SD Rance",
+  "original_name": "SDらんす",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "\"SD Rance\" is a small ADV game starring Rance as a grade schooler, investigating the case of Mr. Ragisis' stolen ring. Appearances are made by other Rance 2 characters, Kurusu Miki from Little Vampire and two characters from Gakuen Senki, Midori and Yoko.\n\n[From [url=https://alicesoft.miraheze.org/wiki/Rance_02:Hint_Disk]AliceSoft Wiki[/url]]",
+  "source_sha256": "83721dcc7aaad03580332f7ae3e13f62f720becd6ad46f39136cffe72fbc61e5",
+  "translation": "《SD蘭斯》是一款小型冒險遊戲。蘭斯在本作中化身小學生，調查拉吉西斯老師的戒指失竊案。《蘭斯2》的其他角色也會登場，此外還有《Little Vampire》中的來水美樹，以及《學園戰記》中的綠子和洋子。\n\n[摘自[url=https://alicesoft.miraheze.org/wiki/Rance_02:Hint_Disk]AliceSoft Wiki[/url]]",
+  "vndb_url": "https://vndb.org/v32939"
+}

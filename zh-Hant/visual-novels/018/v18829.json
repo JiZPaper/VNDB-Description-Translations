@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18829",
+  "type": "visual_novel",
+  "name": "You and Me might be the best thing",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This is a is a fanmade Visual Novel based on ATLUS' franchise Shin Megami Tensei Persona 4 evolving around the Protagonist's and Yosuke Hanamura's epic b/romance.",
+  "source_sha256": "24227938659d61bdd35029ad2e50eea6e8fb3a46ec24a5faf78b160f06171127",
+  "translation": "這是一部基於ATLUS《女神異聞錄4》系列的同人視覺小說，圍繞主角與花村陽介史詩般的兄弟情與曖昧情愫展開。",
+  "vndb_url": "https://vndb.org/v18829"
+}

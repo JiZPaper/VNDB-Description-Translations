@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11987",
+  "type": "visual_novel",
+  "name": "Touhou Kenbun Roku",
+  "original_name": "東方見文録",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Touhou Kenbun Roku (\"The Travels of Marco Polo\") is an adventure game that uses the then-ubiquitous NES adventure game system of having a series of menu commands with which to interact with the world. As a text-heavy Japanese adventure game, some fluency with the language is required in order to play it.\n\nThe game depicts a troublemaker sent from the future back to 1275, when Marco Polo was in the midst of his explorations.\n\nDescription taken from http://www.giantbomb.com/touhou-kenbun-roku/3030-40378/",
+  "source_sha256": "540c6a67b5657cefe9f16071f94e9bfa143d0add6e0fed065d10df13c1dddef6",
+  "translation": "《東方見文錄》（《馬可．波羅遊記》）是一款冒險遊戲，它使用當時無處不在的NES冒險遊戲系統，該系統具有一系列與世界互動的選單命令。作為一款文字較多的日本冒險遊戲，需要一定的語言流暢度才能玩。\n\n遊戲描繪了一個麻煩製造者從未來被送回1275年，當時馬可．波羅正在進行他的探索。\n\n描述取自http://www.giantbomb.com/touhou-kenbun-roku/3030-40378/",
+  "vndb_url": "https://vndb.org/v11987"
+}

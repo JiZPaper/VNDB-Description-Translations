@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27579",
+  "type": "visual_novel",
+  "name": "Sin City",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This visual novel is about a boy who moves to Sunburn City, where his father went missing three years ago. There are unusual events developing in the city. Will the main character be able to finally find his father?\n\n[Edited from [url=https://www.patreon.com/SparkSincity]Patreon[/url]]",
+  "source_sha256": "18fcd20f0cf248aaecc04e2c46fb3c3c20092cc976cdc6eb325f7a90b7fdabde",
+  "translation": "這部視覺小說講述一個男孩搬到日灼市後的故事。他的父親三年前在這裡失蹤，而如今，城裡正接連發生不尋常的事件。主角最終能找到父親嗎？\n\n[編譯自[url=https://www.patreon.com/SparkSincity]Patreon[/url]]",
+  "vndb_url": "https://vndb.org/v27579"
+}

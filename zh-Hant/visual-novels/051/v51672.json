@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51672",
+  "type": "visual_novel",
+  "name": "Staywell",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You wake up in a strange place and come face to face with a past self.  Where will you end up? What conversations will you have?\n\n[From [url=https://meiri.itch.io/staywell]itch.io[/url]]",
+  "source_sha256": "6cd4ca4db6a365c163f097f80129139a353564ba9ef0a90f15dcd024d92ee613",
+  "translation": "你在一個陌生的地方醒來，與過去的自己打了個照面。你最後會走到哪裡？你們又會談些什麼？\n\n［摘自[url=https://meiri.itch.io/staywell]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v51672"
+}

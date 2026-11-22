@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10440",
+  "type": "visual_novel",
+  "name": "Lunatic Fantasy",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The story starts with an amnesiac woman, who is only able to remember her name - Fab, waking up in the forest. With the help of local dryads Fab reaches a nearby town and stops at the tavern. Suddenly she is approached by a blind girl who proclaims: \"Mommy, you finally returned\"...",
+  "source_sha256": "e7e5b46da71e8c7a05752f5fe766c1e7cbc773ca0b4bf4087ac328efc635243d",
+  "translation": "故事一開始，一名失憶的女子在森林中醒來，只記得自己叫法布。在當地樹精的幫助下，法布來到了附近的小鎮，在酒館落腳。突然一個失明的女孩走近她說：「媽媽，你終於回來了……」",
+  "vndb_url": "https://vndb.org/v10440"
+}

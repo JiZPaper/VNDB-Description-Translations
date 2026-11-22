@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51718",
+  "type": "visual_novel",
+  "name": "Theft of Mona Lisa",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "An individual attempts to steal a Mona Lisa painting from a museum, with player choices regarding the scenario.",
+  "source_sha256": "ea694c6478b92b35db7335d9435653d3d54794e4e6bfbdff38b48242c0cd6c71",
+  "translation": "有個人打算從博物館裡偷走一幅《蒙娜麗莎》，玩家可以選擇事態如何發展。",
+  "vndb_url": "https://vndb.org/v51718"
+}

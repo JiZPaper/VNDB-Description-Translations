@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51720",
+  "type": "visual_novel",
+  "name": "Incident with a UFO Visual Novel",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Sighting by a pilot who provides sensor data is compromised by his commander who steals the UFO data.",
+  "source_sha256": "312bcdc449e58010e90e0079374c63584e7fab0ff83443a046a7d935e7d44eb2",
+  "translation": "一名飛行員目擊了不明飛行物，還提供了感測器記錄。可是，他的指揮官偷走了相關資料，讓這次目擊失去了佐證。",
+  "vndb_url": "https://vndb.org/v51720"
+}

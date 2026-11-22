@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13967",
+  "type": "visual_novel",
+  "name": "Shiro Arcana",
+  "original_name": "白濁アルカナ",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A fan-fic nukige starring characters from [url=http://en.wikipedia.org/wiki/Arcana_Heart]Arcana Heart[/url].",
+  "source_sha256": "7c35f2b9c7e0ae82401c388cb17158d99f68a79ab42cdd13f2daf2f93275b444",
+  "translation": "一部以[url=http://en.wikipedia.org/wiki/Arcana_Heart]《聖靈之心》[/url]角色為主角的同人成人遊戲，以性愛場景為主。",
+  "vndb_url": "https://vndb.org/v13967"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35022",
+  "type": "visual_novel",
+  "name": "Picka",
+  "original_name": "피카",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "PICKA, a Virtual Dating Simulation Platform that’s more realistic than reality\nWhat if you can experience virtual reality on your way to school or work, before going to bed, or during break time after lunch, just by sending messages?\nCome join PICKA and experience it yourself with “30 Days to Love,” a virtual 30-day dating experiment.",
+  "source_sha256": "b5c8d2cec47bc0c01b3c76a21eda7b4354e37fa525912c6482a0e199e5a867b9",
+  "translation": "PICKA是一個比現實更真實的虛擬戀愛模擬平臺。\n無論是在上學或上班的路上、睡前，還是午飯後的休息時間，只靠傳訊息就能體驗虛擬世界，會是什麼感覺？\n加入PICKA，透過為期30天的虛擬戀愛實驗「30 Days to Love」，親自體驗吧。",
+  "vndb_url": "https://vndb.org/v35022"
+}

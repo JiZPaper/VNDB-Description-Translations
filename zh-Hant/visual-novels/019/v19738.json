@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19738",
+  "type": "visual_novel",
+  "name": "Unlikable Us",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A group of teens turn to supernatural forces to discover their friend's murderer. After becoming suspects themselves, they become desperate to solve the mystery and prove their innocence.",
+  "source_sha256": "b1ad58d761b92feb903edd266453d1ce3551663da40e1cc905f1dea7d0eb1969",
+  "translation": "一群青少年藉助超自然力量追查殺害朋友的兇手。成為嫌疑人後，他們迫切想解開謎團，證明自己的清白。",
+  "vndb_url": "https://vndb.org/v19738"
+}

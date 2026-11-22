@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13145",
+  "type": "visual_novel",
+  "name": "Rozen Maiden: Duellwalzer",
+  "original_name": "ローゼンメイデン ドゥエルヴァルツァ",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "In the 20th century a legendary doll maker named Rozen created seven dolls powered with gems called Rosa Mystica. \n\nSince then Rozen sent dolls away to find masters and battle among themselves to gather each other's Rosa Mysticas; this competition is referred to as Alice Game. \n\nOnly winner can become perfect Alice doll and reunite with Rozen.\n\nThe purpose of the game is to increase trust with one of dolls through events and win Alice Game together.\n\n[Edited from [url=https://psxdatacenter.com/psx2/games2/TCPS-10153.html]Psxdatacenter[/url]]",
+  "source_sha256": "a93cb8f478c2ec970f0582ea8daaa2fcf3543a5c41f5d221519e6767f9aa2f5e",
+  "translation": "20世紀，一位名叫羅真的傳奇人偶師，製作了七個人偶，以名為「薔薇聖母」的寶石賦予它們力量。\n\n此後，羅真將人偶們送往各處，讓它們尋找主人，並透過相互戰鬥，奪取彼此的薔薇聖母。這場競爭被稱為「愛麗絲遊戲」。\n\n只有勝者才能成為完美的愛麗絲人偶，再次與羅真相見。\n\n玩家需要透過各種事件，加深與其中一個人偶的信任，並一同贏得愛麗絲遊戲。\n\n（根據[url=https://psxdatacenter.com/psx2/games2/TCPS-10153.html]Psxdatacenter[/url]編輯。）",
+  "vndb_url": "https://vndb.org/v13145"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9190",
+  "type": "visual_novel",
+  "name": "Adrift",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "In the far future, mankind lives in huge cities on the bottom on the ocean. These cities are controlled entirely by artificial intelligences, yet one human supervisor rests in an artificial sleep, watching over the AIs with his subconsicious mind. Then, one day, something unexpected happens: The supervisor awakens... to find out his connection to the city has been entirely severed...",
+  "source_sha256": "0bc48d0e9329a460ff06da4faf187906f7a393a55cd436c9226969821ff0b3cf",
+  "translation": "遙遠的未來，人類生活在海底的巨型城市中。這些城市完全由人工智慧管理，不過仍有一名人類監督員處於人工休眠狀態，以潛意識監視著AI。某天，意外發生了：監督員突然醒來……卻發現自己與整座城市之間的聯絡已經徹底中斷……",
+  "vndb_url": "https://vndb.org/v9190"
+}

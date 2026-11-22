@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42875",
+  "type": "visual_novel",
+  "name": "Sunshine",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A very short and low effort Arknights fanmade visual novel made using Ren'Py.\n\nYou finished all the works before weekend comes. As you wander around the ship, you find out a room that caught your interest. What lies inside that room?\n\n[Edited from [url=https://pomegrana.itch.io/sunshine]Itch.io[/url]]",
+  "source_sha256": "89e36e991a6f68aad3a7f940a2f2939efa197d7535eb49e8b3911f5306f5dc9c",
+  "translation": "一部使用Ren'Py製作、篇幅極短、製作簡陋的《明日方舟》同人視覺小說。\n\n週末來臨前，你已經完成了所有工作。在艦內閒逛時，一個房間引起了你的興趣。裡面究竟有什麼？\n\n[編譯自[url=https://pomegrana.itch.io/sunshine]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v42875"
+}

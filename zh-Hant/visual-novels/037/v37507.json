@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37507",
+  "type": "visual_novel",
+  "name": "My Komainu",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A visual novel about a kid and his cute spiritual companion who helps him learn some lessons on responsibility and selflessness.  \n\n[From [url=https://daebak.itch.io/my-komainu]Itch.io[/url]]",
+  "source_sha256": "3347d796c3fcc3299dd50b8ef4ec084ef453f717c987a0620acf34c09248680a",
+  "translation": "一部關於孩子和可愛狛犬靈伴的視覺小說。它將幫助孩子學會負責，也學會為別人著想。\n\n[來源：[url=https://daebak.itch.io/my-komainu]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v37507"
+}

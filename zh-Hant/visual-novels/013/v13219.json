@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13219",
+  "type": "visual_novel",
+  "name": "Shugo Chara! Amu no Niji-iro Chara Change",
+  "original_name": "しゅごキャラ！ あむのにじいろキャラチェンジ",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "It's a raising sim where Amu must develop her relationship with any of the available characters (the Guardians, Ikuto, Utau, Nikaidou and Nagihiko) during three months, with the target of bringing a partner to the \"Best Friends Festival.\"\n\n[From [url=http://en.wikipedia.org/wiki/Shugo_Chara!#Video_games]Wikipedia[/url]]",
+  "source_sha256": "a485153165d1262989a942ce6b598648917b87c1a32110305af8114db4b03ddb",
+  "translation": "這是一款養成模擬遊戲。亞夢需要在三個月內，與可選角色中的某位加深關係。這些角色包括守護者成員、幾斗、歌唄、二階堂和凪彥，目標是邀請一位夥伴一同參加「摯友祭」。\n\n（摘自[url=http://en.wikipedia.org/wiki/Shugo_Chara!#Video_games]維基百科[/url]）",
+  "vndb_url": "https://vndb.org/v13219"
+}

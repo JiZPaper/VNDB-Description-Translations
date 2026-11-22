@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v16801",
+  "type": "visual_novel",
+  "name": "Simon and Merva's Day Out",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The goal of this game is to get Simon and Merva out of this strange world they’ve discovered, along with not dying.",
+  "source_sha256": "174674d3ba9aa71cd594c165920afdd640d40194c33f9075faba4689e6a0e99b",
+  "translation": "這款遊戲的目標是讓西蒙和梅爾瓦逃離他們發現的奇怪世界，並且別死在途中。",
+  "vndb_url": "https://vndb.org/v16801"
+}

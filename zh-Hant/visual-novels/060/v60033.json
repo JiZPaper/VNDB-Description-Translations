@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60033",
+  "type": "visual_novel",
+  "name": "Danganronpa: IT'S SHOWTIME!",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "16 Contestants partake in a reality tv show in hopes for prizes beyond their wildest dreams. Of course, nothing is as it seems.",
+  "source_sha256": "37f7434ba5df3845b9aa5fd9c6574436e205f3eefe889e6b80f62ecab0ef8ace",
+  "translation": "十六名參賽者參加了一個電視實境節目，希望贏得做夢都不敢想的大獎。當然，這裡的一切都另有隱情。",
+  "vndb_url": "https://vndb.org/v60033"
+}

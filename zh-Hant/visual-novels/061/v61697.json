@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61697",
+  "type": "visual_novel",
+  "name": "The Hundred Line - Goodbye Despair Route",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A crossover fan-game prototype which brings the cast of The Hundred Line into Hope's Peak Academy, where they are suddenly transported to a tropical island by a talking bunny robot.",
+  "source_sha256": "0b187bb5aab100bcfa4440d242641d2fea9ee24a05621369eac84af4c137174e",
+  "translation": "一款跨作品合作的同人遊戲原型。《百日戰紀：最終防衛學園》的角色們來到希望峰學園，卻突然被一隻會說話的兔子機器人傳送到了熱帶島嶼上。",
+  "vndb_url": "https://vndb.org/v61697"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60244",
+  "type": "visual_novel",
+  "name": "Bloom",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Step into the fantastic world of Feldoria and follow our protagonist, Astra, as she works on a development plan for Cafe Bloom (and maybe falls in love along the way)!\n\n[From [url=https://nightlightwrks.itch.io/bloom-demo]itch.io[/url]]",
+  "source_sha256": "23fc02ca3b4735f33bde374aa28c8e7f7e9704d7a25b4bbe206686b8043e26c1",
+  "translation": "走進費爾多里亞的奇幻世界，跟隨主角阿斯特拉一起為繁花咖啡館制定發展計劃（說不定她還會在途中墜入愛河）！\n\n［摘自[url=https://nightlightwrks.itch.io/bloom-demo]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v60244"
+}

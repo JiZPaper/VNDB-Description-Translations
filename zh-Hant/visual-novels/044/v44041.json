@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44041",
+  "type": "visual_novel",
+  "name": "Gale's End: Spring Stories",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "As a travel writer, you've come to Gale's End seeking inspiration. What stories will you tell of this spring? \n\n[From [url=https://tvice.itch.io/gales-end-spring-stories]Itch.io[/url]]",
+  "source_sha256": "f982b1e7acad8db68906936c5f9dd395ad47292557c88419b497444fffcfcff5",
+  "translation": "身為旅行作家，你來到Gale's End尋找靈感。這個春天，你會寫下怎樣的故事？\n\n（摘自[url=https://tvice.itch.io/gales-end-spring-stories]itch.io[/url]）",
+  "vndb_url": "https://vndb.org/v44041"
+}

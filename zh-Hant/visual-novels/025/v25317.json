@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25317",
+  "type": "visual_novel",
+  "name": "Grey Feather",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Grey Feather centers around Doctor Avery, a 59 year old scientist who studies souls. One day he’s visited by someone who looks uncannily like his long-dead son. From there, he’s dragged into misadventures and conspiracies, and has to try to survive more than a few dangerous situations.",
+  "source_sha256": "d29fcf1d87d43a4e01acdd5f1eae4225bba56fea19996ac2e5089a0c2ad3447f",
+  "translation": "《灰羽》圍繞59歲的靈魂研究科學家艾弗里博士展開。某天，一個長得與他早已去世的兒子驚人相似的人來拜訪他。此後，艾弗里被捲入一場場冒險與陰謀，必須設法從接連不斷的危險處境中活下來。",
+  "vndb_url": "https://vndb.org/v25317"
+}

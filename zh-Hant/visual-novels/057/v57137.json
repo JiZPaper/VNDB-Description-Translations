@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57137",
+  "type": "visual_novel",
+  "name": "Gemini",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You play as either Trisha or Michael Blackhawk, twin siblings working in their own ways to put a stop to the newest threat to their city. Along the way, Michael will try to rekindle a relationship with an old girlfriend while Trisha will try to form a bond with a dangerous woman.",
+  "source_sha256": "86aeaef7d777d95e113e739b62f3dcd53c8b7eb5a22f8254a8362fa12dcbd75b",
+  "translation": "你可以扮演特麗莎．布萊克霍克或麥可．布萊克霍克。這對雙胞胎各用各的方式，設法阻止威脅城市的新危機。途中，麥可會嘗試與一位前女友舊情復燃，特麗莎則會試著走近一位危險的女人。",
+  "vndb_url": "https://vndb.org/v57137"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40590",
+  "type": "visual_novel",
+  "name": "closing chapter.",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "In the calm before the storm, you have one last conversation with your rival. \nA short visual novel about things to come.",
+  "source_sha256": "b096f1d1124d5264175b4b18169831d1b39beca26a8a42e935be7ffd8489e529",
+  "translation": "暴風雨來臨前的寧靜時刻，你與對手進行最後一次交談。\n\n一部講述即將發生之事的短篇視覺小說。",
+  "vndb_url": "https://vndb.org/v40590"
+}

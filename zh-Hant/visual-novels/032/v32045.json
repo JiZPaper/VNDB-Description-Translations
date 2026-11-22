@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32045",
+  "type": "visual_novel",
+  "name": "Campus Pulse",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "It's welcome week at Kensley University, and you've just been promoted to feature writer for the Daily Pulse! Who will you meet at the Kensley rooftop party, and can you handle the heat...?",
+  "source_sha256": "6ce15b14dc8df27ed0cf55e68d2a978c15197df6163fe73d2efee0597519f78c",
+  "translation": "肯斯利大學的迎新周到了，而你剛剛升任《每日脈搏》的專題記者！在肯斯利的屋頂派對上，你會遇見誰？你又能否招架這火熱的氣氛……？",
+  "vndb_url": "https://vndb.org/v32045"
+}

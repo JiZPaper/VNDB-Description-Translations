@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46560",
+  "type": "visual_novel",
+  "name": "Hello, world",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You are Josef, an AI. A man has come to speak with you. He keeps asking if you remember. Remember what? He thinks you should remember him. He says you were friends. You're not sure. There are gaps in your memories. Things don't line up. \n\nSomething happened. \n\nSomething terrible.\n\n[from [url=https://supercircuit.itch.io/hello-world]itch.io[/url]]",
+  "source_sha256": "672457149f54499bd47fe1430a1ba6bf1d1bb3c11c6170e5b0640164160cb792",
+  "translation": "你是約瑟夫，一個人工智慧。一個男人來找你說話，一遍遍問你還記不記得。記得什麼？他覺得你應該記得他。他說，你們是朋友。你不確定。你的記憶裡有空白，有些事對不上。\n\n發生過什麼。\n\n某件可怕的事。\n\n［摘自[url=https://supercircuit.itch.io/hello-world]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v46560"
+}

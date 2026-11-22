@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59830",
+  "type": "visual_novel",
+  "name": "disenchanter",
+  "original_name": "DISENCHANTER",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Welcome to the Forest Exorcism Shop.\nIt’s become so popular lately that there’s barely any time to rest.\nEven on Halloween, it’s business as usual.\nToday’s appointments: three clients――\n\nListen to their troubles and help them out.\nThere are four endings in total, including game overs.",
+  "source_sha256": "9811450556e248f9f3679b1b0482811c99905e74d199a5c7622bd5b15bd7a92c",
+  "translation": "歡迎光臨森林驅魔屋。\n近來生意興隆，幾乎沒有休息的工夫。\n哪怕到了萬聖節，也得照常營業。\n今天預約的是三位客人——\n\n聽他們說說煩惱，幫他們一把吧。\n算上游戲失敗，總共有四個結局。",
+  "vndb_url": "https://vndb.org/v59830"
+}

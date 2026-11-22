@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14024",
+  "type": "visual_novel",
+  "name": "Summer Album",
+  "original_name": "SUMMER ALBUM",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A doujin of \"White Album\" that revolves around Morikawa Yuki.",
+  "source_sha256": "85150f9e9bc3414d6c4824329cae102ac977af70c559e5c85805f98ceebff3f1",
+  "translation": "一部圍繞森川由綺展開的《白色相簿》同人作品。",
+  "vndb_url": "https://vndb.org/v14024"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54375",
+  "type": "visual_novel",
+  "name": "Troublemaker",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You’re in for a good deal of trouble when you start to blackmail the bad boy next door.",
+  "source_sha256": "31e4344531b58ac07a2b8a7acc26d65585ef51b2b99530211b56a9233a27ba0b",
+  "translation": "當你開始勒索隔壁的壞男孩時，大麻煩可就要上門了。",
+  "vndb_url": "https://vndb.org/v54375"
+}

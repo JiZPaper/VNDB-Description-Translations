@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51830",
+  "type": "visual_novel",
+  "name": "Succum Brewery",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "After running out of money mid-transport Catherine is abandoned on the rooftop of downtown mega-skyscraper:\nPeach Towers. She has no money, no friends, and no way to get to ground level.\nTo make matters worse the place is swarming with chuds.",
+  "source_sha256": "6f352eb9eed98a23c4db0a2346b04d0205b97c7add7443da3badcc4bb15d2fd4",
+  "translation": "凱瑟琳在半路上用光了錢，被丟在市中心一棟摩天大樓——蜜桃大廈的樓頂。她沒有錢，沒有朋友，也沒有辦法下到地面。\n更糟的是，這裡到處都是一群討人嫌的蠢貨。",
+  "vndb_url": "https://vndb.org/v51830"
+}

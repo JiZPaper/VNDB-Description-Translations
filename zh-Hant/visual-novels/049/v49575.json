@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49575",
+  "type": "visual_novel",
+  "name": "Azalea no Mahoutsukai ~Shiawase no Recipe~",
+  "original_name": "アゼリアの魔法使い ～幸せのレシピ～",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The protagonist is a princess of the Kingdom of Lumen.\nHowever, due to a tragic accident, she falls into a deep sleep.\nBy the time she finally awakens, Lumen has already been destroyed by the Kingdom of Azelia.\nNow living as a commoner, Lou becomes the apprentice of a sorcerer and spends her days in peace.\nOne day, just as she expects those peaceful days to continue, her master Dias suddenly tells her, “It’s time to live on your own.”\nWill Lou be able to become independent?",
+  "source_sha256": "0b1fd3b2c3d101b63847145f2e4132bcdf3a7cab38be6c64cfdaf4bb25e4ebf9",
+  "translation": "主角露原是盧門王國的公主，因一場不幸的事故陷入沉睡。\n等她終於醒來，盧門已經被阿澤利亞王國滅了。\n如今，她以平民的身分拜一位魔法師為師，過著安穩的生活。\n她以為這樣的日子會一直持續下去，直到有一天，師父迪亞斯突然對她說：「該靠你自己過日子了。」\n露能順利獨立嗎？",
+  "vndb_url": "https://vndb.org/v49575"
+}

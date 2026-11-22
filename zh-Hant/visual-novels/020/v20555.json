@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20555",
+  "type": "visual_novel",
+  "name": "Olli: Neozhidannoe puteshestvie",
+  "original_name": "Олли: Неожиданное путешествие",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Oliver lives in a small village and works in the forge. One day his life changes when he meets a bearded wizard and is whisked on a journey full of wonders, dangers and lusty maidens. On his way he meets a variety of Disney characters.",
+  "source_sha256": "6415366c29b506af0ca03cdb75e11d7f1c9ca3b94098324e4303227097cedd69",
+  "translation": "Oliver住在一個小村莊，在鐵匠鋪工作。一天，他遇見一名留著鬍子的巫師，跟著展開一段旅程，途中充滿奇蹟與危險，也有許多慾火難耐的少女。在旅途中，他還會遇見各種迪士尼角色。",
+  "vndb_url": "https://vndb.org/v20555"
+}

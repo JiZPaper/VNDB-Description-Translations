@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v15124",
+  "type": "visual_novel",
+  "name": "Gakuen Senki",
+  "original_name": "学園戦記",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Hero is student council president and everyday he solves requests from students. With each new request he approaches the secret behind this school. \n\n[From [url=http://vndbreview.blogspot.ru/2017/04/vn-of-year-1988.html]vndbreview[/url]]",
+  "source_sha256": "f85b55484da985da15ec3e256a0847ffa741cfc2ed621a6f9100d5d762008ad9",
+  "translation": "主角是學生會長，每天負責處理學生們的請求。隨著解決一個又一個請求，他逐漸接近這所學校隱藏的秘密。\n\n［譯自[url=http://vndbreview.blogspot.ru/2017/04/vn-of-year-1988.html]VNDB Review[/url]］",
+  "vndb_url": "https://vndb.org/v15124"
+}

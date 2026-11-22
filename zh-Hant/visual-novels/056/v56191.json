@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56191",
+  "type": "visual_novel",
+  "name": "Dzimyros",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "When a snow storm grows too wild to drive through, you are forced to abandon your vehicle in search of safety. There appears to be a small spot off in the distance, perhaps someone there could help?\n\nNavigate your way and survive the night in this short pixelated horror themed game.",
+  "source_sha256": "7eecdafeb2d1f1fd3d41f450572a81e02ca9bf567e7762115b905c2892d77fa8",
+  "translation": "暴風雪猛烈得無法繼續開車，你被迫棄車尋找安全的去處。遠處似乎隱約有個小點，也許那裡有人能幫你？\n\n在這款像素風恐怖短篇遊戲中找到去路，熬過這一夜。",
+  "vndb_url": "https://vndb.org/v56191"
+}

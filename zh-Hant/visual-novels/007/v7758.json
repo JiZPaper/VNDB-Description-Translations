@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7758",
+  "type": "visual_novel",
+  "name": "Old-Timer",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "In Old-timer a middle-aged man retreats to a quiet town, seeking peace and a new way of living. He decides to quit his bad habits and looks for an old-timer car to put back into shape.\n\n[From Official Site]",
+  "source_sha256": "ccd6abed7ffb84bca44dd890f4abaadd68bdcc7d45eb33b62a7ef0a829be3ea5",
+  "translation": "《Old-Timer》中，一名中年男子為尋求平靜與新的生活方式，隱居到寧靜小鎮。他決定戒掉惡習，並尋找一輛老爺車親手修復。\n\n[譯自官方網站]",
+  "vndb_url": "https://vndb.org/v7758"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19626",
+  "type": "visual_novel",
+  "name": "MMM: Murder Most Misfortunate",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The story takes place at a secluded mansion estate, where a gruesome murder unfolds and everyone is a suspect. It's up to you to unmask the true killer. Interrogate the other characters, investigate the environment for clues, and form your own conclusions about the evening's mysterious events. \n\nYour fate rests upon your deductive skills. You can accuse anyone. You might send a killer to justice. You might condemn an innocent person. Or you just might take the blame yourself.",
+  "source_sha256": "e3dabb3ce10e6874cbc8b517f4a9a3050791d29c17eaee6738415389b99ee0c6",
+  "translation": "故事發生在一座與世隔絕的宅邸。那裡發生了一起駭人的謀殺案，所有人都是嫌疑犯。你必須找出真正的兇手。審問其他角色，在宅邸裡尋找線索，自己推敲當晚究竟發生了什麼事。\n\n你的命運取決於推理能力。你可以指控任何人，也許會把兇手繩之以法，也許會讓無辜者蒙冤，甚至可能親自承擔罪責。",
+  "vndb_url": "https://vndb.org/v19626"
+}

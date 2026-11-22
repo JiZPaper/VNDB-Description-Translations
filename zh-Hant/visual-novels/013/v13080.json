@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13080",
+  "type": "visual_novel",
+  "name": "The End of the Raven",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A visual adaptation of the poem from Henry Beard's \"Poetry for Cats.\"",
+  "source_sha256": "d62be07cfa3242259018c121e246e9f383fcba4fc141ba4abee2d2c6b868970c",
+  "translation": "改編自亨利．比爾德詩集《給貓的詩》中的一首詩，以視覺形式呈現。",
+  "vndb_url": "https://vndb.org/v13080"
+}

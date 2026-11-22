@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v54921",
+  "type": "visual_novel",
+  "name": "A day at the beach",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A collection of short stories featuring Lealay that show her adventures on the beach.\n\n[From [url=https://yeezusdraw.itch.io/a-day-at-the-beach]itch.io[/url]]",
+  "source_sha256": "7faa2b7e6a1cb9cc9b2ffb5f3262c7659a245c08a8241b898e592309e6cad533",
+  "translation": "一組以莉萊為主角的短篇故事，講述她在沙灘上的各種冒險。\n\n［取自[url=https://yeezusdraw.itch.io/a-day-at-the-beach]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v54921"
+}

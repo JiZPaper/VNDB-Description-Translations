@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18212",
+  "type": "visual_novel",
+  "name": "Fortissimo",
+  "original_name": "フォルティッシモ",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Otome game adaptation of the manga series \"Fortissimo\", which is currently being serialised in Sylph magazine.\n\nThe protagonist Fujisaki Futaba is a university student who had no interest whatsoever in idols… until she got a job at James Entertainment and is assigned to manage the popular idol group, “forttê”.",
+  "source_sha256": "0226d59d554ad2693e91377960f82a2aa9356d27fc24c53d9ed349805cded0ce",
+  "translation": "改編自正在《Sylph》雜誌連載的漫畫《Fortissimo》的乙女遊戲。主角藤崎雙葉是一名對偶像毫無興趣的大學生……直到她進入詹姆斯娛樂公司工作，並被安排擔任人氣偶像團體「forttê」的經紀人。",
+  "vndb_url": "https://vndb.org/v18212"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64274",
+  "type": "visual_novel",
+  "name": "Synapse",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "In Synapse City, an emotional monitoring system called SEC measures the feelings of every citizen in real time. Stress, loneliness, desire — all of it feeds into a rank score that determines housing, access, and survival.\n\nThe protagonist is a former Synapse engineer who left the department under unclear circumstances and now lives alone in a Tier 2 apartment, watching his rank slowly decline. To keep his housing he needs to solve two problems — poverty and loneliness — before the system decides he no longer qualifies for Tier 2 access.\n\nHe takes a risky job for a local fixer to earn some credits. The job goes well. Shortly after, someone breaks into his apartment while he sleeps and leaves a message on the wall.\nHe has 48 hours to fix his mistake. He doesn't know yet that this is only the beginning.",
+  "source_sha256": "ff1fa782882aa9eb852c9422c15dd5f7b88de563f95678f51dba90d857974b94",
+  "translation": "在突觸城，一個名叫SEC的情緒監測系統即時測量每位市民的感情。壓力、孤獨、慾望，全都計入等級評分，而分數決定了你能住哪裡、能去哪裡、能否生存。\n\n主角曾是一名突觸工程師，因不明原因離開部門，如今獨自住在二級公寓裡，看著自己的評分慢慢下跌。要保住住處，他必須趕在系統判定他不再具備二級權限之前，解決兩個問題：貧窮和孤獨。\n\n為了賺點信用點，他冒險接下了當地中間人的一樁差事。任務完成得很順利。不久後，有人趁他睡著闖進公寓，在牆上留下一句話。\n他有48小時糾正自己的錯誤。他還不知道，這一切才剛剛開始。",
+  "vndb_url": "https://vndb.org/v64274"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47038",
+  "type": "visual_novel",
+  "name": "Learning to Fly",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "An exploration of the romance between Hisao and an April Fool's character, Saki Enomoto.",
+  "source_sha256": "831e3a2b78730ecff897461601a867740ae20ab4fbc9a527602e1761ab7bf10f",
+  "translation": "如果久夫與原本只在愚人節登場的榎本咲談起了戀愛，兩人會有一段怎樣的故事？",
+  "vndb_url": "https://vndb.org/v47038"
+}

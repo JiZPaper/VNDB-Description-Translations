@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37359",
+  "type": "visual_novel",
+  "name": "Homesick",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Doctor Sonne Brasch has been traveling on this train for a long time. Happy to finally have someone to talk to, he is eager to talk about any of the things scattered around the train cart, passing the time until the train's next station.\n\n[From [url=https://xamg0.itch.io/homesick]Itch.io[/url]]",
+  "source_sha256": "d03cd2a36cdfcc496fb80976328686af3186d9e6858e8c92f55aecb28d321a29",
+  "translation": "Sonne Brasch醫生已經在這列火車上旅行了很久。如今終於有人可以交談，他很高興，也樂於和你談起車廂裡的各種事物，打發時間，直到火車抵達下一站。\n\n[來源：[url=https://xamg0.itch.io/homesick]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v37359"
+}

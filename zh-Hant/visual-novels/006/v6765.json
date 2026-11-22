@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6765",
+  "type": "visual_novel",
+  "name": "Summer House",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "My parents used to own a summer house up by Lake Tahoe. I’m pretty sure they’ve sold it by now, the economy being what it is. The market for timeshares isn’t what it used to be. This is a story about that summer house.",
+  "source_sha256": "2a1efc207adce491252e3e48407e08707a6b0bd14df807836cea06255ece9f78",
+  "translation": "我父母過去在太浩湖畔擁有一座避暑別墅。\n考慮到如今的經濟狀況，我很確定他們已經把它賣掉了。\n分時度假的市場早就不如從前了。\n這個故事，就與那座避暑別墅有關。",
+  "vndb_url": "https://vndb.org/v6765"
+}

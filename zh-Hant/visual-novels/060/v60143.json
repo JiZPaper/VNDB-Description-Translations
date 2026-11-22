@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60143",
+  "type": "visual_novel",
+  "name": "Nine",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Daisy gets a mysterious text about a job opportunity. When she gets there, she is a disaster, but she meets helpful friends. A surprise Japanese test teaches her how to introduce herself.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "8c421df5d300c7cc53c32a7ad449853a05c6e76cbb8fb68ec055e4f887758aa6",
+  "translation": "黛西收到一封神秘簡訊，說是有個工作機會。到了地方，她把事情搞得一團糟，好在也結識了願意幫忙的朋友。一場突如其來的日語測驗，讓她學會了如何介紹自己。\n\n［摘自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian App[/url]］",
+  "vndb_url": "https://vndb.org/v60143"
+}

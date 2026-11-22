@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67183",
+  "type": "visual_novel",
+  "name": "Lilac Prose",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Walk with Tristan through his experience as an addiction survivor. He will confront the world outside with all its noise and chaos. It will inevitably swallow him whole, reshape him, and spit him out. You’ll soon come to realize that his addiction was never a problem; it was a solution.",
+  "source_sha256": "d076df06790baa2193a3c2708a9a6a33ca90e1fe3ea18634b59f49a8a58e62a0",
+  "translation": "陪特里斯坦走一程，經歷他熬過成癮後的生活。他將直面外界所有的嘈雜與混亂。那個世界勢必會將他整個吞下，重新塑造，再一口吐出來。你很快就會明白，成癮從來不是他的問題，而是他解決問題的辦法。",
+  "vndb_url": "https://vndb.org/v67183"
+}

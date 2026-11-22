@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13438",
+  "type": "visual_novel",
+  "name": "Are You?",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A short story/visual novel where you watch moments unfold before having to make a decision.\n\n[From [url=http://www.ludumdare.com/compo/ludum-dare-27/?action=preview&uid=25461]Ludum Dare[/url].]\n\nCreated for [url=http://www.ludumdare.com/compo/ludum-dare-27/]Ludum Dare 27[/url].",
+  "source_sha256": "3582f1db78083ad8ecc13c2886c9f2bad3758d63cfc943e36e54ef49f67a86bc",
+  "translation": "一部短篇故事／視覺小說。你將先看著情景展開，然後必須做出決定。\n\n［摘自[url=http://www.ludumdare.com/compo/ludum-dare-27/?action=preview&uid=25461]Ludum Dare[/url]］\n\n為[url=http://www.ludumdare.com/compo/ludum-dare-27/]Ludum Dare 27[/url]創作。",
+  "vndb_url": "https://vndb.org/v13438"
+}

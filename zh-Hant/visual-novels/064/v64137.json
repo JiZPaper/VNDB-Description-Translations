@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64137",
+  "type": "visual_novel",
+  "name": "Otoko no Musume Yakyuuken！",
+  "original_name": "男の娘野球拳！",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A Baseball Rock-Paper-Scissors Game Where You Strip a Boy\nThe game ends when your life (money) reaches 0.\nWin a round of rock-paper-scissors to make him take off one piece of clothing.\nOnce he’s completely naked, dress him up in women’s clothes and have sex!",
+  "source_sha256": "c9da467d2641dda3cb7be833c93740d684141cc8f5c45cdda5fb6125ab1009f3",
+  "translation": "一款用野球拳脫掉男孩子衣服的猜拳遊戲。\n生命值（金錢）降到0，遊戲就結束。\n每贏一輪剪刀石頭布，就讓他脫掉一件衣服。\n等他脫個精光，就給他換上女裝，和他做愛吧！",
+  "vndb_url": "https://vndb.org/v64137"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20995",
+  "type": "visual_novel",
+  "name": "Ryuusei☆Halation ~Secrets of Dearest~",
+  "original_name": "流星☆ハレーション～Secrets of Dearest～",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Side stories set in the timeline of the original game.",
+  "source_sha256": "2953ede5cd59ed85814637b07067c47bb00b94e97cfdacf603737bae8cf3e171",
+  "translation": "發生在原作故事期間的支線故事。",
+  "vndb_url": "https://vndb.org/v20995"
+}

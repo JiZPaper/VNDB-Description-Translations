@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47874",
+  "type": "visual_novel",
+  "name": "gd6.exe",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "In the room of the school electronics club there has been an old, non-working computer for a long time. Two enthusiasts couldn't just look at it and fixed it. When they started the computer, they found a mysterious program that could answer any question entered by the user. What can this program do? Where does it get the answers to questions?\n\n[Translated from [url=https://anivisual.net/stuff/5-1-0-2695]Anivisual[/url]]",
+  "source_sha256": "2b2653e9fda3a723d7c87c0db06b5b882dcf448724e3a7ce668c428678e55eeb",
+  "translation": "學校電子社的社辦裡，有臺壞了很久的舊電腦。兩個愛好者看不下去，動手把它修好了。開機後，他們發現了一個神秘程式：使用者輸入任何問題，它都能作答。這個程式究竟能做什麼？它的答案又是從哪裡來的？\n\n［譯自[url=https://anivisual.net/stuff/5-1-0-2695]Anivisual[/url]］",
+  "vndb_url": "https://vndb.org/v47874"
+}

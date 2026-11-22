@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62272",
+  "type": "visual_novel",
+  "name": "Starhound: War On The Frontier",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Take command of the Starhound, an advanced destroyer in a high-stakes interstellar conflict. Discover planets, encounter starships and face the unknown.\n\n[From [url=https://store.steampowered.com/app/4367200/]Steam[/url]]",
+  "source_sha256": "43c84912effee297a6500bae9d61b5b814675c34f21d3d27ddaf76bbfa54149c",
+  "translation": "在一場成敗攸關的星際衝突中，接掌先進驅逐艦「星際獵犬號」。發現行星，遭遇星艦，直面未知。\n\n［摘自[url=https://store.steampowered.com/app/4367200/]Steam[/url]］",
+  "vndb_url": "https://vndb.org/v62272"
+}

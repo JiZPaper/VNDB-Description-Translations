@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48662",
+  "type": "visual_novel",
+  "name": "Four Revolve For Relief",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "It's a story of 4 days of struggle where Okiomi tries to prevent the car accident that kills Akemi. Use a mysterious notebook to save her in this adventure game (with fairly high difficulty).\n\nRules of the notebook:\n1. You cannot erase what you write on it\n2. One person can use 4 pages maximum.\n3. No one except the person who wrote it can read what is written on it.\n4. The notebook will vanish when you looped ten times or next time you use it after using up all the 4 pages.\n\n[From [url=https://www.dlsite.com/maniax/work/=/product_id/RJ143404.html/?locale=en_US]DLsite English[/url]]",
+  "source_sha256": "cb53e0fc7c8e512d8e1e861ebde7fe9c97242fc0e3082ce05b0b77573a5110f9",
+  "translation": "這是衝臣為阻止朱美死於車禍而反覆奔走的四天。在這款難度頗高的冒險遊戲裡，你要藉助一本神秘的筆記本來救她。\n\n筆記本的規則：\n1．寫上去的東西無法擦除。\n2．每個人最多只能用四頁。\n3．只有寫下文字的人才能讀到自己寫的內容。\n4．循環滿十次時，筆記本就會消失。如果先用完了四頁，再次使用時它也會消失。\n\n〔摘自[url=https://www.dlsite.com/maniax/work/=/product_id/RJ143404.html/?locale=en_US]DLsite英文版[/url]〕",
+  "vndb_url": "https://vndb.org/v48662"
+}

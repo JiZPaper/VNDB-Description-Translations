@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23876",
+  "type": "visual_novel",
+  "name": "Turgor",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Who are you?\nWhy do you feel this way?\nWhat is happening to the people around you?\n\nYour attempts to escape The Greenhouse just may be futile.\n\n[From [url=https://gamewill.itch.io/turgor] itch.io[/url]]",
+  "source_sha256": "b47f29e3091c973515b7972f29bd9bddd24c54a40ca33d0fde3c8127b747e688",
+  "translation": "你是誰？\n為什麼會有這種感覺？\n周圍的人發生了什麼？\n\n你試圖逃離溫室，但也許一切都是徒勞。\n\n（來源：[url=https://gamewill.itch.io/turgor]itch.io[/url]）",
+  "vndb_url": "https://vndb.org/v23876"
+}

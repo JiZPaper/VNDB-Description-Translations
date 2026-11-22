@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12514",
+  "type": "visual_novel",
+  "name": "Nibiiro no Butterfly",
+  "original_name": "鈍色のバタフライ",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "- We thought we were friends. Now, and forever.\n\nDuring the summer break, Daisuke is kidnapped with eight of his classmates. Finding themselves in abandoned facility, they are forced to play \"Butterfly Game\" - game of werewolf where the elimination is... death.",
+  "source_sha256": "afc752f8309867b2fbab33d25f9dc1092d59e14afaf942f4a19a1187fe8d457a",
+  "translation": "「我們以為自己是朋友。現在是，永遠也是。」\n\n暑假期間，大輔和八名同班同學被綁架。他們發現自己身處一座廢棄設施，被迫參加「蝴蝶遊戲」——一種狼人殺遊戲，而被淘汰就意味著死亡。",
+  "vndb_url": "https://vndb.org/v12514"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v43603",
+  "type": "visual_novel",
+  "name": "Monster In The Forest",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Your name is Yule, and you don't know why, but you just walked really far into the forest near your hometown. It would be fine if you hadn't heard rumors of a monster here.\n\n[From [url=https://melancolymilk.itch.io/monster-in-the-forest]Itch.io[/url]]",
+  "source_sha256": "0e5c173e436eb4f66995eb9e68275f60f920b4f372ed5a0b3ce21968e0564f5b",
+  "translation": "你叫Yule，不知為何，已經走進家鄉附近的森林深處。如果沒聽過這裡有怪物的傳聞，倒也不算什麼。\n\n[摘自[url=https://melancolymilk.itch.io/monster-in-the-forest]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v43603"
+}

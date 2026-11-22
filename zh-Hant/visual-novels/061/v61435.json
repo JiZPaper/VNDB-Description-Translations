@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61435",
+  "type": "visual_novel",
+  "name": "Shop Crush",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Shop Crush is a hybrid Visual Novel, where you connect with customers, learn their characters, and untangle the dark Literal Illusion puzzles about them. Run a mysterious thrift shop in a story-rich Visual Novel. Meet eccentric customers, uncover hidden illusions, and unveil the sinister secret of your shop.\n\nThis is the story about realising the illusion of space, time, and your choices. What looks like a simple shop turns out to be a horrific story about self-doubt and reality checks.",
+  "source_sha256": "15bbe13d6a13cfd15283cbd5d147591cb6e36974ce6007f9a5041e0ef689af27",
+  "translation": "《Shop Crush》融合了視覺小說與解謎玩法。你要和顧客建立聯絡，瞭解他們的性格，解開與他們有關的陰暗「字面幻象」謎題。在這部劇情豐富的視覺小說裡，經營一家神秘的二手商店，結識古怪的顧客，找出隱藏的幻象，揭開店裡不祥的秘密。\n\n這個故事將帶你意識到，空間、時間，乃至你自己的選擇，都可能是幻象。一家看似普普通通的商店，背後卻是一段有關自我懷疑與認清現實的恐怖故事。",
+  "vndb_url": "https://vndb.org/v61435"
+}

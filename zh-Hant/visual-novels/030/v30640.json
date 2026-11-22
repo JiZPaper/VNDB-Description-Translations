@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30640",
+  "type": "visual_novel",
+  "name": "Senzoku Hisho Otona no Koi",
+  "original_name": "専属秘書 オトナの恋",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You're an executive assistant - starting today!\nThe charming, talented executives and a rival who shows up out of the blue - want to know: whose assistant do you want to be?",
+  "source_sha256": "95af126e1d273384307518864951849f85b70b9d850ccbcb78a005e4e50d41fd",
+  "translation": "從今天起，你就是高階主管的專屬助理了！\n魅力十足、才華出眾的高階主管們，以及突然出現的競爭對手，都想知道，你想當誰的助理？",
+  "vndb_url": "https://vndb.org/v30640"
+}

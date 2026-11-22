@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57724",
+  "type": "visual_novel",
+  "name": "Moonlight",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This story follows Van, a hunter who has a chance encounter with a creature unlike any they’ve ever faced, that will cause Van to question everything they have ever known about monsters.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "032faae4cf61f9f8a9e02ce3714517415ffc061587c37479ebd5c85a3beed5c3",
+  "translation": "獵人凡偶然遇見了一種生物，與以往面對的任何東西都不同。跟隨凡經歷這場相遇，看看它如何讓凡開始質疑自己曾經對怪物的一切認知。\n\n［摘自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian App[/url]］",
+  "vndb_url": "https://vndb.org/v57724"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41444",
+  "type": "visual_novel",
+  "name": "Troll Tale",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The game follows Askeladden as he faces a troll. Follow him in a traditionally norweagian tale where the moral is to stay clever.\n\n[From [url=https://jenstercreations.itch.io/troll-tale]Itch.io[/url]]",
+  "source_sha256": "42c0e3399f4b1e75ac60632786293bda8269f3daa76703e9d6f6c845c43f700e",
+  "translation": "遊戲講述了阿斯克拉登正面迎戰巨魔的故事。跟隨他的腳步，走進這則寓意著「時刻保持機智」的挪威傳統民間故事吧。\n\n[引自[url=https://jenstercreations.itch.io/troll-tale]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v41444"
+}

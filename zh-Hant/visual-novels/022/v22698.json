@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22698",
+  "type": "visual_novel",
+  "name": "Mariko: Hot Nightlife",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Mariko is a university student. She wants to go to a nightclub and make new acquaintances today. You can make a choice for her how to spend this evening.\n\nWill it be really hot this evening? The choice is yours!\n\n[From Steam (removed)]",
+  "source_sha256": "e87c248f0082a37a011c75f93268f10ecaa33516ed6af48a7e6ae5a201b6679d",
+  "translation": "真理子是一名大學生。她今天想去夜店結識新朋友。你可以替她決定要怎麼過這個夜晚。\n\n今晚會非常火辣嗎？選擇權在你手中！\n\n[來源：Steam（已下架）]",
+  "vndb_url": "https://vndb.org/v22698"
+}

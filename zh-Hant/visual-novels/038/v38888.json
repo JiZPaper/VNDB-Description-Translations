@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38888",
+  "type": "visual_novel",
+  "name": "Fantasia Medieval",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A short Visual-Novel, made with Artificial-Inteligence art, about a party of adventurers on a medieval setting.\n\n[From [url=https://store.steampowered.com/app/2150510/]Steam[/url]]",
+  "source_sha256": "94ea71dcd5307a09ae888059ba9bdf915e8bf67f1f1a9ff7cf7adb371abd49b4",
+  "translation": "這是一部短篇視覺小說，講述一支冒險者隊伍在中世紀世界中的故事，美術由人工智慧生成。\n\n[來源：[url=https://store.steampowered.com/app/2150510/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v38888"
+}

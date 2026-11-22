@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20355",
+  "type": "visual_novel",
+  "name": "The School of America",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A silly game about love in the Whitehouse. You play as Burn (Bernie Sanders) as he tries to obtain the affection of the other candidates, unless he is to face a dark fate. \n\n[From [url=https://tsa.itch.io/the-school-of-america]itch.io[/url]]",
+  "source_sha256": "cceb5c4b68124321cdc47cc32941e8c8984b7514832279df5b6a47f295c252af",
+  "translation": "一款講述白宮愛情的荒唐遊戲。你將扮演Burn（伯尼．桑德斯），嘗試贏得其他候選人的愛；否則，他就會面臨黑暗的命運。\n\n（來源：[url=https://tsa.itch.io/the-school-of-america]itch.io[/url]）",
+  "vndb_url": "https://vndb.org/v20355"
+}

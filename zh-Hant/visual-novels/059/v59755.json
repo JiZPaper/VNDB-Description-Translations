@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59755",
+  "type": "visual_novel",
+  "name": "Red Arrow",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A skier recovering from a season-ending injury is visited by her technician to discuss his future.\n\n[From [url=https://atpprojects.itch.io/redarrow]itch.io[/url]]",
+  "source_sha256": "d936f736c1b4a955d25933a5838870cebee8c9b4382cf4badbbab17f72aee413",
+  "translation": "一名滑雪選手正從迫使她提前結束賽季的傷病中康復。她的器材技師來探望她，商量他自己接下來的打算。\n\n［摘自[url=https://atpprojects.itch.io/redarrow]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v59755"
+}

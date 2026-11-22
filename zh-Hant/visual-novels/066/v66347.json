@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66347",
+  "type": "visual_novel",
+  "name": "Unesyonnye vetrom",
+  "original_name": "Унесённые ветром",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This is a short story about an alternative good ending for Lena.",
+  "source_sha256": "202040857d0857086f3572144e5f8ff003aadadd440eafd936e19b7670864a14",
+  "translation": "這是為列娜另寫的一段美好結局，篇幅很短。",
+  "vndb_url": "https://vndb.org/v66347"
+}

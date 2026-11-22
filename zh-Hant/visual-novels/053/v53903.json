@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53903",
+  "type": "visual_novel",
+  "name": "Submansion",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Journey into a whimsical mansion in search of the invaluable thing, where Keykeeper will be your guide. Keykeeper has lost all her keys. You must find them to take your invaluable item.",
+  "source_sha256": "d632f00cc4736bbf8d39bdfe63fd12ca14d97d2a4d6ca9f6b6d753bf79500ce2",
+  "translation": "走進一棟異想天開的宅邸，尋找那件無價之物。掌鑰人將為你引路，可她把所有鑰匙都弄丟了。只有找到它們，你才能取走屬於你的無價之寶。",
+  "vndb_url": "https://vndb.org/v53903"
+}

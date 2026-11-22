@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18303",
+  "type": "visual_novel",
+  "name": "Norn9 ~Norn + Nonette~ Act Tune",
+  "original_name": "ノルン＋ノネット アクト チューン",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The game has 3 sections Memoria, Norn 9 Quest and Cantabile. In Memoria, all characters shuffle their groups and there's three scenarios for each boy. In Norn 9 Quest, the characters are reimagined in a fantasy setting. In Cantabile, the girls are turned into small fairies and the player must play minigames to make them return to normal size.",
+  "source_sha256": "abe1e7935f4e9a772e85f01a9e0a1edd5ecb5de18b01bc3bf497f29862433fdc",
+  "translation": "遊戲分為三個部分：Memoria、Norn 9 Quest和Cantabile。Memoria中，所有角色會重新分組，每名男性角色都有三個故事。Norn 9 Quest將角色置於奇幻世界中重新演繹。Cantabile中，女孩們會變成小仙子，玩家得透過小遊戲，讓她們恢復原本的體型。",
+  "vndb_url": "https://vndb.org/v18303"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66441",
+  "type": "visual_novel",
+  "name": "Zhizn Bez Leta",
+  "original_name": "Жизнь Без Лета",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This is the biography of Semyon Persunov, who, contrary to the game's traditions, did not end up in the Sovyonok camp.\n\n[Translated from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=1677333568]Steam[/url]]",
+  "source_sha256": "11d8e6c33523b4db77b4a2fa5519047af0e0750921270ec4b5e114a2c71f32b8",
+  "translation": "這是謝苗．佩爾蘇諾夫的生平。這一次，他打破了遊戲的慣例，沒有來到小貓頭鷹營地。\n\n［譯自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=1677333568]Steam[/url]］",
+  "vndb_url": "https://vndb.org/v66441"
+}

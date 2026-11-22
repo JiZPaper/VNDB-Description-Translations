@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37506",
+  "type": "visual_novel",
+  "name": "A Final Meeting",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A short conversation with a draconic entity.\n\n[From [url=https://goldieclaws.itch.io/]Itch.io[/url]]\n\nA short game in the style of a O2A2 game (Only One of Any Asset).",
+  "source_sha256": "87b6ef97eb28f77aa7311348e8d3028a9748a2b886626d6964a79ea3f16ed039",
+  "translation": "與一位龍形生物進行的簡短對話。\n\n[來源：[url=https://goldieclaws.itch.io/]Itch.io[/url]]\n\n這是一款採用O2A2模式創作的短篇遊戲（僅使用一種素材）。",
+  "vndb_url": "https://vndb.org/v37506"
+}

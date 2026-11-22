@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50614",
+  "type": "visual_novel",
+  "name": "Go-toubun no Hanayome: Gotopazu Story 2nd",
+  "original_name": "五等分の花嫁 ごとぱずストーリー 2nd",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The continuation visual novel version of the franchise's online puzzle game. \nContains 23 Gotopazu's original event stories and as well the visual novel adaptation of anime's second season.",
+  "source_sha256": "6380ec64e75df5832e96f85512dc990e4a3756cf75cf01854c4c548f0fd00d78",
+  "translation": "《五等分的新娘》系列線上消除遊戲的視覺小說版續作。收錄原作中的23段原創活動劇情，以及由動畫第二季改編的視覺小說劇情。",
+  "vndb_url": "https://vndb.org/v50614"
+}

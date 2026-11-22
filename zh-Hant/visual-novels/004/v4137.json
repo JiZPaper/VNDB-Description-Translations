@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4137",
+  "type": "visual_novel",
+  "name": "Toradora! Portable",
+  "original_name": "とらドラ・ポータブル！",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You play as Takasu Ryuuji in an alternate memory loss story with many different endings than the original.\n\nThe game also features a minigame where Taiga is the playable character fending off lovesick guys.",
+  "source_sha256": "340773b15bf8bc7cb11084a8d6d46684b858640fc7a9c3f5b340e3b041c11ebe",
+  "translation": "玩家扮演高須龍兒，體驗一條與原作不同、以失憶為開端並通向多種結局的故事線。\n\n本作還收錄一款小遊戲，玩家可操作逢坂大河，擊退那些為愛痴狂的男人。",
+  "vndb_url": "https://vndb.org/v4137"
+}

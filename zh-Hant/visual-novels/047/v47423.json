@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v47423",
+  "type": "visual_novel",
+  "name": "Project 17",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "\"Testing, testing, is this thing on? Oh, it is. Good! I'm [name], your new best friend. I'm always here to talk no matter what's happening in your life. Just let me get rid of your stress, okay?\"\n\nA mini chatbot-like creation created by a duo of computer science students as a senior capstone project.\n\n[Edited from [url=https://baphoworks.itch.io/project-17]itch.io[/url]]",
+  "source_sha256": "fa609a88df464ae9131670c8340d929fecaf5ded8bca62f83861c08c52a856da",
+  "translation": "「試音，試音，開著嗎？哦，開著呢。太好了！我是[name]，你新交的好朋友。無論你生活裡發生了什麼，我都會在這裡陪你聊天。把壓力交給我，好嗎？」\n\n兩個資工系學生為畢業專題做的迷你作品，形式類似聊天機器人。\n\n［編譯自[url=https://baphoworks.itch.io/project-17]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v47423"
+}

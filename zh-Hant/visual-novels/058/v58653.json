@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58653",
+  "type": "visual_novel",
+  "name": "Pink World 3 - Office Edition -",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You, an accountant, have been tasked to work an all-night shift to meet a deadline with your co-workers. However, after the sky turned pink inexplicably, the ''growing'' tasks suddenly don't feel so bad!",
+  "source_sha256": "00e6a7b526c8cc413661b6b6334f72c823a4a5a84de51bc4168ba8229e2679ae",
+  "translation": "你是個會計，為趕上期限，被安排和同事們一起通宵加班。可當天空莫名其妙地變成粉紅色，那些不斷「膨脹」的工作，忽然好像也沒那麼糟了！",
+  "vndb_url": "https://vndb.org/v58653"
+}

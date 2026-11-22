@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33840",
+  "type": "visual_novel",
+  "name": "Doki Doki: Retry",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "When the inevitable happens, he finds himself in the past. Now he only has one objective. Witness everything that goes on in his mind.\n\nWill he forgive himself?",
+  "source_sha256": "e4548e07d33cff94a7b35ceba8233a93c31adb59f3ec7bd8af4ead0291146994",
+  "translation": "當不可避免的事發生後，他發現自己回到了過去。如今，他只有一個目標。見證他心中發生的一切。\n\n他會原諒自己嗎？",
+  "vndb_url": "https://vndb.org/v33840"
+}

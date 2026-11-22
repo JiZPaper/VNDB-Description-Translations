@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5437",
+  "type": "visual_novel",
+  "name": "NanDA Sore!?",
+  "original_name": "なんＤＡそれ！？",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Shujin Kou (a pun on the Japanese word for \"protagonist\") is exploring a school at night when he suddenly hears a voice from a cell phone call out \"Help me, please!\" It turns out to be a special cell phone that allows the owner to become a Warrior of Magic!",
+  "source_sha256": "65c081ff7f30d9930439aebbb7f6bc22e65aab99ad86f04b6d5b04f14cf0e8cd",
+  "translation": "主角（名字唸作Shujin Kou，和日文的「主角」諧音）夜間探索學校時，突然聽見一部手機傳出聲音：「請救救我！」原來，這是一部能讓持有者變身為魔法戰士的特殊手機！",
+  "vndb_url": "https://vndb.org/v5437"
+}

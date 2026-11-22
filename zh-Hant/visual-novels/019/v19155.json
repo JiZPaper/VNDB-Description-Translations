@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19155",
+  "type": "visual_novel",
+  "name": "Meihen",
+  "original_name": "メイヘン",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The protagonist Uni has lost her memory and is trying to figure out why she is living in the dorm of a magic school.\nShe promised the principle of the academy that she would become independent before the end of December.\nWhat path will she choose?",
+  "source_sha256": "094dbaca51d5bf15b9e40ea86bcbb979cd2a1bfbca2d590d8eaaf55239a3cc33",
+  "translation": "主角尤妮失去了記憶，正試圖弄清自己為什麼會住在魔法學校的宿舍裡。\n她向學院校長承諾，會在12月底前變得獨立。\n她會選擇哪條道路？",
+  "vndb_url": "https://vndb.org/v19155"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6959",
+  "type": "visual_novel",
+  "name": "Pia Carrot G.O. Toybox 2 ~Spring Fair~",
+  "original_name": "ぴあきゃろG.O. TOYBOX2 ～スプリングフェア～",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Contains 4 mini adventures:\n-Rumi no Engage Ring\n-Kanae to Sana no Kyuujitsu\n-Yamana Kaede wa Otoshigoro\n-Love is friendship set on fire",
+  "source_sha256": "cdca146f62cd8d7d6059eb45edff332ce6302638fa771253ea90f64a158dcceb",
+  "translation": "收錄四段迷你冒險：\n- 留美的訂婚戒指\n- 香苗與紗奈的假日\n- 山名楓正值花樣年華\n- 愛是燃燒的友情",
+  "vndb_url": "https://vndb.org/v6959"
+}

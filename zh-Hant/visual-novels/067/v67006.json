@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67006",
+  "type": "visual_novel",
+  "name": "Lzhivoye otkroveniye",
+  "original_name": "Лживое откровение",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A post-Soviet slice-of-life visual novel. A teenager skips school, eats shawarma at 1 am, and ends up in a world he doesn't recognize. There's a voice in his head that he thinks is his own.",
+  "source_sha256": "dd866097ec3ec85eacbd5ff125d010f3d69fa769a05fff6c878aadcf16072160",
+  "translation": "一部描繪後蘇聯時代日常生活的視覺小說。一個少年逃了學，凌晨一點吃著沙威瑪，末了卻來到一個他完全不認識的世界。他腦子裡有個聲音，他以為那是自己的。",
+  "vndb_url": "https://vndb.org/v67006"
+}

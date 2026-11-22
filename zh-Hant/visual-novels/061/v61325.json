@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61325",
+  "type": "visual_novel",
+  "name": "Reika Mission",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Reika and Naoto are enjoying an adventure in outer space when they suddenly get into trouble and are trapped with a stranger on their ship.\n\n[From [url=https://www.patreon.com/cw/ChunchunmaruDev]Patreon[/url]]",
+  "source_sha256": "89eebfa08d12a76a6f5a79172c239e22ec7f3960b8465c4a22cb20b952242b79",
+  "translation": "玲香和直人正在外太空享受冒險，突然惹上了麻煩，和一個陌生人一起被困在自己的飛船上。\n\n［摘自[url=https://www.patreon.com/cw/ChunchunmaruDev]Patreon[/url]］",
+  "vndb_url": "https://vndb.org/v61325"
+}

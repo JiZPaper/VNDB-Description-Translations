@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4428",
+  "type": "visual_novel",
+  "name": "The Ren'ai Simulation 2 ~Fureai~",
+  "original_name": "THE恋愛シミュレーション2〜ふれあい〜",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You're a 19-year-old student, that fails to pass the exams to university and starts working as an assistant teacher in a private school. You'll be assigned with the task of helping 5 girls with their exams, who will get closer to you as the game passes.",
+  "source_sha256": "99dcf16e499f05c8146e3387d324a252b3e7c870dc664f1ef48c6b753d5c1395",
+  "translation": "你是一名19歲的學生，大學聯考落榜後，開始在私立學校擔任助教。你的任務是幫助5名女孩準備考試；隨著遊戲推進，她們會逐漸與你親近。",
+  "vndb_url": "https://vndb.org/v4428"
+}

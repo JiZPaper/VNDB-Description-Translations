@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30990",
+  "type": "visual_novel",
+  "name": "Gallery Fake",
+  "original_name": "ギャラリーフェイク",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Gallery Fake is a pure adventure game that takes after the anime/manga of the same name. You play as Fujita Reiji and must solve the mysterious events surrounding a few priceless pieces of artwork. Gameplay seems to be centered on dialogue, giving you options to \"break\" into conversations and determine when you're being told something that's \"fake.\" New scenarios featuring famous real pieces of artwork will feature in this portable adaptation",
+  "source_sha256": "5aa437d059358a19c2d16658e74c621d7abfb7d8ef628975f6c09d80b7d23c29",
+  "translation": "《王牌鑑定人》是一部改編自同名動畫、漫畫的純冒險遊戲。玩家將扮演藤田玲司，解開圍繞幾件無價藝術品發生的神秘事件。玩法似乎以對話為核心，玩家可以選擇何時「插話」，判斷對方所說的內容是否為「贗品」。這部掌機改編作品還將加入以現實中的著名藝術品為題材的新劇情。",
+  "vndb_url": "https://vndb.org/v30990"
+}

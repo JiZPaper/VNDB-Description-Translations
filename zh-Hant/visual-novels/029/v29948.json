@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29948",
+  "type": "visual_novel",
+  "name": "Komiusa",
+  "original_name": "こみうさ",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Sitting by the windowsill, a rabbit basks in the sun.\nEvery morning, a young boy greets the rabbit, and they grow closer...\nA heartwarming visual novel where a strange animal and a young boy become friends, face trials, and overcome their troubles.",
+  "source_sha256": "181ab72f2fa4e352ba0eacfdfc37c46189820ff74a38a12b87f6c1462fb788f1",
+  "translation": "窗邊，一隻兔子正曬著太陽。\n每天早晨，少年都會向它問好，一人一兔也越來越親近……\n一部溫暖人心的視覺小說，講述一隻奇怪的動物與少年成為朋友，面對考驗、克服困難的故事。",
+  "vndb_url": "https://vndb.org/v29948"
+}

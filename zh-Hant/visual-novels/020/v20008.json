@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20008",
+  "type": "visual_novel",
+  "name": "Dumb",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You will embody Dumb, a very wisdom-lacking character. Your goal is to survive during 7 days in a school filled with danger. But this danger is hidden by a whole other truth… will you know how to find the answer?\n\n[From [url=https://www.kickstarter.com/projects/mushi/dumb/description]Kickstarter campaign[/url]]",
+  "source_sha256": "4104e6444ebb0a9b49658c60ea8b0cb2fc15636e72bf003ec9f4c36a8b8f2a10",
+  "translation": "你將扮演Dumb，一個不怎麼聰明的角色。你的目標是在一所危機四伏的學校裡生存七天。然而，這些危險的背後還隱藏著另一番真相……你能找到答案嗎？\n\n（來源：[url=https://www.kickstarter.com/projects/mushi/dumb/description]Kickstarter募資頁面[/url]）",
+  "vndb_url": "https://vndb.org/v20008"
+}

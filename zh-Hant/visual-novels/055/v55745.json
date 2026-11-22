@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55745",
+  "type": "visual_novel",
+  "name": "Ryuumyaku no Another Eidos R",
+  "original_name": "龍脈のアナザーエイドスR",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The story revolves around a nameless warrior's misadventures in spite of their intention to defeat the Dragon King, instead inheriting his divine power. \n\nSummary from AnotherEidos wiki [https://anothereidoswiki.ddns.net/index.php/Main_Page]",
+  "source_sha256": "aefe472333550298a353e17d3b1e88e10062c6af5ab2e8ff92e5a6869283d930",
+  "translation": "一名無名戰士本想討伐龍王，卻陰差陽錯地繼承了他的神力。故事圍繞這名戰士接連不斷的倒楣遭遇展開。\n\n簡介摘自AnotherEidos維基［https://anothereidoswiki.ddns.net/index.php/Main_Page］",
+  "vndb_url": "https://vndb.org/v55745"
+}

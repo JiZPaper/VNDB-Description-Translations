@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42514",
+  "type": "visual_novel",
+  "name": "Root of the Problem",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Join Merle, the recently qualified therapist, on an average day of helping his clients. Gather keywords, press for information, question the client and match keywords to find the Root of the Problem.\n\nA game made for the Global Games Jam 2023. The theme was \"Roots\". \n\n[From [url=https://goatfrog.itch.io/rootproblem]Itch.io[/url]]",
+  "source_sha256": "0b79cb906f5d789638ea06847c9d50fac9c4b38cb8e09cb10f32a0ac1120d41d",
+  "translation": "跟隨剛取得執業資格的心理治療師梅爾，度過幫助個案的普通一天。收集關鍵字，追問細節，向個案提問，並將關鍵字相互對應，找出問題的根源。\n\n本作製作於2023年Global Game Jam，主題為「根」。\n\n[摘自[url=https://goatfrog.itch.io/rootproblem]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v42514"
+}

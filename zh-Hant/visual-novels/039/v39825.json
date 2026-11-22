@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39825",
+  "type": "visual_novel",
+  "name": "Beyond R: Rule Ripper",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A death game of 10 rules assigned to each of the 10 players, a mysterious bar, and 10 hours to live. You can only disobey your own rule. If you die, your rule is removed from the game, until only 3 remain. An evolving game that changes with every death.\n\nBut he won’t allow it.\n\nRefusing to play into the hands of his kidnapper, one player challenges the game itself. \n\nSearch for what’s beyond and overcome the system, or be eaten by it. But don’t forget...that you are no hero.",
+  "source_sha256": "5a9a751681d07993bd08cb3639b4c7f6f3e9a69d0f5b402e3de7dc11567665c4",
+  "translation": "這是一場死亡遊戲：10名玩家各自被分配一條規則，地點是一間神秘酒吧，生存時間僅有10小時。你只能違反自己的規則。若你死亡，你的規則就會從遊戲中移除，直到只剩下3條。遊戲會隨著每一次死亡而變化。\n\n但他不會允許這一切發生。\n\n一名玩家拒絕任由綁架者擺佈，轉而挑戰這場遊戲本身。\n\n尋找規則之外的一切並戰勝系統，否則就會被它吞噬。但別忘了……你不是英雄。",
+  "vndb_url": "https://vndb.org/v39825"
+}

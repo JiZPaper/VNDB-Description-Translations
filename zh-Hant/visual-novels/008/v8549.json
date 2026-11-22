@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8549",
+  "type": "visual_novel",
+  "name": "Abunai Tengu Densetsu",
+  "original_name": "あぶない天狗伝説",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Kazumi Kinoshita and Sanae Kanazawa are two high school girls who go on a school trip together with their classmates. Shortly after their arrival at the camp dormitory, various girls become targeted by unknown assailants. In order to solve the mystery the two heroines must talk to their classmates, collect clues, and eventually find the culprits.\n\nAbunai Tengu Densetsu is an adventure game with menu-based navigation and input. Most screens offer a fairly long list of verb commands, some of which must be combined with objects or persons selected from a sub-menu in order to interact with the environment. The game allows the player to visit many different rooms and other locations in any order; however, certain events must be triggered in order to advance, sometimes by repeatedly selecting commands. Certain situations require the player to find items and use them in a different location.\n\n[From [url=http://www.mobygames.com/game/abunai-tengu-densetsu]MobyGames[/url]]",
+  "source_sha256": "c5a4cab49f310184959905e953e80115d6d0dc99549ddd80b1d4d811c1fef307",
+  "translation": "木下和美與金澤早苗是兩名高中女生，她們和班上同學一起參加校外教學。眾人抵達營地宿舍後不久，多名女生便相繼遭到身分不明者襲擊。為了破解謎團，兩位女主角必須與同學交談、蒐集線索，最終找出犯人。\n\n《危險天狗傳說》是一款透過選單移動並下達指令的冒險遊戲。大多數畫面都會提供相當長的動詞指令清單，其中一些指令必須與子選單中選擇的物品或人物組合，才能同環境互動。玩家可以按任意順序前往不同房間及其他地點；然而，要推動劇情發展，必須先觸發特定事件，有時還要反覆選擇同一指令。某些情境下，玩家需要找到物品，再到其他地點使用。\n\n[引自[url=http://www.mobygames.com/game/abunai-tengu-densetsu]MobyGames[/url]]",
+  "vndb_url": "https://vndb.org/v8549"
+}

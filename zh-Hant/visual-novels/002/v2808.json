@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2808",
+  "type": "visual_novel",
+  "name": "Chooita ~Subarashiki Chounouryoku Jinsei~",
+  "original_name": "ちょ～イタ ～素晴らしき超能力人生～",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The story is about a guy that had an accident and from that got x ray vision. After having this supernatural power, unusual events start occuring.",
+  "source_sha256": "49b895e8edd61c9fcb240a7ab6664e1435f404c66d0ef8091a3651db24a6e1cb",
+  "translation": "故事講述一名男子遭遇事故後獲得透視能力。擁有這股超能力後，他身邊開始發生一連串不尋常的事。",
+  "vndb_url": "https://vndb.org/v2808"
+}

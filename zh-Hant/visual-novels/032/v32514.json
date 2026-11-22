@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32514",
+  "type": "visual_novel",
+  "name": "BAD END THEATER",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Welcome to BAD END THEATER!\nSelect your protagonist and explore a variety of terrible fates!\n\nThe decisions you make in one story will affect the others. You can toggle these behaviors to open up new paths! Unfortunately, every path leads to a bad ending...\n\nCan you find a way to save this unlucky cast?\n\n[Edited from [url=https://store.steampowered.com/app/1764390/]Steam[/url]]",
+  "source_sha256": "00ac6a79c9c25cc33a8a91cfd35c48bebd235e7ee9082425c65e3841085197c0",
+  "translation": "歡迎來到壞結局劇院！\n選擇你的主角，探索各種悲慘命運！\n\n你在一個故事中作出的決定，也會影響其他故事。調整這些行為，就能開啟新的道路！可惜，每一條路都通向壞結局……\n\n你能找到辦法，拯救這群倒霉的演員嗎？\n\n[編譯自[url=https://store.steampowered.com/app/1764390/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v32514"
+}

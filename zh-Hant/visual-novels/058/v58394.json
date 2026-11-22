@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58394",
+  "type": "visual_novel",
+  "name": "Ben 10: A Day with Gwen",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "With Grandpa Max gone for the day, you have to spend some quality time with your cousin Gwen. Watch some movies, play some games, do some... stuff with her.",
+  "source_sha256": "11229701a07119233bd2dbf4403731b0d3d484dd989aef225f19f02584fc5ed5",
+  "translation": "馬克爺爺一整天都不在，你只好和堂妹小玟好好相處。看看電影，玩玩遊戲，再和她做點……別的。",
+  "vndb_url": "https://vndb.org/v58394"
+}

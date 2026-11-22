@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23952",
+  "type": "visual_novel",
+  "name": "Quel Visual Novel est fait pour moi ?",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "\"Which Visual Novel is made for me ?\" is a guide designed to help different audiences find visual novel that suit their tastes. This is not a story but rather a non-exhaustive inventory listing the titles that currently exist in French.\n\nUsing different criteria (importance of romance, support, genre, etc.), the fictional character of Mirei will advise you by tapping into her catalog, which currently contains about fifty titles. It is not excluded that it will be updated in the future, depending on the success of the initiative!\n\nWhether you're a beginner looking for their first VN or simply curious, Mirei will do her best to help you find what you need!",
+  "source_sha256": "9d2c063197988f61601bbddb68fa489a0b411481ce40a69088978c020431c21b",
+  "translation": "《哪部視覺小說適合我？》是一份指南，旨在幫助不同類型的讀者找到符合自己口味的視覺小說。這不是一個故事，而是一份持續收錄作品的清單，列出目前存在的法語視覺小說。\n\n按戀愛元素的比重、遊玩平台、作品類型等不同標準，虛構角色美玲會從她目前約收錄50部作品的目錄中給出建議。未來可能會根據計畫進展是否順利更新內容！\n\n無論你是尋找第一部VN的初學者，還是單純好奇，美玲都會盡力幫你找到所需的作品！",
+  "vndb_url": "https://vndb.org/v23952"
+}

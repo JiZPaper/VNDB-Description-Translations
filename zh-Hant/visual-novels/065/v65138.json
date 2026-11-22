@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65138",
+  "type": "visual_novel",
+  "name": "ChikatetsuOWA",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This is a short visual novel about routine, exhaustion, and the feeling that life is slipping away.\n\nThe protagonist is an ordinary young woman trapped in an endless cycle: home → metro → work → home. No meaning. No change. No hope. Through inner monologues and interactions with the people around her, the player gradually shapes her state of mind — whether she becomes a little more human… or finally breaks apart completely.",
+  "source_sha256": "ef128f4c5387c68c08f09f291863cce36770cc88747790783f0748ec39536f41",
+  "translation": "這是一部短篇視覺小說，講的是日復一日的生活、揮之不去的疲憊，以及眼看著人生從指間流走的感覺。\n\n主角是一個普通的年輕女子，困在一個無休無止的循環裡：家→地鐵→工作→家。沒有意義，沒有變化，沒有希望。透過她的內心獨白，以及她與周圍人的來往，玩家將一點點塑造她的心境，讓她重新找回一點為人的感覺……或者，讓她最終徹底崩潰。",
+  "vndb_url": "https://vndb.org/v65138"
+}

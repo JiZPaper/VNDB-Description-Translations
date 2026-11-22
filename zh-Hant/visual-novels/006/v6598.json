@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6598",
+  "type": "visual_novel",
+  "name": "Yakin Jantou",
+  "original_name": "夜勤雀棟",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This game is another mahjong-tournament. \nIn the story-mode player takes role of the doctor of the original game and challenges all nurses of the hospital in a strip-mahjong tournament.\nThe game offers also a single or multiplayer option for playing against characters without strip element or against other players by LAN.\n\n[From [url=https://discuss.jastusa.com/discussion/4079/review-about-yakin-jyanto]Unicorn review[/url]]",
+  "source_sha256": "8781e0869ca0050f3bd41582889fca53428558ed87f07fd5bb1973e8c74f0332",
+  "translation": "這是一款麻將錦標賽遊戲。\n故事模式中，玩家扮演原作的醫師，向醫院所有護理師發起脫衣麻將挑戰。\n遊戲還提供單人及多人選項：可與角色進行不含脫衣要素的對局，也可通過區域網路與其他玩家對戰。\n\n[摘自[url=https://discuss.jastusa.com/discussion/4079/review-about-yakin-jyanto]Unicorn review[/url]]",
+  "vndb_url": "https://vndb.org/v6598"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40090",
+  "type": "visual_novel",
+  "name": "God's Will",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "God's will is a visual novel-like game about the apocalypse.\n\nYou play as one of 3 dinosaurs, sent to carry out a simple task: destruction. Each has their own paths to take, but be careful cause should they fail, it will not be their enemies who meet their end, but they themselves!\n\n[From [url=https://autumnmnmn.itch.io/gods-will]Itch.io[/url]]",
+  "source_sha256": "c765b6a2922d0156e87a102e3623f9a8c37db2d96da9c2f4ca30822b5cc9decd",
+  "translation": "這是一款以末日為題材、類似視覺小說的遊戲。你將扮演3隻恐龍中的一隻，奉命執行一項簡單任務：毀滅。每隻恐龍都有各自的行動路線，但要小心，一旦任務失敗，迎來末日的就會是它們自己，而非敵人！[引自[url=https://autumnmnmn.itch.io/gods-will]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v40090"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23679",
+  "type": "visual_novel",
+  "name": "CisLugI",
+  "original_name": "CisLugI-シスラギ-",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A world in which everyone has had a 'Dignity Maintenance Device' implanted in their brains that allows them to commit painless suicide at any moment simply by stating that they want to die.\n\nHow does this affect society?",
+  "source_sha256": "8c7ccfa3a3fa7207a4930d68a71b49e554aa96f6723d6788c234b2827ce6f19f",
+  "translation": "這是一個世界：所有人的大腦中都植入了「尊嚴維護裝置」，只要說出想死，就能隨時無痛自殺。\n\n這會如何影響社會？",
+  "vndb_url": "https://vndb.org/v23679"
+}

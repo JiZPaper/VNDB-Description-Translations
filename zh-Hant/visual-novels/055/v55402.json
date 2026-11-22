@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55402",
+  "type": "visual_novel",
+  "name": "Waiting",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You have been ordered by the royal family to hunt down and kill the vampire hiding in Fontaine Castle. Failure will result in the repossession of your farm and land as penance for defiant treason against King Markus and his decree.\n\nWhat are you waiting for?\n\n[From [url=https://vamichaelalaws.itch.io/waiting]itch.io[/url]]",
+  "source_sha256": "8e641786b9a4a3db0505e894685c6bd04068433869bbd84c16b7e9cd65e81a2f",
+  "translation": "你奉王室之命，前去搜殺躲在楓丹城堡裡的吸血鬼。一旦失敗，便算是違抗馬庫斯國王的諭令、犯下叛逆之罪，你的農場與土地都將被收回抵罪。\n\n你還在等什麼？\n\n［摘自[url=https://vamichaelalaws.itch.io/waiting]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v55402"
+}

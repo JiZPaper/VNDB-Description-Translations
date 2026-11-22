@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v23681",
+  "type": "visual_novel",
+  "name": "Amnesia",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A short visual novel following the path of two people who wake up in a forest trying to figure out who they are, where they are, and how to get wherever home is.\n[From [url=https://skipsman.itch.io/amnesia-demo] itch.io[/url]]",
+  "source_sha256": "c6d35253d0fd41a6274160893f8a3d52a5870e72542038dcf806d8bc71093d5a",
+  "translation": "一部短篇視覺小說，講述兩個人在森林中醒來，試圖弄清自己是誰、身處何方，以及如何回到所謂的家。\n\n（來源：[url=https://skipsman.itch.io/amnesia-demo]itch.io[/url]）",
+  "vndb_url": "https://vndb.org/v23681"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v6014",
+  "type": "visual_novel",
+  "name": "Machine Maiden Gaiden ~Cynthia~",
+  "original_name": "Machine Maiden外伝 ～シンシア～",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This game stars the other guy from Machine Maiden. He is a psychologist scouted by a high tech company to train a robot doll. He can make her into his lost sister, a fighting machine or a maid. This game is different from the previous one since this is a choose your story game instead of simulation.\n\n[From [url=https://web.archive.org/web/20160403170830/http://members.shaw.ca:80/lisun/jhag-wnm.htm]Li's Fun House[/url]]",
+  "source_sha256": "50806aef126bcaf5ab7984dd00a102d757f49aef64b1e138ec3f0c31669ec083",
+  "translation": "本作由《Machine Maiden》中的另一名男性角色擔任主角。他是一名心理學家，被一家高科技公司發掘，負責訓練一具機器人偶。他可以把她培養成自己已故的妹妹、戰鬥機器或女僕。與前作的模擬玩法不同，本作是一部透過選項推進劇情的遊戲。\n\n[摘自[url=https://web.archive.org/web/20160403170830/http://members.shaw.ca:80/lisun/jhag-wnm.htm]Li's Fun House[/url]]",
+  "vndb_url": "https://vndb.org/v6014"
+}

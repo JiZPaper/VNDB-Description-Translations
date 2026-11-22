@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58608",
+  "type": "visual_novel",
+  "name": "Yuuzai×Muzai",
+  "original_name": "『有罪×無罪』（ゆうざい×むざい）",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This adventure game centers around the lay judge system . Its release date coincided with the implementation of the lay judge system in Japan. The player takes on the role of a juror, deliberates with other jurors to determine whether a defendant in a given case is guilty or not guilty. The four cases included in the game are not connected in a continuum; each is a separate case (though previous jurors may be called as witnesses). Players can also change their name with each new trial (in consideration of the fact that players would not be selected to serve as jurors consecutively). While players can simulate a lay judge system , unlike the Ace Attorney game , the goal is not necessarily to overturn a verdict. Instead, players can influence the verdict, turning a guilty person into an acquittal or vice versa. Each case is also scored, allowing players to check whether they have reached the correct verdict.\n\n[Translated from [url=https://ja.wikipedia.org/wiki/%E6%9C%89%E7%BD%AA%C3%97%E7%84%A1%E7%BD%AA#%E5%A4%96%E9%83%A8%E3%83%AA%E3%83%B3%E3%82%AF）]Wikipedia[/url]]",
+  "source_sha256": "854fdc6147d218fdd6302ed3eaa038716d8f80f42247f81bfc2d4889023df20c",
+  "translation": "這款冒險遊戲以裁判員制度為主題，發售日期正值日本正式實施該制度。玩家扮演一名裁判員，與其他裁判員合議，決定案件的被告有罪還是無罪。遊戲收錄的四起案件相互獨立，劇情並不前後相承（不過，先前的裁判員可能會以證人身分出庭）。考慮到現實中同一個人不會接連被選為裁判員，玩家在每次新審判開始時也可以更改名字。遊戲讓玩家模擬參與裁判員制度。和《逆轉裁判》不同，這裡的目的未必是推翻判決。玩家可以左右最終裁決，讓原本有罪的人被判無罪，反過來也有可能。每起案件還設有評分，供玩家確認自己是否做出了正確的判決。\n\n［譯自[url=https://ja.wikipedia.org/wiki/%E6%9C%89%E7%BD%AA%C3%97%E7%84%A1%E7%BD%AA#%E5%A4%96%E9%83%A8%E3%83%AA%E3%83%B3%E3%82%AF）]維基百科[/url]］",
+  "vndb_url": "https://vndb.org/v58608"
+}

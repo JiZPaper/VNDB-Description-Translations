@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42433",
+  "type": "visual_novel",
+  "name": "Radiant Tale ~Fanfare!~",
+  "original_name": "ラディアンテイル ～ファンファーレ！～",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Fan disk of Radiant Tale.\n\nAfter Story:\nAfter stories set after happy end of the first route for all LI.\n\nAt the end of a journey filled with tears, laughter, and the company of your comrades, what you find, is...\n\nIf Story:\nJinnia and Liyan route set after normal end of the first game.\n\n\"Be my secretary!\"\n\nInterlude:\nShort stories set in the timeline of the common route in the first game.",
+  "source_sha256": "a339c6c3025e157a5bdd111fb67a65a00d2a9f4b463bf06a426a532faf503684",
+  "translation": "《絢爛傳說》的粉絲向衍生作品。\n\n後日談：\n收錄前作所有可攻略角色路線幸福結局之後的故事。\n\n一段有淚水、有歡笑、有夥伴相伴的旅途結束後，你找到的是……\n\n假如故事：\n發生在前作普通結局之後的吉尼亞與里昂路線。\n\n「來當我的秘書吧！」\n\n幕間故事：\n發生在前作共通路線期間的短篇故事。",
+  "vndb_url": "https://vndb.org/v42433"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11242",
+  "type": "visual_novel",
+  "name": "A Murder In The Public Domain",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A Murder In The Public Domain is a murder mystery game or visual novel built from public domain movies, sounds, pictures, and images. I cobble these all together into a mystery story.  The game follows the adventures of Dirk Caliber and Mary Livingston as they try to solve the murder of her mysterious employer.  The game will always end at a conclusive point but I intend to extend it.  How many times? No idea.  In what direction will the story go?  No idea.  As I find new movies, clip art, images, sounds, and music, I let them guide the story.  Since I'm doing the programming I also expect I'll extend the user interface over time.  How?  No idea, usually it just comes to me.  Hope you enjoy it.",
+  "source_sha256": "3801b5394c0ff737f67ac4f0294710f2d7275d518ecccd567c012278a3777c58",
+  "translation": "《公共領域謀殺案》是一款由公版電影、聲音、照片與影像製作而成的推理遊戲，也可以說是一部視覺小說。我把這些素材拼接成一個謀殺故事。\n\n遊戲講述德克．卡利伯與瑪麗．利文斯頓的冒險：兩人試圖查明瑪麗神秘僱主被殺的真相。故事每次都會在一個完整的節點結束，但我打算繼續擴充。要擴充多少次？不知道。故事會朝哪個方向發展？不知道。\n\n每當我找到新的電影片段、剪貼畫、圖片、聲音或音樂，就會讓它們引導故事前進。因為程式也是我自己編寫的，所以使用者介面也會隨著時間不斷擴充。怎麼擴充？不知道，通常靈感會自己出現。希望你能享受這段體驗。",
+  "vndb_url": "https://vndb.org/v11242"
+}

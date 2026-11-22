@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34340",
+  "type": "visual_novel",
+  "name": "TWEWYSONA",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A crossover visual novel between The World Ends With You and modern Persona.",
+  "source_sha256": "0363d0469c95957597f38828069986b89215207130a785beb6eb1a1ec0766c18",
+  "translation": "一部將《美麗新世界》與《女神異聞錄》系列現代作品相融合的跨界視覺小說。",
+  "vndb_url": "https://vndb.org/v34340"
+}

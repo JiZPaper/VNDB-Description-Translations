@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v45545",
+  "type": "visual_novel",
+  "name": "Pizza Tower Academy - Dating Sim",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A school-based dating sim parody featuring the cast of Pizza Tower.",
+  "source_sha256": "47d745514f95bb3faf791af86e69af072271e77163d43026d9dbb2e58ede9683",
+  "translation": "一款校園背景的惡搞戀愛模擬遊戲，以《披薩塔》的角色為主角。",
+  "vndb_url": "https://vndb.org/v45545"
+}

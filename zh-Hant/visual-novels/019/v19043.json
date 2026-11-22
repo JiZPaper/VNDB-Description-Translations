@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19043",
+  "type": "visual_novel",
+  "name": "The Next World",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "TNW is a visual novel/strategy hybrid in the vein of The Banner Saga, King of Dragon Pass and Oregon Trail, with an emphasis on planning and decision-making over combat. Keep as many colonists alive as possible by making the tough decisions which will determine how your adventure unfolds. Build colony structures, salvage wreckage, resolve problems with multiple branching outcomes, and manage your colony’s dwindling supplies; all while playing through an intense story of intrigue, sabotage, desperation and survival, by writer Ryan A. Span (FRONTIERS, Mount&Blade, Euclidean).",
+  "source_sha256": "1d17efed2d03488afa99fe6dd7bd04e8627fe78f8ed158a0715e0d8d294dcbc5",
+  "translation": "《The Next World》是一部視覺小說與策略遊戲的混合作品，風格類似《旗幟傳說》、《King of Dragon Pass》和《俄勒岡之旅》，重點在於規劃與決策，而非戰鬥。做出艱難選擇，決定冒險將如何展開，儘可能讓更多殖民者活下來。建造殖民地設施，打撈殘骸，解決會產生多種分支結果的問題，同時管理不斷減少的殖民地補給；在萊恩．A.．斯潘（《邊疆》《騎馬與砍殺》《歐幾里得》）創作的陰謀、破壞、絕望與求生故事中前進。",
+  "vndb_url": "https://vndb.org/v19043"
+}

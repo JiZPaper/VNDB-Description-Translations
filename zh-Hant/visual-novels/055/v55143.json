@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55143",
+  "type": "visual_novel",
+  "name": "Shuihuolian: Renyu Gongzhu",
+  "original_name": "睡火莲：人鱼公主",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "In the middle of the ocean, a mysterious murder is taking place.\nA mermaid princess awakens on the shipboard, and she doesn't remember anything....\nCan she discern the truth, and uncover her buried memories?",
+  "source_sha256": "b3e8ca26c2f021ab39bae2096ba728f5cb63b1da3f67a655df011463ba39f6db",
+  "translation": "茫茫大海上，一樁神秘的謀殺案正在發生。\n人魚公主在甲板上醒來，什麼都不記得了……\n她能辨明真相，找回深埋的記憶嗎？",
+  "vndb_url": "https://vndb.org/v55143"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9838",
+  "type": "visual_novel",
+  "name": "Eternal Fantasy: Progressive",
+  "original_name": "エターナルファンタジー プログレッシブ",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Several short stories, preceding the events of Eternal Fantasy, as well as the introduction into the EF RPG system.",
+  "source_sha256": "982ec11aeb5a41e1a08dd1a479397aed985797cd0af1a46c5f1da1d1c65cf1c1",
+  "translation": "幾段發生在《Eternal Fantasy》劇情之前的短篇故事，以及對《EF》RPG系統的介紹。",
+  "vndb_url": "https://vndb.org/v9838"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21608",
+  "type": "visual_novel",
+  "name": "3nin-me no Raison D'être -Dead ED-",
+  "original_name": "3人目のレーゾンデートル -Dead ED-",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A \"what if\" story focusing on Ian Macmillan.\n\nThe creator recommends that players complete [url=/v21607]3nin-me no Raison D'être[/url] prior to playing -Dead ED-.\n\n-Dead ED- was distributed for a limited time only; from August 3rd until August 16th in 2015.",
+  "source_sha256": "3988e91324a3a6a4d4126d454f3c5d9d237cf1ddbb2def06e0d4aa3a6740b077",
+  "translation": "一則聚焦伊恩．麥克米倫的「假如」故事。\n\n創作者建議玩家先完成《[url=/v21607]第三人的生存意義[/url]》，再遊玩《-Dead ED-》。\n\n《-Dead ED-》只在2015年8月3日至16日限期發行。",
+  "vndb_url": "https://vndb.org/v21608"
+}

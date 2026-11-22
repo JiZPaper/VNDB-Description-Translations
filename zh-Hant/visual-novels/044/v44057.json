@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44057",
+  "type": "visual_novel",
+  "name": "The Prospector",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You play as Clark and Lucas, two scientists who are breaking into their government-controlled laboratory in search of answers to a mysterious blackout... and the whereabouts of their experimental human clone.\n\n[From [url=https://moonviewingtruth.itch.io/the-prospector-demo]Itch.io[/url]]",
+  "source_sha256": "eae1a756e3a3430ac95837257d903c36677661ba35f814cd61191ee983b4ff85",
+  "translation": "你將扮演克拉克和盧卡斯兩名科學家，闖入自己所在、由政府管控的實驗室，調查一場神秘停電的真相……以及他們實驗中的複製人究竟去了哪裡。\n\n（摘自[url=https://moonviewingtruth.itch.io/the-prospector-demo]itch.io[/url]）",
+  "vndb_url": "https://vndb.org/v44057"
+}

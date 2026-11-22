@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38194",
+  "type": "visual_novel",
+  "name": "Inn Another World",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This is a hand drawn Visual Novel/Dating Sim game, where you run an Inn in, you guessed it, another world. Thrown into an unfamiliar world, you must survive and manage your inn while learning about this new world you find yourself in.",
+  "source_sha256": "b93b86e304c051bb4f5c7f4ddd0515e7574c5909824acff89040190dfadc2ff2",
+  "translation": "這是一款手繪風格的視覺小說／戀愛模擬遊戲，你將在一個異世界經營旅店，沒錯，就是異世界。被拋入陌生世界後，你必須一邊求生、一邊管理旅店，同時瞭解自己身處的新世界。",
+  "vndb_url": "https://vndb.org/v38194"
+}

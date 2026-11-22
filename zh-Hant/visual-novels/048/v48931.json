@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48931",
+  "type": "visual_novel",
+  "name": "Is Winter Real?",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "\"Is Winter Real?\" is a short horror game made in five days for Winter Visual Novel Jam 2022. \n\nYou find a weird machine with a mysterious AI, apparently designed to generate images based on the prompt you enter. \n\nImages can do no harm, right?\n\n[From [url=https://aniszorek.itch.io/is-winter-real]Itch.io[/url]]",
+  "source_sha256": "2f7192f726da0eb271e9d7d70b1f537bbbf9467f3850ad4026616f18c7674d5c",
+  "translation": "《Is Winter Real?》是一款短篇恐怖遊戲，為參加2022年冬季視覺小說創作活動而作，開發花了五天。\n\n你發現了一臺裝有神秘人工智慧的古怪機器。它似乎會根據你輸入的提示產生影像。\n\n幾張圖片又傷不了人，對吧？\n\n〔摘自[url=https://aniszorek.itch.io/is-winter-real]itch.io[/url]〕",
+  "vndb_url": "https://vndb.org/v48931"
+}

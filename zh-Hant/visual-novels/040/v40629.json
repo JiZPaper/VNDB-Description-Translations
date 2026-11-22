@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40629",
+  "type": "visual_novel",
+  "name": "Into the Mist",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A wounded fae is found deep in the Old Woods where only fellow elves should be. Will you help him?\n\n[From in-app]",
+  "source_sha256": "8dfe05aa51da124608424219ee7591502060ea144f4ef63983c3194ed5f113df",
+  "translation": "一名受傷的妖精在古老森林深處被發現，那裡本該只有其他精靈出沒。你願意幫助他嗎？[引自遊戲內文]",
+  "vndb_url": "https://vndb.org/v40629"
+}

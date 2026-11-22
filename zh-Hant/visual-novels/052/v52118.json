@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52118",
+  "type": "visual_novel",
+  "name": "Retrospection",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A short game made for the 72-hour murderboy game jam, starring Felix Henbane's childhood from Idealization.\n\n[From [url=https://officalantitherapist.itch.io/retrospection]Itch.io[/url]]",
+  "source_sha256": "86d641ea1aee069f9183c6be2af6853851cde72eb6753d1d6a5295899908dcfd",
+  "translation": "一款為72小時Murderboy遊戲創作活動製作的短篇遊戲，主角是《Idealization》中童年時期的菲利克斯．亨貝恩。\n\n［取自[url=https://officalantitherapist.itch.io/retrospection]Itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v52118"
+}

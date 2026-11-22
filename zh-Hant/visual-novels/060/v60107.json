@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60107",
+  "type": "visual_novel",
+  "name": "Mobile Murder Mystery",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Follow the story of the Unseen Narrator, whose repetitive life falls apart when their co-worker decides to quit on a whim.\n\n[From [url=https://store.steampowered.com/app/4036110/]Steam[/url]]",
+  "source_sha256": "3c3b78a647107af40317b0d1f745435c35c5a5b5de0d8744fdc743125cdb538f",
+  "translation": "跟隨一位始終沒有露面的敘述者，看看一名同事心血來潮辭職之後，那日復一日的生活是怎樣分崩離析的。\n\n［摘自[url=https://store.steampowered.com/app/4036110/]Steam[/url]］",
+  "vndb_url": "https://vndb.org/v60107"
+}

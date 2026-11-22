@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57896",
+  "type": "visual_novel",
+  "name": "We Can't Keep Doing This",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Sealed in a cave by your village for alleged crimes against the church, you must find your way out before you starve to death.\n\n[From [url=https://thelovelandfrogwoman.itch.io/we-cant-keep-doing-this]Itch.io[/url]]",
+  "source_sha256": "97fc86a704794882555704ec2780a04c2aa445bf87058f7fdc0ea06383f2683e",
+  "translation": "村民們指控你犯下了針對教會的罪行，把你封在一處洞穴裡。你必須在餓死之前找到出路。\n\n［摘自[url=https://thelovelandfrogwoman.itch.io/we-cant-keep-doing-this]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v57896"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65157",
+  "type": "visual_novel",
+  "name": "Violet Hearts: Blackwood Keep",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You're asked to heal a dying man, only to discover you're tied to something far more dangerous than you realize. Can you save the demon and uncover the secrets of your past without being taken by dark magic?",
+  "source_sha256": "a3cf8b0ebcc42de126ed6b37965fc6f5a765da12bc7e6e51d4259b2210a6f14e",
+  "translation": "有人請你救治一個垂死的男人，你卻發現自己牽涉的事情遠比想像中危險。你能救下那個惡魔，揭開自己過去的秘密，同時逃過黑魔法的魔掌嗎？",
+  "vndb_url": "https://vndb.org/v65157"
+}

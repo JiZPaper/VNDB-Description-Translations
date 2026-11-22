@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66933",
+  "type": "visual_novel",
+  "name": "Jinglebug Journey",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A Visual Novel about a cursed video game, haunting a college student, \"Max\", who is in search for answers about his identity and happiness.\n\n[From [url=https://uberthemeh.itch.io/jinglebug-journey]itch.io[/url]]",
+  "source_sha256": "16ab955e34a397579b20d985d7e6febed261d6dfceca55f722d12bd245ebdf89",
+  "translation": "一部講述受詛咒的電玩遊戲的視覺小說。它纏上了一個名叫馬克斯的大學生，而馬克斯正在為自己的身分與幸福尋找答案。\n\n［摘自[url=https://uberthemeh.itch.io/jinglebug-journey]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v66933"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51829",
+  "type": "visual_novel",
+  "name": "Ways of Life",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You're a young man whose father recently left mysteriously. You need to find out what happened to him, but, in the meantime, you can have fun with girls and even discover your bloodline secrets.​",
+  "source_sha256": "81473aa3a4bbe1f0636e56f42bd7da352ed05916d9deedcb1fc2b53092461fab",
+  "translation": "你是個年輕男子，父親最近離奇出走了。你得查清他身上發生了什麼，不過在這期間，你也可以和姑娘們找找樂子，甚至發現藏在自己血脈裡的秘密。",
+  "vndb_url": "https://vndb.org/v51829"
+}

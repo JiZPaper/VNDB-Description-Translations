@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28714",
+  "type": "visual_novel",
+  "name": "Friendly lab",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Welcome, researcher.\nYou will soon be conducting a gentle experiment on our two subjects.\nThe goal of this experiment is not to facilitate the subjects' escape.\n\nThe point of the experiment is to measure the impact of a researcher's interference on the subjects.\nThe experiment is a safe, secure and gentle one, involving no force, commands or torture.\n\n\nA small, locked room with a clock.\nTwo subjects with missing memories.\nA researcher. You.\n\nYou will give a variety of items to the subjects.\nThe final result will depend on you.\n\n[From the [url=http://tennenouji.net/friendlylab_unlock/#story]official website[/url]]",
+  "source_sha256": "f9e71099e8b0697d85db856d828778ba958aac03da6baa9abd21bd388433ce88",
+  "translation": "歡迎，研究員。\n你即將對我們的兩名實驗對象，進行一場溫和的實驗。\n實驗的目的，並不是幫助他們逃脫。\n\n實驗要測量的，是研究員的干預對實驗對象造成的影響。\n這是一場安全、穩妥而溫和的實驗，沒有強迫、命令或拷問。\n\n一間上鎖的小房間，一隻時鐘。\n兩名失去記憶的實驗對象。\n一位研究員，也就是你。\n\n你將向實驗對象提供各種物品。\n最終結果，取決於你。\n\n［摘自[url=http://tennenouji.net/friendlylab_unlock/#story]官方網站[/url]］",
+  "vndb_url": "https://vndb.org/v28714"
+}

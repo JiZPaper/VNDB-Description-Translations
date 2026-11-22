@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10622",
+  "type": "visual_novel",
+  "name": "Tsumugi-sama no Hanamuko Choukyou Nikki",
+  "original_name": "つむぎ様の花婿調教日記",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Written by the writer of the Nurse no Obenkyou series, centering around one of its heroines, Tsumugi, after she won a popularity poll.",
+  "source_sha256": "95fe3edc55bdaa9966ac3930044fe43429c7d2d956524e258acf8f1d23fc60b0",
+  "translation": "由《護士的學習》系列的劇本作者撰寫，以在人氣投票中獲勝的女主角紬為中心展開的故事。",
+  "vndb_url": "https://vndb.org/v10622"
+}

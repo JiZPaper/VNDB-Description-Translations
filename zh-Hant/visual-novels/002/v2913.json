@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2913",
+  "type": "visual_novel",
+  "name": "Shinkyoku Soukai Polyphonica - AFTER SCHOOL",
+  "original_name": "神曲奏界ポリフォニカ AFTER SCHOOL",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The third installment of studio Ocelot's Polyphonica Crimson series, releasing as an all-ages kinetic novel. The story is set between game episodes 3&4, and the light novels.",
+  "source_sha256": "8f38cff0cae3b184c9e27e334a8c172e6eaf7810269cae65300ddd65c5174139",
+  "translation": "Ocelot製作的《神曲奏界Polyphonica》紅系列的第三部作品，以全年齡向單一路線視覺小說的形式發行。故事發生在遊戲第三、第四話與輕小說之間。",
+  "vndb_url": "https://vndb.org/v2913"
+}

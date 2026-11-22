@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65783",
+  "type": "visual_novel",
+  "name": "Contact",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Main character Mike comes in the summer to see his grandmother. She runs a local store, but things are not going the way she did a couple of years ago.\nMike decides to help her grandmother restore her household and meet her old friends at the same time.",
+  "source_sha256": "c9b9fefdba2f4e935728c8244127edd130af6e7310640eefaf1ab5006722e8f0",
+  "translation": "夏天，主角邁克來探望祖母。她在當地經營一家商店，近況卻不如幾年前順利。\n邁克決定幫祖母把家業重新打理起來，順便見見她的老朋友們。",
+  "vndb_url": "https://vndb.org/v65783"
+}

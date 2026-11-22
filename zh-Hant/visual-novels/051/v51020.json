@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51020",
+  "type": "visual_novel",
+  "name": "Werewolf: The Apocalypse - Purgatory",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A choice-driven RPG thriller set in the World of Darkness universe. Step into the shoes of Samira, a young werewolf refugee in Poland, as she battles dark forces and loneliness, caught between rage and despair. How will your story unfold?",
+  "source_sha256": "dea26a361bec9a2be7c3b2a1a0c6b409666acf4c56fe7d87e96a840269351030",
+  "translation": "這是一款以「黑暗世界」為背景、由玩家選擇推動劇情的驚悚角色扮演遊戲。你將成為薩米拉，一名身在波蘭的年輕狼人難民。在憤怒與絕望之間，她既要抵抗黑暗勢力，也要與孤獨搏鬥。你的故事又將如何展開？",
+  "vndb_url": "https://vndb.org/v51020"
+}

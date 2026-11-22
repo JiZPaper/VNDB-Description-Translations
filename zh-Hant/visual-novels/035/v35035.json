@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35035",
+  "type": "visual_novel",
+  "name": "Memory Leak",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "When a two bit hacker gets blackmailed by a computer virus, he is forced to navigate a dangerous path in order to escape its clutches. The player guides him on his adventure, and experiences many 'bad ends' along the way...\n\n[From [url=https://artdecade.itch.io/memory-leak]Itch.io[/url]]",
+  "source_sha256": "98389465e1b169670366037cdc2e4b8978358c250b27228f253ff57be4579eac",
+  "translation": "一個不入流的駭客遭到電腦病毒要挾，為了擺脫它的控制，只能踏上一條危機四伏的道路。玩家將引導他展開冒險，途中會經歷許多「壞結局」……\n\n[摘自[url=https://artdecade.itch.io/memory-leak]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v35035"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65078",
+  "type": "visual_novel",
+  "name": "Rat Cranium",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A jaded detective spends his days handling routine investigations. But as strange clues begin appearing in case after case, he starts tracing the outlines of an urban legend lurking beneath the city. To uncover the truth, he will have to confront it directly and risk everything.",
+  "source_sha256": "ba44276b8b6ca187e69c8e88d596d2dcd11241b19171f3a3b00bfe62921e2421",
+  "translation": "一名對工作早已厭倦的偵探，日復一日地處理著例行調查。可當一個接一個的案件中開始出現奇怪的線索，他漸漸循著這些線索，摸到了一個蟄伏於城市地下的都市傳說的脈絡。要查明真相，他就得賭上一切，直面那個傳說。",
+  "vndb_url": "https://vndb.org/v65078"
+}

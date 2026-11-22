@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21449",
+  "type": "visual_novel",
+  "name": "Mairusu-Love-Tale",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "In a world where content is generated very quickly, we've decided to train a MairusuBot to generate content on its own. You get 30 Days to build up love for MairusuBot and get to 100% to make it the perfect clone! You'll have to talk to him, answer his questions, and build up love!",
+  "source_sha256": "d6f76574108b124d0b6236e13fe34e966280d633daa757685f66fb4f8a43bdc9",
+  "translation": "在內容快速生成的世界裡，我們決定訓練MairusuBot，讓它自己生成內容。你有30天時間培養MairusuBot的愛意，將好感度提升到100%，把它變成完美複製體！你需要與它交談、回答問題、培養感情！",
+  "vndb_url": "https://vndb.org/v21449"
+}

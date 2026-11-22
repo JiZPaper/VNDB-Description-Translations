@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59874",
+  "type": "visual_novel",
+  "name": "Bonding Experience",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The world stopped breathing. Rory didn’t. His boyfriend’s power froze time itself.\n\nNow he’s the only one left to put it right.",
+  "source_sha256": "cc2655354b4e252c19ed05f5b659b6adc55d6104e6b5f0020328cc904811b853",
+  "translation": "世界屏住了呼吸，羅里卻沒有。他的男朋友用自己的能力凍結了時間本身。\n\n如今，只剩下他一個人能讓一切恢復正常。",
+  "vndb_url": "https://vndb.org/v59874"
+}

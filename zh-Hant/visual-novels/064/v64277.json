@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64277",
+  "type": "visual_novel",
+  "name": "CLIMAX ZONE RE",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This novel is inspired by the movie \"Planet of Apes\" and it features three main characters crash-land on a planet and their rough adventure there.",
+  "source_sha256": "30f3f9358f5e469a2e65ea0da6cdc1b0e7bde81dc1fca5c71731dd3ac0c954d4",
+  "translation": "這部視覺小說的靈感來自電影《浩劫餘生》。三位主角迫降在一顆星球上，並在那裡經歷了一場艱險的冒險。",
+  "vndb_url": "https://vndb.org/v64277"
+}

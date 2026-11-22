@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34158",
+  "type": "visual_novel",
+  "name": "White Cube",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You will follow the story of two protagonists trapped in a cube, slowly you will discover that it is a very sick-minding game...​",
+  "source_sha256": "7e94c39e8856cdfc9482d603cc326e452028d203297206257726c2630b02ceb2",
+  "translation": "你將跟隨兩位被困在立方體中的主角，逐漸發現這是一場極其扭曲的遊戲……",
+  "vndb_url": "https://vndb.org/v34158"
+}

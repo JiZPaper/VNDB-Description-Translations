@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55337",
+  "type": "visual_novel",
+  "name": "Utrennjaja progulka",
+  "original_name": "Утренняя прогулка",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "One morning, Semyon decided to go for a walk. What adventures await him?",
+  "source_sha256": "1cddfc1a517d1d90c35a72367085e82908b3ae48addb44f39972e25b71fcfb65",
+  "translation": "一天早上，謝米揚決定出門散散步。會有什麼冒險等著他呢？",
+  "vndb_url": "https://vndb.org/v55337"
+}

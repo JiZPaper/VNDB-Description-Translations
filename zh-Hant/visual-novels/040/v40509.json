@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40509",
+  "type": "visual_novel",
+  "name": "My Friend's Family",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Before joining the military, your friend asked you to live with his family. He wants you to protect his mother and sister while he's gone. Being unemployed due to COVID, you decided to accept his offer since you wouldn’t worry about rent payment anymore. \n\n[From [url=https://www.patreon.com/captainkitty/about]Patreon[/url]]",
+  "source_sha256": "98f5fc7ebd16c8f0860f384a161097ed18eecc7fe1d154b31032cc73202349f8",
+  "translation": "參軍前，朋友拜託你搬去和他的家人同住。他希望你在他離開期間保護他的母親和妹妹。由於新冠疫情，你失業了；想到以後不用擔心房租，你便接受了提議。[引自[url=https://www.patreon.com/captainkitty/about]Patreon[/url]]",
+  "vndb_url": "https://vndb.org/v40509"
+}

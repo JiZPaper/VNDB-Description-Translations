@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19498",
+  "type": "visual_novel",
+  "name": "WarioDate",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A dating sim where you play as Wario to scam some chumps (including Mario, Luigi, Waluigi and Bowser) out of all their money by making them fall in love with you. Of course, if you should fall for them, you can choose to give in to your romantic desires as well.\n\n[From [url=https://games.renpy.org/game/wariodate]Ren'py Games List[/url]]",
+  "source_sha256": "82c8acbb99ca9353a230f5f8f4ea06742dc6fa03bc9a1f0eadab366dbbdb0051",
+  "translation": "一款約會模擬遊戲。你將扮演瓦利歐，設法讓瑪利歐、路易吉、瓦路易吉和庫巴等笨蛋愛上自己，騙走他們所有錢。當然，如果你也愛上了他們，可以選擇順從自己的浪漫慾望。\n\n[來源：[url=https://games.renpy.org/game/wariodate]Ren'Py遊戲清單[/url]]",
+  "vndb_url": "https://vndb.org/v19498"
+}

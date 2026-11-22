@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22586",
+  "type": "visual_novel",
+  "name": "Honko With a GUN",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A 10 seconds visual novel in which Honoka Kousaka, from the Love Live series, asks the player for a gun.",
+  "source_sha256": "6247d58b7c960ed5fdba2620e6d9894fddf9980c4a98bf7d7c800b20a324c342",
+  "translation": "在這部只有10秒的視覺小說中，《Love Live!》系列的高坂穗乃果會向玩家討一把槍。",
+  "vndb_url": "https://vndb.org/v22586"
+}

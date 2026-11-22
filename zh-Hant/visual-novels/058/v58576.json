@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58576",
+  "type": "visual_novel",
+  "name": "I don't belong here",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You are a man-eating monster, and one day you find out that your new roommate has grown suspicious of you... What will you do?",
+  "source_sha256": "2c71d9ab0d23a592b0f8656fb7f229f476f2b135401dd5ea32232f7e95f06767",
+  "translation": "你是個吃人的怪物。一天，你發現新來的室友似乎已經開始懷疑你了……你會怎麼做？",
+  "vndb_url": "https://vndb.org/v58576"
+}

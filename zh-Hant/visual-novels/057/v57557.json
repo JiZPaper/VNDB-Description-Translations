@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57557",
+  "type": "visual_novel",
+  "name": "Strongman",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The story of a player haunted by his ongoing struggle with a final boss he is unable to defeat.\n\n[From [url=https://superfun.itch.io/strongman]Itch.io[/url]]",
+  "source_sha256": "9954a321f34f8802d353cc0a985e97710b2eb705ebdf18fa51d6c031d3bf2de2",
+  "translation": "一個玩家始終打不過最終頭目，這場久戰不勝的較量也成了他揮之不去的心魔。\n\n［摘自[url=https://superfun.itch.io/strongman]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v57557"
+}

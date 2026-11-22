@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58220",
+  "type": "visual_novel",
+  "name": "Mirrors",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Follow the story of Robin, a girl whose life has been cursed by a shadow that visited her when she was ten. After a tragic event, her visions began to go haywire.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "2b055fd080cd39786e1775931ff34e073352920ddc9aa08b0fe896784e3b5d2e",
+  "translation": "跟隨女孩羅賓走進她的故事。十歲時，一個黑影曾來找她，從此她的一生便背負著詛咒。一場悲劇過後，她眼前的幻象開始徹底失控。\n\n［取自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian App[/url]］",
+  "vndb_url": "https://vndb.org/v58220"
+}

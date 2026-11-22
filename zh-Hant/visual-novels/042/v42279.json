@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42279",
+  "type": "visual_novel",
+  "name": "Burden of Proof",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Burden of Proof is a hybrid genre game that combines elements from third person exploration games with a Visual Novel presentation. Inspired by works such as Ace Attorney and Danganronpa, Burden of Proof offers a fresh take on the courtroom drama by allowing you to explore the crime scene in 3D. Understanding the layout and details of the crime scene will determine whether you can complete your case in the courtroom, and whether you will succeed in this new adventure!",
+  "source_sha256": "c525900bf76ac2dcf5ea0f0fea2c99a1e0c27ac75dbf24116704266b90fade20",
+  "translation": "《Burden of Proof》是一款融合第三人稱探索與視覺小說表現形式的遊戲。受《逆轉裁判》《槍彈辯駁》等作品啟發，本作讓你以3D形式探索案發現場，為法庭劇帶來新的體驗。能否理解現場的佈局與細節，將決定你是否能在法庭上結案，也決定你能否在這場新冒險中取得成功！",
+  "vndb_url": "https://vndb.org/v42279"
+}

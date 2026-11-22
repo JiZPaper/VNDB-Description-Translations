@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17250",
+  "type": "visual_novel",
+  "name": "A Long Journey",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "\"A Long Journey\" features the tale of a failed conquering prince and a wandering nomad who are unfortunately bound together in a journey across the blazing, wild landscape. The prince wishes to go home, and the nomad can't leave someone completely inept in survival alone in the wild.\n\n[From GameJolt]",
+  "source_sha256": "58eae31fc1a5845b828d45c5cfa6265788b2930d1c425ac729ef4dff2c39c53b",
+  "translation": "《漫長旅途》講述一名失敗的征服王子與一名流浪遊牧民的故事。兩人被迫結伴，穿越熾熱荒野。王子想回家，而遊牧民無法把一個完全不懂生存的傢伙獨自留在荒野中。\n\n［摘自GameJolt］",
+  "vndb_url": "https://vndb.org/v17250"
+}

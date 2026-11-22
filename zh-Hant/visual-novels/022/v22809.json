@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22809",
+  "type": "visual_novel",
+  "name": "7388.loving(Grace)",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Years after the end of everything, wake once more.\n\nIn the middle of the wasteland formerly known as Gainesville, Florida, the server tower “Rhode S-32” holding a generative chatbot and data scraper is abruptly reactivated by a partially broken down companion android named Merope. At that exact moment, a survivor connects to Rhode and uses it as their eyes and ears. Stricken with amnesia, they must rely exclusively on what little is in Rhode’s local database and Merope’s spotty ability to move the server tower around on a push cart to gather information about the situation.\n\nTo make matters more complicated, they can only communicate with Merope through the oft-hallucinating LLM that Rhode uses to construct sentences—and Merope, long disconnected from the humans that moderated her responses, is prone to bizarre conversation threads herself. The survivor’s sole comfort is Rhode’s 100-year-old video recordings of its teenage creator and her best friend, which they sift through whenever Merope has to charge. Their sense of identity slips and swirls with every moment they spend connected to Rhode, their goal of “understanding” being the sole, flimsy anchor that maroons them to whatever remains of their self.\n\nWith only 73.88 hours left of operation before Rhode’s complete hardware failure, you must make a choice:\n\nDo you learn from the past, or explore the reality of the present?\n\n[From [url=https://milkplus.moe/7388-LG/]teaser site[/url]]",
+  "source_sha256": "153a5bf682d63fd1e5881181b51a1d876c7a97177c3c94142be44b39263f96ec",
+  "translation": "一切結束多年後，再次醒來。\n\n在曾被稱為佛羅里達州蓋恩斯維爾的荒地中央，伺服器塔「Rhode S-32」突然重新啟動。它搭載生成式聊天機器人與資料擷取程式，由部分損壞的陪伴型人形機器人梅洛珀重新啟動。就在此刻，一名倖存者連接到Rhode，把它當作自己的眼睛與耳朵。倖存者失去記憶，只能依靠Rhode本機資料庫裡殘存的資訊，以及梅洛珀用推車移動伺服器塔的斷斷續續能力，收集關於現狀的資料。\n\n事情更加複雜的是，倖存者只能透過Rhode用來組織句子的、經常產生幻覺的大型語言模型與梅洛珀交流；而梅洛珀與曾經監管其回應的人類斷開聯繫已久，也容易自行陷入荒誕對話。倖存者唯一的慰藉，是Rhode保存的、已有一百年歷史的影片：記錄它的少女創造者與她最好的朋友。每當梅洛珀需要充電，倖存者便反覆觀看這些影片。連接Rhode的每一刻，他們的對自身身分的認知都在漂移、打轉；「理解」目標是唯一脆弱的錨，讓他們暫時停留在僅存的自我之中。\n\nRhode的硬體將在73.88小時後徹底失效，你必須做出選擇：\n\n你要從過去學習，還是探索現在的現實？\n\n[來源：[url=https://milkplus.moe/7388-LG/]預告網站[/url]]",
+  "vndb_url": "https://vndb.org/v22809"
+}

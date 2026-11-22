@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7407",
+  "type": "visual_novel",
+  "name": "Typing Viper",
+  "original_name": "タイピングVIPER",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Under pressure to improve your typing skills in real life, you find yourself dreaming every night about scenarios from various VIPER games in which proficient typing would be used to solve a particular problem. As your skills improve, the stages get progressively harder.\n\n[From [url=http://www.sognadigitalmuseum.com/series/typing.html]Sogna Digital Museum[/url]]",
+  "source_sha256": "abf037fc5f6b6f17b9cc267b6a71e066a704719b48d4d8e8feb2379bea17c797",
+  "translation": "現實中提高打字速度的壓力，讓你每晚都會夢見《VIPER》系列中的不同場景，並靠熟練地打字解決某個難題。隨著打字能力提升，關卡也會越來越難。\n\n[譯自[url=http://www.sognadigitalmuseum.com/series/typing.html]Sogna Digital Museum[/url]]",
+  "vndb_url": "https://vndb.org/v7407"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25760",
+  "type": "visual_novel",
+  "name": "Neon Tide",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A virus known as the Neon Tide spreads throughout robots in an unknown fashion. It's your job to find out what has caused the Neon Tide to spread and make choices for the characters that directly affect the story as you play.",
+  "source_sha256": "8c1684ff86f419e504c83ca4aa15c8f3d9d734a3f32e22f4fb889994c55b974a",
+  "translation": "一種名為「霓虹潮」的病毒以未知方式在機器人之間傳播。你的任務是查明霓虹潮擴散的原因，並在遊戲過程中做出直接影響角色命運的選擇。",
+  "vndb_url": "https://vndb.org/v25760"
+}

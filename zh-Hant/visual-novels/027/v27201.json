@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27201",
+  "type": "visual_novel",
+  "name": "Gakkou Nanafushigi 5",
+  "original_name": "学校七不思議 5",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "There is a prefectural high school where there is a true story of two female students who disappeared, which became a ghost story of the school. Now a graduate of the school who became a TV director attempts to film a special to see if the ghosts can be captured on camera.",
+  "source_sha256": "3b0eb71cba12cdf2adc45f21b2e02c65945fff896697a5dc802848ea3c130ec6",
+  "translation": "某所縣立高中曾發生過兩名女學生失蹤的真實事件，後來，這件事成了校內流傳的怪談。如今，一名畢業於這所學校、現已成為電視節目導演的校友，打算拍攝一集特別節目，看看能否用鏡頭捕捉到幽靈。",
+  "vndb_url": "https://vndb.org/v27201"
+}

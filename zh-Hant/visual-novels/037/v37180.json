@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37180",
+  "type": "visual_novel",
+  "name": "Moon Observatory Parilyne",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Parilyne is a completely normal girl except for the fact that she's a singularity--a mathematical anomaly in that there's only one of her despite the infinite parallel universes.\n\nThis paradoxical existence marks her for deletion--until Nova, the November Magician, decides to step in to break this cycle.\n\nPulled along by Magicians helping her and Magicians hunting her down, she'll have to decide for herself just how strong her will to live is.\n\n[From [url=https://moonobservatory.uwu.ai/#upcoming]official website[/url]]",
+  "source_sha256": "26137ceb0f688170e6fdacbce9f002461db90d1dddd5a0aee1d305955a394aff",
+  "translation": "Parilyne是個再普通不過的女孩，唯一例外在於她是一個奇點——一種數學異常：在無限多的平行宇宙中，她卻只有一個。\n\n這種悖論般的存在註定會被刪除，直到「十一月魔法師」Nova決定介入，打破這個循環。\n\n一路上，有魔法師幫助她，也有魔法師在追捕她。她得自己決定，她究竟有多想活下去。\n\n[來源：[url=https://moonobservatory.uwu.ai/#upcoming]官方網站[/url]]",
+  "vndb_url": "https://vndb.org/v37180"
+}

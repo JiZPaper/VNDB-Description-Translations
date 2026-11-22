@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64694",
+  "type": "visual_novel",
+  "name": "A Rat's Tail",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "An interactive visual novel that explores themes of classism and beauty standards through rats in the sewers. Follow Ratona as she tries to discover who stole the cheese!\n\n[Edited from [url=https://madiimakesgames.itch.io/a-rats-tail]itch.io[/url]]",
+  "source_sha256": "e37829f679f2412ab4b1e8fe726ae8086a3f8dffd747c909e39ade80138ce82a",
+  "translation": "一部借下水道裡的老鼠探討階級歧視與審美標準的互動視覺小說。跟著拉托娜一起查查，究竟是誰偷走了起司！\n\n［改編自[url=https://madiimakesgames.itch.io/a-rats-tail]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v64694"
+}

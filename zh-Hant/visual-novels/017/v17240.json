@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17240",
+  "type": "visual_novel",
+  "name": "Tenshi Xmas 2014",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A short Christmas story centered around the Seraphim/310 characters of Quiz RPG: World of Mystic Wiz.",
+  "source_sha256": "ba3503d4698726e5a61d0da54466683ba4cf6515324e770eb03bc2d880e19f9d",
+  "translation": "一則以《問答RPG 魔法使與黑貓維茲》中的熾天使／310角色為中心的短篇聖誕故事。",
+  "vndb_url": "https://vndb.org/v17240"
+}

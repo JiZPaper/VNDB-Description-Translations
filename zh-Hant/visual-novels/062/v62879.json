@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62879",
+  "type": "visual_novel",
+  "name": "Senpai Megane Hazusuna",
+  "original_name": "先輩眼鏡外すな",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "An otome game where you play as a glasses-loving girl who's trying to prevent her senpai from switching to contact lenses.",
+  "source_sha256": "271572d71cc3665e122bfb35890756afece673a503fcb7c9d27eab8a5c374845",
+  "translation": "這是一款乙女遊戲，你將扮演一個喜歡眼鏡的女孩，想方設法阻止學長換戴隱形眼鏡。",
+  "vndb_url": "https://vndb.org/v62879"
+}

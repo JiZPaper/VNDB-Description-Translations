@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29453",
+  "type": "visual_novel",
+  "name": "Blood+ Final Piece ~Saigo no Kakera~",
+  "original_name": "BLOOD+ ファイナルピース〜最後のかけら〜",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "An animated adventure game with subtitles in the vein of titles like Double Cast where the player can follow new stories about Saya and the Blood+ universe. Includes full voice acting, new stories and characters not included in the TV series and special features.",
+  "source_sha256": "93cc0c2f9bcb3c0d7ffb214dac42bf6fecd60f72f7610921af04578636d2292d",
+  "translation": "一款類似《Double Cast》的帶字幕動畫冒險遊戲，玩家可以體驗小夜與《BLOOD+》世界中的全新故事。遊戲包含全程配音、電視動畫未曾出現的新劇情與新角色，以及特別內容。",
+  "vndb_url": "https://vndb.org/v29453"
+}

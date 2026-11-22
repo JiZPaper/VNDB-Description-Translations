@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50358",
+  "type": "visual_novel",
+  "name": "Max in the Big City",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The main hero’s name is Max.\nHe has a mother, a father and a younger sister.\nHe’s lived all his life in a small village.\nHe has never left it.",
+  "source_sha256": "1fb83b2906d36d9d2c20e3324ca10a40759972d98bf2dbd048e89f573a3ce112",
+  "translation": "主角名叫麥克斯。\n他有爸爸、媽媽，還有一個妹妹。\n從出生到現在，他一直住在一個小村子裡。\n他從沒離開過那裡。",
+  "vndb_url": "https://vndb.org/v50358"
+}

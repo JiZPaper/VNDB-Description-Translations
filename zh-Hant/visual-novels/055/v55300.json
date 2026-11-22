@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55300",
+  "type": "visual_novel",
+  "name": "Going Your Own Way",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Going Your Own Way is a visual novel that allows you make choices that will help a young man trying to understand his place in the world while dealing with the recent ending of a long-term relationship, the challenges of modern dating, and a toxic workplace.",
+  "source_sha256": "71282b332df1c8f9f7fdda85ab4b23839b5d661b9dea561af9f7dd8c15616be1",
+  "translation": "《Going Your Own Way》是一部可以做出選擇的視覺小說。你要幫助一個年輕人尋找自己在世界上的位置，他既要面對一段長期關係剛剛結束的餘波，也要應付現代約會的難題，以及傷害著他的職場環境。",
+  "vndb_url": "https://vndb.org/v55300"
+}

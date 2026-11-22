@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36070",
+  "type": "visual_novel",
+  "name": "The White Wolf",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A short visual novel made as a final degree project.\n\nThe White Wolf It's a recreation of the beginning of \"[url=https://es.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt]The Witcher 3: Wild Hunt[/url]\" developed by CD Projekt.\n\n[Edited from [url=https://dearly-artist.itch.io/the-white-wolf]Itch.io[/url]]",
+  "source_sha256": "90eff6b959652b158fafad9c058fc118b69ed924b8e497f71b326f1170248df6",
+  "translation": "一部作為畢業製作製作的短篇視覺小說。\n\n《The White Wolf》重現了CD Projekt開發的《[url=https://es.wikipedia.org/wiki/The_Witcher_3:_Wild_Hunt]巫師3：狂獵[/url]》的開篇情節。\n\n[編譯自[url=https://dearly-artist.itch.io/the-white-wolf]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v36070"
+}

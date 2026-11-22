@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22737",
+  "type": "visual_novel",
+  "name": "Mingzhong Zhuding de Gushi",
+  "original_name": "命中注定的故事",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A disgusted boy and a lively girl met and had a love story.",
+  "source_sha256": "765e0d6815f69d92d253b552e3ff53622bb8989954c557c527784b64cb91ef49",
+  "translation": "一個令人厭惡的男孩與一個活潑的女孩相遇，展開了一段愛情故事。",
+  "vndb_url": "https://vndb.org/v22737"
+}

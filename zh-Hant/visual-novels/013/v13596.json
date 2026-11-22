@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13596",
+  "type": "visual_novel",
+  "name": "Re;quartz",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The main character suffers from narcolepsy, and finds himself stuck in a timeloop where the day of the closing ceremony repeats time and time again.\n\nEach playthrough increases the amount of choices available. However, no matter what, you only have a day, and the future won't come without sacrifices...",
+  "source_sha256": "868f485040fc40f1077a5010b491cdf074dee7cc1c3eb406e487a0d0c1d40f8c",
+  "translation": "主角患有猝睡症，發現自己被困在時間循環中，結業典禮當天不斷重複。\n\n每次遊玩都會增加新的選項。然而，無論如何，你都只有一天的時間；若不付出犧牲，未來就不會到來……",
+  "vndb_url": "https://vndb.org/v13596"
+}

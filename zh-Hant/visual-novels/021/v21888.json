@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21888",
+  "type": "visual_novel",
+  "name": "Undine",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The tale of Undine retold as a sci-fi space adventure. Will your story end in wild romance, bitter vengeance, or horrible death?\n\n[From [url=https://msmarcel.itch.io/undine]itch.io[/url]]",
+  "source_sha256": "4aaa69cd9372084e1eec090c0555ceed57babcb56fa18bd7ab0ccd7ce0128856",
+  "translation": "這是以太空科幻冒險的形式，重新演繹水精靈溫蒂妮的傳說。你的故事會以狂野戀情、苦澀復仇，還是可怕死亡告終？\n\n[來源：[url=https://msmarcel.itch.io/undine]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v21888"
+}

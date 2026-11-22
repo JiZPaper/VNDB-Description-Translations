@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49406",
+  "type": "visual_novel",
+  "name": "Riddle Me Sweets!",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A dark comedy riddle-based baking VN based around the tale of Hansel and Gretel.",
+  "source_sha256": "50d43639ac1c66459b4941b77c456ac5979f74aec45bb467f7b759390d0e7751",
+  "translation": "一部以《糖果屋》的漢塞爾與格蕾特為原型的黑色喜劇視覺小說，要你一邊猜謎，一邊烘焙。",
+  "vndb_url": "https://vndb.org/v49406"
+}

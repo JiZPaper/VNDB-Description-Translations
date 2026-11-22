@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58599",
+  "type": "visual_novel",
+  "name": "21g no Saigo ni Mita Yume",
+  "original_name": "21gの最期に見た夢",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "After the extinction of humanity, you somehow wake up as a ghost. Before you is your classmate, Fuya.\n\nChat and explore a world where no one else exists except you and Fuya.",
+  "source_sha256": "7dab5b118e070192cfaa6acb3dab66c7b1a2a2effe2cec7edb8075c52a907397",
+  "translation": "人類滅絕之後，你不知怎的以幽靈的模樣醒來。站在你面前的，是你的同學Fuya。\n\n在這個除了你和Fuya便再也沒有別人的世界裡，聊聊天，到處探索吧。",
+  "vndb_url": "https://vndb.org/v58599"
+}

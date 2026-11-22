@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22243",
+  "type": "visual_novel",
+  "name": "Just Ask Her Out",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "\"Just ask her out\" is a short game about Alex a student who loves a girl named Amber. He struggles his own thoughts to ask her out an the method to use for that..",
+  "source_sha256": "b1c978407cccff248c8c9856960f8cf44b0e276719ae86d6293c827736f686a5",
+  "translation": "《約她出去》是一款短篇遊戲，講述學生亞歷克斯喜歡名叫安布爾的女孩。他努力克服心裡的顧慮，決定是否約她出去，以及該用什麼方式。",
+  "vndb_url": "https://vndb.org/v22243"
+}

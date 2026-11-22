@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31150",
+  "type": "visual_novel",
+  "name": "Halloween Galaxy",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A soul floats through a strange Halloween themed galaxy, running away from a monster. They come across 3 strange planets, with 3 strange worlds:\n\nA world where stuffed bears fight monsters in order to protect their owner.\nA world where a girl sneaks out from her troubled home to have the Halloween she has always dreamed of.\nAnd a bleak future where Halloween has ceased to exist.\n\n[From [url=https://actawesome.itch.io/halloween-galaxy/]Itch.io[/url]]",
+  "source_sha256": "b790d06832131dc6b6fefb5644b8f77f1680d75f43160e9303968743aecef0f9",
+  "translation": "一個靈魂漂浮在奇異的萬聖節主題星系中，躲避怪物的追趕。途中，它遇見了三顆奇怪的星球，三個奇怪的世界。\n\n一個世界裡，玩具熊為了保護主人而與怪物戰鬥。\n一個世界裡，女孩偷偷離開問題重重的家庭，想過一個夢寐以求的萬聖節。\n還有一個黯淡的未來，萬聖節已經不復存在。\n\n[摘自[url=https://actawesome.itch.io/halloween-galaxy/]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v31150"
+}

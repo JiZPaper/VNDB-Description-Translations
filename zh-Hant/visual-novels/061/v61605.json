@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61605",
+  "type": "visual_novel",
+  "name": "How to use El Shaddai Official Asset",
+  "original_name": "エルシャダイ公式素材の使い方",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Offical El Shaddai asset tutorial for Tadasu Novel Maker, written by Sawaki Takeyasu the creator of El Shaddai.",
+  "source_sha256": "49bc53801a62aabcb9ffeff77d64c3a53b7fcc0388918bcafbd2d8223a103829",
+  "translation": "《全能之神》的創作者竹安佐和記親自撰寫的教學，介紹如何在Tadasu Novel Maker中使用《全能之神》的官方素材。",
+  "vndb_url": "https://vndb.org/v61605"
+}

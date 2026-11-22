@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21373",
+  "type": "visual_novel",
+  "name": "Princess Britania ~Muse no Houken~",
+  "original_name": "Princess Britania～ミューズの宝剣～",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The protagonist Chloe is the heir of the great house of Sheffield whose warriors have long served the queen of Britania. \n\nBritania has been at war with the neighboring Hilbenia Republic for many years. At long last, the two nation's leaders have met to create a peace treaty. But the newly created peace is quickly threatened when the Hilbenian prince and his royal party are attacked on their way back home. \n\nIt falls to Chloe to root out the truth of the attack and prevent their countries from falling back into war.",
+  "source_sha256": "d77f4f6c103f09c1ef980d50bc8799c0bf8ca61093cfbbd53f25bd23b7c36987",
+  "translation": "主角克蘿伊是謝菲爾德大公家的繼承人，該家族的戰士世代侍奉不列顛尼亞女王。\n\n不列顛尼亞與鄰國希爾貝尼亞共和國交戰多年。兩國領導人終於會面，準備簽訂和平條約。然而，新建立的和平很快受到威脅：希爾貝尼亞王子及其王室隨從在返鄉途中遭到襲擊。\n\n克蘿伊必須查明襲擊真相，阻止兩國重新陷入戰爭。",
+  "vndb_url": "https://vndb.org/v21373"
+}

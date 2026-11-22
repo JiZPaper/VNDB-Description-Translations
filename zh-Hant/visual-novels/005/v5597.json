@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5597",
+  "type": "visual_novel",
+  "name": "Misty Blue",
+  "original_name": "ミスティブルー",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "is about a young musician named Kazuya Mizukami. After 4 years of studying music abroad, he returns to Japan and tries to sort out a new music deal - but somehow he gets mixed up in a murder case, and amongst other things.\n\n[From [url=http://pixelmenu.22web.net/features/enix/enix1.html]Japan Adventure Attack[/url]]",
+  "source_sha256": "9951d4596ad793b2473a33b823009ec3e6fc5233c29795addb860afa7cc032ee",
+  "translation": "故事圍繞年輕音樂家水上和哉展開。他在國外學了四年音樂後回到日本，嘗試洽談一份新的音樂合約，卻不知為何捲入了一樁謀殺案，以及其他種種事件。\n\n[摘自[url=http://pixelmenu.22web.net/features/enix/enix1.html]Japan Adventure Attack[/url]]",
+  "vndb_url": "https://vndb.org/v5597"
+}

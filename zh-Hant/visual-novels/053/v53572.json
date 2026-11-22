@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53572",
+  "type": "visual_novel",
+  "name": "The Family Sin",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Assume the role of a teenager starting a new life in one of the oldest and most remote cities. You begin a fairly normal life, with a new school year and a new job to help support your family.\nExplore and uncover the secrets of the mind, and observe how different mental manipulation techniques affect those around you.",
+  "source_sha256": "6cafb0eca86f45fb2bfb450e170c1e2bb9c3bd8f8d81961f05a78db6bc447762",
+  "translation": "扮演一名少年，在一座格外古老、極其偏遠的城市裡開始新生活。一開始，日子過得還算普通。新學年到了，你也找到了一份補貼家用的新工作。\n探索並揭開心智的秘密，觀察不同的精神操控技巧會給身邊的人帶來怎樣的影響。",
+  "vndb_url": "https://vndb.org/v53572"
+}

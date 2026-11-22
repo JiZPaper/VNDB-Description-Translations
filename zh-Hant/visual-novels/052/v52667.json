@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52667",
+  "type": "visual_novel",
+  "name": "The Lion's Song",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The Lion's Song is a series of four self-contained point & click stories connected into an overarching narrative, where player choices will affect the way in which the story unfolds. Set against the backdrop of early 20th century Austria, every episode follows a different character, each blessed with an exceptional creative mind. The game pulls players into a story of personal struggle for creativity, human connections and inspiration.\n\n[From [url=https://www.lionssonggame.com/]official website[/url]]",
+  "source_sha256": "4ff48d75bb86937297b1c550c52033c2c56d0fe18dbf48ae6f7480653d281b28",
+  "translation": "《獅子之歌》由四個各自獨立、又串聯成一條完整敘事的點選式冒險故事組成。玩家的選擇會影響故事如何展開。背景設在20世紀初的奧地利，每一章跟隨一名不同的角色，他們都天生擁有非凡的創造力。玩家將走進他們各自的掙扎之中，看他們如何追尋創造力、人與人之間的聯結，以及靈感。\n\n［取自[url=https://www.lionssonggame.com/]官方網站[/url]］",
+  "vndb_url": "https://vndb.org/v52667"
+}

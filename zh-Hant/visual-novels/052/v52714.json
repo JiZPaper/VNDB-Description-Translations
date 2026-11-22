@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52714",
+  "type": "visual_novel",
+  "name": "Sluchaj v kazino",
+  "original_name": "Случай в казино",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "\"The Casino Incident\" is a well-known video meme in Russia, where a client at the casino artfully expresses his dissatisfaction with the \"wrong\" deck of cards.\n\nWhy not turn this meme into a visual novel? Done!",
+  "source_sha256": "248d86e9634b02d0bdb650d6f9a30184618177d9d70cd5590dd55ed92d5d4327",
+  "translation": "「賭場事件」是俄羅斯廣為人知的一個影片梗：一位賭場客人用極有藝術性的方式，表達了自己對那副「不對勁」的牌的不滿。\n\n何不把這梗做成一部視覺小說呢？這不就做好了！",
+  "vndb_url": "https://vndb.org/v52714"
+}

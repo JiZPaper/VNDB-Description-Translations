@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48254",
+  "type": "visual_novel",
+  "name": "Reclusion",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The year is 2013. An unnamed protagonist, deep in debt, suffering from obesity, sociophobia, and probably other mental disorders, is locked up indefinitely in his apartment. Does he get out alive and sane? It depends only on a strange companion from the future (player) who has established a telepathic connection with him.",
+  "source_sha256": "dd483947530ecb1747d2d74df8cbfc4af1d42415c96bb796733bcc5107899573",
+  "translation": "2013年。一個沒有名字的主角負債累累，深受肥胖和社交恐懼的困擾，可能還有其他心理疾患。他把自己關在公寓裡，看不到盡頭。他最後還能活著走出去，保持清醒嗎？這只取決於一位來自未來、和他建立了心靈感應的奇怪同伴——也就是你。",
+  "vndb_url": "https://vndb.org/v48254"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v38098",
+  "type": "visual_novel",
+  "name": "Youki Hiden ~Ayakashi Gentouwa~",
+  "original_name": "妖鬼姫伝～あやかし幻灯話～",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "An adventure game in which you become the main character, Ryuichi Hihara, and fight monsters called yokai. The story is based on an ancient \"agreement\" that separates the worlds in which humans and demons live with \"doors\" to avoid useless conflicts as much as possible.\nThe pact was signed once every 200 years by those who inherited the bloodline of humans and demons, and was continuously kept. And now, once again, the time to conclude a pact was approaching...\n\nFive heroines appear, and the \"attack attribute\" and \"five elements attribute\" differ depending on the character. At the end of the day, you can talk to the characters and deepen their relationship.\n\n[Translated from [url=https://www.amazon.co.jp/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A3%E3%82%A2%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC-658032-%E5%A6%96%E9%AC%BC%E5%A7%AB%E4%BC%9D-%E3%81%82%E3%82%84%E3%81%8B%E3%81%97%E5%B9%BB%E7%81%AF%E8%A9%B1-%E9%80%9A%E5%B8%B8%E7%89%88/dp/B000RJZ9C8]Amazon Japan[/url]]",
+  "source_sha256": "304d95ed7ca378c5a0f03445d00f596fd48bf734b4427599bc5b368e74555c9a",
+  "translation": "這是一款冒險遊戲，你將扮演主角Ryuichi Hihara，與被稱為「妖怪」的怪物戰鬥。故事圍繞一份古老的「約定」展開：人類與妖怪居住的世界由「門」隔開，儘可能避免無謂的衝突。\n每隔200年，繼承人類與妖怪血脈的人便會簽訂契約，並世代遵守。如今，新一輪締結契約的時刻再次臨近……\n\n遊戲中有五位女主角，每名角色的「攻擊屬性」和「五行屬性」各不相同。你可以在日常中與角色交談，加深彼此的關係。\n\n[譯自[url=https://www.amazon.co.jp/%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A3%E3%82%A2%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%AA%E3%83%BC-658032-%E5%A6%96%E9%AC%BC%E5%A7%AB%E4%BC%9D-%E3%81%82%E3%82%84%E3%81%8B%E3%81%97%E5%B9%BB%E7%81%AF%E8%A9%B1-%E9%80%9A%E5%B8%B8%E7%89%88/dp/B000RJZ9C8]亞馬遜日本[/url]]",
+  "vndb_url": "https://vndb.org/v38098"
+}

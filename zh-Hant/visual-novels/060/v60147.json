@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60147",
+  "type": "visual_novel",
+  "name": "Saving the Queen",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You're a common enchanter, expecting to spend the rest of your life conjuring basic spells and making minor potions. But when the Queen brings you to court, the chart of your destiny changes forever.\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "2cb395296267994d6e3da88ee6af1f1b557f7aa9b1c47df22da8bd66dfa2c8df",
+  "translation": "你是個平凡的附魔師，原以為這輩子也就是施些簡單的法術、配些尋常的藥水。可當女王帶你進入宮廷，你的命運便從此改寫。\n\n［摘自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian App[/url]］",
+  "vndb_url": "https://vndb.org/v60147"
+}

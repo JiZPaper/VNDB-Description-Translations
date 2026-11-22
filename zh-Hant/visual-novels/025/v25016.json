@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v25016",
+  "type": "visual_novel",
+  "name": "Owner",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This game was made in 3 days as a college project. the intention was to test a student's ability to form a proper English sentence.\n\n[From [url=https://maricore.itch.io/owner]itch.io[/url]]",
+  "source_sha256": "6c1d9ac9979af724c0309ce1ad2b03ba1882e6dda258ff5bc76c0d02ab422672",
+  "translation": "這款遊戲是花三天完成的大學課堂作業，目的是測試學生能否寫出正確的英語句子。\n\n[來源：[url=https://maricore.itch.io/owner]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v25016"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4248",
+  "type": "visual_novel",
+  "name": "Keiko",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Keiko tells the story of a young woman unhappy at her job and the events that change her life forever.\n\n[from [url=http://www.keiko.asia/]Official Site[/url]]",
+  "source_sha256": "c32d35d9d5951565ed7896591b59a92dd7bb43f6d288d055cda65a1119c63a08",
+  "translation": "《Keiko》的主角是一名對工作不滿的年輕女子，故事描寫幾件永遠改變她人生的事。\n\n[摘自[url=http://www.keiko.asia/]官方網站[/url]]",
+  "vndb_url": "https://vndb.org/v4248"
+}

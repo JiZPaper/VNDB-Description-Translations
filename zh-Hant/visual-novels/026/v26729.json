@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26729",
+  "type": "visual_novel",
+  "name": "Speak Lies",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You downloaded a totally not suspicious program from the Internet, which turns out to be a messaging app. Delighted, and full of hope for the possibility of finally making a friend, you click connect.\n\nInstead, you bear witness to a suicide and are forced to participate in a ritual.\n\n[Edited from the [url=https://speaklies.silentclowns.co/]official website[/url]]",
+  "source_sha256": "8cb1126d591bb1a21142a719bf541aacffde29a86de41b05633545f4198e77aa",
+  "translation": "你從網路上下載了一個「絕對不可疑」的程式，結果發現它是款聊天軟體。你滿心歡喜，想著自己終於有機會交到朋友，於是按下了連線按鈕。\n\n然而，等待你的卻是一場自殺。親眼目睹這一切後，你還被迫參與了一場儀式。\n\n[編譯自[url=https://speaklies.silentclowns.co/]官方網站[/url]]",
+  "vndb_url": "https://vndb.org/v26729"
+}

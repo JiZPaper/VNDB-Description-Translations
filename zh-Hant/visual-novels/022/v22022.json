@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22022",
+  "type": "visual_novel",
+  "name": "VitaminX Destination",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A title designed for the 10th anniversary of the Vitamin series. 7 years after graduation, the teacher Yuri Minami meets once again with her Class X students.",
+  "source_sha256": "58bb67101a4683f285931d0efff70dae08ddbca10846a82c2e55d0c59c4f139e",
+  "translation": "紀念Vitamin系列十週年的作品。畢業七年後，教師南悠里再次與X班的學生們相遇。",
+  "vndb_url": "https://vndb.org/v22022"
+}

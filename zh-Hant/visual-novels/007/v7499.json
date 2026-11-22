@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7499",
+  "type": "visual_novel",
+  "name": "Magical Diary: Horse Hall",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You have been invited to attend a magical school. Here you can make new friends, learn dozens of spells, face exams in the school dungeons, run for class office, and try to find a date for the May Day Ball. \n\nBut be careful! You might end up in detention, be lured into a secret society, be forced to marry your professor, or even be expelled! \n\nEvery puzzle has multiple solutions, and the path you choose is up to you. Are you a good witch or a bad witch?\n\n[From [url=http://www.hanakogames.com/magical_diary.shtml]Official site[/url]]",
+  "source_sha256": "0e5527f85b60800b9bc41523136afbf623124fb2420ea5d23637570d38e8d1ab",
+  "translation": "你獲邀進入一所魔法學校。在這裡，你可以結識新朋友、學習數十種法術、在學校地下城接受考試、競選班級幹部，還能設法替五朔節舞會找個舞伴。\n\n但千萬小心！你可能會被關禁閉、受秘密社團引誘、被迫嫁給教授，甚至遭到開除！\n\n每一道謎題都有多種解法，要選擇怎樣的道路，全由你決定。你會成為善良女巫，還是邪惡女巫？\n\n[譯自 [url=http://www.hanakogames.com/magical_diary.shtml]官方網站[/url]]",
+  "vndb_url": "https://vndb.org/v7499"
+}

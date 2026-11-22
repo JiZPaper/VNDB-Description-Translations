@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64917",
+  "type": "visual_novel",
+  "name": "Dissolution of the Silent Union",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Dissolution of the Silent Union is a short, narrative-driven visual novel where you accompany Vera, who is trapped on the last day of school, toward her inevitable date.",
+  "source_sha256": "a0a17ade4fe3840cb5caa84270e0cf96d34421a8bc859d3a5d496e6dfdc35622",
+  "translation": "《Dissolution of the Silent Union》是一部側重敘事的短篇視覺小說。薇拉被困在上學的最後一天，你將陪她走向那場無法迴避的約會。",
+  "vndb_url": "https://vndb.org/v64917"
+}

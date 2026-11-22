@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46323",
+  "type": "visual_novel",
+  "name": "Tokyo Gentou",
+  "original_name": "東京幻燈",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "New 18+ BL game project by Orbit's new BL game branch Procyon.",
+  "source_sha256": "51451f0cc4335868dfe9fe8e3d0270c3c5a0dda114432bc0e0214d0226b4e8e3",
+  "translation": "Orbit旗下新設的BL遊戲品牌Procyon推出的全新成人向BL遊戲企劃。",
+  "vndb_url": "https://vndb.org/v46323"
+}

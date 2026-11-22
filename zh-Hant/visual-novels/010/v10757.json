@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v10757",
+  "type": "visual_novel",
+  "name": "Ochita Tenshi ga Utau Uta",
+  "original_name": "堕ちた天使が詩う歌",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The story starts off in a modern world and you, the player, are in school and the school nurse asks you to investigate a murder.",
+  "source_sha256": "35b4f55c45d9d18d3f8a4636fffb267c2e6f4e9568dd0462f069fef5b9cd809f",
+  "translation": "故事從一個現代世界開始，你——玩家——在學校裡，校醫請你調查一起謀殺案。",
+  "vndb_url": "https://vndb.org/v10757"
+}

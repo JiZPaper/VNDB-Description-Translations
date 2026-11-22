@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v4552",
+  "type": "visual_novel",
+  "name": "Ranma 1/2 - Hiryuu Densetsu",
+  "original_name": "らんま1/2 飛龍伝説",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "In this game, the player takes the role of Ranma as he/she interacts with situations and characters via on-screen icons, only occasionally involving combat by using a multiple-option interface.\n\n[from Wikipedia]",
+  "source_sha256": "db647a644fba1caa81e600d135d6cd3ea946e699b32564f7903ce9a512c0af1e",
+  "translation": "本作中，玩家扮演亂馬，通過畫面上的圖示與各種情境和人物互動；遊戲偶爾也會進入戰鬥，並採用多選項介面進行操作。\n\n[摘自Wikipedia]",
+  "vndb_url": "https://vndb.org/v4552"
+}

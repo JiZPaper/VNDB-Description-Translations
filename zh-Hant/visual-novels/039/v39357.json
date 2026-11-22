@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39357",
+  "type": "visual_novel",
+  "name": "Danzai Shitsu",
+  "original_name": "断罪室",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A self-proclaimed victim and someone called the perpetrator by the self-proclaimed victim will appear.\n\nYou will listen to the conversation between the two and decide whether it is okay for the victim to take revenge on the perpetrator.\n\nHowever, please do so carefully. Revenge in this case means \"the murder of the perpetrator by the victim.\"\n\n[From [url=https://store.steampowered.com/app/3577000/]Steam[/url]]",
+  "source_sha256": "1c55e7a01a9d71b901aff83e4485104c789c8b5d5e03ec2ae30b4bf73904c667",
+  "translation": "一位自稱受害者的人，以及一位被這名自稱受害者指認為加害者的人，將登場。\n\n你將聽取兩人的對話，並判斷受害者對加害者展開報復是否妥當。\n\n但請謹慎判斷。這裡所說的報復，指的是「由受害者殺害加害者」。\n\n[摘自[url=https://store.steampowered.com/app/3577000/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v39357"
+}

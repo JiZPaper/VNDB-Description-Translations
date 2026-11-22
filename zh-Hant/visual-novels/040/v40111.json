@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40111",
+  "type": "visual_novel",
+  "name": "Ano Post o Wasurenai",
+  "original_name": "あのポストを忘れない",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You're just a regular girl. One day, on your way home, you come upon a post box.\nYou are then sucked into it, and while you defeat villains, you start meeting beautiful men...\n\n[Translated from [url=http://lightbreeze.ivory.ne.jp/game/anoposu.htm]the official website[/url]]",
+  "source_sha256": "858deff01d3df6fbe0901214cab930c3eb44af6d29ff30e4089ebe2748636d27",
+  "translation": "你只是一個普通女孩。某天回家路上，你偶然遇到一個郵筒，隨後被吸了進去。在打倒反派的過程中，你開始邂逅英俊的男性……[譯自[url=http://lightbreeze.ivory.ne.jp/game/anoposu.htm]官方網站[/url]]",
+  "vndb_url": "https://vndb.org/v40111"
+}

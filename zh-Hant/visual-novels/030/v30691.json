@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30691",
+  "type": "visual_novel",
+  "name": "The Host Shiyouze! ~DX Night King~",
+  "original_name": "THE ホストしようぜ! 〜DXナイトキング〜",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Step into the shoes of a new host and build your way up to success while hanging out with clients and avoiding the sabotaging of fellow host rivals.",
+  "source_sha256": "e1383a42fd0156d365d364f776ced8267a98a6fac96d598163d5f15ef0214e5f",
+  "translation": "化身一名新人男公關，與客人相處，提防同行競爭者的破壞，一步步走向成功。",
+  "vndb_url": "https://vndb.org/v30691"
+}

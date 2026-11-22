@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22415",
+  "type": "visual_novel",
+  "name": "Freetime Event: Poolside Edition",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A Super Danganronpa 2 fangame about a freetime event with Komaeda Nagito.",
+  "source_sha256": "4ff5f0d5888d147142f2899e02949cc2866ee2e0335180ac7047a5b26330cd03",
+  "translation": "這款《超級槍彈辯駁2 再會了絕望學園》同人遊戲，描寫玩家在自由活動時間與狛枝凪斗相處的情景。",
+  "vndb_url": "https://vndb.org/v22415"
+}

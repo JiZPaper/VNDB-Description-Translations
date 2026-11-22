@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v9209",
+  "type": "visual_novel",
+  "name": "Santa",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A short visual poem about Christmas, joy and blood...\n\n[From [url=http://games.renpy.org/game/santa.shtml]Ren'Py[/url]]",
+  "source_sha256": "b3bcffeb2591562df2b450ef81c3c19d1fb2ce6d64a4a1fdd8853a259c42a717",
+  "translation": "一首關於聖誕節、喜悅與鮮血的短篇視覺詩……\n\n［引自[url=http://games.renpy.org/game/santa.shtml]Ren'Py[/url]］",
+  "vndb_url": "https://vndb.org/v9209"
+}

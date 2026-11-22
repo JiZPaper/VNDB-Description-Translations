@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v66563",
+  "type": "visual_novel",
+  "name": "The Calculator",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "In this short sci-fi visual novel, you assume the role of Betty, an English housewife who goes out looking for her missing husband. Can she find him? and, most importantly, what will she find once she finds him?",
+  "source_sha256": "12488d84a52e19ca390164b1c884d075057993639009d6d157e2c475857796b7",
+  "translation": "在這部短篇科幻視覺小說裡，你將扮演英格蘭家庭主婦貝蒂，外出尋找失蹤的丈夫。她能找到他嗎？更重要的是，等她找到他時，究竟會發現什麼？",
+  "vndb_url": "https://vndb.org/v66563"
+}

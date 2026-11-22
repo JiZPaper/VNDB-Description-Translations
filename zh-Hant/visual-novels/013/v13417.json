@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13417",
+  "type": "visual_novel",
+  "name": "A Familiar Story",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A \"familiar\" is a magic animal companion, such as a witch's black cat. Familiars are used to boost the magic strength of their companions and have a history of being valuable allies. \n\nFollow the adventure and friendship between two lonely young heroes. Recruit allies and meet people and creatures along the way toward the boss battle.\n\nThis game was programmed in 48 hours for the Ludum Dare miniLD #27 on June 25-26, 2011.\n\n[From [url=http://mcfunkypants.com/miniLD27/]McFunkypants[/url]]",
+  "source_sha256": "11db07014917aec4e3faa4d2e907e8c2c73eaacd8059a2bfe083745d282b0167",
+  "translation": "「使魔」是一種魔法動物夥伴，例如魔女的黑貓。使魔能夠增強同伴的魔力，歷來都是寶貴的盟友。\n\n跟隨兩位孤獨的年輕英雄，見證他們的冒險與友誼。招募盟友，在前往首領戰的旅途中結識各種人物與生物。\n\n本作於2011年6月25日至26日，在48小時內完成程式設計，參加了Ludum Dare的miniLD #27活動。\n\n［摘自[url=http://mcfunkypants.com/miniLD27/]McFunkypants[/url]］",
+  "vndb_url": "https://vndb.org/v13417"
+}

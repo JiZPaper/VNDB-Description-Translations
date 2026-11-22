@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60841",
+  "type": "visual_novel",
+  "name": "Malen'kij Mir",
+  "original_name": "Маленький Мир",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Siblings Lesha and Diana are close, but separated by miles.\nEvery day, they face difficulties in their cold, unfriendly cities, and their connection is maintained only through video calls.\nWill they learn to appreciate each other in a new way after going through a series of dramatic events?",
+  "source_sha256": "81e55d476944376584796d8162816ebda4bc815ed60bc192406bd149d9dfd7d6",
+  "translation": "廖沙和戴安娜是感情深厚的手足，卻相隔千里。\n兩人各自生活在冰冷而不友善的城市，每天都要面對難處，只有靠視訊通話維繫著彼此的聯繫。\n經歷一連串戲劇性的變故後，他們會學著用新的眼光珍惜對方嗎？",
+  "vndb_url": "https://vndb.org/v60841"
+}

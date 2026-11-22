@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v29153",
+  "type": "visual_novel",
+  "name": "Addendum",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A high school boy reminisces about a friend that disappeared.\n\nEntry for the VNDS Community Collaboration Project which was cancelled due to only getting one entry, which was submitted past the deadline.",
+  "source_sha256": "21bd75610845105cd6ec74f1d6d80bf836312c9fb6dcf1b70014a2acb338e97d",
+  "translation": "一名高中男生回憶起了一位失蹤的朋友。\n\n本作為VNDS社群合作企劃的投稿作品。由於企劃最終只收到這一份投稿，而且提交時已超過截止日期，企劃隨後取消。",
+  "vndb_url": "https://vndb.org/v29153"
+}

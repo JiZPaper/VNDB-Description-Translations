@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13645",
+  "type": "visual_novel",
+  "name": "99 Luftballons",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Let me tell you how the war began. Not with soldiers, not with bombs. With two children, one morning, and a sky full of red balloons.",
+  "source_sha256": "87bb6ed76f222fee4011ffccfc0745215e960bda1c1ea3ff347eac783475f547",
+  "translation": "讓我告訴你，這場戰爭是怎樣開始的。不是從士兵開始，也不是從炸彈開始，而是從兩個孩子、一個早晨，以及滿天的紅氣球開始。",
+  "vndb_url": "https://vndb.org/v13645"
+}

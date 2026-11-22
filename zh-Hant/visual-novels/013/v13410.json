@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13410",
+  "type": "visual_novel",
+  "name": "Time Labyrinth",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Time Labyrinth is a visual novel/dungeon crawler. The story is about a young man and his dog traveling back in time 10 seconds to avert a tragedy.\n\nGenre: Visual Novel, Dungeon Crawler, Romance, Drama, Supernatural\n\n- 11,000 words\n- 3 Endings\n- 4 CGs\n- 4 regular enemies (+4 variations each), 8 bosses\n- Adaptive music (during dungeon crawler)\n\n\"Ten confesses to his long time crush, Angel, but little does he know that the world’s out to ruin their date. The first problem seems to be that his dog Seconds is tagging along too, and after that it all goes downhill. Luckily Seconds can time travel 10 seconds into the past after exploring a deadly maze. It’s gonna be a long day.\"\n\nThe first release of Time Labyrinth was team mochalematazi‘s entry for [url=http://www.ludumdare.com/compo/ludum-dare-27/]Ludum Dare 27[/url].\n\n[From [url=http://timelabyrinth.vnovel.com/]official site[/url]]",
+  "source_sha256": "f9d77858d25cfb3a2c9f12970ca8658b3e7d2c3a8a74cc15664cb64d08c4e887",
+  "translation": "《時間迷宮》是一款融合視覺小說與地牢探索的遊戲。故事講述一位年輕男子與他的狗回到十秒之前，試圖阻止一場悲劇。\n\n類型：視覺小說、地牢探索、戀愛、劇情、超自然。\n\n•11000詞。\n•3種結局。\n•4張CG。\n•4種常規敵人，每種另有4種變體；8位首領。\n•隨遊戲進度變化的音樂（地牢探索部分）。\n\n「泰恩向暗戀已久的安吉爾告白，卻不知道整個世界都在與他作對，想要毀掉這場約會。第一個問題似乎是他的狗『秒鐘』也跟了過來，之後事情就一路變糟。幸好，秒鐘在探索一座致命迷宮後，能夠回到十秒之前。這會是漫長的一天。」\n\n《時間迷宮》的首個版本，是mochalematazi團隊參加[url=http://www.ludumdare.com/compo/ludum-dare-27/]Ludum Dare 27[/url]的作品。\n\n［摘自[url=http://timelabyrinth.vnovel.com/]官方網站[/url]］",
+  "vndb_url": "https://vndb.org/v13410"
+}

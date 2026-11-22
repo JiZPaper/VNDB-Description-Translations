@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v52423",
+  "type": "visual_novel",
+  "name": "Shi no Adabana to Hiiro no Akuma",
+  "original_name": "死の徒花と緋色の悪魔",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Mercenary Vito resists the urge to kill from his earliest memories.\n\nEncountered a flower in the battle to destroy the elves.\n\nShe's a demon plant that feeds on human blood.",
+  "source_sha256": "931d2b2a6a66ae72237fea4724323fba71510be3d7b6b8de464b00827cf65b4e",
+  "translation": "傭兵維托從記事起，就一直壓抑著殺戮的衝動。\n\n在一場旨在消滅精靈的戰鬥中，他遇見了一朵花。\n\n她是一株以人血為食的魔性植物。",
+  "vndb_url": "https://vndb.org/v52423"
+}

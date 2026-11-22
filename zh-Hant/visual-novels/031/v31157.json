@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31157",
+  "type": "visual_novel",
+  "name": "Higurashi no Naku Koro ni: Console Arcs",
+  "original_name": "ひぐらしのなく頃に: Console Arcs",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This entry is only concerned with the original content featured in the console exclusive releases of the Higurashi series, known as 'Matsuri', 'Kizuna' and 'Sui':\n\nMatsuri:\n• Taraimawashi-hen\n• Tsukiotoshi-hen\n• Miotsukushi-hen (only what mostly corresponds to the content later labeled in Sui and on as \"Miotsukushi Omote\")\n\nKizuna:\n• Someutsushi-hen (Kizuna 1)\n• Kageboushi-hen (Kizuna 2)\n• Hirukowashi-hen (Kizuna 2; was rewritten for this version, namely the addition and removal of certain characters and removal of references to plot details not yet revealed in the Kizuna series.)\n• Yoigoshi-hen (Kizuna 3)\n• Tokihogushi-hen (Kizuna 3)\n• Kotohogushi-hen (Kizuna 4)\n• Miotsukushi-hen (Kizuna 4; for the most part, only the content later labeled in Sui and on as \"Miotsukushi Ura\" is new to this release, but it also includes \"Omote\" content, albeit with some changes)\n\nSui:\n• Hajisarashi-hen",
+  "source_sha256": "64e7d4a1147f8ee495339ae832fc1a66b394673161dbf07e08c13de8df354074",
+  "translation": "本條目僅涵蓋《暮蟬悲鳴時》系列家用主機獨佔版本《祭》《絆》與《粹》中收錄的原創內容。\n\n《祭》\n・盥回篇\n・憑落篇\n・澪盡篇（僅包含大致對應後來在《粹》及後續版本中標記為「澪盡篇・表」的內容）\n\n《絆》\n・染傳篇（《絆》第一卷）\n・影紡篇（《絆》第二卷）\n・晝壞篇（《絆》第二卷。本篇在該版本中經過改寫，主要調整為增刪部分角色，以及刪去涉及《絆》系列尚未揭曉劇情細節的內容。）\n・宵越篇（《絆》第三卷）\n・解結篇（《絆》第三卷）\n・言祝篇（《絆》第四卷）\n・澪盡篇（《絆》第四卷。該版本新增內容大多僅限於後來在《粹》及後續版本中標記為「澪盡篇・裏」的部分，不過也包含經過部分修改的「表」篇內容。）\n\n《粹》\n・羞曬篇",
+  "vndb_url": "https://vndb.org/v31157"
+}

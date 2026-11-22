@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v39808",
+  "type": "visual_novel",
+  "name": "BEAST BREEDERS BURNING",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Sequel to the previous game, Beast Breeders, for the PC-98. Strategy RPG with a cast of catgirls.",
+  "source_sha256": "5369a412c43c6bd6fed7e4fcc06187cb09e7aa1ff20c47e419ab50dd9f608d6e",
+  "translation": "這是PC-98遊戲《Beast Breeders》的續作，一款由一群貓娘擔綱主角的策略RPG。",
+  "vndb_url": "https://vndb.org/v39808"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55375",
+  "type": "visual_novel",
+  "name": "Golosa",
+  "original_name": "Голоса",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Sergey, in a completely unknown way, got on the same bus as Semyon. Waking up in \"Sovenok\", he discovers that an unknown voice has appeared in his head. The unexpected guest teases the hero and gives orders. Will you listen to him, or will you follow your own path? The choice is yours.",
+  "source_sha256": "8c7399b4bc02a204682c812c43162f587463bea571dbbc5ced33715b857d07b3",
+  "translation": "謝爾蓋不知怎麼上了和謝米揚同一輛公車。在「小貓頭鷹」醒來後，他發現腦海中多了一個陌生的聲音。這位不速之客一邊捉弄他，一邊對他發號施令。你會聽他的話，還是走自己的路？選擇權在你。",
+  "vndb_url": "https://vndb.org/v55375"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v26854",
+  "type": "visual_novel",
+  "name": "Cheeky",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The VN focuses on a main character Juliet being \"chosen\" by a trickster god, learning more about herself through strange circumstances and fighting the forces of evil.",
+  "source_sha256": "ce5a2b01ad40c1ef0dc36ba9d96781883bc43bc5e3dd902bf937b0b16ddd138b",
+  "translation": "這部視覺小說圍繞主角茱麗葉展開。她被一位詭計之神「選中」，在種種離奇的遭遇中加深對自我的認識，並與邪惡勢力抗爭。",
+  "vndb_url": "https://vndb.org/v26854"
+}

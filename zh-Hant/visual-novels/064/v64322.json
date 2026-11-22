@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64322",
+  "type": "visual_novel",
+  "name": "True Roman",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "True Roman is a dark historical western visual novel set in Ancient Rome, LXXXIV AD. You play as Centurion Lucius, leading your legion through the harsh forests of Germania after a disastrous ambush. There are multiple other characters set across the world of Ancient Rome each with their own stories and each story will be interwoven. The game features a branching narrative, dynamic choices, speech minigames, and dice-based skill checks. Your decisions shape relationships, morale, and the fate of your men. Includes both cinematic and longform storytelling modes. The demo covers the first dramatic episode of an episodic series inspired by classical literature and Roman history.",
+  "source_sha256": "15fb3d825424050b543c088eef1f46e378753994f16c4a41bcc72803b0bc36f1",
+  "translation": "《True Roman》是一部基調黑暗的歷史西部視覺小說，背景設在西元84年的古羅馬。你將扮演百夫長盧修斯，在一場損失慘重的伏擊之後，率領軍團穿過日耳曼尼亞險惡的森林。古羅馬世界各地還有許多其他角色，各有各的故事，最終彼此交織。遊戲設有分支敘事、會隨情勢變化的選項、演說小遊戲，以及以擲骰判定的技能檢定。你的決定將左右人際關係、部隊士氣與麾下將士的命運。你既可以選擇電影化的敘事模式，也可以細讀長篇文字。這個受古典文學與羅馬歷史啟發的系列將分章推出，試玩版呈現了跌宕起伏的第一章。",
+  "vndb_url": "https://vndb.org/v64322"
+}

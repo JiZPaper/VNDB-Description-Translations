@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61310",
+  "type": "visual_novel",
+  "name": "Bloody Pursuit",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You meet Vosh under unusual circumstances. At first, he seems caring and protective. But as the story goes on, his affection becomes obsessive and controlling.",
+  "source_sha256": "b99ef2eb99ac03fa3ccdd895e2f5a215ce955da0500d7d2d60f9b5dc7471410f",
+  "translation": "你在不尋常的情況下認識了沃什。起初，他看起來體貼又護著你，可隨著故事發展，他的愛意漸漸變成了痴迷和控制慾。",
+  "vndb_url": "https://vndb.org/v61310"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12020",
+  "type": "visual_novel",
+  "name": "Solstice",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A city in the middle of an icy desert, cut off from the world by raging blizzards. Inhabited only by a small group of misfits who either can’t or don’t want to leave for the winter. When the local archaeologist goes missing, a bored doctor on a contract and a young woman who arrived with the last dog sled caravan pick on the trail.\n\nWhat starts as an innocent investigation to pass the time, may result in the cold wasteland finally claiming the once proud city.",
+  "source_sha256": "c375281ce204b9aee3c7797b4c41f9ac20b27845cb4f4a4d3ffdd18f82c483ad",
+  "translation": "一座位於冰冷沙漠中央的城市，被肆虐的暴風雪與外界隔絕。那裡只住著一小群無法或不願在冬季離開的離群之人。\n\n當地考古學家失蹤後，一名簽訂了短期合約、百無聊賴的醫生和一名隨最後一支狗拉雪橇商隊抵達的年輕女子開始追查線索。\n\n這場原本只是為了打發時間的無害調查，可能最終讓這座曾經引以為傲的城市被寒冷荒原吞噬。",
+  "vndb_url": "https://vndb.org/v12020"
+}

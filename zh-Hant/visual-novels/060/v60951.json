@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60951",
+  "type": "visual_novel",
+  "name": "Guildmaster",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A story where you take on the role of a Guildmaster. You’ll send cute girls on quests while building, or tearing down, relationships with them and among them.\n\n[From [url=https://shadowglass.itch.io/guildmaster]Itch.io[/url]]",
+  "source_sha256": "341e2d8e398c7f193cff56380134b2ec042450defd496240a9797454231182ba",
+  "translation": "在這個故事裡，你將擔任公會會長，派可愛的女孩們出去執行任務。你可以跟她們建立感情，也可以破壞這份關係。女孩們彼此之間的情誼同樣由你促成，或被你拆散。\n\n［摘自[url=https://shadowglass.itch.io/guildmaster]Itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v60951"
+}

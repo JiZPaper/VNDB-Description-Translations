@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v22868",
+  "type": "visual_novel",
+  "name": "Dear Princess",
+  "original_name": "ディアプリンセス",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "In prophecy it's said that the protagonist is destined to become king.  Standing in his way is his father's enemy(the protagonist's uncle), who he'll have to win the throne from.  And so the protagonist sets out for this goal...",
+  "source_sha256": "ec803aca5bb9984dc86f317bab9ecf0ee598292399bf2aea7f45ade274c10d86",
+  "translation": "預言說，主角注定成為國王。擋在他面前的是父親的敵人（也就是他的叔叔），他必須從叔叔手中奪走王位。於是，主角為了這個目標踏上旅程……",
+  "vndb_url": "https://vndb.org/v22868"
+}

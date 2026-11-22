@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v31658",
+  "type": "visual_novel",
+  "name": "Burger for the Baroness",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "It's your second day at your fast food job. An eccentric baroness orders a hamburger. What are you going to do about it?\n\n[From [url=https://willyelektrix.itch.io/baroness]itch.io[/url]]",
+  "source_sha256": "e735cd2e47bffd9af67bf573e25832d8be71d7e7baa60f5844e91fafb84cbbaa",
+  "translation": "這是你在速食店上班的第二天。一位古怪的女男爵，點了一個漢堡。你會怎麼做？\n\n[摘自[url=https://willyelektrix.itch.io/baroness]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v31658"
+}

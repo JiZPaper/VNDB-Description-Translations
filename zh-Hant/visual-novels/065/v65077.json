@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v65077",
+  "type": "visual_novel",
+  "name": "Kapitan-17",
+  "original_name": "Капитан-17",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A detective visual novel framed as a forum investigation.\nSifting through old threads, messages, and digital traces, the player reconstructs the story of two tournaments surrounding a cult classic game.",
+  "source_sha256": "add48731976feacfcbdf9819896279882e8f844fe6c90db81b985de9fd7adf40",
+  "translation": "一部以論壇調查為敘事形式的偵探視覺小說。\n玩家將翻查舊貼文、訊息和種種數位足跡，還原一款小眾經典遊戲背後兩場賽事的來龍去脈。",
+  "vndb_url": "https://vndb.org/v65077"
+}

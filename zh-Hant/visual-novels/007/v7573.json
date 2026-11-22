@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7573",
+  "type": "visual_novel",
+  "name": "Eien no Ikusa Hime",
+  "original_name": "永焔の戦姫",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Eien no Ikusa Hime contains the novelized versions of Ikusa Megami Zero, Genrin no Kishougun and Genrin no Kishougun 2 for those who want to jump into Verita without missing the previous story developments.",
+  "source_sha256": "d669c04320515114a421c0426e9b07b64a2db48da09e8c8a26f597f37ab03abd",
+  "translation": "《永焰的戰姬》收錄《戰女神ZERO》、《幻燐的姬將軍》與《幻燐的姬將軍2》的小說版，方便想直接玩《戰女神VERITA》、又不願錯過此前劇情的玩家。",
+  "vndb_url": "https://vndb.org/v7573"
+}

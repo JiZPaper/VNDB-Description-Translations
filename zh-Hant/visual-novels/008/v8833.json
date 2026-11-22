@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v8833",
+  "type": "visual_novel",
+  "name": "Curse",
+  "original_name": "カース",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Your university female friend is behaving strange. You and your female buddy, both psychology students, set out to find what's happening.\n\n[From [url=https://web.archive.org/web/20160404053637/http://members.shaw.ca:80/lisun/jhag-a.htm]Li's Fun House[/url]]",
+  "source_sha256": "799b465ea2e13ba81f412e6550bbe5491aafb23e6a32fb463cb85bde17c77c5d",
+  "translation": "你的一名大學女同學近來舉止古怪。你與另一位女性好友都是心理系的學生，兩人決定一同查明她身上究竟發生了什麼。\n\n[引自[url=https://web.archive.org/web/20160404053637/http://members.shaw.ca:80/lisun/jhag-a.htm]Li's Fun House[/url]]",
+  "vndb_url": "https://vndb.org/v8833"
+}

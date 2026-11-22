@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32048",
+  "type": "visual_novel",
+  "name": "No Business Like Show Business",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Today, you have the biggest audition of your life! Will you land a role in Aaron Santos' hot new Broadway musical? It's time for you to sing, dance, and act your way to stardom!",
+  "source_sha256": "c9cb0dc8f0eeb1bb62a72df933a44cb08f7b142b4c0b3bfd9bef25f996a0bc61",
+  "translation": "今天，你將迎來人生中最重要的一次試鏡！你能在亞倫・桑托斯備受矚目的百老匯新音樂劇中獲得一個角色嗎？是時候憑藉歌聲、舞步與演技，走上成名之路了！",
+  "vndb_url": "https://vndb.org/v32048"
+}

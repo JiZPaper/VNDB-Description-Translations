@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36270",
+  "type": "visual_novel",
+  "name": "Jikkyou Namahame Ero Yakyuu",
+  "original_name": "実況ナマハメエロ野球",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This is a parody game of Konami's baseball game Power Pros\n\nIt was a problem that Konami disliked the adult game parody of its own game and that it featured a real Japanese professional baseball player, so it was threatened to sue and the sale was discontinued.",
+  "source_sha256": "5e034a9fc086e185e42b03d7012077d4b1fc26911c800f5d8f073e29967d0af3",
+  "translation": "本作是對科樂美棒球遊戲《實況力量棒球》的惡搞作品。\n\n科樂美不滿自家遊戲遭到成人遊戲惡搞，加之作品中還出現了現實中的日本職業棒球選手，因此提出了提告警告，遊戲隨後停止銷售。",
+  "vndb_url": "https://vndb.org/v36270"
+}

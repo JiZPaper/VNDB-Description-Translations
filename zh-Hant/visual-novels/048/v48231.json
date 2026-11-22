@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v48231",
+  "type": "visual_novel",
+  "name": "The Secrets We Burn — Act 1",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The Secrets We Burn — Act 1 is a visual, non-linear fantasy novel about adventurers, monsters and the secrets they left in the ashes. It was created in 3 weeks for the Web Monetization Game Jam and the Github Game Off Jam.\n\nAn unexpected quest reaches the sleepy town of Hwen. The risk is great, but the reward may be even greater.",
+  "source_sha256": "4d2377672ea54b7e3dd986bfe57657106702aceb171921f877d32c89e0b455fa",
+  "translation": "《The Secrets We Burn — Act 1》是一部非線性奇幻視覺小說，講述冒險者、怪物，以及他們留在灰燼裡的秘密。本作為參加Web Monetization Game Jam和GitHub Game Off兩項遊戲創作活動而作，開發歷時三週。\n\n一樁意料之外的委託傳到了沉寂的小鎮休恩。風險固然大，報酬也許更可觀。",
+  "vndb_url": "https://vndb.org/v48231"
+}

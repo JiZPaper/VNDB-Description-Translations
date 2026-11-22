@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v28944",
+  "type": "visual_novel",
+  "name": "The Moon's Cherished Flower",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "An epistolary visual novel about a missing child and the Lady of the Moon.\n\n\"Your niece is missing, her parents just passed away, and their house was burnt down. Her diaries are your only clue now to find where she is and what actually happened to this family. Good luck!\"",
+  "source_sha256": "e6e2042c2931b4b24ace7c326469ce1d993e7625f689fe7bc8002f6fb76110db",
+  "translation": "一部關於失蹤的孩子與月之女士的書信體視覺小說。\n\n「你的姪女失蹤了，她的父母剛剛去世，家中房屋也被燒燬。她留下的日記，是你如今尋找她下落、查明這個家庭究竟發生了什麼的唯一線索。祝你好運！」",
+  "vndb_url": "https://vndb.org/v28944"
+}

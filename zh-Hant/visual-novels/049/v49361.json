@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49361",
+  "type": "visual_novel",
+  "name": "Dollscapes",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "New Dollscapes project featuring creatures from fantasy and cyberpunk worlds. The development process will focus on creating a lifelike experience, where characters feel alive, express emotions, remember all player actions, and react to the smallest events.\n\nVR is NOT required to play this game.\n\nDownload link: https://www.patreon.com/dollscapes/about",
+  "source_sha256": "ea9cb3d494eec756a428271f3f328fe5e16edc840faaa62cdb463ac10da1cfb8",
+  "translation": "《Dollscapes》的新專案將奇幻與電馭叛客世界的生物帶到你面前。開發的重點是讓相處的體驗儘可能真實：角色彷彿有自己的生命，能夠表達情緒，記得玩家做過的每件事，也會對最細微的變化作出反應。\n\n遊玩本作無需VR裝置。\n\n下載網址：https://www.patreon.com/dollscapes/about",
+  "vndb_url": "https://vndb.org/v49361"
+}

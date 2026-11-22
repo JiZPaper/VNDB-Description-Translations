@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v37113",
+  "type": "visual_novel",
+  "name": "Qiu zhi Huiyi Another World",
+  "original_name": "秋之回忆 Another World",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This game is a fan work of the most famous AVG game Memories Off series in China. It follows the line of Memories Off sorekara again and tells a story of healing:\n\nAfter the wind and rain, Isshu and Inori finally lived happily together. However, the infatuation of countless people turned into deep resentment, and an incredible tomorrow quietly unfolded in front of them... Will Miyabi and Karin live their lives with their missing hearts? What will happen to the future of Yukari and Haya? Who will Sayorin's life be entrusted to? What kind of uproar will Kanata's appearance cause? When a miracle happens, will the angel in the dream return to the world?\n\n(Source: Readme file in patch)",
+  "source_sha256": "c3352537bc35183582c78c8aae4848d4ac9a69e9696219dec582ef6a5ec15786",
+  "translation": "這是一部《秋之回憶》系列的同人作品，續寫了中國最知名文字冒險遊戲系列中《秋之回憶4 從今以後》的故事，講述一段療癒人心的往事：\n\n風雨過後，一蹴和祈終於幸福地生活在一起。然而，無數人的痴情轉為深深怨恨，一個難以置信的明日悄然展現在他們面前……雅和果凜能否在心中有所缺憾的情況下繼續生活？緣和葉夜的未來又會如何？小紗代的此生將託付給誰？彼方的出現會掀起怎樣的風波？奇蹟發生之時，夢中的天使會重返人間嗎？\n\n（來源：更新檔內的Readme）",
+  "vndb_url": "https://vndb.org/v37113"
+}

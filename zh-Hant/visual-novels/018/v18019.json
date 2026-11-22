@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v18019",
+  "type": "visual_novel",
+  "name": "Silent Nights",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Catherine Jenkins, a 26-year-old part-time university student, finds herself at the epicenter of a nightmare that gradually builds up to a horrifying reality...",
+  "source_sha256": "61abf3ceae42867286dd4a7c54934896aa6cea6ded676ba044a2887b147ceaed",
+  "translation": "26歲、以部分時間修讀大學課程的凱瑟琳．詹金斯發現自己身陷一場惡夢，而這場夢正一步步變成駭人的現實……",
+  "vndb_url": "https://vndb.org/v18019"
+}

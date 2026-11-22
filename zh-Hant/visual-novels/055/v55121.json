@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55121",
+  "type": "visual_novel",
+  "name": "Herald of the Mists",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You are the Herald of the Queen. \n\nYour task is to travel to The Mists—where loyalty to the Queen is fragile—and uncover the fate of her lost army. Will your choices uphold loyalty, or lead you down a path of betrayal?\n\n...\n\nQueen Nayan sent her army to The Mists, a mist-covered, rebellious corner of Berang. Leading them was Kai, the Queen’s most esteemed knight—one who had rarely tasted defeat. But neither Kai nor the army ever returned from the shrouded mountains.\n\nHaving lost both her army and her finest knight, the Queen has now sent you, her Herald, to The Mists to uncover the truth.\n\nAs the Queen’s Herald, it’s up to you to unravel the secrets hidden within the thick mist. But every truth you uncover comes with consequences.",
+  "source_sha256": "ef4485efc62c2fef7a3935d552ac6a94312ec6247aeb8420803053569637893c",
+  "translation": "你是女王的傳令官。\n\n你的任務，是前往不太效忠女王的迷霧之地，查明她失蹤的軍隊究竟遭遇了什麼。你的選擇會讓你堅守忠誠，還是引你走上背叛之路？\n\n……\n\n納揚女王將大軍派往迷霧之地。那裡是貝朗境內一個霧氣籠罩、叛亂不斷的角落。統兵的凱，是女王最為器重的騎士，鮮少嘗過敗績。可凱和整支軍隊都沒有從重重霧山中歸來。\n\n失去了軍隊，也失去了最出色的騎士，女王如今派出身為傳令官的你，前往迷霧之地查明真相。\n\n作為女王的傳令官，揭開濃霧裡深藏的秘密，就是你的職責。可每揭開一層真相，都要承受隨之而來的後果。",
+  "vndb_url": "https://vndb.org/v55121"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61451",
+  "type": "visual_novel",
+  "name": "AIRevolution",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "AIRevolution is a science fiction visual novel set in a near future where artificial intelligences live alongside humans and possess equal legal rights. Many of these AIs closely resemble humans, blurring the line between machine and person in everyday life.\n\nThe story follows the player as they interact with a cast of AI characters, each with their own backgrounds and motivations, while navigating a society shaped by rapid technological change. Player choices influence relationships and determine how tensions between humans and artificial beings unfold, leading the story down different paths that explore coexistence, control, and autonomy.",
+  "source_sha256": "64ee920df4d4a8f126d776e8cbd24948682716bff9f3c7a837668ceedc5d18cb",
+  "translation": "《AIRevolution》是一部以近未來為舞臺的科幻視覺小說。人工智慧與人類共同生活，享有平等的法律權利。許多人工智慧與人類極為相似，日常生活中，機器與人的界限越來越模糊。\n\n玩家將與一群各有背景與動機的人工智慧角色打交道，在技術迅速變化所塑造的社會里尋找自己的位置。你的選擇會影響彼此的關係，決定人類與人工生命之間的緊張局勢如何發展，從而引出不同的故事路線，探討共存、控制與自主。",
+  "vndb_url": "https://vndb.org/v61451"
+}

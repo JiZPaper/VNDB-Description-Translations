@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v2818",
+  "type": "visual_novel",
+  "name": "Darling II: Backlash",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A racing themed love/relationship simulation game follows the exploits of a team of young male drivers, who compete for the racing group Team Angstrom. Since the (unseen) main character is a girl with the customizable name of Hitomi, gameplay consists of conversations with male drivers. Conversations lead to specific events and story twists, which in turn, lead to different types of endings.",
+  "source_sha256": "a5805dcdc27bbbe808a76a3bc8d6b8bcb94bbf54fdce3b17b7ad240ef3ba6ccb",
+  "translation": "這是一款以賽車為主題的戀愛與人際關係模擬遊戲，講述一群年輕男車手效力於Team Angstrom車隊、參加比賽的經歷。主角是個不在畫面中露臉的女孩，預設名字為「瞳」，玩家可以自行改名，因此遊戲主要由她與男車手們的對話構成。不同對話會引出特定事件和劇情轉折，繼而導向不同類型的結局。",
+  "vndb_url": "https://vndb.org/v2818"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v55095",
+  "type": "visual_novel",
+  "name": "Shounen to Tenkiame",
+  "original_name": "少年と天気雨",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The smell of rain, raindrops splashing on the cobblestones, the sound of rain dripping from the eaves. A boy was sheltering from the rain at a shrine. A slightly mysterious story that begins with an encounter with a self-proclaimed god called \"Fox-san.\"",
+  "source_sha256": "46eac57ddc9e673f7468a29a318d2028bc98e586d48cffe38a10fb7935e64957",
+  "translation": "雨的氣息，石板路上濺起的水滴，屋簷落下雨滴的聲音。一個少年正在神社躲雨。一段有些不可思議的故事，從他邂逅一位自稱神明的「狐狸先生」開始。",
+  "vndb_url": "https://vndb.org/v55095"
+}

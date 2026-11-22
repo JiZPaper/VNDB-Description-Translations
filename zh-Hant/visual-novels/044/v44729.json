@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v44729",
+  "type": "visual_novel",
+  "name": "i will not survive you",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "made for the april bitsy jam, for which the theme was bad weather.\n\nmade with bitsy, using Sean S. LeBlanc and Cephalopodunk's backdrop hack, and Sean S. LeBlanc's long dialogue hack, which were applied using AYolland's borksy. audio added using candle's add bitsy audio tool. background animation made by putting two or three frames each from a number of public domain stock videos into ruin's pixsy, then downloading snapshots of each room via bitsy, then looping and compiling them in photoshop. :)",
+  "source_sha256": "153400973796ce91d4f8b319f009b9e2f010c712d335a0ca8eaeef824b00eeed",
+  "translation": "為四月的Bitsy Jam創作，當期主題是惡劣天氣。\n\n使用Bitsy製作，透過AYolland的borksy，加入Sean S. LeBlanc與Cephalopodunk的背景擴充套件，以及Sean S. LeBlanc的長對話擴充套件。音訊使用candle的add bitsy audio工具新增。背景動畫的製作方式是：從多段公共領域素材影片中各取兩三幀，放進ruin的pixsy，再透過Bitsy下載每個房間的快照，最後在Photoshop中合成循環動畫。:)",
+  "vndb_url": "https://vndb.org/v44729"
+}

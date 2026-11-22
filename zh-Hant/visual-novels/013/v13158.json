@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13158",
+  "type": "visual_novel",
+  "name": "Riajuu Otajuu Reversible",
+  "original_name": "リア充オタ充リバーシブル",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A pair whose paths should not have crossed.\n\nThis is a youthful boy-meets-boy love adventure, involving a 『riajuu』 and a 『otajuu』.",
+  "source_sha256": "1e5c2f7afd8492164895de1caf51549010e8f0783b76275be26477563ea45258",
+  "translation": "本不該有交集的兩個人。\n\n這是一部圍繞「現充」與「宅充」展開的青春戀愛冒險，講述兩位少年相遇相戀的故事。",
+  "vndb_url": "https://vndb.org/v13158"
+}

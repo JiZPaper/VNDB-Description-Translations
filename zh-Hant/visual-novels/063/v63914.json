@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v63914",
+  "type": "visual_novel",
+  "name": "Zaychik: Inoy Final",
+  "original_name": "Зайчик: Иной Финал",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The story offers a different ending for Episode 4 of [url=/v21418]Zajchik[/url], centered on accepting treats from the beasts.",
+  "source_sha256": "8a1a46f3867ec0ea7c3bbd0866e90a87cf0b359bdc4374b2c138099d4fa7f6c4",
+  "translation": "這個故事圍繞接受野獸贈予的零食展開，為[url=/v21418]《小兔子》[/url]第四章提供了另一種結局。",
+  "vndb_url": "https://vndb.org/v63914"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14879",
+  "type": "visual_novel",
+  "name": "Mujou no Erasmus - The Erasmus two-faced stories",
+  "original_name": "霧上のエラスムス - The Erasmus two-faced stories",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "First story:\n\nOne day, Mell receives a mysterious e-mail from someone who signs themselves as the “Witch of Fog”. The Witch has organized a class reunion for him and his former roommates who all attended Erasmus in Strasbourg together.\n\n--\n\nSecond story:\n\n[spoiler]Ten years before the first story, Michel receives an e-mail from Neige, his e-mail penpal he has met on an online suicide community. She wonders whether he really exists in this world and asks him to meet in Prague the day after tomorrow.[/spoiler]",
+  "source_sha256": "74506e355ea6cc8208917918183d40665574060f3d50e495c3ffa8cf08ec05c2",
+  "translation": "第一則故事：\n\n一天，梅爾收到一封神秘電子郵件，寄件人自稱「霧之魔女」。魔女為他和曾一同在史特拉斯堡參加伊拉斯謨交換計畫的前室友們組織了一場同學聚會。\n\n――\n\n第二則故事：\n\n[spoiler]第一則故事發生前十年，米歇爾收到網友內格的郵件。兩人是在一個線上自殺者社群認識的筆友。內格想知道米歇爾是否真的存在於這個世界上，於是請他後天在布拉格見面。[/spoiler]",
+  "vndb_url": "https://vndb.org/v14879"
+}

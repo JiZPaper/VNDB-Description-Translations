@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v42618",
+  "type": "visual_novel",
+  "name": "Kryzalis Progranyh Sniv",
+  "original_name": "Кризаліс Програних Снів",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A guy who has lost his memory wakes up in a mysterious superstructure that has survived the end of the world. Its inhabitants play mahjong with each other to save themselves from oblivion. There, he will search for his memories, the reasons for the death of the past world, and hope for the future.",
+  "source_sha256": "3962d6bc4ab859dd2c439c4f0e956827b9d021247246424b4fc1797fe66c2aa0",
+  "translation": "一個失去記憶的青年，在一座熬過世界末日的神秘巨構建築中醒來。這裡的居民彼此打麻將，以免自己被遺忘。在這裡，他將尋找自己的記憶、舊世界毀滅的原因，以及未來的希望。",
+  "vndb_url": "https://vndb.org/v42618"
+}

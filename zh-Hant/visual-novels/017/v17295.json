@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17295",
+  "type": "visual_novel",
+  "name": "Ivan wa Mita!",
+  "original_name": "イワンは見た!",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "When Ivan visits Kotetsu's apartment to return his lost cell phone, he accidentally spies on a private moment between Kotetsu and Barnaby.",
+  "source_sha256": "716784c0dcb53292a9c68d9bc2012bba0b2c8985e452801fe1345afac8b9d719",
+  "translation": "伊凡去虎徹的公寓歸還對方遺失的手機時，意外偷看到了虎徹與巴納比之間的私密時刻。",
+  "vndb_url": "https://vndb.org/v17295"
+}

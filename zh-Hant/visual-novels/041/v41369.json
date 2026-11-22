@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v41369",
+  "type": "visual_novel",
+  "name": "Halloween Kikiippatsu",
+  "original_name": "はろうぃん　ききいっぱつ",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A magician-in-training is tasked with decorating for a Halloween party.",
+  "source_sha256": "05fb927e8f67ff2cc122302cb933ba2f24d80e928537da094240342346350c84",
+  "translation": "一名見習魔法師受命為萬聖節派對佈置會場。",
+  "vndb_url": "https://vndb.org/v41369"
+}

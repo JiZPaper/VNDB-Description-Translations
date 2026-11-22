@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v51857",
+  "type": "visual_novel",
+  "name": "MONOKURO ~From here and back~",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Wishing on a gray feather...\n\nTwo lab experiments, Ama and Bon, escape from their\ncaptors in order to reach Paradise, a land high above.\nBut, what is their connection to the monsters that pursue them?\n\nThis is a visual novel developed in Ren'py made to look like a long lost 1997 Sega Saturn video game, complete with purposely low-res graphics, FMVs, and audio. A game manual .pdf is included with a download of the game. There are 4 endings to reach and a gallery with CGs, concept art, and character profiles to fill out and see.",
+  "source_sha256": "b020eba60193f1c696cbd0176b6e08a5899212462958efef8ff05c48bdd033fe",
+  "translation": "對著一根灰色的羽毛許願……\n\n阿瑪和邦是兩個實驗體。他們從囚禁自己的人手中逃了出來，想去往高空之上的樂園。但追逐他們的怪物，又與他們有何關聯？\n\n本作是一部使用Ren'Py開發的視覺小說，力求呈現出一款失傳已久的1997年SEGA Saturn遊戲的模樣，刻意採用低解析度圖像、全動態影像與低傳真音效。下載遊戲時附贈PDF格式的遊戲說明書。故事共有四個結局，還可以逐步解鎖鑑賞室裡的CG、概念圖和角色檔案。",
+  "vndb_url": "https://vndb.org/v51857"
+}

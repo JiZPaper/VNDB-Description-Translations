@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v50327",
+  "type": "visual_novel",
+  "name": "Prostushka i Korol'",
+  "original_name": "Простушка и Король",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A college student fallen in love with his classmate meets her doppelganger who has another personality",
+  "source_sha256": "38d3cc6347a1abee610b0996bef81fd321c4359a82a8839273a255c2ec433da5",
+  "translation": "一名大學生愛上了同班女生，卻遇見了一個與她容貌一模一樣、性格截然不同的人。",
+  "vndb_url": "https://vndb.org/v50327"
+}

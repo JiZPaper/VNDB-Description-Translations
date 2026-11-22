@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58461",
+  "type": "visual_novel",
+  "name": "Apus",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The story is set on the Mars exploration base, Dune.\nIt follows a young man named Subaru, who has been left behind there alone.\nHowever, the perspective of the story is told through a “meteorite” he picked up.",
+  "source_sha256": "1bdc96630cbe042a323f91a5162b6b0b671a82dd0b285aeb2796bb504812218e",
+  "translation": "故事發生在火星探測基地「沙丘」。\n年輕人昴獨自被留在了那裡，故事講述的就是他的經歷。\n不過，敘述這一切的，卻是他撿到的一塊「隕石」。",
+  "vndb_url": "https://vndb.org/v58461"
+}

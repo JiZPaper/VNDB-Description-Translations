@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1841",
+  "type": "visual_novel",
+  "name": "Kaeru nyo Panyon",
+  "original_name": "かえるにょ・ぱにょ～ん",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A magician changes the prince of Parancho into a weird creature while he is on an errand in a distant land. Since his new form isn't very strong he has to entrust his life to a group of adventurers to get back home safely.",
+  "source_sha256": "752808e5cd2f305ef08e0b206595f3743d0466f2f1ba45fd503665d283b813cf",
+  "translation": "一名魔法師趁帕蘭喬王子前往遠方辦事時，把他變成了奇怪的生物。變身後的王子沒什麼本事，只能把性命託付給一群冒險者，靠他們一路護送回國。",
+  "vndb_url": "https://vndb.org/v1841"
+}

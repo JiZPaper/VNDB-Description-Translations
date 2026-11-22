@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v53019",
+  "type": "visual_novel",
+  "name": "Lost Connection",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Lost Connection is a short visual novel following the events that take place between a space station in peril and the skeleton command crew back on Earth charged with supporting it's mission.\n\n[From [url=https://store.steampowered.com/app/3193620/]Steam[/url]]",
+  "source_sha256": "0219a0ac486ed047d43082bc926530d73697e9e06759692f6a02507cef94494c",
+  "translation": "《Lost Connection》是一部短篇視覺小說，講述一座陷入險境的太空站與地球上負責支援其任務、只留有最少人手的指揮組之間發生的事。\n\n［摘自[url=https://store.steampowered.com/app/3193620/]Steam[/url]］",
+  "vndb_url": "https://vndb.org/v53019"
+}

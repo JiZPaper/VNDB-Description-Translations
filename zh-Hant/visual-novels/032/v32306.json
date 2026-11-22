@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32306",
+  "type": "visual_novel",
+  "name": "Frightwood",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Join a group of fairy teens in their attempt to discover a grand treasure - one that can only be earned during the night of Halloween. Explore the mystical forest, and find out if the claims are true, or merely a mischievous trap.\n\nThis story is a prequel to Lovewood, featuring the younger versions of some of the characters. Knowledge about Lovewood isn't neccessary to play Frightwood and understand its story.",
+  "source_sha256": "761751e428743c0bdb916b143c3a898a5c8969d87b41fa8e45a60a31f04e8106",
+  "translation": "跟隨一群少年仙子，尋找唯有在萬聖節之夜才能獲得的珍貴寶藏。探索神秘的森林，查明那些傳言究竟屬實，還是一場惡作劇般的陷阱。\n\n本作是《Lovewood》的前傳，部分角色將以年少時的模樣登場。即使沒有接觸過《Lovewood》，也能遊玩《Frightwood》並理解它的故事。",
+  "vndb_url": "https://vndb.org/v32306"
+}

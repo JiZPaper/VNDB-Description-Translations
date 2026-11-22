@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v14058",
+  "type": "visual_novel",
+  "name": "Ie, Tatemasu!",
+  "original_name": "家、建てます!",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The action takes place in a small village on the west coast of Japan, where the construction workers are called from Tôkyô to build a house for a widower and his two sons.\n\n[From [url=http://archive.insertcredit.com/reviews/ietate/]Insert Credit review[/url]]",
+  "source_sha256": "f6f4be00bae058186da3833a42b225e8135775db135b1b838347411dbce7b547",
+  "translation": "故事發生在日本西海岸的一座小村莊。建築工人從東京來到這裡，為一名鰥夫和他的兩個兒子建造房屋。\n\n［譯自[url=http://archive.insertcredit.com/reviews/ietate/]Insert Credit評論[/url]］",
+  "vndb_url": "https://vndb.org/v14058"
+}

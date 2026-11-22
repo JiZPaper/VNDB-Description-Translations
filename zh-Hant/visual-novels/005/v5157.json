@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v5157",
+  "type": "visual_novel",
+  "name": "Mujintou Monogatari",
+  "original_name": "無人島物語",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Mujintō Monogatari is a self-described \"survival life simulation\". A plane crashes into the sea, but the protagonist survives and reaches a seemingly deserted island. The protagonist finds a cabin with a few basic supplies. From that point on, the player has to manage the hero's activities. Water, food and light sources have to be provided. The protagonist can team up with other survivors and explore the island, gradually revealing new locations; this can be done in co-operative mode. Expeditions to other places take place automatically, and must be planned in advance by the player. The protagonist's statistics (stamina, speed, etc.) will change depending on the activities chosen by the player.\n\n[from [url=http://www.mobygames.com/game/pc98/mujint-monogatari]MobyGames[/url]]",
+  "source_sha256": "0d87e961ef13ff783c77061db51dd6cba6d9a10e11f1577f3c56201bbf00ad84",
+  "translation": "《無人島物語》自稱是一款「生存生活模擬遊戲」。一架飛機墜入海中，主角倖存下來，並抵達一座看似荒無人煙的小島。他在那裡找到一間小屋，裡面有少量基本物資。從此，玩家必須管理主角的各種活動，為他提供水、食物和光源。主角可以與其他倖存者組隊探索島嶼，逐步發現新的地點；這一過程也支持合作模式。前往其他地點的探險會自動進行，玩家必須提前擬好計畫。主角的各項數值（體力、速度等）會根據玩家選擇的活動發生變化。\n\n[出自[url=http://www.mobygames.com/game/pc98/mujint-monogatari]MobyGames[/url]]",
+  "vndb_url": "https://vndb.org/v5157"
+}

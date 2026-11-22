@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v20125",
+  "type": "visual_novel",
+  "name": "Dream Detective",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Dream Detective is an investigative mini-game where you help three thoughts piece back together the half-forgotten dreams of their human to help him with his day.\n\nIs it a visual novel? Is it a puzzle game? Try it out and decide for yourself!\n\n[From [url=https://lauragames.itch.io/dream-detective]official site[/url]]",
+  "source_sha256": "70ee7699f2f38a41b0064755345c91bba49b77578fac5af4a2b78f5773336e79",
+  "translation": "《Dream Detective》是一款調查小遊戲。你將幫助三個念頭，拼湊出它們的主人已經忘卻大半的夢境，助他度過這一天。\n\n它究竟是視覺小說，還是解謎遊戲？親自玩一玩，再做出判斷吧！\n\n[摘自[url=https://lauragames.itch.io/dream-detective]官方網站[/url]]",
+  "vndb_url": "https://vndb.org/v20125"
+}

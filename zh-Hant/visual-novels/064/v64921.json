@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v64921",
+  "type": "visual_novel",
+  "name": "Hajimete no Shussan",
+  "original_name": "はじめての出産",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "An educational serious game that allows players to learn about the process of childbirth through an interactive story and mini-games.\n\nFrom the onset of labor to delivery and the beginning of life with a newborn, players can experience each stage in a structured and engaging way. The game is designed to help users understand the roles of medical staff and the progression of childbirth in an accessible format.\n\n[From [url=https://store.steampowered.com/app/4535300/First_Steps_in_Learning_about_Childbirth/]Steam[/url]]",
+  "source_sha256": "9bb1826331e4c24fac83d807d13636985c5eea4134a2ec5cddc6a365547bde16",
+  "translation": "一款以教育為目的的嚴肅遊戲，玩家可透過互動故事與小遊戲瞭解分娩過程。\n\n從開始臨產、分娩，到和新生兒一起生活的最初時光，玩家可以依次體驗各個階段，過程清晰而生動。遊戲以易懂的方式幫助玩家瞭解醫護人員各自的職責，以及分娩是如何一步步進行的。\n\n［摘自[url=https://store.steampowered.com/app/4535300/First_Steps_in_Learning_about_Childbirth/]Steam[/url]］",
+  "vndb_url": "https://vndb.org/v64921"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33028",
+  "type": "visual_novel",
+  "name": "Purple Cat '97",
+  "original_name": "パープル CAT ’97",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The game genre is a novel type ADV.\nThe official name of the game is \"Paso Comic\", and if I were to use an expression familiar to players of the time, it would be it's probably the same kind of disc magazine.",
+  "source_sha256": "c1362c5dc5af5902a4ed4924ed288959c0d8a27284e503262cf91ae3bb5bf075",
+  "translation": "本作屬於小說式冒險遊戲。\n它正式採用的名稱是「Paso Comic」。如果換成當時玩家熟悉的說法，大概就是與光碟雜誌類似的東西。",
+  "vndb_url": "https://vndb.org/v33028"
+}

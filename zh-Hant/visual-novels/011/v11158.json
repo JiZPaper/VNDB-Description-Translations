@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11158",
+  "type": "visual_novel",
+  "name": "Dark Recall",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "In the year 2076 as mankind's resources dwindled, they began desperately reaching out to the stars in order to find a new home.\n\n[From [url=https://web.archive.org/web/20161209142949/http://www.terabit-software.co.uk/DarkRecall.aspx]official website[/url]]",
+  "source_sha256": "7b4a74a861b3ac791b17ef2bbd44d21a4598660f47cfd06566f72c29b5fdb364",
+  "translation": "2076年，人類的資源日益枯竭。為了尋找新的家園，人類開始絕望地向群星發出求救。\n\n［來自[url=https://web.archive.org/web/20161209142949/http://www.terabit-software.co.uk/DarkRecall.aspx]官方網站[/url]］",
+  "vndb_url": "https://vndb.org/v11158"
+}

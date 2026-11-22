@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49494",
+  "type": "visual_novel",
+  "name": "Bu Shuangxiu Jiu Qushi",
+  "original_name": "不双修就去世",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This is a text adventure game that combines the gameplay of desktop pets and mini-games. You can advance the plot by clicking on the dialogue, or play mini-games to accumulate values to trigger new plots, and you can also cultivate your favorite characters by hanging up.\n\n[From [url=https://store.steampowered.com/app/2190290]Steam[/url]]",
+  "source_sha256": "606a3b5b948d031e3048fd91400f8c31d74542fb2362aaa07106cfb0cac58765",
+  "translation": "這是一款結合桌面寵物與小遊戲玩法的文字冒險遊戲。你可以點選對話推進劇情，也可以透過小遊戲積累數值，觸發新的情節，還可以掛機培養自己喜歡的角色。\n\n（來源：[url=https://store.steampowered.com/app/2190290]Steam[/url]）",
+  "vndb_url": "https://vndb.org/v49494"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58695",
+  "type": "visual_novel",
+  "name": "Moonlit Blessed",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Moonlit Blessed is a game made in RPG Maker VX Ace for the RPG Maker 2025 Game Jam, with the theme \"beyond expectations\".\nAccompany your best friend on a quest to bring the Moon back to the sky.\n\n[From [url=https://quiesphere.itch.io/moonlit-blessed]Itch.io[/url]]",
+  "source_sha256": "de09dcba955ca35222f0ecc1f827d64daa6984c4be7314ef138b2fc5cdb9193a",
+  "translation": "《Moonlit Blessed》是為RPG Maker 2025 Game Jam製作的遊戲，使用RPG Maker VX Ace開發，主題為「超越預期」。\n陪伴你最好的朋友，踏上將月亮送回天上的征途。\n\n［取自[url=https://quiesphere.itch.io/moonlit-blessed]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v58695"
+}

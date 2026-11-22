@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v34112",
+  "type": "visual_novel",
+  "name": "Afterward",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Sometimes your best isn't enough.\n\n[From [url=https://farawaytimes.itch.io/afterward]Itch.io[/url]]",
+  "source_sha256": "cb4cd32f12303ffe978482b050f59c00a71f07b875f17c02822e80532babcbb7",
+  "translation": "有時候，就算竭盡全力，也還是不夠。\n\n[摘自[url=https://farawaytimes.itch.io/afterward]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v34112"
+}

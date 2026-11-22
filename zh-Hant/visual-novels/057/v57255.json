@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57255",
+  "type": "visual_novel",
+  "name": "Perhaps It Will Take Me Home",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You're stranded somewhere in the countryside. You don't know how you got here, but you need to find your way back.\n\n[From [url=https://inquisitiveturtlestudios.itch.io/perhapsitwilltakemehome]Itch.io[/url]]",
+  "source_sha256": "5aa377073273d57a8d281c2eca050f266f03f5eebe9eb0c3c34bd3248c4f01e4",
+  "translation": "你流落在鄉間某處。你不知道自己是怎麼來的，但必須找到回去的路。\n\n［摘自[url=https://inquisitiveturtlestudios.itch.io/perhapsitwilltakemehome]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v57255"
+}

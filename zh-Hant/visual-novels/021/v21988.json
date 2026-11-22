@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21988",
+  "type": "visual_novel",
+  "name": "Yuuki Yuuna wa Yuusha de Aru A",
+  "original_name": "結城友奈は勇者であるA",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Released with the Yuusha no Shou anime's Blu-ray box. Contains 10 short scenarios, 3 set post-Yuusha no Shou and 7 set around episode 1.",
+  "source_sha256": "d0ca53cff6b0a772dd5937a60c57cf9772551ee5f5a7f09a8c996104af9abbfc",
+  "translation": "隨《勇者之章》動畫藍光套組發售。收錄10篇短篇劇本，其中3篇發生在《勇者之章》之後，7篇發生在第1集前後。",
+  "vndb_url": "https://vndb.org/v21988"
+}

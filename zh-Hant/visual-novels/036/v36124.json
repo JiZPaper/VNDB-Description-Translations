@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36124",
+  "type": "visual_novel",
+  "name": "Grandma's Ghosts",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Welcome to Grandma's Ghosts, where you deal with loss, surprises, and possibly a cookie recipe.\n\n[From [url=https://rustybailey.itch.io/grandmas-ghosts]Itch.io[/url]]",
+  "source_sha256": "5981baa95aaff6034df370af4b1fcc7c85cfaf98739b23fbf08faa082b21550d",
+  "translation": "歡迎來到《Grandma's Ghosts》。在這裡，你將面對失去、意外，或許還有一份餅乾配方。\n\n[摘自[url=https://rustybailey.itch.io/grandmas-ghosts]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v36124"
+}

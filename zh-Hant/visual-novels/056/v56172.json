@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v56172",
+  "type": "visual_novel",
+  "name": "Zhenye de Qingchen Guixia SOE",
+  "original_name": "真夜的清晨瑰夏SOE",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A fan-made sequel to [url=/v49008]Chanye's Home[/url], created with the permission of the original developer [url=/p23480]YauYuenTong[/url]. Playing the original game first is highly recommended.\nNote: The writing style is very different from the original story.",
+  "source_sha256": "9b2ca034ab9ef6be9016226e32e762853847ecb9794a152fcb7dacb168557bd0",
+  "translation": "[url=/v49008]《真夜的居所》[/url]的粉絲自製續作，已獲得原作開發者[url=/p23480]柚原堂[/url]許可。強烈建議先遊玩原作。\n注意：本文的寫作風格與原作故事很不一樣。",
+  "vndb_url": "https://vndb.org/v56172"
+}

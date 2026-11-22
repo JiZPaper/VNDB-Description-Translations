@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49009",
+  "type": "visual_novel",
+  "name": "Tead",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "12 strangers wake up in a room. They're told one of them is secretly the Game Master, and they must try to kill the Game Master. But if one of them murders someone who's not the Game Master, the murderer will be killed unless they can convince others they were not the murderer. The others must figure out who the murderer is or they will all die.\n\n[From [url=https://store.steampowered.com/app/2145700/]Steam[/url]]",
+  "source_sha256": "96ce6495d8df467ab341c870545aaf9d15467f647707229fd88fcb54e4a49026",
+  "translation": "十二個素不相識的人在一個房間裡醒來。有人告訴他們，遊戲主持人就藏在他們當中，他們必須設法將其殺死。可要是殺錯了人，兇手就得讓大家相信人不是自己殺的，否則便會被處死。其餘的人也必須找出真兇，否則誰也活不成。\n\n（來源：[url=https://store.steampowered.com/app/2145700/]Steam[/url]）",
+  "vndb_url": "https://vndb.org/v49009"
+}

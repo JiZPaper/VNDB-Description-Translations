@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v7569",
+  "type": "visual_novel",
+  "name": "Reputation Disaster",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Reputation Disaster Training Simulation is a game used to introduce people to online reputation defense and digital PR. Blogger bear is the best part. Basically it serves as an interactive method of teaching the basics of blogger outreach.",
+  "source_sha256": "756beeb130e4810f8ed8f5656e7d1d2a881ba6f521fe1db47a964715ab48d89e",
+  "translation": "《聲譽災難訓練模擬器》用於向人們介紹網路聲譽維護與數位公關，其中最精彩的角色是「部落格熊」。它本質上以互動形式講授如何接觸部落客的基礎知識。",
+  "vndb_url": "https://vndb.org/v7569"
+}

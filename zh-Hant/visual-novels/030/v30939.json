@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v30939",
+  "type": "visual_novel",
+  "name": "Jump Hero Gaiden 3 ~Tobikiri Adventure~",
+  "original_name": "JUMPHERO 外伝3 ～トビッきりアドベンチャー～",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "An adventure game from the JUMP HERO series. You have to memorize important words as keywords during conversations to increase the number of conversation options and advance the story. If you clear the game, you can also play the extra mini-games!\n\nSource- Project EGG, D4 Enterprise",
+  "source_sha256": "c651c584f394e8aa0794ad4154b1a17fb48042e91afa21d412c5079ced56146b",
+  "translation": "這是一部《JUMP HERO》系列的冒險遊戲。玩家需要在對話中記住重要詞語，將其作為關鍵字，增加對話選項並推動故事發展。通關後，還能遊玩附贈的迷你遊戲！\n\n來源為Project EGG、D4 Enterprise。",
+  "vndb_url": "https://vndb.org/v30939"
+}

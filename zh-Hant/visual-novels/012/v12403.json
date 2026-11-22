@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v12403",
+  "type": "visual_novel",
+  "name": "Sommer Trip",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A short visual novel about a girl named Melody on her graduation trip to Italy. Her friend fell asleep next to her on the bus. In order to fight her boredom, she wants to sit next to one of the tree boys; Lukas, Shane, or Djan.",
+  "source_sha256": "5aa04462a3c9be8117d58047e3ac018d9542a732ce2c56aec3be0e40ffc901db",
+  "translation": "這是一部短篇視覺小說，講述女孩梅洛蒂在畢業旅行中前往義大利的故事。她的朋友在公車上睡著了。為了打發無聊，她想坐到三個男孩中的一個旁邊：盧卡斯、尚恩或詹。",
+  "vndb_url": "https://vndb.org/v12403"
+}

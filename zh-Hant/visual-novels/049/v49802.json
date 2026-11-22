@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v49802",
+  "type": "visual_novel",
+  "name": "DALK Hint Disk",
+  "original_name": "DALKヒントディスク",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Includes short official stories for DALK characters, a quiz game, a short game titled \"Zero Shiki\", and short fan stories.",
+  "source_sha256": "749af41694556959d94368d204eda7358c96a925d1820ad1a775abfcacb0d88d",
+  "translation": "收錄了以《DALK》角色為主角的官方短篇、問答遊戲、名為《零式》的小遊戲，以及玩家創作的短篇故事。",
+  "vndb_url": "https://vndb.org/v49802"
+}

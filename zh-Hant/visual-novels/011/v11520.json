@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11520",
+  "type": "visual_novel",
+  "name": "A Midsummer Night's Dream",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This is a transformation of one of Shakespeare's most popular works to visual novel form, while keeping the play script and directions format intact.\n\n[From [URL=http://renai.us/game/midsummer.shtml]Ren'Ai Archive[/URL]]",
+  "source_sha256": "ed7dba1ca315e1296f1f4e2df0cd0bd927d6c0f4336cbcff6023ce720ec6de93",
+  "translation": "莎士比亞最受歡迎的作品之一改編為視覺小說，完整保留了劇本和舞臺指示。\n\n［來自[URL=http://renai.us/game/midsummer.shtml]仁愛檔案[/URL]］",
+  "vndb_url": "https://vndb.org/v11520"
+}

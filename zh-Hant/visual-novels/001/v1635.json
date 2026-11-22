@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v1635",
+  "type": "visual_novel",
+  "name": "Dear My Sun!! ~Musuko★Ikusei★Capriccio~",
+  "original_name": "DEAR My SUN!!～ムスコ★育成★狂騒曲～",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You play as the mother of a pair of twins, whose father has left on an expedition to Egypt.\n\nWhile raising the twins the mother can seek help with their careers from other characters, and maybe even choose to partner up with one them instead of waiting for her husband who has been missing for several years.",
+  "source_sha256": "cd07aa33d880069c83801809c0e7ee317d0b90a8e487fcfeedb930e72b4f97ba",
+  "translation": "玩家將扮演一對雙胞胎的母親，孩子的父親已經前往埃及探險。\n\n在養育雙胞胎的過程中，母親可以向其他角色尋求幫忙，為孩子的未來職涯做打算；她甚至可能不再等待那個失蹤多年的丈夫，而是選擇其中一人與自己相伴。",
+  "vndb_url": "https://vndb.org/v1635"
+}

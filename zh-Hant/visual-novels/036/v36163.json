@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36163",
+  "type": "visual_novel",
+  "name": "Shounen Tanteidan Mahou Ningyou Edogawa Ranpo",
+  "original_name": "少年探偵団・魔法人形　江戸川乱歩",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A girl gidnapped by a strange puppeteer. \nA magical doll that moves at night.\nA boy named Kobayashi of the Akechi Detective Agency embarks on a one-man investigation, but is unable to get close to the truth.\nHowever, working together with the girls involved in the case, he gradually tracks down the culprits.\nWhen the trick behind the two incidents is revealed, the case comes to a turbulent end. \nOriginal story by Edogawa Ranpo. (Studio ROUGHsketch)",
+  "source_sha256": "c58ec71821cb8bbf1c79ec473a8166036e7e35b1116f7eb9187eb9c7574238e5",
+  "translation": "一名少女遭到神秘的人偶師綁架。\n一具魔法人偶在夜間自行活動。\n\n明智偵探事務所的少年小林獨自展開調查，卻始終無法接近真相。不過，在與捲入案件的少女們攜手合作後，他逐漸逼近了犯人。\n\n當兩起事件背後的詭計被揭穿時，案件也迎來了波瀾起伏的結局。\n原作：江戶川亂步。（Studio ROUGHsketch）",
+  "vndb_url": "https://vndb.org/v36163"
+}

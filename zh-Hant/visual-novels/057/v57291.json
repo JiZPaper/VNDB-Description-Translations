@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v57291",
+  "type": "visual_novel",
+  "name": "Blind Sight",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "You play as Anthony, a university student unwittingly drawn into a web of dark secrets and malevolent forces that plague his campus. Your choices will shape Anthony's fate as he navigates an eerie encounter and uncovers the university's sinister past. \n\nWith the help of a mysterious artifact, Anthony has a chance to combat the threats that lurk in the shadows. Will you lead him to safety, or will he succumb to the darkness?\n\n[From [url=https://elitheslime.itch.io/blind-sight]Itch.io[/url]]",
+  "source_sha256": "3f86974e336e0766f3eb6a8a88ae5429c09901f37a65dd8c10a2f10626645ba6",
+  "translation": "你扮演大學生安東尼，無意中捲入了籠罩校園的黑暗秘密與惡意力量交織而成的網。一次詭異的遭遇過後，他開始揭露大學陰森的過去，而你的選擇將決定他的命運。\n\n藉助一件神秘遺物，安東尼有機會對抗潛藏在陰影中的威脅。你會引領他抵達安全之地，還是眼看他向黑暗屈服？\n\n［摘自[url=https://elitheslime.itch.io/blind-sight]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v57291"
+}

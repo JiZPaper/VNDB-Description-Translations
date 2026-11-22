@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60575",
+  "type": "visual_novel",
+  "name": "SALVATION",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A short, 20 minute visual novel about an angel trapped within the walls of an abandoned church. His captor, a deranged priest who doesn't tolerate disrespect. Will the angel be able to escape his captivity? \n\n[From [url=https://braychandler.itch.io/salvation]itch.io[/url]]",
+  "source_sha256": "7a5d231c0a639bb20befede439df471a88d48517b8ca2f4c5990a3deb3cb39de",
+  "translation": "一部約20分鐘長的短篇視覺小說。一名天使被困在廢棄教堂的四壁之內，囚禁他的是個精神失常、容不得半點不敬的神父。天使能逃脫囚禁嗎？\n\n［摘自[url=https://braychandler.itch.io/salvation]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v60575"
+}

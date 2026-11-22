@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46832",
+  "type": "visual_novel",
+  "name": "Mary Adventures",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "The story of a girl who recently moved to Tokyo.\nShe agrees to test a medication that improves immunity, but it also causes accelerated muscle growth.\n\nFMG simulator in which you can meet interesting people, the opportunity to go on dates,\nand just a simulator of the life of an ordinary girl.​",
+  "source_sha256": "cda9f4e7a9347104468df665d95bdc58307b11c48396f9b5733b8e01a27be96f",
+  "translation": "故事的主角是個剛搬到東京的女孩。\n她答應試用一種增強免疫力的藥物，沒想到它還帶來了肌肉加速生長的效果。\n\n這是一款女性肌肉成長模擬遊戲。你可以結識有趣的人、與人約會，也可以就這樣體驗一個普通女孩的日常生活。",
+  "vndb_url": "https://vndb.org/v46832"
+}

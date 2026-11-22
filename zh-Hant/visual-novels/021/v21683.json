@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v21683",
+  "type": "visual_novel",
+  "name": "OdaStream ~Akumu ni Torawareta Marionnette~",
+  "original_name": "OdaStream～悪夢に因われたマリオネット～",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "--The artificial life \"Magatama\"--\n\nAs Magatama was created with purpose, their existence is only\nguaranteed by perusing the purpose and contributing to the human race.\n\nMaybe it is our responsibility to set the place they can do what they should do...\n\n[From [url=https://www.dlsite.com/maniax/work/=/product_id/RJ204145.html]DLsite English[/url]]",
+  "source_sha256": "699a2ba9c7a84b0d4aada9439d146cfe6e6628f42f9ba655c4a4acb168ddee75",
+  "translation": "——人工生命「勾玉」——\n\n勾玉被創造出來是為了完成某種目的，因此只有追求這一目的、為人類做出貢獻，它們的存在才有保障。\n\n也許，我們有責任為它們提供一個讓它們得以完成使命的場所……\n\n[來源：[url=https://www.dlsite.com/maniax/work/=/product_id/RJ204145.html]DLsite英文版[/url]]",
+  "vndb_url": "https://vndb.org/v21683"
+}

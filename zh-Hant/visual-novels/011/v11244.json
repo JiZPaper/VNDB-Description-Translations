@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v11244",
+  "type": "visual_novel",
+  "name": "Xue zhi Benjing",
+  "original_name": "雪之本境",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Ten people went to a hotel in a moutain for various reasons, and they got trapped by a snowstorm.\nThen someone called \"Master\" sent them a letter, claiming to kill all of them for their sins.\nThey need to find the \"Master\" and survive in the snow.",
+  "source_sha256": "4c269d51c8ae22b3d9ba93b8d516c5335b8e87f1aa4d9260230e0b17895b8b5d",
+  "translation": "十個人因各種原因前往山中的旅館，卻被暴風雪困在其中。隨後，一個自稱「主人」的人寄來信件，聲稱要因他們各自的罪行殺死所有人。\n\n他們必須找出「主人」，並在雪中活下去。",
+  "vndb_url": "https://vndb.org/v11244"
+}

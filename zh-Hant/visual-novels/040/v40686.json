@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v40686",
+  "type": "visual_novel",
+  "name": "Outcore: Desktop Adventure",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "All you wanted was a nice game. But now you find yourself opening Windows apps like Paint & Notepad to solve puzzles, and searching for files on your computers that you didn't put there... Who is she? Why did she appear on your desktop? Let's dive into her memories and find out.\n\n[From outcoregame.com]",
+  "source_sha256": "6862284e3522971e6adffc19179cf436aa3032a40667dc5a3a72ed553cc9e1ec",
+  "translation": "你原本只想玩一款好遊戲。可如今，你卻得開啟小畫家和記事本等Windows應用程式來解謎，還要在電腦裡尋找那些不知何時出現的檔案……她是誰？為什麼會出現在你的桌面上？讓我們潛入她的記憶，一探究竟。\n\n[引自outcoregame.com]",
+  "vndb_url": "https://vndb.org/v40686"
+}

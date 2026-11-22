@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v19569",
+  "type": "visual_novel",
+  "name": "Segmentation_Fault",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "In the near future, virtual reality is king. The Segmentation Initiative (SI) was set up to create virtual copies of different periods and locations of the real world so that they could be preserved for posterity. Segment selection involves a complex cerebral algorithm that picks the best fellow visitors for you to spend your time with when you visit.\n\nPaul's boss has sent him on a mandatory vacation to a \"Segment\", leaving the destination up to SI's Operators. The people he meets are...uh...worrisome, to say the least.\n\nMaybe there was a bug in the selection program?",
+  "source_sha256": "93b10ba9c043ce85a2ef4eee84ab008fb4843ccaab77ee33eb41717249af7772",
+  "translation": "不久的將來，虛擬實境成為主流。「分段計畫」（SI）旨在將現實世界不同時期、不同地點的樣貌重現在虛擬空間，以便後世保存。分段選擇使用複雜的大腦演算法，為你挑選最適合一起度過時光的訪客。\n\n保羅的老闆強制他去「分段」度假，目的地由SI操作員決定。他遇到的人……至少可以說，令人擔憂。\n\n也許篩選程式出了漏洞？",
+  "vndb_url": "https://vndb.org/v19569"
+}

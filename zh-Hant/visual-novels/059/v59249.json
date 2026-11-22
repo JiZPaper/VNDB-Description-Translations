@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v59249",
+  "type": "visual_novel",
+  "name": "How to Make a DDLC Mod",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Monika attempts to teach you how to make DDLC mods, but only in Ren'Py 7 since that's what was used to make this mod. \n\n[Edited from [url=https://dokimods.me/mods/htmaddlcm/]DokiMods[/url]]",
+  "source_sha256": "f4441fdb1e99ece49bc96293474e757426f25e1cf867b29ddafd3f79c8440031",
+  "translation": "莫妮卡試著教你製作《心跳文學部！》的模組。不過她只教Ren'Py 7，因為這個模組本身就是用這個版本製作的。\n\n［據以下來源改寫：[url=https://dokimods.me/mods/htmaddlcm/]DokiMods[/url]］",
+  "vndb_url": "https://vndb.org/v59249"
+}

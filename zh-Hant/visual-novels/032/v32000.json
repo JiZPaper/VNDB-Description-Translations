@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v32000",
+  "type": "visual_novel",
+  "name": "The Witness",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Your life is turned around after witnessing a mob murder, but with the case months away, how will you survive to trial and manage a new life, sexual liaisons, shadowy figures, and demons of the past out to get you?\n\n[From in-app]",
+  "source_sha256": "f2983f0b734c27e0f29f0e8ee3614b1b27b13fb7664fba6e661438712c73e81f",
+  "translation": "目睹一起黑幫謀殺案後，你的人生徹底改變。距離開庭還有幾個月，你該如何活到出庭作證的那一天，同時應付嶄新的生活、情慾糾葛、行蹤詭秘的人物，以及揮之不去、如今又找上門來的過往陰影？\n\n[摘自App內的介紹]",
+  "vndb_url": "https://vndb.org/v32000"
+}

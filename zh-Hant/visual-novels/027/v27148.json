@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v27148",
+  "type": "visual_novel",
+  "name": "Wands and Witches: Autumn Adventure",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Your character receives a letter at Hogwarts, after which he (or she) experiences a special adventure there.\n\nThis is a standalone project based on the resources of its main game Wands and Witches. Unlike the main version, this game is suitable for a teen audience. It contains two new quests, in addition, the main plot is redesigned.\n\n[Edited from [url=https://greatchikenstudio.itch.io/waw-autumn-adventure]itch.io[/url]]",
+  "source_sha256": "4b65f98809357f317c085e2ceb5bbfca96b898f11aa3d9fddf4a1b0f9a564cd3",
+  "translation": "你的角色在霍格華茲收到一封信，隨後便在那裡展開了一場特別的冒險。\n\n本作利用正篇《Wands and Witches》的素材製作，是一個可獨立遊玩的作品。與正篇不同，本作適合青少年玩家，新增了兩個任務，也重新設計了主線劇情。\n\n[編譯自[url=https://greatchikenstudio.itch.io/waw-autumn-adventure]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v27148"
+}

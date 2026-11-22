@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62490",
+  "type": "visual_novel",
+  "name": "Fairy Angel",
+  "original_name": "ファンタエンジェル",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This is a short adventure game about magical girls. There's only two real choices which lead to bad endings for the main characters.\n\n[Edited from [url=https://www.pc98.org/fairya.html]pc98.org[/url]]",
+  "source_sha256": "93da00868225c8c140b7cafec5b2e65d642da6b8c3eac19559745c75211acac2",
+  "translation": "這是一部關於魔法少女的冒險遊戲短篇。真正要做的選擇只有兩個，都會把主角們引向壞結局。\n\n［編譯自[url=https://www.pc98.org/fairya.html]pc98.org[/url]］",
+  "vndb_url": "https://vndb.org/v62490"
+}

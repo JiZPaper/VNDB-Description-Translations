@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58051",
+  "type": "visual_novel",
+  "name": "Cursed Underoak",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A curse for a wish granted. Will the other Cursed help you, or will you find your own way to break it, no matter what it takes?\n\n[From [url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian app[/url]]",
+  "source_sha256": "d548a0b955689d6c2789fdbe97ca24699d4dd6bde62a06c1595d8db1ceed68c5",
+  "translation": "一個願望得以實現，代價是一道詛咒。其他受詛咒的人會幫你嗎？還是說，無論付出什麼代價，你都會自己找到破解它的辦法？\n\n［取自[url=https://play.google.com/store/apps/details?id=com.dorian.playtogether]Dorian App[/url]］",
+  "vndb_url": "https://vndb.org/v58051"
+}

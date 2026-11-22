@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v60074",
+  "type": "visual_novel",
+  "name": "ANGELFACE",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "A man is chosen by God to guide an angel who has been displaced on earth back to heaven.\n\n[Edited from [url=https://whobutclaw.itch.io/angelface]itch.io[/url]]",
+  "source_sha256": "732d8039809768d5402b4a932f6001743ba867bddae9ad55abba5712711129c4",
+  "translation": "一位天使流落人間，上帝選中一個男人為天使引路，帶天使重返天堂。\n\n［據以下來源改寫：[url=https://whobutclaw.itch.io/angelface]itch.io[/url]］",
+  "vndb_url": "https://vndb.org/v60074"
+}

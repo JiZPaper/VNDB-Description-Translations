@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v17756",
+  "type": "visual_novel",
+  "name": "SNOW EAGLE",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Mel was ordered to take command of a unit for a special mission in the snowy mountains. \n...It was an obvious \"demotion\" in the eyes of everyone who saw it. \nShe knew how irrational and absurd the reasons for this were. \nThere was likely an element of resignation and compromise involved. \nYet, she accepted the order. \nBecause that was the only way of life she had ever known.\n\n[Translated from the [url=https://web.archive.org/web/20130111085616/http://purgatory.deko8.jp/seagle/]official site[/url]]",
+  "source_sha256": "812a85c773e9a713f612acbdf849ef92b08a3d8c798ce0027f2bd16d72cde122",
+  "translation": "梅爾被命令率領部隊前往雪山執行特殊任務。\n\n……在所有人看來，這顯然是「降職」。\n\n她知道這個理由多麼荒謬，也明白其中或許包含著無奈與妥協。\n\n然而，她接受了命令。\n\n因為那是她唯一熟悉的生活方式。\n\n［譯自[url=https://web.archive.org/web/20130111085616/http://purgatory.deko8.jp/seagle/]官方網站[/url]］",
+  "vndb_url": "https://vndb.org/v17756"
+}

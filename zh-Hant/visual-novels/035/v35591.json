@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v35591",
+  "type": "visual_novel",
+  "name": "Tomodachi wa Koneko",
+  "original_name": "ともだちは子ネコ",
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Yukine, who runs a bakery, makes bread for the \"local cat\" who goes to the store every morning.\n\nThis is the story of a baker and a \"local cat\".\n\n[From [url=https://www.freem.ne.jp/win/game/22659]Freem![/url]]",
+  "source_sha256": "9d3d1172e117366a55eea5a97da3fbc2c220afb855e9e19ed7fe34128286c2e8",
+  "translation": "經營麵包店的雪音，每天早晨都會給來店裡的「社區貓」準備麵包。\n\n這是一個麵包師與一隻「社區貓」的故事。\n\n[摘自[url=https://www.freem.ne.jp/win/game/22659]Freem![/url]]",
+  "vndb_url": "https://vndb.org/v35591"
+}

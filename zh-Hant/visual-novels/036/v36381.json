@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36381",
+  "type": "visual_novel",
+  "name": "Baby Please Sleep",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "This is a very short visual novel about a father tried to  get his baby to sleep.\n\n[From [url=https://botider.itch.io/babypleasesleep]Itch.io[/url]]",
+  "source_sha256": "b1be0c2aeb7d561b7e95bf6700e941d874bcb041cbff828a769371180749f600",
+  "translation": "一部非常短的視覺小說，講述一位父親努力哄寶寶入睡的故事。\n\n[摘自[url=https://botider.itch.io/babypleasesleep]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v36381"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v3627",
+  "type": "visual_novel",
+  "name": "E.G.G",
+  "original_name": null,
+  "language": "zh-Hant",
+  "source_language": "en",
+  "source": "Akito, a young scientist, finds an abnormally large egg and is ordered by his boss to take care of/study it. A small, cute creature soon hatches out of it, and Akito slowly becomes attached to it. One day, the creature evolves into something resembling a young human boy...\n\n(The creature's third stage of development relies on what stats the player raises the most.)",
+  "source_sha256": "4d0a86798a60f43771ff8634426b1616a9905aea46c0ca824b8d5e0bed0e04a3",
+  "translation": "年輕科學家明人發現了一顆異常巨大的蛋，並奉上司之命照料和研究它。不久，一隻嬌小可愛的生物從蛋中孵化出來，明人也漸漸對它產生了感情。某天，這隻生物進化成了酷似年幼人類男孩的模樣……\n\n（該生物的第三階段發育形態取決於玩家選擇培養的能力值。）",
+  "vndb_url": "https://vndb.org/v3627"
+}
