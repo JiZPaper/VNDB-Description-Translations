@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70413",
+  "type": "visual_novel",
+  "name": "Jane Doe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short conversation with an artist called Michel Liu.\n\n[From [url=https://spicaze.itch.io/jane-doe]itch.io[/url]]",
+  "source_sha256": "dacf82d7677a1a34149c9325a2e84755c3e4bc88f9119503e10936c2fe1360d5",
+  "translation": "A short conversation with an artist called Michel Liu.\n\n[From [url=https://spicaze.itch.io/jane-doe]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v70413"
+}

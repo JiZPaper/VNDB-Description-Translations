@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174037",
+  "type": "character",
+  "name": "Alice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lieutenant of the Irda City Guard; second-in-command to [url=/c173912]Darius[/url].",
+  "source_sha256": "18202c596c85995f43a279e7c4455634c276042206e22b0766f23e4e65fb1ed6",
+  "translation": "Lieutenant of the Irda City Guard; second-in-command to [url=/c173912]Darius[/url].",
+  "vndb_url": "https://vndb.org/c174037"
+}

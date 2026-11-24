@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68005",
+  "type": "visual_novel",
+  "name": "masher Re:loaded ~Takasaka Yui no Owaranai Natsu~",
+  "original_name": "masher Re:loaded ～高坂唯の終わらない夏～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Remake of Bad Name and masher featuring new visuals and voice acting for main heroine. It also acts as a sequel to Bad Name, since it has a new route/continuation.",
+  "source_sha256": "c51303e2d50755692d86c35b5d8caa8bd7b81dd0fc08c940b61578d41238ced1",
+  "translation": "本作是《Bad Name》与《masher》的重制版，焕新了画面表现，并为女主角追加了角色配音。同时本作也新增了一条后续路线与日后谈剧情，可视作《Bad Name》的续篇。",
+  "vndb_url": "https://vndb.org/v68005"
+}

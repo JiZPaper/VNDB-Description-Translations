@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70571",
+  "type": "visual_novel",
+  "name": "IRISIRISIRIS",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An interpersonal horror game about growing up on the web.\n\n[From [url=https://windup-soft.itch.io/iris3]itch.io[/url]]",
+  "source_sha256": "63091333ef196e3b74d3f90861862768ce292cf23a6f91dc52c8d58740764d0e",
+  "translation": "一部关于在互联网上长大的心理人际恐怖游戏。\n\n[摘自[url=https://windup-soft.itch.io/iris3]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v70571"
+}

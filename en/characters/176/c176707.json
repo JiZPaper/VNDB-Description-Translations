@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176707",
+  "type": "character",
+  "name": "Becky Miller",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Waitress\n\nLikes: Leather jackets over bare skin, highway sunsets, cold beer, short shorts than turn heads\n\nDislikes: Small-town gossip, cheap wine, horror movies, feeling stuck",
+  "source_sha256": "ea563d2b87841360042a0344bca1eec5de769a56708e55339aa39b327d632ee0",
+  "translation": "Occupation: Waitress\n\nLikes: Leather jackets over bare skin, highway sunsets, cold beer, short shorts than turn heads\n\nDislikes: Small-town gossip, cheap wine, horror movies, feeling stuck",
+  "vndb_url": "https://vndb.org/c176707"
+}

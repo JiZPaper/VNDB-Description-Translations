@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172538",
+  "type": "character",
+  "name": "Dimitri",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gun's dealer.",
+  "source_sha256": "705a39fc5409f7e63e88681089469567b8960733971176061de10f3fb3e808c3",
+  "translation": "Gun's dealer.",
+  "vndb_url": "https://vndb.org/c172538"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68949",
+  "type": "visual_novel",
+  "name": "Gremlin Academy",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Welcome to John Thomas University, affectionately known as Gremlin Academy.\nIt’s a place with tons of guys looking to get laid.\nMeet Baz as he explores John Thomas University and acclimates himself to his new setting and tries to fit in.",
+  "source_sha256": "71676ee05927a8847b7e6eed49ef5f68856a094fd8ff82edb5277e9cbb0a61fd",
+  "translation": "欢迎来到被大家亲切地称作“小恶魔学院”的约翰·托马斯大学。\n这里遍地都是急着寻欢作乐的小伙子。\n跟随巴兹一同探索约翰·托马斯大学，看他如何适应这片崭新的天地、努力融入大家吧。",
+  "vndb_url": "https://vndb.org/v68949"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70423",
+  "type": "visual_novel",
+  "name": "Lines & Sand",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "50 words about lines\n\n[From [url=https://basicbean.itch.io/]itch.io[/url]]",
+  "source_sha256": "00844cbfe8edcf232d384e4edcc1a2adc55971416a4ffce206d8c4d411393bfe",
+  "translation": "用50个词讲述关于“线条”的微型故事。\n\n[摘自[url=https://basicbean.itch.io/]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v70423"
+}

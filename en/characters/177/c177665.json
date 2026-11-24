@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177665",
+  "type": "character",
+  "name": "Lily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A shy and intelligent young woman who takes her studies very seriously.\nShe enjoys reading, quiet places, and has a strong interest in astronomy.\nKind and considerate, she can be somewhat awkward when dealing with other people.\n\n[In game description]",
+  "source_sha256": "8397ae2ece967713936e9c8750ecfc41b67719da886111011e8917048b167b19",
+  "translation": "A shy and intelligent young woman who takes her studies very seriously.\nShe enjoys reading, quiet places, and has a strong interest in astronomy.\nKind and considerate, she can be somewhat awkward when dealing with other people.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c177665"
+}

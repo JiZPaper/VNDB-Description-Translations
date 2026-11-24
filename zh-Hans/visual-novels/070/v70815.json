@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70815",
+  "type": "visual_novel",
+  "name": "Wake Up Call",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A mysterious caller threatens to interrupt your precious day off. What will you do about it?\n\n[From [url=https://studiovenuvis.itch.io/wake-up-call]itch.io[/url]]",
+  "source_sha256": "e52ae32ce844dd6558acd82bf21c4b5932c4b962ba82c21bbc76ff7cb9f5209a",
+  "translation": "一通神秘来电眼看就要搅黄你宝贵的休息日。你打算怎么应付？\n\n[摘自[url=https://studiovenuvis.itch.io/wake-up-call]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v70815"
+}

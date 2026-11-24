@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69853",
+  "type": "visual_novel",
+  "name": "Sweet Love",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Welcome to the romantic mystery of Sweet Love!\nYou're a young pony arriving at a luxurious villa for a peaceful getaway — but things quickly take an unexpected turn.",
+  "source_sha256": "d9af565de10f7f096dd11ddeae2f442d7352e5325a84bde7abb8225e73ab5100",
+  "translation": "欢迎来到《甜蜜之恋》（Sweet Love）的浪漫悬疑世界！\n你是一匹年轻的小马，满心期待地来到一座豪华别墅享受宁静的度假时光——然而事态很快便迎来了意想不到的转折。",
+  "vndb_url": "https://vndb.org/v69853"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176721",
+  "type": "character",
+  "name": "Kate",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Doctor\n\nLikes: Warm beaches, fine Italian cuisine, elegant fashion, meaningful connection\n\nDislikes: Cold weather, rain, emotional isolation, wasted potential",
+  "source_sha256": "62a2f92c536ca8fb6f559d5316623d7d360bedeb8cb2a1a1f948336fc512470f",
+  "translation": "Occupation: Doctor\n\nLikes: Warm beaches, fine Italian cuisine, elegant fashion, meaningful connection\n\nDislikes: Cold weather, rain, emotional isolation, wasted potential",
+  "vndb_url": "https://vndb.org/c176721"
+}

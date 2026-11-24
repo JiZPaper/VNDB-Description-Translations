@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176932",
+  "type": "character",
+  "name": "Quinn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The literature teacher.",
+  "source_sha256": "25cd0dbb1ae9698d522e2579b2d00c2978362dd75191fe285389d1163c7a17d7",
+  "translation": "The literature teacher.",
+  "vndb_url": "https://vndb.org/c176932"
+}

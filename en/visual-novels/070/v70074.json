@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70074",
+  "type": "visual_novel",
+  "name": "Guns GirlZ F.M. RepliCant",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This is the Guns Girl Z: Fire Moth story recreated in the RepliCant engine.\nThat means you can read the whole Guns GirlZ: Fire Moth story on your own using this software, since the game is no longer available in English.",
+  "source_sha256": "4a95b12c674b03cba25adba603627343654ef486b287e57e9787e9776351c707",
+  "translation": "This is the Guns Girl Z: Fire Moth story recreated in the RepliCant engine.\nThat means you can read the whole Guns GirlZ: Fire Moth story on your own using this software, since the game is no longer available in English.",
+  "vndb_url": "https://vndb.org/v70074"
+}

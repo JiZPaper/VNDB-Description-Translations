@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70994",
+  "type": "visual_novel",
+  "name": "Gamble!",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist Ron was once renowned as a legendary gambler.\nHowever, after losing a high-stakes match against Renhou, the leader of the criminal underworld that controls the city, Ron finds himself stripped of his own autonomy.\nWill Ron manage to break free and reclaim his freedom?",
+  "source_sha256": "162e1e9651029567d35b889c48d5a442ac85287e091dad5311f1d651fc590762",
+  "translation": "The protagonist Ron was once renowned as a legendary gambler.\nHowever, after losing a high-stakes match against Renhou, the leader of the criminal underworld that controls the city, Ron finds himself stripped of his own autonomy.\nWill Ron manage to break free and reclaim his freedom?",
+  "vndb_url": "https://vndb.org/v70994"
+}

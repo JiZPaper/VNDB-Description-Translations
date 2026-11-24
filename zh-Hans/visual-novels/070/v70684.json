@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70684",
+  "type": "visual_novel",
+  "name": "unfinished",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "made for mixed media queer vn jam with videotome\n\n[From [url=https://moonscraps.itch.io/unfinished]itch.io[/url]]",
+  "source_sha256": "a7e037df4d9f5b09fcb151bb8eac9658830d3f3d05d25cdb2109e446bb2371ba",
+  "translation": "使用Videotome引擎为混合媒介酷儿视觉小说创作大赛（Mixed Media Queer VN Jam）制作的作品。\n\n[摘自[url=https://moonscraps.itch.io/unfinished]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v70684"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69248",
+  "type": "visual_novel",
+  "name": "Hui Jin Xi",
+  "original_name": "灰烬溪AshCreek",
+  "language": "en",
+  "source_language": "en",
+  "source": "AshCreek is a female-oriented interactive visual novel centered on Lovecraftian cosmic horror. Players take on the role of an outsider who is unwillingly drawn into AshCreek, uncovering the truth behind its anomalies step by step by taking part in stories set across different worlds.",
+  "source_sha256": "efd6facdc9f518795422430be6317657566a4e2a67785122ecc2116fdfb7d51f",
+  "translation": "AshCreek is a female-oriented interactive visual novel centered on Lovecraftian cosmic horror. Players take on the role of an outsider who is unwillingly drawn into AshCreek, uncovering the truth behind its anomalies step by step by taking part in stories set across different worlds.",
+  "vndb_url": "https://vndb.org/v69248"
+}

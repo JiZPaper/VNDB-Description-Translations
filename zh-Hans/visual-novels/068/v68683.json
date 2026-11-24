@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68683",
+  "type": "visual_novel",
+  "name": "Confession Box",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A thief on the run finds refuge in a church confession box. Help sinners while avoiding suspicion!\n\n[From [url=https://cmangos.itch.io/confession-box]itch.io[/url]]",
+  "source_sha256": "34dd5bbbb08bbac9167161e1a90cf7bce39642ecccc3ef5729ae2d9ec8426adc",
+  "translation": "一名亡命潜逃的小偷躲进教堂的告解室避难。在不引起怀疑的前提下，为前来告解的罪人们排忧解难吧！\n\n[摘自[url=https://cmangos.itch.io/confession-box]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v68683"
+}

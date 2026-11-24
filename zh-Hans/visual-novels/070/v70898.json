@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70898",
+  "type": "visual_novel",
+  "name": "The Dorm Room Shelf",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Made with [url=https://internet-janitor.itch.io/decker]Decker[/url] for the [url=https://itch.io/jam/plushie-yuri-jam]Plushie Yuri Jam[/url].\n\n[Edited from [url=https://treegravy.itch.io/the-dorm-room-shelf]itch.io[/url]]",
+  "source_sha256": "aaf67b75e387b219fd982450ccf6b140b9f059c929f0bba7f32fced86459c878",
+  "translation": "使用[url=https://internet-janitor.itch.io/decker]Decker[/url]引擎为[url=https://itch.io/jam/plushie-yuri-jam]毛绒玩偶百合游戏创作大赛（Plushie Yuri Jam）[/url]制作的作品。\n\n[摘自[url=https://treegravy.itch.io/the-dorm-room-shelf]itch.io[/url]（经编辑）]",
+  "vndb_url": "https://vndb.org/v70898"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176725",
+  "type": "character",
+  "name": "Kelly",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Flight Attendant\n\nLikes: Late-night city lights, overseas trips, champagne, meaningful conversations\n\nDislikes: Noise Chaos, Traffic Jams, Harsh Winters",
+  "source_sha256": "014fe14f645c7d3d8b81673c4ce00f743f40e356acb118bc3a6f48db6b9fd30b",
+  "translation": "Occupation: Flight Attendant\n\nLikes: Late-night city lights, overseas trips, champagne, meaningful conversations\n\nDislikes: Noise Chaos, Traffic Jams, Harsh Winters",
+  "vndb_url": "https://vndb.org/c176725"
+}

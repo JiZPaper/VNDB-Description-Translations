@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c175624",
+  "type": "character",
+  "name": "Ouji",
+  "original_name": "王子",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Prince of Flower Country.",
+  "source_sha256": "f555e280abb354651697961f39c69136f7b6f5b9d6c75b541710658cd9a0269a",
+  "translation": "The Prince of Flower Country.",
+  "vndb_url": "https://vndb.org/c175624"
+}

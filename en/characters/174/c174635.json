@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174635",
+  "type": "character",
+  "name": "Sarela",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young acolyte.",
+  "source_sha256": "101319b685c740caed2e339a5a93479abed6d24682cb2c6e65a33800de030092",
+  "translation": "A young acolyte.",
+  "vndb_url": "https://vndb.org/c174635"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69739",
+  "type": "visual_novel",
+  "name": "Moon Comes to Say Goodbye",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "On Halloween night, your cat's ghost comes to say goodbye. She doesn’t remember her past life. But she remembers you. (Description from itchio)",
+  "source_sha256": "ec7b06ec3235b81dfa25e8bfdf78c9c1d436029b72584702105d1cfc65100014",
+  "translation": "万圣节之夜，你家猫咪的灵魂回到了你身边，向你作最后的道别。她已经不记得自己的前世了——但她依然记得你。（简介摘自itch.io）",
+  "vndb_url": "https://vndb.org/v69739"
+}

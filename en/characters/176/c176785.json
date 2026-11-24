@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176785",
+  "type": "character",
+  "name": "Sandra White",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Lawyer\n\nLikes: Control in conversation, calculated risks, expensive silence\n\nDislikes: Weak arguments, emotional chaos, being interrupted, losing composure in public",
+  "source_sha256": "7d957b385d26daf5e051dcb80fde5d681a86901fac1bcbc90c6380090303a64e",
+  "translation": "Occupation: Lawyer\n\nLikes: Control in conversation, calculated risks, expensive silence\n\nDislikes: Weak arguments, emotional chaos, being interrupted, losing composure in public",
+  "vndb_url": "https://vndb.org/c176785"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97561",
+  "type": "character",
+  "name": "Luth",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Imperial soldier.",
+  "source_sha256": "11546256775d21c0fca873c8070280284a7f60cf88f979672953e279acdcf2e4",
+  "translation": "Imperial soldier.",
+  "vndb_url": "https://vndb.org/c97561"
+}

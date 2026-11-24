@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70096",
+  "type": "visual_novel",
+  "name": "FutaQuest",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A fresh start in a new city takes an unexpected turn when strange events lead you into another world. With little experience and a tendency to trust too easily, you’ll discover that the women you meet have plans of their own.",
+  "source_sha256": "f5708ee40ff59f6f56e53b9030523ea3f9f9aa5093ff24e63012ee6a51b31482",
+  "translation": "原本打算在陌生城市开启全新生活，却因一连串离奇事件意外踏入了异世界。涉世未深又过于轻信他人的你很快就会发现，自己邂逅的那些女人们全都各怀鬼胎。",
+  "vndb_url": "https://vndb.org/v70096"
+}

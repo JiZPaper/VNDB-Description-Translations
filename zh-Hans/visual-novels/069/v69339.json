@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69339",
+  "type": "visual_novel",
+  "name": "Nightmare Neighborhood",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A trick-or-treating roguelike visual novel where you must manage your resources, wear different costumes to double dip houses, all to collect as much candy as you can without getting eaten by the monsters who inhabit the Neighborhood.\n\nYou are a trick-or-treater who finds herself in \"Nightmare Neighborhood\" — where every house she visits is inhabited by a real monster. The only way to get back home is to go through the final house — but without enough candy to distract it, the monster inside will eat her!\n\n[From [url=https://lockedon.itch.io/nightmare-neighborhood]itch.io[/url]]",
+  "source_sha256": "69b9dea128b0d064589fe853fdbe9b06280f2538c7738783a2f147169005e19f",
+  "translation": "一款以万圣节“不给糖就捣蛋”为主题的肉鸽视觉小说：你必须合理调配资源、换穿不同装扮重复敲开同一户人家的房门骗取双份糖果，在不被街区里的怪物吃掉的前提下尽可能收集更多糖果。\n\n你是一名误入“噩梦街区”讨糖吃的少女——在这里，她登门拜访的每一栋房子里都住着真正的怪物。回家的唯一出路是穿过最后一栋房子——可要是手里没有攒够足以引开怪物的糖果，屋里的怪物就会把她一口吃掉！\n\n[摘自[url=https://lockedon.itch.io/nightmare-neighborhood]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v69339"
+}

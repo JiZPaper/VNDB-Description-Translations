@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177337",
+  "type": "character",
+  "name": "Juvelir",
+  "original_name": "Ювелир",
+  "language": "en",
+  "source_language": "en",
+  "source": "A jeweler in the town.",
+  "source_sha256": "eecf8570031529a2d7546141797af73e8b78f084eb0d9940ca4d6508c6bb9246",
+  "translation": "A jeweler in the town.",
+  "vndb_url": "https://vndb.org/c177337"
+}

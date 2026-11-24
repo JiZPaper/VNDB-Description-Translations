@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150098",
+  "type": "character",
+  "name": "Veronika",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The neighbor.",
+  "source_sha256": "2ec5596e442ee398a4850f6aa84dfcafd559a38b1a5cee4df7fd48feffa4c600",
+  "translation": "The neighbor.",
+  "vndb_url": "https://vndb.org/c150098"
+}

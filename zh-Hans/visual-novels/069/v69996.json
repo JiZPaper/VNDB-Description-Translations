@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69996",
+  "type": "visual_novel",
+  "name": "Between the notes",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A mystical psychological thriller set in the quiet village of Klavishne. Talk to the locals, learn stories, enjoy the atmosphere, pick up the pieces. But find out: who is the woman in the portrait and what happened to her?",
+  "source_sha256": "8ebd28e4f9fb4df877b925bb7519040371232292816a2361de8f10bf0f6c3f6f",
+  "translation": "一部设定在宁静小村克拉维什内的神秘主义心理惊悚作品。与当地村民交谈、倾听过往故事、沉浸于独特氛围之中，将散落的线索碎片逐一拼凑起来。但请务必查明：肖像画中的那个女人究竟是谁，她身上又曾发生过什么？",
+  "vndb_url": "https://vndb.org/v69996"
+}

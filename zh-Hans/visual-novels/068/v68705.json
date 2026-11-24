@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68705",
+  "type": "visual_novel",
+  "name": "Queendoms",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is the continent of Queendoms, ruled by women.\nMen are second-class citizens to them.\nWhat will they do to stop the main character who by fate became the ruler of the most prosperous Queendom?",
+  "source_sha256": "61996afbe518c9c5401388daf475fc114289bfb5a303a5ee0cddd10dcfd4756e",
+  "translation": "这里是女性统治天下的“女王大陆”，\n男人在她们眼中不过是二等公民。\n当男主角在命运的捉弄下登上了最富庶女王国的王座，女人们将会使出怎样的手段来阻止他？",
+  "vndb_url": "https://vndb.org/v68705"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c178780",
+  "type": "character",
+  "name": "Astolfo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Simulated character from \"Fate/Apocrypha.\"",
+  "source_sha256": "b3189d1f30745ec806c2faf4c61c127d646d5b048591f4b42f70167ffe4d9337",
+  "translation": "Simulated character from \"Fate/Apocrypha.\"",
+  "vndb_url": "https://vndb.org/c178780"
+}

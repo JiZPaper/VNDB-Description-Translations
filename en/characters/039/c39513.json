@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "c39513",
   "type": "character",
-  "name": "Teifu Tokubou",
-  "original_name": "程普 徳謀",
+  "name": "Tei Fu",
+  "original_name": "程 普",
   "language": "en",
   "source_language": "en",
-  "source": "One of Go's generals; an old friend of Kougai's.",
-  "source_sha256": "ef5560702e5b425a89e9e6891b1f53ec2a6e85d37e60d4bfcb90bbc813ab1180",
-  "translation": "One of Go's generals; an old friend of Kougai's.",
+  "source": "One of Go's generals; an old friend of Kou Gai's.",
+  "source_sha256": "cb2b4ade89ee9ffc828c29025833e603cd4acade4b24733902a4cfe5d1b111d7",
+  "translation": "One of Go's generals; an old friend of Kou Gai's.",
   "vndb_url": "https://vndb.org/c39513"
 }

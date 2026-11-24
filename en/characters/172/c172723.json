@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172723",
+  "type": "character",
+  "name": "Chen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Restaurant's owner.\nProtagonist's ex-boss.",
+  "source_sha256": "e4e54dfc6ab8e47940d9543eeade0c9c23db39dfe3b19e02ba11215146871495",
+  "translation": "Restaurant's owner.\nProtagonist's ex-boss.",
+  "vndb_url": "https://vndb.org/c172723"
+}

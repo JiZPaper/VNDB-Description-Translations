@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68948",
+  "type": "visual_novel",
+  "name": "Conan the Cheerleader",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Conan the mythological barbarian tangles with a witch and winds up in the body of a young woman in 1984 middle-America. A parody.",
+  "source_sha256": "e2dbd79e8a1d8a5465f4d840a28a51ccba24909841d60af149a9b12df74ccd1c",
+  "translation": "神话中的野蛮人柯南与一名女巫交手纠缠，结果阴差阳错魂穿到了1984年美国中部一名年轻女子的身体里。这是一部恶搞戏仿作品。",
+  "vndb_url": "https://vndb.org/v68948"
+}

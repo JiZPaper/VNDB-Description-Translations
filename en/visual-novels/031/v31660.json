@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "v31660",
   "type": "visual_novel",
-  "name": "MEGALITH",
-  "original_name": null,
+  "name": "Megalit",
+  "original_name": "Мегалит",
   "language": "en",
   "source_language": "en",
-  "source": "A short story about the last man on Earth.\n\n[From [url=https://nikita-kryukov.itch.io/]Itch.io[/url]]",
-  "source_sha256": "b48ef7a53c498e3cdb15d1444bf4bcf655a4a4b79117ea05f7e3631c24f6a9e0",
-  "translation": "A short story about the last man on Earth.\n\n[From [url=https://nikita-kryukov.itch.io/]Itch.io[/url]]",
+  "source": "A short story about the last man on Earth.\n\n[Translated from [url=https://anivisual.net/stuff/3-1-0-3132/]Anivisual[/url]]",
+  "source_sha256": "714f258388d6a626573a4ac7909efb274670624c7ca3154e4884d33661c5c65a",
+  "translation": "A short story about the last man on Earth.\n\n[Translated from [url=https://anivisual.net/stuff/3-1-0-3132/]Anivisual[/url]]",
   "vndb_url": "https://vndb.org/v31660"
 }

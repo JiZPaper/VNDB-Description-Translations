@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67518",
+  "type": "visual_novel",
+  "name": "KanColle WARS Sp",
+  "original_name": "艦これWARS Sp",
+  "language": "en",
+  "source_language": "en",
+  "source": "The fourth installment of the KanColle Super Robot Wars series, in this game the player can earn points and ranks with battles completing the exercise (video playback).",
+  "source_sha256": "3edfe90d1e40e5a94669c98dcb9c50ac36f1ffa768c6d9d0a5790bffc4b0e86b",
+  "translation": "The fourth installment of the KanColle Super Robot Wars series, in this game the player can earn points and ranks with battles completing the exercise (video playback).",
+  "vndb_url": "https://vndb.org/v67518"
+}

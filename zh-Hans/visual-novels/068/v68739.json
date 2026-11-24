@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68739",
+  "type": "visual_novel",
+  "name": "Welcome Home",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "What if, one day, a character you created gains its own consciousness and thoughts, becoming deeply tormented and obsessed with reuniting with its creator, to the point of dragging you into its world? You are then forced to either find a way to escape or accept living with the consequences.",
+  "source_sha256": "12d67aa06011dd26d9e1c59fd1b2108f6a9355b0efb6a23bb6f5154dcbd8cf2e",
+  "translation": "试想有一天，由你亲手创造出来的角色突然拥有了自我意识与独立思想，在深重的痛苦煎熬下对“与造物主重逢”产生了病态的执念，甚至不惜将你强行拽入它所在的世界——届时，你将被迫做出抉择：究竟是设法逃出生天，还是认命接受这一切后果在此活下去。",
+  "vndb_url": "https://vndb.org/v68739"
+}

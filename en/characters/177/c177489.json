@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177489",
+  "type": "character",
+  "name": "Hugh",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The town sheriff. Gruff and obsessed with finding the escaped \"dogs\".\n\nLikes: loyalty, a well executed plan.\nDislikes: incompetency.",
+  "source_sha256": "d68f42b96232d1f012d4e22dccfbdf624b1dbcf81480825cab38f1c7e565de7d",
+  "translation": "The town sheriff. Gruff and obsessed with finding the escaped \"dogs\".\n\nLikes: loyalty, a well executed plan.\nDislikes: incompetency.",
+  "vndb_url": "https://vndb.org/c177489"
+}

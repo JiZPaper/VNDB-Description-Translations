@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179795",
+  "type": "character",
+  "name": "Mirella Altman",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is [url=/c179801]Gloria[/url]'s friend.",
+  "source_sha256": "5029e47810716beff7cd620abf39dd0f1406d276de7432fe8f2b9cfb648a5d19",
+  "translation": "She is [url=/c179801]Gloria[/url]'s friend.",
+  "vndb_url": "https://vndb.org/c179795"
+}

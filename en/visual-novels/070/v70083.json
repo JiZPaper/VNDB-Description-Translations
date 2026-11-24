@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70083",
+  "type": "visual_novel",
+  "name": "Jester Quest",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A simple jester has been waiting dilligently for Bard Quest to update since 2007.\n\n[From [url=https://homestuck.com/archive]homestuck.com[/url]]",
+  "source_sha256": "878baedf9f817ab47f58823ee867fe5e632f30927171006c9e7cdb611baf78bd",
+  "translation": "A simple jester has been waiting dilligently for Bard Quest to update since 2007.\n\n[From [url=https://homestuck.com/archive]homestuck.com[/url]]",
+  "vndb_url": "https://vndb.org/v70083"
+}

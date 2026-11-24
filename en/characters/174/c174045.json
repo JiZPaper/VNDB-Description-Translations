@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174045",
+  "type": "character",
+  "name": "Eireen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Guild mistress of Irda's adventurers' guild.",
+  "source_sha256": "483c32266f93ac26333181830dbeaa237374f23a912d5e0a70d7521f97d2f36b",
+  "translation": "Guild mistress of Irda's adventurers' guild.",
+  "vndb_url": "https://vndb.org/c174045"
+}

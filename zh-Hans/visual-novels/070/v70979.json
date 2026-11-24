@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70979",
+  "type": "visual_novel",
+  "name": "The Obey",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "While trying to survive in a destitute world, you fall into slavery to the insidious Madame Madlen. Will you be able to break free or will you accept your fate? The choice is yours.",
+  "source_sha256": "a4f699e3b048ba4cb156c9679d4ca9c00f55cb129a6c71ea32a0033becaf47c6",
+  "translation": "在贫瘠破败的世界里苦苦求生之际，你不幸沦为了阴险狡诈的玛德琳夫人的奴隶。你究竟能否挣脱枷锁重获自由，还是甘心顺从这副宿命？抉择尽在你手。",
+  "vndb_url": "https://vndb.org/v70979"
+}

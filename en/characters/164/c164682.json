@@ -3,11 +3,11 @@
   "id": "c164682",
   "type": "character",
   "name": "Leon Grant",
-  "original_name": "リオン．グランド",
+  "original_name": "リオン・グラント",
   "language": "en",
   "source_language": "en",
-  "source": "\"You're more than an ally... You're a dear friend.\"",
-  "source_sha256": "57ca6341d4becdabaab4fcbcc97c1077570eb3c98d16b6284f459424564d6ff6",
-  "translation": "\"You're more than an ally... You're a dear friend.\"",
+  "source": "[i]\"You're more than an ally... You're a dear friend.\"[/i]\n\n[i]Impatient Sage[/i]\n\nThe heroine's teammate. He's an honor student with a strong sense of justice, but he also suffers from a certain complex. The scenery featured in the photo left by his mother, a former Sylphid, has captured his heart.\n\n[From [url=https://products.voltage.co.jp/recordnoah/english/characters/?page=leon]Voltage Inc.[/url]]",
+  "source_sha256": "8bb7ad61b122867df3fe051f6c8fe153def45f02cf80042d48efc88197f47f45",
+  "translation": "[i]\"You're more than an ally... You're a dear friend.\"[/i]\n\n[i]Impatient Sage[/i]\n\nThe heroine's teammate. He's an honor student with a strong sense of justice, but he also suffers from a certain complex. The scenery featured in the photo left by his mother, a former Sylphid, has captured his heart.\n\n[From [url=https://products.voltage.co.jp/recordnoah/english/characters/?page=leon]Voltage Inc.[/url]]",
   "vndb_url": "https://vndb.org/c164682"
 }

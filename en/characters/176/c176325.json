@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176325",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Adventurer from Gureibu Village, renowned for its monsters that boost virility when consumed.",
+  "source_sha256": "45382e88c64ba642cd0670dd5b2734143e37c71a3489e8ecd35a0ad6dc416854",
+  "translation": "Adventurer from Gureibu Village, renowned for its monsters that boost virility when consumed.",
+  "vndb_url": "https://vndb.org/c176325"
+}

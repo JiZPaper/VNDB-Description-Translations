@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67596",
+  "type": "visual_novel",
+  "name": "Hey I just met you",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "[i]Hey, I just met you,\nand this is crazy.\nBut you're my colleague,\nso dinner, maybe?[/i]\n\n[From [url=https://jintii.itch.io/hey-i-just-met-you]Itch.io[/url]]",
+  "source_sha256": "1944cd89adc6dbf10e4bf48ad57cf9abfe6a512e967721f3f884f1f7d809051c",
+  "translation": "[i]Hey, I just met you,\nand this is crazy.\nBut you're my colleague,\nso dinner, maybe?[/i]\n\n[From [url=https://jintii.itch.io/hey-i-just-met-you]Itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v67596"
+}

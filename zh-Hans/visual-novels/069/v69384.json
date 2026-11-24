@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69384",
+  "type": "visual_novel",
+  "name": "At the Burning Gates",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A budding love and a dying romance. A best friend who hates her guts and a city that wants to kill her. She's just trying to stay off the streets.",
+  "source_sha256": "99340acbe03aa779ad98415270c5080479af76a0cb64e9b15875414b543ecacc",
+  "translation": "一段萌芽的新恋情与一场濒死的旧爱。一个恨透了她的挚友，与一座想要置她于死地的城市。而她所求的，不过是别流落街头罢了。",
+  "vndb_url": "https://vndb.org/v69384"
+}

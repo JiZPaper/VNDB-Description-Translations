@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176704",
+  "type": "character",
+  "name": "Amber",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Licensed Private Detective\n\nLikes: Silk blouses with daring cuts, midnight swims, controlled tension, psychological thrillers\n\nDislikes: Sloppy thinking, being underestimated, loud environments, emotional loss of control",
+  "source_sha256": "00f4b8158af6e3f6ed29d0f4dd859b380d4872b20a9a650d6346257419eebc2c",
+  "translation": "Occupation: Licensed Private Detective\n\nLikes: Silk blouses with daring cuts, midnight swims, controlled tension, psychological thrillers\n\nDislikes: Sloppy thinking, being underestimated, loud environments, emotional loss of control",
+  "vndb_url": "https://vndb.org/c176704"
+}

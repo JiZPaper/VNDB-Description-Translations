@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176731",
+  "type": "character",
+  "name": "Mary",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Programmer\n\nLikes: Spicy food, punk music, quiet nights coding, loyalty\n\nDislikes: Snobs, loud crowds, being underestimated",
+  "source_sha256": "2c07e28c93e2589feb9c4c8c827d743893d7369435b5dcda7fed7b1396809f72",
+  "translation": "Occupation: Programmer\n\nLikes: Spicy food, punk music, quiet nights coding, loyalty\n\nDislikes: Snobs, loud crowds, being underestimated",
+  "vndb_url": "https://vndb.org/c176731"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70381",
+  "type": "visual_novel",
+  "name": "Xiaoshi",
+  "original_name": "小事",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Xiaoshi (小事, literally \"small things\") is a short Chinese-language visual novel about five evenings in a row when someone you like is standing in front of you and you have to say something.\n\nThere are no choice menus. You type a line of your own and the game decides what she actually heard — usually not what you meant. Each night lasts about four minutes; she remembers the lines she misheard and brings them up again later, and how the next night begins depends on whether she felt heard the night before.",
+  "source_sha256": "507818a434f156200a0295e46af2efdef45529db452301d4c15c98f932eb6b46",
+  "translation": "《小事》是一部中文短篇视觉小说，讲述了连续五个傍晚，喜欢的人就站在你面前，而你必须开口说点什么的故事。\n\n游戏中没有预设的选项菜单。你需要亲手输入一句台词，再由游戏决定她实际听成了什么——通常都与你的本意大相径庭。每个夜晚大约持续四分钟；她会记住自己听岔了的那些话并在日后重提，而下一个夜晚如何开场，全看前一晚她是否觉得自己被真正倾听。",
+  "vndb_url": "https://vndb.org/v70381"
+}

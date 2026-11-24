@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67544",
+  "type": "visual_novel",
+  "name": "Cybernetic Odyssey",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A prototype vn for the RPG game \"Cybernetic Odyssey: Mia's Reality\"",
+  "source_sha256": "55d4303b480937de88c3446e933d71fe198bc46e96f7b39f676ce85f55ed4407",
+  "translation": "A prototype vn for the RPG game \"Cybernetic Odyssey: Mia's Reality\"",
+  "vndb_url": "https://vndb.org/v67544"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179062",
+  "type": "character",
+  "name": "Lambropolous",
+  "original_name": "Ламбропулус",
+  "language": "en",
+  "source_language": "en",
+  "source": "A grieving traveler drowning himsef in ale.",
+  "source_sha256": "f46999fe7da4a52cd7fd0bcb4653f2e49fa41dd263b471a6d58ab07d4905afab",
+  "translation": "A grieving traveler drowning himsef in ale.",
+  "vndb_url": "https://vndb.org/c179062"
+}

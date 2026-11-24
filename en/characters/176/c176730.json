@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176730",
+  "type": "character",
+  "name": "Lucy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Bartender\n\nLikes: Late mornings, strong coffee, ocean sunsets, casual flirting\n\nDislikes: Cold rain, strict schedules, early alarms",
+  "source_sha256": "51b5e2fcb5f2ed75419a670a283639e8ce0b0c8155f030b6e2f7c67f0b2410e5",
+  "translation": "Occupation: Bartender\n\nLikes: Late mornings, strong coffee, ocean sunsets, casual flirting\n\nDislikes: Cold rain, strict schedules, early alarms",
+  "vndb_url": "https://vndb.org/c176730"
+}

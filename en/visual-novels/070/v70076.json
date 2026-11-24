@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70076",
+  "type": "visual_novel",
+  "name": "Kiana's Birthday 2015",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Galgame for Kiana's birthday",
+  "source_sha256": "72268ef7e3f114ddb797cceea11f02b838d1f703c35685c10578ffa8650bc16e",
+  "translation": "Galgame for Kiana's birthday",
+  "vndb_url": "https://vndb.org/v70076"
+}

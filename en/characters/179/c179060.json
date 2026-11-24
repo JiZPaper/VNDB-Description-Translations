@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179060",
+  "type": "character",
+  "name": "Sofia von Lein",
+  "original_name": "Софія фон Ляйн",
+  "language": "en",
+  "source_language": "en",
+  "source": "A gendarme noblewoman resting on the second floor of \"Racoons' Eight\".",
+  "source_sha256": "2906f5dbd4af79fb8f7c05bbce05bb7941282807354a7f9a34ca44651b7c67dd",
+  "translation": "A gendarme noblewoman resting on the second floor of \"Racoons' Eight\".",
+  "vndb_url": "https://vndb.org/c179060"
+}

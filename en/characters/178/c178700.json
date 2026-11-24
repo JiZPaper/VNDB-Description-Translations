@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c178700",
+  "type": "character",
+  "name": "Karl Marx",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Karl Marx was a German philosopher, social and political theorist, journalist, and revolutionary socialist. He developed the theory of historical materialism, analyzing societal structure and change, particularly class struggle under capitalism, and predicting the system's ultimate replacement by communism.",
+  "source_sha256": "1c5add77d0a18497da0e210343f7ac3aae0e04188f6512a58dd80b6a9d39a469",
+  "translation": "Karl Marx was a German philosopher, social and political theorist, journalist, and revolutionary socialist. He developed the theory of historical materialism, analyzing societal structure and change, particularly class struggle under capitalism, and predicting the system's ultimate replacement by communism.",
+  "vndb_url": "https://vndb.org/c178700"
+}

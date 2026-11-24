@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68164",
+  "type": "visual_novel",
+  "name": "Bone to Pick ~Hone Kara Hajimaru Jikenbo~",
+  "original_name": "Bone to Pick / ボーン・トゥ・ピック 〜骨から始まる事件簿〜",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The player is a new trainee at a forensic anthropology lab. Cases arrive as unidentified remains, and the work is to read the bones and determine who the victim was and how they died.\n\nThe game covers seven cases. Each one moves through examining bones, sorting remains recovered from the scene, searching crime scenes for evidence, and breaking down contradictory testimony. A different minigame appears in each case.\n\nThe team consists of a forensic anthropologist, an FBI special agent, a forensic geologist and entomologist, a digital technician, a firearms examiner, a federal prosecutor, and a cadaver dog.",
+  "source_sha256": "c3e604162515f3c875fec444ef42ca7d3556e7dd4fa02e9d38d5480804d9bc87",
+  "translation": "玩家将扮演法医人类学实验室的一名新晋实习生。送抵实验室的案件皆是身份不明的遗骸，而你的职责便是解读骨骼留下的讯息，查明死者的真实身份与死因。\n\n本作共收录七桩案件。每桩案件都将依次经历检验骨骼、分拣现场回收遗骸、搜查案发现场物证，以及击破自相矛盾的证词等环节，且每起案件均配有各不相同的小游戏。\n\n你的办案团队成员包括：法医人类学家、联邦调查局（FBI）特别探员、法医地质学家兼昆虫学家、数字技术员、枪械鉴定师、联邦检察官，以及一条搜尸犬。",
+  "vndb_url": "https://vndb.org/v68164"
+}

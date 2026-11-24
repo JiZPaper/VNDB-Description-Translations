@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67553",
+  "type": "visual_novel",
+  "name": "Gimmic Adventure",
+  "original_name": "ギミックアドベンチャー",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist and the heroines travel around Akihabara, investigating the mystery of the legendary kokeshi doll.\n\nThe heroines are personifications of the menu bars of Gimmic's site.",
+  "source_sha256": "dfd862d1d996b241533837369b6c4399513940ea3945864299918160a911685f",
+  "translation": "The protagonist and the heroines travel around Akihabara, investigating the mystery of the legendary kokeshi doll.\n\nThe heroines are personifications of the menu bars of Gimmic's site.",
+  "vndb_url": "https://vndb.org/v67553"
+}

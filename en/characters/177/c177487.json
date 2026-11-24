@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177487",
+  "type": "character",
+  "name": "Phebe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A polite city girl who's father has just been murdered. She is conscientious to a fault.\n\nLikes: routine, butterblue flowers\nDislikes: nothing in particular",
+  "source_sha256": "2615ae89f4ccc95852e0274a1fb876c27f23b8d1eb2104b2bd43b20317b9f0c4",
+  "translation": "A polite city girl who's father has just been murdered. She is conscientious to a fault.\n\nLikes: routine, butterblue flowers\nDislikes: nothing in particular",
+  "vndb_url": "https://vndb.org/c177487"
+}

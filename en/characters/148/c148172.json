@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "c148172",
   "type": "character",
-  "name": "Autumn",
+  "name": "Sabrina Autumn Kensington",
   "original_name": null,
   "language": "en",
   "source_language": "en",
-  "source": "Your neighbor Autumn...\n\n[In game description]",
-  "source_sha256": "3a3f82da7ee352e340a2c444a0b9e98033c65f1e371f22f692615d4f46f3107a",
-  "translation": "Your neighbor Autumn...\n\n[In game description]",
+  "source": "Your neighbor Autumn has an easy manner and little patience for unnecessary formality. You have crossed paths around the building, but so far you know her more through brief conversations than any real time together.\n\n[In game description]",
+  "source_sha256": "6c175737112b61b6d777c645bc011e5f41614a511757e172b57b1d272d4c0858",
+  "translation": "Your neighbor Autumn has an easy manner and little patience for unnecessary formality. You have crossed paths around the building, but so far you know her more through brief conversations than any real time together.\n\n[In game description]",
   "vndb_url": "https://vndb.org/c148172"
 }

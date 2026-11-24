@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "c165350",
   "type": "character",
-  "name": "Cyril Avian",
-  "original_name": "シリル．アーウァン",
+  "name": "Cyril Avain",
+  "original_name": "シリル・アーヴァン",
   "language": "en",
   "source_language": "en",
-  "source": "\"Your heart belongs to me.\"",
-  "source_sha256": "73efa2ea7af498f479d5d283450bc8586fafb0f82d6b35691ef330462c22ad61",
-  "translation": "\"Your heart belongs to me.\"",
+  "source": "[i]\"Your heart belongs to me.\"[/i]\n\n[i]Driven Vanguard[/i]\n\nA first-class Sylphid who has left many legends in his wake. He's retired from active duty and currently serves as an Academy lecturer while working as an influencer. He's a charismatic role model for the people.\n\n[From [url=https://products.voltage.co.jp/recordnoah/english/characters/?page=cyril]Voltage Inc.[/url]]",
+  "source_sha256": "358aaaca668c739b95df9774ebeb1ecb40a4c53f268b2e9ec591d2d9075db2e8",
+  "translation": "[i]\"Your heart belongs to me.\"[/i]\n\n[i]Driven Vanguard[/i]\n\nA first-class Sylphid who has left many legends in his wake. He's retired from active duty and currently serves as an Academy lecturer while working as an influencer. He's a charismatic role model for the people.\n\n[From [url=https://products.voltage.co.jp/recordnoah/english/characters/?page=cyril]Voltage Inc.[/url]]",
   "vndb_url": "https://vndb.org/c165350"
 }

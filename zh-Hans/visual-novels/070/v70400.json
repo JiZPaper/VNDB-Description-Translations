@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70400",
+  "type": "visual_novel",
+  "name": "Hearts Academy",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hearts Academy is a charming and immersive Ren'Py dating simulation that invites you to step inside a vibrant high school filled with friendship, romance, and heartfelt choices. Experience the journey of your customizable player character as you meet three unique classmates—Sarah, Alex, and Maya—each with their own personalities, stories, and paths to explore.\n\n[From [url=https://mythicforge.itch.io/hearts-academy]Itch.io[/url]]",
+  "source_sha256": "ac7d8c666bcf628c247e653370dd1c8deefba13a955f2f1b67901a990125d984",
+  "translation": "《心之学园》是一款迷人而富有沉浸感的Ren'Py恋爱模拟游戏，邀你踏入一所充满友情、恋情与真挚抉择的活力高中。自定义你的主角形象，邂逅三位个性鲜明的同班同学——莎拉、亚历克斯与玛雅，深入探索他们各自的性格、故事与专属路线吧。\n\n[摘自[url=https://mythicforge.itch.io/hearts-academy]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v70400"
+}

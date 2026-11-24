@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c173205",
+  "type": "character",
+  "name": "Mother",
+  "original_name": "母さん",
+  "language": "en",
+  "source_language": "en",
+  "source": "[url=/c173186]Hiroki[/url]'s mother.",
+  "source_sha256": "c13c06edcf60bdbe77ed3a12648c982ba32a7126a32b2d83b3816fce8c34cdde",
+  "translation": "[url=/c173186]Hiroki[/url]'s mother.",
+  "vndb_url": "https://vndb.org/c173205"
+}

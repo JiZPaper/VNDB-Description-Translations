@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69068",
+  "type": "visual_novel",
+  "name": "My Prince",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This game will take place in a fantasy world. There will be two main characters: the prince (a feminine boy) and his fiancée, the duke's daughter. The main plot task will be to defeat the usurpers who have captured the royal castle. But it will not be possible to solve this problem quickly, and in the meantime the main characters will live in a certain free city.",
+  "source_sha256": "a5063622b2f1ad4dda66c86aeec3f9c1b9f594f17407b0095447e5109e19c7ac",
+  "translation": "This game will take place in a fantasy world. There will be two main characters: the prince (a feminine boy) and his fiancée, the duke's daughter. The main plot task will be to defeat the usurpers who have captured the royal castle. But it will not be possible to solve this problem quickly, and in the meantime the main characters will live in a certain free city.",
+  "vndb_url": "https://vndb.org/v69068"
+}

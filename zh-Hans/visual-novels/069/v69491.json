@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69491",
+  "type": "visual_novel",
+  "name": "Desires From Beyond",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Josh (Name changeable by the player)\nwas away from his native home studying when he receives a message from his family to return to the city.\nHis family was rather disjointed, and the issue was that they needed his signature to inherit a luxury Resort from his grandfather Saul, a former member of The Eternal Sunset Society.",
+  "source_sha256": "0a61373e5a4deb3c2a731be1a1cb913e7bbc28bf68ccdb65f883d9d03aa801e8",
+  "translation": "乔什（玩家可自定义姓名）正在远离故乡的外地求学，忽然收到家里发来的消息，催促他返回城中。\n他的家族关系向来支离破碎，而这次找他回去，是因为继承祖父索尔留下的一座豪华度假村需要他的亲笔签名——而这位祖父，曾是“永恒日落学会”的一员。",
+  "vndb_url": "https://vndb.org/v69491"
+}

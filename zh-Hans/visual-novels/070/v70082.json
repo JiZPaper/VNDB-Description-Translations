@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70082",
+  "type": "visual_novel",
+  "name": "Guns GirlZ: Operation Gekkou - Reborn",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Operation Gekkou is the effort to turn the story of GGZ into a Visual Novel with refurbished English translations. It is intended to make the story more accessible to the English speaking audience, as well as improve upon the text and translations.",
+  "source_sha256": "f1650d0f0837cf8a47eeb666ded19e79789e81038dc734dfcbf211797c6667ff",
+  "translation": "“月光行动”（Operation Gekkou）是一项致力于将《崩坏学园2》的剧情改编为视觉小说并重新打磨英文译文的项目，旨在改良文本与翻译质量，让英语圈玩家能够更便捷地接触并体验这段故事。",
+  "vndb_url": "https://vndb.org/v70082"
+}

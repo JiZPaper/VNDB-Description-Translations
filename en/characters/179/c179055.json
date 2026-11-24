@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179055",
+  "type": "character",
+  "name": "Fleur Furbins",
+  "original_name": "Флер Фурбінс",
+  "language": "en",
+  "source_language": "en",
+  "source": "The barmaid and the daughter of Otto Furbins, the owner of the \"Racoons' Eight\".",
+  "source_sha256": "ccbb5b006271df9514082de1970bcf5f53d8e18f1ee6eb5fe54bc921e64d5d8c",
+  "translation": "The barmaid and the daughter of Otto Furbins, the owner of the \"Racoons' Eight\".",
+  "vndb_url": "https://vndb.org/c179055"
+}

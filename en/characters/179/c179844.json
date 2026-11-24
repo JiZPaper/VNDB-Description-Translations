@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179844",
+  "type": "character",
+  "name": "Yanmei",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is [url=/c179147]Luana McPerson[/url]'s friend.",
+  "source_sha256": "9f7479e3d37edbcc7bf33978bb099729b40c43c73a2bfcbc26d53054ce03b445",
+  "translation": "She is [url=/c179147]Luana McPerson[/url]'s friend.",
+  "vndb_url": "https://vndb.org/c179844"
+}

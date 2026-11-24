@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177641",
+  "type": "character",
+  "name": "Joe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "a sleazy mechanic in the process of working out his issues and becoming a better man",
+  "source_sha256": "e506a8430a62ec463f4c0fbc59a95f58c100aae8d875a56d84083384e277cba1",
+  "translation": "a sleazy mechanic in the process of working out his issues and becoming a better man",
+  "vndb_url": "https://vndb.org/c177641"
+}

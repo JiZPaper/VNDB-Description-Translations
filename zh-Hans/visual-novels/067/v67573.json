@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67573",
+  "type": "visual_novel",
+  "name": "The Vault",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The task is simple. All you have to do is leave the vault. Any means will do. Provided you abide by certain conditions.\n\n[From [url=https://dwam.itch.io/the-vault]itch.io[/url]]",
+  "source_sha256": "d768edee2584447c84244309849994d843fb3031ee7dabab97dfb93360a78407",
+  "translation": "任务很简单。你唯一需要做的，便是离开这座金库。无论采取什么手段都可以——前提是你必须遵守特定的附加条件。\n\n[摘自[url=https://dwam.itch.io/the-vault]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v67573"
+}

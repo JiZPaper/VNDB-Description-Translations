@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177030",
+  "type": "character",
+  "name": "Shana",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young resident of Galatas.",
+  "source_sha256": "c12baa50a6339a4c5f1acf623de19e49601caed12ce660e69c23493d76107961",
+  "translation": "A young resident of Galatas.",
+  "vndb_url": "https://vndb.org/c177030"
+}

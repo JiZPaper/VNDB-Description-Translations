@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172735",
+  "type": "character",
+  "name": "Debt Collector",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Debt Collector...",
+  "source_sha256": "4c9b3dd84a42fba4f4e4f7b5b06b44405ffbdeb191120363d76fb4f90f6176ee",
+  "translation": "Debt Collector...",
+  "vndb_url": "https://vndb.org/c172735"
+}

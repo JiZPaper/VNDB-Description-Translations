@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c63912",
+  "type": "character",
+  "name": "Hakase",
+  "original_name": "博士",
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious doctor who is researching the island.",
+  "source_sha256": "6d10eaa408e14de57f26e6c2e3c80f070c0e85dc1637ec8b4451b50eb45188e4",
+  "translation": "A mysterious doctor who is researching the island.",
+  "vndb_url": "https://vndb.org/c63912"
+}

@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "v62115",
   "type": "visual_novel",
-  "name": "Zajchik: Istorija Kati",
-  "original_name": "Зайчик: История Кати",
+  "name": "Zajchik: Poka ty ryadom",
+  "original_name": "Зайчик: Пока ты рядом",
   "language": "zh-Hans",
   "source_language": "en",
-  "source": "Here, the story unfolds from Smirnova's perspective. Immerse yourself in an atmosphere of lost serenity and the struggle to adapt to a new reality, alongside the Grade 6-B Class President.\n\nWhich path will you guide the heroine down? Featuring an original plot and a detailed story of the making of the most popular girl in class.",
-  "source_sha256": "dabf16d35fd080284a7688975d8b4bc6579b1d9b1fac081c63d9ad0749c05991",
-  "translation": "这次，故事从斯米尔诺娃的视角展开。跟随这位六年级B班的班长，感受失去往日安宁后的氛围，经历适应新现实的种种挣扎。\n\n你会引领女主角走上哪条路？游戏采用原创剧情，细述她如何一步步成为班里最受欢迎的女孩。",
+  "source": "It's easy to lose track in the snow, but impossible to hide the truth.\nThis is the story of Katya and Polina, where a warm friendship gradually intertwines with secrets best left undisclosed.\n\nExperience this story from Ekaterina Smirnova's perspective.\nIs all well and good in this warm friendship?\n\n[From [url=https://t.me/TinyBunnyKateHistory/93]Telegram[/url]]",
+  "source_sha256": "cb08cb3fa24c17e7519a387ea6f5637b680749ed48ad675ea535bc555a87a0cc",
+  "translation": "雪地里的足迹很容易迷失，但真相却无从掩藏。\n这是关于卡嘉与波琳娜的故事——一段温暖的友情，渐渐与那些本不该被揭开的秘密交织在一起。\n\n从叶卡捷琳娜·斯米尔诺娃的视角亲历这段故事吧。\n这份温暖的友情背后，当真一切安好吗？\n\n[摘自[url=https://t.me/TinyBunnyKateHistory/93]Telegram[/url]]",
   "vndb_url": "https://vndb.org/v62115"
 }

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67360",
+  "type": "visual_novel",
+  "name": "Null_Parts",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"Kitten obeys and does not question.\"\n\n[From [url=https://nullkitten.itch.io/null-parts]itch.io[/url]]",
+  "source_sha256": "be4eec900eee98e396455d96d0063504fa4fd906728577ef7f1db037ab53571f",
+  "translation": "“小猫乖乖服从，绝不发问。”\n\n[摘自[url=https://nullkitten.itch.io/null-parts]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v67360"
+}

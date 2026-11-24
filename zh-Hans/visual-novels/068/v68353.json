@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68353",
+  "type": "visual_novel",
+  "name": "Truth Universally Acknowledged - Silver Heart",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Truth Universally Acknowledged - Silver Heart is a CEO romance kinetic visual novel. Every love interest is a CEO.",
+  "source_sha256": "d7941cae9534e9a8e6c8715349072d3b6549512caa0adf61e5ec483d8f4f056e",
+  "translation": "《举世公认的真理：银之心》是一部霸道总裁恋爱题材的单线视觉小说——每一位可恋爱对象全都是总裁。",
+  "vndb_url": "https://vndb.org/v68353"
+}

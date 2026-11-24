@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c138088",
+  "type": "character",
+  "name": "Officer",
+  "original_name": "オフィサー",
+  "language": "en",
+  "source_language": "en",
+  "source": "Steel Fox commander.",
+  "source_sha256": "82a5c1b021e08c37d4de96801cc9d978072b5acb38f77649e464c2ce558a3605",
+  "translation": "Steel Fox commander.",
+  "vndb_url": "https://vndb.org/c138088"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177490",
+  "type": "character",
+  "name": "Fanny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Owns the only store in town, and likes it that way. Friendly to those who shop with her.\n\nLikes: money\nDislikes: freebies",
+  "source_sha256": "55bbea6f3b14c2acb496e91d3dd22ee97918ab202f635b75c51283a895c05f32",
+  "translation": "Owns the only store in town, and likes it that way. Friendly to those who shop with her.\n\nLikes: money\nDislikes: freebies",
+  "vndb_url": "https://vndb.org/c177490"
+}

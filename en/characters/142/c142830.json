@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "c142830",
   "type": "character",
-  "name": "Shibuchou",
-  "original_name": null,
+  "name": "Branch Manager",
+  "original_name": "支部長",
   "language": "en",
   "source_language": "en",
-  "source": "The president of anti-delete organization 42nd branch.\nDanger Rating: ★☆☆☆☆",
-  "source_sha256": "e54879710e95d15f69bdc913e4980b03e370fd5f163eedc45b0df9dd182ca63f",
-  "translation": "The president of anti-delete organization 42nd branch.\nDanger Rating: ★☆☆☆☆",
+  "source": "The Manager of the Anti-Delete Organization's 42nd Branch.\nDanger Rating: ★☆☆☆☆",
+  "source_sha256": "944c3e1a8f827cce25785d3a0305f8b5f107246a35e5ace43cce78d68828ee4f",
+  "translation": "The Manager of the Anti-Delete Organization's 42nd Branch.\nDanger Rating: ★☆☆☆☆",
   "vndb_url": "https://vndb.org/c142830"
 }

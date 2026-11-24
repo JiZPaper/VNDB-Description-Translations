@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70780",
+  "type": "visual_novel",
+  "name": "Crown of Terra: The Alien Accord",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Crown of Terra: The Alien Accord is a sci-fi visual novel set aboard an orbital diplomatic station during humanity's first precarious contact with an extraterrestrial empire. \n\nAssuming the role of the Chancellor of Terra, players navigate political intrigue, clandestine negotiations, and personal relationships with foreign delegates, where choices influence diplomatic accords and psychological alignment.",
+  "source_sha256": "5d457cf4df80d76d36c7c4385705ed86cca016f59a667537182fa1a4ef7c8969",
+  "translation": "《泰拉之冠：异星协定》是一部科幻视觉小说，背景设定在人类与外星帝国进行首次如履薄冰的接触期间，以一座轨道外交空间站为舞台展开。\n\n玩家将扮演泰拉议长，在波谲云诡的政治暗流、秘密谈判以及与外星代表团成员的私交羁绊间周旋；你的每一次抉择都将左右外交协定的走向与自身的心理倾向。",
+  "vndb_url": "https://vndb.org/v70780"
+}

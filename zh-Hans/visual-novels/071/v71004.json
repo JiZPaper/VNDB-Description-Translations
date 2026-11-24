@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v71004",
+  "type": "visual_novel",
+  "name": "Orbital Decay",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The year is 2291. The research ship ESV Meridian orbits Veyra, an uncharted planet eleven months from home. At the heart of the story, three people. Alex, the ship’s engineer. His wife Nora, the botanist whose greenhouse makes the air they breathe. And Kane, the mechanic, followed by rumors from his last posting that Nora can’t forget.\n\nAlex’s work keeps him alone in the reactor room at the stern, day after day, while Nora spends fourteen hours a day at the other end of the ship... with Kane. Between two repairs, Alex checks the ship’s cameras. They show him almost nothing. But Kane has cameras of his own: hidden lenses, put in one by one, where the ship’s cameras can’t see. Alex will never know they exist. You will see everything they see.",
+  "source_sha256": "0a966d32d0661a5a1bad785ce20274ff3d7e4b7ea54f1d9a7257a0a27ace1a7a",
+  "translation": "时间是2291年。“ESV子午线号”科研船正环绕维拉星运行——这是一颗距离地球家园足有十一个月航程的未知行星。故事的核心围绕三个人展开：飞船工程师亚历克斯；他的妻子诺拉——船上的植物学家，全船人赖以呼吸的氧气全靠她打理的温室供给；还有机械师凯恩——一个背负着上一任驻地风流传闻、令诺拉始终难以忘怀的男人。\n\n亚历克斯的工作迫使他日复一日独自守在船尾的反应堆舱室里；与此同时，诺拉每天却有十四个小时待在飞船另一头……与凯恩独处。在两次检修的间隙，亚历克斯调出了船上的监控画面，上面几乎看不出任何异样。然而凯恩自己还另装了一套监控：一枚又一枚隐蔽镜头，专门安在飞船监控拍不到的死角。亚历克斯永远不会知道它们的存在——而你将亲眼目睹它们拍下的一切。",
+  "vndb_url": "https://vndb.org/v71004"
+}

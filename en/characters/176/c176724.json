@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176724",
+  "type": "character",
+  "name": "Keira Gold",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Private Investor\n\nLikes: Luxury evenings, quiet marinas, expensive perfume, subtle control\n\nDislikes: Being questioned, loud people, losing status",
+  "source_sha256": "25b5a6d30f17f0fc3fe2f5534ec23db494394de1a17e8c7d0181059c2870da0c",
+  "translation": "Occupation: Private Investor\n\nLikes: Luxury evenings, quiet marinas, expensive perfume, subtle control\n\nDislikes: Being questioned, loud people, losing status",
+  "vndb_url": "https://vndb.org/c176724"
+}

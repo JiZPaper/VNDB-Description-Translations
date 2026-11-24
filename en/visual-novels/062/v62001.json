@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v62001",
+  "type": "visual_novel",
+  "name": "Maegami ga Nagakute Seikaku ga Kurai Kakuu no Otoko",
+  "original_name": "前髪が長くて性格が暗い架空の男",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short game about gloomy characters who cut their long bangs and become happier, losing their appeal in the process.\n\nMade for a 24-hour game development challenge.",
+  "source_sha256": "ab4dbaffe3982f4937efc1566a0e584273331193688bdd8a423cc22cbf946e0e",
+  "translation": "A short game about gloomy characters who cut their long bangs and become happier, losing their appeal in the process.\n\nMade for a 24-hour game development challenge.",
+  "vndb_url": "https://vndb.org/v62001"
+}

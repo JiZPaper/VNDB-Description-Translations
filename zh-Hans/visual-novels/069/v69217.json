@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69217",
+  "type": "visual_novel",
+  "name": "Ghowly",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a villager who is kidnapped by a goblin.\n\n[From [url=https://karisbunny.itch.io/ghowly]itch.io[/url]]",
+  "source_sha256": "20ce01af15562cf5fc8abd6f3961cea5c340a9a7112489bca65f080d616060b4",
+  "translation": "你是一名被哥布林绑架的村民。\n\n[摘自[url=https://karisbunny.itch.io/ghowly]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v69217"
+}

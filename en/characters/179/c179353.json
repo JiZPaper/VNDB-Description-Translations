@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179353",
+  "type": "character",
+  "name": "Gromi Leafstream",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "This goblin brings you mail from time to time. He's grumpy. He likes shiny. Amelia and Garibaldi are afraid of him.\n\n[In game description]",
+  "source_sha256": "fa00310f194f81e659fde2a03b6f557b73c82df6ab63ee4cd31f4482bf59dc0f",
+  "translation": "This goblin brings you mail from time to time. He's grumpy. He likes shiny. Amelia and Garibaldi are afraid of him.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c179353"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179434",
+  "type": "character",
+  "name": "Rain",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is [url=/c179113]Rebecca Marsh[/url]'s new roomate.\nShe is [url=/c179433]Lars[/url]'s girlfriend.",
+  "source_sha256": "1973c5ac0f55a50304f184fc09a8878d37a687114354316fa3560dff33a7c700",
+  "translation": "She is [url=/c179113]Rebecca Marsh[/url]'s new roomate.\nShe is [url=/c179433]Lars[/url]'s girlfriend.",
+  "vndb_url": "https://vndb.org/c179434"
+}

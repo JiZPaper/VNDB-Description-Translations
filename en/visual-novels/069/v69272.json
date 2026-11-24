@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69272",
+  "type": "visual_novel",
+  "name": "Gloria in Somnium",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "It's time to wake up...\n\n[From [url=https://aaonline.fr/forum/viewtopic.php?t=13529]AAOnline[/url]]",
+  "source_sha256": "8b0b27bcf120f8fc505d3741d816ce4816598f924cbe9b8996249cd44f6902a1",
+  "translation": "It's time to wake up...\n\n[From [url=https://aaonline.fr/forum/viewtopic.php?t=13529]AAOnline[/url]]",
+  "vndb_url": "https://vndb.org/v69272"
+}

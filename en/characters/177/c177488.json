@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177488",
+  "type": "character",
+  "name": "Peyton",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A man living in Phebe's barn. Kind, but cagey about any details as to what he is doing.\n\nLikes: fishing, morning walks\nDislikes: dishonesty, cats",
+  "source_sha256": "4f49591116dfe999215db8cb5df0d71e8247ebca7b992c7573f3efd9d62a0477",
+  "translation": "A man living in Phebe's barn. Kind, but cagey about any details as to what he is doing.\n\nLikes: fishing, morning walks\nDislikes: dishonesty, cats",
+  "vndb_url": "https://vndb.org/c177488"
+}

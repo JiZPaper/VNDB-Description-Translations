@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70977",
+  "type": "visual_novel",
+  "name": "New Tenants",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "New Tenants follows an American couple who are forced to leave their current home and move through Eastern Europe in order to escape the threat of war. Strangers in an unfamiliar country, they must find a place to live, new jobs, and a way to survive — both financially and emotionally.",
+  "source_sha256": "ca1367cf5706d67980e03828429d5dbd703d0f32f11ca6b54f1870db9fe8f89a",
+  "translation": "《新房客》讲述了一对美国情侣为躲避战争威胁，被迫离开原本的家园、一路辗转东欧各国的故事。身为异国他乡的外来者，他们必须设法寻找栖身之所与新工作，在经济与情感的双重考验下谋求生路。",
+  "vndb_url": "https://vndb.org/v70977"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68215",
+  "type": "visual_novel",
+  "name": "Baron Misanthrope",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A short denpa visual novel about a man of dubious sanity and his mysterious top hat-wearing companion as they embark on a road trip.",
+  "source_sha256": "2b2278153f3159acb21f2bf969147e981b33c8ded79e1129688c79153b15082f",
+  "translation": "A short denpa visual novel about a man of dubious sanity and his mysterious top hat-wearing companion as they embark on a road trip.",
+  "vndb_url": "https://vndb.org/v68215"
+}

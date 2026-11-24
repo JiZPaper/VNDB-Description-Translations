@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c178591",
+  "type": "character",
+  "name": "Shinji",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Yamada's Son",
+  "source_sha256": "b241d08442eb5b994654194c2938ebf98b96650da33eb24359e4f2061f53c982",
+  "translation": "Yamada's Son",
+  "vndb_url": "https://vndb.org/c178591"
+}

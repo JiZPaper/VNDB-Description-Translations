@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c178909",
+  "type": "character",
+  "name": "Dolly Dewar",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Oliver's mother, who tries to \"cure\" him using her sunflower pie.",
+  "source_sha256": "cf29a9c034cd557bd9833a0edf11244305c5afcb392255c2cfae6e1878c31536",
+  "translation": "Oliver's mother, who tries to \"cure\" him using her sunflower pie.",
+  "vndb_url": "https://vndb.org/c178909"
+}

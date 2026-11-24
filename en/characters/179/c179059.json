@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179059",
+  "type": "character",
+  "name": "Chelini",
+  "original_name": "Челіні",
+  "language": "en",
+  "source_language": "en",
+  "source": "A lonely girl sitting deep in the tavern, far from everyone else.",
+  "source_sha256": "d2e2fef2135f424b568b99b2a7f2f5f3e3db2331582d4b3fd80729dc5520b0d2",
+  "translation": "A lonely girl sitting deep in the tavern, far from everyone else.",
+  "vndb_url": "https://vndb.org/c179059"
+}

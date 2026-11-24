@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v58911",
+  "type": "visual_novel",
+  "name": "Traumerai no Haka",
+  "original_name": "トロイメライの墓",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Tsutsuji and Sumire meet at an unpopular subway station. For some reason, the train never seems to stop. Together, they search for clues to escape.\n\n[from https://graveoftraumerei.carrd.co/]",
+  "source_sha256": "2b28c673d785ea297da508e0b2d2d3f313857bd12c4a946ec2d725e52366418d",
+  "translation": "踯躅与堇在一座冷清的地铁站里相遇。不知为何，驶过的列车似乎永远也不会停靠。两人决定携手寻找逃离此地的线索。\n\n[摘自graveoftraumerei.carrd.co]",
+  "vndb_url": "https://vndb.org/v58911"
+}

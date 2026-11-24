@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172939",
+  "type": "character",
+  "name": "Violet",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Criminal organization leader.",
+  "source_sha256": "009296846e4ede84442cd47eb2159186a42ebbcccf30444c350e362ff8382635",
+  "translation": "Criminal organization leader.",
+  "vndb_url": "https://vndb.org/c172939"
+}

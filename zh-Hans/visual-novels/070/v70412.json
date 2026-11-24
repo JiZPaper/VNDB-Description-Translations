@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70412",
+  "type": "visual_novel",
+  "name": "I Wanna Go Camping Before I Die.",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short visual novel made for Noise Jam 4.\n\n[From [url=https://verminpalace.itch.io/i-wanna-go-camping-before-i-die]itch.io[/url]]",
+  "source_sha256": "e327cb331c789d7d2d050bb1137deaceed03a3829a8d5e888bf9d65c7a204d72",
+  "translation": "一部为Noise Jam 4创作大赛制作的短篇视觉小说。\n\n[摘自[url=https://verminpalace.itch.io/i-wanna-go-camping-before-i-die]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v70412"
+}

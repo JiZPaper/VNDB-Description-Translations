@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176979",
+  "type": "character",
+  "name": "Devon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The dance teacher.",
+  "source_sha256": "e5cd6293de2875f0b040a566202be10b4cbb364edd3ad32cfb5f210e33d73066",
+  "translation": "The dance teacher.",
+  "vndb_url": "https://vndb.org/c176979"
+}

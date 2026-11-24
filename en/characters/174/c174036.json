@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174036",
+  "type": "character",
+  "name": "Annette",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Resident of the Halga village.",
+  "source_sha256": "4ba1cc875862dff8ca6da99830c773aaec27e15fcfd175ce4313b9f85445b4ca",
+  "translation": "Resident of the Halga village.",
+  "vndb_url": "https://vndb.org/c174036"
+}

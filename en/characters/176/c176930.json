@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176930",
+  "type": "character",
+  "name": "Sensei",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The martial arts teacher.",
+  "source_sha256": "88bfdce90a22c3b59f76d58400d84d24836c9c780bfd70cdda2f9d3e53c776ae",
+  "translation": "The martial arts teacher.",
+  "vndb_url": "https://vndb.org/c176930"
+}

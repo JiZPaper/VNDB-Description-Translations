@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "c147675",
   "type": "character",
-  "name": "Erik Maters",
+  "name": "Eric Mathers",
   "original_name": "Эрик Матерс",
   "language": "en",
   "source_language": "en",
-  "source": "[url=https://vndb.org/c147634]Ashley[/url]'s fiancé and future husband.\n\n[In game description]",
-  "source_sha256": "78e49364401fdb30fe425560a3e96bb7dc938eec7cb281befced1188a0f82192",
-  "translation": "[url=https://vndb.org/c147634]Ashley[/url]'s fiancé and future husband.\n\n[In game description]",
+  "source": "[url=/c147634]Ashley[/url]'s fiancé and future husband.\n\n[In game description]",
+  "source_sha256": "cbed268fa142a91c156f78d61d49580041729d2cafa28012db640917e392765b",
+  "translation": "[url=/c147634]Ashley[/url]'s fiancé and future husband.\n\n[In game description]",
   "vndb_url": "https://vndb.org/c147675"
 }

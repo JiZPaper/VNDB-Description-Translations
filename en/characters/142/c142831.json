@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "c142831",
   "type": "character",
-  "name": "Fuku Shibuchou",
-  "original_name": null,
+  "name": "Vice Branch Manager",
+  "original_name": "副支部長",
   "language": "en",
   "source_language": "en",
-  "source": "The vice-president of anti-delete organization 42nd branch.\nDanger Rating: ★☆☆☆☆",
-  "source_sha256": "7f28d3a8f0000d50854c0b62d879d7c22067856fe6ad487b3d0fc37325946479",
-  "translation": "The vice-president of anti-delete organization 42nd branch.\nDanger Rating: ★☆☆☆☆",
+  "source": "The Vice-Manager of the Anti-Delete Organization's 42nd Branch.\nDanger Rating: ★☆☆☆☆",
+  "source_sha256": "be3597f83deea75f84f4d72c5bb261b5fc290b4228a6944c2e225e7f40b878e1",
+  "translation": "The Vice-Manager of the Anti-Delete Organization's 42nd Branch.\nDanger Rating: ★☆☆☆☆",
   "vndb_url": "https://vndb.org/c142831"
 }

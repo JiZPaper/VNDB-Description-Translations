@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70242",
+  "type": "visual_novel",
+  "name": "Trifolium Nulla: - Adieu aux Quatre Feuilles -",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "a prequel story",
+  "source_sha256": "6fae72805ddc20d89a0859bbe338bf734401509eb4b0523e767f734e3a35ecdc",
+  "translation": "a prequel story",
+  "vndb_url": "https://vndb.org/v70242"
+}

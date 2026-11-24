@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c175912",
+  "type": "character",
+  "name": "Lucas",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A cheerful and outgoing private detective, he has never stopped chasing the past.\nNo matter how much time has passed.",
+  "source_sha256": "d07ec3c67488d0a3773b62430f2f58257cb9bca71ba9cfd0ddd6d19c3a315717",
+  "translation": "A cheerful and outgoing private detective, he has never stopped chasing the past.\nNo matter how much time has passed.",
+  "vndb_url": "https://vndb.org/c175912"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68915",
+  "type": "visual_novel",
+  "name": "Exorcist",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game tells the story of the incredible adventures of an exorcist.",
+  "source_sha256": "ea6a23b65928ec4ae3dedc86192cd5727598c88dfe5ae8593d6140b2526418dc",
+  "translation": "本作讲述了一名驱魔师不可思议的奇幻冒险故事。",
+  "vndb_url": "https://vndb.org/v68915"
+}

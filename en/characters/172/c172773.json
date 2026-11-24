@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172773",
+  "type": "character",
+  "name": "Kate",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Megan's college acquaintance.",
+  "source_sha256": "3a1596b2bcca3261950217f4a0cea852309a9aaeb8ece36e9e6a801e7be0cea4",
+  "translation": "Megan's college acquaintance.",
+  "vndb_url": "https://vndb.org/c172773"
+}

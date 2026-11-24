@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "c147622",
   "type": "character",
-  "name": "Adam Riveyra",
+  "name": "Adam Rivera",
   "original_name": "Адам Ривейра",
   "language": "en",
   "source_language": "en",
-  "source": "Golden boy and former bully.\n\nNow he is a model family man, loving father and husband. Works for [url=https://vndb.org/c147626]Mayor Smith[/url].\n\nHe's madly in love with [url=https://vndb.org/c147645]Evelyn[/url].\n\n[In game description]",
-  "source_sha256": "a6ef513f33589a9645703b7333b2bbdcd977f1e061e33c7c8b7e87ad58ffa9a4",
-  "translation": "Golden boy and former bully.\n\nNow he is a model family man, loving father and husband. Works for [url=https://vndb.org/c147626]Mayor Smith[/url].\n\nHe's madly in love with [url=https://vndb.org/c147645]Evelyn[/url].\n\n[In game description]",
+  "source": "Golden boy and former bully.\n\nNow he is a model family man, loving father and husband. Works for [url=/c147626]Mayor Smith[/url].\n\nHe's madly in love with [url=/c147645]Evelyn[/url].\n\n[In game description]",
+  "source_sha256": "a1774fd63ed24515b0a9f62a0b300dbc198cbbd4b95375129e31f7b870c10b6c",
+  "translation": "Golden boy and former bully.\n\nNow he is a model family man, loving father and husband. Works for [url=/c147626]Mayor Smith[/url].\n\nHe's madly in love with [url=/c147645]Evelyn[/url].\n\n[In game description]",
   "vndb_url": "https://vndb.org/c147622"
 }

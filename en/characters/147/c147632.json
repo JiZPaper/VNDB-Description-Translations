@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "c147632",
   "type": "character",
-  "name": "Dueyn Varnell",
+  "name": "Dwayne Varnell",
   "original_name": "Дуэйн Варнелл",
   "language": "en",
   "source_language": "en",
-  "source": "[url=https://vndb.org/c147626]Mayor Smith[/url]'s personal security guard.\n\nLooks like he's not as dumb as he looks.\n\n[In game description]",
-  "source_sha256": "4f333498fd6b29fd0af11e7805524a2776e1289785d0932c98c2a460f514d960",
-  "translation": "[url=https://vndb.org/c147626]Mayor Smith[/url]'s personal security guard.\n\nLooks like he's not as dumb as he looks.\n\n[In game description]",
+  "source": "[url=/c147626]Mayor Smith[/url]'s personal security guard.\n\nLooks like he's not as dumb as he looks.\n\n[In game description]",
+  "source_sha256": "e96ded0add210e60282dd81e46af7cddc40cca6bba6341464b223b9666dbefeb",
+  "translation": "[url=/c147626]Mayor Smith[/url]'s personal security guard.\n\nLooks like he's not as dumb as he looks.\n\n[In game description]",
   "vndb_url": "https://vndb.org/c147632"
 }

@@ -3,11 +3,11 @@
   "id": "c165351",
   "type": "character",
   "name": "Zephyr Olden",
-  "original_name": "ゼフ．オールデン",
+  "original_name": "ゼフ・オールデン",
   "language": "en",
   "source_language": "en",
-  "source": "\"I have a lot to atone for.\"",
-  "source_sha256": "054a7633ea1ff20827f1453eccfa56acba836e8c3e720b42f84b353d9a05c44f",
-  "translation": "\"I have a lot to atone for.\"",
+  "source": "[i]\"I have a lot to atone for.\"[/i]\n\n[i]Anxious Researcher[/i]\n\nThe heroine's childhood friend and first love. Though he normally works as a researcher analyzing Legacies, he'll also join surface expeditions as a Sylphid.\n\n[From [url=https://products.voltage.co.jp/recordnoah/english/characters/?page=zephyr]Voltage Inc.[/url]]",
+  "source_sha256": "d6619e449c5dc4782dd9ff812b79f60de3f71d23078d568943f2c198ceee182d",
+  "translation": "[i]\"I have a lot to atone for.\"[/i]\n\n[i]Anxious Researcher[/i]\n\nThe heroine's childhood friend and first love. Though he normally works as a researcher analyzing Legacies, he'll also join surface expeditions as a Sylphid.\n\n[From [url=https://products.voltage.co.jp/recordnoah/english/characters/?page=zephyr]Voltage Inc.[/url]]",
   "vndb_url": "https://vndb.org/c165351"
 }

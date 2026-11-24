@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c175077",
+  "type": "character",
+  "name": "Xunyu",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The lead singer of Velvet Five.",
+  "source_sha256": "e76a6d4f7698853c2d8b316da582a245a42170045e36ab4799d02dbe3e588ac6",
+  "translation": "The lead singer of Velvet Five.",
+  "vndb_url": "https://vndb.org/c175077"
+}

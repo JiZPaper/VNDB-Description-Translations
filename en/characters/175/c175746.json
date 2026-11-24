@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c175746",
+  "type": "character",
+  "name": "Deku",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A friend of the protagonist, who plays a game of strip rock paper scissors with him.",
+  "source_sha256": "b20b72e2c66979c4e01e0a9f4baf72717b564db6fa95064548d0b7851adeb9ea",
+  "translation": "A friend of the protagonist, who plays a game of strip rock paper scissors with him.",
+  "vndb_url": "https://vndb.org/c175746"
+}

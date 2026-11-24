@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v33344",
+  "type": "visual_novel",
+  "name": "Fortune",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Levon is a young man who has a mysterious power called \"Fujutsu\".\nFor a certain purpose, he travels to a remote island in the middle of nowhere.\nThere, he comes across a girl named Linne.\nHow will the wheel of fortune turn after their encounter?",
+  "source_sha256": "42200c1cfa4fe4504499948bfddfd22dfa74672cca4d1348e588ea33417560e4",
+  "translation": "Levon is a young man who has a mysterious power called \"Fujutsu\".\nFor a certain purpose, he travels to a remote island in the middle of nowhere.\nThere, he comes across a girl named Linne.\nHow will the wheel of fortune turn after their encounter?",
+  "vndb_url": "https://vndb.org/v33344"
+}

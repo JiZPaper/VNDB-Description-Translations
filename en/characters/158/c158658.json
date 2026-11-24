@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c158658",
+  "type": "character",
+  "name": "Siora",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Siora is a confident and agile fighter. She currently lives in the Keeper's mansion, where she serves as a combat trainer.\n\nNothing of her past is known, as is typical for those working for the Keeper.\n\n[In game description]",
+  "source_sha256": "611b68674394eb65b9b512c6052cc6fa604655164e7b505b4f81e90433cb46d6",
+  "translation": "Siora is a confident and agile fighter. She currently lives in the Keeper's mansion, where she serves as a combat trainer.\n\nNothing of her past is known, as is typical for those working for the Keeper.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c158658"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174705",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The customizable protagonist. Their name, pronouns, skin tone, hairstyle, and accessories can all be modified. They were in great need of a vacation, but as they are broke, they accepted a part-time job at the fancy beach hotel in Paciflora, in their dream location. They try to work well, but are annoyed with the job in general.",
+  "source_sha256": "b274505a40ec2c1bed309fae6ead32c0ea406028ce25a5bad08b908fa8b3e213",
+  "translation": "The customizable protagonist. Their name, pronouns, skin tone, hairstyle, and accessories can all be modified. They were in great need of a vacation, but as they are broke, they accepted a part-time job at the fancy beach hotel in Paciflora, in their dream location. They try to work well, but are annoyed with the job in general.",
+  "vndb_url": "https://vndb.org/c174705"
+}

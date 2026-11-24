@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176295",
+  "type": "character",
+  "name": "Bayonetta",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Simulated character from the world of \"Bayonetta.\"",
+  "source_sha256": "23e781b86dcf30bf99850d892bc881e72c7a7fc70a81a905deb036399dace95b",
+  "translation": "Simulated character from the world of \"Bayonetta.\"",
+  "vndb_url": "https://vndb.org/c176295"
+}

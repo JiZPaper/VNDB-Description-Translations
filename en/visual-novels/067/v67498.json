@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67498",
+  "type": "visual_novel",
+  "name": "ALICE=NULL",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A girl has summoned a demon. \nThe demon offers to grant her a wish in exchange for her soul.\n2 days left... The girl can't decide on her wish.",
+  "source_sha256": "af376b49b62605ee0663fe273e946a2b36ae99579deef578b6fd2b909c1f69ef",
+  "translation": "A girl has summoned a demon. \nThe demon offers to grant her a wish in exchange for her soul.\n2 days left... The girl can't decide on her wish.",
+  "vndb_url": "https://vndb.org/v67498"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c173028",
+  "type": "character",
+  "name": "Nora",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Charlie's wife.",
+  "source_sha256": "4011eebf481739a72358aba8347356688d19735ddd669d67bd9c9f3e89873424",
+  "translation": "Charlie's wife.",
+  "vndb_url": "https://vndb.org/c173028"
+}

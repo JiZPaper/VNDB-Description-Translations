@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177334",
+  "type": "character",
+  "name": "Pekar'",
+  "original_name": "Пекарь",
+  "language": "en",
+  "source_language": "en",
+  "source": "A baker in the town.",
+  "source_sha256": "d52c05ff34c0ba28de18c62180a65db4db0b5619653964ee1826d925ea9be114",
+  "translation": "A baker in the town.",
+  "vndb_url": "https://vndb.org/c177334"
+}

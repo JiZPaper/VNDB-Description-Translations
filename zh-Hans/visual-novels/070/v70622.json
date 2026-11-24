@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70622",
+  "type": "visual_novel",
+  "name": "World of Corruption",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as a young man whose life takes a sudden turn after a mysterious event grants him the ability to influence people in ways he never could before. What begins as curiosity quickly becomes something deeper and darker.",
+  "source_sha256": "61d006f886e2977bc2d281b581d253b78919f3bbf3f0b53cee2deeccd95e49a7",
+  "translation": "你将扮演一名年轻男子：一场神秘事件骤然改变了他的人生轨迹，赋予了他以前所未有的方式左右他人的能力。起初只是出于好奇的尝试，很快便演变成了更深沉、更黑暗的欲望。",
+  "vndb_url": "https://vndb.org/v70622"
+}

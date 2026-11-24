@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67400",
+  "type": "visual_novel",
+  "name": "Bound Between Desks",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Welcome to a school where nothing is quite what it seems.\n\nBound Between Desks is a story-driven visual novel set in an ordinary school that's hiding something. Beneath the surface of regular classes and casual conversations, there's a darker mystery waiting to be uncovered. The choices you make will determine not only how the story unfolds, but what truths you'll discover along the way.",
+  "source_sha256": "c22a12b7bb8373d68d844dcfde5a3122c700fbd51cc4da5f74d13ee82a24330f",
+  "translation": "欢迎来到一所万物皆非表象所示的学校。\n\n《课桌间的羁绊》（Bound Between Desks）是一部剧情驱动型视觉小说，舞台设定在一所暗藏玄机的普通学校。在日常授课与闲聊寒暄的平静表象之下，潜伏着一桩等待被人揭开的阴暗谜团。你所做出的每一个抉择，不仅将决定故事如何推进，更将左右你一路上所能发掘的真相。",
+  "vndb_url": "https://vndb.org/v67400"
+}

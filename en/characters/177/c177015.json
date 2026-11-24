@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177015",
+  "type": "character",
+  "name": "MC ASHCROFT",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The character embodied by the player",
+  "source_sha256": "c987de867b7abd76f08271f7b33df238a207610f9583c1ef265cb19c242d5d1f",
+  "translation": "The character embodied by the player",
+  "vndb_url": "https://vndb.org/c177015"
+}

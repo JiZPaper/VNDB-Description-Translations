@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68579",
+  "type": "visual_novel",
+  "name": "Infected",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Step into a new adventure in a parallel world where humanity has exhausted Earth’s resources and pushed the Moon to the brink of destruction. As a new recruit, you are sent to an underground facility beneath Antarctica, where you must explore a mysterious new world, survive an unexpected infection, uncover hidden secrets, and meet the people trapped alongside you.",
+  "source_sha256": "ea54bfab30ac24bf02e21d37dea29ac33328060df29ce1440d4fe9d01cb0f67f",
+  "translation": "Step into a new adventure in a parallel world where humanity has exhausted Earth’s resources and pushed the Moon to the brink of destruction. As a new recruit, you are sent to an underground facility beneath Antarctica, where you must explore a mysterious new world, survive an unexpected infection, uncover hidden secrets, and meet the people trapped alongside you.",
+  "vndb_url": "https://vndb.org/v68579"
+}

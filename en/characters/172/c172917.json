@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172917",
+  "type": "character",
+  "name": "Warden",
+  "original_name": "管理者",
+  "language": "en",
+  "source_language": "en",
+  "source": "[i]\"Welcome to the inquisition.\"[/i]\n\n[i]Crimson Noble[/i]\n\n???\n\n[From [url=https://products.voltage.co.jp/kaleido/english/characters/?page=unknown2]Voltage Inc.[/url]]",
+  "source_sha256": "05096d4220d364ba44c5fdb6ff67dee000bd56da67a487ab4b3b619c4270aa95",
+  "translation": "[i]\"Welcome to the inquisition.\"[/i]\n\n[i]Crimson Noble[/i]\n\n???\n\n[From [url=https://products.voltage.co.jp/kaleido/english/characters/?page=unknown2]Voltage Inc.[/url]]",
+  "vndb_url": "https://vndb.org/c172917"
+}

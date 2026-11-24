@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69287",
+  "type": "visual_novel",
+  "name": "Juuroudou",
+  "original_name": "獣労働",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Our protagonist ends up working at a construction site full of beastmen, weaving many stories with them.",
+  "source_sha256": "bca0b02bfbd475a7107025491a3ff2055a90bbadbc07ae26b08f728dc15503c0",
+  "translation": "我们的主人公阴差阳错来到一处满是兽人的建筑工地打工，与工地上的兽人们交织出一段段多彩的故事。",
+  "vndb_url": "https://vndb.org/v69287"
+}

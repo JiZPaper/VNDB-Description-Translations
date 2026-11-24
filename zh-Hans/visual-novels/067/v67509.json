@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67509",
+  "type": "visual_novel",
+  "name": "Back Numbers+",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Contains \"Sky-High\", \"Shisen\", and \"Kirei na Shitai no Tsukurikata Trial Edition\"",
+  "source_sha256": "422b16eee369b6494442a3f14a6fabf4ea2b8b9733f3b0bd8a0cccbd767c3c8a",
+  "translation": "收录《Sky-High》、《视线》以及《漂亮尸体的制作方法 体验版》三部作品。",
+  "vndb_url": "https://vndb.org/v67509"
+}

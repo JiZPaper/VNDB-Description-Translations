@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c178340",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Suicidal, egocentric young man. Ex literature student. Named by the player - the default name in the prompt is randomly picked from a list of names all starting with V.",
+  "source_sha256": "01784cae3a3b2d6dec458ee5c38f72445e4948bd0807e508b0687b3b8221918c",
+  "translation": "Suicidal, egocentric young man. Ex literature student. Named by the player - the default name in the prompt is randomly picked from a list of names all starting with V.",
+  "vndb_url": "https://vndb.org/c178340"
+}

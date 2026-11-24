@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177326",
+  "type": "character",
+  "name": "Elvira",
+  "original_name": "Эльвира",
+  "language": "en",
+  "source_language": "en",
+  "source": "An older woman in the town.",
+  "source_sha256": "651926f4add700db1f1833d04dedecb09f32029a8b92aee3c07eb11dd67e1b55",
+  "translation": "An older woman in the town.",
+  "vndb_url": "https://vndb.org/c177326"
+}

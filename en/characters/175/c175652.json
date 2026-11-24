@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c175652",
+  "type": "character",
+  "name": "Gabriel",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of the art gallery and founder of the Academy.",
+  "source_sha256": "64ba5bf304ee20be51c3b5a43f52c4811440847298ace7e5a0ccda6a91a397b1",
+  "translation": "Owner of the art gallery and founder of the Academy.",
+  "vndb_url": "https://vndb.org/c175652"
+}

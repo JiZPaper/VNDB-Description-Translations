@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176843",
+  "type": "character",
+  "name": "You",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A nun sent by the Church to uncover the truth and condemn the mysterious man.",
+  "source_sha256": "b61924fdd31be1d2b1eee5a39e23d152dd6dd89d0bebc7ab39a3d5b949d51209",
+  "translation": "A nun sent by the Church to uncover the truth and condemn the mysterious man.",
+  "vndb_url": "https://vndb.org/c176843"
+}

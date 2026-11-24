@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68363",
+  "type": "visual_novel",
+  "name": "Gloomy Boulevard",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gloomy Boulevard is a short narrative game about loss and grief.\n\nAfter the death of his distant father, Leo, Liam struggles to confront a lifetime of unspoken emotions and a relationship defined by silence.",
+  "source_sha256": "ec90e20c616e4ea3cdacc12832fc4f95d29cd19402b0a8682a2099f5aa083b5f",
+  "translation": "Gloomy Boulevard is a short narrative game about loss and grief.\n\nAfter the death of his distant father, Leo, Liam struggles to confront a lifetime of unspoken emotions and a relationship defined by silence.",
+  "vndb_url": "https://vndb.org/v68363"
+}

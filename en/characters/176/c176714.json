@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176714",
+  "type": "character",
+  "name": "Isabella",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Personal Assistant\n\nLikes: Late-night reading, soft music in dim rooms, long beach walks, quiet intimacy\n\nDislikes: Crowded places, loud personalities, betrayal, shallow connections",
+  "source_sha256": "86b89ae59e8efa79c802a1d98db595c640283f1ee941fdc8b9f2ef47687f12f8",
+  "translation": "Occupation: Personal Assistant\n\nLikes: Late-night reading, soft music in dim rooms, long beach walks, quiet intimacy\n\nDislikes: Crowded places, loud personalities, betrayal, shallow connections",
+  "vndb_url": "https://vndb.org/c176714"
+}

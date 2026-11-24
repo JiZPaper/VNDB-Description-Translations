@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68020",
+  "type": "visual_novel",
+  "name": "5 Minute Morning",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A morning camping in Unova with Dawn. A short sequel to [url=/v31788]A New Dawn[/url].",
+  "source_sha256": "d8c3df8a36d8d9c992ebf472a08528447e82b4fb11a2ab67285a5761648cac7f",
+  "translation": "A morning camping in Unova with Dawn. A short sequel to [url=/v31788]A New Dawn[/url].",
+  "vndb_url": "https://vndb.org/v68020"
+}

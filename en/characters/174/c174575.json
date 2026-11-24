@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174575",
+  "type": "character",
+  "name": "Sola",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Karder and Gaal's daughter.",
+  "source_sha256": "59507c2c1790dc727cd344cd3d2493307769c0f56a316255faf8dd484c77c223",
+  "translation": "Karder and Gaal's daughter.",
+  "vndb_url": "https://vndb.org/c174575"
+}

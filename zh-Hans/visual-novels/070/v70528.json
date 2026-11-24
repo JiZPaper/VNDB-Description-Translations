@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70528",
+  "type": "visual_novel",
+  "name": "Jesus Christ and The Holy Bible",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "At the moment there's just one chapter: Joseph as the game jam's theme is Forgiveness.\n\nMore chapters to come later",
+  "source_sha256": "345e24e65cb9647476b44e05c1b58af370dc0f3e9f397034a6e5c2b10373c672",
+  "translation": "目前仅包含一个章节：围绕本次游戏创作大赛主题“宽恕”编写的《约瑟篇》。\n\n更多章节将于日后陆续推出。",
+  "vndb_url": "https://vndb.org/v70528"
+}

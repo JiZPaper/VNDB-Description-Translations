@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179808",
+  "type": "character",
+  "name": "Josh Paramore",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is lead singer of the band Iron Vortex.",
+  "source_sha256": "f74db2b2d76abfa826400cb7d3c354defde70f70d117c1bfd858e2bef5313d97",
+  "translation": "He is lead singer of the band Iron Vortex.",
+  "vndb_url": "https://vndb.org/c179808"
+}

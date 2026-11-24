@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177327",
+  "type": "character",
+  "name": "Gorodnichiy",
+  "original_name": "Городничий",
+  "language": "en",
+  "source_language": "en",
+  "source": "The town's governor.",
+  "source_sha256": "08c5f363735613ee7cd018798bf5742405607b912e4562c16d8c17b73fd1ef73",
+  "translation": "The town's governor.",
+  "vndb_url": "https://vndb.org/c177327"
+}

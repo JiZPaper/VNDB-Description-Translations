@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179123",
+  "type": "character",
+  "name": "Andrea Turner",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is [url=/c179121]Madelyne Turner[/url]'s daughter.\nShe is [url=/c179120]David[/url]'s ex-girlfriend.\nShe is [url=/c179124]Yoshi[/url]'s girlfriend.",
+  "source_sha256": "864e16fc6bd1bd0d004d12f79be1c658e62be61348c2a0526a1ef48b06859c5a",
+  "translation": "She is [url=/c179121]Madelyne Turner[/url]'s daughter.\nShe is [url=/c179120]David[/url]'s ex-girlfriend.\nShe is [url=/c179124]Yoshi[/url]'s girlfriend.",
+  "vndb_url": "https://vndb.org/c179123"
+}

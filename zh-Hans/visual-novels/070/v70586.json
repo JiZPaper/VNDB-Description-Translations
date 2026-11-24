@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70586",
+  "type": "visual_novel",
+  "name": "execute>loop",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A strange interface boots up by accident on your computer.  An odd, distant internet man is transferred into your hands in an early-internet , bizzare imitation of an otome game.  And he wants your help. In fact, he claims his life is in your hands.\n\nBe his caretaker in this vivid, existential narrative, narrated by the mysterious command-line entity, Seraph.",
+  "source_sha256": "7c7d1a356a013adcbcffa9c8595661981be4cf8df2315934a339a9c272ee0f8e",
+  "translation": "一个古怪的界面意外在你的电脑上启动。在一款带有早期互联网气息、怪诞模仿乙女游戏的程序里，一个言行奇特、疏离遥远的网友被交到了你的手中。他向你寻求帮助，甚至声称自己的性命就攥在你的手里。\n\n在神秘命令行实体“炽天使”的旁白引导下，在这段鲜活而充满存在主义色彩的叙事中，成为他的照看者吧。",
+  "vndb_url": "https://vndb.org/v70586"
+}

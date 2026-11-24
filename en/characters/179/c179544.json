@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179544",
+  "type": "character",
+  "name": "Dr. Vixia Ember",
+  "original_name": "ดร. วิกเซีย เอ็มเบอร์",
+  "language": "en",
+  "source_language": "en",
+  "source": "Biochemist at Providence Hospital tasked with analyzing the classified chemical residue samples from the 'Project PureNexus' wastewater treatment system.",
+  "source_sha256": "7b48baba42cf233de541e98d9e7a173bb28b7549b244117fc8539e1ec532c1ab",
+  "translation": "Biochemist at Providence Hospital tasked with analyzing the classified chemical residue samples from the 'Project PureNexus' wastewater treatment system.",
+  "vndb_url": "https://vndb.org/c179544"
+}

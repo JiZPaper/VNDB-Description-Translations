@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70642",
+  "type": "visual_novel",
+  "name": "The Third Account",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Forensic accountant Nell Voss receives a key from a man officially dead before he could have sent it. It opens a municipal archive whose two sets of books are both perfect—and both omit the same living witness.\n\nNell's investigation crosses print workers, clinic staff, night operators, and families whose safety depends on records remaining incomplete. The player examines evidence, proves contradictions during interviews, assigns custody of dangerous material, and chooses how truth may travel without treating people as disposable links in a chain. Conduct across the case derives one of four investigative routes and gates twelve endings.",
+  "source_sha256": "ff9417dbdcd7db2a729b3d2780bb9d5df17379d58b6051f911a38d3d956d607c",
+  "translation": "法务会计师内尔·沃斯收到了一把钥匙，寄件人在官方记录中早在寄出钥匙之前便已身亡。这把钥匙打开了一座市政档案馆，馆内的两套账本皆无懈可击——却又不约而同地抹去了同一名在世目击者的存在。\n\n内尔的调查横跨印刷工人、诊所职员、夜班接线员，以及那些唯有依靠档案残缺不全才能保全自身安危的家庭。玩家需要查验证物、在问询中指证前后矛盾之处、决定危险材料的保管归属，并在不把他人当作链条上可随意牺牲的棋子的前提下，抉择真相应当以何种方式传递。办案过程中的行事作风将导向四条不同的调查路线，并决定十二种结局的开启。",
+  "vndb_url": "https://vndb.org/v70642"
+}

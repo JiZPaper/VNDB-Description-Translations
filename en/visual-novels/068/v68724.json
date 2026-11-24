@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68724",
+  "type": "visual_novel",
+  "name": "Gorod",
+  "original_name": "Город",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist receives an unexpected call about an inheritance and travels to a distant, isolated town. Instead of a peaceful transition of ownership, he encounters a place inhabited by strange people with frightening customs. Will you make it out the same, or will this town consume you entirely?",
+  "source_sha256": "b9b4fe4e4d76fc3683e89881cc083f921c0547887d53851896ff7316e2dbaf31",
+  "translation": "The protagonist receives an unexpected call about an inheritance and travels to a distant, isolated town. Instead of a peaceful transition of ownership, he encounters a place inhabited by strange people with frightening customs. Will you make it out the same, or will this town consume you entirely?",
+  "vndb_url": "https://vndb.org/v68724"
+}

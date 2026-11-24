@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176728",
+  "type": "character",
+  "name": "Linda Brown",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Manager\n\nLikes: High stakes, control, expensive wine, winning at any cost\n\nDislikes: Weakness, disobedience, losing leverage",
+  "source_sha256": "3206fadb7cde42769ff126f6faa67a25ae2867beb535bdc2cc5959e8cc88fd8b",
+  "translation": "Occupation: Manager\n\nLikes: High stakes, control, expensive wine, winning at any cost\n\nDislikes: Weakness, disobedience, losing leverage",
+  "vndb_url": "https://vndb.org/c176728"
+}

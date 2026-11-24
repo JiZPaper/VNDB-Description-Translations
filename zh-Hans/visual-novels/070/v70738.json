@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70738",
+  "type": "visual_novel",
+  "name": "Chay s tortom",
+  "original_name": "Чай с тортом",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short, heartwarming story about Semyon and Alisa reuniting after camp.\n\n[Translated from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=564620566]Steam[/url]]",
+  "source_sha256": "aca2c6316282e0031d8f9194996b8558f665d16e1fb3c5e806145bdce0fc4e3d",
+  "translation": "一个关于谢苗与阿丽莎在夏令营结束后重逢的温馨短篇故事。\n\n[译自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=564620566]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v70738"
+}

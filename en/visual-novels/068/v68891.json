@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68891",
+  "type": "visual_novel",
+  "name": "Summer Falls",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young man comes back to his home town after years away. He’ll meet new people and old acquaintances, and find romance and passion if he wants it as he builds a new life.",
+  "source_sha256": "d78bc744eb7d2fbe1719d616128520b1a0e26a90304f29ed7d3ebbb4498d6c3f",
+  "translation": "A young man comes back to his home town after years away. He’ll meet new people and old acquaintances, and find romance and passion if he wants it as he builds a new life.",
+  "vndb_url": "https://vndb.org/v68891"
+}

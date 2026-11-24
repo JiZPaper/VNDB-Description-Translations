@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174637",
+  "type": "character",
+  "name": "Yuki",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A slave in hawatia.",
+  "source_sha256": "5eabd55745de6c7efad8a05237ee9a173b69578e9ace30e2297d048a3f992f94",
+  "translation": "A slave in hawatia.",
+  "vndb_url": "https://vndb.org/c174637"
+}

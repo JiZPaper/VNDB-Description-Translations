@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c95756",
+  "type": "character",
+  "name": "Tregor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Imperial Executor of the 8th Legion in Yalen.",
+  "source_sha256": "8532f0cc8f68f8a126489aa17fe4cf312cc07e9e51eecb092421356a33f070c0",
+  "translation": "Imperial Executor of the 8th Legion in Yalen.",
+  "vndb_url": "https://vndb.org/c95756"
+}

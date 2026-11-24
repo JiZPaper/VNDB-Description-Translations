@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179445",
+  "type": "character",
+  "name": "Amanda Welch",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is a music reporter at Elita Magazine.",
+  "source_sha256": "9ad01c874a2080b72a8913e2d018d3089dde49d6b85d4b591b2c07273db6f9f4",
+  "translation": "She is a music reporter at Elita Magazine.",
+  "vndb_url": "https://vndb.org/c179445"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179058",
+  "type": "character",
+  "name": "Red Christoph",
+  "original_name": "Червоний Криштоф",
+  "language": "en",
+  "source_language": "en",
+  "source": "A knight sitting near the fireside.",
+  "source_sha256": "ec5dacec1a4fb3ee1ed3a506a25b376e75fba3e5c5a5005c72b975b07750f84d",
+  "translation": "A knight sitting near the fireside.",
+  "vndb_url": "https://vndb.org/c179058"
+}

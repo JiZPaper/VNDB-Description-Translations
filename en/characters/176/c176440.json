@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176440",
+  "type": "character",
+  "name": "April",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Mage who opened up a magic shop after retiring as an adventurer.",
+  "source_sha256": "d5c0971d6b2e460398cb919c9589d31c41333d493a12046ffc05d146068a84cf",
+  "translation": "Mage who opened up a magic shop after retiring as an adventurer.",
+  "vndb_url": "https://vndb.org/c176440"
+}

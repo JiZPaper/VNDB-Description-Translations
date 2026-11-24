@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176931",
+  "type": "character",
+  "name": "Tommy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The director of the orphanage.",
+  "source_sha256": "58ef2e4285e7aa8244fa5148796a305f550ea463e32fe36e68853b3a440954d6",
+  "translation": "The director of the orphanage.",
+  "vndb_url": "https://vndb.org/c176931"
+}

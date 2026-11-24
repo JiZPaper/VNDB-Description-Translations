@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69655",
+  "type": "visual_novel",
+  "name": "DeepSeek Lanse Da Fei Yu",
+  "original_name": "DeepSeek 蓝色大肥鱼",
+  "language": "en",
+  "source_language": "en",
+  "source": "A short fan-made game centered around an AI named DeepSeek. The story follows an AI residing on your computer who unexpectedly crosses over into the real world and comes to find you. From there, the two of you begin a happy life together.",
+  "source_sha256": "4dae85baae653efaf87f953181db4addc949c718e5ff43beeb3b62c537b6e4e5",
+  "translation": "A short fan-made game centered around an AI named DeepSeek. The story follows an AI residing on your computer who unexpectedly crosses over into the real world and comes to find you. From there, the two of you begin a happy life together.",
+  "vndb_url": "https://vndb.org/v69655"
+}

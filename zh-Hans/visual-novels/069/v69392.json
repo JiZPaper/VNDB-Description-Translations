@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69392",
+  "type": "visual_novel",
+  "name": "Pain Siphon",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A psychological horror kinetic visual novel about a magical healer who can absorb and process human suffering told from the point of view of his proxy and caretaker.\n\n[From [url=https://priro.itch.io/pain-siphon]itch.io[/url]]",
+  "source_sha256": "d0deeff7d9620bc6ef381ee939a10747112e52757d61ad6dc5cc6e548b7f862b",
+  "translation": "一部心理恐怖单线视觉小说，从代理者兼照料者的视角出发，讲述一位能够吸收并化解人类苦痛的魔法治疗师的故事。\n\n[摘自[url=https://priro.itch.io/pain-siphon]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v69392"
+}

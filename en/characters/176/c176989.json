@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176989",
+  "type": "character",
+  "name": "Ying",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Manager of the Casino.",
+  "source_sha256": "fe22a5f3d9f1c2d48eb2e022fd2cdee6b7eede788b08999a3519b205a86336cd",
+  "translation": "Manager of the Casino.",
+  "vndb_url": "https://vndb.org/c176989"
+}

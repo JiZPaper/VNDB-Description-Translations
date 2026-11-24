@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172606",
+  "type": "character",
+  "name": "Receptionist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Receptionist at the Keaton branch of the Hulton Hotel.",
+  "source_sha256": "d081d36c430fd72e1eeae186090b431a125f4cf77fb21fcf88a944fc3654680b",
+  "translation": "Receptionist at the Keaton branch of the Hulton Hotel.",
+  "vndb_url": "https://vndb.org/c172606"
+}

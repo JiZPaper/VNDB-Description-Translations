@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c175163",
+  "type": "character",
+  "name": "Kumagaya",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Famous martial artist athlete participating at the National Sports Tournament.",
+  "source_sha256": "cddd520dc0ece635dc1946fe687fa7c16b74ac1bb4b8b34c64549959fac4075d",
+  "translation": "Famous martial artist athlete participating at the National Sports Tournament.",
+  "vndb_url": "https://vndb.org/c175163"
+}

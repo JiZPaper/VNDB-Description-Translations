@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70077",
+  "type": "visual_novel",
+  "name": "White Valentine",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Galgame of White Day for GGZ",
+  "source_sha256": "3f0505129953d799bdf3bd370a49990fab18cbff43c95c24b6a5c93f4ac26403",
+  "translation": "Galgame of White Day for GGZ",
+  "vndb_url": "https://vndb.org/v70077"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70378",
+  "type": "visual_novel",
+  "name": "Carborend",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Carborend is a visual novel, a story based videogame set in a future when the 6th Ice Age and an energy crysis force humanity to heavy compromises. In the background an overthrow and a legend of an ancient civilization.",
+  "source_sha256": "b5d86ff828f3ef28ccdfc7f36dd01917980747108a78c68ab143b33dc5401895",
+  "translation": "《碳尽纪元》是一部剧情驱动的视觉小说游戏，故事设定在第六次冰河期与能源危机迫使人类做出沉重妥协的未来世界，幕后则交织着政权颠覆的暗流与远古文明的传说。",
+  "vndb_url": "https://vndb.org/v70378"
+}

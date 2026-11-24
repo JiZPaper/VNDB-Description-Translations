@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69380",
+  "type": "visual_novel",
+  "name": "Morpho Reverie",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Morpho Reverie is set in the year 2040. During a music audition, contestant Keeva suddenly vanishes—replaced by an AI replica known as Keeva-α. As Rein, the protagonist, you must compose music for the other contestants to help them defeat their own AI replicas, all while searching for the truth behind Keeva's disappearance.\n\n[Taken from Steam]",
+  "source_sha256": "3eca3a28666045ef645e5702ac2b03182bead88e9feea7cd74ddfed4cf157e78",
+  "translation": "《Morpho Reverie》的故事设定在2040年。在一场音乐选拔赛期间，参赛选手希羽突然离奇失踪——取而代之的是一名被称为“希羽-α”的AI复制体。身为男主角黎音，你必须为其他参赛选手谱写乐曲，协助他们击败各自的AI复制体，同时追查希羽失踪背后的真相。\n\n[摘自Steam]",
+  "vndb_url": "https://vndb.org/v69380"
+}

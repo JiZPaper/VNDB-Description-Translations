@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68000",
+  "type": "visual_novel",
+  "name": "SCP-069-J: The Sisters of Cheyenne Point",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "\"The sisters of Cheyenne Point\" (by Superstar Catalyst Project) is a school adventure dating simulation game based on \"SCP-069-J - Sisters of Cheyenne Point\" by \"Aelanna\". You play as a male student who have just moved to a new school called Cheyenne Point Academy.",
+  "source_sha256": "27bf8ce2e679122d687cabc15a44644e6b823be9ba6e6f5bdb92a97b943f86db",
+  "translation": "由Superstar Catalyst Project开发的《夏安点的姐妹们》，是一款改编自Aelanna创作的《SCP-069-J——夏安点的姐妹们》的校园恋爱模拟冒险游戏。你将扮演一名刚刚转学来到新学校“夏安点学园”的男生。",
+  "vndb_url": "https://vndb.org/v68000"
+}

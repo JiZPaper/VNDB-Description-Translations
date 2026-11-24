@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69925",
+  "type": "visual_novel",
+  "name": "The Judas Girls",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A harrowing story of imprisonment and self-sacrifice featuring four women condemned to prison for their gender.",
+  "source_sha256": "f3fed08a40fe76aceda0bbf730c66ad40f2f0a81ab112fcd4719cfc1ef38ca1d",
+  "translation": "一部令人揪心的囚禁与自我牺牲物语，聚焦于四名仅因自身性别便被判入狱的女性。",
+  "vndb_url": "https://vndb.org/v69925"
+}

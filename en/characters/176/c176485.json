@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176485",
+  "type": "character",
+  "name": "Mercedes",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Queen of elves.",
+  "source_sha256": "ba117463d28bbf561cdab42b13ec17e28f5289df75522d43858522b337d2c152",
+  "translation": "Queen of elves.",
+  "vndb_url": "https://vndb.org/c176485"
+}

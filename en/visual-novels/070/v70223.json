@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70223",
+  "type": "visual_novel",
+  "name": "Chance Encounter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Max is young adventurer heading out to conquer dungeons, get loot and do stuff. Along his adventures he will find friends, foes and a whole lot of weird magical crap that makes his days more interesting.",
+  "source_sha256": "1735cdfc59bc7306f1df59405cfe8b44faaa107ea010134fc7d04c9e6ea25c38",
+  "translation": "Max is young adventurer heading out to conquer dungeons, get loot and do stuff. Along his adventures he will find friends, foes and a whole lot of weird magical crap that makes his days more interesting.",
+  "vndb_url": "https://vndb.org/v70223"
+}

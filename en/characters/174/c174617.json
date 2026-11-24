@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174617",
+  "type": "character",
+  "name": "Olgrid",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A sailor with a terrible temper. She hates Ilga.",
+  "source_sha256": "f25504a8d803ae027cb7480f92ab09275f044bc274b872f14c26fa1ad579e564",
+  "translation": "A sailor with a terrible temper. She hates Ilga.",
+  "vndb_url": "https://vndb.org/c174617"
+}

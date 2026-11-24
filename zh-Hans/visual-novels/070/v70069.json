@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70069",
+  "type": "visual_novel",
+  "name": "Pussy Kingdom: Queen of Passion",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Embark on a magical adventure where you will have to unite all the kingdoms and save the world from evil.",
+  "source_sha256": "6a4c011da690aad3809ce543aaa00cb15783c0c2037f0f55d47cb9ea71d54204",
+  "translation": "踏上一场奇幻的魔法冒险，你将统合所有王国，从邪恶势力手中拯救世界。",
+  "vndb_url": "https://vndb.org/v70069"
+}

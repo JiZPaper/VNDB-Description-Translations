@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172726",
+  "type": "character",
+  "name": "Clair Wood",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Hospital's Doctor.",
+  "source_sha256": "0d5c60a938798b46c088b1b9f91a0ed46b84b7e63023b3a1bb88e343a62dedcf",
+  "translation": "Hospital's Doctor.",
+  "vndb_url": "https://vndb.org/c172726"
+}

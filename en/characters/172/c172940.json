@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172940",
+  "type": "character",
+  "name": "Ben",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Violet's Stand-in.",
+  "source_sha256": "c02ba9ba9b17ae7c891e3d75f6b7bbbf93cd0cd24c6b35698ec0787d603a343f",
+  "translation": "Violet's Stand-in.",
+  "vndb_url": "https://vndb.org/c172940"
+}

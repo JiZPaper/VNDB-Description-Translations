@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69494",
+  "type": "visual_novel",
+  "name": "The Seamstress",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "In, The Seamstress, you play Nicko (default name) who leads a double life as a young undercover Red Sun agent on Ivory Island.",
+  "source_sha256": "f21c05cf10c7a3064a4967e10eeb2f8c634cebfb7065c900aeb1eeef156acd6f",
+  "translation": "In, The Seamstress, you play Nicko (default name) who leads a double life as a young undercover Red Sun agent on Ivory Island.",
+  "vndb_url": "https://vndb.org/v69494"
+}

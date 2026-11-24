@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "v62115",
   "type": "visual_novel",
-  "name": "Zajchik: Istorija Kati",
-  "original_name": "Зайчик: История Кати",
+  "name": "Zajchik: Poka ty ryadom",
+  "original_name": "Зайчик: Пока ты рядом",
   "language": "en",
   "source_language": "en",
-  "source": "Here, the story unfolds from Smirnova's perspective. Immerse yourself in an atmosphere of lost serenity and the struggle to adapt to a new reality, alongside the Grade 6-B Class President.\n\nWhich path will you guide the heroine down? Featuring an original plot and a detailed story of the making of the most popular girl in class.",
-  "source_sha256": "dabf16d35fd080284a7688975d8b4bc6579b1d9b1fac081c63d9ad0749c05991",
-  "translation": "Here, the story unfolds from Smirnova's perspective. Immerse yourself in an atmosphere of lost serenity and the struggle to adapt to a new reality, alongside the Grade 6-B Class President.\n\nWhich path will you guide the heroine down? Featuring an original plot and a detailed story of the making of the most popular girl in class.",
+  "source": "It's easy to lose track in the snow, but impossible to hide the truth.\nThis is the story of Katya and Polina, where a warm friendship gradually intertwines with secrets best left undisclosed.\n\nExperience this story from Ekaterina Smirnova's perspective.\nIs all well and good in this warm friendship?\n\n[From [url=https://t.me/TinyBunnyKateHistory/93]Telegram[/url]]",
+  "source_sha256": "cb08cb3fa24c17e7519a387ea6f5637b680749ed48ad675ea535bc555a87a0cc",
+  "translation": "It's easy to lose track in the snow, but impossible to hide the truth.\nThis is the story of Katya and Polina, where a warm friendship gradually intertwines with secrets best left undisclosed.\n\nExperience this story from Ekaterina Smirnova's perspective.\nIs all well and good in this warm friendship?\n\n[From [url=https://t.me/TinyBunnyKateHistory/93]Telegram[/url]]",
   "vndb_url": "https://vndb.org/v62115"
 }

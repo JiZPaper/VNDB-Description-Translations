@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c98408",
+  "type": "character",
+  "name": "Shinmai taiin",
+  "original_name": "新米隊員",
+  "language": "en",
+  "source_language": "en",
+  "source": "The newest member of HOTFIX",
+  "source_sha256": "6a917001aa8b581e3a823ec9b4a165b0cc9d73398e982116de48b2ef32bcf4c0",
+  "translation": "The newest member of HOTFIX",
+  "vndb_url": "https://vndb.org/c98408"
+}

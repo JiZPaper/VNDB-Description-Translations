@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70286",
+  "type": "visual_novel",
+  "name": "Taoli Yongmingdao",
+  "original_name": "逃离永明岛",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Escape Everlit is a narrative-driven sci-fi mystery and visual novel developed and published by lantao studio.\n• Premise: Set in China in the year 2042, the story follows four protagonists who find themselves trapped on a remote island mansion. You switch between the characters to explore their environments and investigate each other's dreams across a multi-perspective narrative.",
+  "source_sha256": "06e5dfbcb19f37e8c430dbba8d16e122eb56c366ff69e6bad960103ada6cf92b",
+  "translation": "《逃离永明岛》是由蓝桃游戏独立开发并发行的剧情向科幻悬疑视觉小说。\n•故事梗概：背景设定在2042年的中国，四位主角醒来后发现自己被困在一座偏远荒岛的宅邸之中。你将采用多视角叙事在四名角色之间切换操控，探索各自所处的环境，并深入调查彼此的梦境。",
+  "vndb_url": "https://vndb.org/v70286"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176782",
+  "type": "character",
+  "name": "Olivia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Part-Time Café Barista\n\nLikes: Deep conversations, subtle flirting, late-night music\n\nDislikes: Being underestimated, public embarrassment, losing emotional control",
+  "source_sha256": "88d9805bd9acd98100bcb84c90f91364cf47a7a425c6fbc889acbbb3674178d3",
+  "translation": "Occupation: Part-Time Café Barista\n\nLikes: Deep conversations, subtle flirting, late-night music\n\nDislikes: Being underestimated, public embarrassment, losing emotional control",
+  "vndb_url": "https://vndb.org/c176782"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67333",
+  "type": "visual_novel",
+  "name": "5 Minutes to Confess",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You only have 5 minutes to confess before the world ends. What will you say?\n\n[From [url=https://meanyuu.itch.io/5mtc]itch.io[/url]]",
+  "source_sha256": "52e607561c6fdf3408965f3436469b93e020bbbb16901a40bc1f683d345ac24b",
+  "translation": "You only have 5 minutes to confess before the world ends. What will you say?\n\n[From [url=https://meanyuu.itch.io/5mtc]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v67333"
+}

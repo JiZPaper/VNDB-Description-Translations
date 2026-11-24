@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176708",
+  "type": "character",
+  "name": "Brenda",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: FBI Special Agent\n\nLikes: Interrogations, psychological games, men who stay composed under pressure\n\nDislikes: Liars, sloppy criminals, emotional weakness, losing control of the situation",
+  "source_sha256": "688327219ab6084a5bd95c8b0587eade4cc55a015d0f0d4ee68af33e2e8d8239",
+  "translation": "Occupation: FBI Special Agent\n\nLikes: Interrogations, psychological games, men who stay composed under pressure\n\nDislikes: Liars, sloppy criminals, emotional weakness, losing control of the situation",
+  "vndb_url": "https://vndb.org/c176708"
+}

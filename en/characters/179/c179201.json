@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179201",
+  "type": "character",
+  "name": "Janus",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Janus is the handsome stranger that you meet in your holding cell. Is he full of secrets? You're about to find out.",
+  "source_sha256": "431678e895752760ae498056f38559eaa1eff2c3bb80438be82b426776164642",
+  "translation": "Janus is the handsome stranger that you meet in your holding cell. Is he full of secrets? You're about to find out.",
+  "vndb_url": "https://vndb.org/c179201"
+}

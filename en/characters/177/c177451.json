@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177451",
+  "type": "character",
+  "name": "Edward",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The alchemy teacher.",
+  "source_sha256": "cadbe4aed982577363572dd9e5dc26c5d9160d7c382d2c31cfa5f97232178efd",
+  "translation": "The alchemy teacher.",
+  "vndb_url": "https://vndb.org/c177451"
+}

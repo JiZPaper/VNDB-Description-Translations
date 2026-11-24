@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c175374",
+  "type": "character",
+  "name": "Se-a",
+  "original_name": "세아",
+  "language": "en",
+  "source_language": "en",
+  "source": "Motif: flamingo",
+  "source_sha256": "2ff28cf22c1392b0f934b14c30deea9eaa7cbb95825080fedbbc7c338059bb9f",
+  "translation": "Motif: flamingo",
+  "vndb_url": "https://vndb.org/c175374"
+}

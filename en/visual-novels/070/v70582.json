@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70582",
+  "type": "visual_novel",
+  "name": "Kyouhaku ~Owaranai Ashita~ Jisshaban",
+  "original_name": "脅迫 ～終わらない明日～ 実写版",
+  "language": "en",
+  "source_language": "en",
+  "source": "Alternative version of Kyouhaku with real life photos.",
+  "source_sha256": "8d9d4d7604382c551b6dce2df0f1311a5c3ee48a556d1bb3d7b6d54ff5fa83fc",
+  "translation": "Alternative version of Kyouhaku with real life photos.",
+  "vndb_url": "https://vndb.org/v70582"
+}

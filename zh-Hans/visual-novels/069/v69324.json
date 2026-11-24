@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69324",
+  "type": "visual_novel",
+  "name": "Summer Pockets Sunnyside Stories",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Collection of 16 Summer Pockets side stories, 15 adapted from previous material, and 1 entirely new one.",
+  "source_sha256": "9f27353edd9bde935c5157efbf02568cae93dbef17fa0779990f3c346f2932e9",
+  "translation": "收录了16篇《Summer Pockets》外传短篇故事的合集，其中15篇改编自既有衍生作品，另有1篇为全新创作的故事。",
+  "vndb_url": "https://vndb.org/v69324"
+}

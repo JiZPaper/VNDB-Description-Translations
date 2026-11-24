@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c175615",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist of Botan-hen.\nHe is the older brother of [url=/c142832]Shindou Kajitsu[/url] and [url=/c142822]Shindou Botan[/url].",
+  "source_sha256": "5551715eab910d5301f12c6b05691818b3be1012ecfc50fa148d20db097b7942",
+  "translation": "Protagonist of Botan-hen.\nHe is the older brother of [url=/c142832]Shindou Kajitsu[/url] and [url=/c142822]Shindou Botan[/url].",
+  "vndb_url": "https://vndb.org/c175615"
+}

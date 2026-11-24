@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179096",
+  "type": "character",
+  "name": "Ethan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A young survivor living in a bunker run by Dan, where he is treated as the errand boy and sent on supply runs and chores. He shares the bunker with Dan, Kelly and Jade. The player can change his name.",
+  "source_sha256": "d75ce65dc92f288e774182fd0100ae515449268fa5ded85d9ab52c00ed3f15d9",
+  "translation": "A young survivor living in a bunker run by Dan, where he is treated as the errand boy and sent on supply runs and chores. He shares the bunker with Dan, Kelly and Jade. The player can change his name.",
+  "vndb_url": "https://vndb.org/c179096"
+}

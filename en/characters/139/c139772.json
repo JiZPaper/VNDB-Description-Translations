@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "c139772",
   "type": "character",
-  "name": "Rich",
+  "name": "Richard Syles",
   "original_name": null,
   "language": "en",
   "source_language": "en",
-  "source": "Vice-president of the Alpha Nu Omega (preps) fraternity.",
-  "source_sha256": "46b70c579f90e6018dd56f38a5b2388698015b3cde47a799a2af36fabf53cc46",
-  "translation": "Vice-president of the Alpha Nu Omega (preps) fraternity.",
+  "source": "A Student at B&R and current vice-president of the Alpha Nu Omega (preps) fraternity.",
+  "source_sha256": "488e644258aad640b90534cb5607f295693203f264eda8652e3833f4c64bc493",
+  "translation": "A Student at B&R and current vice-president of the Alpha Nu Omega (preps) fraternity.",
   "vndb_url": "https://vndb.org/c139772"
 }

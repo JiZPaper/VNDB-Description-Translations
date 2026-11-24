@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179748",
+  "type": "character",
+  "name": "Virginie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is [url=/c179749]Ronald[/url]'s girlfriend.",
+  "source_sha256": "1df79b0effc9e694413a22afed67126a8327689c0522609949c9c7f253f182e8",
+  "translation": "She is [url=/c179749]Ronald[/url]'s girlfriend.",
+  "vndb_url": "https://vndb.org/c179748"
+}

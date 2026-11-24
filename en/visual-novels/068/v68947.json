@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68947",
+  "type": "visual_novel",
+  "name": "Aetherium",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Chapter 1 of Aetherium is an indie narrative-driven visual novel featuring a time-loop mystery, interactive mini-games, and choices that shape the journey. Developed solo for Android using Jetpack Compose.",
+  "source_sha256": "fd72708c405b063226b38a32a591bf5154996fe59ff87a1cc7d6f131039d8983",
+  "translation": "Chapter 1 of Aetherium is an indie narrative-driven visual novel featuring a time-loop mystery, interactive mini-games, and choices that shape the journey. Developed solo for Android using Jetpack Compose.",
+  "vndb_url": "https://vndb.org/v68947"
+}

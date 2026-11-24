@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179800",
+  "type": "character",
+  "name": "Paul",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is [url=/c179801]Gloria[/url]'s boyfriend.",
+  "source_sha256": "a08cd7edfb48c184df2f46bc614067983257bcdbd61dfe380c2aa0df46aff74f",
+  "translation": "He is [url=/c179801]Gloria[/url]'s boyfriend.",
+  "vndb_url": "https://vndb.org/c179800"
+}

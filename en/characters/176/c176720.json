@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176720",
+  "type": "character",
+  "name": "Karen Smith",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Corporate Strategist\n\nLikes: Control, silence, expensive whiskey, flawless execution, being underestimated\n\nDislikes: Weakness, emotional drama, unpredictability, losing leverage",
+  "source_sha256": "cc5c6e69419fa7a859109f852be7ca3de2b52eb62b4ca0dba5748c640ab717d2",
+  "translation": "Occupation: Corporate Strategist\n\nLikes: Control, silence, expensive whiskey, flawless execution, being underestimated\n\nDislikes: Weakness, emotional drama, unpredictability, losing leverage",
+  "vndb_url": "https://vndb.org/c176720"
+}

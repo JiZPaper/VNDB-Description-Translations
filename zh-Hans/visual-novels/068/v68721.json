@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68721",
+  "type": "visual_novel",
+  "name": "osu! Dating Simulator",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Have you ever felt a strong romantic connection to an osu! player? That's kinda weird, but that's fine, since you can now interact with them in this game.",
+  "source_sha256": "49884ea7fdb1dec0998e9a67c1cf01f60e9dd931ddb0ecc0d3797f71ce4e3b0e",
+  "translation": "你是否曾对某位《osu!》玩家产生过强烈的恋爱悸动？虽说这听起来有点怪怪的，但完全没关系——因为现在你可以在这款游戏里与他们亲密互动了。",
+  "vndb_url": "https://vndb.org/v68721"
+}

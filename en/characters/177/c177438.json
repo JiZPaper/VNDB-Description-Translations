@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177438",
+  "type": "character",
+  "name": "Clara",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A clown at the circus with big feelings.",
+  "source_sha256": "054cde773bd2317a12f6a47d43e07ce314782927a913f140d65eef3db0b5d101",
+  "translation": "A clown at the circus with big feelings.",
+  "vndb_url": "https://vndb.org/c177438"
+}

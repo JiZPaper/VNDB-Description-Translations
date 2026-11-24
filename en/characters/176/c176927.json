@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176927",
+  "type": "character",
+  "name": "Official",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of the politicians at the castle. A mysterious elf.",
+  "source_sha256": "cd3e65c6aa6f6c7f217f21bab13c95b5645503f15486fd543ef34340485f4895",
+  "translation": "One of the politicians at the castle. A mysterious elf.",
+  "vndb_url": "https://vndb.org/c176927"
+}

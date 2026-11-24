@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70979",
+  "type": "visual_novel",
+  "name": "The Obey",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "While trying to survive in a destitute world, you fall into slavery to the insidious Madame Madlen. Will you be able to break free or will you accept your fate? The choice is yours.",
+  "source_sha256": "a4f699e3b048ba4cb156c9679d4ca9c00f55cb129a6c71ea32a0033becaf47c6",
+  "translation": "While trying to survive in a destitute world, you fall into slavery to the insidious Madame Madlen. Will you be able to break free or will you accept your fate? The choice is yours.",
+  "vndb_url": "https://vndb.org/v70979"
+}

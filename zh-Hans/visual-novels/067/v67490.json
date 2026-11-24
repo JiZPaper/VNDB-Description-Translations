@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67490",
+  "type": "visual_novel",
+  "name": "Flak Duty",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "John is spending another quiet monthly shift inside ZUCH, an automated flak machine protecting a factory in rural New Zealand. The machine normally identifies and destroys incoming drones without human involvement. John is only there to supervise - until an unusual request forces him to make a decision the system will not forget.\n\n[From [url=https://store.steampowered.com/app/4976370/]Steam[/url]]",
+  "source_sha256": "51534c0a13ef80e1a4f57c94029b382ceb7816257a39faabe712c672744f4ae8",
+  "translation": "约翰正在新西兰乡间一座守护工厂的全自动防空高炮机甲“ZUCH”内部，度过又一个平静无波的月度值守班次。平日里，这台机器完全无需人工介入便能自动识别并击毁来袭的无人机，约翰待在里面原本只是例行监督——直到一则不同寻常的请求迫使他做出了一个整套系统都永生难忘的决断。\n\n[摘自[url=https://store.steampowered.com/app/4976370/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v67490"
+}

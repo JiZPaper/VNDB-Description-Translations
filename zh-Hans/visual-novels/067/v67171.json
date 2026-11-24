@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67171",
+  "type": "visual_novel",
+  "name": "Sentimental Graffiti 2 Alternative",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "DISC1 includes 12 episodes, each episode focuses on one heroine, depicting the path she takes with the \"boy of memories\" with whom she was united in the story of Sentimental Graffiti.\n\nDISC2, DISC3 and DISC4 include side stories.",
+  "source_sha256": "b9379ed884a4b378d4adedc75f75004ac62bf65082d25b9b216ea184365dabad",
+  "translation": "DISC1收录了12话剧情，每一话各自聚焦一位女主角，描绘她在《青涩宝贝》本篇故事中与“回忆中的少年”终成眷属后携手走过的人生旅途。\n\nDISC2、DISC3与DISC4则收录了丰富的番外短篇故事。",
+  "vndb_url": "https://vndb.org/v67171"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69036",
+  "type": "visual_novel",
+  "name": "I Looked Out",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Coax an unnamed narrator out of their shell as they reckon with their self image on a cable car ride.\n\n[itch.io]",
+  "source_sha256": "afed87062f8e7c6603bffd91926600a416741acc4a48d7349cae6a1d2037558c",
+  "translation": "在一趟缆车旅途中，引导一位无名叙述者敞开心扉，直面并审视自我形象。\n\n[摘自itch.io]",
+  "vndb_url": "https://vndb.org/v69036"
+}

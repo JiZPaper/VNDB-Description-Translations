@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70078",
+  "type": "visual_novel",
+  "name": "Festival of a Thousand Feathers",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Gun Girl Z 2021 Valentine's day event",
+  "source_sha256": "46eabcd8296c18c64a940f16c4f66e5199ee6365ecdda656e7bffe177b33549b",
+  "translation": "Gun Girl Z 2021 Valentine's day event",
+  "vndb_url": "https://vndb.org/v70078"
+}

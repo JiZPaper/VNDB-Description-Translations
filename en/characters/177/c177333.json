@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177333",
+  "type": "character",
+  "name": "Torgovets",
+  "original_name": "Торговец",
+  "language": "en",
+  "source_language": "en",
+  "source": "A trader in the town.",
+  "source_sha256": "f0bcfaecf2804960c07eee2958645b91fc59a458573c32b80de991bdfd1cd7fe",
+  "translation": "A trader in the town.",
+  "vndb_url": "https://vndb.org/c177333"
+}

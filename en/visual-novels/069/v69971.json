@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69971",
+  "type": "visual_novel",
+  "name": "Rel'sy",
+  "original_name": "Рельсы",
+  "language": "en",
+  "source_language": "en",
+  "source": "On The Rails is a kinetic visual novel in the genre of existential drama that will tell you the story of one small inner journey, beginning and ending in the Siberian winter",
+  "source_sha256": "5cf864db96cc985b0704d1ba8097446e6ec430947c356acac922d024f436c3f0",
+  "translation": "On The Rails is a kinetic visual novel in the genre of existential drama that will tell you the story of one small inner journey, beginning and ending in the Siberian winter",
+  "vndb_url": "https://vndb.org/v69971"
+}

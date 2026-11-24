@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179801",
+  "type": "character",
+  "name": "Gloria",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is [url=/c179795]Mirella Altman[/url]'s friend.\nShe is [url=/c179800]Paul[/url]'s girlfriend.",
+  "source_sha256": "869dad758ce16f783ba66e1cb7d709b28b35c525b1378f8b5b0e9d6af5711afd",
+  "translation": "She is [url=/c179795]Mirella Altman[/url]'s friend.\nShe is [url=/c179800]Paul[/url]'s girlfriend.",
+  "vndb_url": "https://vndb.org/c179801"
+}

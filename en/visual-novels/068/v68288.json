@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68288",
+  "type": "visual_novel",
+  "name": "In my new life",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Returning home after five years, Ryan was greeted by Alfred, his childhood friend, and their family.",
+  "source_sha256": "3e811b270480ababf77bbc013df46ad072792f5c1d2453640eac1e1cbaceec7d",
+  "translation": "Returning home after five years, Ryan was greeted by Alfred, his childhood friend, and their family.",
+  "vndb_url": "https://vndb.org/v68288"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69383",
+  "type": "visual_novel",
+  "name": "DUPLICITY",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short kinetic yuri visual novel made for TYVNJ2 where you talk to your ex wive's captive brain on an old terminal.",
+  "source_sha256": "357f276fa8d47aecef75c6fdb2a034ee74e9ee648ac37827d646e64e02111c6a",
+  "translation": "一部为TYVNJ2创作的短篇单线百合视觉小说：你将通过一台老旧终端机，与前妻被囚禁的大脑展开对话。",
+  "vndb_url": "https://vndb.org/v69383"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176715",
+  "type": "character",
+  "name": "Jade",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Investigative Journalist\n\nLikes: Fast deadlines, bold fashion, strong wine, heated debates, being the smartest in the room\n\nDislikes: Shopping malls, romantic clichés, losing control, being told no",
+  "source_sha256": "e0f143eb2f07c52bb111589576222e8fbb1ae1dfe9182a8afc4e64c6257a6d3d",
+  "translation": "Occupation: Investigative Journalist\n\nLikes: Fast deadlines, bold fashion, strong wine, heated debates, being the smartest in the room\n\nDislikes: Shopping malls, romantic clichés, losing control, being told no",
+  "vndb_url": "https://vndb.org/c176715"
+}

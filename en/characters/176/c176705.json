@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176705",
+  "type": "character",
+  "name": "Amy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Personal Assistant\n\nLikes: Soft lingerie in pastel tones, romance novels, red wine after long days, quiet affection\n\nDislikes: Office gossip, public embarrassment, loud confrontations, feeling incompetent",
+  "source_sha256": "965e7f8af2f9fadfb54eb2421285145b77908ec232fa2358a04956d967ca50c2",
+  "translation": "Occupation: Personal Assistant\n\nLikes: Soft lingerie in pastel tones, romance novels, red wine after long days, quiet affection\n\nDislikes: Office gossip, public embarrassment, loud confrontations, feeling incompetent",
+  "vndb_url": "https://vndb.org/c176705"
+}

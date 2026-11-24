@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172736",
+  "type": "character",
+  "name": "Brad Phelps",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jake's father.\nFaith's husband.",
+  "source_sha256": "b290883b0072a27a3244b41bd39b5bce63c014b6008b455f08d184df626fa648",
+  "translation": "Jake's father.\nFaith's husband.",
+  "vndb_url": "https://vndb.org/c172736"
+}

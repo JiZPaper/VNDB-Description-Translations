@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179127",
+  "type": "character",
+  "name": "Leonard Smithson",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is [url=/c179128]Elsa White[/url]'s fiancée.",
+  "source_sha256": "ada83e01c68443a90611658129784105850fe7462baee6c7cd85b044d8ea6f68",
+  "translation": "He is [url=/c179128]Elsa White[/url]'s fiancée.",
+  "vndb_url": "https://vndb.org/c179127"
+}

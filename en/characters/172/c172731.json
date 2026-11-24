@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172731",
+  "type": "character",
+  "name": "Jake Phelps",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Protagonist's friend.\nFaith's son.",
+  "source_sha256": "cbeb843d979cc284e033eb39803107eb6e4d68d1c6f9ab3e15120b2ca0f724a7",
+  "translation": "Protagonist's friend.\nFaith's son.",
+  "vndb_url": "https://vndb.org/c172731"
+}

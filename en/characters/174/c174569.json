@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174569",
+  "type": "character",
+  "name": "Zhilli",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A dwarf farmer who dreams of becoming a warrior.",
+  "source_sha256": "04c57442a6acfc81c0ca00607ed1018aa5c103c0a5af0b38dee51e952f8cdbf1",
+  "translation": "A dwarf farmer who dreams of becoming a warrior.",
+  "vndb_url": "https://vndb.org/c174569"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70983",
+  "type": "visual_novel",
+  "name": "Akvamarinovy Den",
+  "original_name": "Аквамариновый День",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A simple yet soulful walk with the pioneer girl Miku.\n\n[Translated from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3840801941]Steam[/url]]",
+  "source_sha256": "3fe2a9702ad6488e0c61243f6ce98e38d4f4ed17e3b298b6186f16ff74855fa8",
+  "translation": "与少先队少女未来并肩漫步的一段简单却温情脉脉的时光。\n\n[译自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3840801941]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v70983"
+}

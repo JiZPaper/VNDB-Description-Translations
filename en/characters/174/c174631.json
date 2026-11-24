@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174631",
+  "type": "character",
+  "name": "Neklald",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A centaur who is intrigued by the cult of Wakabia.",
+  "source_sha256": "ad70ce9c24d58d57bed140753328ddc98a4d718a1fbbc7797c492aaa1a8a04cc",
+  "translation": "A centaur who is intrigued by the cult of Wakabia.",
+  "vndb_url": "https://vndb.org/c174631"
+}

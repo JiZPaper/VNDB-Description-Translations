@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69599",
+  "type": "visual_novel",
+  "name": "Millennium Logic ~Purin o Nusunda Hannin wa Dareda~",
+  "original_name": "ミレニアムロジック　～プリンを盗んだ犯人は誰だ～",
+  "language": "en",
+  "source_language": "en",
+  "source": "A limited-time browser game, released on the website of the gacha game [i]Blue Archive[/i]. Players who finished the game received a code, which could be used in [i]Blue Archive[/i] to receive in-game rewards (only for Japanese server players).\n\nThis game features [i]Blue Archive[/i] characters. The player character, Sensei, is asked to playtest a new mystery game created by the Game Development Club. In it, the player searches rooms and questions characters, including Game Development Club members, to gather evidence and solve the case of the missing pudding.",
+  "source_sha256": "92fbb3c28fa1d51878903aac9222ebf3f820e3b3cf968144a1217dd1f1e80677",
+  "translation": "A limited-time browser game, released on the website of the gacha game [i]Blue Archive[/i]. Players who finished the game received a code, which could be used in [i]Blue Archive[/i] to receive in-game rewards (only for Japanese server players).\n\nThis game features [i]Blue Archive[/i] characters. The player character, Sensei, is asked to playtest a new mystery game created by the Game Development Club. In it, the player searches rooms and questions characters, including Game Development Club members, to gather evidence and solve the case of the missing pudding.",
+  "vndb_url": "https://vndb.org/v69599"
+}

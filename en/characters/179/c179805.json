@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179805",
+  "type": "character",
+  "name": "Giulia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is marketing manager of Achille Cloutier.\nShe is [url=/c179444]Helga[/url]'s friend.",
+  "source_sha256": "3b660d803695082e04599bfd6c3de75408535bcb9d9eb19d86cc0bbb6aa1250a",
+  "translation": "She is marketing manager of Achille Cloutier.\nShe is [url=/c179444]Helga[/url]'s friend.",
+  "vndb_url": "https://vndb.org/c179805"
+}

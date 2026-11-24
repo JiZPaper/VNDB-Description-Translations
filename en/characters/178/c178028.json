@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c178028",
+  "type": "character",
+  "name": "Mako",
+  "original_name": "マコ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of the beauty parlor \"Mako Salon.\" Having won the grand prize at a hairdressing contest, their technical skill is undeniable.",
+  "source_sha256": "018b5aa2283e8f72778a8b50776c07fee11695ebb31da75e52e07beda20d9032",
+  "translation": "The owner of the beauty parlor \"Mako Salon.\" Having won the grand prize at a hairdressing contest, their technical skill is undeniable.",
+  "vndb_url": "https://vndb.org/c178028"
+}

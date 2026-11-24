@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "c19279",
   "type": "character",
-  "name": "Ukitsu",
-  "original_name": "于吉",
+  "name": "U Kitsu",
+  "original_name": "于 吉",
   "language": "en",
   "source_language": "en",
-  "source": "He is [url=/c19278]Saji's[/url] partner. [spoiler]He is the one behind [url=/c219]Sousou's[/url] brainwashing and [url=/c19322]Shuuyu's[/url] betrayal so they can kill [url=/c204]Kazuto[/url].[/spoiler]",
-  "source_sha256": "7e28b3cbc37401765e4d5b9cc74b047396e0c6f6edc287dbb13f0ab0c03da29f",
-  "translation": "He is [url=/c19278]Saji's[/url] partner. [spoiler]He is the one behind [url=/c219]Sousou's[/url] brainwashing and [url=/c19322]Shuuyu's[/url] betrayal so they can kill [url=/c204]Kazuto[/url].[/spoiler]",
+  "source": "He is [url=/c19278]Sa Ji's[/url] partner. [spoiler]He is the one behind [url=/c219]Sou Sou's[/url] brainwashing and [url=/c19322]Shuu Yu's[/url] betrayal so they can kill [url=/c204]Kazuto[/url].[/spoiler]",
+  "source_sha256": "5551423c25a1933fd3d69e1fd08769cd61c47285bc8676a612df8e388dcb3a2c",
+  "translation": "He is [url=/c19278]Sa Ji's[/url] partner. [spoiler]He is the one behind [url=/c219]Sou Sou's[/url] brainwashing and [url=/c19322]Shuu Yu's[/url] betrayal so they can kill [url=/c204]Kazuto[/url].[/spoiler]",
   "vndb_url": "https://vndb.org/c19279"
 }

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70925",
+  "type": "visual_novel",
+  "name": "La Petite Mort",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Noriko wants to stalk a murderer. \n\n[From [url=https://dawgdungeon.itch.io/la-petite-mort]itch.io[/url]]",
+  "source_sha256": "ec856415b759a2018dfb3ef18b75a4fdd2200d34c95f06870ce79c95b341052d",
+  "translation": "典子想要跟踪一名杀人犯。\n\n[摘自[url=https://dawgdungeon.itch.io/la-petite-mort]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v70925"
+}

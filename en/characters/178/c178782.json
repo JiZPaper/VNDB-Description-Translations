@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c178782",
+  "type": "character",
+  "name": "Albedo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Simulated character from the world of \"Overlord.\"",
+  "source_sha256": "bcbfa9c864ad058ae1e5f32c6a7106bf33bff1a13f21ec11cb15036a487d7ccc",
+  "translation": "Simulated character from the world of \"Overlord.\"",
+  "vndb_url": "https://vndb.org/c178782"
+}

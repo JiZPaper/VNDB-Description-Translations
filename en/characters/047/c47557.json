@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c47557",
+  "type": "character",
+  "name": "Erin",
+  "original_name": "エリン",
+  "language": "en",
+  "source_language": "en",
+  "source": "A waitress who works at Café LAX.",
+  "source_sha256": "f5bfdb0e661549ced987e8100657627f7f813f2c40c56ae1ac43cc95f49ca8bd",
+  "translation": "A waitress who works at Café LAX.",
+  "vndb_url": "https://vndb.org/c47557"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176719",
+  "type": "character",
+  "name": "Judy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Former Executive Assistant\n\nLikes: Structure, order, intelligent conversation, quiet authority\n\nDislikes: Public humiliation, reckless decisions, chaos, being underestimated",
+  "source_sha256": "806485cda8702ec97d4d1e8886fd4ab7ce1c5501d59527471efe65163dde3cf2",
+  "translation": "Occupation: Former Executive Assistant\n\nLikes: Structure, order, intelligent conversation, quiet authority\n\nDislikes: Public humiliation, reckless decisions, chaos, being underestimated",
+  "vndb_url": "https://vndb.org/c176719"
+}

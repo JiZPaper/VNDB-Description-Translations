@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70115",
+  "type": "visual_novel",
+  "name": "Kishi Minarai to Muramusume",
+  "original_name": "騎士見習いと村娘",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A monochrome action RPG in the style of old-school games.\n\nWhen disaster suddenly strikes a mountain village, a squire and a village girl are caught up in a fight to survive. The player controls the squire, relying on his sword, items and stealth rather than brute force, while the girl follows on her own and responds only to simple commands (\"Come!\", \"Stop!\"). The player's actions and choices change the characters' fates, leading to several endings.\n\n[Translated from [url=https://www.dlsite.com/maniax/work/=/product_id/RJ01720376.html]DLsite[/url].]",
+  "source_sha256": "9ef0cefea17b872e66b788fb2924d97dedc8e4cc8ab5a8806b0242f5d04cd37d",
+  "translation": "一款致敬复古经典游戏风格的黑白动作RPG。\n\n当灾厄骤然降临山村，一名见习骑士与一名村姑被卷入了求生之战。玩家将操控见习骑士，不靠蛮力硬拼，而是善用佩剑、道具与潜行技巧突破难关；村姑则会自行跟在身后，仅对简单的指令（“过来！”、“停下！”）做出反应。玩家的行动与抉择将改变两人的命运，导向多种不同结局。\n\n[译自[url=https://www.dlsite.com/maniax/work/=/product_id/RJ01720376.html]DLsite[/url]]",
+  "vndb_url": "https://vndb.org/v70115"
+}

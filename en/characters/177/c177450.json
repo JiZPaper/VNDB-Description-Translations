@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177450",
+  "type": "character",
+  "name": "Sanki",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The cooking teacher and choreman employer.",
+  "source_sha256": "631650e68a122a3ba1f4832b0fb0d31b9d3341f3d93d798a20208885aa446283",
+  "translation": "The cooking teacher and choreman employer.",
+  "vndb_url": "https://vndb.org/c177450"
+}

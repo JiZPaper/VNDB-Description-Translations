@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68093",
+  "type": "visual_novel",
+  "name": "Nate Hand Gesture",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Nate Hand Gesture is a short psychological horror visual novel in which the protagonist is forced to play rock paper scissors with a human-consuming entity named Nate. Her mood influences the outcome of the game, while dialogue choices can lead to multiple endings. The current version contains one main route.",
+  "source_sha256": "43a3f52da71ce233d7acc5bb16421de155d58d8d3a8c7301e648ddeb00db0924",
+  "translation": "《内特猜拳》是一部短篇心理恐怖视觉小说，女主角被迫与名叫内特的食人实体进行石头剪刀布的对局。她的心情会左右对局的结果，而对话中的抉择则将导向多种不同结局。当前版本包含一条主线剧情。",
+  "vndb_url": "https://vndb.org/v68093"
+}

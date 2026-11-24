@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c178237",
+  "type": "character",
+  "name": "Gonchar",
+  "original_name": "Гончар",
+  "language": "en",
+  "source_language": "en",
+  "source": "A potter in the town.",
+  "source_sha256": "4da34a2a3051867316a412da35bdd37db1cdb858798256b8675ed9cc178dc88a",
+  "translation": "A potter in the town.",
+  "vndb_url": "https://vndb.org/c178237"
+}

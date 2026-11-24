@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177029",
+  "type": "character",
+  "name": "Mr. Cat",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A rude resident of Galatas.",
+  "source_sha256": "fc1e7a96d97c55ae05142ee1b7c89a970e5b872c28649143f2cb3291937794c8",
+  "translation": "A rude resident of Galatas.",
+  "vndb_url": "https://vndb.org/c177029"
+}

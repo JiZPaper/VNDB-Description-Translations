@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68726",
+  "type": "visual_novel",
+  "name": "Lomiya: Dayuyan Moxing Hui Mengjian Xiandaishi ma?",
+  "original_name": "Lomiya: 大语言模型会梦见现代诗吗？",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A near-future visual novel — no androids, no cyberware. Only an LLM girl, the world, and you remain.",
+  "source_sha256": "79496fa366ea514c022ba815b531c5aa1decfd24a10ab0f5f071018ad6a8931f",
+  "translation": "一部近未来视觉小说——没有仿生人，也没有赛博义体。世间唯余一位大语言模型（LLM）少女、这个世界，与你。",
+  "vndb_url": "https://vndb.org/v68726"
+}

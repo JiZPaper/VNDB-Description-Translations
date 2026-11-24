@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c173253",
+  "type": "character",
+  "name": "Astra",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Lives in a trailer park.",
+  "source_sha256": "c2f530d0b28c579ac044251a8c1591e4123dff2c398cf402e96d42b3383b05b8",
+  "translation": "Lives in a trailer park.",
+  "vndb_url": "https://vndb.org/c173253"
+}

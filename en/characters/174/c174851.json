@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174851",
+  "type": "character",
+  "name": "Player",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The player chooses whether she is dating Akihiro, Hiroshi, Tekumi, or Kenshi in the very beginning of the game.",
+  "source_sha256": "315af087f8545f9f6e3a3e33f373d60d918adfb2f614836829941064baf89fa4",
+  "translation": "The player chooses whether she is dating Akihiro, Hiroshi, Tekumi, or Kenshi in the very beginning of the game.",
+  "vndb_url": "https://vndb.org/c174851"
+}

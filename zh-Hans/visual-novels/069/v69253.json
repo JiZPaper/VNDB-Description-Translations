@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69253",
+  "type": "visual_novel",
+  "name": "Pad Thai",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short kinetic visual novel for the toxic yuri vn jam 2 with around 4.3k words (~40 minutes). Follow B in her everyday life and how she lives in modern-day America with mental illness and trauma.\n(taken from itch.io page)",
+  "source_sha256": "facb020d3b8a25ee8317dc1cc91a693d9f0dfde30f6fcd9fb39b37e82a967e89",
+  "translation": "一部为“Toxic Yuri VN Jam 2”创作的短篇单线视觉小说，全篇约4300词（流程约40分钟）。跟随B走入她的日常生活，看身负精神疾病与心理创伤的她如何在当代美国社会中挣扎生活。\n[摘自itch.io页面]",
+  "vndb_url": "https://vndb.org/v69253"
+}

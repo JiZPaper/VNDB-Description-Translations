@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68615",
+  "type": "visual_novel",
+  "name": "Between",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A story-driven visual novel set on a quiet coastal town, where fleeting connections, unspoken desires, and personal choices shape how every relationship unfolds.\n\n[From [url=https://store.steampowered.com/app/4340940/Between/]Steam[/url]]",
+  "source_sha256": "6aa0dbf8d12443f4beed3daa0227dbf6d969ee83068a4bf0fcc4420fd2aa33a0",
+  "translation": "一部设定在宁静海滨小镇的剧情驱动型视觉小说——短暂的交集、未言的渴望与每一次个人抉择，都将塑造每一段关系的最终走向。\n\n[摘自[url=https://store.steampowered.com/app/4340940/Between/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v68615"
+}

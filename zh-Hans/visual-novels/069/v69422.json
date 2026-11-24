@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69422",
+  "type": "visual_novel",
+  "name": "Sticker Skin",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A horror visual novel where you are a victim(s) that get kidnapped by someone looking to harvest your skin.",
+  "source_sha256": "26dd9cab0bba04ca445eafea8718e311a9e68e524b169c53da039b8785594713",
+  "translation": "一部恐怖视觉小说，你将扮演被企图剥取人皮的狂徒绑架的受害者。",
+  "vndb_url": "https://vndb.org/v69422"
+}

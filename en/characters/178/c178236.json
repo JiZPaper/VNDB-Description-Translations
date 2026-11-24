@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c178236",
+  "type": "character",
+  "name": "Scarlett",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is an Urologist at the Santa Aurora Hospital",
+  "source_sha256": "f0fec03d19fe95d4c6cc5b2d51c15574ccfc0d09fef8786171a411e7232dc3a5",
+  "translation": "She is an Urologist at the Santa Aurora Hospital",
+  "vndb_url": "https://vndb.org/c178236"
+}

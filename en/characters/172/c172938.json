@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172938",
+  "type": "character",
+  "name": "Charlie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Violet's minion.",
+  "source_sha256": "57c5ebb0889d70fb905688c846c0613d74929cf8174aea03e8bc1c7221b6ca33",
+  "translation": "Violet's minion.",
+  "vndb_url": "https://vndb.org/c172938"
+}

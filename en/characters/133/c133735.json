@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "c133735",
   "type": "character",
-  "name": "Jade'anna N'ec L'ordann va Tolnes",
+  "name": "Jade'anna N'ec L'ordann va T'olnec",
   "original_name": null,
   "language": "en",
   "source_language": "en",
-  "source": "Camran's personal Twi'll attendant, given to him on his sixteenth birthday.",
-  "source_sha256": "82640be9de261a63ae1bed11b166c40675b1dd69b37b90acddd5c6d2ef8a7e1a",
-  "translation": "Camran's personal Twi'll attendant, given to him on his sixteenth birthday.",
+  "source": "Camran's personal Twi'll attendant, given to him on his sixteenth birthday.\n\n[In-Game Description]",
+  "source_sha256": "53f7d11295534e95d96699ee3f1d015805cb14ca8f00b88eed5bd498a6eb7f99",
+  "translation": "Camran's personal Twi'll attendant, given to him on his sixteenth birthday.\n\n[In-Game Description]",
   "vndb_url": "https://vndb.org/c133735"
 }

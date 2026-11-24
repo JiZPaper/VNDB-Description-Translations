@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69270",
+  "type": "visual_novel",
+  "name": "Tonbo no Kuchizuke",
+  "original_name": "蜻蛉の口づけ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "As the sunset deepens into crimson, the chime of the red dragonfly announces it's five o'clock. A voice pleading as though on the verge of tears, the warmth lingering upon their cheek. \nThis is the mysterious urban legend of dragonflies, passed down in a certain town.",
+  "source_sha256": "cbe8b340a2cd9302385c3d9d99ddd8401c2a0d20beedc4c3cec1d9d168bddc31",
+  "translation": "夕阳染上深沉的茜红，红蜻蜓的报时旋律宣告着五点钟的到来。仿佛快要哭出来一般苦苦哀求的嗓音，脸颊上久久未散的余温。\n这是流传于某座小镇的、关于蜻蜓的不可思议都市传说。",
+  "vndb_url": "https://vndb.org/v69270"
+}

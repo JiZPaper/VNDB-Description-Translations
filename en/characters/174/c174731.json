@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174731",
+  "type": "character",
+  "name": "Shikai (MC)",
+  "original_name": "司会",
+  "language": "en",
+  "source_language": "en",
+  "source": "The pesky host at auction event. He has such a generally unremarkable face and name that he's easily forgotten.",
+  "source_sha256": "f6175c56693bb0ac6e21c6e970e49edb701dd0d953bbfbd1ff6e04779ce5db94",
+  "translation": "The pesky host at auction event. He has such a generally unremarkable face and name that he's easily forgotten.",
+  "vndb_url": "https://vndb.org/c174731"
+}

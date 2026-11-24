@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69419",
+  "type": "visual_novel",
+  "name": "Abandonware",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "It's October again. You boot up MirrorOS to catch up with Tori. Like always.\n\nYou do this every year.\n\n...\n\nWho is Tori?\n\n[From [url=https://91nuggets.itch.io/abandonware]itch.io[/url]]",
+  "source_sha256": "a11abef62a967714737d9ddb6d0de0d81606e3154772b8b40643fe033b25bf53",
+  "translation": "又到十月了。你一如既往地启动MirrorOS，去和托莉叙叙旧。\n\n每年你都会这么做。\n\n……\n\n托莉是谁？\n\n[摘自[url=https://91nuggets.itch.io/abandonware]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v69419"
+}

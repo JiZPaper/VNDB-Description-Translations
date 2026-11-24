@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68634",
+  "type": "visual_novel",
+  "name": "Kobayakawa-san wa Soulslike 5",
+  "original_name": "小早川さんはソウルライク 5",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a short adventure game where you must identify the real Kobayakawa-san among five identical girls.\n\nTalk with the five Kobayakawa-sans, look for inconsistencies in what they say, and choose the one you suspect is fake.\n\nOnce you make your choice, lock on and confront her using:\n\nLight Attack / Heavy Attack / Parry / Roll.\n\nChoose the wrong response, and you die.\n\n[Edited from [url=https://hokuto1017.itch.io/kobayakawa-san-is-a-soulslike-5]itch.io[/url]]",
+  "source_sha256": "9f7c1c4b906fd33a6e05c560a18da444acc4bfa0b42e748b2d0de646eff9e67e",
+  "translation": "这是一款短篇冒险游戏，你必须从五名长得一模一样的少女当中找出真正的“小早川同学”。\n\n与五位小早川同学逐一交谈，敏锐捕捉她们话语中的矛盾破绽，锁定你怀疑是冒牌货的那一人。\n\n做出判断后，锁定目标并用以下招式与她正面对决：\n\n轻攻击／重攻击／弹反／翻滚。\n\n一旦选错应对招式，等待你的便是当场死亡。\n\n[摘自[url=https://hokuto1017.itch.io/kobayakawa-san-is-a-soulslike-5]itch.io[/url]（经编辑）]",
+  "vndb_url": "https://vndb.org/v68634"
+}

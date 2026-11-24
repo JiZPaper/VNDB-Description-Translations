@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176849",
+  "type": "character",
+  "name": "Max",
+  "original_name": "แม็กซ์",
+  "language": "en",
+  "source_language": "en",
+  "source": "Investigative journalist and owner of 'The Truth Seekers' blog, driven to unearth the truth. Currently hired by Lydia to investigate William's mysterious disappearance.",
+  "source_sha256": "131a71fd26cd285d1c2f75af20c26d1c135a1c6ba54f55b003f8536adf5c09fd",
+  "translation": "Investigative journalist and owner of 'The Truth Seekers' blog, driven to unearth the truth. Currently hired by Lydia to investigate William's mysterious disappearance.",
+  "vndb_url": "https://vndb.org/c176849"
+}

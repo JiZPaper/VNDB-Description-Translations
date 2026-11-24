@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69793",
+  "type": "visual_novel",
+  "name": "Escuela de Pinamar",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Our protagonist moves from the boring rural town, where he will met interesting people.\n\nWhen coming back from school, he falls into a subworld where he should find a way to wake up, depending on where he goes, story will change. Discover the 10 endings (translation of the Itch.io page)",
+  "source_sha256": "9bd734b68e03a907fc0a5ca501aaa4545685167049fff1e5a24f71f00dc94979",
+  "translation": "我们的男主角搬离了沉闷乏味的乡间小镇，在新环境里结识了一群有趣的人。\n\n某天放学回家的路上，他意外跌入了一个里世界，必须设法从中醒来。根据他前往的地点不同，故事走向也将随之改变。快来探索全部10种结局吧。（译自itch.io页面）",
+  "vndb_url": "https://vndb.org/v69793"
+}

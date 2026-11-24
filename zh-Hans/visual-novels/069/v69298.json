@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69298",
+  "type": "visual_novel",
+  "name": "Ordinary Days",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A school-life visual novel combining romance, comedy and psychological horror. The opening chapter follows Monday through Friday as a nameable protagonist gets to know classmates, friends and members of the student council, literature club and volleyball team. Dialogue choices shape replies and character reactions while unsettling moments interrupt the everyday routine.\n\nThe available Chapter 1 playtest is in English. It includes AI-assisted writing and code, generated visuals and some generated music. Licensed music and recorded sound effects are credited separately.",
+  "source_sha256": "93a754984cce3e793f57421e79f46c72efe44e747cd1f24af665d520dd907b0f",
+  "translation": "一部融合恋爱、喜剧与心理恐怖元素的校园日常视觉小说。开篇第一章描绘了周一至周五的校园时光：可自定义姓名的主人公将逐步结识同班同学、好友，以及学生会、文学部与排球部的成员。对话选项将左右主角的回应与角色们的反应，而令人不安的诡异瞬间则会冷不防打断平静的日常。\n\n目前开放的第一章测试版为英文版本，其中包含AI辅助撰写的文本与代码、AI生成的视觉素材及部分生成音乐；授权音乐与实录音效均已在制作人员名单中单独署名。",
+  "vndb_url": "https://vndb.org/v69298"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68333",
+  "type": "visual_novel",
+  "name": "Ozero Kamennih Slioz",
+  "original_name": "Озеро Каменных Слез",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An unremarkable book publishing employee finds himself transported back in time to a pioneer camp named after Leonid Golikov during the late Soviet era. He must unravel the mysteries of this place and find his way home. The game includes 16 chapters and an epilogue.",
+  "source_sha256": "c1bc7b3363c6b5a20b0827594ff3a1c4cb2d79292faf2b893683e743e0ceb9ac",
+  "translation": "一名平平无奇的图书出版社职员意外穿越时空，回到了苏联晚期一座以列昂尼德·戈利科夫命名的少先队夏令营。他必须解开这处营地隐藏的重重谜团，找到返回现代家园的道路。本作共包含16个章节与一段尾声。",
+  "vndb_url": "https://vndb.org/v68333"
+}

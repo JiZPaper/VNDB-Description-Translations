@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179463",
+  "type": "character",
+  "name": "Julian",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is [url=/c179111]Anthony[/url]'s older brother.\nHe is [url=/c179122]Irene Fuentes[/url]'s husband.",
+  "source_sha256": "bbc82aa4adb9124f230d41403c89fe91e24291aaaac35ac8398cdeeff1754847",
+  "translation": "He is [url=/c179111]Anthony[/url]'s older brother.\nHe is [url=/c179122]Irene Fuentes[/url]'s husband.",
+  "vndb_url": "https://vndb.org/c179463"
+}

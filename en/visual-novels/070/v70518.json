@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70518",
+  "type": "visual_novel",
+  "name": "Darwin",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A prehistoric man awakens in a modern research laboratory. The only person capable of handling him is a young scientist named Tasha.",
+  "source_sha256": "c5e5fe6a090a9167d00d733938f79ea77fb7976726c260eaea3e5a82353e3668",
+  "translation": "A prehistoric man awakens in a modern research laboratory. The only person capable of handling him is a young scientist named Tasha.",
+  "vndb_url": "https://vndb.org/v70518"
+}

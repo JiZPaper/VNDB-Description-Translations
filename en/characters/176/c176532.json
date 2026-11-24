@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176532",
+  "type": "character",
+  "name": "MC",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The main character of the game, a young woman turning 20.",
+  "source_sha256": "10b3b45e93de4357ff418cea6ba804e635ca40a173efc1bbd36325152dc420dd",
+  "translation": "The main character of the game, a young woman turning 20.",
+  "vndb_url": "https://vndb.org/c176532"
+}

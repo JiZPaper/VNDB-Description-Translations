@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179057",
+  "type": "character",
+  "name": "You",
+  "original_name": "Ти",
+  "language": "en",
+  "source_language": "en",
+  "source": "The unnamed main character. A bounty hunter who came after Ralph Devour's head.",
+  "source_sha256": "ac93f466190067d2b0cfed6c9f3484230ed280a50077d35982fb301c958017bf",
+  "translation": "The unnamed main character. A bounty hunter who came after Ralph Devour's head.",
+  "vndb_url": "https://vndb.org/c179057"
+}

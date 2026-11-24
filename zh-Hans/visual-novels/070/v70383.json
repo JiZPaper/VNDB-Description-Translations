@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70383",
+  "type": "visual_novel",
+  "name": "Psychological terror",
+  "original_name": "Завтра Наступит День",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A Russian visual novel about a schoolboy caught in a foggy summer loop.",
+  "source_sha256": "4fce25603f46e0109603ce93511850ac2bd639d4f710fd727278710cf7618fe5",
+  "translation": "一部讲述一名男学生被困在迷雾笼罩的夏日轮回之中的俄罗斯视觉小说。",
+  "vndb_url": "https://vndb.org/v70383"
+}

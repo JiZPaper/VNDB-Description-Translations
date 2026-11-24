@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172882",
+  "type": "character",
+  "name": "Jenny",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Sarah's friend.",
+  "source_sha256": "deee2afd6084e5873ee3d3f97d21fb248f773da83bf02071ecf0da30fa175be5",
+  "translation": "Sarah's friend.",
+  "vndb_url": "https://vndb.org/c172882"
+}

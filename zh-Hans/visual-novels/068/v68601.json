@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68601",
+  "type": "visual_novel",
+  "name": "Pain Scale",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In this game of medical give and take, the player will steer lead researcher Dr. Nico Morphis through a series of tests in which he must inflict a specified degree of pain onto his test subject and colleague, Dr. Theo Penton. Whether the player meets this pain threshold will determine the course of the story, unlocking more information about the two characters participating in this trial.\n\n[From [url=https://zephemeral.itch.io/pain-scale]itch.io[/url]]",
+  "source_sha256": "c643046783b46bcffe5b710afbf0683799e9c3f3111cdbce90c1fd6b13f6fdb7",
+  "translation": "在这场充满博弈的医学实验游戏中，玩家将操控首席研究员尼科·莫菲斯博士推进一系列测试——他必须向自己的实验对象兼同僚西奥·彭顿博士施加特定程度的疼痛。玩家能否达到规定的疼痛阈值将决定故事的走向，并逐步解锁参与这场试验的两位角色背后更多的隐情。\n\n[摘自[url=https://zephemeral.itch.io/pain-scale]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v68601"
+}

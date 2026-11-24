@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176781",
+  "type": "character",
+  "name": "Nicole Brown",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Student\n\nLikes: Being admired, luxury brands, exclusive parties, controlled attention\n\nDislikes: Looking weak, losing status, cheap behavior, public embarrassment.",
+  "source_sha256": "3558aeed10e9fd498c8c282bd5b1e29c896d55886f065d8d3e34856038ed20bf",
+  "translation": "Occupation: Student\n\nLikes: Being admired, luxury brands, exclusive parties, controlled attention\n\nDislikes: Looking weak, losing status, cheap behavior, public embarrassment.",
+  "vndb_url": "https://vndb.org/c176781"
+}

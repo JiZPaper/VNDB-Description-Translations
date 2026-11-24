@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176709",
+  "type": "character",
+  "name": "Candy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: College Student\n\nLikes: Flirty compliments, oversized sweaters, late-night texting, feeling wanted but not rushed\n\nDislikes: Being compared to other girls, pressure, aggressive personalities, being ignored",
+  "source_sha256": "b99697c9ecade6ff2f1f22b23eb6a93eb271091eec5aae1859179f7ffc0d4526",
+  "translation": "Occupation: College Student\n\nLikes: Flirty compliments, oversized sweaters, late-night texting, feeling wanted but not rushed\n\nDislikes: Being compared to other girls, pressure, aggressive personalities, being ignored",
+  "vndb_url": "https://vndb.org/c176709"
+}

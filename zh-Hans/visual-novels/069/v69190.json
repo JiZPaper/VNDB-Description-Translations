@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69190",
+  "type": "visual_novel",
+  "name": "blue hum",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel about a girl who goes missing and how that impacts the lives of people around her.\n\n[Edited from [url=https://itch.io/jam/noise-jam-4/rate/5013661]itch.io[/url]]",
+  "source_sha256": "af07c51524f0eec474d1bdefee0d6eb5f4942f4c9fe4df33f51f61b545be58f1",
+  "translation": "一部讲述一名少女失踪，以及这起事件如何影响她身边众人生活的视觉小说。\n\n[摘自[url=https://itch.io/jam/noise-jam-4/rate/5013661]itch.io[/url]（经编辑）]",
+  "vndb_url": "https://vndb.org/v69190"
+}

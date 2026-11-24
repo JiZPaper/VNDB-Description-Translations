@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172920",
+  "type": "character",
+  "name": "Luis",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Company's receptionist.",
+  "source_sha256": "e6c75d02af18e0adcdd139e29c4b151ac08525ead1aeae0fe7b19902ce36f16b",
+  "translation": "Company's receptionist.",
+  "vndb_url": "https://vndb.org/c172920"
+}

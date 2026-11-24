@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68164",
+  "type": "visual_novel",
+  "name": "Bone to Pick ~Hone Kara Hajimaru Jikenbo~",
+  "original_name": "Bone to Pick / ボーン・トゥ・ピック 〜骨から始まる事件簿〜",
+  "language": "en",
+  "source_language": "en",
+  "source": "The player is a new trainee at a forensic anthropology lab. Cases arrive as unidentified remains, and the work is to read the bones and determine who the victim was and how they died.\n\nThe game covers seven cases. Each one moves through examining bones, sorting remains recovered from the scene, searching crime scenes for evidence, and breaking down contradictory testimony. A different minigame appears in each case.\n\nThe team consists of a forensic anthropologist, an FBI special agent, a forensic geologist and entomologist, a digital technician, a firearms examiner, a federal prosecutor, and a cadaver dog.",
+  "source_sha256": "c3e604162515f3c875fec444ef42ca7d3556e7dd4fa02e9d38d5480804d9bc87",
+  "translation": "The player is a new trainee at a forensic anthropology lab. Cases arrive as unidentified remains, and the work is to read the bones and determine who the victim was and how they died.\n\nThe game covers seven cases. Each one moves through examining bones, sorting remains recovered from the scene, searching crime scenes for evidence, and breaking down contradictory testimony. A different minigame appears in each case.\n\nThe team consists of a forensic anthropologist, an FBI special agent, a forensic geologist and entomologist, a digital technician, a firearms examiner, a federal prosecutor, and a cadaver dog.",
+  "vndb_url": "https://vndb.org/v68164"
+}

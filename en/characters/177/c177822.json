@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177822",
+  "type": "character",
+  "name": "Darius",
+  "original_name": "大流士",
+  "language": "en",
+  "source_language": "en",
+  "source": "House guard of the Stearing family.\n\n[From [url=https://pirahus.com/en/]official website[/url]]",
+  "source_sha256": "615d0e153f2541b9ccef638d22ad2f211b7739c6210b649788a274bba9ed76ba",
+  "translation": "House guard of the Stearing family.\n\n[From [url=https://pirahus.com/en/]official website[/url]]",
+  "vndb_url": "https://vndb.org/c177822"
+}

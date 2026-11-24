@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68944",
+  "type": "visual_novel",
+  "name": "Oreta Tsubasa wa Modoranai",
+  "original_name": "折れたツバサは戻らない",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A story about Tsuva, the creator of the bird planet, and Shisui, one of its inhabitants.\nAn unsettling story with no happy ending, that begins with the search for a lost bird.",
+  "source_sha256": "9042e851cf72e3ddc831fb5aa488b9787955d25c15111703641c083aaeaed9dd",
+  "translation": "讲述“鸟之星”的造物主茨瓦，与星球居民紫翠之间的故事。\n从寻找一只走失小鸟开端，却不存在任何幸福结局的压抑物语。",
+  "vndb_url": "https://vndb.org/v68944"
+}

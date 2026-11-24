@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c175208",
+  "type": "character",
+  "name": "Coach",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Coach of the Wild Gorillas Rugby Team.",
+  "source_sha256": "5618eaa2a5fa01ab2ea2716d004c594892f4ac6d5f779fdb005f8dd3051e82f4",
+  "translation": "Coach of the Wild Gorillas Rugby Team.",
+  "vndb_url": "https://vndb.org/c175208"
+}

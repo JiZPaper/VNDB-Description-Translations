@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68960",
+  "type": "visual_novel",
+  "name": "Chef's Feast",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "On a dark night after work, you walk home alone hungry. Upon noticing a nearby restaurant, your visit can be a heartwarming meal or your last one.\n\n[From [url=https://a02nina.itch.io/chefs-feast]itch.io[/url]]",
+  "source_sha256": "3dd0f8d08a68a50cea8963cd296a4380d594338af8bbc3680a25af8a53215fda",
+  "translation": "下班后的漆黑夜晚，饥肠辘辘的你独自走在回家的路上。当你注意到附近亮着灯的一家餐厅时，踏进店门的你迎来的既可能是一顿暖心美食，也可能是人生的最后一餐。\n\n[摘自[url=https://a02nina.itch.io/chefs-feast]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v68960"
+}

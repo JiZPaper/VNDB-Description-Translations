@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67492",
+  "type": "visual_novel",
+  "name": "classroom sunset",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Made for [url=https://itch.io/jam/toxic-yuri-vn-jam-2]Toxic Yuri VN Jam 2[/url].\n\nA short visual novel about the happenings in a classroom after school.\n\n[From [url=https://majology.itch.io/classroom-sunset]itch.io[/url]]",
+  "source_sha256": "468a3df31f788781eec1250c4a2fe57e17798e80dfc355f15adfe79f16b9684d",
+  "translation": "为[url=https://itch.io/jam/toxic-yuri-vn-jam-2]病态百合视觉小说创作大赛2[/url]开发制作。\n\n一部讲述放学后教室里所发生之事的短篇视觉小说。\n\n[摘自[url=https://majology.itch.io/classroom-sunset]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v67492"
+}

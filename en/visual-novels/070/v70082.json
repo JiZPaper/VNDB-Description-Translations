@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70082",
+  "type": "visual_novel",
+  "name": "Guns GirlZ: Operation Gekkou - Reborn",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Operation Gekkou is the effort to turn the story of GGZ into a Visual Novel with refurbished English translations. It is intended to make the story more accessible to the English speaking audience, as well as improve upon the text and translations.",
+  "source_sha256": "f1650d0f0837cf8a47eeb666ded19e79789e81038dc734dfcbf211797c6667ff",
+  "translation": "Operation Gekkou is the effort to turn the story of GGZ into a Visual Novel with refurbished English translations. It is intended to make the story more accessible to the English speaking audience, as well as improve upon the text and translations.",
+  "vndb_url": "https://vndb.org/v70082"
+}

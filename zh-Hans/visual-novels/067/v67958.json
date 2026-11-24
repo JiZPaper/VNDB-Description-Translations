@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67958",
+  "type": "visual_novel",
+  "name": "Teokure Part I: BloodEyes",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel about the 80s in Tokyo.\nYou are a private detective named Kudzo Shizuraki.\nAnd a man who doesn't know how to be silent.\nStrange murders have recently begun, which the police want to hush up, because in their opinion it is \"unnecessary useless work.\"\nBut you do care.",
+  "source_sha256": "d4e34dbec70b9c722aa831e7a4cdfb4e14e8aeafab02fe277b8c8d72f6489ae0",
+  "translation": "一部以20世纪80年代东京为舞台的视觉小说。\n你是一名叫作静乐九藏的私家侦探——也是一个绝不肯保持沉默的男人。\n近来城中接连发生离奇凶杀案，警方却一心想要将案情压下去，只因在他们看来那纯粹是“吃力不讨好的无用功”。\n但你绝不会坐视不管。",
+  "vndb_url": "https://vndb.org/v67958"
+}

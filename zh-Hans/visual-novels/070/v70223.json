@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70223",
+  "type": "visual_novel",
+  "name": "Chance Encounter",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Max is young adventurer heading out to conquer dungeons, get loot and do stuff. Along his adventures he will find friends, foes and a whole lot of weird magical crap that makes his days more interesting.",
+  "source_sha256": "1735cdfc59bc7306f1df59405cfe8b44faaa107ea010134fc7d04c9e6ea25c38",
+  "translation": "麦克斯是一名年轻的冒险者，动身外出征服地下城、搜刮战利品、闯荡四方。在旅途中，他将结识挚友、遭遇强敌，并撞见一大堆让他每一天都妙趣横生的古怪魔法玩意儿。",
+  "vndb_url": "https://vndb.org/v70223"
+}

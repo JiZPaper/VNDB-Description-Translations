@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174712",
+  "type": "character",
+  "name": "Kareno Gin",
+  "original_name": "枯野銀",
+  "language": "en",
+  "source_language": "en",
+  "source": "Your reliable taxi driver with a brotherly nature.",
+  "source_sha256": "caf6078ec777db7f17e8b6525ab3322e223fe0bb02a00465e3431fbab9a6732e",
+  "translation": "Your reliable taxi driver with a brotherly nature.",
+  "vndb_url": "https://vndb.org/c174712"
+}

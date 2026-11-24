@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174220",
+  "type": "character",
+  "name": "Tom",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of [url=/c174217]Able[/url]'s goons.",
+  "source_sha256": "4c51285c2d0fbc622491eb5366c85acd831acc4e7f4dab61819153786c0bdfe8",
+  "translation": "One of [url=/c174217]Able[/url]'s goons.",
+  "vndb_url": "https://vndb.org/c174220"
+}

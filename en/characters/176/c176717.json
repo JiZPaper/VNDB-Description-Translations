@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176717",
+  "type": "character",
+  "name": "Jessica Smith",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Business Student\n\nLikes: Luxury gifts, strong cocktails, being admired, attention on demand\n\nDislikes: Studying, chores, intellectual debates she can't win",
+  "source_sha256": "8fadf56ed020e69f6e1359e0e693561953265a1757bc39531bd43cbdfaf4d5cc",
+  "translation": "Occupation: Business Student\n\nLikes: Luxury gifts, strong cocktails, being admired, attention on demand\n\nDislikes: Studying, chores, intellectual debates she can't win",
+  "vndb_url": "https://vndb.org/c176717"
+}

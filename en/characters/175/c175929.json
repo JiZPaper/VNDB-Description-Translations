@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c175929",
+  "type": "character",
+  "name": "Mike",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "One of [url=/c165288]Danny[/url]'s subordinates.",
+  "source_sha256": "737b3f29acca85920f647c9e962d054d1f3b2b64d4ff456c99aeec3ccd1800a4",
+  "translation": "One of [url=/c165288]Danny[/url]'s subordinates.",
+  "vndb_url": "https://vndb.org/c175929"
+}

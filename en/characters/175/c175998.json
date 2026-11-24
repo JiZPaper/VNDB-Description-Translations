@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c175998",
+  "type": "character",
+  "name": "Gon",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"You've already had a big luck once. You don't have to gamble again.\"",
+  "source_sha256": "35ee80158612dff1374b615f0a37875cf6a9b282e0e1dbdb3ddc9d97ac2f1ef4",
+  "translation": "\"You've already had a big luck once. You don't have to gamble again.\"",
+  "vndb_url": "https://vndb.org/c175998"
+}

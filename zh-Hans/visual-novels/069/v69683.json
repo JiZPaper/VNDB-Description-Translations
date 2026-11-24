@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69683",
+  "type": "visual_novel",
+  "name": "A Debt Paid",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You (MC) and your girlfriend get an anonymous invitation to an island that promises fortune and enough money for the rest of your life. But slowly, you realize that there are a lot more going on behind the curtains that they tell you.",
+  "source_sha256": "ca296370ee3a65d8e15ea9ea02854a1fefbe4c36299a7daca433291ddaf67ba5",
+  "translation": "你（男主角）与女友收到了一封匿名邀请函，受邀前往一座承诺带来泼天财富、足以让你们下半辈子衣食无忧的海岛。然而随着时间推移，你渐渐意识到，帷幕背后暗藏的玄机远比他们口中所说的要复杂得多。",
+  "vndb_url": "https://vndb.org/v69683"
+}

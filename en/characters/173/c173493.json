@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c173493",
+  "type": "character",
+  "name": "Roy",
+  "original_name": "ロイ",
+  "language": "en",
+  "source_language": "en",
+  "source": "A journalist for a tabloid famous around town. [url=/c76640]Ann[/url]'s older brother.",
+  "source_sha256": "f6011e7001a5ac50a16d40e8c3198e77c14a0eec080b0efbf6269dc8e76059a2",
+  "translation": "A journalist for a tabloid famous around town. [url=/c76640]Ann[/url]'s older brother.",
+  "vndb_url": "https://vndb.org/c173493"
+}

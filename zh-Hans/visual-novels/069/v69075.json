@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69075",
+  "type": "visual_novel",
+  "name": "Sissy Dream",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a young man who wakes up in a dungeon to discover that he has been commissioned by a company called M.M.Y.D.\nfor a subversive gender-switching experiment at the behest of a client who wants to have you at all costs.",
+  "source_sha256": "652e94b788742afc30a27cd6e163a6f791526d4c36703e98f2bf421c83f831c3",
+  "translation": "你是一名在地下牢房中醒来的年轻男子，醒来后发现自己受雇于一家名为M.M.Y.D.的公司——原来是某位不惜一切代价都想得到你的委托人暗中指使，将你卷入了一场颠覆性的性别转换实验。",
+  "vndb_url": "https://vndb.org/v69075"
+}

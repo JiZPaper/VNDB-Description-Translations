@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "c39514",
   "type": "character",
-  "name": "Taishiji Shigi",
-  "original_name": "太史慈 子義",
+  "name": "Taishi Ji",
+  "original_name": "太史 慈",
   "language": "en",
   "source_language": "en",
-  "source": "One of Go's generals; friends with Sonsaku and Shuuyu.",
-  "source_sha256": "1b98624154bad99e116c0a3bf610735a8d013c7f24bc7ec100271c8eddc407a2",
-  "translation": "One of Go's generals; friends with Sonsaku and Shuuyu.",
+  "source": "One of Go's generals; friends with Son Saku and Shuu Yu.",
+  "source_sha256": "84325b98226016ed958a37d46a2351f80aed153ff00880a94aa647283ab26893",
+  "translation": "One of Go's generals; friends with Son Saku and Shuu Yu.",
   "vndb_url": "https://vndb.org/c39514"
 }

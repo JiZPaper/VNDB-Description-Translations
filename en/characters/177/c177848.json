@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177848",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A nomadic bounty hunter, arriving in the town of Cortez Creek to chase a bounty, only to quickly discover that not everything is as it seems.",
+  "source_sha256": "24eab86867d11c1a67e23f4ef4f9eb8a20b5cc02f0dfd77a78fd87c2abe09f66",
+  "translation": "A nomadic bounty hunter, arriving in the town of Cortez Creek to chase a bounty, only to quickly discover that not everything is as it seems.",
+  "vndb_url": "https://vndb.org/c177848"
+}

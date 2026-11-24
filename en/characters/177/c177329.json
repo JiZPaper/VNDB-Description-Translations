@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177329",
+  "type": "character",
+  "name": "Liviy",
+  "original_name": "Ливий",
+  "language": "en",
+  "source_language": "en",
+  "source": "A weapon warehouse supervisor, who is widely respected in the town.",
+  "source_sha256": "35bfdfba7f8582d3bb157c5204cac2d37392ca18dfceda0130a47d74fe22cd51",
+  "translation": "A weapon warehouse supervisor, who is widely respected in the town.",
+  "vndb_url": "https://vndb.org/c177329"
+}

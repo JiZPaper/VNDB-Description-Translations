@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c175323",
+  "type": "character",
+  "name": "Yevgeny Petrovich",
+  "original_name": "Евгений Петрович",
+  "language": "en",
+  "source_language": "en",
+  "source": "Technician and the person responsible for looking after the boats in \"Sovyonok\".",
+  "source_sha256": "29713eb0079997e26ecf790a8416dad9fd6184cfd122aa95868527a708571897",
+  "translation": "Technician and the person responsible for looking after the boats in \"Sovyonok\".",
+  "vndb_url": "https://vndb.org/c175323"
+}

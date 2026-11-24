@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70075",
+  "type": "visual_novel",
+  "name": "Mei's Birthday 2015",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Galgame for Raiden Mei's birthday",
+  "source_sha256": "d642ad0bc232f8f5bae0100c1180f0704e1fb65a5db6ed2445039ff51aa1bf16",
+  "translation": "为庆祝雷电芽衣生日而制作的Galgame。",
+  "vndb_url": "https://vndb.org/v70075"
+}

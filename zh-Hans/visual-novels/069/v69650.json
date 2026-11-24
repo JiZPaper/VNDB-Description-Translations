@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69650",
+  "type": "visual_novel",
+  "name": "PHOENIXES What-if chapter #2 -- The Vacation",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a lovely story about you meeting two girls during a vacation. It takes place in a multiverse without magic or vigilantes.",
+  "source_sha256": "53068d7438dd3abc53dad6feed741d382dbe90607cc36922d5c361f08a09e110",
+  "translation": "这是一个关于你在度假期间邂逅两位女孩的温馨故事。故事发生在一个没有魔法、也没有义警的多元宇宙之中。",
+  "vndb_url": "https://vndb.org/v69650"
+}

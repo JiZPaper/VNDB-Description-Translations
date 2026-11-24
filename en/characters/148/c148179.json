@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "c148179",
   "type": "character",
-  "name": "Aubry West",
+  "name": "Aubrey West",
   "original_name": null,
   "language": "en",
   "source_language": "en",
-  "source": "Your old room-mate from University. A cheerful but always down on his luck guy. Even though [url=https://vndb.org/c148150]you[/url] were initially cold to him, he didn't let it faze him and his infectious attitude eventually broke through the walls you put up...\n\n[In game description]",
-  "source_sha256": "05b799dd9b0ab031f2cf0c7076cb2117040a5df07c0d3cfd7fe0df5f89b4d867",
-  "translation": "Your old room-mate from University. A cheerful but always down on his luck guy. Even though [url=https://vndb.org/c148150]you[/url] were initially cold to him, he didn't let it faze him and his infectious attitude eventually broke through the walls you put up...\n\n[In game description]",
+  "source": "Your former university roommate had a talent for talking through even your worst moods. Cheerful, persistent, and fond of terrible jokes, Aubrey kept trying to reach [url=/c148150]you[/url] when you gave him little encouragement. The friendship that followed was one of the few good things you brought back from those years.\n\n[In game description]",
+  "source_sha256": "7e43432689fcee0c2b4bf4477951bc30a20a081a33d8ba12330c4b4f2a50ffd8",
+  "translation": "Your former university roommate had a talent for talking through even your worst moods. Cheerful, persistent, and fond of terrible jokes, Aubrey kept trying to reach [url=/c148150]you[/url] when you gave him little encouragement. The friendship that followed was one of the few good things you brought back from those years.\n\n[In game description]",
   "vndb_url": "https://vndb.org/c148179"
 }

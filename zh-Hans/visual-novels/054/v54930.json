@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "v54930",
   "type": "visual_novel",
-  "name": "PockeDate! - Pocket Dating Simulator",
-  "original_name": "PockeDate! - Кишеньковий Симулятор Побачень",
+  "name": "PockeDate",
+  "original_name": null,
   "language": "zh-Hans",
   "source_language": "en",
-  "source": "Your Pocket-Sized Dating Simulator! Every launch brings a new date with unique dialogues! Spend endless hours with your adorable, love-struck virtual girlfriend.",
-  "source_sha256": "fe691208daa2aeb4973b5e4d58c1a5cdee826d23e697b1352946b3c0da24efd3",
-  "translation": "你的口袋约会模拟器！每次启动都是一次全新的约会，还有独特的对白！和可爱又迷恋着你的虚拟女朋友一起，度过数不尽的美好时光吧。",
+  "source": "PockeDate! – Your Pocket-Sized Dating Simulator! Every launch brings a new date with unique dialogues! Spend endless hours with your adorable, love-struck virtual girlfriend.\n\nMeet Akari – your virtual sweetheart, head over heels for you. But be careful not to let her down! You wouldn't want to make her sad, would you?\n\n[From [url=https://store.steampowered.com/app/3107350/]Steam[/url]]",
+  "source_sha256": "248d193c37aa685efe21c710af637459269c017b291ee385e8ee39007f546e18",
+  "translation": "《PockeDate!》——装进口袋的迷你恋爱模拟器！每次启动游戏都将带来一场拥有独特对话的全新约会！与对你一往情深的可爱虚拟女友共度无穷无尽的甜蜜时光吧。\n\n来认识一下明里——对你迷恋到神魂颠倒的虚拟甜心。不过千万小心别辜负了她的心意！你肯定舍不得让她伤心难过的，对吧？\n\n[摘自[url=https://store.steampowered.com/app/3107350/]Steam[/url]]",
   "vndb_url": "https://vndb.org/v54930"
 }

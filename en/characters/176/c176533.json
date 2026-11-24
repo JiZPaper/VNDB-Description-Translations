@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176533",
+  "type": "character",
+  "name": "Previous incarnation of MC",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The previous incarnation of the main character.",
+  "source_sha256": "b7791d322e7f3b16cb7705de7298fe014513e6c10e1b37d09188913ba51ba408",
+  "translation": "The previous incarnation of the main character.",
+  "vndb_url": "https://vndb.org/c176533"
+}

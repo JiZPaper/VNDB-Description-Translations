@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68363",
+  "type": "visual_novel",
+  "name": "Gloomy Boulevard",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Gloomy Boulevard is a short narrative game about loss and grief.\n\nAfter the death of his distant father, Leo, Liam struggles to confront a lifetime of unspoken emotions and a relationship defined by silence.",
+  "source_sha256": "ec90e20c616e4ea3cdacc12832fc4f95d29cd19402b0a8682a2099f5aa083b5f",
+  "translation": "《阴郁大道》是一部探讨失去与哀恸的短篇叙事游戏。\n\n关系疏远的父亲利奥去世后，利亚姆不得不艰难直面积压了一辈子的未言心绪，以及那段被沉默所定义的父子关系。",
+  "vndb_url": "https://vndb.org/v68363"
+}

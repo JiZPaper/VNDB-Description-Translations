@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176711",
+  "type": "character",
+  "name": "Emily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Boutique Owner\n\nLikes: Soft silk nightwear, candlelit evenings, sweet desserts, affectionate touch\n\nDislikes: Being ignored, strong whiskey, emotional silence, sleeping alone",
+  "source_sha256": "b07424bd2c30b5f06ab68cd715bd823910d10743466e1da1be7df2930a742bef",
+  "translation": "Occupation: Boutique Owner\n\nLikes: Soft silk nightwear, candlelit evenings, sweet desserts, affectionate touch\n\nDislikes: Being ignored, strong whiskey, emotional silence, sleeping alone",
+  "vndb_url": "https://vndb.org/c176711"
+}

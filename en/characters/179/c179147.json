@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179147",
+  "type": "character",
+  "name": "Luana McPerson",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is [url=/c179119]Maud[/url]'s ex-girlfriend.\nShe is [url=/c179112]Riley Alley[/url]'s best friend.",
+  "source_sha256": "d20140cb332c3b827125b6463786482e371c8a7934b9bf57b0aada5b50c01b57",
+  "translation": "She is [url=/c179119]Maud[/url]'s ex-girlfriend.\nShe is [url=/c179112]Riley Alley[/url]'s best friend.",
+  "vndb_url": "https://vndb.org/c179147"
+}

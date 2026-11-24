@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c148150",
+  "type": "character",
+  "name": "Brian Dantes",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You have returned to the city where [url=/c148155]Father[/url] was killed, with unfinished business at Dante's Enterprise and relationships you left in pain. You want answers and the means to act on them. Being home again is making it harder to separate that purpose from the people you still care about.\n\n[In game description]",
+  "source_sha256": "d9408c73f9be1eec997d1c3e5fd91efb0e41ef04e96134f8c7f7c018b6101d9c",
+  "translation": "You have returned to the city where [url=/c148155]Father[/url] was killed, with unfinished business at Dante's Enterprise and relationships you left in pain. You want answers and the means to act on them. Being home again is making it harder to separate that purpose from the people you still care about.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c148150"
+}

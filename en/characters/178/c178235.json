@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c178235",
+  "type": "character",
+  "name": "Aeris",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is a nurse at the Santa Aurora Hospital.\nHe is taking care of the MC.",
+  "source_sha256": "d97df1e64b8fb686e9da232e97b31e31158922a818d2d781e24e4ed28a0f827b",
+  "translation": "He is a nurse at the Santa Aurora Hospital.\nHe is taking care of the MC.",
+  "vndb_url": "https://vndb.org/c178235"
+}

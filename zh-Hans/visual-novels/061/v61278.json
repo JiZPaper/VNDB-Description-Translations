@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v61278",
+  "type": "visual_novel",
+  "name": "Sword",
+  "original_name": "ソード",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "It tells the story of a boy who lives as a member of a \"demon-hunting clan\" and the three girls he encounters.",
+  "source_sha256": "189b08a565bee5bc4a744cf3dedfffa0253b3688bae4437947786db12cd7fb9e",
+  "translation": "讲述一名作为“狩魔一族”成员生活的少年，与他所邂逅的三名少女之间的故事。",
+  "vndb_url": "https://vndb.org/v61278"
+}

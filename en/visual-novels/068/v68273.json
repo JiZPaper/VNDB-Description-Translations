@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68273",
+  "type": "visual_novel",
+  "name": "Netorase Short Tales",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An anthology of Mirthenar Netorase Visual Novel.",
+  "source_sha256": "7df2c83c5e04623daf87b6ef43602d0337a6b602f03ec7ec2de951ced4e3425d",
+  "translation": "An anthology of Mirthenar Netorase Visual Novel.",
+  "vndb_url": "https://vndb.org/v68273"
+}

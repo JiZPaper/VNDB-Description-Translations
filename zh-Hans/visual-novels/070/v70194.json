@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70194",
+  "type": "visual_novel",
+  "name": "Overtime: Oz solution",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A dating sim set in a Bangkok office. Work late, navigate office life, and get to know your coworkers after hours.",
+  "source_sha256": "df33532ff9a5e64520b2f329d1a57e7477b49e0d1502e89f57c85e4cfcb9d0dc",
+  "translation": "一款以曼谷写字楼为背景的恋爱模拟游戏。留守加班、周旋于职场日常，并在下班后深入了解你的同事们。",
+  "vndb_url": "https://vndb.org/v70194"
+}

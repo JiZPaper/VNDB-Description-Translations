@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68713",
+  "type": "visual_novel",
+  "name": "Stars of Salvation",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A man is rescued from the brink of death and finds himself in a difficult situation.​\n\n[From Patreon]",
+  "source_sha256": "f463ec5f906f2c4271b6ec4c34321a7c5faa5d18e7e41c5472197ca60a7bf544",
+  "translation": "一名男子从死亡边缘获救，却发现自己陷入了进退维谷的艰难处境。\n\n[摘自Patreon]",
+  "vndb_url": "https://vndb.org/v68713"
+}

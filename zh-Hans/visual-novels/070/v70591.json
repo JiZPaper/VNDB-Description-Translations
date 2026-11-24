@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70591",
+  "type": "visual_novel",
+  "name": "Victorian Deathbed Simulator",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You are a Victorian person dying of some horrible illness.\n\nThree beloved (though distant) relatives will visit, intending to pay their final respects. Choose wisely! One of them will be the beneficiary of your Enormous Fortune...\n\n[From [url=https://jerawizard.itch.io/victorian-deathbed-simulator]itch.io[/url]]",
+  "source_sha256": "07aef10872c03169d80325436f972fcfdf8cdf79df8e2d9caa19b39c0c8733e0",
+  "translation": "你是一位身患某种可怕恶疾、行将就木的维多利亚时代富豪。\n\n三位深得你心（尽管血缘疏远）的亲戚即将登门探望，向你作最后的道别。请审慎抉择吧！他们之中的某个人，将成为你那笔“巨额遗产”的继承人……\n\n[摘自[url=https://jerawizard.itch.io/victorian-deathbed-simulator]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v70591"
+}

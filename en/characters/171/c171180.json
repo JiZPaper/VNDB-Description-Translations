@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c171180",
+  "type": "character",
+  "name": "Alice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A stoic, data-driven student who runs the Video Game Club as a deceptive front for a C++ programming workshop. Obsessed with logic, efficiency, and risk assessment, she actively wears experimental tracking hardware to secure a corporate internship and views the \"rustic\" summer camp as a survival scenario full of structural hazards. Beneath her cold, corporate-minded exterior, she struggles with the fear of entropy and the inevitable dissolution of her friend group after graduation.",
+  "source_sha256": "837a03dbfa99935b46d3d22c6f6857aa783548901e5e692e631c0cad7c4bf210",
+  "translation": "A stoic, data-driven student who runs the Video Game Club as a deceptive front for a C++ programming workshop. Obsessed with logic, efficiency, and risk assessment, she actively wears experimental tracking hardware to secure a corporate internship and views the \"rustic\" summer camp as a survival scenario full of structural hazards. Beneath her cold, corporate-minded exterior, she struggles with the fear of entropy and the inevitable dissolution of her friend group after graduation.",
+  "vndb_url": "https://vndb.org/c171180"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177132",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of the game. A kind girl who recently learned that her father has been abducted and works with the Metropolitan Police Department to rescue him.",
+  "source_sha256": "984b48098188ea352827120e75766cde8cb0f6d19a16e9f6688039977c7f79a3",
+  "translation": "The protagonist of the game. A kind girl who recently learned that her father has been abducted and works with the Metropolitan Police Department to rescue him.",
+  "vndb_url": "https://vndb.org/c177132"
+}

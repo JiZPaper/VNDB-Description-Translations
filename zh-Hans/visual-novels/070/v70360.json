@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70360",
+  "type": "visual_novel",
+  "name": "Study Group",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A simple and short otome game focused around a group of fresh college students.\n\n[From [url=https://josiahaviso.itch.io/]Itch.io[/url]]",
+  "source_sha256": "5f0b50fb7c60666d62daef9c1bd7ab762aaf8ffd23c446353e616a2d4b81b812",
+  "translation": "一部围绕一群大一新生展开的简约短篇乙女游戏。\n\n[摘自[url=https://josiahaviso.itch.io/]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v70360"
+}

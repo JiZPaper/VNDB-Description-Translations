@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c173912",
+  "type": "character",
+  "name": "Darius",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Commander of the Guard in the city of Irda.",
+  "source_sha256": "d408b5b7b5d23c0bce473a7d2103958e3cc43bcca7f28203135596c03b22324d",
+  "translation": "Commander of the Guard in the city of Irda.",
+  "vndb_url": "https://vndb.org/c173912"
+}

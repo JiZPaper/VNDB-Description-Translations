@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176933",
+  "type": "character",
+  "name": "Lani",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The music teacher.",
+  "source_sha256": "ae9a08aa4e8c948f4e5b1cc4cfe69faa24fd1a61151802bfb019e4abd35007ff",
+  "translation": "The music teacher.",
+  "vndb_url": "https://vndb.org/c176933"
+}

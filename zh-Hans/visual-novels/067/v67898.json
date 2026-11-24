@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67898",
+  "type": "visual_novel",
+  "name": "The Gypsum Trumpeter",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The Gypsum Trumpeter is an indie visual novel based on the novel of the same name by Russian writer Yuri Polyakov. To the best of our knowledge, the original novel has never been published in English.\n\nThe project's creator attempts to rethink the stereotypical notion of visual novels as entertaining anime stories for a young audience and present adult narrative prose in an interactive form that combines literary narrative, illustrations, music, and reader choices in individual episodes.\n\nThe visual novel is aimed at those who enjoy thoughtful reading and would like to try a new format for getting to know a literary work.\n\nThis visual literary adaptation is free and available for Android, Windows, Linux, and MacOS in Russian, English, and Chinese. The project is created in free time as a creative hobby.\n\nThe English-language version 0.0.11 covers the main storyline through approximately the midpoint of Part One.",
+  "source_sha256": "95ce5d0395af82e93651d9c0040a910ce05fcc78a94c2ad26108edceb99048e6",
+  "translation": "《石膏号手》是一款改编自俄罗斯作家尤里·波利亚科夫同名长篇小说的独立视觉小说。据开发团队所知，原著小说此前从未出版过英文译本。\n\n本作创作者试图打破人们对视觉小说“只是面向年轻受众的娱乐向动漫故事”的刻板印象，以融合文学叙事、插画、配乐以及分章读者抉择的互动形式，呈现一部面向成年读者的严肃叙事散文作品。\n\n这部视觉小说专为喜爱深度阅读、并希望尝试以全新形式接触文学作品的读者打造。\n\n本视觉文学改编作品完全免费，支持Android、Windows、Linux与macOS平台，并提供俄文、英文与中文版本。该项目由作者利用业余时间作为个人创作爱好独立开发。\n\n英文0.0.11版本收录了直至第一部中段左右的主线剧情。",
+  "vndb_url": "https://vndb.org/v67898"
+}

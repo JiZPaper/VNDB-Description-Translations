@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176296",
+  "type": "character",
+  "name": "Sylvia",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Simulated character from the world of \"Konosuba\" (\"Kono Subarashii Sekai ni Shukufuku o!\").",
+  "source_sha256": "38881ad10bb9d8ec4cb64ec1f28b00579e5d261975dd9fecb0a749fc16130eaa",
+  "translation": "Simulated character from the world of \"Konosuba\" (\"Kono Subarashii Sekai ni Shukufuku o!\").",
+  "vndb_url": "https://vndb.org/c176296"
+}

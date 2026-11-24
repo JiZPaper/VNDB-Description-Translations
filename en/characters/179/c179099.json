@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179099",
+  "type": "character",
+  "name": "Dan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The owner of the bunker where the group of survivors lives. Dan controls the supplies and gives the orders, while avoiding any risk himself.",
+  "source_sha256": "3d491a12a07edc88eb92195c35a11b6bb3ec993dd03f0f0981524f62530b8198",
+  "translation": "The owner of the bunker where the group of survivors lives. Dan controls the supplies and gives the orders, while avoiding any risk himself.",
+  "vndb_url": "https://vndb.org/c179099"
+}

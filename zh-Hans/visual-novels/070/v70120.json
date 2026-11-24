@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70120",
+  "type": "visual_novel",
+  "name": "2999-nen no Game Kids",
+  "original_name": "2999年のゲーム・キッズ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "2999 Game Kids is an interactive comic in which you control a character in the future. The game takes place in the year 2999 and the people are some kind of cyborgs. The game start when the player's character (a young kid) wakes up from big nightmare and some strange things starts to happen to him. The gameplay is the usual in the comic interactive but in this game there some parts of the game in which you control the character in a 3d graphics engine with a first person perspective.",
+  "source_sha256": "a3e290aacec15fb271e382ad066ef322e5257bfbf04edf552b82d86edf2a11e8",
+  "translation": "《2999年的电玩小子》是一款操控未来世界角色的互动漫画游戏。故事发生在2999年，当时的人类大多经过某种半机械化改造。游戏伊始，玩家扮演的少年从一场可怕的噩梦中惊醒，随后一连串怪事接踵而至。本作整体沿用了传统互动漫画的玩法，但在部分桥段中，你将以第一人称视角在3D图形引擎中直接操控角色行动。",
+  "vndb_url": "https://vndb.org/v70120"
+}

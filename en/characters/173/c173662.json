@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c173662",
+  "type": "character",
+  "name": "Glixken",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A thug [url=/c173529]Thyia[/url] owes money to.",
+  "source_sha256": "680bee3b62ed7f68eefd83eba0e38204038f51f7313e74212ed33d36491e1987",
+  "translation": "A thug [url=/c173529]Thyia[/url] owes money to.",
+  "vndb_url": "https://vndb.org/c173662"
+}

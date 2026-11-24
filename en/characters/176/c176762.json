@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176762",
+  "type": "character",
+  "name": "Doki",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An elusive little robot with a distinctly retro design, serving as the host of the dating show. It delivers the show's announcements, including eliminations, in a distinctly cute manner.",
+  "source_sha256": "aec091a11d965cd88062bf82720bd63926dc27205e0a7ed9788942a448f07d21",
+  "translation": "An elusive little robot with a distinctly retro design, serving as the host of the dating show. It delivers the show's announcements, including eliminations, in a distinctly cute manner.",
+  "vndb_url": "https://vndb.org/c176762"
+}

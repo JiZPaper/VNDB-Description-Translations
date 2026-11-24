@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176323",
+  "type": "character",
+  "name": "Nancy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your friend [url=/c176073]Eli[/url]'s grandmother. You had been under the impression that she was Eli's mom, but it turned out she was actually his grandmother. She's looking incredibly fit and perky despite her old age.\n\n[In game description]",
+  "source_sha256": "15dc5fe01e15e5d31e8078beb4c081383887761134e1908dd9746c00a3d9bfff",
+  "translation": "Your friend [url=/c176073]Eli[/url]'s grandmother. You had been under the impression that she was Eli's mom, but it turned out she was actually his grandmother. She's looking incredibly fit and perky despite her old age.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c176323"
+}

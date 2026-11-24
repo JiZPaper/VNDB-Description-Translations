@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68943",
+  "type": "visual_novel",
+  "name": "Power Corrupts: Paragon",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Paragon is a visual novel in which the player is one of the first superheroes to manifest at the dawn of a new age. With only comic books and movies to use as a template, your choices determine how the world sees you, and the rest of your kind.",
+  "source_sha256": "62d90494419d560523d5bdb5205ca5e198aaef952006f7ae53131fe1cac24a2a",
+  "translation": "在视觉小说《典范》中，玩家将扮演新时代黎明之际首批觉醒现身的超级英雄之一。在仅有漫画书与电影可供效仿参照的世界里，你的每一个选择都将决定世人如何看待你——以及你的全体同类。",
+  "vndb_url": "https://vndb.org/v68943"
+}

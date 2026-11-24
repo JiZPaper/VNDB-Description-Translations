@@ -3,11 +3,11 @@
   "id": "c142820",
   "type": "character",
   "name": "Protagonist",
-  "original_name": null,
+  "original_name": "主人公",
   "language": "en",
   "source_language": "en",
-  "source": "Protagonist in Ajisai, Tanpopo Hen.\nCalled Yamada Tarou (山田太郎, やまだたろう) in Saigo no Bansan Hen.\nDanger Rating: ★☆☆☆☆",
-  "source_sha256": "750771799832556c499e9588daeeb7f13abff467a0fef7821b5262c2e9643db8",
-  "translation": "Protagonist in Ajisai, Tanpopo Hen.\nCalled Yamada Tarou (山田太郎, やまだたろう) in Saigo no Bansan Hen.\nDanger Rating: ★☆☆☆☆",
+  "source": "Protagonist of Ajisai, Tanpopo-hen.\nDanger Rating: ★☆☆☆☆",
+  "source_sha256": "0485dc82b9d2ae9049bb20ef64f82fa6ed9514c030cec1b283c249e7432e2aed",
+  "translation": "Protagonist of Ajisai, Tanpopo-hen.\nDanger Rating: ★☆☆☆☆",
   "vndb_url": "https://vndb.org/c142820"
 }

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68948",
+  "type": "visual_novel",
+  "name": "Conan the Cheerleader",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Conan the mythological barbarian tangles with a witch and winds up in the body of a young woman in 1984 middle-America. A parody.",
+  "source_sha256": "e2dbd79e8a1d8a5465f4d840a28a51ccba24909841d60af149a9b12df74ccd1c",
+  "translation": "Conan the mythological barbarian tangles with a witch and winds up in the body of a young woman in 1984 middle-America. A parody.",
+  "vndb_url": "https://vndb.org/v68948"
+}

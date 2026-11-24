@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179560",
+  "type": "character",
+  "name": "Athena Rose",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is [url=/c179444]Helga[/url]'s friend.",
+  "source_sha256": "947cf21679b93eecc0e824c11f92760be22d0383898c563e402b7c42d06bd45d",
+  "translation": "She is [url=/c179444]Helga[/url]'s friend.",
+  "vndb_url": "https://vndb.org/c179560"
+}

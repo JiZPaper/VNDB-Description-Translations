@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70890",
+  "type": "visual_novel",
+  "name": "Furious Football: Demons vs Humans",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You have been summoned to another world because you are the greatest football player!\nOnly you can save the human kingdom from the demons!\nThree opponents await you!\nYou must defeat them in a game of football!",
+  "source_sha256": "e65a296e8e122e8a1beddbe867dde6fe8a79174f4d0c02d2fe4505449ee639de",
+  "translation": "You have been summoned to another world because you are the greatest football player!\nOnly you can save the human kingdom from the demons!\nThree opponents await you!\nYou must defeat them in a game of football!",
+  "vndb_url": "https://vndb.org/v70890"
+}

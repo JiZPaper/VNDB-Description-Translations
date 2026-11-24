@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70301",
+  "type": "visual_novel",
+  "name": "The Empty Turnabout",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Set in an alternate universe. Apollo Justice disappears after realizing that Athena Cykes, whom he had gotten a not guilty verdict for on the charges of murder, had actually committed the crime. Six months later, he calls Phoenix to watch him defend a man in a bizarre case where the body mysteriously vanished.",
+  "source_sha256": "1a1ae3c7bec035791235ab80565dd45f2ed6bd9331016b52c4dd7f6c312e8446",
+  "translation": "故事设定在平行宇宙。王泥喜法介在替背负谋杀指控的希月心音赢下无罪判决后，惊觉真凶竟然真的是她，遂悄然销声匿迹。半年后，他主动联系成步堂龙一，邀其旁听自己在一桩遗体离奇失踪的怪案中为被告辩护。",
+  "vndb_url": "https://vndb.org/v70301"
+}

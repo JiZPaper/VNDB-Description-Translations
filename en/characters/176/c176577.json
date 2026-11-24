@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176577",
+  "type": "character",
+  "name": "Demo",
+  "original_name": "デモ",
+  "language": "en",
+  "source_language": "en",
+  "source": "The demon claiming to be your owner.",
+  "source_sha256": "f0483dccef8ad159458771ea7885e44ba6fd0b216fb42e3b8f26ab426a69181b",
+  "translation": "The demon claiming to be your owner.",
+  "vndb_url": "https://vndb.org/c176577"
+}

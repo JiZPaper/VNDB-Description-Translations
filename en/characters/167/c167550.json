@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c167550",
+  "type": "character",
+  "name": "William Hunt",
+  "original_name": "ウィリアム・ハント",
+  "language": "en",
+  "source_language": "en",
+  "source": "A reporter investigating the incidents occurring in Mirage.\nWhile still a novice, he roams the island in search of scoops.\n\nWilliam has a cheerful and friendly demeanor, however they\noccasionally make remarks that stir up anxiety.",
+  "source_sha256": "6c43146e279c283d06310e1df8c1b41bdb07a33330f9626126af41c0e84da8b2",
+  "translation": "A reporter investigating the incidents occurring in Mirage.\nWhile still a novice, he roams the island in search of scoops.\n\nWilliam has a cheerful and friendly demeanor, however they\noccasionally make remarks that stir up anxiety.",
+  "vndb_url": "https://vndb.org/c167550"
+}

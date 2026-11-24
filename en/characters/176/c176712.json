@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176712",
+  "type": "character",
+  "name": "Heather",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Flight attendant\n\nLikes: Well-dressed men, quiet confidence, hotel room privacy, subtle flirting at 30,000 feet\n\nDislikes: Drunk passengers, arrogance without manners, clingy behavior, chaos",
+  "source_sha256": "edcc712390761fc1d3f04b79e329eaf1f20f1da27f88ee0057ca1188ee7112a5",
+  "translation": "Occupation: Flight attendant\n\nLikes: Well-dressed men, quiet confidence, hotel room privacy, subtle flirting at 30,000 feet\n\nDislikes: Drunk passengers, arrogance without manners, clingy behavior, chaos",
+  "vndb_url": "https://vndb.org/c176712"
+}

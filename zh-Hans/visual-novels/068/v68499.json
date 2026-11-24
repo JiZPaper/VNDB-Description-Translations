@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68499",
+  "type": "visual_novel",
+  "name": "Tranniversary Death Drive",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Tranniversary Death Drive is an experimental Visual Novel, themed around the interactions of transgender-identity, insanity, and poverty. It is inspired by surreal and avant-garde poetry.",
+  "source_sha256": "cde7cda4ae7658448c0c5a45dadb1ecae573a528200300cbc443e90e4a547d41",
+  "translation": "《跨性别纪念日死亡冲动》是一部实验性视觉小说，探讨跨性别身份认同、精神错乱与贫困交迫之间的交织碰撞，创作灵感源自超现实主义与先锋派诗歌。",
+  "vndb_url": "https://vndb.org/v68499"
+}

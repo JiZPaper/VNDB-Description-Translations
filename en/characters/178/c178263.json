@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c178263",
+  "type": "character",
+  "name": "Amber",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A long-time close friend from the hero's hometown.",
+  "source_sha256": "a3e22d3c188d4db2132d21acc4cccd1be1fa0b20277b2807965b3d939410b8e0",
+  "translation": "A long-time close friend from the hero's hometown.",
+  "vndb_url": "https://vndb.org/c178263"
+}

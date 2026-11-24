@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c175166",
+  "type": "character",
+  "name": "Horiguchi Yuujirou",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An active wrestler athlete participating the National Sports Tournament.",
+  "source_sha256": "e46848aa355b2b964a0ab27dc2887bcbcc1c298db5e60e9b9fd4233149429ce7",
+  "translation": "An active wrestler athlete participating the National Sports Tournament.",
+  "vndb_url": "https://vndb.org/c175166"
+}

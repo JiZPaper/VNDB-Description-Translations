@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69637",
+  "type": "visual_novel",
+  "name": "Boon",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Boon is a small visual novel project split into 10 episodes. The main plot is structured around the special relationship between a trans woman and a femboy. This is my first project and I want to keep every episode small and straight to the point. I’m still learning how to make visual novels so please bear with me.",
+  "source_sha256": "8eefdd91bb835e74bf40643f0d098bb0160140db2356caa272be5c543b77c38b",
+  "translation": "《恩赐》（Boon）是一个分为10集的小型视觉小说企划，主线剧情围绕一位跨性别女性与一名伪娘之间的特殊感情关系展开。这是我的首部作品，我希望让每一集都保持短小精悍、直奔主题。目前我仍在摸索学习视觉小说的制作方法，还请多多包涵。",
+  "vndb_url": "https://vndb.org/v69637"
+}

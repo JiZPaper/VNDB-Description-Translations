@@ -3,11 +3,11 @@
   "id": "c145863",
   "type": "character",
   "name": "Akagi Marin",
-  "original_name": "赤城まりん",
+  "original_name": "赤城 まりん",
   "language": "en",
   "source_language": "en",
-  "source": "Runa's friend.",
-  "source_sha256": "3ee8ab57cd6ef1d0af696b6802f7a09e7f985fc16fde12a8f8edc5c0373fa939",
-  "translation": "Runa's friend.",
+  "source": "Akagi Marin was once a leader-like figure in her class, but a certain incident has currently left her isolated. It was then that she met transfer student [url=/c145860]Aigami Runa[/url] and became good friends with her.",
+  "source_sha256": "965dbcd9aceea614a4c0e9eda807e3838c77b8b5580eaf0fd734329d3dfa32cc",
+  "translation": "Akagi Marin was once a leader-like figure in her class, but a certain incident has currently left her isolated. It was then that she met transfer student [url=/c145860]Aigami Runa[/url] and became good friends with her.",
   "vndb_url": "https://vndb.org/c145863"
 }

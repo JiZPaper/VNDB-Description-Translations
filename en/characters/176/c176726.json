@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176726",
+  "type": "character",
+  "name": "Kendra",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: FBI Special Agent\n\nLikes: High-risk missions, adrenaline, physical training, partners who keep up\n\nDislikes: Hesitation, overthinking, bureaucratic delays, being sidelined",
+  "source_sha256": "b44f154595a36322418f10bf363102e36c6d09f760548a16dbf3eb7714a787ed",
+  "translation": "Occupation: FBI Special Agent\n\nLikes: High-risk missions, adrenaline, physical training, partners who keep up\n\nDislikes: Hesitation, overthinking, bureaucratic delays, being sidelined",
+  "vndb_url": "https://vndb.org/c176726"
+}

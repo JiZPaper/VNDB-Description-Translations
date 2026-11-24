@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "v64411",
   "type": "visual_novel",
-  "name": "Ten ni Okuru \"Monogatari\"",
+  "name": "Ten ni Okuru「Monogatari」",
   "original_name": "天に送る「物語」",
   "language": "zh-Hans",
   "source_language": "en",
   "source": "Prince Falses, banished by the king, sets out to climb the tower where the evil god is sealed, accompanied by a mercenary guard who rescued him along the way.\nThe mercenary seems to sense a connection to the prince’s destiny, but the prince has no idea what he’s talking about.\n\nSo then, are the two destined to be attacked by monsters,\nor will they safely achieve their goal...?",
   "source_sha256": "db9f389e4738e94261021e1f6261037fa41c349dcf537736f6f73a886c9ed7a9",
-  "translation": "法尔塞斯王子遭国王流放，动身去攀登封印着邪神的高塔，途中救了他一命的佣兵护卫与他同行。\n佣兵似乎感觉到了自己和王子命运间的某种联系，王子却完全听不懂他在说什么。\n\n那么，这两个人是注定要遭遇魔物袭击，\n还是能够平安达成目的呢…？",
+  "translation": "被国王放逐的法尔塞斯王子，与半路上救下自己的佣兵护卫结伴同行，动身攀登封印着邪神的高塔。\n那名佣兵似乎隐隐察觉到了自己与王子命运之间的某种羁绊，可王子本人却完全听不懂他在说些什么。\n\n那么，等待这两人的究竟是惨遭魔物袭击的命运，\n还是平安无事地达成目标呢……？",
   "vndb_url": "https://vndb.org/v64411"
 }

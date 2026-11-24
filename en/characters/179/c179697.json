@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179697",
+  "type": "character",
+  "name": "Zoe",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is Roadhouse Pub owner.",
+  "source_sha256": "c6e1bd294d3c83fbf5ba629ca847fad8ac3fbb91890e8aa886c56880f92a4afd",
+  "translation": "She is Roadhouse Pub owner.",
+  "vndb_url": "https://vndb.org/c179697"
+}

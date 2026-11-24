@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68871",
+  "type": "visual_novel",
+  "name": "Jane Doe's Kill",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Jane Doe's Kill is a visual novel combining investigation, mystery and horror. The player takes on the roles of three protagonists in turn and explores the different facets of the same location through their perspectives. Each protagonist has their own objective, which is revealed as the story unfolds.",
+  "source_sha256": "bd58fe01e29d21fc01191f9367164ef338e8598deaaaef2ca514af6fcb4139bc",
+  "translation": "Jane Doe's Kill is a visual novel combining investigation, mystery and horror. The player takes on the roles of three protagonists in turn and explores the different facets of the same location through their perspectives. Each protagonist has their own objective, which is revealed as the story unfolds.",
+  "vndb_url": "https://vndb.org/v68871"
+}

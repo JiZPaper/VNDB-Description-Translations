@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177325",
+  "type": "character",
+  "name": "Goratsy",
+  "original_name": "Гораций",
+  "language": "en",
+  "source_language": "en",
+  "source": "An older man in the town.",
+  "source_sha256": "3f92f6e1063ac3a88f52ceac425838da3363e00b44799f83977ca116323e2260",
+  "translation": "An older man in the town.",
+  "vndb_url": "https://vndb.org/c177325"
+}

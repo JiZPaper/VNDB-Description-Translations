@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69517",
+  "type": "visual_novel",
+  "name": "Second Class",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The game is set in a matriarchy, where women posses magical powers and rule over men. the game centres around a young man,  the two women he shares his house with, and his journey to accept his place in this world.",
+  "source_sha256": "eb58264f897110c3f4d8e927d5e092e01b11e15fca4add8cc687dad4f32448c8",
+  "translation": "本作背景设定在一个母系社会之中，女性拥有强大的魔力并统治着男性。故事围绕一名年轻男子、与他同住一个屋檐下的两位女性，以及他逐步接受自己在这个世界中自身定位的历程展开。",
+  "vndb_url": "https://vndb.org/v69517"
+}

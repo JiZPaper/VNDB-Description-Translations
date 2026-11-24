@@ -3,11 +3,11 @@
   "id": "c142825",
   "type": "character",
   "name": "Freesia",
-  "original_name": null,
+  "original_name": "フリージア",
   "language": "en",
   "source_language": "en",
-  "source": "Danger Rating: ★★★★★",
-  "source_sha256": "a0bc413d21c59416614c95b41b1078a2402312919a9c50ca445c41d62096bc44",
-  "translation": "Danger Rating: ★★★★★",
+  "source": "A nun working at the Anti-Delete Organization's 36th Branch.\nDanger Rating: ★★★★★",
+  "source_sha256": "e297de057e6192b2bec24d49629305b81ea41b98f7ce98c9ac49f3f5e8ad586a",
+  "translation": "A nun working at the Anti-Delete Organization's 36th Branch.\nDanger Rating: ★★★★★",
   "vndb_url": "https://vndb.org/c142825"
 }

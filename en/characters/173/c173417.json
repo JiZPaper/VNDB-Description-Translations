@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c173417",
+  "type": "character",
+  "name": "MC",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of the game.\nTries to find her missing sister.",
+  "source_sha256": "4472e20c789ccf998c65a9e5f6d097aa7219649bb82f5193f94ed3bd91d1a012",
+  "translation": "The protagonist of the game.\nTries to find her missing sister.",
+  "vndb_url": "https://vndb.org/c173417"
+}

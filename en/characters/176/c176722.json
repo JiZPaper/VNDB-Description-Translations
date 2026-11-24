@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176722",
+  "type": "character",
+  "name": "Katya",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Doctor\n\nLikes: Precision, calm voices, late-night coffee, honesty, competent hands\n\nDislikes: Recklessness, arrogance, patients who lie, unnecessary drama",
+  "source_sha256": "e68f18b8b96d62338e879cedc0cbecd34a8807c80a0337ac481d31df2ac1933c",
+  "translation": "Occupation: Doctor\n\nLikes: Precision, calm voices, late-night coffee, honesty, competent hands\n\nDislikes: Recklessness, arrogance, patients who lie, unnecessary drama",
+  "vndb_url": "https://vndb.org/c176722"
+}

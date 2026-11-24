@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176071",
+  "type": "character",
+  "name": "Amy",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Your English teacher, Miss Amy. She is a very young teacher who is only 5 years older than you. It’s her first time teaching and she is having a really hard time controlling the class.\nHer self esteem is dwindling and she is starting to question her ability to be teacher.\n\n[In game description]",
+  "source_sha256": "acbf855455e5ab83157251f692c807cfba586d707a071f585772de69355428e5",
+  "translation": "Your English teacher, Miss Amy. She is a very young teacher who is only 5 years older than you. It’s her first time teaching and she is having a really hard time controlling the class.\nHer self esteem is dwindling and she is starting to question her ability to be teacher.\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c176071"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70410",
+  "type": "visual_novel",
+  "name": "LunaReverse",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"This is the story of my revenge—and the story of my fall...\nWhat awaits me below? Paradise... or darkness?\"",
+  "source_sha256": "3078cd3c3c61c1775440e41427976208b4e9cd816e246d6a20409aad1a88f94c",
+  "translation": "\"This is the story of my revenge—and the story of my fall...\nWhat awaits me below? Paradise... or darkness?\"",
+  "vndb_url": "https://vndb.org/v70410"
+}

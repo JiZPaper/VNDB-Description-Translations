@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179113",
+  "type": "character",
+  "name": "Rebecca Marsh",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is [url=/c179120]David[/url]'s ex-girlfriend.",
+  "source_sha256": "e399220be7f38c9dd55276a6bd709971c4af9e8acfbac1e7c11c811415da5e3d",
+  "translation": "She is [url=/c179120]David[/url]'s ex-girlfriend.",
+  "vndb_url": "https://vndb.org/c179113"
+}

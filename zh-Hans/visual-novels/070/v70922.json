@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70922",
+  "type": "visual_novel",
+  "name": "Square Rooms",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A quiet town, isolated in the northern U.S. Nothing out of the ordinary, except for small things nobody can explain.\nAnd nobody suspects what causes them.",
+  "source_sha256": "61c3d9060f5dbc7b62805ea25004835756519d637ba87865e4c25f6adaa2484f",
+  "translation": "美国北部一座与世隔绝的宁静小镇。这里的一切看似平平无奇，唯独偶尔会发生些无人能够解释的细微怪事。\n而没有任何人察觉到引发这一切的根源究竟是什么。",
+  "vndb_url": "https://vndb.org/v70922"
+}

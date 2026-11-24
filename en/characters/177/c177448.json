@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177448",
+  "type": "character",
+  "name": "Mary",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The medicine teacher.",
+  "source_sha256": "d9b08ed9c04a7794799dbe209db6cee0363c64e26160c4186b2807908d30ee89",
+  "translation": "The medicine teacher.",
+  "vndb_url": "https://vndb.org/c177448"
+}

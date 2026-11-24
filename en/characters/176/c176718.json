@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176718",
+  "type": "character",
+  "name": "Jill",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Social Media Manager\n\nLikes: Sunbathing on rooftops, bold outfits, poolside cocktails, thriller novels\n\nDislikes: Incompetence, missing events, being overlooked, slow responses",
+  "source_sha256": "12ade4a29cafb8efbe3c7ee67f70abdefec2a2d25807f547cf6056494f73579a",
+  "translation": "Occupation: Social Media Manager\n\nLikes: Sunbathing on rooftops, bold outfits, poolside cocktails, thriller novels\n\nDislikes: Incompetence, missing events, being overlooked, slow responses",
+  "vndb_url": "https://vndb.org/c176718"
+}

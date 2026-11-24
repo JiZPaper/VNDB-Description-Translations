@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c175668",
+  "type": "character",
+  "name": "Bob",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is [url=https://vndb.org/c175667]Mark[/url] and [url=https://vndb.org/c175666]Lily[/url]'s neighbor and friend",
+  "source_sha256": "c41b69b2e1e63b98fffa024434bd9485585d77470d8328f0b5fbf93095ae815d",
+  "translation": "He is [url=https://vndb.org/c175667]Mark[/url] and [url=https://vndb.org/c175666]Lily[/url]'s neighbor and friend",
+  "vndb_url": "https://vndb.org/c175668"
+}

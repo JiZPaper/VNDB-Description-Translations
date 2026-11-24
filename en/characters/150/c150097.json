@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c150097",
+  "type": "character",
+  "name": "The Waitress",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The waitress at the local restaurant.",
+  "source_sha256": "61ec9f5e705cd2d7170ff280b64ba1d62bd9c5814fb7253cb0f0bc130ad9f3d1",
+  "translation": "The waitress at the local restaurant.",
+  "vndb_url": "https://vndb.org/c150097"
+}

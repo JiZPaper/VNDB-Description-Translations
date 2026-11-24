@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69252",
+  "type": "visual_novel",
+  "name": "Angel Offline",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "It is a free, short, cozy story about a conversation with a stranger who got the wrong number.",
+  "source_sha256": "f9ae12ceef095212408a6aeba82df68526d43dee6d791c9f7e9dd178ac78636b",
+  "translation": "这是一部免费、短小而温馨的治愈故事，讲述与一位打错电话的陌生人之间展开的对话。",
+  "vndb_url": "https://vndb.org/v69252"
+}

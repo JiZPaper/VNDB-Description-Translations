@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174623",
+  "type": "character",
+  "name": "Erela",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A bell Toller. She travels the land purifying it.",
+  "source_sha256": "6eebf740ab776f953a3803615ba8d5bb1bf553b1e85e153190fd5895844d801f",
+  "translation": "A bell Toller. She travels the land purifying it.",
+  "vndb_url": "https://vndb.org/c174623"
+}

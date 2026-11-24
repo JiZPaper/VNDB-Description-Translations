@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c178180",
+  "type": "character",
+  "name": "Lem",
+  "original_name": "レム",
+  "language": "en",
+  "source_language": "en",
+  "source": "A golem created to help around the village.",
+  "source_sha256": "b7a4ffb43f4ed69aae157add7db60e718df0a199db1252b062b98b08642004b6",
+  "translation": "A golem created to help around the village.",
+  "vndb_url": "https://vndb.org/c178180"
+}

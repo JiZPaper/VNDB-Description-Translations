@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179121",
+  "type": "character",
+  "name": "Madelyne Turner",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is [url=/c179123]Andrea Turner[/url]'s mother.",
+  "source_sha256": "473cae7936613a0b8a1472cc34ffc4a7ab18c7753dcbe7f05a664e18ea457933",
+  "translation": "She is [url=/c179123]Andrea Turner[/url]'s mother.",
+  "vndb_url": "https://vndb.org/c179121"
+}

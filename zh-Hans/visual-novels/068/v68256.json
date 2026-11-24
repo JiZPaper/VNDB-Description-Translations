@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68256",
+  "type": "visual_novel",
+  "name": "Home",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as Eliot, a normal guy who ends up in a strange town and meet different people as you try to find your way back home.\n\n[From [url=https://seven7kyle.itch.io/home]Itch.io[/url]]",
+  "source_sha256": "cb802cc34d6adf573013038c9c8f999eeb7dcdfe5d62d7aacd9889a1e627aba5",
+  "translation": "你将扮演普通青年艾略特，误入一座陌生的古怪小镇，在努力寻找回家之路的旅途中邂逅形形色色的人物。\n\n[摘自[url=https://seven7kyle.itch.io/home]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v68256"
+}

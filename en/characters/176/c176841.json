@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176841",
+  "type": "character",
+  "name": "Angelo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious man accused of a brutal murder in a dark alley.",
+  "source_sha256": "1eff2b1490d7415b15b653b8c4f902fbdc82e0be153aef6010722a17c3c74fbf",
+  "translation": "A mysterious man accused of a brutal murder in a dark alley.",
+  "vndb_url": "https://vndb.org/c176841"
+}

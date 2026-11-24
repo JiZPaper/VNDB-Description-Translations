@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177338",
+  "type": "character",
+  "name": "Kuznets",
+  "original_name": "Кузнец",
+  "language": "en",
+  "source_language": "en",
+  "source": "A blacksmith in the town.",
+  "source_sha256": "f81dd6fb5fd9e55dfa8cb4eeb0cec94465068e9e30eb240192ef486ab03d789b",
+  "translation": "A blacksmith in the town.",
+  "vndb_url": "https://vndb.org/c177338"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176011",
+  "type": "character",
+  "name": "John",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I have something urgent to ask of you.\"\n\nLikes: Helping someone?..\nDislikes: Not sure.\n\nA priest with a benevolent smile. However...",
+  "source_sha256": "773268c5d408efad3fc56ccdf0efe58f76723a80fccdfcf9dd44f8f2f3513e63",
+  "translation": "\"I have something urgent to ask of you.\"\n\nLikes: Helping someone?..\nDislikes: Not sure.\n\nA priest with a benevolent smile. However...",
+  "vndb_url": "https://vndb.org/c176011"
+}

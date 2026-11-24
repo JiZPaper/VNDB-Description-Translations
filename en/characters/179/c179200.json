@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179200",
+  "type": "character",
+  "name": "Theo",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You play as a mid level administrator in a strange government fascility who find themselves in danger.",
+  "source_sha256": "c5aa37ca15a795fce4561d39831264564ad9c0114af93d5e84a7f770ae077709",
+  "translation": "You play as a mid level administrator in a strange government fascility who find themselves in danger.",
+  "vndb_url": "https://vndb.org/c179200"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67932",
+  "type": "visual_novel",
+  "name": "Mother: Invasion From the Unknown",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "MOTHER: Invasion from the Unknown is a visual novel adaptation of the official choose-your-own-adventure book, based on MOTHER / EarthBound Beginnings.\n\n[From https://x.com/EarthBoundVN/status/2086574169232183565]",
+  "source_sha256": "59793e1b2211c7878024d69691d03a84663c72eab3e1907636d06e58cfd05082",
+  "translation": "《地球冒险：未知的入侵》是一款改编自《地球冒险》（MOTHER）官方同名互动游戏书的视觉小说。\n\n[摘自https://x.com/EarthBoundVN/status/2086574169232183565]",
+  "vndb_url": "https://vndb.org/v67932"
+}

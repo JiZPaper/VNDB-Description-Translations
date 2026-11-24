@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177328",
+  "type": "character",
+  "name": "Natan",
+  "original_name": "Натан",
+  "language": "en",
+  "source_language": "en",
+  "source": "A police officer.",
+  "source_sha256": "015dec54f1a3a54ee8be025c4780d6bca65dbae050a44e903300ad3147758be9",
+  "translation": "A police officer.",
+  "vndb_url": "https://vndb.org/c177328"
+}

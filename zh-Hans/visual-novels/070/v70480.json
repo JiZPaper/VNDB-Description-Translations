@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70480",
+  "type": "visual_novel",
+  "name": "Aflutter",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A story about one person answering another's call to die.\n\n[From [url=https://pengosolvent.itch.io/aflutter]itch.io[/url]]",
+  "source_sha256": "4d8675fc14d9981f6f5b509d23a466ae02a72b8344afd72678b1302fca742a42",
+  "translation": "一个关于某人回应另一人赴死邀约的故事。\n\n[摘自[url=https://pengosolvent.itch.io/aflutter]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v70480"
+}

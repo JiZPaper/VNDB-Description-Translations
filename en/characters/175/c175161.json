@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c175161",
+  "type": "character",
+  "name": "Atsushi Sugimura",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A passionate reporter for the Samurai Sports Japan.\n\nHe receives a magic ring that allows him to control minds, enabling him to obtain juicy informations about the various athletes participating in the National Sports Tournament.",
+  "source_sha256": "8e6955c566e3fd91f23fee3d034654f8889ce1527685b660263dbbebb98a5555",
+  "translation": "A passionate reporter for the Samurai Sports Japan.\n\nHe receives a magic ring that allows him to control minds, enabling him to obtain juicy informations about the various athletes participating in the National Sports Tournament.",
+  "vndb_url": "https://vndb.org/c175161"
+}

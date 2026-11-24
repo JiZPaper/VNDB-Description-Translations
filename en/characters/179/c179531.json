@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179531",
+  "type": "character",
+  "name": "Pavla",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is Igor's roommate.",
+  "source_sha256": "35775106e10501341f1697dcf27c262a760f2efef22577ec6bbe8acc56eec6f8",
+  "translation": "She is Igor's roommate.",
+  "vndb_url": "https://vndb.org/c179531"
+}

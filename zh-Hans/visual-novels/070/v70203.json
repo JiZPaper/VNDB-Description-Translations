@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70203",
+  "type": "visual_novel",
+  "name": "EX-LIBRIS",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Ex libris are a type of stamp used to mark ownership of a book\n\nIt is common for books that passed through multiple owners to bear multiple Ex Libris\n\nSometimes, they cover the old one\n\nSometimes...\n\nThey create something new.\n\n[From [url=https://luckeater.itch.io/ex-libris]itch.io[/url]]",
+  "source_sha256": "8847fa02e663db486de1933ee046ce2c9a91986c25f1ac55d4313a874aa73f77",
+  "translation": "藏书票是一种用于标明书籍归属的印记。\n\n辗转流经多位藏书家之手的书籍，往往会留下多枚藏书票。\n\n有时，新的印记会覆盖旧的痕迹；\n\n而有时……\n\n它们会孕育出全新的事物。\n\n[摘自[url=https://luckeater.itch.io/ex-libris]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v70203"
+}

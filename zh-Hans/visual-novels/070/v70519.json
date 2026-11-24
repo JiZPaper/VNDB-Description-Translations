@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70519",
+  "type": "visual_novel",
+  "name": "Duality",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In Duality, you take the role of a boy freshly expelled from high-school. After moving to another city you’ll get the chance to meet all sorts of girls.\nInteract with them freely throughout the day, and watch your relationship evolve according to your actions.\nWill you be a charming seducer or a ruthless oppressor?",
+  "source_sha256": "4839aa04835be0b70be5a1a67ff8a4cae48bd0fbb2a5b05be688e056c259f856",
+  "translation": "在《双重面相》中，你将扮演一名刚被高中开除的少年。搬往另一座城市后，你将有机会邂逅形形色色的女孩。\n在一天之中自由与她们互动相处，见证你们的关系随你的所作所为不断演变。\n你会成为魅力十足的情场浪子，还是冷酷无情的支配者？",
+  "vndb_url": "https://vndb.org/v70519"
+}

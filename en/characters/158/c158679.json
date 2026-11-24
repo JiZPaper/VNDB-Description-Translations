@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c158679",
+  "type": "character",
+  "name": "Bandit Boss",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A mysterious woman wanders these lands, likely human though her true nature is elusive. She commands every situation, even with it appears otherwise...\n\n[In game description]",
+  "source_sha256": "e4fc28fcd8d708de7baba0bd00026569f5bc7e032620cb14e8ae6ae1e07a176a",
+  "translation": "A mysterious woman wanders these lands, likely human though her true nature is elusive. She commands every situation, even with it appears otherwise...\n\n[In game description]",
+  "vndb_url": "https://vndb.org/c158679"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70364",
+  "type": "visual_novel",
+  "name": "welcometoworld",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You find a digital pet device. What form will the pet grow?\n\n[From [url=https://petday.itch.io/welcometoworld]itch.io[/url]]",
+  "source_sha256": "57e08f0ae1f0f073397a98370428041dc77c415bf79374315cb3aa340c3da05f",
+  "translation": "你捡到了一台电子宠物机。里面的宠物将会成长为怎样的形态呢？\n\n[摘自[url=https://petday.itch.io/welcometoworld]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v70364"
+}

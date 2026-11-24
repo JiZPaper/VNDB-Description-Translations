@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68778",
+  "type": "visual_novel",
+  "name": "Higashikyoto Chris no Jikenbo ~Satori no Sumu Mura Re:make~",
+  "original_name": "東京都繰子の事件簿〜覚の棲む村 Re:make〜",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "An AI-powered remake of [url=/v24524]Higashikyoto Chris no Jikenbo ~File 03: Satori no Sumu Mura~[/url].",
+  "source_sha256": "b7fd1381c2df16027a96992a849ee499883641560117d66a40fc23128e0332d9",
+  "translation": "《[url=/v24524]东京都缲子事件簿～File 03：觉栖之村～[/url]》的AI驱动重制版。",
+  "vndb_url": "https://vndb.org/v68778"
+}

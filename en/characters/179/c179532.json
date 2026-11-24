@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179532",
+  "type": "character",
+  "name": "Igor",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is Pavla's roommate.",
+  "source_sha256": "24d3f768591e4481ee0681e9ac11a0b9dcea5535a36e01071324a231c1f94d37",
+  "translation": "She is Pavla's roommate.",
+  "vndb_url": "https://vndb.org/c179532"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70083",
+  "type": "visual_novel",
+  "name": "Jester Quest",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A simple jester has been waiting dilligently for Bard Quest to update since 2007.\n\n[From [url=https://homestuck.com/archive]homestuck.com[/url]]",
+  "source_sha256": "878baedf9f817ab47f58823ee867fe5e632f30927171006c9e7cdb611baf78bd",
+  "translation": "自2007年起，一个单纯的小丑就一直兢兢业业地苦等着《吟游诗人之旅》（Bard Quest）更新。\n\n[摘自[url=https://homestuck.com/archive]homestuck.com[/url]]",
+  "vndb_url": "https://vndb.org/v70083"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c173220",
+  "type": "character",
+  "name": "Blue",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Blue is a regular customer at LG Bean & Tea.",
+  "source_sha256": "76fa6e1eb443b9f6820a8305396d5e190c3be98e7608dcea46221d3f2dd6b87b",
+  "translation": "Blue is a regular customer at LG Bean & Tea.",
+  "vndb_url": "https://vndb.org/c173220"
+}

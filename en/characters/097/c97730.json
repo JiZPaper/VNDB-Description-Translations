@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c97730",
+  "type": "character",
+  "name": "Unid",
+  "original_name": "ユーニッド",
+  "language": "en",
+  "source_language": "en",
+  "source": "The leader of the street gang Bloody Paella",
+  "source_sha256": "e9545f0a47c4f87844e4ffe9a79bc715a4260be4e91b1452fcd4fff88a406614",
+  "translation": "The leader of the street gang Bloody Paella",
+  "vndb_url": "https://vndb.org/c97730"
+}

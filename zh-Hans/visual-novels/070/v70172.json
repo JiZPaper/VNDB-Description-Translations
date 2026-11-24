@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70172",
+  "type": "visual_novel",
+  "name": "That Which Remains",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short interactive fiction piece created in 03:57:42 for the Le Petit Mort category in [url=https://itch.io/jam/ectocomp-2026]Ectocomp 2026[/url].\n\n[From [url=https://jettbarker.itch.io/that-which-remains]itch.io[/url]]",
+  "source_sha256": "545ce8e7262a398bf65572fbe9073ddffff43b2c7b15f9bed1a21b8b706ef00a",
+  "translation": "一部为[url=https://itch.io/jam/ectocomp-2026]Ectocomp 2026[/url]大赛“小死”（Le Petit Mort）组别创作的短篇互动小说，耗时3小时57分42秒完成。\n\n[摘自[url=https://jettbarker.itch.io/that-which-remains]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v70172"
+}

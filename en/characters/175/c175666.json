@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c175666",
+  "type": "character",
+  "name": "Lily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is [url=https://vndb.org/v68736/chars#chars]Mark[/url]'s wife",
+  "source_sha256": "74241e312b01df505158c39ef9237a35a5c4233ae2f9486c7af907f3251741e3",
+  "translation": "She is [url=https://vndb.org/v68736/chars#chars]Mark[/url]'s wife",
+  "vndb_url": "https://vndb.org/c175666"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70129",
+  "type": "visual_novel",
+  "name": "Bousouzoku Yakai",
+  "original_name": "暴走族夜怪",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A midnight gathering of biker gang members takes an unexpected turn when it becomes a gathering where they take turns telling ghost stories.",
+  "source_sha256": "4d42fff5f68e5cb76030c0f00b8b2f22575668c769957e4108ba6bf2aaa39e99",
+  "translation": "暴走族成员们的午夜集会迎来了意想不到的转折——演变成了一场大家轮流讲鬼故事的怪谈会。",
+  "vndb_url": "https://vndb.org/v70129"
+}

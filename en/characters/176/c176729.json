@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176729",
+  "type": "character",
+  "name": "Lisa Brown",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Student\n\nLikes: spotlights, photoshoots, chocolate, winning attention\n\nDislikes: Being ignored, losing attention, strict rules",
+  "source_sha256": "277184dd577d013f39fd2a52daf31460617dfe3e8d07012ae321aa96fbb2d4c3",
+  "translation": "Occupation: Student\n\nLikes: spotlights, photoshoots, chocolate, winning attention\n\nDislikes: Being ignored, losing attention, strict rules",
+  "vndb_url": "https://vndb.org/c176729"
+}

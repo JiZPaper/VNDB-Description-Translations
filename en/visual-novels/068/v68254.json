@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68254",
+  "type": "visual_novel",
+  "name": "Chicken and Rice",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A very short kinetic visual novel about two girls and a chicken-and-rice recipe.\n\n[From [url=https://taveshi.itch.io/chicken-and-rice]itch.io[/url]]",
+  "source_sha256": "8b5ce86aa315bf026ce75489d0978ca1f32e4524e08534607fbb9864d7b20190",
+  "translation": "A very short kinetic visual novel about two girls and a chicken-and-rice recipe.\n\n[From [url=https://taveshi.itch.io/chicken-and-rice]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v68254"
+}

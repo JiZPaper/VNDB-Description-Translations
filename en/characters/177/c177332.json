@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177332",
+  "type": "character",
+  "name": "Nedovol'naja",
+  "original_name": "Недовольная",
+  "language": "en",
+  "source_language": "en",
+  "source": "A woman in the town.",
+  "source_sha256": "f87b7fd5bd41034447640659e4b3622b1efb06336c9de62b70d0d1854649bd54",
+  "translation": "A woman in the town.",
+  "vndb_url": "https://vndb.org/c177332"
+}

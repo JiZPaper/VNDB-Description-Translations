@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70982",
+  "type": "visual_novel",
+  "name": "Slavnaya Noch s Pionerkoy Slavey",
+  "original_name": "Славная Ночь с Пионеркой Славей",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A simple, romantic, and very short story about Slavya's everyday life.\n\n[Translated from [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3840128747]Steam[/url]]",
+  "source_sha256": "bd031d2c0fd157c9e0e62679a4dcf64731428315c1d3e0f5a0cf561014866e09",
+  "translation": "一个围绕少先队员斯拉维娅日常生活展开的简单、浪漫的超短篇故事。\n\n[译自[url=https://steamcommunity.com/sharedfiles/filedetails/?id=3840128747]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v70982"
+}

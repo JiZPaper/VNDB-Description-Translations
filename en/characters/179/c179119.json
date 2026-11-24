@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179119",
+  "type": "character",
+  "name": "Maud",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is [url=/c179118]Kirsten[/url]'s girlfriend.",
+  "source_sha256": "fb76d574e870d9ccf7e0fb38526c5e94b235622fc44189e4d34957ea845e4c65",
+  "translation": "She is [url=/c179118]Kirsten[/url]'s girlfriend.",
+  "vndb_url": "https://vndb.org/c179119"
+}

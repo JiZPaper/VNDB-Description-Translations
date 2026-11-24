@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c175627",
+  "type": "character",
+  "name": "Mogura",
+  "original_name": "土竜",
+  "language": "en",
+  "source_language": "en",
+  "source": "The Mole. The merchant of the Mogura Trading.",
+  "source_sha256": "a2b95e295e7e51f46efe0563d0a3d857d9bd995132ff8d1cf9e8fc17a12b9e58",
+  "translation": "The Mole. The merchant of the Mogura Trading.",
+  "vndb_url": "https://vndb.org/c175627"
+}

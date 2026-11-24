@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179545",
+  "type": "character",
+  "name": "Captain Harris",
+  "original_name": "กัปตันแฮร์ริส",
+  "language": "en",
+  "source_language": "en",
+  "source": "A dedicated police captain who has long been tracking 'The Syndicate'. Currently working covertly with Lydia's team to gather evidence against the powerful cabal.",
+  "source_sha256": "d762b11827451dafa1205f7d1880b129058dea001feafb08cfcbd80a49a07b12",
+  "translation": "A dedicated police captain who has long been tracking 'The Syndicate'. Currently working covertly with Lydia's team to gather evidence against the powerful cabal.",
+  "vndb_url": "https://vndb.org/c179545"
+}

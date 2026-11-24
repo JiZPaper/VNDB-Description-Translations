@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174625",
+  "type": "character",
+  "name": "Aerlith",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A caravan driver. Highly competent at her job.",
+  "source_sha256": "9bf8322a9c21d199b6c6b2f8aa4885d7f5a0ead1fe73d5b1e17d10f99f23789a",
+  "translation": "A caravan driver. Highly competent at her job.",
+  "vndb_url": "https://vndb.org/c174625"
+}

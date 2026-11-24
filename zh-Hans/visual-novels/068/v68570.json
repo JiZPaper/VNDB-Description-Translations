@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68570",
+  "type": "visual_novel",
+  "name": "Hatsune Miku no Yuuutsu",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Hatsune Miku no Yuuutsu (The Melancholy of Hatsune Miku) is an adventure visual novel based on Nagaru Tanigawa’s light novel series about a girl with supernatural powers – Suzumiya Haruhi and her extraordinary friends.",
+  "source_sha256": "da638bf22d4fdf8b2b862d4ebf886c90ad236f76e829fbb2b880854fd081b5ea",
+  "translation": "《初音未来的忧郁》是一部冒险视觉小说，改编自谷川流笔下讲述拥有超自然力量的少女凉宫春日及其非凡伙伴们的同名轻小说系列。",
+  "vndb_url": "https://vndb.org/v68570"
+}

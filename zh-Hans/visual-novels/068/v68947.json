@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68947",
+  "type": "visual_novel",
+  "name": "Aetherium",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Chapter 1 of Aetherium is an indie narrative-driven visual novel featuring a time-loop mystery, interactive mini-games, and choices that shape the journey. Developed solo for Android using Jetpack Compose.",
+  "source_sha256": "fd72708c405b063226b38a32a591bf5154996fe59ff87a1cc7d6f131039d8983",
+  "translation": "《以太之境》（Aetherium）第一章是一部独立叙事驱动型视觉小说，融合了时间循环悬疑解谜、互动小游戏，以及左右旅途走向的分支抉择。本作由独立开发者基于Jetpack Compose为Android平台单人开发。",
+  "vndb_url": "https://vndb.org/v68947"
+}

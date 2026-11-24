@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c178776",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "You’re a woman working the night shift at Mad Dog Convenience, a run-down 24-hour store somewhere in the United States.",
+  "source_sha256": "c424eeaf43a5462824a97a2f6626129699f64ddd8ab834c2deaac964385963d2",
+  "translation": "You’re a woman working the night shift at Mad Dog Convenience, a run-down 24-hour store somewhere in the United States.",
+  "vndb_url": "https://vndb.org/c178776"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68376",
+  "type": "visual_novel",
+  "name": "Fairy Bread",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A pair of siblings get into a tiny bit of trouble when they eat some strange bread.\n\n[From [url=https://saryahm.itch.io/fairybread]Itch.io[/url]]",
+  "source_sha256": "293135721d58b8cabf35e1bc10d7785f4a0ec5055eb8df3284bbfd180236d960",
+  "translation": "一对姐弟（兄妹）吃下了某种来历不明的古怪面包，结果惹上了一点小麻烦。\n\n[摘自[url=https://saryahm.itch.io/fairybread]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v68376"
+}

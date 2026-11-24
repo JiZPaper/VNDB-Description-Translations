@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70327",
+  "type": "visual_novel",
+  "name": "Fate/Grand Order: Unofficial Story Port",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "F/GO is an online RPG for the iOS and Android told in a Visual Novel Style. Referred to as the \"Fate Online Project Reboot\", it is a reboot of the original Fate/Apocrypha project that eventually became a novel series.\n\nThis is the unofficial fan-made PC port of the original game's story.",
+  "source_sha256": "5097997c7a2b80e241488869d31f98d8b232209156db201dfba9c187ea50add2",
+  "translation": "F/GO is an online RPG for the iOS and Android told in a Visual Novel Style. Referred to as the \"Fate Online Project Reboot\", it is a reboot of the original Fate/Apocrypha project that eventually became a novel series.\n\nThis is the unofficial fan-made PC port of the original game's story.",
+  "vndb_url": "https://vndb.org/v70327"
+}

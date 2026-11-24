@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "c65872",
   "type": "character",
-  "name": "Chouchuu",
-  "original_name": "趙忠",
+  "name": "Chou Chuu",
+  "original_name": "趙 忠",
   "language": "en",
   "source_language": "en",
-  "source": "One of the Ten Attendants who likes spoiling her boss, [url=/c61861]Reitei[/url], because she often feels sorry for her.",
-  "source_sha256": "ed951dc911903dd8a29920d400a704c8da5ee30b1f210a59e5f3b10d460f9c87",
-  "translation": "One of the Ten Attendants who likes spoiling her boss, [url=/c61861]Reitei[/url], because she often feels sorry for her.",
+  "source": "One of the Ten Attendants who likes spoiling her boss, [url=/c61861]Kuutan[/url], because she often feels sorry for her.",
+  "source_sha256": "91013de2f2394229b18776e88855da2757b96f8b863fa4c00a3deb224563aa16",
+  "translation": "One of the Ten Attendants who likes spoiling her boss, [url=/c61861]Kuutan[/url], because she often feels sorry for her.",
   "vndb_url": "https://vndb.org/c65872"
 }

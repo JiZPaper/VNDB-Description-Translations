@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69494",
+  "type": "visual_novel",
+  "name": "The Seamstress",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "In, The Seamstress, you play Nicko (default name) who leads a double life as a young undercover Red Sun agent on Ivory Island.",
+  "source_sha256": "f21c05cf10c7a3064a4967e10eeb2f8c634cebfb7065c900aeb1eeef156acd6f",
+  "translation": "在《女裁缝》（The Seamstress）中，你将扮演尼科（默认姓名）——一名在象牙岛过着双重生活的年轻“红日”卧底特工。",
+  "vndb_url": "https://vndb.org/v69494"
+}

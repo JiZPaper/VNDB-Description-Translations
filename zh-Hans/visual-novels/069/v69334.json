@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69334",
+  "type": "visual_novel",
+  "name": "The Great I Am",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Play out the life of I Am, a girl with a very strange speech impediment.",
+  "source_sha256": "355ae20afb2c58d301cfb9ad9ce5d76effd644fe082c212f8996b0e2a7498028",
+  "translation": "代入患有极为奇特的言语障碍的少女“我是”，体验她的人生轨迹。",
+  "vndb_url": "https://vndb.org/v69334"
+}

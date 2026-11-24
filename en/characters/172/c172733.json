@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172733",
+  "type": "character",
+  "name": "Carrie",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Shop's clerk.",
+  "source_sha256": "052162ae890c372a3f54cfd4889ddf35dc6f05e83c3428aaf265d8010b558e74",
+  "translation": "Shop's clerk.",
+  "vndb_url": "https://vndb.org/c172733"
+}

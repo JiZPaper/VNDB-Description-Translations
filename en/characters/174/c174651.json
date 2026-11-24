@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174651",
+  "type": "character",
+  "name": "Dectective Morgan",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Arson investigation unit detective assigned to the Ellenwood housefire case. \n\nHe briefly talks to Emily about the housefire and what she saw as she escaped from the fire in her home.",
+  "source_sha256": "3c29e756d317bf2c538dff4324dc1cd42b910a6352869b980648d47b2ef9372a",
+  "translation": "The Arson investigation unit detective assigned to the Ellenwood housefire case. \n\nHe briefly talks to Emily about the housefire and what she saw as she escaped from the fire in her home.",
+  "vndb_url": "https://vndb.org/c174651"
+}

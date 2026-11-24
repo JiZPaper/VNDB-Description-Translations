@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69431",
+  "type": "visual_novel",
+  "name": "Office Perks",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You arrive in Westview Heights having just landed your first real job as a video game developer. Sure, you've made some awesome prototypes in your own time, but this is a chance to work with an established game studio and put your mark on it as the lead developer.\n\nHowever, things take a quick turn not too long after starting and all of a sudden you have some serious decisions to make about your future, and maybe even the future of the friends you've made.",
+  "source_sha256": "7b47b3e90c83150c48acb1f7ccbf6119de3354612b8f6bdf89cacdc29b1530b6",
+  "translation": "刚刚拿下人生第一份正式电子游戏开发工作的你，满怀憧憬地来到了西景高地。诚然，你此前在业余时间里独立做出过不少出色的游戏原型，但这一次，你将有机会加入一家成熟的游戏工作室，以主程序员的身份大展拳脚。\n\n然而入职没过多久，事态便急转直下——转眼之间，你不得不为自己的未来，甚至是你新结识的朋友们的未来作出重大抉择。",
+  "vndb_url": "https://vndb.org/v69431"
+}

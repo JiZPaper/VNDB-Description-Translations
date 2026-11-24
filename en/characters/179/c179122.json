@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179122",
+  "type": "character",
+  "name": "Irene Fuentes",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She is [url=/c179463]Julian[/url]'s wife.",
+  "source_sha256": "fdd4d8782134491842379f0f3413768c2df17e31e768b6e58de97263e1c87448",
+  "translation": "She is [url=/c179463]Julian[/url]'s wife.",
+  "vndb_url": "https://vndb.org/c179122"
+}

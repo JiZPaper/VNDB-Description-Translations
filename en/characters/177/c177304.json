@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177304",
+  "type": "character",
+  "name": "Dave",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Dave is Aurora's coworker.",
+  "source_sha256": "d37488a49a605a70b2a9fcecad57ea06020c6517b91b429639117b04ce9d539d",
+  "translation": "Dave is Aurora's coworker.",
+  "vndb_url": "https://vndb.org/c177304"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177335",
+  "type": "character",
+  "name": "Ohrannik",
+  "original_name": "Охранник",
+  "language": "en",
+  "source_language": "en",
+  "source": "A guard in the town.",
+  "source_sha256": "52f6a928ab007e537c3491e1d3b22f14f98ad05738d332d9432304dc9c0b622c",
+  "translation": "A guard in the town.",
+  "vndb_url": "https://vndb.org/c177335"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177289",
+  "type": "character",
+  "name": "Ava Maywell",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Cargo Loader Boss at Despina.",
+  "source_sha256": "3899a0a6d53264cd7a4d23651ad670ade91e302aac9f2c9f831da095f1de1c75",
+  "translation": "Cargo Loader Boss at Despina.",
+  "vndb_url": "https://vndb.org/c177289"
+}

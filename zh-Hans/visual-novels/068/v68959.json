@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68959",
+  "type": "visual_novel",
+  "name": "Hollow",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "You play as a girl named Annie who wakes up in a hospital with no memories. In five days, depending on your choice, it may lead her to why she's here. \n\n[From [url=https://a02nina.itch.io/hollow]itch.io[/url]]",
+  "source_sha256": "4a7cea09ae5514e43e8030deb417721f61fce0fb8a07b095497e7c9495de73fa",
+  "translation": "你将扮演在医院病床上醒来、失去了全部记忆的少女安妮。在接下来的五天时间里，你的不同选择或将指引她查明自己为何会身处此地。\n\n[摘自[url=https://a02nina.itch.io/hollow]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v68959"
+}

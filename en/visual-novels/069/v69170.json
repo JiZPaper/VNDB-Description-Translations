@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69170",
+  "type": "visual_novel",
+  "name": "Tomorrow, you turn 20.",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"5 Minutes, 6 Endings, Your personality determines your path.\"\n\n\"That means: Responsibilities.\nAccept or Reject them. And bear the consequences.\" - Itch.io page",
+  "source_sha256": "56fafeea17e37d410a6fde5af7120f0bdcdbbe0c37fa25168561d8679c646a57",
+  "translation": "\"5 Minutes, 6 Endings, Your personality determines your path.\"\n\n\"That means: Responsibilities.\nAccept or Reject them. And bear the consequences.\" - Itch.io page",
+  "vndb_url": "https://vndb.org/v69170"
+}

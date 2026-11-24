@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172647",
+  "type": "character",
+  "name": "Kumamoto",
+  "original_name": "隈本",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist, the owner of the Kumamoto teahouse, an incredibly handsome young man who composes haiku, which he recites to the accompaniment of a flute.",
+  "source_sha256": "54658f1734ff3ff38409abed1a66afb05f7d73f3cbfad965e81cefb993574dc7",
+  "translation": "The protagonist, the owner of the Kumamoto teahouse, an incredibly handsome young man who composes haiku, which he recites to the accompaniment of a flute.",
+  "vndb_url": "https://vndb.org/c172647"
+}

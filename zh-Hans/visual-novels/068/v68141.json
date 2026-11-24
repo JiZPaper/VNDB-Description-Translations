@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68141",
+  "type": "visual_novel",
+  "name": "Dve istorii",
+  "original_name": "Две истории",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "The first is a teacher at elite academies. The second is an ordinary student. Each of them has its own secrets. Find out all that is hidden!​",
+  "source_sha256": "43fd0f327dfacf8b0de129fe07e770a270c2026d159299888a3d7c023ce11fc4",
+  "translation": "第一位是精英学园的教师，第二位是平平无奇的学生。他们各自都怀揣着不可告人的秘密——去揭开所有隐藏在暗处的真相吧！",
+  "vndb_url": "https://vndb.org/v68141"
+}

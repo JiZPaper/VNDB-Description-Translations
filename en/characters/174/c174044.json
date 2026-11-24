@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174044",
+  "type": "character",
+  "name": "Serena",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "She runs the stables at Irda for her master.",
+  "source_sha256": "6ca08a5bf30bdbbaa0c02d04411082ac443c19f3c6e94f4a8b4770556c25e95b",
+  "translation": "She runs the stables at Irda for her master.",
+  "vndb_url": "https://vndb.org/c174044"
+}

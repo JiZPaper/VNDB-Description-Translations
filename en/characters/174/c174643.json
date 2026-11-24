@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174643",
+  "type": "character",
+  "name": "Aermhar",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "An elven philosopher.",
+  "source_sha256": "74faf8c93c9b1eaf34f9948afa3d29bf743179cd6758e3950e68899a4243bfc1",
+  "translation": "An elven philosopher.",
+  "vndb_url": "https://vndb.org/c174643"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172695",
+  "type": "character",
+  "name": "OTTO",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The 5th-gen guide robot developed by Ever Group has a cute, spherical appearance. This adorable machine is available in various forms and designed for different scenarios. In addition to basic systems like navigation, sightseeing commentary, and a lost item tracker, these robots have new features such as weather alerts and a metaflux monitor.",
+  "source_sha256": "b6de0e0c913a0975118a37b29ae0928793ad1d79a95efef5b949d3469793a61b",
+  "translation": "The 5th-gen guide robot developed by Ever Group has a cute, spherical appearance. This adorable machine is available in various forms and designed for different scenarios. In addition to basic systems like navigation, sightseeing commentary, and a lost item tracker, these robots have new features such as weather alerts and a metaflux monitor.",
+  "vndb_url": "https://vndb.org/c172695"
+}

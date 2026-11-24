@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174053",
+  "type": "character",
+  "name": "Neko Maid",
+  "original_name": "ねこメイド",
+  "language": "en",
+  "source_language": "en",
+  "source": "The cat maid you picked up. She was starving and homeless when you met her.",
+  "source_sha256": "91cbda6f6ee4cc555bcf4791521c8ef5cec5a029018c3d76cc4116a653131484",
+  "translation": "The cat maid you picked up. She was starving and homeless when you met her.",
+  "vndb_url": "https://vndb.org/c174053"
+}

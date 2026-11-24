@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "v57663",
   "type": "visual_novel",
-  "name": "Tử Đằng Không Lá",
+  "name": "Leafless Wisteria",
   "original_name": null,
   "language": "zh-Hans",
   "source_language": "en",
-  "source": "You play as a painter whose dearest friend betrayed her, stealing the masterpiece she poured her soul into. Refusing to give up, she begins again—this time creating a new series inspired by her strange, recurring dreams. The heroine of her story bears a name she often heard in those dreams: Tử Diệp.\nBut the moment she writes that name on paper, she is pulled into an unfamiliar world known as Tứ Hải (The Sea / The 四).\nIn this dangerous realm, she must follow fragmented clues from her dreams to uncover the truth about her past and identity. Along the way, she faces those who seek to manipulate her, those desperate to hide secrets, and shadowy figures that haunt her every night.\nIs she simply a wanderer lost in dreams… or the very source of an endless nightmare?",
-  "source_sha256": "1bf74e4231ce8e0c5ad5cae00e037b9a8da5dc0ba78f5f191f1c3bf04b104729",
-  "translation": "你将扮演一名女画家。她最珍惜的朋友背叛了她，偷走了她倾注整个灵魂画就的杰作。她不肯放弃，重头再来，这次要以自己反复做的怪梦为灵感，创作一组新画。她为故事中的女主人公取了一个自己在梦里常常听见的名字：紫叶（Tử Diệp）。\n可当她把这个名字写到纸上，她便被拉入了一个陌生的世界，人们称这里为四海（Tứ Hải，亦称“The Sea”或“The四”）。\n在这片危险的天地里，她必须循着从梦境中拾取的零碎线索，揭开有关自己身世和身份的真相。一路上，有人想要操纵她，有人不惜一切地隐瞒秘密，还有一些暗影夜夜纠缠着她。\n她只是迷失于梦境的旅人…还是一场无尽噩梦的源头？",
+  "source": "The player takes on the role of an artist betrayed by her best friend and robbed of her passion project.\nDetermined to start anew, she draws a new comic inspired by her strange dreams, naming the protagonist \"Murasaki You\" - a name that constantly echoes in her sleep. However, the moment she writes that name down, she is suddenly pulled into a mysterious world called \"The Sea\".\nAmidst a world fraught with danger, she must trace fragmented clues from her dreams to reveal her true identity and past, facing manipulators, secret-keepers, and the silhouettes that appear every night.\nIn the end, is she just a wanderer lost in dreams... or the very reason behind this never-ending nightmare?",
+  "source_sha256": "03f8969dcf7be8cb59668519ac91f1f995592d9d7a8a609487b148b2309e2b36",
+  "translation": "玩家将扮演一位遭到挚友背叛、心血之作被夺走的画师。\n立志重新开始的她，以自己离奇的梦境为灵感绘制了一部新漫画，并将主角命名为“紫叶”——一个在她睡梦中不断回响的名字。然而，就在她写下这个名字的瞬间，她骤然被拽入了一个名为“海”的神秘世界。\n身处危机四伏的异界，她必须循着梦境中支离破碎的线索，揭开自己真实的身份与过往，直面幕后操纵者、守密人，以及每晚浮现的黑影。\n到最后，她究竟只是一名迷失于梦境的彷徨旅人……还是这场无尽梦魇背后的真正根源？",
   "vndb_url": "https://vndb.org/v57663"
 }

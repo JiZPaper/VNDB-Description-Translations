@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68460",
+  "type": "visual_novel",
+  "name": "The Black Battery",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The Black Battery is a WW1 narrative-driven horror visual novel about six men, a sector that's gone wrong in ways nobody wants to write down, and the difference between what you're ordered to report and what you actually saw.",
+  "source_sha256": "f0f2b19c5f09ed064f56d2b3bc882a9ae5ec853a7d5e1401e28947ee9095a02c",
+  "translation": "The Black Battery is a WW1 narrative-driven horror visual novel about six men, a sector that's gone wrong in ways nobody wants to write down, and the difference between what you're ordered to report and what you actually saw.",
+  "vndb_url": "https://vndb.org/v68460"
+}

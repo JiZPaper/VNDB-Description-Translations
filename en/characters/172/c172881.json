@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172881",
+  "type": "character",
+  "name": "Peter",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Emma's husband.",
+  "source_sha256": "498cf0af0e58afe944cc1861c049fe9b5fa40f5636a1a3bb1b1d995d73ae628f",
+  "translation": "Emma's husband.",
+  "vndb_url": "https://vndb.org/c172881"
+}

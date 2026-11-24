@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "v51167",
   "type": "visual_novel",
-  "name": "Sora no Onanii",
+  "name": "Sora no Onanie",
   "original_name": "穹のオナニー",
   "language": "zh-Hans",
   "source_language": "en",
   "source": "A short omake visual novel bundled with the digital edition of the doujinshi Sora×Haru 3 from the circle After Moon.",
   "source_sha256": "858e6c03f66a96b5cc333537a17749121171f23f17a66abf70ba76e761ed6276",
-  "translation": "同人社团After Moon随同人志《穹×悠3》数字版附赠的短篇视觉小说。",
+  "translation": "随社团After Moon出品的同人志《穹×悠3》电子版附赠的特典短篇视觉小说。",
   "vndb_url": "https://vndb.org/v51167"
 }

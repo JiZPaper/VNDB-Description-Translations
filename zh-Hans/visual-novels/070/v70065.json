@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70065",
+  "type": "visual_novel",
+  "name": "Femboy Simulator",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Atmospheric visual novel set around a mysterious coffee shop. Observe, interact, and uncover subtle changes as you piece together a quiet, unsettling story through environment, dialogue, and mood-driven moments",
+  "source_sha256": "f1549f5136b6513114fd60cc2a32863dbb204cad1ebf239915a12997f9e43d77",
+  "translation": "一部围绕一家神秘咖啡馆展开的氛围系视觉小说。仔细观察、与之互动并发掘细微的异变，在环境细节、人物对话与情绪渲染的片段中，一步步拼凑出一段静谧而又令人不安的故事。",
+  "vndb_url": "https://vndb.org/v70065"
+}

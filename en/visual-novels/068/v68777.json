@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68777",
+  "type": "visual_novel",
+  "name": "Ne sprashivaj",
+  "original_name": "Не спрашивай",
+  "language": "en",
+  "source_language": "en",
+  "source": "You are a courier with a sealed case and one night to spend in a small-town hotel. The landlady is polite, the guests are quiet, and the last courier on this route never came back. What you notice during the evening decides how the night ends and how they speak to you in the morning.",
+  "source_sha256": "7f784839883b8b9258257e63d641586853a99355ed97c5611fe75455ddbb575d",
+  "translation": "You are a courier with a sealed case and one night to spend in a small-town hotel. The landlady is polite, the guests are quiet, and the last courier on this route never came back. What you notice during the evening decides how the night ends and how they speak to you in the morning.",
+  "vndb_url": "https://vndb.org/v68777"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69387",
+  "type": "visual_novel",
+  "name": "Land der begrenzten Möglichkeiten",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Romance in an age of antarctic colonization.",
+  "source_sha256": "f732e834e3ee76197395d67e7d6dbea50de12ad50c1d2db29cc5fc6fd84cdc7e",
+  "translation": "南极殖民时代的浪漫恋曲。",
+  "vndb_url": "https://vndb.org/v69387"
+}

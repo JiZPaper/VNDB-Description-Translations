@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c178777",
+  "type": "character",
+  "name": "RJ",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The manager of the store. You mostly know him through post-it note because he never actually shows up at the store.",
+  "source_sha256": "8a6065b7473c48d999009da5114269fc541e3b19648a8175142a2cf147c1df25",
+  "translation": "The manager of the store. You mostly know him through post-it note because he never actually shows up at the store.",
+  "vndb_url": "https://vndb.org/c178777"
+}

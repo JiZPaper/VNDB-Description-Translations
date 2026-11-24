@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174630",
+  "type": "character",
+  "name": "Yiniir",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A fisherwoman and a loyal friend to Yidril.",
+  "source_sha256": "58cf342b822b04871a530312fad555bb4235b9cfcd78504d48835a1d15952c3e",
+  "translation": "A fisherwoman and a loyal friend to Yidril.",
+  "vndb_url": "https://vndb.org/c174630"
+}

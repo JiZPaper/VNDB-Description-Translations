@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177234",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "主人公",
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist of the game. She entered the elegant imperial court of ancient Kyoto as a lady attendant. As someone born in the countryside, life at the imperial court is new and perplexing to her.",
+  "source_sha256": "5f699d77b47cbb8016cd14e3d6f311dab31fd244639468cce568c045b0576287",
+  "translation": "The protagonist of the game. She entered the elegant imperial court of ancient Kyoto as a lady attendant. As someone born in the countryside, life at the imperial court is new and perplexing to her.",
+  "vndb_url": "https://vndb.org/c177234"
+}

@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "c147646",
   "type": "character",
-  "name": "Aleksandra O’Nil",
+  "name": "Alexandra O'Neil",
   "original_name": "Александра О’Нил",
   "language": "en",
   "source_language": "en",
-  "source": "[url=https://vndb.org/c147636]Sam[/url]'s girlfriend and childhood friend.\n\nShe's a bit dominant and has leadership skills.\n\nShe hates bullies.\n\n[In game description]",
-  "source_sha256": "54a55c305f461248e96f601a21ea8c48d669031d3f5d335bf4af39cdf39e9790",
-  "translation": "[url=https://vndb.org/c147636]Sam[/url]'s girlfriend and childhood friend.\n\nShe's a bit dominant and has leadership skills.\n\nShe hates bullies.\n\n[In game description]",
+  "source": "[url=/c147636]Sam[/url]'s girlfriend and childhood friend.\n\nShe's a bit dominant and has leadership skills.\n\nShe hates bullies.\n\n[In game description]",
+  "source_sha256": "c9bb018132822601762f7e22b0bcbe5e7631f4d467650ac8c005b335279d5524",
+  "translation": "[url=/c147636]Sam[/url]'s girlfriend and childhood friend.\n\nShe's a bit dominant and has leadership skills.\n\nShe hates bullies.\n\n[In game description]",
   "vndb_url": "https://vndb.org/c147646"
 }

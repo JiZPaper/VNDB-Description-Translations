@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69640",
+  "type": "visual_novel",
+  "name": "DEADLINE FOR SUBMISSION.",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel where YOU make a visual novel game on a tight deadline.\nExistential horror ensues.",
+  "source_sha256": "39f64d820412090812202d921201a369a93441a61216b18c5dd5e9bace4fdf85",
+  "translation": "一款让你在紧迫的截稿期限前亲手赶制一款视觉小说的视觉小说。\n存在主义式的恐惧随之接踵而至。",
+  "vndb_url": "https://vndb.org/v69640"
+}

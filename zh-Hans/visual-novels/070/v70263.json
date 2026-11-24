@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70263",
+  "type": "visual_novel",
+  "name": "The Gooner",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "After years away you are back in Goonerfell, You’re a student who wasn’t able to make it abroad. You return to your old home, having to start over.",
+  "source_sha256": "08381af4d5d7f09e9e32e00c6c727bad2d99b355dbb62bfdf84ad8bf5ed4603e",
+  "translation": "离乡多年后，你回到了古纳菲尔。作为一名没能在海外混出名堂的留学生，你重返旧日故居，不得不一切从头开始。",
+  "vndb_url": "https://vndb.org/v70263"
+}

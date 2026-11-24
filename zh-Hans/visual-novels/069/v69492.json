@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69492",
+  "type": "visual_novel",
+  "name": "TESS – The Eternal Sunset Society",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Your story begins when you move to La Cúpula to study a career with your childhood friend, Alan, with whom you’ve only had text messages for years. La Cúpula is one of the three districts that divide Ivory Island, a place, full of mysticism, stories and pagan legends.",
+  "source_sha256": "507832bbe051663b5429620a100dd150182e55aed4509c67b55dca296560bd7b",
+  "translation": "你的故事始于你搬往穹顶区（La Cúpula），准备与多年来仅靠短信联系的青梅竹马艾伦一同求学深造。穹顶区是划分象牙岛的三大城区之一，这片土地充满了神秘主义色彩、奇闻轶事与异教传说。",
+  "vndb_url": "https://vndb.org/v69492"
+}

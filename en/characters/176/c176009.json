@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176009",
+  "type": "character",
+  "name": "Lily",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "\"I want to stay together with you!\"\n\nLikes: Chocolate\nDislikes: Scary things?\n\nProtagonist saved her.",
+  "source_sha256": "1647ea09a8cab736ac9727ceedfb9c32c7d4a8ba7bbb21190c41e8b4af6a5b7c",
+  "translation": "\"I want to stay together with you!\"\n\nLikes: Chocolate\nDislikes: Scary things?\n\nProtagonist saved her.",
+  "vndb_url": "https://vndb.org/c176009"
+}

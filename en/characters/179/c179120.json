@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179120",
+  "type": "character",
+  "name": "David",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is [url=/c179111]Anthony[/url]'s best friend.\nHe is [url=/c179123]Andrea Turner[/url]'s ex-boyfriend.",
+  "source_sha256": "80a49bf7a784205fdb5c779cb0b9ea1cbd32146dfb011b6870acd2ddd3cef1ff",
+  "translation": "He is [url=/c179111]Anthony[/url]'s best friend.\nHe is [url=/c179123]Andrea Turner[/url]'s ex-boyfriend.",
+  "vndb_url": "https://vndb.org/c179120"
+}

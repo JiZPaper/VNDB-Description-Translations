@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c172755",
+  "type": "character",
+  "name": "Dealer",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Weed's dealer",
+  "source_sha256": "cafc33025ae73a86e0b5104ab46a1afe13b631595b9330accc3a7d820565e026",
+  "translation": "Weed's dealer",
+  "vndb_url": "https://vndb.org/c172755"
+}

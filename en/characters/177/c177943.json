@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177943",
+  "type": "character",
+  "name": "Sir Knight",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The inhabitant of Purple Room 004",
+  "source_sha256": "2f8bc082f16efa27ac082690ae7fb7eb9eff044466305706b97f32ce373036b5",
+  "translation": "The inhabitant of Purple Room 004",
+  "vndb_url": "https://vndb.org/c177943"
+}

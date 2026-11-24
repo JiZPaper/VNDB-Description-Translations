@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70922",
+  "type": "visual_novel",
+  "name": "Square Rooms",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A quiet town, isolated in the northern U.S. Nothing out of the ordinary, except for small things nobody can explain.\nAnd nobody suspects what causes them.",
+  "source_sha256": "61c3d9060f5dbc7b62805ea25004835756519d637ba87865e4c25f6adaa2484f",
+  "translation": "A quiet town, isolated in the northern U.S. Nothing out of the ordinary, except for small things nobody can explain.\nAnd nobody suspects what causes them.",
+  "vndb_url": "https://vndb.org/v70922"
+}

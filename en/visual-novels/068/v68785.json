@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68785",
+  "type": "visual_novel",
+  "name": "Rock Paper Scissors",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist plays strip rock paper scissors against either Deku or Uraraka, depending on the version of the game, and then takes it even further.",
+  "source_sha256": "49aef02737d535becc13da80a1d9e4eafc5f2b572116ba16b17d6931af71de5c",
+  "translation": "The protagonist plays strip rock paper scissors against either Deku or Uraraka, depending on the version of the game, and then takes it even further.",
+  "vndb_url": "https://vndb.org/v68785"
+}

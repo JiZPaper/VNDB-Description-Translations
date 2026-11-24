@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176159",
+  "type": "character",
+  "name": "Protagonist",
+  "original_name": "주인공",
+  "language": "en",
+  "source_language": "en",
+  "source": "A third-year transfer student. He reads people quickly and talks back instead of freezing up. His name can be chosen by the player.\n\n[spoiler]He left his previous school after failing to confess to someone who already had a boyfriend. That unfinished sentence is why he does not want to stay quiet this time.[/spoiler]",
+  "source_sha256": "b992092c7cc4495803fbad02ed2d3b405e51dc822aaf45efc0580c3ad2e2f07c",
+  "translation": "A third-year transfer student. He reads people quickly and talks back instead of freezing up. His name can be chosen by the player.\n\n[spoiler]He left his previous school after failing to confess to someone who already had a boyfriend. That unfinished sentence is why he does not want to stay quiet this time.[/spoiler]",
+  "vndb_url": "https://vndb.org/c176159"
+}

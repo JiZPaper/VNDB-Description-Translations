@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c174585",
+  "type": "character",
+  "name": "Uhild",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "A lonely winemaker.",
+  "source_sha256": "d977c27cf86136f0008fbb86d3c30f8a70a615517cc2eb697f08b6167fe06d15",
+  "translation": "A lonely winemaker.",
+  "vndb_url": "https://vndb.org/c174585"
+}

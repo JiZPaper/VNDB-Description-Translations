@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v68733",
+  "type": "visual_novel",
+  "name": "My Demonic Jungle Quest",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Yesterday, you were just another warrior in your tribe. Today, you are on the run with the unlikeliest of allies as you race to defeat a great and terrible evil.\n\n[From [url=https://store.steampowered.com/app/3990370/]Steam[/url]]",
+  "source_sha256": "5766954150d8251db16a0b3ed931abbbc694bceeb8b5df1a96cca0a865b5f858",
+  "translation": "昨天，你还只是部落里一名平平无奇的战士；今天，你却与最意想不到的盟友并肩亡命奔逃，争分夺秒去击败一股可怕的滔天邪恶。\n\n[摘自[url=https://store.steampowered.com/app/3990370/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v68733"
+}

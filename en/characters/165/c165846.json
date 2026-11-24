@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c165846",
+  "type": "character",
+  "name": "Finn Flores",
+  "original_name": "フィン・フローレス",
+  "language": "en",
+  "source_language": "en",
+  "source": "A young businessman with a shady reputation.\nAppears to be friendly with Leon.\n\nThere are rumors he has connections to the criminal underworld.",
+  "source_sha256": "b9160c819ead5c408eec55d61bbf7d93d09c7fbe4cc3271572c200165acba64a",
+  "translation": "A young businessman with a shady reputation.\nAppears to be friendly with Leon.\n\nThere are rumors he has connections to the criminal underworld.",
+  "vndb_url": "https://vndb.org/c165846"
+}

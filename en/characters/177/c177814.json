@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c177814",
+  "type": "character",
+  "name": "Miltaur",
+  "original_name": "繆塔爾",
+  "language": "en",
+  "source_language": "en",
+  "source": "Owner of a seaside restaurant on Jusei. His role is something like the market's chief coordinator: he has no formal authority, but he has connections everywhere, and nearby merchants all have to stay on his good side.\n\n[From [url=https://pirahus.com/en/]official website[/url]]",
+  "source_sha256": "0bbc7e4620b7562742ce5fdd13f9b369b73bfe4afd47d141279ca2a9ab986957",
+  "translation": "Owner of a seaside restaurant on Jusei. His role is something like the market's chief coordinator: he has no formal authority, but he has connections everywhere, and nearby merchants all have to stay on his good side.\n\n[From [url=https://pirahus.com/en/]official website[/url]]",
+  "vndb_url": "https://vndb.org/c177814"
+}

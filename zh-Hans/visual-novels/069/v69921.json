@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69921",
+  "type": "visual_novel",
+  "name": "Jin's Test Visual Novel",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is a test build of a visual novel made by me, Jin.\nPlay this game to get to know me and perhaps have a laugh or two!\n\n[From [url=https://jinzhi.itch.io/jins-test-visual-novel]Itch.io[/url]]",
+  "source_sha256": "7954f51f034513837cebb641a954e2d449a21aca0433aa7bb9331bf4a6bae276",
+  "translation": "这是由我（Jin）亲手制作的一款视觉小说测试版。\n欢迎游玩本作来认识一下我，顺便博君一笑！\n\n[摘自[url=https://jinzhi.itch.io/jins-test-visual-novel]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v69921"
+}

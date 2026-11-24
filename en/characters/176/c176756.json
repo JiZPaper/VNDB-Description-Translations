@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176756",
+  "type": "character",
+  "name": "Valen",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "The protagonist and one of the female contestants trapped in the dating show. A programmer working at SIG Corporation. Her name can be customized by the player, with Valen as the default.",
+  "source_sha256": "74e9bf58e5c5ba15423146d14212425ce1e0bcb8befa8ff5fa7e84e8a29088d1",
+  "translation": "The protagonist and one of the female contestants trapped in the dating show. A programmer working at SIG Corporation. Her name can be customized by the player, with Valen as the default.",
+  "vndb_url": "https://vndb.org/c176756"
+}

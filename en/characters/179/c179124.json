@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c179124",
+  "type": "character",
+  "name": "Yoshi",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "He is [url=/c179123]Andrea[/url]'s boyfriend.",
+  "source_sha256": "21b7901ed815c908fc08cab934fa921f6d55387fc0e607d4fcfa8639262042d8",
+  "translation": "He is [url=/c179123]Andrea[/url]'s boyfriend.",
+  "vndb_url": "https://vndb.org/c179124"
+}

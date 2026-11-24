@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70077",
+  "type": "visual_novel",
+  "name": "White Valentine",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Galgame of White Day for GGZ",
+  "source_sha256": "3f0505129953d799bdf3bd370a49990fab18cbff43c95c24b6a5c93f4ac26403",
+  "translation": "《崩坏学园2》白色情人节特别Galgame。",
+  "vndb_url": "https://vndb.org/v70077"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70224",
+  "type": "visual_novel",
+  "name": "drinkcity",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "this is a game about  a wolf who drinks too much\n\n[From [url=https://petday.itch.io/drinkcity]itch.io[/url]]",
+  "source_sha256": "a2d57d46f92349e85d0f52af28a098db6d57466eaa46ad68ffde7586dda5d7fd",
+  "translation": "这是一个关于一只贪杯喝太多的狼的游戏。\n\n[摘自[url=https://petday.itch.io/drinkcity]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v70224"
+}

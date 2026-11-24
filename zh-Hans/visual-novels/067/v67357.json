@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v67357",
+  "type": "visual_novel",
+  "name": "Penguin Wars",
+  "original_name": "ペンギンウォーズ",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "This is an adventure novel game. Movement and object selection are possible using only keyboard input and mouse clicks on a PC. Experience the story of a girl strolling through the night town, enhanced by captivating movies and music.\n\n[From [url=https://store.steampowered.com/app/4286410/_/]steam[/url]]",
+  "source_sha256": "7b933aa2117c645368e70fdb61fc4277ecae9eb7954bdd65fe085dca0bad7b0e",
+  "translation": "这是一款冒险小说游戏。在PC端只需使用键盘输入与鼠标点击即可完成移动与物品交互选择。伴随迷人的动态影像与动人配乐，体验少女漫步于夜晚小镇的静谧物语。\n\n[摘自[url=https://store.steampowered.com/app/4286410/_/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v67357"
+}

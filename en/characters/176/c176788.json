@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "c176788",
+  "type": "character",
+  "name": "Vivian",
+  "original_name": null,
+  "language": "en",
+  "source_language": "en",
+  "source": "Occupation: Prosecutor\n\nLikes: Justice, control, sharp minds, expensive wine, quiet confidence\n\nDislikes: Corruption, weakness, being challenged in public, wasted potential",
+  "source_sha256": "10e36f70edb0ce43de701f80750f06bd0f2b3ac8407dfc425fc4acae7079b816",
+  "translation": "Occupation: Prosecutor\n\nLikes: Justice, control, sharp minds, expensive wine, quiet confidence\n\nDislikes: Corruption, weakness, being challenged in public, wasted potential",
+  "vndb_url": "https://vndb.org/c176788"
+}

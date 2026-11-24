@@ -3,11 +3,11 @@
   "id": "c142829",
   "type": "character",
   "name": "Okamoto Manami",
-  "original_name": null,
+  "original_name": "岡本 まなみ",
   "language": "en",
   "source_language": "en",
-  "source": "Danger Rating: ★☆☆☆☆\nThe member of anti-delete organization 42nd branch.",
-  "source_sha256": "20a87cda344287210de738f8c8293096e03df0990ada489dba7410f05a99ebc8",
-  "translation": "Danger Rating: ★☆☆☆☆\nThe member of anti-delete organization 42nd branch.",
+  "source": "Danger Rating: ★☆☆☆☆\nA member of the Anti-Delete Organization's 42nd Branch.",
+  "source_sha256": "629db1fbdc5eb2e98341102ae0d89925a675356b54d7a0345951a9724a3c512d",
+  "translation": "Danger Rating: ★☆☆☆☆\nA member of the Anti-Delete Organization's 42nd Branch.",
   "vndb_url": "https://vndb.org/c142829"
 }

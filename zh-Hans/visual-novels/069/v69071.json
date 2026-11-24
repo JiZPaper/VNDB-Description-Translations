@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v69071",
+  "type": "visual_novel",
+  "name": "TransexEducation",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Jack is a teacher at a trans boarding school.",
+  "source_sha256": "5ceda5cd16ec65231930e110b7b1bf077e510b49b878d540024b55c36a3ffaf6",
+  "translation": "杰克是一所跨性别寄宿学校的教师。",
+  "vndb_url": "https://vndb.org/v69071"
+}

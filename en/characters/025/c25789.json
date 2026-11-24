@@ -2,12 +2,12 @@
   "schema_version": 1,
   "id": "c25789",
   "type": "character",
-  "name": "Gien Bunchou",
-  "original_name": "魏延 文長",
+  "name": "Gi En",
+  "original_name": "魏 延",
   "language": "en",
   "source_language": "en",
-  "source": "A hotblooded warrior who serves under [url=/c25791]Ryuubi[/url].",
-  "source_sha256": "1c8745157c68707de727f3281a6d49cd4854c0e440511224bea5947e8f87c769",
-  "translation": "A hotblooded warrior who serves under [url=/c25791]Ryuubi[/url].",
+  "source": "A hotblooded warrior who serves under [url=/c25791]Ryuu Bi[/url].",
+  "source_sha256": "ba59c7c563b4f1bbfc7933bfd3688046757e0053bf079f5eda2920992e74de08",
+  "translation": "A hotblooded warrior who serves under [url=/c25791]Ryuu Bi[/url].",
   "vndb_url": "https://vndb.org/c25789"
 }

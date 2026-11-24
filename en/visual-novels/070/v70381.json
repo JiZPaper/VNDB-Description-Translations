@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v70381",
+  "type": "visual_novel",
+  "name": "Xiaoshi",
+  "original_name": "小事",
+  "language": "en",
+  "source_language": "en",
+  "source": "Xiaoshi (小事, literally \"small things\") is a short Chinese-language visual novel about five evenings in a row when someone you like is standing in front of you and you have to say something.\n\nThere are no choice menus. You type a line of your own and the game decides what she actually heard — usually not what you meant. Each night lasts about four minutes; she remembers the lines she misheard and brings them up again later, and how the next night begins depends on whether she felt heard the night before.",
+  "source_sha256": "507818a434f156200a0295e46af2efdef45529db452301d4c15c98f932eb6b46",
+  "translation": "Xiaoshi (小事, literally \"small things\") is a short Chinese-language visual novel about five evenings in a row when someone you like is standing in front of you and you have to say something.\n\nThere are no choice menus. You type a line of your own and the game decides what she actually heard — usually not what you meant. Each night lasts about four minutes; she remembers the lines she misheard and brings them up again later, and how the next night begins depends on whether she felt heard the night before.",
+  "vndb_url": "https://vndb.org/v70381"
+}
