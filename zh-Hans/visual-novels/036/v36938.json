@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36938",
+  "type": "visual_novel",
+  "name": "Hansel & Gretel: Food Fantasy",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Welcome to Sweets Atelier! A place where delicious miracles begin. I am both the chef and owner. What delightful journey awaits me?",
+  "source_sha256": "1b6c9e3eb114459e9312b98dcdfe0770c7c8886052b3c9655b9d3a46eac3a6fe",
+  "translation": "欢迎光临甜点工坊！这里是美味奇迹启程的地方。我既是这里的主厨，也是店长。前方会有一段怎样美妙的旅程在等待着我呢？",
+  "vndb_url": "https://vndb.org/v36938"
+}

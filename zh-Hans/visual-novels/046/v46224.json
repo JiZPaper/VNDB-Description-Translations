@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46224",
+  "type": "visual_novel",
+  "name": "Let Them Eat Cake",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A short horror story starring a stripper hiding inside a cake.\n\n[from [url=https://mako.itch.io/cake]itch.io[/url]]",
+  "source_sha256": "47a2e1cfab592139ba1df7360aac366343a777e1fa84ce17b5a621c646e9d9bb",
+  "translation": "一部以藏身在巨大蛋糕里的脱衣舞娘为主角的短篇恐怖故事。\n\n[摘自[url=https://mako.itch.io/cake]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v46224"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46848",
+  "type": "visual_novel",
+  "name": "Answer Campus",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A visual novel that takes you on a journey through a college campus to explore challenging scenarios around identity markers such as race, gender, sexuality, ableism, and more.\n\n[From [url=https://store.steampowered.com/app/1165790/]Steam[/url]]",
+  "source_sha256": "1d24c41d6767991136366622e0eba8e14298f394e7ce2f8ed5331df21ddc8e44",
+  "translation": "这部视觉小说将带你穿行大学校园，通过一系列引人深思的现实情境，深入探讨种族、性别、性取向、残障歧视等身份认同议题。\n\n[摘自[url=https://store.steampowered.com/app/1165790/]Steam[/url]]",
+  "vndb_url": "https://vndb.org/v46848"
+}

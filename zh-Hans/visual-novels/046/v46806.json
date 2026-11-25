@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46806",
+  "type": "visual_novel",
+  "name": "Dear Nont",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "All of a sudden, you received a letter from a long-lost ex-boyfriend asking you to pick up some stuff from his apartment. How hard could it be? You can just go there, grab your things, and leave.\n\n[from [url=https://pyabmxk.itch.io/dear-nont]itch.io[/url]]",
+  "source_sha256": "6bccf69fc80b2604e68eece365d1aa49612a4600615dbbbc9e614a922a5580dc",
+  "translation": "毫无征兆地，你收到了失联已久的前男友寄来的一封信，请你去他的公寓取回一些旧物。这又能有多难呢？你大可以过去一趟，拿上自己的东西就走人。\n\n[摘自[url=https://pyabmxk.itch.io/dear-nont]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v46806"
+}

@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46814",
+  "type": "visual_novel",
+  "name": "A Strange Story",
+  "original_name": null,
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "It`s an unusual story with a misticelement, about . One day he finds promising announcement on the internet and it brings him to event strange series… Which exactly? My game will tell you this story.",
+  "source_sha256": "93224f8a134c891b8aafaf7611c294b37e6000db00392f03cd0de552ca2bd9e6",
+  "translation": "这是一段带有神秘学色彩的非同寻常的故事。某一天，他在网上看到了一则颇具吸引力的公告，并由此卷入了一连串离奇事件……究竟发生了什么？就由我的这部游戏为你娓娓道来。",
+  "vndb_url": "https://vndb.org/v46814"
+}

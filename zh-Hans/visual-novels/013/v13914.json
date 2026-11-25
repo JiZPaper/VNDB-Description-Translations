@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v13914",
+  "type": "visual_novel",
+  "name": "Imouto Piano ~Onii-chan no Ooki na Takt de Rhythm o Kizande!~",
+  "original_name": "いもうと・ぴあの ～お兄ちゃんの大きなタクトでリズムを刻んで！～",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "My sister Ayaka got scared of her piano contest and ran out of the house. She always gets nervous before she plays. To remedy that our protagonist begins to giving her some special training.",
+  "source_sha256": "30acd96669b7bb2c3ba0138080de75613baa2a6ca7805de4014f93bda47120f8",
+  "translation": "妹妹彩夏因为害怕即将到来的钢琴比赛，一时紧张得跑出了家门。每次登台演奏前，她都会怯场得厉害。为了帮妹妹克服这个毛病，我们的主人公决定对她展开一场“特别训练”。",
+  "vndb_url": "https://vndb.org/v13914"
+}

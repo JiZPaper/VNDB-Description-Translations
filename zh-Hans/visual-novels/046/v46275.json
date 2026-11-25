@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v46275",
+  "type": "visual_novel",
+  "name": "Polityka Bezpeky",
+  "original_name": "Політика Безпеки",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "Attention! Warning.\n\nUnauthorized download of the main code. Pre-shutdown information corruption: 17%.\n\nCode: red. Notification protocols are activated. \n\nPlease stay in place until security arrives. \n\n***\n\nIn a world without a definite future, attackers have attempted to compromise the Virtuality's code. You are an agent of the Corporation tasked with investigating the incident. The perpetrators are radicals trying to avoid being caught and complete their mission on time. Will you be able to find the guilty party in time? And what are the real reasons for this outrageous hacking attempt? Remember, a good White Suit trusts no one.\n\n[translated from [url=https://neo-vulgate-cycle.itch.io/protectionpolicy]itch.io[/url]]",
+  "source_sha256": "be8ef372e5453badd1849ab74c2c61ec09602fb38941b0f219153fb86e3f4f94",
+  "translation": "注意！警告。\n\n检测到未授权下载核心代码行为。停机前信息损毁率：17%。\n\n警戒级别：红色。通报协议已启动。\n\n请留在原地等待安保人员抵达。\n\n***\n\n在一个未来渺茫难测的世界里，袭击者企图篡改“虚拟界”的核心代码。身为公司特派探员的你，奉命调查这起恶性事件。肇事者是一群激进分子，正竭力逃避追捕并赶在时限内完成任务。你能否及时揪出幕后真凶？这起骇人听闻的黑客袭击背后又隐藏着怎样的真实动机？切记，一名合格的“白衣探员”从不轻信任何人。\n\n[译自[url=https://neo-vulgate-cycle.itch.io/protectionpolicy]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v46275"
+}

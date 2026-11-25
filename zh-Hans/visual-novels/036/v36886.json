@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "id": "v36886",
+  "type": "visual_novel",
+  "name": "5Nights no Obieru Koro ni TSUNAGI",
+  "original_name": "伍之宵の怯る頃に繫",
+  "language": "zh-Hans",
+  "source_language": "en",
+  "source": "A horror kinetic visual novel based on Five Nights at Freddy's.\n\n[From [url=https://pre-studiovm-game-gallery.itch.io/5n-t-taiken]Itch.io[/url]]",
+  "source_sha256": "8e3b89592bc0e619172680a581560538316c07b395552b45046e92be9e39d02b",
+  "translation": "一部改编自《玩具熊的五夜后宫》的恐怖题材单线视觉小说。\n\n[摘自[url=https://pre-studiovm-game-gallery.itch.io/5n-t-taiken]itch.io[/url]]",
+  "vndb_url": "https://vndb.org/v36886"
+}
